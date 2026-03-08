@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photovoltaic System Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate a photovoltaic system's site-specific characteristics. It will guide you through a series of questions to assess the site's suitability for a photovoltaic system installation. This form is not intended to be a comprehensive assessment tool, but rather a quick and easy way to gather basic information about a site.

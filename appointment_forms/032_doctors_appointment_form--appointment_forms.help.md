@@ -1,5 +1,3 @@
-<thinking>Form is used to schedule appointments and gather information about the doctor and patient. This form should only be used for scheduling appointments between a doctor and a patient, and should not be used for other purposes. Please ensure that you are only entering the required fields and that the information is accurate.</thinking>
-
 # Doctors Appointment Form - Help Guide
 ## Purpose
 This form is designed to schedule appointments and collect information about the doctor and patient. It is meant to be used for scheduling appointments between a doctor and a patient.

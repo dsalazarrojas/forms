@@ -1,33 +1,3 @@
-<thinking>
-To avoid duplication, this form is used for patients to declare their access needs, insurance information, and payment terms. It's essential to complete this form accurately to ensure that healthcare providers and coordinators have the necessary information to manage the patient's care effectively.
-The form is divided into several sections, each with a specific purpose:
-- **Patient Info**: This section collects basic information about the patient, such as their name, contact details, and medical history.
-- **Medical History**: This section is optional and allows patients to provide more detailed information about their medical history, which can be useful for healthcare providers.
-- **Access Needs**: This section is mandatory and allows patients to specify their access needs, which can be one or more of the following: Allergy, Medication, or Condition.
-- **Insurance Info**: This section allows patients to select their insurance provider and coverage plan.
-- **Contact Info**: This section is optional and asks for additional contact information.
-- **Healthcare Provider**: This section is optional and asks for information about the patient's assigned healthcare provider.
-- **Medical Facility**: This section is optional and allows patients to select their medical facility.
-- **Emergency Contact**: This section is optional and asks for emergency contact information.
-- **Next of Contact**: This section is optional and asks for next of contact information.
-- **Healthcare Coordinator**: This section is optional and asks for the patient's healthcare coordinator information.
-- **Medical Record**: This section is optional and asks for the patient's medical record details.
-- **Medical Record Number**: This section is optional and asks for the patient's medical record number.
-- **Insurance Plan**: This section is optional and allows patients to select their insurance plan.
-- **Insurance Group**: This section is optional and allows patients to select their insurance group.
-- **Coverage Start**: This section is optional and asks for the start date of the patient's coverage.
-- **Coverage End**: This section is optional and asks for the end date of the patient's coverage.
-- **Payment Terms**: This section is mandatory and allows patients to select their payment terms.
-- **Payment Status**: This section is optional and asks for the patient's payment status.
-- **Payment Amount**: This section is optional and asks for the payment amount.
-- **Payment Frequency**: This section is optional and asks for the payment frequency.
-- **Payment Date**: This section is mandatory and asks for the payment date.
-- **Payment Method**: This section is optional and allows patients to select their payment method.
-- **Note**: This section is optional and allows patients to provide any additional notes.
-- **Email**: This section is optional and asks for the patient's email address.
-- **Phone**: This section is optional and asks for the patient's phone number.
-</thinking>
-
 # healthcare_access_declaration_form - Help Guide
 
 ## Purpose

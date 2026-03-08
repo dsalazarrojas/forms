@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from alumni who want to order merchandise items such as T-shirts, hoodies, and caps. It is intended for those who want to purchase these items for personal use or as gifts. The purpose of this form is to gather details about the order, including the buyer's name and contact information, the item selection, shipping details, and payment method. To prevent errors, this form should only be filled out by the intended buyer or gift recipient, and not by someone else on their behalf.
-</thinking>
-
 # Alumni Merchandise Pre Order Form - Help Guide
 ## Purpose
 This form is for alumni to order merchandise items such as T-shirts, hoodies, and caps. It is intended for personal use or as gifts.

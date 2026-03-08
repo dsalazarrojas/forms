@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sidewalk Condition Inspection Form - Help Guide
 
 ## Purpose

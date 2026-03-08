@@ -1,11 +1,3 @@
-<thinking>
-A form is used to collect data and information from users. In this case, the form is used to collect data related to counseling completion certifications. The form is likely used in a professional or academic setting, such as a school or a counseling program, where certifications are needed to verify the completion of certain programs or courses. This form may be used by administrators, educators, or other staff members to track and verify the completion of certifications.
-
-Before filling out the form, ensure that you are using the correct format and providing accurate information. This form is not intended for personal use, so please do not attempt to use it for personal purposes.
-
-If you have any questions or need clarification on any field, please refer to this guide.
-</thinking>
-
 # Counseling Completion Certification - Help Guide
 ## Purpose
 The Counseling Completion Certification form is used to document the completion of counseling programs or certifications. This form is used to verify the completion of these certifications and to track the progress of students or clients in a program.

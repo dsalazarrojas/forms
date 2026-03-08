@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the mortality themes relevant to a specific context or industry. The form aims to collect participant perspectives, collecting participant perspectives, and other relevant information such as mortality topics, data collection, and form submission tracking. This form is designed to be used as a template for collecting data from participants, likely in a research or academic setting. The form is not affiliated with or endorsed by any form platform and is an original adaptation created using AI. The form was created based on public survey topic metadata and is released under CC BY 4.0.
-</thinking>
-
 # Mortality Themes Assessment - Help Guide
 ## Purpose
 The Mortality Themes Assessment Form is designed to collect participant perspectives on mortality topics. It is used to gather information about the most relevant mortality themes in a specific context or industry. The form helps to identify the key themes related to mortality and provides a structured way to collect and analyze participant responses.

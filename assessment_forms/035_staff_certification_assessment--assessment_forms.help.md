@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Staff Certification Assessment is used to record and track staff certification, training and performance. This form is used to ensure that staff members' certifications are up-to-date and relevant to their job responsibilities. It is a critical component of staff development and performance evaluation.
 
 Please note that this form should only be completed for staff members who are directly responsible for certification, training, or performance evaluation. If you are not sure if the form is relevant to your role, please check with your supervisor or HR representative.

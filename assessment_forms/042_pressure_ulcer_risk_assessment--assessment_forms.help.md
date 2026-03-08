@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pressure Ulcer Risk Assessment - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Existence Evidence Assessment - Help Guide
 ## Purpose
 The Existence Evidence Assessment form is used to gather information about the existence of entities. This form helps users to document and verify the presence of entities in a specific location or context. It is essential for assessing the accuracy and completeness of the information provided. The form serves as a tool to collect and review data, which can be used for various purposes such as research, analysis, or decision-making.

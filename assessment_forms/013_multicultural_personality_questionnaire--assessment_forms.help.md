@@ -1,8 +1,3 @@
-<thinking>**
-The Multicultural Personality Questionnaire is a tool used to assess an individual's cultural background, experience, and personality characteristics in a multicultural context. This form is designed to gather information on a respondent's cultural identity, social norms, and personality traits, providing insights into their cultural background and behavior. To avoid duplication, please do not complete this form if you have already done so.
-
-</thinking>
-
 # Multicultural Personality Questionnaire - Help Guide
 ## Purpose
 The Multicultural Personality Questionnaire is a tool designed to assess an individual's cultural background, experience, and personality characteristics in a multicultural context. The form aims to gather information on a respondent's cultural identity, social norms, and personality traits to provide insights into their cultural background and behavior.

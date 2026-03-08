@@ -1,8 +1,3 @@
-<thinking>
-This form is used for assessing the risk level of COVID-19 patients. It is designed to be filled out by patients or clinicians to determine the severity of their symptoms and provide necessary information for follow-up care. Please ensure you have reviewed the following pages carefully to complete the form accurately. 
-If this form has already been filled out for you, please skip to the "How To Complete This Form" section.
-</thinking>
-
 # COVID 19 Assessment Form - Help Guide
 ## Purpose
 The COVID-19 Assessment Form is used to evaluate the risk level of patients presenting with COVID-19 symptoms. It helps clinicians to quickly determine the severity of the symptoms and guide further care.

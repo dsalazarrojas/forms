@@ -1,6 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the input schema: "Data Entry Skills Assessment". This form is likely used to evaluate the data entry skills of an individual, probably for quality control or testing purposes. This form could be used in various contexts, such as in a data entry company, a quality control process, or during the onboarding process for new employees. It seems that the form assesses the time and accuracy of data entry tasks. The form likely aims to evaluate the individual's speed and accuracy in data entry tasks, providing feedback on their performance.</thinking>
-
 # Data Entry Skills Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate your data entry skills. It consists of several questions and fields that assess your ability to accurately and quickly complete data entry tasks.

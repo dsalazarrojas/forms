@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed for patients, medical staff, or healthcare providers to register an ultrasound examination in a medical setting. It may be used by medical professionals or institutions to document and track patient information, medical history, contact details, examination details, and other relevant data. 
 
 This form can be filled out by anyone, but its primary purpose is to serve as a template for medical professionals. However, it might also be used by patients or individuals as a reference guide or a starting point for gathering personal data for medical appointments. It's not intended to be a comprehensive medical questionnaire but rather a structured format for collecting and organizing specific information.

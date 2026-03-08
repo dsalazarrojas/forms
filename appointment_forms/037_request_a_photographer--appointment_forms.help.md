@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm curious about the purpose of this form. Is it for clients or staff to request a photographer? Is it for scheduling a photo shoot or something else entirely? I'm assuming it's for clients to request a photo shoot, but I need to double-check to ensure I'm on the right track.
-</thinking>
-
 # Request A Photographer - Help Guide
 ## Purpose
 This form is for clients to request a photo shoot with one of our photographers. Please fill out the form to provide necessary details about your session, and we'll get back to you with availability and pricing information.

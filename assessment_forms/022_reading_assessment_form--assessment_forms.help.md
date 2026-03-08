@@ -1,5 +1,3 @@
-<thinking>... This form is for reading assessments, which aim to gauge an individual's reading habits and preferences. The form should only be filled out by those who have been asked to do so, as it's not meant for general public access. This form is not a duplicate of the general user form, which serves a different purpose. Please review each field carefully and fill it out as accurately as possible. ...</thinking>
-
 # reading_assessment_form - Help Guide
 ## Purpose
 The "Reading Assessment Form" is used to gather information about your reading habits and preferences. Please fill out this form to help us better understand your reading experiences.

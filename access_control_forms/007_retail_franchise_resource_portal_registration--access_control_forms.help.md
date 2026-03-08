@@ -1,13 +1,3 @@
-<thinking>
-To create a help guide for the Retail Franchise Resource Portal Registration form, we first need to understand its purpose. 
-The form is designed to register a retail franchise to access certain resources on the portal. The purpose is to provide a straightforward way to register and get access to exclusive resources for retail franchises. 
-
-Checking for relevance and non-duplication:
-- The form is intended for retail franchises and not for other types of businesses.
-- The portal provides exclusive resources for retail franchises, so it is expected that only retail franchises will be registered.
-- Non-duplication: The form is designed to register a single retail franchise, so multiple registrations for the same retail franchise will be considered duplicates.
-</thinking>
-
 # Retail Franchise Resource Portal Registration - Help Guide
 ## Purpose
 This form is designed for retail franchises to register and get access to exclusive resources on the portal. 

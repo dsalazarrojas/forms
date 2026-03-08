@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the approval process for logos used by the company. The form gathers information from design approvers and approvers to make an informed decision on whether a logo is approved or not. This form is not intended for other purposes such as logo creation or logo modification. Please do not fill out this form if you are not involved in the approval process.
-</thinking>
-
 # Logo Approval Form - Help Guide
 ## Purpose
 The "Logo Approval Form" is used to gather input from design approvers and approvers to determine whether a logo is approved or not. The form consists of several fields that guide the approver through the decision-making process.

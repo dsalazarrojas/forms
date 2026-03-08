@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a rehoming form for animals, likely used by animal shelters to gather information about the animal being surrendered and the process of rehoming it. The form seems to be designed to collect detailed information about the animal, its owner, and the surrender process, including the reasons for rehoming, the animal's age and description, and the owner's contact information. The form also includes fields for photos and signatures, suggesting that it may be used for both online and offline applications.
-
-To ensure that this form is completed correctly and without duplication, it's essential to carefully review and follow the instructions provided below.
-
-</thinking>
-
 # Rehoming Form - Help Guide
 ## Purpose
 This form is used to gather information about an animal being surrendered to an animal shelter. It helps the shelter understand the reasons for surrendering the animal and ensures a smooth rehoming process.

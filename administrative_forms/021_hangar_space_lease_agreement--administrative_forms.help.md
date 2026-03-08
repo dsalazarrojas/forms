@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for administrators to create or update hangar space lease agreements, which are contracts between the airport and a lessee (user or company) for the use of hangar space. The form is used to record the lessee's information, space details, rental terms, rental fees, and signatures from both the lessee and landlord. This form is typically used for administrative purposes, such as managing leases and tracking usage.
-</thinking>
-
 # hangar_space_lease_agreement - Help Guide
 ## Purpose
 The hangar space lease agreement form is used to document the terms and conditions of hangar space usage by a lessee.

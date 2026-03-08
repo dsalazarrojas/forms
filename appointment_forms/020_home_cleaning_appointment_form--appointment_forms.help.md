@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help customers schedule a home cleaning service. It is likely to be used by a cleaning services company, and the form will help them gather necessary information for providing the service. To prevent duplication of efforts, this form should not be used if the customer has already submitted a cleaning request or if a similar form is already being processed.
-</thinking>
-
 # Home Cleaning Appointment Form - Help Guide
 ## Purpose
 The Home Cleaning Appointment Form is designed to allow customers to schedule a home cleaning service with a cleaning services company. This form collects necessary information to provide an effective and efficient service.

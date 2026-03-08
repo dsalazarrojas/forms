@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Alumni Information Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is a "vectors_knowledge_quiz" designed to collect user information about a specific assessment. The form has several fields, each with a label, type, and optionality. The purpose of this form is likely to collect user knowledge or opinions on a particular category or topic, and the form's design suggests that it may be used in an educational or testing setting. I will assume that the form is meant to be filled out by users who have some level of knowledge or familiarity with the topic being assessed. To avoid duplication, I will focus on explaining each field's purpose and how to complete it, rather than repeating similar explanations for similar fields.
-</thinking>
-
 # vectors_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to collect user information and knowledge on a specific topic or category. It is likely to be used in an educational or testing setting to gauge user understanding or opinions.

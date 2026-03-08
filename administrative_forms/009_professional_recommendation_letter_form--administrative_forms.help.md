@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from a recommender about a professional application or service. This form is likely used for internal personnel administration or for external professional networking purposes. The form may be used by HR departments, career services, or other organizations that need to gather data about employee or candidate applications, skills, or experiences. This form is likely not a one-time use case but a recurring form used for multiple applications.
 
 To complete this form, follow the steps below:

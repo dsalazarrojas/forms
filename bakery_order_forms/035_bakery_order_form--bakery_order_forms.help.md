@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer information and order details from customers who want to place an order at a bakery. The form is divided into several sections, each with a specific set of fields that are relevant to the information being collected. The form's purpose is to gather all the necessary details to complete the order and ensure that the customer's needs are met.
-</thinking>
-
 # Bakery Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information and order details for a bakery order.

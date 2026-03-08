@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate the adoption process at an animal shelter by gathering necessary information from the adopter and contract details. It ensures that both the adopter and the shelter have a record of the adoption agreement. This information will be kept on file at the shelter.
-This form should be completed carefully to ensure that all necessary details are provided accurately and truthfully. If you have any doubts about the adoption process or any information required, it's best to ask the shelter staff for guidance.
-Please note that this form is not a legally binding contract, but rather a standard template used by the shelter to record the adoption process. The adopter and the shelter are free to agree or disagree on any terms and conditions.
-</thinking>
-
 # SPCA Adoption Contract - Help Guide
 ## Purpose
 The SPCA Adoption Contract is a form used by the shelter to gather information about the adopter and contract details related to the adoption process.

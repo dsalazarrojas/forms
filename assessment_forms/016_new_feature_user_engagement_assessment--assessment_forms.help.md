@@ -1,12 +1,3 @@
-<thinking>
-To be honest, this form is designed to gather feedback and assessment on a new feature from users. It's meant to be completed by users after they have had an opportunity to interact with the feature in real-world settings. 
-
-This form helps gather information about the adoption and satisfaction of the feature among users. It also allows users to provide any improvement suggestions and their contact details if they want to be contacted for further discussions. This form is likely intended for use by product managers and other stakeholders who want to gauge the success of the new feature and identify areas for improvement.
-
-To ensure that the form is used correctly, it's essential to check that users are not completing it out of habit or obligation. This form should only be filled out by users who have genuinely used the new feature and want to provide feedback.
-
-</thinking>
-
 # New Feature User Engagement Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback and assessment on a new feature from users who have interacted with it. It helps gauge the success of the new feature and identify areas for improvement.

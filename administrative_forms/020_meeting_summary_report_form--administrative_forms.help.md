@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about meetings. Meeting Summary Report Form is intended to be filled out after a meeting, capturing key details such as meeting dates, locations, attendees, and key takeaways. The form is meant to be completed by individuals who participated in the meeting, typically meeting coordinators, attendees, or team members.
-Before starting to complete the form, ensure that you have not already filled out a meeting report for this meeting. To do so, check your meeting records and notes from previous meetings to avoid duplication of effort.
-</thinking>
-
 # Meeting Summary Report Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about meetings that have taken place. This form helps meeting coordinators, attendees, and team members to record key details, actions, and next steps regarding the meeting.

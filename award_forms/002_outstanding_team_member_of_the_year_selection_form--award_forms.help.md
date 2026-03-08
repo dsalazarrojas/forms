@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outstanding Team Member Of The Year Selection Form - Help Guide
 ## Purpose
 The purpose of this form is to allow team members to nominate their peers for the Outstanding Team Member of the Year award. The form collects information about the nominee, the nominator, and the nomination period.

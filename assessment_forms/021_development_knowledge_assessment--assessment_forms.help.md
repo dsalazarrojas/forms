@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a knowledge assessment for development professionals, designed to evaluate their understanding of various aspects of software development and code reviews. The form is likely used to assess the development team's knowledge and skills in these areas. Before proceeding, please ensure that you have the necessary knowledge and experience in software development and code reviews to complete this form accurately. This form should not be completed if you are not familiar with the concepts and terminology used in the form.
-</thinking>
-
 # Development Knowledge Assessment - Help Guide
 ## Purpose
 The Development Knowledge Assessment is a form designed to evaluate your knowledge and understanding of software development and code reviews. This form is intended to assess your knowledge in various areas of software development, including code reviews, architecture, and best practices.

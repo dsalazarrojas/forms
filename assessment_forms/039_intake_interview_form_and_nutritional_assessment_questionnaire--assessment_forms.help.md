@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information and nutritional assessment data from patients or clients. It is a general intake form and is not specific to any particular medical condition or specialty. It is likely to be used in a variety of settings, such as hospitals, clinics, or healthcare organizations. This form is designed to be completed by patients or clients and their families. Please ensure that you have the necessary permissions and consents before completing this form. If you have any concerns or questions, please don't hesitate to ask your healthcare provider. Please fill in the form accurately and completely. If any fields are unclear or you're unsure about what to enter, please seek guidance from your healthcare provider.
-</thinking>
-
 # Intake Interview Form And Nutritional Assessment Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect contact information and nutritional assessment data from patients or clients.

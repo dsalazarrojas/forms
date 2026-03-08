@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a student's proficiency in reading sight words. The form collects data on the student's name, grade level, reading level, number of sight words read correctly and incorrectly, time spent on the quiz, date and time of submission, and other relevant information. The form is used to monitor and track student progress and reading habits. It is intended for use by educators or administrators to evaluate student performance. This form does not require any prior knowledge of the subject matter, as it is designed to be self-explanatory.
-</thinking>
-
 # Sight Word Assessment Quiz - Help Guide
 ## Purpose
 The Sight Word Assessment Quiz is a tool used to monitor and track student progress in reading sight words. It helps educators or administrators evaluate student performance and identify areas that may need improvement.

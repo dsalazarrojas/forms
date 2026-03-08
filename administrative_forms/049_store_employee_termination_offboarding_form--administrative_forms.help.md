@@ -1,8 +1,3 @@
-<thinking>
-This form is used for administrative purposes to document the details of an employee termination, including the employee's name, termination date, reason for termination, and separation package information. The purpose of this form is to ensure that all necessary details are captured and documented accurately to support the smooth transition of the terminated employee's responsibilities and to ensure that they receive any applicable separation benefits. 
-Please complete this form carefully and accurately to ensure that the correct information is captured for future reference and to comply with company policies.
-</thinking>
-
 # Store Employee Termination Offboarding Form - Help Guide
 ## Purpose
 This form is used to document the details of an employee termination, ensuring that all necessary information is captured and documented accurately.

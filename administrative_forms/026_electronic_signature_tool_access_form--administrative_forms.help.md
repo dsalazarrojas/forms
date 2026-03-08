@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to grant access to the Electronic Signature Tool (EST) for authorized users. This form is designed to be completed by users who need to request access to the EST for themselves or on behalf of another user. The form collects necessary information to ensure that the user has the required permissions and access rights to use the EST.
-
-Before submitting this form, please ensure that you have read and understood the EST's usage policy and guidelines. This form is not intended for duplicate requests or unauthorized access.
-
-</thinking>
-
 # Electronic Signature Tool Access Form - Help Guide
 ## Purpose
 This form is used to request access to the Electronic Signature Tool (EST) for authorized users.

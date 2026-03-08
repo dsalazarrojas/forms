@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information for the Science Fiction Awards U21. The purpose of this form is to provide a structured way to gather details about science fiction award nominations, including the general information, nomination title, category, subcategory, submitter's contact information, and review panel's feedback. This form will help the review panel in making informed decisions about the nominations.
-
-The form has several fields that require input from the nominator. The general information field (id: 1) should be filled with the title of the nomination, which will be displayed on the awards webpage. The nomination title (id: 2) is a brief description of the science fiction work being nominated. The nomination category (id: 3) is a selection from a list of pre-defined categories (Science, Fiction, and Technology). The subcategory (id: 4) is also a selection from a list of subcategories (Science, Fiction, Technology). Both the category and subcategory fields are required.
-
-The nomination submitters' contact information includes email (id: 6) and phone (id: 7) fields, which are optional but recommended for communication purposes. The submission date (id: 8) and submission time (id: 9) fields are also optional but help provide a clear timeline for the review process. Submission notes (id: 10) can be used for any additional comments or information that are not captured in other fields.
-
-The review panel's feedback includes a text field (id: 11) where they can input their comments. Their email (id: 12) and phone (id: 13) contact information is also optional. The review date (id: 15) and review time (id: 16) fields are also optional and provide a clear timeline for the review process. The review score (id: 17) field allows the review panel to provide a numerical score out of a range defined by Max Score (id: 19) and Min Score (id: 20). The review panel score hint (id: 18) provides a brief explanation of the scoring system. The Panel Score (id: 21) field displays the score given by the review panel. The submitter's email (id: 23) and phone (id: 24) are optional but recommended for communication purposes. The submitter comments (id: 25) field allows them to provide any additional comments or feedback.
-
-It is essential to fill out all the required fields to ensure that the nomination is valid. Ensure that the category and subcategory fields are correctly filled out, and use the submission date and time to keep track of the submission timeline.
-
-</thinking>
-
 # Science Fiction Awards U21 - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way to collect information for the Science Fiction Awards U21.

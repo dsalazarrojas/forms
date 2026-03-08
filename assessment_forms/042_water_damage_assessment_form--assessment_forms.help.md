@@ -1,8 +1,3 @@
-<thinking>
-The Water Damage Assessment Form is used to collect information about incidents of water damage that have occurred within a building or facility. This form helps assess the impact and severity of the damage, and can be used to track progress and status of the repair process. 
-This form should only be filled out for water damage incidents that have occurred in your facility. 
-</thinking>
-
 # Water Damage Assessment Form - Help Guide
 ## Purpose
 The Water Damage Assessment Form is a tool used to collect information about incidents of water damage that have occurred within a building or facility. It helps assess the impact and severity of the damage, and can be used to track progress and status of the repair process.

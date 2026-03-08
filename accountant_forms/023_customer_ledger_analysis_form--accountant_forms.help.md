@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for accountants or bookkeepers to analyze customer ledgers, which are records of financial transactions related to customers. The purpose of this form is to extract specific information from these ledgers to facilitate financial analysis and reporting. It's possible that this form is used to identify trends, discrepancies, or anomalies in customer transactions.
-</thinking>
-
 # Customer Ledger Analysis Form - Help Guide
 
 ## Purpose

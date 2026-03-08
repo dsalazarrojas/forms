@@ -1,7 +1,3 @@
-<thinking>
-This form is a Fitness Liability Waiver, used to collect information from individuals participating in fitness activities. The purpose of this form is to gather necessary contact and medical information to ensure the participant's safety and well-being. To avoid duplication, please complete this form only if you have not already done so in the past 6 months.
-</thinking>
-
 # Fitness Liability Waiver - Help Guide
 ## Purpose
 The Fitness Liability Waiver is a mandatory form that must be completed by individuals participating in fitness activities.

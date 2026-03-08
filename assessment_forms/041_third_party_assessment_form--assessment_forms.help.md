@@ -1,7 +1,3 @@
-<thinking>
-This is a technical exercise to evaluate a third party's performance and behavior. It's essential to complete this form accurately and honestly to ensure a fair assessment. Before proceeding, please confirm you are familiar with the third party and have access to necessary information. This form is designed to be completed once per third party. Duplicate or incomplete submissions will be rejected.
-</thinking>
-
 # Third Party Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the performance and behavior of a third party. It consists of 10 questions that will help you evaluate their strengths and weaknesses.

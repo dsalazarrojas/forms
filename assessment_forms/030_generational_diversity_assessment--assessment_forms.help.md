@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the diversity and inclusion climate of an organization, evaluating various aspects such as generational identity, communication style, inclusion practices, diversity and inclusion commitment, manager and team diversity knowledge, workplace climate, inclusion strategies, feedback, diversity and inclusion initiatives, manager and team support, communication channels, diversity and inclusion challenges, inclusion action plan, employee resource allocations, inclusion funds, and workplace and employee diversity scores. This assessment is intended for HR or diversity and inclusion professionals to understand the current state of diversity and inclusion within their organization and identify areas for improvement.
-Before starting this assessment, make sure you have reviewed the provided options for each section carefully. If you have already filled out a diversity and inclusion assessment for this organization, it's a good idea to review that one first before completing this form.
-</thinking>
-
 # Generational Diversity Assessment - Help Guide
 ## Purpose
 The Generational Diversity Assessment is a tool to evaluate the diversity and inclusion climate within an organization. It consists of various sections that cover different aspects of diversity and inclusion, such as generational identity, communication style, inclusion practices, and more.

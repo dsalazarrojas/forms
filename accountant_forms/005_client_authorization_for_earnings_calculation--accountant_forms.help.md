@@ -1,16 +1,3 @@
-<thinking>
-This form is used to obtain client authorization for earnings calculation. This form is a requirement for clients to provide necessary information for accountants to calculate their earnings accurately. This form ensures that clients understand the purpose and scope of the calculation, and confirms their authorization for the accountant to access their personal information. 
-
-The form is designed to be completed by clients who require earnings calculations for tax preparation, loan applications, financial planning, or other legal matters.
-
-To complete this form, clients must provide their personal details such as name, email address, phone number, and mailing address. They must also specify the calculation period start and end dates and the purpose of the calculation. Clients can choose one or multiple income sources to be included in the calculation.
-
-The form also includes sections for the client to confirm their authorization for the accountant to access their personal information and to understand the confidentiality agreement.
-
-This form is a mandatory requirement for clients to initiate the earnings calculation process. Please ensure that you fill out this form accurately and completely to avoid any potential issues.
-
-</thinking>
-
 # Client Authorization For Earnings Calculation - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML, I realize this form is designed to collect information for fleet management check-ins. The purpose of this form is to gather data on a vehicle check-in process, which may include details about the category, description, and assigned personnel. The field "assigned_tool" seems to be a select one field with three options: chatjimmy, chatjane, and chatbob. This suggests that the form might be used in a team management or support context, where a team member is responsible for managing a vehicle. The field "output_file" is likely used to generate a report or file based on the input data. I will create a help guide that covers these aspects.</thinking>
-
 # fleet-management-check-in-form - Help Guide
 ## Purpose
 The Fleet Management Check In Form is used to collect information for vehicle check-ins, including category, description, and assigned personnel. This form helps ensure accurate and efficient data collection for fleet management purposes.

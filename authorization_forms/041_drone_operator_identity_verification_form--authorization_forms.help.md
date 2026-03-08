@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the fields:
-- First Name, Last Name, and Phone indicate that this form is for collecting personal information about drone operators.
-- Email, Operator ID, and Issue Number suggest that this form is for registration or issuance of drone licenses.
-- Drone Type, Drone License Number, and Drone Registration Number confirm that this form is related to drones.
-- Issue Authority, Verification Authority, and Verification By imply that this form is for verifying the identity of drone operators.
-- The required fields indicate that all personal information, drone details, and verification details are essential for completion.
-- Based on these findings, the purpose of this form is for drone operator identity verification, which involves collecting and verifying personal, license, and drone-related information.
-</thinking>
-
 # Drone Operator Identity Verification Form - Help Guide
 
 ## Purpose

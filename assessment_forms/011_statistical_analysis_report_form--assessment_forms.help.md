@@ -1,19 +1,3 @@
-<thinking>
-This guide is intended for users who will be filling out the Statistical Analysis Report Form. 
-The form is designed to collect information about the user's research question, data source, and analysis method. The purpose of the form is to gather information that will help us understand the user's research objectives and provide better support for their statistical analysis needs.
-
-Before we can proceed, let's ensure that this guide will help you effectively use this form. Please confirm if this form meets your needs or if you would like to provide further clarification on its purpose. 
-
-Additionally, please note that the provided fields are meant to be self-explanatory and will guide the user through the submission process. If you have any additional information or would like to provide more details on a specific field that might not be clear, please let us know. 
-
-This guide will cover the following topics: 
-- Form Purpose
-- How to Complete This Form
-- Field-by-Field Explanation
-
-Please let us know if this outline meets your expectations before we proceed with the guide.
-</thinking>
-
 # Statistical Analysis Report Form - Help Guide
 ## Purpose
 The Statistical Analysis Report Form is designed to collect information about your research question, data source, and analysis method. This information will help us understand your research objectives and provide better support for your statistical analysis needs.

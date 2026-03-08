@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a conference room checkout. This form is used to ensure that the room is left in a satisfactory state after use, including the condition of the room, the status of equipment, and any issues or concerns reported by the user. This form should only be filled out after a meeting or event has ended, and it's intended for users who are checking out of the conference rooms. 
-This form does not seem to be designed for users who are not checking out of a conference room.
-</thinking>
-
 # Conference Room Check Out Form - Help Guide
 ## Purpose
 This form is used to ensure that the conference room is left in a satisfactory state after use. It will ask you for information about your experience with the room, the condition of the room, and any issues or concerns you may have.

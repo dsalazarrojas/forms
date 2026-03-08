@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # remote_employee_offboarding_checklist--administrative_forms - Help Guide
 ## Purpose
 This form is designed to collect information for the remote employee offboarding process. The form helps to gather all necessary details for a smooth transition and ensure that all parties are on the same page.

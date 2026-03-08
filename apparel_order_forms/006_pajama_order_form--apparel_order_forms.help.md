@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pajama Order Form - Help Guide
 
 ## Purpose

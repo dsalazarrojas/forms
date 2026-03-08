@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Minor Interaction Suitability Assessment - Help Guide
 ## Purpose
 This form is designed to assess the suitability for minors to interact with adults in various situations. The form helps to identify potential risks and ensure that adults are aware of and address them before proceeding.

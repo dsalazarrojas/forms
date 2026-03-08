@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about complaints related to playground equipment. The purpose of this form is to gather details about problems or issues users experience with playground equipment, such as broken or damaged items, and to report them to the relevant authorities. The form will ask for user information, a description of the problem, and other relevant details to help resolve the issue.
-
-This form will be useful for playground administrators or maintenance staff to quickly and efficiently address reported issues and take corrective action.
-
-Note to self: Ensure that the form is completed in a way that ensures accurate and clear reporting of the issues, and that users understand the purpose and importance of providing detailed descriptions and photos.
-
-</thinking>
-
 # playground_equipment_complaint_form - Help Guide
 ## Purpose
 This form is designed to collect information about complaints related to playground equipment. The purpose of this form is to gather details about problems or issues users experience with playground equipment, such as broken or damaged items, and to report them to the relevant authorities.

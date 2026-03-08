@@ -1,6 +1,3 @@
-<thinking>
-This help guide is for the internal use of the organization, ensuring that the form is completed correctly and accurately. The form is designed to be used by applicants to apply for awards in different categories. It is intended to be completed by applicants who wish to be considered for recognition and rewards for their outstanding work. The purpose of this form is to collect relevant information about the applicant, their achievements, and their qualifications. Please ensure that the fields are filled out correctly and thoroughly, as this will impact the evaluation of your application. Before starting, review the form carefully to avoid duplication of effort and ensure that all required fields are completed.</thinking>
-
 # Award Application Form - Help Guide
 ## Purpose
 The Award Application Form is designed to gather information about the applicant's qualifications, achievements, and experiences. This form is used to evaluate applicants for various awards, and it's essential to fill it out accurately to increase the chances of being considered for recognition.

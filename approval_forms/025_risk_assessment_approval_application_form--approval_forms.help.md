@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-This guide will cover the Risk Assessment Approval Application Form, used for identifying and assessing risks within the organization. To determine if this form is relevant, check if your role involves risk assessment and approval processes. If not, please refer to your supervisor or the relevant department for guidance. This guide will also cover how to complete the form correctly, ensuring you don't end up duplicating efforts or wasting time.
-
-</thinking>
-
 # Risk Assessment Approval Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "equipment_borrowing_communication_form" to ensure end-users understand its purpose and how to properly complete it. I will follow the provided YAML schema and create a concrete, concise, and practical explanation for each field.
-</thinking>
-
 # equipment_borrowing_communication_form - Help Guide
 ## Purpose
 The "equipment_borrowing_communication_form" is used for users to request the use of equipment for a specific period. This form allows them to provide essential information about the equipment they need, the duration of the request, and the reason for the borrowing. It also enables them to choose a communication method for the borrowing process.

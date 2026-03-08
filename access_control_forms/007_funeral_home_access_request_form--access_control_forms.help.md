@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request access to a funeral home for a specific time period. Funeral homes are typically open from 9 to 17, and this form helps funeral home staff determine whether you need access during this time. This form will ask you to select the time period you need access for, as well as provide additional information for the staff to process your request. Please note that this form is not for requesting access outside of these time periods.
-
-Please review the form carefully and ensure you select the correct time period for your needs.
-</thinking>
-
 # Funeral Home Access Request Form - Help Guide
 ## Purpose
 The Funeral Home Access Request Form is used to request access to a funeral home during specific time periods.

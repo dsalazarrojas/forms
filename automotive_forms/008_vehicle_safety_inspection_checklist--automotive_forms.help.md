@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to document and store data about vehicle safety inspections. It is designed to ensure vehicles meet safety standards, reduce the risk of accidents and injuries. It's essential to complete this form accurately and thoroughly to maintain vehicle safety records. Please ensure that you are authorized to access the vehicle and that the vehicle's current ownership status is verified. Duplicate entries should not be created as they can cause confusion and data inconsistencies.</thinking>
 
 # vehicle_safety_inspection_checklist - Help Guide

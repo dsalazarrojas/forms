@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the skin type and identify potential skin concerns that require follow-up actions from healthcare professionals. It is intended to be completed by healthcare providers to gather information about a patient's skin type and concerns, and to determine the appropriate follow-up actions to be taken. The form will help in identifying potential skin concerns that may require further investigation or treatment.
-
-To ensure accurate and consistent completion of this form, please note that each field is carefully designed to capture specific information. Some fields are required, while others are optional. Please make sure to carefully read and understand each field's purpose before completing the form.
-
-</thinking>
-
 # Skin Type Assessment Quiz - Help Guide
 ## Purpose
 The Skin Type Assessment Quiz is a tool used by healthcare professionals to assess a patient's skin type and identify potential skin concerns that require follow-up actions. This quiz helps in gathering information about a patient's skin type and in determining the appropriate follow-up actions to be taken.

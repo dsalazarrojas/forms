@@ -1,7 +1,3 @@
-<thinking>
-This form is for reporting road traffic incidents, which is a critical task for administrative purposes. The purpose of this form is to gather information about the incident, including details about the traffic incident itself, the location, date and time, and any parties involved. The form helps in documenting and tracking incidents to improve road safety and prevent future incidents. The form should not be filled out for duplicate incidents or incidents that have already been reported. Please ensure you only submit new, unique incidents.
-</thinking>
-
 # Road Traffic Incident Form - Help Guide
 ## Purpose
 This form is used to report road traffic incidents, including details about the incident, location, date and time, and parties involved. It helps in documenting and tracking incidents to improve road safety and prevent future incidents.

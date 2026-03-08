@@ -1,7 +1,3 @@
-<thinking>
-This is a generated form with no internal logic or business rules. Please let me know if you'd like me to add any internal logic or business rules for further clarification.
-</thinking>
-
 # COCOMO Model Quiz - Help Guide
 ## Purpose
 The COCOMO Model Quiz is a form designed to test your knowledge about the COCOMO model, a popular software cost estimation model used in the field of software engineering. This quiz is meant to be a fun and educational tool to help you understand the basics of the COCOMO model.

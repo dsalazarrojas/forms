@@ -1,17 +1,3 @@
-<thinking>
-# This help guide is generated using a machine learning model to ensure that it is
-# accurate and up-to-date. Please verify the information provided with the
-# original form's author and/or maintainers to ensure accuracy.
-# The purpose of this guide is to educate end-users on how to properly
-# complete the "practitioner_agreement_form" form, reducing confusion and
-# errors in the process.
-# This guide is intended for internal use only and should not be shared
-# publicly without proper authorization.
-# If you are not the form's original creator or maintainer, please do
-# not alter this guide in any way.
-# This guide may need to be reviewed and updated periodically.
-</thinking>
-
 # practitioner_agreement_form - Help Guide
 ## Purpose
 The "practitioner_agreement_form" is a form designed to collect information from practitioners. It is intended for use by healthcare professionals, researchers, or any individuals who work with patients. The purpose of this form is to obtain agreement from practitioners for certain activities or services.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is a simple template to help you order gym branded towels. The form is used to collect information about your gym's towel restocking needs. The purpose of this form is to gather details about your gym's towel inventory, delivery preferences, and any special notes or instructions.
-
-</thinking>
-
 # gym_branded_towel_restock_order_form - Help Guide
 ## Purpose
 This form is designed to help you order gym branded towels. It collects information about your gym's towel restocking needs, delivery preferences, and any special instructions.

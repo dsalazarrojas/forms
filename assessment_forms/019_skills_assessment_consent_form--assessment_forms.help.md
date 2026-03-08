@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Skills Assessment Consent Form is to obtain the necessary information from a participant, including their consent to be evaluated, and any skills they are to be assessed. This form should be completed before an evaluation takes place. It appears that the form is designed to collect various pieces of information from the participant, such as their basic contact details, evaluation date and time, skills that will be assessed, and the status of their agreement to the evaluation.
-
-Before you start filling out this form, ensure that you don't need to fill out an identical form for any other purpose, such as the "Evaluation Form". If you're unsure about this, please contact your administrator for clarification.
-
-</thinking>
-
 # Skills Assessment Consent Form - Help Guide
 ## Purpose
 The Skills Assessment Consent Form is used to obtain the participant's consent and gather relevant information for the assessment process.

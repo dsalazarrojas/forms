@@ -1,5 +1,3 @@
-<thinking>...thinking...</thinking>
-
 # dad_sweatshirt_order_form - Help Guide
 ## Purpose
 The dad_sweatshirt_order_form is designed to collect information for an order of sweatshirts. This form is intended to gather details such as the customer's name, phone number, email address, order date, shirt size, and color preference.

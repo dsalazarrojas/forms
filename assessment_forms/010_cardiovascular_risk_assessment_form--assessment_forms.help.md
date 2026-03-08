@@ -1,10 +1,3 @@
-<thinking>
-We should first check if this form is not redundant and relevant to the current workflow. The Cardiovascular Risk Assessment Form is likely meant to be used in a clinical setting, such as a doctor's office or hospital, to assess the cardiovascular risk of patients. If there are already established forms or processes for this purpose within the organization, we should ensure this form is not duplicating effort. Additionally, we should confirm that the form's purpose aligns with the clinical goals and objectives of the healthcare team.
-
-Assuming this form is a new or existing form that serves a purpose, let's proceed to create a user-facing help guide.
-
-</thinking>
-
 # Cardiovascular Risk Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the cardiovascular risk of patients in a clinical setting. It is used to gather information on patient demographics, medical history, and lifestyle factors that contribute to cardiovascular risk. The clinician uses this information to estimate the patient's risk level and recommend relevant actions or follow-ups.

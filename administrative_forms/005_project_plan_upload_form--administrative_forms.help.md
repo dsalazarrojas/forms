@@ -1,8 +1,3 @@
-<thinking>
-We need to check if this form is relevant and not a duplicate before we proceed. 
-The form, "Project Plan Upload Form", appears to be intended for uploading project plan documents with details about a project, including its name, description, start and end dates, status, teams involved, project manager's email, budget, and other supporting details. This form may be used for administrative tasks related to project management within an organization. It doesn't seem to be a duplicate, as it is a unique form with a specific purpose.
-</thinking>
-
 # Project Plan Upload Form - Help Guide
 ## Purpose
 This form is for uploading project plan documents with details about a project, including its name, description, start and end dates, status, teams involved, project manager's email, budget, and other supporting information.

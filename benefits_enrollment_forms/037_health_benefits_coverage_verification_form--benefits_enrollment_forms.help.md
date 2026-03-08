@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to verify an individual's health benefits coverage. It is meant to be completed by employees or their dependents to provide information about their coverage status. The form should not be completed by non-employees or non-dependents. 
-</thinking>
-
 # Health Benefits Coverage Verification Form - Help Guide
 ## Purpose
 This form is used to verify an individual's health benefits coverage. Complete this form to provide information about your coverage status as an employee or dependent of our organization.

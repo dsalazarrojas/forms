@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather information from customers to report errors or discrepancies in their bank accounts. It will help the bank identify the issue, correct the error, and communicate with the customer for resolution. Before submitting this form, ensure that you are reporting a new error, and not an error that has been previously reported or addressed.
-
-Please do not fill out this form for errors that are still pending or have not been reported before. This form is intended for errors that have already been previously reported, but not yet resolved.
-
-The information gathered through this form will be used to investigate and correct the error in a timely and accurate manner. Completing this form accurately and fully will help the bank address your issue efficiently.
-
-Before filling out this form, please have the following documents ready for attachment:
-
-* Bank statement
-* Email confirmation
-* Receipt
-* Correspondence
-
-Also, ensure that you provide clear and detailed information for the fields below to help the bank resolve your issue as quickly as possible.
-
-</thinking>
-
 # Banking Error Correction Request Form - Help Guide
 ## Purpose
 This form is used to report errors or discrepancies in your bank account, such as incorrect transaction amounts, missing or duplicate transactions, and incorrect fees. By filling out this form accurately, you'll help the bank investigate and correct your account issues promptly.

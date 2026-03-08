@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Termination Discharge Form - Help Guide
 ## Purpose
 This form is intended to record the details of an employee termination, which is a formal process that occurs when an employee's employment with the organization comes to an end. This form helps to document the reasons for separation, employee details, and the date of termination to maintain accurate records for HR and management purposes.

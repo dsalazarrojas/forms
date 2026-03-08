@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback and approval from customers. The form is intended for businesses or organizations to gather information from their customers about their experiences, suggestions, and opinions. This form is a survey that aims to improve customer satisfaction and engagement. Before proceeding, please ensure that you have not filled out this form previously, as it's intended to be a one-time submission per customer. If you're unsure about this form's purpose or have filled it out before, please contact our support team at <support@form.gic.mx> to clarify any questions or concerns.
-</thinking>
-
 # customer_feedback_survey_approval_form - Help Guide
 ## Purpose
 The customer feedback survey approval form is designed to collect customer feedback and approval from customers. It's a survey that aims to improve customer satisfaction and engagement.

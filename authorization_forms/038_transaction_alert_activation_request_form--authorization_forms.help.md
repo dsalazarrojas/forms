@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transaction Alert Activation Request Form - Help Guide
 
 ## Purpose

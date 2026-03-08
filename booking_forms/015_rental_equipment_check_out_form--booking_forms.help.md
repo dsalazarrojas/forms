@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the process of checking out rental equipment. This form should be used when an employee or contractor needs to borrow equipment from the organization for use outside of work hours or for a specific period. The form is designed to gather necessary information about the equipment being checked out, including the user's input, the type of equipment, duration of rental, location, and any other relevant details. This information will help the organization track and manage the equipment and its usage.
-
-To ensure that this form is used correctly, please check that it does not already exist in the system before submitting a new request. Duplicate requests may lead to confusion and errors in the equipment management process.
-
-Please note that some fields may be optional, but providing accurate and complete information will help the organization process the request more efficiently.
-</thinking>
-
 # rental_equipment_check_out_form - Help Guide
 ## Purpose
 The rental equipment check out form is used to request the use of equipment outside of work hours or for a specific period. This form helps the organization track and manage the equipment and its usage.

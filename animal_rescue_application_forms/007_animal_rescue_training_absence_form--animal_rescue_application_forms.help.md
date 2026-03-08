@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Rescue Training Absence Form - Help Guide
 ## Purpose
 This form is designed for volunteers in the animal rescue training program to report and explain absences from scheduled training sessions. The form helps staff understand the reason for the absence and ensures that all necessary information is collected for follow-up and future arrangements.

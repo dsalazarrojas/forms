@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Pre Interview Checklist - Help Guide
 ## Purpose
 This form is a pre-screening tool designed to collect information from candidates before a face-to-face interview. It will help interviewers assess whether a candidate meets the required criteria for the position, and make more informed decisions during the interview process.

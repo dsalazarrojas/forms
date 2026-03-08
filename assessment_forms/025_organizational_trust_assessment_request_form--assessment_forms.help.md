@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request an organizational trust assessment, which is an evaluation of the trustworthiness of an organization. Before filling out this form, you should ensure that an assessment is not already in progress or pending. Additionally, you should have a clear understanding of which organizational areas you would like to be assessed (Trust Areas). If you are unsure, you can contact our team for guidance.
-
-The form is used to specify the requested assessment date and time, although these values are not required fields. This form does not request sensitive information, such as financial or employee information.
-
-This form is typically used internally, as external access is restricted.
-</thinking>
-
 # Organizational Trust Assessment Request Form - Help Guide
 ## Purpose
 The Organizational Trust Assessment Request Form is used to request an evaluation of the trustworthiness of an organization. This form is used by internal employees to request a trust assessment for organizational areas.

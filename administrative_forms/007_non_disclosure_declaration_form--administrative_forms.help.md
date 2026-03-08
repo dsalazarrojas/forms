@@ -1,7 +1,3 @@
-<thinking>
-This form is used to declare non-confidential information shared with others in the workplace. It's a crucial document for maintaining transparency and ensuring that sensitive information is handled appropriately. Before filling out this form, please note that it's designed for business use only. Please ensure that you're not duplicating this form if you've already completed it recently, as it may cause confusion in the system.
-</thinking>
-
 # non-disclosure-declaration-form - Help Guide
 ## Purpose
 The Non-Disclosure Declaration Form is used to declare the sharing of sensitive information with others in the workplace. This form helps maintain transparency and ensures that sensitive information is handled according to company policies.

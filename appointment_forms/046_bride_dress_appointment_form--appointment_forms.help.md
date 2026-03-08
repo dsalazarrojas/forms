@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from brides who are interested in booking an appointment with a wedding dress designer or stylist. The form is intended to be completed by the bride-to-be, and its purpose is to provide the designer/stylist with essential details about her preferences, needs, and expectations. The form is divided into several sections that cover various aspects of the wedding dress process, including the bride's personal details, appointment scheduling, dress preferences, and any special requests or needs.
-</thinking>
-
 # Bride Dress Appointment Form - Help Guide
 ## Purpose
 This form is for brides-to-be who want to book an appointment with a wedding dress designer or stylist. It helps us understand your preferences, needs, and expectations to provide you with the best possible experience.

@@ -1,18 +1,3 @@
-<thinking>
-The Retail Security Assessment Survey form is a critical tool for retailers to evaluate and assess their store's security measures, policies, and procedures. This form helps to identify potential security gaps and weaknesses, and provides a comprehensive assessment of the store's safety and security protocols.
-
-Before filling out this form, please ensure that:
-
-* You have read and understand the purpose and context of this assessment.
-* You have access to relevant security-related documents and information about your store's operations.
-* You have answered the questions honestly and accurately, based on your current knowledge and experiences.
-
-If you have filled out this form previously, please review your previous responses to ensure that you are not duplicating your efforts or providing redundant information.
-
-The form is divided into several sections, each addressing specific aspects of store security. Please follow the instructions below to complete the form accurately and effectively.
-
-</thinking>
-
 # Retail Security Assessment Survey - Help Guide
 ## Purpose
 The Retail Security Assessment Survey is designed to help retailers evaluate and improve their store's security measures, policies, and procedures. This form will help you identify potential security gaps and weaknesses, and provide a comprehensive assessment of your store's safety and security protocols.

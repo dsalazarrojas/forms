@@ -1,7 +1,3 @@
-<thinking>
-To provide a user-facing help guide for the Personal Financial Statement Form, let's first consider the form's purpose and required functionality.
-</thinking>
-
 # Personal Financial Statement Form - Help Guide
 ## Purpose
 This form is designed to collect personal financial information from individuals, including income, assets, liabilities, and other relevant details.

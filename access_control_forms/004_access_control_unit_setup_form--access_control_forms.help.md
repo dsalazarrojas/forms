@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect data for access control unit installations. It helps ensure that all necessary information is captured consistently and accurately for record-keeping and future reference.
-
-The form is used to gather details about the access control unit, such as its model number, serial number, and installation location. It also captures information about the unit's connectivity type, power source, and integration requirements. Furthermore, it collects data about the unit's access methods, firmware version, and default access permissions. This form is essential for proper installation and maintenance of the access control unit.
-
-There is no duplicate logic within the form, and the fields are well-defined and easy to understand. The form fields are designed to be completed by technicians installing the access control unit, and the data collected will be used for documentation and future reference.
-</thinking>
-
 # Access Control Unit Setup Form - Help Guide
 ## Purpose
 The Access Control Unit Setup Form is used to collect information about the access control unit during installation. This form ensures that all necessary details are captured accurately and consistently for record-keeping and future reference.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help wedding planners and coordinators gather essential information from couples regarding their upcoming wedding events. The goal is to capture key details such as upcoming appointments, tasks, venue, date, time, and other important logistics. This form should be used to ensure that all necessary appointments are scheduled and tasks are completed before the big day. The form does not seem to be a duplication or a deviation from the usual wedding planning process, so it's ready for use.
-</thinking>
-
 # Wedding Planning Appointment Checklist Form Template - Help Guide
 ## Purpose
 The Wedding Planning Appointment Checklist Form Template is designed to gather key information from couples about their upcoming wedding events. This form helps wedding planners and coordinators to stay organized and ensure that all necessary appointments and tasks are scheduled and completed before the big day.

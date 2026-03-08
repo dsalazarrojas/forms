@@ -1,6 +1,3 @@
-<thinking>
-This form is used for scheduling an appointment with a technician. Before proceeding, please note that this form is intended for customers who are looking to book a specific appointment time with a technician. If you've already scheduled an appointment or need to cancel/reschedule an existing appointment, please use the corresponding feature in our system.</thinking>
-
 # Modem Change Appointment Form - Help Guide
 ## Purpose
 The Modem Change Appointment Form is a tool used to schedule a specific time with a technician for a customer's appointment. 

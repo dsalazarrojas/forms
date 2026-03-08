@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's paycheck, specifically their employment status, employer details, salary, tax, date of payment, time of payment, any additional notes, email, and phone number. The form is used to provide a structured way to input data about paychecks, which can be helpful for various business purposes.
-The form has a simple layout with multiple pages and a few fields per page. Each field is categorized into different types (select, number, date, time, note, and email/text), and the options for select fields are already populated with a few values.
-</thinking>
-
 # paycheck form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's paycheck, including their employment status, employer details, salary, tax, date of payment, time of payment, and other relevant details.

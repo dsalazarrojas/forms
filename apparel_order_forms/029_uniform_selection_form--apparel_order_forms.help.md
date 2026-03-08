@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to allow users to select a uniform size, style, quantity, and other relevant details for a custom uniform order. The form is divided into multiple pages, each with a specific section. The form does not require any fields to be filled out, making it optional for the user to provide as much or as little information as they need.
-
-The form appears to be designed for a specific use case, possibly for work uniforms or employee uniforms, given the presence of "Style 1" and "Style 3", which might indicate different dress codes or company branding.
-
-Before filling out this form, ensure that you are providing accurate and relevant information for your uniform order.
-
-</thinking>
-
 # Uniform Selection Form - Help Guide
 ## Purpose
 This form is used to select a uniform size, style, quantity, and other details for a custom uniform order.

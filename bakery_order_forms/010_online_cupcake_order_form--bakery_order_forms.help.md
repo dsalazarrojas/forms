@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for online cupcake orders. The purpose of this form is to gather essential details about the customer, their preferences, and their order requirements. This form will help us to efficiently process and fulfill cupcake orders, ensuring that we get everything right for our customers. Before filling out this form, please make sure you have all the required information ready to avoid delays or errors in processing your order.
-</thinking>
-
 # Online Cupcake Order Form - Help Guide
 ## Purpose
 The Online Cupcake Order Form is designed to collect essential information for our customers' online orders. This form helps us process orders accurately and efficiently, ensuring timely delivery or pickup of our delicious cupcakes.

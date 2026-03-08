@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's ability to identify numbers, a skill that is essential in various fields such as mathematics, engineering, and other areas where numerical literacy is crucial. This form is not designed to be a definitive test, but rather a fun and interactive way to gauge one's numerical knowledge and understanding. Please note that this form is an AI-generated adaptation of a public survey topic, and its content is not affiliated with any form platform. You are free to use, modify, and share this form, but please give credit to the original creator.
-</thinking>
-
 # Number Identification Assessment Form - Help Guide
 ## Purpose
 The Number Identification Assessment Form is designed to evaluate an individual's numerical recognition and comprehension skills. It is a self-assessment tool that helps users gauge their ability to identify numbers and understand their significance.

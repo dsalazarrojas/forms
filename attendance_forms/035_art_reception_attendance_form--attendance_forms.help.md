@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information about an individual's or group's attendance to an art reception. It is a crucial tool for event organizers to collect essential details for event management, catering, and other logistical purposes. By completing this form, attendees can provide their RSVP date, name, contact information, and other relevant details. The form also helps organizers prepare for potential dietary restrictions, accessibility needs, and other requirements. 
-
-This form should not be filled out if you are not an attendee of the reception.
-</thinking>
-
 # Art Reception Attendance Form - Help Guide
 ## Purpose
 This form is designed to help event organizers collect information about attendees' attendance to an art reception.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Timesheet Submission Verification Form - Help Guide
 
 ## Purpose

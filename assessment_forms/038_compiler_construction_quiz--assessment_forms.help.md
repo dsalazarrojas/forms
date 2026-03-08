@@ -3,10 +3,6 @@
 
 This form is designed to assess your understanding of compiler construction concepts, specifically in the fields of lexical analysis, parsing, semantic analysis, code generation, and optimization. It is intended to gauge your knowledge in these critical areas of compiler science.
 
-<thinking>
-This form has been designed to assess your knowledge of compiler construction concepts. Please ensure you are familiar with the basics of compiler science and have a clear understanding of each phase before proceeding.
-</thinking>
-
 ## How To Complete This Form
 
 1. Read each question carefully and answer them according to your knowledge.

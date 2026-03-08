@@ -1,8 +1,3 @@
-<thinking>...
-This form is intended to be used for requesting authorization to perform a role assignment within the organization. It is used to gather information from the manager or team members about the role assignment and gather their approval. The goal is to provide a structured way to document and approve role changes, ensuring that all necessary steps are taken and that the manager's approval is obtained before making any changes. This form is meant to be used in conjunction with other organizational policies and procedures related to role assignments and approvals.
-
-...</thinking>
-
 # Role Assignment Authorization Form - Help Guide
 ## Purpose
 The Role Assignment Authorization Form is a formal request for authorization to perform a role assignment within the organization. It is used to gather information from the manager or team members about the role assignment and gather their approval.

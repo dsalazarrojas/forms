@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skill Progression Chart Form - Help Guide
 
 ## Purpose

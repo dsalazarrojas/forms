@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: this form is used for tracking materials that are returned by customers. It's crucial to fill it out accurately to ensure proper asset tracking and reporting. Ensure that you are filling this form for a material return and not for other purposes. Duplicate or unnecessary submissions can lead to confusion and errors in the asset tracking system...</thinking>
-
 # material_return_form - Help Guide
 ## Purpose
 The material return form is used for tracking materials that are returned by customers. This form helps to accurately document the reasons for return, item details, and other relevant information.

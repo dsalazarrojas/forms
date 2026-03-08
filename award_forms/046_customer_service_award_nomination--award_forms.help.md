@@ -1,12 +1,3 @@
-<thinking>
-The internal reasoning for this form is that it is used to collect nominations for the Customer Service Award, which recognizes and rewards outstanding customer service efforts. It is essential to ensure that nominations are made with correct and sufficient information to avoid duplication or incorrect submissions. To prevent duplication, the form will only allow one submission per nominee, and it's recommended that nominators review the form carefully before submitting it.
-
-When completing this form, please ensure that you are familiar with the award's criteria and guidelines. If you're unsure about the eligibility of a nominee or have any doubts, please reach out to the designated authority.
-
-Please note that all fields are optional but are required for a complete submission. Ensure that you provide accurate and relevant information to the best of your abilities.
-
-</thinking>
-
 # Customer Service Award Nomination - Help Guide
 ## Purpose
 The Customer Service Award Nomination form is used to recognize and reward outstanding customer service efforts. The form is designed to collect information about the nominee, the nominator, and the reasons for the nomination.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to document incidents that occur at food processing facilities. This could be anything from equipment malfunctions to spills or other accidents. The form is likely used to collect information for incident reporting and tracking, and may be used to identify and address underlying issues within the facility.
-This form appears to be designed to be completed by facility staff or management, and is probably used for internal purposes. However, it's also possible that this form could be used for external reporting or audits.
-The current design does not appear to have any duplicate fields, but it's possible that additional fields could be added for future use.
-The fields on this form seem to cover the basic information that would be needed to document and investigate an incident. This includes the date and time of the incident, the location, and a description of what happened.
-</thinking>
-
 # Food Processing Facility Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents that occur at food processing facilities. Incidents may include but are not limited to, equipment malfunctions, spills, accidents, or other events that may impact operations or food safety.

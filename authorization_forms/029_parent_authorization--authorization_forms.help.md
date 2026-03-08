@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Authorization - Help Guide
 ## Purpose
 This form is used to obtain authorization from the parent/guardian of a minor applicant, ensuring that we have their consent to process the application. This form is a crucial step in our process to verify the legitimacy of the application and maintain the trust of our minor applicants.

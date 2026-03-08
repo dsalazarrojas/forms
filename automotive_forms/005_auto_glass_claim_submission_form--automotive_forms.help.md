@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Auto Glass Claim Submission Form - Help Guide
 ## Purpose
 The Auto Glass Claim Submission Form is used to report an incident involving damage to a vehicle's glass component. This form gathers essential information from the claimant to facilitate the submission of a claim to the insurance company.

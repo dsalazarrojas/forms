@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for clients to book a consultation with a halal investment consultant. The form is used to gather information about the client's details, interests, preferred time and date for the consultation, contact method, and any additional information the client would like to share with the consultant. This form is intended for internal use within the organization, and the submitted data will be used to facilitate the consultation process.
-
-When booking a consultation, please make sure to fill in all relevant fields to ensure the consultant is well-prepared for the meeting. If you have any additional information or comments, please include them in the "Additional Info" or "Consultant Comments" fields.
-</thinking>
-
 # Halal Investment Consultation Booking - Help Guide
 ## Purpose
 This form is used to book a halal investment consultation with a consultant.

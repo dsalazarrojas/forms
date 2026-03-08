@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Fashion Product Order Form" is to collect information from customers for fashion product orders. This form is designed to be a simple and straightforward way to gather details about the customer's order, including their address and the product they wish to purchase. To ensure that the form is used correctly, it is essential to understand its purpose and how to complete it. The form is divided into multiple pages, each with its own set of fields. The fields are labeled and described below.
-
-</thinking>
-
 # Fashion Product Order Form - Help Guide
 ## Purpose
 The Fashion Product Order Form is designed to collect information from customers for fashion product orders.

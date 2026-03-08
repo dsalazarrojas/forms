@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for dog owners or caregivers to gather information about a dog's behavior and training history. This form will be used to help trainers or consultants provide effective behavior training consultations. By filling out this form, dog owners can provide relevant details about their dog's behavior and any observations they have made. This information will help the trainer understand the dog's needs and develop a tailored training plan. Please note that this form is not a medical diagnosis tool and any serious behavioral issues should be addressed by a veterinarian or a professional animal behaviorist.
-</thinking>
-
 # Dog Behavior Training Consultation Form - Help Guide
 ## Purpose
 This form is designed for dog owners or caregivers to gather information about a dog's behavior and training history.

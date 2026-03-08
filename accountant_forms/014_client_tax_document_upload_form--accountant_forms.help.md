@@ -1,12 +1,3 @@
-<thinking>
-To design an effective user-facing help guide for the "Client Tax Document Upload Form", we need to consider the following:
-
-- **Form Purpose**: The form is designed to collect tax-related information and documents from clients, which will be used for accounting and tax purposes.
-- **User Experience**: The form should be clear, concise, and easy to navigate for users who may not be familiar with tax-related terminology or concepts.
-- **Field-by-Field Explanation**: Each field should have a clear and concise explanation to help users understand what is expected of them and how to complete each field accurately.
-
-</thinking>
-
 # Client Tax Document Upload Form - Help Guide
 
 ## Purpose

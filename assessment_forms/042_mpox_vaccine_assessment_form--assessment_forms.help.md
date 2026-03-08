@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect medical information related to the mpox vaccine, including patient demographics, medical history, and vaccine administration details. To ensure that the form is filled out correctly and effectively, please review the following guide carefully.
-
-This form is part of the "assessment_forms" category and is titled "mpox_vaccine_assessment_form". The form has 25 fields across multiple pages, each with its own specific purpose and requirements.
-
-Before filling out this form, please make sure to review the following fields carefully to ensure that you are completing the form for the correct purpose and not duplicating information.
-
-The form can be completed in the following steps:
-
-1. Patient demographics
-2. Medical history
-3. Vaccine administration details
-4. Vaccine recommendations
-5. Additional information
-
-Please refer to the field-by-field explanations below for more information on each field.
-
-</thinking>
-
 # mpox_vaccine_assessment_form - Help Guide
 ## Purpose
 This form is designed to collect medical information related to the mpox vaccine, including patient demographics, medical history, and vaccine administration details.

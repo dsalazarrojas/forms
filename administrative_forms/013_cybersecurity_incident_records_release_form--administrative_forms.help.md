@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for recording and releasing information about cybersecurity incidents that have occurred within the organization. The purpose of this form is to gather and document incident details, including date and location, type, and classification of the incident. It also tracks the resolution status and method, as well as reviews and approvals from relevant personnel. The form ensures that all cybersecurity incidents are properly documented and released in accordance with the organization's procedures, promoting transparency and efficiency in incident management.
-</thinking>
-
 # Cybersecurity Incident Records Release Form - Help Guide
 ## Purpose
 The Cybersecurity Incident Records Release Form is used to record and release information about cybersecurity incidents that have occurred within the organization. This form helps to gather and document incident details, facilitating accurate tracking and resolution.

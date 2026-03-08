@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the compatibility of a vehicle with TPMS (Tire Pressure Monitoring System) products. The goal is to determine which products are suitable for a given vehicle based on its characteristics such as year, make, model, engine size, and other specifications. The form will help customers find the correct TPMS product for their vehicle.
-Before starting, ensure you have the necessary information about the vehicle you want to assess. This includes the year and model of the vehicle. If you are unsure or have any doubts, please clarify these before proceeding.
-This form is a one-time submission. Once you have completed it, the information will be used to provide you with a suitable TPMS product recommendation.
-</thinking>
-
 # TPMS Compatibility Assessment - Help Guide
 ## Purpose
 This form assesses the compatibility of a vehicle with TPMS products to find the suitable product for installation.

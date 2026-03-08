@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "home_assessment_form" form, we need to analyze its purpose and structure. This form appears to be used for assessing a property's condition and status, collecting information about the seller and inspector, and storing additional notes and comments. It seems to be a general-purpose form for various types of assessments, not specific to any particular industry or application.
-
-Before proceeding, let's review the form structure to ensure we're covering all necessary points. The form has multiple pages, each with various fields for collecting information. We will focus on explaining the form's purpose, how to complete it, and the meaning of each field in a clear and concise manner.
-
-</thinking>
-
 # home_assessment_form - Help Guide
 ## Purpose
 The "home_assessment_form" is a comprehensive form designed to gather information about a property's condition and status. It is used to collect data from the seller and inspector, including their contact details, assessment comments, and other relevant information. This form helps in maintaining a record of the assessment process and its progress.

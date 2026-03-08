@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Total Rewards Knowledge Quiz - Help Guide
 
 ## Purpose

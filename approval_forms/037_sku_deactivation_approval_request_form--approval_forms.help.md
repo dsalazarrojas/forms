@@ -1,10 +1,3 @@
-<thinking>
-This help guide will assist users in understanding the purpose and completion process of the sku_deactivation_approval_request_form. The form is used to request deactivation of a stock-keeping unit (SKU) and track the approval process. The form's purpose is to gather relevant information from the user, which will be reviewed and approved by authorized personnel. The form is designed to ensure that all necessary fields are completed accurately and thoroughly, reducing the risk of errors or miscommunication during the deactivation process.
-
-Before starting, please confirm that you are authorized to complete this form and that the SKU you are deactivating is not already in the process of being deactivated.
-
-</thinking>
-
 # sku_deactivation_approval_request_form - Help Guide
 ## Purpose
 The sku_deactivation_approval_request_form is used to request deactivation of a stock-keeping unit (SKU). This form helps track and record the approval process, ensuring that all necessary information is collected and reviewed by authorized personnel.

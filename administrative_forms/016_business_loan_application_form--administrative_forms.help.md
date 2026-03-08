@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Loan Application Form - Help Guide
 
 ## Purpose

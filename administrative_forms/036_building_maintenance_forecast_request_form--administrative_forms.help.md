@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for building maintenance forecast requests. The purpose of this form is to gather information from the requester about the maintenance work needed for a building. This includes details about the type of maintenance, the areas affected, and the expected timeframe for completion. The form is used to help the maintenance team plan and budget for the required work. It is not designed to be a full-fledged maintenance work order form, but rather a forecast to help the team understand the scope and timeline of the work.
-
-The form is divided into several sections to make it easier for the requester to navigate and provide the required information.
-
-The form has multiple fields with different labels and requirements. This guide will explain each field in detail to ensure that the requester understands what is expected of them.
-
-</thinking>
-
 # Building Maintenance Forecast Request Form - Help Guide
 
 ## Purpose

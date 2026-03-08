@@ -1,7 +1,3 @@
-<thinking>... internal reasoning: the "Financial Snapshot Template" form is intended to be a general overview of an organization's financial situation. It likely serves as a concise summary of key financial metrics, such as income, expenses, and cash flow. This form may be used by accountants, financial analysts, or other financial professionals to track and analyze an organization's financial performance.
-
-</thinking>
-
 # Financial Snapshot Template - Help Guide
 ## Purpose
 The "Financial Snapshot Template" form is designed to provide a clear and concise overview of an organization's financial situation. It allows users to track and analyze key financial metrics in a single, easy-to-read format.

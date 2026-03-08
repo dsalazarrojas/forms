@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Archiving Knowledge Quiz - Help Guide
 
 ## Purpose

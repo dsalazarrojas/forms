@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to conduct a phishing risk assessment, likely for organizations or businesses to identify and mitigate potential phishing threats. To confirm, the form's purpose is to evaluate the likelihood and potential impact of phishing attacks on an organization. It's possible that this form is used for security or IT teams to assess and document their response to phishing risks. I will assume that this form is not meant to be used for duplicate assessments, as indicated by the `required: false` attribute on most fields. Please let me know if I'm correct in my assumption.
-</thinking>
-
 # Phishing Risk Assessment Form - Help Guide
 ## Purpose
 The Phishing Risk Assessment Form is designed to help security and IT teams evaluate and document the likelihood and potential impact of phishing threats on their organization. This form will guide you through assessing the risk factors, identifying recommended controls, and documenting mitigation plans to minimize the risk.

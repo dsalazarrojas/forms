@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a Tornado Shelter Installation Agreement form, used to collect information for installation scheduling and access purposes. 
-- The form may be used for multiple types of agreements, but its purpose should be checked against internal policies and documentation to ensure consistency and non-duplication of efforts.
-- It is essential to review the form's sections and fields to determine if they align with the intended use case.
-- The form seems to be designed for external users to provide general information about the installation, such as name, address, and contact details.
-- There are fields for scheduling and time-related information, which may be used for internal coordination and planning.
-- Access control fields are also included, which may be used to determine the level of access required for the installation.
-- The form also includes fields for notes and additional comments, which can be used for internal communication and follow-up.
-- Double-check that the form is correctly filled out and that all necessary information is provided before submission.
-</thinking>
-
 # Tornado Shelter Installation Agreement - Help Guide
 ## Purpose
 The Tornado Shelter Installation Agreement form is used to collect information for installation scheduling and access purposes.

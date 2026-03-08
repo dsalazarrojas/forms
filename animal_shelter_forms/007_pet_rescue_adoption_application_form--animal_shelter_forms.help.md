@@ -1,8 +1,3 @@
-<thinking>... internal reasoning block ...
-To prevent duplication and ensure the form is filled out correctly, we first need to confirm that the form is actually for adoption purposes. The form is used for pet owners to apply for adoption, so it should not be filled out for any other reason. The form is also designed to collect the required information for the adoption process, and filling it out incorrectly or leaving fields blank can delay or prevent the adoption process. This form is only used for pets that are available for adoption in the shelter. 
-
-</thinking>
-
 # Pet Rescue Adoption Application Form - Help Guide
 ## Purpose
 This form is used to apply for adopting a pet from the animal shelter. Please fill out the form carefully and completely to ensure your adoption application is processed correctly.

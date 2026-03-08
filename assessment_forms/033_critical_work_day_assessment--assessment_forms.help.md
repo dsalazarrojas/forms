@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help assess and document the critical aspects of a workday. The purpose of this form is to capture key information about the workday, including workday details, dates, risk factors, impact factors, and other relevant factors. This information will be used to help identify and mitigate risks, allocate resources effectively, and provide support where needed. 
-
-It's expected that this form will be filled out for each workday, and it's not expected to be filled out multiple times for the same workday. 
-
-The form will be filled out by individuals who are responsible for managing and supporting workday operations. They should have the necessary permissions and context to complete the form accurately. 
-
-Please note that this form is not intended to be used for other purposes, such as scheduling or task assignments. If you're unsure about the purpose of this form, please reach out to the form administrator for clarification.
-</thinking>
-
 # Critical Work Day Assessment - Help Guide
 ## Purpose
 The Critical Work Day Assessment form is designed to collect information about the critical aspects of a workday, including risk factors, impact factors, and resource requirements. This information helps identify and mitigate risks, allocate resources effectively, and provide support where needed.

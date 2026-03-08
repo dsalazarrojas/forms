@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by students to schedule virtual office hours with their professors. The form should only be filled out once per appointment. If a student has already scheduled an appointment with the same professor, they should not submit another form. The form is designed to be completed by students, and they should select a time slot that is most convenient for them. The "reason for visit" field is optional but recommended to provide context for the professor's meeting.
-</thinking>
-
 # Virtual Office Hours Form - Help Guide
 
 ## Purpose

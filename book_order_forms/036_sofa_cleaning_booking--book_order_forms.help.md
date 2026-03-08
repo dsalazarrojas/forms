@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a survey-like form for users to input information about their sofa cleaning needs. The fields seem to cover various aspects related to sofa cleaning, such as benefits, equipment used, disinfectant chemicals, vacuuming machines, chemical spraying, leather sofas, stain removal, embedded dust mites, and a "fresh look" after cleaning. Given the options for "leather sofas" and "embedded dust mites", it's possible that this form is designed for users who have these specific concerns or types of sofas. The form is likely used for data collection or to gather information about user preferences or needs.
-
-To confirm, let's review the form structure: it has 10 fields, each with a distinct label and type. The fields are not strictly ordered or grouped in a logical way, which might make it harder for users to understand the form's context or purpose. However, the field labels are fairly clear and descriptive. I will create a user-friendly guide based on the form structure and field labels.
-
-</thinking>
-
 # sofa_cleaning_booking - Help Guide
 ## Purpose
 This guide helps you understand the sofa cleaning form. Please review each field to ensure you provide accurate information about your sofa cleaning needs.

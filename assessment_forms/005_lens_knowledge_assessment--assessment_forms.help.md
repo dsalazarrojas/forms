@@ -1,7 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the form based on the provided YAML fields.
-</thinking>
-
 # Lens Knowledge Assessment - Help Guide
 ## Purpose
 The Lens Knowledge Assessment form is a diagnostic tool used to gauge a user's knowledge and understanding of a specific topic or concept related to lenses. The form is designed to evaluate their proficiency level, lens type, and ability to apply their knowledge to real-world scenarios.

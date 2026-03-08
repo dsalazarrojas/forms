@@ -1,7 +1,3 @@
-<thinking>
-The Recognition Of Prior Learning (RPL) Assessment Form is used to assess the recognition of prior learning in educational and career contexts. Before completing this form, ensure that the assessment process has not been duplicated or that a similar form has not been submitted recently. This form is intended for individuals who have acquired new skills or knowledge outside of traditional educational settings and wish to have them recognized for professional advancement or certification.
-</thinking>
-
 # Recognition Of Prior Learning (RPL) Assessment Form - Help Guide
 ## Purpose
 The Recognition Of Prior Learning (RPL) Assessment Form is used to assess the recognition of prior learning in educational and career contexts. This form is designed to help individuals demonstrate their acquired skills and knowledge gained through non-traditional means, such as workshops, training programs, or online courses. The assessment is used to determine whether these skills and knowledge can be recognized for professional advancement or certification purposes.

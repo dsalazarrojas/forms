@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about machine maintenance logs. The form has 12 fields that ask for various details about the machine's maintenance status, including maintenance details, activity, status, date, time, duration, frequency, cost, notes, and multiple log pages for further details. To prevent duplication and ensure the form is used correctly, it's essential to review each field carefully to understand its purpose and requirements. This guide will help users fill out the form accurately and efficiently.
-</thinking>
-
 # machine_maintenance_log_access_form - Help Guide
 ## Purpose
 This form is designed to collect and record machine maintenance information for easy reference and tracking.

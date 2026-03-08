@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by authorized representatives of claimants or their legal representatives to grant authorization for claim settlement. It is used to formally acknowledge the power of an individual or entity to act on behalf of the claimant in settlement matters. This form is not applicable for duplicate submissions or for claims that do not exist or have already been resolved.
-</thinking>
-
 # Claim Settlement Authorization Form - Help Guide
 ## Purpose
 The Claim Settlement Authorization Form is a document used to formally grant authorization for claim settlement on behalf of the claimant. It is an important part of the claim process and ensures that the authorized representative's actions are legally binding and recognized by all parties involved.

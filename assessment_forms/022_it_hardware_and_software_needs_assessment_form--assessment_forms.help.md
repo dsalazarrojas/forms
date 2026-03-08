@@ -1,6 +1,3 @@
-<thinking>
-The form is used by IT departments to assess their current hardware and software needs, and prioritize their upgrade or acquisition plans. This form helps to gather information about the department's current infrastructure, hardware and software needs, and potential impact on budget. It also considers the support needed from employees and the team's specific needs. This form is designed to be a straightforward and efficient way to gather the necessary information to guide IT decision-making. To ensure accurate and comprehensive information, it is essential to complete this form carefully. Please note that the form is not meant to be filled out by multiple departments or locations simultaneously; each department should have its own assessment form filled out.
-</thinking>
 # IT Hardware And Software Needs Assessment Form - Help Guide
 ## Purpose
 This form is designed to help IT departments assess their current hardware and software needs, and prioritize their upgrade or acquisition plans.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to schedule a consultation with a representative of a company.
-The form will be used to collect information from a company to schedule a consultation at a time that suits them best.
-The form will be used to collect information about the company representative who will be available to receive the consultation.
-The form will also be used to set up the consultation time slots.
-The form fields and their labels are designed to be as clear and straightforward as possible.
-</thinking>
-
 # online_reputation_management_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule a consultation with a representative of a company.

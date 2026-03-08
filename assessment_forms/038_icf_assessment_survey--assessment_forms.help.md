@@ -1,7 +1,3 @@
-<thinking>
-The "icf_assessment_survey" form is designed to collect information from patients about their current health status, habits, and preferences for care. It includes questions about pain scores, physical activity levels, stress levels, sleep quality, well-being, medical conditions, medications, height and weight, age, zip code, allergies or sensitivities, medical devices or implants, primary care provider contact info, insurance information, medical conditions requiring immediate attention, concerns, additional comments, and contact preferences. To ensure the form is completed accurately and effectively, please review each question carefully and answer truthfully.
-</thinking>
-
 # icf_assessment_survey - Help Guide
 ## Purpose
 The icf_assessment_survey form aims to gather information about your current health status, habits, and preferences for care. This information will help your care provider better understand your needs and provide personalized guidance.

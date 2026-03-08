@@ -1,7 +1,3 @@
-<thinking>
-The Fire Safety Hazard Assessment form is designed to identify potential fire safety hazards in a specific area or environment. It's a comprehensive assessment tool used to gather information on various fire hazards, such as fire hazards 1 to 18, to ensure the area is safe for occupancy or activity. This form is typically used for regulatory compliance and risk management purposes. Before proceeding, confirm that you're filling this form for the correct purpose and that the area or environment in question is not already covered by a similar assessment. If there is a similar assessment for the same area or environment, do not repeat the assessment.
-</thinking>
-
 # Fire_Safety_Hazard_Assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>...This form is designed to collect information from individuals who wish to volunteer for animal rescue efforts. The form is intended for those who wish to help care for and rehabilitate animals. To complete this form, you will need to provide information about yourself and your availability to help with the rescue efforts. Please note that some fields are optional, but providing accurate and complete information will help us better understand your needs and preferences as a volunteer...
-
-</thinking>
-
 # Volunteer Animal Rescue Application Form - Help Guide
 ## Purpose
 This form is used to collect information from volunteers who wish to help with animal rescue efforts.

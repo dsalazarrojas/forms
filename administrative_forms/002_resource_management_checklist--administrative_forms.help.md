@@ -1,5 +1,3 @@
-<thinking>... The resource management checklist is a form used to track and record the status of various resources within the organization. The form is designed to be a comprehensive guide for resources management, helping teams and individuals to stay on top of resource allocation, utilization, and availability. It is intended for use across the organization, and users should only fill out this form if they are involved in resource management or have a vested interest in its outcome. Before filling out this form, please ensure you have a clear understanding of the resources being managed and the specific questions being asked. If you're unsure about any section or field, please refer to this guide for more information. ...</thinking>
-
 # Resource Management Checklist - Help Guide
 ## Purpose
 The Resource Management Checklist is a tool used to track and record the status of various resources within the organization. It helps teams and individuals stay on top of resource allocation, utilization, and availability.

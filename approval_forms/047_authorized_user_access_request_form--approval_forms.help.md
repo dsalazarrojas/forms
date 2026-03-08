@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Authorized User Access Request Form - Help Guide
 
 ## Purpose

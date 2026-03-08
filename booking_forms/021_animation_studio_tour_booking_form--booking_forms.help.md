@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and contents to ensure we cover everything relevant. This form, called "Animation Studio Tour Booking Form," is used by potential visitors to book a tour at an animation studio. It collects visitor information, group details, tour preferences, and accessibility needs. The form is divided into sections for visitor information, group information, tour options, and tour leader information.</thinking>
-
 # Animation Studio Tour Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from visitors to book a tour at an animation studio. Please fill out the form with accurate details to ensure a smooth and enjoyable tour experience.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly confirm that this form is meant to collect feedback and data from users who have undergone training on Traffic Control procedures. This form is likely used to gather information about the user's experience, any issues or concerns they may have encountered, and any suggestions they might have for improvement. We'll also confirm that there's no requirement for any of the fields to be filled in, but it's good practice to fill them out completely and accurately. Additionally, let's assume that the form is intended to capture feedback in a way that allows users to provide context and details, and not just a simple "yes/no" answer.</thinking>
-
 # Traffic Control Training Survey - Help Guide
 
 ## Purpose

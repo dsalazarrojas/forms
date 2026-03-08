@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # iv_access_assessment_form - Help Guide
 ## Purpose
 The iv_access_assessment_form is designed to collect information for assessing patient's IV access experience. This form will be used to track and analyze patient's responses to various questions related to IV access, including medical history, pain rating, treatment received, medication administration, and patient outcome.

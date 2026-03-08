@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers on their experience at an auto repair service. The goal is to collect data on various aspects of the service, such as staff friendliness, communication, and overall satisfaction. This form will help identify areas of improvement and provide valuable insights for future services. It's essential to complete the form thoroughly and honestly to provide accurate feedback. 
-
-Please note that this form is for internal use, and the data collected will help us improve our services. The information provided will not be shared publicly.
-</thinking>
-
 # Auto Repair Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with our auto repair service. Your input will help us improve our services and provide better experiences for our customers in the future.

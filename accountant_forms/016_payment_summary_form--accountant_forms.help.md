@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payment Summary Form - Help Guide
 
 ## Purpose

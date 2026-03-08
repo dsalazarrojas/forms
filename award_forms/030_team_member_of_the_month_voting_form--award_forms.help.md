@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning: The purpose of the "Team Member Of The Month Voting Form" is to allow team members to vote for their peers, providing a subjective evaluation of who they believe deserves recognition for outstanding contributions to the team. This form serves as a qualitative assessment, gathering nominations based on a personal preference, and not a quantifiable measure.
-
-Before filling out this form, please ensure you haven't already voted for the same team member recently to avoid duplication.
-
-This form should only be filled out when there are multiple team members eligible for recognition in a given month.
-</thinking>
-
 # Team Member Of The Month Voting Form - Help Guide
 
 ## Purpose

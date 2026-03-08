@@ -1,7 +1,3 @@
-<thinking>
-Before creating this form, we need to check if there are any internal requirements or restrictions that might affect its creation. Please check if there are any existing templates or similar forms that might already be in use. Also, ensure that all the fields are correctly aligned with the purpose of the form and the needs of the end-users.
-</thinking>
-
 # Authorization To Use The AAPG LACR Certificate Template For Chapter Events - Help Guide
 ## Purpose
 This form is for requesting authorization to use the AAPG LACR Certificate Template for Chapter Events. The template is designed to provide official certification for chapter events, and this form helps ensure that all necessary information is collected to maintain quality and integrity.

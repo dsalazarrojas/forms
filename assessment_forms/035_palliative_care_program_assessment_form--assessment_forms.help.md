@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the patient's needs and preferences for palliative care, providing a comprehensive evaluation of their symptoms, medical conditions, and support requirements. The form will likely be used by healthcare professionals to gather information and develop a personalized care plan for the patient. The form should only be completed by authorized personnel.
-
-Before filling this form, ensure you have the necessary clearance and permissions to access the patient's information. Please complete this form carefully and accurately, as the information gathered will be used to inform the patient's care plan.
-</thinking>
-
 # Palliative Care Program Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the patient's needs and preferences for palliative care, providing a comprehensive evaluation of their symptoms, medical conditions, and support requirements.

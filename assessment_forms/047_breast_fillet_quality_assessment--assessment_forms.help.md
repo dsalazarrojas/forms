@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in filling out the "Breast Fillet Quality Assessment" form. The form is designed to evaluate the quality of breast fillet products by assessing various factors including visual appearance, color, texture, and more.
-
-Before completing the form, ensure that you are reviewing the relevant information and not duplicating assessments. Please verify that you have all the necessary details before proceeding.
-
-</thinking>
-
 # Breast Fillet Quality Assessment - Help Guide
 ## Purpose
 The "Breast Fillet Quality Assessment" form is used to evaluate the quality of breast fillet products. The form assesses multiple aspects of the product, including visual appearance, color, texture, and more, to provide a comprehensive evaluation.

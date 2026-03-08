@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be a comprehensive form for gathering information about a musical audition, likely for students or teachers to provide details about themselves and their musical experience. It appears to be designed to collect data from both students and teachers, which suggests that this form is used for both student and teacher interactions within a school's music department. Given the variety of fields, this form might be used for multiple purposes, such as scheduling auditions, tracking student and teacher contact information, and collecting details about musical experiences. However, without more context, it's difficult to be more specific about the exact use case. I will proceed with creating a help guide based on the provided fields, assuming this form is for both students and teachers to provide information about their musical experiences and audition preferences.
-
-</thinking>
-
 # Musical Audition Form - Help Guide
 
 ## Purpose

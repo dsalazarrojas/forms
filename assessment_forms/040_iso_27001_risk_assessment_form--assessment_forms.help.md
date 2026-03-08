@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Form Design and Purpose Review**
 This form is intended to collect information on risk assessments for ISO 27001 compliance. The form is designed to guide users in identifying, assessing, and mitigating risks to the organization's assets, data, and operations. The form's primary purpose is to provide a structured approach to risk assessment, ensuring that all relevant information is collected and documented.
 

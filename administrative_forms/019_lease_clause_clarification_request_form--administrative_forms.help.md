@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form that explains its purpose, how to complete it, and what each field means. The form is for lease clause clarification requests, which means it's likely used when a tenant is seeking clarification or additional information about a specific clause in their lease. The form's purpose is to provide a structured way for tenants to submit their requests, reducing misunderstandings and miscommunications. To avoid duplication, the guide should mention that only one request can be submitted at a time, and the "Submit" button will be disabled until the form is completed correctly.
-
-</thinking>
-
 # Lease Clause Clarification Request Form - Help Guide
 ## Purpose
 The Lease Clause Clarification Request Form is used to submit requests for clarification or additional information about a specific clause in your lease. This form helps to ensure that your requests are handled efficiently and effectively, reducing misunderstandings and miscommunications.

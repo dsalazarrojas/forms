@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used for customers to order gear related to flat river wrestling, such as accessories or equipment. The form's purpose is to collect customer information and order details in a structured and organized way. The form should only be used for customers ordering gear related to flat river wrestling, and not for other types of orders or purposes.
-
-Please confirm that this is the correct use case for this form.
-
-</thinking>
 # flat_river_wrestling_gear_order_form - Help Guide
 ## Purpose
 The flat river wrestling gear order form is designed to allow customers to place orders for gear related to flat river wrestling. This includes accessories or equipment such as grappling hooks, ropes, or other gear used for the sport.

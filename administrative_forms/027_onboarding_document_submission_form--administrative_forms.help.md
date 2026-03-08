@@ -1,7 +1,3 @@
-<thinking>
-...The "onboarding_document_submission_form" is a digital form designed to collect information from new hires for onboarding purposes. It's essential to fill out this form accurately and thoroughly to ensure a smooth transition into the company.
-</thinking>
-
 # onboarding_document_submission_form - Help Guide
 ## Purpose
 This form is used to collect new hire details, emergency contacts, work authorization, and tax documents for the onboarding process.

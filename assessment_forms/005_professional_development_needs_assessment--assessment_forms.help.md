@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form "Professional Development Needs Assessment" is designed to collect information about the user's professional development needs. To ensure that you receive accurate results, please fill out the form completely and honestly. Before starting, please make sure you haven't already filled out this form, as duplicate submissions will not be accepted.
-</thinking>
-
 # Professional Development Needs Assessment - Help Guide
 ## Purpose
 The Professional Development Needs Assessment form is used to gather information about your professional development needs. This form will help us better understand your current job role, work environment, and professional skills, ultimately providing valuable insights into areas where you need support for growth and improvement.

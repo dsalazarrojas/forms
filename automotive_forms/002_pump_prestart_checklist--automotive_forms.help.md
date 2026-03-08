@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pump Prestart Checklist - Help Guide
 
 ## Purpose

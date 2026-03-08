@@ -1,11 +1,3 @@
-<thinking>
-The form "Drivetrain Installation Quality Checklist" is designed to assess the quality of a vehicle's drivetrain installation. It is used to gather feedback from users on the quality of drivetrain components, such as gears, bearings, and seals. The form is used to ensure that the drivetrain installation meets the required standards and specifications.
-
-The form will likely be used by mechanics or technicians who are responsible for performing drivetrain installations. It may also be used by quality control teams or inspectors who need to verify that the installation meets the required quality standards.
-
-There is no indication that this form is a duplicate or redundant form, and its purpose and content seem to be focused on a specific task, so we can proceed with creating the help guide.
-</thinking>
-
 # Drivetrain Installation Quality Checklist - Help Guide
 ## Purpose
 The Drivetrain Installation Quality Checklist is a form used to assess the quality of a vehicle's drivetrain installation. This form helps to ensure that the installation meets the required standards and specifications.

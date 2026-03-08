@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Time Log Adjustment Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request adjustments to an employee's time log. It is used to document reasons for changes to an employee's time log, ensuring accurate and up-to-date records of work hours.

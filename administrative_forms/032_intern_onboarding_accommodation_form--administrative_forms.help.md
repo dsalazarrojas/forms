@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to facilitate the onboarding process for new interns. The purpose of this form is to gather essential information about the intern's personal details, accommodation preferences, and contact information.
-
-Before filling out this form, please ensure that you have a clear understanding of your own needs and preferences. This form is for informational purposes only and should not be used for other purposes. Please do not duplicate this form without a valid reason.
-
-</thinking>
-
 # Intern Onboarding Accommodation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the new intern's onboarding process, including their accommodation preferences and contact details.

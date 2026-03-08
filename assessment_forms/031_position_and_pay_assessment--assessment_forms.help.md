@@ -1,7 +1,3 @@
-<thinking>
-...this form is intended to collect information about employee's position and pay details. It will be used for internal purposes, such as tracking and reporting on personnel data. Please ensure that this form is completed by authorized personnel, and not duplicate entries are made for the same position and pay details. If you have any doubt or uncertainty, please clarify with your supervisor or HR department before completing this form.
-</thinking>
-
 # Position And Pay Assessment - Help Guide
 ## Purpose
 This form is used to collect information about employee's position and pay details for internal tracking and reporting purposes.

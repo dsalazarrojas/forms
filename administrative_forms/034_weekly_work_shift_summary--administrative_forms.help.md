@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information about an employee's work shift, including employee name, date of shift, start and end times, break details, shift status, labor cost, and other relevant details. The form is typically used by managers or supervisors to track and record shift information for employees.
-</thinking>
-
 # Weekly Work Shift Summary - Help Guide
 ## Purpose
 The Weekly Work Shift Summary form is used to record and track employee shift information for the week. This includes details about the employee's name, shift date, start and end times, break details, shift status, labor cost, and other relevant information.

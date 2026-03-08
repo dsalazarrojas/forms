@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Terminal Safety Incident Form - Help Guide
 
 ## Purpose

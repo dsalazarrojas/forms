@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication...
-
-The purpose of this form is to collect information for a custom clothing order. Users will input their customer information, order details, design preferences, and shipping information to place an order. This form is likely used for an e-commerce platform or a clothing store's online ordering system. The form is designed to be comprehensive, gathering essential details such as customer contact information, order specifics, and payment preferences. The fields are categorized into sections for customer information, order details, and shipping information, making it easier for users to navigate and input their data efficiently. The form's structure seems to be well-suited for its intended purpose.
-
-Upon analyzing the form's fields, there are no duplicate fields or fields with unclear labels. Each field has a distinct name, label, and type, indicating a clear and organized design. The form does not contain any sensitive or redundant fields, making it efficient and practical for the users.
-
-...+</thinking>
-
 # Custom Clothing Order Form - Help Guide
 ## Purpose
 

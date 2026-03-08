@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and efficiently, let's first understand its purpose and the reasoning behind it. This form is designed for requesting an appointment in the field of gynecologic oncology, which deals with the diagnosis and treatment of cancers specific to the female reproductive system. The form is intended to gather necessary information for scheduling appointments, including patient details, medical history, appointment preferences, and contact information. This form should be used when a patient or their representative needs to schedule an appointment for gynecologic oncology services. It's crucial to fill out this form accurately and thoroughly to ensure that the appointment is scheduled correctly and efficiently.
-</thinking>
-
 # gynecologic_oncology_appointment_request - Help Guide
 ## Purpose
 This form is used to request an appointment in the gynecologic oncology department.

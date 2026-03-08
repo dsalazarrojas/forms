@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the Humanitarian Organization Service Award Nomination Form, we need to carefully examine the provided YAML structure and determine the most logical flow of information. This form appears to be designed to collect data for a nomination process, likely for an award that recognizes humanitarian service. The form is comprised of 25 fields, which will be explained below.
-
-</thinking>
-
 # Humanitarian Organization Service Award Nomination Form - Help Guide
 ## Purpose
 

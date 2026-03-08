@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wealth Preservation Assessment - Help Guide
 ## Purpose
 The Wealth Preservation Assessment is a form designed to help you understand your financial goals, risk tolerance, and investment preferences. This assessment is a valuable tool for creating a comprehensive picture of your wealth preservation needs.

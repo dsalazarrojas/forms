@@ -1,30 +1,3 @@
-<thinking>
-This form is designed to collect information for a booking service, allowing clients to provide details about their service needs. 
-The form consists of 15 fields, grouped into the following categories: 
-- Contact information: 
-  - Full Name (text input)
-  - Email Address (email input)
-  - Phone Number (text input)
-- Service information: 
-  - Service Type (select-one input with options: Cleaning, Delivery, Consultation, Repair, Event Setup, Other)
-  - Preferred Booking Date (date input)
-  - Preferred Time (select-one input with options: 8:00 AM - 10:00 AM, 10:00 AM - 12:00 PM, 12:00 PM - 2:00 PM, 2:00 PM - 4:00 PM, 4:00 PM - 6:00 PM, 6:00 PM - 8:00 PM)
-  - Estimated Service Duration (select-one input with options: Less than 1 hour, 1-2 hours, 2-3 hours, 3-4 hours, 4+ hours)
-  - Service Location Address (text input)
-- Service details: 
-  - Service Description (text input)
-  - Total cost of the service (number input)
-- Payment information: 
-  - Payment Method (select-one input with options: Credit card, Debit card, Cash, Bank transfer, PayPal)
-  - Tip Amount (select-one input with options: No tip, 10%, 15%, 20%, 25%, Custom amount)
-  - Custom Tip Amount (number input, only if "Custom amount" is selected in the Tip Amount field)
-- Final amount: 
-  - Total Amount with Tip (number input)
-The form has two optional fields: Tip Amount (with options No tip, 10%, 15%, 20%, 25%, and Custom amount) and Special Instructions (text input, with no options). Both fields are not required.
-
-The purpose of this form is to gather information about the client's needs and preferences for a booking service, including contact details, service requirements, and payment information. The form ensures that the client provides all necessary details before proceeding with the booking process.
-</thinking>
-
 # Booking Form With Tip Option - Help Guide
 ## Purpose
 This form is used to collect information for a booking service, allowing clients to provide details about their service needs and preferences.

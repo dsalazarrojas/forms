@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and manage equipment inventory within an organization. This form is intended for use by authorized personnel to gather and store information about the equipment in use. To ensure accurate and efficient tracking, it's essential to complete this form carefully and accurately.
-</thinking>
-
 # Equipment Inventory Form - Help Guide
 ## Purpose
 The Equipment Inventory Form is used to collect and store information about the equipment in use within the organization. This includes details such as the equipment type, description, manufacturer, and other relevant details. The form helps to maintain a comprehensive record of the equipment, making it easier to track and manage it.

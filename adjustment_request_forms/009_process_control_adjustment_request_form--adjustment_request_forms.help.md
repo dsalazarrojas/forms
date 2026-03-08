@@ -1,11 +1,3 @@
-<thinking>
-This guide will cover the Process Control Adjustment Request Form. Please note that this form is for requesting adjustments to control processes and should only be used for such purpose. It is intended for internal use and may not be applicable in cases of emergencies or other exceptional situations.
-
-The form will not be completed if a duplicate request has been made for the same process and request date. Please ensure that all requests are unique and do not contain any duplicate information.
-
-This guide assumes that you have already been identified as an authorized user and have been granted access to this form.
-</thinking>
-
 # Process Control Adjustment Request Form - Help Guide
 ## Purpose
 The Process Control Adjustment Request Form is used for requesting adjustments to control processes. It helps in documenting and tracking requests for process adjustments, enabling the manufacturing team to assess and resolve issues effectively.

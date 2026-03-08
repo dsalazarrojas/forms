@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Event Incident Form - Help Guide
 
 ## Purpose

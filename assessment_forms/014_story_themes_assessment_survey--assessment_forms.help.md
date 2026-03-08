@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help assess the story themes of a given narrative. 
-This guide is intended for end-users who need to complete the form. 
-Please note that this form was created using AI and does not copy or use proprietary content from any form platform. 
-You can use, modify, and distribute this form under the CC BY 4.0 license. 
-Please report any errors or inconsistencies to form@gic.mx.
-</thinking>
-
 # Story Themes Assessment Survey - Help Guide
 ## Purpose
 This form is used to assess the story themes of a narrative. It will help evaluate the presence and quality of different themes in your story.

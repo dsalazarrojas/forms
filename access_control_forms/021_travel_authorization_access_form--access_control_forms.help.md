@@ -1,5 +1,3 @@
-<thinking>...This travel authorization access form is for employees to request permission for company-approved travel. To complete this form, follow these steps...</thinking>
-
 # Travel Authorization Access Form - Help Guide
 ## Purpose
 The Travel Authorization Access Form is a document used to request permission for company-approved travel. This form helps to ensure that all necessary information is collected and that the employee's travel plans are reviewed and approved by the relevant department.

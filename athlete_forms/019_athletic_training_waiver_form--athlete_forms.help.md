@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Athletic Training Waiver Form - Help Guide
 ## Purpose
 This form is a comprehensive waiver and consent document for athletes to provide medical and safety information before participating in athletic activities. It ensures the athlete's and organization's liability and responsibilities are clearly understood and managed.

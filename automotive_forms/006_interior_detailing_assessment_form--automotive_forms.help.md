@@ -1,14 +1,3 @@
-<thinking>
-The form, named "interiorDetailingAssessmentForm", is designed for assessing the interior of a vehicle. It is intended for evaluating the condition of various aspects of a vehicle's interior, including the presence or absence of certain features or conditions. To ensure that the form is filled out correctly, it is essential to understand its purpose and the specific fields it contains. This form has multiple fields that ask for different types of information, such as the make and model of the vehicle, its interior condition, and the presence of various stains or odors. To complete this form accurately, one must carefully consider each field and answer based on the specific vehicle being assessed.
-
-Before proceeding, ensure that you have a clear understanding of the vehicle's interior and its condition. If you are unsure about any aspect of the form, please seek clarification before submitting your assessment.
-
-To avoid errors, please review each field carefully and select the most accurate answer based on your evaluation.
-
-Please note that this form is intended to gather information about the vehicle's interior, so be thorough in your assessment.
-
-</thinking>
-
 # interiorDetailingAssessmentForm - Help Guide
 ## Purpose
 The interiorDetailingAssessmentForm is designed to assess the interior of a vehicle. It asks for information on various aspects of the vehicle's interior, including its condition and features.

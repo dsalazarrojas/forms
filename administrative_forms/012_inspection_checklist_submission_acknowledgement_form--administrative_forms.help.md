@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inspection Checklist Submission Acknowledgement Form - Help Guide
 
 ## Purpose

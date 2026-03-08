@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for event planning approval purposes, used to facilitate the approval process of events within an organization. The form captures relevant event details such as event date, event location, event budget, and approver information (name, email, phone, and signature). It is designed to ensure that all necessary event details are captured and approved before an event takes place. The form is usually completed by the submitter and approved by an authorized approver.
-
-</thinking>
-
 # event_planning_approval_form - Help Guide
 ## Purpose
 The event planning approval form is a necessary tool for event planning within the organization. It serves to gather essential event details and obtain approval from authorized approvers.

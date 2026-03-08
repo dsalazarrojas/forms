@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help individuals allocate issues to teams for assessment purposes. It is intended to be completed by team members who have expertise in issue allocation. The form's purpose is to gather relevant information about each issue, including its description, allocation method, reason for allocation, level of confidence, team size, and team diversity. This information will be used to inform team formation and resource allocation decisions. To avoid duplication, please ensure that the form is completed by the person who originally raised the issue or by an authorized delegate. 
-
-Please note that this form requires a specific set of answers from the user. Each field is designed to collect unique information that will be used to make informed decisions about team allocation.
-</thinking>
-
 # Issue Allocation Assessment Quiz - Help Guide
 ## Purpose
 The Issue Allocation Assessment Quiz form is designed to help team members allocate issues effectively.

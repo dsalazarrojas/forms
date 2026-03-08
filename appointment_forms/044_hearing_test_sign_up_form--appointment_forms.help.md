@@ -1,15 +1,3 @@
-<thinking>
-This help guide is for the "hearing_test_sign_up_form" form, a tool designed to facilitate the signing up for a hearing test appointment. The form is intended to collect information from users, ensuring they provide necessary details to schedule an effective appointment.
-
-To ensure relevance and non-duplication of appointments, please note that:
-
-* Only one appointment can be scheduled per user.
-* Users can choose to provide their medical history and other additional comments but it's not mandatory.
-
-Before starting the form, please review your appointment details and ensure that you don't have any existing appointments scheduled.
-
-</thinking>
-
 # hearing_test_sign_up_form - Help Guide
 ## Purpose
 The "hearing_test_sign_up_form" is a user-facing form for signing up for a hearing test appointment. It allows users to provide necessary information to schedule an effective appointment.

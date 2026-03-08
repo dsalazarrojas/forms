@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Partnership Agreement Checklist form is used to collect information about a potential partner or collaborator for a business partnership. The form's purpose is to standardize the process of onboarding new partners and ensure that all necessary details are documented for future reference. This form is meant to be used for internal purposes only and should not be used for external or public-facing purposes. 
 
 # Partnership Agreement Checklist - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for appraisals of jewelry items. The form is meant to be used by assessors to evaluate and document the quality, weight, and other attributes of gemstones. This information will be used to determine the value of the gemstone. The form should only be filled out for each gemstone individually, and not for a batch or collection of gemstones. This form is for internal use only and is not intended for public display or sharing.
-</thinking>
-
 # jewelry-appraisal-form - Help Guide
 ## Purpose
 This form is used to collect information for appraisals of jewelry items.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to allow team members to request invitations for their team leads and approvers, including dates, status, and other relevant details. This form is meant to ensure that all necessary information is captured for the team lead and approver to make an informed decision. Before proceeding, please check that the project lead and team lead are correct and that the submission is not a duplicate.
-
-</thinking>
-
 # Team Member Invitation Permission Request Form - Help Guide
 ## Purpose
 This form is used to request a team member invitation for a team lead and approver. Fill out the form to provide all necessary information for the team lead and approver to make an informed decision.

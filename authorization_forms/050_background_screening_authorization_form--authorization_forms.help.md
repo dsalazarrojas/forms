@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to obtain authorization from applicants for background screening services. 
-The form must be completed to initiate the screening process. 
-Please ensure the form is filled out correctly to avoid any discrepancies. 
-Note: This form is not a contract, and filling out this form does not guarantee approval. 
-Please ensure that your information is accurate and complete.
-</thinking>
-
 # Background Screening Authorization Form - Help Guide
 
 ## Purpose

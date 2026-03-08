@@ -1,12 +1,3 @@
-<thinking>
-To confirm the form purpose and relevance, let's consider the form fields provided in the YAML. The form has a clear and consistent structure, consisting of 5 sections with 2-3 fields each: 
-- "Share Your Story" (Introduction): This section is likely intended to gather the user's story or testimonial.
-- "story" fields (2-5): These fields are for users to share more of their story, with increasing depth.
-- "consent" fields (2-3): These fields are for users to give consent for their story being shared.
-- "Review Your Story": This field is likely for users to review or confirm their story before submitting.
-The form purpose seems to be for users to share their story or testimonial, and give consent for it to be shared. This is relevant to various industries, such as marketing, social media, or customer feedback.
-</thinking>
-
 # Share Your Story Form - Help Guide
 ## Purpose
 This form is designed to help users share their personal stories or testimonials, allowing them to provide their account of events or experiences. The form collects a brief introduction, multiple sections of their story, and consent for sharing, followed by a review of their submission.

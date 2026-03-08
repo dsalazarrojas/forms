@@ -1,5 +1,3 @@
-<thinking>...This is a crucial form for employees and managers to collaborate and ensure accurate time log entries. It enables employees to request adjustments to their previously recorded time logs, which can be due to various reasons such as errors or omissions in the initial log. The form's purpose is to facilitate the process of rectifying these discrepancies, promoting transparency and accountability in time log management. It's vital to fill out the form accurately to prevent duplication of work and ensure that requests are processed efficiently. This form is only for genuine adjustments and should not be used for general feedback or complaints about the time log system. Please use the provided fields to fill out the form correctly and honestly...</thinking>
-
 # Employee Time Log Adjustment Request Form - Help Guide
 ## Purpose
 The Employee Time Log Adjustment Request Form is used to request adjustments to previously recorded time logs. This form helps employees correct errors or omissions in their time logs, ensuring accurate representation of their work hours.

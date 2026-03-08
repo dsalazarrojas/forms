@@ -1,5 +1,3 @@
-<thinking>Asset tracking and inventory management is a crucial process for organizations to keep track of their assets, including their condition, location, and maintenance history. This form is designed to collect detailed information about assets, ensuring that all relevant data is accurately recorded and up-to-date. Before filling out this form, please ensure that the information you provide is consistent with your organization's asset inventory records and does not duplicate any existing entries. It is essential to fill out this form carefully and accurately to avoid any discrepancies or errors in the asset tracking process.</thinking>
-
 # Asset Inventory Information Record Form - Help Guide
 ## Purpose
 The Asset Inventory Information Record Form is a comprehensive tool used to collect and record detailed information about assets, including their condition, location, and maintenance history. The form is designed to aid in accurate asset tracking, ensuring that assets are properly accounted for and their value is accurately assessed.

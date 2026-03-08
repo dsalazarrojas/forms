@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used by vendors to request adjustments to their commissions. It is crucial that only relevant adjustments are requested to avoid duplication of requests. Before filling out this form, please ensure that you have a legitimate reason for the adjustment and that the information provided is accurate and complete. This form should not be used for duplicate requests or to request excessive adjustments. It is essential to fill out all required fields to ensure that your request is processed efficiently.</thinking>
-
 # vendor_commission_adjustment_application_form - Help Guide
 ## Purpose
 The vendor_commission_adjustment_application_form is a form designed for vendors to request adjustments to their commissions. It captures information about the request, such as the date and time of the request, the type of adjustment, and the amount of the adjustment.

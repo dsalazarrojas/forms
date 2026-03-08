@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect necessary information for an Hourly Manager contract, which typically involves managing employees who work on an hourly basis for a specific job or project. This form aims to standardize the process of creating these contracts, making it easier for administrators to manage employee agreements. The form is likely used in HR or administrative departments.
-</thinking>
-
 # Hourly Manager Contract Agreement - Help Guide
 ## Purpose
 This form is meant to record the details of an hourly manager contract agreement between a client company and an employee. It's essential to ensure accurate and comprehensive documentation for future reference and communication with the employee.

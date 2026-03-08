@@ -1,5 +1,3 @@
-<thinking>Is this form for personal or professional coaching assessments? The form is called 'Coaching Skills Self Assessment Form', and its primary purpose is to evaluate a coach's skills and abilities in various areas. This form is likely used to assess a coach's competence in communication, leadership, technical, and personal skills. To confirm, please review the form's fields: it includes questions about personal information, coaching skills, technical knowledge, and commitment to professional development. Please ensure that you complete this form honestly and thoroughly, and only if this form aligns with your role and responsibilities as a coach or individual seeking self-assessment.</thinking>
-
 # Coaching Skills Self Assessment Form - Help Guide
 ## Purpose
 The Coaching Skills Self Assessment Form is a tool designed to evaluate a coach's skills and abilities in various areas, including communication, leadership, technical, and personal skills. This form is intended to help coaches assess their strengths and weaknesses, and identify areas for improvement.

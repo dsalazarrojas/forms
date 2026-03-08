@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information related to disaster evacuation plans. The purpose of this form is to gather details about emergency contact information, incident details, participant information, and other relevant facts related to evacuation procedures. To ensure the form is relevant and not duplicated, consider the following:
-
-* Is the form intended for official records or reporting purposes?
-* Are there specific protocols or procedures that need to be followed for emergency contact information, incident details, and participant information?
-* Are there any existing forms or procedures that cover the same or similar information?
-
-If the answers to these questions are affirmative, it may be worth re-evaluating the need for this form or integrating its functionality into an existing system.
-
-</thinking>
-
 # disaster_evacuation_plan_evaluation_form - Help Guide
 ## Purpose
 The disaster_evacuation_plan_evaluation_form is designed to collect information related to disaster evacuation plans. This form helps gather details about emergency contact information, incident details, participant information, and other relevant facts related to evacuation procedures.

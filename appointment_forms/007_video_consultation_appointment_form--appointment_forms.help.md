@@ -1,8 +1,3 @@
-<thinking> 
-This form is likely used by healthcare professionals to collect information from clients before scheduling video consultations. The purpose of this form is to gather client information, preferred time slots, and other relevant details to facilitate smooth and effective video consultations. This form is likely used in a healthcare setting, possibly for telemedicine or remote consultations. Please ensure that you complete this form with accurate and relevant information to ensure a successful video consultation. 
-
-</thinking>
-
 # Video Consultation Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients before scheduling a video consultation. It helps healthcare professionals to gather necessary details to facilitate a smooth and effective video consultation.

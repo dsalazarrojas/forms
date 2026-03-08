@@ -1,9 +1,3 @@
-<thinking>
-To ensure this form accurately captures the necessary information for assessing the class popularity, we must first consider its purpose and ensure the form is not duplicated. This form is designed to collect information about users and their preferences regarding group classes, which will help determine the class popularity and inform instructors and staff about their preferences and expectations. 
-Before proceeding, please ensure this form is not filled out by the same user for multiple classes or sessions, as this would skew the data and lead to incorrect assessments. 
-Please fill out the form accurately and honestly, providing your true preferences and expectations.
-</thinking>
-
 # Group Class Popularity Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences and expectations regarding group classes. This data will help instructors and staff assess the popularity of classes and tailor their offerings to meet your needs.

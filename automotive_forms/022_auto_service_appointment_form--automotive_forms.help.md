@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Auto Service Appointment Form - Help Guide
 ## Purpose
 The auto service appointment form is designed to collect information from customers to schedule a service appointment at an auto service center. This form gathers details about the customer's vehicle, service requirements, and personal preferences to ensure a smooth and efficient service experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Behavior Based Psychometric Assessment Questionnaire - Help Guide
 
 ## Purpose

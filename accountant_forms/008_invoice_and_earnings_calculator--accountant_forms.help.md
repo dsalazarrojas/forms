@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for calculating the earnings of an individual or company based on an invoice and tax rate. The fields seem to be divided into two pages: Page 1 for collecting basic information about the invoice and client, and Page 2 for calculating earnings and tax rates.
-</thinking>
-
 # Invoice And Earnings Calculator - Help Guide
 ## Purpose
 This form is designed to calculate the earnings of an individual or company based on an invoice and tax rate. It collects basic information about the invoice and client, and then calculates the gross income and earnings after tax.

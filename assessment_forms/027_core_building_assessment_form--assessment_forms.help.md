@@ -1,8 +1,4 @@
-> <thinking>
-The Core Building Assessment Form is designed to gather essential information about a building's core structure, safety features, and environmental systems. This form is typically used for assessment purposes, such as determining the condition and integrity of a building's core. The purpose of this form is to collect data that will help assessors evaluate the building's core structure and identify potential areas of concern. This form is relevant to building owners, assessors, and facility managers, and it's essential to fill it out accurately and thoroughly to ensure a comprehensive assessment.
-</thinking>
-
-# Core Building Assessment Form - Help Guide
+> # Core Building Assessment Form - Help Guide
 ## Purpose
 The Core Building Assessment Form is a vital tool for evaluating a building's core structure, safety features, and environmental systems. It helps assessors identify potential issues and areas of concern, ensuring the building's integrity and safety.
 

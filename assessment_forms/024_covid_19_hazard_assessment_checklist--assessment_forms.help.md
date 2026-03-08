@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess potential hazards and risks associated with COVID-19 in the workplace. The goal is to evaluate the readiness and preparedness of an organization to respond to COVID-19-related incidents. This form will be used by [insert personnel or role] to review and evaluate the current state of the organization's emergency response plan, workplace safety protocols, and employee health status.
-Before proceeding, please confirm that you are accessing this form as part of the organization's regular risk assessment and emergency response plan review process and that you are not duplicating effort. If you are unsure, please contact [insert contact information].
-</thinking>
-
 # Covid 19 Hazard Assessment Checklist - Help Guide
 
 ## Purpose

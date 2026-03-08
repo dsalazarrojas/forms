@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information related to rental agreements, including details about the rental property, the tenant, and the terms of the agreement. It appears to be a template for creating a rental agreement declaration, which is likely used for internal administrative purposes, such as managing rental properties or tracking tenant information. The form has multiple pages with various fields, including text inputs, date pickers, and select options. Each field has a specific purpose, and the options provided suggest that the form is used to collect information about the rental property's details, the tenant's contact information, and the agreement's terms.
-
-</thinking>
-
 # rental_agreement_declaration_form - Help Guide
 ## Purpose
 The rental agreement declaration form is a template used for internal administrative purposes to collect information about rental properties, tenants, and agreement terms.

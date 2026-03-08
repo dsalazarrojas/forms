@@ -1,7 +1,3 @@
-<thinking>
-This form is used to acknowledge the receipt of goods or materials by the company or organization. It is essential to complete this form to ensure accurate record-keeping and to provide a formal acknowledgment of the goods received. The fields in this form should match the goods receipt documentation in the company's inventory management system.
-</thinking>
-
 # Goods Receipt Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to document the receipt of goods or materials by the company or organization.

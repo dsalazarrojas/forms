@@ -1,11 +1,3 @@
-<thinking>
-This form is an "Executive Summary Access Form" designed to collect information from executives, managers, and administrators about the type of reports they need to access. The purpose of this form is to ensure that the right executives receive the correct reports, allowing them to make informed decisions and access relevant information efficiently. This form will not ask for any sensitive or confidential information that could be used for malicious purposes.
-
-To avoid any potential misuses of this form, please do not use this form for any other purpose than its intended use.
-
-To confirm, this form is not affiliated with, nor endorsed by, any form creation platform, and its design is based solely on public metadata from the provided title and category.
-</thinking>
-
 # Executive Summary Access Form - Help Guide
 ## Purpose
 The Executive Summary Access Form is designed to collect information from executives, managers, and administrators about the type of reports they need to access. This information will help ensure that the right executives receive the correct reports, allowing them to make informed decisions and access relevant information efficiently.

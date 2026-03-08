@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from couples who are seeking wedding planning services. It's intended to be filled out by the couples themselves or their representatives. The purpose of this form is to provide the wedding planner with necessary information to schedule and prepare for the wedding appointment. The form includes fields for general information, contact details, appointment scheduling, and language preferences. Ensure the form is filled out correctly to provide the wedding planner with accurate and complete information to efficiently manage the wedding planning process.
-
-</thinking>
-
 # Wedding Planner Appointment Form - Help Guide
 ## Purpose
 This form is used to collect information from couples seeking wedding planning services. It helps wedding planners schedule and prepare for the wedding appointment efficiently.

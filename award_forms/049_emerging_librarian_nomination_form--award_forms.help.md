@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for the Emerging Librarian nomination process. The purpose of this form is to gather details about the nominee, nominator, and nomination year. It is intended to be filled out by the nominator, who is nominating the librarian for recognition. 
-
-The form will be used to determine whether a nominee meets the Emerging Librarian criteria and to evaluate their work. To ensure that the nomination process is fair and unbiased, only nominations from the specified nomination forms will be accepted.
-
-To avoid confusion and errors in the nomination process, please review the nomination form version carefully before submitting your nomination.
-
-</thinking>
-
 # Emerging Librarian Nomination Form - Help Guide
 ## Purpose
 The Emerging Librarian Nomination Form is used to collect information for the Emerging Librarian nomination process. It gathers details about the nominee, nominator, and nomination year to evaluate the nominee's work.

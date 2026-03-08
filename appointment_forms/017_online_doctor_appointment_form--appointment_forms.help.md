@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out correctly. The form is for patients to schedule appointments with doctors, and it captures relevant information such as patient contact details, appointment schedule, and payment method.
- 
-</thinking>
-
 # Online Doctor Appointment Form - Help Guide
 ## Purpose
 This form is designed for patients to schedule appointments with doctors. It is an essential tool for both patients and medical professionals to ensure seamless communication and efficient appointment management.

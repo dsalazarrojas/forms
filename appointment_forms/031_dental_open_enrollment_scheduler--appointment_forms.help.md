@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to schedule appointments for open enrollment at dental clinics. It is designed to capture information from the employer and clinic sides, including enrollment dates, times, and other relevant details. This form is likely to be used for scheduling purposes by dental clinics, allowing them to efficiently manage appointments for open enrollment. Before proceeding, ensure that you are using this form for the intended purpose and do not duplicate the process.
-</thinking>
-
 # Dental Open Enrollment Scheduler - Help Guide
 ## Purpose
 The Dental Open Enrollment Scheduler is a form designed to assist dental clinics in scheduling appointments for open enrollment. This form captures information from both the employer and clinic sides to facilitate efficient appointment management.

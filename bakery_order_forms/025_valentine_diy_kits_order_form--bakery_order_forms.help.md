@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for customers to order DIY kits for Valentine's Day celebrations. The purpose of this form is to collect customer information, including contact details, address, and order specifics such as date and time of delivery. 
-The form is designed to be completed by customers placing orders online or over the phone. 
-The following fields will be used to ensure accurate order fulfillment and delivery.
-
-</thinking>
-
 # Valentine DIY Kits Order Form - Help Guide
 ## Purpose
 This form is designed to collect order information for Valentine's DIY kits. Please provide your details accurately to ensure timely and efficient delivery of your order.

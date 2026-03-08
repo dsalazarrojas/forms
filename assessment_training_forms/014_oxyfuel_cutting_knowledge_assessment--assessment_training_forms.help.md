@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the knowledge and skills of individuals in the context of oxyfuel cutting. The purpose of this form is to assess the understanding of oxyfuel cutting procedures, safety rules, and precautions. It is essential to complete this form accurately to ensure that users have a solid grasp of the necessary knowledge and skills to perform oxyfuel cutting tasks safely and effectively.
-</thinking>
-
 # Oxyfuel Cutting Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate the knowledge and skills of individuals in the context of oxyfuel cutting.

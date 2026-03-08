@@ -1,5 +1,3 @@
-<thinking>...This form is intended for users to book a consultation with a web development expert for web development services. It is crucial to fill out the form accurately to ensure that the correct contact information and consultation details are captured. Please fill out the form only once. If you need to make multiple bookings, please contact us directly...</thinking>
-
 # web_development_consultation_booking_form - Help Guide
 ## Purpose
 This form is for booking a consultation with a web development expert for web development services.

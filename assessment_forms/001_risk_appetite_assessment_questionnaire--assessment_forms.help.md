@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on risk assessments for various financial goals. It's intended to gather data on the risk tolerance and level of different financial objectives, helping users understand their risk appetite and make informed decisions. Please note that this form is not a comprehensive risk assessment tool and should not be used as a substitute for professional financial advice. It's essential to review the form carefully and ensure it's relevant to your specific needs before proceeding.
-</thinking>
-
 # Risk Appétit Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess various aspects of risk tolerance and financial goals to provide a comprehensive understanding of an individual's or organization's risk appetite.

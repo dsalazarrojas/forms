@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form purpose and ensure its relevance and non-duplication. This gymnastics waiver form appears to be a comprehensive document that requires participant information, medical clearance, and waiver terms for gymnastics activities. The form likely aims to ensure the participant's safety and the facility's liability. To confirm, let's review the form fields again to ensure that there are no redundant or unnecessary sections.</thinking>
-
 # Gymnastics Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain the necessary information and consent from participants before allowing them to engage in gymnastics activities at the facility. The form ensures that the participant is aware of the rules, risks, and medical clearance required for the activity.

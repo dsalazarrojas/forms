@@ -1,8 +1,3 @@
-<thinking>
-To check for relevance, I'll assume that the form is designed to evaluate the user's knowledge on linear inequalities, likely used in mathematics or algebra courses.
-To avoid duplication, I'll ensure that each explanation is unique and concise.
-</thinking>
-
 # Linear Inequalities Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your understanding of linear inequalities, a fundamental concept in mathematics. It will guide you through a series of questions to evaluate your knowledge on the topic.

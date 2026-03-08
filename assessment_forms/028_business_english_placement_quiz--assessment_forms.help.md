@@ -1,5 +1,3 @@
-<thinking>Here's the internal reasoning to create a user-facing help guide for the Business English Placement Quiz form. The form is designed to assess a participant's English language skills, specifically in business settings. This assessment will help identify strengths and weaknesses in grammar, vocabulary, listening, and speaking skills. The guide will be concise and practical, covering the form's purpose, completion process, and field-by-field explanations.</thinking>
-
 # Business English Placement Quiz - Help Guide
 ## Purpose
 The Business English Placement Quiz is a tool to assess your English language skills in a business context. It will help identify your strengths and weaknesses in grammar, vocabulary, listening, and speaking skills, providing you with a baseline assessment to inform your learning goals.

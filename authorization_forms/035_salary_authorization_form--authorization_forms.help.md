@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Salary Authorization Form - Help Guide
 ## Purpose
 This form is used for requesting a salary authorization for an employee. It gathers necessary information about the employee, authorized person, salary amount, and other relevant details.

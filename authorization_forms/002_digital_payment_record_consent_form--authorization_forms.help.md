@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining user consent for digital payment records. The goal is to capture essential information from users, including their authorization details, contact information, and payment method, to ensure a seamless and secure payment experience. When filling this form, ensure you're only submitting this form once to prevent data duplication. This form should only be completed by users who have not already submitted a digital payment record consent form.
-</thinking>
-
 # digital_payment_record_consent_form - Help Guide
 ## Purpose
 This form is used for obtaining user consent for digital payment records. It gathers essential information to ensure a secure payment experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and inquiries related to book reviews and SEO services. It is intended to be completed by users who wish to provide feedback or ask questions regarding a book, privacy policy, or SEO services. The form fields are designed to gather specific details about the user, their interaction with the book or services, and the nature of their inquiry.
-</thinking>
-
 # Contact I Reviews - Help Guide
 ## Purpose
 This form is used to collect contact information and inquiries related to book reviews and SEO services.

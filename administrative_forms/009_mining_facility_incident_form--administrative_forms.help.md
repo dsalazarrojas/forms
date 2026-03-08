@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about incidents that occur in mining facilities. This form is designed to gather detailed descriptions of what happened, including the location, time, and reporter of the incident. This form is intended to be used by facility management, regulatory compliance, and safety teams to record and report incidents efficiently.
-
-To ensure data quality and prevent duplication, please make sure to:
-* Only report actual incidents, not speculative or hypothetical ones.
-* Avoid reporting duplicate incidents or variations of the same event.
-* Provide accurate and detailed descriptions of incidents.
-* Ensure that all required fields are filled out.
-
-The form is divided into several sections, each with its own fields that you need to fill out. Each section is designed to collect specific information that contributes to a comprehensive understanding of the incident.
-
-Below is a field-by-field explanation of what each section is meant to capture.
-</thinking>
-
 # mining_facility_incident_form - Help Guide
 ## Purpose
 The mining facility incident form is designed to record and report incidents that occur in mining facilities. It is intended to gather detailed information about the incidents, including location, date and time, reporter, and a detailed description of what happened.

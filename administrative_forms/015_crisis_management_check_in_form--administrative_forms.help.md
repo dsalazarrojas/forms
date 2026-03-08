@@ -1,7 +1,3 @@
-<thinking>
-This form is an "Administrative Forms" form, specifically for handling emergency incidents. It is designed to collect information related to emergency situations, such as team member status updates, incident descriptions, and incident dates. The fields in this form are meant to gather specific details that are relevant to the incident, and the form is not meant to be a comprehensive or all-encompassing solution. Before proceeding, ensure that the incident is relevant to the team and not a duplicate entry.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to collect information related to emergency incidents involving the team. This form is used to gather details about the incident, such as the team's status, incident description, and other relevant information.

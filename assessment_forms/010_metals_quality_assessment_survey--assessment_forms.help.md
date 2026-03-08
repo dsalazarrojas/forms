@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Metals Quality Assessment Survey form is to gather information about a sample's characteristics, including its chemical composition, weight, and other relevant details. This form helps to ensure that the sample is properly identified and prepared for testing.
-
-When filling out this form, ensure that you are using the correct information for the sample being assessed. The form is designed to collect information about a single sample at a time.
-
-Please review the following fields carefully to ensure you are providing the correct information.
-
-</thinking>
-
 # Metals Quality Assessment Survey - Help Guide
 ## Purpose
 The Metals Quality Assessment Survey form is used to collect information about a sample's characteristics, including its chemical composition, weight, and other relevant details.

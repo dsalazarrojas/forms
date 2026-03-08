@@ -1,8 +1,3 @@
-<thinking> 
-The Fire Safety Awareness Program Discharge Form is used to track when an employee or contractor has completed the fire safety awareness program and understands the essential protocols and procedures. This form is typically used at the end of the program, ensuring that the participant has a clear understanding of the fire safety guidelines and protocols. Before filling out this form, please ensure that you have completed the fire safety awareness program and have a clear understanding of the provided information. If you have not attended the program, please do not fill out this form. 
-
-</thinking>
-
 # Fire Safety Awareness Program Discharge Form - Help Guide
 ## Purpose
 The Fire Safety Awareness Program Discharge Form is used to track when an employee or contractor has completed the fire safety awareness program and understands the essential protocols and procedures.

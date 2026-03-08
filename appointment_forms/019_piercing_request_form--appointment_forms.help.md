@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from clients about their piercing requests. The form collects contact information, appointment details, and payment method preferences from the client. This form should only be filled out by clients who are requesting a piercing service. Filling out this form is the first step in the piercing process, and the information collected will be used to schedule an appointment and process payment.
 
 # Piercing_Request_Form - Help Guide

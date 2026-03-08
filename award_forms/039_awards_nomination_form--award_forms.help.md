@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for the "Awards Nomination Form" purpose. The form is intended to gather details about the nominator and the nominee, including their names, contact information, and affiliation. The form also asks for details about the nominee's relationship with the nominator and reasons for the nomination.
-</thinking>
-
 # Awards Nomination Form - Help Guide
 ## Purpose
 The Awards Nomination Form is designed to collect information from individuals who wish to nominate someone for an award. The form helps to ensure that all necessary details are provided to make a well-rounded nomination.

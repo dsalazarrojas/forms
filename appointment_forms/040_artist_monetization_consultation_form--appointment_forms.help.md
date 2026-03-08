@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from artists who are seeking monetization consultation for their work. The form is divided into several sections, focusing on artist information, current revenue status, audience and platform presence, monetization goals, challenges, consultation details, and confirmation of readiness. The sections and fields guide the artist through a structured process, ensuring they can provide all necessary details for a productive consultation. The form aims to gather relevant data to tailor the consultation to the artist's specific needs. It's crucial that the artist completes this form as accurately as possible to maximize the effectiveness of the consultation. Please confirm that the following steps are accurate for your situation: 
-- This form will guide you in gathering essential information about your artistic work.
-- This information will help the consultant understand your artistic goals and needs.
-- This form does not store or share your personal data for any purposes other than the consultation process.
-- This form does not collect any sensitive financial data.
-- Please be aware that the consultant will contact you based on the provided information.
-- You can request changes or clarifications at any point during the process.
-</thinking>
-
 # Artist Monetization Consultation Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,5 @@
 <figure>
 </figure>
-<thinking>
-The Fleet Maintenance Declaration Form is used to track and record the maintenance history of individual vehicles within a fleet. This form is essential for ensuring that vehicles are properly maintained, reducing the risk of mechanical failures and ensuring compliance with regulations. 
-</thinking>
-
 # Fleet Maintenance Declaration Form - Help Guide
 ## Purpose
 The Fleet Maintenance Declaration Form is used to collect information about individual vehicles in a fleet, including vehicle make, model, last service date, odometer reading, and maintenance due date. This form is essential for tracking maintenance history and ensuring that vehicles are properly maintained.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Geotechnical Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and skills in geotechnical fields, including geotechnical education, experience, skills, certifications, location, references, and other relevant information.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to collect and document a patient's ocular health assessment. The purpose of this form is to gather necessary information to evaluate the patient's ocular health status, including their vision, eye exam results, and any underlying medical conditions that may be affecting their eye health. This information will be used to create a comprehensive treatment plan for the patient. 
-
-This form is designed to be completed by a healthcare professional, such as an eye doctor or nurse, who will be working with the patient's medical history and exam results. 
-
-The information collected in this form will be used to inform the patient's treatment plan and may be shared with other healthcare professionals involved in the patient's care.
-
-The form has been designed to be comprehensive, yet not overly duplicative, and has been reviewed by relevant medical professionals to ensure that all necessary information is collected.
-
-</thinking>
-
 # ocular_health_assessment - Help Guide
 ## Purpose
 The ocular health assessment form is used to collect and document a patient's ocular health assessment. The form gathers information about the patient's vision, eye exam results, and any underlying medical conditions that may be affecting their eye health.

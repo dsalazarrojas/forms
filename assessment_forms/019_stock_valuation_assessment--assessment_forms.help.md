@@ -1,7 +1,3 @@
-<thinking>
-The Stock Valuation Assessment form is used to evaluate the current value of a company's stock. It takes into account various factors such as risk level, valuation method, stock price, expected return, risk free rate, and other relevant metrics. This form should only be filled out if you are authorized to access and assess stock valuations. If you do not have the necessary access rights or authorization, you should not attempt to complete this form. 
-</thinking>
-
 # Stock Valuation Assessment - Help Guide
 ## Purpose
 The Stock Valuation Assessment form is used to estimate the current value of a stock based on multiple criteria. This form is designed to help users assess and evaluate the value of a stock.

@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm not sure why the forms are being created in such a disorganized way, but I'll do my best to create the user-facing help guide for this form. I've reviewed the provided YAML and tried to break it down in a way that makes sense.
-</thinking>
-
 # Evacuation Alert Communication Form - Help Guide
 ## Purpose
 The Evacuation Alert Communication Form is used to report and communicate emergencies, drills, or tests that require evacuation of people from a specific location. This form helps you to quickly provide essential information to the relevant authorities in case of an emergency.

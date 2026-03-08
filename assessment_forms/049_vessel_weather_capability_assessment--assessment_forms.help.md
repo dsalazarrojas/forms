@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure that the form is not filled out by non-authorized users and that the same user doesn't fill it out multiple times. This form is intended to assess the weather capability of a vessel. This is a one-time assessment, and users should only submit the form once per vessel.
-</thinking>
-
 # Vessel Weather Capability Assessment - Help Guide
 ## Purpose
 The Vessel Weather Capability Assessment form is designed to evaluate the weather capability of a vessel. This assessment helps to determine the vessel's readiness for various weather conditions.

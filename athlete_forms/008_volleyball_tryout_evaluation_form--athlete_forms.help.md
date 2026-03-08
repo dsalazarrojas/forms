@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate a volleyball player's performance during a tryout session. The form will be completed by an evaluator and will be used to document a player's skills and attributes.
-</thinking>
-
 # Volleyball Tryout Evaluation Form - Help Guide
 ## Purpose
 This form is used to document and evaluate a volleyball player's performance during a tryout session. The form gathers information about the player's name, position, team, physical attributes, skill level, and overall performance.

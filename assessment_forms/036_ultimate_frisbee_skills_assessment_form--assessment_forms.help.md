@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to assess the skills of a frisbee player, specifically their throwing, catching, and other abilities. It is likely used by coaches, instructors, or team managers to evaluate a player's performance and provide feedback for improvement. The form collects information on various aspects of a player's skills, including their throwing, catching, dodging, sprinting, and other attributes. It is possible that this form is used as part of a training or evaluation program for frisbee players.
-
-</thinking>
-
 # Ultimate Frisbee Skills Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the skills of a frisbee player, evaluating their throwing, catching, and other abilities.

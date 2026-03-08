@@ -1,8 +1,3 @@
-<thinking>
-This form is used for repair authorization, and it should only be used when the technician is requesting authorization from the customer to proceed with repairs. This form is not intended for other purposes, and users should not use it for non-repair related matters. To confirm, the form is meant for repair authorization purposes only.
-
-</thinking>
-
 # Repair Authorization Form - Help Guide
 ## Purpose
 This form is used for repair authorization, and it should only be used when the technician is requesting authorization from the customer to proceed with repairs.

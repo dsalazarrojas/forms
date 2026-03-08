@@ -1,9 +1,3 @@
-<thinking>
-This form is used for English Language Proficiency Exam, which is designed to assess the language proficiency of students in the English language. The form captures information about the student's language skills, including their name, email, assessment date, time, and score. The form also allows teachers to provide comments and feedback to the students. The submission status and options are also collected to track the progress of the assessment. The form is designed to be used by teachers to evaluate students' language skills and provide feedback.
-
-The main use case for this form is for teachers to fill it out after assessing a student's language proficiency.
-</thinking>
-
 # English Language Proficiency Exam - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way for teachers to assess and record student's English language proficiency.

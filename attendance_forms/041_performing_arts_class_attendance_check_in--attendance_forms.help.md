@@ -1,8 +1,3 @@
-<thinking>
-Please verify that this is indeed a performing-arts-class-attendance-check-in form and not a duplicate of another form. This guide will cover all required and optional fields for the correct form type.
-
-</thinking>
-
 # performing-arts-class-attendance-check-in - Help Guide
 ## Purpose
 This form is designed to track the attendance of students in performing arts classes, providing a way to record session details, student information, and instructor feedback.

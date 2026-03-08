@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request access to various systems and technologies within the organization, which is essential for users to perform their job duties effectively. This form ensures that users understand their responsibilities and obligations related to data access, usage, and security. It's crucial to complete this form accurately and truthfully to ensure a smooth and secure access process.
-
-To determine the relevance and non-duplication of this form, I'll review the provided YAML fields. The form consists of 19 fields, including user information (full name, ID, department, position, email, and phone number), system access requests, access levels, data classification, and security agreements. Each section of the form is designed to gather specific information from the user, ensuring that they understand their access privileges and responsibilities.
-
-The provided fields cover essential aspects of access, such as system access, access level, data classification, and purpose of access. The fields also cover security-related topics, like data usage consent, security policy acknowledgment, data privacy acknowledgment, incident reporting agreement, access monitoring consent, and termination procedure acknowledgment.
-
-Non-duplication and relevance checks would involve ensuring that each field is essential and that there are no redundant or unnecessary fields. This review will help refine the form to make it more effective and user-friendly.</thinking>
-
 # Access System Technology Use Consent Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's sleep patterns and stress levels. The form is intended to be filled out on a daily basis, with the goal of tracking changes in sleep frequency, quality, stress levels, and wake times over time. By collecting this information, users can gain insights into their own sleep habits and stress levels, and identify potential areas for improvement.
-</thinking>
-
 # Sleep And Stress Assessment - Help Guide
 
 ## Purpose

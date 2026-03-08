@@ -1,7 +1,3 @@
-<thinking>
-A Legacy Contact Setup Request Form is used to request access to a user's account when they cannot manage their account themselves, such as when the account is locked or the user is no longer available. This form helps administrators identify a trusted contact who can be contacted in case of emergencies or important account-related issues. The form should only be used when there is a legitimate reason for the request, as excessive requests may indicate a security risk or abuse.
-</thinking>
-
 # Legacy Contact Setup Request Form - Help Guide
 ## Purpose
 The Legacy Contact Setup Request Form is used to request access to a user's account when they are unable to manage their account themselves. This form helps administrators identify a trusted contact who can be reached in case of emergencies or important account-related issues.

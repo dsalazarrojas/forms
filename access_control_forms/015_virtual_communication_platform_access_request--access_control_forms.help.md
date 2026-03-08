@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed to gather information from users requesting access to a Virtual Communication Platform. The purpose of this form is likely to facilitate access requests from users, allowing them to provide necessary information such as their contact details, reason for the request, and manager details. The form may also be used to track and manage access requests, including approval and denial processes. It's essential to ensure that this form is not duplicated or filled out for the same request multiple times to avoid unnecessary processing and potential confusion.
-
-</thinking>
-
 # Virtual Communication Platform Access Request - Help Guide
 ## Purpose
 This form is designed to gather information from users requesting access to a Virtual Communication Platform.

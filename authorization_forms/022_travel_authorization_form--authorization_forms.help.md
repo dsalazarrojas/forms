@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a travel authorization form, used to request approval for employee travel. The form likely serves as a way for employees to submit requests for travel, and the approver can review and approve or deny the requests based on the provided information. The form fields cover various aspects of the travel, including employee details, travel dates, purpose, destination, and cost. The form's design suggests that it is intended for internal use within an organization, possibly for HR or management purposes. The fields seem to be designed to gather enough information to make an informed decision on approval or denial of the travel request. There is no indication of duplication of effort or conflicting information in the provided YAML fields.</thinking>
-
 # travel-authorization-form - Help Guide
 ## Purpose
 The travel authorization form is used to request approval for employee travel. It is intended to gather necessary information for the approver to review and make an informed decision.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to document the termination of a landlord agreement between a landlord and a tenant. The purpose of this form is to provide a formal record of the agreement's end date, the reason for termination, and any applicable fees or notice periods. This form should only be used when the agreement has been mutually agreed upon by both parties, and not as a substitute for proper legal or binding contracts.
-
-To ensure that this form is completed accurately and thoroughly, please review the guidelines below.
-
-</thinking>
-
 # Landlord Agreement Discharge Form - Help Guide
 ## Purpose
 The Landlord Agreement Discharge Form is used to document the termination of a landlord agreement between a landlord and a tenant. This form provides a formal record of the agreement's end date, the reason for termination, and any applicable fees or notice periods.

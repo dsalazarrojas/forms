@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect information from participants in some sort of assessment, likely in an educational or training context. The form is called "Dual Representation Assessment Form". It seems to be a comprehensive form with various fields to collect data from participants. There is a mix of text fields, select_one fields (which may be used to select one of multiple options), and note fields. The form also includes fields specifically asking about participant information, training information, and survey questions. This form likely has some specific use case or requirements that need to be understood before completing it. The form does not seem to be redundant or duplicate any other form in the assessment_forms category.
-</thinking>
-
 # Dual Representation Assessment Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess the aerial rescue skills of a candidate, evaluating their ability to perform a successful rescue operation in a variety of scenarios. This form is designed for assessors to evaluate the candidate's performance in specific areas such as hazard assessment, equipment check, execution, and overall skill level. The form is intended to be used for internal assessment and evaluation purposes, and the results should not be shared with external parties without proper clearance.
-
-To ensure the form is used correctly, please confirm that you have the necessary permissions and clearance to access this form. Also, please note that this form should not be used for external assessments or evaluations.
-
-Please proceed with the understanding that this form is intended for internal use only.
-</thinking>
-
 # Aerial Rescue Skills Assessment - Help Guide
 ## Purpose
 The Aerial Rescue Skills Assessment form is designed to evaluate the skills and performance of a candidate in aerial rescue operations. The form assesses the candidate's ability to identify hazards, prepare for the rescue, and execute the rescue safely and effectively.

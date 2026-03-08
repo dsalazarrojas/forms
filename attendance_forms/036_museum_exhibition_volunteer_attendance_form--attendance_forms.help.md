@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Museum Exhibition Volunteer Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect attendance information from volunteers for museum exhibitions. Volunteers are asked to fill out this form to provide crucial data on their attendance, allowing the museum to accurately track volunteer hours and attendance statistics. This form is usually filled out by volunteers who have already been scheduled for a specific shift or exhibition.

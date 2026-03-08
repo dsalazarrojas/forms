@@ -1,5 +1,3 @@
-<thinking>...This form is used to assess a student's understanding of solid geometry concepts. It will guide the student through a series of questions designed to evaluate their knowledge of 3D shapes, coordinate systems, graphs and charts, projections, and vectors and rotations. The form will ask the student to choose the correct options for each question, and the results will be stored in a database for assessment and tracking. This form should not be filled out by anyone other than a student who is being assessed. If you are a tutor, you will need to fill out the assessment comments and student ID fields after the student has completed the form. Please ensure that each question is answered correctly to provide an accurate assessment.</thinking>
-
 # Solid Geometry Assessment - Help Guide
 ## Purpose
 This form is designed to assess a student's understanding of solid geometry concepts. It is intended to be completed by students who are being assessed on their knowledge of 3D shapes, coordinate systems, graphs and charts, projections, and vectors and rotations.

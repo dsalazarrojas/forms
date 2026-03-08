@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect data for a Presidential Approval Survey. It seems to be a series of questions or prompts that require approval or input from a user, possibly for some sort of official or administrative purpose. The form has multiple fields, but no specific information is provided about what the form is intended to achieve or what the fields represent. Therefore, I will provide a neutral explanation and guidance for end-users based on the provided YAML structure.
-</thinking>
-
 # Presidential Approval Survey - Help Guide
 ## Purpose
 The Presidential Approval Survey is a form designed to collect data for some administrative or official purpose. Please note that the exact purpose of the form is not explicitly stated, so it's assumed to be a general data collection tool.

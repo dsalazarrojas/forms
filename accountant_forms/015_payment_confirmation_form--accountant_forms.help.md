@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal reasoning check:**
-
-The Payment Confirmation Form is used to confirm and document payments received by the organization. This form helps ensure that payments are accurately recorded and processed in a timely manner. It is likely used by accounts payable staff to confirm payments with customers or clients. The form fields will need to be filled out with relevant information such as the date of payment, amount, and method of payment.
-
-The form should be completed by customers or clients who have made a payment to the organization, and the staff member reviewing the form will need to verify the details to ensure accuracy and consistency. This form will help prevent errors and ensure that payments are properly recorded and accounted for.
-
-</thinking>
-
 # Payment Confirmation Form - Help Guide
 
 ## Purpose

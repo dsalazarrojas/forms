@@ -1,5 +1,3 @@
-<thinking>This form was created to gather information from workers about their training needs. To ensure that your request is processed correctly, please make sure to fill it out thoroughly and accurately. Note that some fields are not mandatory, but providing the required information will help us process your request faster. Also, please check that you haven't already submitted a request for the same modules.</thinking>
-
 # Worker Training Module Request Form - Help Guide
 ## Purpose
 The Worker Training Module Request Form is a tool to help us identify your training needs and schedule the training sessions accordingly. Please fill out this form to let us know which modules you need training for, your preferred date and time, and other necessary details.

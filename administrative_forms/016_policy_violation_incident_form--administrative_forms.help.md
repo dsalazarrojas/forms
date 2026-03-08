@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about policy violations that have occurred within the organization. It is intended to be used by staff members to report incidents of policy non-compliance or breaches. The form will help the incident investigator gather all necessary details about the incident, including date, time, location, description, status, and resolution. It is crucial that staff fill out this form accurately and thoroughly, to ensure that the incident is properly documented and can be addressed effectively.
-This form will help ensure that all incidents are reported, investigated, and resolved in a timely and efficient manner.
-</thinking>
-
 # policy_violation_incident_form - Help Guide
 
 ## Purpose

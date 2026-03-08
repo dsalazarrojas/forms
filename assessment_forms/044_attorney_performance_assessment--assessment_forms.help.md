@@ -1,16 +1,3 @@
-<thinking>
-This form is used to assess the performance of an attorney within an organization. It is a comprehensive evaluation form that covers various aspects of an attorney's skills, behavior, and overall performance. This form should only be used for internal evaluations within an organization, and not for external reviews or evaluations of attorneys by clients or external parties.
-
-To ensure data consistency and integrity, please ensure that:
-
-- Each evaluation is conducted by a designated reviewer with relevant experience and knowledge of the attorney being evaluated.
-- Assessments should not be duplicated or repeated within a reasonable time frame (e.g., within 6 months).
-- Evaluations should be completed for each attorney only once per review period.
-
-Please note that this form assesses an attorney's performance based on their specific role within the organization. The performance evaluation should focus on the attorney's strengths and weaknesses as a practicing attorney, rather than their individual skills or qualifications.
-
-</thinking>
-
 # Attorney Performance Assessment - Help Guide
 ## Purpose
 The Attorney Performance Assessment form is designed to evaluate an attorney's performance within an organization. It assesses their skills, behavior, and overall performance across various areas, providing a comprehensive picture of their strengths and weaknesses.

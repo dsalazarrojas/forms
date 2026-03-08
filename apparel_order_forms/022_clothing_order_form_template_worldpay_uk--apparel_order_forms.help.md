@@ -1,21 +1,3 @@
-<thinking> 
-
-This form is a clothing order form for customers to provide their information and order details for a clothing item. The form is designed to gather essential information from the customer, including their name, contact details, product selection, product description, size, quantity, unit price, line total, delivery address, billing details, shipping method, and payment information.
-
-The form is divided into several sections for better organization and clarity. The sections include:
-
-- Personal details (customer name, email, phone number)
-- Product information (product selection, description)
-- Product specifics (size, quantity, unit price)
-- Delivery address (delivery address, city, postcode)
-- Billing details (billing address, billing same as delivery address)
-- Shipping method (shipping method)
-- Payment details (subtotal, shipping cost)
-
-This form is likely to be used for online shopping, and the purpose of this form is to ensure that customers provide accurate and complete information for their order.
-
-</thinking>
-
 # Clothing Order Form Template WorldPay UK - Help Guide
 
 ## Purpose

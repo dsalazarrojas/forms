@@ -1,8 +1,3 @@
-<thinking>
-We're generating a form for a Haircare Business Onboarding Appointment Form. This form is designed to collect information from new clients, including their personal details and appointment schedule. It's essential to ensure that this form accurately captures the necessary information to onboard clients effectively and efficiently. Please note that this form is not affiliated with any form platforms and is created solely based on publicly available metadata.
-
-To avoid duplication or redundancy, let's ensure that this form's fields are well-structured and clearly explained. We'll break down the form into sections for better understanding.</thinking>
-
 # Haircare Business Onboarding Appointment Form - Help Guide
 
 ## Purpose

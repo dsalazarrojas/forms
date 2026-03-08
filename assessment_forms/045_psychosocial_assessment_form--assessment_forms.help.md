@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Psychosocial Assessment Form is used to gather information about a patient's mental status, medical history, and treatment goals. This form is designed to be completed by the doctor or healthcare provider, and the data collected will help inform treatment decisions and develop a comprehensive care plan for the patient. 
 
 To complete this form, follow these steps:

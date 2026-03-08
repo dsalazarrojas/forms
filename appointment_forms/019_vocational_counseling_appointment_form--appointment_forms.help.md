@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vocational Counseling Appointment Form - Help Guide
 
 ## Purpose

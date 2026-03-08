@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Junior Lifesaver Of The Year Nomination Form. To avoid duplication, please ensure that you have not previously submitted a nomination for the same nominee. The form is used to collect information for the Junior Lifesaver Of The Year award, which recognizes outstanding contributions to the community, particularly in the education sector. The form requires basic contact information for both the nominee and the nominator, as well as details about the nominee's school/program and the nominator's school/organization.
-</thinking>
-
 # Junior Lifesaver Of The Year Nomination Form - Help Guide
 ## Purpose
 The Junior Lifesaver Of The Year Nomination Form is used to nominate individuals for the Junior Lifesaver Of The Year award, which acknowledges the outstanding contributions to the community, particularly in the education sector.

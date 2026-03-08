@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I'll analyze the provided form YAML to understand its purpose and requirements. The form is designed for submitting healthcare research studies, and it appears to be a basic form for collecting information from investigators, institutions, and study details. Each field seems to be related to the study submission process.</thinking>
-
 # Healthcare Research Study Submission Form - Help Guide
 ## Purpose
 The Healthcare Research Study Submission Form is designed to collect information from investigators and institutions about their research studies. This form helps streamline the study submission process, ensuring that all necessary details are collected in a structured and organized manner.

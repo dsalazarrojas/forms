@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for potential readings or appointments. The form is used to inquire about scheduling a reading or call back, and to provide preferences for the user's available days and times. This form will not be filled out if a user is already scheduled for a reading or has not expressed interest in scheduling a reading. Please ensure you have checked that you are not duplicating efforts before completing this form. Also, this form will not override or replace any existing scheduled appointments or readings.
-</thinking>
-
 # Inquiry Form For Readings - Help Guide
 
 ## Purpose

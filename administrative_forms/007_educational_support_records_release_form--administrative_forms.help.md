@@ -1,7 +1,3 @@
-<thinking>
-The Educational Support Records Release Form is used to release student records for educational purposes. This form is typically filled out by a student or parent/guardian to request access to their own or a student's records. It is used to provide the necessary information for the school to release records to the requested party. This form should not be used for other purposes or for students who do not have permission to access their records.
-</thinking>
-
 # Educational Support Records Release Form - Help Guide
 ## Purpose
 The Educational Support Records Release Form is used to request access to a student's records for educational purposes. This includes requesting records from a school or institution where the student was enrolled, attended, or worked. This form helps to ensure that the necessary information is provided to the correct person or organization, while also maintaining student confidentiality and protection of personal data.

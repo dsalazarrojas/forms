@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track an employee's mileage log and expenses for reimbursement purposes. It's essential to ensure that all required fields are completed accurately to prevent rejection of the form. Ensure that you have all necessary information and approvals before submitting this form.
-</thinking>
-
 # Mileage Log And Expense Report - Help Guide
 ## Purpose
 The purpose of this form is to track an employee's mileage log and expenses for reimbursement purposes. It collects information on mileage driven, expenses incurred, and relevant details to facilitate reimbursement.

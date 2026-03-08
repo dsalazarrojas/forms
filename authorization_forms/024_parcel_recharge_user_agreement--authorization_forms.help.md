@@ -1,8 +1,3 @@
-<thinking>
-This form is used by parcel delivery personnel to record and confirm details about the recharge process. It's essential to fill out this form accurately to ensure that the recharge process is completed correctly and any issues are addressed promptly. Before filling out this form, please review the following steps to ensure you're completing the form correctly and accurately.
-
-</thinking>
-
 # Parcel Recharge User Agreement - Help Guide
 ## Purpose
 The Parcel Recharge User Agreement is a form used by parcel delivery personnel to record and confirm details about the recharge process. It's a critical document that ensures the recharge process is completed correctly and any issues are addressed promptly.

@@ -1,7 +1,3 @@
-<thinking>
-The Satellite Internet Service Sign Up form is designed to collect information from customers for installing satellite internet services. This form should only be used for customers who have not previously filled out a form or do not have an existing appointment. This is to prevent duplication of effort and ensure that only new customers are entered into the system.
-</thinking>
-
 # Satellite Internet Service Sign Up - Help Guide
 ## Purpose
 This form is designed for customers who wish to sign up for satellite internet services. It collects necessary information for installation purposes.

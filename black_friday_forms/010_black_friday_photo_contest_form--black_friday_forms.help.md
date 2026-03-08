@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Black Friday Photo Contest Form - Help Guide
 
 ## Purpose

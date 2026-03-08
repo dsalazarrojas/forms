@@ -1,8 +1,3 @@
-<thinking>
-The Incident Escalation Report form is used to document and track incidents that require escalation. This form helps to gather and store information about incidents, including category, category, description, assigned tool, incident time zone, user role, incident type, incident status, incident priority, incident severity, escalation reason, assigned date, due date, escalation status, notes, user notes, team lead notes, reviewer notes, and reviewer name. This form is used for internal purposes only and is not intended for external use. 
-Please ensure that you are filling out this form for a valid incident and that you do not duplicate an existing incident. 
-</thinking>
-
 # Incident Escalation Report - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the Incident Escalation Report form.

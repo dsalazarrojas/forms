@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from telemetry technicians to assess their qualifications and experience. This form is likely used in a medical setting to gather data on the technician's work history, education background, and technical skills. To determine relevance, I'll examine the fields and options provided in the YAML inputSchema.
-</thinking>
-
 # Telemetry Technician Assessment - Help Guide
 ## Purpose
 This form is designed to collect information from telemetry technicians to assess their qualifications and experience in the medical field.

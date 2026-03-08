@@ -1,15 +1,3 @@
-<thinking>
-
-To ensure that the "Program Outcomes Annual Report Form" is completed accurately and effectively, it is essential to understand its purpose and requirements. This form is designed to capture essential information about program outcomes for the given reporting period. 
-
-To confirm the form's relevance, consider the following:
-
-*   It is intended for program administrators or managers to document and report on the progress of their programs.
-*   The form is meant to be completed annually, hence the focus on "year" as a specific field.
-*   The form should not be used for other purposes or as a substitute for other reporting requirements.
-
-</thinking>
-
 # Program Outcomes Annual Report Form - Help Guide
 ## Purpose
 This form is designed for program administrators or managers to document and report on the progress of their programs for the given reporting period.

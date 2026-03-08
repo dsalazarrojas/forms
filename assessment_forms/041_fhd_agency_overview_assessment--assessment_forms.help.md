@@ -1,13 +1,3 @@
-<thinking>
-
-This form seems to be designed to collect various types of information from an agency, which is likely to be used for assessment or evaluation purposes. The form appears to be a comprehensive assessment form with multiple sections and fields for different aspects of the agency's performance or characteristics.
-
-It is likely that this form is used for internal evaluation or assessment by the organization, and the data collected will be used for making decisions or taking actions related to the agency. The fields seem to be focused on collecting information about the agency's services, performance, and other relevant details.
-
-Before completing this form, ensure that you have all the necessary information and that you are filling out the correct fields. Double-check your answers to ensure accuracy and completeness.
-
-</thinking>
-
 # fhd_agency_overview_assessment - Help Guide
 ## Purpose
 This form is used to collect information about an agency, including its services, performance, and other relevant details. It is designed to be completed by the agency itself or by someone evaluating the agency.

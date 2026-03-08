@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess various aspects of a tech product development project. It gathers information on project initiatives, project scope, readiness level, team collaboration, project lead, project manager, project status, submission time, project name, project description, and team size. The form aims to evaluate the overall health and effectiveness of a tech product development project. This form is likely to be used in an internal context, such as within a company or organization, to monitor and improve project management practices.
-
-Before filling out this form, please check that you have the necessary permissions and clearance to do so. Also, make sure you're completing the form for a project that aligns with your area of responsibility.
-
-Please review the form carefully and only submit the information that is relevant to your project. Duplicate submissions for the same project are discouraged and may cause confusion.
-
-Please note that some fields may have limited options or be not required, but it's still important to provide accurate and relevant information whenever possible.
-</thinking>
-
 # Tech Product Development Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess various aspects of a tech product development project, aiming to evaluate its overall health and effectiveness.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to process parking fee refunds for customers who have been incorrectly charged for parking fees. This form is intended to be used when a customer has been incorrectly billed for parking fees, and the staff needs to provide a refund to the customer. The form is meant to gather all the necessary information to facilitate this process. Please ensure that this form is used for its intended purpose and not for other refund requests.
-</thinking>
-
 # parking_fee_refund_form - Help Guide
 ## Purpose
 The parking_fee_refund_form is a form used to process parking fee refunds for customers who have been incorrectly charged for parking fees.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to obtain business authorization from a representative who wishes to access certain business information on the Canada Revenue Agency (CRA) system. This form ensures that the representative has the necessary level of access and is authorized to view or update business information as needed. Before completing this form, please ensure that the representative is authorized to access your business information and that the provided information is accurate and complete. This form will check for non-duplication and relevance before submission.</thinking>
-
 # CRA Business Consent Authorization - Help Guide
 ## Purpose
 This form is used to obtain business authorization from a representative who wishes to access your business information on the Canada Revenue Agency (CRA) system.

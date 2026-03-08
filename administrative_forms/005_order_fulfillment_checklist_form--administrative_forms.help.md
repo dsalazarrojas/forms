@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to collect and track information about order fulfillment, which is a critical process in customer service. This form ensures that order details are correctly recorded and that all necessary information is captured for efficient order processing. To avoid duplication, ensure that this form is only used for new orders or updated orders. If an order has already been completed, do not use this form to re-enter information. 
-
-</thinking>
-
 # Order Fulfillment Checklist Form - Help Guide
 
 ## Purpose

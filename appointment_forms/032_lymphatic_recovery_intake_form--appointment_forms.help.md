@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # lymphatic_recovery_intake_form - Help Guide
 ## Purpose
 The lymphatic recovery intake form is designed to gather essential information from clients about their lymphatic recovery goals, health history, and personal preferences for appointments. This information will help our team better understand the client's needs and provide tailored support and guidance.

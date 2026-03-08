@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete the Corrosion Inhibitors Knowledge Quiz form. The form's purpose is to gather information about corrosion inhibitors, including their type, effectiveness, concentration, and application. The user will be presented with a series of questions and multiple-choice options to provide detailed information about the inhibitor being assessed. This form is not intended for use in a production environment, but rather as a tool to help users understand and learn about corrosion inhibitors. 
-Please use this form responsibly and only for its intended purpose.
-
-</thinking>
-
 # Corrosion Inhibitors Knowledge Quiz - Help Guide
 ## Purpose
 The Corrosion Inhibitors Knowledge Quiz is a form designed to gather information about corrosion inhibitors. It is intended to help users learn about and understand the characteristics of various corrosion inhibitors.

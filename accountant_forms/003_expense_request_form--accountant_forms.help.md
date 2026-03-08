@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting an expense report. It's intended for accounting purposes, and users should only submit requests if they have not done so recently. Please ensure that each user has not recently submitted an expense request before completing this form.
-</thinking>
-
 # Expense Request Form - Help Guide
 ## Purpose
 This form is used to submit an expense report to the accounting department for processing.

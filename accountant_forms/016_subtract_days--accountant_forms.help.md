@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to calculate the date that results from subtracting a specified number of days from a selected date. This is a straightforward calculation that allows users to easily determine the date that would be a certain number of days before or after a given date. The form is intended for users who need to perform this type of calculation for various purposes, such as scheduling or financial planning.
-
-</thinking>
-
 # subtract_days - Help Guide
 ## Purpose
 This form is designed to calculate the date that results from subtracting a specified number of days from a selected date.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Remote Access Security Assessment Form" is used to evaluate the security risks associated with remote access to sensitive areas or systems. This form helps in assessing the risk level of remote access, considering practices, duration, frequency, location, and review status. 
-</thinking>
-
 # Remote Access Security Assessment Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to report incidents that occur at or near the maritime domain, including but not limited to spills, collisions, groundings, and other accidents. This form will help to record and track incidents efficiently, which will aid in investigations and follow-up actions. Please ensure that you only submit one form per incident.
-
-</thinking>
-
 # Maritime Incident Report Form - Help Guide
 ## Purpose
 The Maritime Incident Report Form is a tool for reporting incidents that occur at or near the maritime domain. It allows users to record and track incidents, which will be used for investigations and follow-up actions.

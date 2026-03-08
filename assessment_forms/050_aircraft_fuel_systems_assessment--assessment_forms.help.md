@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure the user understands the purpose and requirements of the Aircraft Fuel Systems Assessment form. This form is likely used by maintenance personnel or inspectors to assess the status of an aircraft's fuel systems. The purpose is to gather relevant information about the assessor, assessment date, aircraft registration, fuel system type, any visual leaks detected, condition of the fuel filter, performance of the fuel pump, contamination check results, corrective actions required, and final assessment and recommendations. This form likely helps identify potential issues with the aircraft's fuel systems and guide maintenance or repair actions.
-</thinking>
-
 # Aircraft Fuel Systems Assessment - Help Guide
 ## Purpose
 The Aircraft Fuel Systems Assessment form is used to evaluate the status of an aircraft's fuel systems. It gathers information about the assessor, the date of the assessment, and key details about the aircraft's fuel system, including any issues detected during the assessment.

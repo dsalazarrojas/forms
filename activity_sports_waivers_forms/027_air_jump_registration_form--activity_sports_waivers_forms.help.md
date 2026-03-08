@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-This form is intended to gather essential information from participants for an air jump event. It is crucial to ensure that all necessary details are collected to provide a safe and enjoyable experience for both participants and the event organizers. The form should only be filled out by participants who are planning to participate in the event. Please review the form carefully to avoid duplication or errors.
-</thinking>
-
 # Air Jump Registration Form - Help Guide
 ## Purpose
 The Air Jump Registration Form is a mandatory form that needs to be completed by all participants before attending an air jump event. It collects vital information about the participant, including personal details, jump experience, and medical clearance. This form helps us to ensure a safe and enjoyable experience for everyone involved.

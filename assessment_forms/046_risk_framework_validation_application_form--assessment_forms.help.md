@@ -1,12 +1,3 @@
-<thinking>
-You're about to design a help guide for a user-facing form called "Risk Framework Validation Application Form". To begin, let's break down the form's purpose and ensure it's relevant and non-duplicitous.
-
-The form appears to be a general-purpose application form, with various fields for collecting different types of input from users. The fields include text input, dropdown select, date, time, note, email, and phone input fields. Each field is not clearly labeled with a specific "Risk" theme, and it seems that some fields might be duplicates. Let's assume this form is intended to collect general information about risk frameworks, but the current layout and field names do not clearly indicate this purpose.
-
-To create a helpful guide, let's aim to make it clear and concise, without inventing unsupported business logic.
-
-</thinking>
-
 # Risk Framework Validation Application Form - Help Guide
 ## Purpose
 This form is designed to collect general information about risk frameworks. You will be asked to fill out this form to provide details about your risk frameworks. If you have any concerns about the form or its purpose, please let us know, and we will be happy to assist you.

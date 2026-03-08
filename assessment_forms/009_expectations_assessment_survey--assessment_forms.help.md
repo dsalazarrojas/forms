@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the Expectations Assessment Survey form. The form is designed to gather information about an individual's expectations and experiences. 
-
-Before filling out the form, please ensure that you have reviewed the form purpose and understand that it is not meant to be completed multiple times.
-
-</thinking>
-
 # Expectations Assessment Survey - Help Guide
 ## Purpose
 The Expectations Assessment Survey is designed to assess an individual's expectations and experiences. This form gathers information about expectations, suggestions, and outcomes.

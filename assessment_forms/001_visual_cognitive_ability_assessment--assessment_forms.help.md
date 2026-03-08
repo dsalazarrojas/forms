@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to assess various aspects of visual cognitive ability, which refers to an individual's capacity for processing and interpreting visual information. Visual cognitive ability involves a range of skills including visual perception, memory, pattern recognition, visual attention, and spatial-temporal skills. This form is meant to be a comprehensive assessment tool for evaluating an individual's visual cognitive abilities.
-
-To ensure the form's purpose and relevance, please note that it was generated using public survey topic metadata and is not affiliated with or endorsed by any specific form platform.
-
-</thinking>
-
 # Visual Cognitive Ability Assessment - Help Guide
 ## Purpose
 The Visual Cognitive Ability Assessment form is designed to evaluate an individual's visual cognitive abilities, including visual perception, memory, pattern recognition, visual attention, and spatial-temporal skills.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Distribution Appointment Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking> 
-This form is used to track and document patient health outcomes over time. It captures information on patient progress, goals, status, next steps, outcome measures, assessment frequency, last assessment date, care team members, comments, and contact person. 
-
-This form likely aims to improve patient health outcomes by providing a systematic way of collecting and recording data on patient progress, goals, and care plans. It may be used by healthcare professionals, such as nurses or doctors, to regularly assess patient needs and adjust care plans accordingly. 
-</thinking>
-
 # Patient Health Outcome Improvement Report - Help Guide
 
 ## Purpose

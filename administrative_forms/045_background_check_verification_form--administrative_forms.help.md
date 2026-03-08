@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to verify the background checks of candidates, allowing administrators to record the results of individual verification steps. The form is used to collect information about the type of verification performed, the contact person at the organization/entity contacted, and the method of verification used. The form is essential in ensuring that all background checks are properly documented and that discrepancies found during the verification process are properly recorded.
-
-After filling out this form, an admin/ staff member should be able to easily verify the details of the background check and keep track of any discrepancies or issues found during the process.
-
-Before proceeding, ensure that the information provided is accurate and complete.
-
-</thinking>
-
 # Background Check Verification Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document the results of individual background checks for candidates. It ensures that all verification steps are properly recorded and that discrepancies found during the process are properly documented.

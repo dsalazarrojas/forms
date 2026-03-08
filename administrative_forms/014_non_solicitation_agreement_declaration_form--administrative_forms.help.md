@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Non Solicitation Agreement Declaration Form - Help Guide
 ## Purpose
 The Non Solicitation Agreement Declaration Form is a document that allows employees to declare that they are not soliciting business or engaging in any activities that may be deemed as solicitation. This form is intended to prevent any potential conflicts of interest and ensure that employees remain impartial in their work. 

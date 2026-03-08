@@ -1,7 +1,3 @@
-<thinking>
-Internal purpose of this form is to track and manage requests for customer refunds, ensuring timely and accurate processing. To prevent duplication, this form is only accessible to authorized personnel. Ensure that users have the necessary permissions to submit requests and that duplicate requests are avoided.
-</thinking>
-
 # Customer Refund Timeline Request Form - Help Guide
 ## Purpose
 The Customer Refund Timeline Request Form is designed to track and manage customer refund requests. This form helps to ensure that refunds are processed efficiently and in a timely manner.

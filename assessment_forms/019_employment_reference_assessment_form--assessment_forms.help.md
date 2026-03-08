@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess an individual's employment history, focusing on their contact information, work experience, and professional references. It is essential to complete this form accurately and thoroughly, ensuring that all required fields are filled in. Please make sure you have the necessary information and authorization to access the relevant details before proceeding. Additionally, please note that the form is not intended for duplication purposes, so please avoid submitting duplicate entries for the same individual. If you are unsure about any field or the information required, please review the field-by-field explanation below.
-</thinking>
-
 # employment_reference_assessment_form - Help Guide
 ## Purpose
 The employment_reference_assessment_form is used to gather detailed information about an individual's professional references, which is vital for employment-related purposes. This form ensures that you have all the necessary details about your references, making it easier to make informed decisions.

@@ -1,8 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Short Film Production Reservation Form, we must first consider the purpose of this form. This form, as indicated by its name, is used for booking or reserving a short film production project. It is essential to establish that the form's purpose is to gather information necessary for the production process, such as project details, logistical requirements, and contact information. 
-To ensure the guide is comprehensive, we should verify that the form is not duplicated in any other form or process, which, based on the provided YAML, does not appear to be the case. The form seems to collect specific and varied information, including project name, description, location, equipment, dates, times, contact information, and notes for the project and location. This guide will break down each field to help users understand its relevance and correct usage.
-</thinking>
-
 # Short Film Production Reservation Form - Help Guide
 
 ## Purpose

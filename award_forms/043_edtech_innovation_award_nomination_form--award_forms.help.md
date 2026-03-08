@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect nominations for the EdTech Innovation Award. The purpose of this award is to recognize and celebrate innovative projects, products, or initiatives in the field of Education Technology (EdTech). The form is intended for individuals to submit nominations for others or for themselves. The fields are designed to collect relevant information about the nominee, including their name, affiliation, and the details of their innovative work.
-
-</thinking>
-
 # EdTech Innovation Award Nomination Form - Help Guide
 ## Purpose
 The EdTech Innovation Award Nomination Form is a tool for nominating individuals or projects for recognition and celebration in the field of Education Technology. This form is designed to collect information about the nominee, their work, and their impact.

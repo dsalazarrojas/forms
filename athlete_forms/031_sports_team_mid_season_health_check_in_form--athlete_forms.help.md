@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for sports teams to gather information about the health and status of their players during the mid-season period. The purpose of this form is to collect data on player health, symptoms, medical conditions, and other relevant information to ensure the team's medical staff can provide accurate and timely support. This form should not be used for administrative or financial purposes. Please ensure you only fill out this form for actual player health checks and not for general record-keeping or reporting.
-
-This form contains multiple fields, and it's essential to fill them out accurately and completely. Please note that some fields are optional, but providing the information requested will help the team's medical staff to better assist the player. If you're unsure about any field or feel that some information is not relevant, please reach out to the team's medical staff for guidance.
-
-When filling out this form, please ensure that you enter accurate and up-to-date information. The fields are designed to help the team's medical staff understand the player's situation and provide appropriate care.
-</thinking>
-
 # sports_team_mid_season_health_check_in_form - Help Guide
 ## Purpose
 

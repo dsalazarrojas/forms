@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information for paintball and airsoft events. It is a registration form that captures essential details from participants, including their contact information, scheduling preferences, and safety acknowledgments. This form is designed to be completed by event participants to ensure they have provided all necessary details for the event organizers to manage the event efficiently.
-
-Before you start, please note that this form is not intended for duplicate registrations or registrations without valid contact information. If you have already registered for the same event or do not have a valid email address and phone number, please do not complete this form again.
-
-Please complete this form carefully, and ensure you provide accurate information to help the event organizers and other participants have a smooth and enjoyable experience.
-
-</thinking>
-
 # Paintball And Airsoft Registration - Help Guide
 ## Purpose
 This form is used to collect information for paintball and airsoft events. It is a registration form that captures essential details from participants, including their contact information, scheduling preferences, and safety acknowledgments.

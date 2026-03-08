@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for legal consultations, including contact details, consultation preferences, and follow-up settings. The form is intended to be completed by clients to book an appointment with a legal expert. It is not intended for internal use by legal experts. Therefore, please do not fill out this form if you are a legal expert or if you have already completed a consultation with us.
-</thinking>
-
 # Legal Consultation Booking Form - Help Guide
 
 ## Purpose

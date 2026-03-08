@@ -1,5 +1,3 @@
-<thinking> This form is designed to help users book and manage educational workshops, gathering important details about the workshop and the participants. It's essential to fill out this form carefully to ensure accurate and efficient processing of the booking. Please ensure that the form is filled out correctly to avoid any misunderstandings or missed details. </thinking>
-
 # Educational Workshops Stay Booking Form - Help Guide
 ## Purpose
 This form is used to book and manage educational workshops. It collects necessary information from participants, including their preferences, availability, and accommodation needs.

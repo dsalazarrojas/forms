@@ -1,18 +1,3 @@
-<thinking>
-This form is used to gather information on an organization's control measures in place for workplace safety and health. This includes assessing the organization's policies, procedures, and practices for managing hazards and risks associated with their operations. The form will guide the user through a series of questions to gather specific details about the organization's safety protocols, risk assessments, personal protective equipment (PPE), emergency procedures, training records, equipment maintenance, hazard communication, incident reporting systems, first aid supplies, fire safety equipment, ventilation systems, and overall compliance with control measures. 
-
-This form is intended for use by personnel conducting safety assessments or risk evaluations. It should not be used by organizations without proper safety and health expertise. 
-
-Before using this form, ensure that you are familiar with the organization's safety protocols and control measures in place. 
-
-Note: This form has been designed to be completed by one person per organization, and it's intended to be used as a tool for internal assessment and evaluation. It is not intended for external use without proper clearance and authorization from the organization's management or safety team. 
-
-To avoid duplication of effort, ensure that this form is not completed by organizations that have already undergone a similar assessment in the recent past (e.g., within the last 6-12 months). 
-
-Before completing this form, it's recommended that you review the organization's safety protocols, policies, and procedures to ensure accuracy and completeness.
-
-</thinking>
-
 # Checklist For Control Measures - Help Guide
 ## Purpose
 The Checklist For Control Measures form is designed to help organizations evaluate their control measures in place for workplace safety and health. It's used to assess the organization's policies, procedures, and practices related to managing hazards and risks associated with their operations.

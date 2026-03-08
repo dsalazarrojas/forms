@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Audio Cable Supply Booking Form - Help Guide
 ## Purpose
 This form is designed for booking audio cables for events and productions. It will help you provide the required information to fulfill your cable needs for a specific date range, including the type and quantity of cables, delivery method, and payment details.

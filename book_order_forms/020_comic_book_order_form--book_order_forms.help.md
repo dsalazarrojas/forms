@@ -1,6 +1,3 @@
-<thinking>
-To confirm, this form is intended for customers to place a comic book order, and it appears to include sections for customer information, comic book selection, payment and shipping options, and order summary. I will review the form fields to ensure I cover all relevant details in the help guide.</thinking>
-
 # Comic Book Order Form - Help Guide
 ## Purpose
 The Comic Book Order Form is designed for customers to place comic book orders with the option to choose from various comic book titles, payment methods, and shipping preferences. 

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for verifying the inspection of a vehicle, likely for insurance or safety purposes. The form should be filled out by an inspector or a vehicle owner after an inspection has been performed. It's likely that this form will be used to track and record the inspection's details.
-
-The form should not be filled out if the vehicle has not been inspected or if the inspection is not relevant to the current situation.
-
-The form should be filled out by the same person or entity who performed the inspection. If a vehicle has undergone repairs or has a specific inspection status (e.g. failed), the corresponding fields in the form should be filled out accordingly.
-
-</thinking>
-
 # Vehicle Inspection Verification Form - Help Guide
 
 ## Purpose

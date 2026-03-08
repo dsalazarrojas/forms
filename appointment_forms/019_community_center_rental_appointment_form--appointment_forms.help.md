@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule appointments for community center facilities. This form is intended for internal use and should be completed by staff. It is essential to ensure that the form is completed accurately and thoroughly to provide the necessary information for scheduling and coordinating events. The form fields should match the fields listed in the internal database, and if there are any discrepancies, it is recommended to double-check the information with the staff before proceeding.
-</thinking>
-
 # Community Center Rental Appointment Form - Help Guide
 
 ## Purpose

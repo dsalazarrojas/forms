@@ -1,8 +1,3 @@
-<thinking>
-This block will serve as a placeholder for internal reasoning about the form purpose and checks for non-duplication.
-This form is for self-funded appointment confirmation, which means it's used to gather information from patients about their appointments. The form should only be used once per appointment, and it's not intended to be reused or duplicated.
-</thinking>
-
 # self_funded_appointment_confirmation - Help Guide
 ## Purpose
 The self-funded appointment confirmation form is used to collect information from patients about their appointments. This form is designed to be completed once per appointment, and it's essential to ensure accuracy and consistency in the data collected.

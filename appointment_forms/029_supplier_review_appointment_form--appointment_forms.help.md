@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplier Review Appointment Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from users to request access to legal documents, which could include various types of documents such as identification, certification, or other official records. The purpose of this form is to gather necessary information from the user to facilitate the request process. To ensure accurate and efficient processing, please provide all required information.
-
-Please note that the form does not have any required fields and it's intended for users to input their information voluntarily. However, providing accurate and detailed information will help in expediting the request process.
-</thinking>
-
 # legal_document_access_request_form - Help Guide
 ## Purpose
 The "legal_document_access_request_form" is used to collect information from users to request access to legal documents. The form is designed to gather necessary details for the request process.

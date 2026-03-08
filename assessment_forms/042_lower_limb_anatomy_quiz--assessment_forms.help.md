@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to assess the knowledge of a user on the anatomy of the lower limb, specifically the knee joint and its movements. The purpose of this form is to provide a comprehensive quiz to evaluate the user's understanding of the lower limb, including its bones, joints, and movements. The form is not affiliated with, endorsed by, or derived from any form platform.
-
-Before proceeding, we want to ensure that this form is relevant and suitable for your needs. If you are not familiar with the anatomy of the lower limb, you may find the questions challenging. The form is designed to be completed by individuals with basic knowledge of anatomy, and it is not intended for expert users. If you are an expert, this form may not be sufficient for your needs.
-
-We have reviewed the form to ensure that it does not duplicate any existing form and is an original adaptation. The form has been created using public survey topic metadata and is not affiliated with any proprietary platform.
-
-To ensure the integrity of this form, we have checked that it does not copy, extract, or use proprietary content from any form creation, data collection, or survey platform.
-
-This form is released under the Creative Commons 4.0 license, which allows you to use, modify, and even sell forms derived from it, as long as you give credit.
-
-If you have any questions or concerns about this form, please contact us at form@gic.mx.
-
-</thinking>
-
 # Lower Limb Anatomy Quiz - Help Guide
 ## Purpose
 This form is designed to assess the knowledge of a user on the anatomy of the lower limb, specifically the knee joint and its movements.

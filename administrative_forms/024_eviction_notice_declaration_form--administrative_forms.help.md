@@ -1,7 +1,3 @@
-<thinking>
-This form is used to declare a tenant's eviction notice, which is a formal document used to inform a tenant that they are being evicted. This form is an administrative tool for landlords to provide a clear and legally binding declaration of intent to evict a tenant. Please ensure that you have the necessary legal authority and permissions before completing this form.
-</thinking>
-
 # eviction_notice_declaration_form - Help Guide
 ## Purpose
 This form is used to declare a tenant's eviction notice, which is a formal document used to inform a tenant that they are being evicted. Please ensure that you have the necessary legal authority and permissions before completing this form.

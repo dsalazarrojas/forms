@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we should first understand the purpose of this form and ensure that it's not duplicating any existing form. From the provided YAML, this form is likely used for reserving gym equipment, and its purpose is to collect information for each reservation.
-</thinking>
-
 # gym_equipment_reservation_form - Help Guide
 ## Purpose
 The gym equipment reservation form is used to collect information for reserving gym equipment, allowing users to reserve equipment and schedule time slots.

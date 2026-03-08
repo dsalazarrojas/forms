@@ -1,9 +1,3 @@
-<thinking>...
-
-The purpose of this form is to collect registration information from participants in the 45 Days Challenge. This form is designed to gather essential details about the participant, including their contact information, medical conditions, goals, and preferred session time. The data collected will help the organizers match participants with suitable workouts and trainers. Please ensure you fill out the form accurately and completely to ensure a smooth experience.
-
-</thinking>
-
 # 45 Days Challenge Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants in the 45 Days Challenge. It is a crucial part of the registration process, and your accuracy and completeness will ensure that you get matched with a suitable workout plan and trainer.

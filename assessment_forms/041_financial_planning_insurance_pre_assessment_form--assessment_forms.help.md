@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers provide information about their financial planning and insurance assessment needs. It is meant to gather data for insurance planning purposes. Please ensure that you have the necessary permissions and approvals to collect and use this data. This form does not collect sensitive or personal identifiable data.
-</thinking>
-
 # financial_planning_insurance_pre_assessment_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from customers for financial planning and insurance assessment purposes.

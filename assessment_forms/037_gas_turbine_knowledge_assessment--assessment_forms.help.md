@@ -1,10 +1,3 @@
-<thinking>
-The form is likely designed to assess knowledge about gas turbines. The purpose of this form is to gather information from users about their knowledge on gas turbines. There is a mix of fields for user input, with some fields being optional, and some fields being select-one or select-multiple types. The fields are likely related to gas turbine knowledge and may include questions about training teams, correct answers, and other relevant information. It's worth noting that most fields seem to be redundant or duplicate each other. Upon further inspection, it appears that fields 2, 4, 5, 6, 7, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, and 25 are either duplicates or have similar names, which may cause confusion. It's essential to review and consolidate these fields to make the form more efficient and user-friendly. However, this will not be the focus of this help guide. 
-
-Please note that this form has a mix of field types, including text, select-one, and select_multiple, which will require a clear explanation to help end users navigate the form effectively.
-
-</thinking>
-
 # gas_turbine_knowledge_assessment - Help Guide
 ## Purpose
 The gas_turbine_knowledge_assessment form is designed to gather information from users about their knowledge on gas turbines.

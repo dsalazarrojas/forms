@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to request access to the Law Enforcement Training Portal, a platform providing training resources for law enforcement professionals. 
-
-This form is meant for law enforcement supervisors and personnel to submit requests on behalf of their officers or agents to access the training portal. The form captures essential information to process these requests efficiently, including personal details and supervisor verification. Before filling out this form, ensure the request is legitimate and not a duplicate. If the request is for someone who has already been granted access, please do not resubmit. If the request is for someone who has been denied access in the past, please do not resubmit. Please note that each field is optional but may be required for accurate processing.
-
-</thinking>
-
 # Law Enforcement Training Portal Access Request - Help Guide
 ## Purpose
 This form is used to request access to the Law Enforcement Training Portal for law enforcement personnel.

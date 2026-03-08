@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to register access to financial statements for accountants to review. The purpose of this form is to collect information about the account holder's contact and financial information. The form is intended to be completed by the account holder or their representative, and it will be used to verify their identity and determine their access rights to their financial statements.
-
-The form will only be completed once, and the information gathered will be stored for future reference. Before filling out the form, please ensure that you have the authority to access the account holder's financial information.
-
-This form will not be used for any other purpose than verifying access rights to financial statements. Any information collected will not be shared or used for any other reason than verifying access rights.
-
-Please ensure that all information is accurate and up-to-date to avoid any issues with access rights.
-
-</thinking>
-
 # Financial Statement Access Registration Form - Help Guide
 ## Purpose
 The Financial Statement Access Registration Form is designed to collect information about account holders and their financial institutions to determine access rights to their financial statements.

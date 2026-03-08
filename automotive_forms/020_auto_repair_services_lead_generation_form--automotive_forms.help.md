@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential customers about their automotive needs, such as vehicle details, service requirements, and contact information. This form will help the auto repair services team to understand the customer's needs and provide them with relevant services and communication.
-
-To prevent unnecessary duplication, this form will only be used for initial consultations. If a customer has already submitted a similar form, we will not require them to fill it out again.
-</thinking>
-
 # Auto Repair Services Lead Generation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential customers about their automotive needs, allowing the auto repair services team to provide accurate services and communication.

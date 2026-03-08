@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide for the "electric_vehicle_test_drive_reservation_form" form, we first need to clarify its purpose. This form is likely used for customers to reserve a test drive for an electric vehicle. The form should be designed to gather relevant information from the customer, including their name, contact information, vehicle preferences, and other details. The form likely serves as a pre-registration step for potential customers who want to experience an electric vehicle before purchasing. The form's design should be user-friendly and clear, with each field explained to ensure the customer understands what information is required and why.
-</thinking>
-
 # electric_vehicle_test_drive_reservation_form - Help Guide
 ## Purpose
 The electric_vehicle_test_drive_reservation_form is designed for customers to reserve a test drive for an electric vehicle. This form gathers relevant information from the customer, including their name, contact details, vehicle preferences, and other important details. It serves as a pre-registration step for potential customers who want to experience an electric vehicle before making a purchase.

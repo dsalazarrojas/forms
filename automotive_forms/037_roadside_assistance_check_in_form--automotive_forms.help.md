@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for road assistance services. It should only be filled out for assistance services rendered by a specific organization. If you have already provided this information, please do not fill out this form again. 
-</thinking>
-
 # Roadside Assistance Check In Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for road assistance services. It is designed to help the service provider understand the customer's needs and provide the best possible assistance.

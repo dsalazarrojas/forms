@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the vendor settlement process by collecting necessary information from vendors. The form should only be used for vendors who have a genuine need for settlement, and it's essential to ensure that the information provided is accurate and up-to-date. Before completing this form, vendors should review their internal processes and procedures to ensure that they have all the required information ready for submission. It's also crucial to note that duplicate submissions can cause confusion and delays in the settlement process, so please ensure that this form is only submitted once all required details have been verified.
-
-</thinking>
-
 # Vendor Settlement Authorization Application Form - Help Guide
 ## Purpose
 This form is designed to facilitate the vendor settlement process by collecting necessary information from vendors.

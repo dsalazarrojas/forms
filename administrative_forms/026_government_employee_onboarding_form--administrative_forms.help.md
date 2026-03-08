@@ -1,14 +1,3 @@
-<thinking>
-The Government Employee Onboarding Form is designed to collect essential information from new employees, ensuring a smooth transition into the organization. This form serves as a comprehensive tool for HR departments to gather necessary details about new hires, including their personal information, job details, and benefits eligibility. 
-
-The form's fields are divided into categories, making it easy to navigate and filling out the form straightforward. 
-
-Please ensure to check with HR before completing this form to verify that it's relevant and necessary for your specific needs. 
-
-It's essential to fill out this form accurately and thoroughly, as incorrect or incomplete information can cause unnecessary delays in the onboarding process.
-
-</thinking>
-
 # Government Employee Onboarding Form - Help Guide
 ## Purpose
 The Government Employee Onboarding Form is a comprehensive tool for HR departments to collect essential information from new employees, ensuring a smooth transition into the organization.

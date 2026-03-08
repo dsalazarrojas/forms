@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from individuals who are experiencing symptoms or have been exposed to COVID-19. This form is designed to gather relevant details from users in a structured and organized manner, ensuring that all necessary information is captured accurately. Please note that this form is not intended for medical diagnosis or treatment; if you have any concerns about your health, please consult a medical professional.
 
 To ensure that the form is completed accurately and efficiently, please follow the instructions below.

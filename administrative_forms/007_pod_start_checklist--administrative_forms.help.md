@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information for project planning and management. It is intended to be completed by the team lead or project administrator to ensure that all necessary details are captured for the new project. This form should not be used for duplicate projects. It is crucial to fill out this form accurately and thoroughly to ensure that the project is properly set up for success.
-</thinking>
-
 # Pod Start Checklist - Help Guide
 ## Purpose
 The Pod Start Checklist is a form used to collect project details for new projects. It helps the team lead or project administrator to gather essential information about the project, ensuring that it is properly set up and managed.

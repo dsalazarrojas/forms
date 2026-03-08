@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for pet owners to release their pets for service (grooming, training, etc.) and is used to record the details of the service provided and any relevant information about the pet and its owner. It is crucial to fill out this form accurately and completely to ensure that all necessary information is recorded.
-</thinking>
-
 # Grooming Release Form - Help Guide
 ## Purpose
 The Grooming Release Form is used to document the details of a pet's grooming or service visit. It collects information about the pet, its owner, and the service provided. This form is essential for maintaining accurate records and ensuring the pet's owner is informed and aware of the service details.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to authorize a vehicle inspection for maintenance, repair, or other specific reasons. Before filling out the form, please ensure that you have the necessary information and authorization to complete it. This form is designed to be used only once for each vehicle inspection. Please do not reuse or duplicate this form for subsequent inspections.
-</thinking>
-
 # Vehicle Inspection Authorization Form - Help Guide
 ## Purpose
 The Vehicle Inspection Authorization Form is used to gather information and authorization for a vehicle inspection. This form is intended to be used by authorized personnel to schedule and conduct vehicle inspections for maintenance, repair, or other specific reasons.

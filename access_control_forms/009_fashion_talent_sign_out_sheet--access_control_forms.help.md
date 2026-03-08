@@ -1,9 +1,3 @@
-<thinking>
-This guide is for the "fashion_talent_sign_out_sheet" form, a document used to record the sign-out of talents from the fashion industry. This form is intended for internal use, and its completion is required for maintaining accurate records and ensuring that the talent is properly managed. Before filling out this form, please ensure that you have the necessary information and that it is not a duplicate record.
-
-This form consists of the following sections:
-</thinking>
-
 # fashion_talent_sign_out_sheet - Help Guide
 ## Purpose
 The "fashion_talent_sign_out_sheet" form is a document used to record the sign-out of talents from the fashion industry. It is used to maintain accurate records and ensure proper management of the talent.

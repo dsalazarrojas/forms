@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for booking a session at a robotics camp for children. The form likely collects personal details about the child, their parents or guardians, and other relevant information such as medical conditions and special needs. This form is probably used for administrative purposes to ensure the camp can provide the best possible experience for all participants.
-</thinking>
-
 # Robotics Camp Booking Form - Help Guide
 ## Purpose
 This form is used to book a session at a robotics camp for children. It collects personal details about the child, their parents or guardians, and other relevant information to ensure the camp can provide a safe and enjoyable experience.

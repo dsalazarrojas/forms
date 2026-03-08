@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect votes for the Referee of the Year award. This form is intended for use by sports organizations or teams to gather feedback and ratings from stakeholders, such as coaches, players, or parents, to identify a top-performing referee. The form is designed to be completed by multiple users, allowing for a pool of votes to be collected and analyzed.
-
-To avoid duplication, please ensure that each user only completes one form per referee. If a user has already completed a form for a specific referee, they should not attempt to submit another form for the same referee.
-
-Please note that this form is for internal use and is not intended for public disclosure. The data collected will be used for informational purposes only, to help identify top-performing referees and provide feedback for improvement.
-</thinking>
-
 # Referee Of The Year Voting - Help Guide
 ## Purpose
 The Referee Of The Year Voting form is designed to collect ratings and feedback about referees from various categories. This form is used to gather opinions from multiple stakeholders, such as coaches, players, and parents, to identify top-performing referees.

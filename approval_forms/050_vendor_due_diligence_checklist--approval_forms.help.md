@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information on vendors for due diligence checks. Due diligence is an investigation or research that a company conducts on a potential new partner, vendor, or business before entering into an agreement. This form collects general, contact, business, financial, security, operational, and review information, as well as any additional notes from the user, which will help in understanding a vendor's situation better before proceeding with any kind of partnership or deal. 
-
-Before starting, please ensure you're not duplicating the efforts of other team members and that the data you provide is accurate, up-to-date, and not incomplete. This will save time and resources in the long run and help ensure consistency across the organization. 
-
-</thinking>
-
 # Vendor Due Diligence Checklist - Help Guide
 ## Purpose
 The Vendor Due Diligence Checklist is a form used to collect and document information about potential vendors for due diligence purposes.

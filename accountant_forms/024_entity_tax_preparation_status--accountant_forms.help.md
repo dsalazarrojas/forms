@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Entity Tax Preparation Status form. The purpose of this form is to track the tax preparation status of entities, providing an overview of the current status of tax preparation for various entities. This form will likely be used by accountants or tax professionals to update the status of tax preparation for entities they are working with.
-
-To determine if this form is relevant to the user's tasks, consider the following questions:
-* Are you involved in tax preparation or related activities?
-* Do you need to track the status of tax preparation for entities?
-* Are you an accountant or tax professional?
-If the answer to these questions is yes, this form is likely relevant to your work.
-
-Before starting, please review the form fields below to ensure you understand what information is required and how to complete the form correctly. This will help you avoid duplication of effort and ensure that the form is completed accurately.
-</thinking>
-
 # Entity Tax Preparation Status - Help Guide
 ## Purpose
 The Entity Tax Preparation Status form is used to track the tax preparation status of entities. This form helps accountants and tax professionals keep track of the current status of tax preparation for various entities.

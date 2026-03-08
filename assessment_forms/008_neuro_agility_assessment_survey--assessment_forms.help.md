@@ -1,11 +1,3 @@
-<thinking>
-This form is a Neuro Agility Assessment Survey, designed to gather information about the user's learning preferences, habits, and characteristics. 
-The purpose of this form is to collect data to help us better understand individual needs and tailor our learning materials to meet those needs. 
-We aim to provide a personalized experience for our users, and this form is the first step in that process. 
-Please ensure to fill out the form accurately and thoroughly, and make sure you are answering based on your real experiences. 
-We also encourage you to answer each question carefully, as your responses will help us create more effective learning materials.
-</thinking>
-
 # Neuro Agility Assessment Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners for a veterinarian's appointment. It is intended to be used in a clinical setting to gather essential details about the pet and its owner. The form should only be used for pets that need medical attention and not for general inquiries or consultations.
-</thinking>
-
 # Veterinarian Appointment Form - Help Guide
 ## Purpose
 

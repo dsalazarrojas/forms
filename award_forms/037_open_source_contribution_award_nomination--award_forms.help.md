@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for nominating contributions to open-source projects or initiatives. The purpose is to recognize and appreciate the efforts of individuals or teams who have made significant contributions to the open-source community. The form will be reviewed and assessed internally to ensure that the nominees meet the established criteria for recognition. Please ensure that you only submit nominations for those who have genuinely contributed to open-source projects or initiatives and not for personal or self-promotional purposes. Duplicate nominations with the same nominee will be discarded.
-</thinking>
-
 # open_source_contribution_award_nomination - Help Guide
 ## Purpose
 This form is used to nominate individuals or teams for their contributions to open-source projects or initiatives. The nomination should be a genuine recognition of their efforts and not for personal or self-promotional purposes.

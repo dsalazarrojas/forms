@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to track and review access requests for Google Drive, allowing users to provide visibility into who has requested access, what access type was requested, and other relevant details. This form likely exists to ensure accountability and transparency within the organization, reducing risks associated with unauthorized access to sensitive data. By tracking access requests, reviewers can quickly identify potential security risks and address them promptly. This form should not be used for other purposes or as a substitute for existing access control mechanisms.
-
-When reviewing this form, make sure to check for any potential issues or concerns, such as:
-* Multiple requests with the same access type or user.
-* Unusual or unexplained access requests.
-* Requests that were made by users without the necessary permissions or approvals.
-* Requests that were made under unusual circumstances (e.g., a large number of simultaneous requests from the same user).
-* Requests from unknown or unauthorized users.
-* Inconsistent or unclear review comments.
-* Requests that were not reviewed in a timely manner.
-
-</thinking>
-
 # Google Drive Access Review Tracker - Help Guide
 
 ## Purpose

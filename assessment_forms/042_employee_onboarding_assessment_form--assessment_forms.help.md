@@ -1,11 +1,3 @@
-<thinking>
-
-The Employee Onboarding Assessment Form is designed to be used as a tool to track the status of newly hired employees' onboarding progress, providing a centralised and structured way of gathering information on various aspects of their onboarding journey. The form aims to streamline the onboarding process, allowing new hires to be assessed and onboarded more efficiently, and enabling managers and administrators to make data-driven decisions. 
-
-Before proceeding with this help guide, please ensure that you have understood the purpose of the form and are aware that this form might have fields with similar labels but varying data types or options. This guide will clarify the intended use and interpretation of each field to ensure accurate completion of the form.
-
-</thinking>
-
 # Employee Onboarding Assessment Form - Help Guide
 ## Purpose
 The Employee Onboarding Assessment Form is a comprehensive tool used to track the onboarding progress of newly hired employees, providing a centralised platform for collecting data on various aspects of their onboarding journey.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect visitor contact information, check-in and check-out times, and feedback. It is intended for use in administrative settings where visitors may need to provide this information for record-keeping or other purposes. This form should not be used for commercial or business purposes, and its completion is not mandatory for visitors.
-</thinking>
-
 # visitor_check_out_form - Help Guide
 ## Purpose
 The visitor check out form is a tool to collect visitor information for administrative purposes.

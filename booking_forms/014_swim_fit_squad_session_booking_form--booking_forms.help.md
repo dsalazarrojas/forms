@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to book a swim fit squad session, which is a type of aquatic exercise program designed for individuals who want to improve their swimming skills in a group setting. This form is used to gather information from the user to facilitate the booking process, ensuring that the user's needs are met and the session is conducted efficiently.
-
-To prevent duplication of sessions and ensure accurate scheduling, the form will not allow submission of the same form multiple times. It is essential to fill out the form correctly to avoid any confusion or inconvenience.
-
-Please note that the form is divided into 10 sections, each serving a specific purpose. Some fields are mandatory, marked as "required," while others are optional and marked as "not required."
-
-</thinking>
-
 # Swim Fit Squad Session Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to book a swim fit squad session.

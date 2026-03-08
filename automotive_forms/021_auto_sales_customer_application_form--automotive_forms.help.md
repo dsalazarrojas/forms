@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for customers who are interested in purchasing a vehicle from a car dealership. The form is designed to gather information about the customer's personal details, employment information, and vehicle preferences. It is likely used to qualify potential customers for financing, insurance, and other automotive services. It's a comprehensive form that covers a wide range of information, suggesting it is used for both sales and finance purposes.
-
-The fields seem to be a mix of personal and vehicle-related information. The form appears to be used to assess the customer's creditworthiness, employment stability, and vehicle preferences, which are essential factors in the sales process. The form also includes fields for gathering information about the customer's current residence, employer, and employment details, which is standard practice in the automotive industry. The form's design and fields suggest it is intended for both in-person and online use.
-
-The form does not include any fields that explicitly ask for sensitive or confidential information, such as social security number and credit card details. This is likely due to regulatory requirements and data protection laws. The form's fields are well-structured and easy to understand, making it user-friendly and efficient.
-
-There are no duplicate fields or redundant questions, suggesting the form has been carefully designed. The form also includes options for customers to express their preferences and choices, allowing for a more personalized experience. Overall, the form is comprehensive, well-structured, and designed to gather the necessary information to serve the customer and the dealership effectively.</thinking>
-
 # Auto Sales Customer Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers who are interested in purchasing a vehicle from our dealership. It is used to qualify potential customers for financing, insurance, and other automotive services.

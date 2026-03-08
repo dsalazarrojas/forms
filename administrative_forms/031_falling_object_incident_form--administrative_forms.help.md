@@ -1,8 +1,3 @@
-<thinking>
-We should consider the fact that this form is for reporting incidents related to objects falling from a certain height. The form purpose could be to document the incident and gather necessary information for investigation and resolution.
-We will need to check if this form has already been completed for similar incidents to prevent duplication.
-</thinking>
-
 # falling_object_incident_form - Help Guide
 
 ## Purpose

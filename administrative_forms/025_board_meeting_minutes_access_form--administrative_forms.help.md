@@ -1,6 +1,3 @@
-<thinking>
-This form was created to assist board members or staff in requesting access to meeting minutes. The form is designed to be simple and straightforward, with minimal redundancy and unnecessary fields. Each field is intended to be filled out carefully to ensure accurate and complete information. Before filling out this form, please make sure you are familiar with the meeting minutes and their purpose. This form is not meant to be a general meeting minutes request form, but rather a specific and detailed request for access to existing minutes. 
-</thinking>
 # Board Meeting Minutes Access Form - Help Guide
 
 ## Purpose

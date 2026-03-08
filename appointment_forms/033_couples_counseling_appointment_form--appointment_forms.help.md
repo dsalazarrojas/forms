@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients for couples counseling sessions, including session details, client information, payment details, and other relevant data. The form's purpose is to ensure that clients provide accurate and complete information to facilitate a smooth and effective counseling experience. To prevent duplication of efforts, it's essential to review the form carefully before submission to ensure all necessary fields are filled out correctly. 
-</thinking>
-
 # Couples Counseling Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for couples counseling sessions. Please provide accurate and complete details to ensure a smooth and effective counseling experience.

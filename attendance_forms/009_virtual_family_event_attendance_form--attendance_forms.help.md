@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to capture information about families that are attending virtual events. This information will help the event organizers ensure that the right resources are assigned to the right families based on their needs. It is likely that this form will be used by event planners or coordinators to collect data from families before or after the event to tailor the experience to their requirements. The event can be any type of family event, such as team-building activities, workshops, or community gatherings. It is essential to fill out this form accurately to receive the correct information and support. Please make sure not to fill in any fields that are not relevant or applicable to your family.
-</thinking>
-
 # Virtual Family Event Attendance Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from families about their attendance and needs at a virtual family event. The data collected will help event organizers tailor the event experience to meet the families' requirements.

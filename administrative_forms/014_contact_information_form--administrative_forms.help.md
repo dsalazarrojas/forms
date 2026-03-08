@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Contact Information Form, I need to first understand the purpose and requirements of the form. The form appears to be designed for collecting administrative contact information from individuals, including details such as name, email, phone numbers, and address. This form may be used for internal communication, record-keeping, or other administrative purposes. The form has 13 fields, with some fields being required and others optional, such as the "Notes" field. I should ensure that the guide accurately explains each field's purpose and requirements to avoid confusion for end-users.
-
-To confirm, the form is intended for collecting contact information for internal use, and it's essential to clearly explain each field's purpose to ensure accurate and complete data entry. I will base the explanation on the provided YAML fields, being concrete, concise, and practical. If any field label is unclear or ambiguous, I will try to provide a best-effort explanation without introducing unsupported business logic.
-
-The form has a mix of fields for personal and contact information, including title, first name, last name, email, phone numbers, and address. The guide should cover each field's type (e.g., text, select_one, email), required status, and any additional hints or explanations.
-
-I will now create the help guide as instructed.
-
-</thinking>
-
 # Contact Information Form - Help Guide
 ## Purpose
 The Contact Information Form is designed to collect vital details for effective communication and record-keeping. It is intended for internal use, and the information collected will be used to facilitate communication and data management.

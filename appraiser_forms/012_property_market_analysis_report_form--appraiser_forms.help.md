@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather market analysis data for a property. The form includes fields for various property attributes such as address, type, status, age, size, bedroom and bathroom count, floor count, lot size, market value, rental value, appraiser comments, and market trends. The fields are organized into a logical structure to guide the user through the process of providing accurate and comprehensive market analysis data. This form is intended for use by appraisers and other real estate professionals to gather and document market information on properties.
-</thinking>
-
 # Property Market Analysis Report Form - Help Guide
 ## Purpose
 This form is used to gather market analysis data for a property, providing a comprehensive overview of its attributes and trends.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about leadership events hosted by an individual or organization. The form is used for approval and verification purposes, ensuring that the event information is accurate and up-to-date. To ensure data quality, it's essential to fill out the form carefully and accurately. Please note that this form should only be completed once per event.
-
-This form is a critical part of our internal processes, and its accuracy is crucial for maintaining accurate records and enabling smooth event management. Please review the provided fields carefully to ensure that you're providing the most accurate information possible.
-</thinking>
-
 # leadership_event_host_acknowledgment - Help Guide
 ## Purpose
 The leadership_event_host_acknowledgment form is used to gather information about leadership events hosted by an individual or organization. This form helps to verify event details and ensures that the event information is accurate and up-to-date for approval purposes.

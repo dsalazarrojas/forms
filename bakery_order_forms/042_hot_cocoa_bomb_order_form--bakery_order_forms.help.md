@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for orders related to hot cocoa bombs, which are items typically sold through an e-commerce or online platform. This form will be used by customers to place orders and provide necessary shipping and billing information.
-The form is not intended for internal use, such as user registration or password reset, but rather for customers to place orders.
-</thinking>
-
 # Hot Cocoa Bomb Order Form - Help Guide
 ## Purpose
 The Hot Cocoa Bomb Order Form is a form designed for customers to place orders for hot cocoa bombs. This form is meant to collect shipping and billing information, as well as details about the order itself.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by animal shelter staff to document the discharge process when an animal is being released from the shelter. It ensures that all necessary information is captured to facilitate a smooth transition to the adopter or new owner. Before filling out this form, please confirm that all relevant information is available and that the animal has been properly discharged from the shelter. To avoid duplication, please do not submit this form if the animal is not currently being discharged.
-
-</thinking>
-
 # Animal Shelter Discharge Form - Help Guide
 ## Purpose
 The Animal Shelter Discharge Form is used to document the details of an animal's discharge from the shelter. This form helps ensure that the animal's new owner has all the necessary information and instructions for proper care and handling.

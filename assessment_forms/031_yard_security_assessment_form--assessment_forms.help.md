@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gather information about the security risks and hazards present in a yard or property. The purpose of this form is to assess the level of security risk and identify potential hazards that may be present. 
-
-This form is meant to be filled out by authorized personnel, such as property owners or facility managers, to document and report on security risks and hazards. 
-
-The form should only be completed once per security assessment, and any changes to the form should reflect new or updated information. 
-
-This form should not be used to report on security incidents or accidents that have already occurred. 
-
-Please note that if the form is completed for a new property or in a new location, it is recommended to start fresh without referencing an existing form. 
-
-Before proceeding with this form, make sure to carefully review and provide accurate information. 
-
-If you're unsure about what to do or have a question about the form's purpose or content, reach out to the relevant team or department.
-</thinking>
-
 # Yard Security Assessment Form - Help Guide
 ## Purpose
 The Yard Security Assessment Form is designed to identify and document security risks and hazards present in a yard or property.

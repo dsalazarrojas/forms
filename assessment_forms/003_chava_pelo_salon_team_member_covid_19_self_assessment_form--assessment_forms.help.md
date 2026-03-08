@@ -1,11 +1,3 @@
-<thinking>...This form is designed to serve as a quick and effective screening tool for team members to report their health status prior to starting their shift at Chava' Pelo Salon. Its purpose is to identify potential risks associated with COVID-19 and ensure that team members are clear to work safely. The form is not a substitute for more comprehensive medical assessments or evaluations, but rather a precautionary measure to protect the health of both employees and clients. It is intended to be completed daily by each team member before starting their shift, to ensure they are healthy and do not exhibit any symptoms of COVID-19.
-
-It is worth noting that this form does not require the submission of any medical documentation or proof, but rather relies on the team member's honest reporting of their health status. This approach prioritizes the well-being of the team members and allows for early identification and containment of potential COVID-19 cases within the salon.
-
-Before proceeding, please ensure that you have read and understand the form's instructions and questions carefully.
-
-</thinking>
-
 # Chava' Pelo Salon Team Member COVID 19 Self Assessment Form - Help Guide
 
 ## Purpose

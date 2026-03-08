@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place an order for adaptive underwear, and it's crucial to understand the customer's information and preferences to fulfill their order accurately. The form collects necessary contact and shipping information, size and color choice, quantity, and billing method details. The customer can also provide special instructions for customizations or modifications. It's essential to complete all required fields accurately to avoid delays or issues with order fulfillment.
-</thinking>
-
 # Adaptive Underwear Order Form - Help Guide
 
 ## Purpose

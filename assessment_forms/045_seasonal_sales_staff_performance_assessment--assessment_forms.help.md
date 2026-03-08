@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess the performance of seasonal sales staff members. The purpose of this form is to collect data on their sales performance, job title, location, start and end dates, sales amount, commission, commission percentage, performance score, and any comments about their performance.
-To ensure that the form is filled out correctly, please check the following:
-- Is this form being used for its intended purpose (assessing seasonal sales staff performance)?
-- Have all required fields been filled out?
-</thinking>
-
 # Seasonal Sales Staff Performance Assessment - Help Guide
 ## Purpose
 This form is used to assess the performance of seasonal sales staff members. The form collects data on their sales performance, job title, location, start and end dates, sales amount, commission, commission percentage, performance score, and any comments about their performance.

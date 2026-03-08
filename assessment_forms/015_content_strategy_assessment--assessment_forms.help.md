@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Content Strategy Assessment - Help Guide
 
 ## Purpose

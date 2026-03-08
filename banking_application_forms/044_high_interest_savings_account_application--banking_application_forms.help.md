@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to apply for a High Interest Savings Account. The form will guide you through a series of steps to provide necessary information for your application. Please ensure you have all required information before starting the application process, as some fields are necessary for review and approval. If you've already submitted an application for this type of account, please be aware that duplicate applications may be considered incomplete or rejected.
-</thinking>
-
 # High Interest Savings Account Application - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for a High Interest Savings Account. The goal is to provide a straightforward and efficient way to gather necessary details for review and approval.

@@ -1,14 +1,3 @@
-<thinking>
-
-Internal reasoning to check for relevance and non-duplication:
-
-- This form is intended for registering users to a Webinar event.
-- The form includes personal information, contact details, and selection fields.
-- Each section of the form is designed to guide the user through a step-by-step process.
-- The form should not be used for sensitive or financial transactions.
-
-</thinking>
-
 # Webinar Registration Form - Help Guide
 ## Purpose
 This form is for registering to a Webinar event. Please provide your details to secure your spot.

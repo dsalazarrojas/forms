@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Swimming Assessment Form - Help Guide
 ## Purpose
 The swimming assessment form is used to collect information about an individual's swimming experience, abilities, and medical status in order to assess their eligibility for a swim program or event. This form is typically completed by individuals applying for the program or event.

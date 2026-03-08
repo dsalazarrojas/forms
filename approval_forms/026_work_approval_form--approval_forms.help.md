@@ -1,15 +1,3 @@
-<thinking>
-We have a form titled "work_approval_form" which seems to be related to the approval of work activities. This form likely requires user input on the work activity, approver, and other related details. To confirm, the form has the following pages and fields:
-
-* Page 1: "Work Activity" (text input)
-* Page 2: "Approver" (select one option)
-* Page 3: "Work Details" (number input)
-* Page 4: "Expected Completion Date" (date input)
-* Page 5: "Actual Completion Date" (date input)
-* Page 6: "Approval Status" (select one option)
-
-Before starting, please ensure you have all the necessary information and that this form is not a duplicate of another one. If you're unsure, please contact your supervisor or IT department for clarification.</thinking>
-
 # work_approval_form - Help Guide
 ## Purpose
 The "work_approval_form" is a form used for approving work activities. It gathers information from the user on the work activity, approver, and other related details.

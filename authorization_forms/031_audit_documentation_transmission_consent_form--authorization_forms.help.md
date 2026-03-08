@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Audit Documentation Transmission Consent Form - Help Guide
 
 ## Purpose

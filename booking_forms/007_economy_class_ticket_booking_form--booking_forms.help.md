@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to allow users to book tickets for an economy class flight. The form gathers essential passenger information and payment details to facilitate a successful booking process. It is crucial to review the fields carefully to avoid missing any necessary information.
-</thinking>
-
 # Economy Class Ticket Booking Form - Help Guide
 ## Purpose
 The Economy Class Ticket Booking Form is a tool designed for passengers to book economy class tickets for flights. By providing the necessary information in this form, passengers can successfully reserve a seat on their chosen flight.

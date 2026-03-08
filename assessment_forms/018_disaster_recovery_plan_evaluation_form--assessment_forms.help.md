@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the effectiveness of a Disaster Recovery Plan, ensuring that it is up-to-date, thorough, and suitable for the organization's needs. This form is typically used by IT and business continuity teams to assess the plan's readiness to respond to disasters or major disruptions. The assessment process helps identify areas for improvement and provides valuable feedback for plan revisions.
-</thinking>
-
 # Disaster Recovery Plan Evaluation Form - Help Guide
 
 ## Purpose

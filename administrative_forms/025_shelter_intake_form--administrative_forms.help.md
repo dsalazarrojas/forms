@@ -1,7 +1,3 @@
-<thinking>
-The Shelter Intake Form is used to gather information from individuals seeking shelter services. This form is used to collect demographic and contact information, as well as details about the individual's emergency contact and reason for seeking shelter. Before filling out this form, please ensure that you have a legitimate reason for seeking shelter and that the information provided is accurate and up-to-date. This form will not be used for any other purpose other than what is described in this guide. Please ensure you understand the purpose and use of this form before proceeding.
-</thinking>
-
 # Shelter Intake Form - Help Guide
 ## Purpose
 The Shelter Intake Form is a tool used to collect information from individuals seeking shelter services. It is used to gather demographic details and contact information, as well as information about the reason for seeking shelter.

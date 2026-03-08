@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess the respondent's understanding of various energy concepts. The purpose of this form is to gather information on their knowledge of energy concepts, sustainable practices, and potential next steps in energy conservation and efficiency. This form is not intended to be a comprehensive assessment, but rather a self-assessment to help respondents reflect on their current understanding and identify areas for improvement.
-
-When completing this form, please ensure that you are providing accurate and honest answers. The questions are designed to be thought-provoking and require reflection on the respondent's current knowledge and practices.
-
-Before starting the form, review the entire form to ensure you complete it in the correct order. Each section is designed to build upon the previous one, and skipping or completing sections out of order may cause confusion.
-
-This form is intended to be completed by individuals with a basic understanding of energy concepts. If you are unsure about any question or have no prior knowledge, please answer to the best of your ability or indicate that you are not familiar with the concept.
-
-</thinking>
-
 # Energy Concepts Assessment - Help Guide
 ## Purpose
 This form is designed to assess your understanding of various energy concepts, sustainable practices, and identify areas for improvement.

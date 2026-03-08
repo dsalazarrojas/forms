@@ -1,12 +1,3 @@
-<thinking>
-This form is used to manage IPTV playlist requests from customers. It captures essential information to create and manage IPTV playlists for customers, including requesting details about the playlist, customer information, and any additional attachments or comments.
-
-To avoid duplication, this form should only be used by authorized personnel, such as admins, resellers, or support staff.
-
-To ensure accuracy and completeness of the information, it's crucial to fill out the form carefully and thoroughly.
-
-</thinking>
-
 # IPTV Playlist Management Form - Help Guide
 ## Purpose
 This form is used to create and manage IPTV playlists for customers.

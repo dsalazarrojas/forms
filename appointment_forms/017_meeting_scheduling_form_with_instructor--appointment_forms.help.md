@@ -1,5 +1,3 @@
-<thinking>As we designed this form with the help of AI, it's essential to understand its purpose and how to complete it correctly. This form, titled "Meeting Scheduling Form With Instructor," is intended to collect information about meetings involving an instructor. The form has four pages: Meeting Scheduling Form With Instructor, Instructor, Meeting Details, and Confirmation. Each page has a specific purpose, which will be explained below.</thinking>
-
 # Meeting Scheduling Form With Instructor - Help Guide
 ## Purpose
 This form is designed to collect information about meetings involving an instructor, such as meeting titles, instructor details, and meeting confirmation.

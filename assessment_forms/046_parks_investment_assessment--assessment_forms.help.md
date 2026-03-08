@@ -1,11 +1,3 @@
-<thinking>
-This form, the "Parks Investment Assessment," is likely part of a process for evaluating and managing parks, perhaps for an organization or municipality. It could be used to collect data on various aspects of parks, including site evaluation, accessibility, maintenance, and safety. 
-This form might be used by park administrators, researchers, or other stakeholders to assess the condition and quality of parks. 
-However, without more specific information about the intended use and context of this form, it's difficult to determine its exact purpose and the specific goals it's designed to achieve. 
-Assuming the form is meant to gather data on park assessments, it's possible that this form is used for data collection and reporting purposes. 
-To ensure the form is being filled out correctly, it's a good idea to double-check that all required fields are filled out, and that the submitted data is accurate. 
-</thinking>
-
 # Parks Investment Assessment - Help Guide
 ## Purpose
 This form is designed to collect data on the condition and quality of parks, including site evaluation, accessibility, maintenance, and safety.

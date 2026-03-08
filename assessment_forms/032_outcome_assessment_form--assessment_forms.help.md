@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # outcome_assessment_form - Help Guide
 ## Purpose
 This form is used to conduct an outcome assessment, which is a process to evaluate the effectiveness and impact of a particular outcome or program. The form helps gather information on various aspects of the outcome, including its effectiveness, achievements, impact, benefits, and adverse effects.

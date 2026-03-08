@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a "Family Background Assessment" used to gather information about an individual's family background. The form is designed to gather data on household members, family history, relationship status, sibling order, sibling or spouse relationship, family income, family employment, and family vehicles. This form is likely used for research or assessment purposes and may be used in conjunction with other forms to create a comprehensive family profile. 
 
 To confirm, this form is intended for non-duplicative purposes and is not designed for general public consumption. Users should only submit their own family information.

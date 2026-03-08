@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide that clearly explains the purpose, completion, and field-by-field explanation of the "external_researcher_lab_check_in" form. This form is used to check-in external researchers at a lab, capturing important information about their visit. The purpose of this form is to provide a structured way for external researchers to check-in at the lab, ensuring that their visit is properly recorded and their presence is acknowledged.</thinking>
-
 # external_researcher_lab_check_in - Help Guide
 
 ## Purpose

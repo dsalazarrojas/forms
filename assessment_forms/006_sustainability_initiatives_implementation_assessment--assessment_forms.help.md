@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to assess the implementation of sustainability initiatives in a company or organization. It is meant to be used to track and evaluate the progress of these initiatives, ensuring that they are being implemented effectively and efficiently.
-
-The purpose of this form is to gather information on the current status of sustainability initiatives, including the date they were implemented, the impact they have had, and the budget allocated for their implementation. This information is crucial for organizations to make informed decisions about future sustainability initiatives and to measure their progress towards their sustainability goals.
-
-Before filling out this form, please ensure that you have read and understood the purpose and scope of the form. This form is not meant to be a substitute for a detailed sustainability report or a comprehensive assessment of an organization's sustainability performance. It is a tool to help organizations track and evaluate the progress of their sustainability initiatives, not a replacement for a thorough evaluation of their overall sustainability performance.
-
-To avoid duplication of effort, please ensure that you are not filling out this form for an initiative that has already been assessed or reviewed.
-
-If you have any questions or concerns about this form, please feel free to contact us at form@gic.mx.
-</thinking>
-
 # Sustainability Initiatives Implementation Assessment - Help Guide
 ## Purpose
 

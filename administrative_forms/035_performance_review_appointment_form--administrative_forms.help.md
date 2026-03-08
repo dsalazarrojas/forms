@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and schedule appointments for performance reviews. It should only be used for internal purposes, such as scheduling meetings with employees for reviews. The form is not intended for external use or to collect sensitive information. Please note that this form is an AI-generated original adaptation of public survey topic metadata and does not copy or extract content from any form creation platform. If you have already submitted a performance review appointment, please do not submit this form again.
-</thinking>
-
 # Performance Review Appointment Form - Help Guide
 ## Purpose
 The Performance Review Appointment Form is used to schedule appointments for performance reviews between employees and their managers. This form is designed to be completed by employees to request a performance review meeting with their manager.

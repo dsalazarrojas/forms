@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to collect information about an employee's morning arrival status. The form will likely be used by HR or management to track the attendance of employees in the morning. The purpose is to ensure that the employee can report their status (healthy/unhealthy/unknown) and any symptoms they are experiencing. The form is meant to be a quick and simple way for employees to report their information without being too intrusive or lengthy. This form should not be used to collect unnecessary or redundant information, and users should only fill it out if they are actually reporting their morning arrival status or have symptoms to report.</thinking>
-
 # Morning Arrival Check In - Help Guide
 ## Purpose
 This form is used to track employee morning arrival status and report any symptoms.

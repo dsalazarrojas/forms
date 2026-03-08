@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for updating security notifications. It's likely used by administrators or authorized personnel to modify or add new security-related information. The form may be used in conjunction with other systems or workflows related to security protocols and updates. Before starting, please ensure you are authorized to access this form and that the updates are necessary and relevant.
-
-Please note that this form has multiple fields, including text input, select-one, date, and number fields. Some fields are required, while others are optional. This form may have dependencies or business logic that affects the availability or relevance of certain fields.
-
-Before proceeding, review the form's fields carefully and ensure you understand the context and implications of your updates.
-</thinking>
-
 # security_update_notification_form - Help Guide
 ## Purpose
 The purpose of this form is to update security notifications in a secure and controlled manner.

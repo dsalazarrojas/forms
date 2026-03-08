@@ -1,12 +1,3 @@
-<thinking>
-The Doctoral Program Completion Rate Report form is used to collect data on the completion rate of doctoral programs across various universities. This report is essential for evaluating and improving the effectiveness of doctoral programs. The form collects information on the program's characteristics, such as university name, academic program, completion year, graduation year, student count, program goals, graduation date, completion status, email address, phone number, university website, university logo, program director, contact person, contact email, contact phone, department, departmental email, departmental phone, departmental website, and program goals. The form is designed to be completed by university staff or administrators who are responsible for overseeing doctoral programs.
-
-Before filling out this form, make sure to check if you have already submitted this form in the past to avoid duplication of effort. If you are not sure about the completion rate of your program, please refer to your university's internal records or contact the relevant departmental staff for assistance.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Doctoral Program Completion Rate Report - Help Guide
 ## Purpose
 The Doctoral Program Completion Rate Report is used to collect data on the completion rate of doctoral programs across various universities. This report is essential for evaluating and improving the effectiveness of doctoral programs.

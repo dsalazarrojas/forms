@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning and logic behind this form:
-This form collects information from applicants to the Athletic Performance Program. This form is used to assess an individual's suitability to the program. The fields are divided into sections that cover basic personal information, athletic background, performance goals, training habits, health, and motivation.
-The form is a comprehensive assessment tool that helps us understand the applicants' current level of fitness, training experience, and areas of improvement. It's essential to provide accurate and complete information to get the most out of the program.
-By using this form, applicants will be able to showcase their skills, experience, and goals, which will help us tailor the program to their specific needs and abilities.
-We will review and assess each application to determine eligibility for the program. This form is the first step in the application process.
-</thinking>
-
 # Athletic Performance Program Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants to the Athletic Performance Program. It's essential to provide accurate and complete information to get the most out of the program.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture user input for ordering sandwiches. The form is a template for creating sandwich orders, allowing users to select various options for their desired sandwich configuration. It appears this form is intended for capturing boolean answers for sandwich attributes, such as whether or not to include specific features like meat or cheese.
-</thinking>
-
 # Sandwich Order Form Template - Help Guide
 ## Purpose
 The Sandwich Order Form Template is a form designed to capture user input for ordering sandwiches with various customizable options.

@@ -1,7 +1,3 @@
-<thinking>
-The form "health_assessment_team_lamar" is intended to collect demographic information from individuals for health assessment purposes. This form is likely used by a healthcare team to gather data on patients or team members, and its fields are designed to be concise and relevant to this specific context. The fields appear to be focused on personal identification, contact information, and demographic details such as gender, marital status, and address. The purpose of this form seems to be to create a comprehensive record of the individual's health assessment data.
-</thinking>
-
 # health_assessment_team_lamar - Help Guide
 ## Purpose
 This form is used to collect demographic information from individuals for health assessment purposes.

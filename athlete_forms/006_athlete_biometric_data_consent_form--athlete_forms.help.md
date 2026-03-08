@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for athletes to provide their biometric data consent, which is crucial for coaches, trainers, and other stakeholders to make informed decisions about their performance, injury prevention, and overall well-being. The form's purpose is to gather essential information about the athlete, including their biometric data, data collection frequency, storage location, and sharing permissions. The form's design aims to ensure that athletes understand their data rights and responsibilities while also providing a clear and transparent process for data collection and management.
-
-</thinking>
-
 # Athlete Biometric Data Consent Form - Help Guide
 ## Purpose
 The Athlete Biometric Data Consent Form is a crucial document that ensures athletes understand their biometric data rights and responsibilities. It helps to establish a clear and transparent process for data collection, storage, and management.

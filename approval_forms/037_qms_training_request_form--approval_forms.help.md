@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for requesting training on Quality Management System (QMS) topics. It is intended to gather information from users on the training requirements, including the name of the person requesting the training, their email address, and the topic, date, time, and duration of the desired training. This form is not intended for duplicate or repetitive requests, so please ensure that you only submit a new request if you have not already been approved for a similar topic or time. 
-
-</thinking>
-
 # QMS Training Request Form - Help Guide
 ## Purpose
 The QMS Training Request Form is used to request training on Quality Management System (QMS) topics. It helps the training team to better understand your requirements and provide the necessary training to improve your knowledge and skills.

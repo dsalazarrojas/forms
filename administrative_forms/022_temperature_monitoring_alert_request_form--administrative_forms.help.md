@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Temperature Monitoring Alert Request Form - Help Guide
 
 ## Purpose

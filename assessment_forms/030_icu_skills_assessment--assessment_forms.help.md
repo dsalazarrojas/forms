@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess ICU skills in various medical domains. It is essential to complete this form to evaluate the proficiency of healthcare professionals in critical care settings. Please ensure that you have a good understanding of the subject matter before proceeding, and that you have not completed this form previously to avoid duplication of effort.</thinking>
-
 # icu_skills_assessment - Help Guide
 ## Purpose
 The icu_skills_assessment form is designed to evaluate the skills of healthcare professionals in ICU settings. This form assesses their knowledge and proficiency in various domains such as basic life support, airway management, medical complications identification, and more.

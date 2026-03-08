@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to create a reminder for a property showing event. The user will fill out the form to schedule a showing reminder for a property with the contact information of the person responsible, the showing date and time, and other details about the event. The reminder will be set up to be sent at specific frequency and to the client. This form is intended for internal use within a company or real estate firm, and is likely used to facilitate coordination and communication between agents and clients. 
-
-It is essential to ensure that the correct contact information and showing details are entered accurately to avoid confusion or missed appointments. 
-
-Before proceeding, please review the fields carefully to understand their purpose and requirements.
-
-</thinking>
-
 # Property Showing Reminder Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for service inspection purposes, allowing users to document and record inspections of facilities. To ensure accurate and comprehensive data entry, it's essential to fill out the form correctly. The form is used for tracking the quality of services provided, ratings, and notes associated with these services. Please make sure to fill out the form completely and accurately, as incomplete or inaccurate data may lead to incorrect conclusions.
-</thinking>
-
 # service_inspection_form - Help Guide
 ## Purpose
 The service inspection form is used to document and record the quality of services provided by facilities. It captures information such as facility ID, date and time of inspection, service provided, inspector's ID, name, and ratings. The form also includes fields for comments, facility ratings, and notes.

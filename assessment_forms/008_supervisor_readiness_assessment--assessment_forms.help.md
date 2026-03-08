@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the readiness of a supervisor to perform their duties effectively. This form is designed to gather information about the supervisor's name, title, department, and location, which are essential details for evaluating their readiness. The form is not affiliated with any form platform and is an original adaptation created using AI-generated form design principles.
-</thinking>
-
 # Supervisor Readiness Assessment - Help Guide
 ## Purpose
 The Supervisor Readiness Assessment form is used to collect information about a supervisor's name, department, and location, which helps in evaluating their readiness to perform their duties effectively.

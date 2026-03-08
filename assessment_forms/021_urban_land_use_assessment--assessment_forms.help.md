@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urban Land Use Assessment - Help Guide
 ## Purpose
 This form is used to collect information about the land use of a specific parcel of land. It helps to categorize and assess the land's usage, size, and status. The information collected in this form will be used to support the urban development and planning processes.

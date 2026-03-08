@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used within an internal project management system, where team members can create and manage tasks, assign tasks to team members, and track progress. The form's purpose is to display and update information about specific tasks within a project.
-</thinking>
-
 # Project Management Board - Help Guide
 ## Purpose
 The Project Management Board form is a tool for team members to view and manage project tasks. It allows them to track progress, assign tasks, and categorize them according to different labels.

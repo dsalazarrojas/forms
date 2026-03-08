@@ -1,7 +1,3 @@
-<thinking>
-This form was generated based on "worker's compensation" as topic and "administrative_forms" as category. The form is designed to collect information from employees regarding their workplace injuries and potential claims. It's likely used for HR, benefits, or insurance purposes. This guide will explain each field in detail to help you complete the form accurately.
-</thinking>
-
 # Worker's Compensation Assessment Form - Help Guide
 ## Purpose
 

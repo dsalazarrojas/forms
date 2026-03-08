@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a Personal Care Agreement between a caregiver and a care receiver. It's essential to understand that this form is intended for administrative purposes and should not be used for any other use case.
-The form is composed of multiple sections that cover various aspects of care, including caregiver and care receiver details, scheduling, and emergency contacts. Each field in this form serves a specific purpose, such as capturing essential information about the caregiver and care receiver.
-To prevent duplication and ensure accuracy, it is crucial to fill out the form correctly and thoroughly.
-</thinking>
-
 # Personal Care Agreement - Help Guide
 
 ## Purpose

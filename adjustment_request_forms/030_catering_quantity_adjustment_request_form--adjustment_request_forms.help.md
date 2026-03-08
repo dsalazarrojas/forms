@@ -1,10 +1,3 @@
-<thinking>
-  Before proceeding with this form, please ensure that:
-  - You have all the required information and data needed to fill out this form accurately.
-  - This is not a duplicate or unnecessary request.
-  - Your company name, order number, and event name are correct and accurate.
-</thinking>
-
 # Catering Quantity Adjustment Request Form - Help Guide
 ## Purpose
 This form is used for requesting adjustments to catering quantities for an event or order. You will need to provide information about your event, the quantity adjustments you are requesting, and the reason for the change.

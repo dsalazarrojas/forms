@@ -1,14 +1,3 @@
-<thinking>...checking the provided YAML fields and form structure to create a user-facing help guide...
-
-The "Remote Vehicle Tune Request" form is designed to collect information from customers about their vehicle needs. This form is likely used to schedule a remote vehicle tune-up or maintenance service for a customer's vehicle. When a customer submits this form, they will be directed to a page where they can enter their vehicle information and provide additional details about their service requirements.
-
-The main goal of this form is to gather essential data that will enable our team to schedule and perform the tune-up services efficiently.
-
-**Internal Reasoning:**
-We want to minimize duplicate requests and ensure that our team is aware of the correct vehicle details to prevent any misunderstandings or miscommunication. This form will help us gather all the necessary information in one place, making it easier for our team to serve the customer better.
-
-</thinking>
-
 # Remote Vehicle Tune Request - Help Guide
 ## Purpose
 The "Remote Vehicle Tune Request" form is designed to collect information from customers about their vehicle needs for remote tune-up or maintenance services.

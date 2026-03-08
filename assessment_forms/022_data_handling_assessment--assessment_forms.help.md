@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess a user's data handling practices and procedures to ensure the integrity and security of data. 
-The purpose of this form is to gather information about the user's ability to handle data in accordance with established regulations, best practices, and organizational policies. This form should be completed by the user to demonstrate their understanding of data handling principles and procedures. If you are not sure about any of the questions or answers, please seek guidance from a supervisor or a trusted resource.
-</thinking>
-
 # Data Handling Assessment - Help Guide
 ## Purpose
 The Data Handling Assessment form is designed to evaluate a user's understanding and application of data handling principles and procedures.

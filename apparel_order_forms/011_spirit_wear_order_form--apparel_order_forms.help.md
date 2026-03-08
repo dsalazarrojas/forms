@@ -1,17 +1,3 @@
-<thinking>
-This form, titled "Spirit Wear Order Form," is designed to collect information for orders of apparel items. To fill out this form, you'll need to provide essential details about your order. 
-
-The form is structured into sections, each focusing on different aspects of the order. 
-
-- **Order Information**: This section gathers basic details about the order, including the order date, items ordered, and shipping address. 
-
-- **Customer Information**: In this section, you'll enter your name, contact phone number, email, and any additional customer notes or comments. 
-
-- **Payment Information**: Here you'll provide payment details, including the total payment amount, payment method, and payment date. 
-
-- **Order Status and Notes**: Finally, the last section is for confirming the order status, and adding any additional order or payment comments.
-</thinking>
-
 # Spirit Wear Order Form - Help Guide
 ## Purpose
 The Spirit Wear Order Form is designed to collect essential information for apparel orders, including order details, customer information, payment details, and order status.

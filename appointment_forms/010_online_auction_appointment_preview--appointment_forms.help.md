@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to create a preview of an online auction appointment, allowing users to select and review relevant information. This form is likely used during the setup process of an auction to provide a clear understanding of the upcoming event.
 
 Before starting to complete this form, ensure that you have all the necessary information ready. This form may be used in conjunction with other forms, so double-checking the current state of your auction and its setup is crucial for a smooth experience.

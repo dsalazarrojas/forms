@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visitor Management Login Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for career coaching appointments. The form should only be filled out for actual clients, and not for internal or test purposes. Please ensure that this form is not filled out in duplicate. The form is used by career coaches to schedule appointments and tailor the coaching experience to the client's needs. 
-
-</thinking>
-
 # Career Coaching Appointment Request - Help Guide
 ## Purpose
 The Career Coaching Appointment Request form is used by career coaches to collect information from clients for upcoming appointments. This form helps the coach to understand the client's preferences and tailor the coaching experience accordingly.

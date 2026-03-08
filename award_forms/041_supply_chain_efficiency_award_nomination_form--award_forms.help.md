@@ -1,7 +1,3 @@
-<thinking>
-The Supply Chain Efficiency Award Nomination Form is used to gather information for an internal award nomination process. This form should only be used for nominations that are relevant to the Supply Chain Efficiency Award and not for other awards or initiatives. Please ensure that you are not duplicating a nomination already submitted by another team. The team lead and nominators should be aware that this form will be reviewed internally and may be visible to other employees in the organization.
-</thinking>
-
 # Supply Chain Efficiency Award Nomination Form - Help Guide
 ## Purpose
 The Supply Chain Efficiency Award is an internal recognition program that acknowledges and rewards outstanding efforts and achievements in the supply chain domain. This form is used to nominate teams or individuals for this award.

@@ -1,8 +1,3 @@
-<thinking>
-We need to verify that the form is being used for its intended purpose and that the user is aware of their rights and responsibilities. This form is designed to collect information about the purpose and method of data extraction, as well as the user's consent and understanding of their data rights. It's essential to ensure that the user is not duplicating their consent or submitting incomplete information. To do this, we'll review the form fields for consistency and accuracy, and provide clear guidance on what each field represents and how to complete it correctly. This guide will help ensure that the form is being used correctly and that the user's rights are respected.
-
-</thinking>
-
 # Consent To Information Extraction - Help Guide
 ## Purpose
 The purpose of this form is to collect your consent for the extraction of information from your data. This form is used by organizations to request your consent before extracting data from your records. Please review the following sections to understand how to complete the form correctly.

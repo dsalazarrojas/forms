@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to schedule appointments for various procedures or services requiring personal protective equipment (PPE) such as gloves, masks, face shields, or safety glasses. The form will guide the user through the process of providing staff details, the PPE needs for the appointment, and any available appointment slots. This information will help the scheduler to determine the best possible appointment schedule for the staff member.
-</thinking>
-
 # ppe_appointment_scheduling - Help Guide
 ## Purpose
 This form is used to schedule appointments for staff members requiring personal protective equipment (PPE) for various procedures or services.

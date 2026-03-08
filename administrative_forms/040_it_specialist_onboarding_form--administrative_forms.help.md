@@ -1,5 +1,3 @@
-<thinking>**Form purpose:** The IT Specialist Onboarding Form is used by new employees to provide their personal and professional details. This form helps the IT department to onboard new employees quickly and efficiently, ensuring they have all necessary information to provide support and assistance. Before proceeding, please ensure that this is the correct form for your specific situation and not a duplicate request.</thinking>
-
 # it_specialist_onboarding_form - Help Guide
 ## Purpose
 The IT Specialist Onboarding Form is used by new employees to provide their personal and professional details to the IT department for quick onboarding and support.

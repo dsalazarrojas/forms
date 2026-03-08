@@ -1,5 +1,3 @@
-<thinking>Bus Accident Incident Form helps investigate and document incidents involving buses on a public route. This form is a crucial tool for gathering essential information to identify the cause of incidents, assess damage, and take necessary corrective actions. It is intended for completion by bus operators, supervisors, or other personnel involved in bus transportation. This form should not be completed for events that are not related to bus incidents or for incidents that have already been reported in another form. Ensure to complete this form accurately and truthfully for each incident.</thinking>
-
 # Bus Accident Incident Form - Help Guide
 ## Purpose
 The Bus Accident Incident Form is used to document incidents involving buses, including collisions, passenger injuries, property damage, and other types of incidents. It helps gather information to identify the cause of incidents, assess damage, and take necessary corrective actions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for inspecting and evaluating the performance of a sprinkler system. It is used to ensure that the system is functioning correctly and to identify potential issues or defects. The form is divided into multiple pages, each with its own set of fields that need to be filled out by the inspector. The form is not required to be completed, but it is recommended that it be filled out thoroughly to ensure that all necessary information is collected.
-</thinking>
-
 # Sprinkler System Inspection Form - Help Guide
 ## Purpose
 The Sprinkler System Inspection Form is designed to inspect and evaluate the performance of a sprinkler system. This form helps to identify potential issues or defects with the system and ensure that it is functioning correctly.

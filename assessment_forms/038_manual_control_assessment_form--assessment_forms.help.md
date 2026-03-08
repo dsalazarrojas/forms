@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended for assessing the status and frequency of manual controls within a organization. It is used to track the effectiveness and risks associated with these controls, as well as follow-up actions and next due dates.
-
-Before starting this form, please ensure you have a clear understanding of the control in question, including its description, current status, and owner. This form is not a substitute for regular reviews and assessments conducted by authorized personnel.
-
-To complete this form, go through each field carefully and enter the requested information. Note that some fields are marked as optional, but please provide as much detail as possible to ensure accurate assessment.
-
-Please note that this form is designed to be used by various roles within the organization. Depending on your role, you may not need to fill out every field.
-
-</thinking>
-
 # Manual Control Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the status and frequency of manual controls within an organization, enabling a thorough assessment of their effectiveness and risks.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Credit Reinstatement Request Form - Help Guide
 
 ## Purpose

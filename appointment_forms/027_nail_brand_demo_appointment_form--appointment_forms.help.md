@@ -1,12 +1,3 @@
-<thinking>
-To provide a clear and concise user-facing help guide for the Nail Brand Demo Appointment Form, we need to understand its purpose, how to complete it, and what each field means.
-
-The form is used for customers to schedule a demo appointment with a nail brand. This form will be used to collect information from customers to determine their availability and preferences for the demo appointment.
-
-We also need to ensure that the form is not filled out multiple times by the same customer. To achieve this, we should consider implementing a mechanism to prevent duplicate submissions or to store the form data in a database to check for duplicates.
-
-</thinking>
-
 # Nail Brand Demo Appointment Form - Help Guide
 ## Purpose
 The Nail Brand Demo Appointment Form is used for customers to schedule a demo appointment with a nail brand. This form will help us to determine their availability and preferences for the demo appointment.

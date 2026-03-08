@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients for an appointment consultation in the Lash and Curl industry, likely for salons or beauty services. This form is designed to be completed by clients prior to their appointment, providing a convenient and efficient way to collect their details, preferences, and consent. Please ensure that you do not submit duplicate entries for the same client, and that your submission is relevant to the intended use of the form.
-</thinking>
-
 # Lash_Curl_Style_Consultation_Appointment_Form - Help Guide
 ## Purpose
 This form is designed to facilitate a consultation process for clients in the Lash and Curl industry, allowing them to provide their details and preferences before their appointment.

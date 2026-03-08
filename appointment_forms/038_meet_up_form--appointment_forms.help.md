@@ -1,13 +1,3 @@
-<thinking>
-
-The internal reasoning block is as follows:
-- This form, "Meet Up Form", is intended for users to schedule meetings or appointments with a contact person. The form captures basic event details such as event name, date, start and end times, location, attendees, contact name, and contact email.
-- There is no explicit indication of the form's purpose or target audience, so let's assume it's for general event scheduling purposes.
-- Some fields are not required, which means users can skip them or provide partial information.
-- The "Attendees" field has a select_multiple type, indicating it's meant for multiple selections. This could potentially be a dropdown or checkboxes for user input.
-
-</thinking>
-
 # Meet Up Form - Help Guide
 ## Purpose
 The Meet Up Form is a simple form to schedule events or meetings with a contact person. Use this form to gather basic information about an event such as the event name, date, time, location, and contact details.

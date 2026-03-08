@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a multi-stage review submission form, designed for collecting feedback and comments from reviewers at different stages of a review process. The form is likely used in a professional or business setting to gather input from multiple reviewers on a specific submission or project. The form's purpose is to collect feedback, comments, and possibly even signatures from reviewers, and may be used for quality control, validation, or other evaluation purposes.
-
-To ensure accuracy, I'll be checking for duplication of forms in the same category or industry, and making sure the form's fields are correctly filled out before proceeding with the review process.
-</thinking>
-
 # multi-stage-review-submission-form - Help Guide
 ## Purpose
 This form is designed for collecting feedback and comments from multiple reviewers at different stages of a review process. It is likely used for quality control, validation, or other evaluation purposes in a professional or business setting.

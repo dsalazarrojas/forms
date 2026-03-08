@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the "vehicle_detailing_booking_form" form. The form is used for customers to book a vehicle detailing service. It is not intended for internal use and is meant for end-users to book a vehicle detailing service for their vehicle. 
-
-The form is divided into two pages: "Vehicle Detailing" and other fields to gather customer information. 
-
-Each page has fields that gather information for the service and the customer.
-</thinking>
-
 # vehicle_detailing_booking_form - Help Guide
 ## Purpose
 The vehicle_detailing_booking_form is used to book a vehicle detailing service for customers. Customers can choose the type of detailing service they need and provide their contact information to schedule an appointment.

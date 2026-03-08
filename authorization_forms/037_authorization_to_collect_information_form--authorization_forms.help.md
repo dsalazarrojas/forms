@@ -1,5 +1,3 @@
-<thinking>Authorization To Collect Information Form is a crucial document that governs the collection, use, and protection of personal data. This form ensures that individuals understand their rights and provide informed consent for data collection. It's essential to fill out this form carefully and accurately to maintain transparency and accountability. Before proceeding, please ensure you have read and understood the form's purpose and have not duplicated the process. If you're unsure about any of the fields or questions, please seek clarification before filling out the form.</thinking>
-
 # Authorization To Collect Information Form - Help Guide
 ## Purpose
 This form is used to document the authorization for collecting information from individuals, ensuring transparency and accountability in data collection practices.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for pet owners to schedule a curbside appointment with a veterinary hospital. The form will collect information about the pet, the appointment details, and any additional information relevant to the visit. This form is intended to be completed by pet owners, and its purpose is to streamline the scheduling process for veterinary hospital appointments. There is no need to review this form unless you have already done so and are familiar with its content and layout, so it's likely this help guide won't be of use. However, it's being generated to ensure clarity and consistency.
-</thinking>
-
 # Veterinary Hospital Curbside Appointment Form - Help Guide
 ## Purpose
 This form is used for pet owners to schedule a curbside appointment at the veterinary hospital. It helps to collect necessary information about the pet and the appointment details in an efficient and organized manner.

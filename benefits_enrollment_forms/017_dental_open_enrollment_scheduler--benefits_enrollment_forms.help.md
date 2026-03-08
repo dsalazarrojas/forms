@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dental Open Enrollment Scheduler - Help Guide
 
 ## Purpose

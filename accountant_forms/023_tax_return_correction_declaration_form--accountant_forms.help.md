@@ -1,7 +1,3 @@
-<thinking>
-This form is used to correct errors or discrepancies in a tax return, allowing users to provide accurate and up-to-date information. It's essential to ensure that the form is completed correctly to avoid any issues or penalties. Please note that this form is not to be used for duplicate submissions, and users must only submit one correction per tax return. 
-</thinking>
-
 # Tax Return Correction Declaration Form - Help Guide
 ## Purpose
 The Tax Return Correction Declaration Form is used to correct errors or discrepancies in a tax return. This form allows users to provide accurate and up-to-date information, ensuring compliance with tax regulations and avoiding potential issues or penalties.

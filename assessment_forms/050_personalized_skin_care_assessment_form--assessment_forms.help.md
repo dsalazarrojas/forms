@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from users regarding their skin care needs and concerns. It will be used for personalized recommendations and advice. This form is meant to be a straightforward and efficient way to gather necessary data. Please verify that the form fields are correctly labeled and that this help guide accurately represents the form's purpose and functionality before publishing. Please ensure the fields are clear, concise, and easily understandable to end-users. Please review the field descriptions and labels for clarity and relevance to the provided schema. Please consider providing examples or examples for ambiguous or unclear field labels.</thinking>
-
 # Personalized Skin Care Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your skin care needs and concerns. The data collected will be used to provide you with personalized recommendations and advice for your skin care routine.

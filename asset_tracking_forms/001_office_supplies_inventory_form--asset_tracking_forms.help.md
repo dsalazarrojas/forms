@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for office supplies inventory management. It is a tool for users to update and manage the quantity and status of office supplies within the organization. This form should only be used for items that are currently in stock or on order. Users should not use this form to create new items that are not already in the system.
-</thinking>
-
 # Office Supplies Inventory Form - Help Guide
 ## Purpose
 The Office Supplies Inventory Form is a tool for updating and managing the quantity and status of office supplies within the organization.

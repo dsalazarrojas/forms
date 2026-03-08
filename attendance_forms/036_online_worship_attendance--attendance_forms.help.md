@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and record attendance for online worship services. This is an internal tool for worship leaders and administrators to keep accurate records and follow up with attendees. It is essential to fill this form out accurately to ensure the correct data is captured. Please fill this form out carefully and truthfully.
-</thinking>
-
 # Online Worship Attendance - Help Guide
 ## Purpose
 This form is used to record attendance for online worship services. Fill in your details accurately to ensure correct data is captured.

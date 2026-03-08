@@ -1,7 +1,3 @@
-<thinking>
-The sustainable product self-assessment questionnaire is designed to collect information about the sustainable characteristics of a product. This form is meant to be used by product owners or stakeholders to evaluate the environmental impact and sustainability of their products. Please ensure that this form is filled out for each product to be used as a reference point for sustainability assessments and reporting.
-</thinking>
-
 # sustainable_product_self_assessment_questionnaire - Help Guide
 ## Purpose
 

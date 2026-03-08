@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to fill out the Assessment Booking Form. This form is meant to collect information from applicants for the purpose of booking an assessment. It's essential to fill out the form accurately and thoroughly to ensure that the assessment process proceeds smoothly.
-
-Before proceeding, please check that this form is relevant to your needs. If you've already submitted an assessment booking request, please do not submit this form again, as it may create duplicate records.
-
-</thinking>
-
 # Assessment Booking Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>Internal reasoning:
-We are creating a help guide for the "Athlete of the Year Nomination Form" to ensure that end-users understand its purpose and how to complete it efficiently. This form aims to collect information from individuals nominating an athlete for this recognition. To ensure the form is completed accurately, we need to break down each field and explain its purpose. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field in the form.</thinking>
-
 # Athlete of the Year Nomination Form - Help Guide
 ## Purpose
 

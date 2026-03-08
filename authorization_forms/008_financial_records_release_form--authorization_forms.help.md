@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to fill out the Financial Records Release Form. The form is likely to be used by administrators or HR personnel to release financial records to a user or employee. The form's purpose is to gather information about the release and ensure that the user understands the implications of releasing sensitive financial records. Before completing this form, please confirm that you have the necessary authority to access and release financial records.
-
-</thinking>
 # Financial Records Release Form - Help Guide
 ## Purpose
 The Financial Records Release Form is used to release financial records to a user or employee. This form ensures that users understand the implications of releasing sensitive financial records and that the release is authorized.

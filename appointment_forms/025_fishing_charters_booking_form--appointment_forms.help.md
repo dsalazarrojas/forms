@@ -1,26 +1,3 @@
-<thinking>
-This form is a Fishing Charters Booking Form, designed to allow users to book a fishing charter experience. The purpose of the form is to collect information from users such as their name, contact details, and preferences for the charter.
-
-It is essential to ensure that the user understands how to complete the form correctly to avoid errors or misunderstandings.
-
-The form is divided into several fields, each with a specific purpose:
-
-*   First Name: This field is used to capture the user's first name.
-*   Last Name: This field is used to capture the user's last name.
-*   Email: This field is used to capture the user's email address.
-*   Phone: This field is used to capture the user's phone number.
-*   Date: This field is used to select a date for the charter.
-*   Time: This field is used to select a time slot for the charter.
-*   Charter Type: This field is used to select the type of charter the user wishes to book.
-*   Number of People: This field is used to capture the number of people booking the charter.
-*   Number of Fishers: This field is used to capture the number of fishers in the group.
-*   Fishers Names: This field is used to capture the names of the fishers in the group.
-*   Notes: This field is used to capture any additional notes or comments from the user.
-*   Assigned To: This field is used to select who the charter will be assigned to.
-*   Form ID: This field is not explicitly explained in the provided YAML fields.
-
-</thinking>
-
 # Fishing Charters Booking Form - Help Guide
 ## Purpose
 The Fishing Charters Booking Form is a user-friendly form designed to gather essential information from users for a fishing charter experience. This form ensures that the user provides accurate and complete information to book a charter that suits their needs.

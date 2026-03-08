@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be used to explain the Boy Scout Attendance Form to end-users, ensuring they understand its purpose and how to complete it properly. The form is designed to track attendance and other relevant information for Boy Scout meetings. To avoid duplication, this guide will be created after verifying that there are no existing resources that cover the same content. 
-</thinking>
-
 # Boy Scout Attendance Form - Help Guide
 ## Purpose
 The Boy Scout Attendance Form is designed to track attendance and other relevant information for Boy Scout meetings. It is used by Scout leaders to document the attendance status and other important details of Scouts at meetings.

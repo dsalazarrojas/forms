@@ -1,9 +1,3 @@
-<thinking>
-- The form is intended to collect noise complaints from the public, likely from residents who experience disturbance from excessive noise.
-- This form should only be used for complaints about noise, not other types of disturbances (e.g., environmental issues, accidents, etc.).
-- Please fill out this form only if you have not already submitted a noise complaint for the same issue, as it may be unnecessary to create multiple complaints.
-</thinking>
-
 # Noise Disturbance Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about noise disturbances you have experienced or are experiencing, such as excessive noise, construction noise, or party noise. This form will help our team investigate and address the issue.

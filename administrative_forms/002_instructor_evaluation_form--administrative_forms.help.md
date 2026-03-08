@@ -1,8 +1,3 @@
-<thinking>
-The form is designed for instructors to evaluate their students' performance, providing an opportunity for them to share their observations and assessments of a student's abilities. This form will help instructors provide feedback on a student's course name, teacher's name, the date and time of the evaluation, the type of evaluation (e.g., mid-semester, end-of-semester, semester), areas of strengths and weaknesses, and overall performance. Additionally, instructors will be required to rate the student's overall performance and write any comments or ratings they may have. This form is essential for providing accurate and comprehensive assessments of student performance, helping to identify areas of improvement and recognition of strengths. 
-
-</thinking>
-
 # instructor_evaluation_form - Help Guide
 ## Purpose
 The instructor evaluation form is designed to facilitate instructors in providing feedback on students' performance. 

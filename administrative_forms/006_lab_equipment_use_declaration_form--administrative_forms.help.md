@@ -1,5 +1,3 @@
-<thinking>Is this form for declaring the use of lab equipment? It seems to be a form used for declaring the use of lab equipment, where users must provide information about the equipment, such as its name, usage frequency, and other relevant details. Each page has a unique set of fields, and the user must complete all the required fields on each page. The form seems to be designed for both single and multiple-choice questions, and some fields may be optional. I will now output the help guide for this form.</thinking>
-
 # lab_equipment_use_declaration_form - Help Guide
 ## Purpose
 The lab equipment use declaration form is used to declare the use of lab equipment in a laboratory setting. This form helps to track the usage and maintenance of lab equipment, ensuring that it is used correctly and safely.

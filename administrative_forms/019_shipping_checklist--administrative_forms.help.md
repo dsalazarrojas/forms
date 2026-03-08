@@ -1,9 +1,3 @@
-<thinking>
-The Shipping Checklist form is a critical document used to ensure accurate and efficient shipping processes. It helps users collect important information about packages, their shipping addresses, methods, and tracking numbers. This form is typically used in an internal process to facilitate smooth logistics and communication among team members or with external partners.
-The form purpose is to collect and verify data for accurate shipping processes, reduce errors, and enhance customer satisfaction. This form does not need to be duplicated or filled twice, as it's designed to be completed once by the user with the most up-to-date information.
-
-</thinking>
-
 # Shipping Checklist - Help Guide
 ## Purpose
 This form is used to collect and verify important information for smooth shipping processes.

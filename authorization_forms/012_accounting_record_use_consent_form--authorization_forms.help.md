@@ -1,27 +1,3 @@
-<thinking>
-To determine the purpose of this form, consider the following:
-
-- This form is used to collect consent from clients or individuals for the use of their accounting records.
-- The form is likely used by accounting or finance departments to ensure that clients are aware of how their records will be used and to obtain their consent for specific purposes.
-- The form may be used for internal record-keeping or for sharing records with third parties, such as auditors or government agencies.
-- The form should only be used when it is necessary to use or share client records.
-- It is essential to ensure that this form is not duplicating any other process or form, and that the information collected is up-to-date and accurate.
-
-When filling out this form, you will be asked to provide the following information:
-
-- Your name and contact details (email and phone number).
-- The records that you are willing to have used (including date ranges).
-- The purpose for which you are authorizing the use of your records.
-- Whether you are willing to share your records with third parties.
-- Confidentiality measures that will be taken to protect your records.
-- The name of the representative who has granted consent on your behalf.
-- Your electronic signature.
-- The date your consent was granted.
-
-The form is divided into 13 fields, each with a specific purpose:
-
-</thinking>
-
 # Accounting Record Use Consent Form - Help Guide
 
 ## Purpose

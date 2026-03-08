@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather feedback from participants in the GTW Suriname 2019 workshop, with the goal of understanding their overall experience, identifying areas for improvement, and determining future workshop direction. The form is composed of 25 questions divided into multiple pages, each asking about a specific aspect of the workshop. This form is likely to be filled out by workshop attendees, including participants, facilitators, and organizers.
-Before filling out this form, ensure that:
-- The form is not completed multiple times by the same individual.
-- The form is filled out in its entirety, with honest and thoughtful responses.
-</thinking>
-
 # GTW Suriname 2019 Participant Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants in the GTW Suriname 2019 workshop. Your input will help us improve future workshops and better serve the community.

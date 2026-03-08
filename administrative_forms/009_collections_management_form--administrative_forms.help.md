@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this collections management form, we must first understand the purpose of this form and ensure it's not a duplicate or outdated. The form appears to be a comprehensive data collection tool for managers to track various aspects of the collections process, including collection periods, accounts receivable, and collection efforts. This form likely serves as a centralized hub for managers to gather and analyze information on outstanding accounts, collection attempts, and other important metrics.
-
-Upon closer inspection, I see this form is designed to capture data for a specific collection period, and each field contributes to a detailed picture of the collections process during this time frame. By providing a clear and organized guide, we can help users navigate the form effectively and use the collected data to make informed decisions.
-
-</thinking>
-
 # Collections Management Form - Help Guide
 ## Purpose
 This form is designed to collect and analyze data on the collections process for a specific period, providing a comprehensive overview of outstanding accounts, collection efforts, and related metrics.

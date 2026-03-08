@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's workplace and work environment, focusing on visual controls and safety measures in place. The form asks about the frequency and severity of potential safety risks and how they are mitigated. This form is likely used for risk assessment or analysis, perhaps in a workplace safety context.
-This guide will assume the reader is familiar with the context of the form and its intended use. If you're unsure about the form's purpose or how it's used, please refer to your organization's documentation or contact your supervisor for clarification.
-</thinking>
-
 # Visual Control Assessment Form - Help Guide
 ## Purpose
 The Visual Control Assessment Form is a tool used to evaluate the safety and efficiency of a workplace. It gathers information about the presence and effectiveness of visual controls and safety measures.

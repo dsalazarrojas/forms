@@ -1,7 +1,3 @@
-<thinking>
-This form is used to onboard new vendors to our system, ensuring they have the necessary information to be approved and integrated into our operations. It is essential to fill out this form accurately and completely, as it will be used to verify the vendor's identity and prepare them for our onboarding process. Please note that this form should not be completed if the vendor has already been onboarded or is already integrated into our system.
-</thinking>
-
 # New Vendor Onboarding Request Form - Help Guide
 ## Purpose
 The New Vendor Onboarding Request Form is used to collect necessary information from new vendors to be onboarded into our system. This form is a prerequisite for vendors to be approved and integrated into our operations.

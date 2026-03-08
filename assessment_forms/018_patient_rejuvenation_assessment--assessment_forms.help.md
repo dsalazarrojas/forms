@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's goals, medical and surgical history, family background, and medication history and interactions. The purpose of this form is to provide a comprehensive assessment of a patient's needs and circumstances. Please note that this form is not intended to be a substitute for medical diagnosis or treatment. Before using this form, ensure that it aligns with your medical practice or institution's policies and procedures.
-
-Before completing this form, please review the following:
-
-*   The form has been created using AI-generated metadata and is an original adaptation and not a copy of any proprietary content.
-*   This form is released under CC BY 4.0 license and can be modified or used freely with proper credit.
-
-</thinking>
-
 # Patient Rejuvenation Assessment - Help Guide
 ## Purpose
 The Patient Rejuvenation Assessment form is designed to gather comprehensive information about a patient's medical and lifestyle history, which helps healthcare professionals understand the patient's needs and provide accurate and personalized care. This information is essential in developing a treatment plan tailored to the patient's requirements.

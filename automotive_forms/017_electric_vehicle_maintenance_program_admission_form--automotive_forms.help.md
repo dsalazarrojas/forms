@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for electric vehicle maintenance program admission, and the form is designed to collect information from applicants. To determine if this form is relevant and not duplicated, please consider the following:
-- Does the form collect information related to electric vehicle maintenance?
-- Does the form duplicate any other existing forms or processes?
-</thinking>
-
 # electric_vehicle_maintenance_program_admission_form - Help Guide
 ## Purpose
 This form is used to gather information from applicants for the electric vehicle maintenance program. The form is meant to collect relevant details about the applicant, their contact and professional information, vehicle specifics, and any maintenance certifications or work experience they may have.

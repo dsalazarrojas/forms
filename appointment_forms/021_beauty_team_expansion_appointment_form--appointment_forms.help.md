@@ -1,9 +1,3 @@
-<thinking>Here is a brief internal explanation of the form purpose and relevance:
-
-This form is designed to collect information from potential candidates for the beauty team expansion. It captures essential details such as contact information (full name, email address, and phone number), relevant experience and skills (position of interest, years of experience, and current employment status), and scheduling preferences (preferred interview date, time range, and format). The form also includes an optional link to the candidate's portfolio or work samples. By filling out this form, candidates can express their interest in joining the beauty team and provide information that will be used in the hiring process.
-
-This form serves as the first step in the recruitment process, and its completion is necessary for potential candidates to be considered for open positions. The fields are carefully crafted to gather relevant information that will aid in determining the best fit for the beauty team.</thinking>
-
 # Beauty Team Expansion Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect application information from potential candidates for the beauty team expansion.

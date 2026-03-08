@@ -1,7 +1,3 @@
-<thinking>
-We've created the RFP Response Communication Form to streamline internal communication with stakeholders regarding Request for Proposal (RFP) responses. This form ensures that all required information is captured accurately and consistently, reducing misunderstandings and misinterpretations that can cause delays or rework. Please ensure you only create a new instance of this form when responding to new RFPs, to avoid creating duplicate records for the same RFP response. If you're unsure whether to create a new form or update an existing one, please consult with your team or project lead before proceeding.
-</thinking>
-
 # RFP Response Communication Form - Help Guide
 ## Purpose
 The RFP Response Communication Form is used to document and communicate project status, stakeholder information, and other relevant details about a Request for Proposal (RFP) response. It helps ensure that all necessary information is accurately and consistently captured, facilitating clear communication with stakeholders and project teams.

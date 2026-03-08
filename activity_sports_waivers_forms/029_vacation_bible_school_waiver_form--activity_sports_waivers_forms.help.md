@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a waiver for students participating in Vacation Bible School activities. It's intended to be used by parents or guardians to provide consent for their child's participation and to provide necessary contact and medical information in case of an emergency. This form aims to ensure that parents or guardians are aware of and agree to the terms of their child's participation in the program. Please note that this form is a sample and may not be compliant with all local laws and regulations. Use at your discretion.
-</thinking>
-
 # Vacation Bible School Waiver Form - Help Guide
 ## Purpose
 

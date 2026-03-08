@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees about their family medical leave requests, which is an essential part of their benefits. The form is likely used by HR or benefits department to track and manage employee's family medical leave requests. Before filling out this form, please ensure that you are eligible for family medical leave benefits and that this is the correct form for your specific situation. Please fill out this form carefully and accurately to avoid any potential issues.
-
-To determine if this form is relevant, please consider the following: 
-* Are you currently an employee or an ex-employee? 
-* Do you have a family member requiring medical leave? 
-* Have you already submitted a family medical leave request?
-</thinking>
-
 # Family Medical Leave Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for reporting the safety test results of electrical systems in an organization. The form will help users to report the test results of electrical systems on a specific date and time, and provide information about the test location, equipment used, and other relevant details. 
-
-It is essential to fill in all the required fields accurately to ensure that the safety test results are correctly recorded and reported.
-
-This form is a part of an organizational safety protocol and is intended for internal use.
-
-It is recommended to fill in the form completely and accurately to avoid any confusion or errors.
-
-</thinking>
-
 # electrical_safety_test_report_form - Help Guide
 ## Purpose
 This form is used to report the safety test results of electrical systems in an organization.

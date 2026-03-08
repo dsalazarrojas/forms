@@ -1,10 +1,3 @@
-<thinking>
-To ensure that the form is used as intended and to prevent unnecessary duplication, we should clarify the form's purpose and provide clear instructions on how to complete it.
-
-This form is designed to gather information for vehicle registration renewal. The user will be able to select their vehicle type, provide their license plate number, and choose their preferred renewal method. They will also be able to input their address, city, state, zip code, email, and phone number. Additionally, they will be able to upload a signature for verification.
-
-</thinking>
-
 # Vehicle Registration Renewal Form - Help Guide
 ## Purpose
 The Vehicle Registration Renewal Form is used to gather information for vehicle registration renewal. This includes selecting the type of vehicle, providing the license plate number, choosing the renewal method, and inputting address, city, state, zip code, email, and phone number details. The form is designed to be completed online.

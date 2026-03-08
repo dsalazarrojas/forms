@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to create a help guide for a form called "r_d_experiment_validation_report_form". This form has six fields:
 
 1. Experiment ID: This field is a number that uniquely identifies the experiment.

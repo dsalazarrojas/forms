@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Post-Training Risk Assessment form, we need to clarify its purpose and explain each field in a clear and concise manner. Let's start by understanding the form's purpose and its relevance to the users.
-
-The purpose of this form is to assess and document risks associated with a training program. It helps users identify potential risks that may arise during or after the training, and track them to ensure that necessary precautions are taken to mitigate or manage these risks.
-
-This form is designed to be a simple and straightforward tool for users to report and categorize risks. It should not be used for any other purpose other than as a tool for risk management.
-
-</thinking>
-
 # Post-Training Risk Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information about potential risks associated with a training program.

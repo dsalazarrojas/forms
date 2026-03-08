@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information about a small claims case intake form. The purpose of this form is to gather details about a case, including the user's information, case details, and party information. The form is designed for both the plaintiff and defendant to provide their information for the case.
-The form does not require a valid reason for not duplicating or not submitting the case, but it is intended for single instances of new cases. This form will serve as a template for capturing data from both the plaintiffs and defendants. 
-</thinking>
-
 # small_claims_case_intake_form - Help Guide
 ## Purpose
 The small claims case intake form is a template for capturing data from both plaintiffs and defendants for new cases. It is intended to gather user information, case details, and party information.

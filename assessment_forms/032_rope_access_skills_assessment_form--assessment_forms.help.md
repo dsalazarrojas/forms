@@ -1,5 +1,3 @@
-<thinking>As a rope access technician, completing the Rope Access Skills Assessment Form helps you showcase your expertise and proficiency in rope access techniques. This form assesses your skills in various areas, including sections such as safety protocols, rigging practices, and emergency procedures. The form's purpose is to evaluate your ability to apply theoretical knowledge in real-world scenarios. Ensure you answer the questions accurately, as the assessment outcome will reflect your level of expertise in rope access. Please note that this form is meant to be completed by qualified rope access technicians and assessors. If you are unsure about any question or section, please consult with your supervisor or the designated assessors.</thinking>
-
 # Rope Access Skills Assessment Form - Help Guide
 ## Purpose
 This form aims to evaluate your expertise in rope access techniques by assessing your skills in various areas, including safety protocols, rigging practices, and emergency procedures.

@@ -1,5 +1,3 @@
-<thinking>... Internal reasoning: This form, "Lexicographer Skills Assessment", is designed to collect information from individuals with lexicographic skills for assessment and evaluation purposes. The form aims to capture details such as personal identification, language skills, and other relevant attributes. It's essential to ensure that each field is accurately filled out to avoid any confusion or misinterpretation of the data. The form must not be duplicated or reused for any other purpose. Please review and understand the form's purpose before proceeding.</thinking>
-
 # Lexicographer Skills Assessment - Help Guide
 ## Purpose
 The Lexicographer Skills Assessment form is designed to collect essential information about individuals with lexicographic skills. This form is used for assessment and evaluation purposes, ensuring accurate and thorough data collection.

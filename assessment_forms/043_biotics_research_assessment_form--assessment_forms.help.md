@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Biotics Research Assessment Form - Help Guide
 ## Purpose
 The Biotics Research Assessment Form is a comprehensive tool designed to gather information about a participant's health and lifestyle habits. This form helps researchers assess the participant's overall health status, identify potential risk factors, and provide personalized recommendations for improvement. It is essential to answer these questions accurately and honestly to get the most valuable insights for the research.

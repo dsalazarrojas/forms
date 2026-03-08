@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Request For Tags And Controls" form is to collect information and preferences from users in a specific category, likely for access control or management purposes. This form likely serves as a central repository for users to request tags and controls for their projects or tasks. The form's design allows users to input various details, such as their name, email, and description, which will aid in identifying and categorizing their requests. Each field is carefully crafted to gather specific information, including tags, controls, and status updates. It is crucial to understand the form's purpose and usage correctly to ensure accurate and efficient processing of requests.
-Before proceeding, please ensure you have read and understood the form's purpose and requirements. To avoid any confusion, we will not allow duplicate requests for the same tags and controls.
-</thinking>
-
 # Request For Tags And Controls - Help Guide
 ## Purpose
 

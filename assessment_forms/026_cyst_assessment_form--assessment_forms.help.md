@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Is this form intended for clinical use? If so, how does it align with clinical best practices?**
 
 The Cyst Assessment Form appears to be designed for medical professionals to gather and record patient information related to cysts. The form includes fields for patient demographics, medical history, and treatment outcomes, which aligns with standard clinical documentation practices. However, the inclusion of fields such as "Cyst Type" and "Cyst Location" suggests a focus on specific medical conditions, which may be more commonly associated with radiology or surgery departments. Without additional context, it's unclear if this form is meant for a general medical assessment or a specific use case.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # puppetry_workshop_booking_form - Help Guide
 
 ## Purpose

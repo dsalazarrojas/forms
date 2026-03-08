@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students about their material needs for a specific class or course. It is essential to ensure that students receive the necessary equipment and supplies to complete their projects and assignments. By providing details about the materials needed, students can help the staff better understand their requirements and provide accurate assistance. Before filling out the form, please check if you have submitted a similar request recently to avoid duplication of efforts. Ensure that you provide accurate and complete information, as this will help the staff in processing your request efficiently.
-</thinking>
-
 # Acting School Material Request Form - Help Guide
 ## Purpose
 The Acting School Material Request Form is a tool for students to submit their material needs for a specific class or course. By completing this form, you will provide essential information about the materials you require for your project, helping the staff to better serve you.

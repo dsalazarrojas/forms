@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for customers to place orders for homemade masks. The purpose of this form is to collect relevant customer information, order details, and shipping preferences for each order. The form is designed to be completed by customers who want to place a custom order with specific preferences. The form is not intended for bulk orders or general inquiries, so users should only be directed here if they have a specific order in mind.
-
-Before completing this form, the customer should confirm that they have read the form carefully and understand what information is required. They should also be aware of the available payment and shipping options listed in the "Order Payment Type" and "Order Shipping Method" fields.
-
-It's also worth noting that the "Order Color" field is a required field, and customers must select at least one option from the provided list. This ensures that the customer has taken the necessary steps to complete their order accurately.
-
-The following fields will be used to complete this form:
-
-</thinking>
-
 # Homemade Mask Order Form - Help Guide
 ## Purpose
 This form is used for customers to place custom orders for homemade masks. It collects customer information, order details, and shipping preferences for each order.

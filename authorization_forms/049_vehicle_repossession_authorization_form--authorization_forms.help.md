@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: To authorize the repossession of a vehicle, the form helps vehicle owners provide information about their vehicle, contact details, and other relevant data for smooth vehicle recovery processes. The form is designed to collect essential data from vehicle owners to facilitate efficient and secure vehicle repossession procedures.
-
-Before completing this form, please ensure it is not a duplicate or a repeat attempt. Review and fill out the form accurately and thoroughly to avoid any confusion or delays in the repossession process.
-
-</thinking>
-
 # Vehicle Repossession Authorization Form - Help Guide
 ## Purpose
 The Vehicle Repossession Authorization Form is a document that enables vehicle owners to provide necessary information about their vehicle and contact details for repossession purposes. This form is essential for the vehicle recovery process to proceed smoothly and securely.

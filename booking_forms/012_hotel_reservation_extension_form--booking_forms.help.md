@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of extending a hotel reservation for a guest. The purpose of this form is to collect essential information from the guest, including their personal details, reservation extension preferences, and contact information. The form is intended to be completed by hotel staff to process the reservation extension request and ensure that all relevant information is captured accurately. To avoid duplication, please note that this form should only be used for reservation extensions and not for initial reservation bookings or cancellations.
-
-</thinking>
-
 # Hotel Reservation Extension Form - Help Guide
 ## Purpose
 This form is used to extend a hotel reservation for a guest. It helps hotel staff gather the necessary information to process the reservation extension request correctly.

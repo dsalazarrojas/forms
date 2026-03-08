@@ -1,8 +1,3 @@
-<thinking>
-This form is for individuals or families interested in adopting a cat from our organization. The purpose of this form is to gather information about the applicant's lifestyle, experience, and preferences to ensure a successful adoption process. Please note that this form is not intended for people who are not serious about adopting a cat. We appreciate your honesty and cooperation in providing accurate information.
-
-</thinking>
-
 # Cat Adoption Application - Help Guide
 ## Purpose
 This form is designed to collect essential information from applicants who are interested in adopting a cat from our organization.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for assessing a student's understanding of triangles. The questions will test their ability to recognize and understand the properties and relationships between different triangle types. This form should be completed by students, and the results will help instructors evaluate their understanding of triangle congruence.
 
 To complete this form, students will be asked a series of questions about triangles, each with multiple options for answers. They will need to select the correct answer for each question. The form will also ask for the student's name and email, which is required for identification purposes.

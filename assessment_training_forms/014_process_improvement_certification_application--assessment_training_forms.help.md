@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to be a Process Improvement Certification Application. It's meant for individuals who want to demonstrate their expertise and knowledge in process improvement. This form will help applicants provide information about themselves, their work experience, and their training background. It's an opportunity for them to showcase their skills and knowledge in process improvement, which will be reviewed and evaluated by the certification committee. 
-
-Before filling out the form, please note that it's a duplicate of a previous version, and you may already have an existing application on file. In that case, please do not submit this form again. 
-
-Please fill out the form carefully, providing as much detail as possible, especially in the fields related to work experience and training background. This will help the certification committee evaluate your application effectively. 
-
-You can fill out the form in sections, saving your progress as you go, and then submit it once you have completed all the sections.
-
-</thinking>
-
 # Process Improvement Certification Application - Help Guide
 ## Purpose
 This form is a certification application for individuals who want to demonstrate their expertise and knowledge in process improvement. It helps applicants provide information about themselves, their work experience, and their training background.

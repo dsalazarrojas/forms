@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain approval for performance reviews from managers. It is meant to be used by employees to submit their performance reviews for review and approval. Please ensure that you are using this form for its intended purpose and not to obtain unnecessary approvals or approvals for non-existent performance reviews. Please note that this form is not for editing or revising existing performance reviews.
-</thinking>
-
 # Performance Review Approval Form - Help Guide
 ## Purpose
 The Performance Review Approval Form is a document that helps managers approve or reject performance reviews submitted by employees. It provides a structured way to evaluate an employee's performance over a period of time and makes it easier for managers to make informed decisions about promotions, bonuses, or other employment actions.

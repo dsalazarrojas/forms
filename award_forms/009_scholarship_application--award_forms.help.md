@@ -1,6 +1,4 @@
-## <thinking>...</thinking>
-
-This form is designed for users to apply for a scholarship. The purpose of this form is to collect personal and contact information, as well as some additional details about the user's character and reading habits. The form will help the scholarship committee determine eligibility and review applications.
+## This form is designed for users to apply for a scholarship. The purpose of this form is to collect personal and contact information, as well as some additional details about the user's character and reading habits. The form will help the scholarship committee determine eligibility and review applications.
 
 Before completing this form, please ensure you have all the necessary information ready and that it is accurate. Please also note that this form has multiple pages, each with its own specific fields to fill in.
 

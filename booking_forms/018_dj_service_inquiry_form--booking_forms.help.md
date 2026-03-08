@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information from customers or clients about their potential events that may require DJ services. The form aims to collect basic contact information and details about the event to ensure that the DJ service provider can better understand the client's needs and provide an appropriate service.
-This form is part of a larger process that involves collecting and processing event inquiries, which may include but not be limited to, checking availability, sending quotes, and scheduling events.
-</thinking>
-
 # DJ Service Inquiry Form - Help Guide
 ## Purpose
 The DJ Service Inquiry Form is designed to collect information about potential events that may require DJ services. This form will be used to gather details about the event, including event information and contact details.

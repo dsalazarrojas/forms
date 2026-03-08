@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for corporate travel booking requests. It should only be used for company-approved trips, such as business meetings, conferences, or company-related events. Please ensure that you are using this form for work-related purposes only. If your travel is not related to work, please use the proper reimbursement form.
-
-Before filling out this form, check your company's travel policy to ensure that your travel falls within company guidelines.
-
-This form is designed to collect information about your travel plans, including travel dates, times, locations, and purpose. Please fill in the form accurately and completely.
-
-If you need any help or have questions, contact your travel administrator.
-</thinking>
-
 # Corporate Travel Booking Form - Help Guide
 ## Purpose
 The Corporate Travel Booking Form is used to request company approval for corporate travel bookings. It collects information about your travel plans, allowing the travel administrator to verify that your trip is company-approved and meets company guidelines.

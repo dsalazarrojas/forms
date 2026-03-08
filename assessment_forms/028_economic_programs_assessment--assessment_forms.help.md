@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of economic programs in achieving specific outcomes. The primary goal is to collect feedback from participants about their experience, satisfaction, and any additional comments they may have. This form will help in evaluating the impact and effectiveness of the economic programs implemented in your organization.
-The assessment should not be used in duplicate or unnecessary contexts. Please fill out the form only if you have participated in the economic program and have an opinion about its effectiveness.
-</thinking>
-
 # Economic Programs Assessment - Help Guide
 ## Purpose
 The Economic Programs Assessment is designed to collect feedback from participants about the effectiveness of economic programs implemented in your organization. This feedback will help in evaluating the impact and effectiveness of these programs.

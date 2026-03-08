@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer information for clothing orders, including customer contact details, order date, and item details such as type, description, quantity, and color preference. The form also collects sizing information, style preferences, and special instructions. Additionally, it includes fields for pricing and payment details, shipping information, and delivery details. This form is intended to be used by customers to place orders for clothing items.
-</thinking>
-
 # Clothes Order Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-The Rescue Transport Network Application Form is used to collect information from volunteer drivers who wish to participate in the rescue transport network. This form is meant to be completed by potential volunteers who have a reliable vehicle that can be used for rescue transport services. The goal of the form is to gather relevant information about the volunteer driver, their vehicle, and their availability and experience. By completing this form, volunteers will be able to register themselves and their vehicles for potential use in the rescue transport network.
-
-This form will be reviewed and evaluated to ensure that the information provided is accurate and complete. Duplicate or irrelevant submissions will be removed from the system.
-
-</thinking>
-
 # Rescue Transport Network Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from volunteer drivers who wish to participate in the rescue transport network.

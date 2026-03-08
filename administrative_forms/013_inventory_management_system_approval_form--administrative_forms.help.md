@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inventory_management_system_approval_form - Help Guide
 ## Purpose
 The inventory management system approval form is used to manage and track the approval process of inventory requests. It captures essential information about the request, such as the item name, description, request date and time, requester, approver, and status. This form helps to facilitate the approval process and ensures that all necessary details are recorded.

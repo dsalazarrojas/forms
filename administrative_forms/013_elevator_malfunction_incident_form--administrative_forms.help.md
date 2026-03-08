@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about elevator malfunctions in a building. It is meant to be completed by the building management or maintenance team after an elevator has malfunctioned. The form is used to report the incident, describe the issue, and provide information about any witnesses or preventive measures taken. The form is not intended for general public use, and the information collected will be used internally for record-keeping and maintenance purposes only. It is not meant to be used for any other purpose other than as a tool for the maintenance team to follow up on malfunctions. Please note that this form is part of the "administrative_forms" category, meaning it is used internally within an organization.</thinking>
-
 # Elevator Malfunction Incident Form - Help Guide
 ## Purpose
 This form is used to report and document elevator malfunctions in a building. It helps the maintenance team to identify the issue, take necessary steps to resolve it, and follow up on the incident.

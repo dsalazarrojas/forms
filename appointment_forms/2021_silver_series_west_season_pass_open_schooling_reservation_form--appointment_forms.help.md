@@ -1,7 +1,3 @@
-<thinking>
-The 2021 Silver Series West Season Pass Open Schooling Reservation Form is a digital form designed to collect information from users who are interested in reserving a spot for an educational program or session. This form is intended for users who are looking to register for a specific course of study during the 2021 season, which caters to students from the West region.
-</thinking>
-
 # 2021 Silver Series West Season Pass Open Schooling Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect essential details from interested students to help us better understand their needs and preferences. Please provide accurate and honest information to ensure we can provide the best possible experience for you.

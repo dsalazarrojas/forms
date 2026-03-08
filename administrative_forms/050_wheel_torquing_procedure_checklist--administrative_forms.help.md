@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the "Wheel Torquing Procedure Checklist" form is to document the completion of a specific procedure for ensuring correct wheel torquing. The form is designed to verify that the correct steps were followed and that all necessary safety inspections were performed. This form is used in conjunction with other forms and procedures to ensure that all vehicles are properly serviced and maintained.
-
-Before proceeding, ensure that you are filling out this form for the correct procedure and that you have not already submitted a wheel torquing procedure checklist for this vehicle.
-
-</thinking>
-
 # Wheel Torquing Procedure Checklist - Help Guide
 ## Purpose
 The Wheel Torquing Procedure Checklist is used to document the completion of a specific procedure for ensuring correct wheel torquing on vehicles.

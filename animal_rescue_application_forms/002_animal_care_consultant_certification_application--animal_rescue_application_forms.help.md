@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals seeking to become certified as animal care consultants. The purpose of this certification is to demonstrate expertise in animal care, which may involve providing care services, consulting, or educating others about animal care. This form is used by individuals to apply for the certification and provide necessary information to support their application.
-To ensure that your application is complete and accurate, please review this guide carefully.
-</thinking>
-
 # Animal Care Consultant Certification Application - Help Guide
 ## Purpose
 

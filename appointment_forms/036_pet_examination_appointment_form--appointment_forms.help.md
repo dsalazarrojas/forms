@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be part of a veterinary clinic's workflow for scheduling or managing pet examinations. It's designed to collect necessary information from users for a smooth and efficient examination process. Before proceeding, ensure that this form doesn't exist elsewhere in the system and that users understand the context and purpose of filling it out accurately.
-</thinking>
-
 # pet_examination_appointment_form - Help Guide
 ## Purpose
 This form is for scheduling a pet examination. It's crucial to fill it out accurately to ensure the examination process runs smoothly and efficiently.

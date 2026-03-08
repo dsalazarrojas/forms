@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a thought process block for internal reasoning and checking for duplication. 
 
 This block is not output, it's just my internal reasoning for creating the help guide.

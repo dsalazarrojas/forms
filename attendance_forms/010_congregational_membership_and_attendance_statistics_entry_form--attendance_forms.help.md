@@ -1,17 +1,3 @@
-<thinking>
-Before we dive into the help guide, let's consider the form's purpose and context. The Congregational Membership and Attendance Statistics Entry Form appears to be designed for churches or religious organizations to collect and track membership and attendance data. This form likely helps administrators or secretaries record and report monthly congregational statistics, including membership numbers, attendance averages, and other relevant metrics.
-
-To confirm, let's assume this form is used to:
-
-* Record monthly membership statistics, such as total members at the start and end of the month
-* Track attendance averages for Sunday and mid-week services
-* Monitor attendance for special events, like holidays or concerts
-* Verify the accuracy of reported data
-
-We'll aim to create a user-friendly help guide that covers form completion, field explanations, and tips to ensure end-users understand how to accurately submit their congregational membership and attendance data.
-
-</thinking>
-
 # Congregational Membership And Attendance Statistics Entry Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Bill Pay Form is used to collect information about payments from payers, including their contact details, payment amounts, and payment methods. This form ensures that payers can efficiently and securely provide payment information, reducing the risk of errors and ensuring timely payments. The form is designed to be completed by payers who want to make one-time or recurring payments. To ensure accuracy, it's essential to carefully read and fill out each section of the form.
-</thinking>
-
 # Bill Pay Form - Help Guide
 ## Purpose
 The Bill Pay Form is used to collect and process payments from payers. It ensures accurate and secure payment information, reducing errors and enabling timely payments.

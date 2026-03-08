@@ -1,13 +1,3 @@
-<thinking>
-The Toulouse Olfactory Assessment Questionnaire is a comprehensive form used to assess a patient's olfactory function and related symptoms. This form is essential for clinicians to gather information about a patient's sense of smell, which is crucial in diagnosing and managing various conditions affecting the olfactory system. 
-
-When filling out this form, please ensure that you are completing it for the purpose of providing accurate and thorough information about your olfactory condition. This form must be filled out by the patient, and it's not a duplicate of any other form. 
-
-Please note that some sections of this form are required to be filled out by the patient in order to ensure accurate assessment of their condition. Please do not skip any required sections. 
-
-The form is divided into several sections to collect different types of information. Please refer to each section's description for more details.
-</thinking>
-
 # Toulouse Olfactory Assessment Questionnaire - Help Guide
 ## Purpose
 The Toulouse Olfactory Assessment Questionnaire is a tool used by clinicians to assess a patient's olfactory function and related symptoms. It is essential for the accurate diagnosis and management of various conditions affecting the sense of smell.

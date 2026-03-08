@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for a wedding venue rental booking. It is designed to be completed by the contact person who will be responsible for the venue rental. The form should only be filled out once for each booking. If a contact person has already filled out this form for the same venue, do not ask them to fill it out again. If you are unsure if a contact person has already filled out this form, you can check the internal database or contact the booking coordinator for confirmation.
-
-</thinking>
-
 # Wedding Venue Check Out Form - Help Guide
 ## Purpose
 The Wedding Venue Check Out Form is used to collect information from the contact person in charge of a wedding venue rental. This form is essential for processing the booking and ensuring that all relevant details are recorded accurately.

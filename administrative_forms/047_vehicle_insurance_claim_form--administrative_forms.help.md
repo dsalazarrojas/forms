@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a vehicle insurance claim. It's a crucial process for policyholders to provide details about the incident, their vehicle, and the claimant's information. This form will guide policyholders through the necessary steps to submit a comprehensive claim. Please ensure this form is completed accurately to avoid any potential issues or delays in processing the claim. Before starting, double-check that you haven't submitted this form recently, as this will prevent unnecessary duplication of effort and potential confusion.
-</thinking>
-
 # Vehicle Insurance Claim Form - Help Guide
 ## Purpose
 The Vehicle Insurance Claim Form is designed to collect essential information for processing vehicle insurance claims. This form is used by policyholders to provide details about the incident, their vehicle, and their own information to facilitate the claim process.

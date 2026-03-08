@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the corporate sustainability award nomination form is completed correctly and efficiently. The form is designed to gather information for the nomination process, and it's essential to follow these steps to ensure that all required fields are filled out accurately. Please review each field carefully to provide the correct information. 
-
-This form is only for nomination purposes. If you are looking for information on sustainability awards or categories, please refer to our sustainability policy or contact our sustainability team directly.
-
-</thinking>
-
 # corporate_sustainability_award_nomination_form - Help Guide
 ## Purpose
 The Corporate Sustainability Award Nomination Form is a tool used by the sustainability team to collect and evaluate nominations for corporate sustainability awards. The form is used to gather information on companies that are leaders in corporate sustainability.

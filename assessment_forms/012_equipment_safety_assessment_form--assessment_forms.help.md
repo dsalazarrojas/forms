@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Safety Assessment Form - Help Guide
 
 ## Purpose

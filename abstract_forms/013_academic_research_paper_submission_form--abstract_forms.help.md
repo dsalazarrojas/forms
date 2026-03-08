@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for the submission of academic research papers, and its purpose is to collect necessary information for journal, conference, or university review. This form should not be used for other purposes, such as general inquiries or feedback. Please ensure you have filled out the required fields and provided accurate information to facilitate smooth review and publication processes.
-</thinking>
-
 # Academic Research Paper Submission Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...The Metamorphosis Assessment is a form designed to gather information from individuals about their current state and progress in a specific project or process. It aims to evaluate their self-assessment of their progress and identify potential obstacles and areas where coach assistance may be needed. This form will help assessors understand the current situation and provide guidance on next steps and follow-up meetings... </thinking>
-
 # Metamorphosis Assessment - Help Guide
 ## Purpose
 The Metamorphosis Assessment is a tool used to evaluate an individual's progress and identify areas where they need help or guidance. It is a self-assessment form that helps individuals reflect on their current state and provide insights for future improvement.

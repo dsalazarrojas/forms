@@ -1,12 +1,3 @@
-<thinking>
-This form is a Single Plane Engine Intake Order Form, designed to collect information from users about a specific type of engine intake order. As an expert form designer and technical writer, I will create a user-facing help guide that explains the purpose, completion process, and field-by-field explanation of this form.
-
-The purpose of this form is to gather user details, aircraft details, payment details, shipping details, and order details in a single plane engine intake order. This form is likely used in an aviation context, where users need to provide information about themselves, their aircraft, and the order they are placing. The form may be used by companies or organizations that specialize in engine intake orders, maintenance, or repairs.
-
-Before proceeding, please ensure that you are familiar with the form's purpose and that you have not already submitted this form. If you have any doubts or questions, please contact the form creators at form@gic.mx.
-
-</thinking>
-
 # Single Plane Engine Intake Order Form - Help Guide
 ## Purpose
 The Single Plane Engine Intake Order Form is designed to collect information from users about a specific type of engine intake order. The form is intended for users who need to provide details about themselves, their aircraft, and the order they are placing.

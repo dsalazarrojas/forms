@@ -1,7 +1,3 @@
-<thinking> 
-The form is used to notify the athletic department of an athlete's absence, providing details about their name, team affiliation, sport, reason for absence, and other relevant information. This form is likely used for planning, coordination, and follow-up purposes. To prevent misuse, users should only fill out this form when an athlete is actually absent or planning to be absent.
-</thinking>
-
 # Athlete Absence Notification - Help Guide
 ## Purpose
 The Athlete Absence Notification form is used to inform the athletic department of an athlete's absence and provide relevant details for planning and coordination purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to schedule and organize a plant care workshop. It will likely be used by staff members to coordinate with instructors, participants, and other stakeholders to ensure a smooth and successful event. To avoid duplication of effort, please ensure that you have the necessary permissions and approvals before filling out this form. Also, please note that this form will be used by multiple users, so please be mindful of your responses and ensure they are accurate and up-to-date.
-</thinking>
-
 # plant_care_workshop_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule and organize a plant care workshop. It collects information about the workshop date, instructor, start and end times, location, duration, participant count, contact details (email and phone), and participant terms and agreements.

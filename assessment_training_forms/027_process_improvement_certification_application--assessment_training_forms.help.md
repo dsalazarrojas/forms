@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for the Process Improvement Certification Application. Before completing this form, please ensure that you have not submitted a certification application for the same certification type in the past 6 months. This form is used to track the certification status of employees and ensure that all certifications are up-to-date. Please note that the "Certification Expiration" field is used to track the expiration date of the certification, not the renewal date.
-
-</thinking>
-
 # Process Improvement Certification Application - Help Guide
 ## Purpose
 The Process Improvement Certification Application form is used to collect information for the Process Improvement Certification. This form will help you understand your certification status and ensure that it is up-to-date.

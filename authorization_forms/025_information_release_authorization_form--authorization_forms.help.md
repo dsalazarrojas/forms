@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information related to the authorization of data release, ensuring that all necessary details are gathered to facilitate the secure and proper handling of sensitive data. This form is meant to be filled out by those requesting access to data, providing an opportunity to verify their identity and purpose of the request. To avoid duplication, please ensure that the form is submitted once all required fields are filled out accurately. 
-</thinking>
-
 # information_release_authorization_form - Help Guide
 ## Purpose
 This form is used to collect information for the authorization of data release. It is meant to be filled out by individuals or organizations requesting access to data, ensuring that their identity, purpose, and other relevant details are verified.

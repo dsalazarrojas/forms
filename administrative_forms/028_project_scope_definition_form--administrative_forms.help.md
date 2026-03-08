@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to define the scope of a project, capturing essential details that will guide project planning, execution, and tracking. This form is used to determine whether a project meets the necessary criteria for consideration by stakeholders. 
-
-To complete this form, follow the instructions below.
-</thinking>
-
 # Project Scope Definition Form - Help Guide
 ## Purpose
 The Project Scope Definition Form is used to define the scope of a project, which is a crucial factor in determining whether a project is viable and meets the requirements of stakeholders. Completing this form ensures that project team members and stakeholders have a clear understanding of the project's objectives, deliverables, scope, and timeline.

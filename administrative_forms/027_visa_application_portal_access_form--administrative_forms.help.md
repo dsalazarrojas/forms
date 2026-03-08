@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to submit information for a visa application. The form has multiple fields to collect various details about the applicant, including contact information, visa type, and document upload. Please ensure that the form is only completed once by the same user, as duplicate submissions may lead to incorrect data entry and potential security issues.
-</thinking>
-
 # visaApplicationPortalAccessForm - Help Guide
 ## Purpose
 This form is used to submit information for a visa application. It collects various details about the applicant, including contact information, visa type, and document upload.

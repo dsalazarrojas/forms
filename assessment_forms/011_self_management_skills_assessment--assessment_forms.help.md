@@ -1,9 +1,3 @@
-<thinking> 
-  This form is for assessing an individual's self-management skills, which are essential skills required for personal well-being and development.
-  The form is designed to gather information about one's ability to manage their physical and mental health, relationships, time, finances, and personal growth.
-  It is likely intended for use in a personal development or wellness context.
-</thinking>
-
 # Self Management Skills Assessment - Help Guide
 
 ## Purpose

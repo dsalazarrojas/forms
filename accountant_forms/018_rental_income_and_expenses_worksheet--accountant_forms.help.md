@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users track and calculate rental income and expenses. It should be used by accountants to gather and process financial data for rental properties. To ensure relevance, it is assumed that the form will be filled out by someone with knowledge of accounting and financial practices. The form should not be used for non-relevant purposes, such as tracking personal expenses.
-</thinking>
-
 # Rental Income And Expenses Worksheet - Help Guide
 ## Purpose
 The Rental Income And Expenses Worksheet is a form used by accountants to track and calculate financial data for rental properties. It is designed to gather all the necessary information to calculate net rental income.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for tenants to report any issues or complaints they have with their landlord or the property they are renting. It should only be completed by tenants who have a legitimate grievance, and not for general inquiries or comments. To ensure that this form is used correctly, please make sure you have a specific issue you want to report and that you have not already reported it to the landlord or property management company.
-</thinking>
-
 # landlord_complaint_form - Help Guide
 
 ## Purpose

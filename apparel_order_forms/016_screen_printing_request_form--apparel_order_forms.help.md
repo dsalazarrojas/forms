@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for screen printing requests. To fill out this form, please ensure you are providing accurate and relevant details about your order. If you have already submitted a similar request in the past, please check your previous submissions for similar fields to avoid duplication of effort.
-</thinking>
-
 # Screen Printing Request Form - Help Guide
 ## Purpose
 This form is used to gather information for screen printing requests, including order details, artwork, quote requests, production planning, and customer information. Please provide accurate and relevant details for a smooth process.

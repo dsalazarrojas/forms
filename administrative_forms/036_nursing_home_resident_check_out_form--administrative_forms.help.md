@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Nursing Home Resident Check Out Form" is designed to facilitate the process of a resident departing from a nursing home. This form ensures that the necessary information is collected in a structured and organized manner, allowing for efficient check out procedures. Before proceeding, please ensure that this form is not a duplicate or unnecessary. If you're unsure, please refer to your supervisor or facility's policies.
 
 # Nursing Home Resident Check Out Form - Help Guide

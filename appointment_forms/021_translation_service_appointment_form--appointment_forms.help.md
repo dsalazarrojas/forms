@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Translation Service Appointment Form - Help Guide
 
 ## Purpose

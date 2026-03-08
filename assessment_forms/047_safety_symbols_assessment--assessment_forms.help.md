@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to assess the safety symbols used in a particular environment or context. This could be used to evaluate the presence or absence of safety symbols, or to gauge the confidence level in their usage. The form is likely used by safety professionals or experts in risk management to assess safety symbols and provide feedback.
-The form is not a one-time use form but rather a form that can be completed multiple times. This suggests that it might be used in a recurring process or evaluation.
-</thinking>
-
 # Safety Symbols Assessment - Help Guide
 ## Purpose
 This form is designed to assess the presence, absence, or confidence level of safety symbols in various contexts. It helps safety professionals evaluate the effectiveness and usage of safety symbols.

@@ -1,7 +1,3 @@
-<thinking>
-A form that allows users to submit an order for a cupcake box, which can include the customer's details, box customization options, and order information. This form is intended to be completed by customers who want to place an order for a custom cupcake box.
-</thinking>
-
 # Cupcake Box Order Form - Help Guide
 ## Purpose
 This form is designed to facilitate customers in submitting their order for a custom cupcake box. Please ensure you have all the required information before completing the form to avoid any errors.

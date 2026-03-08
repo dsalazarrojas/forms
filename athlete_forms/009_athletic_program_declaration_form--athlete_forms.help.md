@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a clear and concise user-facing help guide for the "Athletic Program Declaration Form". This form is designed to collect information from student athletes to declare their interest in participating in various sports. The form will be divided into three main sections: Student Athlete Information, Sport Declaration, and Health and Medical Information.
-
-I will carefully review each field to ensure that I fully understand the purpose and requirements of each field, taking into account the provided YAML fields. I will aim to explain each field in a clear and concise manner, avoiding any unnecessary jargon or technical terms that may confuse the end-user.
-
-</thinking>
-
 # Athletic Program Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information from student athletes who are interested in participating in various sports. The form helps the athletic program to understand the student's background, interests, and medical information, which is essential for ensuring their safety and well-being during participation.

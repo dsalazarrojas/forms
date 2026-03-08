@@ -1,13 +1,3 @@
-<thinking>
-
-The Music Royalty Audit Request Form is designed for artists, producers, and rights holders to request a royalty audit from a music distributor, publisher, or other music industry entity. This form is meant to collect relevant information necessary for the audit process, such as artist and music metadata, audit specifics, and any supporting attachments or notes. 
-
-Before filling out this form, please ensure you're authorized to request a royalty audit and that the information submitted is accurate and up-to-date. 
-
-Duplicate or incomplete submissions may cause delays or inaccuracies in the audit process. Please fill out this form once and thoroughly, taking care to include all required and optional fields. 
-
-</thinking>
-
 # Music Royalty Audit Request Form - Help Guide
 ## Purpose
 The Music Royalty Audit Request Form is a tool for artists, producers, and rights holders to request a royalty audit from a music distributor, publisher, or other music industry entity.

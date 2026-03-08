@@ -1,18 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the "Creative Agency Contract Extension Form", we need to consider the following aspects:
-
-*   The form's purpose is to gather information from clients for their contract extension requests.
-*   The form should be easily navigable and have clear explanations for each field to ensure that clients understand what information is required and what the agency needs.
-*   The form should cover all necessary fields to process a complete contract extension request without leaving any crucial information out.
-*   The agency's terms and conditions should be explained clearly to clients.
-*   The form should be able to handle both standard and custom payment methods.
-*   The form's layout and design should be clean and minimal, reducing confusion and ensuring easy access to information.
-*   It's crucial to check for any potential duplication of efforts or information overlap in the fields provided.
-*   Consider including space for any additional notes or comments.
-
-Given the provided YAML fields, the form seems to cover most essential areas of a contract extension request. However, it's crucial to ensure that all these areas are accurately represented and understandable to the client.
-</thinking>
-
 # Creative Agency Contract Extension Form - Help Guide
 ## Purpose
 The Creative Agency Contract Extension Form is a tool designed to facilitate the processing of contract extension requests from clients. This form collects essential information needed to review and approve or reject contract extension requests.

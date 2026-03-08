@@ -1,8 +1,3 @@
-<thinking>
-The form "esp-feature-configuration-request" is used to collect information related to the configuration of a feature in an automotive context, possibly for testing, analysis, or other purposes. Before proceeding, ensure this form is relevant to your task and not a duplicate request. If you're unsure, please review the form's purpose and compare it with your current task to avoid unnecessary work.
-
-</thinking>
-
 # esp-feature-configuration-request - Help Guide
 ## Purpose
 The "esp-feature-configuration-request" form is designed to collect information about the configuration of a specific feature in an automotive context. This form helps in organizing and tracking requests related to feature configurations, enabling efficient analysis and decision-making processes.

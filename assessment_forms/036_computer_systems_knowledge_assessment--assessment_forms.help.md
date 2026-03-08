@@ -1,5 +1,3 @@
-<thinking>...This form is used to assess an individual's knowledge of computer systems, including operating systems, networking, security, database, cloud platforms, scripting, hardware troubleshooting, software installation, virtualization, backup and recovery, and other relevant areas. The form is used to evaluate the candidate's proficiency level in each of these areas, as well as their overall level of expertise. The assessment is used to determine the candidate's training needs and provide recommendations for improvement... </thinking>
-
 # Computer Systems Knowledge Assessment - Help Guide
 ## Purpose
 

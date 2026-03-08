@@ -1,7 +1,3 @@
-<thinking>
-This form is used for authorizing access to public funds for an organization or individual. It requests information about the organization or individual seeking access, their authorized officer, the access level, start and end dates, purpose, contact details, and authorization for representatives. This form is designed to gather all the necessary information for a smooth and secure access process. Please ensure you are submitting this form for the correct purpose and not duplicate or misrepresent the information provided.
-</thinking>
-
 # Public Fund Access Authorization Form - Help Guide
 ## Purpose
 The Public Fund Access Authorization Form is used to request access to public funds for an organization or individual. It is designed to gather essential information about the applicant, their authorized officer, access level, and contact details to facilitate a secure access process.

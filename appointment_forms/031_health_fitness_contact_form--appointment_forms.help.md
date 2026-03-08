@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to submit contact information and provide details about an issue they are experiencing related to their health and fitness. The purpose of this form is to gather essential details that will help our team assess and address any health concerns the user may have. The information will be used to provide guidance and support to the users.
-Please note that this form is not intended for general medical advice, and users should consult their personal physician or a medical professional for any health-related issues.
-</thinking>
-
 # health-fitness-contact-form - Help Guide
 ## Purpose
 This form is used to gather information about your health and fitness concerns, including contact details and specific issues you are facing. Please fill out this form to help our team better understand your situation and provide assistance.

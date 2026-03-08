@@ -1,11 +1,3 @@
-<thinking>
-This form will likely be used by HR and IT personnel to review and approve or reject HR reporting dashboard access applications submitted by users or managers. The form should ensure that the reviewer has the necessary context and information to make informed decisions. The fields will guide the reviewer through the process of reviewing and approving or rejecting requests.
-
-Please note that the fields are likely already configured for this specific use case. The form might be used to track and manage various types of requests, such as access to specific dashboards or tools within the reporting dashboard. The reviewer will need to ensure that each field is completed accurately and relevant to the request to avoid delays or miscommunication.
-
-The form will be used in a business setting, so it is likely that each field will have a specific meaning and use in this context.
-</thinking>
-
 # HR Reporting Dashboard Access Application - Help Guide
 ## Purpose
 This form is used by HR and IT personnel to review and approve or reject access applications submitted by users or managers for the HR Reporting Dashboard.

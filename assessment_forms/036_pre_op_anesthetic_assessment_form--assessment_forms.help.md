@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a patient's preoperative and postoperative assessment. The purpose of this form is to gather relevant medical history, allergies, and other important information about the patient's condition. The form is used to assess the patient's risks and needs before and after surgery, and to guide the anesthesiologist in their decision-making process.
-
-This form should only be used by healthcare professionals, such as anesthesiologists and surgeons, who have the necessary medical knowledge and expertise to understand the information contained within. The information collected on this form will be used to determine the best course of treatment for the patient.
-
-Before completing this form, please ensure that you have read and understood the instructions carefully. This form is not meant to be a substitute for a thorough medical evaluation and assessment. If you are unsure about any information or have concerns about the patient's condition, please seek additional medical evaluation and advice.
-
-</thinking>
-
 # Pre Op Anesthetic Assessment Form - Help Guide
 ## Purpose
 The Pre Op Anesthetic Assessment Form is designed to collect information about a patient's preoperative and postoperative condition. This form is used by healthcare professionals to assess the patient's risks and needs before and after surgery.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for threat assessment and risk evaluation in various contexts. It's designed to gather information about potential threats, their types, frequencies, and levels of risk, as well as recommendations for mitigation or response. Before completing this form, ensure that you've reviewed the relevant threat assessment guidelines and that the information you're providing is accurate and up-to-date.
-</thinking>
-
 # threat_assessment_form - Help Guide
 ## Purpose
 The Threat Assessment Form is a tool for evaluating and documenting potential threats to ensure a thorough and informed risk assessment process.

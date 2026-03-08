@@ -1,13 +1,3 @@
-<thinking>
-  This form is for office and studio applications. 
-  The purpose of this form is to collect information from applicants who wish to apply to rent a studio or office space in our building. 
-  This form is not intended for internal employees or existing tenants. 
-  Each field is designed to collect specific information that will help us assess the application. 
-  Before filling out this form, please make sure that you have all the necessary information ready, as some fields may be required for the application to be considered complete.
-  This form has a few fields, and each is explained in the following sections:
-  Note: Some fields are not marked as required, but please do not leave any field blank if it is relevant to your application.
-</thinking>
-
 # Office And Studio Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants who wish to rent a studio or office space in our building. It will help us assess the application and contact you for further information or to schedule a viewing if necessary.

@@ -1,12 +1,3 @@
-<thinking>
-This is a guide to help end-users understand the Educational Benefit Form purpose and how to complete it. The purpose of this form is to capture information about educational benefits received by students. 
-We will check for relevance and non-duplication of benefits before processing the form. 
-The form is designed to collect specific information about students, including name, ID, contact details, financial aid amount and type, dates of benefit and disbursement, benefit amount, status, and reason for denial (if applicable). 
-This form is crucial for tracking and processing student benefits, and it's essential to fill it out accurately and completely. 
-Please make sure to fill out the form carefully, ensuring that all required fields are completed. 
-If there are any issues or discrepancies, please contact your representative for assistance.
-</thinking>
-
 # Educational Benefit Form - Help Guide
 ## Purpose
 The Educational Benefit Form is designed to capture information about educational benefits received by students. It's essential to complete this form accurately to ensure that benefits are processed correctly.

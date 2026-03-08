@@ -1,16 +1,3 @@
-<thinking> 
-To provide a clear and concise help guide for the "Race Performance Evaluation Form", we need to first determine the purpose of the form and ensure that it's relevant and doesn't duplicate any existing processes. This form appears to be used for evaluating an athlete's performance in a race, taking into account various metrics such as pace, distance, time, and physiological data. This form may be used in the context of cycling or other endurance sports.
-
-Let's analyze the form fields:
-
-- The form has multiple pages with various fields, but there's no clear structure or grouping for each page.
-
-The form seems to be focused on collecting data related to a race, including athlete information, race metrics, and physiological data. The fields include athlete name, race date, distance, finish time, pace per 1000m, maximum heart rate, average heart rate, maximum ascent rate, maximum descent rate, race pace, maximum velocity, average pace, average velocity, maximum power output, maximum power input, average power output, average power input, maximum power sum, total time, total energy, total energy spent, total fuel used, total miles ridden, and total ascent.
-
-Given the information above, this help guide will be structured accordingly. 
-
-</thinking>
-
 # Race Performance Evaluation Form - Help Guide
 ## Purpose
 The Race Performance Evaluation Form is a tool used to evaluate an athlete's performance in a race, taking into account various metrics such as pace, distance, time, and physiological data.

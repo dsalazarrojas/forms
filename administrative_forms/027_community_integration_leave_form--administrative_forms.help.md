@@ -1,9 +1,3 @@
-<thinking>
-This form is used to manage employee requests for leave within the community. The form is essential for ensuring that employees can take time off when necessary and that their leave requests are accurately documented. It is also used to facilitate the process of obtaining manager approval, which is crucial for confirming the leave request.
-
-This form should only be used for official leave requests. If the employee is looking for information on how to submit a leave request, please refer to the [Leave Request Submission](https://example.com/leave-request-submission).
-</thinking>
-
 # Community Integration Leave Form - Help Guide
 ## Purpose
 The Community Integration Leave Form is used to submit and manage leave requests from community members. This form ensures that all necessary information is collected and that manager approval is obtained before granting leave.

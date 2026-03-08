@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for actors, dancers, and singers to apply for various roles in a stage play production. The form collects information about the applicant's availability, skills, email address, phone number, and preferred role in a production. 
-
-To ensure that the form is not duplicated, it is recommended to use a unique id for each actor. If an actor has already applied for a role, they should not submit the form again.
-
-</thinking>
-
 # stage-play-production-application-form - Help Guide
 ## Purpose
 This form is designed to collect application information from actors, dancers, and singers for a stage play production.

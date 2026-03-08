@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a hospital attendance form. The form's primary purpose is to collect information from patients about their hospital visits. It can be used by healthcare professionals to track patient attendance, gather essential details, and provide better care. The form can be completed by patients, doctors, or administrative staff to ensure accurate data collection and minimize manual errors.
-</thinking>
-
 # Hospital Attendance Form - Help Guide
 ## Purpose
 The Hospital Attendance Form is designed to collect patient information during hospital visits, providing a structured and efficient way to gather essential details about patients' conditions, treatments, and interactions with healthcare professionals.

@@ -1,5 +1,3 @@
-<thinking>As I review the form schema, I notice that it is a comprehensive Leadership Control Checklist with 25 sections, each represented as a text field. The form does not have any conditional logic or complex field dependencies. Each section appears to be a straightforward text input field with no visible labels or hints, suggesting that the form is likely meant to collect text-based data for each section. Given the large number of sections, it is unclear if the form is meant to be used for collecting information from multiple teams or departments within an organization.</thinking>
-
 # Leadership Control Checklist - Help Guide
 
 ## Purpose

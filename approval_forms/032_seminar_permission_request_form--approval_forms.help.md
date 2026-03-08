@@ -1,7 +1,3 @@
-<thinking>
-This form is used by staff to grant or deny permission to attend a seminar, ensuring that the attendee meets the required criteria. To ensure accuracy, please complete this form carefully and only for the intended purpose. To avoid duplication, please check with the relevant department if a seminar permission request for the same student and seminar has already been submitted.
-</thinking>
-
 # Seminar Permission Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request permission for a student to attend a seminar. Staff will review and process the request to determine whether the seminar is approved or denied.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for customers to schedule appointments with the tailor. It will help tailor the customer's appointment needs, providing necessary information for a successful and smooth experience. The form should not be used for other purposes as the information collected will be used solely for appointment management.</thinking>
-
 # Tailoring Appointment Form - Help Guide
 ## Purpose
 This form is designed to help customers schedule appointments with the tailor for various types of services such as tailoring, alteration, and repair services. It will help tailor the customer's needs and ensure a smooth experience.

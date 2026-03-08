@@ -1,5 +1,3 @@
-<thinking>Before designing the user-facing help guide, let's understand the form purpose and context. The Specialist Care Model Assessment form is likely used to evaluate the quality and effectiveness of specialist care services, such as those provided by medical professionals. This form might be used to gather feedback and ratings from healthcare staff, patients, or caregivers about their experiences with these services. The assessment may be used to identify areas of improvement, track the implementation progress of care plans, and provide insights on the care delivery process. The purpose of this guide is to assist users in completing the form accurately, making informed decisions, and understanding the significance of each field.</thinking>
-
 # Specialist Care Model Assessment - Help Guide
 ## Purpose
 The Specialist Care Model Assessment form helps evaluate the quality and effectiveness of specialist care services, gathering feedback and ratings on various aspects of care delivery.

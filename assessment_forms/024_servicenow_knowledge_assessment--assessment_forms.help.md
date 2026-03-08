@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their ServiceNow knowledge and experience. The purpose of this form is to help us understand who has knowledge and skills in ServiceNow, which areas they have experience with, and what their level of knowledge is. This will help us identify areas where we need to provide more training or support.
-
-The form is divided into different sections with clear labels and instructions. Please fill out the form carefully and accurately, as it will help us better understand your knowledge and experience.
-
-Please note that some fields are required and some are optional. Required fields are marked as such in the form.
-
-</thinking>
-
 # ServiceNow Knowledge Assessment - Help Guide
 ## Purpose
 The ServiceNow Knowledge Assessment form is designed to gather information from users about their ServiceNow knowledge and experience. This form will help us understand who has knowledge and skills in ServiceNow, which areas they have experience with, and what their level of knowledge is.

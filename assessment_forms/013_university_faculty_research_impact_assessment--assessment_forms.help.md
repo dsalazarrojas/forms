@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assess the research impact of a university faculty member. The purpose of this form is to gather information about the faculty member's publications, research grants, and other research-related activities. This information will be used to evaluate the research impact of the faculty member.
-
-The form has several fields that require input from the faculty member, including questions about publications, research grants, and other research-related activities. Each field has a label that describes what type of information is being asked for. 
-
-To avoid duplication of effort, please fill out this form only if you are a university faculty member.
-
-</thinking>
-
 # University Faculty Research Impact Assessment - Help Guide
 ## Purpose
 The University Faculty Research Impact Assessment is a form designed to collect information about the research impact of university faculty members. This form is intended to gather data on faculty members' research activities, including publications and research grants, to evaluate their research impact.

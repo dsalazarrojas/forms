@@ -1,7 +1,3 @@
-<thinking>
-This form is for authorizing the release of financial reports. Before filling out this form, ensure you are authorized to do so and that the report has not been previously submitted. This form is designed for financial institution employees who need to release reports. The form must be completed by the same user who originally submitted the report. Please fill out the form carefully as it is used to determine who can access the financial report.
-</thinking>
-
 # Financial Report Release Authorization Form - Help Guide
 ## Purpose
 The Financial Report Release Authorization Form is designed to authorize the release of financial reports. It is used to determine who can access the financial report and when it can be released.

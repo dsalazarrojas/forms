@@ -1,9 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for this form, I'll analyze the form's purpose and fields to provide a clear and concise explanation for end-users. The form purpose is for participants to sign a waiver and consent form for the basketball team sorting activity. The goal is to inform users about each field's intent and requirements.
-
-</thinking>
-
 # Basketball Team Sorting Activity Waiver - Help Guide
 ## Purpose
 This form is used by participants to sign a waiver and consent form before participating in the basketball team sorting activity. It includes personal information, medical history, and consent for photos and media use.

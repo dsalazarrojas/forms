@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a form used for booking speakers for events or presentations. The form is designed to collect information about the speaker's details, presentation preferences, and submission dates. We should ensure that the form is completed correctly to avoid any confusion or errors in processing. To start, we will review each field and provide clear explanations for each section. Before proceeding, it is essential to ensure that all fields are completed thoroughly and accurately. If any field is not applicable, it is best to leave it blank instead of entering random or unnecessary information.
-</thinking>
-
 # Speaker Booking Form - Help Guide
 ## Purpose
 This form is used to book speakers for various presentations, events, or workshops. It collects crucial information about the speaker's details, presentation preferences, and submission dates to facilitate smooth event organization.

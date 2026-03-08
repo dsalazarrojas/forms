@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for tracking the chain of custody of physical evidence collected during an investigation or crime scene analysis. The purpose of this form is to provide a structured and organized way to document the collection, storage, handling, transfer, and disposition of physical evidence, as well as any witness statements or additional notes taken during the investigation. This form should be completed by the investigator or collector of evidence to ensure that all relevant information is recorded and accounted for throughout the process.
-
-</thinking>
-
 # Evidence Chain Of Custody Tracking Form - Help Guide
 ## Purpose
 The Evidence Chain Of Custody Tracking Form is a tool used to track the chain of custody of physical evidence collected during an investigation or crime scene analysis. This form helps investigators and collectors to document and account for all relevant information related to the evidence, from collection to disposition.

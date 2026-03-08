@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Risk Assessment Training Form - Help Guide
 
 ## Purpose

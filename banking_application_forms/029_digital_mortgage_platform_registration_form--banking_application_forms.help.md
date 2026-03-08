@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: The purpose of this form is to gather information from applicants for the digital mortgage platform. This form aims to collect details about the applicant, their contact information, loan amount, collateral type, collateral value, property status, mortgage term, and property type. The form will help the platform to understand the applicant's requirements and preferences, which will be used to provide a personalized experience. This form is not intended for internal use, and the data collected will be used for external communication with the applicant. This form should not be used for internal purposes, such as reporting or data analysis.
-</thinking>
-
 # Digital Mortgage Platform Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for the digital mortgage platform. It will help us understand your needs and preferences to provide a personalized experience.

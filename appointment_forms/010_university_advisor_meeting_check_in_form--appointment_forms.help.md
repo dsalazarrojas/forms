@@ -1,20 +1,3 @@
-<thinking>
-This form is used to capture information about university advisor meetings. It is intended to be used to collect data on the details of the meetings, the attendees, and the planned follow-up actions. 
-
-The following form captures the following information:
-
-* Meeting details, including time and date
-* Advisor and student information
-* Meeting topic
-* Notes from the student and advisor
-* Meeting duration
-* Follow-up actions, including type and scheduled date and time
-* Planned next meeting
-
-The form is not intended to be a one-time use case, but rather a regular data collection tool for university advisors.
-
-</thinking>
-
 # university_advisor_meeting_check_in_form - Help Guide
 ## Purpose
 This form is used to capture information about university advisor meetings.

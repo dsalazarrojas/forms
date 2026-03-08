@@ -1,10 +1,3 @@
-<thinking>
-This form is used for recording and maintaining information about books in an inventory. It captures essential details such as the date of the inventory record, library location, book title, author, ISBN number, call number, total copies, available copies, checked-out copies, publication year, edition information, average condition of copies, unit acquisition cost, last updated by, and additional notes. This form ensures accurate and up-to-date information about the book inventory, which is crucial for library management and decision-making purposes. By filling out this form, library staff can efficiently track and maintain the book inventory, enabling them to make informed decisions about book ordering, cataloging, and collection development.
-
-Before starting, ensure that you have all the necessary information about the book at hand. If a book is not found in the system, do not create a new record. Instead, search for the book in the system to see if there is already an existing record. This will prevent duplicate records and ensure data accuracy.
-
-</thinking>
-
 # Book Inventory Information Record Form - Help Guide
 
 ## Purpose

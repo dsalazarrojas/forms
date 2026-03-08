@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect nominations for the "Best Use Of AI In Business" award. The purpose of this form is to identify and recognize outstanding examples of AI innovation and impact in the business sector. This form is intended to be completed by individuals who wish to nominate a business or individual for this award. 
-
-Before starting, please ensure that you have not submitted this nomination form previously and that your nomination aligns with the award's eligibility criteria. 
-
-</thinking>
-
 # Best Use Of AI In Business Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to collect nominations for the "Best Use Of AI In Business" award, recognizing outstanding examples of AI innovation and impact in the business sector.

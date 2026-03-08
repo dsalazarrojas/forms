@@ -1,14 +1,3 @@
-<thinking>
-This form is used to manage project information and track its approval status. The form is likely used by project managers or administrators to keep track of ongoing or completed projects within an organization. It's essential to fill out the form accurately to ensure that the project status and information are up-to-date and correct. 
-
-Before filling out this form, ensure that the project title is not already filled out in another form, as it's not possible to have multiple projects with the same title. Also, make sure you are selecting the correct category and status for the project, as they directly impact the project's visibility and reporting within the organization.
-
-This form is designed to be filled out by project managers or administrators who are directly involved with the project. The form should not be used to submit new project proposals or requests. 
-
-If you're not sure about any of the fields or need further clarification, please reach out to your project management team for assistance.
-
-</thinking>
-
 # project-information-management-approval-form - Help Guide
 ## Purpose
 The project-information-management-approval-form is used to track and manage project information, including project status, assigned tool, and approval details.

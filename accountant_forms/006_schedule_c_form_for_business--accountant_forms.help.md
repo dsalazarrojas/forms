@@ -1,7 +1,3 @@
-<thinking>
-The Schedule C Form For Business is used to report certain types of business income for tax purposes. This form is typically used by self-employed individuals and business owners to report income from their business activities. It is essential to ensure that you accurately report your business income to avoid any potential issues with the IRS. Before starting to fill out this form, please ensure that you have all the necessary information and documents required to complete it accurately. Please note that this form is not intended for duplicate reporting; if you have already reported similar business income on another form, you should not submit this form. If you are unsure about any aspect of this form, please consult a tax professional for guidance.
-</thinking>
-
 # Schedule C Form For Business - Help Guide
 ## Purpose
 The Schedule C Form For Business is a tax form used to report income from self-employment or business activities. This form is used to calculate and report business income, expenses, and tax liabilities.

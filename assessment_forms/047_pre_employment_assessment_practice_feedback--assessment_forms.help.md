@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from a candidate after a pre-employment assessment. This feedback is crucial in understanding the candidate's experience and providing valuable insights to recruiters and hiring managers. To ensure that this feedback is accurate and helpful, this form has been designed to be simple and easy to fill out. It will be used to identify areas of improvement for the practice assessment and to make necessary adjustments for future candidates... </thinking>
-
 # Pre Employment Assessment Practice Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from a candidate after a pre-employment assessment. It's essential to provide accurate and helpful information to recruiters and hiring managers to improve the assessment process.

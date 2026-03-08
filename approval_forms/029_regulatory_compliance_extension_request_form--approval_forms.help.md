@@ -1,5 +1,3 @@
-<thinking>Regulatory Compliance Extension Request Form is used by employees and external parties to request an extension to existing regulations, rules or policies. It helps to keep a record of requests and track compliance status. Before filling out this form, ensure you have a valid reason for the request and that it is not a duplicate of another pending or approved request. This form is used by various teams, so be sure to select the correct type of request to ensure proper routing and processing.</thinking>
-
 # Regulatory Compliance Extension Request Form - Help Guide
 ## Purpose
 This form is used to request an extension or modification to existing regulatory compliance rules, policies, or guidelines. It is intended to help keep track of compliance requests and ensure that all requests are processed in a timely and organized manner.

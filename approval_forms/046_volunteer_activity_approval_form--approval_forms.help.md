@@ -1,13 +1,3 @@
-<thinking>
-
-The "Volunteer Activity Approval Form" is a form used to gather information and approval for volunteer activities. This form is designed to collect essential details about volunteer activities, including title, date, time, location, type, status, approver, coordinator, and submission date. The form is intended to facilitate the approval process by providing a standardized structure for submitting and reviewing volunteer activity information.
-
-When filling out this form, ensure you are providing accurate and relevant information to help facilitate the approval process. Review each field carefully and take care to select the correct options for your volunteer activity.
-
-Before proceeding, ensure that you are not duplicating an existing activity. If you are unsure, please check with the activity coordinator or approver for guidance.
-
-</thinking>
-
 # Volunteer Activity Approval Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information and approval for volunteer activities.

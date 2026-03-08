@@ -1,11 +1,3 @@
-<thinking>
-
-To create this help guide, I'll start by understanding the purpose and requirements of the form. As it's an Employee Travel Authorization Form, its primary purpose is to obtain approval for employees to travel on business or official trips. The form likely serves as a formal request for management's approval, ensuring that travel plans align with company policies and procedures.
-
-To ensure relevance and non-duplication, it's essential to review the form's fields to understand what information is required and how it will be used. The form has several fields, including Company, Employee, Purpose, Conference/Seminar, Travel Start Date, Travel End Date, Travel Duration, Location, Travel Method, Travel Details, Approval Status, and Notes. Each field is essential to the form's purpose and will be explained in the following help guide.
-
-</thinking>
-
 # Employee Travel Authorization Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for extending the service agreement, which is a crucial process for maintaining and updating existing agreements between businesses and their clients. The form is used to submit and track extensions, renewals, and terminations of service agreements. It's essential to complete this form accurately to avoid any confusion or errors in the agreement process.
-
-To ensure the form is used correctly, we need to review each field carefully to avoid duplication and ensure the agreement is properly extended or terminated.
-
-</thinking>
-
 # Service Agreement Extension Form - Help Guide
 ## Purpose
 The Service Agreement Extension Form is used to submit an extension for an existing service agreement. This process helps in updating the agreement terms and dates as required by the business and its clients.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for collecting information from potential clients before their psychological appointment, allowing them to provide details about their session preferences, contact information, and medical history. This form is likely part of an internal process for scheduling appointments and ensuring accurate and effective communication with clients. 
-
-It's assumed that the form is being completed on a digital platform, and the fields are being populated with the provided information. However, this guide will be general and adaptable for different user interfaces and environments.
-
-</thinking>
-
 # Psychological Appointment Pre Screening - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential clients before their psychological appointment, helping our clinic or practice prepare for the session and ensure a smooth and effective process.

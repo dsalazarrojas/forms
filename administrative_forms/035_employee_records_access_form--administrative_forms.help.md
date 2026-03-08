@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to be a comprehensive tool for managing employee access levels and permissions within an organization's system. It provides a structured way to input, manage, and update employee records, which is crucial for efficient administration of employee privileges. This form should be filled out for each employee to ensure that their access levels are accurately reflected in the system. If you're filling out this form for yourself, please use the "self" option in the "created by" field. If you're updating someone else's access levels, please ensure that you have the necessary permissions to do so.
 
 # Employee Records Access Form - Help Guide

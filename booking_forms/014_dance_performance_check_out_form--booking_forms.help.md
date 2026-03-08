@@ -1,11 +1,3 @@
-<thinking>
-
-The form is a user-facing help guide for the "Dance Performance Check Out Form". The purpose of this form is to gather information from participants in a dance performance event. The form likely aims to capture details about the participants, such as their contact information, preferences, and requirements for the event. This form may be used for event planning, registration, or post-event evaluation. I assume that this form is intended for an internal event or workshop organized by the company, where participants need to provide their information to ensure smooth organization and communication.
-
-To avoid duplication, I will ensure that this form is used for a specific purpose and not a general registration or contact form.
-
-</thinking>
-
 # Dance Performance Check Out Form - Help Guide
 ## Purpose
 The Dance Performance Check Out Form is designed to gather information from participants in a dance performance event. This form helps event organizers with participant details, preferences, and requirements, ensuring a smooth and organized event.

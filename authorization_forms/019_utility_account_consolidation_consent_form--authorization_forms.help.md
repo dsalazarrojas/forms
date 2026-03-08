@@ -1,16 +1,3 @@
-<thinking>
-The "Utility Account Consolidation Consent Form" is a form used for customers to provide information about their utility accounts, such as their address, phone number, and account types. This form is likely used for internal processes within an organization, such as a utility company, to consolidate information about a customer's accounts.
-
-Before proceeding, it's essential to ensure that you are not duplicating a form for the same purpose. To confirm, please consider the following:
-
-* Have you previously submitted a form for this purpose?
-* Are you authorized to submit this form on behalf of the account holder?
-* Are you submitting this form for the account holder's first time, or have you submitted it before?
-
-If you are unsure or have submitted this form previously, please stop and contact the relevant authority for clarification. Your input is crucial in ensuring the accuracy and integrity of the data.
-
-</thinking>
-
 # Utility Account Consolidation Consent Form - Help Guide
 
 ## Purpose

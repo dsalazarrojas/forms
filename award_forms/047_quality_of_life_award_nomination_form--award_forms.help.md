@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a quality of life award nomination. The goal is to provide a clear and concise way to gather details about the nominee and the nominator. Before completing this form, please ensure that you are not resubmitting a nomination for the same person and that you have the necessary information and permissions to do so. Also, please be sure to fill in all required fields to ensure that your nomination is properly processed.
-</thinking>
-
 # Quality Of Life Award Nomination Form - Help Guide
 ## Purpose
 This form is used to collect nominations for the quality of life award. Please provide all necessary details to help us understand the nominee's contributions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pay Structure Approval Form - Help Guide
 ## Purpose
 This form is designed to collect information on the approval process of a pay structure, including any changes made to the structure, the effective date of the changes, justifications for the changes, and the approvals required for the changes. The form helps ensure that the pay structure is approved by the necessary personnel, such as HR, Finance, or Manager, and provides a clear record of the approval process.

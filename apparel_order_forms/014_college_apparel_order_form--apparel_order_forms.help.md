@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help users place orders for college apparel items, such as T-shirts, hoodies, and hats. The form is used to collect information from customers, including order date, customer contact information, apparel type, size, color, and shipping details. This guide will walk users through each section of the form to ensure they complete it accurately and efficiently.
-
-</thinking>
-
 # College Apparel Order Form - Help Guide
 ## Purpose
 

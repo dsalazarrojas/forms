@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a tool for assessing the streaming strategy of content creators, likely on platforms like Twitch or YouTube. The form is meant to help users understand their own streaming habits and identify areas for improvement. It could be used by streamers to gain insights into their own streaming behavior and make data-driven decisions about their content and streaming schedule. This form likely aims to reduce duplication of effort and improve content quality, which would be beneficial for both streamers and their audience.
-</thinking>
-
 # Streaming Strategy Assessment - Help Guide
 ## Purpose
 The Streaming Strategy Assessment is a form designed to help content creators gain insights into their streaming habits and identify areas for improvement. This assessment will ask you questions about your streaming frequency, time, goals, challenges, content planning, and performance. By completing this form, you'll be able to understand your strengths and weaknesses, and make informed decisions about your content and streaming schedule.

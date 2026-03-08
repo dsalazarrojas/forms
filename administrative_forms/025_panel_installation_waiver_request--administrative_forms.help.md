@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request a panel installation waiver, which is a legal document that acknowledges the understanding and agreement of the client and the panel inspector on the terms and conditions of the panel installation. It's essential to fill out this form accurately and truthfully to ensure that all parties involved are aware of their responsibilities and liabilities.
-
-Before proceeding, please verify that you have not already submitted a waiver request and that the panel is not currently under warranty or service contract. This form should only be used for new panel installations that do not have an existing waiver.
-
-</thinking>
-
 # Panel Installation Waiver Request - Help Guide
 ## Purpose
 The Panel Installation Waiver Request form is used to obtain a waiver for a panel installation, which includes the terms and conditions that the client and panel inspector must agree upon before the installation begins.

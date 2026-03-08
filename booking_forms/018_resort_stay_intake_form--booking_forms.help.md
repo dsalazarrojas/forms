@@ -1,7 +1,3 @@
-<thinking>
-The "resort_stay_intake_form" is a form used to collect information from guests staying at the resort, allowing them to provide their contact details, room preferences, and special requests. This form is designed to be completed by guests before their arrival, helping the resort staff to prepare for their stay and provide a better experience. This form should be completed by all guests staying at the resort, including both individuals and groups. 
-</thinking>
-
 # resort_stay_intake_form - Help Guide
 ## Purpose
 This form is used to gather essential information from guests to ensure a smooth and enjoyable stay at the resort.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the skills of a database professional, covering various aspects of database design, development, and management. The purpose of this form is to help evaluate an individual's experience and proficiency in different areas of database skills. This form should only be filled out by individuals with relevant experience and knowledge in database-related fields. Please note that this form is for assessment purposes only and is not intended to be a comprehensive evaluation of all database skills.
-
-</thinking>
-
 # Database Skills Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate your database skills and experience. Please answer each question as accurately as possible to ensure a comprehensive assessment.

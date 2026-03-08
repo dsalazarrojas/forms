@@ -1,8 +1,3 @@
-<thinking> 
-**Student Grade And Assessment Tracking Form - Purpose**
-The form is used to track student grades and assessment results, allowing teachers or educators to record and record student performance, assessment dates, and feedback. It is intended to provide a structured and organized way to document student progress, helping to maintain accurate records and facilitate data-driven decision making.
-</thinking>
-
 # Student Grade And Assessment Tracking Form - Help Guide
 ## Purpose
 This form is designed to help teachers or educators track and record student grades and assessment results in a structured and organized way. It allows you to document student performance, assessment dates, and feedback.

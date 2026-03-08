@@ -1,7 +1,3 @@
-<thinking>
-The Warehouse Storage Order Form is used by warehouse staff to record and manage storage requests from users. This form is used to collect information about the item being stored, the location it will be stored in, and other relevant details. To ensure that the form is completed correctly, please ensure that you have the necessary permissions to access this feature.
-</thinking>
-
 # Warehouse Storage Order Form - Help Guide
 ## Purpose
 The Warehouse Storage Order Form is a tool used by warehouse staff to efficiently record and manage storage requests from users. Its main purpose is to gather relevant information to ensure timely and secure storage of items.

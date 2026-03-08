@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose of the "Animal Rescue Intake Form" and the process of completing it correctly. This form is used to capture vital information about an animal that comes into the rescue facility. The goal is to create a comprehensive database of animals in the rescue facility. This guide will cover how to complete the form, explain each field, and provide tips for filling it out effectively.</thinking>
-
 # Animal Rescue Intake Form - Help Guide
 ## Purpose
 The "Animal Rescue Intake Form" is used to collect essential information about animals that come into the rescue facility. This data helps the rescue staff to better understand the animal's history, medical status, and behavior, which facilitates their care and adoption process.

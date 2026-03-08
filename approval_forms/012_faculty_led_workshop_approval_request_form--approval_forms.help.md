@@ -1,11 +1,3 @@
-<thinking>
-
-To prevent duplicate requests for the same workshop proposal, this form is only accessible to authorized personnel. Please note that this form is intended for internal use only and should not be shared with external parties. If you are not authorized to access this form, please contact your departmental representative for further assistance.
-
-This form is designed to collect information about faculty-led workshops, including the proposal details, faculty members involved, dates, location, expected and actual outcomes, comments, and sponsor details. The form will help in the approval process and ensure that all necessary information is collected for the workshop to be successfully executed.
-
-</thinking>
-
 # Faculty Led Workshop Approval Request Form - Help Guide
 ## Purpose
 The Faculty Led Workshop Approval Request Form is designed to collect information from faculty members to propose and plan a workshop, and to seek approval from authorized personnel.

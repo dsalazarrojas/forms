@@ -1,7 +1,3 @@
-<thinking>
-This form is used to update property appraisal information. It's essential to fill it out accurately to ensure that the property's status and value are up-to-date. Before starting, check if the property's appraisal has already been updated recently. If so, you may not need to fill this form. Please make sure to provide accurate contact information for the property's owner, manager, agent, and insurer.
-</thinking>
-
 # Property Appraisal Update Request Form - Help Guide
 ## Purpose
 This form is used to update property appraisal information. It helps to ensure that the property's status and value are accurate and up-to-date.

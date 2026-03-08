@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for controlling access to preventive maintenance activities. The form allows users to define the access type, maintenance area, start and end dates, reason for access, maintenance status, maintenance type, access level, and assign a tool for the maintenance activity. Before filling out this form, please confirm that you have the necessary permissions and access rights to complete this form. Also, please ensure that you are not duplicating the maintenance activity already recorded. Please review the form carefully to ensure that all required fields are filled out accurately and correctly. The form can be completed in multiple pages, each page representing a different section of the form.
-</thinking>
-
 # Preventive Maintenance Access Control Form - Help Guide
 
 ## Purpose

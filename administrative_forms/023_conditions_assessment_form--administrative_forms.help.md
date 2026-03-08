@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for assessing the condition of various aspects of a property, including the exterior and interior, to document any issues or repairs needed. To prevent duplication, please ensure that assessments for the same property are not submitted multiple times. This form will be used by assessors to evaluate and document the condition of a property. Please make sure to fill it out accurately and thoroughly.
-</thinking>
-
 # Conditions Assessment Form - Help Guide
 ## Purpose
 This form is used to evaluate and document the condition of a property, including its exterior and interior. It is designed to identify any issues or needed repairs and provide a final assessment of the property's condition.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for users to request an equipment calibration appointment. Before completing this form, please ensure that you have already checked the equipment's calibration schedule and that this appointment is not already scheduled. 
 
 # Equipment Calibration Appointment Request - Help Guide

@@ -1,9 +1,3 @@
-<thinking>This form is designed to be used for managing pages in a project or a web application. It's a checklist that helps users keep track of the status of pages, including their review status, launch status, and other relevant information.
-
-The form is likely used by project managers, developers, and reviewers to manage page updates, reviews, and other tasks. It's essential to fill out this form accurately to ensure that pages are reviewed and updated correctly.
-
-To avoid duplication, ensure that you only fill out this form once for each page. If you need to make changes or updates, create a new entry with the updated information.</thinking>
-
 # Page Management Checklist - Help Guide
 ## Purpose
 This form is used to manage pages in a project or web application, ensuring that they are reviewed and updated correctly.

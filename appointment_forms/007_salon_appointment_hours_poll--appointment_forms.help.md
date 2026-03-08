@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # salon_appointment_hours_poll - Help Guide
 
 ## Purpose

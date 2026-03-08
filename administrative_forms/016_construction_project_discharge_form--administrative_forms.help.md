@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the completion and closure of a construction project. It is an essential administrative task that ensures the project is officially discharged and that all necessary paperwork and inspections have been completed. Please ensure that this form is completed only once the project is actually complete and that all required documents and inspections have been finalized. To avoid duplication of effort, please check that a project closure form has not been submitted for the same project before. If you're unsure about the project status or have questions, please reach out to the project manager or supervisor.
-</thinking>
-
 # Construction Project Discharge Form - Help Guide
 ## Purpose
 This form is used to document the completion and closure of a construction project. It ensures that all necessary project closure tasks have been completed and that the project is officially discharged.

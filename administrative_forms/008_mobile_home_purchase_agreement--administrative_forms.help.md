@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for a mobile home purchase agreement, which involves collecting information from both the buyer and the seller of a mobile home, including their contact details, financial information, and terms of the sale. It may be used by real estate or financial institutions to document and track the sale of mobile homes.
-</thinking>
-
 # Mobile Home Purchase Agreement - Help Guide
 ## Purpose
 This form is used to collect information for a mobile home purchase agreement, including buyer and seller information, property details, and financial terms of the sale.

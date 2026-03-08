@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for customers to order textbooks. It is likely used in a bookstore or educational setting. The form will guide the customer through the necessary steps to place an order, including providing their email, phone number, and order details.
-</thinking>
-
 # textbook_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers to place a textbook order. It is meant to gather details such as the price of the book, the student's photo (if applicable), and their email and phone number for communication and order confirmation.

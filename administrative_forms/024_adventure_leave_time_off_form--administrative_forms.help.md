@@ -1,7 +1,3 @@
-<thinking>
-The Adventure Leave Time Off Form is a critical part of our organization's administrative process, used to request and approve leaves of absence for employees. This form ensures that all necessary information is collected and processed in a standardized and efficient manner. Before proceeding with this guide, ensure that you are completing the correct form for your specific needs and that you have all necessary information readily available.
-</thinking>
-
 # Adventure Leave Time Off Form - Help Guide
 ## Purpose
 The Adventure Leave Time Off Form is used to request a leave of absence for personal or professional development activities such as travel, adventure sports, or other personal adventures. This form ensures that the necessary information is collected and processed in a standardized manner to facilitate approval and planning for your absence.

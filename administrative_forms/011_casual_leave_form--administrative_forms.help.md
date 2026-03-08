@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from employees requesting casual leave, which is an informal leave of absence from work due to personal reasons such as illness, bereavement, or personal appointments. The form is intended to gather details about the employee's personal information, leave duration, and reason for absence to ensure that the employee's absence is properly recorded, communicated with relevant parties, and handled by the team accordingly. It also serves to maintain transparency and accountability within the company by requiring employees to provide specific information about their leave.
-
-</thinking>
-
 # Casual Leave Form - Help Guide
 ## Purpose
 The Casual Leave Form is a tool used by employees to request leave from their work due to personal reasons such as illness, bereavement, or personal appointments. This form gathers information about the employee's details, leave duration and reason for absence to ensure proper handling and communication within the company.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to assess the lockout and tagout safety procedures and protocols in place for equipment, personnel, and procedures. This form should be completed by personnel who are responsible for maintaining, operating, or servicing equipment and facilities. It helps to ensure that lockout and tagout procedures are properly executed and documented, reducing the risk of injury or harm to personnel. This form is an assessment tool to identify potential hazards and ensure that proper procedures are in place.
-
-The completion of this form is not a one-time task but should be repeated regularly to ensure ongoing compliance with lockout and tagout safety procedures. It should be reviewed and updated as necessary to reflect changes in equipment, personnel, or procedures.
-
-The form can be completed by personnel in various roles and departments as per their responsibilities and areas of expertise.</thinking>
 # Lockout Tagout Safety Assessment - Help Guide
 ## Purpose
 The Lockout Tagout Safety Assessment form is used to assess the lockout and tagout safety procedures and protocols in place for equipment, personnel, and procedures. This helps ensure that lockout and tagout procedures are properly executed and documented, reducing the risk of injury or harm to personnel.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to schedule and manage daycare staff shifts. A shift is a specific time period when a staff member is working at the daycare. The form allows you to input information about the start and end times, dates, and number of staff members assigned to a shift. This form is designed to be completed by staff administrators to plan and schedule shifts for daycare staff.
-
-To ensure that this form is used correctly, please make sure that you are using it for its intended purpose and that you are not duplicating shifts that already exist.
-
-</thinking>
-
 # Daycare Staff Shift Scheduling Form - Help Guide
 ## Purpose
 This form is used to schedule and manage daycare staff shifts.

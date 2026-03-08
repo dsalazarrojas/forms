@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect risk assessment information from clients to determine their eligibility for life insurance. The goal is to gather essential details that will help our underwriters assess the risk associated with insuring the client. To ensure accurate completion, please note that this form should only be filled out once per client. Duplicate submissions may lead to incorrect or incomplete assessments. Please review each field carefully and provide accurate information to ensure a smooth assessment process.
-</thinking>
-
 # Life Insurance Risk Assessment Form - Help Guide
 ## Purpose
 The Life Insurance Risk Assessment Form is used to collect information that helps our underwriters determine the risk associated with insuring an individual. This form is a critical tool in the underwriting process.

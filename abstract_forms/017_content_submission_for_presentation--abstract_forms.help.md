@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from potential presenters for a content submission presentation. The goal is to gather details about the presenter and their proposed presentation for the review committee to evaluate.
-The form is part of a larger process to curate presentations for a specific event or conference. The submission of this form is not a guarantee of acceptance, as the review committee will review and evaluate the submissions based on their criteria.
-To avoid duplication and ensure that all presenters are aware of the submission guidelines, the form is designed to collect necessary information in a structured and clear manner.
-</thinking>
-
 # Content Submission For Presentation - Help Guide
 ## Purpose
 This form is intended to collect information about the presenter and their proposed presentation for the review committee.

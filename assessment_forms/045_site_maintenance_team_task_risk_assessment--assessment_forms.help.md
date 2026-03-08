@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Site Maintenance Team Task Risk Assessment - Help Guide
 ## Purpose
 This form is designed to assess the risks associated with site maintenance tasks. It is used to identify and evaluate potential risks and their corresponding mitigation strategies for site maintenance tasks. 

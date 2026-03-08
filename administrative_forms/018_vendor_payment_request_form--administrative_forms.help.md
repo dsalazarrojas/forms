@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Vendor Payment Request Form" we need to understand its purpose and requirements. This form is likely used for internal administrative purposes, such as requesting payment from vendors. The form should be clear and concise, explaining the fields and their intended use to the user.
-</thinking>
-
 # Vendor Payment Request Form - Help Guide
 ## Purpose
 The "Vendor Payment Request Form" is used for requesting payment from vendors. Fill out this form to provide necessary information to process a payment request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for tenant complaints that require escalation to a higher authority or department within the organization. It's meant to be used when a tenant reports a problem or issue that cannot be resolved through standard communication channels. Before completing this form, please ensure that the issue has been reported to the property manager or on-site staff first. If the issue has already been reported and escalated, please do not fill out this form, as it may be considered a duplicate submission.
-</thinking>
-
 # Tenant Complaint Escalation Request Form - Help Guide
 ## Purpose
 The Tenant Complaint Escalation Request Form is a tool for tenants to report issues that cannot be resolved through standard communication channels. It helps to escalate these complaints to the right person or department for further action.

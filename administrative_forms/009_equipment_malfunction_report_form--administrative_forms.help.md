@@ -1,9 +1,3 @@
-<thinking>
-
-The Equipment Malfunction Report Form is used to report any malfunctions or issues with company equipment. This form is not required for all equipment malfunctions, but rather for those that need immediate attention from maintenance or management teams. It is best-effort to ensure that the form is not used for non-urgent issues or duplicate reports. If you're not sure whether to fill out this form, please contact your supervisor or maintenance team first.
-
-</thinking>
-
 # Equipment Malfunction Report Form - Help Guide
 
 ## Purpose

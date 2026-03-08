@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to schedule a solar installation. The user will be required to provide details about the installation, including the installation date and hour, the customer's name, email, and phone number, as well as other relevant information such as equipment type and service window. This form is intended to be completed by either the customer or the technician scheduling the installation. To avoid duplication of effort, ensure that the form is only completed once the installation is confirmed.
-
-The form will be used to gather information for scheduling and communication purposes. It is essential to provide accurate and complete information to ensure a smooth and efficient installation process.
-
-The form consists of several fields that need to be filled in by the user. Each field has a specific purpose and is explained below.
-
-</thinking>
-
 # Solar Installation Scheduling Form - Help Guide
 ## Purpose
 This form is designed to schedule a solar installation. The user will be required to provide details about the installation, including the installation date and hour, the customer's name, email, and phone number, as well as other relevant information such as equipment type and service window.

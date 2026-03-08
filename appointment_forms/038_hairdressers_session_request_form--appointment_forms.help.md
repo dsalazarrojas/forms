@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for a hairdresser session. A session is a meeting or appointment between a hairdresser and a client, where the hairdresser will be providing services such as hair cutting, styling, etc. The form is used to gather client's contact information, appointment details, and preferences for the session. It also includes payment information such as method and status.
-
-To avoid duplication, it's essential that clients do not submit multiple sessions requests for the same appointment. If a client submits multiple requests for the same appointment, only one will be accepted and the others will be automatically declined.
-
-It's also crucial that clients understand that the session preferences and payment information are not required fields, but providing accurate information in these fields can help the hairdresser tailor the session to the client's needs and ensure a smooth payment process.
-
-The hairdresser information field is optional, and it's not meant to be used by clients. It's a field that the form creator might use for internal purposes, such as assigning a hairdresser to a session.
-</thinking>
-
 # Hairdressers Session Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients for a hairdresser session, including their contact information, appointment details, and payment information.

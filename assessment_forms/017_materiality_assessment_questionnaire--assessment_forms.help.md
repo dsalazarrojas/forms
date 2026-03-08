@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Materiality Assessment Questionnaire form, we must consider the form's purpose and the fields included. The form is likely used to assess an organization's materiality, which refers to the potential impact of a company's business activities on the environment and social responsibility. This form is probably used for reporting and monitoring an organization's sustainability and ESG (Environmental, Social, and Governance) issues, materiality levels, and other relevant metrics. 
-
-Before proceeding, let's review the form's fields to understand their purpose and relevance. The form includes fields for organization information, sustainability and ESG issues, materiality level, impact category, time frame, reporting period, reporting frequency, reporting date, reporting deadline, submitted by, reviewer, approved date, approved by, submitted to, submitted to email, submitted to department, submitted to position, title, and comments. We should ensure that each field is properly explained in the help guide to avoid any confusion.
-
-</thinking>
-
 # Materiality Assessment Questionnaire - Help Guide
 ## Purpose
 This guide will walk you through completing the Materiality Assessment Questionnaire form, which is used to report and monitor an organization's sustainability and ESG (Environmental, Social, and Governance) issues.

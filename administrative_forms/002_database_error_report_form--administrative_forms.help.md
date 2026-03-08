@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for reporting database errors that occur within a system or application. This form aims to collect information about the nature, severity, and impact of the errors, which will help in debugging and resolving these issues. When filling out this form, please note that the required fields are marked as such, but filling out the form is optional. However, providing accurate and comprehensive information will assist the support team in resolving the errors more efficiently. The form is designed for users to submit information about their specific database errors without requiring an extensive knowledge of the underlying systems or technical details. This form is intended to be user-friendly and easy to use, so please don't hesitate to submit your report.
-</thinking>
-
 # Database Error Report Form - Help Guide
 ## Purpose
 The "Database Error Report Form" is designed for users to report database errors that occur within a system or application. This form collects information about the nature, severity, and impact of the errors, which will be used to assist the support team in resolving these issues efficiently.

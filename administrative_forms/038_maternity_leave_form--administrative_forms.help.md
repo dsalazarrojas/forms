@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be for requesting maternity leave from an employee, and the purpose of this form is to provide a standardized way for employees to submit their leave requests to their management. The form likely helps track and process leave requests in an efficient and organized manner, ensuring that all necessary information is captured and that the approval process is streamlined.
-
-The form's fields suggest that it may be used by employees who are expecting or have recently given birth, and that the leave request may be for a period of time due to pregnancy-related reasons. However, it's essential to note that the form's fields and labels are quite generic, so it's possible that the form could be used for other types of leave requests as well.
-
-Before proceeding, it's worth checking if there's an existing internal policy or procedure governing maternity leave or similar leave requests. If there's a standardized process already in place, this form might need to be adapted or integrated with that existing process to avoid duplication of effort or conflicting requirements.
-
-</thinking>
-
 # Maternity Leave Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure this form serves its purpose effectively, it's essential to understand that the form is designed to gather essential information from potential clients or business owners seeking loans. This form aims to provide a structured approach for applicants to submit their loan requests. By providing a clear and concise guide, we can reduce the risk of errors and improve the overall experience.
 
 </thinking>

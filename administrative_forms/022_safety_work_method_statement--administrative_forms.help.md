@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information regarding a Safety Work Method Statement, which is a comprehensive document that outlines the methods and procedures to be followed during a specific work process to ensure the safety of workers and the public. This form is likely used in construction, manufacturing, or other industries where workers are exposed to hazards. The purpose of this form is to provide a detailed description of the work process, including any necessary safety precautions, emergency procedures, and risk assessments.
-
-Before proceeding, please note that this form is intended for the completion of the 25th page of the Safety Work Method Statement. If you are not familiar with the safety procedures and protocols for this specific work process, please consult with your supervisor or safety officer before attempting to complete this form.
-
-Please ensure that you are familiar with the work process and the safety protocols before completing this form. If you are unsure about any aspect of the form, please seek clarification from your supervisor or safety officer.
-</thinking>
-
 # Safety Work Method Statement - Help Guide
 ## Purpose
 The purpose of this form is to collect information regarding a Safety Work Method Statement, a comprehensive document that outlines the methods and procedures to be followed during a specific work process to ensure the safety of workers and the public.

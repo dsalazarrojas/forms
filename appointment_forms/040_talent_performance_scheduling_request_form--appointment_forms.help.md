@@ -1,14 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-This form is intended to collect information for the purpose of scheduling talent performances. The form is used by users to request scheduling of a talent's performance, including details such as the date, time, and venue of the event. The form is designed to be filled out by the talent or their representative to ensure accurate and up-to-date information is provided for the performance scheduling process.
-
-**Form Purpose**: This form is for scheduling a talent's performance, ensuring all necessary details are collected and processed correctly.
-
-**Relevance and Non-Duplication**: Please ensure that you only submit one form per performance, and that the details you enter are accurate and up-to-date.
-
-</thinking>
-
 # Talent Performance Scheduling Request Form - Help Guide
 ## Purpose
 

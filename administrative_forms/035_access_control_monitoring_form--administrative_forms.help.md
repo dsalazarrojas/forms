@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Access Control Monitoring Form". This form is designed to monitor and record various aspects of access control and incident reporting during a shift. The purpose of this form is to ensure accuracy and consistency in monitoring and reporting, and to provide valuable information for future reference and analysis.
-</thinking>
-
 # Access Control Monitoring Form - Help Guide
 ## Purpose
 

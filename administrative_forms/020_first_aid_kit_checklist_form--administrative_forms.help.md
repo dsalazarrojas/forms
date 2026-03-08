@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # first_aid_kit_checklist_form - Help Guide
 ## Purpose
 The First Aid Kit Checklist Form is used to track and manage first aid kits within an organization, ensuring that they are properly stocked, inspected, and maintained. This form helps ensure that first aid kits are not forgotten, and that necessary supplies are reordered when needed.

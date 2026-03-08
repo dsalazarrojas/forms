@@ -1,15 +1,3 @@
-<thinking>... internal note: This form is designed to collect information for a mom recognition program. It's intended to be completed by the nominator to provide details about the nominee. This form likely helps to identify outstanding qualities, contributions, or achievements of the nominee. It may also help to track the nomination process, allowing for evaluation or consideration for an award or recognition.
-
-The form has multiple fields for various categories like "nomination form", "name", "email", "reason for nomination", etc. Some fields seem to be related to the relationship between the nominator and the nominee, such as "nominator's name", "nominator's email", "nominator's workplace", etc.
-
-It's worth noting that the form seems to be designed for internal use, so the level of detail and specificity of the fields might be tailored for an internal audience or process. It's essential to consider the form's purpose and ensure that the required fields are necessary for the intended outcome.
-
-Also, some fields seem to be optional, so it's possible that they might not be necessary for the form's primary purpose, but could still be valuable for supplementary information.
-
-Before starting the form, review the required fields and ensure you have all necessary information. You can skip optional fields if you don't have the relevant details.
-
-</thinking>
-
 # Mom Recognition Nomination Form - Help Guide
 
 ## Purpose

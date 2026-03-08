@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users for an unlock request. 
-The form is required for users to submit a valid request. 
-Please ensure that all required fields are filled in accurately and completely. 
-Before filling out this form, check that you haven't already submitted a request for this particular access. 
-Please note that some fields may be optional. 
-</thinking>
-
 # Unlock Request Form - Help Guide
 
 ## Purpose

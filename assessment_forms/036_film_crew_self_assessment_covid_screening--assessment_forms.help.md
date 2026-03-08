@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help you self-assess your risk level and provide information about your health status regarding COVID-19. This is a general information form, and you should only complete it if you have not been previously cleared by a medical professional or have not received a formal clearance.
-
-Please note that this form is not intended to diagnose or treat any medical condition, but rather to help identify potential risks and take necessary precautions.
-
-To ensure accuracy, please answer this form with your most recent health status and circumstances.
-</thinking>
-
 # Film Crew Self Assessment COVID Screening - Help Guide
 ## Purpose
 The Film Crew Self Assessment COVID Screening form is designed to help film crew members assess their risk level and report their health status in relation to COVID-19. This form will help identify potential risks and ensure a safe working environment on set.

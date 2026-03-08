@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the public safety impact of a project. This form is used to collect information about a project's details, location, and risk factors. It helps the project team and stakeholders to identify potential risks and assess their impact on the project's public safety. This form ensures that projects are thoroughly evaluated and assessed before they are executed, reducing the risk of harm to the public and the project team.
-It's worth noting that this form might be used by project managers, risk assessors, and other stakeholders involved in project planning and execution.
-</thinking>
 # Public Safety Impact Assessment - Help Guide
 ## Purpose
 The Public Safety Impact Assessment form is used to evaluate the potential risks and impacts of a project on public safety.

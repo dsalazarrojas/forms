@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Transparency Initiative Assessment - Help Guide
 ## Purpose
 The Digital Transparency Initiative Assessment is designed to evaluate your organization's current level of digital transparency and identify areas for improvement. This form helps us understand your organization's practices, gaps, and progress in achieving digital transparency.

@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended to collect information on membership activities and engagement from users. It's crucial to ensure that users understand the purpose and relevance of this form to provide accurate and consistent data. To avoid duplication of effort, this form should only be filled out by users who are directly involved in membership activities.
-...</thinking>
-
 # Membership Activity Report Form - Help Guide
 ## Purpose
 This form is used to collect information on membership activities and engagement from users. It helps to track and document the activities performed by members, ensuring that the data is accurate and consistent.

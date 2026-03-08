@@ -1,11 +1,3 @@
-<thinking>
-Form design and writing best practices are essential in creating user-friendly forms that reduce errors and increase accuracy. To ensure this form's purpose and field explanations are clear and concise, I'll follow these guidelines:
-1.  The form is for checking out gym equipment.
-2. The form should be easy to complete, especially with a mix of select_one and text fields.
-3. Avoid ambiguity in field labels and hints.
-4. Focus on the "how-to" aspect to help users complete the form.
-</thinking>
-
 # Gym Equipment Check Out Form - Help Guide
 ## Purpose
 The Gym Equipment Check Out Form is used to inform staff about equipment availability, status, and condition, allowing for proper maintenance, inventory, and member service.

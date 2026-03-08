@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's understanding and awareness of personal rights. The form is designed to be completed by the person being assessed, as well as a reviewer who may be reviewing the assessment. The form is likely used in a context where there are concerns about the individual's rights, and it's used to gauge their level of understanding and awareness.
-The form has two main sections: one for the person being assessed, and one for the reviewer. Each section has several questions that ask for information about the person's awareness of their rights, their confidence level in understanding these rights, their environment, and their interactions with others.
-The questions are mostly multiple-choice questions, making it easy for the person being assessed to provide quick answers. Some sections also have free-text fields for additional comments.
-It's worth noting that some sections have "Agrees" questions, which might indicate that the person being assessed is agreeing to something. This could be used to track agreement or acknowledgement of certain conditions.
-The form also tracks the date it was created, likely for record-keeping purposes.
-
-</thinking>
-
 # Personal Rights Assessment Form - Help Guide
 ## Purpose
 The Personal Rights Assessment Form is designed to assess an individual's understanding and awareness of personal rights.

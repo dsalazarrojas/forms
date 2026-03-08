@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Note:**
-
-This form is for hotel bookings. It's likely used for reservations or payments, given the presence of fields like "Date In", "Date Out", "Room Type", "Room Number", and "Total Guests". The field "room_type" suggests that the form is asking users to select a specific type of room, which could indicate that the form is also asking for room selection. The "special_requests" field implies that users may have additional requirements or preferences that need to be met. Given the presence of email and phone fields, it's possible that this form is also used for contact information. To confirm, we should consider the form's purpose and how it's used in the current business process.
-
-</thinking>
-
 # hotel_booking_payment_form - Help Guide
 ## Purpose
 The hotel_booking_payment_form is used for booking and payment details for hotel rooms. This form captures the guest's details, dates of stay, room selection, and contact information.

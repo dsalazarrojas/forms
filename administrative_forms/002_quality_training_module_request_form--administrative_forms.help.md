@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for quality training module requests. 
-The user will need to provide personal details and training preferences. 
-The goal is to ensure that the correct training modules are selected for the user's needs. 
-Please ensure that you only complete this form once and provide the most up-to-date information. 
-The training modules selection will be reviewed internally and you will be contacted if more information is needed.
-</thinking>
-
 # quality_training_module_request_form - Help Guide
 ## Purpose
 This form is used to collect user information for quality training module requests. It helps the system administrator to select the correct training modules that match the user's needs and preferences.

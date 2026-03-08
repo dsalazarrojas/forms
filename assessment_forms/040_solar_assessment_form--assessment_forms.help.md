@@ -1,7 +1,3 @@
-<thinking>
-The Solar Assessment Form is a tool used to gather information from users regarding their potential suitability for solar energy assessment. It's likely designed to be used in a field or office setting to gather data on individual's solar suitability and other relevant details. Before proceeding, ensure you're using this form correctly and not duplicating work already done. This form is likely part of a larger process for identifying and evaluating solar potential for individuals or communities.
-</thinking>
-
 # Solar Assessment Form - Help Guide
 ## Purpose
 The Solar Assessment Form is a tool used to collect information on a user's potential suitability for solar energy assessment.

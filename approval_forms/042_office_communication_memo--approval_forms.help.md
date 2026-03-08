@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this form is to facilitate internal communication within the organization, allowing employees to create and circulate memos to their colleagues and managers. This form should not be used for external communication or sensitive/confidential matters that may require special handling. Please ensure you only complete this form when necessary and relevant to your work, and do not duplicate effort by creating separate memos for the same purpose.
 
 # Office Communication Memo - Help Guide

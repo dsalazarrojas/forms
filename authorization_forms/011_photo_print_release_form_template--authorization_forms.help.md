@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to obtain consent for the print release of photographs from clients or individuals who have had their images captured during a photoshoot or event. It is intended for use by photographers, event planners, and other professionals who handle sensitive client information. The form should only be used for print release purposes and not for any other use without explicit consent.
-Please check that you have not already created a form for this purpose to avoid duplication.
-</thinking>
-
 # Photo Print Release Form Template - Help Guide
 ## Purpose
 The Photo Print Release Form Template is designed to be a straightforward way to collect necessary information for the print release of photographs from clients or individuals. This form will help ensure that you have their consent for the print release of their images, and it's easy to fill out and submit.

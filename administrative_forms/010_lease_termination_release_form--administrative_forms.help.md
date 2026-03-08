@@ -1,7 +1,3 @@
-<thinking>
-This form is used for documenting the process of terminating a lease between a landlord and a tenant. It is a crucial document that outlines the reasons for termination, notice dates, and other relevant details. To ensure that this form is used correctly, please make sure that you have the necessary permissions or approvals to terminate the lease before filling it out. Also, be aware that this form is not a substitute for any formal notice or communication with the tenant.
-</thinking>
-
 # Lease Termination Release Form - Help Guide
 ## Purpose
 This form is used for documenting the process of terminating a lease between a landlord and a tenant. It's essential to accurately fill out the form to ensure all necessary information is captured and to maintain a smooth leasing process.

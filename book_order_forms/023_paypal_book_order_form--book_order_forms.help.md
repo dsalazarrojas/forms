@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to capture information about a book order, including book details such as title, price, author, and status. It will likely be used by administrators or users to manage a catalog of books in an online store or library. Before proceeding, please review the following guidelines to ensure the form is filled out correctly and consistently.
-Please ensure you are familiar with the book order process before filling out this form. This form should not be used for other purposes such as user feedback or contact forms.
-Please review the fields carefully and ensure the form is filled out correctly before submitting it.
-The following fields may require additional attention or clarification:
-* Book Status: This field will have options Active and Inactive. If you are not sure which to choose, please ask for guidance.
-* Payment Information: This field will likely require additional information, such as payment method and amount, which is not included in this form.
-* Submit: This field will have options 'Yes' and 'No'. Please only select 'Yes' if you are certain the information is accurate and complete.
-</thinking>
-
 # Paypal Book Order Form - Help Guide
 ## Purpose
 This form is used to capture information about a book order, including book details and payment information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect corporate partner information for business partnerships. It is a text-based form that captures details about the company, its contact information, and partnership specifics. Before filling out this form, please ensure you have the necessary permissions and authority to submit on behalf of your company. This form is not intended for personal use, but for company-wide partnership purposes. To avoid duplication, please refrain from submitting duplicate requests. 
-</thinking>
-
 # corporate_partner_information_form - Help Guide
 ## Purpose
 The corporate partner information form is used to gather details about a company that is a partner of our organization. This information will be used to facilitate communication and cooperation between our companies.

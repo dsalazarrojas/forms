@@ -1,13 +1,3 @@
-<thinking>
-The form is used to gather information about a task's safety pre-assessment. This form is likely used in an organizational or industry context, such as construction, manufacturing, or emergency services, where tasks are performed by a team of workers. The purpose of this form is to ensure that all necessary safety measures are taken before starting a task, and that all relevant information is documented.
-
-To avoid duplication, it's assumed that the user has already reviewed and understood the safety policies and procedures of the organization. This form is meant to supplement and support these existing policies.
-
-The form is meant to be completed by a team or individual responsible for performing the task, and by their supervisor or field team leader.
-
-Please note that some fields are optional, and their completion depends on the specific task and situation.
-</thinking>
-
 # Pre Task Safety Assessment - Help Guide
 ## Purpose
 The Pre Task Safety Assessment form is designed to ensure that all necessary safety measures are taken before starting a task. It gathers information about the task's description, potential hazards, control measures, and other relevant details.

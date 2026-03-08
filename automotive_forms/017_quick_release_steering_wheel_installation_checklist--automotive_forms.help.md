@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to guide the user through a quick release steering wheel installation checklist for vehicles, ensuring all necessary information is captured and validated for accuracy. This form will not be used for other purposes, and its completion will directly affect the accuracy of the installation records.
-</thinking>
 # quick_release_steering_wheel_installation_checklist - Help Guide
 ## Purpose
 The quick release steering wheel installation checklist is used to guide mechanics and customers through the process of installing a quick release steering wheel on a vehicle. This form captures essential details for accurate records, ensuring correct installation and any potential issues are addressed promptly.

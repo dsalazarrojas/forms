@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to document and assess medical procedures performed on patients. It should only be used for this specific purpose and not for other medical records. Please ensure that all fields are accurately completed to maintain patient confidentiality and adhere to HIPAA standards.
-</thinking>
-
 # medical-procedure-assessment-form - Help Guide
 ## Purpose
 The medical-procedure-assessment-form is designed to collect relevant information about medical procedures performed on patients, ensuring accuracy and adherence to confidentiality and HIPAA standards.

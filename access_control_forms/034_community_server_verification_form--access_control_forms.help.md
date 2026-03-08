@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to verify the identity and intentions of individuals interested in joining the community server. The verification process aims to ensure that new members are genuine individuals who are willing to follow the server's rules and guidelines. This form collects various information from applicants, including personal details, interests, and verification questions.
-
-To avoid duplication, each field in this form must be filled out carefully, as incomplete or incorrect submissions might lead to rejection. It's essential to read each section carefully before proceeding.
-
-Before starting, consider the following:
-
-- Be honest and accurate when answering the questions.
-- Double-check your answers to avoid errors.
-- If you're unsure about any question, please don't hesitate to ask for clarification.
-</thinking>
-
 # Community Server Verification Form - Help Guide
 ## Purpose
 This form is designed to verify your identity and intentions as a potential member of the community server. It's essential to fill it out carefully and accurately to ensure a smooth verification process.

@@ -1,5 +1,3 @@
-<thinking>Based on the provided YAML, it appears that this form is designed to create a mechanical inspection report for vehicles. To determine the purpose of this form, I'll review the fields and their labels.</thinking>
-
 # Mechanical Inspection Report - Help Guide
 ## Purpose
 This form is used to create a mechanical inspection report for vehicles. It gathers information about the vehicle's characteristics, inspection results, and the technician who conducted the inspection.

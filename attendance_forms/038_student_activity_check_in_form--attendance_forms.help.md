@@ -1,7 +1,3 @@
-<thinking>
-The "Student Activity Check In Form" is designed to capture student attendance information for school events. To avoid duplication and ensure accurate data entry, users are recommended to use this form only for events with a defined start and end time. 
-</thinking>
-
 # Student Activity Check In Form - Help Guide
 ## Purpose
 The "Student Activity Check In Form" is a tool used to record student activity check-in information for school events. It captures essential details such as student name, event date, activity name, and check-in status.

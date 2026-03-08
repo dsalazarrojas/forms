@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # team_uniform_order_form - Help Guide
 ## Purpose
 The team_uniform_order_form is used to collect information from customers to place a team uniform order. This form is designed to be completed by customers who want to order uniforms for their team. The form is intended to gather all necessary information to process the order accurately and efficiently.

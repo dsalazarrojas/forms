@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about directional signage orders for an event or business. The form is intended to gather details such as business information, event details, and preferences for the signage. The fields on this form are mostly text fields and select one fields for the event details and preferences.
-The form is not primarily for ordering physical products or services. It is not meant for creating or editing existing content. It is also not a form for creating events or appointments, but rather for providing information about existing events.
-Please review the form carefully and ensure that you are not duplicating existing orders or events. This will help ensure that your order is processed correctly and efficiently.
-</thinking>
-
 # Directional Signage Order Form - Help Guide
 ## Purpose
 The Directional Signage Order Form is designed to collect information about directional signage orders for an event or business.

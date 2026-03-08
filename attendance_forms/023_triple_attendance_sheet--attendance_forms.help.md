@@ -1,5 +1,3 @@
-<thinking>This form is designed to capture attendance information in a structured and organized manner. Its primary purpose is to collect data on user attendance, which can be useful for various purposes such as tracking attendance, scheduling, or reporting. To avoid duplication, users are encouraged to fill out the form only once per event or occurrence. If you're unsure about any field, please read the field-by-field explanation below to ensure you provide accurate and complete information.</thinking>
-
 # triple_attendance_sheet - Help Guide
 ## Purpose
 The triple_attendance_sheet form is used to collect attendance information from users. This data can be used to track attendance, schedule events, or generate reports.

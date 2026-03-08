@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users schedule a strategy call with a lead or customer. The purpose of this form is to collect relevant information from the user to facilitate effective communication and follow-up actions. The form's purpose is to gather details about the lead or customer, including their lead type (Lead, Customer, Prospect, or Other), the desired call time, call duration, and follow-up methods (Email, Phone, Post, or None). The form should not be used to duplicate efforts or collect unnecessary information.
-
-</thinking>
-
 # schedule_your_strategy_call - Help Guide
 ## Purpose
 This form is designed to help users schedule a strategy call with a lead or customer. The goal is to collect relevant information to facilitate effective communication and follow-up actions.

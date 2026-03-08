@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Fast Track Application Form", we should first identify its purpose and the requirements for completion. The purpose of the form is likely to collect information from individuals who want to take advantage of the "Fast Track" loan or application process. This could be to speed up the process for those who need immediate attention or for those who have specific requirements that make traditional processes cumbersome. 
-
-The form requires information about the individual such as their name, contact details (email and phone), employment status, credit score, loan amount, and loan terms. The employment status and loan terms are likely to be used to determine the applicability of the "Fast Track" process. 
-
-It's worth noting that the form has a mix of required and non-required fields, suggesting that some information might be crucial for the process while others are optional or supplementary.
-
-</thinking>
-
 # Fast Track Application Form - Help Guide
 ## Purpose
 The "Fast Track Application Form" is designed to collect essential information from individuals who wish to take advantage of the expedited loan or application process. This form aims to speed up the process for those who need immediate attention or have special requirements that make traditional processes inconvenient.

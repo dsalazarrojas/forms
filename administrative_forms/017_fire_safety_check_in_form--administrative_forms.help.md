@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the "Fire Safety Check In Form". The form is designed to gather information about employees and visitors during fire safety drills or other safety checks. It is used to track the status of fire drills, check in employees and visitors, and note any relevant information.
-
-The form is divided into several sections, each with its own specific purpose. This guide will walk you through each section, explaining the fields and their significance.
-
-Please note that the form is optional for some fields, and users are not required to fill in all the fields. However, filling in all relevant fields will help to ensure accurate and complete information.
-
-</thinking>
-
 # Fire Safety Check In Form - Help Guide
 ## Purpose
 The Fire Safety Check In Form is used to track the status of fire drills, check in employees and visitors, and note any relevant information.

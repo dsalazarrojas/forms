@@ -1,13 +1,3 @@
-<thinking> 
-  This is a Loan Application Form, intended for users to apply for a loan.
-  - Ensure the form is completed by the actual applicant, not the co-applicant.
-  - Ensure the form is completed by a person who has the authority to bind the co-applicant.
-  - Check for any existing loan applications from the same applicant or co-applicant before creating a new loan application.
-  - This form requires the user to provide information on themselves and the co-applicant (if applicable).
-  - This form requires a valid email address and phone number.
-  - Please ensure the form is completed correctly before submitting it to avoid any issues with loan application.
-</thinking>
-
 # Loan Application Form - Help Guide
 ## Purpose
 The Loan Application Form is a document used to collect information from individuals applying for a loan. It is essential to provide accurate and complete information to ensure a smooth loan application process.

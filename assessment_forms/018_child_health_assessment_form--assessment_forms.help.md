@@ -1,21 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand how to complete the Child Health Assessment Form. This form is designed to collect information about a child's health status, medical history, and lifestyle. It is crucial to ensure that the form is completed accurately and comprehensively to provide the most helpful data for medical professionals.
-
-The form is divided into sections, each focusing on a specific aspect of the child's health. The sections include Patient Information, Medical History, Current Health Concerns, Lifestyle and Wellness, and Physician Details. Each section provides valuable information that helps healthcare providers make informed decisions about the child's care.
-
-To ensure that the form is completed correctly, please read each section carefully and provide accurate answers. If you are unsure about any question or section, please ask for clarification.
-
-When completing the form, please note the following:
-
-*   The form is divided into sections, each with its own set of questions.
-*   Please answer each question to the best of your ability, based on your knowledge of the child's health status.
-*   If you are unsure about any question or section, please ask for clarification.
-*   Please provide accurate and truthful answers to ensure that the healthcare provider has the most helpful information to make informed decisions about the child's care.
-
-By following these guidelines, you will be able to complete the form accurately and provide valuable information for the child's medical care.
-
-</thinking>
-
 # Child Health Assessment Form - Help Guide
 
 ## Purpose

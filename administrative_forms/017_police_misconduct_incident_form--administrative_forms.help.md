@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # police_misconduct_incident_form - Help Guide
 ## Purpose
 This form is used to document and track police misconduct incidents within the police department. It helps to maintain accurate and detailed records of incidents, ensuring prompt action can be taken in cases of misconduct.

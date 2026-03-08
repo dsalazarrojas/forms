@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for event planners to set up their events with event decorators. The form is likely used by event planners to provide details about their events to event decorators for decoration purposes. It is not clear if this form is for the event planners to book the event with the decorators or if it's for the decorators to confirm their availability and provide a quote. The form fields suggest it's a one-time setup, and the "Notes" field at the end implies it's for providing additional information to the decorators. This guide will explain the form's purpose and how to complete it based on the provided fields.
-</thinking>
-
 # Event Decorator Setup Booking Form - Help Guide
 
 ## Purpose

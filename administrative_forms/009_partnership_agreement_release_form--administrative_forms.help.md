@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to facilitate the termination of a partnership agreement, allowing partners to document their decisions and formalize the ending of their partnership. This form is intended for use in a business or professional setting where partnerships are common. It's essential to review the form carefully to ensure that it accurately reflects the specific circumstances of the partnership termination. Please note that this form does not cover every possible scenario, and additional information or custom fields might be needed depending on the unique nature of the partnership. If you are unsure about any aspect of the form, please consult with a relevant authority or attorney.
-
-</thinking>
-
 # partnership_agreement_release_form - Help Guide
 ## Purpose
 The partnership_agreement_release_form is a document used to formalize the termination of a partnership agreement. It captures key information about the agreement, including the termination date, termination reason, notice period, and other relevant details.

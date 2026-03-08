@@ -1,15 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication
-
-The purpose of this form is to collect information for a custom laptop sleeve order. The form is designed to gather details about the order, customer, and specific customizations for the laptop sleeve.
-
-The form has 20 fields, but most of them are for customizations and are not required. The main fields are: order info, customer, and laptop (for selecting the laptop type).
-
-The form does not require any specific knowledge of laptop sleeve production or customization, so the explanations for each field will focus on the user experience.
-
-This guide will cover the purpose, how to complete the form, and a field-by-field explanation for each required and non-required field.
-
-</thinking>
-
 # Custom Laptop Sleeve Order Form - Help Guide
 ## Purpose
 The Custom Laptop Sleeve Order Form is used to collect information for a custom laptop sleeve order. Please fill in the required fields to ensure that your order is processed correctly.

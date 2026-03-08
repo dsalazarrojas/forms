@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Historical Site Tour Appointment Form - Help Guide
 
 ## Purpose

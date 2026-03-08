@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be filled out by customers ordering a Halloween cookie decorating kit. The form asks for information about the customer, such as their contact details and order preferences. This is likely used in an online store or a web application to facilitate the sale of cookie decorating kits for the Halloween season.
-This form is not a required field for internal use, so users are not forced to complete it.
-</thinking>
-
 # Halloween Cookie Decorating Kit Order Form - Help Guide
 
 ## Purpose

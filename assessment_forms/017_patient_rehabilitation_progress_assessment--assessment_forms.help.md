@@ -1,7 +1,3 @@
-<thinking>
-This form was created for patients undergoing rehabilitation and is used to assess their progress in various areas such as physical, occupational, and psychological treatments. The form aims to collect information from patients about their current status, treatment type, date of visit, and any additional notes they may have. This form helps healthcare professionals track and monitor patient progress, facilitating more effective care and management.
-</thinking>
-
 # Patient Rehabilitation Progress Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's rehabilitation progress, allowing healthcare professionals to assess and monitor their treatment and progress.

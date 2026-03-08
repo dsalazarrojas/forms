@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-To provide a user-facing help guide for the "Dog Ownership Questionnaire" form, I'll assume that the form's purpose is to collect information from dog owners, likely for a veterinary clinic or animal shelter. The form's fields should be explained in a way that helps end-users understand their relevance and importance. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
+> To provide a user-facing help guide for the "Dog Ownership Questionnaire" form, I'll assume that the form's purpose is to collect information from dog owners, likely for a veterinary clinic or animal shelter. The form's fields should be explained in a way that helps end-users understand their relevance and importance. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
 
 # Dog Ownership Questionnaire - Help Guide
 ## Purpose

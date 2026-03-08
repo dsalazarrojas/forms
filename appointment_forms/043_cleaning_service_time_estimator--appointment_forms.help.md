@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help you estimate the time and cost of cleaning services for your property. Please note that the form will ask you about your contact information, property details, and specific requirements for the cleaning service. This form is not intended to be a formal booking request but rather a tool to get an estimate based on your input.
-
-If you have already filled this form in the past, please note that the answers to previous questions will be pre-filled for your convenience. Please review and update as needed.
-
-Before proceeding, please ensure that all required fields are filled correctly to get an accurate estimate.
-
-</thinking>
-
 # Cleaning Service Time Estimator - Help Guide
 
 ## Purpose

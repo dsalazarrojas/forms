@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to assess the safety features and conditions of a vehicle. It is crucial to understand that this form is for general safety evaluation purposes and is not intended for certification or official compliance checks. Please ensure that the form is not used for any official purposes without proper validation and verification processes. This form is meant to provide a general safety assessment and should not be relied upon as the sole basis for any critical decisions. If you are unsure about the purpose or usage of this form, please consult with your supervisor or relevant authorities before proceeding.
-
-After reviewing the form structure, it's clear that it includes sections for assessing various aspects of vehicle safety, including its condition, safety standards compliance, safety features, and other relevant details. To complete this form effectively, please refer to the detailed explanations below.
-</thinking>
-
 # Vehicle Safety Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the safety features and conditions of a vehicle for general safety evaluation purposes. It is not intended for certification or official compliance checks, and its results should not be relied upon as the sole basis for any critical decisions.

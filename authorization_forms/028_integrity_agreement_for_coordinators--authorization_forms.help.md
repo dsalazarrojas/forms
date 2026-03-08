@@ -1,9 +1,3 @@
-<thinking>
-
-The "Integrity Agreement For Coordinators" form appears to be a formal document for coordinators to provide their name, title, organization, commitment, and acknowledgement. This form likely seeks to establish trust and ensure that the coordinators understand their role and responsibilities within the organization or project. The form's purpose is to collect essential information from coordinators, and the provided fields should be completed accurately and thoroughly to avoid any potential issues or miscommunications.
-
-</thinking>
-
 # Integrity Agreement For Coordinators - Help Guide
 ## Purpose
 This form is designed to gather information from coordinators about their name, title, organization, commitment, and acknowledgement. It is intended to establish a clear understanding of their role and responsibilities within the organization or project.

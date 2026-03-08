@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's symptoms and functioning across various domains, including depression, anxiety, psychosis, and other mental health conditions. This form will help healthcare providers evaluate the severity of symptoms and guide treatment decisions. Please ensure you are completing this form for the purpose of clinical assessment and diagnosis.
-</thinking>
-
 # DSM 5 Level 1 Cross Cutting Symptom Measure Assessment Form - Help Guide
 ## Purpose
 

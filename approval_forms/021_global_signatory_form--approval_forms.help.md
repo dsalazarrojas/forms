@@ -1,5 +1,3 @@
-<thinking>...The form is intended for users to provide their contact information and sign their name for a global signatory purpose... It's likely for a corporate or business setting where users need to share their name, email, role, company, department, location, and a signature for approval or verification purposes... This form is not meant for mass signatory and users should not need to fill it out multiple times... If you are unsure, please reach out to the form administrators at form@gic.mx...</thinking>
-
 # Global Signatory Form - Help Guide
 ## Purpose
 This form is designed for users to provide their contact information and sign their name for global signatory purposes. It's intended for corporate or business settings where users need to share their details for approval or verification.

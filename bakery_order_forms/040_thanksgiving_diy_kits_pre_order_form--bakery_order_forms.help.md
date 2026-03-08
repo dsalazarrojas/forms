@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form serves its purpose and is not duplicated, we must verify that the form is intended for users to place orders for DIY (Do It Yourself) Thanksgiving kits and that the form does not exist elsewhere in the system. If the form is not correctly defined in the YAML input schema, we will need to revise it to meet the requirements. The form is designed to collect user's personal information (name, email, phone, and date of birth) to provide a convenient way for users to place orders for custom-made or pre-made Thanksgiving DIY kits. This form should only be used for this specific purpose and not for other non-related orders or transactions.
-</thinking>
-
 # Thanksgiving DIY Kits Pre Order Form - Help Guide
 ## Purpose
 This form is designed for users to place orders for custom-made or pre-made Thanksgiving DIY kits. By filling out this form, you will be able to provide us with your personal information and choose the kits you wish to purchase.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Storage Facility Incident Form. It's essential to complete this form accurately and efficiently. Before proceeding, please review the form's purpose to ensure it's relevant to your situation. This guide is provided to help you navigate the form and its various fields. Please be aware that some form fields may be optional, which means you can submit the form without filling out all of them.
-</thinking>
-
 # Storage Facility Incident Form - Help Guide
 ## Purpose
 The Storage Facility Incident Form is a document used to report incidents that occur within the storage facility. This form aims to collect information about accidents, injuries, or other unexpected events that have taken place in the facility. It's crucial to complete this form accurately and thoroughly to ensure that the necessary information is captured and addressed promptly.

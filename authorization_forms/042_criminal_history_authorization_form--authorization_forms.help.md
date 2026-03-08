@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's criminal history for background checks or other purposes. This form is a general template and may need to be reviewed by your organization for relevance and non-duplication of work. Please make sure the form is applicable to your specific use case before using it.
-</thinking>
-
 # Criminal History Authorization Form - Help Guide
 ## Purpose
 This form is designed to collect authorization to access or conduct background checks related to an individual's criminal history. It is intended to be used for background checks, security screenings, or other purposes where access to an individual's criminal history is required.

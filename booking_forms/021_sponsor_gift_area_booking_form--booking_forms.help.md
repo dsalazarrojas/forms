@@ -1,7 +1,3 @@
-<thinking>
-The Sponsor Gift Area Booking Form is designed to facilitate the booking of sponsor gifts for a specific event or occasion. This form is intended to collect information from sponsors, including their contact details, gift preferences, and event-related information. The form is meant to streamline the process of booking sponsor gifts, ensuring that all necessary details are captured in a single, organized format. To avoid duplication, please ensure that you are not already in the process of booking a sponsor gift in another form.
-</thinking>
-
 # Sponsor Gift Area Booking Form - Help Guide
 ## Purpose
 The Sponsor Gift Area Booking Form is a digital form designed to collect information from sponsors for booking and gifting purposes. Its primary goal is to capture essential details about the sponsor, their preferences, and event-related information, making it easier to manage bookings and ensure a smooth gifting process.

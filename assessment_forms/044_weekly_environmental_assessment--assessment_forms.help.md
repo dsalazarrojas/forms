@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect weekly assessments of environmental conditions at various sites. It is meant to be filled out by personnel who have been assigned to specific sites. The purpose of this form is to gather information about the site's conditions, hazards, and sustainability metrics. This information will be used to track and improve the overall environmental status of the sites.
-</thinking>
-
 # Weekly Environmental Assessment - Help Guide
 ## Purpose
 This form is used to collect weekly assessments of environmental conditions at various sites. It is meant to be filled out by personnel who have been assigned to specific sites.

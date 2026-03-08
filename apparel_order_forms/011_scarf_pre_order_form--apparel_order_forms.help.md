@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "scarf_pre_order_form" form, I'll analyze the provided YAML fields and create a clear and concise guide that explains the form's purpose, how to complete it, and each field's meaning.
 
 # Scarf Pre-Order Form - Help Guide

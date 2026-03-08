@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Of The Year Nomination Form - Help Guide
 
 ## Purpose

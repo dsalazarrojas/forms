@@ -1,7 +1,3 @@
-<thinking>
-The form is used to report and document the medical history, condition, test results, and contact information of athletes. This guide will help you understand its purpose, how to fill it out, and what each field represents. Before proceeding, ensure you have a valid reason for filling out this form and that the information provided is accurate and up-to-date. This form is part of the broader athlete management process, which aims to gather relevant medical information to ensure athlete safety and well-being.
-</thinking>
-
 # Player Medical Report Form - Help Guide
 ## Purpose
 The Player Medical Report Form is used to report and document the medical history, condition, test results, and contact information of athletes. This form helps in gathering essential medical information to ensure athlete safety and well-being.

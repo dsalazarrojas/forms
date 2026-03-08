@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a rental application, likely used by landlords or property managers to assess potential tenants' qualifications and preferences. Before proceeding, ensure that you are filling out this form for a legitimate rental application and not for a different purpose.
-</thinking>
-
 # Rental Application - Help Guide
 ## Purpose
 This form is used to collect information from potential tenants to assess their qualifications and preferences for a rental property. Please fill out the form completely and accurately to provide the best possible representation of yourself as a tenant.

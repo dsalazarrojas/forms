@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clearly understood by the end-user. The form is for a German Vocabulary Quiz, and it's essential to provide a brief explanation of what the form is intended for and what users can expect from it. This will help us prevent confusion and ensure that users can focus on providing accurate and relevant responses.
-
-The form has several pages with different fields, but the primary objective is to assess the user's knowledge of German vocabulary. The pages are designed to gather information about the user and their responses to various German words. Each question has a unique label and hint, but they seem to be mostly focused on providing a brief description of the word.
-
-Before we proceed, let's confirm that we are creating a help guide for the German Vocabulary Quiz form. Is this correct?</thinking>
-
 # German Vocabulary Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of German vocabulary. It consists of a series of questions that will assess your understanding of German words and their meanings.

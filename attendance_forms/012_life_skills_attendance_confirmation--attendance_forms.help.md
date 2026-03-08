@@ -1,7 +1,3 @@
-<thinking>
-The form "life_skills_attendance_confirmation" is a tool for recording participant attendance at sessions or workshops focusing on life skills development, such as communication, problem-solving, teamwork, and time management. It's designed to collect information on session details, participant particulars, and their confirmation of attendance. The form aims to facilitate accurate tracking and follow-up on participants' engagement. Please ensure you only submit this form once per participant for each session.
-</thinking>
-
 # life_skills_attendance_confirmation - Help Guide
 ## Purpose
 This form is used to record participant attendance at life skills sessions or workshops.

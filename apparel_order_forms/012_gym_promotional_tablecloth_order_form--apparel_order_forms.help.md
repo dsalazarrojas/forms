@@ -1,11 +1,3 @@
-<thinking>
-We can use a simple text classifier to determine that the primary goal of the form is to collect information about promotional tablecloths for a gym. The form likely contains a variety of fields related to tablecloth details, artwork, and order information. It may also ask questions about the delivery address, phone number, and email for the order. We can use this analysis to determine the form's purpose and create a user-friendly help guide.
-
-To check for duplication, we can use the field types to categorize them. The form contains fields of type `text`, `select_one`, `date`, `time`, and `note`. There are also fields with labels "Tablecloth Details", "Artwork", and "Order Details" that could be combined into a single field.
-
-However, each field is likely to be relevant for a specific reason, so we will keep the duplication.
-</thinking>
-
 # Gym Promotional Tablecloth Order Form - Help Guide
 ## Purpose
 The Gym Promotional Tablecloth Order Form is used to collect information about promotional tablecloths for a gym. This form helps in collecting details such as tablecloth specifications, artwork, and order information to process the order efficiently.

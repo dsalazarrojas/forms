@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about equipment failure incidents. It's crucial to understand that this form is a generic template and may not cover all the specific requirements of every organization or department. Before filling out this form, please ensure you have reviewed your internal procedures and guidelines to ensure accuracy and completeness. This form is not a replacement for official procedures, and it's essential to follow the correct protocols for reporting and recording equipment failures in your organization. Please fill out this form carefully and provide as much detail as possible to help with the efficient resolution of the incident. 
-
-</thinking>
-
 # Equipment Failure Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about equipment failure incidents, allowing for accurate reporting and efficient resolution of such incidents. It captures essential details about the equipment, the incident, and the personnel involved.

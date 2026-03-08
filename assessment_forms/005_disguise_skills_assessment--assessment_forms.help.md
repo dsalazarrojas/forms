@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for assessing the skills and performance of participants, likely in an event or training setting. It is not clear what specific skills or events are being targeted, but it seems to be focused on evaluating the participant's level of proficiency or participation in some way. The "skills_list" field allows participants to select multiple skills, and the "self_evaluation" and "participant_rating" fields may be used for subjective assessments or ratings. The form seems to be focused on data collection, possibly for future reference or comparison. The "participant_name", "event_name", and "event_location" fields are likely used for participant identification and event metadata. The "participant_email", "participant_phone", "trainer_name", "participant_photo" fields are likely used for contact information or further follow-up. The "participant_comment" field could be used for additional feedback or comments. To ensure the form is filled out correctly, it is recommended to review each field carefully and fill out any required fields. If you are unsure about any field, please refer to this guide.
-
-</thinking>
-
 # Disguise Skills Assessment - Help Guide
 ## Purpose
 The Disguise Skills Assessment form is designed to collect information about participants' skills and performance in an event or training setting.

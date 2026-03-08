@@ -1,8 +1,3 @@
-<thinking> 
-This form, "e-signature-use-authorization-form", is used for obtaining electronic signatures from users and witnesses. It captures necessary information for authorization and verification processes. This form should only be used for specific situations where an electronic signature is required. Ensure that it is not used for other purposes to avoid confusion. 
-
-</thinking>
-
 # e-signature-use-authorization-form - Help Guide
 ## Purpose
 The e-signature-use-authorization-form is used to capture information for obtaining electronic signatures from users and witnesses. This includes signature types, dates, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an equipment issue in a football team. It is intended to be completed by team members or staff to report any problems or malfunctions with team equipment. This form should only be used for issues related to football equipment, and not for other team-related issues or general feedback. To ensure that the form is used correctly, please make sure to only fill it out when reporting a specific equipment issue, and not for other purposes.
-</thinking>
-
 # Football Equipment Issue Form - Help Guide
 ## Purpose
 The Football Equipment Issue Form is used to report any problems or malfunctions with team equipment. This form helps the maintenance team to quickly identify and resolve issues, reducing downtime and ensuring the team's performance.

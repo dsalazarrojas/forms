@@ -1,7 +1,3 @@
-<thinking>
-The "Event Promotion Consultation Booking Form" is used for users to book and plan promotional events. The form is designed to collect information about the event, including its details, dates, times, and organizers. This form is used to gather all necessary information for the event promotion. To prevent duplication, users should only fill out this form once per event.
-</thinking>
-
 # Event Promotion Consultation Booking Form - Help Guide
 ## Purpose
 

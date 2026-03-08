@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose and requirements are clearly understood by the end users, especially considering that this form is for certification intake. Let's review the form's purpose, ensure it's not duplicated, and confirm its relevance to the food service provider's certification process. We're creating a help guide for end users to follow, so let's break down each field's requirement and explanation for a smooth and accurate completion process. This form is intended to gather essential information from food service providers, helping them to obtain the necessary certification for their operations.
-</thinking>
-
 # Food Safety Certification Intake Form - Help Guide
 ## Purpose
 The Food Safety Certification Intake Form is a document used to gather information from food service providers to determine their eligibility for certification. This form is essential for assessing the service provider's compliance with food safety regulations and guidelines.

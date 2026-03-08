@@ -1,10 +1,3 @@
-<thinking>
-This help guide is being created for the "Polynomial Factoring Quiz" form. It is crucial to ensure that users understand the form's purpose and how to complete it effectively. The form's purpose is to assess users' knowledge in factoring polynomials, likely for educational or internal assessment purposes. This form should be used by those who have a basic understanding of polynomial equations and are familiar with the concept of factoring.
-
-To prevent duplication of effort, we must ensure that users fill out the form correctly to obtain accurate results. It is essential to understand the type of input each field requires to avoid confusion and submission errors.
-
-</thinking>
-
 # Polynomial Factoring Quiz - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplication, ensure that the form is filled out only once per assessor, and for each assessor to complete a separate form for each assesssee (employee).
-For each assesssee, ensure that a reviewer has access to the assesssee's previous connection skills assessments (if any).
-</thinking>
-
 # Connection Skills Assessment - Help Guide
 
 ## Purpose

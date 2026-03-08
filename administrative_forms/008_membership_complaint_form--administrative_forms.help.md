@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used within an organization or community to gather feedback and complaints from members about their experience or issues they've faced. This form's structure suggests it's intended to collect general information about the user's complaint, allowing them to specify the category and status of their complaint. Given its name, "Membership Complaint Form," it's reasonable to infer that this form is for internal use within the membership management context.
-</thinking>
-
 # Membership Complaint Form - Help Guide
 ## Purpose
 This form is used to collect feedback and complaints from members about their experiences or issues within an organization or community.

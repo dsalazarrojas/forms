@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help customers book a product demo counter for a specific product, location, and time slot. It is used to gather information from customers about their product interests, preferences, and requirements. This form is typically filled out by customers who are interested in learning more about a product or service and would like to schedule a demo with the sales or marketing team.
-
-To avoid duplicate bookings, this form is typically reviewed and approved by the sales or marketing team before being assigned to a specific team member.
-
-Before filling out this form, please ensure you have a clear understanding of your product interests and preferences.
-</thinking>
-
 # Product Demo Counter Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to book a product demo counter for a specific product, location, and time slot. This form helps the sales or marketing team understand your product interests and preferences and schedule a demo that suits your needs.

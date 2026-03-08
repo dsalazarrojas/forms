@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tutoring Program Effectiveness Assessment - Help Guide
 ## Purpose
 The "Tutoring Program Effectiveness Assessment" form is designed to evaluate the effectiveness of a tutoring program. This form will help assess the quality and impact of the program on students, providing a comprehensive overview of its strengths and areas for improvement.

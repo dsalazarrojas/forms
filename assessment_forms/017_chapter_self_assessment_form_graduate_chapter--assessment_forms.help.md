@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist graduate chapters in completing their self-assessment form. This form is designed to evaluate the chapter's performance and provide insight into areas for improvement.
-To ensure accuracy and consistency, please only complete the form once every 12 months, or as otherwise instructed by the national organization. Please do not duplicate or repeat assessments.
-</thinking>
-
 # Chapter Self Assessment Form Graduate Chapter - Help Guide
 ## Purpose
 The purpose of this form is to help graduate chapters evaluate their performance and identify areas for improvement. It is essential to provide accurate and honest answers to ensure that the national organization can support and guide the chapter effectively.

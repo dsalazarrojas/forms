@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Information Processing Assessment - Help Guide
 
 ## Purpose

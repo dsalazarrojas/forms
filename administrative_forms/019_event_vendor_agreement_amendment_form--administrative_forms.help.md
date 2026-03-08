@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about amendments to event vendor agreements. This form is used to record changes to event vendor contracts. Before filling out this form, ensure that you have the authority to make changes to the event contract and that any changes are in line with the original agreement terms. Please note that this form is meant to be used for non-duplicating amendments, so ensure that the submitted form does not contain redundant information.
-</thinking>
 # event_vendor_agreement_amendment_form - Help Guide
 
 ## Purpose

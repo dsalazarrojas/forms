@@ -1,7 +1,3 @@
-<thinking>
-To prevent form duplication and ensure accuracy, we must verify that the form is being completed by an individual who meets the requirements and has a genuine interest in the Automotive Customer Service Representative position.
-</thinking>
-
 # Automotive Customer Service Representative Application Form - Help Guide
 ## Purpose
 This form is designed for individuals who want to apply for the Automotive Customer Service Representative position within our company. It collects information about your personal details, work experience, education, skills, and other relevant information that will help us evaluate your qualifications and fit for the role.

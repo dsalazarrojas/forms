@@ -1,8 +1,3 @@
-<thinking>
-**Internal Note:** This form is intended to capture event details and photographer-client agreement terms for event photography contracts. The form asks for event name, client name, event date and time, event location, client email, photographer name, and contact information. Additionally, it inquires about contract duration, additional services required, and contract terms.
-
-</thinking>
-
 # Event Photography Contract - Help Guide
 ## Purpose
 This form is designed to be used by clients and event organizers to create a contract for event photography services. The form collects essential information such as event details and agreement terms to ensure a clear understanding between the client and the photographer.

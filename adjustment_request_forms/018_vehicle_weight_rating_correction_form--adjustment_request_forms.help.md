@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vehicle_weight_rating_correction_form - Help Guide
 
 ## Purpose

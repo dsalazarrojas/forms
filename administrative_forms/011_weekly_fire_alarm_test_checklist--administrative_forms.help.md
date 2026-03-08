@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # weekly_fire_alarm_test_checklist - Help Guide
 ## Purpose
 The weekly fire alarm test checklist is a form used to monitor and record the status of the fire alarm system in your facility. This form helps ensure that the system is functioning correctly and meets the required safety standards.

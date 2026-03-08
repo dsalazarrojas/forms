@@ -1,7 +1,3 @@
-<thinking>This form is designed to collect information for the Skill Assessment Tool, which is used to evaluate an employee's skills and abilities. This form is used to create a new requisition for the tool, and it is a critical component of the employee's performance evaluation process. The form is intended to be filled out by managers or HR representatives who are responsible for assessing the skills of employees in their team. This form is not intended to be filled out by the employee being assessed, but rather by the person who is requesting the assessment.
-
-Before proceeding, please ensure that you have checked with the employee to confirm their availability for the assessment and that you have obtained their consent. This form should not be used to create duplicate assessments for the same employee, as this can cause confusion and inaccuracies in the system. Make sure to check the system to see if an assessment for the same employee already exists before creating a new one.</thinking>
-
 # Skill Assessment Tool Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a Skill Assessment Tool requisition, which is used to evaluate an employee's skills and abilities.

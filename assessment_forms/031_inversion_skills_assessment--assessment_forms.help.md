@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inversion Skills Assessment - Help Guide
 ## Purpose
 The Inversion Skills Assessment form is designed to evaluate an athlete's skills in various areas. It allows coaches and assessors to document their observations and feedback on an athlete's performance, progress, and overall assessment outcome. This form is typically used to assess an athlete's skills in a specific sport or activity.

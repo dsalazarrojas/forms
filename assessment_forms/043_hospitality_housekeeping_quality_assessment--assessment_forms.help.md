@@ -1,7 +1,3 @@
-<thinking> 
-This form is used for assessing the quality of housekeeping services in hospitality settings. The purpose of this form is to collect information about the condition and cleanliness of rooms, bathrooms, and other areas of the hotel, as well as overall satisfaction with the housekeeping services. The form is designed to be completed by hotel inspectors, who will be rating the condition of various areas and providing comments and feedback. This form should be used to evaluate the quality of housekeeping services in a hotel, and to identify areas that need improvement. Please ensure that all required fields are completed accurately and thoroughly, as this information will be used to inform future improvements. 
-</thinking>
-
 # Hospitality Housekeeping Quality Assessment - Help Guide
 ## Purpose
 This form is used to assess the quality of housekeeping services in hospitality settings. It is designed to collect information about the condition and cleanliness of rooms, bathrooms, and other areas of the hotel, as well as overall satisfaction with the housekeeping services.

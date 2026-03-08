@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Book Award Application form. The purpose of this form is to gather information for a book award application, which is a competitive process that recognizes outstanding literary works. To ensure accuracy and relevance, please review the following guide carefully and ensure that you have all required information before submitting your application.
-
-Before starting the application, please note that some fields are required, marked as such in the form. Make sure to fill out all required fields to avoid any issues with your application. Additionally, ensure that you are submitting your work within the specified award category and academic level.
-
-</thinking>
-
 # Book Award Application - Help Guide
 ## Purpose
 The Book Award Application form is designed to collect information for a book award submission. The application is open to students and academics who have written or published books in specific categories.

@@ -1,7 +1,3 @@
-<thinking>
-To begin with, let's ensure the form "Income Tax Refund Discharge Form" is used for its intended purpose and not duplicated. This form is meant to help users confirm or deny the receipt of income tax refunds. The goal is to accurately capture the user's response to a potential overpayment, which could be a result of incorrect calculations or other system errors. By filling out this form, users can provide necessary information to rectify the situation and ensure the accuracy of their tax records. This guide will walk you through the process, explaining each field's purpose and what is expected of the user.
-</thinking>
-
 # Income Tax Refund Discharge Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Form purpose and validation checking: This form is designed to capture essential information regarding a theater cast's media consent for performances. Before proceeding, please ensure that this form is being used for its intended purpose and that the information provided is accurate and up-to-date. Note that this form may not be suitable for all situations; if you're unsure, please reach out to your supervisor or contact person for further clarification.</thinking>
-
 # Theater Cast Media Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from the cast for media recording, use, and sharing in theater performances. It ensures that the cast's rights and interests are respected and protected.

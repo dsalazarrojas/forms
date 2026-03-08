@@ -1,9 +1,3 @@
-<thinking>
-This form is used to report maritime accidents or incidents to provide a structured and standardized way of collecting information about incidents that occur on or near the water. This form ensures that incident reports are complete, accurate, and easily accessible for review and analysis.
-The form is designed to be completed by individuals who have witnessed or have knowledge about the incident, and it's not meant for public-facing purposes. This guide is intended for those who need to fill out the form, such as crew members, passengers, or shore-based personnel.
-Before starting to fill out the form, ensure that you have the necessary information about the incident. The form can be completed in stages, and it's recommended to save your progress if needed.
-</thinking>
-
 # Maritime Accident Incident Form - Help Guide
 ## Purpose
 

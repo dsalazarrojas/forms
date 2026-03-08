@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for booking a meeting between a kindergarten parent and teacher to discuss the child's progress. The form is likely to be used in an educational institution setting, such as a school. To determine if this form is relevant to your specific use case, please consider the following:
-- Is this form part of a kindergarten program or a similar early childhood educational setup?
-- Is the purpose of the form to facilitate communication between parents and teachers in this context?
-- If you answered yes to both questions, then this form should be relevant to your needs.
-If you're not sure or this doesn't fit your use case, please let me know so we can adapt or create a new form for your specific needs.
-</thinking>
-
 # Kindergarten Parent Teacher Meeting Booking - Help Guide
 ## Purpose
 This form is designed to help parents book a meeting with their child's teacher to discuss their child's progress in kindergarten.

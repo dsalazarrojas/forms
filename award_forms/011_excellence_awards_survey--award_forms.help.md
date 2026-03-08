@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information about the companies participating in the Excellence Awards, such as their type, name, website, and contact details. This information will be used to verify and validate the entries for the awards.</thinking>
-
 # Excellence Awards Survey - Help Guide
 ## Purpose
 The Excellence Awards Survey is a form used to collect details about companies participating in the awards. Please complete this form to provide accurate and complete information about your company.

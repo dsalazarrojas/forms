@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Image Advertisement Form, we need to understand its purpose, how to complete it, and what each field means. 
-
-The form's purpose is to collect information about an image advertisement, including its form data, image, ad URL, description, category, ad type, ad budget, ad cost, ad duration, start and end dates, and ad start and end times. 
-
-The form is likely to be used in an advertising context where users need to create, manage, or report on ad campaigns. 
-
-To avoid duplication of effort, it's essential to check that the form is not already used or filled out.
-
-</thinking>
-
 # Image Advertisement Form - Help Guide
 ## Purpose
 The Image Advertisement Form is used to collect information about an image advertisement for advertising purposes.

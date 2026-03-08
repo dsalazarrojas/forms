@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # publishing_partnership_agreement_form - Help Guide
 
 ## Purpose

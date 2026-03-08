@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to book accommodation for a crew. It's likely used for logistics or management of crew accommodations for events or projects. The form likely needs to be completed by the crew or their representatives to provide necessary information for accommodation booking.
-
-To avoid duplication, it's assumed that the form is only used for booking accommodations for a single crew and not for multiple crews. Repeated use of the form will likely result in duplicate bookings.
-
-</thinking>
-
 # crew-accommodation-booking-form - Help Guide
 ## Purpose
 The crew-accommodation-booking-form is a form used to book accommodations for a crew.

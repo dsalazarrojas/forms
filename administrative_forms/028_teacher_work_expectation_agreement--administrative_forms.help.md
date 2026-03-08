@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture the work expectations and agreement between a teacher and school administrators. The purpose of this form is to outline the teacher's work schedule, availability, and other relevant details that are essential for effective communication and collaboration between teachers and school staff. This form is intended to promote transparency and clear understanding of the teacher's work expectations, ensuring a smooth and productive academic environment. Before proceeding, please ensure that you have the necessary permissions and approvals to complete this form, especially if you are representing a school or institution.
-
-</thinking>
-
 # Teacher Work Expectation Agreement - Help Guide
 ## Purpose
 This form is designed to help teachers and school administrators agree on work expectations, ensuring a clear understanding of teacher's responsibilities and availability.

@@ -1,7 +1,3 @@
-<thinking>
-The form is for requesting audit participation approval. This form is typically submitted by individuals who want to participate in an audit process. The form is reviewed and processed internally by the organization's management or team. It's essential to ensure that the form is filled out correctly to avoid delays in the approval process. To avoid duplication of effort, please check the internal database or system before submitting the form.
-</thinking>
-
 # Audit Participation Approval Application - Help Guide
 ## Purpose
 The Audit Participation Approval Application is a form used to request participation in an audit process. This form is submitted by individuals or teams to express their interest in participating in a specific audit.

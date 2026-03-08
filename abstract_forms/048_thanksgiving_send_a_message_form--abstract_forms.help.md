@@ -1,5 +1,3 @@
-<thinking>This guide provides an overview of the "Thanksgiving send a message form" and its various fields. Its purpose is to allow users to send messages to specific contacts during Thanksgiving, with the option to select the type of contact and the message category. To use this form, follow the steps below.</thinking>
-
 # thanksgiving_send_a_message_form - Help Guide
 ## Purpose
 This form is designed to help users send messages to their family and friends during Thanksgiving, allowing them to express gratitude and appreciation. The form includes fields for the recipient's name, a message to send, the sender's email and phone number, and options for the category and type of contact.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess the readiness of trainers for training. The goal is to gather information about the trainer's experience, qualifications, and other relevant details to evaluate their readiness to conduct training sessions. This form should only be filled out by trainers who are already familiar with the training process and have a basic understanding of the questions being asked.
-
-Before starting the assessment, please note that the fields marked as "required" are essential to complete this form. If you are unsure about any field, please refer to this guide for guidance.
-
-</thinking>
-
 # trainer_readiness_assessment - Help Guide
 ## Purpose
 The trainer_readiness_assessment form is designed to evaluate the qualifications and readiness of trainers to conduct training sessions.

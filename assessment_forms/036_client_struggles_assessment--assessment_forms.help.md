@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Struggles Assessment - Help Guide
 ## Purpose
 This form is designed to help you identify and assess your client's key challenges and goals. By providing detailed information about their struggles, you will be able to better understand their business needs and develop targeted solutions.

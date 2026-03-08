@@ -1,8 +1,3 @@
-<thinking>
-This form is used for accessing medical lab services. The user will be asked to provide their access level, reason for access, preferred location, medical supervisor, and emergency contact information. This form should only be filled out by authorized users. If the user is already a healthcare provider, they should already possess the necessary credentials and access level. In that case, this form is for administrative purposes only.
-
-</thinking>
-
 # Medical Lab Access Form - Help Guide
 
 ## Purpose

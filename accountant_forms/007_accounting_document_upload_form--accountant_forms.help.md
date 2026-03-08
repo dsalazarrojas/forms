@@ -1,14 +1,3 @@
-<thinking>
-This help guide is to be used to onboard new users to the "Accounting Document Upload Form" in the context of accountants and bookkeepers. The form is designed to collect metadata about uploaded documents, ensuring accurate and efficient processing. To ensure the form is completed correctly, the following steps should be taken:
-
-- Ensure the form is relevant to the user's current task or workflow. If not, please refer to the relevant section of the form for guidance.
-- Review the form's purpose and ensure the user has a clear understanding of its intended use.
-- Fill out the form completely and accurately to avoid delays or errors in processing.
-
-The form is designed to collect metadata about uploaded documents for efficient processing. Users who are not familiar with accountants' terminology may require additional training or guidance.
-
-</thinking>
-
 # Accounting Document Upload Form - Help Guide
 ## Purpose
 This form is used to collect metadata about uploaded documents for efficient processing and accurate accounting. It helps ensure that the uploaded documents are properly handled and indexed.

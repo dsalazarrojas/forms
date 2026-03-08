@@ -1,12 +1,3 @@
-<thinking>
-This form is used to report engine light issues on vehicles. The form is designed to be a checklist-style input where users can report various issues related to vehicle lights, such as headlight, taillight, brake light, etc. 
-
-To ensure the form is completed correctly and accurately, users should ensure they have the vehicle's registration number or any other relevant vehicle information ready. The form should not be used to report non-vehicle related issues.
-
-The form consists of 10 fields, each designed to capture a specific piece of information about the vehicle's lights. Users are not required to complete all fields, but should provide as much detail as possible to help with troubleshooting and diagnosis.
-
-</thinking>
-
 # vehicle_check_engine_light_issue_report_form - Help Guide
 ## Purpose
 This form is used to report engine light issues on vehicles.

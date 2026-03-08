@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about a STEM fair event and its participants. The form is designed to be completed by event organizers to provide details about the event, such as the name, date, and location, as well as the number of participants and their names. The form is likely used for administrative purposes to track and record event information.
 
 # STEM Fair Attendance Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the vehicle_safety_assessment_form is to collect information about the safety standards and condition of a vehicle. This form likely exists to assess the vehicle's safety features, such as whether it meets certain safety standards, and to document any potential issues or conditions that may affect its safety. Before filling out this form, ensure that you have access to the relevant information and that you are not duplicating a previously completed assessment.
-</thinking>
-
 # vehicle_safety_assessment_form - Help Guide
 
 ## Purpose

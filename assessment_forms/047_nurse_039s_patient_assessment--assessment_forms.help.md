@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form, "Nurse's Patient Assessment," is to collect essential information from medical professionals about a patient's condition. This form gathers data on vital signs, medical history, allergies, lab results, medications, and patient outcome to facilitate comprehensive patient care. Before you begin, check if this form is relevant to your needs and ensure you're not duplicating efforts with existing assessments.
-
-</thinking>
-
 # Nurse's Patient Assessment - Help Guide
 ## Purpose
 This form is designed to collect patient data from medical professionals for assessment and decision-making. Please fill it out according to your professional judgment and expertise.

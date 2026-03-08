@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for account holders to request modifications to their account information. The form is likely used by customers or users who need to update their personal details, billing information, or other account settings. It is likely used in a business or organizational context where accounts and their associated data need to be managed. This form is probably part of a larger system for managing customer or user data.
-</thinking>
-
 # Account Modification Request Form - Help Guide
 ## Purpose
 The Account Modification Request Form is a form used to request changes to existing account information. This form allows account holders to update their personal details, billing information, or other account settings.

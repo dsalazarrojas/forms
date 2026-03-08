@@ -1,7 +1,3 @@
-<thinking>...
-To start with, let's consider that this form is part of a larger application process for potential Discord staff. It seems the form is intended to capture relevant details from applicants about their server preferences, experiences, and availability. This form might serve as the first step in the hiring process, helping the staff team determine whether applicants are suitable for Discord staff positions. This form likely aims to streamline the application process, providing a clear and concise way to collect necessary information. It's essential to ensure the form doesn't get duplicated or filled out multiple times. This form's structure and fields should be well-documented to avoid confusion and ensure users have a smooth experience. To prevent duplication, a system or process should be established to track form submissions and prevent applicants from reapplying for the same position. By providing clear instructions and explanations for each field, this form guide will help applicants understand what's expected of them and increase the likelihood of accurate and relevant submissions. 
-
-</thinking>
 # Discord Staff Application Form - Help Guide
 ## Purpose
 The Discord Staff Application Form is designed to collect information from applicants interested in joining the Discord team. It's the first step in the application process for Discord staff positions. This form helps the staff team to determine your suitability for the role and gather necessary details to assess your application.

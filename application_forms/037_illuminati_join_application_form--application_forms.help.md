@@ -1,7 +1,3 @@
-<thinking>
-We must ensure that the Illuminati Join Application Form is completed with the correct information to accurately assess potential members' applications. This form is designed to prevent duplicate applications and verify the identity of new recruits. To prevent duplicate applications, we will verify user-provided information, such as email and phone numbers, with existing member data. This form is also used to collect relevant data about the applicant, like their reason for joining the Illuminati and preferred role within the organization. By carefully completing this form, applicants can provide essential details about themselves, which will be reviewed by our team to determine eligibility.
-</thinking>
-
 # Illuminati Join Application Form - Help Guide
 ## Purpose
 The Illuminati Join Application Form is a crucial tool for potential members to submit their applications and for our team to verify their eligibility. This form gathers essential information about you, such as your name, contact details, and preferred role within the organization.

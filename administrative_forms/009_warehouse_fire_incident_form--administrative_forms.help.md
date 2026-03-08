@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warehouse Fire Incident Form - Help Guide
 ## Purpose
 This form is used to report and document incidents of fire in the warehouse. It captures essential information to aid in the investigation, assessment, and prevention of future fires. 

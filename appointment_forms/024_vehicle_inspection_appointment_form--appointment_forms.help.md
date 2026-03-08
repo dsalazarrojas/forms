@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for scheduling vehicle inspections. The form is used for customers to submit their vehicle information and preferred inspection times for a service representative to review. It's meant to be used for customers who are looking to get their vehicle inspected and repaired. The form has eight fields in total. This guide will walk through each field in detail to ensure customers know what to expect.
-</thinking>
-
 # vehicle_inspection_appointment_form - Help Guide
 ## Purpose
 The purpose of this form is to schedule a vehicle inspection and collect relevant information from the customer.

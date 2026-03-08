@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Art Gallery Frames Requisition Form - Help Guide
 ## Purpose
 The Art Gallery Frames Requisition Form is used by departments to request new art frames for exhibitions or educational purposes. The form helps the art gallery's procurement team to track and process these requests in a structured and efficient manner.

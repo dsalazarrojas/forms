@@ -1,10 +1,3 @@
-<thinking>
-This form is likely designed for customers to acknowledge a rock chip repair, providing essential information such as their contact details, repair details, and appointment schedules. 
-The form's structure suggests it's for internal use within a business or organization, possibly for administrative purposes like tracking customer repairs. 
-Before proceeding with this guide, ensure the form is not already completed by the customer or that any previously submitted information is discarded to avoid confusion.
-The form's field types and labels imply it's primarily for capturing text-based information, with a mix of required and optional fields for different types of data, such as phone numbers, emails, and dates.
-</thinking>
-
 # Rock Chip Repair Acknowledgment Form - Help Guide
 ## Purpose
 This form is designed for customers to acknowledge a rock chip repair, providing essential information such as their contact details, repair details, and appointment schedules.

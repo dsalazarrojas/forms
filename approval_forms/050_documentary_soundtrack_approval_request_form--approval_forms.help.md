@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for documentary soundtracks and request approval from a project manager or other approvers. It is intended for project team members to submit requests for approval of documentary soundtracks, which can be in various stages of completion.
 
 The form should not be used for non-documentary projects or for requests that are not soundtracks.

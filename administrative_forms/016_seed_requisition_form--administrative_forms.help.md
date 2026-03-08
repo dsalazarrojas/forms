@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for seed requisitions, which are requests for seeds from users. This form is used to collect details about the seed, the source of the seed, and the user's preferences for the seed. This form is likely used in a business or agricultural setting where seeds are requested or supplied. The form should only be used for requesting seeds, not for other types of administrative tasks or non-seed related purposes. 
-</thinking>
-
 # seed_requisition_form - Help Guide
 ## Purpose
 The seed requisition form is a tool used to request seeds from a supplier. It captures essential details about the seed, the seed source, and the user's preferences, ensuring accurate and efficient seed requisitioning.

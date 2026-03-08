@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Document Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize and track legal documents. It is used to provide a record of who has authorized a document, when it was authorized, and what its status is.

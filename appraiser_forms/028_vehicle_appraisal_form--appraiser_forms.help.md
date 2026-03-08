@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Appraisal Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to register their bank account information. It captures personal data such as name, date of birth, contact information, and employment details, which will be used to open a new account at the bank. To ensure accuracy, please review your information carefully before submitting the form. Ensure you provide valid and up-to-date information to avoid any errors or delays in account opening. This form is the first step in the account opening process, and all fields are required to be filled out in order to proceed with the account opening process.
-</thinking>
-
 # Bank Account Registration Form - Help Guide
 ## Purpose
 This form is used to register a new bank account and capture relevant personal data.

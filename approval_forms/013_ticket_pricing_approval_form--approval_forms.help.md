@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for ticket pricing approval purposes, allowing users to review and approve or reject ticket pricing proposals. Before starting, please ensure that you are familiar with the ticket pricing process and have all necessary information at hand to complete this form accurately. Please note that this form does not need to be filled out if the ticket pricing proposal is already approved or if you are not responsible for approving it.
-</thinking>
-
 # Ticket Pricing Approval Form - Help Guide
 ## Purpose
 This form is used for reviewing and approving or rejecting ticket pricing proposals.

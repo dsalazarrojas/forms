@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect employee recognition and award applications. The purpose of this form is to gather information about a proposed award or recognition for an employee's outstanding work or contributions. To avoid duplication, please ensure that you're not submitting duplicate applications for the same award or nomination.
-
-The form has 8 fields that are categorized into different sections. The following guide will walk you through how to complete each field and what it's used for.
-</thinking>
-
 # employee_recognition_award_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect employee recognition and award applications. It gathers information about proposed awards or recognitions for outstanding work or contributions.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the wheelchair usage of patients, specifically focusing on their mobility level, user capacities, equipment needs, and safety concerns. The form is structured to gather essential information that will help healthcare providers understand the patient's needs and develop an effective follow-up plan. It also includes fields for other relevant details such as follow-up schedule, contact information, and patient status.
-To confirm the form's purpose is to assess wheelchair usage, it is essential to ensure that the form's fields align with this goal. The fields provided cover various aspects of the patient's needs, including their mobility level, user capacities, equipment needs, and safety concerns. This form will help healthcare providers identify the patient's requirements and develop an effective follow-up plan.
-</thinking>
-
 # Wheelchair Usage Assessment Checklist - Help Guide
 ## Purpose
 The Wheelchair Usage Assessment Checklist is a form designed to gather information about a patient's wheelchair usage, including their mobility level, user capacities, equipment needs, and safety concerns. This form helps healthcare providers understand the patient's needs and develop an effective follow-up plan.

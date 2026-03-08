@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to validate and record work hours for employees, ensuring that they have accurately reported their working hours. This form is likely used in a work-related or HR context to ensure that employees are correctly tracking their work hours. Before proceeding, please ensure that you are submitting the correct form for your specific use case and that you have the necessary information to complete it accurately. If you are unsure, please reach out to the relevant team or department for clarification. Additionally, be aware that if you submit duplicate or incomplete forms, it may lead to incorrect or duplicate records.</thinking>
-
 # Work Hours Validation Form - Help Guide
 ## Purpose
 This form is used to validate and record work hours for employees, ensuring that they have accurately reported their working hours.

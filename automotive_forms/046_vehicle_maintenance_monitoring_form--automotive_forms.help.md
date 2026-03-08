@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "vehicle_maintenance_monitoring_form" is used to collect and track information about a vehicle's maintenance schedule, service history, and other relevant details. This form is designed to help users monitor and manage their vehicle's maintenance needs in a structured and organized way. The form is likely used by fleet managers or owners to keep track of multiple vehicles and their respective maintenance requirements.
 
 # vehicle_maintenance_monitoring_form - Help Guide

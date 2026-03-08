@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Furniture Appointment Form - Help Guide
 
 ## Purpose

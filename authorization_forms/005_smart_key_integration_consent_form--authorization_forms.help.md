@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to obtain consent from individuals or entities for integrating their Smart Lock systems with the Smart Key system. The form is used to gather information on the category, description, and access details of the Smart Lock system, as well as any integration keys or passwords required for the integration. Before completing the form, please ensure that you have the necessary authority to grant access and that the integration is not a duplicate request. The form is intended for internal use within the organization, and the information collected will only be used for the purpose of integrating the Smart Lock system.
-
-</thinking>
-
 # Smart Key Integration Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the Scientific Research Abstract Entry Form, designed to collect information about scientific research projects. This form is intended for researchers to provide a brief summary of their research, including details about the project's purpose, scope, and outcome. The form is divided into several sections, each collecting different types of information. Before starting, ensure you are not duplicating existing research abstracts. To complete the form, follow these steps:
 
 # Scientific Research Abstract Entry Form - Help Guide

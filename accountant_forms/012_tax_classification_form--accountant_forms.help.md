@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to provide general information, vendor information, payment information, and tax classification details for vendors and contractors. The form has several fields that categorize tax status, payment methods, and other relevant details for both vendors and contractors. It is essential to fill out this form accurately to ensure proper tax classification and payment processing. 
-
-Please ensure that you have reviewed the provided fields and understand the requirements before proceeding. If you have any doubts, please refer to the form's field explanations below.
-
-</thinking>
-
 # Tax Classification Form - Help Guide
 ## Purpose
 The Tax Classification Form is a crucial document used to classify tax statuses, payment methods, and other relevant details for both vendors and contractors. It is essential to complete this form accurately to ensure proper tax classification and payment processing.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for scheduling appointments with medical equipment representatives. The form is intended for representatives to provide their availability and the type of appointment they will be conducting, such as a medical equipment inspection or training session. The form will be used by the medical equipment team to manage and coordinate appointments.
-
-When creating this form, I considered the need to provide a clear and concise way for representatives to provide their availability and the type of appointment. This form will be used by both the medical equipment team and the representatives to ensure accurate and efficient scheduling.
-
-The form fields are designed to be easy to fill out and will help ensure that the necessary information is captured for each appointment.
-
-</thinking>
-
 # Medical Equipment Representative Appointment Form - Help Guide
 
 ## Purpose

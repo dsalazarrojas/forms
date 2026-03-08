@@ -1,7 +1,3 @@
-<thinking>
-This form was created using a combination of AI and survey metadata, and is intended to help businesses assess their overall health and wellness. To complete this form, the respondent should have a deep understanding of their organization's current state and be able to provide honest and accurate answers. Please ensure that you have the necessary permissions to complete this form on behalf of your organization. If you have any questions or concerns, please contact us at form@gic.mx.
-</thinking>
-
 # Business Health Assessment Survey - Help Guide
 ## Purpose
 The Business Health Assessment Survey is designed to evaluate a company's overall well-being by gathering information on various aspects of its performance. The survey includes questions about financial stability, operational efficiency, customer satisfaction, major challenges, strategic priorities, readiness for change, and additional comments.

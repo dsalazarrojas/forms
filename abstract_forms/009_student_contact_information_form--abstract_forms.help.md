@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide that effectively communicates the purpose and requirements of the Student Contact Information Form, we need to ensure that users understand the form's intended use, how to complete it, and what each field represents. Given the provided YAML structure, the form appears to be designed to collect contact information for students, including emergency contacts. The form likely serves as a means to gather essential details to maintain accurate and up-to-date student records. 
-
-The form seems to be optional for all fields, which means that users can choose to fill in as much or as little information as they need, depending on their circumstances. This could be due to variations in student circumstances or potential data limitations. 
-
-Considering the form's purpose and structure, it's essential to ensure users understand each field's significance to avoid confusion or missed essential information. The provided labels and hints already offer a good starting point for clarity, but further explanation should be provided to ensure users can accurately complete the form.
-
-</thinking>
-
 # Student Contact Information Form - Help Guide
 ## Purpose
 The Student Contact Information Form is designed to collect essential details about students, including their contact information and emergency contacts. This form helps maintain accurate and up-to-date student records.

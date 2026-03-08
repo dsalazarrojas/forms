@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to provide a structured way for users to request an evaluation or appraisal of a rug. This form likely helps assessors or experts determine the condition, quality, and value of the rug. It's possible that the form is used in a business or professional setting, such as an auction house, art gallery, or antique shop. 
-
-To complete this form, the user will need to provide basic information about the rug, including a unique identifier, a name or description, and a photo URL. The user will also need to select the type of evaluation or appraisal they require, which could be for various purposes such as Appraisal, Restoration, Resale, or Inspection. 
-
-To ensure that the form is filled out correctly, the user should make sure to provide accurate and complete information in each field. The form will likely be reviewed by an expert or assessor, so it's essential to provide clear and concise information.
-
-</thinking>
-
 # Rug Evaluation Request Form - Help Guide
 ## Purpose
 The Rug Evaluation Request Form is a tool used to request an evaluation or appraisal of a rug from experts or assessors. This form helps to gather essential information about the rug, allowing the assessor to provide an accurate and informed evaluation.

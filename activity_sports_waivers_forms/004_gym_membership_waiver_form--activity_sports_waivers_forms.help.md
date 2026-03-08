@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from new members of a gym or fitness center, typically for the purposes of obtaining a waiver or liability release. The information collected will likely be used to protect the gym/fitness center from potential legal issues and to identify any potential risks or hazards associated with new members participating in activities. This form is typically filled out when a new member first signs up for a gym/fitness center membership or upon request.
-
-Before filling out this form, ensure that you understand what each field is asking for and that you're answering accurately and truthfully. This form is not meant to be time-consuming, so please take your time and provide clear information.
-
-This form has 4 pages with 5 fields in total.
-
-</thinking>
-
 # gym_membership_waiver_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from new members of a gym or fitness center, allowing them to provide their medical history, emergency contact information, and any other required details for liability release and safety precautions.

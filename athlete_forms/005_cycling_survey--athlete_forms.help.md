@@ -1,18 +1,3 @@
-<thinking>
-This is a form for collecting information about individuals who participate or plan to participate in cycling events, such as racers, enthusiasts, or hobbyists. The purpose of this form is to gather information about their experience, skills, and training habits.
-
-The form asks the individual about their general information (page 1), cycling experience (page 2), cycling facts (page 3), and skills, fitness level, time management, and physical condition (page 4-5). It also asks for specific details about their training habits, such as training hours, frequency, intensity, and location (page 6-7). Finally, it asks about their racing habits, including distance, frequency, and location (page 8-9), and other miscellaneous information such as finishers, dropped out, and bike type (page 10-11).
-
-Before filling out the form, please ensure that you are answering the questions accurately and honestly, and that you are not duplicating information that is already known to you or your team.
-
-Please note that some questions may overlap, and answers may influence other questions. Make sure to read each question carefully before answering.
-
-Also, please note that some answers may be required or optional, so make sure to fill in all the required information before submitting the form.
-
-To fill out the form, simply go through each page and answer the questions accordingly. If you are unsure about any question, please ask for clarification or advice from your team.
-
-</thinking>
-
 # Cycling Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your cycling experience, skills, and habits to help us better understand your needs and provide you with more accurate and relevant information.

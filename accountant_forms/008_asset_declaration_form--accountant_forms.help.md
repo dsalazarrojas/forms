@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Asset Declaration Form - Help Guide
 
 ## Purpose

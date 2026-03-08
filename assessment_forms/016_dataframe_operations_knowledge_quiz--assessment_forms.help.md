@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the user's knowledge on various aspects of data manipulation, specifically regarding DataFrames, a type of data structure in data science and engineering. 
-
-The form consists of multiple questions, each targeting a different aspect of DataFrame operations, such as selecting options, choosing dates, typing text, choosing single selections, selecting times, entering numbers, adding notes, and providing email addresses.
-
-To fill out this form, users must go through each page of questions, which will be explained individually. Users can submit the form once they have provided all required answers.
-
-The form does not store or retain user input data, so users can fill it out anonymously, if desired.
-</thinking>
-
 # DataFrame Operations Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess the user's knowledge on various aspects of DataFrames.

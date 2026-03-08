@@ -1,5 +1,3 @@
-<thinking>As the form is designed for internal fund transfer authorization, its purpose is to facilitate the process of transferring funds within an organization. This form will help users authorize or reject internal fund transfers based on certain criteria such as transfer type, source and destination accounts, date and time of transfer, transfer amount, reason for transfer, and approval status. It is essential to ensure that the form is filled out correctly to avoid any confusion or misinterpretation. Please review the following guide to understand each field's relevance and requirement.</thinking>
-
 # Internal Fund Transfer Authorization Application Form - Help Guide
 ## Purpose
 This form is used to request authorization for internal fund transfers within the organization. It helps management to track and approve or deny transfer requests based on the submitted criteria.

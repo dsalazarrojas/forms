@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # experience_letter_request_form - Help Guide
 ## Purpose
 The Experience Letter Request Form is used to request an experience letter for an employee. This form helps gather necessary information from the employee to facilitate the process of generating an experience letter.

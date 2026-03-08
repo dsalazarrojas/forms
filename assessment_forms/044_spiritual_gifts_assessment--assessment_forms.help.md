@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and completion process of the Spiritual Gifts Assessment form. The form is designed to help users identify their spiritual gifts and describe their experiences with the Holy Spirit. Each section of the form is intended to be completed based on the user's personal experiences and reflections. Please take a moment to review the form carefully and ensure that you are using it for its intended purpose and within your personal and organizational guidelines.
-</thinking>
-
 # Spiritual Gifts Assessment - Help Guide
 ## Purpose
 The Spiritual Gifts Assessment form is designed to help users reflect on their experiences with the Holy Spirit and identify their spiritual gifts. This form will guide you through a series of questions and prompts to help you better understand your spiritual gifts and how to use them in your life.

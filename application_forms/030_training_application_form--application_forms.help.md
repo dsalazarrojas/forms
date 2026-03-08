@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we first need to understand the form's purpose and ensure that it's not being used for duplicate applications. This form is designed to collect information from individuals who want to apply for training programs. To prevent duplicate applications, we can add a unique identifier or timestamp to each application. This form should only be completed by individuals who have not already submitted an application. We will need to implement a system to check for duplicate applications and prevent users from submitting multiple applications with the same participant name and email address.
-</thinking>
-
 # Training Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who want to apply for training programs. Please ensure that you have not already submitted an application and that you have a valid reason for applying for the training.

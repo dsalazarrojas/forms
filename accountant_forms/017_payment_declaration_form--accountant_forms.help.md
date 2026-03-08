@@ -1,10 +1,3 @@
-<thinking>
-This form is used for declaring payments made to the organization. The purpose of this form is to capture details about the payment, including the type of payment, date, amount, and other relevant information. This form is likely used for accounting and financial purposes within the organization. It is intended for end-users to declare payments they have made, and the details captured will be used to update the organization's financial records.
-
-To ensure the form is completed accurately and efficiently, we will go over each field and its purpose in this guide.
-
-</thinking>
-
 # Payment Declaration Form - Help Guide
 ## Purpose
 The Payment Declaration Form is a tool used to capture details about payments made to the organization. This form helps to update the organization's financial records and is essential for accurate accounting and reporting.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to document and assess changes to business processes. It will ask for details about the change, its impact, risks, benefits, next steps, and related dates. This form will likely be used for internal documentation and decision-making within the organization, such as identifying and addressing potential risks or opportunities arising from changes made to business processes. It's recommended to only fill out this form if the process change is significant enough to warrant detailed documentation and review.
 
 # Process Change Assessment Form - Help Guide

@@ -1,18 +1,3 @@
-<thinking>
-This form is used to submit requests for changes to existing bookings, such as changing the dates or room types, adding or removing guests, and requesting additional services. It is essential to ensure that the information provided is accurate and complete, as it will help the accommodation staff to process the requests efficiently and effectively.
-
-Before filling out this form, please ensure that you have reviewed your booking details carefully and that the changes requested are feasible and within the accommodation's policies. To prevent errors, double-check that you have filled out the correct information and that the requests are clear and specific.
-
-This form is designed to gather all the necessary details for the requested changes, and the information will be used to process your request. Please provide as much detail as possible, and make sure to fill out all required fields.
-
-Before submitting the form, please review it carefully to ensure that all fields are correctly filled out and that the requests are clear and reasonable. If you are unsure about any field or have any questions, please feel free to contact our support team for assistance.
-
-The form is divided into several sections, each with a specific purpose. Please take a few minutes to review each section carefully to ensure that you provide all the necessary information.
-
-This form will be reviewed and processed by the accommodation staff, who will verify the information and follow up with you to confirm the changes. Please be patient and allow sufficient time for the staff to process your request.
-
-To submit the form, click the "Submit" button. Your request will be processed, and you will be informed of the outcome.</thinking>
-
 # Accommodation Variation Request Form - Help Guide
 ## Purpose
 This form is used to submit requests for changes to existing bookings.

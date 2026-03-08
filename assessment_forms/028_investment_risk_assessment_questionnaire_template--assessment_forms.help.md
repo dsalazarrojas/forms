@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for assessing an individual's investment risk tolerance and other relevant factors that may impact their investment decisions. It's crucial that the user completes this form accurately to ensure the most suitable investment recommendations are made. This form should not be filled out by anyone who is not familiar with investment strategies or does not have a basic understanding of the investment process. Please ensure you have a general understanding of investing before proceeding. This form will only need to be filled out once, and you can refer to it later to track your progress or adjust your answers as your circumstances change.
-</thinking>
-
 # Investment Risk Assessment Questionnaire Template - Help Guide
 ## Purpose
 This form is designed to help you understand your investment risk tolerance and other key factors that impact your investment strategy.

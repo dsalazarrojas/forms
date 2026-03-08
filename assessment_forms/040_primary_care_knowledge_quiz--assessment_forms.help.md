@@ -1,10 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "primary_care_knowledge_quiz" form. This form is used to assess the knowledge of primary care, a medical field that focuses on providing comprehensive care to patients with a variety of health needs. The purpose of this form is to evaluate the respondent's understanding of primary care concepts, practices, and principles.
-
-We will use the provided YAML fields to generate explanations for each field. We will also use the "required" field to determine if a field is mandatory or optional for the user to complete.
-
-</thinking>
-
 # primary_care_knowledge_quiz - Help Guide
 ## Purpose
 The primary_care_knowledge_quiz form is used to assess the knowledge of primary care, a medical field that focuses on providing comprehensive care to patients with a variety of health needs.

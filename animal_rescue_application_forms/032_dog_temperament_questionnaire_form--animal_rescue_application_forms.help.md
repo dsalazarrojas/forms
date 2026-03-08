@@ -1,5 +1,3 @@
-<thinking>This form is designed to capture information about a dog's temperament, health, and other essential details. Please only fill out this form if you are a shelter staff member or a member of a rescue group. If you are a shelter or rescue group, please use this form to ensure accurate and consistent data entry for your organization's records.</thinking>
-
 # Dog Temperament Questionnaire Form - Help Guide
 ## Purpose
 The Dog Temperament Questionnaire Form is a tool used by shelters and rescue groups to gather information about a dog's behavior, health, and other essential details. This form helps ensure accurate and consistent data entry for your organization's records.

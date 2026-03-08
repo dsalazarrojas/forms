@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a Tax Credits Due Diligence Questionnaire, which is used to assess an entity's eligibility for tax credits. This form is typically used by accountants or tax professionals to verify the accuracy of an entity's tax credit claims. The form is used to collect general information, financials, qualifying activities, supporting documents, tax credits, and other relevant details about the entity.
-</thinking>
-
 # Tax Credits Due Diligence Questionnaire - Help Guide
 ## Purpose
 The Tax Credits Due Diligence Questionnaire is a form used to gather information to assess an entity's eligibility for tax credits. It is typically used by accountants or tax professionals to verify the accuracy of an entity's tax credit claims.

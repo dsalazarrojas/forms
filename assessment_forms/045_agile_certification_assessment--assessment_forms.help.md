@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Agile Certification Assessment. The purpose of this assessment is to evaluate the knowledge and skills of a candidate for the Agile certification. The assessment includes various fields that ask for personal and performance-related information. To ensure accurate and complete data, please make sure to provide all required fields and follow the instructions for each field carefully. If you have any doubts or questions, please refer to this help guide for clarification.
-</thinking>
-
 # Agile Certification Assessment - Help Guide
 ## Purpose
 The Agile Certification Assessment is designed to evaluate the knowledge and skills of candidates for the Agile certification. It collects information on the candidate's personal details, assessment performance, and other relevant data.

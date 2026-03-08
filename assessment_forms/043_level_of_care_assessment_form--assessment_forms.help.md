@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to assess the level of care required for a patient. The form will likely be used in a healthcare setting, such as a hospital or clinic, to determine the appropriate level of care for a patient's rehabilitation program. This level of care assessment form is likely to be used to identify the level of care required for patients who are in need of rehabilitation, such as physical therapy or occupational therapy.
-
-Before completing this form, please ensure that you have not already completed it for this patient. This will save time and effort, and ensure that you are not wasting resources on unnecessary assessments.
-
-</thinking>
-
 # level_of_care_assessment_form - Help Guide
 ## Purpose
 The Level of Care Assessment Form is used to assess the level of care required for a patient's rehabilitation program.

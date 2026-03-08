@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Library Room Reservation Access Form - Help Guide
 ## Purpose
 This form is used to reserve a library room for a specific period. It allows you to provide details about the date, time, and room preferences for your reservation.

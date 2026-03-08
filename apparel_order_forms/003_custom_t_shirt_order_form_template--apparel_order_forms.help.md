@@ -1,8 +1,3 @@
-<thinking> 
-This form template is designed to help businesses create a custom T-shirt order form for their customers. It captures essential customer and order information, including customer contact details, payment information, order total, shipping address, and any custom fields that the customer may require. The form is divided into several sections, each with a specific purpose. The fields are labeled and explained in the following guide to ensure that both customers and businesses can easily understand the form and its requirements.
-
-</thinking>
-
 # Custom T Shirt Order Form Template - Help Guide
 ## Purpose
 The Custom T Shirt Order Form Template is designed to collect essential information from customers for custom T-shirt orders.

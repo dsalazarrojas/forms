@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for identity verification and authorization purposes, likely for onboarding new clients or verifying existing ones. It's a multi-page form with fields for client information, verification method, document upload, client and user confirmation, signature upload, and review of results. The form is not a required field for any of the fields, which is unusual for an authorization form. This form might not be the primary means of authorization, but rather a supplement to other processes. It's essential to verify that the form is not a duplicate for the end-user.
-</thinking>
-
 # identity_verification_authorization_form - Help Guide
 ## Purpose
 The Identity Verification Authorization Form is used to verify the identity of clients and ensure they are authorized to access certain resources or systems. This form helps to confirm the client's information, their chosen verification method, and other necessary details to complete the authorization process.

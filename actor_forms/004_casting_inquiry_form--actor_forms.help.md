@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Casting Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in casting inquiries for various productions. It helps us understand your qualifications, interests, and availability to determine the suitability for potential roles.

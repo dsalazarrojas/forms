@@ -1,10 +1,3 @@
-<thinking>
-We must carefully design this form to ensure that end users understand what is happening. This form is meant to notify the selected managers about a pay rate change for the employee selected. The managers' input on the form will trigger a notification to them, and they will need to review the details of the change.
-
-We should check if there is any internal reasoning already established for the form. Let's assume for the sake of the exercise that there's no established internal reasoning and that the form's purpose and fields are straightforward.
-
-</thinking>
-
 # Pay Rate Change Notification - Help Guide
 ## Purpose
 The "Pay Rate Change Notification" form is designed to notify selected managers about pay rate changes for a specified employee. 

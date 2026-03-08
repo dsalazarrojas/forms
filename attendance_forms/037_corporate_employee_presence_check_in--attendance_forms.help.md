@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to report their presence and status in the company. The form will help managers and administrators track attendance, employee locations, and departmental approvals. It's essential to fill out this form accurately to ensure that employee presence and attendance are recorded correctly. Please make sure to complete this form for each employee on the check-in date specified, and ensure that all required fields are filled out accordingly. 
-Please note that the form is divided into multiple pages. Each page has its own set of fields. Make sure to go through each page to fill out all the necessary information. 
-</thinking>
-
 # Corporate Employee Presence Check In - Help Guide
 ## Purpose
 The Corporate Employee Presence Check In form is a tool for employees to report their presence and status in the company. It helps managers and administrators track attendance, locations, and departmental approvals.

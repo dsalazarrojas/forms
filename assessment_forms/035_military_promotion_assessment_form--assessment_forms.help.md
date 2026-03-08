@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help military personnel understand the purpose and requirements of the Military Promotion Assessment Form. To ensure that the form is completed correctly, please read this guide carefully and follow the instructions provided. This form is used to assess an individual's eligibility for promotion within the military. It includes various sections to gather information about the candidate's military service, promotion status, and recommendations from superiors. The form is divided into several sections, each with its own purpose and set of questions. Please note that some questions may be required or optional, and the answers must be accurate and truthful. This guide will explain each section and question in detail, so you can complete the form with confidence.
-</thinking>
-
 # Military Promotion Assessment Form - Help Guide
 
 ## Purpose

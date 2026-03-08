@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect contact information and scheduling details for device pick-up appointments. It's intended for customers or clients to provide their contact details and preferences for a convenient and hassle-free experience.
-To complete this form, follow these steps:
-1. Scroll down to the first page of the form, "Contact Details".
-2. Provide your name, phone number, and email address as required in the "Contact Details" section.
-3. Move on to the next page, "Locations", and select your preferred location for the device pick-up.
-4. Finally, move to the "Preferred Appointment" page and select your preferred appointment date and time.
-This form is designed to be completed in a sequential manner, with each page building upon the previous one.
-</thinking>
-
 # Device Pick Up Scheduling Form - Help Guide
 ## Purpose
 The purpose of this form is to collect contact information and scheduling details for device pick-up appointments.

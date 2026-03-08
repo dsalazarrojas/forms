@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the Mental Health Review Appointment Form Template. This template is used for scheduling and managing mental health reviews appointments. The form should only be used for its intended purpose and not for any other type of appointment scheduling. Please ensure that you understand the form's purpose before proceeding. This guide is designed to explain each field's purpose and requirements to help you complete the form accurately and efficiently.
-</thinking>
-
 # Mental Health Review Appointment Form Template - Help Guide
 ## Purpose
 The Mental Health Review Appointment Form Template is a form used for scheduling and managing mental health reviews appointments. It helps healthcare professionals gather necessary information from patients before and after appointments to ensure accurate and complete care.

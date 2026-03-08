@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to request authorization for a flight. The form will ask for basic information about the flight plan and any unusual circumstances that may affect the flight. This form is intended for use by travelers, airlines, or flight operators to document and approve flight plans. 
-
-Before completing this form, ensure that you are authorized to access and modify flight information within your organization. This form may need to be reviewed and approved by relevant authorities before the flight can take place.
-
-**Please note that the following fields are not explicitly mentioned as required, so they may be completed optionally.**
-
-</thinking>
-
 # Flight Authorization Form - Help Guide
 ## Purpose
 This form is designed for users to request authorization for a flight. It is intended to gather information about the flight plan and any unusual circumstances that may affect the flight.

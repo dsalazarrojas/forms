@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for employees to request access to a roof area. To use this form, the employee should be able to identify the specific roof area they need access to and provide necessary details such as the start and end shift, date of request, and reasons for access.
-
-It is recommended that employees fill in their details and reasons for access accurately and honestly. The manager or admin will review the request and approve or reject it based on their discretion. It's worth noting that this form will only be used to request access to roof areas and not for other purposes.
-
-Before filling out this form, ensure that you have all the necessary information and that it is complete and accurate. Please review the form carefully before submitting it for approval.
-
-</thinking>
-
 # Roof Access Permission Request Form - Help Guide
 ## Purpose
 The Roof Access Permission Request Form is used to request access to a roof area by employees. This form helps employees to accurately and formally communicate their request to their manager or admin for access to a specific roof area.

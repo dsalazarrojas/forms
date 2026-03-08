@@ -1,9 +1,3 @@
-<thinking> 
-  We need to create a help guide for the Letter Of Agency (LOA) Form Template. This form template is used for creating letters of agency, which are documents that authorize one party to act on behalf of another in a business or legal context. 
-  The goal of this form is to provide a standardized way to create and manage letters of agency, making it easier to understand and fill out by users. 
-  Before starting, ensure that the purpose of this form is clear and that you are not creating a duplicate letter of agency.
-</thinking>
-
 # Letter Of Agency (LOA) Form Template - Help Guide
 ## Purpose
 The Letter Of Agency (LOA) Form Template is used to create and manage letters of agency. These documents authorize one party to act on behalf of another in a business or legal context.

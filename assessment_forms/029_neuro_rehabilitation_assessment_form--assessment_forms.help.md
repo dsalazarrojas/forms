@@ -1,5 +1,3 @@
-<thinking>...The neurorehabilitation assessment form is designed to collect comprehensive data from patients undergoing neurorehabilitation. This includes general information, medical history, treatment plans, and patient data. The form is intended to be used as a reference for healthcare providers to assess the patient's condition and develop an appropriate treatment plan. However, please note that this form should not be used as a substitute for a comprehensive medical evaluation. It's essential to review and update the form regularly to ensure it remains relevant and accurate. Please ensure that you have the necessary permissions and approvals before using this form in your clinical practice...</thinking>
-
 # neuro_rehabilitation_assessment_form - Help Guide
 ## Purpose
 The neurorehabilitation assessment form is designed to collect comprehensive data from patients undergoing neurorehabilitation. This includes general information, medical history, treatment plans, and patient data. The form is intended to be used as a reference for healthcare providers to assess the patient's condition and develop an appropriate treatment plan.

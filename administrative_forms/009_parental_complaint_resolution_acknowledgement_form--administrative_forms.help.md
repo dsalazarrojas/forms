@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a Parental Complaint Resolution Acknowledgement Form. The form aims to document and track complaints submitted by parents, providing a structured way to categorize and resolve these issues. It is essential that this form is completed accurately and thoroughly, as it will help in understanding the nature of the complaint and facilitate a swift resolution.
-</thinking>
-
 # parental_complaint_resolution_acknowledgement_form - Help Guide
 ## Purpose
 The Parental Complaint Resolution Acknowledgement Form is used to collect and document information about complaints submitted by parents. This form is a crucial tool in the resolution process, ensuring that all relevant details are recorded and addressed promptly.

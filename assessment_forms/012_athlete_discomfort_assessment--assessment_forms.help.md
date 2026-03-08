@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to assess the discomfort of an athlete, gathering information about their physical condition to aid in providing optimal medical care. This form should only be filled out by athletes who have experienced discomfort, and not by medical professionals attempting to document an athlete's condition for administrative purposes. 
-</thinking>
-
 # Athlete Discomfort Assessment - Help Guide
 ## Purpose
 

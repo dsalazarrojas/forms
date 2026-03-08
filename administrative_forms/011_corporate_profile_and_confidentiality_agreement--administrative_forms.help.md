@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture a company's profile and confidentiality agreement details from users. It will likely be used for onboarding new partners, clients, or vendors. This form might be used in industries where confidentiality is crucial, such as law firms, consulting services, or investment banks. It's essential to ensure all form users understand the purpose and requirements before proceeding.
-</thinking>
-
 # Corporate Profile And Confidentiality Agreement - Help Guide
 ## Purpose
 This form is for collecting company information and ensuring users agree to maintain confidentiality. Please fill out this form carefully and truthfully to create a secure partnership.

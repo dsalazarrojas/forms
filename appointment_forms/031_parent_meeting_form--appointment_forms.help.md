@@ -1,18 +1,3 @@
-<thinking>
-This form is used for recording information about parent-teacher meetings. The goal is to gather essential details about each meeting, including the date, time, location, and any relevant notes. This form will be used by administrators to track and analyze meeting data.
-
-To ensure accuracy and efficiency in filling out this form, please review the following guidance:
-
-1. The form is divided into several sections, each addressing a specific aspect of the meeting.
-2. All fields are optional, but providing accurate information will help in better tracking and analysis.
-3. Meeting duration should be entered as a numeric value, for instance, 45 minutes.
-4. The parent name field is used to record the name of the parent/guardian attending the meeting.
-5. Meeting notes can include any important points discussed, action items, or agreements.
-
-Please note that this form is designed to be a general template and might not cover all possible meeting scenarios. If a specific meeting requires additional information, please add it in the "Meeting Notes" field or contact the administrator for further guidance.
-
-</thinking>
-
 # Parent Meeting Form - Help Guide
 ## Purpose
 The Parent Meeting Form is used to record information about parent-teacher meetings. This form helps administrators track and analyze meeting data for better decision-making and communication with parents.

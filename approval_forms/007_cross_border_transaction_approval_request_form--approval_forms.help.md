@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about cross-border transactions, which are financial transactions between individuals or entities located in different countries. The purpose of this form is to request approval for such transactions, ensuring that they comply with regulatory requirements and internal policies. This form is used by financial institutions to verify the legitimacy of cross-border transactions and to ensure that they are processed accurately and securely. 
-</thinking>
-
 # cross_border_transaction_approval_request_form - Help Guide
 ## Purpose
 This form is used to request approval for cross-border transactions, ensuring that they comply with regulatory requirements and internal policies.

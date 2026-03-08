@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users place an order for custom state football championship t-shirts. The form is part of an e-commerce platform that allows users to select from different options for customizing their t-shirts. The form is not intended for users who just want to make a standard purchase, but rather for those who want to create a custom t-shirt that reflects their team spirit.
-
-To avoid duplication, please note that this form is only intended for users who want to customize their t-shirt with their team's name, number, color, size, and other details. If you are just looking for a standard t-shirt, please go to the main product page and select the "Buy Now" option.
-
-</thinking>
-
 # state_football_championship_t_shirt_order_form - Help Guide
 
 ## Purpose

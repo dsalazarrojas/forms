@@ -1,9 +1,3 @@
-<thinking>
-
-The `sticker_usage_agreement_form` form is used for managing user authorization to use company stickers. This form is crucial for ensuring that users understand and agree to the conditions for sticker usage, approval, and renewal. This form is intended for both internal and external users. The form is divided into several sections that require users to provide their basic information, sticker usage details, and approval requests. This form is a mandatory process for users who wish to use company stickers.
-
-</thinking>
-
 # sticker_usage_agreement_form - Help Guide
 ## Purpose
 The sticker usage agreement form is a document used to manage user authorization to use company stickers. This form is essential for ensuring that users understand and agree to the conditions for sticker usage, approval, and renewal.

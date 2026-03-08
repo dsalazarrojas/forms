@@ -1,7 +1,3 @@
-<thinking>
-This form is used to confirm the agreement between the project participant and the project lead on the phase of the project. The form is not necessarily meant to be filled out by the participant directly, rather, it's a tool for the project lead or coordinator to verify that the participant has reviewed and confirmed their project information and agreement details. It's not meant to be filled out multiple times for the same participant, so it's likely that this form will only be filled out once per participant.
-</thinking>
-
 # Phase Agreement Confirmation - Help Guide
 ## Purpose
 The Phase Agreement Confirmation form is used to ensure that the project participant and project lead have a clear understanding of the project's phase details.

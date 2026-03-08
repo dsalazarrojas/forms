@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback and ratings from users who have used the 3D Text Effect plugin. The purpose of this form is to gather information on the user's experience, satisfaction, and overall rating of the plugin. It will help the developers understand what works well and what needs improvement, ultimately allowing them to enhance the plugin's performance and usability. 
 
 Here is the user-facing help guide for the form:

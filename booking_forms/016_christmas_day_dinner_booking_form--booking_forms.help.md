@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Christmas Day Dinner Booking Form - Help Guide
 
 ### Purpose

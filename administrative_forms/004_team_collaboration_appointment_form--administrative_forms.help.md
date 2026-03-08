@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is completed correctly to facilitate team collaboration and communication. This form is designed to gather information about upcoming meetings and appointments. It's essential that the form is filled out accurately and completely to prevent errors and miscommunication. Please review the form carefully before completing it.
-</thinking>
-
 # Team Collaboration Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information about upcoming meetings and appointments for team collaboration and communication.

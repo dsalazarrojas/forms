@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Competency Assessment Form - Help Guide
 ## Purpose
 

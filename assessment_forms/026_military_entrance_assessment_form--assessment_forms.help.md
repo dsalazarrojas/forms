@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess applicants' suitability for military service. The form is intended to gather detailed information about each applicant, including their contact details, military status, service branch, and other relevant details. This form will help assessors evaluate the applicant's eligibility and potential fit for military service.
-</thinking>
-
 # Military Entrance Assessment Form - Help Guide
 
 ## Purpose

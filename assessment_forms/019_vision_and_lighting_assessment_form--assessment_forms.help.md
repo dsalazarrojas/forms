@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to assess vision and lighting conditions in a given area. It aims to gather information about the lighting conditions, fixture status, and any issues or concerns related to lighting. The form is designed to be completed by individuals who are familiar with the area and can provide accurate information about the lighting conditions.
-
-</thinking>
-
 # vision_and_lighting_assessment_form - Help Guide
 ## Purpose
 This form is designed to collect information about the lighting conditions in a given area. It will help us understand the lighting conditions, fixture status, and any issues or concerns related to lighting.

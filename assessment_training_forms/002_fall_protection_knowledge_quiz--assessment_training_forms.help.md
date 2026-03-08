@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fall Protection Knowledge Quiz - Help Guide
 ## Purpose
 The Fall Protection Knowledge Quiz is designed to gauge your knowledge and understanding of fall protection principles and practices. This quiz is meant to be a self-assessment tool for individuals working in industries where fall protection is a critical aspect of their work. It will help you evaluate your knowledge in areas such as fall hazard recognition, prevention, and control.

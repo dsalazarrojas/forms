@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request authorization for data updates from an organization or user. This form will help users select the relevant organization and user, specify the type of data update, choose which fields to update, and identify the reviewers and approvers involved in the process. The form is designed to gather the necessary information for the data update process, including consent dates, comments, and status updates.
-
-Please ensure that you are using this form to request updates for your organization's data and are selecting the correct organization and user involved. If you are unsure about which fields to fill out, please review the form instructions and your organization's policies and procedures before proceeding.
-</thinking>
-
 # Data Update Authorization Request Form - Help Guide
 ## Purpose
 This form is used to request authorization for data updates from an organization or user. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for retail merchandising effectiveness assessment, which is a process to evaluate the overall performance of a store in meeting customer needs and expectations. This form should not be used for stores that have already been assessed recently or are in the same region. Please ensure that the correct store information and region are selected to avoid duplicate data collection.
-</thinking>
-
 # Retail Merchandising Effectiveness Assessment - Help Guide
 ## Purpose
 This form is used to assess the effectiveness of retail stores in meeting customer needs and expectations. It will help store managers and regional teams to evaluate store performance and identify areas for improvement.

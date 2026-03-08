@@ -1,11 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly check the context:
-
-This form is designed for a "PEO Employee Document Access Request" scenario, which likely involves employees requesting access to specific documents within their organization. The form is likely used for internal administrative tasks within a company or organization.
-
-Let's ensure the form doesn't duplicate any other form's purpose within the company, and that the fields are correctly aligned with the expected workflow.
-
-With that in mind, let's create the user-facing help guide:</thinking>
-
 # PEO Employee Document Access Request - Help Guide
 ## Purpose
 The PEO Employee Document Access Request form is used to request access to company documents for employees. This form helps employees inform management and HR about the necessary documents required for their work, and the management team can grant or deny access accordingly.

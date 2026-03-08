@@ -1,11 +1,3 @@
-<thinking>
-
-The Workplace Committee Voting Form is an internal tool used by the workplace committee to facilitate voting and decision-making processes. This form is designed to collect information on the voting process, committee name, and other relevant details. It is essential to ensure that the form is completed accurately and thoroughly to gather the necessary information for informed decision-making.
-
-Before filling out this form, please note that it is intended for the workplace committee, and the information collected will be used internally. Ensure that you have the necessary permissions to access and complete this form.
-
-</thinking>
-
 # Workplace Committee Voting Form - Help Guide
 ## Purpose
 The Workplace Committee Voting Form is an internal tool used by the workplace committee to facilitate voting and decision-making processes. This form is designed to collect information on the voting process, committee name, and other relevant details.

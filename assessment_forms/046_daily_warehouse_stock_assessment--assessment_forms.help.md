@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, this form is intended to assist in assessing the stock in a warehouse by gathering information about stock location, stock dates, and stock values for various items. This form is likely used for inventory management or stock tracking purposes. Please note that some fields seem to be repetitive (e.g., `stock_value`, `stock_date`, `stock_location`), so be cautious when filling out the form to ensure consistency and accuracy in your data entry.</thinking>
-
 # Daily Warehouse Stock Assessment - Help Guide
 
 ## Purpose

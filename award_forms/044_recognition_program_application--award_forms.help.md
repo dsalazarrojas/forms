@@ -1,6 +1,4 @@
-> <thinking> This form is an application form for recognition programs, which are used to acknowledge and reward outstanding achievements or contributions within an organization or industry. The form is used to collect information from applicants, including their personal details, application details, and supporting documents. The form also allows reviewers to record their comments and decisions on the application. The goal is to provide a structured and organized way to handle recognition program applications. Before completing this form, ensure that you have all the required information and supporting documents ready. If you have submitted an application before, please check if there is an existing one with your email. If you are unsure about any field, please contact our support team. </thinking>
-
-# Recognition Program Application - Help Guide
+> # Recognition Program Application - Help Guide
 
 ## Purpose
 The Recognition Program Application form is designed to collect information and supporting documents from applicants for recognition programs.

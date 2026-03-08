@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect student information for academic purposes, such as enrollment in a course or program. It is used to gather relevant details for student records and may be required for administrative purposes.
-To ensure accuracy and completeness, please make sure to fill out the form carefully and thoroughly. This form can be submitted multiple times by different students. If a student has already been registered, please make sure to update the existing record instead of creating a new one.
-</thinking>
-
 # Student Enrollment Approval Form - Help Guide
 ## Purpose
 This form is a collection of fields used to gather student information for academic purposes.

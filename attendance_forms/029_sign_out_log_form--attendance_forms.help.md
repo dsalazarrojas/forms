@@ -1,8 +1,3 @@
-<thinking>
-  To ensure that you're completing the correct form, I'll first explain the purpose of this form. This form, "sign_out_log_form," is used to record employee and visitor sign-out logs, which are essential for tracking attendance and maintaining accurate records. It's a text-based form that captures necessary information for both employees and visitors, including check-out time, names, location, and other relevant details. 
-  Before filling out this form, please note that you should not fill it out if you're already signed out, as this form is meant for recording completed or pending sign-out events. Please also ensure that you fill out all required fields, marked as "required," to ensure accurate and complete records.
-</thinking>
-
 # sign_out_log_form - Help Guide
 ## Purpose
 The "sign_out_log_form" is used to record employee and visitor sign-out logs, ensuring accurate attendance tracking and record-keeping.

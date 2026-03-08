@@ -1,5 +1,3 @@
-<thinking>As a pre-engagement survey is an internal process, the purpose of this form is to collect information about a client or contact's current royalty accounting processes and expectations. The form is used to gather data on the processes and frequencies of royalty payments, ownership, and other relevant details. This survey helps accountants and accountants' firms to better understand the client's needs and requirements before engaging in a new project or partnership. By completing this form, you will be able to provide valuable insights to your team and improve the effectiveness of your services. Please ensure that the information provided is accurate and up-to-date, as it will be used to inform the engagement process.</thinking>
-
 # Royalty Accounting Pre-Engagement Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a client or contact's current royalty accounting processes and expectations. This information will help accountants and accounting firms better understand the client's needs and requirements before engaging in a new project or partnership.

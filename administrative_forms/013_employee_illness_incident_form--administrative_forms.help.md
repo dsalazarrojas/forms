@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Illness Incident Form - Help Guide
 
 ## Purpose

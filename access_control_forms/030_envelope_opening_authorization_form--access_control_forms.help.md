@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to request access to open an envelope. It's intended for employees to provide information about themselves and their supervisors for authorization purposes. This form helps ensure that the envelope can be safely opened and handled according to company policies and regulations. It's not intended for any other purpose.
-</thinking>
-
 # Envelope Opening Authorization Form - Help Guide
 ## Purpose
 This form is used to request access to open an envelope. It captures essential information about the employee requesting access and their supervisor's details.

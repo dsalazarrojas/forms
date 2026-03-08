@@ -1,5 +1,3 @@
-<thinking>This form is designed to assist in creating a comprehensive checklist for workflow instructions. The purpose of this form is to gather information about the workflow process, allowing administrators or users to document and track tasks, tasks that are completed, and areas that need improvement. By providing this information, you can standardize and refine your workflow for better productivity and accountability.</thinking>
-
 # Workflow Instruction Checklist - Help Guide
 ## Purpose
 This form is designed to help you document and refine your workflow process by tracking tasks, tasks completed, and areas that require improvement.

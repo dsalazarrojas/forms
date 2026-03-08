@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used only for its intended purpose and to prevent duplication of efforts. This form is for youth athletes who require financial assistance to support their athletic endeavors. It should only be filled out by the athlete or their parent/legal guardian, and not by anyone else on their behalf. This ensures that the information provided is accurate and up-to-date.
-</thinking>
-
 # Youth Athlete Grant Application Form - Help Guide
 ## Purpose
 The Youth Athlete Grant Application Form is designed to collect information from youth athletes who require financial assistance to support their athletic endeavors. This form helps us to evaluate their eligibility and assess their need for financial support.

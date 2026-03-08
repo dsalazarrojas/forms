@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for small businesses to request a rental agreement for a facility. The purpose of this form is to collect information about the business requesting the facility rental, including their location, contact person, and rental terms. This form is intended for internal use only and is not meant to be used for public display. It's possible that a duplicate form may be created if the user has already filled out this form in the past, but this is not a concern for most users. The form is primarily used for the business owner to provide details about their rental requests, and the information collected will be used to determine the status of the facility and the payment method of the business.
-</thinking>
-
 # small_business_facility_rental_agreement - Help Guide
 ## Purpose
 This form is designed for small businesses to request a rental agreement for a facility.

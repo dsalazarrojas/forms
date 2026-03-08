@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow courier partners to request realignment of their routes, specifying details about their current and desired delivery locations. The form asks for information such as whether they are currently being aligned or not, their current and desired pickup and dropoff locations, and other relevant details. This form is meant to be used by courier partners to initiate realignment requests, and it is crucial that they provide accurate and complete information to ensure efficient realignment.
-</thinking>
-
 # Courier Partner Realignment Request Form - Help Guide
 ## Purpose
 This form is designed to help courier partners request realignment of their routes, ensuring they can efficiently manage their deliveries and improve their performance.

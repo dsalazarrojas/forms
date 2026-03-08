@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit a lookup request for authorization codes related to a specific merchant account. The purpose of this form is to request a lookup of a particular authorization code, which can help in resolving issues or providing information related to a transaction. To prevent duplicate requests, the system will check for existing requests before processing a new lookup request.
-</thinking>
-
 # Authorization Code Lookup Request Form - Help Guide
 ## Purpose
 The Authorization Code Lookup Request Form is used to submit a lookup request for authorization codes related to a specific merchant account. This form helps in providing information and resolving issues related to transactions.

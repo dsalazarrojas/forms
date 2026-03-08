@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's break down the form's purpose and requirements.</thinking>
-
 # Conference Room Setup Order Form - Help Guide
 
 ## Purpose

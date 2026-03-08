@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool used to gather information and facilitate the process of requesting and managing sponsorships for events. The form is designed to ensure that event organizers have all the necessary information for sponsorships and to keep track of the sponsorship status and any associated notes. This form is used internally, and it is essential to ensure that all required fields are filled in accurately and completely. Please make sure to fill out this form for each sponsor for every event you organize. Please do not use this form for multiple events or sponsors; instead, create a new form for each one.
-</thinking>
-
 # Sponsorship Approval Form - Help Guide
 ## Purpose
 This form is a tool used to gather information and facilitate the process of requesting and managing sponsorships for events.

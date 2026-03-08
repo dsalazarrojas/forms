@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a critical part of our business, as it allows customers to preorder baseball caps with customizations such as logo placement, color, and text. The form ensures that customers provide accurate and complete information to ensure a successful and timely order delivery.
-
-To avoid duplication of effort, this guide should only be followed by customers who are new to our preorder process. If a customer has previously used the form, their knowledge should be sufficient to complete it again without reference to this guide.
-
-The guide is intended to help customers understand what information is required and how to input their data correctly. It should cover all fields and provide a clear explanation of what each field means, helping customers to fill out the form accurately and efficiently.
-
-</thinking>
-
 # Baseball Cap Preorder Form - Help Guide
 ## Purpose
 The Baseball Cap Preorder Form is a crucial tool for customers to order custom baseball caps with precise specifications. This guide will walk you through the form's purpose, how to fill it out correctly, and a field-by-field explanation to ensure a seamless and successful order process.

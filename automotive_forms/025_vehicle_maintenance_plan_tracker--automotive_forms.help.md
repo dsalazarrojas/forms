@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track vehicle maintenance plans for a vehicle. It is used to collect and store information about a vehicle's service history, upcoming maintenance, and other relevant details. This form is likely used by mechanics, fleet managers, or vehicle owners to keep track of a vehicle's maintenance needs and history.
-This form appears to be a simple tracker and does not require any advanced technical expertise to complete. However, the fields may not be entirely clear or self-explanatory, so this guide aims to provide clarity and guidance on how to complete it.
-</thinking>
-
 # Vehicle Maintenance Plan Tracker - Help Guide
 ## Purpose
 This form is used to track and record key information about a vehicle's maintenance plan and history. It helps users keep track of a vehicle's condition, upcoming maintenance needs, and service history.

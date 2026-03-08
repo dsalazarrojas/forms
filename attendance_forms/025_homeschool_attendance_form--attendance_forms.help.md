@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect data on a student's attendance at a homeschooling program. The purpose of this form is to record student attendance, allowing parents and educators to track student presence and absence. This form is not intended to replace existing attendance tracking systems, but rather supplement them. If you already have a system in place for tracking student attendance, you can use this form to double-check or provide an alternative method for parents to report student attendance.</thinking>
-
 # Homeschool Attendance Form - Help Guide
 ## Purpose
 The Homeschool Attendance Form is a tool used to record student attendance at a homeschooling program. It is designed to be a simple and efficient way for parents to report their child's daily attendance.

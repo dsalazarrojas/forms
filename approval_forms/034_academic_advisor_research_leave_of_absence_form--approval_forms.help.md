@@ -1,5 +1,3 @@
-<thinking>This form is intended to help academic advisors manage research leaves of absence for their employees. A research leave of absence allows an employee to take a leave for research purposes, which can be beneficial for their professional development and the university's research goals. This form is used to gather information about the employee's request, including their advisor's details, the leave period, and the research plan. The form is a crucial document for the university's HR and departmental approval processes, ensuring that the necessary permissions and arrangements are made for the leave. Please ensure you are not duplicating existing requests for the same purpose or research leave type.</thinking>
-
 # Academic Advisor Research Leave Of Absance Form - Help Guide
 ## Purpose
 The Academic Advisor Research Leave Of Absance Form is used to request and track research leaves of absence for academic employees. This form helps to ensure that necessary permissions and arrangements are made for the leave, and that the employee's department and university have a clear understanding of their absence.

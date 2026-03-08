@@ -1,17 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Sports League Data Collection Consent Form" that explains its purpose, how to complete it, and what each field means. This form is used to collect participant information, emergency contact details, and signature and date for the sports league. The form will be used to gather data for the sports league, and it's essential to ensure that participants understand what information is being collected and how to complete the form accurately.
-
-Before creating this guide, let's consider the following questions:
-* Is there a specific audience for this form (e.g., participants, coaches, staff)?
-* Are there any specific regulations or policies that need to be mentioned in the guide (e.g., GDPR, HIPAA)?
-* Are there any specific fields that require further explanation or clarification (e.g., "Relationship" fields)?
-
-Let's assume that the form will be used by participants, and we'll follow GDPR and HIPAA guidelines.
-
-After reviewing the form structure and fields, we can create the help guide.
-
-</thinking>
-
 # Sports League Data Collection Consent Form - Help Guide
 ## Purpose
 The Sports League Data Collection Consent Form is used to collect participant information, emergency contact details, and signature and date for the sports league. This form is essential for data collection and record-keeping purposes.

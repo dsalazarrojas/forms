@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Royalty Agreement Approval Form - Help Guide
 
 ## Purpose

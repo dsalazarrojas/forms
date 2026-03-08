@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to provide users with a clear understanding of the Family Vacation Leave Form, its purpose, and how to complete it. The form is used to request and track vacation leave for employees, allowing them to submit their leave requests, which can be reviewed and approved by managers and the company.
 
 # Family Vacation Leave Form - Help Guide

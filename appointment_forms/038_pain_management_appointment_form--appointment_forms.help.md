@@ -1,14 +1,3 @@
-<thinking>
-We need to create a help guide for a Pain Management Appointment Form that provides a clear understanding of the form's purpose, how to complete it, and a detailed explanation of each field. This guide will be used by patients to ensure they understand what is expected of them during the appointment process.
-
-The form is likely to be used in a clinical setting, such as a hospital or doctor's office, to gather important information about the patient's pain management needs. The form is designed to be completed by the patient before their appointment, to provide the healthcare provider with the necessary information to tailor the appointment to the patient's specific needs.
-
-The form will be used to gather information such as the patient's name, contact information, medical history, and specific details about their pain management needs. The form may also include fields for appointment scheduling, medical notes, and other relevant information.
-
-Before starting to complete the form, please ensure you have the necessary information available and that you are completing it honestly and accurately.
-
-</thinking>
-
 # Pain Management Appointment Form - Help Guide
 
 ## Purpose

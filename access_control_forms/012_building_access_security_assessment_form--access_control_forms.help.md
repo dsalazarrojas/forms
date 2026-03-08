@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess the security of a building by evaluating various aspects of the physical security measures in place. The form is intended to be completed by a security assessor, who reviews the building's access control systems, perimeter security, and overall security posture. The purpose of this form is to provide a structured and comprehensive evaluation of the building's security measures, which can be used to identify potential vulnerabilities and recommend improvements.
-
-This form will be used to assess the building's access control systems, including the type of system, its age, and its maintenance status. It will also evaluate the building's perimeter security, including the condition and integrity of the fence, gate security and operation, and lighting around the perimeter. The form will also assess the building's visitor and contractor management procedures, including check-in protocols and access control measures. Additionally, the form will evaluate the building's surveillance and monitoring systems, including CCTV coverage and recording system status. The overall security rating of the building will be based on the assessment of these various security measures.
-
-</thinking>
-
 # Building Access Security Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the security of a building by evaluating various aspects of the physical security measures in place.

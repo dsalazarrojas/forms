@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information from customers for their online cupcake order. The form is designed to be completed by individuals who want to place an order for custom cupcakes. This form will be used to gather contact and order details from customers. The form will be reviewed for duplication and relevancy before being submitted. If this form is submitted multiple times with the same information, it will be discarded and only the first submission will be kept. 
 
 </thinking>

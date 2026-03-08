@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to collect information from students to assess their language skills in English, specifically in the areas of listening, speaking, reading, and writing. The purpose of this form is to provide a standardized assessment of a student's language proficiency. It's likely used in an educational setting, such as a language school or university, to evaluate a student's progress or prepare them for a language placement test. 
-
-The form is structured to collect general information, student details, and feedback on their language skills, including listening, speaking, reading, and writing. It also allows for comments and file uploads to provide additional context. 
-
-Please ensure that the form is not used for any other purpose, such as marketing or sales, as the provided fields and structure are designed specifically for language skills assessment. 
-
-</thinking>
-
 # ESL Placement Test Quiz - Help Guide
 ## Purpose
 The ESL Placement Test Quiz is a form designed to assess students' language skills in English, including listening, speaking, reading, and writing. The quiz aims to evaluate a student's language proficiency and provide a snapshot of their progress.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about vehicle accidents, allowing users to report incidents and provide relevant details. It is intended for internal use within the organization, and users should only complete this form if they have experienced or witnessed a vehicle accident. To ensure accuracy and consistency, it's recommended that users review the form carefully before submitting their responses. If users have already completed a similar form, they should not duplicate their previous responses.
-</thinking>
-
 # Vehicle Accident Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about vehicle accidents, allowing users to report incidents and provide relevant details.

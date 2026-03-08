@@ -1,9 +1,3 @@
-<thinking>
-The Representative Checklist Form is a critical tool used to ensure that all necessary steps and protocols are followed during onboarding and offboarding processes. It helps to identify and document the responsibilities assigned to a representative, their contact information, and the relevant dates and times associated with their role. This form is essential for maintaining accurate records, facilitating communication, and streamlining administrative processes. 
-The Representative Checklist Form is typically used in scenarios where a representative is assigned to perform specific tasks or duties on behalf of an organization. It helps to ensure that the representative is aware of their responsibilities and provides a clear record of their role and involvement.
-This form should not be used for other purposes not related to the onboarding or offboarding of a representative. 
-</thinking>
-
 # Representative Checklist Form - Help Guide
 ## Purpose
 The Representative Checklist Form is used to collect information about a representative assigned to perform specific tasks or duties on behalf of an organization. It helps to ensure that the representative is aware of their responsibilities, provides a clear record of their role and involvement, and facilitates communication and accurate record-keeping.

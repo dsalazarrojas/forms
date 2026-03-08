@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cosmetic_surgery_appointment_checklist_form_template - Help Guide
 
 ## Purpose

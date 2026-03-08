@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in properly completing the Driver Safety Checklist Form. The form's primary purpose is to collect information related to vehicle safety, driver identification, and vehicle inspection. This form is designed to ensure accurate and efficient data collection, while minimizing errors and misunderstandings. Please review the form carefully to ensure you understand its purpose and requirements. Note that the form is currently not required, but its use is encouraged for best practice.
-</thinking>
-
 # Driver Safety Checklist Form - Help Guide
 ## Purpose
 The Driver Safety Checklist Form is used to collect information related to vehicle safety, driver identification, and vehicle inspection. It helps gather data on vehicle registration numbers, VINs (Vehicle Identification Numbers), vehicle models, and other critical information.

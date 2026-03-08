@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used at 7-Barber Shop for capturing customer information and scheduling appointments. It will likely be used by customers to provide their personal details, contact methods, and preferences for their visit. The form will help the staff at 7-Barber Shop to better understand their customers' needs and provide more personalized service. Before starting, it's essential to review each field carefully and ensure you've filled out all relevant sections correctly to avoid any potential issues.
-</thinking>
-
 # old-7-barber-shop-customer-form - Help Guide
 
 ## Purpose

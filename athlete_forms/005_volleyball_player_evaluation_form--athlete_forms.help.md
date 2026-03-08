@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for coaches, athletic directors, or other evaluators to assess and evaluate the performance of a volleyball player. The form is used to collect relevant information about the player's name, team affiliation, performance, and other relevant characteristics. It is intended to be used during or after a competition, practice, or game to document the player's strengths and weaknesses.
-The form is a standardized template and should be used consistently across all evaluations to maintain fairness and objectivity. It is meant to aid in making informed decisions about player development, recruitment, and team management.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Volleyball Player Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect relevant information about a volleyball player's performance and characteristics, enabling evaluators to make informed decisions about their development and placement.

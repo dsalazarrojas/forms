@@ -1,7 +1,3 @@
-<thinking>
-This is a form for submitting a transaction plan for review and approval. It's used for transactions where the user needs to provide additional information about a proposed transaction before it's reviewed and approved by the relevant stakeholders. The form ensures that all relevant details are captured and reviewed properly to facilitate efficient processing. Please make sure that your submission is complete and accurate before proceeding to avoid unnecessary delays or rejections.
-</thinking>
-
 # Transaction Plan Submission - Help Guide
 ## Purpose
 The Transaction Plan Submission form is used for submitting a detailed transaction plan for review and approval. It captures information about the proposed transaction, including the proposed amount, currency, date, and time, and other relevant details. The form is designed to guide the user in providing all the necessary information for a smooth and efficient review process.

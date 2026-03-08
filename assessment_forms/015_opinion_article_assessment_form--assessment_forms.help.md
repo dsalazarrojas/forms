@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect feedback and ratings from users about articles, which can be used to assess the quality and engagement of the articles. The purpose of this form is to gather information on the article's title, content, and user's experience with it. Users can provide their name, email, phone number, and comments about the article. This form will help us understand how users perceive the article and what they think about it.
-
-This form is not meant for urgent or time-sensitive submissions, so take your time to fill it out accurately.
-
-</thinking>
-
 # Opinion Article Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users about articles. It helps us understand users' perceptions and experiences with the article.

@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to assess the rarity of various items, such as collectibles, artifacts, or other unique objects. The form will ask you to provide information about the item, including its name, type, condition, and other relevant details. This information will help our team evaluate the item's rarity and provide an accurate assessment.
-Before filling out this form, please make sure you have not already submitted an assessment for this item. If you have previously submitted an assessment, please do not resubmit. This will help us to avoid duplication of work and ensure accurate and consistent assessments.
-</thinking>
-
 # Rarity Assessment Form - Help Guide
 ## Purpose
 The Rarity Assessment Form is used to evaluate the rarity of various items. The form asks for specific information about the item to help our team provide an accurate assessment.

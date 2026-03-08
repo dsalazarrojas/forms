@@ -1,5 +1,3 @@
-<thinking>...This form is designed to allow users to request an appointment with a healthcare professional. The form fields are meant to gather relevant information for the healthcare professional to schedule the appointment efficiently. Before proceeding, ensure that you are not requesting an appointment for the same purpose or with the same healthcare professional within the past 30 days, as this may be considered spam...</thinking>
-
 # Make An Appointment Request - Help Guide
 ## Purpose
 

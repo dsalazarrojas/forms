@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather feedback on transmission issues from customers. It's meant to be completed by service advisors, mechanics, or other automotive professionals who have interacted with customers. The form should only be completed by authorized personnel to avoid duplication of effort and ensure that all relevant feedback is captured accurately.
-
-When completing this form, please ensure that you're only providing feedback on genuine transmission issues encountered during service. Do not fill out this form if you're not directly involved in the interaction or if the customer has already provided feedback.
-
-Each field in this form has a specific purpose, so please ensure that you're completing it accurately and relevantly.
-</thinking>
-
 # Transmission Issues Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on transmission issues encountered by customers during service. It's essential to provide this information accurately to help resolve any problems and improve customer service.

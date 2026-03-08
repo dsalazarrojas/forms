@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payroll Consultant Estimate Form - Help Guide
 
 ## Purpose

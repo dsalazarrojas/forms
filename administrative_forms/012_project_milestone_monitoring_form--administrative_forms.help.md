@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Milestone Monitoring Form - Help Guide
 ## Purpose
 This form is designed to help monitor and track project milestones, ensuring that progress and deadlines are met. It gathers essential information about project status, deadlines, and responsible parties.

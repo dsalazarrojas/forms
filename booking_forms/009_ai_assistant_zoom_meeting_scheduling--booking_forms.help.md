@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide for the AI Assistant Zoom Meeting Scheduling form, we need to first understand its purpose and the context in which it will be used. This form is designed to collect information from users who want to schedule a meeting with the AI strategy team for a consultation, technical support, or other purposes.
-
-The form appears to be a comprehensive one, gathering details such as name, email address, meeting topic, meeting purpose, platform interest, preferred date, time slot, time zone, desired meeting duration, number of attendees, specific agenda items, and previous experience with AI implementations. The form also includes optional fields for phone number and agenda items.
-
-It's essential to ensure that the form is not a duplication of effort, and the information collected is accurate and relevant to the purpose of the meeting.
-
-</thinking>
-
 # AI Assistant Zoom Meeting Scheduling - Help Guide
 ## Purpose
 The AI Assistant Zoom Meeting Scheduling form is designed to help you schedule a meeting with our AI strategy team for a consultation, technical support, or other purposes. Fill out the form with your details, and we will send you a Zoom meeting link and calendar invite once submitted.

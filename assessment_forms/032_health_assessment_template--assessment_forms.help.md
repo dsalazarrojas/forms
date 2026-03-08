@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect health information from patients, including their medical history, allergies, medications, and current health status. It's intended to be a template for healthcare professionals to assess the patient's overall health. The form is divided into several sections, each focused on a specific aspect of the patient's health. This guide will walk you through each field to ensure you understand what's required and what's expected from you as a patient.
-</thinking>
-
 # health_assessment_template - Help Guide
 ## Purpose
 This form is a health assessment template used by healthcare professionals to collect information about a patient's health. It's essential to complete this form accurately and honestly to help healthcare providers make informed decisions about your care.

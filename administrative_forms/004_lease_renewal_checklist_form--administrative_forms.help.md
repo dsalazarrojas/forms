@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lease Renewal Checklist Form - Help Guide
 
 ## Purpose

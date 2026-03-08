@@ -1,18 +1,3 @@
-<thinking>
-
-This form is used to assess the quality of a service organization's performance. This form is designed to be completed by end-users (e.g., customers, employees, or managers) who have experience with the service organization. It is not intended to be a comprehensive evaluation, but rather a quick and easy way to gather feedback on specific aspects of the service organization's performance.
-
-The following fields are part of this form:
-
-- service_organization: Whether or not the service organization has met the expected service level agreements (SLAs).
-- customer_satisfaction: The level of satisfaction with the service organization's services.
-- service_delivery: Whether or not the service organization delivers services as expected.
-- communication: The level of communication between the service organization and their customers or employees.
-- improvement_plan: Whether or not the service organization has an improvement plan in place.
-- internal_evaluation: Whether or not the service organization's internal processes and systems are well-structured and effective.
-
-</thinking>
-
 # Service Organization Assessment - Help Guide
 ## Purpose
 This form is designed to help you assess the performance of a service organization. It consists of six questions that cover various aspects of their service.

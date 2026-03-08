@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, I understand the form is designed to collect information from athletes about their discomfort assessment. The form is intended to help athletic trainers and medical professionals understand the nature and severity of the athlete's discomfort, allowing them to provide appropriate care and guidance. The form is likely used in a sports medicine or athletic training context, where the goal is to identify potential injuries or issues that may impact an athlete's performance or well-being.
-
-The form is divided into several sections, each focusing on a different aspect of the athlete's discomfort. The athlete is asked to provide information about their name, ID number, and date of the assessment. They are also asked to select their primary sport, location of the discomfort, type of discomfort, and pain scale rating. Additionally, they are asked about the onset of the discomfort, factors that make it worse or better, previous injuries, and whether they have sought medical attention or treatment.
-
-This form is designed to be completed by athletes, but the output will likely be reviewed by athletic trainers or medical professionals. The form is intended to be a tool for data collection, not a substitute for professional medical evaluation.</thinking>
-
 # Athlete Discomfort Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about an athlete's discomfort, allowing athletic trainers and medical professionals to understand the nature and severity of the issue. It is used to identify potential injuries or issues that may impact an athlete's performance or well-being.

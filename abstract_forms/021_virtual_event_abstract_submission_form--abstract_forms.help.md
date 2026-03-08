@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # virtual-event-abstract-submission-form - Help Guide
 
 ## Purpose

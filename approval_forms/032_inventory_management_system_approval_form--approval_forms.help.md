@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the approval process of inventory management requests. The form should only be used for requesting items from the inventory, and not for other purposes. It is essential to ensure that all fields are filled out correctly and accurately, and that the form is not used to approve multiple items at once. 
-</thinking>
-
 # Inventory Management System Approval Form - Help Guide
 ## Purpose
 The Inventory Management System Approval Form is used to request items from the inventory and to facilitate the approval process. It is intended for employees who need to request items from the inventory for work-related purposes. 

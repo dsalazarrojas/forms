@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Lifetime Achievement Nomination Form", we first need to understand the purpose of the form. This form is likely used to collect information for award nominations, where an individual or organization is being recognized for their outstanding contributions in their field. The form's purpose is to provide a structured way to submit a nomination, including details about the nominee, their achievements, and the award title they are being considered for.
-
-Before starting to fill out the form, please ensure that you are not duplicating a nomination that has already been submitted. It's also a good idea to review the award criteria and ensure that the nominee meets the qualifications.
-
-This guide will walk you through the steps to complete the form and explain each field in detail.
-</thinking>
-
 # Lifetime Achievement Nomination Form - Help Guide
 ## Purpose
 This form is for submitting a lifetime achievement nomination, where you are recognizing an individual or organization for their outstanding contributions to their field.

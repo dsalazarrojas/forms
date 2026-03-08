@@ -1,13 +1,3 @@
-<thinking>... (internal reasoning block)
-
-This form is intended to collect information from new residents, including their contact details, emergency contact, lease terms, lease dates, and rent details. The form should be completed by the resident to provide accurate and up-to-date information about themselves. 
-
-The fields in this form are designed to be completed by the resident, and it's essential to understand each field's purpose to ensure accurate submission.
-
-Please note that some fields are not required, but completing them can provide additional information to help with administrative tasks.
-
-</thinking>
-
 # Resident Registration Form - Help Guide
 
 ## Purpose

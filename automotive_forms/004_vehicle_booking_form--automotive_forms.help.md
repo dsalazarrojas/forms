@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for end-users to book a vehicle for a specific purpose, likely for a rental or reservation service. It appears that the form is meant to collect information about the user's vehicle, their personal details, and any additional booking information. The form is divided into several sections, each focusing on a different aspect of the booking process.
-
-To ensure that the form is used correctly and effectively, the following instructions and explanations will help guide the user through the completion process.
-
-The form is likely used by a rental or reservation service to collect information about the user's vehicle and their personal details for the purpose of processing the booking.
-</thinking>
-
 # Vehicle Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information about the user's vehicle and personal details for the purpose of booking a vehicle.

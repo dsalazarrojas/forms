@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect early access requests from customers, allowing them to submit a request for early access to a product or service. The form is intended for customers who are interested in getting ahead of the general release date. The goal is to collect relevant contact information and confirm the request. To ensure accuracy and relevance, please note that this form is not intended for duplicate requests or general inquiries. Customers who have already submitted a request will not be able to resubmit. Also, please fill in the form completely and accurately to ensure timely processing of your request....</thinking>
-
 # Early Access Invitation Code Request - Help Guide
 ## Purpose
 This form is designed to collect early access requests from customers, allowing them to submit a request for early access to a product or service. Please use this form only if you are interested in getting access to the product or service ahead of the general release date.

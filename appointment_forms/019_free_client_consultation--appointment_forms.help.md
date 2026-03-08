@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from clients who are interested in scheduling a free consultation with a consultant. The purpose of this form is to collect basic contact information and details about the consultation. This form will likely be used by business owners or professionals who offer consulting services. It is not intended for other use cases, such as event registration or payment processing. 
-
-When filling out this form, please ensure that the required fields are completed, even though they are not marked as "required" in the form design. This will help to ensure that the data is accurate and complete.
-</thinking>
-
 # Free Client Consultation - Help Guide
 ## Purpose
 This form is used to schedule a free client consultation with a consultant. It allows clients to provide their contact information and details about the consultation they are interested in.

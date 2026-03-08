@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to request an appointment with a retirement counselor. The form is designed to gather necessary information from the user to schedule a meeting with a retirement counselor.
-
-Before completing this form, please make sure:
-* You have a valid reason for requesting a meeting with a retirement counselor.
-* You have not already submitted a similar request within the past <insert timeframe, e.g., 30 days> to avoid duplicates.
-
-Please note that the form is divided into six pages with specific sections. Ensure you complete the required fields and follow the instructions for each page.
-
-</thinking>
-
 # Retirement Counseling Appointment Request Form - Help Guide
 ## Purpose
 This form is designed to help users request an appointment with a retirement counselor. It gathers essential information to schedule a meeting that suits both the user and the counselor's availability.

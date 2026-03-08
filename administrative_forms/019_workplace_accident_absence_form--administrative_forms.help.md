@@ -1,5 +1,3 @@
-<thinking>...The Workplace Accident Absence Form is designed to collect information about workplace accidents that have occurred within the organization. This form helps ensure accurate and consistent reporting of incidents, providing necessary details to investigate and resolve the situation efficiently. Ensure you've reviewed the incident thoroughly and only submit the form once you've gathered all the required information to prevent duplicate submissions. This form is used to report incidents that have occurred during work hours. Please note that submitting this form does not necessarily trigger an immediate response or investigation; it's a record-keeping measure for future reference and to ensure accurate reporting of incidents.</thinking>
-
 # Workplace Accident Absence Form - Help Guide
 ## Purpose
 The Workplace Accident Absence Form is used to report incidents that have occurred during work hours. This form helps ensure accurate and consistent reporting of workplace accidents, providing necessary details for investigation and resolution.

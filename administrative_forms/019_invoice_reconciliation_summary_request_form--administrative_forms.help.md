@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is used for requesting administrative form reconciliations, which involve reviewing and resolving discrepancies between different systems or processes. The form is used to provide detailed information about the request, including category, description, assigned tool, and form IDs. This form helps the administrator to track and address these discrepancies efficiently.
-Non-duplication: Please ensure that you only submit one request per form. Duplicate requests may lead to confusion and delay in resolution.
-</thinking>
-
 # invoice_reconciliation_summary_request_form - Help Guide
 ## Purpose
 This form is used for requesting administrative form reconciliations, which involve reviewing and resolving discrepancies between different systems or processes.

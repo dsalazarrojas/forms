@@ -1,9 +1,3 @@
-<thinking>
-
-We have a form called "Substance Influence Assessment" aimed at assessing the potential influence of substances on individuals in specific incidents. This form is intended to help assessors gather relevant information about the incidents, including descriptions, observations, and ratings. It's designed to be used in various scenarios, such as medical, social services, or healthcare settings. Before filling out the form, please review your role and the specific use case to ensure you're using the form correctly and not duplicating efforts.
-
-</thinking>
-
 # Substance Influence Assessment - Help Guide
 ## Purpose
 This form is designed to assess the potential influence of substances on individuals in specific incidents. It's meant for use in medical, social services, or healthcare settings where assessing the impact of substances is crucial.

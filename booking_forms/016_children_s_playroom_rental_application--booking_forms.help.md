@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals or organizations seeking to rent a children's playroom for an event. The purpose of this form is to gather necessary information for the rental process, including contact details, event specifics, and agreement to rental terms. The information collected will be used to facilitate communication and coordination with the playroom administration.
-</thinking>
-
 # Children Playroom Rental Application - Help Guide
 ## Purpose
 The Children Playroom Rental Application is a form used to request rental of the children's playroom for a specific event. It collects information about the applicant, event details, and agreement to rental terms.

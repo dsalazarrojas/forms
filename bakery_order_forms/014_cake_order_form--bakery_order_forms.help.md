@@ -1,7 +1,3 @@
-<thinking>... This form is designed to guide users through the process of ordering a cake from your bakery. To ensure that all necessary information is collected for a successful order, it's crucial that users fill out the form completely and accurately. Please do not use this form for orders outside of your bakery or any other business that offers cake services.
-
-</thinking>
-
 # Cake Order Form - Help Guide
 ## Purpose
 This form is used to place a cake order for special occasions, events, or daily needs. It gathers essential information about the customer, cake requirements, and payment details to ensure a smooth and satisfying experience for both the customer and the bakery.

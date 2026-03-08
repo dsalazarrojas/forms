@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-
-This form is intended to collect identification information from users, including their personal details such as name, contact information, and identification numbers. The purpose of this form is to ensure that all necessary identification information is accurately recorded and easily accessible.
-
-Before proceeding, please ensure that you have not already registered your identification number. Duplicate registrations will not be accepted, and any duplicate entries will be rejected.
-
-</thinking>
-
 # Identification Number Registration Form - Help Guide
 ## Purpose
 The Identification Number Registration Form is used to collect identification information from users, ensuring accurate and accessible records.

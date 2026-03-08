@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the effectiveness of in-car communications, specifically the clarity and usefulness of the communication experience. To ensure that this form is used correctly, please consider the following:
-
-- **Purpose**: This form is meant to be a subjective evaluation of the communication experience, and responses will help the organization identify areas of improvement.
-- **Who should fill out this form**: Anyone who has experienced an in-car communication, whether as a customer, employee, or partner.
-- **How often should the form be filled out**: This form should be filled out after each in-car communication experience.
-
-To avoid duplication, please do not fill out this form if:
-
-- You have already submitted feedback for the same communication experience.
-- You are not the intended recipient of the communication.
-- The communication experience was not relevant to your role or situation.
-
-Before filling out this form, make sure to review the entire form to ensure you have all the necessary information to complete it accurately.
-</thinking>
-
 # In Car Communication Feedback Form - Help Guide
 ## Purpose
 The In Car Communication Feedback Form is designed to collect subjective feedback about the clarity and usefulness of in-car communications. This form is used to help the organization understand how well the communication experience met your needs and expectations.

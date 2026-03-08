@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess the Branch Operations Competency of employees in the organization. It is essential to ensure that each field is filled correctly and accurately to obtain a comprehensive evaluation of the employee's performance.
-Before proceeding, we need to confirm that this form is relevant and necessary for the current user. Please ensure that this is the correct form and that you are not duplicating an assessment that has already been completed.
-</thinking>
-
 # Branch Operations Competency Assessment - Help Guide
 ## Purpose
 The Branch Operations Competency Assessment is a form designed to evaluate the skills and proficiency of employees in various areas of branch operations. It helps to identify strengths and weaknesses, provide feedback, and support professional development.

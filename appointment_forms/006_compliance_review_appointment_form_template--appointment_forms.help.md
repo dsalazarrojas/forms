@@ -1,5 +1,3 @@
-<thinking> This form is designed to help users schedule compliance review appointments. The purpose of this form is to gather essential information from the requester, such as appointment details, preferred date and time, review scope, and contact information. This form ensures that all necessary details are captured to facilitate a productive and efficient review process. This form should not be used for other purposes such as scheduling non-compliance related meetings or appointments.</thinking>
-
 # Compliance Review Appointment Form Template - Help Guide
 ## Purpose
 The Compliance Review Appointment Form Template is a standardized form designed to gather critical information for compliance reviews. This form helps to facilitate a productive and efficient review process by ensuring that all necessary details are captured.

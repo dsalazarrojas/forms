@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adulthood Development Assessment - Help Guide
 ## Purpose
 The Adulthood Development Assessment is a tool used to evaluate an individual's level of development in various aspects of adulthood, including social relationships, financial management, and career goals. This assessment is designed to help assessors and individuals identify strengths and areas for improvement in their personal and professional development.

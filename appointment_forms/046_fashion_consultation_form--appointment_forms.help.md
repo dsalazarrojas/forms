@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients seeking fashion consultations. It is intended to be used by fashion consultants to schedule appointments with clients and determine the best time and date for consultation. Please use this form to ensure that all relevant information is gathered for each client.
-
-</thinking>
-
 # Fashion Consultation Form - Help Guide
 ## Purpose
 The Fashion Consultation Form is a tool used to collect information from clients seeking fashion consultations. It is intended to be used by fashion consultants to schedule appointments with clients and determine the best time and date for consultation.

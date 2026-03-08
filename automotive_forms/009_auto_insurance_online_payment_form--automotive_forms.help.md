@@ -1,8 +1,3 @@
-<thinking>
-You are about to view a help guide for the Auto Insurance Online Payment Form. This form is designed to allow policyholders to easily and securely make payments for their insurance policies. Please make sure you are completing this form for your own policy and not for another policyholder. To avoid any confusion, we will only be processing payments for the policyholder's own policy.
-
-</thinking>
-
 # Auto Insurance Online Payment Form - Help Guide
 ## Purpose
 

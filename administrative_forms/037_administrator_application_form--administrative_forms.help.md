@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Administrator Application Form - Help Guide
 
 ## Purpose

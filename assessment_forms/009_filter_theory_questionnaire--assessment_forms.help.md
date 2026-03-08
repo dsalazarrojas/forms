@@ -1,6 +1,4 @@
-><thinking>...</thinking>
-
-# Filter Theory Questionnaire - Help Guide
+># Filter Theory Questionnaire - Help Guide
 
 ## Purpose
 The Filter Theory Questionnaire is designed to assess your familiarity, understanding, and application of filter theory, as well as your expectations for its results in real-world scenarios. The questionnaire aims to gather insights into your experiences and perspectives on filter theory, which is a concept used to understand and work with data that has been filtered or preprocessed in some way.

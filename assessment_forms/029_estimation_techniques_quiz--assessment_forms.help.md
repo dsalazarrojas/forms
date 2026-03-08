@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a project's estimation techniques and methods used by a team. The form is likely used by project managers or team members to gather data for project evaluation, assessment, or quality control purposes. This form might be used internally within an organization or as part of a project management process. The information collected in this form could be used to track team performance, identify best practices, and inform future project planning and estimation decisions.
-Before starting, ensure you are familiar with the project context and the organization's estimation methods and techniques.
-
-Please note that some fields might be redundant or have overlapping information (e.g., "Estimation Hours" and "Actual Hours"). It is essential to ensure accurate and consistent data entry to avoid errors and duplication.
-
-Also, be aware that some fields are required (asterisked) and must be filled in. Optional fields can be left blank unless specified otherwise.
-</thinking>
-
 # estimation_techniques_quiz - Help Guide
 ## Purpose
 This form is designed to collect information about a project's estimation techniques and methods used by a team.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to help organizations assess their compliance with Payment Card Industry (PCI) standards, which are security and data protection regulations for handling sensitive payment information, such as credit card numbers. This form is a simplified and condensed version of the actual PCI compliance checklist, making it easier to understand and fill out. To ensure accurate and helpful responses, please only answer questions that are relevant to your organization's specific needs and avoid duplicating questions that are already answered in previous responses.
-
-Before filling out this form, review the form's fields below to understand what information we're looking for.
-
-</thinking>
-
 # pci_compliance_assessment - Help Guide
 ## Purpose
 The **PCI Compliance Assessment** form is used to evaluate your organization's compliance with Payment Card Industry (PCI) security and data protection standards.

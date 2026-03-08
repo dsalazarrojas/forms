@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # refresher_pre_test_assessment - Help Guide
 
 ## Purpose

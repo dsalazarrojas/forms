@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the form is to collect information from guests about their access to hotel amenities. This form is intended to be used by hotel staff to record the guest's preferences and requirements for accessing various amenities such as pool, gym, and restaurant. The form should be completed by the guest to provide their name and contact details.
-</thinking>
-
 # Hotel Amenities Access Form - Help Guide
 ## Purpose
 This form is used to collect information from guests about their access to hotel amenities.

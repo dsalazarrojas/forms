@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Orientation Attendance Form - Help Guide
 ## Purpose
 This form is used to track the attendance of participants during volunteer orientation sessions. It captures key information about each participant, including session details and personal contact information. The form also collects the participant's attendance status, which is useful for tracking and reporting purposes.

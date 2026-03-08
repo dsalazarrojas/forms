@@ -1,5 +1,3 @@
-<thinking> The form is used to collect data for organizational leadership votes, typically filled out by members of the organization's leadership team. The form should only be filled out by authorized personnel, and the submitted data should be accurate and up-to-date, as it will be used for future reference and decision-making. It's essential to fill out the form carefully and consistently, as any discrepancies or errors may cause confusion and affect the accuracy of the data. This guide will walk you through the steps to complete the form and explain each field in detail. </thinking>
-
 # organization_leadership_voting_form - Help Guide
 ## Purpose
 The organization leadership voting form is used to collect and record leadership votes within the organization. This form is an essential tool for the leadership team to make informed decisions and track changes over time.

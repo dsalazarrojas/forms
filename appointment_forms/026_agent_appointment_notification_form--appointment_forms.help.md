@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information for scheduling agent appointments. It's crucial that the agent name and client name are accurately filled in as they will be used to identify the parties involved in the appointment. The appointment date and time are equally vital as they determine the schedule for the meeting. The contact phone number is also a required field to ensure the client can be reached on the day of the appointment. The special instructions field allows agents to provide any additional information that may be needed for the meeting, such as access requirements or preparation.
-</thinking>
-
 # Agent Appointment Notification Form - Help Guide
 ## Purpose
 The Agent Appointment Notification Form is used to collect essential information for scheduling appointments with clients. This form helps agents and clients stay organized and on schedule.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Adoption Agreement Extension Form - Help Guide
 
 ## Purpose

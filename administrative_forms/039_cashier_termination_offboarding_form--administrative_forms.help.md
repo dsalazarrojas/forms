@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the termination of an employee's employment with the company. It is an essential part of the offboarding process, ensuring that all necessary information is captured and procedures are followed to maintain a smooth transition for the departing employee and the company. Please ensure that you are completing this form accurately and thoroughly for all terminated employees. You may only need to complete this form once for each terminated employee. If you need to update any information or make changes, please contact the relevant personnel or management team.
-</thinking>
-
 # Cashier Termination Offboarding Form - Help Guide
 ## Purpose
 The Cashier Termination Offboarding Form is a document used to record the details of an employee's termination, including the reason for termination, final pay and benefits, and any other relevant information.

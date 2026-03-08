@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Give Thanks Form 3 - Help Guide
 
 ## Purpose

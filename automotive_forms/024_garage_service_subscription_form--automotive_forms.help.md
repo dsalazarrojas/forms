@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Garage Service Subscription Form - Help Guide
 ## Purpose
 The Garage Service Subscription Form is designed to collect information from customers who wish to subscribe to your garage services. This form will help us understand their vehicle details, contact information, and subscription preferences. Please fill out this form carefully to ensure you receive the right services for your vehicle.

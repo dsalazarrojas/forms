@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the risk level of a site or location, particularly in the context of COVID-19. It's intended to be completed by assessors who are evaluating the adherence to safety protocols and guidelines for a given location, such as a workplace, public facility, or event space.
-
-The form is divided into several sections, each focusing on different aspects of the site's preparedness and safety measures. The assessors will rate the level of social distancing measures, hygiene facilities, PPE availability, ventilation system functionality, signage, and cleaning schedules. The overall risk level is then determined based on these factors.
-
-The form is part of a process to identify potential risks and areas of improvement to ensure a safe environment for the public. Please ensure that you are completing this form as part of a legitimate assessment process and in accordance with relevant guidelines and regulations.
-</thinking>
-
 # COVID 19 Risk Assessment - Help Guide
 ## Purpose
 This form is used to evaluate the risk level of a site or location, considering factors such as social distancing, hygiene, PPE, and overall safety measures.

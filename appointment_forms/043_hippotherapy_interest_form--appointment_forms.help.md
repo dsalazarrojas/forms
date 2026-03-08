@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential clients to assess their interest in hippotherapy, a form of therapy that utilizes horses as a form of treatment. This form will help us understand the needs and preferences of our clients and provide them with an opportunity to express their interest in our services. It is essential to fill out this form accurately and completely to ensure that we can tailor our services to meet your needs. Please note that this form will not be used for any marketing purposes, and all information collected will be kept confidential.
-</thinking>
 # Hippotherapy Interest Form - Help Guide
 ## Purpose
 The Hippotherapy Interest Form is used to collect information from potential clients who are interested in hippotherapy services. This form will help us understand your needs and preferences and provide you with a better understanding of our services.

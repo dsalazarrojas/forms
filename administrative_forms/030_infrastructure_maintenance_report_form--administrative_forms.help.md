@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about the infrastructure projects that require maintenance. It's designed to be completed by project managers and maintenance personnel to track and report on ongoing and upcoming maintenance activities. 
 
 # Infrastructure Maintenance Report Form - Help Guide

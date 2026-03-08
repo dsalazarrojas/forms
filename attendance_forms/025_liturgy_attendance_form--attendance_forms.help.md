@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about the attendance of a liturgy service. 
-The form will be used by staff members and service officers to record the attendance, service type, preacher, location, and any other relevant details. 
-Please ensure that this form is not filled out if the data has already been recorded. 
-</thinking>
-
 # Liturgy Attendance Form - Help Guide
 ## Purpose
 The Liturgy Attendance Form is used to record the attendance and details of a liturgy service. This form is intended for staff members and service officers to provide accurate and up-to-date information about the service.

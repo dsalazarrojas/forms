@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coaches' Code Of Conduct Agreement - Help Guide
 ## Purpose
 This form is designed to ensure that all coaches in [insert organization/league name] uphold high standards of behavior and sportsmanship. By completing this form, coaches agree to abide by the principles of fair play, respect, and professionalism, promoting a positive and safe environment for all participants. This agreement is an essential part of our organization's code of conduct and is expected to be reviewed and signed annually by all coaches.

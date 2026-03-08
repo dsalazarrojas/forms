@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # environmental_conservation_project_impact_assessment - Help Guide
 
 ## Purpose

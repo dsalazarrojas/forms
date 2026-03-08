@@ -1,9 +1,3 @@
-<thinking>... 
-
-We're creating a form for leadership performance assessment, and it's essential to understand what this form is intended to do. This form might be used to gather information for a leadership performance assessment, such as evaluating an employee's leadership skills, identifying areas for improvement, or monitoring progress in key performance areas. Please make sure to fill out the form only if it's relevant to your situation. If you're unsure or have already submitted a similar request, please do not submit this form to avoid duplication of effort.
-
-...</thinking>
-
 # Leadership Performance Assessment Request Form - Help Guide
 ## Purpose
 The Leadership Performance Assessment Request Form is designed to gather information for leadership performance assessment. This form is used to request an assessment of an employee's leadership skills and identify areas for improvement.

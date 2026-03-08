@@ -1,7 +1,3 @@
-<thinking>
-The form is used for assessing loan compliance, and the provided YAML fields suggest it's used for general financial transactions. To avoid duplication, I'll ensure this explanation is concise and to the point. I'll also try to provide the best-effort explanation without inventing unsupported business logic.
-</thinking>
-
 # Loan Compliance Assessment - Help Guide
 ## Purpose
 The Loan Compliance Assessment form is used to collect relevant information for loan compliance. This form helps ensure that loan transactions are conducted in accordance with regulatory requirements and internal policies.

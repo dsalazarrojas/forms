@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for teachers and staff to submit a request for classroom supplies. The form captures essential information such as the requester's details, supply category, and specific items needed. It also asks for an estimation of the total cost and the urgency level of the request. The form is meant to streamline the supply requisition process and ensure that requests are properly documented and approved. Before filling out this form, please ensure that you have reviewed the school's policies and procedures for supply requisition and approval. Also, please note that some fields are optional but may be required depending on the specific circumstances of the request.
-</thinking>
-
 # Classroom Supplies Requisition Form - Help Guide
 ## Purpose
 This form is used to submit a request for classroom supplies. It helps the purchasing department to process and fulfill your supply needs efficiently.

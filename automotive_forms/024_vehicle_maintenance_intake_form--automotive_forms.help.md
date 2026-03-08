@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about a vehicle's maintenance needs and status. It is intended for vehicle owners and operators to report any issues or concerns with their vehicle. This information will help the team assess and prioritize maintenance tasks.
-
-To ensure accurate and comprehensive data collection, please do not fill out this form if the issue is not directly related to vehicle maintenance or status. Duplicate submissions may be removed to avoid confusion and ensure efficient processing.
-
-</thinking>
-
 # Vehicle Maintenance Intake Form - Help Guide
 ## Purpose
 

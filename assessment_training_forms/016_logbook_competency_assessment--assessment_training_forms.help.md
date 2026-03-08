@@ -1,5 +1,3 @@
-<thinking>...This form, named "Logbook Competency Assessment," appears to be designed for recording and evaluating competencies or skills possessed by individuals in a specific context. It seems to be relevant to HR or performance assessment processes in workplaces or institutions. The form's structure suggests it's used by a single assessor to evaluate a candidate. Non-duplication check: This form has 10 fields, which might be too few or too many for a typical assessment process. The fields seem focused on capturing basic information about the candidate and the assessment process...</thinking>
-
 # Logbook Competency Assessment - Help Guide
 ## Purpose
 This form is used to record and evaluate competencies or skills possessed by candidates in a specific context. It captures the assessor's name, their position, and the candidate's information, as well as their rating and comments on the assessment.

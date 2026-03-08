@@ -1,13 +1,3 @@
-<thinking>
-
-The Contract Agreement Authorization Form is used to collect information about contracts and agreements between the company and external parties. This form helps to ensure that all contracts are properly authorized and compliant with company policies and procedures.
-
-The form is divided into several sections: Contract Identification, Administrative Details, Legal and Compliance Review, Final Authorization, and Contract Terms.
-
-Before filling out this form, please ensure that you have all necessary information about the contract at hand, including official titles, contract values, and legal reviews. 
-
-</thinking>
-
 # Contract Agreement Authorization Form - Help Guide
 ## Purpose
 The Contract Agreement Authorization Form is used to collect information about contracts and agreements between the company and external parties. This form helps to ensure that all contracts are properly authorized and compliant with company policies and procedures.

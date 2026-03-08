@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in adopting a pet from a rescue organization. The form is designed to gather essential data about the pet, the contact person, and the potential new owner, to ensure a smooth and successful adoption process.
-
-To prevent duplication, the organization will review the provided information and contact the applicant to discuss the adoption before proceeding. This guide will walk you through each field, ensuring you understand what to expect and what is expected of you.
-
-</thinking>
-
 # Pet Rescue Adoption Application Form - Help Guide
 ## Purpose
 The Pet Rescue Adoption Application Form is designed to collect information from individuals interested in adopting a pet from the rescue organization. This form helps the organization assess whether the pet is a good match for the applicant and ensures a smooth adoption process.

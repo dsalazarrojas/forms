@@ -1,16 +1,3 @@
-<thinking>
-This form is likely used for registering speed limiter installations on vehicles. A speed limiter is a device that restricts a vehicle's maximum speed. This form could be used by vehicle owners or operators to record details of speed limiter installations on their vehicles. The form might be part of a larger fleet management system or used by mechanics for documentation purposes.
-
-Before proceeding, it's worth considering that speed limiter registration might already be a part of existing processes or systems, so it's possible that this form is intended to complement or replace existing forms. In such cases, it's crucial to check that this form does not create redundant data or overlap with existing processes.
-
-It's also worth noting that some fields might be redundant or unnecessary, depending on the specific requirements of the system or process this form is meant to support. For example, "Speed Limiter Notes 2" might not be necessary if there's already a separate notes field in another part of the system.
-
-This form is designed to collect various details related to speed limiter installations, including installation location, status, and other relevant information. The "installation_status" and "speed_limiter_status" fields are particularly notable as they indicate whether the speed limiter is installed, active, or in an unknown state, which could be critical in the context of vehicle safety and maintenance.
-
-To confirm, the form's purpose and fields should align with the specific business needs and regulations regarding vehicle speed limiters. 
-
-</thinking>
-
 # Vehicle Speed Limiter Registration - Help Guide
 ## Purpose
 The purpose of this form is to register speed limiter installations on vehicles. It collects information on the owner, vehicle, and installation details to ensure accurate and efficient documentation.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be completed by facility administrators to confirm the readiness of a facility for inspection, ensuring that all necessary safety protocols and procedures are in place. This form is usually filled out by a facility's management or designated representative.
-
-Before filling out this form, please ensure that you are authorized to do so and that you have the necessary information to complete it accurately. This form is designed to be completed once a year, or as required by facility management.
-
-</thinking>
-
 # Inspection Readiness Confirmation Form - Help Guide
 ## Purpose
 The Inspection Readiness Confirmation Form is used to confirm the readiness of a facility for inspection. This form ensures that all necessary safety protocols and procedures are in place, and that the facility is prepared for the upcoming inspection.

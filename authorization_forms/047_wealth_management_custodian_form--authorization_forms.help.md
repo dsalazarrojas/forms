@@ -1,14 +1,3 @@
-<thinking>
-The form "wealth_management_custodian_form" is designed to collect information from individuals for wealth management purposes, specifically for onboarding details and custodian agreements. This form is intended to gather relevant information from the individual, including their personal details, employment status, income, assets, beneficiaries, and agreement status. This form is likely used in a financial or investment context, such as in wealth management or estate planning.
-
-To confirm, the form is used for onboarding new clients or accounts, and it's not a general-purpose form. It's not intended for duplicate or redundant information collection.
-
-The form consists of two pages, and each field is designed to elicit specific information for the purpose of creating a new account or onboarding.
-
-This form does not include any sensitive or personally identifiable information (PII) fields, which reduces its risk of being a security concern.
-
-</thinking>
-
 # wealth_management_custodian_form - Help Guide
 ## Purpose
 

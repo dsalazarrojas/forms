@@ -1,11 +1,3 @@
-<thinking>
-
-The form "hardware_inventory_checklist_form" was created to help organizations maintain a comprehensive hardware inventory of their equipment and assets. This form is designed to be used in an administrative context, possibly by IT or facilities management teams, to catalog and track hardware items.
-
-The form is a multi-page checklist that guides the user through a series of questions and prompts to ensure that all hardware items are accounted for and their information is accurately recorded.
-
-</thinking>
-
 # hardware_inventory_checklist_form - Help Guide
 ## Purpose
 

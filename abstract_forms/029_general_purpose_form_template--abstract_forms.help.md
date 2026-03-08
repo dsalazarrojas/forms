@@ -1,8 +1,3 @@
-<thinking>
-This form was created using public survey topic metadata from various sources to provide a general-purpose form template. The intention is to serve as a basic template that can be filled out and used in different contexts, such as gathering contact information, requests, or feedback.
-Before proceeding, please ensure that the form's purpose aligns with your specific needs. It is not an exact replica or derivative of any proprietary platform, including Jotform, Google Forms, or ODK Collect, and is released under the Creative Commons BY 4.0 license. You are free to use, modify, and even distribute this form, but please provide proper credit.
-</thinking>
-
 # General Purpose Form Template - Help Guide
 ## Purpose
 This form is designed to be a versatile template for various purposes, including gathering contact information, requests, or feedback. Use it as a starting point to adapt to your specific needs.

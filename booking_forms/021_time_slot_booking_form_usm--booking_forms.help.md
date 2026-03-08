@@ -1,15 +1,3 @@
-<thinking>
-To determine the form purpose and provide a clear explanation for the end user, let's analyze the form fields:
-
-The form appears to be a booking form for a specific time slot. It requests information related to the booking, including the student's name, ID, faculty, time slot, date of booking, purpose of visit, department, room number, and staff. The fields suggest that the form is used for scheduling meetings or sessions with students, possibly for academic or research purposes.
-
-The fields are relatively straightforward, and the required fields seem to be related to the student's identification and meeting details. The faculty field is present but not marked as required, which might indicate that it's optional or depends on the specific use case.
-
-To ensure clarity, let's provide a concise explanation for the end user:
-
-The form is for booking a specific time slot. Please provide the following information to complete the booking:
-</thinking>
-
 # time_slot_booking_form_usm - Help Guide
 ## Purpose
 The form is for booking a specific time slot for a student meeting or session.

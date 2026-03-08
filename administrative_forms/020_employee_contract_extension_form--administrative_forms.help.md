@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to request an extension to their contract, typically when there are extenuating circumstances that require an update to the original contract terms. When using this form, ensure you are submitting a request for a legitimate reason and that your request is not already being processed by another form or department. If you are unsure about whether to use this form, please reach out to your supervisor or HR representative for clarification.
-</thinking>
-
 # Employee Contract Extension Form - Help Guide
 
 ## Purpose

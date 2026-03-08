@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to request access to a system. This is a form that employees can use to request access codes for access to a system. The form is divided into different sections to gather information about the request, such as the request details, date and time of the request, a description of the request, the access code to be granted, the name of the person making the request, and the department and employee ID associated with the request. This form is not mandatory, but it is useful for the requesting employee to provide all necessary information for the access request.
-It is essential that the form is used correctly to avoid duplication of access codes. Before completing the form, check that the system is not already accessed and that this is the correct form to be filled out. 
-</thinking>
-
 # System Access Code Request Form - Help Guide
 
 ## Purpose

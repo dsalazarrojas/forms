@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to help applicants for an exotic pet breeding license gather and submit required information. This form will guide you through the application process, making it easier to ensure you have all necessary details and avoid any potential issues with your application.
-</thinking>
-
 # Exotic Pet Breeding License Application - Help Guide
 ## Purpose
 This form is intended to collect application details for an exotic pet breeding license. Please fill out this form to provide the necessary information for the application process.

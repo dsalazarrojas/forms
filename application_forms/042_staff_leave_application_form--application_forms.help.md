@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect leave application information from staff members. This guide is to help users understand how to complete the form correctly and effectively.
-</thinking>
-
 # Staff Leave Application Form - Help Guide
 ## Purpose
 The Staff Leave Application Form is designed to collect leave application information from staff members. This form is used by HR or managers to process leave requests and ensure smooth workflow continuity.

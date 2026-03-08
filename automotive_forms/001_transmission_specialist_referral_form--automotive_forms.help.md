@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transmission Specialist Referral Form - Help Guide
 ## Purpose
 The Transmission Specialist Referral Form is used to refer a vehicle to a transmission specialist for repair or maintenance. This form captures essential information about the vehicle and the issue being referred. The form helps transmission specialists assess and provide accurate estimates and schedules for repairs. 

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from golf course patrons for access to the golf course. The purpose of this form is to collect essential details from players, including their preferences for events, payment information, and any additional fields that are relevant to their visit. By completing this form, players can ensure that their needs and preferences are recorded accurately, making their experience at the golf course more enjoyable and efficient. This form is intended for both regular players and guests, ensuring that all visitors are properly registered and have a positive experience.
-
-</thinking>
-
 # Golf Course Access Form - Help Guide
 ## Purpose
 The Golf Course Access Form is designed to collect essential details from golf course visitors, ensuring their needs and preferences are recorded accurately for a more enjoyable and efficient experience.

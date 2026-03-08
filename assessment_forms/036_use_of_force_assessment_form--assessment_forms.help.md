@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Use Of Force Assessment Form - Help Guide
 ## Purpose
 This form is used to document and assess the use of force during incidents. It captures relevant information about the suspect, incident, and responding officer's experiences. The form helps to evaluate the appropriateness and justification of the force used and identify potential injuries sustained by the suspect or responding officer. This data will help in training, policy development, and future incident reviews.

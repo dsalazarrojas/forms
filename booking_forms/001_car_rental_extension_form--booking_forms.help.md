@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the "Car Rental Extension Form" is used correctly, we should provide end-users with a clear understanding of its purpose and requirements. This form is intended to help customers extend their existing car rental reservations by providing essential information such as their personal details, new return date, and additional requirements. To avoid duplication of efforts, we should ensure that customers are aware of the correct format and fields required for a successful extension submission. 
-</thinking>
-
 # Car Rental Extension Form - Help Guide
 
 ## Purpose

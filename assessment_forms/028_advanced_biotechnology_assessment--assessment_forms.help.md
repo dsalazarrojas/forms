@@ -1,18 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about the participant's background and experience in the field of biotechnology. This form is used for evaluation and assessment purposes.
-
-We will only ask questions that are necessary to provide an accurate assessment. Please answer all required fields to ensure that your assessment is processed correctly.
-
-This form is divided into several sections. Each section is marked as <label> (`<name>`, `<type>`, required/optional) where:
-- `<name>` is the field name.
-- `<type>` is the field type (e.g. text, number, select_one, select_multiple).
-- `required/optional` indicates whether the field is required (true) or not (false).
-
-Please fill out the form carefully and accurately.
-
-</thinking>
-
 # Advanced Biotechnology Assessment - Help Guide
 ## Purpose
 The Advanced Biotechnology Assessment form is used to collect information about the participant's background and experience in the field of biotechnology. This form is used for evaluation and assessment purposes.

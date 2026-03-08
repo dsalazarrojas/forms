@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients before their appointment at a salon. The form aims to ensure that the client's medical history is up-to-date and accurate, which is crucial for the salon staff to provide the best possible service and ensure the client's safety. This form is not intended for any other purpose other than collecting client information for the salon appointment.
-
-</thinking>
-
 # salon_pre_appointment_health_check - Help Guide
 ## Purpose
 This form is used to collect essential information from clients before their appointment at a salon, ensuring that the client's medical history is up-to-date and accurate.

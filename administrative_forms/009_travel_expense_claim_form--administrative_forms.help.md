@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive travel expense claim form designed to document and manage employee travel expenses. The form is intended for employees to claim expenses related to business travel, allowing them to submit detailed information about their trips. The purpose of this form is to streamline the expense claim process, ensuring that all necessary information is captured and easily accessible for approval and reimbursement. The form's design and fields have been carefully crafted to accommodate the various aspects of travel expenses, including trip dates, destinations, expenses categories, currencies, amounts, and reimbursement details. This guide will walk users through the form's fields, explaining each section's purpose and requirements to ensure a smooth and efficient completion process.
-</thinking>
-
 # travel_expense_claim_form - Help Guide
 ## Purpose
 

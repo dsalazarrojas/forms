@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sdr-dog-adoption-application - Help Guide
 ## Purpose
 This form is used for potential adopters to provide information about themselves and the dog they are interested in adopting. The form gathers personal details such as name, contact information, and the dog's breed, age, and adoption reason. This information will be used to process and facilitate the adoption process.

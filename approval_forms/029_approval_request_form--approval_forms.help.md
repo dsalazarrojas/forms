@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting various types of approvals within an organization. It should only be used for requests that require approval, such as budget approvals, travel approvals, purchase approvals, personnel approvals, leave approvals, or other types of requests. Before completing this form, ensure that you have read and understood the company's approval process and that the request is not already in progress or has been previously approved. The form should be submitted to the correct approver based on the request type, as specified in the "Submit to Approver" field.
-</thinking>
-
 # Approval Request Form - Help Guide
 ## Purpose
 This form is used for requesting various types of approvals within an organization. It should only be used for requests that require approval, such as budget approvals, travel approvals, purchase approvals, personnel approvals, leave approvals, or other types of requests.

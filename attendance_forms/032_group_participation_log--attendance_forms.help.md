@@ -1,5 +1,3 @@
-<thinking>This form is designed for recording and tracking group participation. The Group Participation Log form is intended to be completed by group members or administrators to document attendance and engagement levels within a group. To ensure accurate and reliable data, please use the Group Participation Log form with caution and attention to detail, and avoid completing this form for the same individual or group more than once. Completing the form for the same individual or group more than once can result in duplicate entries and inaccurate participation data.</thinking>
-
 # Group Participation Log - Help Guide
 
 ## Purpose

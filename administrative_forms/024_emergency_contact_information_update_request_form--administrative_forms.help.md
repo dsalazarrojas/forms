@@ -1,5 +1,3 @@
-<thinking>Before creating this form, please ensure that you are updating the emergency contact information for a specific individual. This form should not be used to create new emergency contact information if it does not already exist in the system. Ensure that the information provided is accurate and up-to-date, as this form will update the existing records.</thinking>
-
 # Emergency Contact Information Update Request Form - Help Guide
 ## Purpose
 This form is designed to allow you to update the emergency contact information for an individual. You will need to provide basic contact information and confirm the emergency contact's relationship to the individual.

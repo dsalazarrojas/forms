@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # filter_inspection_report - Help Guide
 ## Purpose
 The "Filter Inspection Report" form is designed to collect and document the results of inspections performed on filters used to purify or clean water or air. This form helps to standardize the recording of inspection conditions and results, ensuring that all critical information is captured and reported accurately.

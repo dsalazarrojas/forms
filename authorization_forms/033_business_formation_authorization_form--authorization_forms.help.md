@@ -1,10 +1,3 @@
-<thinking>
-
-This form is used to obtain authorization for the formation of a new business entity. The purpose of this form is to gather necessary information from the authorizing party, including the proposed business name, type, and purpose, as well as the authorizing party's name, title, and contact information. This information will be used to verify the identity of the authorizing party and ensure that the business entity is properly formed.
-
-
-</thinking>
-
 # Business Formation Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization for the formation of a new business entity.

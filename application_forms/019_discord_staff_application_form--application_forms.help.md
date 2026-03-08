@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discord Staff Application Form - Help Guide
 ## Purpose
 This form is for staff members to submit their application for joining the Discord community's staff team. Please note that this form is not a substitute for an in-person interview or phone call, and we reserve the right to request additional information or verification.

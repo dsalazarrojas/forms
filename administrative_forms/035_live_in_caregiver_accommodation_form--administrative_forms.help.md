@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block will explain the purpose of the form, check for relevance, and prevent duplication:
 
 The "Live In Caregiver Accommodation Form" is used to gather information about a family member's accommodation needs and details of the caregiver's arrangement. This form is essential for caregivers and family members to provide accurate and reliable information about their accommodation requirements, which can help the administrative team make informed decisions about accommodation status. To ensure the form is completed accurately and efficiently, please review the fields carefully and provide the required information to the best of your ability.

@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 # High Visibility Gear Order Form - Help Guide
 
 ## Purpose

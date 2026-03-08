@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to provide users with a step-by-step explanation of how to complete the Hospitality Knowledge Assessment form. This form is used to assess the knowledge and skills of hotel staff in various areas such as contact information, skills, procedures, and overall experience. The form can be completed by any individual with the necessary knowledge, but please note that some fields are optional and should only be filled if relevant to the user's situation. Before starting, ensure you have reviewed the form carefully to avoid duplication of answers and provide accurate information.
-</thinking>
-
 # hospitality_knowledge_assessment - Help Guide
 ## Purpose
 The Hospitality Knowledge Assessment form is designed to evaluate the knowledge and skills of hotel staff in various areas. This form is essential for ensuring that staff members have the necessary expertise to provide excellent service to guests.

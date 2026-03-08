@@ -1,22 +1,3 @@
-<thinking>
-The Prospective Reimbursement Claim Form is used to collect information from users who have expenses to be reimbursed by an organization. This form gathers details about the expense, including the user's information, expense date, description, and amount, as well as any supporting documents or receipts. It also captures the claimant's name, organization ID (a unique identifier for the organization), and contact information (email and phone number). The form allows users to select a category for their expense and includes a field for any additional notes or comments. The purpose of this form is to ensure that all necessary information is collected and submitted correctly, making the reimbursement process efficient and accurate.
-
-The form has 12 fields and can be completed in the following steps:
-
-1. Enter your information, including your name, email address, and phone number.
-2. Select the category of your expense.
-3. Upload a receipt or supporting document (if required).
-4. Enter a brief description of your expense.
-5. Enter the date of your expense.
-6. Enter the amount of your expense.
-7. Enter your claimant's name.
-8. Enter your organization ID.
-9. Choose how you would like to submit your form (Submit or Other).
-10. Add any additional notes or comments about your claim.
-11. Review and submit your form.
-
-</thinking>
-
 # Prospective Reimbursement Claim Form - Help Guide
 ## Purpose
 The Prospective Reimbursement Claim Form is designed to collect information from users who have expenses to be reimbursed by an organization.

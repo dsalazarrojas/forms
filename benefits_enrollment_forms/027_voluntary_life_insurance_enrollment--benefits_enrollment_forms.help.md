@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voluntary Life Insurance Enrollment - Help Guide
 ## Purpose
 The Voluntary Life Insurance Enrollment form is used for employees to choose and enroll in various life insurance plans that provide additional financial protection for themselves and their loved ones in case of an unexpected event. This form helps employees select the right plan that suits their needs and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information for employee reimbursement claims, particularly during performance reviews. The form should only be submitted if the employee has been officially approved for reimbursement, as indicated by the "Approved By" field. To avoid duplication, please ensure that you have not already submitted a claim for the same performance review period. If you have any doubts or questions about submitting a claim, please reach out to your supervisor or HR representative for guidance.
-</thinking>
-
 # Performance Review Reimbursement Claim Form - Help Guide
 ## Purpose
 The Performance Review Reimbursement Claim Form is designed to collect information for employee reimbursement claims during performance reviews. It helps to ensure accurate and efficient processing of reimbursement requests.

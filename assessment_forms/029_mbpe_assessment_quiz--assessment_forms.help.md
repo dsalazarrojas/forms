@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from end-users for assessments and evaluations. This form aims to gather data for the MBPE (Managerial and Behavioral Performance Evaluation) assessment, which is used to evaluate an individual's performance and behavior in specific areas such as leadership, operations, finance, and marketing. The form is designed to collect relevant information from end-users, ensuring that each field is only filled out once and the data is up-to-date. This form is intended for internal use only and should not be filled out by end-users without proper authorization.
-</thinking>
-
 # MBPE Assessment Quiz - Help Guide
 ## Purpose
 The MBPE Assessment Quiz is a form used to collect information from end-users for assessments and evaluations. It is designed to gather data in a variety of fields, including personal details and skills evaluations.

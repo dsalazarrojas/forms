@@ -1,5 +1,3 @@
-<thinking> This form is designed for vehicle registration verification. The purpose of this form is to collect information about a vehicle for verification purposes. This form is likely used by dealerships, insurance companies, or other industry professionals to verify the details of a vehicle and its owner. The form is intended to be completed with accurate information about the vehicle and its owner, such as VIN, registration number, owner's name and contact details, and verification status.</thinking>
-
 # vehicle_registration_verification_form - Help Guide
 ## Purpose
 This form is used for vehicle registration verification. It helps to collect and verify information about a vehicle and its owner for industry professionals.

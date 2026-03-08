@@ -1,12 +1,3 @@
-<thinking>
-The English Proficiency Assessment form is designed to evaluate an individual's language skills, reading comprehension, writing expression, listening comprehension, speaking expression, grammar, vocabulary, and overall English proficiency level. This form is likely used to assess language skills in a academic or professional setting, such as language schools, universities, or language training programs. The form collects information on various aspects of English language proficiency, including speaking, listening, reading, and writing.
-
-Before completing the form, please ensure that you have reviewed the form's purpose and are familiar with the required and optional fields. If you are unsure about any of the fields or options, please contact your language skills trainer or assessor for guidance.
-
-This guide provides step-by-step instructions on how to complete the English Proficiency Assessment form. Please follow these instructions carefully to ensure accurate and complete information.
-
-</thinking>
-
 # English Proficiency Assessment - Help Guide
 
 ## Purpose

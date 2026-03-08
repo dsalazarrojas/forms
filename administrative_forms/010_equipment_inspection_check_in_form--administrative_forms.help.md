@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to record the details of an equipment inspection check-in process. It captures information about the equipment type, status, condition, serial number, purchase date, last maintenance date, next maintenance date, remarks, and other relevant details. The form is likely used in an industrial or manufacturing setting where equipment needs to be inspected regularly. 
-
-Before creating this document, it's essential to verify that the form purpose aligns with the company's current procedures and that the form is not duplicating any other forms that might already exist. 
-
-</thinking>
-
 # equipment_inspection_check_in_form - Help Guide
 ## Purpose
 The equipment inspection check-in form is used to record the details of an equipment inspection process.

@@ -1,13 +1,3 @@
-<thinking>
-
-The Move Out Inspection Check Out Form is used for tenants to report the condition of the property before they move out. This form helps property managers to assess the property's condition at the end of the lease term, providing a record of the property's state and any issues that need to be addressed.
-
-Before filling out this form, please ensure that you have completed a thorough inspection of the property and have all necessary documentation and photographs to support your claims. This form should only be completed once the tenant has moved out of the property and should not be used for any other purpose.
-
-Please note that this form is not a substitute for a comprehensive inspection report, but rather a quick and easy way to report the property's condition at the end of the lease term.
-
-</thinking>
-
 # Move Out Inspection Check Out Form - Help Guide
 ## Purpose
 The Move Out Inspection Check Out Form is a report used to document the condition of a property before a tenant moves out. It is used by property managers to assess the property's condition at the end of the lease term and to track any issues that need to be addressed.

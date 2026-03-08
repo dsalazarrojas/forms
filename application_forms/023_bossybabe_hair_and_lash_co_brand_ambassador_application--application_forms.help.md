@@ -1,14 +1,3 @@
-<thinking>
-To ensure that this form serves its intended purpose effectively, let's review its purpose and design.
-
-This form is designed to gather information from individuals who want to become brand ambassadors for BossyBabe Hair And Lash Co. The form aims to collect personal details, brand alignment, content creation capabilities, and agreement with terms and conditions. As a result, the form should be completed by interested individuals who are willing to represent the brand and share its content on their social media platforms.
-
-To prevent duplication and ensure relevance, we should verify that the applicant is not already a brand ambassador and that they are not completing the form for a commercial purpose. This will help us maintain the integrity of our brand ambassador program and ensure that only genuine applicants are considered.
-
-To complete this form, applicants must provide their personal details, such as name, email, phone number, and social media handles. They must also demonstrate their brand alignment by answering questions about their favorite BossyBabe products and their willingness to share content. Additionally, they must agree to the brand ambassador terms and conditions.
-
-</thinking>
-
 # BossyBabe Hair And Lash Co Brand Ambassador Application - Help Guide
 ## Purpose
 The BossyBabe Hair And Lash Co Brand Ambassador Application form is designed to gather information from individuals interested in becoming brand ambassadors for our company. This form helps us assess their qualifications and suitability for the role.

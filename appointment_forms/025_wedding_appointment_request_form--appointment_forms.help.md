@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Appointment Request Form - Help Guide
 
 ## Purpose

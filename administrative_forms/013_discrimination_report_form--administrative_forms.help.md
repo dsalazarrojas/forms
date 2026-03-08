@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discrimination Report Form - Help Guide
 
 ## Purpose

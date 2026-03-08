@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the understanding of angles and scales concepts in students. The purpose of this form is to evaluate their knowledge in identifying different types of angles, understanding scale measurements, and applying these concepts to real-world problems. This form is intended to be completed by students and does not require any specific expertise or background knowledge. Please note that this form is an original adaptation of public survey topic metadata and is not affiliated with any form creation or data collection platform.
-</thinking>
-
 # Angles and Scales Assessment - Help Guide
 ## Purpose
 The Angles and Scales Assessment is designed to evaluate your understanding of angles and scales concepts. This form is a self-assessment tool for students to gauge their knowledge in this subject area.

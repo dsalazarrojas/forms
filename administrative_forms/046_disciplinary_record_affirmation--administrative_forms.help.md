@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to document disciplinary actions or incidents that have occurred in a workplace setting. The form is meant to provide a structured format for reporting and recording incidents, ensuring consistency and accuracy in the documentation process. The form is used by administrative staff to gather information and track progress on incidents, helping to maintain a fair and equitable work environment. 
-
-Please note that this form is not meant to be used as a legal document or a formal investigation report. Its purpose is purely administrative in nature and is intended to aid in the management and tracking of workplace incidents.
-
-The form has been designed based on general best practices in form design and is compliant with accessibility standards.
-</thinking>
-
 # Disciplinary Record Affirmation - Help Guide
 ## Purpose
 The Disciplinary Record Affirmation form is used to document and record disciplinary actions or incidents in a workplace setting.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess an individual's fitness and training goals, as well as their experience and preferences in the context of functional strength training. It is meant to provide the user with an accurate representation of their current state and goals, helping them to create a tailored plan for improvement. 
-
-The form collects information on the user's age, height, weight, fitness goals, training frequency, exercise experience, injury history, current level of fitness, goal intensity, goal duration, goal frequency, current program, and goal program. It is used to determine the most suitable program for the user based on their individual needs and capabilities.
-
-This guide will walk you through the process of completing the form and explain each field in detail.
-
-</thinking>
-
 # Functional Strength Training Assessment Form - Help Guide
 ## Purpose
 The Functional Strength Training Assessment Form is designed to help users assess their current fitness level and set realistic goals for their functional strength training program. It collects information about the user's demographics, fitness level, experience, and preferences to provide a tailored plan for improvement.

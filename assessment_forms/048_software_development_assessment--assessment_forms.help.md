@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the software development process of a project. The purpose of this form is to gather information about the project's software development details. It is used to evaluate and assess the project's software development process. It is recommended to complete this form only for projects that have software development as a significant aspect of their process.
-Please make sure you have not completed this form for other types of projects or assessments.
-</thinking>
-
 # software_development_assessment - Help Guide
 ## Purpose
 The software_development_assessment form is used to collect information about the software development process of a project. This form is used to assess and evaluate the project's software development details.

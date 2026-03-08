@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be completed by customers or users who want to book a city tour. It is intended for users to provide their contact information, tour preferences, and payment options to confirm their booking. The form should only be filled by one person per booking.
-</thinking>
 # City Tour Booking Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is used for jury members to provide information about themselves and their availability for a consultation appointment for the Beauty Awards. The form is designed to gather relevant details about the jury members, including their contact information, area of expertise, and availability. The form also allows jury members to specify their preferred consultation date and time, as well as their estimated consultation duration. Additionally, the form includes fields for jury members to indicate if they require any materials or documents beforehand, and if they have any dietary restrictions or special accommodations.
-
-The main goals of this form are to ensure that the consultation appointment is properly coordinated and to provide jury members with the necessary information to prepare for the consultation.
-
-This guide is intended to help jury members fill out the form accurately and efficiently.
-
-</thinking>
-
 # Beauty Awards Jury Consultation Appointment Form - Help Guide
 
 ## Purpose

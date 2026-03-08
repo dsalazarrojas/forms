@@ -1,12 +1,3 @@
-<thinking>
-To confirm that the form is for requesting workers compensation records from an employer, and to ensure that the user understands the purpose and context of the form.
-
-The purpose of this form is to obtain workers' compensation records from an employer on behalf of an employee. The form is used to request access to the employee's records, which may include information about their employment history, benefits, or other relevant details. The employer is being asked to release this information for a specific reason, which may be for the employee's own personal records, for a new employment opportunity, or for another purpose.
-
-To confirm that the user is requesting the records for a legitimate reason, we need to ensure that the user understands the context and purpose of the form. This will help prevent misuses or unauthorized access to sensitive information.
-
-</thinking>
-
 # Workers Compensation Records Release Form - Help Guide
 ## Purpose
 The Workers Compensation Records Release Form is a request for an employer to release workers' compensation records related to an employee. This form is used to facilitate access to relevant information for the employee's personal records, new employment opportunities, or other valid reasons.

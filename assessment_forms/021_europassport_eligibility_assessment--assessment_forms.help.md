@@ -1,12 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the EuroPassport Eligibility Assessment form, we need to consider the following:
-- The form is designed to assess the eligibility of individuals for a EuroPassport, which likely involves verifying their nationality, address, and other relevant information.
-- Each field is designed to collect specific data, such as nationality, address, and date of birth.
-- The fields can be categorized into several sections: User Input, Nationality, Address, Contact, and Follow-up.
-
-</thinking>
-
 # EuroPassport Eligibility Assessment - Help Guide
 ## Purpose
 The EuroPassport Eligibility Assessment form is designed to evaluate the eligibility of individuals for a EuroPassport. This form helps to collect necessary information to verify the applicant's details and assess their eligibility.

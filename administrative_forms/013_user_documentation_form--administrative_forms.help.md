@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback, documentation requests, and support issues from users to improve the overall user experience. It is designed to be completed by users to provide clear and concise information that can be used to address their concerns and requests.
-
-To complete this form, follow these steps:
-
-1. Please select the category of feedback you are providing: Technical or Non-Technical.
-2. Enter your email address, which will be used to contact you for further clarification or to provide updates on your request.
-3. Enter your phone number, which is optional but can be used to contact you for further discussion.
-4. Describe the documentation request or support issue you are experiencing, including any relevant details or comments.
-5. Select the type of documentation you are requesting (Manual, Online, or Phone).
-6. Choose the priority level of your request (Low, Medium, or High).
-7. Submit the form to send your request to the support team.
-
-</thinking>
-
 # User Documentation Form - Help Guide
 ## Purpose
 This form is designed to gather user feedback, documentation requests, and support issues from users to improve the overall user experience.

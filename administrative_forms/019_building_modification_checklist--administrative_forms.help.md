@@ -1,8 +1,3 @@
-<thinking>
-To provide context, this form is used to capture the essential data required for modifications to a building, ensuring that the necessary information is collected accurately and efficiently. This guide will walk you through the Building Modification Checklist form, explaining its purpose, how to complete it, and what each field represents.
-
-</thinking>
-
 # Building Modification Checklist - Help Guide
 ## Purpose
 This form is designed to gather essential details for modifications to a building, including project start and end dates, property address, and various aspects of the project, such as structural and electrical work, permitting, and compliance with building codes. By completing this form, you will ensure that all relevant information is accurately recorded and that the necessary permits, approvals, and safety measures are in place.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form, "Fair Work Laws Questionnaire," is to collect information about employees' awareness and understanding of Fair Work Laws and Regulations, as well as their experiences and perceptions of their workplaces' compliance with these laws. This form will help to identify areas where employees may need additional training or support to ensure fair treatment and compliance with Fair Work Laws and Regulations. It is essential to note that this form is not designed to be used as a legal document or to be used as evidence in any legal proceedings. The answers provided are for the purpose of improving workplace practices and policies.
-
-Before starting the form, please ensure that you have not completed it in the past, and if you have any concerns or questions, feel free to reach out to your HR representative.
-
-</thinking>
-
 # Fair Work Laws Questionnaire - Help Guide
 ## Purpose
 The Fair Work Laws Questionnaire is designed to gather information about employees' awareness and understanding of Fair Work Laws and Regulations and their experiences and perceptions of their workplaces' compliance with these laws.

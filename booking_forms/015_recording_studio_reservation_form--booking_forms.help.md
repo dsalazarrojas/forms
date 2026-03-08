@@ -1,10 +1,3 @@
-<thinking>
-This form is for recording studio reservations. I'll assume that it is used for clients to reserve time slots in a recording studio. This is a form that will ask for basic information about the client, such as their name, contact info, and preferences. The form will likely be completed by both the client and the recording studio staff, as both will need to provide input. I'll make sure the help guide is clear and concise for both parties.
-
-The form has 12 fields. The first field is for the title of the reservation. The following fields are for client information, including a contact method, email, and phone number. The next set of fields is for specific details about the recording process, including the date and time of the session and the studio information. The form also asks if any musicians are involved and if a contact method is needed. The final fields are for additional details and special instructions.
-
-</thinking>
-
 # Recording Studio Reservation Form - Help Guide
 
 ## Purpose

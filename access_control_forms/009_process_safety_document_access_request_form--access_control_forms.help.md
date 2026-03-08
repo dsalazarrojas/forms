@@ -1,14 +1,3 @@
-<thinking>
-To validate that the form purpose is to request access to safety documents, and that the end user is accessing these documents for a legitimate reason.
-
-The form appears to be a simple request form for access to process safety documents. The fields provided seem to be relevant to the purpose of the form.
-
-There is no indication that the form is being filled out multiple times for the same purpose, so duplication checks are not necessary.
-
-Please note that the fields provided are sufficient for the purpose of the form. However, if the form is intended to be used in a specific context or industry, additional fields may be required.
-
-</thinking>
-
 # Process Safety Document Access Request Form - Help Guide
 ## Purpose
 This form is designed to request access to process safety documents. Fill out this form to submit a request for access to the relevant documents.

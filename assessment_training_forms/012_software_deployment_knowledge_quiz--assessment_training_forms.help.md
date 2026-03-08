@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Deployment Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge about software deployment processes, release planning, and onboarding practices. It will help us understand your level of awareness and understanding of these topics, which is essential for a smooth software deployment process.

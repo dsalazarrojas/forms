@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Material Hardness Assessment form is used to gather information about the hardness of a material, particularly the test method used, the test value, and any observations or notes about the assessment. This form is likely used in industries such as manufacturing, materials science, or quality control, where evaluating material hardness is crucial for product development or quality assessment. 
 
 The form is designed to be completed by users who have conducted a material hardness test and want to record the results and any relevant details.

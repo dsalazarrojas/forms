@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive user-facing help guide for the NGO Grant Proposal Voting Form. The purpose of this form is to gather evaluations and voting results for NGO grant proposals. The form is designed to collect relevant information from reviewers and submitters, including contact details, grant proposal evaluation, and submission details. This guide will walk users through each field of the form, explaining their purpose and expected input.</thinking>
-
 # NGO Grant Proposal Voting Form - Help Guide
 ## Purpose
 The NGO Grant Proposal Voting Form is designed to collect evaluations and voting results for NGO grant proposals. Reviewers and submitters will use this form to provide feedback on proposal submissions, including grant amounts, review committee details, and submission dates. The form is crucial for ensuring that the evaluation process is thorough and accurate.

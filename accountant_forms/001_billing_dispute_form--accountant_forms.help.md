@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by customers to dispute a billing charge. The form is used by the accountant to gather information about the dispute, including the customer's contact details, the amount being disputed, the reason for the dispute, and the preferred resolution.
-
-To ensure that this form is used correctly, we should check that it is not being used for duplicate or unrelated disputes. This form should only be used for legitimate disputes that need to be reviewed and resolved by the accountant.
-
-Before completing this form, please ensure that you have reviewed the terms and conditions of your account and understand the process for disputing charges.
-
-</thinking>
-
 # Billing Dispute Form - Help Guide
 ## Purpose
 The Billing Dispute Form is used to inform the accountant of a disputed charge on your account. This form helps us to quickly and efficiently gather the necessary information to review and resolve the dispute.

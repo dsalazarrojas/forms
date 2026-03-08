@@ -1,5 +1,3 @@
-<thinking> This form is designed to gather information and conduct an audit of a CCTV (Closed-Circuit Television) IP system, which typically involves evaluating the system's hardware, network, and security settings. The purpose of this form is to assess the overall condition and performance of the system, including its ability to support recording, storage, and security requirements. The audit will help identify potential issues and provide recommendations for improvement. </thinking>
-
 # CCTV IP System Audit - Help Guide
 ## Purpose
 The CCTV IP system audit is a comprehensive assessment of the CCTV system's hardware, network, and security settings to ensure it meets the required standards and best practices for video surveillance.

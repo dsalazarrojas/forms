@@ -1,13 +1,3 @@
-<thinking>
-
-We will create a user-facing help guide for the Coach Compliance Assessment form, making it easier for end-users to understand its purpose and complete it accurately.
-
-This form is designed for coaches to assess their compliance with regulatory requirements and standards. It helps us evaluate their adherence to our coaching practices, ensuring that they meet our expectations for maintaining client confidentiality, following safety protocols, and maintaining up-to-date knowledge on coaching practices. By filling this form, coaches demonstrate their commitment to upholding industry standards and our organization's policies.
-
-Before proceeding, please review this guide to ensure you understand each field's purpose and requirements.
-
-</thinking>
-
 # Coach Compliance Assessment - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for event staff to schedule staff members for specific events. The form allows staff members to enter their personal details such as name and email, the event details including event date, event type, and event duration. They will also be asked to confirm their availability for the event, confirm their role for the event, and confirm other event details. This information will help management to assign staff members to events according to their availability and qualifications. 
-
-It is essential to fill out this form correctly to ensure accurate scheduling and efficient allocation of staff resources. Please review each field carefully to ensure completeness and accuracy. 
-
-Before proceeding, please check if this form is relevant to your role and if you have completed all the necessary fields in the past. If this form is not relevant to your role, please do not fill it out. If you have completed this form in the past, ensure that you have updated any changes in your information since then.
-</thinking>
-
 # Event Staff Scheduling Booking Form - Help Guide
 ## Purpose
 The Event Staff Scheduling Booking Form is designed for event staff to schedule staff members for specific events. It gathers information about staff members, event details, and staff's confirmation of availability and event details.

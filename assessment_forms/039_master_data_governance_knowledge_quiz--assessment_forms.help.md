@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to assess the knowledge of the respondent on Master Data Governance, which is a set of practices, policies, and procedures that aim to ensure the quality, security, and integrity of an organization's data assets. This form is designed to evaluate the respondent's understanding of various aspects of data governance, including data quality control, data security, data privacy, data architecture, data management, data warehouse, data lifecycle management, data quality measures, data lineage, data security practices, data privacy practices, data disaster recovery, data architecture practices, data management practices, master data catalog, data lineage practices, data quality control practices, and data disaster recovery practices.
-
-Before starting the quiz, the respondent should ensure they are familiar with the concepts and terminology used in the form. It is recommended to take the quiz only if the respondent has a good understanding of data governance principles and practices. If the respondent is not familiar with the subject, it is recommended to take the form as a learning opportunity to understand and improve knowledge on data governance.
-</thinking>
-
 # Master Data Governance Knowledge Quiz - Help Guide
 ## Purpose
 The Master Data Governance Knowledge Quiz is designed to assess the respondent's knowledge on various aspects of data governance, including data quality control, data security, data privacy, data architecture, data management, data warehouse, data lifecycle management, data quality measures, data lineage, data security practices, data privacy practices, data disaster recovery, data architecture practices, data management practices, master data catalog, data lineage practices, data quality control practices, and data disaster recovery practices.

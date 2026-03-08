@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from candidates for entry-level accounting positions. The purpose of this form is to streamline the hiring process by collecting relevant details about the candidate's background, experience, and availability. The form will be used by hiring managers to evaluate candidates and make informed decisions.
-The form is divided into sections that correspond to different categories of information. Each section will have its own unique fields and instructions to ensure that the candidate provides accurate and complete information.
-</thinking>
-
 # Entry Level Accountant Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates for entry-level accountant positions. It will help the hiring manager to quickly assess the candidate's background, experience, and availability to make informed decisions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for project managers to collect information for grazing project approvals. It should only be completed when a new grazing project is proposed or ongoing. If you are not a project manager or the proposed project already has an existing approval, do not fill out this form.
-</thinking>
-
 # Grazing Project Approval Survey - Help Guide
 
 ## Purpose

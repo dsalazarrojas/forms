@@ -1,7 +1,3 @@
-<thinking>... The form is a liability waiver for a furniture moving service, likely used by a company or organization that provides moving services. This form is used to collect essential information about a move, including details about the facilities involved, dates, times, and the names of clients and facility managers. The purpose of the form is to obtain consent from clients and facility managers, ensuring they are aware of and agree to the conditions of the move.
-
-</thinking>
-
 # Furniture Moving Liability Waiver - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a food defense program, including its strengths, weaknesses, risk factors, and next steps. The purpose of this form is to assess the effectiveness and progress of a food defense program, and to identify areas for improvement. It is intended for internal use within an organization or facility that implements food defense programs.
-</thinking>
-
 # Food Defense Assessment Template - Help Guide
 ## Purpose
 This form is a template for assessing the effectiveness and progress of a food defense program. It helps to identify areas for improvement and ensures that the program is aligned with industry standards and regulations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for scheduling appointments with merchandising managers for retail store visits. To ensure that the form is properly filled out, the user must select one of the provided time slots for the appointment, choose the merchandising manager(s) to be present, add any relevant notes for the merchandising manager, select the retail store to be visited, choose the sales representative(s) to be present, add any notes for the sales representative, enter the email of the merchandising manager, and enter their phone number. The form can be completed by selecting the desired options from the dropdown lists or entering text. Please ensure that the form is filled out completely and accurately to ensure that the appointment is scheduled correctly.
-</thinking>
-
 # Retail Merchandising Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule appointments with merchandising managers for retail store visits.

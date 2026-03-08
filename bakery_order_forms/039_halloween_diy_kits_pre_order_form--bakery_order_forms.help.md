@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our Halloween DIY Kits Pre Order Form is being used for its intended purpose. This form is a crucial part of our business process, and we cannot have duplicate or incomplete submissions. To guarantee data quality and minimize errors, we must provide clear and concise instructions for end users. This guide will cover the purpose and use cases of the form, how to complete it correctly, and a detailed explanation of each field to ensure users understand what information is being collected and why.
-</thinking>
-
 # Halloween DIY Kits Pre Order Form - Help Guide
 ## Purpose
 The Halloween DIY Kits Pre Order Form is used to collect customer contact information and order details for pre-ordering Halloween-themed DIY kits. Customers can use this form to submit their order information, which will be reviewed and processed by our team.

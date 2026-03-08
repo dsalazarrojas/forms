@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to record travel expenses, which are expenses incurred by employees while on business trips. The form is used to gather information about the expense, such as whether it was for business or personal use, the amount of the expense, the type of expense (e.g. hotel, food, transportation), and whether the expense was reimbursed by the company. This form is used by accounting and financial teams to track and record expenses for reimbursement purposes. It is not intended to be used for personal or non-business related expenses.
-
-</thinking>
-
 # travel_expense_entry_form - Help Guide
 ## Purpose
 The travel expense entry form is used to record and track business-related travel expenses for employees.

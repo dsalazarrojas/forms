@@ -1,7 +1,3 @@
-<thinking>
-This form was created by an AI using publicly available metadata, with no affiliation or endorsement from any form platform. Its purpose is to collect information for browsing restrictions configurations, which are changes made by a requester to a target user or group's access control settings. This guide will walk you through each field of the form and how to complete it to provide the necessary information for the configuration change.
-</thinking>
-
 # Browsing Restrictions Configuration Form - Help Guide
 ## Purpose
 This form is used to submit a browsing restrictions configuration change request. It captures essential details required for the change to be implemented by the IT department.

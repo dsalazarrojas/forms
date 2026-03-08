@@ -1,7 +1,3 @@
-<thinking>
-This form is used for patients to provide consent for teletherapy services. The form is designed to collect basic demographic information and confirm the patient's understanding of the teletherapy process. Before completing this form, please ensure that you have not already submitted a similar form for the same purpose. If you are unsure, please reach out to your healthcare provider for clarification.
-</thinking>
-
 # teletherapy_consent_form - Help Guide
 ## Purpose
 The teletherapy_consent_form is used to gather information from patients for teletherapy services. It collects demographic information and confirms the patient's understanding of the teletherapy process.

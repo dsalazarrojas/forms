@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for employees to acknowledge and confirm the handover of shifts. It is intended to be completed by the employee who is finishing their shift and preparing to hand over to the next employee. The form ensures that the employee acknowledges the completion of their previous shift, confirms their next shift details, and confirms the handover of tasks and responsibilities. This form is not intended for other purposes, such as new employee onboarding or shift scheduling.</thinking>
-
 # Shift Handover Protocol Acknowledgement Form - Help Guide
 ## Purpose
 The Shift Handover Protocol Acknowledgement Form is a document that confirms the handover of shifts between employees. It is designed to ensure a smooth transition of tasks and responsibilities from one employee to another.

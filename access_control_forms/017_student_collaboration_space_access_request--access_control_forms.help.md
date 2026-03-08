@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to request access to a student collaboration space, which is a shared online space where students can work together on projects, assignments, or other academic activities. The form is used to collect information from students who want to join or participate in these spaces. The purpose of this form is to ensure that students understand the guidelines and expectations for collaboration and to gather necessary information for space administrators to approve or deny requests.
-
-This form is only required for students who are not already part of the collaboration space. If a student is already a member of the space, they do not need to fill out this form again. Please review the fields below and fill them out accordingly.
-
-</thinking>
-
 # Student Collaboration Space Access Request - Help Guide
 ## Purpose
 This form allows students to request access to a student collaboration space to work on projects or assignments with their peers. To complete the form, follow the steps outlined below.

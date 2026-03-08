@@ -1,9 +1,3 @@
-<thinking>
-We will use this form to gather information on agricultural innovations that deserve recognition.
-The form will be used for internal purposes only, and no personal data will be collected or shared.
-Each field is clearly marked as "required" or "optional" for your convenience.
-</thinking>
-
 # Agricultural Innovation Recognition Survey - Help Guide
 ## Purpose
 This form is designed to collect information on agricultural innovations that deserve recognition. It will help us identify and appreciate innovations that contribute to the progress of agriculture.

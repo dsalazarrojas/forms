@@ -1,24 +1,3 @@
-<thinking>
-We need to create a help guide that explains the purpose and usage of the Unauthorized Debit Reporting Form. This form is used to report unauthorized debits or suspicious transactions on an account. 
-
-The form will be used by individuals who have detected an unauthorized transaction on their account and need to provide information to the bank or financial institution to investigate and resolve the issue. 
-
-The form will help the bank or financial institution to gather information about the account, the unauthorized transaction, and the customer's relationship with the account holder. 
-
-To prevent duplication, the form will ask for the account number, which will serve as a unique identifier for the account. 
-
-The form will also ask for various details about the account, including account type, account ownership, and account address. 
-
-The form will ask for details about the unauthorized transaction, including the amount, date, and time of the transaction. 
-
-The form will also ask for a description of the unauthorized transaction and whether it was a recurring or one-time transaction. 
-
-The form will ask for information about the account holder's authorized contact, including their name, address, phone number, and email. 
-
-The form will help the bank or financial institution to investigate and resolve the issue efficiently and effectively. 
-
-</thinking>
-
 # Unauthorized Debit Reporting Form - Help Guide
 ## Purpose
 The Unauthorized Debit Reporting Form is a form used to report unauthorized debits or suspicious transactions on an account. It is used by customers to provide information to the bank or financial institution to investigate and resolve the issue.

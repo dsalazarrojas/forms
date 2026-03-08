@@ -1,11 +1,3 @@
-<thinking>
-This guide will walk you through the "Parental Authorization Form For Minors" to ensure you understand its purpose and requirements. The form is designed to collect information about a minor's medical treatment, including authorization from their parent or guardian. It is essential to complete this form accurately to ensure the minor receives necessary care. 
-
-Before filling out the form, make sure you're authorized to do so. This form should not be completed if you're not the minor's parent or guardian.
-
-The form is divided into sections that cover essential details about the minor's medical treatment. Be sure to fill out all required fields accurately and completely.
-</thinking>
-
 # Parental Authorization Form For Minors - Help Guide
 ## Purpose
 The Parental Authorization Form For Minors is a document that grants permission for a minor to receive medical treatment. It is designed for the minor's parent or guardian to acknowledge and confirm their consent to the treatment.

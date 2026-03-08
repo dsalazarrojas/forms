@@ -1,18 +1,3 @@
-<thinking>
-
-The form purpose is to collect information about a client's financial planning, including their income details, assets, financial goals, and investment strategies. This information will be used to create a personalized financial plan for the client. 
-
-This form is meant to be completed by a financial advisor or planner during an initial consultation with a client. The client will provide detailed information about their current financial situation and goals, which will be used to inform the development of a comprehensive financial plan.
-
-Before filling out this form, please ensure that you have reviewed and understood the following:
-
-* The client's income details and financial goals are accurate and up-to-date.
-* The client has listed all their assets and financial holdings.
-* The client's financial goals are specific, measurable, and achievable.
-* The client is aware of the importance of reviewing and revising their financial plan regularly.
-
-</thinking>
-
 # Financial Planning Client Assessment Form Template - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose and field labels are clear and understandable for the end-user. Upon reviewing the provided YAML fields, it appears that this form is designed to collect information for a delivery service appointment. The form has various fields that cover customer information, delivery details, special instructions, service details, and more. It is essential to create a help guide that accurately explains each field's purpose to avoid confusion.
-</thinking>
-
 # Delivery Service Appointment Form - Help Guide
 ## Purpose
 This form is used to collect information for a delivery service appointment. It helps the service team to understand the customer's needs, delivery requirements, and any special instructions or comments.

@@ -1,15 +1,3 @@
-<thinking>
-The form "Electrical Substation Knowledge Assessment" is designed to gauge the knowledge and understanding of a user on various aspects related to electrical substations, including their fundamentals, safety knowledge, electrical systems, safety procedures, electrical hazards, electrical safety standards, design, installation, and operations. This form aims to assess the user's ability to provide clear and concise answers to the questions presented, and its purpose is to evaluate the user's knowledge and comprehension in this specific area. 
-
-It's essential to ensure that the user understands the form's purpose to provide accurate and relevant information. This form is meant to be a comprehensive assessment of the user's electrical substation knowledge and does not aim to be a test or certification.
-
-Before proceeding, make sure to review the form carefully and complete it in a quiet and distraction-free environment. It is recommended to save and review your responses before submitting the form to ensure the accuracy and coherence of your answers.
-
-Please note that the form is designed to be user-friendly and clear, but if you are unsure about any question or field, do not hesitate to ask for clarification.
-
-Also, please be aware that the form is designed to be completed in a reasonable time frame, so please answer the questions accordingly.
-</thinking>
-
 # Electrical Substation Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and understanding of electrical substation-related topics, including substation fundamentals, safety knowledge, electrical systems, safety procedures, electrical hazards, electrical safety standards, design, installation, and operations.

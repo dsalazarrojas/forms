@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Trust Building Behavior Assessment form is to evaluate an individual's behavior towards building trust with others. This form is likely used to assess an employee's or team member's behavior towards building trust within an organization or team. The form is likely used to identify areas of improvement and provide feedback for growth.
-</thinking>
-
 # Trust Building Behavior Assessment - Help Guide
 ## Purpose
 The Trust Building Behavior Assessment form is used to evaluate an individual's behavior towards building trust with others. This form helps identify strengths and areas for improvement in trust-building skills.

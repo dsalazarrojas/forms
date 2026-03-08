@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide users with clear and concise instructions on how to complete the Wiper Speed Adjustment Survey form. Please review this guide carefully to ensure you understand the purpose of the form and how to fill it out accurately.
-The form is meant to gather information about user experiences and preferences related to wiper speed adjustments on vehicles. This guide will walk you through each field, explaining what to expect and how to provide accurate responses.
-</thinking>
-
 # Wiper Speed Adjustment Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand the importance of creating a clear and concise help guide that empowers end-users to complete the form successfully. This guide will explain the purpose of the form, provide step-by-step instructions on how to complete it, and break down each field into a clear and concise explanation. I will make sure to base the explanation on the provided YAML fields, avoiding any unsupported business logic. Let's get started!</thinking>
-
 # home_management_checklist - Help Guide
 ## Purpose
 The Home Management Checklist is a form designed to collect essential information for managing home maintenance, rent payments, and property records. This guide will walk you through each step of the process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely part of a larger system for managing subcontractor relationships, possibly for a construction or project management context. 
-The form assesses the capability of a subcontractor to undertake a project or task. It likely contains information about the subcontractor, project details, and any additional relevant data. The form might be used to evaluate or compare subcontractors' suitability for a particular project or job. The form structure suggests it's meant to be completed by the subcontractor themselves, potentially as part of a pre-qualification or application process.
-</thinking>
-
 # Subcontractor Capability Assessment - Help Guide
 ## Purpose
 This form is used to assess the capability of a subcontractor to undertake a project or task. It collects information about the subcontractor, project details, and any additional relevant data to evaluate or compare subcontractors' suitability for a particular project or job.

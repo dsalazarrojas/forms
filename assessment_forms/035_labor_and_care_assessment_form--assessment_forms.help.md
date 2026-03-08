@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Labor And Care Assessment Form - Help Guide
 ## Purpose
 The Labor and Care Assessment Form is used to document and assess the labor and care provided by laborers on a project. This form is meant to gather information on the labor and care observations, overall rating, and other relevant details about the labor and care provided. It is used to evaluate the quality of care and labor provided and to ensure consistency and accuracy in reporting.

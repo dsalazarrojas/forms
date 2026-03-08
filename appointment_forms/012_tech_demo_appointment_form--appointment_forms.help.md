@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for tech demo appointments. It seems relevant to the "appointment_forms" category, and its fields should be filled out by users to schedule a tech demo. Before proceeding, ensure that this form is not a duplicate of any other form, and that the purpose and content are understood correctly.
-</thinking>
-
 # tech_demo_appointment_form - Help Guide
 ## Purpose
 The "tech_demo_appointment_form" is a form designed to collect information for scheduling tech demos. It is intended for users who wish to schedule a demo session, which includes providing personal details and preferred demo time slots.

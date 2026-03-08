@@ -1,7 +1,3 @@
-<thinking>
-The emergency_access_key_issue_request_form is a critical form used to report issues related to access keys. It captures information from users about the problem they're experiencing and provides a structured way for them to request assistance.
-</thinking>
-
 # emergency_access_key_issue_request_form - Help Guide
 ## Purpose
 The emergency_access_key_issue_request_form is used to report and resolve issues related to access keys. This form is essential for users to provide detailed information about the issue they're experiencing, allowing the support team to efficiently assist and address the matter.

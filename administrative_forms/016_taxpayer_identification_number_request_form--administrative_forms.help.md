@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Taxpayer Identification Number Request Form - Help Guide
 ## Purpose
 The Taxpayer Identification Number Request Form is used to collect essential information from taxpayers for identification and verification purposes. This form helps to ensure that the correct tax identification number is associated with the correct individual or entity. It is also used to check for any existing taxpayer identifications in our database to prevent duplication.

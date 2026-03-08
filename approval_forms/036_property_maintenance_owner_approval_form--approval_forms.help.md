@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Maintenance Owner Approval Form - Help Guide
 ## Purpose
 This form is used for property maintenance owners to provide approval for maintenance tasks related to their properties.

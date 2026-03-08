@@ -1,20 +1,3 @@
-<thinking>
-
-This form is designed to help employees assess their current career development status and create a plan for their future growth and advancement. It is meant to be a self-assessment tool for employees to reflect on their skills, goals, and progress, and identify areas where they need support and resources to reach their career objectives. 
-
-The form is organized into sections, each focusing on different aspects of career development:
-
-*   User Information: Gathering basic employee information and job details.
-*   Goal Setting: Identifying career goals and aspirations.
-*   Skills Assessment: Evaluating skills required for career advancement.
-*   Progress Tracking: Monitoring progress and achievements.
-*   Support and Resources: Identifying needed resources and supervisor support.
-*   Agreement and Sign-off: Confirming employee commitment to the development plan.
-
-By completing this form, employees can create a personalized career development plan, set realistic goals, and seek necessary support and resources to achieve their objectives. This form should be completed by employees on a regular basis to track their progress and stay on track with their career development.
-
-</thinking>
-
 # Career Development Checklist Form - Help Guide
 
 ## Purpose

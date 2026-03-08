@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants in a high-intensity functional training program. The purpose of this form is to collect demographic and medical information from each participant, which will be used to assess their eligibility and suitability for the program. This form should only be completed once per participant, and any duplicate or incomplete submissions will be subject to review and verification.
-</thinking>
-
 # High Intensity Functional Training Registration - Help Guide
 ## Purpose
 The High Intensity Functional Training Registration form is designed to collect information from participants in a high-intensity functional training program. This form helps us to assess each participant's eligibility and suitability for the program.

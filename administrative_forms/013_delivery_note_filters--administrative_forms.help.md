@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be used for filtering delivery notes, allowing users to narrow down their results based on various criteria such as status, note type, delivery status, and other relevant fields. This form likely supports various user roles, including administrators, managers, and employees.
-It seems that there's a mix of single-select and multiple-select fields for status and delivery status, which may cause some confusion for users. Additionally, it's worth noting that the "Required" attribute for each field is set to true for some fields, implying that these fields must be filled out for the form to be considered valid.
-</thinking>
-
 # Delivery Note Filters - Help Guide
 ## Purpose
 This form is used to filter delivery notes based on various criteria, allowing you to narrow down your results and focus on specific notes that match your requirements.

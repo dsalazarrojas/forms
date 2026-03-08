@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for the Hair Renewal Program appointment process. To ensure accurate data entry, please fill out the form completely and correctly. Before submitting, double-check that all required fields are filled in. This form will not submit automatically, and users will need to manually submit it after filling out all the fields. 
-
-Please note that the form has multiple options for the client to select from, and some fields are not required, but it's best to fill them out for the sake of completeness and accuracy. The fields are categorized into client details, salon selection, hair concerns, appointment details, and submission information. 
-
-The fields are designed to gather information about the client's preferences, hair concerns, and submission details in a structured and easily readable format. The fields will be reviewed and used for further processing and action.
-</thinking>
-
 # Hair Renewal Program Appointment Form - Help Guide
 ## Purpose
 This form is used to collect client information and preferences for the Hair Renewal Program appointment process.

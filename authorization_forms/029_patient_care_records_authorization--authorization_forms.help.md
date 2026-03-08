@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note: This form is used to authorize access to patient care records for research, treatment, and other purposes. The form ensures that the patient's data is not shared or used without their consent. It's crucial to complete this form accurately and thoroughly to maintain patient trust and confidentiality. Please ensure that the recipient is authorized and has a legitimate reason for accessing the patient's care records. Before filling out this form, please check that it's not already completed for the same patient and purpose.**
-</thinking>
-
 # patient_care_records_authorization - Help Guide
 ## Purpose
 The patient care records authorization form is used to grant access to a patient's care records for a specific purpose. This form ensures that the patient's data is not shared or used without their consent.

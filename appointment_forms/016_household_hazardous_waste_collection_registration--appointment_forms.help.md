@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from residents for household hazardous waste collection. This form is designed to be filled out by residents who want to schedule a pickup for their hazardous waste. The form should be used only for this specific purpose and not for other types of registrations. It's essential to fill out all required fields accurately to ensure a smooth and efficient hazardous waste collection process.
-</thinking>
-
 # Household Hazardous Waste Collection Registration - Help Guide
 ## Purpose
 The Household Hazardous Waste Collection Registration form is used to schedule a pickup for household hazardous waste collection. It's essential to fill out this form accurately to ensure your waste is collected correctly.

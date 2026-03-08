@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information from individuals who are interested in franchising their skincare business, to schedule a discovery meeting with a representative from our organization. The form is intended to be filled out by the individual, and the data collected will be used to schedule a meeting with them.
-This form will be used by our organization to understand the individual's preferences and schedule the meeting accordingly. The form will help us to ensure that the meeting is conducted smoothly and effectively.
-Before starting, make sure you are filling out the form for the right purpose. If you are not interested in franchising your skincare business, please do not fill out this form.
-Please note that the form is not intended for business owners who are looking for investment or financial support.
-Please review the form carefully and fill it out accurately.
-</thinking>
-
 # Skincare Franchise Discovery Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect your information so that we can schedule a discovery meeting with a representative from our organization. The meeting will be used to discuss your interests in franchising your skincare business and determine the feasibility of our support.

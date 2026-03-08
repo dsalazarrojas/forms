@@ -1,10 +1,3 @@
-<thinking>
-This form is used to log membership verification scan results. It is intended for internal use and may not be directly visible to end-users. The purpose of the form is to track membership verification scans, which may involve scanning members for their ID, verifying their membership status, and recording any relevant details.
-We will assume that the form will be used to store and retrieve data for the organization's membership database. The form will be filled out by authorized personnel, and the data will be used to update the database accordingly.
-We will also assume that the data stored in the form will be used for reporting and analytics purposes, such as tracking membership status, verifying membership claims, and identifying trends.
-We will not assume that the form will be used for external-facing purposes, such as public-facing membership lookup or public reporting.
-</thinking>
-
 # membership_verification_scanner_log - Help Guide
 ## Purpose
 The membership verification scanner log form is used to log membership verification scan results, which are used to update the organization's membership database and track membership status.

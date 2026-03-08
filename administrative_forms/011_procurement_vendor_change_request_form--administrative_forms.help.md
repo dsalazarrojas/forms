@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Procurement Vendor Change Request Form - Help Guide
 
 ## Purpose

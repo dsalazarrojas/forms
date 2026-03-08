@@ -1,7 +1,3 @@
-<thinking>
-We are checking to see if the form "tax_policy_amendment_approval_form" is a valid form for your use case. This form is used to collect information about tax policy amendments. We will provide guidance on how to complete it effectively.
-</thinking>
-
 # tax_policy_amendment_approval_form - Help Guide
 ## Purpose
 The tax policy amendment approval form is designed to collect information for tax policy amendments. It is used to request approval for changes to tax policies, providing a systematic way to document and track these changes. This form aims to ensure that all necessary details are captured for each amendment, facilitating a smooth and transparent process.

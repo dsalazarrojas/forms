@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to verify the identity of a trust service provider, which is likely a critical component of a financial or legal transaction. This form is likely used by an organization to request and verify information about a trust service provider, such as their name, email address, phone number, address, date of birth, and identity document details. The form should be filled out by the trust service provider or their representative, and the information should be accurate and truthful to avoid any legal or financial repercussions.
-</thinking>
-
 # trust_service_provider_identity_verification_form - Help Guide
 
 ## Purpose

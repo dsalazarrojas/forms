@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and completing the `warehouse_packing_assessment` form. Please consider whether this guide is relevant to your specific use case before proceeding. This guide has been created by an AI system and is an original adaptation of a survey topic, not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # warehouse_packing_assessment - Help Guide
 ## Purpose
 This form is used to assess the packing procedure, materials used, and quality of packing in a warehouse. It collects information on the packing process, including the time taken, comments, and observations.

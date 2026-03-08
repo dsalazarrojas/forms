@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to collect information from customers about their preferences and needs, which is used to provide them with the best possible salon service experience. The form is designed to be simple and easy to fill out, and the information collected will be used to tailor the service to their specific requirements.
 
 </thinking>

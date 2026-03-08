@@ -1,5 +1,3 @@
-<thinking>...The goal of this form is to assess an individual's typing speed and accuracy over a short period, typically to gauge their overall dexterity and efficiency while typing on a keyboard. This form is designed to be filled out by end-users, and its purpose is to provide a quick and straightforward way to evaluate typing skills. This form should not be used as a definitive measure of typing speed and accuracy, as these skills can vary depending on various factors such as keyboard familiarity, typing technique, and familiarity with the typing software or hardware used. It's essential to ensure that this form is filled out correctly to obtain accurate results. Please review the provided instructions and field explanations to ensure you complete the form accurately...</thinking>
-
 # Typing Speed Assessment - Help Guide
 ## Purpose
 The Typing Speed Assessment form is designed to evaluate your typing speed and accuracy over a short period. It's essential to fill out the form correctly to obtain accurate results.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive assessment tool for fitness coaching, helping fitness professionals gather essential data from clients to create tailored coaching plans. The form collects information on the client's health history, goals, lifestyle data, exercise frequency, medical conditions, medications, and emergency contacts. This form is not affiliated with, endorsed by, or derived from any specific form platform, and its original content is released under a Creative Commons Attribution 4.0 license. The form's fields are designed to be user-friendly and accessible, ensuring that clients can easily provide their information and coaches can efficiently collect it.
-
-Before we dive into the form details, please note that some fields are optional, and you can skip them if not relevant to your situation. The form has been created using AI-generated metadata from publicly available resources and is an original adaptation of the fitness coaching assessment form concept.
-
-Now, let's go through each field, explaining its purpose and how to complete it.
-
-</thinking>
-
 # Fitness Coaching Assessment Form - Help Guide
 ## Purpose
 The Fitness Coaching Assessment Form is a tool for fitness professionals to gather essential information from clients to create tailored coaching plans.

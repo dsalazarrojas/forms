@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the performance of students in a business studies course. It is intended to be filled out by instructors or evaluators to provide an objective assessment of a student's skills, knowledge, and performance in various areas such as critical thinking, communication, teamwork, problem-solving, financial literacy, business concepts, research, technical skills, and overall performance. This form will help in identifying areas where students need improvement and provide recommendations for the same.
-Before filling out this form, please ensure that you have not already provided an assessment for this student. If you have previously assessed this student, please do not fill out this form again.
-</thinking>
-
 # Business Studies Assessment - Help Guide
 ## Purpose
 This form is designed to assess the performance of students in a business studies course.

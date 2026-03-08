@@ -1,7 +1,3 @@
-<thinking>
-The form, "grappling_event_registration", is designed to collect information from participants in a grappling event. The form is intended to be filled out by individuals who want to participate in a grappling event, such as a jiu-jitsu tournament or a grappling competition. The form helps to gather essential details about the participant, including their contact information, experience level, and waiver acceptance. To ensure accuracy and relevance, end-users should only fill out this form if they are indeed participating in the grappling event. Duplicating or filling out this form without participating in the event is not recommended.
-</thinking>
-
 # grappling_event_registration - Help Guide
 ## Purpose
 The "grappling_event_registration" form collects information from participants in a grappling event, such as a jiu-jitsu tournament or a grappling competition.

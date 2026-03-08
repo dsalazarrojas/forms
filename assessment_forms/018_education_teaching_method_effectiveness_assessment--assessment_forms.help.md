@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for educational professionals who wish to use this form to assess the effectiveness of their teaching methods. The form was not developed with any specific proprietary platform and is a neutral, AI-generated adaptation of public survey topic metadata.
-
-The form aims to gather information on teaching practices, student involvement, and evaluation methods. It is designed to be adaptable and can be used in various educational contexts. The guide below explains each field in a way that is easy to understand and follow.
-</thinking>
-
 # Education Teaching Method Effectiveness Assessment - Help Guide
 
 ## Purpose

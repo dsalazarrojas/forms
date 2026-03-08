@@ -1,19 +1,3 @@
-<thinking>
-This form is intended to help individuals, particularly those in high-risk professions or situations, to create a plan for emergency preparedness. The purpose of this form is to gather essential information to ensure that in case of an emergency, the individual or their loved ones can be quickly and effectively notified, and that necessary medical and personal details are readily available. This form serves as a guide for individuals to fill out and keep in a safe and accessible place.
-
-Before proceeding, it's essential to note that this form is not intended for official emergency response purposes. It's a personal tool to help individuals prepare for emergencies, not a substitute for official emergency response protocols.
-
-The form is designed to be completed by individuals, and it's recommended to review and update it regularly to ensure that the information is accurate and up-to-date.
-
-The fields in this form are meant to be filled out in a way that makes sense for the individual's specific situation. For example, the "Emergency Contact" field should be filled out with the person's emergency contact information, not just a friend or family member's details.
-
-This form is not meant to be a one-time activity; it's a living document that should be reviewed and updated as the individual's situation changes.
-
-Before filling out this form, it's recommended to have the necessary information and details readily available to avoid having to refer back to other sources for clarification.
-
-This form is meant to be a private and personal record, not a publicly accessible document. It's recommended to store it safely and securely, and only share it with authorized individuals or authorities in case of an emergency.
-</thinking>
-
 # emergency_preparedness_checklist_form - Help Guide
 ## Purpose
 The emergency preparedness checklist form is designed to aid individuals in gathering and recording essential information to facilitate effective emergency response and support in case of unforeseen events.

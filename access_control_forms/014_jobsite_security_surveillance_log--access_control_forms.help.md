@@ -1,7 +1,3 @@
-<thinking>
-This form is used to log and document various aspects of a jobsite's security and surveillance activities. It is meant to be a comprehensive tool to aid in the tracking and reporting of incidents, including the reporting of security incidents, shift notes, and other relevant details. This form is likely used in a security or facility management context, and its purpose is to ensure accurate and consistent recording of events and their subsequent investigation and resolution.
-</thinking>
-
 # jobsite-security-surveillance-log - Help Guide
 ## Purpose
 This form is used to log and document various aspects of a jobsite's security and surveillance activities.

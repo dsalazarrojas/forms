@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication... internal review time-off form is used by employees to submit a formal request to take time off from work... it's essential to ensure that all fields are accurate and complete to avoid any potential issues with payroll or HR...</thinking>
-
 # Internal Review Time Off Form - Help Guide
 ## Purpose
 The "Internal Review Time Off Form" is used by employees to submit a formal request to take time off from work. Please fill out this form accurately and completely to ensure your request is processed correctly.

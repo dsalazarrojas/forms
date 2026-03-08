@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vehicle-maintenance-and-repair-request-form - Help Guide
 ## Purpose
 This form is used to request maintenance or repair for a vehicle. It is designed to collect relevant information about the vehicle and the repair request, including the vehicle's make, year, and type, as well as the date and time of the scheduled maintenance or repair.

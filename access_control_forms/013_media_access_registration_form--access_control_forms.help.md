@@ -1,8 +1,3 @@
-<thinking>
-To ensure the accuracy of the media access registration form, we need to verify the purpose of the form and prevent duplication of efforts. The form is used to register media access for events, allowing users to provide information about the event they wish to access. Before proceeding, please check if you have already registered for this event or if someone with your credentials has registered for it. This will help avoid unnecessary registrations and save time for both you and the event organizers.
-
-</thinking>
-
 # Media Access Registration Form - Help Guide
 ## Purpose
 The Media Access Registration Form is a tool for users to provide information about their media access requests for events. It helps event organizers manage registrations efficiently and ensure that all necessary information is collected.

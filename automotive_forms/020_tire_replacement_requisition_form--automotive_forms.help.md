@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who need to replace their tires. The purpose of this form is to gather necessary details about the customer's vehicle and their replacement needs. Before proceeding, please ensure you are completing this form for a genuine request and not duplicating a previous submission.
-</thinking>
-
 # tire_replacement_requisition_form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "New Resident Vehicle Registration Form" which is used to register new residents' vehicles in the community. To ensure accurate and efficient registration, please complete this form carefully. This form is not intended for non-resident vehicles. Before completing this form, please confirm that the vehicle is owned or leased by a resident of the community. If you are unsure about the form's requirements, please contact the relevant authorities before proceeding. This form's fields should only be completed once for each vehicle per resident. Please do not duplicate submissions.
-</thinking>
-
 # New Resident Vehicle Registration Form - Help Guide
 ## Purpose
 This form is used to register new vehicles for residents of the community. Please fill out this form to provide accurate information about your vehicle.

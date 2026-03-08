@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the knowledge of pool facilities staff on chlorine safety procedures and protocols. It is crucial to ensure that the respondents are familiar with the proper handling, storage, and emergency response procedures for chlorine. The form is designed to be completed by pool facility staff and is intended to be a quick reference guide for them to self-assess their knowledge. It is also intended to be used for training and compliance purposes.
-</thinking>
-
 # Chlorine Safety Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess the knowledge of pool facility staff on chlorine safety procedures and protocols.

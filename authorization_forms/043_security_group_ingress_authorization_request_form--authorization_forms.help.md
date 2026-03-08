@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for requesting access to a specific security group. It allows users to submit a form with details about their request, such as the security group they are requesting access to, the level of access they require, and the justification for their request. The form is also used to identify who has approved the request.
-
-The form is not intended to be used for duplicate requests, so users should not re-submit a request for the same security group if it has already been processed.
-
-</thinking>
-
 # security_group_ingress_authorization_request_form - Help Guide
 ## Purpose
 

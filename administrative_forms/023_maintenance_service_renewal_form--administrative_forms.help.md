@@ -1,7 +1,3 @@
-<thinking>
-This form is used for maintenance service renewals, which is a critical process for keeping our services running smoothly. To avoid duplication and ensure accuracy, please review this form carefully before submitting it. Make sure you have all the necessary information and have considered the service renewal status carefully before selecting 'Active' or 'Inactive'. 
-</thinking>
-
 # Maintenance Service Renewal Form - Help Guide
 ## Purpose
 This form is used to renew maintenance services. It collects relevant information from the service provider, client, and internal details for efficient processing and decision-making.

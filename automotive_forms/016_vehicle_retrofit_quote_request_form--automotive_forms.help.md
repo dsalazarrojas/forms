@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request a quote for a vehicle retrofitting service. The form is designed to collect information from customers interested in retrofitting their vehicles with specific modifications or features. This form will be used by the sales team to provide a quote to the customer based on their requirements. It's essential to ensure that the form is completed accurately to get the best possible quote.
-Before filling out this form, please ensure that:
-* You are aware of the purpose of the form (vehicle retrofit quote request)
-* You haven't filled out this form before, or you've filled it out recently, and there are no changes since the last submission.
-</thinking>
-
 # Vehicle Retrofit Quote Request Form - Help Guide
 ## Purpose
 

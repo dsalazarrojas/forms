@@ -1,9 +1,3 @@
-<thinking>
-  This form was designed to collect information for pre-orders of the "Matilda Jane March 2022" collection.
-  The form has a few required fields for comments and a few optional fields for collecting order details.
-  There is also a field for selecting shipping options.
-</thinking>
-
 # Matilda Jane March 2022 Pre Order Form - Help Guide
 ## Purpose
 This form collects information for pre-orders of the "Matilda Jane March 2022" collection to ensure we have all the necessary details for processing orders.

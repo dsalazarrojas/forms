@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is designed for athletes to provide medical information sharing consent, which includes types of medical information to share, with whom to share it, the purpose of sharing, and the method of sharing. The form also covers emergency information sharing, consent duration, and the athlete's understanding of revocation rights, HIPAA rights, and electronic communication consent. The form requires the athlete's signature and, if applicable, the parent or guardian's signature. The form is intended to be completed by the athlete, but if the athlete is under 18, the parent or guardian's contact information is collected.</thinking>
-
 # Athlete Medical Information Sharing Consent Form - Help Guide
 ## Purpose
 This form is designed to collect medical information sharing consent from athletes, which includes the types of information to share, with whom to share it, and the purpose and method of sharing. It also covers emergency information sharing, consent duration, and the athlete's understanding of revocation rights, HIPAA rights, and electronic communication consent.

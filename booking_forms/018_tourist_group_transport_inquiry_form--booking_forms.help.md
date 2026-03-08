@@ -1,13 +1,3 @@
-<thinking>
-To determine the internal reasoning and prevent duplication, we need to consider the following:
-
-*   The form's purpose is to gather information about a tourist group's transport preferences and needs.
-*   The form should be used to ensure that the transport arrangements are made accurately and efficiently.
-*   It's essential to verify that the form is not being filled out for the same group multiple times.
-
-This is an important form for tourist group transport inquiries, as it helps in making accurate transport arrangements. 
-</thinking>
-
 # Tourist Group Transport Inquiry Form - Help Guide
 ## Purpose
 The Tourist Group Transport Inquiry Form is designed to gather essential details about a tourist group's transport preferences and needs.

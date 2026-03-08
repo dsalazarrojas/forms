@@ -1,7 +1,3 @@
-<thinking>
-The Asset Transfer Confirmation Form is designed to verify that both the transferor (person transferring the asset) and transferee (person receiving the asset) are in agreement with the terms of transfer. This form helps to ensure that both parties acknowledge and accept the asset transfer, including its description, value, and any other relevant terms. This form is usually used in situations where the asset transfer is subject to specific regulations, taxes, or other legal requirements.
-</thinking>
-
 # Asset Transfer Confirmation Form - Help Guide
 ## Purpose
 The Asset Transfer Confirmation Form is a crucial document that verifies the agreement between the transferor and transferee for the transfer of assets. It ensures that both parties are aware of and agree to the terms of the transfer, reducing the risk of disputes or misunderstandings.

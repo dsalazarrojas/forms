@@ -1,9 +1,3 @@
-<thinking>
-This form is used for requesting a permit for special events. 
-- Before proceeding, check that this form is the correct one to use. If you are looking for something else, please let us know so we can direct you to the appropriate form. 
-- The event organizers will be able to see all the fields below except for "Permit Requirements".
-</thinking>
-
 # Special Event Permit Request Form - Help Guide
 ## Purpose
 The Special Event Permit Request Form is used to request a permit for a special event. This form helps us understand the details of your event so we can process your permit request efficiently.

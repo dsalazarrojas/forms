@@ -1,10 +1,3 @@
-<thinking>
-The "electricity_concepts_quiz" form is designed to assess an individual's understanding of various concepts related to electricity, including safety, fundamentals, and systems. This form will likely be used in educational or professional settings to evaluate knowledge and identify areas for improvement.
-
-To ensure that the form is used correctly, we should double-check that it is not being used to assess the same concepts multiple times, and that there are no unnecessary or redundant questions. We should also verify that the form is being used to assess the intended concepts and not something else. If you are unsure or have concerns, please reach out to the relevant authority for guidance.
-
-</thinking>
-
 # electricity_concepts_quiz - Help Guide
 ## Purpose
 The electricity_concepts_quiz form is designed to assess an individual's understanding of various electricity-related concepts, including safety, fundamentals, and systems.

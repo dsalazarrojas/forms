@@ -1,7 +1,3 @@
-<thinking>
-The decision review application form is designed to collect information and manage the decision review process for requests or applications submitted to an organization. The form is not a part of any specific form platform or proprietary system. It's a free, customizable form created using AI-generated data. This guide explains the form's purpose, how to complete it, and each field's meaning to help users understand its use and functionality.
-</thinking>
-
 # Decision Review Application Form - Help Guide
 
 ## Purpose

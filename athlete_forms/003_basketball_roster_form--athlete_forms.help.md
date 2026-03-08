@@ -1,17 +1,3 @@
-<thinking>
-The Basketball Roster Form is used to collect information about a basketball team, including the team's name, head coach's contact information, and player information such as name, jersey number, position, and grade level. This form helps to gather all necessary details to manage team roster in an efficient and organized manner.
-
-Before filling out this form, please make sure that it is relevant to your role and responsibilities. If this form is for a different purpose or team, please do not submit it. This form is only for official basketball team roster information.
-
-Please note that the form is divided into multiple pages, each with its own section of questions. Make sure to answer all required fields before proceeding to the next page. The form can be completed online or offline, but be aware that online submission requires internet connectivity and offline submission requires data entry.
-
-Each page is designed to collect specific information, but the order of fields might not always make logical sense. For example, player fields are grouped together, but might not follow the exact order of how players' information would be arranged in real life. 
-
-When filling out this form, please make sure to be as accurate and complete as possible. This information will be used for official team purposes and will be visible to authorized personnel.
-
-This form is not designed for personal or recreational use, but for official basketball team management.
-</thinking>
-
 # Basketball Roster Form - Help Guide
 ## Purpose
 This form is used to collect and manage basketball team roster information, including team name, coach and player details.

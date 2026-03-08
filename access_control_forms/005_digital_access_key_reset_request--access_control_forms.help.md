@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Access Key Reset Request - Help Guide
 
 ## Purpose

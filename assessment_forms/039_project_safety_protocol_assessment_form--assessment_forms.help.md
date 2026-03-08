@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand and fill out the Project Safety Protocol Assessment Form. It's crucial to accurately complete this form as it is a crucial part of the project's safety evaluation. The form is designed to assess the safety protocols of a project site, gathering essential information on the project's name, location, and other relevant details. Please note that the form is meant for assessment and should be filled out by authorized personnel only. Please ensure the form is not duplicated or submitted multiple times for a single project.
-</thinking>
-
 # Project Safety Protocol Assessment Form - Help Guide
 ## Purpose
 The Project Safety Protocol Assessment Form is used to evaluate the safety protocols of a project site, ensuring that all necessary safety measures are in place to prevent accidents and ensure a safe working environment.

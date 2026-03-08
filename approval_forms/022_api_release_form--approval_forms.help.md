@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to collect information from users who wish to access and use our company's APIs. This form is used for approval, security, and compliance purposes, and helps our team to evaluate the request and determine whether it meets our standards for access. We will not use this form for any other purpose than to review and evaluate your request, and will not share or disclose any information collected through this form without your explicit consent. Please note that this form may ask for information that is not publicly available, so please ensure that you have the necessary permissions to fill it in accurately. Also, please do not fill this form if you are not authorized to do so by your organization or company. If you are unsure about any of the fields or the form in general, please reach out to us before proceeding. 
-
-</thinking>
-
 # API Release Form - Help Guide
 ## Purpose
 The API Release Form is used to collect information from users who wish to access and use our company's APIs. This form is designed to help us evaluate your request and ensure that it meets our standards for access and security.

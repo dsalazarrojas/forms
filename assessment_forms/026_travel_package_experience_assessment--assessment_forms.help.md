@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Package Experience Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their travel package experience. It helps us evaluate and improve our services to provide a better experience for our customers.

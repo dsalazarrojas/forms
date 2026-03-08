@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Ruby Ribbon Cami Quiz form, which is intended to gather measurements and preferences from customers for the purpose of creating a customized clothing item, likely a camisole. This form likely serves as a starting point for customers to provide their measurements and style choices, which can then be used to tailor the final product to their specific needs. 
-The form has multiple fields, including text inputs for form name, size, height, width, bust, under bust, outter bust, hip, waist, length, and contact email; a select_one field for style; and a note field for additional comments. The form does not seem to have a direct correlation between the fields, but it might be designed for customers to provide their body measurements for a camisole.
-</thinking>
-
 # Ruby Ribbon Cami Quiz - Help Guide
 ## Purpose
 The Ruby Ribbon Cami Quiz form is used to collect information from customers to create a customized clothing item, such as a camisole. This information includes body measurements and style preferences.

@@ -1,5 +1,3 @@
-<thinking>...this form is used to request and manage the software licenses for equipment within the organization. This form will ensure that all the necessary information is collected and documented for each equipment software license, preventing duplication and ensuring that the licenses are properly managed and approved. To prevent duplication, please ensure that you are not submitting duplicate requests for the same equipment software license. Please review your existing records and ensure that the license is not already approved or being processed... </thinking>
-
 # Equipment Software License Request Form - Help Guide
 ## Purpose
 The Equipment Software License Request Form is used to request and manage the software licenses for equipment within the organization. This form helps to ensure that all the necessary information is collected and documented for each equipment software license, preventing duplication and ensuring that the licenses are properly managed and approved.

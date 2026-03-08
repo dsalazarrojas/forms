@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and experience of IT support staff with various skills related to troubleshooting, hardware, software, communication, and technical documentation. The form is intended to be a quick and easy way to gauge an individual's proficiency in these areas, which are crucial for IT support roles. 
-
-The purpose of this form is to ensure that IT support staff have the necessary skills and expertise to provide quality support to their customers. This form will help to identify areas where staff may need additional training or support to improve their skills.
-
-The form will be used internally to assess the skills of IT support staff and to identify areas where additional training or support may be needed.
-
-</thinking>
-
 # it support knowledge assessment - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and experience with various IT support skills.

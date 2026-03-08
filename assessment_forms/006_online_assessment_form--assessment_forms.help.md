@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect assessment data from users. It's likely used in an educational or testing context to gather information about a user's performance or progress. The form may be used to evaluate a user's submission, track their progress, or provide feedback. Before proceeding, please ensure that you are using the correct form and that your submission is accurate and complete.
-</thinking>
-
 # Online Assessment Form - Help Guide
 
 ## Purpose

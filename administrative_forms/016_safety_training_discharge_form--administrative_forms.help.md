@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to document the completion of safety training by an employee in a workplace setting. The purpose of this form is to provide a formal record of an employee's training completion, which can be used to maintain compliance with regulatory requirements and company policies. 
-
-Before you proceed, please ensure that the employee has actually completed their required safety training. The form is not intended for partial or incomplete training records.
-
-</thinking>
-
 # Safety Training Discharge Form - Help Guide
 ## Purpose
 The Safety Training Discharge Form is used to formally document an employee's completion of required safety training. This form helps to verify that the employee has completed the necessary training programs, ensuring compliance with regulatory and company standards.

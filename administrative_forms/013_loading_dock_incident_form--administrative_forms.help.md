@@ -1,5 +1,3 @@
-<thinking>....</thinking>
-
 # Loading Dock Incident Form - Help Guide
 ## Purpose
 The Loading Dock Incident Form is a tool used to report and document incidents that occur during the loading and unloading process. This form helps to identify and address any issues that may arise during these critical operations, ensuring a safe and efficient process.

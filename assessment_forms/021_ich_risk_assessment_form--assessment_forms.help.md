@@ -1,12 +1,3 @@
-<thinking>
-This form is a risk assessment tool designed to evaluate patients' risk profiles based on various factors. It is used to gather information about the patient's medical history, symptoms, and treatment outcomes. This form is part of the ICH (Intracerebral hemorrhage) protocol for assessing patient risk and determining treatment and care plans. 
-
-The form is designed for medical professionals to quickly and accurately collect relevant information to identify potential risks and develop effective treatment strategies. This form will not be used for diagnostic purposes, but rather as a tool to support treatment decision-making.
-
-**Please confirm that you are completing this form as a medical professional with the appropriate expertise and authority.**
-
-</thinking>
-
 # ICH Risk Assessment Form - Help Guide
 ## Purpose
 The ICH Risk Assessment Form is a tool used by medical professionals to evaluate patients' risk profiles based on various factors. It gathers information about the patient's medical history, symptoms, and treatment outcomes to support treatment decision-making.

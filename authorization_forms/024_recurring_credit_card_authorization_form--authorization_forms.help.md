@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain authorization from a card holder for recurring payments from a credit card. 
-The purpose of this form is to capture necessary information from the card holder for payment processing.
-Before filling out this form, please make sure to have the necessary information and authorization from the card holder.
-</thinking>
-
 # Recurring Credit Card Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization from a card holder for recurring payments from a credit card.

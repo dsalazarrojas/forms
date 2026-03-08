@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for the purposes of assessing the management practices of subcontractors in the construction industry. This form is meant to be completed by subcontractors or their representatives to gauge their knowledge and adherence to standard practices and procedures. The form is designed to be a comprehensive assessment of a subcontractor's management practices, including risk assessment, emergency procedures, safety standards, site access, subcontractor management, incident reporting, training programs, site visits, job site practices, and equipment safety and site security.
-
-To ensure that your assessment is accurate and relevant, please review the form carefully before completing it. It is essential to understand that this form is a comprehensive assessment tool and not a test or a certification exam. The questions and sections are designed to be completed by the subcontractor or their representative, and not by a third-party assessor or auditor.
-
-This form is not intended to be used as a substitute for on-site visits or assessments by the client. It is a self-assessment tool designed to be completed by the subcontractor in a self-reporting manner.
-
-</thinking>
-
 # Subcontractor Management Quiz - Help Guide
 ## Purpose
 The Subcontractor Management Quiz is a self-assessment tool designed to gauge the management practices of subcontractors in the construction industry. It covers various topics related to risk assessment, emergency procedures, safety standards, site access, subcontractor management, incident reporting, training programs, site visits, job site practices, and equipment safety and site security.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule and manage meetings between daycare providers and parents/teachers for childcare. The form is designed to be used in educational institutions and is meant to simplify the process of coordinating meeting times and dates. Before proceeding, check if you have access to this form and if you're not already scheduled for a meeting. This form will be used to collect information about the meeting, including its schedule, location, and details.
-</thinking>
-
 # Day Care Meeting Appointment Form - Help Guide
 ## Purpose
 The Day Care Meeting Appointment Form is designed to facilitate communication between daycare providers and parents/teachers for scheduling meetings. It helps to gather necessary information for successful meetings and keeps all parties informed about upcoming appointments.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chair Training Assessment - Help Guide
 ## Purpose
 The Chair Training Assessment form is used to evaluate the outcomes and confidence level of users after chair safety training sessions. This form helps assessors (trainers) to identify areas of improvement and provide feedback to trainees, ensuring that they have the necessary knowledge and skills to use chairs safely and effectively.

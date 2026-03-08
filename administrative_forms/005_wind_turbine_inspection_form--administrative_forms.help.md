@@ -1,22 +1,3 @@
-<thinking>
-
-This form is used to collect information for the periodic inspection of wind turbines. The form will help to gather data on the current status of the wind turbine, including any maintenance schedules, safety risk levels, and energy production. This form is intended for use by authorized personnel, and the information collected will be used to make informed decisions about the maintenance and upkeep of the wind turbine.
-
-The form is composed of multiple pages, each with several fields that must be filled in by the user. To ensure that the form is completed accurately and thoroughly, the following instructions must be followed:
-
-1.  The first page of the form is the Inspection Details page, where the user must provide information about the current inspection of the wind turbine. This includes the date of the inspection, any issues that were reported, and any other details relevant to the inspection.
-2.  The next page is the Issues Reported page, where the user must select any issues that were reported during the inspection. This will help to track any problems that need to be addressed.
-3.  The following page is the Maintenance Schedules page, where the user must enter any upcoming maintenance schedules for the wind turbine.
-4.  The Safety Risk Level page allows the user to select the current safety risk level of the wind turbine.
-5.  The Notes page provides a field for any additional comments or notes about the inspection.
-6.  The Next Inspection Date page allows the user to enter the date of the next scheduled inspection.
-7.  The Energy Production page is used to enter the current energy production levels of the wind turbine.
-8.  The Wind Turbine Status page is used to select the current status of the wind turbine.
-9.  The Maintenance Status page provides a field for any additional comments or status updates about the maintenance schedules.
-10.  The Issue Status page is used to select the current status of any issues that were reported.
-
-</thinking>
-
 # Wind Turbine Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information for the periodic inspection of wind turbines.

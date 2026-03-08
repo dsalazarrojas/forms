@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rental Car Inspection Form - Help Guide
 
 ## Purpose

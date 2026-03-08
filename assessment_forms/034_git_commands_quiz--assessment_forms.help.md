@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the user's knowledge of Git commands. It is intended to be completed by users who are familiar with the Git version control system and want to test their knowledge of common Git commands. This form does not store any personal data and is meant for testing purposes only. The form consists of 25 questions, each covering a specific aspect of Git commands.
-
-</thinking>
-
 # Git Commands Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of Git commands. It consists of multiple-choice questions that cover the most common Git commands. The form is divided into sections, each focusing on a specific topic.

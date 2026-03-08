@@ -1,19 +1,3 @@
-<thinking>
-The form purpose is to generate a service invoice for clients, which can be used for billing and payment purposes. This form is designed to collect necessary information about the services provided, including date, hours worked, client details, service cost, and payment method. The form can be completed by service providers to create a professional-looking invoice that can be sent to clients. This form is part of the accountant's workflow for managing client invoices.
-
-The form has 10 fields, each with a specific label and type. Some fields are required, while others are optional. This guide will walk the user through each field's purpose and requirements.
-
-The form is meant to be completed by service providers, who need to accurately record their services and client interactions. The guide will help users understand what information to enter in each field and how it contributes to the overall invoice.
-
-The following guide assumes the user has some basic knowledge of invoicing and accounting concepts. If you're unsure about any field, please refer to the explanation provided.
-
-The form fields are designed to be self-explanatory, but the guide will provide additional context and examples to ensure users understand each field's purpose.
-
-Please note that the form can be completed in multiple pages, but this guide will cover each field individually.
-
-Please read the guide carefully to ensure you complete the form accurately and efficiently.
-</thinking>
-
 # Service Invoice Generator - Help Guide
 ## Purpose
 The Service Invoice Generator form is designed to create professional-looking service invoices for clients. The form collects information about services provided, including date, hours worked, client details, service cost, and payment method.

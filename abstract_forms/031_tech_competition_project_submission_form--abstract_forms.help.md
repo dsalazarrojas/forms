@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tech Competition Project Submission Form - Help Guide
 ## Purpose
 This form is for submitting project proposals to a tech competition. It captures essential information about the project, including team details and project tags.

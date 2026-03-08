@@ -1,12 +1,3 @@
-<thinking>
-This form is likely intended to assess the function of the diastolic system in a medical or health-related context. The diastolic function may refer to the ability of the heart to relax and fill with blood during the diastolic phase of the cardiac cycle. The questions and fields on this form aim to gather information about a person's or an organ's diastolic function. This form might be used in medical research, patient assessment, or education.
-
-Please note that the structure of the form is extensive, with a large number of fields on a single page. This could be due to the form's intended purpose, which might be to gather a comprehensive set of data. However, it may also be due to the limitations or constraints of the form designer.
-
-To ensure the form's effectiveness and user satisfaction, it is crucial to provide clear and concise help and guidance for each field. This will aid in reducing errors and increase the form's usability.
-
-</thinking>
-
 # Diastolic Function Assessment Quiz - Help Guide
 ## Purpose
 This guide is designed to help you navigate and complete the Diastolic Function Assessment Quiz.

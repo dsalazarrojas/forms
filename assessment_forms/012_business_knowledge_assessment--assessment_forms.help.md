@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess business knowledge, skills, and interests of employees to identify areas where they need more training or development. It's essential that employees complete this form honestly, as the data collected will help the organization tailor its training programs to meet the needs of its workforce.
-Before filling out this form, please ensure that you are not duplicating your response, and that your answers are based on your current knowledge and experience within the company.
-</thinking>
-
 # Business Knowledge Assessment - Help Guide
 
 ## Purpose

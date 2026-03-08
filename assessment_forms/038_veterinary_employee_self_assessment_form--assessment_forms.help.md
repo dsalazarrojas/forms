@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for veterinary employees to assess their own performance and strengths for the quarter. The goal is to help employees reflect on their key areas of improvement and focus on developing themselves professionally. The form is meant to be a self-assessment tool for employees to evaluate themselves, not a performance evaluation form for management.
-
-Before creating this form, ensure that you are not duplicating or using any content from existing forms or platforms. This form is a unique adaptation created using public survey topic metadata.
-
-</thinking>
-
 # Veterinary Employee Self-Assessment Form - Help Guide
 ## Purpose
 The Veterinary Employee Self-Assessment Form is a tool for veterinary employees to evaluate their performance, strengths, and areas of improvement for the quarter.

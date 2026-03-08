@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to help assess the workplace hazards and risks that employees may be exposed to on the job. This form aims to gather information about the job, employee, and assessment methods. The purpose of this form is to collect data that can be used to identify potential hazards and take corrective actions to ensure a safe work environment. Please ensure that the form is filled out for every job type and that you are not duplicating any already submitted assessments.
-</thinking>
-
 # Workplace Hazard Assessment Appointment Form - Help Guide
 ## Purpose
 The Workplace Hazard Assessment Appointment Form is a tool used to identify and assess potential hazards and risks that employees may be exposed to on the job. The form is designed to gather essential information about the job, employee, and assessment methods to help create a safe working environment.

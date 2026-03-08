@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for identity verification purposes. This form will be used to gather data about employees, specifically their name, address, date of birth, email, phone number, employee ID, and employment status. This form is not mandatory, meaning that users are not required to fill out every field. It's essential to ensure that the fields filled out accurately reflect the employee's personal and professional details to avoid any discrepancies or errors in the verification process.
-</thinking>
-
 # Identity Verification Form - Help Guide
 
 ## Purpose

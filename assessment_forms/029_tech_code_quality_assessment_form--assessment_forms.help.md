@@ -1,5 +1,3 @@
-<thinking>As a tech code quality assessment form, its primary purpose is to evaluate the quality of code submitted by developers. This form is intended for assessors/reviewers to provide their opinions and ratings on the maintainability, design, and other key aspects of the code. The form should only be filled out by reviewers who are authorized to assess the code quality, such as team leaders, technical leads, or code review experts. The form is used to track and monitor the progress of code reviews, and its completion is not required for every single project. Reviewers should only fill out this form when they have a thorough understanding of the code and the project requirements.</thinking>
-
 # Tech Code Quality Assessment Form - Help Guide
 ## Purpose
 The Tech Code Quality Assessment Form is used to evaluate the quality of code submitted by developers. This form helps reviewers provide their opinions and ratings on the maintainability, design, and other key aspects of the code.

@@ -1,20 +1,3 @@
-<thinking> 
-The purpose of the "Prison Release Discharge Form" is to gather information from an individual who is being released from prison or a correctional facility. This form is used to collect contact details, housing status, medical conditions, emergency contact information, religious affiliations, reintegration services required, housing arrangement, mental health services, family status, and social media presence. The form is intended to provide a comprehensive overview of the individual's circumstances upon release, which can be helpful in facilitating a smooth transition.
-
-The form is not meant to replace any official legal documentation, but rather serves as an informal means of gathering information.
-
-It is essential that the individual providing this information is honest and accurate, as this information will be used to assist in their reintegration into society.
-
-Before filling out the form, please ensure you are not duplicating any existing information.
-
-After completing the form, review it carefully for accuracy to ensure all information is up-to-date and correct.
-
-Please note that some fields are optional, but providing complete and accurate information will aid in the reintegration process.
-
-This form is a general template and may need to be adapted according to local regulations and requirements.
-
-</thinking>
-
 # Prison Release Discharge Form - Help Guide
 ## Purpose
 ## How To Complete This Form

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to record information about a dog's shot records, including details about the dog's health, the shot administered, and follow-up information. The form will help veterinary staff gather and store important data about the dog's medical history, which can be used for future reference and to ensure the dog's well-being. It is recommended that this form be completed for every dog that receives a shot to ensure accurate and comprehensive records.
-
-Before starting, ensure that the form is filled out for each dog separately and that the same form is not used for multiple dogs.
-
-</thinking>
-
 # Dog Shot Record Template - Help Guide
 ## Purpose
 This template is used to record information about a dog's shot record, including details about the dog's health, the shot administered, and follow-up information.

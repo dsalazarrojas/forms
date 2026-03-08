@@ -1,7 +1,3 @@
-<thinking>
-This form is used for authorizing steel erections, which is a critical aspect of construction projects. The Steel Erection Authorization Form is intended to ensure that all necessary parties have reviewed and approved a steel erection request. This form will be used for tracking and verifying authorization of steel erections on a construction site.
-</thinking>
-
 # Steel Erection Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization for steel erections on a construction project.

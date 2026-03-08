@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are not familiar with the form's purpose and how it should be completed. It is also a self-explanatory guide to reduce support requests and improve user experience.
-The form is used to request imaging authorization for patients who are under medical treatment. This guide will walk you through the fields and their purposes.
-</thinking>
-
 # Imaging Prior Authorization Request - Help Guide
 ## Purpose
 This form is designed to facilitate the prior authorization process for medical imaging procedures. It collects relevant clinical information and supporting documentation to ensure a thorough review of the requested imaging.

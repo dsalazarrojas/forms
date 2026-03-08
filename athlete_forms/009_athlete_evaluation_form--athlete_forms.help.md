@@ -1,8 +1,3 @@
-<thinking> 
-This form seems to be an evaluation form for athletes, likely for sports teams or coaching staff. It is likely used to assess the performance and development potential of athletes in various sports categories. The form includes fields for demographic information about the athlete, their technical skills, physical attributes, mental toughness, teamwork, coachability, work ethic, leadership qualities, and overall assessment. The purpose of this form is to provide a comprehensive evaluation of the athlete, highlighting their strengths and areas for improvement. It appears to be designed for coaches, scouts, or evaluators to provide a detailed and structured evaluation of an athlete's performance and potential. The form seems to be a standardized and systematic way to gather and document evaluations, making it easier to compare and track athlete performance over time. The form also asks for a recommendation to be made by the evaluator, indicating whether they would recommend the athlete for further development or consideration.
-
-</thinking>
-
 # Athlete Evaluation Form - Help Guide
 ## Purpose
 The Athlete Evaluation Form is a standardized tool used by coaching staff to assess an athlete's performance and development potential. It is designed to provide a comprehensive evaluation of the athlete's technical skills, physical attributes, mental toughness, teamwork, coachability, work ethic, leadership qualities, and overall assessment.

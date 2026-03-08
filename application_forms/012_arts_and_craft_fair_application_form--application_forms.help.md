@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Arts And Craft Fair Application Form. This form is designed to collect information from potential vendors who wish to participate in the fair. The form ensures that vendors provide accurate and complete information about themselves and their products. Before filling out the form, ensure that you are a suitable candidate for the fair and have not filled out the form previously.
-</thinking>
 # Arts And Craft Fair Application Form - Help Guide
 ## Purpose
 The Arts And Craft Fair Application Form is for vendors who want to participate in the fair, providing their contact and product information for consideration. Please fill out the form accurately and completely to increase your chances of being accepted.

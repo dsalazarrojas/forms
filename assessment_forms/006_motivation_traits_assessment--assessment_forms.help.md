@@ -1,13 +1,3 @@
-<thinking>
-To begin with, let's break down the form purpose and ensure it aligns with the provided YAML fields. The "Motivation Traits Assessment" form appears to be a comprehensive assessment tool designed to gauge an individual's motivation, goals, and priorities, as well as their inspirations and challenges. It likely aims to understand the driving forces behind an individual's actions and decisions.
-
-Upon reviewing the form structure, we can see that it is divided into sections, each focusing on a specific aspect of motivation, such as "What motivates you?", "What are your goals and priorities?", "How do you stay motivated?", and "What challenges do you face?". The form also includes fields for contact details, submission information, and a final "Thank you!" page.
-
-Given the form's structure and content, it is likely intended for individuals to reflect on their motivations, goals, and challenges in a structured and detailed manner. The form may be used in educational, personal, or professional settings to gain insight into an individual's motivation and behavior.
-
-Now, let's review the form fields to ensure they are accurately described and explained for end-users:
-</thinking>
-
 # Motivation Traits Assessment - Help Guide
 ## Purpose
 This form assesses an individual's motivations, goals, priorities, inspirations, and challenges to gain insight into their driving forces and behavior.

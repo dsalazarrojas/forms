@@ -1,8 +1,3 @@
-<thinking>
-This form is used for employees to renew their work authorization. The form captures essential details about the employee's job title, work hours, department, location, and supervisor's contact information. This form is designed to be completed by employees who need to renew their work authorization to continue working on specific projects or tasks. To avoid duplication, please ensure that you have not already submitted a work authorization request for the same period.
-
-</thinking>
-
 # Work Authorization Renewal Form - Help Guide
 ## Purpose
 The Work Authorization Renewal Form is used by employees to renew their work authorization, ensuring they can continue working on specific projects or tasks.

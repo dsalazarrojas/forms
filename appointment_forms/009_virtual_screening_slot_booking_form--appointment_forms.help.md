@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for booking virtual screening slots for medical consultations. It's likely intended for use in a healthcare setting, such as online consultations with doctors or therapists. This form is meant to be used by patients or clients to schedule appointments for virtual screenings, which may include video consultations, phone calls, or text messaging. It's possible that this form is part of a larger system for managing appointments and patient interactions. Before proceeding, ensure that the form is not a duplicate or redundant effort within your organization. If you're unsure, please consult with your team or IT department to verify the form's purpose and ensure it's not already covered by another form or process.
-</thinking>
-
 # Virtual Screening Slot Booking Form - Help Guide
 
 ## Purpose

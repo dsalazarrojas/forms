@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Wedding Party Styling Appointment Form - Help Guide
 ## Purpose
 The Wedding Party Styling Appointment Form is a tool for wedding vendors to schedule appointments with potential clients. This form allows vendors to gather information about their clients, including their name, email, phone number, and appointment time and date. The form also includes a message field for clients to provide any additional information or requests.

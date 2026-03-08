@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information for planning a business seminar, including details about the organizer, seminar details, venue requirements, and technical needs. This form will likely be used by internal stakeholders to manage and process seminar bookings.
-
-The purpose of this form is to centralize the collection of information related to a business seminar setup. The goal is to capture all relevant details about the seminar, including the date and time of the event, location, and logistical requirements such as venue, equipment, and catering needs. By using this form, internal stakeholders can efficiently process and coordinate seminar requests.
-
-</thinking>
-
 # Business Seminar Setup Booking Form - Help Guide
 ## Purpose
 The Business Seminar Setup Booking Form is used to collect information about a business seminar, including details about the organizer, seminar date and time, venue, and logistical requirements.

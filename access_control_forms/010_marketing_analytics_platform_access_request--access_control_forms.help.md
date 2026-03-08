@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Analytics Platform Access Request - Help Guide
 ## Purpose
 The Marketing Analytics Platform Access Request form is used to request access to the marketing analytics platform for users. This form is designed to gather necessary information from the user to evaluate their access request and ensure that they have the required permissions to access the platform.

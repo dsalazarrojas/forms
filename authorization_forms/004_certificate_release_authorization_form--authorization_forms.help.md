@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for obtaining authorization to release certificates in a secure manner. It seems to be used for situations where someone is requesting to obtain a certificate held by another person or organization. To complete this form, the user will need to provide their own personal information, such as their name and contact email address, as well as the name of the certificate holder and the name of the recipient or organization receiving the certificate. The form also asks for the type of relationship between the requester and the certificate holder, and whether an ID was provided for verification purposes. Lastly, the user will need to provide their signature name, which constitutes consent for the release of the certificate. Before proceeding, it is essential to ensure that the form is not being duplicated or used for a different purpose than its intended use.
-</thinking>
-
 # Certificate Release Authorization Form - Help Guide
 ## Purpose
 This form is designed to obtain authorization from the certificate holder to release the certificate to a designated recipient or organization.

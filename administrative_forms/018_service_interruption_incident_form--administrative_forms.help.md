@@ -1,11 +1,3 @@
-<thinking>
-This form is used for reporting service interruptions to the IT department. It should only be used once the interruption has been acknowledged. This form should be filled out by the team members or users who were directly impacted by the interruption. The purpose of this form is to gather information about the interruption and any subsequent actions taken to resolve it.
-
-The form can be filled out by the impacted team members or users who report the incident, and the team lead or manager can use this information to update the status and assigned to fields.
-
-Please ensure that the form is not filled out multiple times for the same incident, as it can cause confusion and make it harder to track progress.
-</thinking>
-
 # Service Interruption Incident Form - Help Guide
 ## Purpose
 The Service Interruption Incident Form is used to report and track service interruptions. This form is used by team members or users who were directly impacted by the interruption to gather information about the interruption and any subsequent actions taken to resolve it.

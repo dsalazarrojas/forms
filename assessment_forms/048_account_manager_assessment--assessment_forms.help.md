@@ -1,12 +1,3 @@
-<thinking>
-# This form is designed to assess an account manager's performance in various key areas.
-# The form includes questions that help you evaluate their client satisfaction, revenue growth achievement, and other critical skills.
-# The assessment results can be used to identify areas of improvement and provide feedback to the account manager.
-# This form is typically filled out by the person conducting the assessment, usually the account manager's supervisor or team lead.
-# It is essential to complete the form thoroughly and honestly to provide an accurate evaluation of the account manager's performance.
-# This form is not intended to be completed by the account manager themselves, as it is used for evaluation and feedback purposes.
-</thinking>
-
 # Account Manager Assessment - Help Guide
 ## Purpose
 This form is designed to assess an account manager's performance in various key areas, including client satisfaction, revenue growth, and critical skills.

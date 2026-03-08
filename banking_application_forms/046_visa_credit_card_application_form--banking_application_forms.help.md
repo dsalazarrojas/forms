@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to gather personal and professional information from individuals applying for a Visa Credit Card. The form fields cover essential details such as address, employment status, education level, income, and nationality. The form is designed to be completed by applicants to provide necessary documentation for the credit card application process.
-
-Before proceeding with this guide, please ensure that you have reviewed your eligibility and the specific requirements for this credit card application. This guide is intended for informational purposes and does not replace the formal review and approval process conducted by the bank's credit department.
-
-Please note that this form may not be suitable for all applicants. If you are unsure about any of the questions or fields, please contact the bank's customer service for further clarification.
-
-Please also be aware that the bank may require additional documentation or information beyond what is provided in this form. This is a general guide and is not a substitute for the formal application process.
-
-If you have already submitted an application, please do not complete this form again. To avoid duplication of effort and ensure your application is processed correctly, please contact the bank's customer service to confirm the status of your existing application.
-</thinking>
-
 # Visa Credit Card Application Form - Help Guide
 ## Purpose
 The Visa Credit Card Application Form is a comprehensive application tool designed to collect essential information from credit card applicants. This guide will walk you through the form's layout and each field's purpose to ensure a smooth and accurate submission.

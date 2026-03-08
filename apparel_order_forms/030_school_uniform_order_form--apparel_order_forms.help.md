@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture school uniform orders from customers, collecting information about the order status, customer details, shipping information, and payment methods. The form is intended to be completed by school administrators or staff members to process orders efficiently. It's crucial to fill out the form accurately to avoid any discrepancies in order fulfillment.
-
-</thinking>
-
 # School Uniform Order Form - Help Guide
 ## Purpose
 This form is used to collect information about a school uniform order. It's essential to fill it out correctly to ensure the order is processed accurately and efficiently.

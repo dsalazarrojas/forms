@@ -1,13 +1,3 @@
-<thinking>
-
-Before proceeding to create the help guide, let's confirm that the form is meant for users to request paperless billing, allowing them to opt-out of receiving paper bills and select their preferred billing cycle.
-
-The purpose of this form is to gather user information to update their billing preferences, which will be used to generate electronic bills or tailor the frequency of paper bills accordingly.
-
-The form's fields will be used to populate this information, so let's ensure that users understand each field's purpose and requirements.
-
-</thinking>
-
 # Paperless Billing Request Form - Help Guide
 ## Purpose
 The Paperless Billing Request Form is used to request a switch to electronic billing and to select your preferred billing cycle. By filling out this form, you can choose to receive electronic bills instead of paper bills and select the frequency of your billing cycle.

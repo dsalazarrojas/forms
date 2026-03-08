@@ -1,21 +1,3 @@
-<thinking>... 
-
-This form template is designed to help customers place orders for pandesal, a type of sweet treat typically associated with Christmas. The form is intended for customers to provide information about their order, including order details, customer information, shipping address, payment method, total cost, order status, order notes, and customer email. 
-
-The form is structured into multiple fields, each with its own specific purpose:
-
-- The fields are organized into categories (pages) for easier navigation and understanding.
-- The "order_details" field is likely used to collect information about the specifics of the order, such as the type and quantity of pandesal desired.
-- The "customer_info" field is used to collect contact and demographic information about the customer.
-- The "shipping_address" field is used to collect the customer's delivery address.
-- The "payment_method" field likely allows customers to choose their preferred payment method for the order.
-- The "total_cost" field likely collects the total cost of the order.
-- The "order_status" field may be used to keep track of the order's progress or status.
-- The "order_notes" field is an optional field for customers to provide additional notes about their order.
-- The "customer_email" field likely collects the customer's email address.
-
-</thinking>
-
 # Pandesal Order Form Template - Help Guide
 ## Purpose
 The Pandesal Order Form Template is designed to help customers place orders for pandesal, a sweet treat associated with Christmas. Fill in the form to provide your order details and payment information.

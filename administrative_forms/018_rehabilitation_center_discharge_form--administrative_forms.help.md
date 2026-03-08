@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to document the discharge of a patient from a rehabilitation center. It's essential to complete this form to ensure that the patient's medical history and contact information are up-to-date, and to schedule follow-up appointments. Please note that this form is part of the internal workflow of the rehabilitation center and should not be submitted for public use. 
-
-This form will be reviewed by the relevant personnel at the center before it is processed. Please ensure that all fields are filled out accurately and completely.
-
-This guide is designed to walk through the form step by step, helping you to fill it out correctly and efficiently.
-
-</thinking>
-
 # Rehabilitation Center Discharge Form - Help Guide
 ## Purpose
 The Rehabilitation Center Discharge Form is used to document the discharge process of a patient from the rehabilitation center. It's essential to complete this form accurately to ensure that the patient's medical history, contact information, and discharge details are correctly recorded.

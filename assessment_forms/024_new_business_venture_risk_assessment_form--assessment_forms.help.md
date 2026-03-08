@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the risk associated with a new business venture. It is intended for companies that are seeking to gauge the feasibility and potential success of their proposed business model. The form is meant to be filled out by company representatives, such as management or investors, to provide a comprehensive understanding of the venture's strengths and weaknesses. The purpose of this guide is to explain each field in detail, helping to clarify the intended usage and expected outcomes of the assessment.
-
-Before proceeding, please note that this form assesses the risk associated with a new business venture and is not a guarantee of success. Each field requires specific information to help calculate the risk level of your new business venture.
-
-Please ensure that each field is filled out accurately and completely, as any missing or incomplete information may affect the assessment results.
-
-</thinking>
-
 # New Business Venture Risk Assessment Form - Help Guide
 ## Purpose
 The New Business Venture Risk Assessment Form is a tool designed to gauge the feasibility and potential success of a new business venture. It assesses the risk associated with key factors such as risk factors, business model, revenue models, risk assessments, risk level, financial performance, market share, market position, management team, customer base, customer acquisition, competition, market trends, regulatory framework, regulatory environment, technology infrastructure, intellectual property, business model rationale, financial prosperity, financial stability, and financial vulnerability.

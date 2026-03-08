@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help customers and technicians estimate the cost of hybrid battery maintenance. It's intended for customers who want to get an initial quote for maintenance or repair work on their hybrid vehicle's battery. This form should only be filled out by customers who have not already submitted a request for this type of service or have not been given a specific quote for their vehicle's battery maintenance.
-
-</thinking>
-
 # Hybrid Battery Maintenance Cost Estimate Request - Help Guide
 ## Purpose
 This form is designed to collect information from customers to estimate the cost of hybrid battery maintenance. Fill out this form to get an initial quote for maintenance or repair work on your hybrid vehicle's battery.

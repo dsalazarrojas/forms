@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess and document Obsessive-Compulsive Disorder (OCD) symptoms, diagnostic criteria, and treatment plans. It is designed to gather information about the individual's compulsive behaviors, distress levels, and treatment options. Before completing this form, ensure that you have a good understanding of the individual's mental health history and current symptoms. This form should not be used for diagnostic purposes only, but also to create a comprehensive treatment plan.
-
-</thinking>
 # Obsessive-Compulsive Disorder OCD Assessment - Help Guide
 ## Purpose
 This form is used to assess and document Obsessive-Compulsive Disorder (OCD) symptoms, diagnostic criteria, and treatment plans.

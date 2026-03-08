@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Used Car Monthly Payment Inquiry Form" is to gather information from users who are interested in inquiring about financing options for their vehicle. This form helps the user to select the type of financing they are interested in, provide information about the vehicle they want to finance, and schedule a follow-up appointment to discuss their options. This form is likely used by sales teams or financial advisors to gather user input and prepare for a discussion about their vehicle financing needs.
-</thinking>
-
 # Used Car Monthly Payment Inquiry Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record the completion of operator training. The operator training sign off form is an essential part of the training process, ensuring that all necessary steps are taken to guarantee the operator's understanding of the training material. This form is a critical tool for tracking and verifying operator training completion. Before filling out this form, please ensure that you have completed the required training and have the necessary information ready.
-
-</thinking>
-
 # Operator Training Sign Off - Help Guide
 ## Purpose
 The Operator Training Sign Off form is used to record the completion of operator training sessions. It helps to ensure that all necessary steps are taken to guarantee the operator's understanding of the training material and to track training completion.

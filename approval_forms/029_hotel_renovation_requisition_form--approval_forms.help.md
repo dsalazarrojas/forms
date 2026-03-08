@@ -1,6 +1,3 @@
-<thinking> 
-This form is for requesting and managing hotel renovations. It's used for submitting and tracking renovation requests, including descriptions, priority levels, costs, and status updates. This form is primarily used by hotel staff to submit and manage renovation requests internally. It's not intended for general public use. Ensure that you only access this form if you have the necessary permissions and clearance. Please do not duplicate or modify existing renovation requests without approval. If you have any questions or concerns, contact the hotel management team.</thinking>
-
 # Hotel Renovation Requisition Form - Help Guide
 ## Purpose
 The Hotel Renovation Requisition Form is used to submit and manage renovation requests for hotel properties. It allows users to provide detailed descriptions of the requested renovations, specify priority levels and costs, and track the status of the requests.

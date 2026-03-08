@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective help guide for the "Resource Person Information Form", we need to consider the form's purpose and the fields it contains. This form likely serves as a means to capture essential information about a resource person, possibly for administrative or support purposes. The form has multiple fields for collecting personal details, contact information, and potentially for assigning roles or categories.
 
 The form's purpose should be to gather accurate and complete information from the user, and the guide should aim to guide users through the process of filling it out correctly.

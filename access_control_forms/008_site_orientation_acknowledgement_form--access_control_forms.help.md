@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Site Orientation Acknowledgement Form - Help Guide
 ## Purpose
 The Site Orientation Acknowledgement Form is designed to be a quick and simple form that allows site orientation completion status to be tracked and recorded. This form ensures that employees, contractors, and visitors acknowledge that they have completed the site orientation, which is a mandatory safety and security procedure.

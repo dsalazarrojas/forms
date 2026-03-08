@@ -1,8 +1,3 @@
-<thinking>
-The form's purpose is to gather information about a healthcare merger and acquisition (M&A) deal. The form is used to assess the deal's status, size, type, and value, as well as other key factors that impact the deal's success. This guide will walk you through how to complete the form and what each field means.
-
-</thinking>
-
 # Healthcare M&A Assessment Form - Help Guide
 
 ## Purpose

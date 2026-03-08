@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for the Educational Outreach Impact Award nomination. The purpose of this form is to gather details about a school's educational outreach program, including its name, contact information, and the impact it had on students or the community. The form also seeks to understand the program's evaluation process and the qualifications of the nominee. To ensure accurate and complete information, please fill out the form carefully and thoroughly.
-
-Before submitting the form, please check that:
-* You are submitting a new nomination, and not duplicating an existing one.
-* You have all the necessary information and details required to fill out the form.
-* You have the permission of the school or program administrator to fill out this form.
-
-Also, please note that some fields might be optional, but they are still important for a complete evaluation of the program. Make sure to fill out all fields that are relevant to the program.
-</thinking>
-
 # Educational Outreach Impact Award Nomination Form - Help Guide
 ## Purpose
 This form is used to collect information about a school's educational outreach program for the Educational Outreach Impact Award nomination.

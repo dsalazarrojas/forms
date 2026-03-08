@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to track whether a user is attending a town hall event and to gather some basic information about the event and the user. The form is used for internal purposes and should only be filled out by authorized users. 
-This form should be filled out by users who are unsure about their attendance or need to provide more information about their event. 
-</thinking>
-
 # Town Hall Attendance Check Form - Help Guide
 ## Purpose
 This form is used to check if a user is attending a town hall event and to collect some basic information about the event and the user.

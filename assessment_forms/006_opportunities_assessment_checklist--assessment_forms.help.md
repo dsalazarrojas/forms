@@ -1,8 +1,3 @@
-<thinking>
-This form is an assessment tool used to evaluate opportunities based on various factors. 
-The purpose of this form is to provide a systematic and objective assessment of potential opportunities to help decision-makers determine the feasibility and potential impact of each opportunity. This form should not be used to evaluate opportunities that have already been assessed or rated, to avoid duplication of effort and ensure accurate tracking of assessments.
-</thinking>
-
 # Opportunities Assessment Checklist - Help Guide
 ## Purpose
 The Opportunities Assessment Checklist is a tool used to evaluate opportunities based on various factors, providing a systematic and objective assessment of potential opportunities.

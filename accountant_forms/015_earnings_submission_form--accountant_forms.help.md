@@ -1,9 +1,3 @@
-<thinking>
-This form is used to submit earnings data for payments made to employees. The form is likely used by accounting or financial teams to keep track of payments made to team members. 
-
-To confirm, this form is likely used to collect information from users about payments they have made or are about to make to employees. The form does not appear to be a duplicate or unnecessary form. It's likely used for accounting or financial purposes, and the payment_amount_field is likely used to record payment amounts, which may be required for tax reports or other financial records.
-</thinking>
-
 # Earnings Submission Form - Help Guide
 
 ## Purpose

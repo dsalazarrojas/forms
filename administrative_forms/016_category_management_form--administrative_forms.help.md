@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Category Management Form. This form is used for managing categories, and the purpose of this form is to allow users to create, update, or delete categories. It's essential to provide clear instructions on how to complete this form accurately to ensure that category information is up-to-date and complete. We will break down the form into sections, explaining each field's purpose, and provide tips for users to fill it out correctly.
-</thinking>
-
 # Category Management Form - Help Guide
 ## Purpose
 The Category Management Form is used for managing categories. It allows you to create new categories, update existing ones, merge categories, change category hierarchies, and delete categories. Please fill out this form accurately to ensure that category information is up-to-date and complete.

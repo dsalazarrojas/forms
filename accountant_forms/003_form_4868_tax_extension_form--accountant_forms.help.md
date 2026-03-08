@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for tax extension purposes, where a taxpayer can submit a request for an extension on their tax filing. The form collects various information required for the extension process, including taxpayer identification, address, and contact details. 
-
-To avoid duplication, it is essential to review the form carefully before submitting it. Ensure that you have all the necessary information and documentation required for the extension. Also, review the submission requirements and the fields required by the form to avoid any potential issues during the process.
-
-</thinking>
-
 # Form 4868 Tax Extension Form - Help Guide
 
 ## Purpose

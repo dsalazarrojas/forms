@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a comprehensive guide for requesting services related to a vehicle, likely used by a maintenance or repair team in an automotive environment. It includes fields for job information, customer details, vehicle specifics, contact info, and service requirements. The form's purpose is likely to gather data for scheduling and fulfilling service requests.
-</thinking>
 # Vacuum Truck Service Request - Help Guide
 ## Purpose
 This form is used to request services such as maintenance or repair for a vehicle. It will help us understand the job details, customer information, and service requirements.

@@ -1,5 +1,3 @@
-<thinking>...the form is intended for suppliers to provide information about their compliance status with regulatory bodies. This form is used to verify the legitimacy of a supplier, including their name, address, phone number, email, and certifications. It's a crucial tool for businesses to ensure they're working with reliable and compliant suppliers. The fields in this form are designed to collect relevant information that helps to identify and verify a supplier's compliance status... </thinking>
-
 # Supplier Compliance Verification Form - Help Guide
 ## Purpose
 The Supplier Compliance Verification Form is used to collect information from suppliers about their compliance status with regulatory bodies. This form helps businesses verify the legitimacy of their suppliers and ensures they are working with reliable and compliant partners.

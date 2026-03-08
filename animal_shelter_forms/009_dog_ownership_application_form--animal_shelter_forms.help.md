@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for potential adopters to submit their information and application for dog ownership. This form will help us determine whether you are ready for dog ownership and if we can place a dog in a safe and loving environment with you. Please complete the form thoroughly and accurately to ensure a smooth process. This form is not a duplicate or repetitive question set, so please answer each question based on the truth.
-
-</thinking>
-
 # Dog Ownership Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential dog owners to assess their eligibility and preparedness for dog ownership. It will help our team determine if you are a suitable candidate for dog adoption.

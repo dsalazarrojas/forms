@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Material Traceability Verification Report Form", I need to consider the form's purpose, how to complete it, and what each field means. This form seems to be designed for tracking and verifying the traceability status of materials. The purpose of the form is to collect data on the material traceability, including supplier information, material type, production date, and other relevant details.
-
-Upon analyzing the YAML fields, I notice that the form has 11 fields, including text, select multiple, date, and select one fields. Some fields are not required, which may indicate that they are optional or dependent on other field values.
-
-To help users complete this form, I will create a clear and concise user guide in Markdown format.
-
-</thinking>
-
 # Material Traceability Verification Report Form - Help Guide
 ## Purpose
 The Material Traceability Verification Report Form is designed to collect data on the material traceability, including supplier information, material type, production date, and other relevant details.

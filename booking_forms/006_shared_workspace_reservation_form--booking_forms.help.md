@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to create a shared workspace reservation. The purpose of this form is to allow users to reserve a shared workspace by providing details such as start and end dates, start and end times, and other relevant information. This form should only be used for shared workspaces that are available for reservation. Please ensure that you are using this form for the correct purpose and that the workspace is not already reserved or booked.
-
-</thinking>
-
 # shared_workspace_reservation_form - Help Guide
 ## Purpose
 The shared_workspace_reservation_form is used to reserve a shared workspace. This form is used to provide details such as start and end dates, start and end times, and other relevant information for booking a shared workspace.

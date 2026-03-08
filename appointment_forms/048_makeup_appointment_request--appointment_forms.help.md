@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to request a makeup appointment. It is designed for individuals who need to schedule an appointment to fix or update their appearance. The form is meant to be used only for requesting appointments, not for making reservations or booking events. Please ensure you fill in the form accurately and completely to ensure your request is processed correctly.
-
-</thinking>
-
 # Makeup Appointment Request - Help Guide
 ## Purpose
 The form allows you to request a makeup appointment.

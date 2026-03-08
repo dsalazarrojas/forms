@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # scheduling_setup_and_customer_notification_form - Help Guide
 ## Purpose
 This form is used to schedule appointments and set up customer notification preferences. It is designed to collect information for scheduling appointments and configure notification settings for customers.

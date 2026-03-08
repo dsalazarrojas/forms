@@ -1,7 +1,3 @@
-<thinking>
-The Housekeeping Quick Estimate Template is a form used to quickly estimate the cost and details of housekeeping services for a client. This form is typically used for clients who need a rough estimate of the services they require to be performed on their premises. The form aims to collect essential information about the type of service required, location, estimated duration, and other relevant details. To ensure accurate and efficient completion of this form, please review the following instructions.
-
-</thinking>
 # Housekeeping Quick Estimate Template - Help Guide
 
 ## Purpose

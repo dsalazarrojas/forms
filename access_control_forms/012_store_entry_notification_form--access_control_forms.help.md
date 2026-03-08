@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to notify store managers about store entry-related events, such as new store entries, updated store details, or store manager changes. It's intended for use by individuals responsible for managing store information and ensuring its accuracy. To ensure the form is used correctly, please review the following help guide:
-
-Before starting to fill out the form, confirm that you have the necessary permissions and authority to access and update store information.
-
-</thinking>
-
 # Store Entry Notification Form - Help Guide
 ## Purpose
 This form is used to notify store managers about store entry-related events, such as new store entries, updated store details, or store manager changes. It ensures that store managers are informed and up-to-date on changes to store information.

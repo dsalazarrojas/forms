@@ -1,7 +1,3 @@
-<thinking>
-You will need to ensure this form is used for a legitimate purpose, not to spam or misuse the API. Please don't submit duplicate requests. This form is designed for organizations that need access to the Bank API for legitimate business purposes. Please ensure you have the necessary authorization from your company to complete this form.
-</thinking>
-
 # Bank API Access Request Form - Help Guide
 ## Purpose
 This form is designed to request access to the Bank API for your organization. Please provide accurate and complete information to ensure a smooth access approval process.

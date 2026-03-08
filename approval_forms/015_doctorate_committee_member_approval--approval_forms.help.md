@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Doctorate Committee Member Approval - Help Guide
 
 ## Purpose

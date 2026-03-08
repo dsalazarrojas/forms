@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect patient information and screening data for the coronavirus, ensuring that patients are properly assessed and treated accordingly. This form is designed to be completed by patients before being screened for the virus. It is not necessary for this form to be completed if the patient's information is already available in the system or if a screening has already been performed. If you are already in the system, please do not complete this form again. If you are unsure about whether you have already completed this form, please contact the relevant healthcare professional for clarification...</thinking>
-
 # coronavirus_screening_form - Help Guide
 ## Purpose
 This form collects patient information and screening data for the coronavirus to ensure proper assessment and treatment.

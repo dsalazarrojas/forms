@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Credit Limit Adjustment Request - Help Guide
 
 ## Purpose

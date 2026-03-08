@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect information for a referee's online session registration. The form is designed to gather data such as the session date, time, referee's name and details, league and association names, contact information, and other relevant details. This form ensures the accurate and efficient collection of information for the online session, making it easier to manage and track the session registrations. This form is likely to be used by organizations that conduct online sessions for referees, such as referee training programs or online meeting registrations for refereeing committees.
-
-To prevent form duplication, we can implement a unique identifier for each session, which will be stored in the database. This way, if a user attempts to register for the same session more than once, the system will prevent the duplicate submission and notify the user.
-
-The form is designed to be filled out by referees to register for an online session. The form is split into multiple pages, each with its own set of fields. The following is a field-by-field explanation of the form.
-
-</thinking>
-
 # Referee Online Session Registration - Help Guide
 ## Purpose
 This form is designed to collect information for a referee's online session registration.

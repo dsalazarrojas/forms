@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work From Home Policy Acknowledgement Form - Help Guide
 ## Purpose
 This form is intended to acknowledge that you are aware of and understand the remote work policy implemented by our organization. It is meant to ensure that all employees who work from home (WFH) are aware of their responsibilities, benefits, and expectations while working remotely.

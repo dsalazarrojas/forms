@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's knowledge of CT (Computed Tomography) imaging, a medical imaging technique used in radiology. The form will be used to evaluate the participant's understanding of various aspects of CT imaging, including windowing techniques, common artifacts, and slice thickness. As a result, it is intended for radiologists or medical professionals with a background in CT imaging. This form should not be completed by anyone without the necessary background or experience in this field.
-</thinking>
-
 # CT Imaging Knowledge Assessment - Help Guide
 ## Purpose
 

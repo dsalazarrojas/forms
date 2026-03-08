@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to gather information from attendees for a vintage car exhibit event. It's designed to capture essential details such as attendee information, date and time of visit, the model of car they're interested in, and any additional comments they may have. The form should be completed by attendees to reserve their spot for the event. This form likely doesn't need to be filled out if you're not attending the event or have already registered.
-
-</thinking>
-
 # Vintage Car Exhibit Reservation Form - Help Guide
 ## Purpose
 The Vintage Car Exhibit Reservation Form is a tool for attendees to reserve their spot for the event. It collects vital information such as attendee details, event schedule, and specific car model preferences.

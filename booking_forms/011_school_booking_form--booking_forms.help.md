@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the booking of various facilities within a school or educational institution. The form will be used to gather information from users about their booking requests, including the date, facility type, start and end times, name, email, phone number, and any additional message they may have. It's essential to ensure that all required fields are filled correctly to guarantee a successful booking request. 
-</thinking>
-
 # School Booking Form - Help Guide
 ## Purpose
 This form is used to collect booking requests for school facilities such as the gym, pool, or school itself. Fill out this form to request a booking for a specific date and time.

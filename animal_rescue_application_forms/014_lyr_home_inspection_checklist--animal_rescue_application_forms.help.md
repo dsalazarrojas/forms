@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # LYR Home Inspection Checklist - Help Guide
 ## Purpose
 The LYR Home Inspection Checklist is a form used to collect information from animal rescue inspectors about homes they have inspected. This form is designed to gather details about the homes, including address, owner information, and comments.

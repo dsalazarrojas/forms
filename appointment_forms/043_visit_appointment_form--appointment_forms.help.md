@@ -1,5 +1,3 @@
-<thinking>...This form is used to gather information for a visit or appointment. It is not intended for other purposes like creating new customers or editing existing ones. Please use this form only when creating a new visit appointment, as it will create a new entry in the system. This guide will walk you through the process of filling out the form, including what each field represents and how to complete it correctly...</thinking>
-
 # Visit Appointment Form - Help Guide
 ## Purpose
 The Visit Appointment Form is designed to collect necessary information for scheduling and tracking appointments or visits. This form helps in organizing and managing appointments efficiently.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and assessment data for students who have completed a drawing course. This form will be used by instructors to evaluate student performance and provide feedback on their final artwork, as well as assess their student conduct and overall performance in the course.
-
-This form is designed to be completed by instructors only, and is intended to provide a structured and standardized way of collecting and documenting student assessments. By completing this form, instructors can ensure that they are collecting relevant and accurate data on student performance, and can use this data to inform future instruction and improve the quality of the course.
-
-To avoid duplication of effort, please make sure to only use this form for assessing students who have completed the drawing course. If you need to assess students during the course, please use the "Progress Assessment Form" located in the course resources section.
-</thinking>
-
 # Final Assessment For Drawing Course - Help Guide
 
 ## Purpose

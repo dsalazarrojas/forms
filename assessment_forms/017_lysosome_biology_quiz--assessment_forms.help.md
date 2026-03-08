@@ -1,5 +1,3 @@
-<thinking>This form is a self-assessment tool designed to help users understand and explore the biology of lysosomes. The goal is to evaluate users' knowledge and provide a personalized learning experience based on their answers. The form is divided into several sections, each covering a different aspect of lysosome biology. To ensure a smooth completion of this form, users should have a basic understanding of cellular biology and the concepts related to lysosomes. It is recommended to review the provided information before starting the assessment. If users have any doubts or concerns, they can always refer to additional resources for clarification.</thinking>
-
 # Lysosome Biology Quiz - Help Guide
 ## Purpose
 The Lysosome Biology Quiz is a self-assessment tool designed to test your understanding of lysosome biology. The quiz covers various aspects of lysosome biology, including their structure, function, interactions, and more.

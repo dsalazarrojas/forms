@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form "retirement_benefits_overview" is likely used for collecting information about an employee's retirement benefits, such as their eligibility, coverage, and details about their assigned tool. The purpose of this form is to gather relevant data to facilitate administrative processes related to employee retirement benefits. It is essential to ensure that each section of the form is filled out accurately to avoid duplication or omission of information.
-</thinking>
-
 # retirement_benefits_overview - Help Guide
 ## Purpose
 The "retirement_benefits_overview" form is designed to collect relevant information about an employee's retirement benefits. This includes their eligibility and coverage details.

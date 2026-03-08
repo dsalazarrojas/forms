@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect data related to group division, allowing users to provide input on various fields related to their group. The form is designed to be flexible, with multiple fields of different types (text, number, select_one, select_multiple) to accommodate diverse data. Some fields are required, while others are optional. The form's structure and fields are meant to be comprehensive, covering a wide range of topics. Please ensure that you understand the purpose and relevance of this form before proceeding. If you have any doubts or concerns, kindly review the form's fields and hints carefully.</thinking>
-
 # Group Division Assessment - Help Guide
 ## Purpose
 The Group Division Assessment form is designed to collect data related to group division, allowing users to provide input on various fields.

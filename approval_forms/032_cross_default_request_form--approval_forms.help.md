@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to fill out the Cross Default Request Form. The form is designed to collect information about cross-default requests, which are requests for exceptions or deviations from standard procedures. The form is not meant to be used for routine or repetitive requests. Before filling out this form, ensure that the request is not a duplicate of a previous submission and that it is not an exception that can be handled through existing processes.
-
-</thinking>
-
 # Cross Default Request Form - Help Guide
 
 ## Purpose

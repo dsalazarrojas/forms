@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form template is designed to facilitate the review of an insurance policy with a client or policyholder, typically for insurance professionals or agents. To ensure relevance, this form will be used for a specific type of appointment, such as policy review sessions or renewal consultations. Non-duplication: No other forms in this category (appointment forms) serve the same purpose as this form template.
-</thinking>
-
 # Insurance Policy Review Appointment Form Template - Help Guide
 ## Purpose
 This form template is designed for insurance professionals to review an insurance policy with a client or policyholder during a scheduled appointment. This form collects necessary information to facilitate the review process.

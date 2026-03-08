@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's risk level and provide a recommendation for their safety and well-being in the context of COVID-19. The form is used to gather information about a person's symptoms, medical background, and exposure risks to determine their level of risk for COVID-19. This information will be used to guide the individual on the necessary precautions they should take to stay safe and healthy.
-
-Before completing this form, please ensure that you have the necessary information and are able to answer honestly and accurately. This form is intended to be completed by individuals who are experiencing symptoms or concerns related to COVID-19.
-
-Note: Some questions may seem invasive or sensitive, but they are necessary to provide a thorough assessment. Your answers will be treated confidentially and will not be shared without your consent.
-
-</thinking>
-
 # COVID 19 Pre Screening Assessment - Help Guide
 ## Purpose
 The COVID-19 Pre Screening Assessment form is designed to evaluate an individual's risk level and provide recommendations for their safety and well-being in the context of COVID-19.

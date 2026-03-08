@@ -1,14 +1,3 @@
-<thinking>
-To prevent confusion, let's quickly review the form's purpose and ensure it's relevant to our audience.
-
-The Agile Certification Assessment form is designed to evaluate a candidate's knowledge, skills, and experiences related to Agile methodologies. This form aims to determine their suitability for an Agile certification, and the assessor's feedback will guide the candidate on areas for improvement.
-
-The form is divided into two main sections: Knowledge, Skills, and Experience, and Practical Application. We'll ensure that the form's fields are clear, concise, and logical in their sequence.
-
-Before starting, please review the form's fields and their explanations to ensure you understand what's expected of you.
-
-</thinking>
-
 # Agile Certification Assessment - Help Guide
 ## Purpose
 The Agile Certification Assessment form is designed to evaluate your knowledge, skills, and experiences related to Agile methodologies. This form helps assessors determine your suitability for an Agile certification.

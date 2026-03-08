@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather consent and appointment details for a client, ensuring that the services they are receiving are acknowledged and agreed upon by them. This form should only be used for clients who are aware of the services and their costs, and have given explicit consent to the treatments they are receiving. To prevent duplication, ensure that clients are not being scheduled for the same appointment twice.
-</thinking>
-
 # Waxing Consent & Appointment Form - Help Guide
 ## Purpose
 The Waxing Consent & Appointment Form is used to gather essential information from clients, including their consent to receive specific services, appointment details, and payment method. This form helps ensure that the client is aware of the services they are receiving and have given their consent.

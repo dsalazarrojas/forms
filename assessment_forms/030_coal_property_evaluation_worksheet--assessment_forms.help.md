@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating properties related to coal, particularly for assessing their development potential. It's likely designed for geologists, engineers, or other professionals to collect data on coal properties. I will assume that the form is used for internal or external reporting within a company, organization, or industry.
-</thinking>
-
 # Coal Property Evaluation Worksheet - Help Guide
 
 ## Purpose

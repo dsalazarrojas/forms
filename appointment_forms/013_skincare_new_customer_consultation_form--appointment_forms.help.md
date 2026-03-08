@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from new customers about their skin type, medical history, and skincare preferences before their consultation with a skincare professional. This information will help the professional to provide a personalized consultation and treatment plan.
-
-This form is a one-time entry form, so users will not need to revisit it.
-
-This form will be used internally by the skincare professional to prepare for the consultation. Please ensure that all fields are filled in accurately to help provide the best possible service.
-
-</thinking>
-
 # Skincare New Customer Consultation Form - Help Guide
 ## Purpose
 The Skincare New Customer Consultation Form is used to collect information from new customers about their skin type, medical history, and skincare preferences before their consultation with a skincare professional. This information will help the professional to provide a personalized consultation and treatment plan.

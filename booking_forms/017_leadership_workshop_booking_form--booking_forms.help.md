@@ -1,7 +1,3 @@
-<thinking>
-We're going to create a help guide for the leadership_workshop_booking_form form, which aims to assist users in booking leadership workshops. Before we begin, let's confirm that the form's purpose is to collect user information and workshop booking details for the leadership workshop. We'll make sure to cover all the essential fields and provide clear explanations to ensure users understand what's expected of them. Our guide will cover the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # leadership_workshop_booking_form - Help Guide
 ## Purpose
 This form is designed for users to book leadership workshops. It gathers information about the user and the workshop they wish to attend.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be completed by a coach or evaluator to assess an athlete's performance in a specific season or year. The form is used to evaluate an athlete's progress, strengths, and areas for improvement. The form should only be filled out for athletes who have participated in a specific sport and season, and it is essential to ensure that the form is relevant to the athlete's sport and season.
-
-The form is designed to gather information from the coach or evaluator about the athlete's performance, skills, and behavior. It is crucial to complete the form accurately and thoroughly to provide a fair and comprehensive evaluation of the athlete.
-
-Before proceeding, review the form carefully to ensure that you have all the necessary information and that you are evaluating the correct athlete and season. If you are unsure or have questions, please consult with your supervisor or the athlete's manager.
-
-</thinking>
-
 # Athlete Annual Performance Report - Help Guide
 ## Purpose
 

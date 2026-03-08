@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Employee Merchandise Order Form", we need to understand the purpose and context of the form. This form is likely used for employees to order merchandise for their work-related needs, such as company-branded clothing, accessories, or other items. The form is designed to capture information about the employee, the item being ordered, and the order status.
-
-The form appears to be comprehensive, covering various fields such as employee details, merchandise item details, order information, and manager/employee contact details.
-
-We will assume that this form is used for both internal and external employees of the company, and that the form is used to streamline the process of ordering merchandise for employees.
-
-To avoid duplication of efforts, let's focus on creating a clear and concise user guide that will help users navigate the form efficiently.
-
-</thinking>
-
 # Employee Merchandise Order Form - Help Guide
 ## Purpose
 The Employee Merchandise Order Form is used to order merchandise for work-related needs. Please follow the guide below to complete the form accurately.

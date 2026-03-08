@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NDIS Training Assessment - Help Guide
 
 ## Purpose

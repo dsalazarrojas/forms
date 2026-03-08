@@ -1,5 +1,3 @@
-<thinking>Historical tour attendance forms are used to record information about tours and attendees for historical tours. This form helps staff to quickly and efficiently collect necessary information, reducing errors and ensuring accurate records. Ensure that the form is filled out completely and accurately for each tour. If you've filled out the form previously, be sure to check the form for any changes and update accordingly.</thinking>
-
 # Historical Tour Attendance Form - Help Guide
 ## Purpose
 This form is used to record information about historical tours, including tour details, attendees, tour guides, accessibility information, contact information, and comments. Completing this form accurately and thoroughly will ensure that we can provide the best possible experience for your guests.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about the ownership structure of an agency, including the legal name of the agency, the breakdown of ownership percentages, and other details such as the name of the primary owner, recent changes in ownership, and verification contact person. 
-The purpose of this form is to assess the ownership structure of an agency, which is an important aspect of due diligence and risk management for financial institutions. 
-Please ensure that you have all the necessary information and documents before filling out this form to provide accurate and complete answers.
-</thinking>
-
 # Agency Ownership Assessment - Help Guide
 ## Purpose
 The Agency Ownership Assessment form is designed to collect detailed information about the ownership structure of an agency, including the breakdown of ownership percentages, primary owner, and other relevant details. This form is an essential part of the due diligence process for financial institutions to assess the agency's risk profile and ensure accurate reporting.

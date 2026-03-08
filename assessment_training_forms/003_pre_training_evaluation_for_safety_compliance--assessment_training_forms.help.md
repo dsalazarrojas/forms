@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information on pre-training evaluations for safety compliance. This form is intended to assess the effectiveness of training programs provided to employees in various settings. It is likely used to evaluate the impact of training sessions on employee safety and compliance.
-
-To avoid duplication and ensure accurate data collection, please ensure that:
-
-* Each training session is evaluated only once.
-* All relevant fields are filled out accurately and completely.
-* If unsure about any field, please provide as much detail as possible.
-
-</thinking>
-
 # Pre-Training Evaluation For Safety Compliance - Help Guide
 ## Purpose
 This form is designed to gather information on pre-training evaluations for safety compliance. It aims to assess the effectiveness of training programs provided to employees in various settings.

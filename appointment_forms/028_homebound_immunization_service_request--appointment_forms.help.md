@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request an appointment for a homebound immunization service, which typically involves a healthcare professional visiting a patient at their home to administer vaccinations. This form is likely used by patients or their caregivers to schedule and request this service.
-
-To ensure that this form is being used correctly, it's essential to review the fields and ensure that the information provided is accurate and complete. This form should not be used for other purposes, such as scheduling routine check-ups or medical consultations. If you're unsure, please review the form's purpose and fields carefully to ensure it's the correct tool for your needs.
-
-</thinking>
-
 # Homebound Immunization Service Request - Help Guide
 ## Purpose
 This form is designed to request an appointment for a homebound immunization service, which is typically provided to patients who are unable to visit a healthcare facility in person due to medical conditions, mobility issues, or other reasons. The form allows patients or their caregivers to schedule and request this service, providing necessary information for the healthcare team to prepare for the visit.

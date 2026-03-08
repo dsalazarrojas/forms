@@ -1,7 +1,3 @@
-<thinking>
-To verify the form's purpose and fields, I will review the provided YAML data. The form appears to be a Credit Report Authorization Form, designed to collect information and authorization from the user to share the credit report with various parties. The fields include personal details such as name, address, date of birth, and social security number, as well as employment information like job title and employer address. There's also a section for reason for request and signature. The form seems to be designed for credit reporting purposes, likely for employment screening or other financial purposes. I will create a comprehensive help guide based on this information.
-</thinking>
-
 # Credit Report Authorization Form - Help Guide
 ## Purpose
 This form is used to collect personal and employment information, and authorization to share the credit report with various parties.

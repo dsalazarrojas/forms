@@ -1,14 +1,3 @@
-<thinking>
-This form is for booking a corporate open house event. The purpose of this form is to collect information from individuals interested in attending or participating in the event. This form will be used to track and organize bookings for the open house event. To avoid duplication, please only submit one booking per individual.
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to attend or participate in the event.
-
-When filling out this form, please make sure to provide accurate and complete information. This information will be used to facilitate the event and ensure that attendees have a positive experience.
-
-If you have any questions or concerns, please do not hesitate to contact the event organizers.
-
-</thinking>
-
 # Corporate Open House Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in attending or participating in the corporate open house event.

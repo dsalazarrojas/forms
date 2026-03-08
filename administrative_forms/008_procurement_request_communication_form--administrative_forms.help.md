@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to provide a structured way for procurement requesters to submit detailed information about their requests, making it easier for internal teams to process and manage the requests efficiently. Ensuring that all relevant fields are filled out will reduce back-and-forth communication and minimize errors. Please ensure that you are familiar with the form's intended use before proceeding.
-</thinking>
-
 # procurement_request_communication_form - Help Guide
 ## Purpose
 The Procurement Request Communication Form is designed to gather information about procurement requests from internal teams and stakeholders. This form helps streamline the procurement process by providing a clear and structured way to capture details about the request.

@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to collect data for commission calculation and approval purposes. It is designed to be used by salespeople, managers, and HR/payroll personnel to track and verify commission payments. 
-  The form is divided into sections for salesperson information, sale details, commission calculation, manager approval, and notes. 
-  Please ensure that the correct fields are filled and that the form is properly reviewed before submitting it for approval.
-</thinking>
-
 # Commission Approval Form - Help Guide
 
 ## Purpose

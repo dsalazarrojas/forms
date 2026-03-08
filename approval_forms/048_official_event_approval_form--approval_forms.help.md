@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the purpose and usage of the Official Event Approval Form, ensuring end-users understand its requirements and how to complete it properly.
-</thinking>
-
 # Official Event Approval Form - Help Guide
 ## Purpose
 The Official Event Approval Form is used for internal stakeholders to review and approve events. It's essential to ensure that all relevant details are provided for a thorough evaluation and approval process.

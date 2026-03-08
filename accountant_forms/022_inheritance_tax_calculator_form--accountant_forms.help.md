@@ -1,7 +1,3 @@
-<thinking>
-This form is used to calculate tax implications of inheritance, allowing users to input specific details about the estate and beneficiaries involved. This form is likely to be used by individuals or organizations dealing with inheritance and tax-related matters. Before proceeding, confirm that this form accurately reflects your specific use case; otherwise, please revisit your requirements or consult with an expert. This form has been designed to collect the following information: the value of the estate, the type of estate, the number of beneficiaries, their inheritance amount, the name and contact information of the executor, and the name of estate administrators. Each field will be explained below.
-</thinking>
-
 # Inheritance Tax Calculator Form - Help Guide
 ## Purpose
 This form is designed to provide users with an estimate of the tax implications of their inheritance, based on the provided details.

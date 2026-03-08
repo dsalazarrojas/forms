@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Language Acquisition Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insider Risk Mitigation Assessment - Help Guide
 ## Purpose
 The Insider Risk Mitigation Assessment is a form designed to help organizations identify and assess the risks associated with insider threats, which are malicious or unauthorized actions taken by employees, contractors, or other insiders that can compromise the organization's security and integrity.

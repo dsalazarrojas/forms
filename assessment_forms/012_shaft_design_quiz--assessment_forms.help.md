@@ -1,13 +1,3 @@
-<thinking>
-
-This guide is intended to be a helpful resource for users to understand the purpose and usage of the "Shaft Design Quiz" form. 
-
-The purpose of the form is to collect information related to shaft design parameters. This form is likely used in a technical setting, possibly within the manufacturing or engineering industry, to collect input from users regarding their design needs or specifications for shafts.
-
-Before proceeding, it is essential to ensure that the user has a clear understanding of what the form is used for and what information it aims to collect. This will help prevent duplication of effort and confusion.
-
-</thinking>
-
 # Shaft Design Quiz - Help Guide
 ## Purpose
 The "Shaft Design Quiz" form is used to collect parameters related to shaft design.

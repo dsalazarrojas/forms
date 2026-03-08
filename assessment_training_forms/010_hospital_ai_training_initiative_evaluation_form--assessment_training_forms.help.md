@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital AI Training Initiative Evaluation Form - Help Guide
 
 ## Purpose

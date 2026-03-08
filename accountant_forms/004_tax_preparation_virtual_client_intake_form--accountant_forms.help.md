@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to avoid errors. The form is designed to collect information from virtual clients who need tax preparation services. It's essential to provide clear guidance on how to complete this form accurately and efficiently.
-The form is not meant to be used for other purposes, such as tax filing. This guide will help users understand what information is required and what format to use for each field.
-</thinking>
-
 # Tax Preparation Virtual Client Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from virtual clients who need tax preparation services. Please fill it out accurately and completely to ensure that we can provide you with the best possible service.

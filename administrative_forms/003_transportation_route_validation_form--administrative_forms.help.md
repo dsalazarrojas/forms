@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transportation Route Validation Form - Help Guide
 ## Purpose
 The Transportation Route Validation Form is used to validate and record details of transportation routes, including route information, vehicle details, driver details, and signatures. This form helps ensure accurate and efficient route management.

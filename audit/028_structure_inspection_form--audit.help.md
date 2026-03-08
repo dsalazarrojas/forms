@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that accurately reflects the form's purpose, process, and fields. To achieve this, I will analyze the form's YAML structure and provide a clear, concise explanation of each field. I will also ensure that the guide is easy to follow and free of unnecessary technical jargon. This guide will be written in Markdown format, which is a user-friendly and readable format. I will also include a brief internal reasoning block to explain the form's purpose and check for relevance and non-duplication.</thinking>
-
 # structure_inspection_form - Help Guide
 ## Purpose
 The structure_inspection_form is designed to assess the safety and condition of a building's structure, including its safety assessment, property inspection, risk factors, structure condition, and safety standards.

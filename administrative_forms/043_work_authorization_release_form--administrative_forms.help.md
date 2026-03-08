@@ -1,10 +1,3 @@
-<thinking>
-This form is used for obtaining work authorization, typically for employees or contractors who require permission to work on specific projects or tasks. It's essential to ensure that all necessary information is accurate and complete to avoid any potential issues or conflicts.
-
-Before proceeding, check if you have already submitted this form or a similar one in the past to prevent duplication of effort. Ensure you have all the required information and necessary approvals before submitting this form.
-
-</thinking>
-
 # work_authorization_release_form - Help Guide
 ## Purpose
 The purpose of this form is to obtain work authorization for employees or contractors to work on specific projects or tasks. It's a critical document that ensures the necessary permissions and approvals are in place before commencing work.

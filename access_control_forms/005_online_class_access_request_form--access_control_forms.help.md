@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Online Class Access Request Form is to provide a systematic way for learners to request access to online classes. This form helps in ensuring that all necessary information is collected in a single, unified manner, making the process of granting or denying access more efficient and accurate. Before proceeding, ensure that you have reviewed any relevant policies and guidelines related to online class access and that this form is not being submitted for duplicate requests. This form is intended for use by learners who wish to access an online class and requires specific information from the learner and other relevant parties involved in the process, such as school administrators, teachers, and course developers.
-</thinking>
-
 # Online Class Access Request Form - Help Guide
 ## Purpose
 The Online Class Access Request Form is a tool designed to facilitate the process of requesting access to online classes. It is intended to ensure that all necessary information is collected in a single, unified manner, making the process of granting or denying access more efficient and accurate.

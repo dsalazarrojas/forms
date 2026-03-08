@@ -1,23 +1,3 @@
-<thinking>
-
-This form, "Gate Control Checklist", is intended to collect data about access points and their current security levels. It appears to be designed for a specific business or organization to monitor and report on the security status of various access points. The form likely belongs to the category "access_control_forms" and is meant to aid in maintaining accurate and up-to-date records of security levels.
-
-The form consists of 8 fields, each designed to capture different types of information: 
-
-* "Access Point Inspection" is likely meant to capture a description or details about the access point.
-* "Inspection Date" is used to record the date when the inspection occurred.
-* "Gate Number" is intended to track the specific identification number of the access point.
-* "Security Level" is a selection field with three options: High, Medium, and Low, suggesting a classification system used to evaluate the security level of the access point.
-* "Notes" is a free-text field for capturing any additional comments or observations.
-* "Email" and "Phone" are likely meant to contact the person responsible for the access point's security level.
-* "Assigned User" is intended to track the person assigned to the access point.
-
-The form does not seem to have a specific "submit" or "save" button, suggesting that it is meant to be a checklist or a report form.
-
-The purpose of this form is to provide a structured way to collect and document information about access points and their security levels. It appears to be designed for use by administrators or staff within the organization to maintain accurate records.
-
-</thinking>
-
 # Gate Control Checklist - Help Guide
 ## Purpose
 The Gate Control Checklist is a form designed to help maintain accurate and up-to-date records of access points and their security levels. It is intended to provide a structured way to collect information about access points and their current security status.

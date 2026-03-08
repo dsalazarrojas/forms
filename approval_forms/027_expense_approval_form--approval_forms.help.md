@@ -1,15 +1,3 @@
-<thinking>
-
-The form is designed to collect information for employee expenses, specifically for approval purposes. This form is used to track employee expenses, allowing for efficient approval and reimbursement process. 
-
-The form is divided into different sections for easier navigation. The employee details, expense date, category, and approver information are all crucial fields that need to be filled correctly to ensure proper expense tracking. The attachment and comments fields are optional but can provide additional context to the expense report. 
-
-When filling this form, users should ensure that the expense date is accurate, as it affects the expense approval process. The approver selection should match the employee's direct supervisor, and the attachment field can be used to upload supporting documents. The comments field allows for any additional comments to be made on the submitted expense report. 
-
-Please review this form carefully, as incorrect information may lead to delays in the approval process. Ensure all necessary fields are filled out and attached before submitting the form. 
-
-</thinking>
-
 # Expense Approval Form - Help Guide
 ## Purpose
 The purpose of this form is to collect employee expenses for approval. This form is used to track employee expenses, allowing for efficient approval and reimbursement process.

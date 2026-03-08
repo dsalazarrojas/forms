@@ -1,12 +1,3 @@
-<thinking>
-The Employee Of The Quarter Voting Form is designed to collect nominations and votes for employees who have made significant contributions to the organization. This form is typically used to recognize and reward outstanding performance within the organization. Before filling out this form, please review the following guidelines to ensure you're using it correctly.
-
-To prevent duplicate nominations, please check the current quarter's nominees before submitting a new nomination. If you're unsure about any of the fields, please ask your supervisor or HR representative for clarification.
-
-This form has multiple pages, but each one serves a specific purpose. Please fill out each page accordingly to provide comprehensive information.
-
-</thinking>
-
 # Employee Of The Quarter Voting Form - Help Guide
 ## Purpose
 The Employee Of The Quarter Voting Form is designed to gather nominations and votes for employees who have demonstrated exceptional performance, leadership, or contributions to the organization. The form helps to identify and recognize outstanding employees who deserve recognition and rewards.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a vehicle's condition, maintenance, and status. This includes details about the vehicle's general information, condition report, mileage, last service date, next service date, last service mileage, last service cost, next service cost, owner, driver, vehicle status, remarks, vehicle condition, damage type, last maintenance date, inspection date, inspection frequency, last inspection cost, last inspection mileage, last mileage reading, remarks, next maintenance date, next maintenance frequency, and next remarks.
-
-This form is intended to be completed by fleet managers or administrators to track and monitor the maintenance and status of vehicles in the fleet. The form will help the administrators to identify the vehicle's condition, maintenance needs, and status at any given time.
-
-Please make sure to complete this form accurately and thoroughly to provide a clear picture of the vehicle's status. Ensure that you select the correct options from the dropdown menu and enter the correct dates and numerical values.
-
-</thinking>
-
 # Fleet Vehicle Inspection Form - Help Guide
 ## Purpose
 This form is designed to help administrators track and monitor the maintenance and status of vehicles in the fleet.

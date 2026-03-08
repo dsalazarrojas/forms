@@ -1,12 +1,3 @@
-<thinking>
-
-**Internal Review Note:** 
-This form is intended to assess the success of extracurricular activities. It appears to be a self-assessment or evaluation form used by students to provide feedback on their experience in a program or activity. The fields seem to cover various aspects of the extracurricular activity, including student information, their level of engagement (grade level), teacher recommendation, staff support, and progress. The form may be used by program administrators or teachers to evaluate student performance and make improvements. 
-
-Please review this form to ensure it is correctly configured and not duplicating any existing form with the same purpose. Ensure the fields are correctly mapped to the form's purpose and the intended users understand what is expected of them.
-
-</thinking>
-
 # extracurricular_activity_success_assessment - Help Guide
 
 ## Purpose

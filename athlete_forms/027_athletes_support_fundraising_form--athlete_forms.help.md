@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect donations for athletes, allowing users to support their favorite sports teams or individuals. It is designed to gather information from donors about themselves and their donation preferences, including the athlete they want to support, the amount and frequency of the donation, and the method of payment. The form is intended for athletes' support fundraisers, such as schools, clubs, or non-profit organizations.
-
-</thinking>
-
 # Athletes Support Fundraising Form - Help Guide
 ## Purpose
 The purpose of this form is to allow users to donate to support athletes and their teams.

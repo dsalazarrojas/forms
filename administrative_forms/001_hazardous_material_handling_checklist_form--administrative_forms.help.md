@@ -1,7 +1,3 @@
-<thinking>
-This is an internal guide for creating a help document that explains the purpose and usage of the "Hazardous Material Handling Checklist Form" used in administrative contexts. The form is likely used in workplaces or industries that handle hazardous materials and requires a structured way of documenting and tracking the handling process. Before starting, ensure that this form is not already being covered in other internal resources or guides. If so, consider merging this guide with the existing one to avoid duplication.
-</thinking>
-
 # Hazardous Material Handling Checklist Form - Help Guide
 ## Purpose
 The Hazardous Material Handling Checklist Form is a tool used to ensure that hazardous materials are handled and stored properly, reducing the risk of accidents and injuries. This form helps employees or users to document and track their handling process, ensuring compliance with safety regulations and company policies.

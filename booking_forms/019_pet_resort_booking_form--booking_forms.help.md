@@ -1,7 +1,3 @@
-<thinking>
-This form is for booking a pet at a resort, and it collects the required and relevant information to facilitate the booking process. The purpose of this form is to provide a clear and concise way for customers to provide their pet's information, which will be used to book and process the reservation. This form is a simple, multi-page form with text fields for collecting the relevant information.
-</thinking>
-
 # Pet Resort Booking Form - Help Guide
 ## Purpose
 The Pet Resort Booking Form is designed to collect information about your pet and their booking details. Fill out this form to submit your booking request and one of our team members will be in touch to finalize your booking.

@@ -1,5 +1,3 @@
-<thinking>Here's a brief internal reasoning block to explain the context and purpose of this form:</thinking>
-
 This form is designed to collect information from potential partners in animal transportation services. The form's purpose is to assess a company's capabilities, experience, and interest in partnering with our organization for animal transportation logistics. By filling out this form, companies will be evaluated based on their:
 
 * Company details (name, address, type, years in business)

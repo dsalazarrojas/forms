@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess and document the risks associated with specific jobs or tasks. The Risk Assessment And Method Statement (RAMS) Form is used to identify potential hazards, evaluate their risk levels, and outline control measures to mitigate those risks. This form is crucial for ensuring that workers are aware of and prepared to deal with potential dangers on the job site.
-</thinking>
-
 # Risk Assessment And Method Statement (RAMS) Form - Help Guide
 ## Purpose
 The Risk Assessment And Method Statement (RAMS) Form is used to identify, document, and analyze potential hazards on a job site. By filling out this form, users can ensure that all relevant risks are accounted for and control measures are in place to minimize danger.

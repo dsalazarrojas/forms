@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to request an appointment at a primary care office. It is a simple form that asks for basic information from the patient, including their contact details and appointment preferences. The form should only be used for primary care appointment requests and not for any other purposes.
-</thinking>
-
 # Primary Care Appointment Request - Help Guide
 ## Purpose
 This form is used for patients to request an appointment at a primary care office. To complete this form, you will need to provide your contact information and appointment details.

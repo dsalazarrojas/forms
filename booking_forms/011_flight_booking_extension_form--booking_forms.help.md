@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flight Booking Extension Form - Help Guide
 
 ## Purpose

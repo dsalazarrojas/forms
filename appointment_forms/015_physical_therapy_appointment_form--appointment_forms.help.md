@@ -1,7 +1,3 @@
-<thinking>
-This form is for scheduling a physical therapy appointment. The purpose of this form is to collect information from patients about their appointment schedule, details, and payment information. This form should not be used for any other purpose. The form has 9 fields, each with its own specific purpose. Please make sure you have filled out all required fields before submitting the form.
-</thinking>
-
 # Physical Therapy Appointment Form - Help Guide
 ## Purpose
 The Physical Therapy Appointment Form is a form used to schedule and confirm a physical therapy appointment. It is intended for patients to provide their personal and payment information.

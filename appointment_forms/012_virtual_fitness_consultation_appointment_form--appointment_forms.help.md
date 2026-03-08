@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is not completed if it's already been filled out, and that the user understands the purpose of the form. This form is meant to be used for scheduling virtual fitness consultations, so it's essential to confirm that the user has a clear understanding of what the form is for and that they are not duplicating an existing appointment. If the user is unsure or has already completed this form, they should not proceed.
-</thinking>
-
 # virtual_fitness_consultation_appointment_form - Help Guide
 ## Purpose
 This form is intended to collect information for virtual fitness consultations, including the type of consultation, appointment details, location, fitness professional's information, and any additional notes or messages. Please fill out this form carefully to ensure accurate scheduling.

@@ -1,12 +1,3 @@
-<thinking>
-
-This form is used to request a water testing appointment. To ensure that the form is being filled out correctly, the following internal reasoning is applied:
-- The form is not duplicated if a customer has already submitted a testing appointment request in the past week.
-- If a customer has a testing location, it is checked if the location is one of the allowed locations in the system.
-- If a customer selects "Other" in the testing frequency field, they must provide more information in the "Testing Frequency Other (Specify)" field.
-
-</thinking>
-
 # Wastewater Testing Appointment Request Form - Help Guide
 ## Purpose
 The Wastewater Testing Appointment Request Form is used to request a water testing appointment. It helps customers provide necessary information about their water testing requirements so that the relevant authorities can schedule and perform the necessary tests.

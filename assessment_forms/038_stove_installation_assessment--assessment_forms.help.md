@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the details of a stove installation in a property. The purpose of this form is to gather information about the type of stove being installed, ventilation requirements, and other relevant details. This form should only be used to assess properties that have already been visited and inspected by a trained professional. 
-</thinking>
-
 # Stove Installation Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about the installation of a stove in a property. It is used to record and assess details about the property, stove type, and other relevant information.

@@ -1,5 +1,3 @@
-<thinking>...Before we proceed, let's ensure that the form is correctly understood by the end user. I'll review the form's purpose and fields to provide an accurate help guide...</thinking>
-
 # Human Rights Committee Review Form - Help Guide
 ## Purpose
 The Human Rights Committee Review Form is a comprehensive form designed to review and track the progress of cases related to human rights issues. It allows users to provide detailed information, follow up on case statuses, and record review dates and follow-up notes.

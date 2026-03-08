@@ -1,9 +1,3 @@
-<thinking>Before proceeding, I'd like to clarify the internal reasoning behind this form. The purpose of this form is to assess an individual's skills in operating a vertical bandsaw, a machine used for cutting various materials such as wood, metal, or plastic. The form likely evaluates the respondent's proficiency in different aspects of working with a vertical bandsaw, including safety, technique, and equipment handling. This form might be used in a workshop setting, a trade school, or an industry where vertical bandsaws are commonly used. It's essential to ensure that the respondent is aware that this form is not a test, but rather a skill assessment for improvement and safety purposes.
-
-To confirm, this is not a medical or health-related form. The questions focus on practical skills and knowledge related to operating a vertical bandsaw, not on any medical conditions or health concerns.
-
-The form is likely used in an educational or work environment where individuals with varying levels of experience and skills are being assessed. Therefore, the language used should be clear, concise, and easy to understand for users who may not be familiar with technical terminology or the specific skills being assessed.</thinking>
-
 # vertical_band_saw_skills_assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's skills and knowledge in operating a vertical bandsaw. It is not a test, but rather a tool to evaluate and improve one's proficiency in using this machinery in a workshop, trade school, or industry setting.

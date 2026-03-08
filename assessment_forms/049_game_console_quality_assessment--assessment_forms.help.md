@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the quality of a game console, gathering information about its condition, functionality, and accessories. The form likely serves a specific business purpose, such as quality control or inventory management. To ensure relevance, please note that this form is part of the "assessment_forms" category. 
-</thinking>
-
 # Game Console Quality Assessment - Help Guide
 ## Purpose
 The Game Console Quality Assessment form is a tool used to evaluate the quality of a game console. It helps in gathering information about the console's condition, functionality, and accessories, which can be useful for quality control, inventory management, or other related purposes.

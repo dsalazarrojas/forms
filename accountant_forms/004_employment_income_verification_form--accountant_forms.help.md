@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for employment income verification from employees. This form is likely used by HR or accounting departments to gather data for benefits, tax purposes, or other financial calculations. The form should only be filled out by employees who are being asked to provide verification of their employment income.
-
-To avoid duplication of efforts, it's recommended to ensure that this form is only sent to employees who are being asked to provide this information once a year, as it may require the same information to be collected annually.
-
-</thinking>
-
 # Employment Income Verification Form - Help Guide
 ## Purpose
 The Employment Income Verification Form is used to collect information from employees for employment income verification. This form is usually used by HR or accounting departments to gather data for benefits, tax purposes, or other financial calculations.

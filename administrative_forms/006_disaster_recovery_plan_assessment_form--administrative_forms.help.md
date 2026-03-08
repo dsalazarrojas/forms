@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to assess the disaster recovery plan of an organization, evaluating its effectiveness in responding to and recovering from disasters. The form is designed to gather information on various aspects of a company's disaster recovery plan, including business continuity, impact, disaster plan, business process disruption, impact on employees, emergency response, communication planning, data loss, incident reporting, incident response, and recovery plan. By using this form, organizations can identify potential weaknesses in their disaster recovery plan and make necessary improvements to ensure they are well-prepared for disaster situations.
-
-Before filling out this form, ensure that you have reviewed your organization's disaster recovery plan and are familiar with the questions and fields that it contains.
-
-</thinking>
-
 # Disaster Recovery Plan Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the effectiveness of your organization's disaster recovery plan, helping you identify potential weaknesses and improve your preparedness for disaster situations.

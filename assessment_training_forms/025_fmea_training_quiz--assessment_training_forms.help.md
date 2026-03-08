@@ -1,7 +1,3 @@
-<thinking>
-This form is for the purpose of documenting and evaluating a training session held during an FMEA (Failure Mode and Effects Analysis) meeting. It is crucial to have accurate and complete information about each session to ensure that the learning experience meets the desired outcomes. To avoid duplication of effort, please check if a similar form has already been filled out for this session.
-</thinking>
-
 # FMEA Training Quiz - Help Guide
 ## Purpose
 The FMEA Training Quiz form is designed to gather relevant data about the training session held during an FMEA meeting. This form helps assess the effectiveness of the training and evaluate the learning experience.

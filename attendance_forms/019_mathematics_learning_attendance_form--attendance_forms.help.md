@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I understand the form is intended to record attendance for mathematics learning sessions. I will create a comprehensive help guide that covers the purpose of the form, step-by-step instructions on how to complete it, and explanations for each field. The form appears to be used to track student participation and attendance in a mathematics learning session, possibly in a school or educational setting. I will ensure that the guide is clear, concise, and practical for end-users. I will use the provided YAML fields to explain each field accurately without inventing any unsupported business logic.</thinking>
-
 # Mathematics Learning Attendance Form - Help Guide
 ## Purpose
 The Mathematics Learning Attendance Form is used to track student attendance and participation in mathematics learning sessions. This form helps instructors or teachers to record the attendance of students, including their participation in sessions and reasons for absence.

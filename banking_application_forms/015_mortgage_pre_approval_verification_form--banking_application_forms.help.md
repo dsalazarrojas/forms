@@ -1,9 +1,3 @@
-<thinking>
-
-We will first determine if this form is intended to pre-verify a mortgage application. This form seems to be used to gather information from individuals or couples who are applying for a mortgage, and to verify their pre-approval status. The form is divided into several sections, including personal information, loan details, income, employment, and credit history. The form asks for a range of fields including social security number, income, employment length, credit score, and credit history. The form also allows for a co-borrower to be specified. We need to ensure this form is used in a way that accurately captures these key pieces of information, while also being clear in its instructions and labeling to avoid confusion for the user.
-
-</thinking>
-
 # Mortgage Pre Approval Verification Form - Help Guide
 ## Purpose
 This form is used to verify your pre-approval status for a mortgage application. Fill out this form to provide necessary information about your personal details, loan specifics, income, employment, and credit history.

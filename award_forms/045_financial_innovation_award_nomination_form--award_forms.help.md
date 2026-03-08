@@ -1,5 +1,3 @@
-<thinking>... This form is used to nominate a financial innovation for an award. It is intended for individuals or organizations to provide details about their innovative projects or products that demonstrate financial innovation. Please ensure that you are only submitting a single nomination per form. Duplicate submissions will not be accepted. ...</thinking>
-
 # Financial Innovation Award Nomination Form - Help Guide
 ## Purpose
 The Financial Innovation Award Nomination Form is designed to collect information about innovative financial projects or products that demonstrate exceptional financial innovation. This form is used to identify and recognize outstanding achievements in the financial industry.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # retail_employee_training_audit_form - Help Guide
 ## Purpose
 

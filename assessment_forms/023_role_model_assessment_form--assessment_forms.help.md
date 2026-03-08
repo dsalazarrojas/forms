@@ -1,7 +1,3 @@
-<thinking>
-This form was created to assess the qualities and attributes of a leader in a specific context, likely for evaluation, feedback, or development purposes. The form is focused on understanding the leader's behavior, skills, and traits from the perspective of someone who has worked with or observed them. The form asks for specific examples and anecdotes to support the answers, aiming to gather detailed and qualitative feedback. Please ensure that the form is used in an honest and thoughtful manner, providing accurate and constructive insights into the leader's strengths and areas for improvement.
-</thinking>
-
 # Role Model Assessment Form - Help Guide
 ## Purpose
 The Role Model Assessment Form is designed to evaluate a leader's qualities, skills, and traits from the perspective of someone who has worked with or observed them. This form will help you gather specific feedback and insights about the leader's behavior, communication style, and ability to lead.

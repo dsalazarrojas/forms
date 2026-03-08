@@ -1,5 +1,3 @@
-<thinking>COVID-19 Attendance Checklist is a form used to track student attendance and health screening in martial arts classes. This form ensures that students, parents, and instructors follow safety protocols to prevent the spread of COVID-19. The form is designed to collect information on student identity, attendance status, health screening, and other relevant details. Please make sure this form is not used for other purposes or duplicate data entry.</thinking>
-
 # COVID 19 Attendance Checklist - Help Guide
 
 ## Purpose

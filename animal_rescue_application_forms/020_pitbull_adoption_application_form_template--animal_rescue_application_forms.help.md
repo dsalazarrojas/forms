@@ -1,11 +1,3 @@
-<thinking>
-# To avoid duplication, I'll first check the form purpose and category to ensure that I'm designing a helpful guide for the right form. 
-# The purpose of the form is for users to apply for pitbull adoption, which implies that users will be pet owners looking to adopt a new companion. 
-# The category "animal_rescue_application_forms" confirms that the form is indeed a template for pet adoption applications. 
-# Therefore, I'm confident that the guide I create will be relevant and useful for the intended users.
-# I'll design a simple and clear guide that will walk users through how to complete the form and understand each field's importance in the adoption process.
-# Let's start!</thinking>
-
 # Pitbull Adoption Application Form Template - Help Guide
 ## Purpose
 This guide is designed to help you complete the Pitbull Adoption Application Form Template, a tool used for adopting a new pet. The form is used to collect information from interested pet owners to help our animal rescue organization assess your suitability as a potential adopter and match you with the perfect pet.

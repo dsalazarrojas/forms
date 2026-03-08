@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the risk of ear infection in patients. It is a comprehensive form used by healthcare providers to evaluate the risk level of patients based on their medical history, symptoms, and other relevant factors. The form is divided into several sections, each covering different aspects of the patient's condition. The fields are designed to gather specific information from the patient and healthcare provider, which is then used to determine the risk level of ear infection. This form is intended to be used by healthcare professionals in clinical settings to assess and manage ear infection risk. Before completing this form, it is recommended that healthcare providers review the patient's medical history and conduct a thorough examination to ensure accurate and informed assessment.
-
-</thinking>
-
 # Ear Infection Risk Assessment Form - Help Guide
 ## Purpose
 The Ear Infection Risk Assessment Form is a tool used by healthcare providers to evaluate the risk of ear infection in patients. It consists of multiple sections that cover various aspects of the patient's condition, including medical history, risk factors, and follow-up information.

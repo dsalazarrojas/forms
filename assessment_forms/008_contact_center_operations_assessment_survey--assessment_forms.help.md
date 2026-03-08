@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from employees about their experiences and perceptions of the contact center operations. It aims to gather insights on various aspects of the workplace, including training, communication, tools, and job satisfaction. The form is intended to be completed by employees who have worked in the contact center for at least six months. The goal is to identify areas of improvement for the organization and help in making data-driven decisions. Please ensure that you have worked in the contact center for at least six months before completing this survey.
-
-</thinking>
-
 # Contact Center Operations Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees about their experiences and perceptions of the contact center operations. It aims to gather insights on various aspects of the workplace, including training, communication, tools, and job satisfaction.

@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to help administrators create new workspaces for various teams, departments, and projects. 
-Before filling out this form, ensure that:
-* You have all necessary permissions to create new workspaces.
-* A workspace with the same name does not already exist in the system.
-* You have filled out any other required fields for workspace creation.
-The form will ask for the following information:
-- Team members to include in the new workspace.
-- Access preferences for the new workspace, which can be set to public, private, or protected.
-- Invite link for the new workspace, which will be generated automatically once a workspace is created.
-- Department where the new workspace falls under.
-- URL of the new workspace, which can be used to access it directly.
-- Type of the new workspace, such as team, project, community, or event.
-- A short description of the new workspace.
-- Name of the new workspace.
-- Launch date of the new workspace, which is not required.
-</thinking>
 # Workspace Creation Form - Help Guide
 
 ## Purpose

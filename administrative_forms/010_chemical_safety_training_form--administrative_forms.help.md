@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chemical Safety Training Form - Help Guide
 ## Purpose
 The Chemical Safety Training Form is designed to track and record employee completion of required chemical safety training and assessment. This form helps in maintaining accurate and up-to-date records of employee knowledge and skills on chemical safety procedures and protocols.

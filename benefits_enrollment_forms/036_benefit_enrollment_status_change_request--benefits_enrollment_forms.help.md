@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a change in benefit enrollment status for an employee. The form is designed to capture the necessary information to process the request, including employee details, the type of change being requested, and the effective date of the change. Before completing this form, ensure you have the necessary supporting documentation for the change request.
-</thinking>
-
 # Benefit Enrollment Status Change Request - Help Guide
 ## Purpose
 

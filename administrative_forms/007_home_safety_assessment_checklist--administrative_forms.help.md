@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the safety and emergency preparedness of a home or residential setting. It is meant to be used by homeowners, property managers, or facility administrators to evaluate the presence, functionality, and maintenance of various safety systems and equipment. The form aims to identify potential risks and hazards that require attention to ensure the well-being of occupants.
-</thinking>
-
 # home_safety_assessment_checklist - Help Guide
 ## Purpose
 This form is a comprehensive checklist for evaluating the safety and emergency preparedness of a home or residential setting. It covers various aspects of home safety, including electrical systems, fire safety, emergency response, and environmental hazards.

@@ -1,5 +1,3 @@
-<thinking>...this form was created by AI using public survey topic metadata as inspiration for a form called "Export And Tax Assessment Form" in the category "assessment_forms"...it's meant to collect information from users regarding their export details, declared values, and documents, which seems to be related to tax assessment...</thinking>
-
 # Export And Tax Assessment Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Team Management Software Requisition Form, we need to understand its purpose and structure. This form is likely used to manage team requests for software or resources within an organization. The form appears to be a template for submitting and tracking team requests. The fields in the form seem to be focused on requesting team-related information, software requisition, and administrative details. There are fields for selecting whether a team request is made or if a software request is made, requesting a team name and description, a software version and vendor, and other relevant details.
-
-Before proceeding with the help guide, I will verify that this form is not being used for other purposes within the organization, such as for requesting equipment or other types of resources. I will also ensure that the form does not have any redundancy in fields that could lead to confusion among users. 
-
-Assuming the form serves its intended purpose and does not have any redundancy or duplication, I will proceed with creating the user-facing help guide.
-</thinking>
-
 # Team Management Software Requisition Form - Help Guide
 ## Purpose
 This form is used to request or submit team requests for software or resources within the organization. 

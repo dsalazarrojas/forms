@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from a customer and a service provider for the purpose of estimating the repair cost of a job. It aims to gather relevant details about the job, customer, and service provider, and confirm their understanding of the quote terms. The form has 10 fields, including customer information, job details, quote info, customer and service provider signatures, and confirmations.
-
-</thinking>
-
 # Repair Estimation Quote Form - Help Guide
 ## Purpose
 The Repair Estimation Quote Form is designed to collect necessary information from a customer and a service provider for the estimation of repair costs. This form helps ensure that both parties have a clear understanding of the job details, quote terms, and their respective responsibilities.

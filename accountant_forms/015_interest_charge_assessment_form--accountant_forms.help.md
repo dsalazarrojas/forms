@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess the interest charge on a specific financial account. To ensure relevance, the form is typically used in cases where a customer has fallen behind on their repayments or has exceeded their credit limit. It is essential to complete this form correctly to accurately reflect the interest charge and any associated reasons.
-This guide will walk you through the process of filling out the Interest Charge Assessment Form.
-</thinking>
-
 # Interest Charge Assessment Form - Help Guide
 ## Purpose
 The Interest Charge Assessment Form is used to calculate and assess the interest charge on a financial account that has fallen behind on repayments or exceeded its credit limit.

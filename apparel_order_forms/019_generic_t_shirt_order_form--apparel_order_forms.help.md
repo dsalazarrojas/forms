@@ -1,7 +1,3 @@
-<thinking>
-We'll be creating a help guide for the "Generic T Shirt Order Form" form. This form is used to gather information for a T-shirt order, including customer details and order preferences. The form collects customer's first name, last name, email address, T-shirt size, color selection, order quantity, and price. Additionally, it includes fields for any error messages that may appear during the order process. This guide will walk through how to complete each field in the form.
-</thinking>
-
 # Generic T Shirt Order Form - Help Guide
 ## Purpose
 The Generic T Shirt Order Form is a form used to collect customer information for a T-shirt order, allowing you to provide custom-tailored shirts to customers based on their specifications.

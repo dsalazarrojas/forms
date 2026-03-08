@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from pet owners who wish to book an appointment with a veterinarian. The form is divided into three sections: "pet_info", "owner_info", "appointment_time" and "appointment_date". This form is designed to gather relevant details from the owner about their pet, including whether they want an appointment during "appointment_time" and the "appointment_date". 
-
-The form will help the vet to schedule appointments effectively and ensure that the pet receives the necessary care.
-</thinking>
-
 # sick_pet_appointment_form - Help Guide
 ## Purpose
 The "sick_pet_appointment_form" is used to book an appointment with a veterinarian for a pet.

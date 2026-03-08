@@ -1,10 +1,3 @@
-<thinking>
-  This guide is intended to be a step-by-step walkthrough of the "paypal_clothing_order_form" to ensure users understand the purpose and functionality of the form.
-  The form is designed to collect information from customers to process apparel orders via PayPal.
-  Please ensure that the guide accurately reflects the form's fields and their respective purposes to prevent any potential misuse or confusion.
-  The guide will be reviewed and updated as needed to reflect changes to the form or its fields.
-</thinking>
-
 # paypal_clothing_order_form - Help Guide
 ## Purpose
 The paypal_clothing_order_form is used to collect customer information and order details for processing apparel orders via PayPal.

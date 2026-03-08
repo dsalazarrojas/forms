@@ -1,19 +1,4 @@
-> <thinking>
-The purpose of this form is to collect registration information from users for a scenic flight. This form is used to capture the user's personal details, tour options, and other relevant information. To ensure relevance, this form is likely used by tour operators or companies that offer scenic flights, and the purpose of the form is to register users for these flights. It's essential to review the form's fields to understand its scope and requirements.
-Please note that the following fields are likely part of this form:
-- First Name
-- Last Name
-- Email
-- Tour Option (Select from multiple options)
-- Date of Birth
-- Time of Arrival
-- Note
-- Phone (likely for emergency contact purposes)
-- Confirm Date and Time (for verification purposes)
-- Tour Choice (Select multiple options)
-- Confirm Note and Phone (for verification purposes)
-</thinking>
-# scenic_flight_registration_form - Help Guide
+> # scenic_flight_registration_form - Help Guide
 ## Purpose
 The scenic_flight_registration_form is used to collect registration information from users for a scenic flight. This form gathers personal details, tour options, and other relevant information to prepare for the flight.
 

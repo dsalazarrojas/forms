@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Strategies For Managing Weight Assessment - Help Guide
 
 ## Purpose

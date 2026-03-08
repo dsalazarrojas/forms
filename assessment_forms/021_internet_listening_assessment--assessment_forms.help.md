@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess an individual's internet usage habits, skills, and challenges. It's intended to gather information about how often they use the internet, their skills in navigating and utilizing online resources, and any difficulties they face when accessing or using the internet. This assessment is likely used to identify areas of improvement or provide support for individuals who struggle with internet usage.
-This form does not appear to be a duplicate of other forms, but it's essential to review the specific requirements and ensure that it's not part of a larger assessment suite or a precursor to a more in-depth evaluation.
-</thinking>
-
 # internet_listening_assessment - Help Guide
 ## Purpose
 The "internet_listening_assessment" form aims to evaluate an individual's internet usage habits, skills, and challenges. It helps identify areas of improvement or provide support for those who struggle with internet usage.

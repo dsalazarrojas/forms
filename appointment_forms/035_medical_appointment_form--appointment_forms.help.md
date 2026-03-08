@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's upcoming medical appointment. It's a crucial step in preparing for a medical visit, allowing healthcare staff to gather essential details about the patient's needs and schedule. 
-
-The form should only be filled out when a patient has an upcoming appointment scheduled. Please do not fill out this form if you have no appointment scheduled. If you've already filled out a medical appointment form for the same date and time, please do not fill out this form again.
-
-The form has 13 fields in total. 
-
-Please ensure all required fields are filled in correctly for a successful submission.
-</thinking>
-
 # medical_appointment_form - Help Guide
 ## Purpose
 The medical_appointment_form is a crucial step in the appointment scheduling process, allowing healthcare staff to prepare and prepare for the patient's visit.

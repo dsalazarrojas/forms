@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exclusive Access Refund Form - Help Guide
 ## Purpose
 The Exclusive Access Refund Form is used to request a refund for an exclusive access granted to a user. This form helps us understand the reason for the refund and the amount to be refunded.

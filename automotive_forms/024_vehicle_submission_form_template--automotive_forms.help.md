@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about vehicles, specifically to help users create or update entries in a vehicle database or inventory. The form should only be used for submissions of vehicles that are relevant to the database or inventory. Please ensure that you are not duplicating an existing entry in the database or submitting a vehicle that is not relevant to the database or inventory.
-</thinking>
-
 # Vehicle Submission Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about vehicles for use in a vehicle database or inventory.

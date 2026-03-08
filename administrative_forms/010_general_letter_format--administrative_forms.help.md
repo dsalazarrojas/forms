@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # general_letter_format - Help Guide
 ## Purpose
 This form is designed to create a general letter format, typically used for official or formal communication between individuals or organizations. It is intended to collect information for a letter or a message to be sent to someone, including the sender's and receiver's details, a date, and the content of the letter.

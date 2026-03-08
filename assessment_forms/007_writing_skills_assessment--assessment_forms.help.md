@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form, and how can we ensure that end-users understand it correctly? This form is designed to assess writing skills, likely for educational or professional purposes. To verify that this form is being used correctly, we should check for two things: (1) that the form is being used for its intended purpose, and (2) that it is not being duplicated or used in a way that might compromise its integrity. To ensure the form is being used correctly, we should ensure that users understand the form's purpose and how to complete it properly. We can do this by creating a clear and concise help guide that explains each field's purpose and how to fill it out. This guide should be easy to follow and free of jargon to make it accessible to all users.</thinking>
-
 # Writing Skills Assessment - Help Guide
 ## Purpose
 The Writing Skills Assessment form is designed to evaluate the writing skills of individuals, likely for educational or professional purposes. This guide will help you understand how to complete the form correctly and ensure that you are using it for its intended purpose.

@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is a comprehensive checklist used to document a patient's training process for contact lens insertion and removal. It is meant to ensure that the patient has received proper training on the necessary steps to insert and remove contact lenses safely and effectively. The form can be completed by a training specialist and includes sections on the patient's personal details, the type of lenses being fit, and the training steps for insertion and removal. The form also includes questions on hand hygiene, lens handling, inspection, and other relevant topics.
-
-</thinking>
-
 # Contact Lens Insertion And Removal Checklist - Help Guide
 ## Purpose
 This form is designed to document a patient's training process for contact lens insertion and removal. It ensures that the patient has received proper training on the necessary steps to insert and remove contact lenses safely and effectively.

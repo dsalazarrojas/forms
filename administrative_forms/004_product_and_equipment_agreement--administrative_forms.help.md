@@ -1,17 +1,3 @@
-<thinking>
-This form is used for documenting and managing product and equipment agreements. The purpose of this form is to collect relevant information about the equipment, including its details, condition, price, and other relevant data. 
-
-The form is designed to guide users through the process of filling out the required information, and each field has been carefully crafted to ensure that the user can easily input the necessary data. 
-
-Before filling out this form, please make sure that you have the required information ready. This includes details about the equipment, its condition, price, and any other relevant data that you need to provide. 
-
-This form is divided into multiple pages, and each page has a specific set of fields that you need to fill out. Please make sure to review each field carefully and provide the required information. 
-
-Please note that some fields may be optional, but it's still essential to provide as much detail as possible to ensure accurate records. 
-
-Also, please ensure that you are providing accurate and up-to-date information, and if you have any doubts or questions, don't hesitate to contact the relevant authorities for clarification.
-</thinking>
-
 # Product And Equipment Agreement - Help Guide
 ## Purpose
 The Product And Equipment Agreement form is used for documenting and managing product and equipment details.

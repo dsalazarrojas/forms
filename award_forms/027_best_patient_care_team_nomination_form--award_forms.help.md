@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Best Patient Care Team Nomination Form - Help Guide
 ## Purpose
 This form is used for nominating a team for the Best Patient Care Team Award. It allows you to provide information about the team being nominated, their performance, and their impact on patient experience or health.

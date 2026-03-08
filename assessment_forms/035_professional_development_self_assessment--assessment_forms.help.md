@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's professional development progress, skills, and areas of improvement. Its purpose is to provide a structured framework for evaluating and setting goals for personal and professional growth.
-
-The form collects demographic information (first name, last name, job title, and manager's name) and assesses the individual's skills evaluation (strengths and weaknesses), areas of improvement, and training needs. Additionally, it captures their goals and objectives, next steps for improvement, and review date and review by.
-
-</thinking>
-
 # Professional Development Self Assessment - Help Guide
 ## Purpose
 This form is designed to help individuals evaluate their professional development progress, identify areas of improvement, and set goals for personal and professional growth.

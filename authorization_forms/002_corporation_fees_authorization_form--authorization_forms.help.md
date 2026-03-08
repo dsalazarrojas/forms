@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to request authorization for corporation fees, likely for payment or financial purposes. It's essential to ensure that the company is properly registered and authorized to access certain services or features. The form may be used internally or by clients. It's crucial to complete this form accurately, so please review the fields carefully.
-</thinking>
-
 # Corporation Fees Authorization Form - Help Guide
 ## Purpose
 The Corporation Fees Authorization Form is used to provide authorization for corporation fees, ensuring that the company is registered and approved to access certain services or features.

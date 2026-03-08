@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Inventory Rotation Checklist" form. This form is likely used for tracking and maintaining inventory rotation schedules for various businesses. Its purpose is to collect data on the last rotation date, next rotation due date, and other relevant information for inventory items.</thinking>
-
 # Inventory Rotation Checklist - Help Guide
 ## Purpose
 The "Inventory Rotation Checklist" form is designed to facilitate tracking and managing inventory rotation schedules for businesses. It helps gather essential information for inventory items, such as last rotation dates, next due dates, and other relevant details.

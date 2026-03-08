@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a young schema assessment. The purpose of this form is to gather data from users, which will be used to assess their schema. Each field in this form corresponds to a specific question that the user will be asked to answer.
-</thinking>
-
 # young schema assessment - Help Guide
 ## Purpose
 The young schema assessment is a form designed to collect information from users. This data will be used to assess the user's schema.

@@ -1,14 +1,3 @@
-<thinking>
-The form "Home Insurance Claim Records Release Form" is intended to gather user information, claim details, and release statements from individuals involved in insurance claims. This form is likely used by insurance companies or agencies to collect data and facilitate the claims process. To ensure relevance, I'll base the explanation on the provided YAML fields.
-
-Given that all fields are of type "text" and "required" is set to "false" for all, it's possible that this form is designed to gather narrative information or comments from users. However, to maintain consistency with the provided structure and purpose of the form, I'll assume it's collecting free-text input from users to be used as evidence or reference in the claims process.
-
-Before filling out this form, please note that you can fill it in at your own pace, and the fields may overlap or be related in some way. You may need to refer back to previous questions while completing others.
-
-This form consists of four pages. I will explain each field below.
-
-</thinking>
-
 # Home Insurance Claim Records Release Form - Help Guide
 ## Purpose
 This form is used to gather information from you related to your home insurance claim.

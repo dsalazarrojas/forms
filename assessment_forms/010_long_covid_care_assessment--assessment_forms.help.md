@@ -1,9 +1,3 @@
-<thinking>
-This form is used to assess the long Covid care needs of an individual. It's designed to gather information about an individual's symptoms, care needs, medication use, vaccination status, test results, referral services, and follow-up interactions. Please ensure that the information gathered through this form is up-to-date and accurate.
-This form is intended for individuals who have experienced prolonged Covid-19 symptoms or have been impacted by the virus in some way. It's crucial to note that this form does not replace medical consultations or professional advice. The information gathered will be used to provide support and resources for individuals in need.
-Please do not fill out this form if you are not impacted by Covid-19 or if you are already receiving care services.
-</thinking>
-
 # Long Covid Care Assessment - Help Guide
 ## Purpose
 The Long Covid Care Assessment form is designed to help identify an individual's care needs, assess their symptoms, and provide support and resources tailored to their situation.

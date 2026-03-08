@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a vendor clerk, including their contact details and any relevant background information. The form is likely used by a company or organization that works with external vendors to manage their interactions and relationships. The purpose of this form is to gather the necessary data to create a comprehensive profile of the vendor clerk, which can be used for various administrative tasks such as contacting the vendor for business purposes or for sending notifications and updates.
-
-To avoid duplication of effort, it's recommended to review the form's fields and instructions carefully before completing it.
-
-</thinking>
-
 # Vendor Clerk Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a vendor clerk, including their contact details and background information. The form will be used by the company or organization to manage their interactions and relationships with the vendor.

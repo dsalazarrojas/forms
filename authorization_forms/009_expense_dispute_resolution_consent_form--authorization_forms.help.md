@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to resolve disputes related to expenses, allowing employees to report and manage conflicts. To avoid duplication, ensure that you're not submitting multiple forms for the same dispute. Review your existing submissions before creating a new one. Also, ensure you're filling out the form correctly to ensure your concerns are properly addressed.
-</thinking>
-
 # Expense Dispute Resolution Consent Form - Help Guide
 ## Purpose
 This form is designed to assist employees in resolving disputes related to expenses. It allows employees to provide details about the dispute, including their name, the details of the dispute, and any supporting documents. The form also captures the resolution outcome and any comments or actions taken.

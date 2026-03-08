@@ -1,7 +1,3 @@
-<thinking>
-This form is used by students to request their academic transcript. The purpose of this form is to ensure that students can provide their personal details, contact information, and transcript preferences in a secure and efficient manner. This form is not intended for students to request transcripts for other individuals, such as employers or external institutions. Please review your eligibility and ensure you are using this form for your own academic transcript request.
-</thinking>
-
 # Academic Transcript Request Form - Help Guide
 ## Purpose
 The Academic Transcript Request Form is used to request your academic transcript. This form requires you to provide personal details, contact information, and preferences for transcript delivery.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from parents or guardians of children participating in youth sports workshops, ensuring their consent and emergency contact details. The purpose of this form is to gather relevant details to ensure the child's safety during the workshop. It's essential to fill out this form accurately to avoid any potential risks or conflicts. Please fill it out with care and attention to detail.
-</thinking>
-
 # Youth Sports Safety Workshop Consent Form - Help Guide
 ## Purpose
 The Youth Sports Safety Workshop Consent Form is a crucial document that requires parents or guardians to provide their consent and emergency contact information for their children participating in youth sports workshops. This form ensures the child's safety and well-being during the workshop.

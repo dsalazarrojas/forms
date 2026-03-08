@@ -1,13 +1,3 @@
-<thinking>
-  Before we dive into the form, let's ensure you understand the purpose and context of this broker accreditation form. 
-  This form is for licensed brokers who are seeking accreditation to work within our organization. 
-  The form requires accurate and up-to-date information to ensure you meet the necessary requirements. 
-  Please review the form carefully and ensure you have all necessary documents and information before submitting. 
-  Note: This form is not intended for new brokers or those without experience; it's for those seeking higher levels of accreditation. 
-  Before proceeding, check that you're not duplicating your efforts or providing outdated information. 
-  Proceed with caution and accuracy.
-</thinking>
-
 # Broker Accreditation Form - Help Guide
 ## Purpose
 The Broker Accreditation Form is a crucial document for licensed brokers seeking to work with our organization. This form helps us verify your credentials, experience, and accuracy of information. Please fill out this form carefully and accurately to ensure a smooth accreditation process.

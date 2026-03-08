@@ -1,16 +1,3 @@
-<thinking> 
-This form is designed to help users assess and explore various systems of the human body. The form consists of 25 fields, each asking users to provide specific information related to different systems, such as anatomy, body systems, and assessments. The form is designed to be a comprehensive tool for users to evaluate and understand the intricacies of the human body's systems.
-
-It is essential to review the form carefully to ensure all required fields are completed, as some fields are marked as required. The form should not be duplicated or used for commercial purposes without giving credit to its creator.
-
-The form is intended to be used in a personal or educational setting, allowing users to assess and explore different systems of the human body in a structured and comprehensive manner.
-
-Before proceeding, please note that this form is not affiliated with any form platform and is created using AI-driven technology.
-
-If you have any issues or concerns, please contact [form@gic.mx](mailto:form@gic.mx) for support.
-
-</thinking>
-
 # Human Body Systems Assessment - Help Guide
 ## Purpose
 The Human Body Systems Assessment form is designed to assess and explore the intricate systems of the human body. This form helps users understand and evaluate different systems, including anatomy, body systems, and assessments.

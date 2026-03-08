@@ -1,5 +1,3 @@
-<thinking>...The International Training Leave Of Absence Request form is used to record an employee's request for international training leave of absence, a type of leave that allows employees to participate in approved training programs or activities that may be conducted outside the country or region. The form is designed to gather relevant information from the employee and their supervisor and other relevant parties. Before starting this form, ensure that you have not submitted a request for the same purpose and dates already. Please refer to your company's policies and procedures for more information on international training leave of absence requests...</thinking>
-
 # International Training Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request international training leave of absence for employees to participate in approved training programs or activities outside the country or region.

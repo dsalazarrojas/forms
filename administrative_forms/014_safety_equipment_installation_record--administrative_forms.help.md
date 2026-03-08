@@ -1,7 +1,3 @@
-<thinking>
-This form is for recording safety equipment installation records. To determine whether to fill it out, you should be a personnel or team member responsible for ensuring safety equipment is properly installed and maintained. Ensure this form is not filled out for duplicate or test records. If you're unsure, consult with your team or supervisor.
-</thinking>
-
 # Safety Equipment Installation Record - Help Guide
 ## Purpose
 This form is used to record safety equipment installation records. You should fill it out when installing safety equipment, such as first aid kits, fire extinguishers, or emergency exit signs.

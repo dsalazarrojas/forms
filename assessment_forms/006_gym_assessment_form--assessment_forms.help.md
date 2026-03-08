@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gym Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information about a client's health and fitness goals, medical conditions, and contact details. It's intended for use in a gym or fitness center to assess a client's readiness for a workout program or to gather information for a trainer-client consultation. Please ensure you're completing this form accurately and honestly.

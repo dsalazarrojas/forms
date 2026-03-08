@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the delivery of donated goods, which is an essential process for organizations and individuals who receive and distribute donations to those in need. The purpose of this form is to record the details of donated goods delivery, including the delivery date, location, person involved in the delivery, and the vehicle used for the delivery. The form is meant to be completed by the individual or organization responsible for making the delivery, and its information will be used to improve the tracking and record-keeping of donated goods deliveries.
-</thinking>
-
 # Donated Goods Delivery Tracking Form - Help Guide
 
 ## Purpose

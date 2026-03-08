@@ -1,13 +1,3 @@
-<thinking>
-We are checking to see if this form's purpose is clearly defined and not duplicated within our repository of forms...
-Form purpose: The "Appointment Schedule Template" is a form used to schedule appointments for clients, patients, or customers. It captures key information such as name, email, phone number, and scheduling details.
-
-We are verifying that the form fields are well-defined and logical in their placement and labeling...
-Form fields are well-structured and logically placed to support the form's purpose.
-
-Form purpose checks out. Form fields are in order.
-</thinking>
-
 # Appointment Schedule Template - Help Guide
 ## Purpose
 The "Appointment Schedule Template" is a form used to schedule appointments for clients, patients, or customers. It captures key information such as name, email, phone number, and scheduling details.

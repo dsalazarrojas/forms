@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning block:** The Vet Appointment Form is used to gather information from pet owners to schedule appointments with veterinarians. The form is designed to gather basic information about the pet, the appointment type (e.g., routine check-up, emergency, consultation), and other relevant details such as email and phone numbers. The form is meant to be completed by pet owners to communicate their needs and preferences to the veterinary staff. It is crucial to ensure that all relevant fields are completed correctly to avoid any potential issues or miscommunications.
-</thinking>
-
 # Vet Appointment Form - Help Guide
 ## Purpose
 The Vet Appointment Form is a tool used to collect necessary information from pet owners for scheduling appointments with veterinarians. It helps the veterinary staff understand the pet's needs and provides essential details for a smooth and efficient appointment process.

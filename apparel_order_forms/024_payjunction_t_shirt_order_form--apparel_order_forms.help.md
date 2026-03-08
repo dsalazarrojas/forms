@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PayJunction T Shirt Order Form - Help Guide
 ## Purpose
 

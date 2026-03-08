@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to declare the vehicle usage information of a vehicle owned by employees. This form is required for all vehicles used for official business purposes. The purpose of this form is to ensure that all vehicles used for official business purposes are properly registered and insured, and that employees are aware of their vehicle usage responsibilities. 
-
-This form should not be used for personal vehicles or non-work-related purposes. If you are unsure about the usage of your vehicle, please consult with your supervisor or HR department.
-
-</thinking>
-
 # Vehicle Use Declaration Form - Help Guide
 ## Purpose
 The Vehicle Use Declaration Form is used to declare the vehicle usage information of a vehicle owned by employees for official business purposes.

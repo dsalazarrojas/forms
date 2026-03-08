@@ -1,10 +1,3 @@
-<thinking> 
-This guide will provide a clear and concise explanation of the driving license renewal verification form, its purpose, and how to complete it. This form is used to verify the status of an individual's driving license. The primary objective is to gather accurate and up-to-date information about the driver's license, including their license expiration date, vehicle details, and contact information. It is essential to fill out this form carefully and accurately to ensure the correct information is recorded.
-
-Before starting the form, it's crucial to ensure that the information provided is valid and not duplicated. 
-
-</thinking>
-
 # driving_license_renewal_verification_form - Help Guide
 
 ## Purpose

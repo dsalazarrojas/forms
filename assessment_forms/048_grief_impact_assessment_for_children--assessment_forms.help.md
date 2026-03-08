@@ -1,15 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the "Grief Impact Assessment For Children" form. It is designed to assess the impact of grief on children and gather information on their emotional and behavioral reactions to the loss of a loved one. This form is used to identify potential issues that may require professional support and to provide a comprehensive picture of the child's well-being.
-
-To ensure that the form is filled out correctly, please note the following:
-
-* This form should only be filled out by a parent or caregiver who has knowledge of the child's situation.
-* This form is not intended to be a substitute for professional psychological help. If you suspect the child is in need of professional support, please contact a mental health professional.
-* The questions on this form are designed to be answered honestly and to the best of the parent/caregiver's knowledge.
-* The form is intended to be filled out in its entirety, and incomplete responses will not be accepted.
-* Please be as thorough and accurate as possible when answering each question.
-</thinking>
-
 # Grief Impact Assessment For Children - Help Guide
 ## Purpose
 The "Grief Impact Assessment For Children" form is designed to help parents and caregivers assess the emotional and behavioral impact of grief on children. It is used to identify potential issues that may require professional support and to provide a comprehensive picture of the child's well-being.

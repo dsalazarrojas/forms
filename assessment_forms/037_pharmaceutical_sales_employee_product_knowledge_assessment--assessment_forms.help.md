@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmaceutical Sales Employee Product Knowledge Assessment - Help Guide
 
 ## Purpose

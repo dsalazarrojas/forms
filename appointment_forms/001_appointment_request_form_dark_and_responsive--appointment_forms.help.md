@@ -1,14 +1,3 @@
-<thinking>
-This guide is for the "Appointment Request Form Dark And Responsive". Its purpose is to gather information from users to schedule an appointment. It should be used to submit a request for an appointment with the organization. 
-
-The form is a multi-page form that collects personal information, appointment details, and other relevant data. To ensure that the submission is valid, please make sure to fill in all required fields. 
-
-The "How To Complete This Form" section will guide you through the step-by-step process of filling out the form. 
-
-The "Field-by-Field Explanation" section will explain each field in detail.
-
-</thinking>
-
 # Appointment Request Form Dark And Responsive - Help Guide
 
 ## Purpose

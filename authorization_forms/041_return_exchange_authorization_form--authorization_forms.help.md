@@ -1,7 +1,3 @@
-<thinking>
-This form is used to authorize the return of an item that was previously sold or exchanged. The form is designed to collect information about the customer, the order number, the reason for return, and any additional product details that need to be returned. It's essential to complete this form accurately to ensure that the return process is smooth and efficient. Please make sure to fill out this form only when you have a legitimate reason to return an item and have not already initiated the return process through other means.
-</thinking>
-
 # Return Exchange Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize the return of an item that was previously sold or exchanged. It helps ensure that the return process is smooth and efficient.

@@ -1,8 +1,3 @@
-<thinking>
-This form design and the purpose of this form are likely to ensure that personal training sessions are effectively planned and conducted, and that clients' needs are accurately assessed and met. This form will help the trainers to understand clients' goals, schedule, session duration, and other relevant details. The form may be used to prevent miscommunication and misunderstandings between clients and trainers, and to ensure that each session is tailored to the client's needs. 
-The form will help to reduce errors and increase the efficiency of the personal training process. It's a good practice to use this form for every session to keep records of clients' progress and to identify areas that need improvement. The trainer should fill out this form before every session to ensure accuracy and completeness. 
-Note that some fields are not required, but it's good practice to fill out all of them for better service quality.</thinking>
-
 # Personal Training Session Plan Form - Help Guide
 
 ## Purpose

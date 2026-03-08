@@ -1,7 +1,3 @@
-<thinking>
-The Student Attendance Record Form is intended to track student attendance in classes. This form ensures that instructors can accurately record and report on student attendance, which can impact grades and academic standing. To prevent errors, please ensure that you are using this form for its intended purpose only and not for duplicate or redundant data entry. Please fill out the form with accurate and up-to-date information to ensure that the student's attendance record is correct.
-</thinking>
-
 # Student Attendance Record Form - Help Guide
 
 ## Purpose

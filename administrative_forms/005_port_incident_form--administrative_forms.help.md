@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for reporting incidents that have occurred on a specific facility or port. The purpose of this form is to collect relevant information about the incident, including the facility where it occurred, a brief description of what happened, and details about the people involved and any actions taken. This form is likely used for administrative or logistical purposes, such as tracking and documenting incidents for safety or maintenance purposes.
-
-The form should only be used for reporting new incidents, and not for reporting existing ones. Please do not use this form to report incidents that have already been reported, as it may lead to duplicate entries.
-
-</thinking>
-
 # port_incident_form - Help Guide
 
 ## Purpose

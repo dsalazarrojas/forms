@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a name change for a company. Before filling out this form, please ensure you have a valid reason for the name change and that you have checked the new name's availability in the market. If you're unsure or have any doubts, please contact the relevant authorities or seek legal counsel. Additionally, please ensure that all required fields are filled out completely and accurately. If you're submitting this form, it's assumed that you're doing so with the authority to do so. 
-</thinking>
-
 # Company Name Change Request Form - Help Guide
 ## Purpose
 This form is used to request a change of name for your company. This process ensures that the name change is approved by the relevant authorities and is reflected in all necessary legal and regulatory documents.

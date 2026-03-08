@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to help users verify the energy efficiency compliance of various equipment and systems. The form is meant to be filled out by users to report their equipment's energy efficiency standards, usage information, and other relevant details.
-
-To ensure that this form is completed accurately and consistently, it's essential to understand its purpose and the meaning of each field.
-
-Before starting, make sure that the form is not a duplicate of another existing form. If you're unsure, please contact the form's administrator for clarification.
-
-This form is divided into several sections, each with specific fields that require user input. Below is a detailed explanation of each field and how to complete it.
-
-</thinking>
-
 # energy_efficiency_compliance_verification_form - Help Guide
 ## Purpose
 The energy efficiency compliance verification form is designed to collect information about various equipment and systems to ensure they meet energy efficiency standards. This form helps in maintaining accurate records and facilitates compliance checks.

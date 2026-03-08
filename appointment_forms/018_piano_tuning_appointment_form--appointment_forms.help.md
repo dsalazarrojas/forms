@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help customers schedule appointments for piano tuning or maintenance services. The form includes fields for customer contact information, appointment details, and service preferences. Please ensure that you have read this guide before proceeding.
-
-This guide is intended for end-users who are completing the form to schedule an appointment. If you have already completed this form and need to schedule another appointment, please review this guide to ensure accuracy.
-
-Please note that this form is for scheduling piano-related services only. If you are looking for other types of services, please do not complete this form.
-
-Before proceeding, please ensure that you have the necessary information required to complete the form accurately.
-
-</thinking>
-
 # Piano Tuning Appointment Form - Help Guide
 ## Purpose
 The Piano Tuning Appointment Form is designed to schedule appointments for piano-related services such as tuning, maintenance, or repair. This form will help us understand your needs and preferences to provide the best possible service.

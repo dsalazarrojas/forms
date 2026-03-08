@@ -1,13 +1,3 @@
-<thinking>
-The purpose of the "Engine Performance Assessment" form is to evaluate the condition and performance of an engine in an automotive vehicle. This form is designed to gather specific information about the engine's performance, including its condition, maintenance, and any potential issues. The assessment helps identify areas that require attention to ensure the engine's optimal functioning. 
-
-Before proceeding, ensure that you have reviewed the engine's condition and relevant documentation. This form should only be completed if you have hands-on experience with the engine or have relevant training.
-
-Please note that this form is not for diagnosing complex problems or for routine maintenance. Use this form to identify critical issues that require immediate attention or to document the engine's condition for future maintenance.
-
-To avoid duplication, ensure that all fields are completed accurately and truthfully, and only proceed if you have sufficient knowledge and experience to answer the questions correctly.
-</thinking>
-
 # Engine Performance Assessment - Help Guide
 ## Purpose
 The "Engine Performance Assessment" form is designed to evaluate the condition and performance of an automotive engine. It helps identify potential issues and document the engine's condition for future maintenance.

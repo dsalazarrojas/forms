@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's assistive technology needs, including their referral date, demographic information, disability details, and technology usage habits. This form is intended to be used by assessors to gather data for the purpose of providing personalized assistive technology solutions.
-
-Before completing this form, please note that it is a survey-based form, and responses will be used for assessment and evaluation purposes only. The information collected will not be used for marketing or any other unauthorized purposes. The form is designed to be completed in a few minutes, and each section is designed to be clear and concise.
-
-Please ensure that you do not complete this form if you have already been assessed previously or if you are not the correct person to complete it. This form is intended for individuals who are in need of assistive technology solutions and are being referred to for assessment.
-</thinking>
-
 # Assistive Technology Solutions Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's assistive technology needs, including referral date, demographic information, disability details, and technology usage habits.

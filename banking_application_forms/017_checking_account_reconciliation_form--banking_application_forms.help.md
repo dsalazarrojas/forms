@@ -1,7 +1,3 @@
-<thinking>
-The provided YAML file defines a form for checking account reconciliation, which is a process used by financial institutions to verify the accuracy of their records by comparing the balance on their internal ledger with the balance reported by the bank statement. This form appears to be used for identifying and resolving discrepancies between the two balances.
-</thinking>
-
 # Checking Account Reconciliation Form - Help Guide
 ## Purpose
 This form is designed to facilitate the reconciliation of checking account balances between a financial institution's internal ledger and the bank statement. It guides the user through three steps: Step 1 - Bank Statement Balance, Step 2 - Book Balance, and Step 3 - Final Reconciliation.

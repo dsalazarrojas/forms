@@ -1,14 +1,3 @@
-<thinking>
-This form is used for clients to provide information about their business and schedule appointments for search engine optimization (SEO) services. 
-
-The purpose of this form is to allow clients to easily provide their information, select a preferred contact method, and schedule an appointment for SEO services.
-
-The form will be used by the business to get in touch with the client and schedule a meeting to discuss their SEO needs and provide a quote for services. 
-
-This form does not duplicate existing information, and the information collected will be used to get in touch with the client and provide the best possible service.
-
-</thinking>
-
 # seo_strategy_appointment_form - Help Guide
 ## Purpose
 This form is used for clients to provide information about their business and schedule appointments for search engine optimization (SEO) services.

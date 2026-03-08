@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about mismanagement claims from tenants. It's essential to ensure that the information collected is accurate and relevant to the claim. To prevent duplication of claims, please ensure that you're filling out this form for a new issue or case that has not been previously reported. If you're unsure whether the issue has already been reported, please contact us to verify.
-</thinking>
-
 # Real Estate Mismanagement Claim Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help individuals apply for scholarships. The form captures information about the applicant, their contact details, academic background, and other relevant information needed to process the scholarship application.
-
-To avoid duplication of effort, please review the form carefully before starting to fill it out. If you have already submitted a scholarship application, please do not resubmit your application as it will be rejected.
-
-</thinking>
-
 # Sample Scholarship Application Form - Help Guide
 ## Purpose
 The Sample Scholarship Application Form is a tool for students and individuals to provide detailed information about themselves for scholarship applications.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for VIP event reservations. It includes details about the event, such as the date and time, the event name, and the event organizer. The form also gathers information about the event's details, including the table reservation, capacity, and special instructions. Additionally, it collects information about the event's attendees, such as their phone number, email, and dietary restrictions. This form ensures that all necessary details are captured for the successful execution of the VIP event.
-
-It is essential to ensure that this form is completed accurately to avoid duplication of efforts and miscommunication. Please review the form carefully to ensure that all required fields are filled correctly.
-
-Please note that some fields are optional and may not be applicable for every event. Make sure to fill in only the necessary information for your event.
-
-</thinking>
-
 # vip_event_table_reservation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for VIP events, ensuring that all necessary details are captured for the successful execution of the event.

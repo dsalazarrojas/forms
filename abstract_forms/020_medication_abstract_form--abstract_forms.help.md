@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about medication shipments, including shipment details, purchase information, and delivery status. It is an abstract form, meaning it does not store actual values but rather allows users to input information for demonstration purposes.
-
-The purpose of this form is to mimic real-world scenarios and provide a way to experiment with different form fields and options without affecting actual database records.
-The form is not intended to store sensitive or confidential data, and its usage should be limited to testing and development environments.
-</thinking>
-
 # medication_abstract_form - Help Guide
 ## Purpose
 This form is designed to collect information about medication shipments for abstract purposes.

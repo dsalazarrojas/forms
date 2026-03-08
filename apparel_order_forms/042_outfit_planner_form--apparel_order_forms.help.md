@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to collect information about an event or occasion from the client, including the event name, date and time, client contact details, and stylist contact details. This form will help the stylist in planning and preparing the outfit for the client.
-
-The form should only be used for planning and preparing outfits for clients. It is not intended for other purposes, such as general inquiries or sales pitches.
-</thinking>
-
 # Outfit Planner Form - Help Guide
 ## Purpose
 The Outfit Planner Form is used to collect information about an event or occasion from the client, including the event name, date and time, client contact details, and stylist contact details. This information will help the stylist in planning and preparing the outfit for the client.

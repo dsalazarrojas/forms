@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be used as a template for generating a help guide for the "Athlete Fan Interaction Media Consent Form". The form is designed to collect information from athletes about their consent to being photographed, recorded, or videoed during events. The fields in this form are meant to be filled out by athletes or their representatives, and the guide will walk them through each field's purpose and requirements.
-</thinking>
-
 # Athlete Fan Interaction Media Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from athletes to be photographed or recorded during fan interaction events. It ensures that athletes are aware of how their media will be used and gives them control over the type of interaction and where it will be used.

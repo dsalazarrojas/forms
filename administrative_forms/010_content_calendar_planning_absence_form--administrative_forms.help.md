@@ -1,13 +1,3 @@
-<thinking>
-The "Content Calendar Planning Absence Form" is used by employees to request time off from their work due to various reasons such as vacation, sick leave, family emergencies, or other personal reasons. This form helps to ensure that all necessary arrangements and updates are made to the content calendar, allowing your colleagues and manager to stay informed and cover your responsibilities while you are away.
-
-Before filling out this form, please make sure to check the following:
-
-* Ensure that you have checked the company's leave policies and procedures regarding absences.
-* Double-check that you have completed all necessary handovers and arrangements with your colleagues.
-* Confirm that you have updated the content calendar accordingly.
-</thinking>
-
 # Content Calendar Planning Absence Form - Help Guide
 
 ## Purpose

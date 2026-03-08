@@ -1,7 +1,3 @@
-<thinking>
-This form is used for inspecting shipping containers. To confirm, the form is used for inspecting shipping containers to ensure that they are in good condition before being used for shipping. I will not output any further internal reasoning.
-</thinking>
-
 # Shipping Container Inspection Form - Help Guide
 ## Purpose
 The Shipping Container Inspection Form is used to collect information about the condition of shipping containers before they are used for shipping. This form helps inspectors evaluate the container's condition and report any damages or issues.

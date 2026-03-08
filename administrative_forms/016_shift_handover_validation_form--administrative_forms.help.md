@@ -1,11 +1,3 @@
-<thinking>
-This form is likely intended to document the details of a shift handover, where one employee is transferring responsibilities or information to another. The purpose of the form is to ensure a smooth transition of duties and tasks between team members. A handover validation form can help verify that the necessary information has been properly transferred and that the next employee is aware of their new responsibilities. This form is probably used in a work environment where shifts are regularly changed, and it's essential to maintain continuity and avoid errors. 
-
-The form's fields seem to cover essential aspects of the handover process, such as employee details, shift dates and times, shift length, notes, and personnel involved. The select multiple options for "Shift Type" and "Handover Personnel" suggest that multiple teams or individuals are involved in the handover process.
-
-Before filling out the form, make sure to review each field carefully and ensure you're completing it for the correct purpose and shift. If you're unsure about any information, consult with the relevant team members or supervisors.
-</thinking>
-
 # Shift Handover Validation Form - Help Guide
 ## Purpose
 The Shift Handover Validation Form is designed to document the details of a shift handover, ensuring a smooth transition of responsibilities and tasks between team members.

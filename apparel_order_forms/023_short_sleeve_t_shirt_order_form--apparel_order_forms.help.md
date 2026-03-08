@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a customer order form for apparel products. It seems to be designed for customers to provide their contact information, select a product, choose a payment method, and include any order notes. The fields seem to be fairly standard, but the "select_product" field is an interesting choice, as it suggests that customers will be choosing from a list of available products. I will assume that this field is meant to allow customers to select one of the listed products. Additionally, the "payment_method" field is also an interesting choice, as it suggests that customers can choose multiple payment methods. I will assume that this field is meant to allow customers to select one or more of the listed payment methods. Finally, the "total_amount" field is likely meant to allow customers to specify the total amount of their order. I will assume that this field is meant to be a numeric field for the total cost of the order.
-</thinking>
-
 # Short Sleeve T Shirt Order Form - Help Guide
 
 ## Purpose

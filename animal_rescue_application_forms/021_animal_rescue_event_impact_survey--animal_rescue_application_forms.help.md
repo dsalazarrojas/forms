@@ -1,9 +1,3 @@
-<thinking>
-**Internal note:**
-This form is designed to assess the impact of an animal rescue event, gathering feedback from participants to improve future events. To avoid duplication, please only fill out this form if you have not previously submitted one. Your input will help us better understand your experiences and make informed decisions for upcoming events.
-
-</thinking>
-
 # Animal Rescue Event Impact Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from participants to assess the impact of the animal rescue event. Your input will help us improve future events and better serve our community.

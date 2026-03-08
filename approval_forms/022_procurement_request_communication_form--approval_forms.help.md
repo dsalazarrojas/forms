@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Procurement Request Communication Form", we need to understand its purpose, the fields involved, and how users can effectively complete it. 
-
-The form is designed for communicating procurement requests, and it seems to be a simple form for capturing basic information about the request. Given its current structure, it appears that it's not a form for submitting formal procurement requests, but rather for providing a communication channel between the requester and the approval team. This assumption is made based on the form's design, which doesn't seem to have a formal submission mechanism or any fields that would indicate a formal request.
-
-Given this understanding, we can infer that the form might be used for:
-
-* Sharing information about a procurement request
-* Updating the status of a procurement request
-* Adding comments or feedback on a procurement request
-
-To ensure clarity, we'll assume that the form is used for internal purposes and that users will be filling it out for internal communication within the organization.
-
-</thinking>
-
 # Procurement Request Communication Form - Help Guide
 ## Purpose
 The Procurement Request Communication Form is designed to facilitate internal communication and updates about procurement requests. 

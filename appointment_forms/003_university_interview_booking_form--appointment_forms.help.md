@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be used by university students to book an interview with a staff member, typically an academic advisor or professor. The form is typically used by students to express their interest in discussing academic matters or seeking guidance. To ensure that students book their interview at a mutually convenient time, the form includes fields for interview and preferred interview time, as well as a field to confirm that the booking is complete. The form is intended for students who are looking for a one-time meeting, rather than a recurring appointment.
-
-Before attempting to book an interview, please ensure that you are not already booked for an interview with the same staff member. If you are unsure, please contact the relevant department for clarification.
-
-Please note that the preferred interview time field is optional, and you can choose to leave it blank if you are not particular about the time of your interview. However, filling it in will allow the staff member to get a better understanding of your availability and make the most suitable arrangement for both parties.
-
-Also, please make sure that the interview duration field is set to a realistic number, taking into account the amount of time you need to discuss your matter with the staff member.
-</thinking>
-
 # university_interview_booking_form - Help Guide
 ## Purpose
 This form is designed for university students to book an interview with a staff member to discuss academic matters or seek guidance.

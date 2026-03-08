@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a debit card application. It is intended to be completed by an individual applying for a debit card. This form will guide users through the process of providing all necessary information required to process their application. 
-
-Before starting this form, ensure you have all required information and details. The form is divided into several sections, and all fields are required unless otherwise stated. Please note that this form collects sensitive information such as your personal details and credit card number. Ensure you are honest and provide accurate information to avoid any issues with your application. 
-
-This form has been designed to be user-friendly, and each field is explained below for your convenience.
-
-</thinking>
-
 # Debit Card Application Form - Help Guide
 ## Purpose
 The Debit Card Application Form is designed to collect necessary information from applicants for a Debit Card. Please fill out the form accurately and honestly to ensure a smooth processing of your application.

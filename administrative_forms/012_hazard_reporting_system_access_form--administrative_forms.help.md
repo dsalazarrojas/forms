@@ -1,14 +1,3 @@
-<thinking>
-This form is used for accessing the Hazard Reporting System, which is a system used to report potential hazards that could impact business operations or employee safety. This system is designed to help employees quickly and easily report hazards they have encountered or concerns they have, so that they can be investigated and mitigated in a timely manner. Before proceeding, please ensure that you are accessing this form for a legitimate reason and that the information you provide is accurate and complete.
-
-To complete this form, follow these steps:
-
-*   Ensure you are accessing this form for a legitimate purpose.
-*   Fill out the form completely and accurately.
-*   Double-check your information for accuracy and completeness.
-
-</thinking>
-
 # Hazard Reporting System Access Form - Help Guide
 ## Purpose
 

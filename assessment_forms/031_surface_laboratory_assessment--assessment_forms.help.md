@@ -1,10 +1,3 @@
-<thinking>
-I will create a help guide for the "Surface Laboratory Assessment" form.
-The form is used to collect information about a surface test, and its purpose is to gather data about the test's results, type, and other relevant details. The form is likely used in a medical or scientific setting to record the outcomes of a test conducted on a surface, such as a patient's skin or a material sample.
-The form is not designed to be a mandatory or critical process, as most fields are optional. It is intended to be completed by someone with knowledge of the test and its results.
-The form will not be used to create any critical or time-sensitive processes. Therefore, it is not necessary to have it completed in real-time.
-</thinking>
-
 # Surface Laboratory Assessment - Help Guide
 ## Purpose
 The "Surface Laboratory Assessment" form is used to collect and document information about a surface test, its results, and other relevant details.

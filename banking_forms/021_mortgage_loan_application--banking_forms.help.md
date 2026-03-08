@@ -1,35 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from users for a mortgage loan application. This form is intended for users who are seeking a mortgage loan. It asks for contact information, loan details, property information, employment information, income verification, loan officer information, loan terms, borrower information, co-borrower information, property address, collateral information, loan amount, loan term, loan rate, payment frequency, payment amount, loan date, loan time, notes, email, and phone number. 
-
-The fields included in this form are designed to gather essential details necessary for a mortgage loan application. Users will need to fill in their contact information, loan details, property information, employment information, income verification, and other relevant details. 
-
-Please note that the form requires information for both the borrower and co-borrower if applicable. Additionally, users are asked to provide their loan officer's information as well. This form is a comprehensive guide to gather all necessary information for the mortgage loan application process. 
-
-Please ensure that users fill in the required fields to ensure a successful loan application process. If there is any uncertainty or doubt about any field, users can refer to this guide for clarification. 
-
-This form is not intended for users who are looking for general information about mortgage loans but for those who are ready to apply for a mortgage loan. 
-
-This form is designed to be filled out by one person. If you are filling out the form on behalf of someone else, please fill out your own information first, then fill in the co-borrower's information. 
-
-This form should take approximately [insert time] to fill out. Please take the necessary time to fill out the form accurately and thoroughly. 
-
-Please ensure that you have all necessary documents and information before filling out this form. 
-
-Please do not fill out this form if you are unsure about any information. If you are unsure, please reach out to a loan officer for guidance. 
-
-Please fill out this form in English. If you need help with translation, please reach out to a loan officer or contact support. 
-
-This form is for internal use only. Please do not share this form with anyone outside of the organization. 
-
-Please review and understand the terms and conditions of the loan before filling out this form. 
-
-Please ensure that you have provided all necessary information and documentation before submitting the form. 
-
-Please submit the form only once you have completed it accurately and thoroughly. 
-
-Please note that the loan process may take some time to complete. Please be patient and stay updated on the status of your loan application. 
-</thinking>
-
 # Mortgage Loan Application - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is for summarizing job roles in a concise and structured format, allowing you to gather key information about a job's title, description, responsibilities, expectations, scope, and performance metrics. This form is useful for various administrative tasks, such as creating job postings, job descriptions, and performance evaluations.
-</thinking>
 # job_role_overview_form - Help Guide
 ## Purpose
 The "job_role_overview_form" form is designed to collect essential details about a job role, including its title, description, responsibilities, expectations, scope, and performance metrics. This form helps you to create a comprehensive overview of a job, which can be useful for administrative tasks, such as job postings, performance evaluations, and talent management.

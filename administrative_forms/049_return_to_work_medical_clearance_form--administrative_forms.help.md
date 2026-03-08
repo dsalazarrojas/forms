@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the return-to-work process for employees who have been absent due to illness or injury. The form captures necessary information from both the employer and employee to ensure a smooth transition back to work. It also includes fields for medical clearance and documentation to support the employee's return to work. This form is intended to be completed by employees or their representatives and reviewed by HR or management personnel for approval.
-</thinking>
-
 # Return To Work Medical Clearance Form - Help Guide
 
 ## Purpose

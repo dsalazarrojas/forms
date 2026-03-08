@@ -1,7 +1,3 @@
-<thinking>
-Please check if this form is intended for registering players for a baseball league, tournament, or program. Ensure this form is being used for the correct purpose and not for any other activity or organization. Also, double-check if there are any similar forms used for registering players. If this form is being used for multiple purposes, create a separate guide for each purpose.
-</thinking>
-
 # Baseball Registration Form - Help Guide
 ## Purpose
 This form is used to register players for a baseball league, tournament, or program. It collects information about the player's personal details, playing experience, and medical information.

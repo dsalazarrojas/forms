@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering catering services from Macs. It's designed for event organizers to provide details about their events, such as equipment and food requirements, support needs, and contact information. This form reduces the need for back-and-forth communication between event organizers and Macs' staff, ensuring timely and accurate orders. The form should only be filled out once per event.
-</thinking>
-
 # Macs Catering Order Form - Help Guide
 ## Purpose
 This form is designed for event organizers to provide information about their events and requirements for Macs catering services.

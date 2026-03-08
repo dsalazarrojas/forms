@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, this form is intended for use by authorized personnel only. It is used to release the results of a food safety inspection, indicating the facility's status and any necessary actions or dates.
-</thinking>
-
 # Food Safety Inspection Records Release Form - Help Guide
 ## Purpose
 The Food Safety Inspection Records Release Form is a document used to release the results of a food safety inspection, indicating the facility's status and any necessary actions or dates.

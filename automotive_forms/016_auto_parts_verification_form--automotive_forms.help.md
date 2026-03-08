@@ -1,12 +1,3 @@
-<thinking>
-This form is for auto parts verification. It's a critical part of the process to ensure that the parts received are accurate and compatible with the vehicle's specifications. This form is a crucial tool for customers, sales, and other teams within the organization to gather information about the requested parts. The information collected here will help in verifying the part's compatibility, reducing errors, and streamlining the overall process.
-
-Please note that this form is a standard template and might need adjustments according to specific business requirements. It's essential to review and understand each field's purpose and relevance to the overall process.
-
-To avoid duplication and ensure accuracy, please fill out the form completely and carefully, making sure to provide all necessary information.
-
-</thinking>
-
 # Auto Parts Verification Form - Help Guide
 ## Purpose
 The Auto Parts Verification Form is a critical tool for verifying the accuracy and compatibility of auto parts. It ensures that the parts received are correct and meet the vehicle's specifications, reducing errors and streamlining the overall process.

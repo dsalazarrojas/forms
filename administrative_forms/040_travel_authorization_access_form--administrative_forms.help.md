@@ -1,7 +1,3 @@
-<thinking> 
-The form "travel_authorization_access_form" is designed for employees to request travel authorization, providing a structured way to gather necessary information for travel-related tasks. This form is typically used by employees to submit their travel plans, including employee details, travel dates, locations, purpose, email, and phone number. This form will help ensure that all necessary information is collected and reviewed by the relevant authorities before approving or denying the travel request. Please note that this form is part of an adminstrative process and should only be completed by employees with a legitimate need to travel. Ensure you understand the travel policy before filling this form. 
-</thinking>
-
 # travel_authorization_access_form - Help Guide
 
 ## Purpose

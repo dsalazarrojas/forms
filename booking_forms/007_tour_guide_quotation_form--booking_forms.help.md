@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Tour Guide Quotation Form", we need to determine the form's purpose and fields. The form is used to collect information for a tour guide quotation. The form consists of multiple pages with various fields that require user input. Each field is categorized into different types, such as text, select_one, select_multiple, date, number, and note.
-
-Upon reviewing the form fields, it appears that some fields are optional, while others are required. We will need to highlight the required fields to ensure that users understand the importance of completing these fields. We will also need to explain the types of fields, such as text, select_one, and select_multiple, to help users understand how to fill out each section. Additionally, we will need to provide tips for users to complete the form efficiently.
-
-</thinking>
-
 # Tour Guide Quotation Form - Help Guide
 ## Purpose
 The Tour Guide Quotation Form is used to collect information for a tour guide quotation. Please fill out this form to provide all necessary details about your tour.

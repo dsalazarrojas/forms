@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a DJ event, likely for booking purposes. The form likely serves as a centralized place for users to provide details about an event, including its date, time, duration, details, client information, and other relevant details. This form may be used by DJs or event organizers to gather information for events they are hosting or have been hired to perform at. The form's purpose is likely to streamline the process of collecting necessary information for events and improving communication between DJs and clients.
-</thinking>
-
 # DJ Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information for a DJ event, including its date, time, duration, details, client information, and other relevant details. The form is likely used by DJs or event organizers to gather necessary information for events they are hosting or have been hired to perform at.

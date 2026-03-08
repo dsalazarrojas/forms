@@ -1,7 +1,3 @@
-<thinking>
-We can assume that this form is used for planning and preparation for the tax season. The form likely helps team leaders to document and prioritize tasks, goals, and deadlines for the tax season. This form might be used by accountants or bookkeepers to coordinate workloads, assign responsibilities, and ensure everyone is aware of the tax season's scope, timelines, and priorities. Before proceeding, let's review the form's fields to ensure that we're not duplicating any information and that each field's explanation aligns with the form's intended purpose. This will guarantee that the help guide accurately and concisely addresses the form's requirements.
-</thinking>
-
 # Team Goals For Tax Season - Help Guide
 ## Purpose
 This form is a tool to plan and organize tasks, goals, and deadlines for the tax season. It helps team leaders to assign responsibilities, prioritize tasks, and ensure that everyone is aware of the tax season's scope.

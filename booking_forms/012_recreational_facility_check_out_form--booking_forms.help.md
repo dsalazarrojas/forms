@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to allow users to check out recreational facilities such as pool tables, game tables, or other equipment in a recreational facility. It is meant to be used by facility staff to manage and track facility usage. The form will be used to gather information on the user's identity, the facility being checked out, the duration of the reservation, and any additional comments.
-
-To prevent misuse, this form will not allow users to enter duplicate reservations or overbookings, so users are required to fill it out for each individual check-out request. This form will be filled out by staff members, not end-users. They will be entering information on behalf of the users who are using the facilities.
-
-Please note that the form fields are mostly self-explanatory, but here's a detailed guide to help you complete it:
-
-</thinking>
-
 # Recreational Facility Check Out Form - Help Guide
 ## Purpose
 The Recreational Facility Check Out Form is designed to help facility staff manage and track the usage of recreational facilities such as pool tables, game tables, and other equipment.

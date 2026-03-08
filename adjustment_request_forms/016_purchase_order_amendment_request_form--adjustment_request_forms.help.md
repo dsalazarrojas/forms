@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To prevent errors and ensure the form is used correctly, the form designer should consider the following when designing the "Purchase Order Amendment Request Form":
 - The form should only be used to request amendments to a purchase order, not to create a new purchase order.
 - The form should not be used to request changes to a purchase order that is already cancelled or closed.

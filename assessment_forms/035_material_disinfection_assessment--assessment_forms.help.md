@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Disinfection Assessment - Help Guide
 ## Purpose
 This form is used to assess the effectiveness of material disinfection in a given facility. It captures information about the facility's name, the date of evaluation, and various other relevant details such as ratings and follow-up information. The form is used to track and record assessment data, enabling facilities to evaluate their disinfection protocols and make necessary improvements.

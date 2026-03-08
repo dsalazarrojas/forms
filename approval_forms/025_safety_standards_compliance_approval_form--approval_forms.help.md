@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Standards Compliance Approval Form - Help Guide
 
 ## Purpose

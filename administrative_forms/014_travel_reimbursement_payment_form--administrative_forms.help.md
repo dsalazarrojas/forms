@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# travel_reimbursement_payment_form - Help Guide
+> # travel_reimbursement_payment_form - Help Guide
 
 ## Purpose
 The travel_reimbursement_payment_form is used for submitting travel requests and associated expenses. This form helps employees and managers keep track of travel-related expenses, ensuring accurate and efficient reimbursement processing.

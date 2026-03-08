@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients for their dental checkup inquiries. It is likely used in a healthcare setting, such as a dental clinic or hospital, to gather essential details from patients before their appointments. This form helps dentists and their staff to prepare for the checkup, including scheduling appointments and assigning specific tasks to doctors or assistants.
-
-To ensure that this form is used correctly and efficiently, please note that the following fields are not required for completion:
-
-- Full name
-- Email
-- Reason for visit
-
-These fields are optional and can be filled out by the patient if they choose to provide this information. However, the fields that require completion are essential for scheduling and preparing the checkup.
-
-</thinking>
-
 # Dental Checkup Inquiry Form - Help Guide
 
 ## Purpose

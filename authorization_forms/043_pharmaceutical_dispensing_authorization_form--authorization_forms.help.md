@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information for the authorization of pharmaceutical dispensing, which involves verifying the credentials of authorized prescribers and patients to ensure legitimacy and prevent misuse. This process is a crucial part of maintaining the integrity of the pharmaceutical supply chain and patient care. The form will be used in conjunction with existing system checks to prevent unauthorized access to controlled substances.
-The form is likely used to create or update a record within the internal system rather than being sent to an external entity for processing, which means that the data collected will be used internally.
-</thinking>
-
 # Pharmaceutical Dispensing Authorization Form - Help Guide
 ## Purpose
 The Pharmaceutical Dispensing Authorization Form is used to collect information for the authorization of pharmaceutical dispensing. This form is used to verify the credentials of authorized prescribers and patients to ensure the legitimacy of the pharmaceutical supply chain and prevent misuse.

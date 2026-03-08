@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an efficient and user-friendly help guide for the Freelancer Contract Approval Form, we must first understand the form's purpose and the information required from the end-users. This form is used for the approval process of freelance contracts, which involves selecting the client, providing project details, and confirming the freelancer's information. The form is designed to capture essential data related to the freelancer's contract, ensuring that all required fields are filled in correctly to ensure accurate and efficient processing.
 
 The form is divided into different sections, each with its own specific fields and instructions.

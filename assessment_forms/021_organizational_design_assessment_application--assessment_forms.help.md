@@ -1,7 +1,3 @@
-<thinking>This form is designed to collect information about an organization's design assessment, including its main information, challenges, goals, context, status, and more. Please ensure that you understand the purpose and context of this form before proceeding. This will help you provide accurate and relevant information.
-
-</thinking>
-
 # Organizational Design Assessment Application - Help Guide
 ## Purpose
 The Organizational Design Assessment Application is designed to gather essential information about an organization's design, helping to identify strengths, weaknesses, opportunities, and challenges. This form is meant to provide a comprehensive understanding of the organization's context, goals, and challenges.

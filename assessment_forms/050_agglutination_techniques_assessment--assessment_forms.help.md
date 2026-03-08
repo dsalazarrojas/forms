@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to assess the proficiency of laboratory staff in agglutination techniques, specifically in evaluating laboratory skills in agglutination testing methods. The form is intended to evaluate the theoretical knowledge and practical abilities of trainees or staff members in identifying patterns, performing serial dilutions, and adhering to safety and sterilization protocols.
-
-The form is divided into two main sections: Theoretical Knowledge and Practical Proficiency. The theoretical section assesses the trainee's understanding of the principle of agglutination in laboratory diagnostics, the difference between direct and indirect agglutination, and factors that can lead to false positive results. The practical section evaluates the trainee's ability to prepare serial dilutions, identify patterns, and follow safety and sterilization protocols.
-
-To complete this form, please follow the instructions below:
-
-1. The form is divided into sections. Please answer all questions within each section before moving on to the next.
-
-2. For multiple-choice questions, select the most accurate description or option.
-
-3. For open-ended questions, provide specific and detailed feedback or comments.
-
-4. Please answer all required questions, as indicated by the "required" label in each field.
-
-5. For the final assessment result, select the corresponding option based on the trainee's performance.
-
-</thinking>
-
 # Agglutination Techniques Assessment - Help Guide
 ## Purpose
 This form assesses the proficiency of laboratory staff in agglutination techniques, specifically in evaluating laboratory skills in agglutination testing methods.

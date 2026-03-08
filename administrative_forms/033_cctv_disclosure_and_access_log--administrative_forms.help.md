@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to ensure that requests for access to CCTV footage or other security-related data are properly logged and documented to meet the organization's internal policies and external regulatory requirements. This form is used to record and track requests for access to such information, including the reason for the request, the individual or team making the request, and the status of the request. It also includes fields for the official who approved or denied the request and the method of access provided to the requestor. This form is essential for maintaining transparency, accountability, and compliance with privacy laws.
-
-This form should be used when a request for access to CCTV footage or other security-related data is made, either internally or externally. It is crucial that all users understand the purpose and requirements of this form to avoid any confusion or misuses. This includes ensuring that the form is not duplicated or submitted without proper authority.
-
-</thinking>
-
 # CCTV Disclosure and Access Log - Help Guide
 ## Purpose
 The CCTV Disclosure and Access Log form is used to ensure that requests for access to CCTV footage or other security-related data are properly recorded and tracked to meet organizational policies and external regulatory requirements.

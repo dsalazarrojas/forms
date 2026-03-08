@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "emergency_drill_report_form", is intended to collect information about emergency drill events and their outcomes. It is likely used for administrative purposes to record and review the effectiveness of emergency drills performed within an organization, facility, or other controlled environment. This form might be used to identify areas of improvement and ensure that drills are conducted regularly and effectively.
-
-This form appears to be a general template and its purpose might need to be adjusted based on specific requirements of the context where it is used.
-
-</thinking>
-
 # emergency_drill_report_form - Help Guide
 
 ## Purpose

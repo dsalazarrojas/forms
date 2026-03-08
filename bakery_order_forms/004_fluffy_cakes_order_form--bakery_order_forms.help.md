@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely for customers to place an order for custom cakes or other bakery products. It asks for customer information, order details, and delivery information. The form may also collect special instructions, order comments, and payment methods. I'll make sure to cover all fields thoroughly in the help guide.
-
-</thinking>
-
 # Fluffy Cakes Order Form - Help Guide
 ## Purpose
 The Fluffy Cakes Order Form is designed for customers to place orders for custom cakes and other bakery products. It collects necessary information to fulfill their orders accurately and efficiently.

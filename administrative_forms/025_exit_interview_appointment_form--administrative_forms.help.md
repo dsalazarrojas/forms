@@ -1,11 +1,3 @@
-<thinking>
-This form, "exit_interview_appointment_form", is designed to collect information from individuals who are leaving the company or organization. It's essential that the form is completed accurately and thoroughly to ensure that the necessary details are captured.
-
-Before filling out this form, please ensure that you are not duplicating an existing exit interview. If you are unsure about the purpose of this form or if you have already completed a similar form, please contact the relevant personnel department for clarification.
-
-This form is divided into several sections, each designed to collect specific information about the individual's exit. Please take your time to fill out the form accurately and completely.
-</thinking>
-
 # exit_interview_appointment_form - Help Guide
 ## Purpose
 The exit interview form is a crucial tool for collecting information from individuals who are leaving the company or organization. It helps to gather essential details about the reasons for departure, the circumstances surrounding the exit, and any suggestions or feedback from the individual.

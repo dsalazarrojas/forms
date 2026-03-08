@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a demo appointment in a nail salon software. It appears to be a form for a software demo, likely for a potential client or customer. The form has a mix of select, text, date, time, and email fields, suggesting it's used to collect specific details about the demo. The form's purpose is likely to understand the customer's interest in the software, their current state of use, and other relevant details for the demo. This form seems to be designed for a simple, straightforward collection of information, and there's no indication of any complex or sensitive data collection. I'm assuming this form is used internally within the company or for a basic customer feedback/ demo interest collection.
-</thinking>
-
 # Nail Salon Software Demo Appointment - Help Guide
 ## Purpose
 This form is used to collect information for a demo appointment in a nail salon software.

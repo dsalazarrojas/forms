@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting a compliance review appointment. Before filling out this form, ensure that you're requesting a compliance review and not another type of form or meeting. This form is designed for employees to book a compliance review appointment with the relevant department or person. Please ensure that you're filling out this form for a legitimate compliance review purpose.
-</thinking>
-
 # Compliance Review Appointment Form Template - Help Guide
 ## Purpose
 The Compliance Review Appointment Form Template is used to request a compliance review appointment with the relevant department or person. This form is designed to gather necessary information for a smooth and efficient review process.

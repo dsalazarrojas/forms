@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning should explain that the Theme Park Ticket Reservation Form is a form designed to allow users to input their reservation information for tickets to a theme park. This form should only be used for customers who have previously interacted with the theme park and have been given a reservation code, and are now reserving tickets on a specific day. This form should not be filled out by users who have not been given a reservation code.
-
-The form purpose is to gather the necessary information from customers for their reserved tickets, including the type of ticket, number of tickets, and payment method. The form should be filled out by the customer to confirm their reservation details before submitting the form.
-</thinking>
-
 # Theme Park Ticket Reservation Form - Help Guide
 ## Purpose
 This form is designed to allow users to input their reservation information for tickets to a theme park. It is intended for customers who have previously interacted with the theme park and have been given a reservation code. Please ensure you have a valid reservation code before filling out this form.

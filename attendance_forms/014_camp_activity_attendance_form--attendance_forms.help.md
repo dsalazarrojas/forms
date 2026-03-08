@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to track and record attendance of camp activities. The form is typically completed by activity leaders or supervisors to provide a detailed account of an activity's attendance, including the date, name and status of participants. This form helps to ensure that all necessary information is recorded for activity management and participant accountability.
-
-</thinking>
-
 # Camp Activity Attendance Form - Help Guide
 ## Purpose
 The Camp Activity Attendance Form is a tool used to track and record attendance of camp activities. This form helps activity leaders or supervisors to document the attendance details of participants and ensure that all necessary information is recorded for activity management and participant accountability.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify the information of a potential tenant. The purpose of this form is to collect relevant details about the tenant's identity, rental history, and other necessary information for the landlord or property manager to assess the tenant's suitability. The form will ask for information such as first and last name, email, phone number, date of birth, social security number, rental history, references, documents required for the rental application, the name of the landlord or property manager, their phone number, and a report date. This form should only be completed by authorized parties.
-</thinking>
-
 # Tenant Screening Verification Form - Help Guide
 ## Purpose
 This form is used to verify the information of a potential tenant, ensuring all necessary details are collected and accurately assessed by the landlord or property manager.

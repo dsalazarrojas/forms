@@ -1,5 +1,3 @@
-<thinking>...This form is designed to request approval for training purposes within the organization. Before proceeding, please ensure that you are submitting a training request for a valid reason and not duplicating an existing request. A duplicate request will delay the processing of your request and may cause unnecessary work for our team...</thinking>
-
 # Training Request Approval Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a training request for approval. This form will be reviewed and approved by the designated approval manager, and once approved, it will be scheduled for the requested training date and time.

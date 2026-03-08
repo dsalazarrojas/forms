@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect information for a vehicle insurance excess refund process. The form is intended for insureds who have experienced a claim and are requesting a refund of their excess amount. The fields are designed to gather relevant details about the vehicle, insured, and claim. 
-
-The form will be reviewed and processed internally to assess the validity of the claim and determine the refund status. This guide will walk through each field and explain its purpose and how to complete it accurately. 
-
-Please note that some fields may be optional or not required, but providing accurate information will aid in the processing of your claim.
-
-</thinking>
 # Vehicle Insurance Excess Refund Form - Help Guide
 ## Purpose
 This form is designed to facilitate the vehicle insurance excess refund process. Please provide accurate and complete information to ensure the efficient processing of your claim.

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for gathering information for a Fire Safety Drill waiver, which is likely used for events or activities that involve fire safety protocols. However, I do not see any explicit reference to any specific organization or entity this form might be associated with, so I am assuming it is a general template.
-The form seems to be designed to collect personal information about participants, such as their participant info, parent or guardian info (if applicable), and emergency contact information. It also includes waiver terms, participant and parent/guardian signatures, and emergency contact info. The form's focus on signatures and contact information suggests it might be related to a waiver for a youth or minor participating in a potentially hazardous activity.
-</thinking>
-
 # Fire Safety Drill Waiver Form - Help Guide
 ## Purpose
 This form is designed to gather information from participants and their parents or guardians for a Fire Safety Drill event or activity.

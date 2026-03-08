@@ -1,10 +1,3 @@
-<thinking>...
-The Childhood ADHD Collateral Questionnaire is a comprehensive assessment tool designed to evaluate the behavior and performance of children with attention deficit hyperactivity disorder (ADHD). This form is intended to gather information from caregivers or teachers about a child's symptoms, behavior, and academic performance.
-
-This guide is provided to help you complete the form accurately and effectively. Please review the following sections to understand the purpose of each field and how to fill it out.
-
-</thinking>
-
 # Childhood ADHD Collateral Questionnaire - Help Guide
 ## Purpose
 The Childhood ADHD Collateral Questionnaire is a tool used to gather information about a child's behavior, performance, and potential symptoms of attention deficit hyperactivity disorder (ADHD). This form is completed by caregivers or teachers who have had regular contact with the child.

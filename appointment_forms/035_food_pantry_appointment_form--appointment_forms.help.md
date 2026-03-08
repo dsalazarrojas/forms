@@ -1,7 +1,3 @@
-<thinking>
-The form "food_pantry_appointment_form" is designed to collect information from non-profit organizations about their visits to food pantries, including the name of the organization, the name and contact information of the person visiting, the date and time of the visit, and the reason for the visit. This form will help the food pantry staff to keep track of their visitors and provide better support and services to them. Before filling out this form, please make sure that you have the necessary information and authorization to complete it, as it may be used for official purposes.
-</thinking>
-
 # food_pantry_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule and record non-profit organization visits to food pantries.

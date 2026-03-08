@@ -1,9 +1,3 @@
-<thinking>
-This is a form designed to collect information about travel-related events or activities. The form is intended for use in various contexts, such as business or personal travel, and is meant to capture relevant details about the trip, including dates, destination, mode of transportation, and any other relevant information. 
-Please ensure this form is not duplicated or filled out for non-travel-related events, as it is not intended for other purposes. 
-Ensure all required fields are filled out to ensure accurate submission and processing.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The Travel Form is designed to collect information about travel-related events or activities.

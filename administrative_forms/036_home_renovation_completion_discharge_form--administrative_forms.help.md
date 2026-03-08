@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to document the completion of a home renovation project, capturing key details about the project, including its status, completion notes, and any certifications or certifications numbers associated with it. This form is meant to provide a centralized repository of information for project managers, owners, and other stakeholders to access and review project completion details.
-The form should only be filled out once the project has been completed, and its purpose is to serve as an official record of completion. To avoid duplication, make sure to only complete this form after the project has been fully finished and all necessary certifications and documents have been obtained.
-Before filling out this form, ensure that all necessary information is accurate and up-to-date. If any fields are missing or incomplete, do not submit the form.
-</thinking>
-
 # home_renovation_completion_discharge_form - Help Guide
 ## Purpose
 The home renovation completion discharge form is used to document the completion of a home renovation project, providing a centralized record of key details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Finger Windows Assessment - Help Guide
 ## Purpose
 The Finger Windows Assessment is a form used to evaluate a participant's performance and skills, including their motor and cognitive abilities. This form is typically used to assess an individual's finger dexterity, coordination, and other related skills. The assessment results are used to identify areas for improvement and development.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for pool heating adjustment requests. The purpose of this form is to collect information from pool users who wish to request changes to their pool heating settings. This form will be used internally to track and manage such requests. Please ensure that you have not already submitted a request for the same issue and that your submission is accurate and complete before proceeding.
-</thinking>
-
 # Pool Heating Adjustment Request Form - Help Guide
 ## Purpose
 The Pool Heating Adjustment Request Form is used to submit requests for changes to your pool heating settings. Please use this form to request adjustments to your pool heating.

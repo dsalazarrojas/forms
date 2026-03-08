@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # multicultural_event_booking_form - Help Guide
 ## Purpose
 This form is designed to collect information from users about a multicultural event.

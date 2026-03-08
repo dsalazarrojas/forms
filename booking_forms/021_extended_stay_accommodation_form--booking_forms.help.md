@@ -1,5 +1,3 @@
-<thinking>As the expert form designer and technical writer, I need to ensure that this form is used correctly by end-users. This form is used to collect information for extended stay accommodation booking. The purpose of this form is to gather all the necessary details required for booking a room for an extended period of time. It is crucial that the user fills in the form accurately to ensure that all the information is correct and complete.</thinking>
-
 # extended_stay_accommodation_form - Help Guide
 ## Purpose
 The extended stay accommodation form is used to collect information for booking a room for an extended period of time. It is crucial that you fill in the form accurately to ensure that all the information is correct and complete.

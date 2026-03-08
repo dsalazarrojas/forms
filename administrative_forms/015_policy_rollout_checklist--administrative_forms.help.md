@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about policy rollouts. The form is designed to help users track the status and progress of policy implementations, including new policy creation, policy titles, descriptions, types, owners, statuses, due dates, completion dates, communication plans, and review cycles. This form is likely used for administrative tasks within an organization to monitor policy updates and ensure their effective communication and review. Before filling out this form, make sure to check if a similar policy rollout checklists already exist, to avoid redundant work.
-
-</thinking>
-
 # policy_rollout_checklist - Help Guide
 ## Purpose
 The policy rollout checklist is a form used to track the status and progress of policy implementations. It collects information about new policies, their titles, descriptions, types, owners, statuses, due dates, completion dates, communication plans, and review cycles.

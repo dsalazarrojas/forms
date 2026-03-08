@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book a massage appointment. It collects information from the client, such as their contact details, massage preferences, and appointment scheduling information. The form has multiple pages or sections to accommodate different aspects of the booking process.
-</thinking>
-
 # Massage Booking Form - Help Guide
 ## Purpose
 This form is used to book a massage appointment with a therapist. It collects information about the client, massage preferences, and appointment scheduling details.

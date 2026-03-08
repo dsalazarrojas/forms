@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess the beverage knowledge of employees in the industry, particularly for bartenders, servers, and other staff members who interact with customers on a daily basis. This form is designed to gauge their understanding of various aspects of beverage preparation, including spirits, wine, beer, and cocktails, as well as their practical skills and confidence in their abilities. By completing this form, employees will be evaluated on their knowledge of beverage-related concepts and their self-assessment of their skills and areas where they need improvement.
-
-</thinking>
-
 # Beverage Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate your beverage knowledge and skills as an employee in the industry. It will cover a range of topics, from spirits and wine to beer and coffee, and will help identify areas where you need improvement.

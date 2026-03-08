@@ -1,11 +1,3 @@
-<thinking>
-To ensure that the Risk Assessment Officer Information Form is completed correctly and consistently, the following guidelines should be followed:
-
-* The form is intended to gather essential information about Risk Assessment Officers, including their personal details, job titles, department affiliations, and certifications.
-* This form should only be filled out once by each officer after onboarding.
-* The fields should be filled out accurately and consistently to ensure that the data is reliable and up-to-date.
-</thinking>
-
 # Risk Assessment Officer Information Form - Help Guide
 ## Purpose
 The Risk Assessment Officer Information Form is a crucial document that captures the essential details of Risk Assessment Officers. It helps ensure that the necessary information is gathered correctly and consistently, facilitating effective risk management and assessment within the organization.

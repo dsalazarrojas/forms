@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Auto Repair Service Inquiry Form - Help Guide
 
 ## Purpose

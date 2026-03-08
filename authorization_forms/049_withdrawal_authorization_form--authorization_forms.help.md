@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # withdrawal Authorization Form - Help Guide
 ## Purpose
 

@@ -1,15 +1,3 @@
-<thinking>
-
-This guide is intended for users who are required to complete a form for requesting work location authorization. The form is likely used for approving or denying requests for work location usage, possibly for meetings, events, or other work-related purposes. 
-
-Before completing the form, ensure you have the necessary information and approvals in place. 
-
-The form will ask you to provide personal details and specific event details such as dates, times, locations, and purpose for the request. It is also used for approval purposes and may involve managers or other stakeholders.
-
-Please review the form carefully and fill it out accurately and honestly to ensure a smooth process. 
-
-</thinking>
-
 # Work Location Authorization Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We should consider that the form purpose is to gather information to generate a quote for vehicle transport. The quote would likely be used to estimate the cost and logistics of transporting a vehicle from one location to another. To complete this form, the user would need to provide basic information about the vehicle, the pickup and delivery locations, and contact details. This form likely uses a combination of select and text fields to accommodate different types of input data. The fields should be filled in accordingly to get a accurate quote.
-</thinking>
-
 # Vehicle Transport Quote Request - Help Guide
 ## Purpose
 This form is designed to collect information to generate a quote for vehicle transport. Please fill in the required fields to provide accurate and complete information.

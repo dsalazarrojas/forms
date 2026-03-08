@@ -1,6 +1,3 @@
-<thinking>...
-</thinking>
-
 # Monthly Grant Timesheet - Help Guide
 
 ## Purpose

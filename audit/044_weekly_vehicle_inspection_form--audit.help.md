@@ -1,7 +1,3 @@
-<thinking>
-The form is for auditing a vehicle's condition and status. Its purpose is to collect information about the vehicle's make, year, and registration, and to gather the signatures of the officer and police chief involved in the audit process. This form is designed to be completed during a weekly vehicle inspection, which is likely used to monitor and maintain the vehicle's condition and identify any issues that need to be addressed.
-</thinking>
-
 # Weekly Vehicle Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about a vehicle's details and obtain signatures from the officer and police chief involved in the audit process. It helps to track the vehicle's condition and status on a weekly basis.

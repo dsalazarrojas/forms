@@ -1,19 +1,3 @@
-<thinking>
-This form is used to format an attendance sheet for a public program. The form is used to collect information about the program's category, description, assigned tool, and other relevant details. The form is designed to be completed by authorized personnel. 
-
-To ensure accuracy and consistency, please only complete this form if you have been authorized to do so. If you are unsure about your access or the purpose of this form, please consult with your supervisor or the relevant department.
-
-Before filling out this form, make sure you have all the necessary information and details about the program you are formatting.
-
-When filling out this form, please be precise and accurate in your responses. Any errors or inaccuracies may lead to delays or incorrect formatting of the attendance sheet.
-
-To avoid duplication of effort, please check if the attendance sheet has already been formatted before initiating the process.
-
-Please note that this form is only for internal use and the data collected will be used for official purposes only.
-
-Please fill out this form carefully and accurately to ensure the correct formatting of the attendance sheet.
-</thinking>
-
 # Format Attendance Sheet (Public Program) - Help Guide
 ## Purpose
 The Format Attendance Sheet (Public Program) form is used to format an attendance sheet for a public program. This form collects information about the program's category, description, assigned tool, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Request An Appointment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from patients and healthcare providers for scheduling appointments with a medical practice or specialist. This form is typically used to facilitate the process of booking appointments for various medical specialties, such as Cardiology, Pediatrics, and others.

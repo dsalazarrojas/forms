@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vehicle_idling_assessment_form - Help Guide
 ## Purpose
 The vehicle idling assessment form is designed to help assess the impact of vehicle idling on various environmental and health factors. This form helps to gather information on vehicle idling frequency, reason, and its effects on fuel consumption, air pollution, noise, vibration, heat, CO2 emissions, particulate matter, and NOx emissions. This form is typically used by fleet managers, fleet owners, or maintenance teams to assess and improve vehicle idling practices.

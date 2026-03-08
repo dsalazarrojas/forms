@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on the maintenance schedule and history of diagnostic equipment used in medical settings or other industries where diagnostic equipment is used to diagnose or treat patients. The form helps in tracking and recording the maintenance activities, safety risks, and corrective actions taken on the equipment. It ensures that the equipment is properly maintained, and potential safety risks are identified and addressed.
-</thinking>
-
 # Diagnostic Equipment Maintenance Checklist - Help Guide
 ## Purpose
 The Diagnostic Equipment Maintenance Checklist is a form designed to help medical staff or equipment managers track the maintenance history and schedule of diagnostic equipment in their institution. This form will help in keeping track of the serial numbers of the equipment, last maintenance date, and next maintenance schedule. It also allows the user to document any safety risks and corrective actions taken during maintenance.

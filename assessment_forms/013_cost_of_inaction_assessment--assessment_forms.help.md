@@ -1,8 +1,3 @@
-<thinking>
-Assessment forms are used to gather information about a project's status and potential risks. This form, specifically the "Cost of Inaction Assessment," is designed to help project managers and team members evaluate the costs associated with delaying or failing a project. The form should only be used for projects that have already been initiated or are about to start.
-
-</thinking>
-
 # Cost of Inaction Assessment - Help Guide
 ## Purpose
 This form is designed to help project managers and team members assess the costs associated with delaying or failing a project. It is intended to be used for projects that have already been initiated or are about to start.

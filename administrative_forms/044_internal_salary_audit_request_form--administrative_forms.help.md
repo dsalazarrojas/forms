@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for employees who are interested in requesting a salary audit within their organization. It is crucial to fill out this form accurately and completely to ensure that the request is processed correctly and efficiently. Before proceeding, please verify that you do not have any outstanding salary requests or audits in process. This will help us ensure that the request is not duplicated and that the audit is not performed unnecessarily.
-</thinking>
-
 # Internal Salary Audit Request Form - Help Guide
 ## Purpose
 This form is used by employees to request an internal salary audit. The audit will help review and verify the accuracy of your salary data, ensuring that it aligns with organizational guidelines and standards.

@@ -1,7 +1,3 @@
-<thinking> 
-The form is intended to be used for requesting access to sensitive areas or systems within the institution. Before proceeding, please ensure that you are submitting a new request and not duplicating an existing one. This form is used to grant access to areas or systems that are not already accessible to you, and your request will be reviewed and approved or denied by authorized personnel.
-</thinking>
-
 # Access Authorization Form - Help Guide
 ## Purpose
 This form is used to request access to sensitive areas or systems within the institution. Please fill out the form carefully and thoroughly to ensure your request is processed efficiently.

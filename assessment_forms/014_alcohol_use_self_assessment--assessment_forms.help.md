@@ -1,11 +1,3 @@
-<thinking>
-This is a self-assessment form designed to help individuals evaluate their alcohol use and identify potential areas for improvement. The purpose of this form is to gather information on an individual's drinking habits, behaviors, and feelings related to alcohol consumption. The information collected will aid in understanding personal risk factors and readiness for change.
-
-This form is intended for individuals who are concerned about their drinking habits and want to take steps towards making positive changes. It is not a clinical assessment, but rather a self-guided evaluation tool.
-
-Before proceeding, ensure that this form is not a duplicate or redundant assessment for you. If you have already taken this or a similar assessment, do not complete it again.
-</thinking>
-
 # Alcohol Use Self Assessment - Help Guide
 
 ## Purpose

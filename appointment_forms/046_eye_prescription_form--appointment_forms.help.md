@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # eye_prescription_form - Help Guide
 
 ## Purpose

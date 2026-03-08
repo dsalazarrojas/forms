@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from customers who are inquiring about custom cake orders. The form is designed to gather essential details such as the customer's name, contact information, event date, preferred cake style, number of servings required, and budget. This information will help the bakery staff to provide a prompt and accurate response to the customer's inquiry.
-</thinking>
-
 # Cake Inquiry Form - Help Guide
 ## Purpose
 The Cake Inquiry Form is used to collect information from customers who are interested in placing a custom cake order with our bakery.

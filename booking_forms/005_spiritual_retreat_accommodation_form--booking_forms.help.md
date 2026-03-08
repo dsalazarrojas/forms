@@ -3,14 +3,6 @@
 
 This form is used for booking spiritual retreat accommodations for participants. It collects necessary information for the accommodation process, including participant details, accommodation type, and payment information. Before completing this form, please ensure that you are eligible to book spiritual retreat accommodations.
 
-<thinking>Before using this form, please verify the following:
-
-* Check that you have the necessary approval or permission from relevant authorities to book spiritual retreat accommodations.
-* Make sure you have not already submitted a similar form for this purpose.
-* Review the form carefully to ensure accuracy and completeness before submission.
-
-</thinking>
-
 ## How To Complete This Form
 
 1. **Retreat Location**: Enter the location of the spiritual retreat. This is the physical address where the retreat will take place.

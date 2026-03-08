@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning: this form is primarily for requesting company assets, such as office supplies, equipment, and software, from a specific department. The form should not be used for non-work-related personal purchases. Also, please avoid submitting duplicate requests, as this can lead to confusion and delays in approval processes. Ensure the asset description is detailed and the estimated cost includes the currency. Prioritization is optional but may be required for urgent or high-value requests....</thinking>
-
 # Company Asset Purchase Request Form - Help Guide
 ## Purpose
 The Company Asset Purchase Request Form is used for requesting company assets, such as office supplies, equipment, and software, from specific departments. This form helps to track and manage requests efficiently, ensuring that the required assets are purchased and distributed effectively.

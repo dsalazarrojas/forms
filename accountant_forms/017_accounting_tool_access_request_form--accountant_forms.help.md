@@ -1,14 +1,3 @@
-<thinking>
-**Internal reasoning and checks:**
-
-This form is designed to collect information from employees requesting access to various accounting tools and systems within the organization. The form is intended to be filled out by the employee submitting the request, with their manager's approval. 
-
-The form's purpose is to gather necessary details for the access request, including the employee's name, department, and manager's name, as well as the specific tool or system being requested. The form also requires the employee to provide a business justification for the access, specify the duration of the access, and confirm that they have completed any required training for the tool. Additionally, the form includes a security acknowledgment and manager approval section to ensure that the employee is aware of and agrees to follow the security policies for the requested tool. 
-
-This form is intended to be a comprehensive and structured approach to requesting access to accounting tools and systems, with the goal of ensuring that employees have the necessary access to perform their job duties effectively while maintaining the security and integrity of the organization's financial data.
-
-</thinking>
-
 # Accounting Tool Access Request Form - Help Guide
 ## Purpose
 The Accounting Tool Access Request Form is designed to collect information from employees requesting access to various accounting tools and systems within the organization. This form ensures that employees have the necessary access to perform their job duties effectively while maintaining the security and integrity of the organization's financial data.

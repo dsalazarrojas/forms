@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from swimmers participating in a swimming championship. The purpose of this form is to gather essential details about the swimmer, including medical information, emergency contacts, and consent to participate. This form is not affiliated with any form platform and is a custom creation using AI.
-</thinking>
-
 # Swimming Championship Participation Agreement - Help Guide
 
 ## Purpose

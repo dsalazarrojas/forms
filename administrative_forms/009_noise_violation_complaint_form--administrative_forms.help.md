@@ -1,21 +1,3 @@
-<thinking>
-This form is intended to capture information about noise violations, likely from a residential or commercial property. It's used to record complaints about excessive or disturbing noise that is impacting a resident's or customer's quality of life. When completing this form, please ensure that you are reporting a genuine issue and not duplicate reporting, as the system may prevent duplicate reports if you've already filed a complaint for the same issue.
-
-To complete this form, provide the following information:
-
-- The address where the noise is occurring, including city and state.
-- The duration of the noise, which can be less than 15 minutes, 15-30 minutes, 30-60 minutes, 60-120 minutes, or more than 2 hours.
-- The type of noise, which can be one of the following: Option 1, Option 2, Option 3, or Option 4.
-- Date and time when the noise started.
-- Date and time when the noise ended.
-- A description of the noise.
-- If you'd like to attach a photo of the noise source.
-- How many times you've reported this incident.
-
-Please note that some fields are optional and you can leave them blank if not applicable.
-
-</thinking>
-
 # Noise Violation Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about noise complaints from residents or customers.

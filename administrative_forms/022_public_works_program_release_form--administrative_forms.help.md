@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information and obtain releases from participants in a public works program. The purpose of this form is to ensure that participants are aware of and understand the risks associated with the project, as well as the terms and conditions of the release. The form is designed to be completed by participants, and it will be used to verify their understanding of the project risks and terms. Before completing this form, participants should ensure they have read and understood the project details and risks, including the release terms and conditions. This form is not a substitute for other forms or agreements, and participants should not use it as such. To avoid duplication of effort, please do not submit this form if you have already completed a similar form or agreement. Please ensure that the information provided is accurate and complete.</thinking>
-
 # public-works-program-release-form - Help Guide
 ## Purpose
 The Public Works Program Release Form is used to obtain releases from participants in a public works program, verifying their understanding of project risks and terms and conditions.

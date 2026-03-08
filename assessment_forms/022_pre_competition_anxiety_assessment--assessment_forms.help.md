@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "pre-competition-anxiety-assessment" form. Before I start writing the guide, I want to check if the form purpose is clear and if it's not a duplicate of another form. Based on the provided YAML, the form is designed to collect information about an athlete's anxiety levels, symptoms, and impact before a competition. It seems to be a unique form focused on gathering specific data about anxiety in the context of sports and competition. I will now create the help guide based on this information.</thinking>
-
 # pre-competition-anxiety-assessment - Help Guide
 ## Purpose
 The "pre-competition-anxiety-assessment" form is designed to help athletes and coaches assess their anxiety levels, symptoms, and impact before a competition. This form aims to collect data that can be used to inform strategies to manage anxiety and perform better in high-pressure situations.

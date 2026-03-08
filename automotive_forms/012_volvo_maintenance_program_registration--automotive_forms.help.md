@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect information from customers for the Volvo Maintenance Program, which aims to provide maintenance and repair services for their vehicles. This form is used by customers to register their vehicles and select their preferred service center. The form is intended for customers who are interested in availing themselves of the maintenance program. The form does not require a VIN to be submitted, making it suitable for customers who do not want to provide their vehicle's unique identifier. However, it is worth noting that not providing a VIN may result in incomplete or inaccurate information about the vehicle, which may impact the maintenance process.</thinking>
-
 # volvo_maintenance_program_registration - Help Guide
 
 ## Purpose

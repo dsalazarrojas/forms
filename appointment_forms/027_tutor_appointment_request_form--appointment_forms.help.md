@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students to request a tutor appointment with one of their preferred tutors. The form collects student's name and email, selects a subject of interest, specifies the date and time of the appointment, and chooses a preferred tutor. This form is intended to be completed by students who want to meet with a tutor to discuss their subject of interest.
-</thinking>
-
 # Tutor Appointment Request Form - Help Guide
 ## Purpose
 This form is for students to schedule a meeting with a tutor. Please fill out this form carefully and accurately to ensure that we can best assist you with your needs.

@@ -1,12 +1,3 @@
-<thinking>
-This is a form for evaluating the needs and requirements of researchers and professionals working with genomics and proteomics data. The form is designed to provide a standardized assessment of the user's knowledge levels, training needs, workshop planning, and research support. This guide will help you understand each field and how to complete the form accurately.
-
-The form is designed to be completed by researchers and professionals who need to assess their knowledge levels, training needs, and other relevant factors to improve their work in genomics and proteomics. The guide will walk you through each field, explaining what each one means and how to complete it correctly.
-
-Before starting, please review the guide carefully to ensure you understand each field and its requirements. If you have any questions or need further clarification, please don't hesitate to reach out.
-
-</thinking>
-
 # Genomics And Proteomics Assessment - Help Guide
 ## Purpose
 This guide will walk you through the Genomics And Proteomics Assessment form, which is designed to evaluate your knowledge levels, training needs, and other relevant factors in genomics and proteomics. The form is essential for researchers and professionals working with genomics and proteomics data to ensure they have the necessary skills and support to excel in their work.

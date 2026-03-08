@@ -1,14 +1,3 @@
-<thinking>
-This form is used to obtain authorization for car rentals from end-users. The primary goal is to collect essential information about the renter, the vehicle, and the rental details. The form should be completed by the end-user after reviewing and agreeing to the terms and conditions of the rental. The form is used to ensure that all necessary information is collected, and the renter is aware of and agrees to the rental terms and conditions.
-
-Please ensure that you have reviewed the terms and conditions before completing this form. The form includes a variety of fields, including contact information, vehicle details, and rental agreement terms. 
-
-This form has been designed to be user-friendly and straightforward, with clear labels and instructions for each field. Please follow the instructions below to complete the form correctly.
-
-Before proceeding, please ensure that you have reviewed the form carefully and understand the terms and conditions. If you have any questions or concerns, please do not hesitate to reach out to our support team.
-
-Please note that the form has been designed to be completed once, and the information collected will be used for the sole purpose of the rental agreement.
-</thinking>
 # Car Rental Authorization Form - Help Guide
 ## Purpose
 The Car Rental Authorization Form is used to collect essential information from end-users before authorizing a car rental. This form ensures that all necessary details are collected and that the renter is aware of and agrees to the rental terms and conditions.

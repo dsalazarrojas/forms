@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees declare their pecuniary interests. Pecuniary interests refer to financial interests that may influence an employee's work or decisions. This form is used to gather information about potential conflicts of interest, ensuring that employees are aware of and disclose any relationships that could impact their work. The form is typically used in situations where employees need to declare their interests in order to maintain transparency and avoid conflicts of interest.
-</thinking>
-
 # Pecuniary Interests Declaration Form - Help Guide
 ## Purpose
 

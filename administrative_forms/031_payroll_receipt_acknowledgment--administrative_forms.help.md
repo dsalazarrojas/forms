@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the "Payroll Receipt Acknowledgment" form is to provide a way for employees to formally acknowledge receipt of their pay. This is an important step in the payroll process, as it confirms that the employee has received their payment and allows the payroll department to track this acknowledgment. 
-This form is intended to be completed by employees, but it can also be used by administrators to track employee acknowledgments. To ensure that each employee completes this form only once for each pay period, the form should be used in conjunction with the pay schedule. 
-To confirm that an employee has received their paycheck, select "Option 1" under "Confirm Receipt", and add any comments if necessary.
-</thinking>
-
 # Payroll Receipt Acknowledgment - Help Guide
 ## Purpose
 The "Payroll Receipt Acknowledgment" form is used to confirm that an employee has received their paycheck.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from suppliers for delivery schedule requests. The form will likely be used by procurement or supply chain teams to gather essential details from suppliers before processing their delivery schedule requests. The form should ask for supplier contact information, delivery dates, product specifics, and any additional relevant details that would help streamline the delivery process. To avoid duplication of effort, it's essential to ensure that the form is filled out correctly, with all necessary fields completed before submission. 
-</thinking>
-
 # Supplier Delivery Schedule Request Form - Help Guide
 ## Purpose
 

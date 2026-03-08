@@ -1,17 +1,3 @@
-<thinking>
-The form is designed to collect information for the CSR Community Impact Award nomination. The award recognizes individuals or organizations that have made a significant positive impact in the community. The form is used to submit a nomination for this award. To be eligible, the nominee must meet the award criteria, and the nominator must have a relationship with the nominee. The form is typically filled out by someone in the organization, such as an employee or partner. 
-
-To avoid duplication, the system checks for existing nominations for the same nominee. If a nomination for the same nominee is already in the system, the form will alert the user that the nomination is a duplicate and ask them to confirm they still want to proceed with the submission. 
-
-This form is used by internal stakeholders to nominate individuals or organizations for the CSR award. It is not intended to be completed by external parties. 
-
-Please note that the form requires accurate information to ensure the integrity of the nomination process. The system will ask for confirmation of accuracy after the form submission. 
-
-The form is used to collect detailed information about the nominee and their impact. This includes information about the nominee's name, contact email, category, and specific projects or results they have achieved. The form also asks for a brief executive summary and a detailed narrative about the nomination. Additionally, it asks for any supporting evidence or testimonials that can be used to support the nomination. 
-
-The form is designed to be completed in a few steps, with each step providing guidance and clarification on what information is needed. 
-</thinking>
-
 # CSR Community Impact Award Nomination Form - Help Guide
 ## Purpose
 The CSR Community Impact Award nomination form is used to submit a nomination for the award. The award recognizes individuals or organizations that have made a significant positive impact in the community.

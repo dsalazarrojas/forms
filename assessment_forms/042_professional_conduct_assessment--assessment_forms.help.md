@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of this form, let's analyze the provided YAML fields. This form appears to be related to professional conduct assessments, likely used to document incidents or issues within an organization. The form includes fields such as "Date of Incident", "Time of Incident", "Location of Incident", and "Incident Description", which suggests it's used to record and document specific events. The "Employee Name", "Supervisor Name", and "Employee Supervisor Relationship" fields imply that this form is used for HR or personnel-related purposes. The "Review Date", "Reviewer Name", "Reviewer Title", and "Reviewer Department" fields suggest that this form is used to track and record feedback or assessments from reviewers.
-
-The form seems to be used for internal purposes, such as HR or personnel assessments, and is not intended for public-facing applications.
-
-</thinking>
-
 # Professional Conduct Assessment - Help Guide
 ## Purpose
 This form is used to document and record incidents or issues within the organization, providing a structured way to collect information and assess the situation. It is used for internal purposes, such as HR or personnel assessments.

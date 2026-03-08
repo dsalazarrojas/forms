@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Player Tryout Registration Form. Before diving into the form, it's essential to understand the purpose of this form and how it's used within the organization. This form is designed to collect information from players who are interested in participating in a tryout process. The tryout process allows players to showcase their skills and potentially get selected to join a team. The information collected through this form will be used to schedule and coordinate the tryouts, as well as to verify the player's availability and contact details.
-
-To avoid duplication, users are not required to create duplicate entries. If a player has already registered for a tryout, they will not be allowed to create a new entry for the same tryout.
-
-</thinking>
-
 # Player Tryout Registration Form - Help Guide
 ## Purpose
 The Player Tryout Registration Form is a form used to collect information from players interested in participating in a tryout process. This form is used to schedule and coordinate tryouts, as well as to verify player availability and contact details.

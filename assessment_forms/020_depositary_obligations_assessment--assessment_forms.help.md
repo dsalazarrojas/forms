@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Depositary Obligations Assessment" form, I must first understand the form's purpose and ensure I don't duplicate any existing guidance. The form is intended to gather information about depositary obligations, which seem to be financial assessments or evaluations. This is likely used to gather data for financial institutions or regulators to monitor or assess the financial stability of a depositary. It's possible that this form is used to report or assess depositary obligations for regulatory purposes.
-</thinking>
-
 # Depositary Obligations Assessment - Help Guide
 ## Purpose
 The "Depositary Obligations Assessment" form is used to gather information about depositary obligations, which are financial assessments or evaluations. This form helps financial institutions or regulators monitor or assess the financial stability of a depositary.

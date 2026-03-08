@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for facility maintenance check out purposes, such as tracking borrowed equipment or tools. This guide will walk you through each field of the form to ensure you complete it accurately and efficiently.
-The form consists of four fields: equipment_borrowed, equipment_return_date, assigned_tool, and note.
-</thinking>
-
 # Facility Maintenance Check Out Form - Help Guide
 ## Purpose
 The Facility Maintenance Check Out Form is used to track equipment and tools borrowed for maintenance purposes. This form helps to ensure that all borrowed items are accounted for and returned on time.

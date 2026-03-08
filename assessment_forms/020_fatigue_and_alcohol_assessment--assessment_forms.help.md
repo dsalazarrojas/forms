@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This help guide is intended to assist users in understanding the purpose and procedure for completing the Fatigue And Alcohol Assessment form. 
 
 The form is used to assess an employee's fatigue and potential exposure to alcohol, ensuring that they are fit for work and that any issues are addressed promptly. The information collected will help in identifying any patterns or trends in fatigue and alcohol usage that may impact work performance or safety. 

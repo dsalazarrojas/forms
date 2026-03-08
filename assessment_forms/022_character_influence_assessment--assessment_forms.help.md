@@ -1,6 +1,3 @@
-<thinking>
-A Character Influence Assessment form is used to evaluate the influence of a character within a story or media on the audience, cultural significance, and the overall narrative arc. This form guides assessors in gathering and rating information about the character's role in the story, their cultural influence, and their emotional impact on the audience. It aims to help assessors provide a comprehensive and objective analysis of the character's influence. This form should not be used to duplicate effort or analysis that has already been done previously, as it is designed to provide new insights and assessments.</thinking>
-
 # Character Influence Assessment - Help Guide
 ## Purpose
 The Character Influence Assessment form is used to evaluate the influence of a character on the audience, cultural significance, and narrative arc. It gathers information about the character's role in the story, their cultural influence, and their emotional impact on the audience.

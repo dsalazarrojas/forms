@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Manufacturing Process Efficiency Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the efficiency of a manufacturing process. This assessment is used to evaluate the process's current state and provide a score and rating to identify areas for improvement. This form is designed to be completed by process owners, supervisors, or other relevant personnel to provide a comprehensive evaluation.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's readiness for marriage, covering various aspects of their current relationship status, communication styles, conflict resolution, and expectations for the future. The form aims to gather information about the individual's thoughts, feelings, and plans for their relationship, as well as their partner's role and expectations. The questions are meant to be a starting point for self-reflection and discussion with a partner.
-
-Before filling out this form, please note that it is not a professional evaluation or assessment, and the results should not be considered as a definitive indicator of one's readiness for marriage. The form is designed to be a personal and introspective exercise.
-
-</thinking>
-
 # Marriage Readiness Assessment Form - Help Guide
 ## Purpose
 This form is designed to help individuals assess their readiness for marriage, covering various aspects of their current relationship status, communication styles, conflict resolution, and expectations for the future.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect and track information related to mobile money transfer requests. It's intended to be used by users with access control permissions to review and manage requests. This form should not be completed by users without the necessary access control permissions, as it contains sensitive information.
-
-</thinking>
-
 # Mobile Money Transfer Access Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to gather information about research grant proposals. This form helps users provide details about their research project, funding requirements, and institutional reviews. The form is likely used by researchers and administrative staff to streamline the process of submitting and evaluating research grant proposals.
 
 <del>

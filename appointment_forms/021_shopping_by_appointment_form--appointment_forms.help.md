@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # shopping_by_appointment_form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is for submitting industrial hazard control reports to the relevant authorities. This form is designed to gather information about industrial hazards, including their type, location, and the corrective actions taken to address them. The form is used to track the progress and status of these reports, including follow-up actions and any assigned tasks. This guide will help you understand each field of the form and ensure that you complete it accurately and thoroughly.
-
-</thinking>
-
 # industrial_hazard_control_report_form - Help Guide
 ## Purpose
 This form is used to report industrial hazards that require immediate attention to prevent accidents or injuries. The form is a crucial tool for ensuring that hazards are identified, reported, and addressed promptly.

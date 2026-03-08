@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book a slot for a vendor inspection. The purpose of this form is to collect information from the supplier to schedule an inspection at a mutually convenient time. The form is designed to be filled out by the supplier to provide their contact information and preferred inspection dates and times. This form is meant to be filled out by the supplier, not by the person requesting the inspection. It's essential to fill out this form correctly to ensure that the inspection can be conducted smoothly.
-</thinking>
-
 # Vendor Inspection Slot Booking Form - Help Guide
 ## Purpose
 This form is used to book a slot for a vendor inspection. The purpose of this form is to collect information from the supplier to schedule an inspection at a mutually convenient time.

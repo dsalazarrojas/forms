@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow customers to book an appointment for shoe services such as repair, shine, and maintenance. The form should only be used by customers who want to schedule a service, not by service providers. To ensure that the service provider and customer are matched correctly, the form requires a service provider to be selected, but it's not required. The form also captures additional information about the appointment, including the service date, service time, customer name, shoe description, customer phone number, customer email, and any additional comments. This form is intended to be used for internal purposes within the company, so the appointment ID is not actually used for anything but can be filled in by the customer for their records.
-</thinking>
-
 # shoe_service_appointment_booking - Help Guide
 ## Purpose
 This form is used to book an appointment for shoe services such as repair, shine, and maintenance. Please fill out the form to schedule a service with one of our providers.

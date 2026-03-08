@@ -1,15 +1,3 @@
-<thinking>
-The purpose of the Ultimate Frisbee Skills Assessment Form is to help athletes evaluate their skills and abilities in the sport of Ultimate Frisbee. This form is designed to collect information about an athlete's experience, skill levels, and preferences, which can be used to identify areas of strength and weakness, and provide personalized coaching or training recommendations. 
-
-The form is intended for athletes who are looking to improve their skills or prepare for competitions. It is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using AI.
-
-Before proceeding, please note that the form does not collect any sensitive or personal information, and any data collected will be used solely for the purpose of providing guidance and support.
-
-Please ensure that you answer the questions accurately and honestly, as the form's purpose is to help you understand your skills and abilities, and provide valuable insights to help you improve.
-
-If you have any concerns or questions about the form, please contact [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Ultimate Frisbee Skills Assessment Form - Help Guide
 ## Purpose
 The Ultimate Frisbee Skills Assessment Form is designed to help athletes evaluate their skills and abilities in the sport of Ultimate Frisbee. This form will collect information about your experience, skill levels, and preferences to provide personalized coaching or training recommendations.

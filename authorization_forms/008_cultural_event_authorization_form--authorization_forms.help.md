@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for event organizers to request authorization for cultural events. This form aims to gather essential details and necessary information from the event organizers to ensure that their events are properly approved and meet the required standards. The form should only be used for events that are truly cultural in nature, and not for any other type of event. To avoid duplication, please check if a similar event has been authorized in the past and use the form only if it's a new event or a significantly different iteration of a previously authorized event.
-</thinking>
-
 # Cultural Event Authorization Form - Help Guide
 ## Purpose
 The Cultural Event Authorization Form is designed to help event organizers request authorization for cultural events that align with our organization's standards and guidelines. Please use this form to provide detailed information about your event, ensuring a smooth approval process.

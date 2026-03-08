@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to help attendees of a career fair provide information about themselves and their interests. The purpose of this form is to ensure attendees have a smooth experience at the fair by providing necessary details to organizers and participants. Please do not fill out this form if you have already filled out the same information in a previous form.
-</thinking>
-
 # Career Fair Attendance Form - Help Guide
 
 ## Purpose

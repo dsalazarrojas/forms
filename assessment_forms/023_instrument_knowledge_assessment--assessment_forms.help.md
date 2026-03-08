@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Instrument Knowledge Assessment - Help Guide
 ## Purpose
 The Instrument Knowledge Assessment form is designed to measure an individual's knowledge and skills in playing a music instrument. This form is used to evaluate the user's level of proficiency in various aspects of music, including instrument-specific knowledge, practice habits, and performance level.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about lighting failure incidents. It is intended for use by employees in the facilities management team to report and track lightings issues. Please ensure that you're filling this form for a specific, unique incident and not duplicating an existing report. This form will help you to efficiently gather and document details about the incident, which will aid in the analysis and resolution of the issue.
-</thinking>
-
 # Lighting Failure Incident Form - Help Guide
 ## Purpose
 The Lighting Failure Incident Form is a tool used to collect and document information about lighting failures that have occurred on campus. This form helps the facilities management team to efficiently track and investigate these incidents, and to identify potential solutions to prevent similar issues in the future.

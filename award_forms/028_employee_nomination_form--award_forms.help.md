@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from employees for the purpose of nomination, which could include recognizing and rewarding outstanding employee work, providing feedback on a job well done, or other similar use cases. It's essential to ensure that only one nomination is submitted per employee at a time, as multiple nominations may lead to duplicate or redundant recognition. Please verify that the employee has not been previously nominated, and only submit this form if it's a genuine new nomination.
-</thinking>
-
 # Employee Nomination Form - Help Guide
 
 ## Purpose

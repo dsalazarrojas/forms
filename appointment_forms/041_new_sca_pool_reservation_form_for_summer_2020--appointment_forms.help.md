@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to reserve a pool for a specific time period during the summer of 2020. The form is designed to gather information from users about their reservation preferences, including pool name, start and end dates, capacity, number of people, time of day, reservation status, reserved by, and any comments. To avoid duplicate reservations, the form will ask for internal staff to review and verify the reservation details before confirming it. This ensures that the reservations are accurate and up-to-date.
-</thinking>
-
 # NEW SCA Pool Reservation Form For Summer 2020 - Help Guide
 ## Purpose
 This form is used to reserve a pool for a specific time period during the summer of 2020. Fill out the form to request a pool reservation for a specified date and time.

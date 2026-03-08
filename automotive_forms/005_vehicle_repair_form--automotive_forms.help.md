@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to provide a structured and efficient way to collect and document vehicle repair information. This form will help you gather and store relevant details about the vehicle's condition, problems, and repair work done. It's a multipage form with a lot of fields that might appear overwhelming at first, but they are categorized into logical sections to make it easier to navigate. The form is meant to be used by mechanics, service managers, and other automotive professionals to ensure accurate and complete repair reporting. Please review this guide carefully to understand each field's purpose and requirement. If you are unsure about any field, you can refer to this guide and the form's labels for clarity.
-</thinking>
-
 # vehicle_repair_form - Help Guide
 ## Purpose
 The vehicle repair form is a comprehensive tool designed to collect and document vehicle repair information. It is intended for use by mechanics, service managers, and other automotive professionals to ensure accurate and complete repair reporting.

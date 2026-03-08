@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to request an adjustment to their sales commission. To ensure accuracy and efficiency, please make sure you understand the purpose of this form and that you have completed all the necessary information before submitting it.
-This guide will walk you through the form and its sections. Please review each section carefully and follow the instructions to complete the form correctly.
-</thinking>
-
 # Sales Commission Adjustment Request Form - Help Guide
 ## Purpose
 This form is used to request adjustments to your sales commission. If you need to make changes to your commission payment, please use this form to provide the necessary information.

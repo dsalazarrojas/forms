@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to facilitate the scheduling and administration of court hearings. It gathers information necessary to organize and manage court hearings, including details about the case, participants, and hearing status. Each field is designed to capture relevant information to ensure accurate and efficient court proceedings. Before filling out this form, ensure you have all the necessary information required for your hearing.
 
 # court_hearing_appointment_form - Help Guide

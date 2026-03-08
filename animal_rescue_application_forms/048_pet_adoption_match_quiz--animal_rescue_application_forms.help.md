@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in filling out the Pet Adoption Match Quiz form, which is designed to help match potential adopters with suitable pets. The form is part of a larger pet adoption process and aims to gather information about the adopter's lifestyle, preferences, and circumstances to find the best match for them and the pet.
-
-Before proceeding, please ensure that you are filling out this form for the purpose of adopting a pet. If you have already completed a similar form for pet adoption, please do not repeat your answers. Your input will be used to provide recommendations for pet adoption, and it is essential to ensure that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Pet Adoption Match Quiz - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for payment requisitions. The purpose of this form is to provide a straightforward way to request payments for various purposes. The information collected will be used to create a payment request, which can be used for further processing and tracking. This form is typically used in a financial setting to gather details about a payment, such as the amount, method, and due date. Before proceeding with the form, ensure that all relevant information is accurate and complete, as it will be used for processing the payment request.</thinking>
-
 # Payment Requisition Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-The Parade Safety Assessment Form is used to collect information about a parade event, including contact information, emergency contacts, and event details. This form helps ensure that all necessary safety measures are taken into account before the event. Please make sure to fill in all required fields to provide accurate and comprehensive information.
-
-This form should only be used for parade events. If you're looking for other types of event safety assessments, please use the corresponding form.
-</thinking>
-
 # Parade Safety Assessment Form - Help Guide
 ## Purpose
 The Parade Safety Assessment Form is used to collect information about a parade event, including contact information, emergency contacts, and event details. This form helps ensure that all necessary safety measures are taken into account before the event.

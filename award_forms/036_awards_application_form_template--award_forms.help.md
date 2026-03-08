@@ -1,19 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll need to understand the purpose and relevance of the form, as well as the specific fields and their requirements. Based on the provided YAML structure, it appears that this form is intended to collect information from applicants for an awards program, likely for recognition or accolades in a particular field or industry.
-
-The form has several sections, including:
-
-*   "Applicant and Organization" which includes fields for the applicant's name, email, phone number, and organization/business name.
-*   "Award Entry and Project Details" which includes fields for the award category, project title, project summary, project description, project start date, and project end date.
-*   "Additional Information" which includes fields for team members, supporting documents, social media links, and referral source.
-*   "Terms and Agreement" which includes a field for agreeing to the award rules and terms of entry.
-
-The form seems to be designed to gather essential information about the applicant and their project, as well as their acceptance of the award rules and terms. It's likely that this form is used for internal evaluation and review processes within an organization or institution.
-
-Before proceeding, I'll assume that the form is intended for a general audience, and the provided fields are designed to collect relevant and necessary information for the award evaluation process.
-
-</thinking>
-
 # Awards Application Form Template - Help Guide
 
 ## Purpose

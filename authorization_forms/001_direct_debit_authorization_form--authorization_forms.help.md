@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Direct Debit Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization from customers for direct debit payments. It collects information about the customer's bank account and payment preferences to facilitate direct transactions.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a social security application appointment, which is a critical process for individuals seeking social security benefits. 
-The form is divided into different sections, and users are expected to fill in relevant information for each section. 
-This form should not be filled out if the user has already scheduled an appointment or has already submitted a social security application.
-</thinking>
-
 # Social Security Application Appointment Form - Help Guide
 ## Purpose
 The Social Security Application Appointment Form is a crucial form that collects information for a social security application appointment. This form ensures that the necessary details are captured for the appointment, making it a seamless process for the user.

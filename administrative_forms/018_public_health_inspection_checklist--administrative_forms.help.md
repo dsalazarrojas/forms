@@ -1,18 +1,3 @@
-<thinking>
-This guide is intended to provide a clear and concise explanation of the "public_health_inspection_checklist" form, which is a crucial tool for ensuring that facilities maintain high standards of public health and safety. The form is designed to guide inspectors and facility owners through the process of identifying and addressing potential risks and issues that could impact public health.
-
-Before starting the form, please ensure that the facility being inspected has not been previously evaluated. If it has, skip this form and refer to the previous inspection report instead. 
-
-This guide will walk you through the fields on this form, explaining the purpose and use of each, so you can complete it accurately and efficiently.
-
-Please note that the completion of this form requires administrative access to the facility being inspected. Only authorized personnel or designated inspectors should access and complete the form.
-
-This form is divided into sections, each with a specific purpose. The "Facility Information" section collects essential details about the facility, including its name, address, and type. The "Inspection" section captures information about the inspection date and the status of the facility after inspection.
-
-The "Regulations" section identifies areas that require compliance with health and safety regulations. Inspectors will select all relevant regulations that apply to the facility from the provided options. The "Deficiencies" section allows inspectors to report any observed issues or non-compliances. Finally, the "Additional Comments" section provides space for inspectors to record any additional observations or concerns.
-
-</thinking>
-
 # public_health_inspection_checklist - Help Guide
 ## Purpose
 This form is used by authorized personnel or designated inspectors to collect information about the public health and safety status of a facility. It's essential for identifying and addressing potential risks and issues that could impact public health.

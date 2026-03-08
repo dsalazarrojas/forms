@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for an eye exam inquiry. The form will be used to gather details about the patient's visit, including their personal information, doctor information, and details about previous exams. The purpose of this form is to ensure that the patient's medical history is accurately recorded and that the necessary information is provided to the healthcare provider for the examination. This form should only be filled out by patients who are scheduled to have an eye exam and are seeking to inquire about their upcoming visit. Please do not fill out this form if you have already had your eye exam.
-</thinking>
-
 # Eye Exam Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients for an eye exam inquiry. The purpose of this form is to gather details about the patient's visit, including their personal information, doctor information, and details about previous exams.

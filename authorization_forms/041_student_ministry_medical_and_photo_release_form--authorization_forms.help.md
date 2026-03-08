@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect medical and photo release information for students. The purpose of this form is to obtain necessary medical information and permissions for a student to participate in ministry events or activities. This information will be used to ensure the student's safety and well-being, as well as to capture any necessary photo permissions for event documentation or promotional materials. This form should only be completed once per student, and any duplicate submissions should be reviewed and approved by a designated authority.
-</thinking>
-
 # Student Ministry Medical And Photo Release Form - Help Guide
 ## Purpose
 This form is used to collect medical and photo release information for students participating in ministry events or activities. It helps to ensure their safety and well-being, and captures necessary permissions for event documentation or promotional materials.

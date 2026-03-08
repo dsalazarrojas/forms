@@ -1,5 +1,3 @@
-<thinking>As a professional risk assessor, this form is designed to help you evaluate and document the potential risks associated with a specific workplace or process. This form is part of a comprehensive risk assessment process that identifies and prioritizes risks to ensure a safe working environment. Before proceeding, please ensure that you have completed all previous forms related to risk assessments and have the necessary permissions to access the data being assessed. Duplicate forms are not allowed and will be discarded upon discovery.</thinking>
-
 # professional-risk-assessment-questionnaire - Help Guide
 ## Purpose
 The Professional Risk Assessment Questionnaire is a comprehensive tool used to evaluate and document potential risks associated with a specific workplace or process. This form is part of a broader risk assessment process that identifies and prioritizes risks to ensure a safe working environment.

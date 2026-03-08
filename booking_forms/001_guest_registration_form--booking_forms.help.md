@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to collect information about the guest, including their name, email, phone number, and address. The form's purpose is to ensure that we have the necessary details to provide excellent service and respond to any queries or issues they may have during their stay. This form should be completed only once per guest. If a guest has already registered previously, they do not need to complete this form again.
-
-</thinking>
-
 # Guest Registration Form - Help Guide
 ## Purpose
 The Guest Registration Form is a mandatory form that helps us collect essential information about each guest. This form is designed to ensure a smooth and enjoyable stay for our guests.

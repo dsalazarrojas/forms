@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for long-term stays in a facility, likely a residential or care environment. It's intended to gather information about the applicant's health, medical history, and emergency contacts to ensure their well-being and safety while in the facility. This form will check for duplication and relevance of the information provided to ensure accuracy and consistency.
-
-</thinking>
-
 # Long Term Stay Admission Form - Help Guide
 ## Purpose
 The Long Term Stay Admission Form is used to gather essential information about an individual's health, medical history, and emergency contacts. This form is required for all applicants who will be staying in the facility for an extended period.

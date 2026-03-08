@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from players for a baseball league. The form is divided into several sections, each with a specific set of fields that require different types of information. This guide will walk you through each section and field, explaining what to expect and how to complete it.
-
-Before starting, please note that this form is required for all players registering for the league, and providing accurate information is crucial for proper team management and player safety.
-
-</thinking>
-
 # Baseball League Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information from players for a baseball league. It is essential to complete this form accurately and truthfully to ensure proper team management and player safety.

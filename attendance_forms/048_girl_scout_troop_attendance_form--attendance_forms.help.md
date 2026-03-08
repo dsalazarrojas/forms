@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Girl Scout Troop Attendance Form - Help Guide
 ## Purpose
 This form is designed to record attendance details for Girl Scout troop activities. Fill out this form to report attendance at meetings, events, or other troop gatherings. The information collected will help the troop leaders track attendance and stay organized.

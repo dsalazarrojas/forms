@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for booking office desks for meetings, events, or personal use. This guide is for end-users who want to understand the purpose and functionality of the form. To avoid confusion, please review the form's structure and purpose before proceeding. This guide assumes you are familiar with basic form concepts.
-
-</thinking>
-
 # Office Desk Booking Form - Help Guide
 
 ## Purpose

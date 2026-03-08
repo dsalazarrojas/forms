@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for users who attend church events and services. It gathers information to understand their experience and preferences. The purpose of this form is to help the church staff follow up with the visitors and provide them with relevant information, services, and support. This form is not intended for non-visiting members of the community.
-
-The form is not a duplicate of any other form in the system, and it's designed to be completed by visitors once per visit.
-
-Please note that the form is composed of multiple pages with fields for different types of information: registration date, visit type, personal information, interests, and other details.
-
-</thinking>
-
 # Church Attendance Registration Form - Help Guide
 ## Purpose
 The Church Attendance Registration Form is designed to help visitors register their attendance after visiting the church. It collects information about their visit, personal details, and preferences to ensure a smooth and welcoming experience for all visitors.

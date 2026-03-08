@@ -1,8 +1,3 @@
-<thinking>
-This form is used to book a holiday treehouse. It gathers information about the start and end dates of the stay, the number of guests, and any special requests the guests might have. This form is likely to be used by users who are interested in booking a holiday treehouse for a specific period of time.
-To ensure this form is used correctly, it's essential to note that the start date should be the date the booking is for, not the current date. The form should only be filled out once a user has selected a treehouse that suits their needs.
-</thinking>
-
 # holiday_treehouse_booking_form - Help Guide
 ## Purpose
 The holiday treehouse booking form is used to book a holiday treehouse for a specific period of time. It asks for the start and end dates of the stay, details about the guests, and any special requests they may have.

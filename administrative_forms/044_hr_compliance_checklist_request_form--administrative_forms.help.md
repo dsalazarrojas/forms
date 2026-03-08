@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request HR compliance checks for employees. This form is used to collect information related to employee details, job specifics, and other relevant data for HR compliance purposes.
-</thinking>
-
 # HR Compliance Checklist Request Form - Help Guide
 ## Purpose
 This form is used to request HR compliance checks for employees. It is essential to fill out this form accurately and completely to ensure that all necessary information is collected.

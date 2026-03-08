@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to facilitate the approval process for room design packages. It is intended for use by authorized personnel to review and validate the design details of a room, ensuring that all necessary information is accurate and complete. This form should not be used for other purposes, such as submitting new room designs. To confirm that this form is being used correctly, please make sure to:
-
-*   Select "Yes" for fields where the room design package meets the specified criteria.
-*   Select "No" for fields where the room design package does not meet the specified criteria.
-*   Only upload files that are related to the room design package.
-*   Ensure that each file type is correctly selected for each upload field.
-
-</thinking>
-
 # Room Design Approval Upload Form - Help Guide
 ## Purpose
 The Room Design Approval Upload Form is used to collect and validate the room design package details from authorized personnel. The form helps ensure that all necessary information is accurate and complete before approval.

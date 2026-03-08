@@ -1,5 +1,3 @@
-<thinking>Before creating this form, please note that the form is intended to be used for requesting jewelry displays for events. This form will be reviewed by the relevant authorities to ensure that the display aligns with the company's display policies. Please ensure that you provide accurate and relevant information to avoid delays in processing your request. Also, check that you are not duplicating an existing request for the same event.</thinking>
-
 # Jewelry Display Requisition Form - Help Guide
 ## Purpose
 This form is used to request a jewelry display for an event. Please fill out the form accurately and completely to help us process your request efficiently.

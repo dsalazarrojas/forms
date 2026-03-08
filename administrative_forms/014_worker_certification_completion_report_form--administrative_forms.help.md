@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for worker certification completion reports. It's intended to capture data on worker's name, contact details, certification details, and other related information. Before filling out this form, please check if you've already submitted the certification completion report and if it's not duplicated in the system. This form is not meant for supervisors or other users who are not workers. 
 
 </thinking>

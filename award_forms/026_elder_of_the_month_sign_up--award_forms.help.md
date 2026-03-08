@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to nominate an employee for the "Elder Of The Month" award. The "Elder Of The Month" award is given to an employee who has made significant contributions to the team and has demonstrated outstanding performance. This form is used to submit a nomination for a deserving employee.
 
 Before filling out this form, please ensure that you are not duplicating a nomination that has already been made for the same employee. If you are unsure about the employee's status, please check with the internal team to avoid unnecessary work.

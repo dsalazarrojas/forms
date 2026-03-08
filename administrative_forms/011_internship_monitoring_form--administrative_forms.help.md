@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # internship_monitoring_form - Help Guide
 ## Purpose
 The Internship Monitoring Form is used to track and monitor the progress of an intern's work. This form is meant to be filled out by the intern and their supervisor to provide an update on the intern's performance, progress, and completion status.

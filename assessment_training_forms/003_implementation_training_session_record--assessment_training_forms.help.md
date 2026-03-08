@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to record information about implementation training sessions. It captures details such as session name, participants, notes, and other relevant information. The form is designed to be used in a training context where sessions are conducted by trainers.
-
-Before starting to fill out this form, please make sure that you have all the necessary information ready. If you are a trainer, ensure that you are filling out the form for the correct session. 
-
-Please note that some fields are optional and only required for completeness. For example, while session notes and additional information are useful, they are not necessary for the form to be complete.
-</thinking>
-
 # Implementation Training Session Record - Help Guide
 ## Purpose
 The "Implementation Training Session Record" form is designed to document and record key information about implementation training sessions. This form helps trainers and administrators keep track of session details, participants, and other relevant information.

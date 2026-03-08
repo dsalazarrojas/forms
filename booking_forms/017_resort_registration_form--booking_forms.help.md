@@ -1,8 +1,3 @@
-<thinking>
-This form is for guests to register for a resort stay. It is intended to gather information about the guest, including their name, contact information, and reservation details. This form should not be used for any other purpose. To avoid duplication, please ensure that the guest's information is not already stored in the system before submitting it through this form.
-
-</thinking>
-
 # Resort Registration Form - Help Guide
 ## Purpose
 The Resort Registration Form is used to collect information from guests about their stay at the resort. This form is designed to gather essential details about the guest and their preferences.

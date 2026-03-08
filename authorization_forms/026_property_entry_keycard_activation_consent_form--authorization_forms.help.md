@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect user consent and information for property entry keycard activation. It should only be used for this specific purpose, and it's not intended for general user feedback or registration. The form is designed to capture the following information:
-- First name
-- Last name
-- Email
-- Phone number
-- Date of submission
-- Time of submission
-
-Before filling out this form, please check if you've already completed a similar form for this property entry keycard activation. This will save you time and ensure you don't submit duplicate information.
-
-</thinking>
-
 # property_entry_keycard_activation_consent_form - Help Guide
 ## Purpose
 This form is used to collect user consent and information for property entry keycard activation.

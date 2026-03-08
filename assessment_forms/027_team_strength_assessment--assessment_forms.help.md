@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the strength of a team in various aspects. The purpose of this form is to gather information about a team's ability to collaborate, perform, and maintain positive team dynamics. It is not intended to be used as a comprehensive evaluation tool, but rather as a quick reference point for team members to reflect on their team's strengths and weaknesses. Please ensure that this form is completed by team members who are familiar with the team's dynamics and have a clear understanding of the team's goals and objectives. If a team member has completed this form previously, please do not complete it again. This form should only be completed once per team.
-</thinking>
-
 # team_strength_assessment - Help Guide
 ## Purpose
 The team_strength_assessment form is designed to assess the strength of a team in various aspects, including team strengthening, team collaboration, team dynamics, and team performance.

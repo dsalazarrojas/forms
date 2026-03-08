@@ -1,8 +1,3 @@
-<thinking>
-This form is for loan guarantee participation applications. Please review your eligibility and ensure you haven't applied before. This form is for individuals who want to participate in a loan guarantee program. Please fill out the form accurately and provide necessary information for a smooth evaluation process.
-
-The form has multiple pages, but each page is designed to gather specific information. Please fill out each page carefully and ensure you've reviewed all required fields.</thinking>
-
 # Loan Guarantee Participation Application Form - Help Guide
 
 ## Purpose

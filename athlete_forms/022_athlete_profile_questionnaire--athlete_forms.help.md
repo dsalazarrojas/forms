@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant information about an athlete, including personal details such as name, contact information, and athletic background. This information will help the organization or institution administering this form to assess the athlete's eligibility, abilities, and other relevant factors. It is essential to ensure the accuracy and completeness of the information provided.
-Before proceeding, please verify that you are eligible to submit this form and that the information you provide is correct and up-to-date. If you have any doubts or concerns, please clarify them before continuing.
-</thinking>
-
 # Athlete Profile Questionnaire - Help Guide
 ## Purpose
 The Athlete Profile Questionnaire is designed to collect essential information about you as an athlete. This form is used to assess your eligibility, athletic background, and other relevant factors.

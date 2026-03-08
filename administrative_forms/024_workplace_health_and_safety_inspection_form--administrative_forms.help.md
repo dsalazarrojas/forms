@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended for the Workplace Health And Safety Inspection Form, which is a crucial tool for ensuring a safe working environment. 
-This form is used to gather information about the status of health and safety in the workplace, including environmental conditions, equipment, health and safety practices, and other relevant factors. 
-The form is used to collect data for the purpose of identifying potential hazards and taking corrective actions to mitigate them. 
-This data will help management and safety experts make informed decisions to improve workplace health and safety. 
-Please ensure that you are not duplicating data collection efforts by completing this form. 
-If you are unsure about the purpose or relevance of this form, please consult your supervisor or a member of the health and safety team. 
-It's also worth noting that this form should be kept confidential, as it contains sensitive information about the workplace environment and its conditions. 
-</thinking>
-
 # Workplace Health And Safety Inspection Form - Help Guide
 
 ## Purpose

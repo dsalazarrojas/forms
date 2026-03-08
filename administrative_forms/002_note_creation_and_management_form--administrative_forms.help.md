@@ -1,34 +1,3 @@
-<thinking>
-The form is designed to collect and manage notes and meetings records. The form has two main sections: "Meeting Record" and "Additional Settings". 
-The "Meeting Record" section has the following fields:
-* Meeting Record: A text field to record the meeting details.
-* Category: A dropdown menu to select the meeting category.
-The "Additional Settings" section has the following fields:
-* Note: A text field to add additional comments.
-* Update Frequency: A dropdown menu to schedule the updates.
-* Reminder: A multi-select menu to select reminder frequencies.
-* Due Date: A date field to set the deadline.
-* Due Time: A time field to set the time.
-* Shared Users: A multi-select menu to select shared users.
-* Shared Groups: A multi-select menu to select shared groups.
-* Assigned User: A dropdown menu to assign a user.
-* Assigned Tool: A dropdown menu to assign a tool.
-* Note Status: A dropdown menu to set the note status.
-* Note Priority: A dropdown menu to set the note priority.
-* Note Tags: A multi-select menu to add tags.
-* Note Comments: A text field to add comments.
-* Note File: A text field to add a file.
-* Note File Type: A dropdown menu to set the file type.
-* Note Category: A multi-select menu to add categories.
-* Created By: A dropdown menu to set the creator.
-* Updated By: A dropdown menu to set the updater.
-* Creation Date: A date field to set the creation date.
-* Updated Date: A date field to set the updated date.
-* Updated Time: A time field to set the updated time.
-* Notes: A rich text field to add notes.
-
-</thinking>
-
 # note_creation_and_management_form - Help Guide
 ## Purpose
 

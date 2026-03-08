@@ -1,13 +1,3 @@
-<thinking>
-This guide will walk you through the Sauna Use Waiver form, which is designed to gather essential information from users prior to using a sauna facility. The form aims to ensure that users have provided the necessary details about themselves and their emergency contacts, in case of any unexpected situations that may arise during or after their visit. 
-
-Before filling out this form, please note that all fields are optional unless otherwise specified. Please only fill out the fields that are relevant to you or your emergency contact. This will help us keep your data as minimal as possible.
-
-If you're unsure about any of the fields or questions, do not hesitate to ask for clarification. 
-
-Please proceed to fill out the form in the following steps and sections.
-</thinking>
-
 # Sauna Use Waiver - Help Guide
 ## Purpose
 The Sauna Use Waiver form is designed to gather essential information from users prior to using a sauna facility. This form aims to ensure that users have provided the necessary details about themselves and their emergency contacts, in case of any unexpected situations that may arise during or after their visit.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is likely to guide users through the procurement planning process, helping them select and organize suppliers, gather their information, and decide on payment methods and schedules. The form might be used by procurement or purchasing teams to streamline their work and ensure accurate information collection. 
-This form should be reviewed to avoid duplication with existing forms and make sure its fields are not covered by other forms with the same purpose.
-</thinking>
-
 # procurement_planning_checklist_form - Help Guide
 ## Purpose
 The procurement planning checklist form is designed to guide users through the procurement planning process, helping them collect necessary information and make informed decisions.

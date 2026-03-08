@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an authorization server configuration request. It's intended for users to provide details about their specific authorization needs, including the type of authorization required, the project or application name, and other relevant information. This form will help the support team understand the user's requirements and provide accurate assistance. Please fill out this form carefully and thoroughly to ensure that your needs are properly documented.
-
-</thinking>
-
 # Authorization Server Configuration Request - Help Guide
 ## Purpose
 This form is for users to request specific authorization configurations for their projects or applications. It's essential to provide accurate and detailed information to ensure that the support team can provide proper assistance.

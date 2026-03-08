@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be assessing an organization's data security and consent management practices, possibly for compliance or risk evaluation purposes. The assessment covers various aspects of data security, including risk assessment, consent management, security controls, vendor security controls, and review of existing practices. It's essential to ensure the form is completed thoroughly and accurately to provide a comprehensive evaluation of the organization's data security and consent management.
-</thinking>
-
 # Data Security And Consent Management Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate an organization's data security and consent management practices, ensuring that all relevant information is collected to assess the current state of these practices.

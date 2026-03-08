@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect and store information about the health status of pets in an animal shelter. This includes various fields to capture the pet's medical history, medical status, medications, vaccination information, and other relevant details. The form is likely used by animal shelter staff to keep accurate and up-to-date records about the pets in their care. This form should serve as a reference point for staff to quickly and accurately access information about the health and status of the pets in the shelter, making it easier to provide proper care and handling. It is assumed that the form will be used for internal purposes only and not intended for public access or external sharing. The goal is to ensure that all the information is recorded consistently and accurately.
-</thinking>
-
 # Pet Health Record Form - Help Guide
 ## Purpose
 The Pet Health Record Form is designed to collect and store essential information about the health status and medical history of pets in an animal shelter. This form helps staff keep accurate and up-to-date records, ensuring proper care and handling for the pets.

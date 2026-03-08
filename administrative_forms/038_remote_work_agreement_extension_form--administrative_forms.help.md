@@ -1,7 +1,3 @@
-<thinking>
-The "remote_work_agreement_extension_form" is used to manage extensions to remote work agreements between the employee and the manager. This form ensures that the employee's remote work arrangement is reviewed and approved in a timely manner. The form is usually completed by the employee when they need to extend their remote work arrangement due to a valid reason, such as a project extension or a change in work schedule. The form should not be completed if the employee's agreement has already been extended or if there is no need for an extension.
-</thinking>
-
 # remote_work_agreement_extension_form - Help Guide
 ## Purpose
 The "remote_work_agreement_extension_form" is used to request an extension to a remote work agreement.

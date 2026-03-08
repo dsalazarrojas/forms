@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for customers to book ski equipment rentals. The form is designed to collect information about the customer's preferences and requirements for the rental, including the type and size of equipment, pickup and dropoff dates and locations, and any additional comments or phone number. The form is likely to be used by a ski resort or rental shop to process and manage equipment rentals.
-
-To prevent duplication, this form is designed to be used only by customers who have not yet been registered as customers in the system. If a customer has already rented equipment, they will be directed to the order status page to view or update their existing information.
-
-</thinking>
-
 # ski_equipment_rental_order_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers to book ski equipment rentals.

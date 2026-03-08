@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for parents or guardians to schedule an appointment with a teacher at a bilingual school. The form collects essential contact and appointment details to ensure a smooth and effective meeting. To avoid duplication, please only use this form for new appointments, not for rescheduling or canceling existing ones.
-
-</thinking>
-
 # Bilingual School Appointment Form - Help Guide
 ## Purpose
 The Bilingual School Appointment Form is a crucial tool for parents or guardians to schedule meetings with teachers at a bilingual school. This form helps the school's administration ensure that all necessary information is collected for a successful and efficient meeting.

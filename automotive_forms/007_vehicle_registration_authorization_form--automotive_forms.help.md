@@ -1,21 +1,3 @@
-<thinking>
-This form is for vehicle registration and authorization purposes. It's intended for users to provide details about a vehicle, its owner, and the person authorizing the registration. The form is likely part of a larger system for tracking and managing vehicle data. It's designed to gather information from both vehicle owners and the personnel responsible for registering vehicles.
-
-To determine if this form is relevant to your specific needs, consider the following:
-
-- Are you a vehicle owner or representative looking to register a vehicle?
-- Are you a dealership or registration center employee processing vehicle registrations?
-- Do you need to track vehicle details, owner information, and authorization status?
-
-If you answered yes to any of these questions, this form may be relevant to your needs.
-
-This form is not designed for other purposes, such as general vehicle inquiries or sales-related activities. If you're unsure about its relevance, please consult with your supervisor or the form's creator.
-
-Please note that this form has multiple pages with various fields. Some fields are required for the form to be submitted, while others are optional. The form's layout may seem complex, but it's organized to guide you through the registration process.
-
-To avoid duplicate submissions, ensure you're not filling out this form if you've already registered the vehicle or have access to the registration details through another system.
-</thinking>
-
 # vehicle_registration_authorization_form - Help Guide
 ## Purpose
 The vehicle registration authorization form is designed to gather information about a vehicle, its owner, and the person authorizing the registration. This form is part of the vehicle registration process, helping to ensure accurate and up-to-date records.

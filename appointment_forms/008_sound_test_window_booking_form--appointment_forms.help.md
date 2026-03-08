@@ -1,9 +1,3 @@
-<thinking>
-
-I'll create a user-facing help guide for the Sound Test Window Booking Form.
-
-</thinking>
-
 # Sound Test Window Booking Form - Help Guide
 ## Purpose
 This form is designed to be used for booking sound tests for clients who need to test their windows for sound quality. It allows users to select the type of sound test they require, choose a suitable time slot, and provide additional contact information for the booking.

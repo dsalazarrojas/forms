@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate communication between employees and their managers regarding an employee's return to work after a leave. The purpose of this form is to gather information about the employee's return date, reason for return, and manager approval. This form should only be filled out by an employee when they are returning to work after a leave. If the employee has already submitted a return to work notification, they should not fill out this form again.
-</thinking>
-
 # return_to_work_notification_form - Help Guide
 ## Purpose
 This form is used to notify your manager of your return to work after a leave. Please fill out this form to provide your manager with the necessary information to update your work status.

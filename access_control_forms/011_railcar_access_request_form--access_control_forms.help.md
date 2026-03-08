@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request access to railcars, likely for maintenance or operational purposes. It's essential to fill out this form accurately to ensure that your request is properly evaluated by the relevant teams. Before submitting this form, make sure that you have a clear understanding of what you're requesting and that it's not a duplicate submission. If you've submitted a similar request recently, you may be asked to confirm or update your previous submission before proceeding.
-</thinking>
-
 # Railcar Access Request Form - Help Guide
 ## Purpose
 The Railcar Access Request Form is designed to request access to railcars for various purposes, such as maintenance, inspections, or operational needs.

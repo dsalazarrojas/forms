@@ -1,12 +1,3 @@
-<thinking>
-This form is used for assessing the coverage of a unit, which is an essential process in various business contexts, such as insurance, finance, or logistics. The unit coverage assessment form is designed to gather information about a unit's condition, coverage, and any associated documentation. This form is typically used to evaluate the unit's eligibility for coverage, identify any issues or defects, and track the assessment process.
-
-To avoid duplication and ensure accurate completion, it's essential to carefully review the form's purpose and ensure that the unit is properly documented before proceeding. If you're unsure about the form's relevance or have any questions, please consult with the relevant stakeholders or the form's administrator.
-
-The following guide will walk you through the form's completion process.
-
-</thinking>
-
 # Unit Coverage Assessment Form - Help Guide
 ## Purpose
 The Unit Coverage Assessment Form is used to assess the coverage of a unit, gather information about its condition, and track the assessment process.

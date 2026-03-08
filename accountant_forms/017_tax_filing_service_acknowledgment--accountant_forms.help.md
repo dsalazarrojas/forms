@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to acknowledge a client's tax filing service. It captures essential information to formalize the agreement and ensure a record of the tax filing service provided to the client. 
-
-The form aims to gather information such as client name, tax year, service provider details, dates, and method of acknowledgement. This data will be used to generate a formal acknowledgement document that the client can use as proof of service.
-
-The fields included in this form are designed to cater to various methods of acknowledgement, including electronic, written, phone call, in-person meeting, and mail.
-
-To avoid redundancy, it is essential to ensure that the client's name is entered correctly and accurately. If any discrepancies are noticed, please double-check and correct the information before proceeding.
-
-</thinking>
-
 # Tax Filing Service Acknowledgment - Help Guide
 ## Purpose
 The Tax Filing Service Acknowledgment form is used to record the tax filing service provided to a client. It ensures that all parties involved are aware of the details of the service and the terms of the agreement.

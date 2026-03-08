@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to help researchers create a comprehensive summary of their project, outlining the key aspects of their work. This form should not be filled out by people who are not directly involved in a research project. To fill out this form, users must have a basic understanding of research projects and their key components. 
-
-Please note that the form's content is automatically generated using public metadata and should not be used for commercial or proprietary purposes. 
-
-</thinking>
-
 # Research Project Summary Form - Help Guide
 ## Purpose
 

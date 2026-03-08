@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gather information from tourists about their booking preferences for a tour. The form collects details such as full name, email address, phone number, country of origin, tour package, tour start and end dates, number of tourists, accommodation preference, meal plan, transportation option, special interests, budget estimate, special requirements, and additional comments.
-
-The form is divided into multiple pages, each page containing fields that are relevant to the corresponding section. This form requires the following information:
-
-* Full name and contact details (full name, email address, phone number)
-* General information (country of origin, number of tourists)
-* Tour preferences (tour package, tour start and end dates)
-* Accommodation and meal plans (accommodation preference, meal plan)
-* Transportation and activity options (transportation option, special interests)
-* Additional details (budget estimate, special requirements, additional comments)
-
-The form is designed to be user-friendly and easy to navigate. The required fields are marked as such, and the form allows users to select one or multiple options for certain fields.
-
-</thinking>
-
 # Booking Form With Image Background - Help Guide
 ## Purpose
 This form is designed to collect information from tourists for booking purposes. The form is divided into multiple pages, each page containing fields that are relevant to the corresponding section.

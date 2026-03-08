@@ -1,5 +1,3 @@
-<thinking>...this form is used to collect data for Aerial Lift Safety Assessments. The form is typically used by inspectors to evaluate the safety of aerial lifts and their components, and ensure that they are operating within specified safety guidelines. Before starting this assessment, please ensure that you have access to the necessary information and that you have reviewed the relevant safety procedures.</thinking>
-
 # Aerial Lift Safety Assessment - Help Guide
 
 ## Purpose

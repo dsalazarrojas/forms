@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rescue Operation Checklist Form - Help Guide
 ## Purpose
 The Rescue Operation Checklist Form is designed to collect information and track the progress of rescue operations. It helps teams and individuals involved in rescue operations to keep track of the team members, resources, and details of the rescue operation. This form is used to document the team's performance and ensure that all necessary steps are taken during the rescue operation.

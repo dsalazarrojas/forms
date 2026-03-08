@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect nominations for the Social Justice Award, which recognizes individuals or organizations that have made significant contributions to social justice causes. The purpose of this form is to gather information about the nominee, their organization, and their initiative, and to provide a way for submitters to express their support for the nominee. To ensure that the nomination process is fair and efficient, we will review each submission to ensure that it meets the required criteria and does not duplicate previously submitted nominations.
-
-Before completing this form, please ensure that you have the permission of the nominee to submit their information and that the information is accurate and up-to-date.
-
-</thinking>
-
 # Social Justice Award Nomination Form - Help Guide
 ## Purpose
 The Social Justice Award Nomination Form is designed to collect nominations for the Social Justice Award. This award recognizes individuals or organizations that have made significant contributions to social justice causes.

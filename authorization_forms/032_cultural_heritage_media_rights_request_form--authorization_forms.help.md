@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal reasoning block:** 
-This form is for requesting cultural heritage media rights, which is a type of permission to use or reproduce cultural artifacts, artworks, or other creative works that are protected by copyright or other intellectual property laws. The form is designed to gather essential information from users, including their contact details, the name and description of the work they wish to access, and the reason for their request. This information will help the rights holders or administrators to assess and manage the request.
-
-</thinking>
-
 # Cultural Heritage Media Rights Request Form - Help Guide
 
 ## Purpose

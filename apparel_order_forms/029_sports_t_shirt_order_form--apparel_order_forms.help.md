@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to help teams and players order sports team shirts. Please provide your team name, order type, date and time of order, team size, shirt type, color, quantity, price, and any additional order notes or comments. You will also need to provide contact information for your team.

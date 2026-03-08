@@ -1,7 +1,3 @@
-<thinking>
-This form is used to amend the insurance coverage limit for a specific policy. The form will only be applicable if the customer has an existing policy with the company. The form is not intended to be used for new policy applications. Please ensure that you are filling out this form for the correct purpose and not creating a duplicate policy.
-</thinking>
-
 # Insurance Coverage Limit Amendment Form - Help Guide
 ## Purpose
 This form is used to amend the insurance coverage limit for a specific policy. Please use this form to update the coverage limit for an existing policy. This form should not be used for new policy applications.

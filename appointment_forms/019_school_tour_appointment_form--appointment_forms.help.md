@@ -1,7 +1,3 @@
-<thinking>
-We're assuming that the form is used to schedule and organize school tours for students. The form is designed to collect information from students and parents/guardians to schedule a tour that suits everyone's needs. The fields are meant to gather relevant details such as student and parent contact information, tour preferences, and tour facilitator information. This form aims to streamline the tour scheduling process and ensure a smooth experience for all parties involved.
-
-</thinking>
 # School Tour Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule and organize school tours for students, collecting necessary information from students and parents/guardians.

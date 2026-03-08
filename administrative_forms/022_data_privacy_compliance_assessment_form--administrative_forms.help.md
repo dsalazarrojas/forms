@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to assess data privacy compliance, ensuring that organizations are meeting their data protection and security obligations. The purpose of this form is to gather information about an organization's data classification, risk assessment, control measures, data protection policy, compliance training, incident response, incident reporting, data security, reporting and audit, breach notification, incident management, data retention, data disposal, and data disposal process. By completing this form, organizations can demonstrate their commitment to data privacy and security, and identify areas for improvement.
 
 # Data Privacy Compliance Assessment Form - Help Guide

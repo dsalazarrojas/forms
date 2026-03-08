@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the "Exclusive Shopping Experience Reservation Form". The form is designed to collect information from customers for exclusive shopping experiences. It is intended for customers who are interested in booking a personalized shopping session with a sales associate. The form will guide them through the process of providing necessary information to confirm their reservations. It is crucial to fill out the form accurately to ensure a smooth and efficient shopping experience. Please note that the form is not a duplicate of other forms, and each field has a specific purpose. It is essential to fill out the form completely and correctly to provide the required information.
-</thinking>
-
 # Exclusive Shopping Experience Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for exclusive shopping experiences. It is intended for customers who are interested in booking a personalized shopping session with a sales associate.

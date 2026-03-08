@@ -1,7 +1,3 @@
-<thinking>
-This form is used for booking a session with an actor for updating their profile. The purpose of this form is to gather necessary information from the actor for the session, including their name, email address, session purpose, preferred dates and times, wardrobe choices, length of session, additional services required, accessibility needs, and special notes for the photographer or coach. Please ensure that you have the necessary permissions and approvals to book a session on behalf of the actor. 
-</thinking>
-
 # Actor Profile Update Session Booking Form - Help Guide
 ## Purpose
 The Actor Profile Update Session Booking Form is used to gather information from an actor for an upcoming photo shoot or session. This form is used to schedule and coordinate the session details with the actor and ensure that all necessary information is captured for a smooth and successful session.

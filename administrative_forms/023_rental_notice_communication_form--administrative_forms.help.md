@@ -1,9 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Rental Notice Communication Form" that explains its purpose, how to complete it, and what each field means. The form is used to document rental agreements and related communication between landlords and tenants. It's likely used in a property management or real estate context. Before creating the guide, let's review the form fields and ensure we're not duplicating any effort in the explanation.
-
-Upon reviewing the form fields, we can see that it's quite extensive, but the fields are categorized into different sections. We'll break down the form into its main sections and focus on the most relevant information for the end-user.
-</thinking>
-
 # Rental Notice Communication Form - Help Guide
 ## Purpose
 The Rental Notice Communication Form is used to document rental agreements and related communication between landlords and tenants. This form helps to ensure that all necessary information is collected and recorded accurately for reference and future reference.

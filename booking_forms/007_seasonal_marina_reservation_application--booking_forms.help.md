@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for users to submit a seasonal marina reservation application. It gathers information about the user's vessel, their preferred dates for reservation, and other details related to their request. The form seems to be focused on collecting information about the user's vessel, its characteristics, and their preferences for the marina reservation. I will assume that this form is part of a larger system for managing marina reservations and that it is intended for users who want to reserve a spot for their vessel during a specific season.
-
-To avoid duplication, I will check if there is a similar help guide already available in our database. If so, I will provide a link to it instead of creating a new one.
-
-</thinking>
-
 # seasonal_marina_reservation_application - Help Guide
 ## Purpose
 This form is designed for users to submit a seasonal marina reservation application. The form gathers information about the user's vessel, their preferred dates for reservation, and other details related to their request.

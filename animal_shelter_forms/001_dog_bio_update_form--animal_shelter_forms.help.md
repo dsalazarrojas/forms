@@ -1,22 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and update information about a dog's bio, which is a crucial aspect of the animal shelter's database. The form is designed to capture essential details about the dog's behavior, personality, and general information, as well as allow for a photo upload and a caption. This form will help the shelter staff to keep the dog's records up-to-date and provide accurate information to potential adopters.
-
-This form will be used by the animal shelter staff to update a dog's bio. Before starting, please note that the form is designed to be completed in one sitting, and it's best to have all the necessary information ready.
-
-The form is divided into the following sections:
-
-* **General Information**
-* **Behavior**
-* **Personality**
-* **Bio Update**
-* **Photo Upload**
-* **Photo Caption**
-
-Please ensure that you provide accurate and truthful information about the dog to help potential adopters understand the dog's needs and characteristics.
-
-</thinking>
-
 # Dog Bio Update Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and update information about a dog's bio, which is a crucial aspect of the animal shelter's database.

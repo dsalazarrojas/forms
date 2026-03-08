@@ -1,7 +1,3 @@
-<thinking>
-This form is used to initiate a request to change the vendor associated with a specific procurement process. Before completing this form, please ensure that you have the necessary permissions and approvals to request changes to existing vendors. Additionally, ensure that this form is only used for new or existing procurements, and not for duplicate or redundant requests. If you're unsure, please reach out to the relevant department or team member for clarification.
-</thinking>
-
 # Procurement Vendor Change Request Form - Help Guide
 ## Purpose
 The Procurement Vendor Change Request Form is used to request changes to vendors associated with procurement processes. This form is intended for employees who need to make changes to the vendor information, such as updating the vendor's name, ID, or address.

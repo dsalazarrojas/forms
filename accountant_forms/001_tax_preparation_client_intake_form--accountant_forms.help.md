@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to collect information from clients seeking tax preparation services. This form is intended to be a general intake form, not a substitute for a comprehensive tax return or audit. It will help us understand the client's basic information and prepare for the tax preparation process. 
-
-Please note that this form does not collect sensitive information such as Social Security Numbers or tax returns, but rather serves as a starting point for further discussions and tax preparation.
-
-To avoid duplication of effort and ensure accurate completion, please review the form carefully before filling it out.
-
-</thinking>
-
 # Tax Preparation Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect basic information from clients seeking tax preparation services. It is intended to be a general intake form, not a comprehensive tax return or audit.

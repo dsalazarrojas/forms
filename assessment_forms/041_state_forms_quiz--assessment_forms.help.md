@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to help users understand the purpose and process of completing the State Forms Quiz. This form will be used to assess users' knowledge and understanding of a particular subject matter. The purpose of this form is to collect information from users on their thoughts, feelings, and experiences related to the subject matter. This form is not a required form and users can choose to complete it at their discretion.
-
-The form is divided into three sections: intro_page, question_page, and results_page. Each section has a specific purpose and requires users to follow a particular process to complete it.
-
-The form's design and content are designed to be clear and concise, with each field and section labeled and explained in a way that is easy to understand.
-
-</thinking>
-
 # State Forms Quiz - Help Guide
 ## Purpose
 The State Forms Quiz is a form used to assess users' knowledge and understanding of a particular subject matter. It is not a required form and users can choose to complete it at their discretion.

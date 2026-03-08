@@ -1,9 +1,3 @@
-<thinking>Before creating this help guide, let's review the form's purpose and fields.
-
-This form appears to be a template for releasing software updates. Its purpose is likely to collect and track information related to software updates, including planned release details, release dates, release notes, and approval statuses.
-
-The form seems to be designed for internal or IT-related purposes, considering the presence of fields like "IT Contact" and "Product Contact", indicating that the form is used within an organization or a company.</thinking>
-
 # Software Update Release Form - Help Guide
 ## Purpose
 This form is used to track and document software updates, including planned releases, release dates, and approval statuses. It helps to ensure that all necessary information is collected and approved before a software update is released.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a stand-in and double for a specific category. The purpose of this form is to gather information about the category and the stand-in and double, which will be used to generate a report. The form will not be saved or used for any other purpose. This form is not a required form, but it's still a crucial one for ensuring accurate reporting.
-</thinking>
-
 # Stand In And Double Registration Form - Help Guide
 ## Purpose
 This form is used to register a stand-in and double for a specific category, ensuring that all relevant information is captured for report generation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for granting or denying reporting access to authorized personnel in the organization. It is a critical document that ensures the confidentiality and integrity of sensitive reporting information. Before filling out this form, please verify that you have the necessary clearance and that the request is legitimate.
-</thinking>
-
 # treasury_reporting_access_consent_form - Help Guide
 ## Purpose
 The treasury reporting access consent form is used to grant or deny reporting access to authorized personnel in the organization. It is a formal document that confirms or refuses reporting access, ensuring the integrity and confidentiality of sensitive reporting information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crew Performance Evaluation Form - Help Guide
 ## Purpose
 The Crew Performance Evaluation Form is designed to assess the performance and progress of crew members. This form is used by administrators to evaluate the performance of crew members, provide feedback, and identify areas for improvement. It is essential to complete this form regularly to ensure accurate and consistent evaluations.

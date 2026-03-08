@@ -1,12 +1,3 @@
-<thinking>
-To ensure the form purpose and requirements are clear, let's break down the context:
-
-This form is designed for managing the holding agreements between tenants and landlords on a month-to-month basis. The form aims to collect essential information about the tenancy, including the names of the parties involved, the start and end dates of the agreement, and the rent and deposit amounts. This information is crucial for administrative purposes, such as maintaining accurate records, handling rent payments, and ensuring compliance with local regulations.
-
-To prevent duplication and ensure accuracy, this form should be used only when a new agreement is being established or updated. Users should not submit this form if the agreement is still active or if the same agreement is being resubmitted.
-
-</thinking>
-
 # Month To Month Holding Agreement - Help Guide
 ## Purpose
 The Month To Month Holding Agreement form is used to establish or update the holding agreements between tenants and landlords on a month-to-month basis. This form helps to collect necessary information for administrative purposes, such as maintaining accurate records, handling rent payments, and ensuring compliance with local regulations.

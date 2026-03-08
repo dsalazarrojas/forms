@@ -1,7 +1,3 @@
-<thinking>
-The Safety Commitment Pledge Form is a document that requires employees to pledge their commitment to safety in the workplace. The form is used to ensure that employees understand their roles and responsibilities in maintaining a safe working environment. Each field in this form is designed to capture specific information that is relevant to the employee's safety commitment. This form is not intended for use in high-stress or emergency situations, but rather as a regular check-in to ensure employees are on the same page regarding safety procedures and protocols. Before completing this form, please ensure that you have thoroughly reviewed and understood the safety policies and procedures of the organization. If you are unsure about any of the information requested, please consult with your supervisor or HR representative before submitting the form.
-</thinking>
-
 # Safety Commitment Pledge Form - Help Guide
 ## Purpose
 The Safety Commitment Pledge Form is a document that requires employees to pledge their commitment to safety in the workplace. It is used to ensure that employees understand their roles and responsibilities in maintaining a safe working environment.

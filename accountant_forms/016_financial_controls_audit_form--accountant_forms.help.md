@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be a financial controls audit form, which is used to document and track the status of internal financial control processes within an organization. The purpose of this form is to facilitate the review and follow-up process for financial controls, ensuring that they are functioning correctly and identifying areas that require attention.
-
-This form is designed to be used by accountants and auditors to collect and record information on the review of financial controls, including risk levels, categories, and comments. It is likely used in a professional setting, such as an accounting firm or government agency, to ensure the accuracy and reliability of financial reporting.
-
-The fields on this form appear to be comprehensive, covering various aspects of financial controls, including risk levels, categories, and comments. The form may be used for both internal and external audits, or for ongoing monitoring and review of financial controls.
-
-To the best of my ability, I will provide a clear and concise explanation of each field on this form, based on the provided YAML fields.
-
-</thinking>
-
 # financial_controls_audit_form - Help Guide
 ## Purpose
 The financial_controls_audit_form is used to document and track the status of internal financial control processes within an organization.

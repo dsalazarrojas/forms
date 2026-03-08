@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Database Normalization Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess your understanding of database normalization and denormalization concepts. It is designed to help you evaluate and compare different types of normalization and denormalization in various scenarios.

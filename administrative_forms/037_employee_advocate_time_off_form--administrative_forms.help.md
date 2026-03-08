@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request time off from work, which is used for employees to submit their time off requests to their managers for approval. 
-
-This form is used by employees to submit their requests for time off. It's intended for managers to review and approve or reject these requests. The form captures the necessary information to facilitate the process of requesting time off.
-
-The form is designed to be completed by the employee and submitted to their manager. The manager then reviews and either approves or disapproves the request, and the employee is informed of the outcome.
-
-</thinking>
-
 # Employee Advocate Time Off Form - Help Guide
 ## Purpose
 This form is used to request time off from work. It's meant to be completed by employees to submit their time off requests for manager review and approval.

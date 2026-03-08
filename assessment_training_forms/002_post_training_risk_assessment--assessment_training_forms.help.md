@@ -1,38 +1,3 @@
-<thinking>
-This form is intended to assess the risk level and control measures associated with a training program after it has been completed. It is a critical process to ensure that the training was effective and identify areas that need improvement. The form is used to gather information from the training manager and trainer to evaluate the risk level, control measures, and follow-up actions. This form is a mandatory part of the training program evaluation process and should be completed for every training program.
-
-Before starting, please ensure that you have all the necessary information and that you are filling out the form for the correct training program.
-
-This form is divided into several sections, each with its own specific purpose. Please make sure to fill out each section completely and accurately.
-
-The following fields are part of this form:
-
-*   course_id: A unique identifier for the training program. Please enter the course ID as provided by the system.
-*   training_manager_name: The name of the training manager who was responsible for the training program. Please enter the name as it appears in the system.
-*   training_manager_email: The email of the training manager who was responsible for the training program. Please enter the email as it appears in the system.
-*   risk_level: The risk level associated with the training program, which can be Low, Medium, or High.
-*   training_date: The date when the training program was completed. Please enter the date in the format DD/MM/YYYY.
-*   trainer_name: The name of the trainer who delivered the training program. Please enter the name as it appears in the system.
-*   trainer_email: The email of the trainer who delivered the training program. Please enter the email as it appears in the system.
-*   training_manager_comments: Comments from the training manager regarding the training program. Please enter any relevant comments.
-*   risk_control_measures: Control measures put in place to mitigate the risk associated with the training program. Please enter any relevant control measures.
-*   risk_control_measures_notes: Additional notes regarding the risk control measures.
-*   risk_control_status: The status of the risk control measures, which can be Active, Inactive, or Archived.
-*   follow_up_action: Follow-up actions taken to mitigate the risk associated with the training program. Please enter any relevant follow-up actions.
-*   follow_up_frequency: The frequency of the follow-up actions.
-*   follow_up_status: The status of the follow-up actions, which can be True or False.
-*   follow_up_notes: Additional notes regarding the follow-up actions.
-*   follow_up_comments: Comments regarding the follow-up actions.
-*   follow_up_recommendations: Recommendations for future training programs.
-*   risk_control_measures_notes: Additional notes regarding the risk control measures.
-*   follow_up_measures_notes: Additional notes regarding the follow-up actions.
-*   risk_control_status: The status of the risk control measures, which can be Active, Inactive, or Archived.
-*   follow_up_notes: Additional notes regarding the follow-up actions.
-
-Please fill out this form completely and accurately to ensure that the training program evaluation process is thorough and effective.
-
-</thinking>
-
 # Post Training Risk Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the risk level and control measures associated with a training program after it has been completed.

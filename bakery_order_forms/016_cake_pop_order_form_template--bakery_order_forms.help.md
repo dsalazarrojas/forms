@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cake Pop Order Form Template - Help Guide
 ## Purpose
 This form is designed to collect information for a custom cake pop order. The form is divided into several sections, each with specific fields that help us understand your order requirements. Please fill out the form carefully to ensure that we can create the perfect cake pops for your event or occasion.

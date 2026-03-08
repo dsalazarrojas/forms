@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to provide a comprehensive listing for used books. The form is used to collect information about the book, its condition, price, and other relevant details. It's essential to ensure that each field is accurately filled out to provide accurate and reliable information to customers.
-
-To prevent errors and duplicates, please make sure to:
-
-* Only enter unique book listings, avoiding duplicates.
-* Fill in all required fields with accurate and up-to-date information.
-* Ensure the book condition is accurately assessed to prevent misrepresentation.
-</thinking>
-
 # Used Book Listing Form - Help Guide
 ## Purpose
 This form is designed to provide a detailed listing for used books. It will help users to accurately showcase their books, attracting more customers.

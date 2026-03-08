@@ -1,14 +1,3 @@
-<thinking>
-This form is used for authorizing contractors to participate in a project. It collects information about the contractor's contact details, project participation, role on the project, start and end dates, estimated hours, hourly rate, and authorization details. 
-
-This form is a crucial document for project management and ensures that all necessary information is gathered for compliance and risk management purposes.
-
-Before filling out this form, please ensure that you have read and understood the project scope and requirements, and that you are authorized to participate. This form should only be filled out once you have received the necessary authorization from your superiors or the client.
-
-Please note that some fields might be required for specific reasons and ensure that you have the necessary information to fill out the form accurately.
-
-</thinking>
-
 # Contractor Project Participation Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize a contractor's participation in a project. It ensures that the necessary information is gathered for compliance and risk management purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Apparel Size Collection - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you fill out the Health Insurance Records Release Form. The form is used to release your health insurance records to a healthcare provider or insurance company, as specified in section 6, "Release To". Please note that you may choose to release your records to multiple organizations at once, if applicable. Ensure you sign and date this form when you have finished filling it out.
-</thinking>
-
 # Health Insurance Records Release Form - Help Guide
 ## Purpose
 This form is used to release your health insurance records to a specific healthcare provider or insurance company. You will need to provide identifying information, such as your name, date of birth, and address, as well as specify the reason for releasing your records and the date and time of this authorization.

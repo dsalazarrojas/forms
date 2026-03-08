@@ -1,5 +1,3 @@
-<thinking>...checking the provided form structure and fields......</thinking>
-
 # Film Distribution Consultation Booking Form - Help Guide
 ## Purpose
 

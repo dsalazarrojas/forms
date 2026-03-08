@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the efficiency of logistics delivery personnel in a given scenario. It will be used to evaluate the effectiveness of personnel in delivering logistics, such as the ability to meet deadlines, manage inventory, and coordinate with other teams. The form will be completed by logistics delivery personnel themselves, and the results will be used to provide feedback and coaching to improve their performance. 
-
-To ensure that the form is completed accurately and consistently, please review the following help guide.
-
-</thinking>
-
 # Logistics Delivery Personnel Efficiency Assessment - Help Guide
 
 ## Purpose

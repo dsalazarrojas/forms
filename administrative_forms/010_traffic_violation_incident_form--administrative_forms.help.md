@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about traffic violation incidents, which will help administrators and law enforcement officials to identify and address potential issues related to traffic safety. This form should only be completed for genuine incidents, and not for test or demonstration purposes. Please ensure that you are not duplicating efforts and that the information provided is accurate and complete. If you have already reported a similar incident, please do not report it again, as this may cause confusion and waste administrative resources.
-
-</thinking>
-
 # Traffic Violation Incident Form - Help Guide
 ## Purpose
 This form is used to report traffic incidents that have occurred on our jurisdiction. It helps in gathering information about the incident, including the date, location, vehicle details, and other relevant details. This information is used to identify and address potential risks to traffic safety.

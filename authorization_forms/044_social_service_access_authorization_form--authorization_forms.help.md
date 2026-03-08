@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request access to social services on behalf of a client. This form is used to authorize social services for a client, specifying the service name, location, and social worker(s) involved. It requires the client's name, email, phone number, and signatures from both the social worker and the client. The form also captures the date and time of the service authorization, as well as any comments. This form is intended to be completed by social workers when authorizing services for their clients.
-</thinking>
-
 # Social Service Access Authorization Form - Help Guide
 ## Purpose
 This guide will walk you through the Social Service Access Authorization Form, which is used to request access to social services on behalf of a client.

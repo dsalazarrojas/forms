@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pet_adoption_renewal_form - Help Guide
 ## Purpose
 This form is designed to facilitate the renewal of pet adoption. It collects information about your pet, including medical conditions, veterinary information, and contact details. This form is essential for ensuring a smooth and secure renewal process.

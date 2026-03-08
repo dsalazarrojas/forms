@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Music Royalty Adjustment Request Form. This form is used to submit requests for adjustments to music royalty payments. The form is intended for artists, publishers, and other industry professionals to submit adjustments to their music royalty payments. The form should not be completed by anyone other than the artist or their representative.
-</thinking>
-
 # Music Royalty Adjustment Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Climbing Skills Risk Assessment - Help Guide
 
 ## Purpose

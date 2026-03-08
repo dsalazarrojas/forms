@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Automated Test Creation and Evaluation Form - Help Guide
 
 ## Purpose

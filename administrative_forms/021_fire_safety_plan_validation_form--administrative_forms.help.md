@@ -1,11 +1,3 @@
-<thinking>
-This form is used for the validation and review of fire safety plans. The purpose of this form is to ensure that the fire safety plan is being followed and reviewed regularly. This form will help users to provide information on general information, fire safety plan, emergency contact, emergency contact information, fire safety plan implementation, review and update, submission review, submit and review, submit and review date, and submit and review time.
-
-Before proceeding with this form, please ensure that you have the necessary information and permissions to complete the form accurately. It is recommended to review the current fire safety plan and update any necessary information before completing this form.
-
-The form will not be duplicated if the user has already completed it for the same period.
-
-</thinking>
 # fire_safety_plan_validation_form - Help Guide
 ## Purpose
 The fire safety plan validation form is used to validate and review the fire safety plan. This form ensures that the fire safety plan is being followed and reviewed regularly.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help teams assess the compatibility of documents across different platforms. To determine if the form is relevant, consider the following questions:
-- Are you looking to evaluate the compatibility of documents across various platforms or systems?
-- Are you a team member or administrator responsible for collecting structured data on document issues?
-- If yes, then this form is likely relevant to your needs.
-If not, then this form might not be the best fit for your requirements.
-</thinking>
-
 # Document Compatibility Assessment - Help Guide
 ## Purpose
 This form, called the "Document Compatibility Assessment," is a tool designed to help teams collect structured data on document issues across platforms using a no-code form builder, drag-and-drop interface, and organized form submission tracking.

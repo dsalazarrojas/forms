@@ -1,9 +1,3 @@
-<thinking>...checking the form purpose and field relevance...
-
-This form is designed to capture information related to shipping documentation appointments. It appears to be a form used for creating or managing shipping documentation appointments, likely within a logistics or shipping management context. The form seems to gather details such as the shipper's name, contact information, documentation dates, and times, as well as other relevant details for the appointment...
-
-</thinking>
-
 # shipping_documentation_appointment_form - Help Guide
 
 ## Purpose

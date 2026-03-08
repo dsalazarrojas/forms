@@ -1,7 +1,3 @@
-<thinking>
-This form is a Wheelchair Assistance Training Survey, designed to gauge users' confidence and satisfaction levels with the wheelchair assistance tools. The survey is meant to be completed by users who have attended a training session on wheelchair assistance. It will help us understand their confidence levels with the tools, how satisfied they are with the session, and whether they are interested in attending more sessions. This form should not be filled out by users who have not attended a training session.
-</thinking>
-
 # Wheelchair_Assistance_Training_Survey - Help Guide
 ## Purpose
 The Wheelchair Assistance Training Survey is designed to gather feedback from users who have attended a wheelchair assistance training session. The survey asks questions about your confidence level with the tools, satisfaction with the session, and interest in attending future sessions.

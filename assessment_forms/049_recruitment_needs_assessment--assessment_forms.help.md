@@ -1,7 +1,3 @@
-<thinking>
-The Recruitment Needs Assessment form is designed to gather information from hiring managers and recruiters about the recruitment process, including role requirements, budget constraints, timelines, and other relevant details. This form is used to assess the recruitment needs of the organization, which is crucial for making informed decisions about hiring and recruitment strategies. To ensure consistency, it's essential to only fill out this form once per job opening. 
-</thinking>
-
 # Recruitment Needs Assessment - Help Guide
 ## Purpose
 The purpose of this form is to gather information from hiring managers and recruiters about the recruitment process for a specific job opening. This information will be used to assess the recruitment needs of the organization and inform decisions about hiring and recruitment strategies.

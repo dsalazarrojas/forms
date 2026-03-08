@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help parents and guardians conduct a safety check in the home environment of a child. The purpose of this form is to ensure that the home is safe for children and to identify any potential safety concerns. The form is typically used by parents or guardians who are concerned about their child's safety or who have been asked to perform a safety check by a school or healthcare provider. This form is usually filled out after an initial check of the home, and it's intended to serve as a reminder of steps that need to be taken to maintain a safe environment. The questions are designed to cover various aspects of home safety, from general hazards such as fires and electrical outlets, to specific hazards such as medications and sharp objects. Please complete this form carefully and take note of any safety concerns or recommended steps for improvement.
-</thinking>
-
 # Child Safety Checklist Form - Help Guide
 ## Purpose
 This form is designed to help parents or guardians ensure the safety of their child in their home environment.

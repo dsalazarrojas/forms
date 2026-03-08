@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information for the awards nomination process. It is designed to gather data about the nominee, including their category, job title, and achievements. The form is intended for employees, students, or others who want to nominate someone for an award. To avoid duplicates, nominations are checked for relevance and accuracy before being considered.
-
-The form is divided into several sections, each containing relevant information about the nominee. It is essential to fill out the form accurately and completely to ensure that the nomination is considered for the award.
-
-Before filling out the form, please ensure that you have the necessary information and permissions to complete it accurately.
-
-</thinking>
-
 # Awards Nomination 1 Responsive - Help Guide
 ## Purpose
 This form is used to collect information for the awards nomination process.

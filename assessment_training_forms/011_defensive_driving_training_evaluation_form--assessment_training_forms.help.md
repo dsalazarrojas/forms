@@ -1,10 +1,3 @@
-<thinking>
-The goal of the Defensive Driving Training Evaluation Form is to collect data from trainees on their experience with the defensive driving training course. The form should be used by course participants to provide their subjective evaluations of the training content, instructor performance, overall satisfaction, and any comments they may have. 
-
-Before starting the form, ensure that the data being collected is relevant and not duplicated. This form may need to be updated or modified to suit specific organizational needs and goals.
-
-</thinking>
-
 # Defensive Driving Training Evaluation Form - Help Guide
 ## Purpose
 The Defensive Driving Training Evaluation Form is a tool for evaluating the effectiveness and quality of the defensive driving training course. 

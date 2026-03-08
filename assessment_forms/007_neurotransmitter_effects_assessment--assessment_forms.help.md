@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Neurotransmitter Effects Assessment - Help Guide
 
 ## Purpose

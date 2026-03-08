@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lockout/Tagout Procedures Training Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture the necessary information for a home loan application. It includes fields for borrower information, loan details, employment information, income information, and other relevant data. The form is divided into several sections, each corresponding to a specific aspect of the loan application. 
-
-The form does not have any required fields, which means that it's possible that some users might not fill out all the fields. However, filling out all the fields will likely result in a more complete and accurate loan application.
-
-</thinking>
-
 # Home Loan Application - Help Guide
 ## Purpose
 This form is intended to provide a detailed and accurate view of the loan applicant's information. It's a comprehensive tool for the lender to assess the applicant's creditworthiness and determine the suitability of the loan.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Nursing Home Discharge Form" is intended to document the reason for a resident's discharge from a nursing home and collect information about their transfer to a new facility. This form is typically completed by the nursing home staff and signed by the resident and facility administrators to ensure that all necessary information is accurately documented and that the transfer process is properly executed. To ensure accurate and thorough completion of the form, please review the following instructions and explanations of each field.
 
 # Nursing Home Discharge Form - Help Guide

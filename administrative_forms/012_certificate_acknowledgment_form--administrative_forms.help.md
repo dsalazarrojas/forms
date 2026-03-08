@@ -1,11 +1,3 @@
-<thinking>
-
-The Certificate Acknowledgment Form is used for participants to acknowledge receipt of their certificates after completing a program or course. This form ensures that participants understand the terms and conditions, validity period, and requirements for certificate renewal. It also captures essential information for certificate delivery, such as contact details and preferred format.
-
-Before proceeding, please ensure that the participant has read and understood the terms and conditions outlined in the form. If any fields are unclear, please refer to the internal documentation for further clarification.
-
-</thinking>
-
 # Certificate Acknowledgment Form - Help Guide
 ## Purpose
 The Certificate Acknowledgment Form is used for participants to confirm their understanding of the certificate's terms, conditions, and delivery details. It helps ensure accurate and efficient processing of certificates.

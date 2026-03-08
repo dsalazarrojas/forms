@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track attendance at community meetings, collecting information on residents who attend, their contact details, and any additional notes or signatures. It's a straightforward form that aims to gather necessary data for meeting records and future planning. The form has been generated based on public metadata from a survey about community meetings, ensuring it's a neutral and original creation. The purpose of this form is to assist meeting organizers and attendees in maintaining accurate attendance records while respecting residents' privacy and preferences.
-</thinking>
-
 # Community Meeting Resident Attendance Form - Help Guide
 ## Purpose
 This form is designed to track attendance at community meetings, gathering information on residents who attend, their contact details, and any additional notes or signatures.

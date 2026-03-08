@@ -1,5 +1,3 @@
-<thinking>Is this form meant to gather information about potential emergency contacts for an individual or group in the case of a disaster or emergency? If so, is it possible to identify a specific group or individual this form is intended for? Are there any other forms or procedures that might be used in conjunction with this form, such as follow-up checklists or emergency response plans? Is there a specific context or organization that would be using this form, and if so, what is their role in emergency preparedness and response? Is this form intended to be used by people with varying levels of training or expertise in emergency response?</thinking>
-
 # Disaster Preparadness Checklist Form - Help Guide
 ## Purpose
 The Disaster Preparadness Checklist Form is designed to gather information about potential emergency contacts for an individual or group in the case of a disaster or emergency. This form is intended to be used by organizations or individuals who are responsible for emergency preparedness and response, such as emergency management teams or first responders.

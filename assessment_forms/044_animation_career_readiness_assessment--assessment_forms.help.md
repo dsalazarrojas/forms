@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the readiness of an individual for a career in animation. It's used to determine their level of proficiency in various aspects of animation, such as primary skills, software proficiency, education, and experience. This form is designed to gather information from candidates to help them get an accurate evaluation of their readiness for an animation career. It's recommended to fill out this form carefully, as the information provided will help in identifying the strengths and areas of improvement for the candidate. Ensure that the form is filled out accurately to get the most relevant results.
-</thinking>
-
 # Animation Career Readiness Assessment - Help Guide
 ## Purpose
 The Animation Career Readiness Assessment is a tool to help you assess your readiness for a career in animation. It will guide you through a series of questions to determine your level of proficiency in various aspects of animation, including your primary skills, software proficiency, education, and experience.

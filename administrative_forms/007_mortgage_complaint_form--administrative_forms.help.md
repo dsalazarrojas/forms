@@ -1,5 +1,3 @@
-<thinking>...the form is used by customers to submit a complaint regarding their mortgage experience, which will be reviewed and resolved by the mortgage company's complaint handling team. The form should not be used for general inquiries or routine questions. To prevent duplication, customers can check the "Issue Type" field to see if their complaint has already been submitted. The form will be available to both customers and internal employees for submission and review...+</thinking>
-
 # Mortgage Complaint Form - Help Guide
 ## Purpose
 The Mortgage Complaint Form is designed to allow customers to report any issues or problems they have experienced with their mortgage. This form can be used to submit complaints regarding payment processing, interest rate errors, and other issues related to their mortgage account.

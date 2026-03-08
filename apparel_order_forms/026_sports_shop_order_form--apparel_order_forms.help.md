@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll make sure to break down the form into its individual components and understand its purpose. The "Sports Shop Order Form" is a form designed for customers to place orders for sports-related merchandise. The form is used to collect information about the customer, their order details, and payment information. This form is likely used for online sales, and the fields indicate that the form is used for both order processing and customer management. I will now create a comprehensive help guide for this form.</thinking>
-
 # Sports Shop Order Form - Help Guide
 ## Purpose
 This form is used to process sports-related orders from customers. It collects information about the customer, order details, and payment information.

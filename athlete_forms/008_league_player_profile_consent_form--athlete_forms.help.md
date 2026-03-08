@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect player information and emergency contact details for athletes participating in the league. It includes sections for player information, emergency contacts, and consent for participation and data sharing. The form is used to ensure that the league has the necessary contact information and consents in place before the player can participate. This form should only be filled out once per player and is required for all players. 
-</thinking>
-
 # League Player Profile Consent Form - Help Guide
 ## Purpose
 This form is used to collect player information, emergency contacts, and consent for participation and data sharing for athletes in the league.

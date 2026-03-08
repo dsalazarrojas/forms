@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify pay equity in the workplace, ensuring that employees are paid fairly and consistently. Before submitting this form, ensure that you have not already submitted a similar form for the same organization and job title. If you have previously submitted a form, please review the existing data to avoid duplication of effort. Please note that some fields may be optional, but filling out as much information as possible will help provide a more accurate representation of pay equity.
-</thinking>
-
 # Pay Equity Verification Form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be designed for corporate card enrollment, which is a process for employees to request a corporate credit card for business purposes. The purpose of this form is to gather necessary information from employees, such as their ID, name, email, and department, to facilitate the card enrollment process. The form seems to be used by employees to apply for a corporate credit card, and the information collected will likely be reviewed and approved by the approver.
-
-To ensure the form is used correctly and efficiently, please verify that you are an authorized employee attempting to enroll for a corporate credit card. If you are not the intended recipient of this form, please do not proceed with filling out the form.
-
-Before starting, review the form carefully to ensure you understand what information is required. Each field is crucial for the card enrollment process. If you have any questions or concerns, please contact your HR or finance department for guidance.
-
-Please note that some fields may not be required for everyone, but please fill out as much information as possible for a successful card enrollment.
-
-</thinking>
-
 # Corporate Card Enrollment Application - Help Guide
 
 ## Purpose

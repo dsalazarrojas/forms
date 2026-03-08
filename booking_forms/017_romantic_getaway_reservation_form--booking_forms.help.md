@@ -1,13 +1,3 @@
-<thinking>
-  This form is used to facilitate reservations for a romantic getaway experience. The form collects information from the user about their preferences and requirements for a smooth and enjoyable trip, including contact details, travel dates and times, room requirements, meal preferences, and transportation arrangements.
-  
-  This form is part of the booking process for our company, and its data will be used to provide personalized services and tailored experiences for each guest.
-
-  This form does not duplicate the "General Information" form, as its focus is on specific details for a romantic getaway experience.
-  
-  This form is intended for guests booking a romantic getaway experience.
-</thinking>
-
 # Romantic Getaway Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a romantic getaway reservation. It helps our staff prepare for a customized experience tailored to the user's preferences.

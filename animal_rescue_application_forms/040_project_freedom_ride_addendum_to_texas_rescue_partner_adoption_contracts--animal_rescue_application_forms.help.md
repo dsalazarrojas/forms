@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from Texas Rescue Partner organizations to facilitate the Project Freedom Ride adoption process. This form is an addendum to the existing adoption contract, and it's essential to ensure that all required fields are completed accurately to avoid any discrepancies.
-To avoid duplication of work, please review the existing adoption contract before filling this form. Ensure that all details are up-to-date and accurate to prevent any errors or delays in the adoption process.
-</thinking>
-
 # Project Freedom Ride Addendum To Texas Rescue Partner Adoption Contracts - Help Guide
 ## Purpose
 This form is used by Texas Rescue Partners to provide additional information required for the Project Freedom Ride adoption process. It's essential to complete this form accurately to ensure a smooth adoption process.

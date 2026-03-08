@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # qualifying_checklist - Help Guide
 
 ## Purpose

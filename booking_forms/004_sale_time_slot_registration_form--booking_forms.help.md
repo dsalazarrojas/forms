@@ -1,8 +1,3 @@
-<thinking>
-We are creating a form to gather information for sale time slots. This form will be used to register a customer's information and preferences for a specific sale time slot. This form is crucial for sales events, where customers can reserve a time slot for a sales representative to contact them.
-To avoid duplication of efforts, ensure that you have not already registered for this sale time slot. If you have already registered, kindly do not fill out this form again.
-</thinking>
-
 # sale_time_slot_registration_form - Help Guide
 ## Purpose
 The sale time slot registration form is a tool used to collect information from customers for a specific sale time slot. This form helps our sales team to prepare and follow up on the customers' needs.

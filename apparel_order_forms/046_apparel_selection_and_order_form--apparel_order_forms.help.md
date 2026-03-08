@@ -1,11 +1,3 @@
-<thinking>
-
-I'm assuming the purpose of this form is for customers to order apparel items with various options and details. To confirm, this form will allow customers to input their information, select the type of apparel and collection, choose their desired item, color, and size, enter the quantity, and select their payment and shipping methods. 
-
-This form is likely designed for a business-to-consumer (B2C) or business-to-business (B2B) context, where customers can order apparel items from a collection with options for different shipping and payment methods. I'll be using the provided YAML fields to generate a clear and concise help guide for end-users. 
-
-</thinking>
-
 # Apparel Selection And Order Form - Help Guide
 ## Purpose
 The Apparel Selection And Order Form is designed to help customers select and order their desired apparel items. To complete this form, please follow the steps outlined below.

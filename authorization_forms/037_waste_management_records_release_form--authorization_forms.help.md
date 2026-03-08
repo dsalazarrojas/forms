@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the purpose of the form and check for any potential duplication of effort. The Waste Management Records Release Form is used for... (insert purpose here, e.g., "releasing waste management records for a specific business or organization") and it's likely that this form is being used to collect information from businesses and organizations to update their records or for other administrative tasks. We should ensure that this form is not redundant with other forms or processes, and that its completion does not conflict with any existing policies or procedures. Assuming all checks pass, let's create the help guide.</thinking>
-
 # Waste Management Records Release Form - Help Guide
 ## Purpose
 This form is used to release waste management records for a specific business or organization. If you are a representative of a business or organization with a waste management account, you are required to complete this form to indicate that you are authorized to release such records.

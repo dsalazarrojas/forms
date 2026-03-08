@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a comprehensive security assessment of the reception area, gathering information on potential security risks, control measures in place, and security findings. This form is essential for ensuring the security and safety of the reception area, which can be a high-traffic and sensitive environment. By completing this form, users can identify potential security risks, outline control measures, and record their submission details, helping to maintain a secure and safe environment.
-</thinking>
-
 # Reception Area Security Checklist - Help Guide
 ## Purpose
 This form is used to conduct a thorough security assessment of the reception area, gathering key information on potential security risks, control measures in place, and security findings.

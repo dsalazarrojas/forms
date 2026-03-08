@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about the maintenance of various technologies, such as technology, server, laptop, and network. This form is used to track the type and frequency of maintenance, as well as other relevant details like the last maintenance date and cost. The form helps ensure that maintenance tasks are up-to-date and not overlooked.
 
 This form should only be filled out when a technology requires maintenance. If you're unsure whether the technology requires maintenance, please reach out to your supervisor or the maintenance team.

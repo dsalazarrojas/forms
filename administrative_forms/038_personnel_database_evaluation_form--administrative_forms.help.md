@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personnel Database Evaluation Form - Help Guide
 ## Purpose
 The Personnel Database Evaluation Form is used to evaluate and record personnel information for our organization. This form helps to gather and analyze data on employees' work performance, skills, and other relevant details. Please fill out this form carefully to ensure accurate and complete information.

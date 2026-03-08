@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain approval for record retention and destruction processes. The form is used to ensure that records are properly maintained and destroyed according to the company's policy and relevant laws and regulations. This form should be completed by the relevant stakeholders involved in the record retention process.
-</thinking>
-
 # Final Record Retention Approval Form - Help Guide
 ## Purpose
 The Final Record Retention Approval Form is used to document and obtain approval for record retention and destruction processes. This form helps to ensure that records are properly maintained and destroyed according to the company's policy and relevant laws and regulations.

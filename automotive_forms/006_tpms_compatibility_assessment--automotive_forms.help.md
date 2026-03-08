@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess the compatibility of a vehicle with a specific TPMS (TPMS stands for Tire Pressure Monitoring System) product. The form collects information about the vehicle, including its details, model, TPMS product, and other relevant data. This information is likely used to determine whether the TPMS product is compatible with the vehicle or not. It's essential to fill out this form accurately to ensure that the assessment is thorough and reliable.
-
-Before proceeding, please ensure you have the necessary information about the vehicle and the relevant data for the form. Double-check that you are not duplicating any existing data or assessments, as this form is meant to provide a comprehensive evaluation of each vehicle.
-
-The form has multiple pages, and each page focuses on a specific aspect of the vehicle's compatibility. Please follow the instructions below to complete the form accurately.
-</thinking>
-
 # tpms_compatibility_assessment - Help Guide
 ## Purpose
 The tpms_compatibility_assessment form is designed to help assess the compatibility of a vehicle with a specific TPMS product.

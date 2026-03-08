@@ -1,6 +1,3 @@
-<thinking> 
-The form is intended to be used by guests or their representatives to report any damage or incidents that occurred during their stay at the hotel or accommodation. The form is designed to collect information about the incident, including whether the incident occurred, a brief summary of what happened, and any contact information for follow-up. The form ensures that the hotel is notified of any potential issues so that they can take the necessary steps to address the problem and provide the guest with the best possible experience. Please use this form only if the incident is not resolved at the time of checkout. If the incident is resolved, please do not fill out this form. If you have already reported this incident, please do not fill out this form again.</thinking>
-
 # Guest Room Damage Incident Form - Help Guide
 ## Purpose
 The Guest Room Damage Incident Form is used to report any damage or incidents that occurred during your stay at the hotel. This form helps us to take the necessary steps to address the issue and provide you with the best possible experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for indoor playground reservation. It's intended for parents or guardians to book a time slot for their children to play at the indoor playground. The form should only be filled out once per booking. Please make sure you're using the correct email address and phone number for the booking purpose.
-</thinking>
-
 # indoor_playground_reservation_form - Help Guide
 ## Purpose
 This form is for booking a time slot for your child(ren) to play at our indoor playground.

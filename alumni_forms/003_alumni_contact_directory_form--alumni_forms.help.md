@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the alumni contact directory form is used for its intended purpose and not duplicated. This form is designed to collect contact information and other relevant details from alumni members, which will be displayed in a publicly accessible directory. To prevent duplication, we should check if an alumni member has already submitted a profile before allowing them to submit another one. This form will be used to build a comprehensive directory of alumni contacts, making it easier for current students and staff to connect with alumni. 
-</thinking>
-
 # Alumni Contact Directory Form - Help Guide
 ## Purpose
 The Alumni Contact Directory Form is a collection of personal and professional details from our esteemed alumni community. This information will be displayed in a publicly accessible directory, allowing current students and staff to connect with alumni more easily.

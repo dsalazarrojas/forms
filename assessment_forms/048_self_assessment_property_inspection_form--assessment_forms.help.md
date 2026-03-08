@@ -1,11 +1,3 @@
-<thinking>... (Internal reasoning block for form purpose and checks for relevance and non-duplication)
-
-The "Self Assessment Property Inspection Form" is a document for property owners to self-assess their properties for inspections, maintenance, or other relevant purposes. This form is designed to collect information about the property's address, type, inspection date and time, and notes from the inspection. It is likely used by property owners, managers, or inspectors to record and keep track of property conditions and maintenance requirements.
-
-Before creating this form, it's essential to check that it's not a duplicate of other existing forms and that it serves a specific purpose within the organization. In this case, the form seems to be a standard self-assessment form for property inspections, which can be adapted or modified to suit the specific needs of the organization.
-
-</thinking>
-
 # Self Assessment Property Inspection Form - Help Guide
 ## Purpose
 The Self Assessment Property Inspection Form is a document for property owners to self-assess their properties for inspections, maintenance, or other purposes.

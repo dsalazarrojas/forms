@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the support network of an individual, evaluating their connections and relationships with different systems that provide emotional support. The form aims to gather information about the types of systems, frequency and quality of communication, potential barriers, and the individual's emotional intelligence and self-care practices. This form is likely used in a research or assessment context, such as evaluating the mental health and wellbeing of individuals, particularly in the context of social connections and support networks. It is essential to ensure that the form is completed accurately and thoroughly to provide reliable data. Please note that some fields may seem repetitive, but each one contributes to a comprehensive understanding of the individual's support network.
-</thinking>
-
 # Support Network Assessment - Help Guide
 ## Purpose
 This form is designed to assess the support network of an individual, evaluating their connections and relationships with different systems that provide emotional support.

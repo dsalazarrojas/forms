@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from startups about their current stage of development, milestones achieved, challenges faced, short-term goals, self-assessment of progress, review frequency, mentoring needs, and other relevant details. This form helps to track and evaluate the progress of startups and provide guidance and support where needed.
-To ensure relevance and non-duplication of information, please only fill out this form if you have not already done so in the past 3 months. If you have filled out this form previously, please do not submit this form again. 
-</thinking>
-
 # Startup Progress Assessment - Help Guide
 ## Purpose
 The Startup Progress Assessment form is designed to help startups track and evaluate their progress in various areas of development. This information will be used to identify areas of improvement and provide guidance and support where needed.

@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to gather information from patients and healthcare providers during clinical assessments. The form is divided into several sections to collect relevant data in a structured way. To ensure that this form is completed accurately, please review the following steps and guidelines carefully. 
-
-Please note that this form is designed to be completed by healthcare professionals, and the data collected will be used for medical decision-making.
-
-</thinking>
- 
 # Clinical Assessment Form - Help Guide
 
 ## Purpose

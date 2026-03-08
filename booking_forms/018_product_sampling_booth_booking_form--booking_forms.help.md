@@ -1,7 +1,3 @@
-<thinking>
-This form is for booking a product sampling booth at a specific event, allowing users to reserve a booth for the specified event date. Users should only fill out this form if they are looking to book a booth for the first time or if they need to make changes to an existing booking. If a user has previously booked a booth, they should not submit this form as it will not affect any existing bookings.
-</thinking>
-
 # Product Sampling Booth Booking Form - Help Guide
 ## Purpose
 This form is used to book a product sampling booth at a specified event, or make changes to an existing booking. If you have a previous booking, please do not submit this form. If you are unsure or have questions about booking a product sampling booth, please contact us directly.

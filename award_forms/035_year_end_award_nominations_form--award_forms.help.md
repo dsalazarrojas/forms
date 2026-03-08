@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to avoid duplication of efforts and ensure accurate data collection. This form is designed to collect information for year-end award nominations, where a user can select a team, provide details about the employee being nominated, and submitter information for the nomination. To avoid duplication, we should check if an award nomination already exists for the employee before submitting a new nomination. We should also ensure that all required fields are filled out properly. This form is meant to be completed by employees or managers within the company to nominate their peers for year-end awards.
-</thinking>
-
 # Year End Award Nominations Form - Help Guide
 
 ## Purpose

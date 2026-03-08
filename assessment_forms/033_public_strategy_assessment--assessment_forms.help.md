@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users assess their public strategy, which is a critical component of their overall business strategy. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI. It's intended to be a starting point for users to evaluate their public strategy, and it's released under a Creative Commons license, allowing users to modify and distribute it as needed. 
-
-Before starting, ensure you're filling out this form for the intended purpose and not duplicating effort. If you're unsure, please review the form's purpose and fields below.
-
-</thinking>
-
 # Public Strategy Assessment - Help Guide
 ## Purpose
 This form is designed to help you assess your public strategy, which is a critical component of your overall business strategy. It's a series of questions and fields meant to guide you in evaluating your public strategy, from setting a clear public strategy to creating a timeline and securing resources.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of inviting customers to pick up holiday treats at a bakery. The form is used to gather essential information from customers, including their name, contact email, contact phone number, holiday treat type preference, pickup date and time, and whether or not they will RSVP. This form is intended to help the bakery efficiently manage and communicate with customers regarding the pickup of holiday treats. Please ensure you only fill out this form once per customer.
-
-This form will be reviewed for accuracy before being used for pickup.
-</thinking>
-
 # Holiday Treat Pickup Invitation - Help Guide
 ## Purpose
 The Holiday Treat Pickup Invitation form is designed to gather essential information from customers to facilitate the pickup of holiday treats.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees for data access requests to support various business needs. This form is intended to be filled out by employees who require access to sensitive or confidential data. Before filling out this form, please ensure that you have a valid reason for requesting data access and that you are not duplicating an existing request.
-</thinking>
-
 # Employee Data Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to sensitive or confidential data for various business purposes.

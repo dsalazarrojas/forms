@@ -1,11 +1,3 @@
-<thinking>
-This form is used to confirm a sole member's borrowing confirmation in a financial or business context. The sole member, typically the owner or principal of the entity, is being asked to confirm their approval and agreement with terms related to borrowing or investment. This form serves as a formal confirmation of the member's consent, ensuring that all parties involved are on the same page. 
-
-It is essential to complete this form accurately and truthfully to maintain a clear record of agreements and to prevent any potential disputes or issues arising from misunderstandings. The form should not be used for any other purpose other than the confirmation of the sole member's agreement with the borrowing or investment terms. 
-
-Please ensure that the sole member completes this form with careful attention to detail and understanding of the implications of their agreement.
-</thinking>
-
 # Sole Member Borrowing Confirmation - Help Guide
 ## Purpose
 The Sole Member Borrowing Confirmation form is used to collect information from the sole member of an entity for the purpose of confirming their agreement with terms related to borrowing or investment. This form ensures that the entity has a formal record of the member's approval and understanding of the terms.

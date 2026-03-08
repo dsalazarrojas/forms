@@ -1,7 +1,3 @@
-<thinking>**Form Design and Purpose Consideration**
-
-This form is intended for reporting incidents of soda spills, which can have administrative significance due to various reasons such as inventory tracking, safety, or compliance with regulations. Before proceeding, ensure that you are not duplicating an already existing incident report, and that the incident you are reporting has not been previously addressed. The form fields and their corresponding labels should be self-explanatory, but here is a detailed guide to help you fill it out correctly.</thinking>
-
 # Soda Spill Incident Report - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will cover the essential information required to complete the Wheel Torquing Procedure Checklist. The form is designed to capture critical data points related to a vehicle's wheel torquing process, which is a crucial maintenance task in the automotive industry. The form collects information on vehicle and user details, wheel type, and other relevant factors. This guide will walk the user through the purpose and usage of each field, ensuring they can accurately and efficiently fill out the form.
-
-</thinking>
-
 # Wheel Torquing Procedure Checklist - Help Guide
 ## Purpose
 The Wheel Torquing Procedure Checklist is a form used to collect data on the wheel torquing process for a vehicle. This form helps ensure that all relevant details are recorded accurately, which aids in maintaining vehicle safety and preventing wheel-related issues.

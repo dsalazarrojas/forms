@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for submitting a self-tape audition for a musical production. To avoid duplication, only one submission per actor is allowed. Submissions without a valid email will be discarded. Before submitting, please ensure that all required fields are filled out correctly and that your self-tape link is public and accessible.
-
-</thinking>
-
 # Musical Audition Self Tape Submission - Help Guide
 ## Purpose
 The purpose of this form is to submit a self-tape audition for a musical production. Please fill out the required information to submit your audition.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Risk Assessment Form - Help Guide
 
 ## Purpose

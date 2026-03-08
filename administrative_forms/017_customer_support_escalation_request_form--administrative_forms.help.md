@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # customer_support_escalation_request_form - Help Guide
 
 ## Purpose

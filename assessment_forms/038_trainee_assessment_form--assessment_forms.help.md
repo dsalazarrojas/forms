@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Trainee Assessment Form", we need to understand its purpose, how to complete it, and what each field means. This form is likely used to assess trainees in an educational or professional setting, gathering information about their progress, evaluation, and feedback.
-
-The purpose of this form is likely to:
-- Evaluate trainees' performance and provide feedback
-- Track trainees' progress over time
-- Identify areas of improvement for trainees
-
-We should also ensure that the form is not used for duplicate purposes, such as evaluating the same trainee multiple times.
-
-</thinking>
-
 # Trainee Assessment Form - Help Guide
 ## Purpose
 

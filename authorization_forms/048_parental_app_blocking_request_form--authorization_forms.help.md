@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to facilitate a parental request to block access to specific applications on a child's device. The purpose of this form is to gather information from the parent or guardian regarding the reason for blocking, the child's details, and the application's specifics. The form is meant to be completed by a parent or guardian, and the information collected will be used to process the request to block the application.
-</thinking>
 # Parental App Blocking Request Form - Help Guide
 ## Purpose
 This form is used by parents or guardians to request blocking of specific applications on a child's device. Please use this form to provide the necessary information to help us process your request.

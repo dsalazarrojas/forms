@@ -1,7 +1,3 @@
-<thinking>
-This form is used to determine the eligibility and approval of patients for the Nirsevimab treatment. The form is designed to gather information about the patient, their medical history, and their treatment eligibility. To ensure accurate and efficient processing, please ensure that you are only submitting a single request per patient, and that the information provided is up-to-date and accurate. If you are unsure about any of the fields or have questions, please refer to the relevant sections below for clarification.
-</thinking>
-
 # Nirsevimab Eligibility And Approval Request Form - Help Guide
 ## Purpose
 This form is used to determine the eligibility and approval of patients for the Nirsevimab treatment. It is designed to gather essential information about the patient and their medical history.

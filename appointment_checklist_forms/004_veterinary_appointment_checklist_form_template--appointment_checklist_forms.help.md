@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Appointment Checklist Form Template - Help Guide
 
 ## Purpose

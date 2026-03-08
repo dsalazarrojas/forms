@@ -1,6 +1,3 @@
-<thinking>
-This help guide should only include information that would be useful to end users who would be filling out this form, not internal details or technical specifications.</thinking>
-
 # 401(k) Hardship Withdrawal Request - Help Guide
 ## Purpose
 This form is used to request a 401(k) hardship withdrawal due to an unforeseen financial hardship. The purpose of this form is to provide a structured way for participants to provide necessary information for the plan administrator to review and process their request.

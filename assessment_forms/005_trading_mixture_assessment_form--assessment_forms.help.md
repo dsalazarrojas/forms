@@ -1,13 +1,4 @@
-# <thinking>...
-This form is used to assess the trading mixture of a product, which is a critical process in ensuring the safe and proper handling of chemicals. The purpose of this form is to evaluate the trading mixture and its various components to identify any potential hazards and take necessary actions to mitigate them.
-
-The form is designed to gather information about the product's intended use, its components, and any associated hazards. It also captures details about the laboratory that conducted the testing and evaluation, as well as any relevant documentation or reports.
-
-This form is essential for ensuring that the trading mixture is safe and compliant with relevant regulations. It helps to identify potential risks and take corrective actions to prevent accidents or adverse effects.
-
-Please note that this form is a requirement for all trading mixtures and must be completed thoroughly and accurately. Any incomplete or inaccurate information may lead to potential safety issues.
-
-</thinking>...
+# ...
 
 # Trading Mixture Assessment Form - Help Guide
 

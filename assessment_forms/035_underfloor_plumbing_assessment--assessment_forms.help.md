@@ -1,5 +1,3 @@
-<thinking>Underfloor Plumbing Assessment is a form used to gather information about the condition of underfloor plumbing in a building. This form is used to assess the presence or absence of certain conditions that may impact the safety and integrity of the underfloor plumbing system. It is a critical component of regular building inspections, and the data collected from this form will help in making informed decisions about repairs and maintenance. Ensure that the form is not submitted for duplicate assessments, as it is used to monitor changes in the condition of underfloor plumbing over time.</thinking>
-
 # Underfloor Plumbing Assessment - Help Guide
 ## Purpose
 The Underfloor Plumbing Assessment form is used to collect information about the condition of underfloor plumbing in a building. The data collected will help in making informed decisions about repairs and maintenance.

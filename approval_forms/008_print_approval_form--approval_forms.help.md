@@ -1,8 +1,4 @@
-# <thinking>
-The purpose of this form is to collect information and approvals related to a wedding print order. It is meant to be filled out by a business owner or customer to confirm details of a print order, including categorization, description, business and customer names, wedding invitation status, and customer approval status. This form likely serves as a communication tool between businesses and their customers in the print industry.
-This form does not appear to be a duplicate of another form, and its creation was inspired by public metadata from various sources in the print and wedding industries.
-</thinking>
-# Print Approval Form - Help Guide
+# # Print Approval Form - Help Guide
 ## Purpose
 This form is used to confirm details of a print order for a wedding invitation.
 ## How To Complete This Form

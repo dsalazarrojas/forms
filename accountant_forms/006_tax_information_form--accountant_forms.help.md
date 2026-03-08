@@ -1,16 +1,3 @@
-<thinking>
-This form is likely used by accountants to collect tax information from their clients. The fields collected are likely used to identify the client, their tax filing status, and the accountant's contact information. This form is probably used to streamline the tax preparation process and ensure accurate and efficient tax filing.
-
-Before creating this help guide, I've reviewed the form schema and noticed the following:
-
-* The form has a mix of text, date, email, and select_one/select_multiple fields.
-* Some fields are required while others are not.
-* The form has a mix of fields that are likely used for identification (e.g., social security number, client ID) and those used for tax-specific information (e.g., tax filing status, tax identification number).
-* Some fields are likely used for accountant-client communication (e.g., email, phone).
-
-This guide will aim to provide clear and concise explanations for each field to help users understand its purpose and required information.
-</thinking>
-
 # Tax Information Form - Help Guide
 ## Purpose
 The Tax Information Form is used to collect and store tax-related information from clients. This form helps accountants to efficiently gather the necessary details for tax preparation and filing.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate a comprehensive inspection of a motor, ensuring that all necessary checks are performed and documented. This includes verifying motor connections, mounting, alignment, condition, and electrical and mechanical test results. The form also gathers information about test equipment used, safety precautions taken, and any remarks or comments from the inspector. By completing this form, inspectors can provide a detailed report of the motor's status, making it easier for maintenance teams to address any issues or perform repairs efficiently.
-
-Before proceeding, ensure that you have reviewed this guide and are familiar with the form's structure and purpose. If you have any doubts or questions, please refer to the relevant sections below.
-
-Please ensure that you are not duplicating work or revising information already documented in other forms or records. If you have any concerns or questions, please reach out to the relevant teams or supervisors for clarification.
-
-Before starting the inspection, ensure that you have all the necessary test equipment and materials. Some fields may require additional documentation or supporting evidence, so be sure to provide these as necessary.</thinking>
-
 # HV Motor Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to guide inspectors through a comprehensive motor inspection, ensuring that all necessary checks are performed and documented.

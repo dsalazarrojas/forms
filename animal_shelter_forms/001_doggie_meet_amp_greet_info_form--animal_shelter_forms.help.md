@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from pet owners about their pets and their preferences for meet-and-greet sessions. This form will help our team members better understand pet owners' needs and provide a smooth experience for both parties. Please ensure you are using this form for its intended purpose and not for any other reason, such as creating a pet adoption record. If you're unsure, double-check with the team leader before proceeding.
-</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 This form is used to collect information from pet owners and their pets to facilitate meet-and-greet sessions. It helps our team understand the pet's details and owner's preferences to provide a smooth and enjoyable experience for both.

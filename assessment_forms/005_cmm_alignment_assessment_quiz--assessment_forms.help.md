@@ -1,11 +1,3 @@
-<thinking>
-
-The CMM Alignment Assessment Quiz is an evaluation tool used to assess an organization's maturity in implementing the CMM (Capability Maturity Model). This quiz helps assessors evaluate an organization's processes, structure, and practices against the CMM framework.
-
-It's essential to ensure that this form is completed correctly, as it will provide accurate and valuable insights into your organization's maturity level. Please fill out the form carefully, following the instructions below.
-
-</thinking>
-
 # CMM Alignment Assessment Quiz - Help Guide
 ## Purpose
 The CMM Alignment Assessment Quiz is designed to assess an organization's level of alignment with the CMM framework. It evaluates various aspects of the organization's processes, structure, and practices, providing a comprehensive picture of its maturity level.

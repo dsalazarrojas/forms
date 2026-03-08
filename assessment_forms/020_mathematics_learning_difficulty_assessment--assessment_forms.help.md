@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a student's difficulty level in mathematics, specifically targeting areas such as Math Fact Fluency, Place Value, Fractions, and other related concepts. The assessment will help teachers identify areas where students are struggling and need extra support. The form is intended for both teachers and parents to use, and it will help them determine the frequency, type, and location of assessments, as well as the tools and strategies used. This form is not affiliated with any specific form platform and is an original creation. It is released under the Creative Commons license and can be freely used, modified, and even sold, as long as credit is given. 
-</thinking>
-
 # Mathematics Learning Difficulty Assessment - Help Guide
 
 ## Purpose

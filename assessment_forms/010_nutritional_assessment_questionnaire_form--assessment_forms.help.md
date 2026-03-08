@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's nutritional status, focusing on blood sugar, fatty acid, inflammation, and toxicity levels, as well as their eating habits, contact details, and appointment information. It ensures that all required fields are filled out, but it's crucial to note that filling out this form is not meant to diagnose or treat any medical conditions. This guide is designed to help users understand how to complete the form accurately and ensure they provide necessary information for proper care.
-</thinking>
-
 # Nutritional Assessment Questionnaire Form - Help Guide
 ## Purpose
 The Nutritional Assessment Questionnaire Form is designed to gather information about a patient's nutritional status, including their blood sugar, fatty acid, inflammation, and toxicity levels, as well as their eating habits and contact details. This form is not meant to diagnose or treat any medical conditions but rather to collect data for proper care.

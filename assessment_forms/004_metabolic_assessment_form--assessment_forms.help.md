@@ -1,7 +1,3 @@
-<thinking>...
-The "Metabolic Assessment Form" is used to assess an individual's metabolic rate and daily energy expenditure. The form collects information on resting metabolic rate (RMR), basal metabolic rate (BMR), daily activity level, weight, height, age, and other relevant factors to provide an estimate of an individual's metabolic rate and energy expenditure. Before completing the form, please ensure that you have answered the questions in the form honestly and to the best of your abilities. Please also make sure you are not duplicating this form for non-relevant purposes.
-...</thinking>
-
 # Metabolic Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to help calculate an individual's metabolic rate and daily energy expenditure based on provided information.

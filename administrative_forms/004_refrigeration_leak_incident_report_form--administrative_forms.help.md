@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used by maintenance staff or operations personnel to report and document refrigeration system leaks or malfunctions. The goal is to gather information about the incident, including the date and location of the leak, a description of the leak, and details about the corrective action taken. This form may be used as part of a larger maintenance or quality control process to track and analyze refrigeration system incidents.</thinking>
-
 # Refrigeration Leak Incident Report Form - Help Guide
 
 ## Purpose

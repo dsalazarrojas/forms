@@ -1,12 +1,3 @@
-<thinking>
-We will first review the form structure and the fields provided in the YAML inputSchema to ensure we understand its purpose and usage. The form appears to be a Retail Compliance Assessment Form, designed to collect information about store managers, including their location, contact details, vehicle usage, and other relevant information. The fields are mostly text or date fields with a few select_multiple fields for specific options.
-
-The form's purpose is to assess retail store managers' compliance with certain standards, and the information collected will likely be used for audit or review purposes. Before diving into the help guide, we should confirm the form's relevance and usage within your organization.
-
-Upon reviewing the form structure and fields, we can infer that the form is likely used internally for compliance or audit purposes, and its completion will impact the accuracy of the assessment. This form might be used for store managers to report their information for compliance checks or for auditors to verify store managers' records.
-
-To avoid duplication, we will ensure that this help guide is concise and easy to follow, using the provided YAML fields as a reference. We will break down each field in a field-by-field explanation, making it easy for end-users to complete the form accurately and without confusion.</thinking>
-
 # Retail Compliance Assessment Form - Help Guide
 
 ## Purpose

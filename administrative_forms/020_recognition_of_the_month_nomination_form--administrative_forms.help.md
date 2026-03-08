@@ -1,8 +1,3 @@
-<thinking>
-This guide is for the "Recognition Of The Month Nomination Form" which is used to nominate a team member for recognition of their outstanding work or achievements. The form is meant to be completed by a team member to nominate another team member, providing details about the nominee, the reason for the nomination, and the recognition message. To ensure accuracy, please ensure that you are nominating someone who has made a significant contribution to the team. Also, please check if a nomination for the same team member has already been submitted before submitting a new form.
-
-</thinking>
-
 # Recognition Of The Month Nomination Form - Help Guide
 ## Purpose
 

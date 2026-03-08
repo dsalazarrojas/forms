@@ -1,11 +1,3 @@
-<thinking>
-A Cross Functional Team Performance Evaluation Form is used to gauge the performance of a team's collaboration, productivity, and leadership qualities. This form helps teams and managers evaluate team members' strengths and weaknesses, providing feedback for improvement. To avoid duplication of efforts, please ensure that each team member only fills out the form once.
-
-This form assesses various dimensions such as project outcome impact, team performance, leadership qualities, collaboration, and feedback. The form has been designed to collect data efficiently and accurately, helping teams and managers make informed decisions.
-
-Please note that this form is a crucial tool for team evaluation. Before proceeding, ensure you understand the form's intent and purpose to provide accurate and thoughtful feedback.
-</thinking>
-
 # Cross Functional Team Performance Evaluation Form - Help Guide
 ## Purpose
 The Cross Functional Team Performance Evaluation Form is a tool to assess team collaboration, productivity, and leadership qualities to provide constructive feedback and improve team performance.

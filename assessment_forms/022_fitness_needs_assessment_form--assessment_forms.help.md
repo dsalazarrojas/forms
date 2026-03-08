@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Needs Assessment Form - Help Guide
 
 ## Purpose

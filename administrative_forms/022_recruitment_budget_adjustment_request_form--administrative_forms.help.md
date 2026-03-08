@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow staff members to request a budget adjustment for a particular period of time. These requests can be due to various reasons such as unforeseen expenses, changes in project scope, or external factors affecting the project's timeline. The form's primary goal is to track these requests and provide management with accurate and detailed information on the reasons for budget adjustments and the expected completion dates.
-
-Before completing this form, ensure that you have a valid reason for the budget adjustment and that it's not a duplicate request. This form is meant for new or revised budget adjustments, not for revisions or updates to existing requests.
-
-</thinking>
-
 # Recruitment Budget Adjustment Request Form - Help Guide
 ## Purpose
 The Recruitment Budget Adjustment Request Form is used by staff members to submit requests for budget adjustments due to unforeseen expenses, changes in project scope, or external factors affecting the project's timeline.

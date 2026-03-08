@@ -1,9 +1,3 @@
-<thinking>This form is designed to collect information about a pet's owner and the pet itself. This data can be used to better understand the relationship between the owner and their pet, and provide valuable insights for animal shelter organizations. Please complete the form carefully and accurately to ensure that the information is used to benefit the pet and its owner.
-
-This form is intended for general data collection purposes only. Please do not duplicate or use the form for any other purpose without explicit permission from the animal shelter.
-
-</thinking>
-
 # Pet Survey - Help Guide
 ## Purpose
 The Pet Survey form is used to collect information about a pet and its owner. This information is used to better understand the relationship between the owner and their pet and to provide valuable insights for animal shelter organizations.

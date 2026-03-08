@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their reasons for choosing an accounting services provider. The form is composed of 8 fields that cover various aspects of their preferences and requirements. The purpose of this form is to help the accounting services provider understand the client's needs and tailor their services accordingly. 
-
-Before completing this form, please ensure that you have not previously submitted a similar form, and that the information you provide is accurate and up-to-date.
-
-</thinking>
-
 # reasons_for_choosing_accounting_services - Help Guide
 ## Purpose
 This form is designed to gather information from clients about their preferences and requirements for accounting services. This information will help the accounting services provider to understand the client's needs and provide tailored services that meet their expectations.

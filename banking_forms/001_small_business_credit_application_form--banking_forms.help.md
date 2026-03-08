@@ -1,5 +1,3 @@
-<thinking> This form is designed to capture information from small businesses to facilitate the credit application process. It's essential to ensure the provided data is accurate and up-to-date. Please review the form carefully and fill it out completely. Note: This form is intended to provide general information about the applicant business. Please avoid providing sensitive or duplicate information, as this may cause delays in the application process. </thinking>
-
 # Small Business Credit Application Form - Help Guide
 ## Purpose
 The Small Business Credit Application Form is designed to gather information from small businesses to facilitate the credit application process. This form is used to collect business and contact information, financial data, and other relevant details to assess the creditworthiness of the applicant business.

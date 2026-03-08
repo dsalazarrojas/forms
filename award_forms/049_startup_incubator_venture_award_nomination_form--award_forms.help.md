@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Startup Incubator Venture Award Nomination Form is a crucial tool for nominating startups for the award, helping the incubator team identify and acknowledge outstanding startups that are pushing the boundaries of innovation in the region.
 
 Before proceeding, please ensure that:

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the "Disciple Characteristics Assessment" form. It is essential to ensure that each field is filled out correctly to provide accurate and relevant information.
-</thinking>
-
 # Disciple Characteristics Assessment - Help Guide
 ## Purpose
 The "Disciple Characteristics Assessment" form is designed to collect information about an individual's personal characteristics, including their name, contact details, and assessment period. This form helps to assess the characteristics of a disciple, which can be used for various purposes such as evaluation, comparison, or categorization.

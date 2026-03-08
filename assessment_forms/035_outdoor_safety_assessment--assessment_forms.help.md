@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the outdoor safety assessment form. The form is designed to assess the safety of an outdoor area, which involves inspecting the area, identifying potential hazards, performing a risk assessment, creating an action plan, determining follow-up actions, and reporting incidents. This form is not intended for duplicate or unnecessary submissions. Please ensure that all required fields are filled out accurately.
-</thinking>
-
 # outdoor_safety_assessment - Help Guide
 ## Purpose
 The outdoor safety assessment form is used to evaluate the safety of an outdoor area. This form helps identify potential hazards, assess risks, and create a plan to address any safety concerns.

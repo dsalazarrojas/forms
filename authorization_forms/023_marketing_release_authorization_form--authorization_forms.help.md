@@ -1,6 +1,3 @@
-<thinking>**This form is used to obtain marketing release authorization for various purposes such as social media promotion, email campaigns, or other marketing activities. The form is meant for customers or users to indicate their consent to share their information with our marketing channels.**
-
-</thinking>
 # Marketing Release Authorization Form - Help Guide
 ## Purpose
 The Marketing Release Authorization Form is used to allow us to share your information with our marketing channels, such as social media, email campaigns, or other marketing activities. This form is optional, and you are not required to fill it out if you do not wish to participate in these activities.

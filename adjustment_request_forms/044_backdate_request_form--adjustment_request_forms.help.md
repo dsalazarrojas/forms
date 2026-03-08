@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request a date change on a record. The form is designed to be completed by an employee who wants to request a date change on a specific record. The purpose of this form is to provide a structured way to submit a backdate request, ensuring that all necessary information is provided and that the request is properly documented.
-
-When using this form, please ensure that you are not duplicating a request that has already been submitted. Before starting, check if there is an existing request for the same record and reason for change. If you are unsure, please contact your supervisor or the records department for guidance.
-
-</thinking>
-
 # Backdate Request Form - Help Guide
 ## Purpose
 The Backdate Request Form is used to request a date change on a specific record. This form is designed to gather information necessary for the request and ensure that all relevant details are provided for review and processing.

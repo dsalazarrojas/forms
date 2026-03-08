@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather information about incidents that have occurred within the organization. It is meant to be completed by employees or users who have witnessed or reported an incident, providing relevant details to help facilitate the investigation and resolution of the incident. To avoid duplication, please ensure that you only submit a report for each incident once.
 
 # incident_report_information_form - Help Guide

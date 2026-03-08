@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Festival Costume Order Request Form - Help Guide
 
 ## Purpose

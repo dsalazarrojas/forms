@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Prior Authorization Form - Help Guide
 
 ## Purpose

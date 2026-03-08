@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Football Registration Form is to collect information from new or existing players registering for a football team. This form is designed to capture the player's name, position, email, and phone number. It will be used to update the team's database and allow coaches or administrators to manage player information.
-
-Before starting this guide, let's assume that the form will not be used to edit an existing player's information. This guide is for players who are new to the team or need to register for the first time.
-
-</thinking>
-
 # Football Registration Form - Help Guide
 ## Purpose
 The Football Registration Form is used to collect information from new or existing players registering for a football team. It helps the team's administrators and coaches manage player information in the team's database.

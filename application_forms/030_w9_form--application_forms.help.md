@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The W9 Form is used to collect personal information from individuals or entities that need to provide a W9 form, which is a tax form required by the Internal Revenue Service (IRS) for reporting certain types of income, such as non-employee compensation. This form is often used for tax purposes and needs to be completed accurately to ensure compliance.
 
 Before proceeding, please verify that you are completing this form for a valid purpose and that you have the necessary permissions and information to complete it accurately.

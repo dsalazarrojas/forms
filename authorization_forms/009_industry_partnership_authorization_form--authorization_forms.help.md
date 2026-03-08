@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about industry partnerships. It is intended for business partners to provide general information about themselves and their companies, as well as details about their contact information and agreement terms. The form is not meant to be a comprehensive business partnership agreement, but rather a way for the company to get to know the partner better and establish a foundation for potential collaboration. Please note that this form is not a legally binding document.
 
 # industry_partnership_authorization_form - Help Guide

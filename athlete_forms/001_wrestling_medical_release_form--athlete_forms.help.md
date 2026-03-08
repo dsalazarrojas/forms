@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML, I notice that this form is designed for medical clearance purposes, specifically for wrestling events. The form aims to collect information about the athlete, their medical insurance provider (if applicable), and emergency contacts. It also captures medical history, conditions, and allergies. Consent is a crucial aspect of the form, ensuring the athlete grants permission for medical treatment. Each field is essential for a comprehensive medical clearance process, and the form is likely used for safety and liability purposes. No fields appear to be redundant or superfluous. The form is well-structured for the wrestling industry. </thinking>
-
 # wrestling_medical_release_form - Help Guide
 ## Purpose
 This form is designed to collect medical clearance information from athletes participating in wrestling events, ensuring a safe and secure environment for all participants. It is essential to complete this form carefully and accurately to guarantee a smooth experience during the event.

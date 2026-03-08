@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Utility Service Termination Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form is used to collect grading feedback for student assignments. It's essential to ensure all fields are filled out to provide comprehensive feedback for students. Please note that some fields are required, while others are optional, but still contribute to a comprehensive review.
-</thinking>
-
 # Assignment Grading Form - Help Guide
 ## Purpose
 The Assignment Grading Form is used to collect feedback and grading information from instructors on student assignments. It's a detailed form designed to help you provide a thorough review, offering constructive comments and scores for each criterion.

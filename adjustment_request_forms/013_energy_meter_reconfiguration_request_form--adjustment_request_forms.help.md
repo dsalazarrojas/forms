@@ -1,9 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll review the form YAML to understand what information is being collected and what actions are being triggered.
-The form is named "Energy Meter Reconfiguration Request Form" and seems to be used for collecting information related to energy meter reconfigurations. The form asks for details about the energy meter, such as the serial number, current and proposed readings, and meter type. It also asks for contact information of the person submitting the request, including name, email, phone, and department. Additionally, the form asks for the date and time of submission and reconfiguration. This form likely serves as a central point for managing energy meter reconfigurations and assigning tasks to specific tools or individuals.
-To ensure there's no duplication, the form seems to be designed to collect unique information for each request, which can be used to track and manage the status of each reconfiguration request.
-</thinking>
-
 # Energy Meter Reconfiguration Request Form - Help Guide
 ## Purpose
 The Energy Meter Reconfiguration Request Form is used to collect information about energy meter reconfigurations. This form is completed by an individual submitting a request for reconfiguration and is used to track and manage the request.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and evaluation data from trainees after a medical simulation training session. The form is likely used to assess the effectiveness of the training session, gather feedback from trainees, and possibly provide evaluation criteria for trainers. 
-
-This form should only be completed by trainees who have attended the medical simulation training session. If you are not the trainee who attended the session, please do not complete this form to avoid duplication of data and ensure accurate analysis.
-
-</thinking>
-
 # Medical Simulation Training Evaluation Form - Help Guide
 ## Purpose
 

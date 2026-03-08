@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that the end user understands its purpose and the information required to fill it out. The form is for pet rescue applications, and we want to make sure that users understand what information is needed and how to fill it out accurately. We should also check that the fields are not duplicated or redundant, and that the user knows what to expect at each step of the form.
-</thinking>
-
 # Pet Rescue Application Form - Help Guide
 ## Purpose
 The Pet Rescue Application Form is designed to help potential adopters apply to take a pet into their care. The form gathers information about the user's goals and preferences for adopting a pet, as well as details about the pet they are interested in adopting.

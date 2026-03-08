@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information for estate sales that have an early access option. Early access allows certain individuals or groups to view or attend a sale before the general public. The form should only be used for estate sales that have this early access feature. If unsure, please review the event listing or contact the sale administrator.
 
 Form completion instructions can be found below.

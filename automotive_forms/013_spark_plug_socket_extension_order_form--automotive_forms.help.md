@@ -1,14 +1,3 @@
-<thinking>
-Form purpose: 
-- The form is meant for customers to order a spark plug socket extension. 
-- The form will likely be used by customers who need to replace or modify their spark plug socket for various reasons such as maintenance or repair. 
-- This form will guide the customer through a series of questions to determine what type of spark plug socket extension they need and what additional information is required. 
-
-- Ensure that this form will only be accessed by customers with a legitimate reason for ordering an extension or a known need. 
-- Check that there aren't any customers with the same needs that are trying to place the order twice. 
-- Verify that the information collected here will be accurate for production and customer satisfaction purposes.
-</thinking>
-
 # Spark Plug Socket Extension Order Form - Help Guide
 ## Purpose
 The Spark Plug Socket Extension Order Form is a tool to help you determine what type of spark plug socket extension you need for your vehicle. Please follow the instructions below to complete the form accurately.

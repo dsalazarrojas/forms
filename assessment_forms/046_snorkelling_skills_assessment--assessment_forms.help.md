@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Snorkelling Skills Assessment - Help Guide
 ## Purpose
 The Snorkelling Skills Assessment is designed to evaluate the snorkelling skills of participants in the snorkelling program. This form is used to collect relevant information about each participant, including their name, contact email, snorkelling level, ability, and frequency of snorkelling activities. The form also includes additional fields for any other snorkelling-related information that needs to be captured.

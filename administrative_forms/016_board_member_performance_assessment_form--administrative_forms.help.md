@@ -1,5 +1,3 @@
-<thinking>As a board member performance assessment form, this form helps evaluate the performance of board members over a specific period, usually a quarter or year. The assessment is typically done by a reviewer who is familiar with the board member's role and responsibilities. This form ensures that the reviewer considers various aspects of the board member's performance, including meeting attendance, preparation, participation, and strategic thinking, among others. By providing a structured framework for the assessment, this form helps ensure that the evaluation is fair, comprehensive, and data-driven. This guide will help you complete the form accurately and effectively.</thinking>
-
 # Board Member Performance Assessment Form - Help Guide
 ## Purpose
 The Board Member Performance Assessment Form is designed to evaluate the performance of board members in various areas, providing an objective and data-driven assessment of their strengths and weaknesses.

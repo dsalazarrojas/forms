@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about employee attendance. It is likely used by HR or management teams to track employee presence and absence. The purpose of this form is to record the name of the employee, the date of attendance, and the duration of their presence. This form is likely to be filled out by employees or their representatives to report their attendance. The form is not designed for other types of data collection, such as customer feedback or client data. If this form is being used in other contexts, it may not be effective or relevant.
-
-</thinking>
-
 # Employee Attendance Form - Help Guide
 ## Purpose
 This form is used to record and track employee attendance, ensuring accurate reporting for HR or management teams.

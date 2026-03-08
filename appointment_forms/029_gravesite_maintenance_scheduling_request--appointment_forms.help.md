@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for scheduling maintenance tasks at gravesites. It's used by staff members to request maintenance for gravesites, and it's likely used by those involved in the maintenance process, such as caretakers or administrators. The form should not be used for other purposes or by non-authorized personnel, and it's assumed that the user has access to this form through proper channels. Before filling out the form, make sure you're authorized to make these requests and that you're not duplicating a request that's already been made. If you're unsure, please reach out to the relevant personnel or contact the gravesite management team.
-</thinking>
-
 # Gravesite Maintenance Scheduling Request - Help Guide
 ## Purpose
 This form is used to request maintenance for gravesites. Maintenance can include tasks such as grave maintenance, headstone repair, and memorial stone replacement.

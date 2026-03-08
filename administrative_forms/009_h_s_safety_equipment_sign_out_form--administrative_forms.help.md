@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to sign out and track safety equipment. It's essential to complete this form accurately and thoroughly to ensure that equipment is properly documented and managed within the organization. Before proceeding, please ensure that the equipment is not already signed out or that the information entered is correct. This guide will walk you through the process and explain each field's purpose.</thinking>
-
 # H₂S Safety Equipment Sign Out Form - Help Guide
 ## Purpose
 The purpose of this form is to document and track the signing out of safety equipment within the organization. This includes providing information about the equipment, the user signing it out, and the date and time of sign out.

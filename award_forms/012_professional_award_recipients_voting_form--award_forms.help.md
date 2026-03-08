@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather opinions from team members on the award recipients of a company-sponsored award. 
-The form is intended for employees who have been selected as part of a professional award and are voting on who should receive a company-wide award. 
-The form ensures that the voting process is fair and unbiased, and that each participant's opinion is anonymous and secure. 
-This form is meant to be completed by people who have been selected for a professional award and want to vote on the winners of other awards. 
-To avoid duplicate votes, this form is only accessible to those who have received a professional award. 
-</thinking>
-
 # Professional Award Recipients Voting Form - Help Guide
 
 ## Purpose

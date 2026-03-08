@@ -1,25 +1,3 @@
-<thinking>
-The purpose of this form is to calculate the weekly expenses and income for a given period. This form is likely used by accountants, bookkeepers, or individuals tracking their personal finance. The form is not strictly limited to any specific business or organizational use case.
-
-This form does not seem to be part of a larger, more complex process, and it appears to be a simple calculation tool. There is no indication that it is used for a specific business or department, making it a generic form for personal or internal use.
-
-The form has multiple pages, but they all seem to be related to the same topic, weekly expenses and income calculations. There is no clear indication of what triggers this form to be used or how it fits into a larger process.
-
-The form has a mix of required and optional fields, which might make it confusing for users who are not familiar with this specific process. The form also has a mix of text, number, date, and select fields, which might require additional guidance on how to properly fill out the form.
-
-The form has some fields that seem to be calculated based on other fields, which might need additional explanation. For example, the "Total Expenses Total" and "Total Income Total" fields seem to be calculated based on other fields, but it's not clear how they are calculated or what they are used for.
-
-The form has a "Notes" field, which is typically used for additional comments or explanations, but it's not clear how this field is used in this specific form.
-
-The form has a "Category" field, which seems to be a selection field, but it's not clear what categories are available or how they are used.
-
-The form has a "Currency" field, which seems to be a selection field, but it's not clear what currencies are available or how they are used.
-
-The form has a "Submit" field, which seems to be a text field, but it's not clear what this field is used for.
-
-Overall, this form seems to be a simple calculation tool for weekly expenses and income, but it could benefit from additional guidance on how to properly fill it out and what each field is used for.
-</thinking>
-
 # weekly_expense_calculation_form - Help Guide
 ## Purpose
 This form is used to calculate weekly expenses and income for a given period.

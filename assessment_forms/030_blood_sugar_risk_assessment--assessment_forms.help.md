@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the risk of blood sugar levels in individuals. The purpose of this form is to collect information on demographic and lifestyle factors that contribute to the risk of developing high blood sugar levels. This form is intended for people who want to understand their risk factors and take steps to prevent or manage blood sugar levels. By completing this form, individuals will be able to provide detailed information about their name, contact details, physical characteristics, medical history, lifestyle habits, and medical risk factors. This is the only form in this category, so there's no need to check for duplication.
-</thinking>
-
 # Blood Sugar Risk Assessment - Help Guide
 ## Purpose
 The Blood Sugar Risk Assessment form is designed to help individuals understand their risk factors for developing high blood sugar levels. It collects information on demographic and lifestyle factors that contribute to the risk of high blood sugar levels.

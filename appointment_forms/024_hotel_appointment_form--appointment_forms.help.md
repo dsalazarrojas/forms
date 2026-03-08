@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from guests for hotel appointments. The form is designed to be simple and easy to fill out, with no requirements for authentication or validation. The form fields are divided into sections, each with a specific purpose. The "Hotel Appointment Form" is an AI-generated form, not affiliated with any proprietary form platforms. It is released under CC BY 4.0 and can be used, modified, and even sold with proper credit. The form is not intended to be used for any commercial or illegal purposes. This form is for personal or non-commercial use only.
-</thinking>
-
 # Hotel Appointment Form - Help Guide
 ## Purpose
 The Hotel Appointment Form is designed to collect information from guests for hotel appointments. It's a simple, easy-to-use form with no authentication or validation requirements.

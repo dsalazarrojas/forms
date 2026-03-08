@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Uniform Order Form - Help Guide
 
 ## Purpose

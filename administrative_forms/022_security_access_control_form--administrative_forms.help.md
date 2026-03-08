@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to request access to a secure area, allowing users to specify the level of access they need and the security officer(s) to contact for approval. The form should only be filled out by individuals who are authorized to submit requests for access. To determine whether or not you should fill out this form, first ask yourself if you need access to a secure area. If you do not need access, do not complete this form. If you have already submitted this form and have not received access, do not recomplete this form; instead, contact the security officer who was assigned to handle your request.
 
 </thinking>

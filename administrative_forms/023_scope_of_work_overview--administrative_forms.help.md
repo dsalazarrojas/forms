@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a project's scope, expectations, responsibilities, timelines, and deliverables. This form is designed to gather relevant details from project stakeholders, team members, or other relevant parties involved in the project. It is an administrative form that aims to facilitate project planning and organization.
-
-When creating this form, I've considered the following aspects to ensure it meets the required fields and functionality:
-
-- The form has a clear and simple structure with multiple pages, each containing a single question or set of questions.
-- The form's pages are well-organized, making it easy to navigate and complete.
-- The fields are mostly text-based, which is suitable for collecting descriptive information.
-- The required fields are marked as optional, indicating that they are not mandatory.
-- The form does not include any sensitive or highly personal information.
-
-This form appears to be a good starting point for project planning and organization. However, please note that this is an AI-generated form, and it's always a good idea to review and refine it based on your specific project needs and requirements.
-</thinking>
-
 # scope_of_work_overview - Help Guide
 ## Purpose
 This form is designed to collect information about a project's scope, expectations, responsibilities, timelines, and deliverables from project stakeholders, team members, or other relevant parties involved in the project.

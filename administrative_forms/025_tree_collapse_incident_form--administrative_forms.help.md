@@ -1,21 +1,3 @@
-<thinking>
-This form is used for reporting tree collapse incidents. Tree collapse incidents can have significant consequences on the environment, property, and human life. This form will help gather essential information to document and understand the incidents. Please ensure that you fill in the form accurately and thoroughly, and only submit it once the incident is fully investigated.
-
-To complete this form, follow these steps:
-
-1. Enter the incident date when the tree collapse occurred.
-2. Provide the height of the tree at the time of the incident.
-3. Select the species of the tree that collapsed.
-4. Enter the location of the incident.
-5. Report if the tree was in good or bad condition before collapsing.
-6. Record any witness statements related to the incident.
-7. Attach any relevant witness statements or supporting documents related to the incident.
-8. Report the response team's involvement and their level of participation in the response effort.
-9. Enter the time the response team took to respond to the incident.
-10. Enter the date the response team arrived on the scene.
-
-</thinking>
-
 # Tree Collapse Incident Form - Help Guide
 ## Purpose
 This form is used to collect information about tree collapse incidents.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for nominating an individual as a top performer of the month. The form asks for basic information about the nominee, the nominator, and the nomination details. It also has a select_multiple field which could potentially be used for indicating whether the nominee is "yes" or "no" but it's unclear in what context. I'll proceed with the assumption that it's for indicating whether the nominee is a "yes" or "no" in the context of being a top performer. The form is designed for end-users to provide information about a specific individual, so it's likely used for internal purposes within an organization.
-</thinking>
-
 # top_performer_of_the_month_nomination_form - Help Guide
 ## Purpose
 This form is used to nominate an individual as a top performer of the month.

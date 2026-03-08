@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a general purpose worksheet for users to input and organize their information, thoughts, and ideas in a structured manner. This form is not specific to any particular business process or workflow, making it a catch-all for general tasks and projects. It does not duplicate other existing forms, but rather serves as a flexible and versatile template for users to create custom worksheets for various purposes.
-
-To ensure that the form remains relevant and not redundant, its fields and layout are designed to be simple and easily adaptable. However, some fields may require additional information or clarification. Please review the following help guide for further clarification on each field.
-
-</thinking>
-
 # General Purpose Worksheet - Help Guide
 ## Purpose
 

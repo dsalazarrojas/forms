@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # electronic_signature_authorization_form - Help Guide
 ## Purpose
 The electronic signature authorization form is a document that requires a user's electronic signature to authorize a specific action or process. This form is used to ensure that the user understands and agrees to the terms and conditions of the electronic signature.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to confirm the attendance of team members to a game or match. The purpose of this form is to track team attendance and gather relevant information for event planning. Please ensure that you are using this form to confirm attendance for a specific game or match and not for other purposes. If you are completing this form for multiple events, please use a separate instance of this form for each event.
-</thinking>
 # Match Attendance Confirmation - Help Guide
 ## Purpose
 The Match Attendance Confirmation form is used to confirm the attendance of team members to a game or match. It is used to track team attendance and gather relevant information for event planning.

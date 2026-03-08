@@ -1,7 +1,3 @@
-<thinking>
-This form is used to manage business planning leave requests. It is meant to be filled out by employees when they need to take leave for business planning activities such as meetings with investors, conducting market research, or attending business training. To ensure accurate completion and minimize duplication, please review your company's leave policy and only submit the form if your request aligns with your department's guidelines.
-</thinking>
-
 # Business Planning Leave Form - Help Guide
 ## Purpose
 The Business Planning Leave Form is used to submit a leave request for business planning activities such as meetings with investors, conducting market research, or attending business training. It requires input from employees regarding their leave details and provides fields for manager and HR approval.

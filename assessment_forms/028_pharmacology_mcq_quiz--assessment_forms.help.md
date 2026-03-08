@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll first review the provided YAML structure and ensure that I understand the form's purpose and fields before creating the user-facing help guide. I'll also check for any potential issues or inconsistencies in the form's design or data.</thinking>
-
 # Pharmacology MCQ Quiz - Help Guide
 ## Purpose
 

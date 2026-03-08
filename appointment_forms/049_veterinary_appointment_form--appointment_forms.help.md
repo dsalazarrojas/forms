@@ -1,9 +1,3 @@
-<thinking>
-
-This veterinary_appointment_form form is designed to gather information for scheduling and managing veterinary appointments. It is intended for pet owners to book appointments with a veterinarian and ensure they are prepared for the visit. This form will guide you through the necessary steps to complete it correctly.
-
-</thinking>
-
 # veterinary_appointment_form - Help Guide
 ## Purpose
 The veterinary_appointment_form is used to schedule appointments with a veterinarian. Please fill out this form to provide necessary information for the appointment.

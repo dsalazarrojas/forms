@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a client's agreement and terms for the provision of services. This form will likely be used by clients and customers to agree to the terms and conditions for services such as legal or consulting services. The form will be completed in multiple sections, each covering a specific aspect of the agreement. The fields will be populated with information such as the client's legal name, authorized representative (if applicable), business address, contact details, scope of services, term of agreement, payment terms, and other relevant details. The form will also cover the terms and conditions of the agreement, including the termination clause, liability limitation, confidentiality agreement, and more. It may be used to generate a binding agreement that is accepted by both the service provider and the client.
-
-</thinking>
-
 # Client Agreement And Terms Form - Help Guide
 
 ## Purpose

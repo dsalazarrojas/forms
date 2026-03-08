@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Needs Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a family's needs and circumstances. It is intended for use by social workers, counselors, or other professionals working with families to assess their needs and develop a plan to support them.

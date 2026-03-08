@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cybersecurity_incident_records_release_form - Help Guide
 ## Purpose
 This form is for reporting and releasing cybersecurity incident records. It captures critical information about the incident, including the organization's details, incident category, and contact information for the person responsible.

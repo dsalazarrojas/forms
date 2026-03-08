@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a player's performance and certification in a sports-related context. It is intended to gather information on various aspects of a player's skills, physical ability, teamwork, communication, sportsmanship, coach and parent interactions, and overall attitude. The form is not affiliated with or endorsed by any form platform, and it's an original adaptation created using public survey topic metadata. The form is released under CC BY 4.0, allowing free use, modification, and even commercialization, provided credit is given.
-</thinking>
-
 # Player Assessment And Certification Form - Help Guide
 ## Purpose
 The Player Assessment And Certification Form is designed to evaluate a player's performance and certification in a sports-related context. This form collects information on different aspects of a player's skills, physical ability, teamwork, communication, sportsmanship, coach and parent interactions, and overall attitude.

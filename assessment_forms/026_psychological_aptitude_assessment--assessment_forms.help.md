@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to assess an individual's aptitude for psychological evaluations. The purpose of this form is to gather information from the user to gauge their mental fitness, stability, and potential for psychological assessments. This form should only be completed by individuals who are willing to participate in a psychological evaluation and are not under the influence of any substances or coercion. Please ensure that the user has the necessary mental clarity and stability to provide accurate answers. If you're not sure about the form's purpose or the user's suitability, please do not proceed.
-
-</thinking>
-
 # Psychological APTITUDE ASSESSMENT - Help Guide
 
 ## Purpose

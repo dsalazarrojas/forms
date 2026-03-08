@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to assess an individual's expertise in the field of jewelry. The purpose of this form is to gather information about the user's experience, education, and skills related to jewelry, which will be used to evaluate their expertise level. This form is likely used by jewelry businesses or professionals to assess potential employees, partners, or vendors.
-
-Please ensure that you are in the correct context and that this form is not a duplicate of another form. If you are unsure, you may need to review the form's purpose and requirements with your team or manager.
-
-</thinking>
-
 # Jewelry Expertise Assessment - Help Guide
 ## Purpose
 The Jewelry Expertise Assessment form is a tool used to evaluate an individual's expertise in the field of jewelry. It gathers information about the user's experience, education, and skills related to jewelry.

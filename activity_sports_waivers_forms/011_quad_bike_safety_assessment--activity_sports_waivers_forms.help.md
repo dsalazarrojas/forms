@@ -1,15 +1,3 @@
-<thinking>
-This form is used to assess the safety of quad bike riders, which is a critical aspect of ensuring their safety on the road. This form is used to collect essential information about the rider, their vehicle, and their safety equipment. This information will help in determining the rider's safety level and provide necessary guidance on areas for improvement.
-
-Before proceeding, please ensure that the following conditions are met:
-
-* You are filling out the correct form.
-* You have all the necessary information and equipment ready.
-* You are aware of the importance of accuracy in filling out this form.
-
-Note: This form is not meant to be filled out multiple times. Please make sure to submit this form once with accurate and up-to-date information.
-</thinking>
-
 # Quad Bike Safety Assessment - Help Guide
 ## Purpose
 The Quad Bike Safety Assessment form is designed to gather information about a rider's safety level and provide guidance on areas for improvement. This form is used to ensure that riders are properly equipped and prepared for quad bike riding.

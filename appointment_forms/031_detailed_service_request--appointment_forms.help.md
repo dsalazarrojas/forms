@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to submit a detailed service request. It is meant for both internal and external users, but internal users (e.g., employees) are more likely to be familiar with the options and purpose of the form. There is a risk of duplication of effort if the same form is used for multiple purposes or for a large group of similar requests, so it's essential to clearly document this form to prevent confusion.
-</thinking>
-
 # Detailed Service Request - Help Guide
 ## Purpose
 This form is designed to allow users to submit a detailed service request, which can be in the form of a haircut or car repair, or any other kind of service they need.

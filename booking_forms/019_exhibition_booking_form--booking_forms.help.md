@@ -1,8 +1,3 @@
-<thinking>
-The form is meant to facilitate exhibition bookings, allowing users to input various details such as exhibition title, name, company, email, booth size, dates, and time slots. However, the form's required and optional fields should be clarified to ensure users understand what information is needed for a successful submission. This is not a critical form that requires immediate action, and it should not be filled out multiple times.
-
-</thinking>
-
 # Exhibition Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for exhibition bookings, including exhibition title, name, company, email, booth size, and date/time slots. It will help us understand your exhibition requirements and preferences.

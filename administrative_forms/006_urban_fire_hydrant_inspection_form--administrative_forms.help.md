@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to record information about the status of fire hydrants in urban areas. It is intended for fire department officials to inspect and report on the condition and availability of fire hydrants. The form is divided into sections that collect information about the location, status, and other relevant details of each fire hydrant. By filling out this form, inspectors can provide valuable insights to the fire department to help maintain a safe and reliable fire protection system.
-
-Before proceeding, please ensure that you are filling out this form for its intended purpose and not duplicating efforts. If you have already completed this form for the same location, please do not resubmit. This will help the fire department to keep their records up to date and accurate.</thinking>
-
 # Urban Fire Hydrant Inspection Form - Help Guide
 ## Purpose
 

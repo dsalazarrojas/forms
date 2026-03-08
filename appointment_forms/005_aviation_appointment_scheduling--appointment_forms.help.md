@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and efficiently, the form purpose is to schedule an appointment for an aviation-related service. It is essential to review the form and make sure there are no duplicates or errors before submission. This guide will walk you through each field step-by-step, helping you to complete the form accurately and effectively.
-</thinking>
-
 # Aviation Appointment Scheduling - Help Guide
 ## Purpose
 This form is designed to schedule an appointment for an aviation-related service. Please review each field carefully and select the most accurate options to ensure a smooth and successful appointment.

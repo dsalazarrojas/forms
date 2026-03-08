@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide that is clear and concise for end-users who will be filling out the form. The form is for nominating individuals for a Theatrical Design Excellence Award. The internal reasoning block is to make sure that the nominator understands the purpose of the form and what to expect from the fields. We'll go through each field and provide a detailed explanation, making sure that every field is explained clearly without over-complicating things.
-</thinking>
-
 # Theatrical Design Excellence Award Nomination Form - Help Guide
 ## Purpose
 The Theatrical Design Excellence Award Nomination Form is designed to help the nominator nominate individuals for a Theatrical Design Excellence Award. This form will ask for details about the nominee, including their name, email, phone number, and institution, as well as details about the nomination itself, such as category, subcategory, and supporting materials.

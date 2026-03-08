@@ -1,5 +1,3 @@
-<thinking>Return Authorization Form 2020 is a template used for requesting and managing return requests in a structured and organized manner. This form is used to collect necessary information from both the employee and the manager, including details about the return reason, date, and status. It is essential to fill out this form accurately and completely to ensure that return requests are handled efficiently and in compliance with company policies. Ensure that you fill out this form only for valid return requests and do not duplicate any requests. This form is not intended for general feedback or casual requests.</thinking>
-
 # return-authorization-form-2020 - Help Guide
 ## Purpose
 The Return Authorization Form 2020 is designed for employees to request returns from company property, including equipment, tools, or other materials. This form is used by both employees and managers to track and manage return requests in an organized and transparent way.

@@ -1,12 +1,6 @@
 # product_inventory_information_record_form - Help Guide
 ## Purpose
 
-<thinking>
-This form is used to record and update product inventory information. 
-It is intended for staff to quickly and easily access a wide range of product-related details. 
-No two forms will be duplicated, and this form is meant to be used for each individual product.
-</thinking>
-
 ## How To Complete This Form
 
 1. Click on the "Submit" button to start filling out the form.

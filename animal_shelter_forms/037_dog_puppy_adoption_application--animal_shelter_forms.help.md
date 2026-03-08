@@ -1,15 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Dog / Puppy Adoption Application" form. This form is designed to collect information from potential adopters and families to facilitate the adoption process for dogs and puppies. The guide will cover the form's purpose, step-by-step instructions on how to complete it, and a detailed explanation of each field.
-
-To ensure the guide is relevant and useful, let's review the form's content and structure.
-
-The form consists of 12 pages with various fields for user, contact, dog profile, adoption, medical, home, family, veterinary, and additional information. All fields are text-based, and none are required, as indicated in the inputSchema.yaml file.
-
-The key takeaway from this information is that the form is an intake process for adopting dogs and puppies, and the fields are designed to gather relevant details about the adopter and their circumstances.
-
-With this understanding, we can now create a comprehensive help guide for the form.
-</thinking>
-
 # Dog / Puppy Adoption Application - Help Guide
 ## Purpose
 The Dog / Puppy Adoption Application form is designed to collect information from potential adopters about their lifestyle, preferences, and needs to facilitate a smooth and successful adoption experience for both the adopter and the dog/puppy.

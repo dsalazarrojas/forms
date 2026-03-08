@@ -1,7 +1,3 @@
-<thinking>
-A guide for users to understand the form purpose and completion.
-</thinking>
-
 # Children Mood Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess the current emotional state and well-being of a child, helping to identify potential issues related to their mood. It's a questionnaire for caregivers, parents, or clinicians to gather information about the child's emotional state and any changes that may be occurring.

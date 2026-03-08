@@ -1,7 +1,3 @@
-<thinking>
-This form is used for internal collaboration and approval processes between team members and project managers. It's designed to collect information from users, approvers, and project managers for efficient approval and collaboration. Before proceeding, please ensure that you're filling out this form for a valid reason and not duplicating the process.
-</thinking>
-
 # Inter Office Collaboration Authorization Form - Help Guide
 ## Purpose
 This form is used for internal collaboration and approval processes, ensuring that all relevant parties are informed and involved in project-related decisions.

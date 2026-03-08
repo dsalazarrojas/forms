@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to provide feedback on local governance matters. The purpose of this form is to collect information about any issues or concerns that users have regarding the local administration or governance. The form will help the local administration to understand the issues and concerns of the users, and take appropriate actions to address them. It is recommended that users only provide feedback on issues that have not been previously reported or discussed. Duplicate feedback will not be processed.
-</thinking>
-
 # Local Governance Feedback Form - Help Guide
 ## Purpose
 The Local Governance Feedback Form is a platform for users to provide feedback on local governance matters. This form helps the local administration to understand the issues and concerns of the users and take appropriate actions to address them.

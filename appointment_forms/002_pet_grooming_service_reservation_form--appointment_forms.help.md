@@ -1,7 +1,3 @@
-<thinking>
-This task is a form for reserving a grooming service for pets. The form asks for basic information about the pet and the owner, including pet type, name, age, size, and service details. It also asks for information about the appointment and reservation time. The form is designed to be filled out by the pet owner before scheduling a grooming service. The form should not be used to schedule a service if the pet does not have an appointment.
-</thinking>
-
 # Pet Grooming Service Reservation Form - Help Guide
 ## Purpose
 This form is used to schedule a grooming service for your pet. Please fill out the form with your pet's information and your contact details to ensure we have all the necessary information to provide the best service for your pet.

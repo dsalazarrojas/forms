@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees regarding their unpaid leave. This form is used to request and record unpaid leave, including the type of leave, start and end dates, reason, and manager's approval and comments. The form is used for internal purposes and may not be shared with external parties. To ensure accurate and complete data, please fill out the form carefully and thoroughly. Before completing this form, check that you are not duplicating any previously submitted leave requests or approvals. If you are unsure about any field or have any questions, please consult with your HR representative or supervisor.
-</thinking>
-
 # Unpaid Leave Authorization Form - Help Guide
 ## Purpose
 This form is used to request and record unpaid leave from work, including the type of leave, start and end dates, reason, and manager's approval and comments.

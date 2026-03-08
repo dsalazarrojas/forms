@@ -1,11 +1,3 @@
-<thinking>
-This guide is for the "Daily Production Startup Checklist" form, which is used to document and ensure that production processes are properly started up for the day. The purpose of this form is to capture essential information about the production process, including the weather, production area, shift, and production teams involved. It is crucial to complete this form accurately and thoroughly to guarantee a safe and efficient start-up of production processes.
-
-The form is divided into several fields, each of which is essential for understanding the production process.
-
-This guide will walk you through how to complete this form correctly and provide explanations for each field.
-</thinking>
-
 # Daily Production Startup Checklist - Help Guide
 ## Purpose
 This guide explains the purpose and process of completing the "Daily Production Startup Checklist" form.

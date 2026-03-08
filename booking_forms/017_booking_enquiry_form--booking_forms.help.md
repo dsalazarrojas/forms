@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Booking Enquiry Form - Help Guide
+> # Booking Enquiry Form - Help Guide
 
 ## Purpose
 This form is designed to help our customers quickly and efficiently submit their booking enquiries to us. The form is divided into different sections, each with specific fields to capture relevant information. Please fill in the required fields to ensure we understand your needs correctly.

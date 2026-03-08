@@ -1,5 +1,3 @@
-<thinking>Form purpose: The Ceramic Coating Warranty Registration form is used to collect information about a vehicle's warranty details, owner's contact information, and other related data. This form helps ensure that the warranty is properly recorded and that the owner is informed about their warranty coverage. This form is typically filled out by the vehicle owner after the ceramic coating has been applied to their vehicle. The form will be used to verify and process the warranty claim if needed. Please ensure you fill out this form accurately and completely to avoid any issues with your warranty claim.</thinking>
-
 # Ceramic Coating Warranty Registration - Help Guide
 ## Purpose
 The Ceramic Coating Warranty Registration form is used to collect and record important warranty information about your vehicle. This form helps ensure that your warranty is properly processed and that you are informed about your warranty coverage.

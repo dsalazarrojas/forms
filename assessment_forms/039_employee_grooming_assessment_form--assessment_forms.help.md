@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to assess the overall grooming standard and appearance of an employee. The form includes various attributes such as hair length, hair color, facial hair, mustache, eye brows, beard, ear lobes, nose shape, and overall impression. The form is designed to be completed by a manager or HR representative, and the assessment type can be selected from a predefined list.
-
-Before filling out this form, please ensure that you have reviewed and evaluated the employee's appearance thoroughly. Each attribute has a specific selection option that best describes the employee's condition.
-
-This form may be used for multiple assessments, but it is recommended that each assessment is dated and signed by the assessor for record-keeping purposes.
-
-Please complete each field carefully, as it is essential to provide a comprehensive and accurate assessment.
-</thinking>
-
 # Employee Grooming Assessment Form - Help Guide
 
 ## Purpose

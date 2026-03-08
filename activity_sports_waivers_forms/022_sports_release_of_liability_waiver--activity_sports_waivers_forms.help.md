@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sports_release_of_liability_waiver - Help Guide
 ## Purpose
 The Sports Release of Liability Waiver form is used to collect information from participants and their parents or legal guardians to ensure their safety and well-being during sports activities. This form helps to identify potential medical conditions, emergency contacts, and other important details that are necessary for providing proper care and attention.

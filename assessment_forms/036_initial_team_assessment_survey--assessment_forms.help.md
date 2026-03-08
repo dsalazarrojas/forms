@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning:
-This help guide is intended to support end-users in completing a team assessment survey.
-The form is designed to elicit feedback on various aspects of team performance, such as team members, manager's name, team performance, and more.
-The guide will walk users through each field and provide explanations to ensure accurate and complete submissions.
-The form is not meant to be duplicated or used for internal purposes only, hence the importance of understanding its proper use and submission of accurate information.
-</thinking>
-
 # initial_team_assessment_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on team performance from team members, managers, or other relevant stakeholders. The assessment covers various aspects, including team dynamics, leadership, communication, and work processes.

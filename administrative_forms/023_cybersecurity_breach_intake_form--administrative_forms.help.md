@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about incidents that may compromise the security of an organization's systems or data. It is designed to be completed by individuals or teams that have identified a potential breach in the security of the system or data.
-The main purpose of this form is to collect detailed information about the incident, including the type of incident, date and time it occurred, and a description of what happened.
-When submitting the form, please ensure that you answer all questions truthfully and to the best of your ability.
-</thinking>
-
 # Cybersecurity Breach Intake Form - Help Guide
 ## Purpose
 The Cybersecurity Breach Intake Form is used to gather information about incidents that may compromise the security of an organization's systems or data.

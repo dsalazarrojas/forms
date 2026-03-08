@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from newly hired Network Administrators during their onboarding process. The goal is to gather their personal details, role specifics, and other relevant information that will help the administration team to better understand their needs and requirements. This form will help the team to provide a smooth and efficient onboarding process.
-
-This form should only be filled out once by the newly hired Network Administrator. Please ensure that you have filled out this form correctly, and not duplicate the process.
-
-</thinking>
-
 # Network Administrator Onboarding Form - Help Guide
 ## Purpose
 The Network Administrator Onboarding Form is designed to collect personal and role-specific information from newly hired Network Administrators. This information will help the administration team to understand their needs and provide a smooth onboarding process.

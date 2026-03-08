@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective help guide for the Leader Agreement Form, let's analyze the provided YAML fields and consider the form's purpose and context. 
 
 The Leader Agreement Form is likely used to document the agreements and commitments between a leader and their team or organization. This form may be used to establish clear expectations, define roles and responsibilities, and track progress and performance. 

@@ -1,5 +1,3 @@
-<thinking>This form is designed for users to book and manage conference room reservations. The form requires the user to provide personal and event details such as event name, date, time, and expected attendees. The form also requests information about the type of setup and equipment needed for the event, including catering, signage, and parking arrangements. Users must confirm that they understand the cancellation policy before submitting the form.</thinking>
-
 # Conference Room Reservation Form - Help Guide
 ## Purpose
 This form is used to book and manage conference room reservations. It collects necessary information from users to ensure a smooth and successful event.

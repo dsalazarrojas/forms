@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to assess the English language skills of learners, covering grammar and vocabulary. It is meant to collect information from users about their learner details, English grammar level, vocabulary level, assessment date, submission time, note, email address, phone number, and school name. The purpose of this form is to gather relevant data to aid in the assessment and development of English language programs. 
-
-</thinking>
-
 # English Grammar And Vocabulary Assessment - Help Guide
 
 ## Purpose

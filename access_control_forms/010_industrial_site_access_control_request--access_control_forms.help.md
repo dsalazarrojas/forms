@@ -1,13 +1,3 @@
-<thinking>Industrial site access control is a complex process that involves managing various factors to ensure the security and safety of personnel within a site. To address this, the "Industrial Site Access Control Request" form plays a crucial role. This form aims to streamline access control requests and their associated processes, allowing site personnel to make informed decisions about granting access to the site. Before diving into the form instructions, let's ensure that we're on the right path.
-
-To confirm that we're proceeding with this help guide, consider the following questions:
-
-- Have you been authorized to access this form?
-- Have you reviewed the site's access control policies and procedures?
-- Are you aware of the necessary information required to complete this form accurately?
-
-Assuming you've addressed these questions, let's proceed with the form instructions.</thinking>
-
 # industrial_site_access_control_request - Help Guide
 ## Purpose
 The "Industrial Site Access Control Request" form is designed to collect information necessary for granting access to an industrial site. This form gathers details about visitors, their contact and access requests, and associated processes.

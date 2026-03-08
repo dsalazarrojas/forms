@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the best way to create a user-facing help guide for the "Truck Air Intake Upgrade Request Form", I'll analyze the provided YAML schema. The form appears to be a comprehensive form for requesting upgrades to a truck's air intake system, gathering detailed information from the customer and shop. This guide will cover the form's purpose, how to complete it, and an explanation of each field.
-
-</thinking>
-
 # Truck Air Intake Upgrade Request Form - Help Guide
 ## Purpose
 

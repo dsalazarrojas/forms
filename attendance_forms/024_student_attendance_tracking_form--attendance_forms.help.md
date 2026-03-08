@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for tracking student attendance, allowing users to input relevant information about a student's presence or absence, reason for absence, and other details.
-The form is intended to be filled out by authorized personnel, such as teachers or administrators, to accurately record student attendance and provide a clear picture of a student's academic status.
-To avoid duplication, only one instance of this form should be filled out for each student per session/day.
-Please ensure that all fields are properly filled out before submission.
-</thinking>
-
 # Student Attendance Tracking Form - Help Guide
 
 ## Purpose

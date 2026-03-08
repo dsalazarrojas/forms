@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # lash_client_experience_review_appointment_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Loan Program Self Assessment - Help Guide
 ## Purpose
 The Loan Program Self Assessment is a form designed to help individuals evaluate their eligibility for a loan program. This form will guide you through a series of questions to help you determine your loan program eligibility. Please note that this is not an application for a loan, but rather a tool to help you assess your potential eligibility.

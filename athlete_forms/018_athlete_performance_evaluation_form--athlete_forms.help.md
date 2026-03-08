@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Athlete Performance Evaluation Form - Help Guide
 ## Purpose
 The Athlete Performance Evaluation Form is designed to assess the performance of athletes in various aspects, including athletic ability, sport-specific skills, speed, strength, endurance, agility, game intelligence, decision-making, competitiveness, practice habits, attendance, teamwork, leadership, coachability, and overall performance. This form will help coaches, evaluators, and other stakeholders evaluate athletes' progress and identify areas of improvement.

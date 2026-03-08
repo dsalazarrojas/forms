@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to record attendance information for housekeeping staff, which is crucial for tracking shifts and schedules. The form's purpose is to provide a systematic way to record and report attendance data, making it easier to manage staff attendance and schedules. Before we dive into the form details, it's essential to ensure that this form is not being duplicated or used for a different purpose. Please review the form's fields and instructions carefully to ensure it's the correct tool for your needs.
-
-</thinking>
-
 # Housekeeping Attendance Sheet - Help Guide
 
 ## Purpose

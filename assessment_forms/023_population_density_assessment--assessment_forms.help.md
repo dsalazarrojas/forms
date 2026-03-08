@@ -1,8 +1,3 @@
-<thinking>
-This form is used for population density assessment, which is a calculation that measures the number of people living in a given area per square unit of land area. This form is used by administrators to collect data on the population density of different regions. It is essential to provide accurate and up-to-date information on population density to make informed decisions about resource allocation, urban planning, and other regional development projects.
-The form consists of 11 fields, each with a specific purpose and requirement status. The form is divided into two main sections: the demographic information section and the contact information section. The demographic information section includes fields for population, area size, density, region, city or town, and submission date. The contact information section includes fields for email, phone, and submission date. The form is designed to be completed by administrators or other authorized personnel.
-</thinking>
-
 # Population Density Assessment - Help Guide
 ## Purpose
 The Population Density Assessment form is used to collect data on the population density of different regions. It is essential for administrators to have accurate and up-to-date information on population density to make informed decisions about resource allocation, urban planning, and other regional development projects.

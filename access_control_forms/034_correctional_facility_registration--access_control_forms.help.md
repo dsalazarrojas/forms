@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information about a registrant visiting a correctional facility. The purpose of this form is to gather necessary details about the registrant, including their name, contact information, visit dates and times, and other relevant details. This form is designed to be completed by the registrant or their representative, and is meant to be a straightforward process. However, it's essential to carefully review the form's fields and instructions to ensure accuracy and completeness.
-</thinking>
-
 # Correctional Facility Registration - Help Guide
 ## Purpose
 The Correctional Facility Registration form is used to gather information about registrants visiting a correctional facility. This form is required to be completed in order to ensure proper processing and tracking of the registrant's visit.

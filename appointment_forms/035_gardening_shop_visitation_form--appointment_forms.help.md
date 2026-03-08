@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to record a visit to a gardening shop. It will likely be used by shop staff to document visits from customers, including details such as customer contact information, appointment scheduling, and other relevant details. Before completing this form, ensure that you are filling in the correct information for the relevant customer and shop. If you are unsure, please review the form and your understanding with your supervisor or colleague.
-</thinking>
-
 # Gardening Shop Visitation Form - Help Guide
 ## Purpose
 The Gardening Shop Visitation Form is used to document visits from customers, including their contact information, appointment scheduling, and other relevant details.

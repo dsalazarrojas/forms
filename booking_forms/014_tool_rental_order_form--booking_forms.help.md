@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for a tool rental order, collecting customer details, tool selection, booking details, and review/confirmation. The purpose of this form is to streamline the rental process, ensuring that customers can easily provide necessary information in one place.
-The form is divided into four pages: "Customer Details", "Tool Selection", "Booking Details", and "Review and Confirm". Each page is designed to capture specific information from the customer.
-This form is a general-purpose tool rental order form and does not account for specific business logic or proprietary content from other form platforms.
-The form can be adapted, modified, and even sold, as long as proper credit is given.
-Contact: form@gic.mx
-</thinking>
-
 # tool_rental_order_form - Help Guide
 ## Purpose
 This form is designed to help customers provide information for tool rentals.

@@ -1,15 +1,3 @@
-<thinking>...This form is used to assess the requirements of a project, including project details, test cases, test requirements, test environment, test plan, project status, and notes. This form is designed to be completed by project stakeholders to ensure that the project meets the necessary requirements for successful delivery. 
-
-Before filling out this form, please make sure to review the project requirements and details carefully to avoid duplication of effort. 
-
-This form is divided into multiple pages, and each page has its own set of fields. You will need to fill out each page completely before proceeding to the next one. 
-
-Each field in this form has a specific purpose, and the explanations below will guide you through each field to ensure you complete the form accurately. 
-
-Please note that some fields are required while others are optional, so make sure to fill out all required fields before submitting the form. 
-
-</thinking>
-
 # Test Requirements Assessment Form - Help Guide
 ## Purpose
 The Test Requirements Assessment Form is used to gather and document the requirements of a project. This form ensures that all necessary details and requirements are captured to guarantee a successful project delivery.

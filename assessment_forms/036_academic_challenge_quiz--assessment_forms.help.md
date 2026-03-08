@@ -1,7 +1,3 @@
-<thinking>
-The form is for assessing a participant's knowledge in various subjects such as scientific method, world history, mathematics, literature, geography, logic, biology, chemistry, and critical thinking. This form aims to evaluate the participant's understanding of fundamental concepts and their ability to think critically. It is likely used for academic assessment, research, or educational purposes.
-</thinking>
-
 # Academic Challenge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge in various subjects, including scientific method, world history, mathematics, literature, geography, logic, biology, chemistry, and critical thinking.

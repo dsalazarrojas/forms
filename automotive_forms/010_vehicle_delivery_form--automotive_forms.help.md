@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal reasoning block:**
-
-This form is intended for capturing information about vehicle deliveries, likely for logistical, administrative, or customer service purposes within the automotive industry. The form's fields are designed to gather essential details about the vehicle, delivery information, and client contact information.
-
-</thinking>
-
 # vehicle_delivery_form - Help Guide
 ## Purpose
 The vehicle_delivery_form is designed to collect necessary information about vehicle deliveries, including details about the vehicle and delivery instructions, as well as client contact information.

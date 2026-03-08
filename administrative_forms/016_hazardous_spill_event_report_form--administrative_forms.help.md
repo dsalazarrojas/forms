@@ -1,14 +1,3 @@
-<thinking>
-This form is used to report incidents of hazardous spills that require immediate attention and response. It captures critical information related to the spill, including the date, time, location, and contents of the spill. This form is typically used by personnel who have witnessed or responded to a spill event. Please ensure that you only submit a report if it is within your area of expertise and that you are certain about the accuracy of the information provided.
-
-To ensure that reports are submitted correctly, please note that:
-
-*   You must only submit reports for spills that you have personally witnessed or have been informed about.
-*   You must not submit reports for events outside of your area of expertise.
-*   You must ensure that the information provided is accurate and up-to-date.
-*   You must not leave any fields blank unless explicitly stated as optional.
-</thinking>
-
 # Hazardous Spill Event Report Form - Help Guide
 ## Purpose
 This form is used to report incidents of hazardous spills that require immediate attention and response.

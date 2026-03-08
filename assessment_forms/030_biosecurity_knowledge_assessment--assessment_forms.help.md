@@ -1,5 +1,3 @@
-<thinking>... This form is designed to assess an individual's knowledge and confidence in biosecurity principles and practices. It is intended to be completed by employees in biosecure environments, such as laboratories, healthcare settings, or other areas where biosecurity is crucial. The form is used to evaluate an individual's understanding of key biosecurity concepts, procedures, and best practices. It is also used to identify areas where additional training is required. This form should not be completed by individuals who have not received training or who are not familiar with biosecurity principles and practices.</thinking>
-
 # Biosecurity Knowledge Assessment - Help Guide
 ## Purpose
 

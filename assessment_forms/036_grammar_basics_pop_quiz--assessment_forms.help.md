@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the basics of grammar in a multiple-choice format. It's a 12-question quiz that covers various concepts related to sentences, clauses, phrases, parts of speech, and moods. The form is meant to be a starting point for those who want to test their knowledge or improve their understanding of grammar principles. The questions are self-explanatory and allow the user to select their answers from the provided options. This form does not require any external data input or connections, making it a standalone assessment tool.
-</thinking>
-
 # Grammar Basics Pop Quiz - Help Guide
 ## Purpose
 This form is a self-assessment tool to gauge your knowledge of basic grammar concepts.

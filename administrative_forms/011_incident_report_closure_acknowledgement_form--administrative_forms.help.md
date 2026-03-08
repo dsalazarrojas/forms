@@ -1,7 +1,3 @@
-<thinking>
-This form is used to acknowledge and close off incidents that have been reported. Before proceeding, confirm that the incident is indeed ready for closure and no further action is required. Please make sure the incident has been properly reviewed and that all issues have been addressed before proceeding. This form will only be displayed after an incident has been properly escalated or reviewed, and it is not intended to create new incidents or reopen existing ones.
-</thinking>
-
 # Incident Report Closure Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to confirm that the incident has been properly reviewed and closed off.

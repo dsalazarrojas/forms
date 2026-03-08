@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about team-building event participants' accommodation needs. Before completing this form, please ensure that you are a team member and that your team has not already filled out this form. To provide accurate and efficient service, please fill out the form completely and correctly.
-</thinking>
-
 # Team Building Accommodation Form - Help Guide
 ## Purpose
 This form is used to collect information about your team's accommodation preferences and needs for team-building events.

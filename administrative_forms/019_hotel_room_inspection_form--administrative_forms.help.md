@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Room Inspection Form - Help Guide
 
 ## Purpose

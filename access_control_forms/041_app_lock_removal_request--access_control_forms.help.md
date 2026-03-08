@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users who are requesting the removal of an app lock. The purpose of this form is to gather the necessary details from the requester, such as their name, email, and reason for the request, as well as any authorization documents or device information that may be required for the lock removal process. This form is intended to ensure that the request is properly documented and reviewed by IT or security personnel before proceeding with the lock removal. 
-
-The form is not meant to be a complex or lengthy process, and it's expected that users will have a basic understanding of the fields and requirements. To avoid duplication of requests, please ensure you only submit one request per person and/or device. If you're unsure about any of the fields or have questions, please don't hesitate to reach out to the contact information provided at the end of this guide.
-
-</thinking>
-
 # App Lock Removal Request - Help Guide
 ## Purpose
 This form is used to request the removal of an app lock on a device.

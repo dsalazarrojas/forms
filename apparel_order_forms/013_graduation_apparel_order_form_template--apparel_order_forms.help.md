@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will be useful in ensuring that users understand the purpose and functionality of the Graduation Apparel Order Form Template, which is used to collect information for graduation orders. The form is intended for users to input student and order details, and the fields are designed to be simple and intuitive. The guide will cover how to complete the form, what each field means, and provide tips for users to ensure they get the most out of the form.
 
 # Graduation Apparel Order Form Template - Help Guide

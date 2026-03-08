@@ -1,9 +1,4 @@
-> <thinking>
-The "Declaration Of Presence Form" is a document that is used to record the attendance and presence of individuals at a given event or meeting. This form is intended to ensure that all necessary information is gathered and documented in a single, easy-to-complete format. To avoid duplication, please only use this form for events or meetings that are not already accounted for in your records. Please review your records carefully before filling out this form to ensure that you do not duplicate any entries.
-
-</thinking>
-
-# Declaration Of Presence Form - Help Guide
+> # Declaration Of Presence Form - Help Guide
 ## Purpose
 The "Declaration Of Presence Form" is a document that is used to record the attendance and presence of individuals at a given event or meeting.
 

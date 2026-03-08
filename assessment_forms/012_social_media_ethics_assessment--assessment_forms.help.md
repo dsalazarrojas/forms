@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Media Ethics Assessment - Help Guide
 ## Purpose
 The Social Media Ethics Assessment form is designed to evaluate an individual's understanding and adherence to social media ethics, including responsible social media usage, respect for privacy, no harassment, no bullying, reporting procedures, consequences of breach of ethics, data sharing, online safety, digital rights, online community standards, digital identity, digital conduct, and social media etiquette. This form helps ensure that individuals maintain a positive and respectful online presence, protecting themselves and others from potential harm.

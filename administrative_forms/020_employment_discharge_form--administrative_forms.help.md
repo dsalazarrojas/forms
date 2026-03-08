@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employment Discharge Form - Help Guide
 ## Purpose
 The purpose of this form is to document the details of an employee's discharge from their position. This form is used to gather information about the employee's termination, including the reason for discharge, termination date, and status.

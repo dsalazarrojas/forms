@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is for the "Firefighting Equipment Assessment" form, which aims to collect information about the status of fire-fighting equipment in an organization. This form helps assess whether the equipment is in good condition, meets regulatory requirements, and is properly maintained. It's essential to complete this form accurately to ensure that fire-fighting equipment is inspected regularly and in compliance with safety standards.
-
-The form is divided into several sections, each addressing different aspects of the equipment's status. This guide will walk you through each section, explaining what you need to do and what the information is used for.
-
-</thinking>
-
 # Firefighting Equipment Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the condition and maintenance of fire-fighting equipment in your organization. It's crucial to complete this form to:

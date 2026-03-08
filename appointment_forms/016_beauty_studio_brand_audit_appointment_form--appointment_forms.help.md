@@ -1,5 +1,3 @@
-<thinking>Let's start with understanding the form's purpose. The "Beauty Studio Brand Audit Appointment Form" is designed to collect information from beauty studio brands for the purpose of conducting a brand audit. This form will help the brand owners to schedule a meeting with the audit team and provide necessary details about their business and contact information. The audit will help the brand to identify areas for improvement and provide recommendations for their brand's visual identity, social media presence, website user experience, and more. This form is meant to be a straightforward and efficient way for the brand to share their goals, challenges, and expectations with the audit team, ensuring a smooth and successful audit process.</thinking>
-
 # Beauty Studio Brand Audit Appointment Form - Help Guide
 
 ## Purpose

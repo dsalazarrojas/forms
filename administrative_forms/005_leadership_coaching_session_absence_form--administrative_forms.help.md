@@ -1,9 +1,3 @@
-<thinking>
-
-Before filling out this form, please make sure to check if you have a valid reason for absence or a valid request for a leadership coaching session absence. This form is designed to help you request a leadership coaching session absence, but please note that this might not be the correct form for your needs. Check with your supervisor or HR department to confirm the correct procedure for requesting a leadership coaching session absence.
-
-</thinking>
-
 # leadership_coaching_session_absence_form - Help Guide
 ## Purpose
 The leadership coaching session absence form is used to request absence from a leadership coaching session. This form is required for all absence requests.

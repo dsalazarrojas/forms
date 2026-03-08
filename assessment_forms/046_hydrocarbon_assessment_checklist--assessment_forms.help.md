@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to assess the hydrocarbon management practices and procedures of a storage facility, ensuring that they are in compliance with industry standards and guidelines. This form helps identify areas of improvement and facilitates the evaluation of the facility's overall hydrocarbon management performance. The assessment process is typically performed on a regular basis, such as every six months, and involves a thorough review of the facility's storage practices, spill response procedures, and staff training. The results of this assessment help identify potential risks and areas for improvement, ensuring that the facility is operating safely and efficiently. Please complete this form accurately and thoroughly to ensure a comprehensive review of your facility's hydrocarbon management practices.
 
 # Hydrocarbon Assessment Checklist - Help Guide

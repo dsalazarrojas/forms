@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Intake Form For Facial Treatments - Help Guide
 
 ## Purpose

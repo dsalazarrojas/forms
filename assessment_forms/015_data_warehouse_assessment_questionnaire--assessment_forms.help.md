@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help assess the current state of a data warehouse, including its governance, refresh cadence, and improvement priorities. The purpose of this form is to gather information from the data warehouse team and stakeholders to identify areas for improvement and inform decision-making processes. 
-
-When completing this form, please ensure that you are responding as the relevant team member or stakeholder, and provide clear and concise answers to the questions. 
-
-Please note that some fields are optional, and you should only fill out the required fields. 
-
-This form is part of a larger assessment process, and your input is crucial in providing valuable insights for data warehouse improvement.
-
-</thinking>
-
 # Data Warehouse Assessment Questionnaire - Help Guide
 ## Purpose
 The Data Warehouse Assessment Questionnaire is designed to gather information about the current state of the data warehouse, including its governance, refresh cadence, and improvement priorities.

@@ -1,8 +1,3 @@
-<thinking>
-We should create a help guide for the "fabric_order_form" that explains its purpose, how to complete it, and what each field means. This form is likely used in an e-commerce context, such as when a customer places an order for fabric or materials. The guide should be clear and concise, explaining each field in a way that is easy to understand.
-
-</thinking>
-
 # fabric_order_form - Help Guide
 ## Purpose
 The fabric_order_form is used to gather information from customers when they place an order for fabric or materials. This form helps to streamline the ordering process by collecting essential details about the order, product, and customer's shipping address.

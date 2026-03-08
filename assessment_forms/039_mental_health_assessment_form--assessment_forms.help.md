@@ -1,7 +1,3 @@
-<thinking>
-The Mental Health Assessment Form is designed to collect information about an individual's mental health status. This form is intended for internal use only and is not a substitute for professional medical advice or diagnosis. Please ensure you have the necessary permissions and clearances to use this form. Before completing this form, please review the following instructions to ensure that you are aware of the purpose and content of each field.
-</thinking>
-
 # Mental Health Assessment Form - Help Guide
 ## Purpose
 The Mental Health Assessment Form is a tool designed to gather information about an individual's mental health status. It is intended to help identify potential mental health concerns and provide a baseline for further evaluation and treatment.

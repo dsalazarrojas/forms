@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Project Appointment Request - Help Guide
 ## Purpose
 This form is for requesting an appointment for a real estate project. It is designed to gather essential information from the user to schedule an appointment with a real estate agent. The form is typically used by potential clients to schedule meetings with agents to discuss project details.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information necessary for the Animal Control inspection scheduling request. The goal is to gather details about the facility or business requesting an inspection, including the type of inspection needed, the preferred date and time of the inspection, and the contact information of the requestor. This form will help Animal Control to schedule a convenient and efficient inspection process for the facility. To avoid duplicating efforts, please ensure you are not submitting this form for the same facility or business if you have already had an inspection scheduled or are in the process of scheduling one.
-
-</thinking>
-
 # Animal Control Inspection Scheduling Request Form - Help Guide
 ## Purpose
 This form is used to request an Animal Control inspection for your facility or business. Please fill out the form with your details to schedule an inspection that suits your needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request removal of attendance from a meeting. It is intended to be filled out by individuals who are unable to attend a scheduled meeting and want to request to be removed from the attendance list. This form is meant to be a simple and straightforward way to communicate the reason for the absence. Before proceeding, ensure that you have a valid reason for the removal and that the meeting is not a crucial or mandatory event. It is recommended to fill out this form as soon as possible, especially if the removal is last-minute.
-</thinking>
-
 # Meeting Attendance Removal Request Form - Help Guide
 ## Purpose
 The Meeting Attendance Removal Request Form is a document that allows you to request removal from a scheduled meeting. Fill out this form to communicate your absence and provide a valid reason for it.

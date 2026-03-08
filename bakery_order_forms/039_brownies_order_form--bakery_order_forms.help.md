@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect customer information for order purposes. It is likely to be used by the bakery to process orders and fulfill customer requests. The form should only be used for this specific purpose and not for any other reason.
-</thinking>
-
 # Brownies Order Form - Help Guide
 ## Purpose
 The Brownies Order Form is a simple form designed to collect customer information for order purposes. It is meant to be used by customers to place an order with the bakery for brownies.

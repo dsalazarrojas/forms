@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for administrators to verify and manage student scholarship applications. The form ensures that students meet the necessary criteria for scholarships and provides a record of approval or denial. This form should not be filled out by students directly but rather by authorized personnel for each application. Receiving duplicate submissions for the same student ID may be logged for further review.
-
-</thinking>
-
 # Scholarship Authorization Form - Help Guide
 ## Purpose
 The Scholarship Authorization Form is used to verify and manage student scholarship applications. This form is intended for authorized personnel to review and approve or deny applications.

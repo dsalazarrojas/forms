@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Management Maturity Assessment Application Form - Help Guide
 
 ## Purpose

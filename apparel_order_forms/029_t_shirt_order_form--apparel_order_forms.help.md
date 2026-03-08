@@ -1,8 +1,4 @@
-> <thinking>
-This form is used for customers to place an order for a t-shirt. The form requests basic contact information and order details such as t-shirt color, size, and price. Please note that some fields are not required, which means users can choose to fill them out or not. 
-</thinking>
-
-# T-Shirt Order Form - Help Guide
+> # T-Shirt Order Form - Help Guide
 ## Purpose
 The T-Shirt Order Form is used to collect information from customers when they place an order for a t-shirt. It helps us understand what color, size, and design the customer wants for their t-shirt, as well as other relevant details such as shipping method and price.
 

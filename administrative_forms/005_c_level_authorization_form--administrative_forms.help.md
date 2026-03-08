@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for requesting C-level authorization, which is a high-level approval process typically reserved for executive-level decisions. This form is meant to gather necessary information for executive teams to make informed decisions. It's essential that all required fields are completed accurately to ensure proper processing and approval. Please note that some fields may be optional but are still important for a comprehensive understanding of the request. This form is not meant to be used for other purposes, such as data collection or marketing activities.
-
-</thinking>
-
 # C Level Authorization Form - Help Guide
 
 ## Purpose

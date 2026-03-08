@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for vehicle repossession authorization. It's intended for use by automotive lenders to collect and manage information about vehicles that are currently repossessed or are at risk of repossession. The fields in this form will help the lender to track and manage the repossession process, including the vehicle's details, repossession status, and the lender's involvement. This form should not be used for other purposes, and its fields should only be filled out by authorized personnel.
-
-</thinking>
-
 # vehicle_repossession_authorization_form - Help Guide
 ## Purpose
 This form is used to collect and manage information about vehicles that are currently repossessed or are at risk of repossession.

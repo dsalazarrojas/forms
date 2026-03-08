@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess an individual's legitimate interest in a particular opportunity or project. The form is designed to gather information about the individual's personal details, employment status, and other relevant information that can help determine their eligibility and suitability for certain benefits or services. To ensure accurate and efficient processing of the form, please make sure to complete it with the most up-to-date and accurate information, and do not duplicate any existing assessment or application.
-</thinking>
-
 # Legitimate Interest Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess an individual's legitimate interest in a particular opportunity or project, and is used to determine their eligibility and suitability for certain benefits or services.

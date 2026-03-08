@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a general, generic form for assessing regulatory compliance, likely for organizations or businesses to evaluate their adherence to regulatory requirements. It appears to be a template form created by AI using public metadata from various sources. The form consists of ten pages, but most of them seem to be empty or redundant. There is no clear indication of the specific regulations or industries being assessed. I'll assume that the form is intended to be filled out by someone in an organization to report on their compliance status. I will provide a basic explanation and guidance for completing the form.
-</thinking>
-
 # Regulatory Compliance Assessment - Help Guide
 ## Purpose
 This form is designed to help organizations assess their regulatory compliance status. It is meant to be filled out by someone in the organization to report on their compliance with various regulations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "speechTherapyAssessmentForm" is used to gather information for assessment and evaluation purposes in a speech therapy setting. The form is designed to collect data on patient demographics, medical history, and other relevant details.
 
 <markdown>

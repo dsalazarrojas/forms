@@ -1,8 +1,3 @@
-<thinking>
-  This form is used to capture attendance information for school employees, which will help administrators track and manage employee attendance effectively. This includes capturing basic employee details, their attendance status, and any assigned tools or users. The purpose of this form is to ensure accurate and efficient tracking and reporting of employee attendance.
-  Before using this form, please make sure you are authorized to access and edit attendance information. If you are unsure about the purpose or usage of this form, please verify with your supervisor or HR department.
-</thinking>
- 
 # School Employee Attendance - Help Guide
 ## Purpose
 The School Employee Attendance form is used to track and manage employee attendance, including capturing basic employee details, attendance status, and any assigned tools or users.

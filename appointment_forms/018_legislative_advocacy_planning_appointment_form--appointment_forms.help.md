@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about legislative advocacy planning and appointment scheduling. The form is likely used by organizations or individuals who need to plan and track their interactions with government representatives or other stakeholders. It appears to be a general-purpose form, not specifically affiliated with any particular platform or organization. The purpose of this form is to gather contact information, schedule appointments, and document meeting details and outcomes. The form's structure suggests it is intended for internal or external use by advocacy groups, government agencies, or other organizations. The form's fields are straightforward and seem to cover the essential aspects of legislative advocacy planning and appointment scheduling. Given the form's structure, it is likely used for planning and tracking purposes, rather than for data collection or analysis.
-</thinking>
-
 # legislative-advocacy-planning-appointment-form - Help Guide
 ## Purpose
 This form is designed to collect and document key information related to legislative advocacy planning and appointment scheduling, including contact details, appointment scheduling, and meeting outcomes.

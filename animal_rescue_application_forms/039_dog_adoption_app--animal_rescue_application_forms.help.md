@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help animal shelters and rescue organizations process dog adoption applications. The form is designed to gather information from potential adopters about the dog they are interested in adopting, as well as their own contact and contact preferences. The goal is to streamline the adoption process and ensure that both the adopter and the rescue organization are on the same page regarding the adoption process. Before proceeding, please ensure this is the correct form for your needs, and do not submit duplicate applications. This form was not created for commercial use and is intended for non-profit and personal use.
-</thinking>
-
 # Dog Adoption App - Help Guide
 ## Purpose
 The Dog Adoption App is a form designed to aid in the dog adoption process by gathering relevant information from both the adopter and the potential adopted dog.

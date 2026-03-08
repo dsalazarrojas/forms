@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users detect their bra size accurately. The form collects various information about the user, including their name, email, measurement methods, body measurements, bra preferences, and primary use of bras. This data will be used to provide personalized bra size recommendations. Please note that this form is a one-time submission form, and users will only be contacted with recommendations once. If the form is resubmitted with the same data, it will not trigger any new recommendations.
-</thinking>
-
 # Bra Size Detection Form - Help Guide
 ## Purpose
 The Bra Size Detection Form is designed to help you find your accurate bra size. Fill out this form and we'll provide you with personalized recommendations for your bra size and style.

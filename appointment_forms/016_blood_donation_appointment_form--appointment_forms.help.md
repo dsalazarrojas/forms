@@ -1,7 +1,3 @@
-<thinking>
-Is the purpose of this form to collect information from prospective blood donors for the purpose of scheduling a blood appointment? Does this form cover all the necessary fields for a successful blood donation appointment? Please confirm that this form is not a duplicate of any existing form and that it is relevant to the blood donation process.
-</thinking>
-
 # Blood Donation Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information from prospective blood donors to schedule a blood appointment at a preferred donation center. Please fill out this form to provide the necessary details for a successful blood donation appointment.

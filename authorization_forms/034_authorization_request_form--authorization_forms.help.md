@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to capture information for authorizing activities or procedures involving a minor or person under a parent/guardian's care. It's crucial to gather the right information for the activity or procedure to occur while also ensuring the parent/guardian's understanding and consent. 
-This form will help us understand the context and requirements for each activity or procedure to take place. We will review each response carefully to avoid duplication of requests and ensure that we have all the necessary information. 
-Before filling out this form, please make sure you have all the necessary information available. 
-</thinking>
-
 # Authorization Request Form - Help Guide
 ## Purpose
 This form is used to request authorization for activities or procedures involving a minor or person under a parent/guardian's care. It ensures that the parent/guardian's understanding and consent are captured for each request.

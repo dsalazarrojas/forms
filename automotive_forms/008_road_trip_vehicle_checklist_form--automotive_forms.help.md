@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about the condition and state of a vehicle before embarking on a road trip. It's meant to be used by drivers to ensure they have a comprehensive understanding of their vehicle's condition, which can help prevent accidents, reduce the risk of breakdowns, and ensure a safe journey. It's essential to fill out this form carefully and accurately to guarantee a successful and enjoyable trip.
-This form is likely to be used by drivers or vehicle owners who are about to embark on a road trip, so it's essential to understand the purpose and scope of this form to avoid duplication of effort or incorrect information.
-
-The main goals of this form include:
-*   Ensuring all necessary safety checks are performed before the trip
-*   Verifying that the vehicle is in a good condition to prevent breakdowns and accidents
-*   Providing critical information to emergency services in case of an accident
-
-</thinking>
-
 # Road Trip Vehicle Checklist Form - Help Guide
 
 ## Purpose

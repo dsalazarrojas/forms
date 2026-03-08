@@ -1,8 +1,3 @@
-<thinking>
-This form is for authorizing a return on goods. The form should only be completed if you are certain about the return, as the process will require a signature from the customer. If the goods are still in the condition they were received, and the customer is not sure about the return, then it might not be necessary to fill this out.
-The form should only be completed once per return.
-</thinking>
-
 # Return Goods Authorization Request Form - Help Guide
 ## Purpose
 This form is a request to authorize a return on goods, which requires a signature from the customer and should be completed only if certain about the return.

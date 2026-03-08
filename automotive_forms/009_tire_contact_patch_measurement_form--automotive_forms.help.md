@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information related to tire contact patch measurement for automotive purposes. It's likely used in a workshop or repair setting to ensure accurate and safe tire mounting. 
-The form likely doesn't collect sensitive data and therefore doesn't need to be overly concerned with data privacy. The form is probably not used for public-facing applications and the information collected will likely be used by technicians or mechanics.
-This form might be used alongside other forms that collect tire-related data such as the tire type, size, and speed rating. It's possible that the information collected is used for repair, maintenance, and safety purposes. 
-The data collected by this form doesn't seem to be critical and the user experience will likely be improved by having clear and concrete explanations and instructions.</thinking>
 # Tire Contact Patch Measurement Form - Help Guide
 ## Purpose
 The Tire Contact Patch Measurement Form is used to collect accurate measurements related to tire contact patch for automotive purposes, such as in a workshop or repair setting. This form helps ensure proper measurement for safe and accurate tire mounting.

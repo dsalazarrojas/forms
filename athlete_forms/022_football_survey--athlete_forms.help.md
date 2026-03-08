@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # football_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from football game attendees about their overall experience at the event. It will help us understand what they thought of the game, the food and drink quality, the staff's attentiveness, and their overall opinion of the stadium.

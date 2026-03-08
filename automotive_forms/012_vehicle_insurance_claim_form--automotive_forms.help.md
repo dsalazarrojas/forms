@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for customers to submit information about a vehicle insurance claim. The purpose of this form is to gather details about the incident, including the type of vehicle involved, the date of the incident, and other relevant details such as the policy holder's name and contact information. The form will guide the customer through the necessary steps to provide accurate and complete information.
-
-Before proceeding, please make sure you have all the necessary information and details ready. This form should not be submitted multiple times, as duplicate submissions may cause confusion or delay the processing of the claim. If you have already submitted this form and need to make changes or updates, please contact the support team to initiate the correction process.
-
-Please note that this form is only for vehicle-related claims and the information provided will be used to facilitate the claim process with the insurance company.
-
-</thinking>
-
 # vehicle_insurance_claim_form - Help Guide
 ## Purpose
 This form is for customers to submit a vehicle insurance claim. It collects details about the incident, policy holder, and vehicle involved.

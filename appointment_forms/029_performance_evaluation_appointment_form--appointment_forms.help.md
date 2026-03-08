@@ -1,5 +1,3 @@
-<thinking>As the Performance Evaluation Appointment Form is designed to facilitate the evaluation process for employees, it's essential to ensure that the end-users understand its purpose and how to use it efficiently. This form should be used to create appointments for employee evaluations, which can include evaluations, reviews, checks, or other types of assessments. To prevent duplication of efforts, please note that this form is intended for use in the performance evaluation process, and any other uses may lead to confusion or inaccurate data.</thinking>
-
 # Performance Evaluation Appointment Form - Help Guide
 ## Purpose
 The Performance Evaluation Appointment Form is designed to create appointments for employee evaluations, reviews, checks, or other types of assessments. This form is used to schedule and organize evaluation appointments for employees, ensuring that each evaluation is properly documented and managed.

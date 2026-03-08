@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coronavirus Self Assessment Form - Help Guide
 
 ## Purpose

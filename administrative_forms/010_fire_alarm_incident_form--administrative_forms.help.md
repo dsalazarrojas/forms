@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to capture incident details related to fire alarms. It's crucial for the organization to have a clear record of such incidents for safety and regulatory compliance purposes. The form should only be used for reporting actual incidents, not for hypothetical or planned events.
-
-The form is designed to be completed by individuals who have witnessed or reported a fire alarm incident. It's essential to provide accurate information to ensure the incident is properly documented and investigated. 
-
-To prevent duplication, this form should not be used in conjunction with other incident reporting forms. Please ensure the correct incident type is selected from the dropdown menu.
-
-Before filling out the form, review the incident details carefully to ensure all required fields are completed correctly. The form should take a few minutes to complete, and it's okay to take your time to ensure accuracy.
-</thinking>
-
 # fire_alarm_incident_form - Help Guide
 ## Purpose
 This form is used to capture details of fire alarm incidents for safety and regulatory compliance purposes.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess an individual's readiness and preferences for remote work. It will help us understand their current work environment, skills, and expectations. Please complete the form to the best of your ability, and answer each question carefully. If you have any doubts or questions, please refer to this help guide for clarification.
-
-This form will be used to identify potential candidates for remote work opportunities. Please answer honestly, and do not hesitate to ask if you need help or clarification on any of the fields.
-
-</thinking>
-
 # Remote Career Skills Assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's readiness and preferences for remote work. It will help us understand their current work environment, skills, and expectations.

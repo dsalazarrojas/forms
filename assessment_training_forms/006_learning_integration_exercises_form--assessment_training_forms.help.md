@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback and ratings about specific learning integration exercises. The form is designed to allow users to provide their thoughts on how well they feel the exercises meet their learning needs, and if they have any additional comments or feedback. The form does not require any personal or sensitive information, making it accessible to a wide range of users. 
-Please note that this form is not designed to collect sensitive or personal information, and users are not required to provide any such information. 
-Before proceeding, ensure you have not filled this form before, and that the information you are providing is relevant to your experience with the learning integration exercises. 
-</thinking>
-
 # Learning Integration Exercises Form - Help Guide
 ## Purpose
 The Learning Integration Exercises Form is designed to collect user feedback and ratings about specific learning integration exercises. This form allows users to provide their thoughts on how well the exercises meet their learning needs.

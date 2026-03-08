@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, my first task is to create a user-facing help guide for the "New Year's Eve Dinner Reservation" form. This form is designed to collect information from users for a New Year's Eve dinner event. To ensure that end-users understand the form's purpose, I will review the YAML input schema, analyze its structure, and create a clear and concise help guide that covers the form's purpose, the steps to complete it, and a field-by-field explanation of each required field. After creating the guide, I will review it to ensure that it is concrete, practical, and easy to follow.</thinking>
-
 # new_year_s_eve_dinner_reservation - Help Guide
 ## Purpose
 This form is for booking a dinner reservation for New Year's Eve. It helps our team to collect information about your guest's details, preferences, and contact information to prepare for the event.

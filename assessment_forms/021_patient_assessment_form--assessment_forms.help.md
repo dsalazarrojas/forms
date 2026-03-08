@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect patient information for assessment and evaluation purposes. The form is used to gather relevant details about the patient's condition, contact information, and other essential data. **Please ensure that this form is only completed once for each patient.**

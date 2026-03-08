@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a simple office space reservation form, likely for employees or visitors to reserve a specific office space. The form will ask for basic information such as date, time, name, email, contact number, space reservation preferences, and other relevant details. To ensure relevance, this form should only be used by authorized personnel or visitors with a legitimate reason for space reservation. Duplicating this form or submitting false information is not acceptable.
-</thinking>
-
 # office_space_reservation_form - Help Guide
 ## Purpose
 The office space reservation form is used to reserve an office space for a specific date and time. This form is intended for authorized personnel or visitors with a legitimate reason for space reservation.

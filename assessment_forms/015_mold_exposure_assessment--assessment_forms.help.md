@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mold Exposure Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about mold exposure in a property. It helps assess the presence and severity of mold growth in a given property, and guides you through the process of gathering essential details.

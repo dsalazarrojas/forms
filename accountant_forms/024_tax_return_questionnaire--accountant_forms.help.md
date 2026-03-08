@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax Return Questionnaire - Help Guide
 
 ## Purpose

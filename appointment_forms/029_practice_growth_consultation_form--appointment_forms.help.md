@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to collect information about a potential client or lead's interests and needs for a practice growth consultation. This form is not designed for internal use, but rather for end-users who will be interacting with the form. The form will not be used for duplicate submissions, so users can feel free to fill out the form without worrying about redundancy.
 
 </thinking>

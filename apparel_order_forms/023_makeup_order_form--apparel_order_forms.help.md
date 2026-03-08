@@ -1,12 +1,3 @@
-<thinking>
-This form is a simple online form designed to collect information from users for a makeup order. The form is intended to be used by customers or clients who want to place an order for a makeup product or service. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI.
-
-Before proceeding, please note that this form is a generated form, and its purpose and structure may not exactly match with any existing form platform. If you are familiar with the original form, please review the form carefully to ensure you understand the differences.
-
-The form has six fields, each with a specific purpose. Please review the form carefully to ensure you fill it out correctly.
-
-</thinking>
-
 # Makeup Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a makeup order. It is intended to be used by customers or clients who want to place an order for a makeup product or service.

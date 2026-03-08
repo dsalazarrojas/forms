@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect user information for direct deposit purposes. It's essential to ensure that the form is filled out accurately and completely to process direct deposits correctly. Before proceeding, review the form carefully to avoid duplication of effort and potential errors in processing.
-</thinking>
-
 # Direct Deposit Account Selection - Help Guide
 ## Purpose
 This form is used to select and verify the details of a direct deposit account for direct deposit purposes.

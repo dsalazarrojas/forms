@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Proposal Value Assessment - Help Guide
 ## Purpose
 The Service Proposal Value Assessment form is designed to evaluate the value of service proposals submitted to assess their feasibility and potential impact.

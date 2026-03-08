@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is intended to help business managers and stakeholders evaluate the feasibility of a new project within the company. The form asks for general project information such as title, description, business name, department, and contact details. It also collects project-specific data like project start and end dates, status, location, cost, budget, and team members involved. By filling out this form, users will be able to get an initial assessment on the project's feasibility.
-</thinking>
-
 # Project Feasibility Study Request Form - Help Guide
 
 ## Purpose

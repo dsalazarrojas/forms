@@ -1,7 +1,3 @@
-<thinking>
-The District Award Nomination Form is a tool used to recognize and acknowledge the outstanding achievements and contributions of individuals within the district. This form is used to submit nominations for district awards, which are given to individuals who have demonstrated exceptional performance, leadership, or service. Before filling out this form, please ensure that you are not nominating someone who has already been recognized with a district award in the past year. Additionally, please review the award type options carefully to ensure that the nominee fits into the correct category. If you are unsure about the award type, please contact the award committee for guidance.
-</thinking>
-
 # District Award Nomination Form - Help Guide
 ## Purpose
 The District Award Nomination Form is a tool used to recognize and acknowledge the outstanding achievements and contributions of individuals within the district. This form is used to submit nominations for district awards, which are given to individuals who have demonstrated exceptional performance, leadership, or service.

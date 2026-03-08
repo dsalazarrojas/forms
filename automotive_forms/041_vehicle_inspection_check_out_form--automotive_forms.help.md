@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a vehicle inspection, which is a crucial step in the vehicle maintenance and repair process. This form is likely used by mechanics, technicians, or service advisors at a car dealership or repair shop to document the inspection findings, assign a tool or equipment required for the repair, and update the vehicle's status. 
-The form is designed to be a simple and straightforward way to capture the necessary information in a concise manner, making it easier to review and reference later.
-</thinking>
-
 # Vehicle Inspection Check Out Form - Help Guide
 ## Purpose
 This form is designed to gather information about a vehicle's inspection, including any findings, assigned tools, and vehicle status.

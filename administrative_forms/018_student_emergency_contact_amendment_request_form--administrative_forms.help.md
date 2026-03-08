@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Emergency Contact Amendment Request Form - Help Guide
 
 ## Purpose

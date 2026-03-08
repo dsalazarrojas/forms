@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "kyc_form" form in the "banking_forms" category. This form is likely to be used for Know Your Customer (KYC) purposes, which is an essential process for financial institutions to verify the identity of their customers. The form aims to collect relevant information from customers, including their personal details, account information, and identification documents. We will carefully review each field to ensure that the explanation is clear, concise, and practical for end-users.
-</thinking>
-
 # kyc_form - Help Guide
 ## Purpose
 The Know Your Customer (KYC) form is used to collect personal and account information from customers for verification purposes. This form helps us understand your identity and account details to provide you with better service and ensure regulatory compliance.

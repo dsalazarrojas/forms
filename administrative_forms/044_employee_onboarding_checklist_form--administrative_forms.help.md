@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about new hires and their onboarding progress. It's meant to be filled out by the new employee or someone on their behalf. The form collects personal details, supervisor information, job specifics, and benefits information. Please ensure you only fill out this form once for each new employee. If you're not sure which fields apply to you, refer to your HR department for guidance.
-</thinking>
-
 # Employee Onboarding Checklist Form - Help Guide
 ## Purpose
 This form is used to collect and track information about new hires and their onboarding process.

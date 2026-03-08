@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # third_party_vendor_access_form - Help Guide
 ## Purpose
 This form is used to collect information from third-party vendors for accessing our system. It is essential for us to have accurate and up-to-date contact details for our vendors so we can manage access to our system effectively. This form is used to create or update vendor records in our system.

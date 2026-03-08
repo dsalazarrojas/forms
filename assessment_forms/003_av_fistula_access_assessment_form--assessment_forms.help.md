@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AV Fistula Access Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to assess the AV fistula access site after cannulation has been performed. This form helps clinicians evaluate the patient's condition, assess the fistula's maturity, and determine the next course of action for the patient.

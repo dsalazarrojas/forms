@@ -1,15 +1,3 @@
-<thinking>
-We need to ensure that this form is designed to accurately capture athlete performance metrics, which will be used to track progress and provide valuable insights for coaches, trainers, and athletes. This form should be used by coaches, trainers, or athletic directors to collect detailed information about an athlete's performance, including physical attributes such as height, weight, and body fat percentage, as well as their sports-specific metrics like the 40-yard dash time and vertical jump height.
-
-Before filling out the form, please ensure that the information is accurate and up-to-date. If you are unsure about any field, please ask your coach or trainer for clarification.
-
-The form is designed to collect data for athletes from various sports, including football, basketball, soccer, track and field, swimming, volleyball, baseball, softball, tennis, and other sports. Please select the primary sport from the provided options.
-
-Some fields may have specific instructions or constraints. For example, the body fat percentage field is optional and only applicable if measured.
-
-Please fill out the form accurately and thoroughly to provide valuable insights for the athlete's development.
-</thinking>
-
 # Athlete Performance Metrics Assessment Form - Help Guide
 ## Purpose
 The Athlete Performance Metrics Assessment Form is a tool for coaches, trainers, and athletic directors to collect detailed information about an athlete's performance, including physical attributes and sports-specific metrics.

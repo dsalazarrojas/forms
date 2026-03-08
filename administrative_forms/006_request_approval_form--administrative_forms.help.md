@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for requesting approval from multiple managers. The purpose of this form is to gather information about a specific request or task, including the requested date and time, a brief description of the request, and the approval status from each manager involved. This form is used in an administrative context, likely for requesting time off, meetings, or other work-related activities that require approval from multiple managers.
-
-When filling out this form, please ensure that you are not duplicating requests for the same activity, as this can lead to confusion and unnecessary work for the managers involved. 
-
-</thinking>
-
 # request_approval_form - Help Guide
 ## Purpose
 The "request_approval_form" is used for requesting approval from multiple managers for specific tasks or activities.

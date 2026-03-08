@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and document information about potential hazards and risks in a workplace environment. The form is used to conduct regular assessments to identify and manage hazards, and to ensure that necessary steps are taken to mitigate or eliminate them. The form will be completed by an assessor who has evaluated the workplace and identified potential hazards and risks.
-
-When filling out this form, please make sure to accurately and thoroughly document all relevant information. The form will be used as a reference for future assessments and to track progress in addressing hazards and risks.
-
-Note: This form is a template and should be adapted to fit the specific needs and requirements of your organization.
-
-</thinking>
-
 # hazard_assessment_inspection_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document information about potential hazards and risks in a workplace environment.

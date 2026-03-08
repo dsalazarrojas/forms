@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intonation Patterns Assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's intonation patterns, which refers to the pattern of pitch variations used while speaking. This assessment aims to evaluate your ability to identify and respond to intonation patterns.

@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to gather insights and opinions from accounting professionals on various aspects of ethics in the accounting profession. The purpose of this form is to understand the role of ethics in the accounting industry, including the frequency of encountering ethical dilemmas, sources of pressure, comfort level with reporting unethical behavior, importance of ethics resources, and opinions on continuing education and technology's impact on ethical standards.
-
-The form is divided into several sections, each focusing on a specific aspect of ethics in accounting. The sections include:
-
-* Respondent's role in accounting (page 1)
-* Years of experience in accounting (page 1)
-* Type of organization (page 1)
-* Formal ethics training (page 1)
-* Frequency of encountering ethical dilemmas (page 2)
-* Sources of pressure (page 2)
-* Comfort level with reporting unethical behavior (page 2)
-* Importance of ethics resources (page 2)
-* Mandatory continuing education (page 3)
-* Impact of technology on ethical standards (page 3)
-* Biggest ethics challenge (page 3)
-* Suggestions for improvement (page 4)
-
-To complete this form, simply select the corresponding answers for each question, and be honest in your responses. Your answers will help shape the future of ethics in accounting.
-
-</thinking>
-
 # Accounting Ethics Survey - Help Guide
 ## Purpose
 This form is designed to gather insights and opinions from accounting professionals on various aspects of ethics in the accounting profession.

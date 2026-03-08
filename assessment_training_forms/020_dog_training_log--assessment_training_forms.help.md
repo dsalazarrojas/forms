@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for dog training sessions, including training session ID, date, location, dog owner ID, dog breed, training time, notes, trainer name, phone number, dog weight, dog age, training duration, and session status. The purpose of this form is to provide a comprehensive log for dog training sessions, allowing trainers to keep track of each session's details. This form should only be used for dog training sessions, and any duplicate data should be avoided. The form fields should be filled in accurately and consistently to ensure reliable data collection.
-</thinking>
-
 # Dog Training Log - Help Guide
 ## Purpose
 The Dog Training Log form is a data collection tool designed to gather information about dog training sessions. It is intended for use by trainers to record and track the details of each session, including its outcome.

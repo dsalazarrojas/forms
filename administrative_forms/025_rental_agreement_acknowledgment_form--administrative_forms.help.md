@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect acknowledgment from tenants regarding their rental agreements. The form is intended to be filled out by tenants who are about to sign a rental agreement. The purpose of this form is to ensure that the tenant has read and understood the terms and conditions of the rental agreement. This form will serve as a record of the tenant's acknowledgment and understanding of the agreement.
-</thinking>
-
 # Rental Agreement Acknowledgment Form - Help Guide
 ## Purpose
 The Rental Agreement Acknowledgment Form is a document that is filled out by tenants to acknowledge that they have read and understood the terms and conditions of the rental agreement.

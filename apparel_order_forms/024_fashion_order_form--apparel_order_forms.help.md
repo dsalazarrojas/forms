@@ -1,7 +1,3 @@
-<thinking>
-This form is a simple order form for fashion-related orders, likely used by a business-to-business or business-to-consumer application. The purpose of this form is to allow users to select products they wish to purchase and specify the quantity they desire. Given that "quantity" is not explicitly linked to "product selection", I will assume that users will select a product and then specify the quantity of that product. This form does not appear to have any other fields for specifying products, so it seems the product selection is the most critical part of this form.
-</thinking>
-
 # fashion_order_form - Help Guide
 ## Purpose
 The fashion_order_form is a simple order form used to select and purchase fashion-related products.

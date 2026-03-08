@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect production information for a specific product or project. It helps gather essential details about the manufacturing team, project manager, product type, production capacity, and other relevant information. This form is a crucial tool for production planning and coordination.

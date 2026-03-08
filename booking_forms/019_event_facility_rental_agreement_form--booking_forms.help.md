@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an event facility rental agreement. This form is designed to collect relevant details about the event, such as the facility rented, event date and time, expected capacity, description, and contact information for the client. This form is intended for use by event organizers or facility managers to ensure that all necessary details are captured and communicated with the client. It is also a useful tool for internal reference and record-keeping.
-Please note that this form is a general-purpose form and might not be specific to a certain type of event or facility. It is designed to be flexible and adaptable for various types of events.
-</thinking>
-
 # Event Facility Rental Agreement Form - Help Guide
 
 ## Purpose

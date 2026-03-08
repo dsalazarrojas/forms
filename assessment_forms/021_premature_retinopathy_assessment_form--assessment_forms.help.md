@@ -1,12 +1,3 @@
-<thinking>
-The Premature Retinopathy Assessment Form is used to collect information on premature infants' medical history, including their new born check, infant data, medical history, examination notes, parents' consent, screening results, and treatment plan. This form helps healthcare professionals assess the infant's condition and develop a treatment plan.
-
-The purpose of this form is to gather essential data that will aid in the diagnosis and treatment of premature retinopathy in infants. This form should be filled out by healthcare professionals, such as doctors, nurses, or medical assistants, who have the necessary expertise and knowledge to complete it accurately.
-
-To ensure that the form is filled out correctly and without duplication, healthcare professionals should review the form carefully and verify that all required fields are completed before submitting the data.
-
-</thinking>
-
 # Premature Retinopathy Assessment Form - Help Guide
 ## Purpose
 The Premature Retinopathy Assessment Form is used to collect information on premature infants' medical history and condition to aid in diagnosis and treatment.

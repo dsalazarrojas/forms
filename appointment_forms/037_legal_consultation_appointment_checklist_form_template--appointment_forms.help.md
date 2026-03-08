@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help legal professionals schedule and manage appointments with clients. The form is called "legal_consultation_appointment_checklist_form_template". The purpose of this form is to capture relevant information about the appointment, including details about the client, the meeting itself, and follow-up actions after the meeting.
-
-This form is intended for legal professionals to use as a checklist for preparing and completing appointments with clients. It is a comprehensive form that covers various aspects of the appointment process, from scheduling to follow-up.
-
-To the best of my knowledge, this form is not previously available in the system, so we should not output the help guide if the form is not already in the system. Please confirm that this form is indeed new and not a duplication.
-
-Assuming the form is new, here is the help guide:
-</thinking>
-
 # legal_consultation_appointment_checklist_form_template - Help Guide
 ## Purpose
 This form is a comprehensive checklist for legal professionals to prepare and complete appointments with clients.

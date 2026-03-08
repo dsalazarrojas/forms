@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help employees or individuals track and reimburse expenses related to their work activities. The form will guide users to input relevant information such as expense type, date, amount, and other details. The form will also help in calculating the total expenses and providing a summary of the same for further reference.
-
-</thinking>
-
 # Expense Reimbursement Form With Calculations - Help Guide
 ## Purpose
 This form is designed to help employees or individuals track and reimburse expenses related to their work activities.

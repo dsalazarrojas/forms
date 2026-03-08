@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to release patient records from a healthcare provider's care. The purpose of this form is to provide a standardized way to document and release medical records to a patient or an authorized representative. The form is meant to be used when a patient is requesting access to their own medical records or when a healthcare provider is releasing records to a patient's representative. This form should only be used when the patient has given explicit consent for release of their records.
-When completing this form, ensure that all required fields are filled in accurately and completely. This form should not be used to request access to someone else's medical records without their explicit consent.
-Please note that this form is not intended to be a comprehensive medical record release form, but rather a specific form for hospice care records release. 
-</thinking>
-
 # hospice_care_records_release_form - Help Guide
 ## Purpose
 This form is used to release patient records from a healthcare provider's care. 

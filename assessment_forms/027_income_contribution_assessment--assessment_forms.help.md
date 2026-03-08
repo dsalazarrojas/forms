@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Income Contribution Assessment form is used correctly to collect relevant data for making informed decisions. This form should only be used to assess income contributions for specific individuals or households, and not for other purposes such as creating new users or editing existing ones. Additionally, the data collected through this form should not be duplicated or updated through other means.
-</thinking>
-
 # Income Contribution Assessment - Help Guide
 ## Purpose
 This form is designed to collect income information from users for assessment and decision-making purposes.

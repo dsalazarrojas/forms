@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # MRI Knowledge Assessment - Help Guide
 
 ## Purpose

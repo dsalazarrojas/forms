@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the Public Speaking Excellence Award, which aims to recognize individuals who have demonstrated exceptional public speaking skills in their events. To ensure that each nomination is valid and accurate, please ensure that you are familiar with the award criteria and that your nomination meets all the necessary requirements. Before completing this form, review the award guidelines to confirm that your nomination aligns with the evaluation criteria. Also, please note that you can only submit one nomination per event. If you have already submitted a nomination for this event, please do not resubmit.
-</thinking>
-
 # Public Speaking Excellence Award Nomination Form - Help Guide
 ## Purpose
 The Public Speaking Excellence Award Nomination Form is designed to collect information about an event and its speaker to determine their eligibility for the Public Speaking Excellence Award. This form is used to gather data about the speaker, the event, and the submission details.

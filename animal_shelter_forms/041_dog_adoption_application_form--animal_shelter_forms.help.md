@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in adopting a dog from an animal shelter. The purpose of this form is to gather essential details from the applicant, such as their contact information, adoption preferences, and the pet information they are interested in adopting. This form will help the animal shelter staff to quickly and efficiently process the adoption applications, ensuring that the right dogs are matched with the right owners.
-
-The form has five fields, each with a specific purpose:
-
-*   "Applicant Information" collects the applicant's personal details.
-*   "Contact Information" is where the applicant can provide their contact details.
-*   "Adoption Information" is where the applicant can mention any specific adoption requirements or preferences.
-*   "Pet Information" is where the applicant can provide specific information about the pet they are interested in adopting.
-*   "Additional Notes" is an optional field for any additional comments or requests the applicant might have.
-
-Before filling out the form, please make sure to provide accurate and clear information, as it will help the animal shelter to process your application efficiently.
-
-</thinking>
-
 # Dog Adoption Application Form - Help Guide
 
 ## Purpose

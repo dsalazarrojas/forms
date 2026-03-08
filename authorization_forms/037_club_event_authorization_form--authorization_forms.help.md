@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a club event. The purpose of this form is to gather essential details about the event, including its organizers, location, date, time, duration, expected attendees, event type, activities, and safety measures. The form also requires approval from the club president and provides the option to request a liability waiver. The form is divided into several sections to make it easier to fill out and understand. It is recommended that the club members and event organizers review the form carefully before submitting it for approval.
-</thinking>
-
 # Club Event Authorization Form - Help Guide
 ## Purpose
 The Club Event Authorization Form is used to collect information about a club event, including its organizers, location, date, time, duration, expected attendees, event type, activities, and safety measures. This form is required for all club events and must be submitted for approval before the event can take place.

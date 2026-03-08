@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my task is to create a user-facing help guide for the "social-comfort-questionnaire" form. I will carefully review the provided YAML fields and create a clear and concise guide that explains the form's purpose, how to complete it, and what each field means.</thinking>
-
 # social-comfort-questionnaire - Help Guide
 
 ## Purpose

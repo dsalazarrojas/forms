@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record attendance in daycare settings, allowing staff to report the number of children present, their names, and any relevant notes. This guide will help users complete the form accurately and efficiently.
-</thinking>
-
 # Daycare Attendance Form - Help Guide
 ## Purpose
 The Daycare Attendance Form is used by staff to record attendance information for each child in their care. This information is essential for maintaining accurate records and ensuring the well-being of children in the daycare.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect data for a Cardiology ROI (Return on Investment) Assessment. The purpose of this form is to gather essential information about a cardiology program or intervention, including its cost, measurable outcomes, and estimated savings. This data will be used to evaluate the value and effectiveness of the program.
-
-To prevent duplication of assessments, please ensure that the assessment is submitted for a specific period and program. If you need to submit multiple assessments for the same program, please create separate forms for each assessment period.
-
-Before completing this form, please review the assessment context and ensure you have the necessary information required for the assessment.
-
-</thinking>
-
 # Cardiology ROI Assessment - Help Guide
 ## Purpose
 The Cardiology ROI Assessment form is used to collect data for evaluating the value and effectiveness of a cardiology program or intervention.

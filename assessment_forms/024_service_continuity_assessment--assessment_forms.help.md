@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the continuity of a service organization. It is intended to help service providers evaluate their ability to maintain and resume their services in the event of a disaster or major disruption. The form is not a one-time assessment, but rather a tool to be used regularly to review and improve the organization's continuity plans. The purpose of this form is to collect information on key aspects of service continuity, including business owners, continuity teams, potential continuity gaps, risk assessment, recovery plans, communication planning, training plans, and testing plans.
-
-</thinking>
-
 # Service Continuity Assessment - Help Guide
 ## Purpose
 The Service Continuity Assessment is a tool to help service providers evaluate their ability to maintain and resume their services in the event of a disaster or major disruption. It is a regular review and improvement process to ensure that the organization's continuity plans are up-to-date and effective.

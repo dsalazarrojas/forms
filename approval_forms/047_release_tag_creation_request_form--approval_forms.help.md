@@ -1,5 +1,3 @@
-<thinking>
-This form is used to request the creation of a release tag. Before proceeding, please ensure you understand the purpose of this form and that you have reviewed the current status of your request form. Ensure you are not duplicating an existing request. To confirm, you can search for your request form id in the database or discuss with your team members about ongoing requests.</thinking>
 # Release Tag Creation Request Form - Help Guide
 
 ## Purpose

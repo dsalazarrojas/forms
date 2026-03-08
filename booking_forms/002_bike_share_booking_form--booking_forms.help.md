@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for booking a bike share. The form collects user information required for the booking process, including personal details and bike preferences. The form ensures that users can specify their journey dates, pickup and dropoff stations, and any special requirements they may have. This form does not require the membership ID as it is optional. The main purpose of this form is to facilitate the bike sharing service by collecting necessary information from users.
-</thinking>
-
 # Bike Share Booking Form - Help Guide
 ## Purpose
 The Bike Share Booking Form is designed for booking a bike share. Fill out this form with your personal and bike preference details to book a bike share for your intended journey.

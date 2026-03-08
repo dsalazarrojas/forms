@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about upcoming DJ events. The form is used to schedule and manage DJ sets at various events such as DJ sets, club nights, corporate events, and more. The form should only be completed by event organizers or individuals responsible for booking DJs. The purpose of this form is to ensure that all necessary information is collected for the DJ's performance, making it easier to coordinate and execute the event successfully.
-</thinking>
-
 # DJ Appointment Form - Help Guide
 ## Purpose
 The DJ Appointment Form is designed to collect information about upcoming DJ events, including event type, event name, start time, venue, DJ name, contact number, email, and client name. This form is intended for event organizers or individuals responsible for booking DJs.

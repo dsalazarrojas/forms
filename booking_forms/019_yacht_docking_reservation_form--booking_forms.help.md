@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for yacht docking reservations at a marina. This form is designed to gather essential details such as user contact information, marina selection, slip size, reservation date and time, and any additional comments or messages. The form's fields are structured to provide a clear and concise way to capture the necessary information for efficient reservation management.
-
-Before proceeding, please ensure that you have all the necessary information ready to complete the form accurately and thoroughly. It is recommended to review the form fields carefully and ask for clarification if any field is unclear or requires additional explanation.
-
-This form is meant to be used for new reservations. If you are looking to cancel or modify an existing reservation, please use the respective "Cancel/Modify Reservation" form.
-</thinking>
-
 # Yacht Docking Reservation Form - Help Guide
 ## Purpose
 This form is used to create new reservations for yacht docking at the marina.

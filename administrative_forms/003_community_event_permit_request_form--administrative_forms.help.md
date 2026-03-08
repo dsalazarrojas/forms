@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Community Event Permit Request Form - Help Guide
 
 ### Purpose

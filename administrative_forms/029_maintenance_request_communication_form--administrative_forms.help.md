@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maintenance Request Communication Form - Help Guide
 
 ## Purpose

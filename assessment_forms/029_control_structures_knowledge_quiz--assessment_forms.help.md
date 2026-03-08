@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Control Structures Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge of control structures in programming, including sequences, selections, and iterations. It evaluates your understanding of concepts such as loops, conditional statements, and control flow.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from participants about their instrument preparation, which can include questions about their instrument of choice, procedure, and any other relevant information. This form is likely used in educational or research settings to collect data from individuals who are preparing instruments for use in a specific context.
 
 Before we dive into the form, let's ensure that this form is relevant to your use case. This form seems to be designed to collect various types of information from participants, including their instrument preparation, procedure, and personal information. If you're not preparing instruments or collecting personal information, you might not need to use this form.

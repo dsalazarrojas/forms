@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about maintenance costs for a given period. This form is typically used for submitting reports on maintenance costs, such as repair or replacement costs, for assets or equipment. The form is designed to be completed by individuals or teams responsible for overseeing or performing maintenance tasks.
 
 **Maintenance Cost Report Form - Help Guide**

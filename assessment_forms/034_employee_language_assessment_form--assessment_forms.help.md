@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the language proficiency, abilities, and communication skills of employees. This form is used to gather information about an employee's language skills, including their language proficiency, language abilities, and dialects spoken. It is essential to complete this form accurately to ensure that the assessment is fair and unbiased. Please ensure that you are completing the form for the correct employee and that the answers are based on your personal knowledge of the employee's language skills. If you are unsure about any of the questions, please consult with the employee or their manager before submitting the form.
-</thinking>
-
 # Employee Language Assessment Form - Help Guide
 ## Purpose
 The Employee Language Assessment Form is used to assess the language proficiency, abilities, and communication skills of employees.

@@ -1,5 +1,3 @@
-<thinking>...This form is for customers to cancel their scheduled bank appointments. Please use this form to provide the necessary details to cancel your appointment, including your name, contact information, original appointment details, and reason for cancellation. This form should not be used for rescheduling. If you need to reschedule, select "No - I will reschedule later" on the "Cancellation Reason" field and provide additional comments if necessary. The form will guide you through the cancellation process and help you understand any potential implications of cancelling, such as late cancellation fees...</thinking>
-
 # Bank Appointment Cancellation Form - Help Guide
 ## Purpose
 The Bank Appointment Cancellation Form is used to formally cancel a scheduled bank appointment. This form helps the bank to process your cancellation request efficiently and understand the reason for it.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # piercing_service_waitlist - Help Guide
 ## Purpose
 This form is used to capture client information for a piercing service waitlist. It helps to ensure accurate and efficient management of client requests and preferred services. The form is designed for clients to provide their details and preferences for piercing services.

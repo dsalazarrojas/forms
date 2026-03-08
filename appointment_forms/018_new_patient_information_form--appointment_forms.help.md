@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_patient_information_form - Help Guide
 ## Purpose
 This form is designed to collect new patient information, including medical history, contact details, and demographic data. It helps healthcare providers gather the necessary data to create a comprehensive patient record. 

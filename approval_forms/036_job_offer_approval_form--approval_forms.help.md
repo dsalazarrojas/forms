@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for the approval process of job offers. It is a critical step in the hiring process where the approvers at various levels need to provide their consent to the new job offer. This form ensures that all approvers are aware of and agree to the terms of the job offer.
-</thinking>
-
 # Job Offer Approval Form - Help Guide
 
 ## Purpose

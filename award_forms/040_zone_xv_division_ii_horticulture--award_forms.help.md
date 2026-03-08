@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for Zone XV Division II Horticulture competition organizers to manage and track competition entries and related data. The form is used to collect information for each entry, including entry phase, entry name, division, entry number, passing phase, passing criteria, placement phase, placement criteria, special awards phase, special criteria, email notification, entry table, judges' email, entry phase table, passing table, placement table, and special awards table. To ensure accuracy, the form is divided into multiple pages, each addressing a specific aspect of the competition.
-
-Before filling out the form, please ensure that you have all necessary information ready and that you are authorized to submit the data on behalf of the competition organizers.
-
-This guide is designed to walk you through each field and section of the form, ensuring you complete it correctly and efficiently.
-
-</thinking>
-
 # Zone XV Division II Horticulture - Help Guide
 ## Purpose
 This form is used by competition organizers to manage and track Zone XV Division II Horticulture competition entries and related data.

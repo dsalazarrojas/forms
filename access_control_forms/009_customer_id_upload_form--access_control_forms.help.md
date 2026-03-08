@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to enable customers to upload their identification documents in a structured and standardized way, while ensuring the authenticity of the uploaded documents. It will help the company's customers to upload their IDs and other relevant information with the correct category and type of document. This form is meant to prevent errors of duplication, as only one document will be uploaded for a customer at a time. 
-
-The uploaded document will be reviewed and verified before it's approved. 
-
-</thinking>
-
 # Customer ID Upload Form - Help Guide
 ## Purpose
 This form is for uploading customer identification documents, such as IDs, for verification and authentication purposes.

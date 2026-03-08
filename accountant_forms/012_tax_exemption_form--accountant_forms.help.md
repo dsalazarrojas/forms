@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax Exemption Form - Help Guide
 
 ## Purpose

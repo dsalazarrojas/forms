@@ -1,7 +1,3 @@
-<thinking>
-The form "kayleighs_lipsense_order_form_final" is used to collect information for orders. It is designed to gather data from customers for various types of orders, including items to be purchased, shipping information, payment methods, and order details. This form helps to streamline the ordering process and ensure accurate and efficient order fulfillment.
-</thinking>
-
 # kayleighs_lipsense_order_form_final - Help Guide
 ## Purpose
 The kayleighs_lipsense_order_form_final form is used to collect order information from customers for various types of orders.

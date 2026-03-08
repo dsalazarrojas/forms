@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect nominations for the Health Equity Awards, which recognize outstanding contributions to health equity. The form is designed to gather information about the nominator and the nominee, including their names, contact information, and a description of the nominee's contributions. The form also includes fields for the nominator's comments and signature.
-
-The form is divided into two main sections: nominator information and nominee information. The nominator section includes fields for the nominator's name, email, organization, and contact information. The nominee section includes fields for the nominee's name, title, organization, and contribution description.
-
-To ensure accuracy and fairness, it is essential to review and update the form's internal logic and fields to prevent duplicated or irrelevant nominations.
-
-</thinking>
-
 # health_equity_awards_nomination_form - Help Guide
 ## Purpose
 The Health Equity Awards nomination form is designed to collect information about individuals who have made outstanding contributions to health equity. This form helps to recognize and celebrate their achievements and contributions to the field.

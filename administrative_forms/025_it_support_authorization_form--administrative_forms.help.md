@@ -1,14 +1,3 @@
-<thinking>
-This form is used for employees to request IT support for various purposes. To ensure the form is used correctly, please review the following help guide carefully.
-
-This form is designed to gather necessary information from employees to facilitate efficient and effective IT support. It's crucial to fill out this form accurately to ensure the IT team can understand and address the employee's issue promptly.
-
-Please note that some fields are marked as required, which means they must be filled out for the form to be submitted successfully. Ensure that you provide all required information to avoid any issues.
-
-The following guide will walk you through each field of the form, helping you understand what information is needed and why.
-
-</thinking>
-
 # IT Support Authorization Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that will assist customers in completing a "Helicopter Tour Booking Form" efficiently. I will carefully analyze the provided YAML fields to ensure that each field's purpose and requirements are clearly understood. I will also aim to provide concise and concrete explanations for each field, avoiding any unsupported business logic. The final help guide will be structured in Markdown format, with sections for Purpose, How To Complete This Form, Field-by-Field Explanation, and Tips.</thinking>
-
 # Helicopter Tour Booking Form - Help Guide
 ## Purpose
 This form is used to book a helicopter tour. It requires customer information, contact details, tour details, and payment information to process the booking.

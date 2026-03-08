@@ -1,7 +1,3 @@
-<thinking>
-Internal reason for this form: This form is used for collecting information about catalytic converters submitted for recycling or sale. It ensures that end-users can provide accurate details about the converters they are submitting, which helps with processing and evaluation. This form prevents duplication of submissions by requiring a unique ID for each submission.
-</thinking>
-
 # Catalytic Converter Submission Form - Help Guide
 ## Purpose
 

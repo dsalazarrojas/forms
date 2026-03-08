@@ -1,8 +1,3 @@
-<thinking> 
-Please confirm the form is intended for recording information about the Art Inventory Information Record Form, and that there aren't any existing documentation for this form. This form is used to gather details about art pieces, including dates, artists, medium, dimensions, and more. It's essential to understand the purpose and usage of this form to provide accurate and helpful documentation. 
-
-</thinking>
-
 # Art Inventory Information Record Form - Help Guide
 ## Purpose
 The Art Inventory Information Record Form is used to collect and record information about art pieces in your collection. This form helps to ensure accurate and up-to-date information about each artwork, making it easier to manage and maintain your inventory.

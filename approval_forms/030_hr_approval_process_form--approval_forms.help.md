@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "hr_approval_process_form" is to facilitate the approval process for employee requests, ensuring that all necessary information is collected and processed efficiently. This form is designed to gather details from employees, such as their name, job title, department, request date, approver's name, email, and phone number, as well as any additional notes. It is crucial that this form is filled out accurately and completely to ensure that approvers have the necessary information to make informed decisions.
 
 ## hr_approval_process_form - Help Guide

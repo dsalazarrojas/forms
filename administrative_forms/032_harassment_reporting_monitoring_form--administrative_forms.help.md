@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to gather information about incidents of harassment reported by users, which will be used to monitor and track these incidents. This form is designed to be completed by individuals who have experienced or witnessed harassment and want to report it. The form is not intended for emergency situations, and users should not use this form to report urgent or immediate incidents.
-
-Before completing this form, please make sure that the incident has already been reported and is not ongoing. If you are reporting an ongoing incident, please contact your supervisor or HR department directly.
-
-Please fill out this form carefully and accurately to ensure that the incident is properly recorded and followed up on.
-
-</thinking>
-
 # Harassment Reporting Monitoring Form - Help Guide
 ## Purpose
 The Harassment Reporting Monitoring Form is designed to gather information about incidents of harassment reported by users. Please use this form to provide detailed information about the harassment incident.

@@ -1,6 +1,3 @@
-<thinking> 
-The form is for renters to subscribe to a renters insurance service. The purpose of this form is to collect essential information from renters to provide them with insurance coverage. The form is a simple, single-page form that gathers basic contact information. There is no duplicate checking for this form as it's not intended for users to fill it out multiple times. This form has a total of 5 fields to fill out.</thinking>
-
 # Renters Insurance Subscription Form - Help Guide
 ## Purpose
 This form is designed to collect information from renters to provide them with insurance coverage. It is a simple and straightforward form that requires basic contact information.

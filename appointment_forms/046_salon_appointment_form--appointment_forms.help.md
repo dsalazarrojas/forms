@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book an appointment at a salon, gathering information from the customer, such as their name, contact details, preferred date and time, and services they wish to receive. The form ensures that the customer's preferences and requirements are captured accurately, allowing salon staff to prepare accordingly. 
-</thinking>
-
 # Salon Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule an appointment at a salon, ensuring that the necessary information is collected from the customer for a smooth and efficient service.

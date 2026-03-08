@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a Wi-Fi connection for employees to use in the office. It is designed to collect information from employees about their department, name, contact information, and reason for requesting a Wi-Fi connection. This form is not intended for employees to request Wi-Fi access for personal use. Ensure you only submit a form for official work-related purposes only.
-</thinking>
-
 # Wi Fi Connection Request Form - Help Guide
 ## Purpose
 This form is used to request a Wi-Fi connection for official work-related purposes.

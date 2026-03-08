@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Multimedia Journalist Evaluation - Help Guide
 
 ## Purpose

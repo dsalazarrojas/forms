@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used for a specific business process or workflow within the organization, and it's used to authorize the opening of an envelope. The purpose of this form is to gather necessary information for the opening of the envelope, which might include details about the category, description, organization, school, requester, date, time, location, reason, approval status, and other relevant information. This form is probably used by someone in a position of authority to review and validate the information before proceeding with the envelope opening process.
-
-This form might be used by someone in a role that requires authorization to open an envelope, such as a manager, supervisor, or administrator. They would fill out the form to provide necessary details and approval, which would then be reviewed and verified by someone else in the organization. The form might be used in a specific department or team within the organization, such as finance, human resources, or operations.
-
-Please note that the exact business logic and use case of this form might not be fully clear from the provided YAML, so these explanations are based on best-effort interpretation.
-</thinking>
-
 # Envelope Opening Authorization Form - Help Guide
 ## Purpose
 The Envelope Opening Authorization Form is used to gather information and approval for the opening of an envelope.

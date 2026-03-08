@@ -1,15 +1,3 @@
-<thinking>
-This form is used to request festival accommodation for attendees. The purpose of this form is to collect information about the attendee's personal details, such as name, contact information, and accommodation preferences. This form is intended for attendees who need to book festival accommodations, and the collected data will be used to facilitate the booking process.
-
-To prevent duplicates and ensure accurate data collection, please make sure to:
-
-* Review the form carefully before submitting it.
-* Ensure all required fields are filled in before submitting the form.
-* Double-check the festival name to ensure it matches the festival you are requesting accommodations for.
-
-This form has 10 fields, and some of them are required. Required fields are marked with a asterisk (\*) below.
-</thinking>
-
 # festival_accommodation_request_form - Help Guide
 ## Purpose
 The festival_accommodation_request_form is used to request festival accommodations for attendees. This form collects personal details and accommodation preferences to facilitate the booking process.

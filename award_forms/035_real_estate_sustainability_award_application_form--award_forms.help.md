@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that the Real Estate Sustainability Award Application Form is only completed by eligible projects that have a clear understanding of the form's purpose and requirements. This form is intended to collect information about a real estate project's environmental impacts and sustainability initiatives. Before filling out this form, please review the submission guidelines to avoid duplication of efforts and ensure that your project meets the eligibility criteria.
-</thinking>
-
 # Real Estate Sustainability Award Application Form - Help Guide
 ## Purpose
 The Real Estate Sustainability Award Application Form is designed to collect information about your project's environmental impacts and sustainability initiatives. This form helps us evaluate your project's eligibility for the award and assess its potential for sustainability.

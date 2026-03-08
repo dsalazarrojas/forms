@@ -1,12 +1,3 @@
-<thinking>
-This help guide aims to assist users in understanding the purpose and proper completion of the "Tax Preparation Quote Request" form. The form is designed to gather essential information from clients to provide an accurate quote for tax preparation services. 
-
-This guide will walk users through the purpose of each field, ensuring they can fill out the form accurately and efficiently. 
-
-Before proceeding, please review the form's purpose and requirements to avoid duplication of effort.
-
-</thinking>
-
 # Tax Preparation Quote Request - Help Guide
 ## Purpose
 The Tax Preparation Quote Request form is designed to gather essential information from clients to provide an accurate quote for tax preparation services. This form helps our team understand the client's needs and tailor the services accordingly.

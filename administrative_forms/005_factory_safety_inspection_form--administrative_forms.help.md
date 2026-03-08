@@ -1,7 +1,3 @@
-<thinking>
-Factory safety inspections are critical components of maintaining a safe work environment. This form helps you report on the status of your factory's safety conditions, equipment, and personal protective equipment (PPE) usage. It is used by factory management to track and address potential safety hazards. Please ensure that you only fill out this form if you are authorized to do so.
-</thinking>
-
 # factory_safety_inspection_form - Help Guide
 ## Purpose
 This form is used to report on the safety conditions and equipment of your factory. It includes sections for checking if safety equipment is in use, personal protective equipment (PPE) usage, and submitting a general report.

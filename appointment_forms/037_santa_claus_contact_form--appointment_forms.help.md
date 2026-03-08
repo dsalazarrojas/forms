@@ -1,12 +1,3 @@
-<thinking>
-This form is used for gathering comments and feedback from users who have interacted with Santa Claus, the jolly old fellow in the red suit. The form is designed to help identify areas of improvement and provide a platform for users to voice their concerns or suggestions.
-
-To complete this form, you will be asked to provide a series of comments and feedback. Please be as detailed as possible, and remember that all comments are kept confidential. The form consists of 15 fields, where each field is a space for you to provide your thoughts and opinions.
-
-When filling out the form, please note that some fields are required, while others are optional. Make sure to fill out all the required fields before submitting your comments. If you're unsure about any of the fields, feel free to ask for clarification.
-
-</thinking>
-
 # Santa Claus Contact Form - Help Guide
 ## Purpose
 This form is used to gather comments and feedback from users who have interacted with Santa Claus. It is a tool for Santa to better understand how to improve his services and provide a better experience for his visitors.

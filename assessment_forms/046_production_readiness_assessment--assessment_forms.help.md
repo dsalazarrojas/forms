@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Readiness Assessment - Help Guide
 ## Purpose
 The Production Readiness Assessment form is designed to evaluate the readiness of a product or feature for launch. It helps assess the production readiness of a product by considering various factors such as launch risks, IT teams involved, and the launch review process. This form is used to gather information to determine if the product or feature is ready for production and if any additional steps are needed to ensure its successful launch.

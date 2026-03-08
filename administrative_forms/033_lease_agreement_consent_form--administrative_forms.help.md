@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to capture consent and agreement details from tenants related to a lease agreement. The purpose of this form is to ensure that the tenant has reviewed and agrees to the terms of the lease, as well as provide relevant information about the lease such as the start and end dates, lease amount, and payment methods. 
-</thinking>
-
 # Lease Agreement Consent Form - Help Guide
 ## Purpose
 The Lease Agreement Consent Form is used to capture consent and agreement details from tenants related to a lease agreement. 

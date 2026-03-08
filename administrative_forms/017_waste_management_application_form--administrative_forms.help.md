@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for waste management applications, which are used to process and handle waste disposal requests. This form is likely used by administrative staff or waste management teams to gather essential details about the waste type, frequency, and status, as well as the customer's contact information and reviewer's notes.
-</thinking>
-
 # Waste Management Application Form - Help Guide
 ## Purpose
 This form is used to collect information for waste management applications. It is essential to provide accurate and complete information for efficient processing and handling of waste disposal requests.

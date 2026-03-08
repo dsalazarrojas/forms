@@ -1,13 +1,3 @@
-<thinking>
-  This form is intended to collect data for a construction punch list, which is a list of issues or deficiencies found during the construction process.
-  The form is used to document and track punch list items, including their location, description, trade responsible, priority, status, and completion deadline.
-  It also captures information about the project, such as the project name, address, and number.
-  The form is designed to be completed by the inspector, contractor, and client, ensuring that all parties are on the same page and aware of the issues that need to be addressed.
-  The form's data will be used to track progress, communicate among stakeholders, and ensure that all punch list items are completed in a timely manner.
-  This form is meant to be used on a one-time basis, and it is not intended to be a recurring form.
-  Please ensure that you are completing this form for the correct project and purpose.
-</thinking>
-
 # Construction Punch List - Help Guide
 ## Purpose
 The Construction Punch List form is used to collect and track issues or deficiencies found during the construction process. It captures information about each item, including location, description, trade responsible, priority, status, and completion deadline.

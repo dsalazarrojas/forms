@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to assess an individual's risk of suicide. The assessment includes questions related to suicidal thoughts, feelings, plans, and behavior. These questions are meant to be answered truthfully and thoroughly, as they can help identify potential risks and provide a basis for further evaluation and support. It's essential to ensure that this form is completed by the individual themselves, as others may not be able to provide accurate information.
-
-Before starting the assessment, please ensure you are in a comfortable and private setting. The assessment is not meant to be rushed, and it's okay to take your time to answer each question carefully.
-
-When answering, please select the options that best apply to your situation. If you're unsure about any question, please answer 'True' to indicate that you need help or support.
-
-Please review each question carefully, as the answers will be used to help guide further evaluation and support.
-
-The assessment will cover the following areas:
-
-*   Suicidal thoughts: Have you ever felt that you're a burden to others or that you'd be better off dead?
-*   Suicidal feelings: Have you experienced feelings of sadness, hopelessness, or despair recently?
-*   Suicidal behavior: Have you ever engaged in or considered harming yourself?
-*   Suicidal plans: Have you ever thought about or planned to harm yourself?
-*   Suicidal attempts: Have you ever attempted to harm yourself?
-*   Suicidal plans implementation: Do you have a plan in place to harm yourself?
-*   Suicidal worry about suicide: Do you worry about your own death or the death of others?
-*   Suicidal plans to harm others: Do you have thoughts about harming others in association with your own suicide?
-*   Suicidal notes: Any additional information you'd like to share about your feelings or experiences.
-
-</thinking>
-
 # Suicide Risk Assessment Form - Help Guide
 ## Purpose
 The Suicide Risk Assessment Form is a self-report assessment designed to help identify potential risks and provide a basis for further evaluation and support.

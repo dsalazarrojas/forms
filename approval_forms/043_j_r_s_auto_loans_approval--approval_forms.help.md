@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users approve or decline auto loan applications, considering various factors such as category, pre-qualification time, great rates, savings in time and hassle, buying options, credit status, and dealership preferences. However, it seems that the form is currently in its default configuration, and it's not clear how it's being used internally. I'm going to assume that this form is meant to collect information for a loan approval process, and I'll provide a help guide based on this assumption. Please review the form fields and adjust this guide if necessary.
-</thinking>
-
 # jrs_auto_loans_approval - Help Guide
 ## Purpose
 The "jrs_auto_loans_approval" form is used to evaluate and approve or decline auto loan applications. It collects information about the loan category, pre-qualification time, loan features, and dealership preferences. This form helps to determine the best possible solution for the user's loan needs.

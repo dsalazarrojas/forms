@@ -1,17 +1,3 @@
-<thinking>
-
-To ensure the self-discovery questionnaire template is effectively used by end-users, let's briefly discuss the form's purpose and potential issues to consider before proceeding.
-
-This form is designed for the self-discovery process, which is a critical component of personal growth and goal-setting. It helps individuals reflect on their motivations, skills, strengths, values, and goals, enabling them to gain a deeper understanding of themselves and set realistic targets for improvement.
-
-Before starting the form, it's essential to consider the following:
-
-* Ensure the user is familiar with the self-discovery process and its benefits.
-* Be aware that the form's purpose is not to overwhelm or intimidate the user but to facilitate a personal growth journey.
-* If the user is unsure about any section or question, encourage them to take their time and seek help if needed.
-
-</thinking>
-
 # self_discovery_questionnaire_template - Help Guide
 ## Purpose
 

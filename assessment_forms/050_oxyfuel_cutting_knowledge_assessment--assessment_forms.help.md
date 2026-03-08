@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a multiple-choice assessment designed to gauge users' knowledge on various aspects of oxyfuel cutting. It seems to cover different areas of oxyfuel cutting, likely for a manufacturing or engineering context. Before proceeding, ensure that you're filling out this form in the relevant context and that you've taken the oxyfuel cutting knowledge assessments before. This should only be filled out by authorized personnel with the correct access rights. The fields below are explained in detail for clarity.
-</thinking>
-
 # Oxyfuel Cutting Knowledge Assessment - Help Guide
 ## Purpose
 The Oxyfuel Cutting Knowledge Assessment form is designed to evaluate your knowledge on various aspects of oxyfuel cutting. Please review the form fields below for more information on how to complete it effectively.

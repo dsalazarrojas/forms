@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to support end-users in understanding the Tax Client Interest Registration form. The form is designed to gather information from potential clients interested in tax services. It collects personal details such as name, contact information, and language preferences. Additionally, it inquires about the services the client is interested in, how they found out about the company, and any additional information they would like to provide. The form also includes legal terms and agreements that the client must consent to in order to proceed with services. This form is used to assess the client's interest and ensure they are aware of and agree to the terms and conditions of the company's services.
-
-</thinking>
-
 # Tax Client Interest Registration - Help Guide
 ## Purpose
 The Tax Client Interest Registration form is designed to collect information from potential clients interested in tax services, allowing us to assess their interest and provide them with relevant information and services.

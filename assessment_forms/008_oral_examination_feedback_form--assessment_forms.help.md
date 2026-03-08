@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-## Oral Exammation Feedback Form - Help Guide
+> ## Oral Exammation Feedback Form - Help Guide
 ### Purpose
 The Oral Exammation Feedback Form is used to provide feedback on oral examinations. This form is designed to gather information about the examiner, candidate, and examination details. The form helps evaluate the examination process and identify areas for improvement.
 

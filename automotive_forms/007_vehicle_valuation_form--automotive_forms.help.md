@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information about a vehicle for valuation purposes. This form will likely be used by dealerships, sales teams, and other stakeholders to quickly and accurately capture the details of a vehicle. It is likely to be part of a larger workflow that involves assessing the vehicle's value and making decisions based on that assessment. To avoid duplication, the form should only be filled out once per vehicle.
-</thinking>
-
 # Vehicle Valuation Form - Help Guide
 ## Purpose
 

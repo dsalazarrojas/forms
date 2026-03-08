@@ -1,12 +1,3 @@
-<thinking>... 
-
-This form is a tool for tracking medications for pets, allowing users to record essential information about the medication schedule, dosage, and other relevant details. The purpose of this form is to help pet owners keep track of their pets' medication schedules and ensure that their pets receive their necessary treatments. To ensure that the form is not used for duplicate or unrelated purposes, the following assumptions are made:
-* The form will be used for tracking individual pet medications, not for tracking multiple medications for different pets.
-* The form will be used for tracking short-term medication schedules, not for managing long-term medical histories.
-* The form will not be used for emergency situations where immediate medical attention is required.
-
-</thinking>
-
 # Pet Medication Tracker Form - Help Guide
 ## Purpose
 The Pet Medication Tracker Form is designed to help pet owners track and monitor their pets' medication schedules, ensuring that their pets receive their necessary treatments on time and in the right amounts.

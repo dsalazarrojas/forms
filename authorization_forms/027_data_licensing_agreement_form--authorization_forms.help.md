@@ -1,12 +1,3 @@
-<thinking>
-To create a clear and user-friendly help guide for the "data_licensing_agreement_form" form, let's understand its purpose and requirements. This form aims to gather information from data providers about their data usage and licensing agreements. The form is designed to be completed by data providers, and its fields will be explained below.
-
-This form is an AI-generated adaptation of public survey topic metadata, not affiliated with or derived from any form platform, and is released under CC BY 4.0. This means users are free to use, modify, and even sell forms derived from it, as long as they give credit.
-
-The form has several fields that need to be filled out, and the user should be able to complete it within a few minutes. Each field has a specific purpose and explanation that will be detailed below.
-
-</thinking>
-
 # data_licensing_agreement_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from data providers about their data usage and licensing agreements.

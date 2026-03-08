@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Special Exhibition Attendance Form - Help Guide
 
 ## Purpose

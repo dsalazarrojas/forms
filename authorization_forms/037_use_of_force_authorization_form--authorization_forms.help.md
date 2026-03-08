@@ -1,7 +1,3 @@
-<thinking>
-This form, "Use Of Force Authorization Form", is designed for use by law enforcement officers and supervisors to document and authorize the use of force in various situations. This form helps ensure that all necessary information is collected and that the authorization process is properly followed. Before filling out this form, ensure that you have read and understand the applicable policies and procedures for use of force.
-</thinking>
-
 # Use Of Force Authorization Form - Help Guide
 ## Purpose
 The "Use Of Force Authorization Form" is used to document and authorize the use of force in various situations. It serves as a record of the incident and helps ensure that all necessary information is collected.

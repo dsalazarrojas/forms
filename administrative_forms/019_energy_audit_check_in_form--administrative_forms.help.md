@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect information from building owners or managers for energy audit purposes...This form will be used to collect data about a building's energy usage and infrastructure. The form will likely be used by energy auditors or building administrators to gather information about a building's energy consumption patterns, infrastructure, and management. This form may also be used to help identify areas for improvement or optimization in a building's energy usage. To ensure the most accurate and relevant data is collected, it's essential to fill out the form carefully and thoroughly. Before starting, please review the form fields to ensure you understand what information is being requested...</thinking>
-
 # energy_audit_check_in_form - Help Guide
 ## Purpose
 The energy_audit_check_in_form is designed to collect information from building owners or managers for energy audit purposes. This form will help identify areas for improvement or optimization in a building's energy usage.

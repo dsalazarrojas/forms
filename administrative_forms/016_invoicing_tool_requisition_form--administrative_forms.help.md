@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's ensure that this form is being used correctly. This form is for requesting invoicing tools for a business. It's crucial that you fill it out accurately to avoid confusion and potential delays in the process. Please review each field carefully and only select options that apply to your situation. Also, ensure that you're not duplicating an existing requisition form. If you're unsure, double-check the status of your previous forms or ask your contact person if this form is necessary.</thinking>
-
 # Invoicing Tool Requisition Form - Help Guide
 ## Purpose
 This form is designed for businesses to request invoicing tools for their needs. Fill it out carefully and accurately to ensure prompt processing.

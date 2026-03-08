@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users assess their knowledge and understanding of heavy equipment safety procedures. The form is designed to be completed by users who work with heavy equipment, and it covers various aspects of safety procedures, including emergency exit plans, personal protective equipment, and confined space entry. The form is meant to be a quick and easy way to evaluate user knowledge and identify areas where they may need additional training or resources.
-</thinking>
-
 # Heavy Equipment Safety Knowledge Check - Help Guide
 ## Purpose
 The Heavy Equipment Safety Knowledge Check is a tool to assess your understanding of heavy equipment safety procedures. This form will guide you through a series of questions to help you identify areas where you need additional training or resources.

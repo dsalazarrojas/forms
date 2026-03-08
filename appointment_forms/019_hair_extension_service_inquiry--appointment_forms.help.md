@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is meant to collect information from users who are interested in inquiring about hair extension services. The purpose of this form is to gather essential details such as name, email, phone number, preferred hair service (extension, removal, coloring), desired appointment date and time, and any additional service details or messages they may have. This information will be used to schedule and facilitate hair extension service appointments.
 
 # hair_extension_service_inquiry - Help Guide

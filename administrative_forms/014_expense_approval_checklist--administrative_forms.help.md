@@ -1,7 +1,3 @@
-<thinking>... This form is used to collect information about employee expenses for approval and processing. It is used to gather details such as employee name, expense date, amount, category, reason, approver, department, status, note, email, and phone number. The form is designed to be completed by employees for submitting their expenses for approval.
-
-</thinking>
-
 # Expense Approval Checklist - Help Guide
 ## Purpose
 This form is used to collect information about employee expenses for approval and processing.

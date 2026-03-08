@@ -1,8 +1,3 @@
-<thinking>
-This form is used to select a safety representative for various purposes within the organization. The user is required to select their department, provide the reason for selection, and other relevant details such as name, job title, contact number, and email.
-The form is designed to gather information for administrative purposes and is a mandatory field for the user to fill out. The user should only fill out this form if they are authorized to do so. 
-</thinking>
-
 # Select Your Safety Representative - Help Guide
 ## Purpose
 This form is used to select a safety representative for various purposes within the organization. It requires the user to provide essential information such as department, reason for selection, name, job title, contact number, and email.

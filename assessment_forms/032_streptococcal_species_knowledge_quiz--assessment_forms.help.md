@@ -1,16 +1,3 @@
-<thinking>
-**Checking form purpose and relevance**
-
-The purpose of the "streptococcal_species_knowledge_quiz" form is to assess knowledge on a specific topic, likely in the field of microbiology or medical science. This form is designed to test users' understanding of the characteristics and behaviors of species within the Streptococcus genus. However, upon reviewing the form, it appears that there may not be a clear, specific focus on a singular topic, as the form contains multiple, general question fields with various types (text, select_one, select_multiple, etc.).
-
-**Form relevance**
-
-Considering the extensive number of questions (question1 to question24) with similar labels (e.g., "question1", "question2", etc.), it seems that the form might be used for a knowledge assessment or survey rather than a specific quiz. This form could be used to collect users' thoughts, opinions, or knowledge on various topics related to the Streptococcus genus. 
-
-To ensure that you are using this form for the intended purpose, you should carefully review the instructions and the form fields below to determine the best method for completing this form.
-
-</thinking>
-
 # streptococcal_species_knowledge_quiz - Help Guide
 ## Purpose
 

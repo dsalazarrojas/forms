@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Dedication Award Nomination Form - Help Guide
 
 ## Purpose

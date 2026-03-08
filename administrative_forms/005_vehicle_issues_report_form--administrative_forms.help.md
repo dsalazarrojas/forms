@@ -1,20 +1,3 @@
-<thinking>
-This form is intended to collect information about vehicle issues reported by users. The form is used to record issues that have been reported about vehicles, including location, description, and other relevant details.
- 
-The form is designed to be completed by the individual reporting the issue, or the issue reporter. It should only be filled out once per issue, and users should not submit duplicate reports for the same issue.
- 
-The form can be completed by anyone, and users do not need to be logged in or authenticated to submit a report.
- 
-Please note that the form fields are used to store information that will help the team manage the issues effectively.
- 
-Please also note that not all fields are required, but the form is designed to be as comprehensive as possible to collect all relevant details.
- 
-Please fill out the form completely and accurately to ensure that the issue is documented correctly.
- 
-Before submitting the form, make sure that all required fields are filled out, and the form is complete.
- 
-</thinking>
-
 # Vehicle Issues Report Form - Help Guide
 ## Purpose
 

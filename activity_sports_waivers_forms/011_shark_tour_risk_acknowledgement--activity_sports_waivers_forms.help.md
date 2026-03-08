@@ -1,9 +1,3 @@
-<thinking>
-
-We're creating a form for users to acknowledge risks associated with participating in a tour led by a tour leader. This form, called the "Shark Tour Risk Acknowledgement," is essential to gather critical information from participants for emergency contact and tour logistics purposes. It's likely that users will be filling this out for a tour that involves some level of physical activity, such as hiking or water sports, where the participant's safety is at risk if the tour is not managed properly. The form will help the tour leader to know who to contact in case of an emergency and what information is necessary for the participant's well-being. It's also a good idea to make sure that the participant has a clear understanding of what is expected of them and what information is required to be filled out.
-
-</thinking>
-
 # Shark Tour Risk Acknowledgement - Help Guide
 ## Purpose
 The Shark Tour Risk Acknowledgement form is used to gather critical information from tour participants, including emergency contact details and tour logistics, to ensure the participant's safety during the tour.

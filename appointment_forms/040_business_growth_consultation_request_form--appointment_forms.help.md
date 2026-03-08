@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather essential information from business owners or representatives to better understand their needs and preferences for a consultation on business growth. The purpose of this form is to collect data on contact information, company details, and specific areas of consultation required. This form will help the consulting team understand the client's context, goals, and expectations, ensuring a tailored and effective consultation experience.
-
-The form is divided into several sections, each focusing on different aspects of the consultation process. The client will be asked to provide personal and company information, select their industry and business stage, and specify their primary challenge or goal. They will also be asked to choose a preferred format for the consultation, including the time of day and duration.
-
-This form is designed to be completed by the person who will be participating in the consultation, typically the business owner or representative. The information collected will be used to create a personalized consultation plan and ensure that the consultation meets the client's specific needs.
-
-It is essential to note that some fields are marked as required, indicating that the information is necessary for the consultation process. Please make sure to complete all required fields to ensure a successful consultation.
-
-Please keep in mind that the consultation team will contact you within a few days after submitting the form to schedule the consultation.</thinking>
-
 # Business Growth Consultation Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from business owners or representatives to better understand their needs and preferences for a consultation on business growth.

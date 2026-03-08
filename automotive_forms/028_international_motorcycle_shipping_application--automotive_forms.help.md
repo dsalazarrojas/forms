@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for international motorcycle shipping applications. It's intended for users who need to ship motorcycles across borders, whether for business or personal reasons. The form will gather necessary details to facilitate a smooth and secure shipping process. Before filling out this form, please ensure you have all the required information and documents ready to avoid any issues during the shipping process.
-
-</thinking>
-
 # International Motorcycle Shipping Application - Help Guide
 ## Purpose
 This form is designed to collect necessary information for international motorcycle shipping applications. It's meant for users who need to ship motorcycles across borders, whether for business or personal reasons.

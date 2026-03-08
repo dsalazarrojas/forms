@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conflict Of Interest Review Request Form - Help Guide
 
 ## Purpose

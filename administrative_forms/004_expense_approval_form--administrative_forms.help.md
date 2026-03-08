@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request approval for employee expenses, which can be any type of expense such as travel, meal, or other purchases. This form should only be completed by employees to request reimbursement for approved expenses and ensure all required fields are filled. 
-</thinking>
-
 # expense_approval_form - Help Guide
 ## Purpose
 The expense approval form is used by employees to request reimbursement for approved expenses.

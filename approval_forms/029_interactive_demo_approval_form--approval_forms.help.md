@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for interactive demos. Its main purpose is to request and track demos for potential customers or partners. This form should not be used for internal approval processes within the company or other non-demo related purposes. Ensure that you only use this form for demo purposes, and do not duplicate its content in other forms.
-</thinking>
-
 # interactive_demo_approval_form - Help Guide
 ## Purpose
 The interactive demo approval form is used to gather information for interactive demos with customers or partners. This form is meant to help demo teams quickly and efficiently request and track demo information.

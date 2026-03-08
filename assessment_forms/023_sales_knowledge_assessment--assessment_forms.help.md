@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to assess an employee's knowledge and experience in sales. It will likely be used by HR or management to evaluate an employee's performance and identify areas for training. This form is intended to be completed by employees to provide information about themselves, and it may be used for internal purposes such as performance evaluations and promotion decisions. To ensure that the form is completed by the correct people, it is recommended that only the employee who is being assessed should complete this form and only once a year at a time.
-</thinking>
-
 # Sales Knowledge Assessment - Help Guide
 ## Purpose
 The Sales Knowledge Assessment form is designed to evaluate an employee's sales knowledge and experience. It helps to identify areas of strength and weakness in an employee's sales performance and provides a basis for targeted training and development opportunities.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to track and document the details of firearms training sessions. This form is meant to be filled out by the participant after completing the training, and it includes fields to capture information about the participant, the training details, and the release date. This form is typically used in a context where participants need to provide explicit consent for the training they received, such as in military or law enforcement settings.
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to fill out this form, and that you are aware of the specific requirements for your training program.
-
-</thinking>
-
 # Firearms Training Release Form - Help Guide
 ## Purpose
 The Firearms Training Release Form is a document used to record and verify the completion of firearms training sessions. This form ensures that participants have received the necessary training and have been properly authorized to handle firearms.

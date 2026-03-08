@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Tax Filing Extension Application Form", I will follow the given YAML structure and provide a clear and concise explanation of each field. This guide will ensure that end-users understand the purpose of the form, how to complete it, and what each field means.
-
-</thinking>
-
 # Tax Filing Extension Application Form - Help Guide
 ## Purpose
 The Tax Filing Extension Application Form is a tool used by taxpayers to request an extension for tax filing. This form helps gather the necessary information from the taxpayer to evaluate their application and determine the validity of their claim.

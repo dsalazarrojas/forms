@@ -1,6 +1,3 @@
-<thinking>Internal reasoning:
-This form is a crucial tool for requesting access to bar inspection records. Before proceeding, please verify that the form is being used for a legitimate reason and not for duplicate requests. Ensure that all required fields are filled out accurately and completely, and that the correct format and method of records delivery are chosen.</thinking>
-
 # Bar Inspection Records Release Form - Help Guide
 ## Purpose
 The Bar Inspection Records Release Form is used to request access to bar inspection records. This form is designed to gather essential information from the requester to facilitate the efficient processing of their request.

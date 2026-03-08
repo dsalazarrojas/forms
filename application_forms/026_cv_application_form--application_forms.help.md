@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants who are interested in applying for a job or a position within an organization. The form is intended to gather relevant details about the applicant, including their personal contact information, work experience, education, and skills. The form will help the organization assess the applicant's qualifications and suitability for the position. Please ensure that you have reviewed and understood the form's requirements before proceeding to fill it out. Note: This form is intended to be filled out only once, so please do not submit multiple applications if you are interested in the same position or multiple positions. If you have already submitted an application, please do not resubmit. If you have any doubts or concerns, please contact the relevant personnel.
-</thinking>
-
 # CV Application Form - Help Guide
 ## Purpose
 This form is a tool for applicants to submit their application for a job or position within an organization. It collects relevant information about the applicant, including their contact details, work experience, education, and skills, to help the organization assess their qualifications and suitability for the position.

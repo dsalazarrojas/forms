@@ -1,14 +1,3 @@
-<thinking>
-We're going to assume this form is for ordering merchandise (e.g., hoodies, shirts) related to a high school class of 2014. This form likely allows users to input their preferences for class orders, such as selecting the size and color of their shirt or hoodie. We'll focus on creating a clear and concise guide for end-users to fill out this form correctly.
-
-To ensure we don't create duplicate content, let's review the provided YAML fields and identify any potential overlaps or inconsistencies.
-
-Upon reviewing the YAML, we notice that there are duplicate fields for 'hoodie_color', 'shirt_size', and 'order_type' which are likely intended to be the same or have similar meanings. We'll clarify these in the guide to avoid confusion.
-
-We'll create a guide that addresses each field, providing a clear explanation of its purpose, how to complete it, and any specific considerations.
-
-</thinking>
-
 # High School Class Of 2014 Clothing Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for ordering merchandise related to the high school class of 2014. You can use this form to select the type of clothing you want to order, along with your preferred color and size.

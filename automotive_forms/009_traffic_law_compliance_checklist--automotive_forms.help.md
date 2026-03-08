@@ -1,8 +1,3 @@
-<thinking> 
-The "Traffic Law Compliance Checklist" form is designed to ensure that vehicles are regularly inspected and maintained to comply with traffic laws and regulations. This form is used to gather information about a vehicle's condition, safety equipment, and maintenance history to identify potential issues that may affect the vehicle's safe operation. The form is intended to be used for vehicles that are subject to regular safety inspections, and the information collected will be used to track and update the vehicle's status. This form should not be used for other purposes, such as vehicle sales or rental applications.
-
-</thinking>
-
 # Traffic Law Compliance Checklist - Help Guide
 ## Purpose
 The "Traffic Law Compliance Checklist" form is designed to help ensure that vehicles are regularly inspected and maintained to comply with traffic laws and regulations.

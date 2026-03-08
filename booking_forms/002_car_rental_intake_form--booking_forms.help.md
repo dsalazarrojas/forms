@@ -1,11 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Car Rental Intake Form, ensuring that end-users understand its purpose and how to complete it correctly.
-
-The form is likely used for customers to book a car rental, providing essential information such as personal details, vehicle preferences, and additional requests. This form will help us better understand what kind of vehicles our customers need and can help us prepare for their visit.
-
-
-</thinking>
-
 # Car Rental Intake Form - Help Guide
 ## Purpose
 This form is designed to help you book a car rental. Please fill out the form with accurate and relevant information to ensure a smooth and convenient rental experience.

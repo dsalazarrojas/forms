@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Foster Application Form - Help Guide
 ## Purpose
 The foster application form is used to gather information from individuals or families interested in becoming foster parents to animals in need at our shelter. The form helps us understand their interests, preferences, and availability to provide a suitable match for the animals and ensure a smooth foster experience.

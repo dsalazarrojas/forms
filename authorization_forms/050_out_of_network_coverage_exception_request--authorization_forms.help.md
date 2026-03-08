@@ -1,13 +1,3 @@
-<thinking>
-This form is used to request an exception for a patient who is not covered by the insurance network. The exception request is used when a patient's claim is denied due to lack of network coverage. The purpose of this form is to provide necessary information for the exception request process.
-
-The form should only be completed when the patient's claim is denied due to lack of network coverage. The form will ask for details about the patient, the claimant, the provider, and the claim. The goal is to provide as much information as possible to support the exception request.
-
-To avoid duplication of effort, please ensure that the form is not completed for patients who are already covered by the network or for claims that are not denied due to lack of network coverage.
-
-The form will help the exception team to review and process the request efficiently, providing the necessary details to make a decision.
-</thinking>
-
 # out_of_network_coverage_exception_request - Help Guide
 
 ## Purpose

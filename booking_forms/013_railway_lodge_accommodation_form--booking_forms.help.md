@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Railway Lodge Accommodation Form - Help Guide
 
 ## Purpose

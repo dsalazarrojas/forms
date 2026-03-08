@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Incident Form - Help Guide
 ## Purpose
 This form is used to report and document workplace incidents, such as accidents, injuries, or near-misses. It helps to gather information about the incident, including details about the employee involved, the incident itself, and any subsequent investigation and follow-up actions. This form is used to ensure that incidents are reported and documented consistently, and that necessary follow-up actions are taken.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request authorization to store a tool within the tool storage system. The form is designed to collect information about the tool, including its ID, name, and description, as well as the requested access type, approver, and storage duration and size. The form also allows the user to select the tool's location within the storage system.
-
-Before filling out this form, please ensure you have a valid reason for requesting tool storage and have not already submitted a request for this tool. Please note that duplicate requests will be rejected.
-
-</thinking>
-
 # Tool Storage Authorization Request Form - Help Guide
 ## Purpose
 This form is used to request authorization to store a tool within the tool storage system.

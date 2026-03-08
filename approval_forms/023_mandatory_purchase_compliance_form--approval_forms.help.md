@@ -1,10 +1,3 @@
-<thinking>
-The form "Mandatory Purchase Compliance Form" is used to record and manage mandatory purchases for a company. This form is used to ensure that all mandatory purchases are properly documented and approved. This form is typically used by employees to record their purchase history and obtain approval from their superiors.
-
-This form is not intended for use in emergency situations or for recording non-mandatory purchases. It is essential to ensure that all mandatory purchases are properly recorded to maintain accurate financial records and prevent unauthorized purchases.
-
-</thinking>
-
 # mandatory_purchase_compliance_form - Help Guide
 ## Purpose
 The Mandatory Purchase Compliance Form is a tool used to record and manage mandatory purchases for a company.

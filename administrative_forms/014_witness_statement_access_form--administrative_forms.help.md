@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect witness statements for access. The purpose of this form is to gather information about the witness's ability to access certain areas or resources. This form is used to ensure that the witness has the necessary clearance to access these areas. Please note that the form may be used for various purposes such as access authorization or access revocation.
-
-</thinking>
-
 # Witness Statement Access Form - Help Guide
 ## Purpose
 The Witness Statement Access Form is used to collect witness statements for access purposes, ensuring that witnesses have the necessary clearance to access areas or resources.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shirt Orders - Help Guide
 
 ## Purpose

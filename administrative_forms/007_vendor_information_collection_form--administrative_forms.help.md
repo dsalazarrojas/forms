@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors about their business operations, such as contact details, services offered, and other relevant information that can be used for various administrative purposes.
-
-The purpose of this form is to streamline the collection of vendor information, ensuring that the necessary data is captured accurately and consistently. This will help in maintaining accurate records and facilitate better communication between our organization and the vendors.
-
-Before proceeding, ensure that you are not duplicating an existing vendor profile. If you have already submitted vendor information, please do not resubmit. Your cooperation in maintaining data consistency is greatly appreciated.
-
-</thinking>
-
 # vendor_information_collection_form - Help Guide
 ## Purpose
 This form is used to collect vendor information for administrative purposes. It helps in maintaining accurate and up-to-date vendor records.

@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to gather information about the impact of colonization on communities, with a focus on cultural, economic, social, and health indicators. This form is meant to be used for assessment purposes, to help researchers and organizations understand the extent of colonization's effects on affected communities. To ensure accurate and comprehensive data collection, please fill out this form carefully and thoroughly.
-
-</thinking>
-
 # Colonization Impact Assessment - Help Guide
 ## Purpose
 This help guide is intended to assist users in understanding the purpose and requirements of the Colonization Impact Assessment form. The form aims to collect data on the impact of colonization on communities, specifically in regards to cultural, economic, social, and health indicators.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information about an incident that has caused damage to an inventory. The purpose of this form is to gather detailed descriptions of the incident, including the date and time it occurred, the location, the extent of the damage, the cause of the damage, and a list of affected items. This information is essential for investigating and resolving the incident. 
-
-To ensure that the form is completed accurately and thoroughly, it is recommended that users review the form carefully and fill it out in a step-by-step manner. If a field is not applicable or not relevant, please leave it blank or provide a clear explanation for omission.
-
-This guide is designed to assist users in understanding the purpose and requirements of the form. Please read it carefully to ensure that you complete the form correctly and provide the necessary information to support the incident investigation.
-
-</thinking>
-
 # Inventory Damage Incident Form - Help Guide
 ## Purpose
 The Inventory Damage Incident Form is designed to capture information about an incident that has caused damage to an inventory. This includes details about the incident, such as the date and time it occurred, the location, and the extent of the damage.

@@ -1,18 +1,3 @@
-<thinking>
-The "Energy Credit Authorization Form" is a critical document used to authorize energy credits for an account. It ensures that the energy credits are correctly attributed to the right account holder, providing transparency and accountability in the billing process. This form is crucial for energy service providers to verify the identity of account holders and representatives, and to ensure that credits are accurately allocated.
-
-To complete this form, follow these steps:
-
-1. Start by filling out the basic details section, including First Name, Last Name, Email, and Phone Number.
-2. Choose the Authorization Type from the provided options (Account Holder, Joint Account Holder, or Authorized Representative).
-3. Enter the Account Number associated with the account.
-4. Select the authorization date and expiration date for the energy credits.
-5. Fill out the details of the account holder, including their name, address, phone number, and email.
-6. If the authorization is for a joint account holder, fill out their details as well.
-7. If an authorized representative is involved, provide their details including name, title, phone number, and email.
-8. Specify the energy service provider and the billing account associated with the authorization.
-
-</thinking>
 # Energy Credit Authorization Form - Help Guide
 ## Purpose
 The Energy Credit Authorization Form is a document used to authorize energy credits for an account holder, ensuring transparency and accountability in the billing process.

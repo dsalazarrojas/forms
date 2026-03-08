@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Exotic Animal Welfare Collaboration Application Form. The form is used for organizations or individuals to collaborate with other groups or individuals in the welfare of exotic animals. It allows users to provide essential information about the animal, the rescue organization, and their contact details. The form is designed to be completed by rescue organizations or individuals to collaborate on exotic animal welfare.
-</thinking>
-
 # Exotic Animal Welfare Collaboration Application Form - Help Guide
 ## Purpose
 The Exotic Animal Welfare Collaboration Application Form is used to facilitate collaboration between rescue organizations and individuals on the welfare of exotic animals. It gathers essential information about the animal, the rescue organization, and contact details to facilitate smooth and effective collaboration.

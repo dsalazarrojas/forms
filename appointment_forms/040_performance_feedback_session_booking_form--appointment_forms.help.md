@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect booking information and contact details from users interested in attending a performance feedback session. The purpose of this form is to streamline the booking process and gather necessary information from participants. Before filling out this form, please ensure you have read and understand the information below.
-
-To confirm, this form is used for performance feedback session bookings, and you should only fill out this form for that specific purpose. If you have already filled out this form for a different session or purpose, please do not resubmit.
-</thinking>
-
 # Performance Feedback Session Booking Form - Help Guide
 ## Purpose
 This form collects booking information and contact details from users interested in attending a performance feedback session.

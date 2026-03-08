@@ -1,13 +1,3 @@
-<thinking>
-Internal purpose of this form is to collect information from users when requesting adjustments to visual effects. This form helps track and record such requests, which can include but not be limited to:
-
-* Requesting changes to the visual style, such as color palette updates or asset swaps
-* Adjusting visual effects timing, such as timing changes or animation modifications
-* Requesting visual effect removal or addition of assets
-
-Before filling out this form, please ensure that you have already reviewed and followed up-to-date guidelines, standards, and processes regarding visual effects in your project. If you're unsure, please check with your supervisor or project lead.
-</thinking>
-
 # visual_effects_adjustment_request_form - Help Guide
 ## Purpose
 The visual effects adjustment request form is used to collect information from users when requesting adjustments to visual effects in a project.

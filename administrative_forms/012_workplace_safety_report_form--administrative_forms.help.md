@@ -1,11 +1,3 @@
-<thinking>
-A form is a tool used to collect information from users, and in the context of this Workplace Safety Report Form, it serves as a means to document workplace safety incidents and near-miss events. The form is designed to gather relevant details about the incident, such as the date and time it occurred, a description of what happened, and the actions taken or planned to prevent similar incidents in the future. The form may be used by employees, supervisors, or other authorized personnel to report workplace safety incidents.
-
-This form should only be used for reporting workplace safety incidents. If you are unsure whether an incident falls within the scope of this form, please consult with your supervisor or HR representative for guidance.
-
-Please do not submit this form more than once for the same incident. Each submission will be reviewed and verified before being stored in the incident database.
-</thinking>
-
 # Workplace Safety Report Form - Help Guide
 ## Purpose
 The Workplace Safety Report Form is a tool used to collect information about workplace safety incidents, near-miss events, or any other workplace safety concerns. This form helps us to identify hazards, document actions taken or planned to prevent similar incidents, and track progress over time.

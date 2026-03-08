@@ -1,5 +1,3 @@
-<thinking>...this form is used to evaluate the performance of cleaning staff, providing a way for supervisors to assess the cleanliness of an area, rate the staff's performance, and document any relevant notes or comments. The purpose of this form is to ensure that cleaning tasks are completed efficiently and effectively, and to identify any areas that require improvement. To avoid duplication of work and ensure that evaluations are completed accurately, it is suggested to only fill out this form for each unique area cleaned. Please note that this form is not intended for general feedback or daily log entries, but rather for a specific evaluation of a particular area cleaned.</thinking>
-
 # Daily Cleaning Staff Evaluation - Help Guide
 
 ## Purpose

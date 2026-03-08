@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the independence of auditors and auditing firms in order to ensure that they are free from any threats to their impartiality. It's essential that auditors are not only free from conflicts of interest but also take steps to mitigate any potential risks to their independence. This form is meant to be completed by the auditor and their firm to provide assurance that the audit will be unbiased and objective.
-</thinking>
-
 # Auditor Independence Verification Form - Help Guide
 ## Purpose
 The purpose of this form is to verify the independence of auditors and auditing firms. It ensures that the auditors are not influenced by any factors that could compromise their impartiality.

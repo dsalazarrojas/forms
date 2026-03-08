@@ -1,8 +1,3 @@
-<thinking>
-This is a form designed to collect basic information from users, including their risk factors and income details, to calculate a risk score and assess their income. The form is used to determine a user's risk level and income level. The risk factors include age, credit history, history of foreclosure, bankruptcy, outstanding tax debts, outstanding collections, outstanding judgments, other outstanding debt, other outstanding debts, other financial obligations, and other financial obligations. The income details include income, assets, credit score, and loan amount.
-The form has been designed to be user-friendly, with clear labels and hints for each field. However, it's essential to note that the form is not intended to be used for actual risk assessment or income evaluation in real-life scenarios. The data collected will be used for internal purposes, such as training AI models or testing the form's usability.
-</thinking>
-
 # risk_assessment_and_income_calculator - Help Guide
 ## Purpose
 The purpose of this form is to collect basic information from users to calculate a risk score and assess their income level.

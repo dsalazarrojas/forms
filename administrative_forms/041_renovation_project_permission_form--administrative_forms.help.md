@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Renovation Project Permission Form - Help Guide
 ## Purpose
 This form is used to obtain permission for a renovation project from the relevant authorities and stakeholders. It is typically used by property owners, developers, or project managers to provide details about the project, including its start and end dates, address, and contact information.

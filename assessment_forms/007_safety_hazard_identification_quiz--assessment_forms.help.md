@@ -1,7 +1,3 @@
-<thinking>
-We will assume that the form is part of a workplace safety assessment program, and the purpose of this form is to gather information about safety hazards and identify potential risks in the workplace. The form is designed to be completed by employees, supervisors, or safety officers to help identify common types of accidents, causes, and prevention measures. The form should not be used to duplicate or repeat information already collected in existing safety reports.
-</thinking>
-
 # Safety Hazard Identification Quiz - Help Guide
 
 ## Purpose

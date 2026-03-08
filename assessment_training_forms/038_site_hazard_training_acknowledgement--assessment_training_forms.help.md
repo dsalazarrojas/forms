@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Site Hazard Training Acknowledgement - Help Guide
 ## Purpose
 This form is designed to acknowledge an individual's understanding and completion of site hazard training. It is intended for employees to confirm their attendance and completion of the required training sessions. The form serves as a record of the training received, which may be required for regulatory compliance and future reference.

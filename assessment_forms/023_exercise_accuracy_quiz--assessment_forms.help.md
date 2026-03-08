@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended to assess the accuracy of a user's responses to a set of exercises.
-</thinking>
-
 # Exercise Accuracy Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate a user's understanding of their responses to a set of exercises. It is used to determine the accuracy of their answers and provide feedback.

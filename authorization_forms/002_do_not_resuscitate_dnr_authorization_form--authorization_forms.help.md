@@ -1,14 +1,3 @@
-<thinking>
-This form is used for obtaining authorization to do not resuscitate (DNR) a patient. This authorization form is typically used in healthcare settings to document a patient's decision to forgo life-saving medical interventions in the event of cardiac arrest or other life-threatening emergencies. It's essential to ensure that the patient's wishes are respected and their rights are protected. 
-
-This form should only be used for patients who are competent to make decisions about their own medical care. It should not be used for patients who are incapacitated or unable to provide informed consent. 
-
-Before filling out this form, please ensure that you are authorized to complete it on behalf of the patient. If you're unsure, consult with the patient or their legal representative.
-
-Please note that this form is not a substitute for medical emergency care. In the event of a medical emergency, always follow standard medical protocols and procedures.
-
-</thinking>
-
 # do_not_resuscitate_dnr_authorization_form - Help Guide
 ## Purpose
 This form is used for obtaining authorization to do not resuscitate (DNR) a patient, ensuring their wishes are respected and rights are protected in the event of a medical emergency.

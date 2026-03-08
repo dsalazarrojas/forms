@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information about the understandability assessment of a document. The purpose of this form is to gather feedback on how well users understood a particular document. The form will ask questions such as how easy it was to understand, what the primary purpose of the document is, and who the author and reviewers are. This form is likely to be used in a research or academic setting where understanding and clarity of documents are important.
-
-Before filling out this form, please ensure that you have not already filled it out in the past and that you are answering the questions based on your genuine experience with the document.
-
-Please note that some fields are optional, and you can skip them if you are not able to provide the information.
-
-Also, please be aware that the form is designed to collect data, and your responses will be used for research purposes.
-
-This form is divided into sections for easier navigation. Here is a brief explanation of what each section is used for:
-
-* **Document metadata**: This section will ask you about the document's details such as author, reviewer, and document ID.
-* **Understanding assessment**: This section is where you will rate how easy or difficult it was to understand the document.
-* **Form Submission**: This section is where you can enter any additional comments or feedback you have about the document.
-</thinking>
-
 # Understandability_Assessment_Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the understandability of a document.

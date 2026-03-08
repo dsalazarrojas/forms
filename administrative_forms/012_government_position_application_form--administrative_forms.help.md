@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this Government Position Application Form is to collect information from applicants regarding their user information, personal details, work experience, education, and other relevant data. This form is likely used to assess candidates for government positions, ensuring that the applicants meet the necessary requirements and qualifications. Please ensure that you have reviewed the form carefully and are aware of the requirements before proceeding.
-
-</thinking>
-
 # Government Position Application Form - Help Guide
 ## Purpose
 

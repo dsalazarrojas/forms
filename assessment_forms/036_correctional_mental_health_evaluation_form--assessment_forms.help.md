@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form's purpose is to evaluate the mental health of an individual in a correctional facility, providing a standardized assessment and treatment plan. To ensure relevance, the form should be filled out during regular intervals, ideally when an inmate is admitted to the facility or before/after a specific event such as a disciplinary hearing.
-</thinking>
-
 # Correctional Mental Health Evaluation Form - Help Guide
 ## Purpose
 The **Correctional Mental Health Evaluation Form** is a critical tool for assessing the mental health needs of individuals in correctional facilities. This form helps evaluators identify potential risks, develop effective treatment plans, and make informed decisions to support the well-being of inmates.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's frequency of exercise over a period of time. It appears to be a survey-style form with a series of identical questions asking the user to rate their frequency of exercise on a scale. The purpose of this form is likely to gather data on physical activity habits and track changes over time. Before proceeding, ensure that you have not completed this form before and that the questions are relevant to your situation.
-</thinking>
-
 # Frequency Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess an individual's frequency of exercise over a period of time. It is a survey-style form used to gather data on physical activity habits and track changes over time.

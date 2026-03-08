@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and duplication...</thinking>
-
 # executive_coaching_appointment_form - Help Guide
 ## Purpose
 The executive coaching appointment form is designed to collect information from executives for the purpose of scheduling coaching appointments. This form ensures that all necessary details are captured, making it easier for the coaching team to prepare for and conduct the coaching sessions.

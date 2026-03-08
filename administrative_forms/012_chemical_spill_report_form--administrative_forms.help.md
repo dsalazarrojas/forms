@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information about a chemical spill incident for record-keeping and reporting purposes. The form will likely be used by facilities with hazardous materials to document and report spills, allowing for prompt response and effective cleanup. 
-
-To avoid duplication of effort, users are encouraged to use this form only for reporting genuine spills, not for general reporting or other purposes not directly related to chemical spill incidents.
-
-Please note that each field should be completed accurately and thoroughly to ensure a complete and accurate report. 
-
-</thinking>
-
 # Chemical Spill Report Form - Help Guide
 ## Purpose
 The Chemical Spill Report Form is a document used to collect and document information about chemical spill incidents in facilities that handle hazardous materials. It will help ensure prompt response and effective cleanup of spills, ensuring the safety and security of the environment and personnel.

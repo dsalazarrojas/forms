@@ -1,18 +1,3 @@
-<thinking>
-The form appears to be designed for assessing the safety of a building in the context of earthquake hazards. The form asks questions about the building's structure, features, and emergency contact information. This suggests that the form is intended for building owners, managers, or emergency responders to gather information about a building's earthquake safety measures and emergency procedures. 
-
-The form has multiple pages with various fields, including select_one, select_multiple, text, and note fields. The fields are categorized into different sections, such as "Building Type", "Building Structure", "Earthquake Safety Features", "Building Age", "Building Height", and "Emergency Contact". 
-
-This form seems to be designed to collect data on the building's earthquake safety features, such as the presence or absence of a fire alarm system, fire suppression system, sprinklers, and other safety measures. 
-
-The form is likely used for assessment and evaluation purposes, and the information collected may be used to identify potential risks and vulnerabilities in the building's earthquake safety. 
-
-This form should be completed by the building owner or manager, who is familiar with the building's layout, features, and emergency procedures. 
-
-Before completing this form, it is essential to review the provided options and ensure that the information is accurate and up-to-date. 
-
-Please note that the completion of this form is mandatory, and any missing information may affect the assessment and evaluation process.</thinking>
-
 # Earthquake Safety Assessment Form - Help Guide
 ## Purpose
 The Earthquake Safety Assessment Form is designed to collect information about a building's safety measures and features in the context of earthquake hazards. This form will help identify potential risks and vulnerabilities in the building and provide a basis for the assessment and evaluation of the building's earthquake safety.

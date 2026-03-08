@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note**: This form is designed to track the entry and exit logs of vehicles, including dates, times, vehicle information, and other relevant details. This form is likely used for administrative or maintenance purposes within an automotive-related organization. To avoid duplication, please ensure that a new log is only created when a vehicle has not been previously logged. This form will serve as a template for tracking vehicle usage and movement.
-</thinking>
-
 # vehicle_entry_and_exit_log - Help Guide
 ## Purpose
 The vehicle_entry_and_exit_log form is used to record the entry and exit details of vehicles, including dates, times, and other relevant information.

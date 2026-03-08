@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather software-related information and track the approval status of software requests. The form should only be filled out by authorized personnel. Please fill out the form carefully and accurately. If you are unsure about any field, please reach out to your supervisor or colleague for guidance. Before filling out this form, ensure that you are not duplicating the software request. To do this, please check the "software approval form" database or ask your supervisor/colleague if a similar request already exists.
-</thinking>
-
 # software_approval_form - Help Guide
 ## Purpose
 The "software approval form" is used to gather information about software-related requests and track their approval status. It helps administrators and approvers to make informed decisions about software approval and implementation.

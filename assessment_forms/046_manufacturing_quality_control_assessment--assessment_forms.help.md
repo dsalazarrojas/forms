@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Manufacturing Quality Control Assessment - Help Guide
 
 ## Purpose

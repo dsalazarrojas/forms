@@ -1,6 +1,3 @@
-<thinking>
-This form is used to document and track public utility incidents reported by customers. The purpose of this form is to collect essential information from customers about incidents they have experienced with their utility services (e.g., power, water, gas, or internet). This form helps utility companies to understand and address customer concerns efficiently and effectively, ensuring that they can provide the best possible service during and after the incident. It's essential to provide accurate and thorough information to ensure that the incident report is processed correctly and resolved promptly. Please ensure you're reporting the correct incident and provide as much detail as possible. Before submitting the form, review and double-check that all required fields are filled out. If you are unsure or need assistance, contact your utility company for support.</thinking>
-
 # Public Utility Incident Form - Help Guide
 ## Purpose
 

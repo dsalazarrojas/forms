@@ -1,7 +1,3 @@
-<thinking>
-The "Safety Training Attendance Form" is designed to track attendee information and attendance status for safety training sessions. It's essential to ensure that this form is completed accurately and thoroughly. Please check that the form is not already filled out before proceeding, as duplicate submissions may cause data confusion. This form is meant to be used for safety training sessions only, so please do not use it for other types of events or activities.
-</thinking>
-
 # Safety Training Attendance Form - Help Guide
 
 ## Purpose

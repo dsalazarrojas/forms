@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about trademark infringement reports. It's designed to help identify and document instances of potential trademark infringement, which can be used by the trademark owner or their representatives to take appropriate action. To ensure accurate and efficient completion, please review the form carefully and make sure to answer all required fields. If you're unsure about any field, please contact the designated authority for clarification. Please note that duplicate submissions with the same information will be removed to avoid unnecessary work and potential confusion.
-</thinking>
-
 # Trademark Infringement Report Form - Help Guide
 ## Purpose
 This form is used to collect information about potential trademark infringement. Please fill out this form to report any instances of trademark infringement you are aware of.

@@ -1,7 +1,3 @@
-<thinking>... internal forms and documentation are used to provide a standardized way of collecting information from users, ensuring consistency and accuracy in data collection. This form is designed to gather information about travel expenses, allowing employees to submit their reimbursement requests in an organized and efficient manner. The goal is to collect all necessary details, making it easier for the reimbursement process. This form should be used by employees who need to request reimbursement for work-related travel expenses.
-
-...</thinking>
-
 # travel expense reimbursement form - Help Guide
 ## Purpose
 This form is used to submit travel expense reimbursement requests for work-related travel.

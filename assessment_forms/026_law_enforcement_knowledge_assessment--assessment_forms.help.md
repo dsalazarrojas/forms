@@ -1,17 +1,3 @@
-<thinking>
-
-Form "Law Enforcement Knowledge Assessment" appears to be designed for law enforcement officials to evaluate or assess the knowledge of individuals or groups related to law enforcement. 
-
-The form's purpose might be to:
-* Gather information on specific topics or areas of knowledge within the law enforcement domain.
-* Assess the current level of knowledge or understanding among law enforcement officials on these topics.
-* Identify areas where further training or guidance is needed.
-* Track changes or improvements in knowledge over time.
-
-To avoid duplication, this form might be used in conjunction with other assessments or evaluations.
-
-</thinking>
-
 # Law Enforcement Knowledge Assessment - Help Guide
 ## Purpose
 The Law Enforcement Knowledge Assessment form is designed to evaluate the knowledge of individuals or groups related to law enforcement topics.

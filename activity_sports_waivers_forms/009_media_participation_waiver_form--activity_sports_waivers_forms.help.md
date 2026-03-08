@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for participants to provide consent or waiver for media participation in a specific activity or event. This form is used to obtain written agreements from participants, parents or guardians on the terms and conditions of media participation. This form should be completed by participants, or in some cases, parents or guardians for minors.
-</thinking>
-
 # Media Participation Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain consent or waiver from participants for media participation in a specific activity or event.

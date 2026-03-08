@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather medical information from individuals before they engage in a competition, ensuring that they are fit and healthy enough to participate. This form is designed to collect detailed medical history, injury history, and other relevant medical information. 
-
-Before filling out this form, please ensure that you have the necessary medical clearance and that you are not duplicating the form, which could lead to incorrect or incomplete information.
-
-</thinking>
-
 # Pre Competition Medical Assessment Form - Help Guide
 ## Purpose
 The Pre Competition Medical Assessment Form is used to gather essential medical information from individuals before participating in a competition, ensuring their health and fitness for the event.

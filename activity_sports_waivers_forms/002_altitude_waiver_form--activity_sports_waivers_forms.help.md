@@ -1,7 +1,3 @@
-<thinking>
-The Altitude Waiver Form is a critical document that helps organizations and individuals understand the risks associated with high-altitude activities. It's essential to ensure that participants are aware of and acknowledge the potential hazards involved in such activities. This form should not be used for any other purpose, and its completion is mandatory for anyone participating in high-altitude activities. Please ensure that this form is not duplicated or used for any other reason.
-</thinking>
-
 # Altitude Waiver Form - Help Guide
 ## Purpose
 The Altitude Waiver Form is a document that helps individuals understand and acknowledge the risks associated with high-altitude activities. It's a necessary step to ensure a safe and enjoyable experience for all participants.

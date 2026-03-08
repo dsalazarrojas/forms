@@ -1,8 +1,3 @@
-<thinking>
-The form is used to request access to the Tenant Lease Portal, which allows tenants to view and manage their lease details, including documents and payment information. This form helps administrators to track and approve or deny requests for portal access.
-The form is intended for use by administrators and tenants, and should not be used by anyone else to avoid confusion or misassignment of access.
-</thinking>
-
 # Tenant Lease Portal Access Form - Help Guide
 ## Purpose
 The Tenant Lease Portal Access Form is used to request access to the Tenant Lease Portal, which allows tenants to view and manage their lease details, including documents and payment information.

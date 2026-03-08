@@ -1,8 +1,3 @@
-<thinking>
-This is a thought experiment to solidify the internal reasoning behind the form. The purpose of this form is to collect information for creating an attendance certificate. The form will be used by event organizers to create certificates for participants who attended an event. The form will ask for details such as the type of certificate, event information, participant information, and signer information. The form will also allow for additional details to be included. This form should not be used for other purposes and should only be used for creating attendance certificates.
-
-</thinking>
-
 # Attendance Certificate Template - Help Guide
 ## Purpose
 This form is used to create attendance certificates for participants who attended an event. It will help event organizers to create customized certificates with relevant information.

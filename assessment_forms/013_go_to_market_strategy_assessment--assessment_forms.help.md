@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help business stakeholders develop a comprehensive go-to-market strategy for a product or service. The goal is to gather crucial information about the market, product, sales, revenue, and customer satisfaction to inform the development and execution of a successful go-to-market plan. This form is intended for use by marketing, sales, and product teams to ensure that everyone is on the same page and that the go-to-market strategy is well-informed and aligned with business objectives.
-
-Before beginning, please ensure that you have reviewed the form carefully and that the information you provide is accurate and complete. This form is not intended to be a one-time use case, but rather a recurring process to monitor and adjust the go-to-market strategy as needed.
-
-Please note that this form is not a duplicate of other similar forms, and the information gathered here will be used to inform business decisions and drive growth. If you have already completed a similar form, you may find that some fields are similar or identical. In that case, please provide the most up-to-date and accurate information.</thinking>
-
 # Go To Market Strategy Assessment - Help Guide
 ## Purpose
 

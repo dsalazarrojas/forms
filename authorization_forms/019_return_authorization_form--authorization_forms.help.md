@@ -1,11 +1,3 @@
-<thinking>
-The Return Authorization Form is designed to be used for customers or users to request a return or exchange of a purchased item. This form is intended to gather essential information from the customer to facilitate the return or exchange process. The form fields are organized to ensure that the customer provides all necessary details, making it easier for the return or exchange process to be initiated.
-
-Before filling out the form, please ensure that you have all the necessary information readily available. This form is not intended to be a complex or lengthy process, and providing accurate information will help to expedite the return or exchange process.
-
-Please note that the form fields are designed to be straightforward and easy to fill out. If you have any questions or concerns, feel free to contact us at form@gic.mx.
-</thinking>
-
 # Return Authorization Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from customers who wish to return or exchange a purchased item. This form will help to initiate the return or exchange process, ensuring that the customer's concerns are addressed efficiently.

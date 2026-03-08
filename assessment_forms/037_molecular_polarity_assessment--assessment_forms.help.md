@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the molecular polarity of a molecule. It's used to gather information about a molecule's properties, including its contact information, molecular weight, non-polar and polar types, email address, and other details. The assessment is likely used in a scientific context, such as in chemistry or materials science research, to help identify the characteristics of a molecule. 
-
-This guide is intended to help users fill out the form correctly and ensure they provide the necessary information for the assessment.
-</thinking>
-
 # Molecular Polarity Assessment - Help Guide
 ## Purpose
 The Molecular Polarity Assessment form is designed to gather information about a molecule's properties. This form will help researchers and scientists assess the molecular polarity of a molecule.

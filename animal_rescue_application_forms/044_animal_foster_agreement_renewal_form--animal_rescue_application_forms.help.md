@@ -1,7 +1,3 @@
-<thinking>
-... internal reasoning block to verify form purpose and non-duplication ...
-</thinking>
-
 # Animal Foster Agreement Renewal Form - Help Guide
 ## Purpose
 The Animal Foster Agreement Renewal Form is a document that allows foster parents to renew their foster care agreement with the shelter. This form is used to update information, confirm continued care, and ensure that the foster parent is still committed to providing quality care for the animals in their charge.

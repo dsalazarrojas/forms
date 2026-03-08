@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Employee Time Clock Check In/Check Out Log" appears to be designed for tracking employee time records, including check-in and check-out times, work duration, and related details. This form might be used for payroll management, attendance monitoring, or other time-tracking purposes within an organization.
 
 To use this form effectively, consider the following:

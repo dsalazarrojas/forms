@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain media coverage permission from individuals or organizations. Media coverage can include photo, video, or audio recordings of events. The form is used to gather information about the event, such as date, time, location, and contact details. This form is meant to be filled out by individuals or organizations seeking permission to record and use media for promotional or other purposes. 
-The form is designed to be completed once by the individual or organization, and does not have a specific deadline for completion. However, it's best to fill it out as soon as possible if you're planning to record or use media from the event.
-</thinking>
-
 # media_coverage_permission_form - Help Guide
 ## Purpose
 This form is designed to collect information and obtain permission from individuals or organizations for media coverage of an event. Media coverage can include photo, video, or audio recordings of events. 

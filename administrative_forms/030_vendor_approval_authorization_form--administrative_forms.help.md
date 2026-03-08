@@ -1,8 +1,3 @@
-<thinking>
-The vendor approval authorization form is used to gather necessary information to verify a vendor's identity. This form should be completed for any new or existing vendor that has not yet been approved for doing business with the company. Please note that this form does not replace the standard vendor onboarding process.
-Before starting, make sure that the vendor is not already registered in the system and that you have not already completed this form for this vendor. If in doubt, please contact the procurement team.
-</thinking>
-
 # Vendor Approval Authorization Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from the vendor to verify their identity and validate their authorization to do business with the company.

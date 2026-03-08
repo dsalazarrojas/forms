@@ -1,6 +1,3 @@
-<thinking> 
-This form is likely used to collect information from stakeholders and attendees about their attendance and participation in meetings. It could be part of a larger process for tracking meeting attendance, gathering feedback, and managing stakeholder relationships. To confirm, it would be good to understand the specific use case and business process this form is a part of.</thinking>
-
 # Stakeholder Meeting Attendance Form - Help Guide
 ## Purpose
 This form is used to record information about stakeholders' attendance and participation in meetings. It helps to track who attended, their status, and any comments or notes from the meeting.

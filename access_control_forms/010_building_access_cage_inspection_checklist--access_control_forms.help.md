@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and practical for the "Building Access Cage Inspection Checklist" form. Before diving into the guide, I'll review the form's purpose and structure. The form appears to be designed for inspecting access cages in buildings, likely for safety and security purposes. It covers various aspects, including structural assessment, cleanliness, and access control. The form's complexity and length suggest it's intended for use by authorized personnel, possibly facility managers or security experts. To ensure user understanding and accuracy, I'll focus on providing clear explanations for each field, avoiding any unsupported business logic.</thinking>
-
 # Building Access Cage Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to facilitate a comprehensive inspection of access cages in buildings. It helps identify potential safety and security hazards, cleanliness issues, and maintenance needs. The data collected will aid in maintaining a safe and secure environment for occupants and visitors.

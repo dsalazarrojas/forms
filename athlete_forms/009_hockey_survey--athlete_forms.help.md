@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from athletes about their hockey training habits and preferences. This form will help us better understand the needs and behaviors of our hockey athletes, which can inform our training programs and resources.
-We aim to collect data on the athlete's experience level, training frequency, time of day for training, equipment used, and training duration. We will also gather any additional comments or feedback the athlete may have.
-Please ensure that the form is completed accurately and thoroughly to provide us with valuable insights.
-</thinking>
-
 # Hockey Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your hockey training habits and preferences.

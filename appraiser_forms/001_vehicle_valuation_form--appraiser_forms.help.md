@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect detailed information about a vehicle for valuation purposes. This form is designed for users to input specific details about the vehicle's make, year, model, trim, condition, and other relevant specifications to help determine its value. It's crucial to ensure that the provided information is accurate and consistent with the actual vehicle data to avoid duplication and incorrect valuations.
-
-Before starting, please note that this form is meant for a single vehicle at a time. If you need to value multiple vehicles, please complete the form for each vehicle separately.
-
-</thinking>
-
 # Vehicle Valuation Form - Help Guide
 ## Purpose
 The Vehicle Valuation Form is designed to collect accurate and detailed information about a vehicle for valuation purposes.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by employees or authorized personnel to request vehicle access to a secure location or facility. This form ensures that the necessary information is collected and documented for vehicle access, including the type of gate being accessed, the reason for access, and the type of vehicle. The form is not intended to be a permanent record of vehicle access history but rather a snapshot of the request at the time of submission.
-
-Before starting, ensure that you have all the required information and approvals before submitting this form. Duplicate submissions are not allowed, and this form should only be completed once for each vehicle access request.
-
-Please refer to this guide for detailed instructions on how to complete this form.
-
-</thinking>
-
 # Vehicle Access Barrier Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request vehicle access to a secure location or facility.

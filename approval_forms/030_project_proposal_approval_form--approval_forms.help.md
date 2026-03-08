@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a new project proposal. It's meant to be filled out by project team members to gather information about a proposed project. Before filling out this form, please ensure that you have reviewed the project's objectives and requirements carefully. Also, please check that you haven't filled out a project proposal form for this project already. 
-</thinking>
-
 # Project Proposal Approval Form - Help Guide
 
 ## Purpose

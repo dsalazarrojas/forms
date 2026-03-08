@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to allow users to nominate individuals or organizations for heritage honors or awards. It's essential to ensure that nominations are accurate and relevant to the heritage honoree's work or achievements. To avoid duplication, users should check the existing nominations before submitting their own. This form will be used to collect data for review and consideration by a committee or panel. Please review the guidelines and requirements carefully before filling out the form.
-</thinking>
-
 # Heritage Honoree Nominations - Help Guide
 ## Purpose
 The heritage honoree nominations form is used to collect information about individuals or organizations being nominated for heritage honors or awards. This information will be reviewed and considered by a committee or panel to determine the suitability of the nominees.

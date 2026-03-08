@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding and completing the Fire Safety Equipment Claim Form. To ensure that users can provide accurate and comprehensive information, we'll cover the purpose of the form, the steps to complete it, and a detailed explanation of each field. Please note that this form is meant for administrative purposes only and may require verification or further information from the user to complete the claim process.
-
-
-The Fire Safety Equipment Claim Form is a vital part of our administrative process for handling claims related to damaged or malfunctioning fire safety equipment. It captures important details about the equipment in question, allowing our team to efficiently process and address these claims.
-</thinking>
-
 # Fire Safety Equipment Claim Form - Help Guide
 ## Purpose
 The Fire Safety Equipment Claim Form is designed to gather information about incidents involving fire safety equipment that has been damaged or malfunctions. This form is used to report and process such incidents, ensuring that our team can provide accurate assessments and take necessary steps to prevent future occurrences.

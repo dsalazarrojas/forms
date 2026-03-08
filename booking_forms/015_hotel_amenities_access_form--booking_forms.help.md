@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the usage and explanation of the "Hotel Amenties Access Form" which is designed to collect information from guests for hotel services such as room access, amenities, and payment details. It is essential to understand that this form is used for hotel guests to request and provide information about their stay, including access to hotel rooms, amenities they require, and payment methods. This form is designed to be user-friendly, and the explanations below will guide users on how to fill it out correctly.
-</thinking>
-
 # Hotel Amenties Access Form - Help Guide
 ## Purpose
 The Hotel Amenties Access Form is a tool used by hotel guests to provide information about their stay, including access to rooms, required amenities, and payment details. This form helps hotel staff understand guest's needs and provide efficient service.

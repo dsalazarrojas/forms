@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pipeline_integrity_inspection_form - Help Guide
 ## Purpose
 The pipeline integrity inspection form is designed to assess the status of pipeline integrity in a specific region or area, ensuring that the pipeline is functioning correctly and safely.

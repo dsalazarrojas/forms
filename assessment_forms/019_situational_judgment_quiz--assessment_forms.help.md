@@ -1,8 +1,3 @@
-<thinking>
-This form is a Situational Judgment Quiz designed to assess a person's critical thinking and decision-making skills in real-world scenarios. The form is meant to be completed by a respondent, who will be presented with a series of hypothetical scenarios and asked to respond with their judgments or actions in each situation. The form is not affiliated with, endorsed by, or derived from any form creation or survey platform, and it is an original adaptation created using public survey topic metadata.
-
-</thinking>
-
 # Situational Judgment Quiz - Help Guide
 ## Purpose
 This guide will help you complete the Situational Judgment Quiz form with ease. The form is designed to assess your critical thinking and decision-making skills in real-world scenarios.

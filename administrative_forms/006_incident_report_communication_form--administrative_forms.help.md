@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect information on incidents that have occurred within the organization. The goal is to gather detailed descriptions of incidents, including dates, times, locations, and details about the affected parties and investigators. The form is used to communicate and document incidents for record-keeping and reporting purposes. To avoid duplication of effort, please ensure that you are only submitting a new form for incidents that have not been previously reported or documented.</thinking>
-
 # incident_report_communication_form - Help Guide
 ## Purpose
 The incident report communication form is used to collect and document information on incidents that have occurred within the organization.

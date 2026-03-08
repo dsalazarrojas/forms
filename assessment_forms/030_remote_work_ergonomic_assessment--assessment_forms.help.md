@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the ergonomic setup and potential issues of employees who work from home or remotely. It aims to gather information about the employee's workstation, equipment, and working habits. To complete this form, please ensure you are using a private and secure environment where you can provide accurate and honest answers. If you have completed a similar assessment in the past, please do not submit duplicate submissions.
-</thinking>
-
 # Remote Work Ergonomic Assessment - Help Guide
 ## Purpose
 

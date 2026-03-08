@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from an account holder to create a summary of their bank transactions within a specific time period. This summary can be tailored to include various types of transactions, formats, and delivery methods. The form is designed to provide a clear and concise way for account holders to request a summary that meets their specific needs.
-
-To avoid duplicate requests and ensure that the correct information is collected, please confirm that this form is being used for a legitimate reason and that the account holder has not already submitted a similar request within the past 30 days.
-
-Before completing this form, please review the following fields to ensure that you have the necessary information and select the correct options for your needs.
-
-</thinking>
-
 # Bank Transaction Summary Request Form - Help Guide
 ## Purpose
 This form is used to create a summary of your bank transactions within a specific time period. The summary can be tailored to include various types of transactions, formats, and delivery methods to meet your needs.

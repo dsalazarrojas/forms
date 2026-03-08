@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to capture necessary information for the onboarding process of a spa brand. This form should be used by spa branch representatives to provide onboarding information for clients, including onboarding date, time, and duration, number of clients, and other relevant details. The fields on this form are designed to ensure that all necessary information is captured and stored accurately. It's essential that all the fields are completed carefully and thoroughly to facilitate a successful onboarding process.
-
-To avoid duplication or incorrect data entry, please ensure that you complete the form carefully and only proceed with the next page once you've finished with the current one. If you're unsure about any field or its purpose, consult with your supervisor or a colleague before proceeding.
-
-The following fields are part of this form: Onboarding Information, Client Id, Spa Branch, Service Date, Service Type, Start Time, Finish Time, Duration, Number of Clients, Scheduling, Scheduling Time, Scheduling Date, Additional Information, Onboarding Agreement, Onboarding Signature, Onboarding Comments, Onboarding Agreement Date, Onboarding Agreement Time, Onboarding Agreement Signature, Onboarding Agreement Notes, Spa Branch Email, Spa Branch Phone, Onboarding Agreement Status, Onboarding Agreement Notes, Onboarding Review.
-</thinking>
-
 # Spa Brand Onboarding Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for the onboarding process of a spa brand.

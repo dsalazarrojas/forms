@@ -1,5 +1,3 @@
-<thinking>Is the purpose of this form to assess an individual's or organization's skills and systems? Is this form already being used and is there a need to update existing guidance?</thinking>
-
 # Skills And Systems Assessment - Help Guide
 ## Purpose
 The Skills and Systems Assessment form is a tool designed to evaluate and identify an individual's or organization's skills and systems. This form is used to gather information about various skills and systems, providing a comprehensive overview of the subject's capabilities and processes.

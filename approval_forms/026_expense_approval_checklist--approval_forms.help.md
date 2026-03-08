@@ -1,6 +1,3 @@
-<thinking>
-The provided YAML describes a form for expense approval, likely used for internal business process management. To create a help guide, we must assume the form is part of an internal expense approval process where employees submit their expenses for approval and tracking. This guide aims to explain the purpose and process of completing this form.
-</thinking>
 # Expense Approval Checklist - Help Guide
 ## Purpose
 The Expense Approval Checklist is a form used to track and manage employee expenses within your organization. It serves as a centralized tool for employees to submit expenses for approval, allowing management to monitor and approve or reject requests efficiently.

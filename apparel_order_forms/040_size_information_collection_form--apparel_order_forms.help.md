@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an apparel order form. This form is used to collect size information from customers, which is crucial for ensuring accurate fitting and order fulfillment. To avoid duplication, we should only include fields that are relevant to size information. The form will guide customers on how to complete it correctly, making sure they provide the necessary details about their size preferences. Let's break down each field for a smooth and efficient experience.</thinking>
-
 # Size Information Collection Form - Help Guide
 ## Purpose
 The Size Information Collection Form is designed to gather essential size details from customers to ensure accurate fitting and order fulfillment.

@@ -1,7 +1,3 @@
-<thinking>
-The form "pet_owner_survey" is intended to collect information from pet owners about their pets. Its purpose is to gather data on pet types, ages, breeds, colors, weights, owner contact details, and pet habits. This form is likely to be used in an animal shelter setting to gather information from owners who are looking to adopt or surrender their pets. The fields included in this form appear to be comprehensive, but the "pet_habit" field is not clearly defined, so it's best to approach this field with caution when interpreting its intended purpose. The fields seem to be designed for pet owners, but without further business logic, the specific use case or desired outcome is unclear.
-</thinking>
-
 # pet_owner_survey - Help Guide
 ## Purpose
 This form is designed to collect information from pet owners about their pets for an animal shelter.

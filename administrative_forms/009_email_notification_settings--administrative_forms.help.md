@@ -1,8 +1,3 @@
-<thinking>
-This form is for setting up email notification settings for the user. The purpose of this form is to allow the user to customize how often and in what format they want to receive emails, as well as who to send the emails to and from. This form is likely used for internal or external communication and may be used for various purposes such as sending updates, reminders, or other types of emails. Before completing this form, please make sure to review the email address and format settings to ensure accuracy and relevance to your needs.
-
-</thinking>
-
 # email_notification_settings - Help Guide
 ## Purpose
 This form is used to set up email notification settings for users, allowing them to customize when and in what format they receive emails.

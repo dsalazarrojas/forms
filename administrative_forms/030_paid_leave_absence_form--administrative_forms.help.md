@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to record a paid leave absence request. This form should be completed by employees when they wish to take time off due to a paid absence, such as a vacation, sick leave, or parental leave. Please fill in the form accurately and truthfully. 
-</thinking>
-
 # Paid Leave Absence Form - Help Guide
 ## Purpose
 The Paid Leave Absence Form is used to record a paid leave absence request, which includes time off due to a vacation, sick leave, or parental leave.

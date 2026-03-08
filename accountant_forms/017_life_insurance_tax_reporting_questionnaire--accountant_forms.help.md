@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for accountants to collect information from their clients regarding life insurance policies. The form asks for general client information, details about the insurance policy, information about the policy's beneficiaries, financial information related to the policy, tax returns associated with the policy, and the tax year. Each page of the form is designed to collect specific data that can be used to report life insurance tax information.
-
-Before starting, please ensure you have all required and optional information available. This form is designed for single-page input and does not require multiple pages of input. Review each field carefully to ensure you provide accurate information. If you're unsure about any field, please refer to the field-by-field explanations below.
-
-Please note that the form has no specific submission or review flow instructions. This guide is intended as a general guidance for end users.
-</thinking>
-
 # Life Insurance Tax Reporting Questionnaire - Help Guide
 ## Purpose
 The purpose of this life insurance tax reporting questionnaire is to collect relevant information for accountants to report life insurance tax-related information. Please complete this form carefully and accurately to provide the required details.

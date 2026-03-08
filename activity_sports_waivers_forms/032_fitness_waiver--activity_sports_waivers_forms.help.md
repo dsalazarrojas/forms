@@ -1,5 +1,3 @@
-<thinking>Before designing the help guide, let me first understand the form's purpose and fields. I will review the inputSchema to ensure that I accurately explain each field and its corresponding label. The form, "Fitness Waiver," is likely used to collect information for fitness-related activities or programs. This form will gather personal details from individuals participating in such activities.</thinking>
-
 # Fitness Waiver - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals participating in fitness activities or programs. This information will be used to ensure their safety and liability. Please fill out the form accurately and completely to help us better serve you.

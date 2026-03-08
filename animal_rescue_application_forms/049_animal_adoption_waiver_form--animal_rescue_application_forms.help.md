@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from animal adopters, ensuring they understand and agree to the waiver and release terms before proceeding with the adoption process. The purpose of this form is to confirm the adopter's understanding of the terms and conditions of the adoption, including liability and responsibility. This form serves as a legal document that outlines the adopter's agreement to assume responsibility for the animal. It also collects essential contact information for the adopter and requires a signature to validate the form. Before proceeding, ensure that the form is complete and accurate, as any errors may lead to confusion and delay the adoption process.
-</thinking>
-
 # Animal Adoption Waiver Form - Help Guide
 ## Purpose
 The Animal Adoption Waiver Form is a crucial document that requires adopters to understand and agree to the terms and conditions of the adoption process. This form ensures that the adopter is aware of their responsibilities and liabilities towards the animal, and it serves as a confirmation of their agreement to assume responsibility for the animal's well-being.

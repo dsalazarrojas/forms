@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information for the Crime Clearance Rate Report, which is used to track and analyze the rate of crimes cleared by law enforcement agencies. The form is typically filled out by agencies after completing an investigation or case resolution. The purpose of this form is to ensure accurate and consistent reporting of crime clearance rates across different agencies.
-
-Before filling out this form, ensure that you have all the necessary information and permissions to complete it accurately. If you are unsure about any of the fields, please reach out to your agency's administrator or supervisor for guidance.
-
-This form is not intended to be filled out multiple times for the same case. Each submission should be a new, completed case.
-
-</thinking>
-
 # Crime Clearance Rate Report Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for ordering apparel items with different sizes and quantities. The form will be used to collect information from customers who are placing orders, ensuring that the order details are accurately recorded and communicated to the production team.
-Before completing this form, please ensure that you are using it for its intended purpose and are not duplicating an existing order. The form's purpose is to capture order-specific details that are not already captured through other means.
-</thinking>
-
 # Apparel Size And Quantity Form - Help Guide
 ## Purpose
 The Apparel Size And Quantity Form is used to collect order-specific details for apparel items with different sizes and quantities.

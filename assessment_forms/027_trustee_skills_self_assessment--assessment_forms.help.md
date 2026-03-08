@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to help trustees assess their skills and competencies in order to improve their performance and effectiveness in their role. The form is not a formal evaluation or assessment tool, and its primary purpose is to provide a self-reflection tool for trustees to evaluate their own skills and areas where they may need additional training or support. This form is not meant to be used as a formal assessment or evaluation, but rather as a personal development tool.
-
-Please note that the form fields are not a comprehensive list of required skills or competencies, and the information gathered through this form will not be used for formal evaluation or promotion purposes.
-
-The form is meant to be completed by the trustee themselves, and the answers provided will be used for their personal development and to help them identify areas where they may need additional support or training.
-
-Before completing this form, the trustee should review the form carefully and ensure that they are providing accurate and honest information. The answers provided will be used for their personal development and improvement, and will not be used for formal evaluation or promotion purposes.
-
-</thinking>
-
 # Trustee Skills Self Assessment - Help Guide
 ## Purpose
 The Trustee Skills Self Assessment form is designed to help trustees evaluate their skills and competencies in order to identify areas where they may need additional training or support. This form is meant to be completed by the trustee themselves and will help them identify their own strengths and weaknesses.

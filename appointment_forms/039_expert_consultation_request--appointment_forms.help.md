@@ -1,13 +1,3 @@
-<thinking>
-To determine the internal reasoning and relevance of this form, let's first look at the provided YAML. The form is titled "Expert Consultation Request" and appears to be designed to collect information for expert consultations or meetings. The form has 24 fields, which can be broadly categorized into four main sections: personal details, consultation scheduling, submission information, and notes and status.
-
-This form seems to be used for experts to request consultations or meetings with clients. The fields include personal details such as first name, last name, email, phone number, and preferred date and time. This is followed by fields related to consultation type, duration, and status.
-
-The submission information section includes fields for the submitted date, time, and status, as well as fields for the person submitting the request and the label assigned to the request.
-
-The form is required for experts to provide details about their requests, including personal details, consultation preferences, and submission information.
-</thinking>
-
 # Expert Consultation Request - Help Guide
 ## Purpose
 The "Expert Consultation Request" form is designed to be filled out by experts to request consultations or meetings with clients. The form collects personal details, consultation preferences, and submission information.

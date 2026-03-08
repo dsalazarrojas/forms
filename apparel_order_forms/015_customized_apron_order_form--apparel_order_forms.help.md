@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Customized Apron Order Form - Help Guide
 ### Purpose
 
@@ -41,4 +39,3 @@ This form is used to place a customized order for an apron. The form allows you 
 * **Custom Text 2** (`id: 24`): Add another custom text for the order.
 * **Custom Text 3** (`id: 25`): Add another custom text for the order.
 
-<thinking>...</thinking>

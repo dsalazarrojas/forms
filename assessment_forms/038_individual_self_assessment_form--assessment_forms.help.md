@@ -1,12 +1,3 @@
-<thinking>
-The "Individual Self Assessment Form" is a form designed to collect personal information and performance evaluations from individuals. To ensure the form is completed correctly, please review the instructions below.
-
-The form is not intended for use as a formal performance evaluation instrument, but rather as a self-assessment tool to gauge individual progress and performance over time. It should not be used in place of formal performance evaluations.
-
-The form is intended to be completed by the individual themselves, and not by a manager or supervisor. 
-
-</thinking>
-
 # Individual Self Assessment Form - Help Guide
 ## Purpose
 The Individual Self Assessment Form is a tool used to collect personal information and performance evaluations from individuals. It helps users gauge their progress and performance over time.

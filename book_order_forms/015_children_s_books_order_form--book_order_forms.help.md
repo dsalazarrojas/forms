@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Children's Books Order Form - Help Guide
 
 ## Purpose

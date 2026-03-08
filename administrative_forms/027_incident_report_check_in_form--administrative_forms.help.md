@@ -1,14 +1,5 @@
 ### Incident Report Check In Form - Help Guide
 
-<thinking>
-This form is used to check in and report incidents that have occurred within the organization. This guide will walk you through the purpose and use of this form.
-
-This form is designed to gather relevant information about incidents that have occurred within the organization, including details about the incident, location, and personnel involved. It's essential to complete this form accurately and thoroughly to help with incident management and response.
-
-Before starting, ensure that you are only submitting the incident report once, as duplicates may cause confusion and delay the incident response process.
-
-</thinking>
-
 ## Purpose
 The "Incident Report Check In Form" is used to report and document incidents that have occurred within the organization. It's a crucial tool for incident management and response, helping to ensure that incidents are properly tracked, documented, and addressed.
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Cake Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in inquiring about wedding cake details. The form aims to collect essential details that will help us understand their wedding cake preferences and requirements.

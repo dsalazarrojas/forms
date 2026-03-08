@@ -1,8 +1,3 @@
-<thinking>
-This form is for assessing the work order system, which is used for managing and tracking work orders in an organization. The purpose of this form is to gather information from end-users about their experience with the system. This information will be used to identify areas of improvement and make necessary changes to the system.
-The form is not meant to be duplicated, and it is recommended that users complete it only once. If the user has already completed the form, they should not repeat the process unless they have new and different information to provide.
-</thinking>
-
 # Work Order System Assessment - Help Guide
 ## Purpose
 The Work Order System Assessment form is designed to gather feedback from end-users about their experience with the work order system. This form helps us to identify areas of improvement and make necessary changes to the system.

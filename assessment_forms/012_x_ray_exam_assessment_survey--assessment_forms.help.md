@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect feedback from patients about their experience with the X Ray exam. The form is designed to gather information on various aspects of the patient's visit, including their overall satisfaction, image quality, communication quality, and other factors that contribute to their overall experience. This form is intended to be completed by patients after they have undergone the X Ray exam. It is crucial to ensure that this form is not completed by anyone else, as the feedback is meant to be personal and specific to the patient's experience. The form consists of multiple fields that are divided into different pages, and each field is designed to gather specific information related to the patient's experience. The fields in the form are designed to be completed by the patient with minimal assistance, and the form is intended to be user-friendly and easy to complete.</thinking>
-
 # X Ray Exam Assessment Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from patients about their experience with the X Ray exam.

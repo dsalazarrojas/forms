@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used by public safety personnel to request equipment from the facilities department. It is intended to be used by those who need to requisition public safety equipment to perform their job duties. To avoid duplication, this form should only be used when new equipment is needed and not for general inventory purposes.
-
-Before filling out this form, make sure you have checked with your departmental manager to see if they have any reservations or concerns about the request. It is also recommended that you fill out this form as soon as possible after the equipment becomes available for requisitioning.
-
-Please note that some fields are required and others are optional. Make sure to fill out all required fields before submitting the form.
-</thinking>
-
 # Public Safety Equipment Requisition Form - Help Guide
 ## Purpose
 This form is used to request public safety equipment for use in performing job duties.

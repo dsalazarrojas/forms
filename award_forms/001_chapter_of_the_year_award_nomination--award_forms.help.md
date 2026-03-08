@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the "Chapter Of The Year Award Nomination" from individuals or chapters within the organization. The purpose of this form is to gather detailed and accurate information from nominees to evaluate their eligibility for the award. This form will be reviewed by the internal team to ensure that only eligible chapters are nominated. Please ensure that you provide accurate and complete information to avoid duplication and ensure that your chapter is considered for the award. Note that this form is not intended for general feedback or suggestions, but rather for official nominations.
-</thinking>
-
 # Chapter Of The Year Award Nomination - Help Guide
 ## Purpose
 The Chapter Of The Year Award is given to recognize and celebrate the achievements of chapters within the organization. This form is used to collect nomination information and support the evaluation process.

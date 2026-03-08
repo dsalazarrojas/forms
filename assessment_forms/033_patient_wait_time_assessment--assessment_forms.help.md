@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Wait Time Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient's wait time experience at the healthcare facility. Specifically, it aims to assess the patient's satisfaction level regarding their waiting time and schedule their wait in minutes. This form will help to understand how efficiently the facility is managing patient flow and identify areas for improvement.

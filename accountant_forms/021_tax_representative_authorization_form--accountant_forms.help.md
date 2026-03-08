@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to allow a taxpayer to grant or revoke authorization for a tax representative to act on their behalf. This form is used in situations where a taxpayer may not be able to personally interact with a tax authority, and needs to delegate the authority to a trusted representative. The representative will be able to act as the taxpayer's agent, making decisions and taking actions on their behalf. This form ensures that the taxpayer's actions and decisions are accounted for and recorded accurately, and provides a clear understanding of the scope and duration of the authorization.
-
-Before completing this form, please ensure that you are aware of the tax implications and consequences of granting or revoking authorization. If you have any doubts or concerns, please consult with a tax expert before proceeding.
-
-It is also important to note that this form is a one-time document, and any subsequent changes to the authorization will require a new form to be completed and submitted.
-
-</thinking>
-
 # Tax Representative Authorization Form - Help Guide
 ## Purpose
 The Tax Representative Authorization Form is a document used to grant or revoke authorization for a tax representative to act on a taxpayer's behalf. This form ensures that the taxpayer's actions and decisions are accounted for and recorded accurately.

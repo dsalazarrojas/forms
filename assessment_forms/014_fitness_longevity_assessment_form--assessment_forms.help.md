@@ -1,11 +1,3 @@
-<thinking>
-This form is used to assess an individual's fitness and physical abilities. It appears to be designed for a specific group of people, likely athletes or individuals with specific physical demands. The form is quite extensive, with multiple sections and fields, so make sure to read through each section carefully to ensure you are answering all the required questions.
-
-Before starting, take a moment to review the form and ensure you are not duplicating any information. For example, if you have already answered a question in one section, you may not need to answer it again in another section.
-
-Also, be aware that some fields may have specific formatting requirements, such as dates or email addresses. Make sure to follow the expected format when filling out these fields.
-</thinking>
-
 # Fitness Longevity Assessment Form - Help Guide
 ## Purpose
 The Fitness Longevity Assessment Form is designed to evaluate an individual's fitness and physical abilities. It is intended for people who need to assess their physical fitness for specific activities or sports.

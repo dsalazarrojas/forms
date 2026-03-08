@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information and feedback from reviewers regarding the review of contract deliverables. The purpose of this form is to ensure that all necessary information is collected for the review process to be thorough and efficient. Please ensure you are not duplicating effort by reviewing contracts that have already been reviewed.
-</thinking>
-
 # Contract Deliverables Review Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from reviewers regarding the review of contract deliverables. Please ensure that all necessary information is collected to help with the review process.

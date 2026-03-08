@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # risk_manager_information_form - Help Guide
 ## Purpose
 The risk_manager_information_form is used to gather information about a Risk Manager's background, experience, and job details. This form is designed to capture essential data to facilitate effective risk management.

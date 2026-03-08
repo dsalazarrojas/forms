@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow nominators to submit nominations for the Research Methodology Award. This form collects information about the nominee, including their name, organization, and contact details. The nominator's contact details are also collected, including their name, title, email, and phone number. Additionally, the form includes fields for the nominee's description, the awards they are being nominated for, and the nomination status.
-</thinking>
-
 # Research Methodology Innovation Award Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate individuals or teams for the Research Methodology Award.

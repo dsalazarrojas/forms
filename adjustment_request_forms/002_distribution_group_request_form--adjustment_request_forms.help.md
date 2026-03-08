@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information related to distribution group requests, which are typically used to coordinate the allocation of resources, assets, or personnel within an organization. The purpose of this form is to gather essential details from the user, ensuring that requests are properly documented and processed. It is recommended to review the form carefully before submission to avoid duplication and ensure that all necessary information is provided. If you are unsure about any field or have a similar request pending, please do not proceed with the current form submission.
-</thinking>
-
 # Distribution Group Request Form - Help Guide
 ## Purpose
 The Distribution Group Request Form is a tool used to request resources, assets, or personnel within an organization. It helps to coordinate and document the distribution of these items efficiently.

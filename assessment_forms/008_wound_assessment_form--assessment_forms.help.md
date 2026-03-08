@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's wound assessment. This form is designed to be used by healthcare professionals to gather data on the size, location, and characteristics of a patient's wound, as well as other relevant details. 
-
-To ensure that you are using this form correctly, please confirm that you are authorized to access this patient's medical information and that you are using this form for the purpose of wound assessment. 
-
-This form does not replace or duplicate any other assessment or treatment plan. If you are unsure about any information or have concerns, please consult with the patient's healthcare provider or supervisor.
-
-</thinking>
-
 # Wound Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient's wound assessment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Individual Self Assessment Form For Program Management Office - Help Guide
 ## Purpose
 This form is designed to help employees assess their skills and strengths, as well as identify areas for improvement. The form is used by the Program Management Office to collect self-assessment information from employees for program evaluation and development purposes.

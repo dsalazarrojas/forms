@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for booking an in-door party event. It is intended for users to input details about the event, such as the date and time, contact information, and event organizer. The form does not require users to provide any sensitive or personal data. The form is created using AI and is not affiliated with any form platform. It is released under CC BY 4.0 and can be freely used, modified, and distributed.
-</thinking>
-
 # indoor_party_booking_form - Help Guide
 ## Purpose
 This form is designed to collect information for booking an in-door party event. It provides a structured way to input details about the event, making it easier for event organizers to manage and respond to bookings.

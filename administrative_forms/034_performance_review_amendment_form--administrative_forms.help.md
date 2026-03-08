@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Review Amendment Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess a client's nutritional needs and create a transition plan for their care. Before starting the form, it's essential to ensure that you are not duplicating work and that the client has already completed any relevant assessments or plans. This form should only be filled out by authorized personnel, and the information should be kept confidential. Please review the following guide to understand how to complete the form correctly and efficiently.
-
-</thinking>
-
 # Nutrition Assessment And Transition Plan - Help Guide
 ## Purpose
 The Nutrition Assessment And Transition Plan form is designed to gather information about a client's dietary habits, nutritional needs, and transition plan for their care. This form helps healthcare professionals assess the client's current nutritional status and create a personalized plan to address their nutritional needs.

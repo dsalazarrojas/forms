@@ -1,9 +1,3 @@
-<thinking>
-Pediatric Nephrology Appointment Request form is used for requesting an appointment at a pediatric nephrology department.
-To complete this form, you should be a registered user. This form will ask for information about a patient, their appointment preferences, and other related details. 
-This form is a general form, not intended for urgent appointments. 
-</thinking>
-
 # Pediatric Nephrology Appointment Request - Help Guide
 ## Purpose
 The Pediatric Nephrology Appointment Request form is used to schedule an appointment at the pediatric nephrology department. It collects necessary information for the patient and appointment scheduling.

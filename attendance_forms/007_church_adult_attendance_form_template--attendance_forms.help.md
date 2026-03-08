@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to record information about an adult's attendance at church events. It helps to track attendance numbers, note any notable events, and gather feedback from participants. The form is structured into several sections to make it easy to understand and fill out.
-
-</thinking>
-
 # Church Adult Attendance Form Template - Help Guide
 ## Purpose
 The Church Adult Attendance Form is a tool for recording attendance information and gathering feedback from adults who participate in church events. It collects details about the event, the participant's status (e.g., present, absent, late), personal information (name, email, phone number), and engagement level during the event.

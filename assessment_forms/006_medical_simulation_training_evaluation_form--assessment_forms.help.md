@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from trainees after a medical simulation training session. It is used to assess the effectiveness of the simulation and identify areas for improvement. The questions are designed to be completed by the trainee and should not be filled out by the instructor or facilitator.
-
-Please ensure that you are completing this form based on your personal experience and perceptions during the simulation, and not based on any external information or feedback from others.
-
-Before starting, please ensure that you have completed the simulation session and are ready to provide an honest and constructive evaluation of the experience.
-
-</thinking>
-
 # Medical Simulation Training Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from trainees after a medical simulation training session. It helps to assess the effectiveness of the simulation and identify areas for improvement.

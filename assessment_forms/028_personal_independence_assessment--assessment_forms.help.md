@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Personal Independence Assessment form is to gather information about an individual's level of independence in various aspects of their daily life. This form is designed to collect data on an individual's ability to perform daily activities, their medical condition, medical history, and other relevant factors that affect their independence. This form is likely used by healthcare professionals or social workers to assess an individual's needs and provide support or services accordingly.
-
-To ensure that the assessment is accurate and comprehensive, please review each field carefully and provide accurate information about the individual.
-
-</thinking>
-
 # Personal Independence Assessment - Help Guide
 ## Purpose
 The Personal Independence Assessment form gathers information about an individual's level of independence in various aspects of their daily life.

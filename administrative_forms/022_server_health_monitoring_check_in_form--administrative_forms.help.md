@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Server Health Monitoring Check In Form", follow these instructions:
 
 # Server Health Monitoring Check In Form - Help Guide

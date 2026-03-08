@@ -1,34 +1,3 @@
-<thinking>
-This is an in-person class participation waiver form, which is used for students to provide their personal and medical information before participating in a class or activity. The form is designed to ensure that the student's emergency contact information, medical conditions, and other relevant details are collected accurately and reliably. Before filling out this form, please ensure that you are not a duplicate or repetitive submission, as this form is intended for new participants only.
-
-The form consists of multiple fields that require various types of information. To fill out this form correctly, please follow these steps:
-
-1. Enter your name and email address in the first and second fields, respectively.
-2. Provide your phone number in the third field.
-3. Enter the name of your emergency contact person in the fourth field.
-4. Enter the phone number of your emergency contact person in the fifth field.
-5. Enter your date of birth in the sixth field in the format of MM/DD/YYYY.
-6. Select the relationship of your emergency contact person with you (e.g., Mother, Father, etc.) in the seventh field.
-7. Enter the address of your emergency contact person in the eighth field.
-8. Select any medical conditions you have (e.g., Diabetes, Epilepsy, etc.) in the ninth field.
-9. Provide details about your medical conditions in the tenth field.
-10. Select whether you have any allergies in the eleventh field.
-11. Select whether you have any allergies in the twelfth field (this is another way to ask if you have allergies).
-12. Select whether you have any medical condition medications in the thirteenth field.
-13. If you have any medical condition medications, enter the name of the medication in the fourteenth field.
-14. If you have any medical condition medications, enter the frequency of the medication in the fifteenth field.
-15. If you have any medical condition medications, enter the dosage of the medication in the sixteenth field.
-16. If you have any medical condition medications, enter any side effects of the medication in the seventeenth field.
-17. If you have any medical condition medications, enter the last time you administered the medication in the eighteenth field.
-18. Select whether you have permission to allow instructors or emergency contacts to administer medication in the nineteenth field.
-19. Select whether you have given your instructor consent to participate in the class in the twentieth field.
-20. If you have given your instructor consent, sign the signature field in the twenty-first field.
-21. If you have participated in the class, sign the participant signature field in the twenty-second field.
-22. Enter the date and time of the class in the twenty-third and twenty-fourth fields, respectively.
-
-Please note that some fields are not required but are recommended for your safety and well-being. Make sure to fill out all the fields accurately and truthfully to ensure that you can participate in the class without any issues.
-</thinking>
-
 # In Person Class Participation Waiver - Help Guide
 ## Purpose
 This form is used to collect personal and medical information from students participating in an in-person class or activity. This information is used to ensure that the student's safety and well-being are protected during the class.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees for the digitization of HR policies, which is a part of the company's digital transformation initiative. The form is intended to be used by HR personnel to gather necessary details about the policies that need to be digitized. It is crucial that only one form is submitted per policy, and the information provided is accurate and up-to-date. 
-</thinking>
-
 # HR Policy Digitization Request Application Form - Help Guide
 
 ## Purpose

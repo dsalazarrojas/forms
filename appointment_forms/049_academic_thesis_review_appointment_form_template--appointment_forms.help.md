@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of scheduling academic thesis reviews between students and their advisors. The form captures essential information about the student and advisor, including contact details, thesis title, and academic program. It also asks about the type of review needed, preferred appointment dates and times, and expected session duration. By using this form, students and advisors can communicate their needs and preferences effectively, leading to more efficient and productive review sessions.
-</thinking>
-
 # Academic Thesis Review Appointment Form Template - Help Guide
 ## Purpose
 The Academic Thesis Review Appointment Form is a template designed to schedule thesis reviews for students and advisors. This form helps gather essential information to ensure that both parties are on the same page regarding the review process.

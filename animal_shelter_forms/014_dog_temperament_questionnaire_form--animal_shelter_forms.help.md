@@ -1,7 +1,3 @@
-<thinking>
-The "Dog Temperament Questionnaire Form" is designed to help pet owners and animal shelter staff understand a dog's personality, behavior, and needs. This information is crucial for matching the dog with the right foster family or adopter, ensuring the best possible outcome for both the animal and the individual taking care of it. By completing this form, you can provide a comprehensive description of a dog's general information, health, socialization, behavior, and additional characteristics, helping shelters make informed decisions and find the perfect forever home for each dog. This form will not duplicate any existing data in your system; it will help you create a new record for each dog that needs to be adopted or fostered.
-</thinking>
-
 # Dog Temperament Questionnaire Form - Help Guide
 
 ## Purpose

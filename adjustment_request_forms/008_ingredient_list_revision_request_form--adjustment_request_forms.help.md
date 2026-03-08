@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to allow users to request revisions to an ingredient list used in a specific context, such as in a restaurant or food production environment. The purpose of this form is to provide a clear and structured way for users to submit their requests for changes to the ingredient list. This form is not a duplicate of any existing form, but rather a original adaptation created using AI and public metadata.
-
-When completing this form, it's essential to ensure that the requests are clear and justified, as they will be reviewed and addressed by relevant authorities. Please ensure that you have a valid justification for each request and provide any supporting documents that can help clarify the request.
-
-</thinking>
-
 # Ingredient List Revision Request Form - Help Guide
 ## Purpose
 The Ingredient List Revision Request Form is a tool for users to request changes to an ingredient list used in a specific context. This form helps ensure that requests are clear, structured, and properly reviewed.

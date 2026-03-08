@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employees to request time off for peer support programs, which are programs that provide support and resources to employees who are experiencing difficulties in their work or personal life. This form helps to formalize the process of requesting time off for peer support, ensuring that the employee's and their team's needs are met. It also helps to track and manage employee time off requests in a centralized manner, reducing confusion and errors. Please use this form only for legitimate peer support program time off requests. If you are requesting time off for other reasons, please use the appropriate form for that purpose.
-</thinking>
-
 # Peer Support Program Time Off Form - Help Guide
 
 ## Purpose

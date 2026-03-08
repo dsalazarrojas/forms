@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fabrication Inspection Process Form - Help Guide
 ## Purpose
 The Fabrication Inspection Process Form is used to record and document the fabrication inspection process for a specific manufacturing site and equipment type. This form is essential for ensuring that the fabrication process is accurately and comprehensively inspected, and any issues or discrepancies are captured for reference and improvement purposes.

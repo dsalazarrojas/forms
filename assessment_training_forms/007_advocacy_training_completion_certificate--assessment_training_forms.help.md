@@ -1,17 +1,3 @@
-<thinking>
-
-This form, the "Advocacy Training Completion Certificate," is used to document the completion of an advocacy training course. It captures participant information, training details, and assessment scores to provide a comprehensive record of their performance. 
-
-The purpose of this form is to:
-
-- Verify participant completion of the training course
-- Assess their understanding and skills in advocacy fundamentals, policy development, stakeholder engagement, communication strategies, and evaluation metrics
-- Provide a certificate of completion with an overall evaluation and authority signature
-
-To ensure the form is completed correctly, it's essential to understand the required fields and their purpose. The following guide will walk you through each section and its corresponding fields.
-
-</thinking>
-
 # Advocacy Training Completion Certificate - Help Guide
 ## Purpose
 This form is used to document the completion of an advocacy training course and assess participant performance.

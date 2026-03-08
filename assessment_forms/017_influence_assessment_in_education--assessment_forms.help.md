@@ -1,13 +1,3 @@
-<thinking>
-In this help guide, we'll cover the purpose of the "Influence Assessment In Education" form, walk you through its completion process, and provide explanations for each field to ensure you understand the context and intent behind each question.
-
-Before we begin, this form is designed to assess the influence levels of various individuals and entities on students' learning experiences in education. It's not intended to be a comprehensive survey, but rather a starting point for understanding the complex relationships between students, teachers, parents, administrators, communities, and the education system.
-
-To complete this form, please note that most fields are optional, and you can submit it without filling out every field. However, some fields are marked as required, indicating that they are essential for the form's purpose.
-
-Now, let's dive into the form's purpose and completion process.
-</thinking>
-
 # Influence Assessment In Education - Help Guide
 ## Purpose
 The "Influence Assessment In Education" form aims to evaluate the influence levels of various stakeholders on students' learning experiences in education. This includes assessing the influence of researchers, teachers, parents, administrators, communities, and the education system on students' attitudes, motivations, and engagement. The form helps to identify areas where stakeholders have a high impact on students' learning experiences and areas where they have a lower influence.

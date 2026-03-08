@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the skills and knowledge of personal support workers. The purpose of this form is to gauge their ability to provide person-centred care. The form is divided into sections that cover various aspects of care coordination, including communication, empathy, problem-solving, time management, and self-awareness.
-
-This form is intended to be used in a variety of contexts, such as training and evaluation purposes. The assessment is designed to be comprehensive and cover all necessary skills for personal support workers to excel in their roles. The form should not be used as a standalone evaluation tool, but rather as part of a broader assessment process that includes other evaluation methods.
-
-The questions in this form are carefully crafted to assess the personal support worker's skills in providing person-centred care. The form is designed to be user-friendly and easy to complete, with clear instructions and explanations for each question.
-
-Before filling out this form, please ensure that you are completing it for the right purpose and in the right context. Make sure you understand the form's purpose and the skills being assessed.
-</thinking>
-
 # personal_support_worker_quiz - Help Guide
 ## Purpose
 The personal_support_worker_quiz form is designed to assess the skills and knowledge of personal support workers in providing person-centred care.

@@ -1,23 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about trade appraisals, which are essential in evaluating the value and status of vehicles. The form is used to gather details about the vehicle, its owner, and the trade-in process. It includes fields for vehicle details, owner information, vehicle warranty, trade-in information, trade value, purchase price, sale price, trade-in value, current vehicles, year range, trade status, trade date, sale date, trade value date, notes, contact information, trade info, trade type, trade-in reason, appraiser name, appraiser company, appraiser license number, and trade-in date. This form is crucial for making informed decisions about vehicle trades.
-
-To complete this form, follow these steps:
-
-1.  Fill in the vehicle details, including make, model, and year.
-2.  Provide owner information, including name, address, and contact details.
-3.  Enter vehicle warranty details, such as the warranty start and end dates.
-4.  Specify trade-in information, including the trade-in date and reason.
-5.  Enter trade value, purchase price, and sale price.
-6.  Select the current vehicle year and trade status.
-7.  Enter trade date, sale date, and trade value date.
-8.  Add any additional notes or comments.
-9.  Provide contact information for the appraiser or representative.
-10. Specify trade info, including trade type and trade-in reason.
-11. Enter appraiser name, company, and license number.
-12. Add any additional notes or comments.
-
-Note that some fields are optional, and you should only fill them in if required for the trade appraisal.</thinking>
-
 # Trade Appraisal Form - Help Guide
 ## Purpose
 The trade appraisal form is used to collect information about trade-in vehicles and make informed decisions about their value and status.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the "Workplace Safety Innovation Award Nomination Form" is to gather information from end users so that they may nominate their company's or team's innovative safety initiative for recognition. 
-Please note that this form does not collect any sensitive or financial information, and only serves as a means for submission of nominations for consideration of the Workplace Safety Innovation award. 
-To ensure we do not collect duplicate information from the same users please do not nominate your own company or team unless absolutely necessary.
-</thinking>
-
 # Workplace Safety Innovation Award Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to nominate a safety innovation from your workplace for recognition. It is meant to gather necessary information to facilitate the evaluation of innovative solutions to workplace safety problems.

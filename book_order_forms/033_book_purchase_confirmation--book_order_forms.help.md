@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Book Purchase Confirmation - Help Guide
 ## Purpose
 This form is used to confirm the details of a book purchase, including customer information, order details, and payment status. It is essential to ensure that all information is accurate to prevent errors in the order processing.

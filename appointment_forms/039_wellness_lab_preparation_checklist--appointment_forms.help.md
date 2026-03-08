@@ -1,20 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the form structure and field labels. The form is titled "Wellness Lab Preparation Checklist" and has various fields related to patient information, lab details, appointment information, and other medical-related topics. This suggests that the form is designed to collect data for medical professionals to prepare for a patient's wellness lab, likely for medical testing or examination.
-
-Upon further analysis, it appears that this form is likely used for a specific use case within a medical setting, such as preparing for a patient's lab work or test results. It's possible that this form is used by medical staff to review and prepare for a patient's lab visit.
-
-To confirm, I will check for any relevant information that can be found in the form's fields. The fields include:
-* Patient information (ID, contact info)
-* Lab details (lab tests, results)
-* Appointment information (physician info)
-* Additional info (additional comments)
-
-Based on this analysis, it is likely that the form is used for medical staff to prepare for a patient's lab visit.
-
-To create a helpful guide for end-users, I will now provide an explanation for each field in the form.
-
-</thinking>
-
 # Wellness Lab Preparation Checklist - Help Guide
 ## Purpose
 The Wellness Lab Preparation Checklist is a form used by medical staff to prepare for a patient's lab visit. It collects relevant information to review and ensure that all necessary steps are taken before the lab test.

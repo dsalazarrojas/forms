@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teachers Assessment Form - Help Guide
 
 ## Purpose

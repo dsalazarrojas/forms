@@ -1,10 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a form used to schedule job interviews. The form is intended to capture relevant information about a candidate and the job they are applying for. We want to ensure that end-users understand the purpose of the form, how to complete it, and what each field means. This will help them fill out the form accurately and effectively.
-
-This guide will be based on the provided YAML fields, which define the form's structure and requirements. We will aim to create a concise and practical guide that explains each field's purpose and any other relevant details.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to schedule job interviews for candidates applying for various job positions. It captures essential information about the candidate and the job they are applying for, which will be used to facilitate the interview process.

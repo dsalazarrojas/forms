@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose and context of the Wildlife Release Program Application Form. This form is designed for individuals or organizations seeking to release animals that are currently under care or custody into the wild. The form helps the applicant provide necessary information about the animal, the reason for the release, and contact details. It's essential to ensure that the application is filled out accurately and thoroughly to ensure a smooth and safe release process for both the animal and the release team. Before starting the application, please ensure that the animal is not a threat to the public or wildlife, and that the release location is suitable for the species. Also, note that if you've already submitted an application for this release, please do not resubmit. This form is for new and original applications only. Now, let's get into the help guide for the form!</thinking>
-
 # Wildlife Release Program Application Form - Help Guide
 
 ## Purpose

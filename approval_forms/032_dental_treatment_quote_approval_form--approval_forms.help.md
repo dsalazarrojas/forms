@@ -1,12 +1,3 @@
-<thinking>
-This guide will help the end user understand how to complete the Dental Treatment Quote Approval Form. The form's purpose is to request approval for a dental treatment plan from an authorized individual. The form should be completed by a submitter, and once filled out, it will be reviewed and approved by the relevant authority. This guide will explain each field's purpose and help the user navigate the form's sections effectively.
-
-Before starting, please ensure you're filling out the form for the correct purpose and that you have the necessary permissions to do so. If you're unsure, please contact your supervisor or department head for clarification.
-
-Also, please be aware that this guide will cover the following fields: Patient Information, Treatment Plan, Quote Information, Approval, Comments, Submitter Information, Submitter Signature, Submitter Date, Comments 2, and Submitter Notes. Each field is crucial for the form's completion and understanding its contents will ensure accurate submission.
-
-</thinking>
-
 # Dental Treatment Quote Approval Form - Help Guide
 ## Purpose
 The Dental Treatment Quote Approval Form is used to request approval for a dental treatment plan. It gathers information from the patient, the treatment plan, quote details, and the submitter's information for the approval process.

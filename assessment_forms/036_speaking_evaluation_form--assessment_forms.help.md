@@ -1,11 +1,3 @@
-<thinking>
-The Speaking Evaluation Form is designed to assess a speaker's performance in a speaking evaluation exercise. This form is meant for trainers, assessors, or instructors to evaluate the speaking skills of candidates. The form will help assessors evaluate the candidate's communication skills, content knowledge, pronunciation, pronunciation, body language, eye contact, and overall rating.
-
-Before filling out this form, please ensure you have a clear understanding of the candidate's performance during the speaking evaluation exercise. It's essential to be objective and unbiased in your assessment.
-
-To complete this form, follow the steps below:
-</thinking>
-
 # Speaking Evaluation Form - Help Guide
 ## Purpose
 The Speaking Evaluation Form is a tool used to assess a speaker's performance in a speaking evaluation exercise. This form is designed to provide a comprehensive evaluation of the candidate's communication skills, content knowledge, and overall rating.

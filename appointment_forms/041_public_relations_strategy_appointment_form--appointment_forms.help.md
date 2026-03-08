@@ -1,5 +1,3 @@
-<thinking>...The Public Relations Strategy Appointment Form is used to collect information about upcoming public relations appointments. This form should only be used for appointments that are not already scheduled in the company's existing calendar system. To avoid duplication, please ensure that you have checked the calendar before submitting this form. This form is intended to be used for new appointments only and not for updates or changes to existing appointments. Before proceeding, please ensure that you have the necessary information and approval to complete this form. Please be thorough and accurate in your responses, as this information will be used to plan and coordinate the appointment... </thinking>
-
 # Public Relations Strategy Appointment Form - Help Guide
 ## Purpose
 The Public Relations Strategy Appointment Form is used to collect information about upcoming public relations appointments. It is intended for new appointments only and should not be used to update or change existing appointments.

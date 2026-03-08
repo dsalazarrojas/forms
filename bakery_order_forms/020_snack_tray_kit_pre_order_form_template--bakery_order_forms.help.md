@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a Snack Tray Kit Pre Order, which is a type of product offered by a bakery. It's intended for customers to provide their contact information, category of order, and other relevant details. It's crucial to ensure this form is filled out accurately to facilitate a smooth and efficient order processing experience.
-
-This form should not be used for other purposes, such as general feedback or account management. Ensure that you're using the correct form for your intended purpose to avoid duplication of effort and potential errors in processing your order.
-</thinking>
-
 # Snack Tray Kit Pre Order Form Template - Help Guide
 ## Purpose
 The Snack Tray Kit Pre Order Form Template is used to collect information for a Snack Tray Kit Pre Order. This form is intended for customers to provide their contact information and order details to ensure a smooth and efficient order processing experience.

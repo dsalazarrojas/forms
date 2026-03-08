@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help clients book an appointment with the entertainment law advisory team. The purpose of this form is to gather essential information about the client's details, preferences, and availability. This form will be used by the law advisory team to confirm the client's appointment schedule.
-</thinking>
-
 # Entertainment Law Advisory Booking Form - Help Guide
 ## Purpose
 The Entertainment Law Advisory Booking Form is a tool for clients to book an appointment with the entertainment law advisory team. It provides a structured way to gather essential information about the client's needs and preferences.

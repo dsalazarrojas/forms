@@ -1,9 +1,3 @@
-<thinking>...To avoid duplication and ensure accuracy, please review the purpose of this form: Bus Crew Training Attendance Survey.
-
-This form, "Bus Crew Training Attendance Survey," is designed to collect data from crew members about their participation and feedback on the training session they attended. The survey aims to gather information on the session's details, the crew member's attendance status, and their feedback on the session's quality and content. The data collected will help the training team to evaluate the effectiveness of the training and make necessary improvements.
-
-</thinking>
-
 # Bus Crew Training Attendance Survey - Help Guide
 ## Purpose
 This form is designed to collect data from crew members about their participation and feedback on the training session they attended.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the condition of a site in terms of weathering and erosion. It is intended to be filled out by a user after visiting the site and making observations. The purpose of this form is to collect data on the site's weathering and erosion status, allowing for more effective planning and management of maintenance tasks.
-Before filling out this form, please ensure you are authorized to access the site and that you have visited the site recently. If you have already filled out this form, please ensure that the changes are significant and not duplicates.
-</thinking>
-
 # Weathering And Erosion Assessment - Help Guide
 ## Purpose
 This form is used to collect data on the site's weathering and erosion status after a visit.

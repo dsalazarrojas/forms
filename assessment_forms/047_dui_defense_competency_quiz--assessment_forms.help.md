@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "DUI Defense Competency Quiz", is intended to be a self-assessment tool for DUI defense attorneys to evaluate their skills and knowledge in a simulated DUI defense scenario. The quiz should be taken to gauge one's understanding of key concepts, strategies, and procedures in DUI defense cases. This quiz is not meant to be taken under timed conditions, but rather as a personal development tool. It's recommended that attorneys take this quiz after gaining experience in DUI defense cases, and ideally after reviewing relevant materials and resources.
-
-Before starting the quiz, make sure to have some experience in handling DUI cases, and that you have an understanding of the fundamental concepts of DUI law and defense strategies. The quiz questions are designed to test your critical thinking and problem-solving skills, so take your time and provide thoughtful responses.
-
-</thinking>
-
 # DUI Defense Competency Quiz - Help Guide
 ## Purpose
 This form is a self-assessment tool for DUI defense attorneys to evaluate their skills and knowledge in a simulated DUI defense scenario.

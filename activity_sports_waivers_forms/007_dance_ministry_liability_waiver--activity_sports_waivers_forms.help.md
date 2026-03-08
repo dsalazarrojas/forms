@@ -1,13 +1,3 @@
-<thinking>
-Is this form intended for dance ministry programs or activities? The purpose of this form seems to be to gather information and obtain consent from participants, parents, and emergency contacts for a dance ministry program. The form may be used to ensure that all parties are aware of and agree to the dance ministry's liability terms and conditions. 
-
-This form appears to be a comprehensive waiver form that covers various aspects of participant and emergency contact information, medical conditions, and allergies. 
-
-Before proceeding, let's confirm that this form is not a medical history form, but rather a liability waiver form. 
-
-If this form is correct, let's proceed with creating the help guide.
-</thinking>
-
 # Dance Ministry Liability Waiver - Help Guide
 ## Purpose
 This form is designed to gather information and obtain consent from participants, parents, and emergency contacts for a dance ministry program. The form aims to ensure that all parties are aware of and agree to the dance ministry's liability terms and conditions.

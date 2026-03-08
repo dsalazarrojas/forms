@@ -1,9 +1,3 @@
-<thinking>
-...checking for relevant and non-duplication of the help guide content... considering the provided YAML fields... 
-
-The form "Agricultural Mortgage Risk Assessment" is designed to gather information about an applicant's agricultural operation to assess the risk associated with a loan. This guide will walk you through the fields required to complete the form.
-</thinking>
-
 # Agricultural Mortgage Risk Assessment - Help Guide
 ## Purpose
 This form is used to evaluate the risk involved in lending to an agricultural operation. It collects essential details about the operation, including the applicant's name, farm address, loan amount, revenue, and risk levels to help determine the feasibility and terms of the loan.

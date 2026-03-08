@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a teacher's current technology integration practices, comfort level with technology, and professional development needs. The form is intended for teachers to provide self-assessment on their technology integration practices and identify areas where they may need support or training to improve.
-</thinking>
-
 # Classroom Technology Integration Assessment Form - Help Guide
 ## Purpose
 

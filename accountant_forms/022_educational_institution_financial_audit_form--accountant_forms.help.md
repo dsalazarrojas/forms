@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Educational Institution Financial Audit Form" that explains its purpose, how to complete it, and what each field means. I will use the provided YAML to inform my writing and aim for clarity, concision, and practicality. I will also ensure that the explanation is concrete and based on the actual fields in the form, without inventing unsupported business logic.</thinking>
-
 # Educational Institution Financial Audit Form - Help Guide
 ## Purpose
 The "Educational Institution Financial Audit Form" is a tool used to document and report on the financial status of educational institutions. This form helps auditors and institutions to accurately and thoroughly record their financial transactions, identify areas of improvement, and maintain transparency in their financial dealings.

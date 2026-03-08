@@ -1,9 +1,3 @@
-<thinking>
-This form was created for administrative purposes, likely for human resources or HR departments, to verify information related to a directory listing for a specific individual or organization. The form may be used to update or modify existing directory information, such as contact details or job titles. 
-This form does not seem to collect sensitive or personal identifiable information, and its purpose seems to be internal use only within a company or institution. 
-Please ensure you only fill out this form if you are authorized to do so.
-</thinking>
-
 # Directory Information Verification - Help Guide
 ## Purpose
 This form is used to verify and update directory information for individuals or organizations. It is intended for internal use within a company or institution.

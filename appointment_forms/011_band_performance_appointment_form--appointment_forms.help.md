@@ -1,7 +1,3 @@
-<thinking>
-We are assuming this form is used to book and organize band performances for events and clients. The form will gather information to help us tailor the performance to the client's needs.
-</thinking>
-
 # Band Performance Appointment Form - Help Guide
 
 ## Purpose

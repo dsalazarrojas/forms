@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their assessment of stratification theories. This form is used to gather data on a user's personal information, such as their first name, last name, email, phone number, and social media presence. Additionally, it asks for their rating of stratification theories, which will help us better understand their opinions and perspectives on the subject. This form is crucial in providing valuable insights that can be used to improve our services and cater to our users' needs.
-</thinking>
-
 # Stratification Theories Assessment - Help Guide
 ## Purpose
 The Stratification Theories Assessment form is designed to collect information from users about their assessment of stratification theories. The data collected will help us improve our services and understand user perspectives.

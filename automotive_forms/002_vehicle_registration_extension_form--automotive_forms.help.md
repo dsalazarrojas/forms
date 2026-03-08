@@ -1,12 +1,4 @@
-> <thinking>
-This form is designed to collect vehicle registration information from users. The purpose of this form is to gather essential details about a vehicle's owner and its status. The form is intended for vehicle registration extension purposes, where users can provide their vehicle's registration number, type, and other relevant details. The form's structure is organized into a single page with multiple sections. 
-
-The form is likely to be used by vehicle owners or registrars to update their vehicle's registration status or for other registration-related activities. It's a basic form with no complex logic or conditional requirements. 
-
-Please note that this form is an original creation, not affiliated with, or derived from any form platform, and released under the Creative Commons Attribution 4.0 (CC BY 4.0) license. You are free to use, modify, and even sell forms derived from it, just give credit.
-</thinking>
-
-# Vehicle Registration Extension Form - Help Guide
+> # Vehicle Registration Extension Form - Help Guide
 ## Purpose
 This form is designed to collect vehicle registration information from users. It gathers essential details about a vehicle's owner and its status.
 

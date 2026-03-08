@@ -1,8 +1,3 @@
-<thinking>
-To avoid non-duplication, this form is designed to be filled out by one person at a time. This means that only one employee can submit a request for a workstation at a time. If an employee is submitting multiple requests, please fill out multiple forms.
-The purpose of this form is to request a new workstation for a specific game title. Please fill out this form to provide all the necessary details for your request.
-</thinking>
-
 # Video Game Workstation Requisition Form - Help Guide
 ## Purpose
 This form is used to request a new workstation for a specific game title. The workstation will be assigned to an employee who will be using it for their work.

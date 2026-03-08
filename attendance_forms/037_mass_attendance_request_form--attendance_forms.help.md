@@ -1,7 +1,3 @@
-<thinking>
-This form is used for mass attendance requests to be filled out by individuals or families for a mass or event. The form is intended for people who want to attend a mass and need to provide their details and preferences for the event. The form will help in organizing and planning for the mass by collecting necessary information from attendees. This will ensure that everyone's needs are met and the event goes smoothly. Before filling out the form, please make sure you have not already submitted a request for the same mass, and that you are only filling out this form for your own or your family's attendance.
-</thinking>
-
 # Mass Attendance Request Form - Help Guide
 ## Purpose
 The Mass Attendance Request Form is designed to collect information from individuals or families who want to attend a mass or event. This form will help the organizers in planning and organizing the event to ensure everyone's needs are met.

@@ -1,13 +1,3 @@
-<thinking>
-
-To be frank, the form is quite extensive. I've been through the form YAML and extracted the key fields to help you understand its purpose and usage. This assessment form appears to be designed for corporate governance practices in an organization. It seems to be used by board members or stakeholders to evaluate and assess the effectiveness of the organization's corporate governance practices.
-
-The form appears to cover various aspects of corporate governance, including board composition, meeting minutes, reporting frequency, and decision-making processes. It also asks about the level of transparency, accountability, and communication within the organization. I'm not certain what the ultimate goal of this form is, but it might be used to identify areas of improvement for the organization's corporate governance practices.
-
-After carefully going through the form, I'm assuming it's for self-assessment purposes. However, I might be incorrect. 
-
-</thinking>
-
 # corporate_governance_assessment_form - Help Guide
 ## Purpose
 The corporate governance assessment form is designed to evaluate and assess the effectiveness of an organization's corporate governance practices.

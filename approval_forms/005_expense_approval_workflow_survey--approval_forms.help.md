@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expense Approval Workflow Survey - Help Guide
 
 ## Purpose

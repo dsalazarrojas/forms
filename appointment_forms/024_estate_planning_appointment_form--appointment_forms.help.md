@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this Estate Planning Appointment Form is to help professionals in the field of estate planning schedule consultations with clients and gather essential information to tailor their advice and services. This form is designed to be simple and user-friendly, making it easy for clients to provide the necessary details for a successful meeting. 
 
 To complete this form, follow the steps below:

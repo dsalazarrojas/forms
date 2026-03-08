@@ -1,11 +1,3 @@
-<thinking>
-This form is used to capture information about award winners, including their name, category, email, and other contact details. The form should be completed by the award winners themselves or their representatives. The purpose of this form is to ensure that the awards are properly acknowledged and recognized. 
-
-Before filling out the form, make sure to check if you have already filled it out in the past year. If you have, it's likely that you don't need to fill it out again. 
-
-This guide is intended to walk you through each step of the process, so you can complete the form accurately and efficiently. If you have any questions or concerns, please don't hesitate to reach out to the relevant authorities.
-</thinking>
-
 # Sac Guestlist Form 2020 - Help Guide
 ## Purpose
 The Sac Guestlist Form 2020 is used to provide essential contact information and award details for the award winners. It is a crucial document that helps ensure accurate record-keeping and recognition of the award winners.

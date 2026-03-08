@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warehouse Assessment Form - Help Guide
 
 ## Purpose

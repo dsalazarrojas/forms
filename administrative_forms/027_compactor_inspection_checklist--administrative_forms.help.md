@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive inspection checklist for a compactor. The purpose of this form is to ensure that all critical components of the compactor are functioning properly, and that any issues or defects are identified and documented for future reference. The form is divided into several sections, including exterior, hydraulic, electrical, operational, safety, and overall status. The checklist will help inspectors to systematically inspect and evaluate the condition of the compactor, identify any potential hazards or defects, and provide recommendations for corrective actions. This form is designed for use by certified inspectors, and its use is mandatory for regular inspections of compactors in the facility.
-
-The form is intended to be completed by a trained and certified inspector, and is not designed for use by the general public. The information collected in this form will be used to determine the overall status of the compactor, and to identify any necessary maintenance or repairs.
-
-The form is designed to be comprehensive, yet easy to use, and the language used in the form is clear and concise. The use of checklists and dropdown menus helps to ensure consistency and accuracy in the inspection process.
-
-Before completing this form, please ensure that you have a good understanding of the compactor's systems and components, and that you have access to all relevant documentation and resources.
-
-Please note that this form is not a replacement for regular maintenance and repairs, but rather a tool to help you identify and document any issues that need attention.
-
-Please complete this form systematically, checking each section and answering the questions as thoroughly as possible.
-
-Please be as specific as possible when documenting any issues or defects found.
-
-Please ensure that you sign and date the form at the end, and that a supervisor reviews and stamps the form if required.
-
-Please also note that any issues or defects found will require corrective actions to ensure the compactor is safe to operate.
-
-Please complete the form in a way that is clear, consistent, and accurate.
-
-</thinking>
-
 # Compactor Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to be a comprehensive inspection checklist for a compactor. The purpose of this form is to ensure that all critical components of the compactor are functioning properly, and that any issues or defects are identified and documented for future reference.

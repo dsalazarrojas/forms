@@ -1,14 +1,3 @@
-<thinking>
-
-This form is used for users to book group sessions with participants. It is likely used in a setting where a facilitator or trainer is leading a group discussion or workshop. The form gathers participant information, session details, and payment terms for the session. This information is likely used to organize and prepare for the group session.
-
-To ensure that the form is filled out correctly, it is a good idea to check that:
-- The participant information is correctly filled out for each participant
-- The session details are correct (e.g., date, time, session type)
-- The payment terms are correctly selected (e.g., payment method, terms and conditions)
-
-</thinking>
-
 # Group Session Appointment Form - Help Guide
 ## Purpose
 

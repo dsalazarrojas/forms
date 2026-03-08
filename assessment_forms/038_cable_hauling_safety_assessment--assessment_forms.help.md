@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the safety of cable hauling operations on a job site, ensuring that all necessary precautions and controls are in place to prevent accidents and ensure a safe working environment for personnel. The form helps in identifying potential hazards, ensuring the effectiveness of site-specific safety measures, and verifying that all required personnel protective equipment (PPE) is being used properly.
-
-This form may need to be filled out multiple times during a job, especially after any changes to the site or project, and should be kept in the project file as an audit trail.
-
-The form's primary purpose is not only to ensure the site's safety but also to provide a clear record of the site's safety status, which can be reviewed and updated as needed to reflect any changes or developments. This form should be filled out by a competent person, likely the job supervisor or crew leader, who has authority and responsibility for ensuring site safety.
-
-</thinking>
-
 # Cable Hauling Safety Assessment - Help Guide
 ## Purpose
 This guide is to assist in the completion of the Cable Hauling Safety Assessment Form. The form is designed to assess the safety of cable hauling operations on a job site, ensuring that all necessary precautions and controls are in place to prevent accidents and ensure a safe working environment for personnel.

@@ -1,36 +1,3 @@
-<thinking>
-**Form Validation:**
-The Community Center Safety Inspection Form is a comprehensive tool used by facilities administrators to evaluate and report on the safety status of community centers. This form will help ensure that all areas of the facility are properly inspected, and any potential hazards are identified and addressed. Before starting the form, please ensure you have a thorough understanding of the facility's safety protocols and procedures.
-
-**Form Purpose:**
-The primary goal of this form is to assess the safety of the community center's facilities. The form will guide you through a series of questions that cover various aspects of safety, including fire extinguishers, emergency exits, electrical and plumbing systems, structural integrity, and overall compliance with accessibility standards.
-
-**Form Completion:**
-1. Begin by entering the **Inspection Date**, which is the date you performed the safety inspection. This date will help track the progress and identify any changes over time.
-2. Enter your **Inspector Name** and **Inspector Title**, which will help identify who conducted the inspection and their level of authority.
-3. Select the **Facility Area Inspected**, which will guide you through the relevant questions for that specific area.
-4. Answer the **Fire Extinguisher Status** question, which will help determine if fire extinguishers are present and inspected.
-5. Enter any **Fire Extinguisher Notes**, which will help document any issues or concerns.
-6. Evaluate the **Emergency Exits Status**, which will help determine if emergency exits are clear and accessible.
-7. Enter any **Emergency Exits Notes**, which will help document any issues or concerns.
-8. Assess the **First Aid Kit Status**, which will help determine if first aid kits are stocked and accessible.
-9. Enter any **First Aid Kit Notes**, which will help document any issues or concerns.
-10. Evaluate the **Electrical Safety Status**, which will help determine if electrical systems are in good condition.
-11. Enter any **Electrical Safety Notes**, which will help document any issues or concerns.
-12. Assess the **Plumbing Status**, which will help determine if plumbing fixtures are functioning properly.
-13. Enter any **Plumbing Notes**, which will help document any issues or concerns.
-14. Evaluate the **Structural Integrity Status**, which will help determine if floors, walls, and ceilings are in good condition.
-15. Enter any **Structural Notes**, which will help document any issues or concerns.
-16. Determine the **Accessibility Compliance**, which will help evaluate if the facility is ADA compliant.
-17. Enter any **Accessibility Notes**, which will help document any accessibility features or issues.
-18. Provide an **Overall Safety Assessment**, which will help evaluate the overall safety status of the facility.
-19. List any **Corrective Actions Required**, which will help identify necessary corrective actions.
-20. Evaluate the **Priority Level**, which will help determine the urgency of required actions.
-21. Enter the **Follow-up Inspection Date**, which will help schedule a follow-up inspection.
-22. Finally, enter your **Inspector Signature**, which will serve as confirmation of your inspection and completion of the form.
-
-</thinking>
-
 # Community Center Safety Inspection Form - Help Guide
 ## Purpose
 The Community Center Safety Inspection Form is a comprehensive tool used by facilities administrators to evaluate and report on the safety status of community centers.

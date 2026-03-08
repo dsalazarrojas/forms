@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a trade request, which is a request for goods or services from a vendor. This form will likely be used by internal teams to facilitate communication and record-keeping within the organization. Please ensure that the trade request form is only used for legitimate purposes and not for external solicitations or other non-business use cases.
-</thinking>
-
 # Trade Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about a trade request, which is a request for goods or services from a vendor. This form is intended to facilitate internal communication and record-keeping within the organization.

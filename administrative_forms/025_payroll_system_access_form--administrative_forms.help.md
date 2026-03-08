@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Payroll System Access Form", we need to consider the purpose and requirements of the form.
-
-The form is intended to provide payroll system access to authorized users, ensuring they have access to specific modules within the system. It is essential to understand that this form serves as an administrative tool for controlling access levels within the payroll system.
-
-Before proceeding, we should check that there are no duplicate or unnecessary submissions and that the form is correctly filled out.
-
-To avoid duplication, we will only allow one submission per user.
-
-</thinking>
-
 # Payroll System Access Form - Help Guide
 ## Purpose
 The Payroll System Access Form is an administrative tool used to manage and control access levels within the payroll system. It's essential to fill out this form accurately to ensure users have the correct level of access to specific modules of the system.

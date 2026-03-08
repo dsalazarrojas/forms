@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Canine Anxiety Assessment Survey - Help Guide
 ## Purpose
 The Canine Anxiety Assessment Survey is a tool designed to help pet owners identify and document their dog's anxiety patterns and behaviors. This form will help you gather essential information about your dog's anxiety triggers, symptoms, and management strategies.

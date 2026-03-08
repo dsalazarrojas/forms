@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by employees to request adjustments to their recruitment budget. The purpose of this form is to provide a straightforward and structured way to submit requests for changes in budget allocation. To ensure that your request is processed correctly, please review the following instructions and explanation of each field.
-</thinking>
-
 # Recruitment Budget Adjustment Request Form - Help Guide
 ## Purpose
 The "Recruitment Budget Adjustment Request Form" is a digital form designed to collect information about requests for adjustments to the recruitment budget. This form is meant to be filled out by employees who need to request changes to their budget allocation.

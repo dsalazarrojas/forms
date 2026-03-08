@@ -1,7 +1,3 @@
-<thinking>
-This form is for team collaboration requests within the organization. It is meant to be used by team members to request assistance or resources from other team members, or to collaborate on a specific project. To avoid duplication, please ensure that the request is not already being worked on by another team member or team. If you're not sure, you can check the project management tool to see if the project is already assigned to someone else.
-</thinking>
-
 # Team Collaboration Request Form - Help Guide
 ## Purpose
 The Team Collaboration Request Form is used for team members to request assistance, resources, or collaborate on a specific project with others.

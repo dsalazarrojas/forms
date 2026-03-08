@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agricultural Crop Assessment Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We must ensure that users understand the purpose and usage of this form to request an appointment at an allergy clinic. Before we proceed with the guide, let's quickly check that this form is meant for patients to book an appointment for allergy testing, treatment, or consultation, and that it does not require any duplicate fields that can be inferred from other fields. This guide is designed to explain the form's purpose, its sections, and each field to help users complete it successfully.
-</thinking>
-
 # Allergy Appointment Request Form - Help Guide
 ## Purpose
 This form is for patients to request an appointment at the allergy clinic for testing, treatment, or consultation. Please fill out the form with your personal and medical details to schedule an appointment that suits your needs.

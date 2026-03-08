@@ -1,13 +1,3 @@
-<thinking>
-This form is for storing compliance assessments for a store. It's likely used by internal teams or management to track and record compliance data for various areas and audits. The form might be used to determine if a store is in compliance with certain regulations or standards. To prevent duplication of efforts, ensure that only one assessment per store is stored in the system.
-
-The form is designed to be completed by one person (the contact), and it should be done for one store at a time. Please ensure that you are completing this form for the correct store and contact.
-
-The form will ask for information about the store's compliance status, scheduled audits, and contact details. Please answer the questions accurately, and do not leave any fields blank without a reason.
-
-Please do not submit duplicate or incomplete assessments. If you have any questions or concerns, contact your supervisor or support team.
-</thinking>
-
 # store_compliance_assessment_registration - Help Guide
 ## Purpose
 The store_compliance_assessment_registration form is used to store compliance assessments for a store. This form helps track and record compliance data for various areas and audits.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Education Assessment Method Audit Form - Help Guide
 ## Purpose
 The Education Assessment Method Audit Form is a tool used to assess and audit the methods used in education settings. It helps to evaluate the effectiveness of various assessment methods used in educational institutions. This form is used to gather information on the assessment practices, frequency, and methods used in education, and to collect feedback from assessors and reviewers. The form also allows users to rate the overall performance of the education setting.

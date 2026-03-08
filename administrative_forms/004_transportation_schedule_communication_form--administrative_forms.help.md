@@ -1,8 +1,3 @@
-<thinking>
-This form is used for administrative purposes to schedule and communicate transportation details. To ensure the form is used correctly, please note that it is not intended to be used for non-administrative purposes. Duplicate submissions will not be accepted. Please use the form only for its intended purpose and do not resubmit if the form has already been filled out. The form will help you schedule and communicate transportation details with your team or organization. 
-
-</thinking>
-
 # transportation_schedule_communication_form - Help Guide
 ## Purpose
 The transportation schedule communication form is used to schedule and communicate transportation details with your team or organization. 

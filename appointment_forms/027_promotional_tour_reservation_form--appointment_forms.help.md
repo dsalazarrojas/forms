@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for promotional tour reservations. It is a crucial document that helps tour organizers and staff manage and track tour reservations efficiently. Before proceeding, ensure that you have reviewed and understood the form's purpose and requirements to avoid submitting incomplete or incorrect data. Please note that this form has a specific structure and fields that are designed to capture essential details about the tour and the customer. To avoid duplication of effort, review the form thoroughly and fill it out accurately.
-</thinking>
-
 # Promotional Tour Reservation Form - Help Guide
 ## Purpose
 The Promotional Tour Reservation Form is designed to collect essential information about tour reservations for promotional purposes.

@@ -1,11 +1,3 @@
-<thinking>
-The "Document Archiving Checklist" form is used to collect information about documents that are being archived for storage, retrieval, and maintenance purposes. The form should only be filled out for documents that are being archived, and it's recommended to use it in conjunction with the "Document Archive Form" to ensure that all relevant details are captured.
-
-This form should not be used for other purposes, such as creating new documents or for general information gathering.
-
-Please ensure that you understand the purpose and scope of this form before proceeding.
-</thinking>
-
 # Document Archiving Checklist - Help Guide
 ## Purpose
 The Document Archiving Checklist is a form used to collect information about documents that are being archived for storage, retrieval, and maintenance purposes.

@@ -1,11 +1,3 @@
-<thinking>
-This guide is for the "speed_training_progress_tracker" form, which is used to track the progress of athletes in their speed training sessions. The form is used to record and store information about each session, including the speed, distance, pace, and any comments or notes made during the session. This form is intended to be completed by coaches, trainers, or athletes themselves, and is part of a larger system for tracking and managing athlete progress.
-
-Before creating this guide, check to ensure that you are not duplicating work. If you are creating a guide for a form that is identical to another form, please refer to that guide instead.
-
-To create this guide, I will examine each field in the form and provide a concrete and concise explanation of what each field means and how to complete it.
-</thinking>
-
 # speed_training_progress_tracker - Help Guide
 ## Purpose
 The "speed_training_progress_tracker" form is used to track and record information about each speed training session, including speed, distance, pace, comments, and session notes.

@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to assess the ecosystem and vegetation in a specific location. It is likely used by researchers or scientists to collect data on the species observed, their abundance, coverage, and other relevant details. This form may be used in conjunction with other forms to collect comprehensive information on the ecosystem.
-This form is likely to be used in a variety of settings, such as wildlife reserves, national parks, or research stations.
-It is possible that the form is used for both scientific research and educational purposes, so it's worth considering who the intended users are.
-It is also worth noting that some fields may be optional, indicating that they may not be relevant to every use case.
-</thinking>
-
 # Ecosystem And Vegetation Assessment - Help Guide
 ## Purpose
 The Ecosystem And Vegetation Assessment form is used to collect data on the species observed, their abundance, and other relevant details in a specific location.

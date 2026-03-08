@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be used by employees to request legal advocacy leave, which is a type of leave that is typically used for situations where an employee needs to take time off to deal with legal matters, such as court dates, lawyer appointments, or other legal proceedings. The form is meant to be completed by the employee in question, and it will be reviewed and approved/disapproved by their manager. The purpose of this help guide is to walk the user through how to fill out the form correctly and what each field is used for.
-
-</thinking>
-
 # Legal Advocacy Leave Form - Help Guide
 ## Purpose
 The Legal Advocacy Leave Form is a document used to request time off for legal matters. Employees can use this form to notify their manager of their need to take time off for legal proceedings, such as court dates or lawyer appointments.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to manage warehouse check out activities, such as issuing and returning items from the warehouse. The form should only be used for this specific purpose and not for other administrative tasks. It is recommended to use this form in conjunction with other relevant forms and systems to ensure accurate and efficient data management.
-</thinking>
-
 # Warehouse Check Out Form - Help Guide
 ## Purpose
 The Warehouse Check Out Form is used to document and track activities related to issuing and returning items from the warehouse. It collects information about the user, item, quantity, date issued and returned, and other relevant details for administrative and record-keeping purposes.

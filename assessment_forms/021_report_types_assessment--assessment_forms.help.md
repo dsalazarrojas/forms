@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "Report Types Assessment", is intended to help users evaluate and categorize reports submitted to the system. The form will guide users to select a report type and provide relevant information such as report name, type, date, and contact details. This form is a crucial step in the assessment process, as it helps to ensure that reports are properly categorized and assigned to the right team members.
 
 ## Report Types Assessment - Help Guide

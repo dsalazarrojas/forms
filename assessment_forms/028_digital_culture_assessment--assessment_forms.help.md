@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to assess an individual's understanding and perception of digital culture within an organization. It is designed to gather information about employees' attitudes and behaviors regarding technology adoption, communication, leadership, and other aspects of digital culture. The form should not be completed by non-employees or if you are not familiar with the organization's digital culture.
-
-The form is divided into multiple sections, each addressing a specific aspect of digital culture. Please review each section carefully and answer honestly to provide a comprehensive understanding of your digital culture.
-
-</thinking>
-
 # Digital Culture Assessment - Help Guide
 ## Purpose
 

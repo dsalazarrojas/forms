@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports Game Referee Attendance Form - Help Guide
 ## Purpose
 This form is designed to help sports game referees report their attendance and details for specific games. It will help the management team track and verify the presence of referees at various games. 

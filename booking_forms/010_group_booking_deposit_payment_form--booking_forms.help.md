@@ -1,9 +1,3 @@
-<thinking>
-The form "group_booking_deposit_payment_form" is a payment form used for group booking deposits. 
-It is intended for users to input their payment details to secure a booking. 
-This form does not appear to be a duplicate form, as its title and fields do not match any other form in the provided schema.
-</thinking>
-
 # group_booking_deposit_payment_form - Help Guide
 ## Purpose
 The group_booking_deposit_payment_form is a payment form used for group booking deposits. 

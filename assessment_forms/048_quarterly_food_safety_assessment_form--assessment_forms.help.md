@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to conduct a quarterly food safety assessment. This form is meant to be used by food service teams to document and track their assessment results, corrective actions, follow-up actions, and submission status. To ensure data accuracy, please fill out this form only once in each quarter. 
-
-</thinking>
-
 # Quarterly Food Safety Assessment Form - Help Guide
 ## Purpose
 The Quarterly Food Safety Assessment Form is designed to help food service teams conduct a thorough assessment of their safety protocols on a quarterly basis. This form guides them in documenting their review results, corrective actions, follow-up actions, and submission status.

@@ -1,6 +1,3 @@
-<thinking>
-This guide will provide an overview of the herbal archetype assessment form, a tool used to gauge your overall health and wellness state. The form is designed to help assess your current health status, energy levels, sleep quality, diet, stress levels, exercise frequency, mindfulness practices, and self-care routine. Before proceeding, please ensure you have not recently taken the same assessment, as the results may not accurately reflect your current state. This form should only be used for personal, non-commercial purposes.
-</thinking>
 # herbal_archetype_assessment - Help Guide
 ## Purpose
 The herbal archetype assessment form is a tool used to evaluate your overall health and wellness state.

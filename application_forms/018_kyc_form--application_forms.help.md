@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? This form is designed to collect essential information from customers during the Know Your Customer (KYC) process. It's meant to be completed by customers to provide accurate and complete details about themselves, which will be used to verify their identity and assess their eligibility for our services. Is this the correct form for your use case? Please ensure this form is not a duplicate or outdated. If you're unsure, please refer to your internal documentation or contact your internal team for assistance.</thinking>
-
 # kyc_form - Help Guide
 ## Purpose
 The KYC form is used to collect customer details for identity verification and eligibility assessment.

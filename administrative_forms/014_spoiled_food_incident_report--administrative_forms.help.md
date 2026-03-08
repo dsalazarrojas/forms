@@ -1,20 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-The purpose of this form is to report incidents of spoiled food in the facility. It's crucial to report such incidents to ensure the food safety and quality of the food served to customers. This form helps the management to track, investigate, and prevent future occurrences of spoiled food. Before starting, make sure the incident is not already reported to avoid duplication.
-
-This form guides the staff through a series of steps to provide detailed information about the spoiled food incident, including:
-
-1.  When the incident occurred,
-2.  Type of food involved,
-3.  Where the food was stored,
-4.  How much food was affected,
-5.  When the spoilage was noticed,
-6.  Additional notes on the investigation.
-
-Please review the form carefully and fill it out accordingly.
-
-</thinking>
-
 # Spoiled Food Incident Report - Help Guide
 ## Purpose
 The purpose of this form is to report incidents of spoiled food in the facility to ensure the food safety and quality of the food served to customers.

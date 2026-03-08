@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the internal reasoning behind the form purpose and fields:
 
 The **Tool Box Talk Form** is used for employees to report their availability and comments on a specific tool box talk meeting. The form has four fields:

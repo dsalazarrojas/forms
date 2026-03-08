@@ -1,5 +1,3 @@
-<thinking>As a museum staff, it's crucial that the reservation form serves as a means to gather information from visitors before their visit. This form will help us understand who's coming, when they're coming, and how many people will be visiting. We also need to ensure that we collect accurate data on visitor types, name, phone number, email address, and any additional notes they might have. This form will be reviewed internally by museum staff before each visit, so it's essential that the information is clear and concise.</thinking>
-
 # Museum Visit Reservation Form - Help Guide
 ## Purpose
 This form is designed to help you plan and prepare for your museum visit. Fill it out before your visit, and our staff will review it to ensure we're ready to welcome you.

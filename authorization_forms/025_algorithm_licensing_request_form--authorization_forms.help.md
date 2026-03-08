@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a license for an algorithm. To fill out this form, please ensure that you are not making duplicate requests for the same algorithm. This form should only be used for new requests. If you have already submitted a request for the same algorithm, please refer to the "previous_license_history" field to identify yourself and your request.
-</thinking>
-
 # Algorithm Licensing Request Form - Help Guide
 ## Purpose
 

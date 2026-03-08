@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about industrial incidents that occur within an organization, such as accidents, injuries, or near-miss events. It is used to gather data for the purpose of investigating and improving industrial safety and incident management practices. This form should not be used for any other purpose. Please ensure that the information entered in this form is accurate and complete to facilitate thorough incident investigation and analysis. Please review the form fields carefully and ensure that you are filling out the correct fields for the type of incident you are reporting. If you are unsure, please consult with your supervisor or incident management team.
-</thinking>
-
 # Industrial Incident Form - Help Guide
 ## Purpose
 The Industrial Incident Form is a tool for reporting and documenting industrial incidents, such as accidents, injuries, or near-miss events, to help improve safety and incident management practices within the organization.

@@ -1,5 +1,3 @@
-<thinking>...The Change Management Assessment Form is designed to evaluate an organization's readiness for change. This form assesses various factors, including the organization's level of readiness for change, leadership commitment, employee buy-in, resource availability, and overall readiness score. It also includes specific assessment of change initiative, type of change, timeline, and key risks. To complete this form, follow the instructions below... </thinking>
-
 # Change Management Assessment Form - Help Guide
 ## Purpose
 The Change Management Assessment Form is a tool used to evaluate an organization's readiness for change. This form helps identify areas of strength and weakness in an organization's ability to absorb and implement change.

@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to provide a clear understanding of the "office_ergonomics_assessment_form" and its purpose. The form appears to be designed to assess and evaluate the ergonomic aspects of an office environment, focusing on employee comfort, workload, and potential solutions. To ensure this guide is relevant and accurate, I will review the form's fields and provide a step-by-step explanation of each field's purpose and requirements.
-
-</thinking>
-
 # office_ergonomics_assessment_form - Help Guide
 ## Purpose
 

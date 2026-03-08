@@ -1,5 +1,3 @@
-<thinking>Assessment forms are used to evaluate the impact of specific events or actions on a particular aspect of a business or organization. This guide will walk through the Retail Seasonal Promotion Impact Assessment Form, designed to assess the seasonal promotion impact on a retail business. This form will help you evaluate the promotional efforts, identify areas of improvement, and inform future seasonal promotional strategies. To ensure accurate and relevant results, please fill out the form carefully and only once for each seasonal promotion. If you have already completed a seasonal promotion impact assessment for this promotion, please do not fill out this form again.</thinking>
-
 # Retail Seasonal Promotion Impact Assessment Form - Help Guide
 ## Purpose
 The Retail Seasonal Promotion Impact Assessment Form is designed to evaluate the impact of your seasonal promotional efforts on your retail business. It will help you assess the effectiveness of your promotional strategy and identify areas for improvement to enhance future seasonal promotions.

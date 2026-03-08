@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect pre-order details from customers who want to purchase an anthology book. The form will ask for customer contact information, shipping details, pre-order quantity, edition preference, payment method, and special instructions. It is not necessary to fill out all fields, as some are optional. Please ensure you have all necessary information before submitting the form.
-</thinking>
-
 # Anthology Book Pre Order Form - Help Guide
 ## Purpose
 This form is used to collect pre-order details from customers who want to purchase an anthology book. The form will ask for customer contact information, shipping details, pre-order quantity, edition preference, payment method, and special instructions.

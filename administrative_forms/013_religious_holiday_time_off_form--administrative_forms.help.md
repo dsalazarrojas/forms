@@ -1,19 +1,3 @@
-<thinking>
-
-The "Religious Holiday Time Off Form" is used to request time off for employees who need to observe a religious holiday. It's a mandatory form that requires all fields to be completed. This form should only be used by employees, and only one form per employee per holiday period is allowed.
-
-To complete this form, you'll need to provide the following information:
-
-*   Ensure you have a valid reason for requesting time off (e.g., religious observance).
-*   Select the correct holiday being observed.
-*   Choose the correct dates for the time off period.
-*   Enter your employee ID.
-*   Confirm that you have submitted your request.
-
-Before submitting the form, ensure that you've filled out all required fields and reviewed your request carefully. Once submitted, your request will be reviewed and approved or denied based on company policies.
-
-</thinking>
-
 # Religious Holiday Time Off Form - Help Guide
 ## Purpose
 The Religious Holiday Time Off Form is used to request time off for employees who need to observe a religious holiday.

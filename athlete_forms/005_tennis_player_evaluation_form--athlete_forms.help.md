@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for evaluating the performance of a tennis player. It's likely that this form is being used by a coach, instructor, or administrator to assess the strengths and weaknesses of a player's skills. The form is divided into two main sections: the first is focused on numerical evaluations of the player's performance (e.g., overall performance, game manners), and the second part deals with subjective feedback and comments. It's essential to complete the form accurately and thoroughly to provide a comprehensive evaluation of the player's skills.
-
-</thinking>
-
 # Tennis Player Evaluation Form - Help Guide
 
 ## Purpose

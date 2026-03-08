@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skin Care Assessment Form - Help Guide
 ## Purpose
 The **Skin Care Assessment Form** is a comprehensive form to assess the skin care needs and habits of an individual. This form is used to collect information about an individual's skin care practices, including their skin types, concerns, and self-care routines. The information collected will help in providing personalized recommendations and guidance for improving skin health.

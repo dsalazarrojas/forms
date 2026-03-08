@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: The AAA Self-Assessment form is designed to gather feedback from users on their experience with the AAA Self-Assessment process. This form is intended to measure user satisfaction, identify areas for improvement, and inform future development decisions. By filling out this form, users can provide valuable insights that will help us understand their needs and concerns, allowing us to make adjustments and enhancements to the AAA Self-Assessment process. Please ensure that you're filling out the form relevant to your experience with AAA Self-Assessment, as this will help us create a more accurate representation of user experiences.</thinking>
-
 # AAA Self Assessment - Help Guide
 
 ## Purpose

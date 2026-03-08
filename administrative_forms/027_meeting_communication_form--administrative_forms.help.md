@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for meeting participants to provide their feedback and information after a meeting has taken place. The form is used to gather data on the meeting's agenda, any actions that need to be followed up on, participant engagement, and other relevant details. Before proceeding, ensure you have already collected and reviewed meeting notes and participant feedback from previous meetings.
-
-This form is not required for every meeting, but rather for select meetings that need additional information or follow-up actions.
-</thinking>
-
 # Meeting Communication Form - Help Guide
 ## Purpose
 The Meeting Communication Form is used to capture relevant details and feedback from meeting participants after the meeting has taken place. This information helps the organizers and attendees to communicate more effectively and follow up on necessary actions.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the privacy policy acknowledgment form is to ensure that clients or users are informed about and understand the business's privacy practices. This form is typically used in a business-to-business or business-to-consumer setting where privacy policies need to be acknowledged or agreed upon before proceeding with certain activities or services.
-
-This form is intended for use by clients or customers who are interacting with your business in a way that requires you to inform them of your privacy policy. The purpose of the form is to provide a clear and simple way to acknowledge or sign off on your privacy policy.
-
-It's essential that the form is used in situations where there is a clear understanding and agreement on the privacy policy, and it's not meant to be used in cases where the privacy policy is not applicable or relevant.
-
-</thinking>
-
 # privacy_policy_acknowledgment_form - Help Guide
 ## Purpose
 The Privacy Policy Acknowledgment Form is a form used to inform and acknowledge clients of your business's privacy practices.

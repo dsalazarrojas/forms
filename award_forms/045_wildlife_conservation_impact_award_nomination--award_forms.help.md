@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to allow users to submit nominations for the Wildlife Conservation Impact Award. The form's goal is to collect information about the nominated project or person, their location, and team members involved, along with any other relevant details. This form will help the award committee evaluate the nominations and choose a winner.
-
-Before proceeding, ensure that the form is not a duplicate nomination, and that the project or person has not already been nominated.
-
-</thinking>
-
 # Wildlife Conservation Impact Award Nomination - Help Guide
 ## Purpose
 The purpose of this form is to collect information for the Wildlife Conservation Impact Award nominations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Model Release Form - Help Guide
 
 ## Purpose

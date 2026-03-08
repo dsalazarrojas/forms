@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended for collecting feedback on university courses? Is it meant to be filled out by students, instructors, or both? Are there any specific requirements or constraints for filling out this form? Let me assume that this form is for students to provide feedback on the quality of university courses.
-</thinking>
-
 # University Subject Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on university courses, allowing students to rate the quality of various aspects of the course. The form is meant to provide an evaluation of the course's overall quality, teaching staff, course materials, organization, and overall value.

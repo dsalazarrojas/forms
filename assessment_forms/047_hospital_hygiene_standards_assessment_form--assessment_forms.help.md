@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess hospital hygiene standards by collecting information on the quality of facilities, personnel, and equipment. This form is intended for healthcare professionals to evaluate the cleanliness, maintenance, and overall condition of a hospital's facilities and equipment, as well as the performance of its personnel. It is likely to be used in the context of hospital accreditation, quality control, or patient safety audits. The form is likely to be completed by hospital staff or administrators who are responsible for maintaining or improving the hospital's hygiene standards.
-
-</thinking>
-
 # Hospital Hygiene Standards Assessment Form - Help Guide
 ## Purpose
 The Hospital Hygiene Standards Assessment Form is designed to assess the cleanliness and maintenance of a hospital's facilities, equipment, and personnel. This form helps identify areas of improvement and ensures that the hospital meets or exceeds established hygiene standards.

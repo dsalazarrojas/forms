@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Confluence Intake Form - Help Guide
 ## Purpose
 This form is used to capture and document project requests from team members and stakeholders. It provides a structured way to communicate project ideas, objectives, and requirements to the project sponsors and administrative team.

@@ -1,5 +1,3 @@
-<thinking>...This form is intended to collect information from individuals or their representatives to determine their eligibility for tax credits related to dependents. The form is not affiliated with or endorsed by any form platform and is an original adaptation created using AI. It is not a duplicate or copy of any form, but rather a generated version created for the purpose of providing information to users...</thinking>
-
 # Dependent Tax Credit Eligibility Intake - Help Guide
 
 ## Purpose

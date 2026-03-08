@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a template for collecting information about a financial expert's qualifications, experience, and background. The purpose of this form is to gather data that can be used to assess the financial expertise of the individual. However, without further context, it's difficult to determine the exact requirements and constraints for this form. For example, is the form intended for internal use within an organization or for external publication? Are there any specific requirements or regulations that must be followed? Are there any constraints on the form's scope or purpose?
-</thinking>
-
 # Financial Expert Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about your financial expertise, including your basic details, job applications, financial background, financial expertise, work experience, education, and certifications. The information collected will be used to assess your qualifications and background as a financial expert.

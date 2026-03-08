@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to record the attendance and confirmation of mentoring sessions. It captures information from both the participant and the mentor, as well as session details. The form is used to track attendance and ensure that both parties are aware of their responsibilities and expectations. The form is an optional field for participants and mentors, but it is highly recommended for accuracy and consistency.
-
-</thinking>
-
 # Mentoring Session Attendance Confirmation Form - Help Guide
 ## Purpose
 The Mentoring Session Attendance Confirmation Form is used to record the attendance and confirmation of mentoring sessions, ensuring that both participants and mentors are on the same page.

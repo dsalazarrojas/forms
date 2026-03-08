@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Hire Excess Declaration Form - Help Guide
 ## Purpose
 The Vehicle Hire Excess Declaration Form is used to declare excesses (overcharges) on vehicle hire transactions. It helps identify and document any discrepancies between the actual vehicle hire costs and the agreed-upon rates.

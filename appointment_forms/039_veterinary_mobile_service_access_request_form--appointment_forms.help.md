@@ -1,12 +1,3 @@
-<thinking>
-The Veterinary Mobile Service Access Request Form is designed to be completed by clients who are seeking veterinary services. This form is intended to provide essential information about the client's needs and preferences for their veterinary visit. The form is divided into several sections, each corresponding to a specific field of information. 
-
-Before proceeding, ensure that this form has not already been completed for the same client and service date. If it has, please do not submit this form. If unsure, please contact the relevant authorities for clarification.
-
-To complete this form, please follow the instructions provided below.
-
-</thinking>
-
 # Veterinary Mobile Service Access Request Form - Help Guide
 ## Purpose
 The Veterinary Mobile Service Access Request Form is designed to be completed by clients who are seeking veterinary services. This form provides essential information about the client's needs and preferences for their veterinary visit.

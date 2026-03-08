@@ -1,7 +1,3 @@
-<thinking>
-To ensure that our form is being used correctly, please note that this form is designed to collect information for access setup purposes only. It is not intended for other uses such as surveys or data collection. The purpose of the form is to collect consent and basic employee information for access setup. Please do not use this form for any other purpose. If you're unsure, please contact <form@gic.mx> for clarification.
-</thinking>
-
 # Smart Access Card Setup Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent and basic employee information for access setup purposes.

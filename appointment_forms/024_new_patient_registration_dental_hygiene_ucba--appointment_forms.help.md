@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for registering new patients for dental hygiene services. It is intended for patients to provide personal and contact information, medical history, and other relevant details. This form is likely used by healthcare professionals to collect necessary data for patient care and treatment planning. It is essential to complete this form accurately to ensure that the patient's medical history and contact information are up-to-date and correct.
-
-Please note that this form is not meant to be used for patients with existing records in the system. If you have already registered as a patient, please do not fill out this form again.
-</thinking>
-
 # new_patient_registration_dental_hygiene_ucba - Help Guide
 ## Purpose
 This form is for registering new patients for dental hygiene services. It helps healthcare professionals collect necessary data for patient care and treatment planning.

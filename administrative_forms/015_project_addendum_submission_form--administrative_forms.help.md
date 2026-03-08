@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Addendum Submission Form - Help Guide
 
 ## Purpose

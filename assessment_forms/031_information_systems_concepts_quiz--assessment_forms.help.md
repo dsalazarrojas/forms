@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help users assess their understanding of information systems concepts. It is likely used in an educational or professional setting to gauge user knowledge and familiarity with various aspects of information systems. The form is divided into several sections, each covering a different topic related to information systems. Users are presented with a series of questions, some of which require a single selection answer ("What is systems development?"), while others are more open-ended ("What are some key information systems concepts?"). The form's purpose is likely to evaluate users' ability to understand and apply information systems concepts in a practical setting.</thinking>
-
 # information_systems_concepts_quiz - Help Guide
 ## Purpose
 This form is designed to assess your understanding of information systems concepts.

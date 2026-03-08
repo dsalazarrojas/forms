@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form used to monitor order fulfillment. The form should help users understand the purpose of the form, how to complete it, and what each field means. This form is used to track and analyze order fulfillment data, which can be used by managers to make informed decisions about order processing and shipping. To ensure accuracy, the form should be completed by the person responsible for fulfilling the order, typically a fulfillment team member. This will help prevent duplication of effort and ensure that the form is completed only once per order.
-</thinking>
-
 # Order Fulfillment Monitoring Form - Help Guide
 ## Purpose
 The Order Fulfillment Monitoring Form is used to track and analyze order fulfillment data. It helps managers make informed decisions about order processing and shipping.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from advertisers to create an advertising campaign. The form is used to gather details about the advertiser, including their company name, contact person, email address, and phone number. It also collects information about the campaign itself, such as the campaign name, primary advertising goal, target audience, preferred platforms, estimated budget, desired start and end dates, and any additional comments or instructions. The form is used to help advertisers create a successful campaign that meets their needs and goals.
-</thinking>
-
 # Advertising Form - Help Guide
 ## Purpose
 This form is designed to collect information from advertisers to create an effective advertising campaign. It gathers details about the advertiser and their campaign goals, target audience, budget, and other relevant information to help us better understand their needs and create a successful campaign.

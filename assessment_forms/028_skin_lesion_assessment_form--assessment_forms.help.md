@@ -1,11 +1,3 @@
-<thinking>
-
-To create a helpful user guide for the Skin Lesion Assessment Form, let's start by considering the form's purpose and the information that needs to be gathered from users. The form is meant to collect detailed information about a patient's skin lesions, which may include their location, description, duration, and any symptoms associated with them. To determine the purpose and relevance, let's assume the form is used in a medical setting, such as a dermatology clinic or a hospital.
-
-This form seems to be primarily used for gathering observational data and documentation, and there is no indication of data duplication or redundancy in the form fields. Therefore, the form appears to be designed for its intended purpose without unnecessary complexity or duplication.
-
-</thinking>
-
 # Skin Lesion Assessment Form - Help Guide
 
 ## Purpose

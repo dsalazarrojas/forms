@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Performance Improvement Plan Time Off Request Form - Help Guide
 ## Purpose
 This form is used to submit requests for time off related to performance improvement plans. To ensure efficient processing, please fill out this form accurately and thoroughly, without duplication or unnecessary fields filled.

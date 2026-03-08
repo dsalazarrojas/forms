@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about fire hazards and incidents within an organization. The purpose of this form is to gather essential details about the location, time, and description of the incident, as well as the contact information of the person reporting the incident. This form should only be filled out if there is a fire hazard or incident reported, otherwise, it should not be completed. If a contact form has already been submitted for the same incident, please do not submit this form again.
-</thinking>
-
 # fire_hazard_report_contact_form - Help Guide
 ## Purpose
 The fire hazard report contact form is designed to collect information about fire hazards and incidents within the organization. This form helps gather essential details about the location, time, and description of the incident, as well as the contact information of the person reporting the incident.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of requesting and managing appointments for lash services. It is intended for clients to provide their contact information, appointment preferences, and payment details. This form is likely used by a business or organization that provides lash-related services, such as salons or spas. To ensure that clients receive the correct appointments and services, it is essential to carefully complete and review this form accurately. This form should not be completed if the client has already made an appointment or has an existing appointment scheduled.</thinking>
-
 # Lash Service Appointment Request Form - Help Guide
 ## Purpose
 The Lash Service Appointment Request Form is a tool used to request and manage appointments for lash-related services. It is designed to gather essential information from clients to ensure that their appointments are scheduled correctly and efficiently.

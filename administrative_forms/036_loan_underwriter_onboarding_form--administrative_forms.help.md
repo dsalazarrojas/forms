@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # loan_underwriter_onboarding_form - Help Guide
 ## Purpose
 This form is for new loan underwriters to provide their qualifications and onboarding status. It helps to track and manage the onboarding process of loan underwriters, ensuring that all relevant information is collected and up-to-date.

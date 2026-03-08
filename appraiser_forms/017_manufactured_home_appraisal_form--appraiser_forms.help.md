@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about a manufactured home, including contact details of the person completing the form, characteristics of the home, and additional features. The form is used to evaluate the manufactured home's condition, features, and value.
-Before filling out this form, please ensure that you have all the necessary information about the manufactured home, including its address, type, and features. This form should not be used for multiple homes; if you need to complete this form for multiple homes, please create a new instance for each one.
-Please note that this form is intended to be completed by one person at a time, and the information provided will be used for evaluation purposes.
-</thinking>
-
 # Manufactured Home Appraisal Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a manufactured home's characteristics, features, and value.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the formal discharge of a tenant from a rental property. It is typically used when a tenant is being released from their rental agreement. The purpose of this form is to provide a clear and concise way to record the details of the discharge, including the reasons for it and the agreement between the landlord and tenant. This form should only be used for legitimate discharges and not for harassment or retaliatory purposes. It is recommended that the form is filled out in a professional and courteous manner, considering the mutual interests of both parties.
-
-</thinking>
-
 # tenant_agreement_discharge_form - Help Guide
 ## Purpose
 The tenant agreement discharge form is used to document the formal discharge of a tenant from a rental property. It is an official record of the reasons for the discharge and the agreement between the landlord and tenant.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for registering a vehicle's inventory information in an automotive dealership setting. It includes fields for vehicle details such as make, model, year, price, color, and more. There are also fields for dealer and customer information, including dealership name, address, contact, and owner details. The form seems to be used for both dealerships and customers, but the fields are mostly aimed at registering vehicle inventory and customer information.
-The fields appear to be mostly open-ended text fields, with a few select-one option for vehicle status. The form does not seem to have any specific validation or conditional logic based on other form fields.
-The only field with a specific type other than text is "vehicle_year" which is a number, and "vehicle_status" which is a select_one option.
-</thinking>
-
 # dealership_inventory_registration_form - Help Guide
 ## Purpose
 This form is designed for registering a vehicle's inventory information in an automotive dealership setting. It helps dealerships to catalog and manage their vehicle inventory.

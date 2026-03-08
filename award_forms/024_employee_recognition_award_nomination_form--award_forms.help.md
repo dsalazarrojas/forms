@@ -1,13 +1,3 @@
-<thinking>
-This form is used to recognize and reward outstanding employees for their hard work and contributions to the team. It is intended to be used by any employee to nominate a colleague for an employee recognition award.
-Before filling out this form, make sure to read the following guidelines to ensure that you are using it correctly.
-* Only nominate a colleague who you believe deserves recognition for their work and contributions.
-* Provide a clear and concise description of the reason for nomination.
-* Be specific about the award type you are nominating the colleague for.
-* Make sure to enter all required fields, marked with an asterisk (\*), and provide any necessary supporting information.
-
-</thinking>
-
 # Employee Recognition Award Nomination Form - Help Guide
 ## Purpose
 The Employee Recognition Award Nomination Form is used to recognize and reward outstanding employees for their hard work and contributions to the team.

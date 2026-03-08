@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their employment status, work-related details, and agreements. It should only be used for employees who have been previously verified as legitimate. Please ensure that you have the correct permissions and authorization to access this form. If you're unsure, please refer to your supervisor or HR department to confirm. Also, please note that this form will not be duplicated for new employees. Only existing employees should fill out this form.
-</thinking>
-
 # Employee Declaration Form - Help Guide
 ## Purpose
 The Employee Declaration Form is a document that employees use to declare their employment status and provide work-related details. It helps the company to ensure that all employees are aware of and agree to comply with company policies and regulations.

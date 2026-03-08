@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information for the Caregiving Excellence Award nomination. This form is intended to be completed by individuals who wish to nominate their colleagues or peers for this prestigious award. The nomination process helps to identify and recognize individuals who have demonstrated exceptional care and dedication to their work. Please ensure that you are authorized to nominate someone and that the person you are nominating is aware that they are being nominated. Before starting the nomination process, please review our award criteria to ensure that the nominee meets the requirements for the selected award category...</thinking>
-
 # Caregiving Excellence Award Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for the Caregiving Excellence Award nomination.

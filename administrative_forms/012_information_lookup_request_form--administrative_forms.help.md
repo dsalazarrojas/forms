@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Information Lookup Request Form - Help Guide
 ## Purpose
 The Information Lookup Request Form is used to provide more information about an item or issue that has been reported by a user. This form helps our team to get more context and details to better address the issue and provide the best possible solution.

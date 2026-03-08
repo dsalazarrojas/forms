@@ -1,5 +1,3 @@
-<thinking>...This form is used to request new lab equipment or supplies. This form is intended to be completed by lab personnel to inform the procurement team of lab equipment needs. Please ensure that you have checked with your department's procurement officer to see if the equipment is already on order or if there are any existing plans to acquire it. Also, please do not duplicate existing requests, as this can lead to unnecessary duplication of efforts and resources...</thinking>
-
 # Lab Equipment Requisition Form - Help Guide
 ## Purpose
 This form is used to request new lab equipment or supplies.

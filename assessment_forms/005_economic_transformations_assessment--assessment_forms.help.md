@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from users about economic transformations, specifically focusing on sector-specific insights, digitalization impact, green economy, globalization, fast data collection, and ideal applications for various groups (researchers, consultants, organizations, etc.). It is recommended to complete this form if you have experience or expertise in these areas. Please ensure that you have reviewed the form carefully before submitting your responses.
-</thinking>
-
 # Economic Transformations Assessment - Help Guide
 ## Purpose
 The Economic Transformations Assessment form aims to gather insights from users about their experiences and perspectives on economic transformations, specifically sector-specific insights, digitalization impact, green economy, and fast data collection. This form is designed to collect feedback from users with expertise or experience in these areas.

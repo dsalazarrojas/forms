@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hydrogenation Process Quiz - Help Guide
 
 ## Purpose

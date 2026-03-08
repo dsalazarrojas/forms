@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather information about animal abuse cases from individuals who have witnessed or have knowledge about such incidents. The form is designed to be completed by anyone who has experienced or witnessed animal abuse, including the general public, animal shelter staff, or law enforcement officers. The purpose of this form is to collect relevant details about the incident, including the location, date, description of the animal, and any evidence that may be available. This information will be used to help identify the incident and potentially bring it to the attention of animal welfare organizations or law enforcement agencies.
-</thinking>
 # Animal Abuse Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about animal abuse cases, including location, date, description of the animal, and any evidence that may be available.

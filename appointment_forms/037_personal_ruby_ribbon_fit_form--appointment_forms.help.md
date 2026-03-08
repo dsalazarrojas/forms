@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "personal_ruby_ribbon_fit_form" is to gather information about a specific type of appointment or form that requires a personal Ruby Ribbon fit. The fit is likely related to a type of gemstone or jewelry, and the form collects details such as the category, description, assigned tool, input method, comments, and other relevant information. This form may be used by gemstone sellers, jewelers, or other industry professionals to create and manage appointments related to Ruby Ribbons.
-
-Before proceeding, make sure you are filling out this form for the correct type of appointment or form. If you are unsure, please contact your supervisor or relevant department to confirm the correct form to use.
-
-Please note that this form does not require any specific fields, but some fields are optional and can be filled out at your discretion. Make sure to fill out all required fields before submitting the form.</thinking>
-
 # personal_ruby_ribbon_fit_form - Help Guide
 ## Purpose
 The "personal_ruby_ribbon_fit_form" is a form used to gather information about a specific type of appointment or form related to Ruby Ribbons.

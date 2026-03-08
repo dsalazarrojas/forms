@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Security Measures Effectiveness Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the security measures and risk assessments of your organization. It is essential to understand the current state of your organization's security measures and risk assessments to identify areas for improvement and ensure the highest level of security. By filling out this form, you will be able to:

@@ -1,8 +1,3 @@
-<thinking>
-This form is for migrating data between systems and platforms. It is an administrative form used to track and confirm data migrations. The form ensures that users select a valid data source and destination, specify the migration process, and confirm with an approver. It also captures other relevant details such as the approver's contact information and any additional comments.
-Before completing this form, ensure you have selected the correct data source and destination and that the approver's email and phone number are accurate. Please note that this form is not meant to be a substitute for proper data migration planning and execution.
-
-</thinking>
 # data_migration_form - Help Guide
 ## Purpose
 The data_migration_form is used to migrate data between systems and platforms. This form ensures that users select a valid data source, specify the migration process, and confirm with an approver.

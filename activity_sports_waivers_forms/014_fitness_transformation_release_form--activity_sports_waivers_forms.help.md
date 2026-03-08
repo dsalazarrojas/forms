@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a participant's fitness transformation journey, including their details, consents, coach information, program enrollment, and other relevant data. This form is typically used in a fitness or wellness setting, such as a gym or coaching program, to document a participant's progress and ensure they are aware of and agree to certain terms and conditions.
-
-Before proceeding, please ensure that this form is not being used for any other purpose or in conjunction with another form. If you are unsure, please review the form's context and purpose carefully to avoid duplication of effort.
-
-</thinking>
-
 # Fitness Transformation Release Form - Help Guide
 ## Purpose
 The Fitness Transformation Release Form is designed to gather essential information from participants in a fitness or wellness program. This form helps to ensure a smooth and successful transformation journey for the participant.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and skills of a candidate or employee in cloud computing. It is intended to evaluate their proficiency in various areas of cloud computing, including Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), virtualization, container technology, and more. The form is used to gather information that will aid in identifying knowledge gaps and areas where additional training or support may be needed.
-
-Please note that this form should only be completed by individuals who are familiar with cloud computing and have some level of experience in the field. The form is not intended for those who are new to cloud computing and require a foundational understanding of the basics.
-
-It is also worth noting that the information collected through this form will be used to inform future training and development initiatives. Therefore, please answer the questions honestly, and provide as much detail as possible.
-
-If you have any questions or concerns about this form, please do not hesitate to reach out.
-</thinking>
-
 # Cloud System Knowledge Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess your knowledge and skills in cloud computing. This assessment will help us to identify areas where additional training or support may be needed to aid in your development and growth within our organization.

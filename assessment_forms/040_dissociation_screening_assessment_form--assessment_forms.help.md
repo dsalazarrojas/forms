@@ -1,7 +1,3 @@
-<thinking>
-Dissociation Screening Assessment Form is used to screen for dissociation, a condition where a person experiences a disconnection or separation from their thoughts, feelings, or surroundings. This form helps gather information to determine the level of dissociation and its impact on the client's daily life.
-</thinking>
-
 # Dissociation Screening Assessment Form - Help Guide
 ## Purpose
 The Dissociation Screening Assessment Form is used to screen for dissociation and its impact on a client's daily life. It is designed to gather information about a person's experiences and behaviors that may indicate dissociation.

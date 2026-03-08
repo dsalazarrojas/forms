@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to assess the social development of students. It's designed to help educators or administrators gauge the strengths and weaknesses of students in various social skills. The purpose of this form is to provide a snapshot of a student's social development, which can be useful for creating a development plan or identifying areas of improvement. This form does not collect any personal or sensitive information and is meant to be a neutral assessment tool.
-</thinking>
 # Social Development Assessment Quiz - Help Guide
 ## Purpose
 The Social Development Assessment Quiz is designed to assess the social development of students, helping educators or administrators understand their strengths and weaknesses in various areas.

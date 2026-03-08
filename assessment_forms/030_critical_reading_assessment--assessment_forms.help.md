@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a student's critical reading skills. It is intended to be completed by educators or instructors who have observed or reviewed a student's reading performance. The form helps to identify areas where the student excels or needs improvement in their reading comprehension and analytical skills. The form is used to gather information that can inform further instruction or support for the student. This guide is intended for end-users who need to complete the form to assess a student's critical reading skills.
-</thinking>
-
 # Critical Reading Assessment - Help Guide
 ## Purpose
 The Critical Reading Assessment is a form used to evaluate a student's reading performance and identify areas where they may need additional support or guidance.

@@ -1,7 +1,3 @@
-<Thinking>
-The goal of this form is to assess an individual's crafting skills, likely for educational or professional purposes. This form aims to gather information about a participant's experience, skill level, and completion of a crafting-related activity. The form is designed to be adaptable and can be used in various contexts, such as evaluating student progress, assessing employee skills, or tracking personal development in a crafting-related field. To ensure that this form meets your specific needs, please review the provided fields and their explanations below.
-</thinking>
-
 # Crafting Skills Assessment - Help Guide
 ## Purpose
 The Crafting Skills Assessment form is designed to evaluate an individual's crafting skills, experience, and completion of a crafting-related activity.

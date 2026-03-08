@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # easter_brunch_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from users for an Easter brunch order. It will help you gather details about the number of guests, their preferences, and additional requests. 

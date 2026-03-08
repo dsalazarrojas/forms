@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to schedule appointments for smart home setup, upgrades, and maintenance services. It's essential to fill out this form carefully to ensure that the appointment is scheduled correctly and efficiently. This form should only be filled out once per appointment. Please note that this form is not intended for multiple customers or appointments at the same time.
-</thinking>
-
 # Smart Home Setup Appointment Form - Help Guide
 
 ## Purpose

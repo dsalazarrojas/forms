@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to request access to IT systems. The purpose of this form is to ensure that requests for access to IT systems are properly documented and tracked. This form will guide you through the process of requesting access to an IT system, and help ensure that your request is properly processed. Before filling out this form, please ensure that you have already checked that the IT system you are requesting access to is not already available to you, and that you have a valid reason for requesting access. This form should not be used to request access to systems that are already available to you or for purposes that are not approved by management.
-</thinking>
-
 # IT System Access Request Form - Help Guide
 ## Purpose
 The IT System Access Request Form is used to request access to IT systems. This form helps to track and process requests for access to these systems.

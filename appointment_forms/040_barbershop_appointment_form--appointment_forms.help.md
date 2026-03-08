@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form is for clients to make appointments with barbers at a barbershop. Clients will be able to select their preferred barber, service, and appointment schedule. The form collects essential information such as client contact details, service selection, schedule preferences, and consent to store data for booking purposes.
-</thinking>
-
 # Barbershop Appointment Form - Help Guide
 ## Purpose
 This form is for clients to make appointments with barbers at a barbershop. The form is designed to gather necessary information to schedule an appointment, including client details, service selection, and schedule preferences.

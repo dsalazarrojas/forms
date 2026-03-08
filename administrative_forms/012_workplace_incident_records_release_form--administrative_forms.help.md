@@ -1,7 +1,3 @@
-<thinking>
-We are providing this form for incident reporting and records management. It's essential to understand that this form is for recording workplace incidents, which are events or situations that have occurred within the workplace. This form ensures that all incidents are documented accurately and thoroughly. It is crucial that you only use this form to report actual workplace incidents, and not for other purposes. Please ensure that you complete this form in accordance with the incident's actual status, and do not report hypothetical or duplicate incidents.
-</thinking>
-
 # Workplace Incident Records Release Form - Help Guide
 ## Purpose
 This form is for recording and documenting workplace incidents. It captures essential information about the incident, including date, location, nature, and resolution. The form helps track and manage incidents, ensuring accurate and thorough documentation.

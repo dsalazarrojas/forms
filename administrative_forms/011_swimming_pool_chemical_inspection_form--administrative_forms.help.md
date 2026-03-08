@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for swimming pool maintenance staff to record and report on chemical levels and other maintenance actions for the pool. The form is designed to be completed by pool maintenance staff or inspectors who need to report on the condition and maintenance of the pool's chemical levels, ensuring accuracy, consistency, and adherence to safety standards. The purpose of this form is not to be filled out by pool users, but rather by those who have a direct impact on maintaining the pool's water quality and safety.
-
-To the best of our knowledge, this form does not duplicate any other existing forms within the system, and it is a critical tool for maintaining and ensuring the pool's safety and cleanliness standards. It is crucial to fill out the form accurately and correctly to prevent errors, maintain pool records, and adhere to regulatory requirements. The form will be used to track and analyze the data collected to identify areas for improvement and optimize maintenance procedures.
-
-This guide is intended to be user-friendly and provide clear explanations of each field to help end-users complete the form correctly and efficiently. By doing so, we can maintain accurate records, prevent accidents, and ensure the pool's safety and quality standards are met.
-
-</thinking>
-
 # Swimming Pool Chemical Inspection Form - Help Guide
 ## Purpose
 The Swimming Pool Chemical Inspection Form is designed for pool maintenance staff to record and report on chemical levels, maintenance actions, and other relevant information for pool inspections.

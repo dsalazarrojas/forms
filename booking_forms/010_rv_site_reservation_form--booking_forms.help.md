@@ -1,13 +1,3 @@
-<thinking>
-The RV Site Reservation Form is designed to collect information for the purpose of facilitating the reservation of a recreational vehicle site. This form aims to gather details about the guest, their preferences, and the site's availability. The form has 12 fields that need to be filled out for a successful submission. Please make sure to complete each field accurately and truthfully to ensure that your reservation is processed correctly.
-
-This form is for new reservations. If you need to edit or cancel an existing reservation, please contact our customer service team for assistance.
-
-The fields in this form have specific requirements marked as 'required'. These fields must be filled out completely to ensure that your reservation is processed correctly.
-
-This form should only be filled out once for each new reservation. Duplicate submissions will not be accepted.
-</thinking>
-
 # RV Site Reservation Form - Help Guide
 ## Purpose
 The RV Site Reservation Form is designed to collect information for the purpose of facilitating the reservation of a recreational vehicle site.

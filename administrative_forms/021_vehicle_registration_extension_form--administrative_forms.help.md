@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for vehicle registration purposes. It is intended to be used for administrative tasks and is not a general vehicle registration form. The form consists of three pages: "Vehicle Registration Details", "Owner Details", and "Registration Extension". Each page is a separate section of the form.
-</thinking>
-
 # vehicle_registration_extension_form - Help Guide
 ## Purpose
 This form is designed to collect information for vehicle registration purposes.

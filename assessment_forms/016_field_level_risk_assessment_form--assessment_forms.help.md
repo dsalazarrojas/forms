@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Level Risk Assessment Form - Help Guide
 ## Purpose
 The Field Level Risk Assessment Form is used to identify and document risks at the field level, allowing for the tracking and management of potential threats to the project's success. This form helps to provide a clear and concise description of each risk, including its impact severity, likelihood, and mitigation actions.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information from potential dog foster families or individuals interested in adopting a dog. The goal is to gather essential details to ensure the best matching process between the applicant and a dog in need. This form will be used by animal rescue organizations to evaluate potential applicants and make informed decisions about dog placements.
-
-</thinking>
-
 # Dog Foster Application Form - Help Guide
 ## Purpose
 The **Dog Foster Application Form** is designed to help our organization find the best match for a dog in need. By filling out this form, you will be providing us with essential information about yourself and your household. This information will help us decide if our dog is a good fit for you and your family.

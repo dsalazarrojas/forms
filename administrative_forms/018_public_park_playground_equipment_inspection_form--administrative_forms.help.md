@@ -1,8 +1,3 @@
-<thinking>
-This form is a crucial tool for park administrators and maintenance staff to assess the condition of playground equipment and identify any safety risks. By completing this form, inspectors can ensure that the playgrounds under their care are safe and well-maintained for the public to enjoy.
-The form is designed to be straightforward and easy to fill out. However, to ensure accuracy and consistency in the data collected, it's essential to understand each field's purpose and how it contributes to the overall assessment of the equipment's condition.
-</thinking>
-
 # public_park_playground_equipment_inspection_form - Help Guide
 
 ## Purpose

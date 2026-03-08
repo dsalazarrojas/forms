@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help wrestlers or individuals pledge to support a particular wrestler in a tournament or competition. This form will likely be used to gather information on the wrestlers' intentions, such as whether they plan to support a wrestler and if so, the amount of support they are willing to provide.
-</thinking>
-
 # Wrestling Pins Pledge Form - Help Guide
 ## Purpose
 This form is used to gather information on wrestlers who intend to support a particular wrestler in a tournament or competition.

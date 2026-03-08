@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our business class ticket booking form is completed accurately and consistently. This form is used to gather necessary information for booking business class flights. To prevent data errors and ensure correct processing, let's make sure to complete this form thoroughly and accurately. Before filling out this form, ensure you have all required documents and information readily available. If you're unsure about any field, please refer to the explanations below to help you fill it out correctly.
-</thinking>
-
 # Business Class Ticket Booking Form - Help Guide
 ## Purpose
 This form is used to book tickets for business class flights. Please fill it out carefully to ensure that your travel arrangements are made correctly.

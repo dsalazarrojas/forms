@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Compliance Therapy Assessment form, I will first consider the form's purpose and internal context. The form is designed to gather client data for assessment and monitoring of mental health therapy progress. It appears to be a part of a larger system for tracking client information and providing personalized therapy support. The purpose of the form is to collect comprehensive data about a client's mental health, including their mood, anxiety and depression levels, sleep quality, medication compliance, and other relevant aspects of their well-being. 
-
-To prevent duplication, the form should be filled out by the client only once, during the initial assessment.
-
-</thinking>
-
 # Compliance Therapy Assessment - Help Guide
 ## Purpose
 This form is used to collect comprehensive data about your mental health and progress with therapy. Please fill it out carefully and honestly to ensure accurate assessment and effective support from your therapist.

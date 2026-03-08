@@ -1,12 +1,3 @@
-<thinking>
-We will assume the form is designed to gather information about a small business applying for a loan. The form will help the financial institution assess the creditworthiness of the business and provide a loan with the best possible terms. This form is not used for personal loan applications.
-
-Before filling out this form, please ensure you have all the necessary business information readily available. Some fields may not be applicable to your business, so please skip them if that's the case.
-
-The form consists of multiple pages, each with its own set of fields. Please fill out each page completely before proceeding to the next one. If you're unsure about any field, please ask your loan officer for guidance.
-
-</thinking>
-
 # Small Business Credit Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about your small business to help us assess your creditworthiness and provide a loan with the best possible terms.

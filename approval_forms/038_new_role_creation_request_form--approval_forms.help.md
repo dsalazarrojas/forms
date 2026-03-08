@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please take a moment to understand the purpose of this New Role Creation Request Form. This form is designed to create a new job role within your organization. The form is meant for role-creators and managers, and it is essential to ensure that all required information is accurate and up-to-date. Please review the form carefully to avoid duplication of existing roles and ensure that all necessary fields are completed correctly. If you are unsure about any field or have questions, please reach out to your supervisor or HR representative for guidance.</thinking>
-
 # New Role Creation Request Form - Help Guide
 ## Purpose
 The New Role Creation Request Form is used to create a new job role within your organization. This form helps you to gather all the necessary information to accurately describe a job role, including its title, description, reporting structure, and other relevant details.

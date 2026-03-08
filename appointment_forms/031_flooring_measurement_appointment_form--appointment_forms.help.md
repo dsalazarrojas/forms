@@ -1,10 +1,3 @@
-<thinking>
-This form is used to schedule and manage appointments for flooring measurement appointments. The form collects information about the customer, visit details, and sales person information. The purpose of this form is to ensure that all necessary details are captured prior to the visit, and that the customer is contacted with the correct information for their appointment. This helps to reduce errors and improve communication. This form also helps to keep track of appointment status and notes for reference.
-
-Please note that this form is designed to be completed by customers and sales persons. The information captured in this form will be used for internal purposes only.
-
-</thinking>
-
 # Flooring Measurement Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule and manage flooring measurement appointments.

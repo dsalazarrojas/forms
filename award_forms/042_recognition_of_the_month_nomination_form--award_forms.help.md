@@ -1,7 +1,3 @@
-<thinking>
-A Recognition Of The Month Nomination Form is used by employees to nominate their peers for recognition and rewards, promoting a positive and inclusive work environment. To avoid duplicate nominations, please ensure that you're not nominating the same employee for the same award in the same month. Before nominating, please make sure that you have all necessary information and permissions. Nominating a peer is a great way to show appreciation for their hard work and dedication. Please follow these steps to complete the form:
-</thinking>
-
 # Recognition Of The Month Nomination Form - Help Guide
 
 ## Purpose

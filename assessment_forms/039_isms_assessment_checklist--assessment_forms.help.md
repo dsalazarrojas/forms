@@ -1,6 +1,3 @@
-<thinking>...This form is a tool used for the assessment of Information Systems Management Systems (ISMS). It is used to evaluate the current state of ISMS within an organization and identify areas that need improvement. This form is part of a larger quality assurance process that aims to ensure the security and efficiency of ISMS within the organization. The form collects various metrics and comments from team members, which help to identify strengths, weaknesses, and areas for improvement.
-
-</thinking>
 # ISMS Assessment Checklist - Help Guide
 ## Purpose
 The ISMS Assessment Checklist is a form used to evaluate the current state of ISMS within an organization. It helps in identifying areas that need improvement and ensures the security and efficiency of ISMS.

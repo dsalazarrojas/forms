@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for a vehicle inspection appointment. The form is likely to be used by a service provider to gather details about the client and their vehicle for the purpose of scheduling an inspection. The fields on this form should be completed by the client, and the service provider will use the information to schedule the inspection accordingly. To prevent duplication, it is recommended that the client only submit this form once for each vehicle inspection appointment.
-</thinking>
-
 # vehicle_inspection_appointment_form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for a vehicle inspection appointment.

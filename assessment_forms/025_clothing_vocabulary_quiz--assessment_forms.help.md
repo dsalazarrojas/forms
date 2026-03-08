@@ -1,7 +1,3 @@
-<thinking>
-We will generate a user-facing help guide for the Clothing Vocabulary Quiz form, ensuring that users understand the form's purpose, how to complete it, and what each field represents. The form appears to be designed to test users' knowledge of clothing and fashion-related vocabulary. We need to review the fields and ensure that each field is accurately represented in the help guide.
-</thinking>
-
 # Clothing Vocabulary Quiz - Help Guide
 ## Purpose
 The Clothing Vocabulary Quiz is designed to test your knowledge of clothing and fashion-related vocabulary. It contains multiple questions that assess your understanding of various clothing items and their functions.

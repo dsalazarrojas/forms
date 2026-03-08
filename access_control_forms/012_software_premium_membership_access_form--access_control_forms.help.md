@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to grant access to software premium membership. The goal is to onboard new customers or partners with relevant teams. The form should be completed by individuals with the necessary credentials to access premium features. To ensure accuracy, the form should only be completed by authorized personnel. To prevent duplication, the form should be filled out once per team member. The purpose of this form is to collect the required information for access control, and it will be reviewed and validated by the internal teams before access is granted. 
-
-This form is not intended to be a general contact form or a feedback form. It is specifically designed for access control purposes.</thinking>
-
 # Software Premium Membership Access Form - Help Guide
 ## Purpose
 The Software Premium Membership Access Form is used to onboard new customers or partners and grant them access to premium features. This form should only be completed by authorized personnel with the necessary credentials.

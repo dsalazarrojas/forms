@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the onboarding readiness of sales personnel, evaluating their understanding of the sales process, product knowledge, communication skills, time management, presentation skills, problem-solving, team collaboration, sales skills, and adaptability. The form's purpose is to ensure that new sales team members are adequately prepared to succeed in their role. 
-
-To determine if this form should be shown, it checks if there are any existing assessments that have been submitted for the same user in the past 30 days. If there is an existing assessment, it will not be displayed.
-
-</thinking>
-
 # sales_onboarding_assessment_form - Help Guide
 ## Purpose
 This form is used to assess the onboarding readiness of sales personnel, evaluating their understanding of various aspects of the sales process and other essential skills.

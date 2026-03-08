@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from athletes for bio publication consent. This form is used to obtain consent from the athlete for their photo and bio to be published in various channels. The form includes fields such as name, sport, team level, and photo publication consent, among others. 
-
-This form should only be used for its intended purpose and not for other purposes such as marketing or data collection. 
-
-Please ensure that the form is used in accordance with the consent duration chosen by the athlete. 
-
-Note that this form is a template and should be reviewed and customized according to your organization's specific needs and policies.
-</thinking>
-
 # Athlete Bio Publication Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from athletes for the publication of their bio and photo. It collects information about the athlete's name, sport, team level, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the form is used for users to refer a piece of jewelry for evaluation by a gemologist. The form is used to collect information about the jewelry piece, the gem type, and other relevant details. The form is likely used by appraisers or jewelry professionals to gather information from their customers or clients. The form should only be completed once for each jewelry piece. If a user has already submitted a referral for the same jewelry piece, they should not complete this form again.
-</thinking>
-
 # Jewelry Gemologist Referral Form - Help Guide
 ## Purpose
 This form is used to refer a piece of jewelry for evaluation by a gemologist. It is used to collect information about the jewelry piece, the gem type, and other relevant details.

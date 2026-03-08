@@ -1,9 +1,3 @@
-<thinking>
-This form is for homeowners or property owners to submit amendments to their Homeowners Association (HOA) documents. The form can be used for any type of amendment, such as rule changes, fee changes, or other updates to the HOA's governing documents.
-The form is meant to be a straightforward and easy-to-use submission process for HOA members to propose changes to their governing documents. Before submitting, it's best to review the form's instructions and the relevant sections of the current governing documents to ensure that the proposed changes align with the HOA's bylaws.
-This form will not duplicate any existing amendments that have already been submitted, so please ensure that your submission is original and not a duplicate of a previous proposal.
-</thinking>
-
 # HOA Document Amendment Form - Help Guide
 ## Purpose
 This form is designed to be a straightforward and easy-to-use submission process for HOA members to propose changes to their governing documents.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for book adoption decisions from instructors. This form is intended for instructors who wish to adopt books for use in their courses. The form will guide them through the required fields to provide accurate and relevant information about the book adoption.
-</thinking>
-
 # Book Adoption Form - KCC - Help Guide
 ## Purpose
 The Book Adoption Form is a necessary step in the book adoption process for KCC.

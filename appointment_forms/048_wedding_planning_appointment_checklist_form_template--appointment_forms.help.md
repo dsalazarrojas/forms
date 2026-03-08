@@ -1,10 +1,3 @@
-<thinking>
-This form template is designed to help wedding planners and coordinators efficiently manage the various tasks and appointments associated with wedding planning. The Wedding Planning Appointment Checklist Form Template is intended to be a helpful tool for wedding planning professionals to keep track of their tasks, appointments, and progress throughout the process. The form is not meant to be a comprehensive wedding planning tool, but rather a structured checklist to assist in the organization and execution of wedding-related tasks.
-
-This template is an original adaptation created using AI, and it does not copy or use content from any other form platforms. The form is released under a Creative Commons license, allowing users to use, modify, and even sell forms derived from it while giving credit to the original creator.
-
-</thinking>
-
 # Wedding Planning Appointment Checklist Form Template - Help Guide
 ## Purpose
 This form is designed to aid wedding planners and coordinators in the process of wedding planning by providing a structured checklist to organize tasks and appointments.

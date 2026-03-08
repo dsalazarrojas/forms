@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify employee identity for banking purposes. It's likely used by banks to gather employee information for regulatory compliance. The fields in this form are likely required for this purpose. I will not output YAML, instead, I will create a help guide based on the provided form fields.
-</thinking>
-
 # identity_verification_form - Help Guide
 ## Purpose
 This form is used to verify employee identity for banking purposes. It's likely used by banks to gather employee information for regulatory compliance.

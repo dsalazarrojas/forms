@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to request a paid time off (PTO) rollover or payout. It is essential to ensure that the form is completed accurately and correctly to avoid any issues with PTO processing. Before starting, please ensure you have all necessary information and approvals in place.
-
-This form is for internal use only. Please do not submit it if you are not an employee or do not need to request PTO rollover or payout.
-
-Also, check that you have not already submitted a form for the same request to avoid duplication of efforts.</thinking>
-
 # pto_rollover_or_payout_request_form - Help Guide
 ## Purpose
 This form is designed to help employees request a paid time off (PTO) rollover or payout. It is used to provide a structured and efficient way to submit requests for PTO.

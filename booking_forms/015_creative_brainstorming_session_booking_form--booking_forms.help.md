@@ -1,39 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "creative_brainstorming_session_booking_form". The form is used to collect information about creative brainstorming sessions. The form should be able to handle various types of data, including text, dates, times, email, and select options. We need to consider the following fields:
-- Form Data
-- Participants
-- Session details
-- Preferred Dates
-- Time Slot
-- Session Duration
-- Session Topic
-- Session Description
-- Participant Details
-- Participant Name
-- Participant Email
-- Participant Phone
-- Participant Preferences
-- Participant Agenda
-- Admin Details
-- Admin Name
-- Admin Email
-- Admin Phone
-- Admin Notes
-- Session Notes
-- Booking Date
-- Booking Time
-- Booking Status
-- Session Start Time
-- Session End Time
-
-This form is likely used in a business setting, such as a company or organization, where creative brainstorming sessions are held with participants. The form is used to book and manage these sessions.
-
-The form should be able to handle various types of data, including text, dates, times, email, and select options. The form should also be able to handle multi-select options, such as selecting multiple time slots for a session.
-
-We need to ensure that the form is user-friendly and easy to understand for non-technical users.
-
-</thinking>
-
 # creative_brainstorming_session_booking_form - Help Guide
 ## Purpose
 This form is used to book and manage creative brainstorming sessions. It collects information about the session, participants, and other relevant details.

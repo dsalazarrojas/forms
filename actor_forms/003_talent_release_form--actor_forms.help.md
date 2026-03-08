@@ -1,7 +1,3 @@
-<thinking>
-The "Talent Release Form" is a crucial document used to formalize agreements between talent and the organization on projects. The form should only be completed by actors or individuals involved in projects that have already been assigned a project name and start date. Please ensure this form is used for projects with a clear "project name" and "project start date" before completing it. If you're unsure, please contact your project coordinator or manager for guidance.
-</thinking>
-
 # Talent Release Form - Help Guide
 ## Purpose
 The "Talent Release Form" is used to document agreements between talent and the organization on projects. It ensures that all parties involved are aware of their responsibilities, rights, and obligations.

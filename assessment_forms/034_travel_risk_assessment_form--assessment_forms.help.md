@@ -1,9 +1,3 @@
-<thinking>
-  This is a form to assess the travel risk of an individual. It is used to gather information on the health status, medical history, and other risk factors related to travel. This form is designed to be used by travelers to assess their own risk and take necessary precautions before embarking on a journey.
-  The form is divided into different sections, each focusing on specific aspects of travel risk. The goal is to collect accurate and honest information to ensure a safe and enjoyable travel experience.
-  Please note that this form is not intended to replace medical advice or diagnosis. If you have any concerns or doubts, please consult a medical professional for personalized advice.
-</thinking>
-
 # Travel Risk Assessment Form - Help Guide
 ## Purpose
 The Travel Risk Assessment Form is designed to assess the health status and medical history of an individual before traveling. This form will help you identify potential risks and take necessary precautions to ensure a safe and enjoyable journey.

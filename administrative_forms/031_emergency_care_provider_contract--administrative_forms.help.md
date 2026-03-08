@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Care Provider Contract - Help Guide
 ## Purpose
 This form is designed for emergency care providers to contract with patients. It outlines the terms and conditions of care, including emergency care provisions, contract term, and patient consent. The form ensures that providers and patients understand their responsibilities and expectations for emergency care services.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to report and manage safety hazards and incidents within an organization. It helps to gather information about incidents, their locations, descriptions, types, and severities. The form also tracks the resolution process, including the assignment of personnel to resolve the incidents and the status of the resolution. 
-
-The form should only be used for incidents that are not already documented or updated in the system. 
-
-Before filling out this form, please ensure that you have not already reported this incident. If you're unsure, check the incident registry or contact the responsible personnel.
-
-</thinking>
-
 # Safety Hazard Resolution Report Form - Help Guide
 ## Purpose
 The Safety Hazard Resolution Report Form is designed to gather information about safety hazards and incidents within your organization. It allows you to report incidents, document their resolution, and track the progress of hazard resolutions.

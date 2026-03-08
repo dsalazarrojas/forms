@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for brand manager onboarding. It's a crucial part of the new hire process, ensuring that the brand manager has the necessary information to get started with their new role. This form is likely to be filled out by the new hire, their manager, or the HR team, depending on the company's onboarding process. The form collects essential details such as the new hire's name, start date, department, role summary, systems access required, training needs, manager's name, and HR contact email. This information is vital for HR and management to coordinate and provide a smooth onboarding experience.
-
-Please ensure to only fill this form once per new brand manager hire. If any changes occur after initial submission, please update the HR team directly.
-</thinking>
-
 # Brand Manager Onboarding Form - Help Guide
 ## Purpose
 This form is used to capture information about the new brand manager's details for onboarding purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a self-assessment tool to help individuals evaluate their own stress levels and experiences within a program. It is intended for personal reflection and does not require any specific context or affiliation. The form's purpose is to gather individual feedback and support levels in a program, allowing participants to identify areas of improvement and potential stressors. To ensure the integrity of the data, please note that this form is not affiliated with, endorsed by, or derived from any form platform, and all content is original and released under CC BY 4.0.
-</thinking>
-
 # Mid-Program Stress Assessment - Help Guide
 ## Purpose
 The Mid-Program Stress Assessment is a self-assessment tool designed to help individuals evaluate their stress levels and experiences within a program. It is meant to be a personal reflection tool, and responses will be kept confidential.

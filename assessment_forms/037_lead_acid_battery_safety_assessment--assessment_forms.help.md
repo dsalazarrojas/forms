@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to assess the safety of lead acid batteries in a facility. The form is used to gather information about the type of battery, the training status of personnel handling it, the storage location, and the handling practices. This information is crucial in evaluating the risk of accidents and ensuring a safe working environment. 
-
-The fields on this form should be filled out in accordance with the information and instructions provided. Ensure that all required fields are completed accurately. This guide will walk you through each field to help with the process.
-
-</thinking>
-
 # Lead Acid Battery Safety Assessment - Help Guide
 ## Purpose
 This form is designed to assess the safety of lead acid batteries in a facility. It is used to identify potential risks and ensure a safe working environment.

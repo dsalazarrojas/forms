@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow actors to book a coaching session with one of our available coaches. The form collects personal information, session preferences, and details about what the actor wants to achieve in the session. The purpose of this form is to ensure that the actor's needs are met and that the coach is aware of the best way to structure the session. Please only fill out this form if you are an actor looking to book a coaching session. If you have already booked a session, please do not fill out this form as it will create a duplicate entry in our system.
-</thinking>
-
 # Actor Coaching Session Booking Form - Help Guide
 ## Purpose
 The Actor Coaching Session Booking Form is designed to help actors book a coaching session that suits their needs and goals.

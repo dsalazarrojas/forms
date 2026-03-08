@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to document the transfer of ownership for a VIPB (Very Important Pet or Animal) from one owner to another. It is used to capture information about the animal, the transfer, and the agreements between the parties involved. The purpose of this form is to provide a clear and concise record of the transfer process.
-
-To use this form, you should have the necessary information about the VIPB, such as its type, name, and owner details. You will also need to provide information about the transfer, including the date, location, and reason for the transfer. If there are witnesses to the transfer, their details should also be provided.
-
-This form should not be used for duplicate transfers or if the transfer is not authorized.
-</thinking>
-
 # VipbTransferOfOwnershipContract - Help Guide
 ## Purpose
 This form is used to document the transfer of ownership of a Very Important Pet or Animal (VIPB) from one owner to another.

@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to provide clarity on the purpose and usage of the House Rental Application Form. It's designed to help users understand what information is required and how to complete the form accurately. The form appears to be used for managing applications from potential renters who are interested in renting a house. The form is likely to be used by property managers or landlords to collect relevant information from applicants. It's crucial to note that this form might be duplicated or filled out multiple times, so it's vital to ensure that each application is accurate and complete. If a user has already submitted an application, they can simply fill out this form again if they wish to apply for another house or make changes to their existing application.
-
-</thinking>
-
 # House Rental Application Form - Help Guide
 ## Purpose
 The House Rental Application Form is used for potential renters to apply for a house rental. It's essential to provide accurate and complete information to ensure that your application is considered for a suitable rental opportunity.

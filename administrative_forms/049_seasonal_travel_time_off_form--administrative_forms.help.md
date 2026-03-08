@@ -1,9 +1,3 @@
-<thinking>
-The "seasonal-travel-time-off-form" is a form used by employees to request travel time off from work during the seasonal period. This form ensures that employees provide necessary information to their managers and HR team to approve their travel time off. 
-The form is designed to collect details about the destination, dates of travel, duration, and other relevant information that the manager needs to review and approve. By filling out this form, employees can efficiently communicate their travel plans and obtain the required approvals. 
-Please ensure that you only fill out this form if you have a legitimate need for travel time off during the seasonal period. Repeatedly filling out this form without a valid reason may lead to unnecessary reviews and delays.
-</thinking>
-
 # seasonal-travel-time-off-form - Help Guide
 ## Purpose
 The "seasonal-travel-time-off-form" is a form used by employees to request travel time off from work during the seasonal period.

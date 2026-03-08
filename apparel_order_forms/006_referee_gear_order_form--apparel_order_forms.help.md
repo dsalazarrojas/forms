@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Referee Gear Order Form," I will consider the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-The form purpose is to collect information from referees for their orders, which includes their apparel orders. The form is likely used by a retailer or an organization that sells referee gear, such as jerseys, hats, or other apparel items. The form is probably used for order placement, shipping, and tracking purposes.
-
-</thinking>
-
 # Referee Gear Order Form - Help Guide
 
 ## Purpose

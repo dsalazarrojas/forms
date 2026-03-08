@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for a meet and greet service for dogs. 
-The purpose of the form is to gather details about the user and their pet, such as name, phone number, pet breed, age, and desired services. The form also captures the date and time of the meet and greet, which will help in organizing and scheduling appointments efficiently. The fields are designed to be completed by both pet owners and users of the service. There may be some overlap between fields, so please make sure to review each field carefully and only enter the information that is applicable to your needs.
-</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 This form is designed to collect information for a meet and greet service for dogs. It is intended to gather details about the user and their pet, such as name, phone number, pet breed, age, and desired services. This information will help us schedule appointments and provide better services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to manage appointments for Lash Studio Interior Design. The purpose of this form is to collect information from clients for design consultations, which includes their personal details, preferred design consultants, and details about the consultation itself. This form likely serves as an initial touchpoint for clients to initiate a consultation and for the design team to prepare adequately. 
-</thinking>
-
 # Lash Studio Interior Design Appointment - Help Guide
 
 ## Purpose

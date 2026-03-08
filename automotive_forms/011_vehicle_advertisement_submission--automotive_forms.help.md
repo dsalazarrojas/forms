@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Advertisement Submission - Help Guide
 
 ## Purpose

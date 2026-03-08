@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to be used by teachers to report and manage their absence from the classroom, providing necessary information for the school administration to arrange for a replacement teacher. The form is meant to be filled out by the teacher before their scheduled absence, allowing for efficient planning and minimizing disruptions to the educational process.
-
-To ensure that this form is filled out correctly, please review the following guidelines:
-
-1.  Ensure that you have the necessary authorization or approval to report your absence, as required by your school's policies.
-2.  Be as specific as possible when filling out the form, providing all necessary details such as the start and end dates of your absence.
-3.  Clearly indicate the reasons for your absence, which will help the administration understand the context and make necessary arrangements.
-4.  Make sure to provide accurate and up-to-date student rosters or any other relevant information as required.
-5.  If you need to provide special instructions or ongoing assignments, be sure to include them in the form.
-
-</thinking>
-
 # Classroom Replacement Absence Form - Help Guide
 ## Purpose
 This form is used to report and manage teacher absences, ensuring that the educational process is not disrupted.

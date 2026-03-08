@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from alumni about their demographics, engagement with the alumni community, and feedback. This data will help us understand our alumni's interests and needs, which will inform future engagement strategies.
-</thinking>
-
 # Alumni Questionnaire - Help Guide
 ## Purpose
 This form is a survey aimed at gathering information from alumni about their experiences and engagement with the institution. The goal is to understand alumni's demographics, interests, and level of engagement, which will help us improve our services and activities for them.

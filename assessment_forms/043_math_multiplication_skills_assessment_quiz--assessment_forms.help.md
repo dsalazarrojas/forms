@@ -1,14 +1,3 @@
-<thinking>
-To avoid duplication and ensure that I'm meeting the expectations of the provided YAML, I'll create a user-facing help guide that aligns with the form's structure and purpose.
-
-The Math Multiplication Skills Assessment Quiz is designed to evaluate a student's multiplication skills by asking them to solve math problems and providing space for teachers to note their progress and provide feedback.
-
-This form is meant to be a tool for teachers to assess a student's math multiplication skills, while allowing students to showcase their understanding of the subject matter. The form is intended to be completed by students, and teachers can use it as a means to monitor student progress and provide comments or feedback.
-
-To avoid duplication, I'll focus on providing a comprehensive and clear guide for both teachers and students to understand the form's purpose and functionality.
-
-</thinking>
-
 # Math Multiplication Skills Assessment Quiz - Help Guide
 
 ## Purpose

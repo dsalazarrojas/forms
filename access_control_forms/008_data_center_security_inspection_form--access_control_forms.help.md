@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect and document the findings of a data center security inspection. The purpose of this form is to identify potential security risks and issues within the data center, and to provide a clear and organized record of any follow-up actions that need to be taken. It is possible that this form is used in conjunction with other forms or checklists to ensure that all necessary steps are taken to maintain the security and integrity of the data center. To avoid duplication of effort and ensure accurate reporting, it is essential to complete this form carefully and thoroughly.
-</thinking>
-
 # Data Center Security Inspection Form - Help Guide
 ## Purpose
 This form is used to record and document the findings of a data center security inspection, including any security locks, fire alarms, and video cameras that were checked. It also includes fields for any follow-up actions, notes, and contact information.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to authorize the assignment of tasks between two parties. It is meant to be completed by an individual or a group of individuals who wish to grant or accept permission to work on a specific task. The form is used to document the details of the assignment, including the start and end dates, the parties involved, and any additional notes or signatures required. This form is likely used in a work or project management context where tasks are shared between colleagues or teams. It ensures that all parties are aware of their responsibilities and obligations regarding the assigned task. This form should not be used for other purposes, such as assigning tasks for personal projects or events.
-
-The form is divided into several sections, each addressing a different aspect of the task assignment. Please ensure that you complete all required fields and provide accurate information to ensure the form's purpose is fulfilled.
-
-To confirm that the form is being used correctly and that the assigned task is acknowledged by all parties, please check the "Consent" field and make sure it is set to "True".
-
-</thinking>
-
 # Joint Assignment Authorization Form - Help Guide
 
 ## Purpose

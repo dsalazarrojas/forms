@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients about their accounting data management needs. This form will serve as a preliminary assessment of their current accounting practices and requirements. To ensure accurate and relevant data, please do not complete this form if you have already registered with us in the past. If you have previously completed this form, please contact our support team to inquire about updating your information.
-</thinking>
-
 # Accounting Data Management Registration - Help Guide
 ## Purpose
 This form is designed to collect information about your company's accounting data management needs. It will help us understand your current practices and requirements, allowing us to provide you with tailored services and support.

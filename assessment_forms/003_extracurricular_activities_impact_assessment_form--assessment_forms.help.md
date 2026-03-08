@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the impact of extracurricular activities on various aspects of a student's life. It is intended to gather information about the types of extracurricular activities, their names, and the effects they have on education, career, social, physical, emotional, and spiritual development. This form is likely used by educators or researchers to evaluate the effectiveness of different extracurricular programs or activities.
-
-To ensure the form is used correctly, please verify that you are completing this form for the intended purpose. Additionally, ensure that you are not duplicating efforts, as this form is intended to assess the impact of extracurricular activities and should not be used to gather information that is already well-documented or easily accessible.
-
-Please note that the form is designed to be completed by students or individuals who have participated in extracurricular activities, and their responses should reflect their personal experiences and perceptions.
-</thinking>
-
 # extracurricular_activities_impact_assessment_form - Help Guide
 ## Purpose
 The Extracurricular Activities Impact Assessment Form is designed to evaluate the effects of extracurricular activities on students' lives, including their education, career, social, physical, emotional, and spiritual development.

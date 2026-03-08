@@ -1,8 +1,3 @@
-<thinking>
-This form is used for tracking inventory items. It is designed to be filled out by users to report the current state of inventory items in their possession. The form is split into multiple sections, each corresponding to a different type of inventory item. Users will be asked to select the type of item, enter its quantity, and provide notes for each item. The form will not allow the user to proceed if any required fields are left blank. This form is meant to be completed by users who have access to the inventory and are responsible for tracking its contents.
-
-</thinking>
-
 # Inventory Form - Help Guide
 ## Purpose
 This form is used for tracking inventory items. It is designed to be filled out by users to report the current state of inventory items in their possession.

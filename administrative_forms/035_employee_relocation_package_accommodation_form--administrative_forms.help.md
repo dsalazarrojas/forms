@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their relocation package and accommodation needs. The form is used to determine the company's accommodation requirements for an employee's relocation, including travel method, accommodation type, and other essential details. It's essential to fill out this form accurately to ensure the company can provide the necessary resources and support for the employee's relocation. Please ensure that you are filling out this form for the correct employee relocation package and not duplicating efforts by submitting multiple forms.
-</thinking>
-
 # Employee Relocation Package Accommodation Form - Help Guide
 ## Purpose
 The Employee Relocation Package Accommodation Form is used to collect information from employees about their relocation package and accommodation needs. This information will help the company determine the necessary resources and support for the employee's relocation.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the user's knowledge on syntax, a fundamental aspect of language. This form is designed to evaluate the user's ability to identify correct grammatical structures, verb tenses, sentence agreements, forms, and punctuation. By completing this form, users can demonstrate their understanding of the syntactic rules governing language usage.
-</thinking>
-
 # Syntactic Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate your knowledge on syntax, specifically:

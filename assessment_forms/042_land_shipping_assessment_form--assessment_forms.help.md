@@ -1,6 +1,3 @@
-<thinking>
-The form purpose and context seem to be related to assessing shipping or logistics information, but it's not entirely clear. To confirm, I'll provide a brief internal reasoning block that explains the form's purpose and checks for relevance and non-duplication.
-</thinking>
 # land_shipping_assessment_form - Help Guide
 ## Purpose
 This form, "land_shipping_assessment_form", appears to be designed to collect information about land shipping-related assessments. The form might be used in a logistics or freight management context to gather details about shipping services, delivery dates, times, and other relevant information. 

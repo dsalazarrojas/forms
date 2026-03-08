@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help accountants and financial managers track daily cash transactions, including cash received and disbursed. The form will help users keep a record of all transactions, ensuring accuracy and transparency in financial record-keeping. Each field is designed to capture specific information about each transaction, making it easier to track cash inflows and outflows over time. To avoid confusion, each field has been carefully crafted to minimize errors and improve data quality. Please ensure that you fill out this form accurately and consistently to obtain the most benefit from it.
-</thinking>
-
 # Daily Cash Log Template - Help Guide
 ## Purpose
 The Daily Cash Log Template is a tool for accountants and financial managers to record daily cash transactions. It helps keep track of cash received and disbursed, providing a clear and accurate record of financial activities.

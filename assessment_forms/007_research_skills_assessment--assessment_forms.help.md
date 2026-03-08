@@ -1,13 +1,3 @@
-<thinking>
-
-As a researcher, it's essential to assess your research skills to ensure you're on the right track. This form is designed to evaluate your research skills in various areas, such as question answering, data analysis, and communication. Completing this form will help us understand your strengths and weaknesses, which will inform our training programs and resources to support your growth.
-
-Before you begin, please note that you can skip questions that are not applicable or relevant to your situation. This form is meant to be a general assessment, and some questions might not be relevant to your specific context or experience.
-
-Please ensure that you answer each question accurately and honestly. Your responses will be kept confidential and used only to support your development as a researcher.
-
-</thinking>
-
 # Research Skills Assessment - Help Guide
 ## Purpose
 

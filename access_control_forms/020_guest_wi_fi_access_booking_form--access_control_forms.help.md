@@ -1,12 +1,3 @@
-<thinking>
-This form is used to book guest Wi-Fi access for visitors. It collects information about the visitor's visit details, such as their contact number, visit date and time, and visit reason. The form also asks visitors to acknowledge the policy and sign with their email address. This form is meant to be filled out by visitors before accessing the guest Wi-Fi network. It's essential to ensure that all required fields are filled out accurately and completely.
-
-Before filling out this form, please note that all fields marked as "required" are mandatory. Please make sure to provide a valid email address for signature and contact purposes.
-
-Please fill out this form carefully and accurately to ensure a smooth visit experience.
-
-</thinking>
-
 # Guest Wi Fi Access Booking Form - Help Guide
 ## Purpose
 The Guest Wi-Fi Access Booking Form is used to book guest Wi-Fi access for visitors.

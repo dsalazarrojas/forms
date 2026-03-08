@@ -1,7 +1,3 @@
-<thinking>
-The form is likely intended for booking and managing photo shoots for a photography business. The fields may be used to collect information on the shoot date, location, time, client and photographer details, and status updates. To confirm, I will design the form and its help guide based on this context.
-</thinking>
-
 # Photo Shoot Booking Form - Help Guide
 ## Purpose
 This form is used to book and manage photo shoots for clients and photographers. It collects essential details such as date, time, location, and status updates to facilitate smooth and organized shoot planning and communication.

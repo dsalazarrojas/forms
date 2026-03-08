@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Competition Court Agreement Form - Help Guide**
 
 ## Purpose

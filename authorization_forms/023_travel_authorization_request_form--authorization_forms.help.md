@@ -1,14 +1,3 @@
-<thinking>
-**Internal Note**: Before starting to complete the Travel Authorization Request Form, please make sure you have checked with your supervisor or department head to confirm that your request is not already approved or declined. This form should only be filled out when your travel plans are confirmed. If you are not sure, you can check the travel authorization portal or contact your supervisor directly.
-
-This form is designed to request approval for travel on behalf of the employee to ensure that all necessary procedures are followed and that your travel plans align with company policies. The information collected in this form will be reviewed and approved or declined by the relevant authority.
-
-Please ensure that all the required fields are filled out correctly and accurately. Some fields may be marked as optional, but providing the most accurate information will help speed up the approval process.
-
-Before submitting the form, make sure to proofread it carefully to avoid any mistakes.
-
-</thinking>
-
 # Travel Authorization Request Form - Help Guide
 
 ## Purpose

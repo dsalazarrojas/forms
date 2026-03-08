@@ -1,14 +1,3 @@
-<thinking>
-This form is used for participants to authorize and agree to a Code of Conduct, which outlines expected behavior and rules for participation in an event or program. This form is intended to ensure that all participants understand and agree to follow the Code of Conduct, and to provide a way for parents or guardians to give consent for minors who are participating. 
-
-The form is divided into four main sections: Participant Information, Code of Conduct Acknowledgement, Consequences Understanding, and Voluntary Participation. 
-
-The purpose of this form is to ensure that all participants understand and agree to abide by the Code of Conduct, and to provide a record of their understanding and agreement. This form is likely to be used in settings such as events, conferences, and programs where there is a need for a shared understanding of expectations and consequences for behavior.
-
-Before filling out this form, it's essential to understand that the questions and fields are designed to ensure that participants and their parents or guardians are aware of the Code of Conduct and its implications. Please take the time to review each section carefully.
-
-</thinking>
-
 # Code Of Conduct Agreement Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization and agreement from participants to follow a Code of Conduct for an event or program. It's essential to understand that the Code of Conduct outlines expected behavior and rules for participation.

@@ -1,13 +1,3 @@
-<thinking>
-
-Internal reasoning for this form:
-
-This form is intended for use by finance team members to submit reports to the treasury department for approval. The purpose of this form is to provide a structured way for team members to submit reports, including details such as report type, report date, and submitter information. The form is designed to be easy to fill out and to guide the submitter through the necessary steps to ensure accurate and complete reporting. Before filling out this form, please ensure that you are authorized to submit reports and that the report is complete and accurate. 
-
-Also, please note that you should not submit duplicate reports or reports that are incomplete. If you have any doubts or concerns, please contact the finance team leader or treasury manager for clarification.
-
-</thinking>
-
 # Treasury Reporting Approval Application Form - Help Guide
 ## Purpose
 The Treasury Reporting Approval Application Form is a structured way for finance team members to submit reports to the treasury department for review and approval.

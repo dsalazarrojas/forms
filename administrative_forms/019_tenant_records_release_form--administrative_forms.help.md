@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release tenant records from the system. The purpose of this form is to provide a secure and controlled way to release data from tenant accounts. This form is intended for use by authorized personnel, and its completion is a critical step in the process of releasing tenant data. Before filling out this form, please ensure that you are authorized to access and release tenant records. This guide is provided to ensure that you understand the fields and their requirements accurately.
-</thinking>
-
 # Tenant Records Release Form - Help Guide
 ## Purpose
 This form is used to release tenant records from the system, providing a secure and controlled way to access and release sensitive data.

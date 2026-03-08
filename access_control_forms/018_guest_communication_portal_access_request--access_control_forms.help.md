@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form is used for guests to request access to the communication portal. Before filling out this form, please ensure that you have not already submitted a request for access. Repeated requests may cause unnecessary delays or duplication of work. 
-</thinking>
-
 # Guest Communication Portal Access Request - Help Guide
 ## Purpose
 The Guest Communication Portal Access Request form is used to request access to the guest communication portal. Please fill out this form to submit your request.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for the purpose of a new car purchase process, covering various aspects of vehicle registration, financing, warranty, and other relevant details. The form consists of 25 fields, each with a specific label and description. It is recommended to fill out the form carefully, ensuring that all required fields are completed correctly. This will help to ensure that the new car purchase process is completed accurately and efficiently.
-
-Before you start, please make sure to read through the entire form to understand what each field is for and what information is required.
-
-Please note that this form is not affiliated with any particular form platform and is a generated version created for general use. You are free to use, modify, or distribute it as you see fit.
-
-If you are not sure about any field or have any questions, please don't hesitate to reach out to form@gic.mx.
-
-</thinking>
-
 # new_car_purchase_checklist - Help Guide
 ## Purpose
 The "new_car_purchase_checklist" form is designed to collect information for the new car purchase process, covering various aspects of vehicle registration, financing, warranty, and other relevant details.

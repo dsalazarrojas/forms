@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to record the results of a spare wheel inspection, which is an essential maintenance task to ensure the safe and reliable operation of a vehicle. This form is designed to collect information about the inspection, including the date, type of wheel, its condition, mileage, and any notes or comments. It also asks for contact information, which may be useful for follow-up communication. The fields in this form are intentionally designed to be optional, allowing the user to fill out as much or as little information as needed, depending on the specific context. This form is suitable for use in various automotive maintenance scenarios, such as fleet management, repair shops, or individual vehicle owners.
-</thinking>
-
 # Spare Wheel Inspection Checklist - Help Guide
 ## Purpose
 The Spare Wheel Inspection Checklist is a form to record the results of a spare wheel inspection. This is an essential maintenance task to ensure the safe and reliable operation of a vehicle.

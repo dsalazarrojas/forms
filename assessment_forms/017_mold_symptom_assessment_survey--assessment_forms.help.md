@@ -1,7 +1,3 @@
-<thinking>
-The form "Mold Symptom Assessment Survey" is designed to collect information about potential mold-related symptoms exhibited by individuals or facilities. This form is meant to help assess the severity of mold symptoms and create a follow-up plan. Please ensure that the information provided is accurate and relevant to the symptoms experienced. To ensure the effectiveness of the assessment, please complete the form thoroughly and honestly. If you have any doubts about the purpose or content of the form, please consult the relevant authorities or experts. Please note that the required fields are indicated by their "required" attribute in the form.
-</thinking>
-
 # Mold Symptom Assessment Survey - Help Guide
 ## Purpose
 The Mold Symptom Assessment Survey is a form used to collect information about potential mold-related symptoms exhibited by individuals or facilities. This form helps assess the severity of mold symptoms and create a follow-up plan.

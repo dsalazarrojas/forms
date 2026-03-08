@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess knowledge of PL/SQL cursor concepts. It will likely be used by developers, database administrators, or IT professionals who need to evaluate their understanding of cursors in PL/SQL. The form will help gauge their knowledge in areas like primary functions, data fetch, and usage in PL/SQL.
-</thinking>
-
 # PL/SQL Cursor Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of PL/SQL cursor concepts. It consists of a series of questions that cover various aspects of cursors in PL/SQL, including their primary function, data fetch, and usage.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Cat Intake Diversion Form - Help Guide
 
 ## Purpose

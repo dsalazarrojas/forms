@@ -1,8 +1,3 @@
-<thinking>... (internal reasoning)
-This form is for registering participants in the National Design Award. The form is designed to collect basic information about the participant, such as their registration details, award category, design type, submission date, uploaded file, description, design image, and participant name. The form is meant to be completed by participants who wish to be considered for the award. The form will be reviewed and validated to ensure that all required fields are filled out correctly and that there is no duplication of registration entries.
-
-</thinking>
-
 # National Design Award Registration Form - Help Guide
 ## Purpose
 The National Design Award Registration Form is a mandatory form for participants who wish to be considered for the award. The form is used to gather information about the participant's project and their registration details.

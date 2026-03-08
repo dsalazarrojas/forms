@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about the status of facilities, such as office buildings, classrooms, and laboratories, after they have undergone maintenance. It's used by facility management teams to track and report on the maintenance requests, current status, and other relevant details. The form is divided into several sections, each with specific fields to capture necessary information.
-
-Before filling out this form, please make sure to have the necessary data ready. You will need to report on a specific facility, providing details such as its type and location. You can select multiple options for some fields, so be sure to carefully review the available choices.
-
-This form does not collect sensitive or personally identifiable information, so you can fill it out without any concerns about data protection.
-
-</thinking>
-
 # Facility Maintenance Status Report Form - Help Guide
 ## Purpose
 The Facility Maintenance Status Report Form is used by facility management teams to gather information about the status of facilities after maintenance. It helps track and report on maintenance requests, current status, and other relevant details.

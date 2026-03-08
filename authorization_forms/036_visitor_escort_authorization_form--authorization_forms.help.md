@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended for employees, visitors, and others who need to fill out the "Visitor Escort Authorization Form" to authorize access to certain areas of a facility. This form is used to gather essential information from visitors and their escorts before granting access. Before filling out this form, ensure that you have already checked the "Authorization Form" page to see if your name is already listed as an authorized escort for the visitor.
-
-</thinking>
-
 # Visitor Escort Authorization Form - Help Guide
 ## Purpose
 The "Visitor Escort Authorization Form" is used to authorize visitors to access certain areas of a facility. This form helps ensure that visitors are accompanied by authorized personnel, improving security and safety.

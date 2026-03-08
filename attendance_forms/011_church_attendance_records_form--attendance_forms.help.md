@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record attendance information for church events and services. It is intended to be used by church administrators or volunteers to collect and track attendance data. This form should not be used to record attendance for every event, only for specific events or services. Please ensure you are using this form correctly and accurately recording attendance data to maintain an accurate record of church attendance.
-</thinking>
-
 # Church Attendance Records Form - Help Guide
 ## Purpose
 This form is used to record attendance information for church events and services. It helps church administrators and volunteers to collect and track attendance data for each event, which can be useful for planning and evaluation purposes.

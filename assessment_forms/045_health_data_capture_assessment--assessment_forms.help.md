@@ -1,6 +1,3 @@
-<thinking>
-This form is a generic assessment tool designed to capture essential health data and consent information from users. The form is likely to be used in medical settings or during health assessments, aiming to collect relevant data to support medical professionals in understanding users' health status and history. To ensure this guide is relevant to the correct audience, please note that it is intended for end-users who are expected to be individuals undergoing health assessments, not for technical users who might be modifying the form. This guide will not cover the intricacies of the form's creation or technical implementation.</thinking>
-
 # Health Data Capture Assessment - Help Guide
 ## Purpose
 This form captures basic health information and consent from users in a straightforward manner, aiming to support medical professionals in understanding users' health status and history.

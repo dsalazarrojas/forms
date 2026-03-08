@@ -1,5 +1,3 @@
-<thinking>By filling out this form, you will provide information about an employee's work performance and skills assessment. This form is for internal use only, and its purpose is to collect data for employee development and performance management purposes. To ensure that the form is filled out correctly, please carefully read and follow the instructions below.</thinking>
-
 # Employee Assessment Form - Help Guide
 ## Purpose
 The Employee Assessment Form is a tool used by our organization to evaluate an employee's performance and skills. This form helps us to better understand an employee's strengths and weaknesses and provides a basis for development and improvement plans.

@@ -1,17 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of completing the Bank Account Registration Form. 
-
-The form is designed to collect information about the user's identity, account preferences, and account details for the purpose of opening a bank account. 
-
-To ensure that users have the correct information and can complete the form accurately, it is recommended that users review the form carefully and ensure that they provide the correct information for each field. 
-
-The form is divided into several sections, each with its own fields and requirements. The fields are designed to be as clear and concise as possible, with each section focused on a specific aspect of the user's identity or account preferences. 
-
-Please note that some fields are required while others are optional, and users will need to review the form carefully to ensure they provide all necessary information. 
-
-The following guide is meant to be a step-by-step explanation of the form, providing clear explanations for each field and helping users navigate the form efficiently.
-</thinking>
-
 # Bank Account Registration Form - Help Guide
 
 ## Purpose

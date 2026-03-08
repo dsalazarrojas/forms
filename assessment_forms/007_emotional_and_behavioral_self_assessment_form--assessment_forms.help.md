@@ -1,5 +1,3 @@
-<thinking> This form is designed to help individuals assess their emotional and behavioral patterns. The form is used to gather information about an individual's feelings, thoughts, and behaviors related to their emotional well-being. Each field is designed to elicit specific information that can help understand a person's emotional state, intensity, and frequency of emotions, as well as their behavioral patterns and coping mechanisms. The form is a self-assessment tool and is intended for personal and non-clinical use. Please ensure that this form is relevant to your needs before proceeding. </thinking>
-
 # emotional_and_behavioral_self_assessment_form - Help Guide
 ## Purpose
 The emotional and behavioral self-assessment form is a tool for individuals to evaluate their emotional and behavioral patterns. It is designed to help you understand your feelings, thoughts, and behaviors related to your emotional well-being.

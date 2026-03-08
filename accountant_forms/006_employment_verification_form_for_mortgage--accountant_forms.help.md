@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about an applicant's employment verification for mortgage purposes. This form is likely used by lenders to verify the employment status and details of the applicant. The form collects information about the applicant's job history, current employment status, and contact details. It's essential to fill out this form accurately to ensure a smooth mortgage application process.
-
-The form has 25 fields, which can be categorized into several sections. The first section is about the applicant's current employment status, which includes the employment status, job title, work phone number, and work email. The second section is about the job history, which includes the job history, job title, start and end dates, and reason for leaving. The third section is about the current employer, which includes the name of the employer, years at the current employer, annual salary, and employment status.
-
-To complete this form, the applicant should start by filling out the current employment status section, which includes entering the employment status, job title, work phone number, and work email. Then, they should move on to the job history section, which requires information about the job history, job title, start and end dates, and reason for leaving. Next, they should enter details about the current employer, including the name of the employer, years at the current employer, annual salary, and employment status. Finally, they should review and verify the entered information to ensure accuracy.
-
-</thinking>
-
 # Employment Verification Form For Mortgage - Help Guide
 ## Purpose
 This form is used to collect information about an applicant's employment verification for mortgage purposes.

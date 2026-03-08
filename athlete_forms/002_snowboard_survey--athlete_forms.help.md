@@ -1,8 +1,3 @@
-<thinking>
-I will create a comprehensive help guide for the Snowboard Survey form. I will review the provided YAML fields and use them to create a user-friendly guide that explains the form's purpose, how to complete it, and each field's meaning. This guide will be written in Markdown format, following the specified structure.
-
-</thinking>
-
 # Snowboard Survey - Help Guide
 ## Purpose
 This is the Snowboard Survey form, designed to gather information from snowboarders about their preferences, experiences, and opinions. The form is used to collect data that will help us better understand the snowboarding community and improve our services.

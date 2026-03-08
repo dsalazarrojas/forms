@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to document the release of a custody agreement between a parent or guardian and a custodian, typically a family member or caregiver. The form captures the details of the agreement, including the custodian's name, the child's name, the status of the custodianship, and the reason for the release. It also includes fields for the custodian to sign and a witness to witness the signing.
-
-The form is designed to be used in situations where a parent or guardian wants to transfer their custody rights to another person, and to provide a record of the agreement that can be used for future reference.
-
-To avoid duplicating or overlapping forms, this form is intended for use when a new custodianship agreement is being established or when an existing agreement is being terminated or modified. It is not intended for use in situations where an existing agreement is being extended or updated.
-
-</thinking>
-
 # Custody Agreement Release Form - Help Guide
 ## Purpose
 The Custody Agreement Release Form is used to document the release of a custody agreement between a parent or guardian and a custodian, typically a family member or caregiver.

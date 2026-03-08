@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to allow users to opt out of Multi Factor Authentication (MFA), a security feature that requires users to provide additional verification steps to access certain systems or resources. The form is meant to gather information from users who wish to be exempt from this additional security measure. 
-
-The form is divided into sections that guide users through the process of requesting exemption. Each field in the form is described below.
-
-</thinking>
-
 # Multi Factor Authentication Opt Out Form - Help Guide
 ## Purpose
 This form is used to request exemption from Multi Factor Authentication, a security feature that ensures an additional layer of verification for users accessing certain systems or resources.

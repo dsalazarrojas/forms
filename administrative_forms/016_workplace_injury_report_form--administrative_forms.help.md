@@ -1,7 +1,3 @@
-<thinking>
-The Workplace Injury Report Form is designed to collect information about workplace injuries that have occurred within the organization. This form is intended to gather details about the employee who was injured, the circumstances surrounding the injury, and the progress of the incident. The goal is to provide a standardized and efficient way to report and track workplace injuries, ensuring that necessary steps are taken to address and resolve the issue.
-</thinking>
-
 # Workplace Injury Report Form - Help Guide
 ## Purpose
 The Workplace Injury Report Form is a tool used to report and track workplace injuries, allowing for prompt action to be taken to address and resolve the issue. By providing detailed information about the incident, supervisors and HR representatives can effectively manage the situation and support the injured employee.

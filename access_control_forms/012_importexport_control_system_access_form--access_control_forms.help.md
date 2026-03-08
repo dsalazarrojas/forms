@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed to manage access control for import and export operations in a system. It likely deals with requests and approvals for users to export or import data. The purpose of this form may be to create, edit, or manage access control for specific export or import types, frequencies, and users. The form may also include fields for tracking the status of these operations, such as approved or declined requests, and reasons for cancellations or denials. Before proceeding, let's make sure this form is not already being handled through other existing forms or processes within the system.</thinking>
-
 # ImportExport Control System Access Form - Help Guide
 
 ## Purpose

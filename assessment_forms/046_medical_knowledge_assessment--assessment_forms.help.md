@@ -1,11 +1,3 @@
-<thinking>
-A help guide is being created for the "Medical Knowledge Assessment" form. This form is designed to assess a medical professional's current level of medical knowledge, highest level of medical degree earned, birth year, and other relevant information. The form will be used to evaluate medical professionals' knowledge and skills. This guide will ensure that users understand the purpose and requirements of the form.
-
-Before completing the form, please check that you have not completed it before and that the information you are providing is accurate and up-to-date.
-
-Please note that the form is divided into two sections: "Anatomy and Physiology" and "Medical Ethics".
-</thinking>
-
 # Medical Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess a medical professional's current level of medical knowledge, highest level of medical degree earned, birth year, and other relevant information.

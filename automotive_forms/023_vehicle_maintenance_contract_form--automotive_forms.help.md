@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form was created to facilitate the collection of information related to vehicle maintenance contracts. This form is designed to be a generic template and may not be specific to any particular industry or business use case. Its purpose is to gather basic customer and vehicle information, and details about the maintenance plan for a vehicle. This form is suitable for use in various settings, such as dealerships, repair shops, or maintenance facilities.
 
 </thinking>

@@ -1,12 +1,5 @@
 # Emergency Contact Information Validation Form - Help Guide
 
-<thinking>
-The purpose of this form is to gather information about emergency contacts for administrative purposes. This form is used to validate and update emergency contact information for a specific individual. It is essential to ensure accurate and up-to-date information to facilitate effective communication in case of emergencies.
-The form is designed to be completed by authorized personnel, and its purpose is to prevent duplication of effort and ensure consistency in the emergency contact information maintained.
-
-This help guide will help users understand each field's purpose and requirement.
-</thinking>
-
 # Purpose
 The Emergency Contact Information Validation Form is used to gather and validate information about a person's emergency contacts, including their name, relationship, phone number, email address, and language spoken.
 

@@ -1,11 +1,3 @@
-<thinking>
-The Courier Service Authorization Form is used by customers to authorize the delivery of packages or items on their behalf, typically for business purposes or when they need to have packages delivered to a different location. This form is used to collect information about the customer and the package details to ensure that the delivery is done according to the customer's requirements and preferences. 
-
-This form may be used by customers with a one-time delivery need or for recurring business deliveries. When filling out this form, it is essential to provide accurate and detailed information about the customer and the package to ensure smooth and secure delivery.
-
-It is not recommended to fill out this form multiple times for a single customer with the same delivery instructions. Please fill out the form only once per customer and delivery request.
-</thinking>
-
 # Courier Service Authorization Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to facilitate the delivery of packages or items. It helps ensure that the delivery process is efficient and secure.

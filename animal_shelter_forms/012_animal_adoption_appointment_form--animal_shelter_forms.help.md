@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our Animal Adoption Appointment Form accurately captures all relevant information for potential adopters, without duplicating effort or causing undue burden. The form should be clear, concise, and easy to use, while also being comprehensive enough to help us match adopters with the best possible matches for their lifestyle and preferences. To achieve this, we should focus on creating a user-friendly design that guides users through the adoption process with minimal cognitive overhead. We should also consider the needs of our users, including those with limited time or technological expertise. Let's keep the form simple, intuitive, and free of unnecessary complexity.
-</thinking>
-
 # Animal Adoption Appointment Form - Help Guide
 ## Purpose
 The Animal Adoption Appointment Form is designed to help you schedule an appointment to meet our available animals for adoption. By filling out this form, you'll help us better understand your lifestyle, preferences, and needs, so we can match you with the perfect animal companion.

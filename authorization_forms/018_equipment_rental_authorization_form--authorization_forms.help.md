@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to authorize the rental of equipment for a specific time period. It's likely used by a company or organization to manage equipment rentals within their premises. The form should only be filled out by authorized individuals or departments within the organization. 
-
-When completing this form, you'll be providing information about the renter, the equipment being rented, and your contact details. This form should only be completed once the rental terms and conditions have been read and agreed to.
-
-</thinking>
 # equipment_rental_authorization_form - Help Guide
 ## Purpose
 This form is used to authorize the rental of equipment. It is intended for use by authorized individuals or departments within an organization to manage equipment rentals within their premises.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a new client record in the system, which will allow users to store and manage information about new clients. This form is used to collect personal and contact information from clients, and will help ensure that all relevant details are captured in a consistent and accurate manner. This form is not intended for duplicate records, so please ensure that you only submit this form for new clients. If you are unsure whether a client already exists in the system, please check the client list before submitting this form.
-</thinking>
-
 # New Client Record Form - Help Guide
 ## Purpose
 The New Client Record Form is used to create a new client record in the system. This form collects personal and contact information from clients, which will be stored in the system for future reference and management.

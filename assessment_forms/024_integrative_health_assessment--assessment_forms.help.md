@@ -1,5 +1,3 @@
-<thinking>...the form appears to be a comprehensive assessment tool designed to gather information on various aspects of a person's health, including demographics, medical history, wellness goals, and physical, mental, emotional, and spiritual well-being. The form is likely used in a healthcare setting, such as a doctor's office or wellness center, to provide a thorough understanding of a patient's health status... (internal reasoning for form purpose and relevance)</thinking>
-
 # Integrative Health Assessment - Help Guide
 ## Purpose
 The Integrative Health Assessment form is designed to gather a comprehensive overview of a person's health status, covering demographics, medical history, wellness goals, and emotional, physical, mental, and spiritual well-being.

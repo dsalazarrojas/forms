@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the purpose and intent behind it. Based on the YAML, the form appears to be designed to collect information from users for a sculpture workshop, including participant details and workshop schedule information. The form seems to be relevant for users who want to book a spot in the workshop, and it's essential to ensure that the form is completed correctly to prevent errors. I will not duplicate the internal logic of the form, as it's not necessary for the user-facing guide.
-
-</thinking>
-
 # Sculpture Workshop Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a sculpture workshop, including participant details and workshop schedule information. It is intended for users who want to book a spot in the workshop.

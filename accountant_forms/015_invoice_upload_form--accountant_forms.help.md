@@ -1,14 +1,3 @@
-<thinking>
-**Form Purpose and Relevance**
-
-The "Invoice Upload Form" is a tool for uploading invoices to a system, allowing users to submit their invoices and associated customer information. This form is designed to collect the necessary data for processing and payment purposes.
-
-This form should only be used for genuine invoice uploads. Please do not use this form for any other purpose, as it may lead to data duplication and unnecessary processing.
-
-The form is meant for customers or staff who need to upload invoices for payment or processing. Ensure that you have the necessary authorization to access and upload invoices through this form.
-
-</thinking>
-
 # Invoice Upload Form - Help Guide
 ## Purpose
 The "Invoice Upload Form" is a tool for uploading invoices to a system, allowing users to submit their invoices and associated customer information.

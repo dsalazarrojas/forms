@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the HR knowledge of users, and it is required for employees or team members to complete it to ensure they have the necessary knowledge to perform their job tasks. The form is designed to be completed by one person at a time. The fields are self-explanatory. If you're not sure about any field, please ask your supervisor or colleague for clarification.
-</thinking>
-
 # HR Knowledge Assessment - Help Guide
 ## Purpose
 The HR Knowledge Assessment form is used to evaluate the knowledge and skills of employees or team members regarding HR-related topics. Completing this form ensures that users have the necessary knowledge to perform their job tasks effectively.

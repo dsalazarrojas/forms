@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate the collection of data for claims processing audits within the company. The form is used to track the progress of audits, identify potential issues, and implement corrective actions to improve claims processing efficiency and reduce non-compliance. To ensure accurate and effective use, this guide will walk you through the purpose, completion process, and explanations of each field.
-
-</thinking>
-
 # Claims Processing Audit Form - Help Guide
 
 ## Purpose

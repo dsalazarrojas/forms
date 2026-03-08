@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a Clothing Purchase Invoice. This form is used to document a customer's order for clothing items, including details such as customer information, billing and shipping addresses, items purchased, and order totals. It's essential to ensure that each required field is filled out accurately to avoid incomplete orders. Please make sure you have all the necessary details before completing this form.
-</thinking>
-
 # Clothing Purchase Invoice - Help Guide
 ## Purpose
 ## How To Complete This Form

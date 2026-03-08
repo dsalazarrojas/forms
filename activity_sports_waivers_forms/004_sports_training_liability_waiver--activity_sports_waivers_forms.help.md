@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the Sports Training Liability Waiver form is used correctly by the end users. This form is intended to collect information from clients or customers who are participating in sports training activities at a facility. The form asks for general contact information, emergency contact details, medical conditions, and facility information to ensure that the client is properly informed about the risks and procedures of the training activity. Before filling out the form, please review the fields below to understand the purpose of each section.</thinking>
-
 # Sports Training Liability Waiver - Help Guide
 ## Purpose
 This form is used to collect information from clients participating in sports training activities at a facility. It ensures that clients are properly informed about the risks and procedures of the training activity.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for recording and managing attendance of students at K12 institutions. The form should be completed for each student at the end of each day to track their attendance. To ensure accuracy, it's essential to complete this form for each student only once per day. Please note that some fields are not required, but it's still crucial to fill them out correctly to maintain consistency and accuracy in attendance records.
-</thinking>
-
 # K12 Attendance Form - Help Guide
 ## Purpose
 The K12 Attendance Form is a daily attendance tracking tool for students at K12 institutions. It helps administrators and teachers monitor student attendance and maintain accurate records.

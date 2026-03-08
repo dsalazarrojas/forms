@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is designed to assess the risk of caries (cavities) in patients, and it is intended for use by dental professionals. To ensure accurate and comprehensive risk assessment, please complete this form carefully and truthfully. The form is divided into sections for patient information, habits and hygiene, clinical findings, risk evaluation, treatment plan, and signature. Please answer all questions truthfully, and if you are unsure of any answer, please indicate so in the relevant field. Do not leave any fields blank.
-</thinking>
-
 # Caries Risk Assessment Form - Help Guide
 ## Purpose
 

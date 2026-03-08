@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a parental request for blocking access to an app. When a parent/guardian submits this form, it will be reviewed and evaluated based on the input provided. To ensure that the form is completed correctly and accurately, please review the following guide.
-</thinking>
-
 # Parental App Blocking Request Form - Help Guide
 ## Purpose
 The Parental App Blocking Request Form is a tool used by parents or guardians to request blocking access to an app for their child. This form helps to collect information necessary for the evaluation and blocking of the app.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers requesting window tint installation services. It is intended for internal use within the company, and the data collected will be used to schedule appointments and provide quotes for the services. This form should only be filled out by customers who are looking to book an appointment for window tint installation, and not for any other purpose. Please make sure to fill out the form carefully and accurately to avoid duplication of efforts.
-</thinking>
-
 # Window Tint Installation Request Form - Help Guide
 ## Purpose
 This form is used to request window tint installation services for your vehicle. Please fill out the form carefully to ensure that we have all the necessary information to provide you with an accurate quote and schedule an appointment.

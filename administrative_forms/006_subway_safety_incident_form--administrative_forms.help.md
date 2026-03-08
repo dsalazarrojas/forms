@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Subway Safety Incident Form is to document and report any incidents that occur during subway operations, ensuring that safety measures are taken to prevent future incidents and provide a safe working environment for employees. This form is not intended for reporting minor accidents or injuries, but rather for serious incidents that may have resulted in physical harm or near-miss situations. Please ensure you only submit reports that are relevant to the incident's severity and impact. To avoid duplicate reporting, please review the existing incident reports and ensure this new report is not a repeat submission.
-</thinking>
-
 # Subway Safety Incident Form - Help Guide
 ## Purpose
 The Subway Safety Incident Form is used to document and report any incidents that occur during subway operations, ensuring that safety measures are taken to prevent future incidents and provide a safe working environment for employees.

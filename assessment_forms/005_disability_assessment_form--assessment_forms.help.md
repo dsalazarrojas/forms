@@ -1,15 +1,3 @@
-<thinking>
-
-The Disability Assessment Form is used to collect information from employees about their disabilities and medical conditions. This form is designed to help the organization assess and accommodate the needs of employees with disabilities. It is essential to complete this form accurately and honestly to ensure that you receive the necessary support and accommodations.
-
-Before completing the form, please note that:
-
-* This form is not a medical diagnosis tool. If you have a medical condition or concern, please consult a healthcare professional for guidance.
-* The information provided in this form will be kept confidential and used only for internal purposes within the organization.
-* Please answer all questions honestly and accurately to the best of your ability.
-
-</thinking>
-
 # Disability Assessment Form - Help Guide
 ## Purpose
 The Disability Assessment Form is used to collect information from employees about their disabilities and medical conditions.

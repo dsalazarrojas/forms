@@ -1,10 +1,3 @@
-<thinking>
-The "Agricultural Unit Assessment Form" is designed to collect data on the condition and performance of agricultural units, providing a framework for assessors to evaluate various aspects of these units. This form aims to promote best practices in agricultural management, identify areas for improvement, and inform decision-making for unit owners and stakeholders. It is essential to complete this form accurately and thoroughly to ensure the assessment is comprehensive and actionable.
-
-To confirm, this form is not intended for duplication or repeated assessments; each submission should represent a new evaluation of a unique agricultural unit.
-
-</thinking>
-
 # Agricultural Unit Assessment Form - Help Guide
 
 ## Purpose

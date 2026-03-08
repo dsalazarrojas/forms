@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Service Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about vehicles requiring service. It's intended to be used by customers or vehicle owners to request services for their vehicles. Fill out this form to provide detailed information about your vehicle, the service requested, and any specific needs you may have.

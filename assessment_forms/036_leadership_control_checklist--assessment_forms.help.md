@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate leadership control in a team or organization. It may be used by team leaders or managers to self-assess or evaluate the performance of subordinates. However, there is no clear indication that this form is intended to be used in a specific context, such as during performance reviews or for onboarding new leaders. It's possible that the form could be used in conjunction with other assessment tools or for general leadership development. Without more information, we can't confirm the exact purpose or usage scenario for this form.
-</thinking>
-
 # Leadership Control Checklist - Help Guide
 ## Purpose
 The Leadership Control Checklist is a form used to evaluate leadership performance or control in a team or organization.

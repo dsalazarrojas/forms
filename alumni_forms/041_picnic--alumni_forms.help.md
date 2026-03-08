@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from alumni about a picnic event. The purpose of this form is to gather data for internal use, and it is intended for alumni who have attended the picnic. The form should only be filled out by those who have attended the picnic. This form is not intended for general feedback or suggestions. 
-
-If you're an alumnus or alumna who has attended the picnic and need to provide information, please fill out this form. If you're not an alumnus or alumna, you do not need to fill out this form.
-
-To determine if you need to fill out this form, please check the category list below. If you see "Yes" in the category list, it means you should fill out this form.
-
-</thinking>
-
 # Picnic - Help Guide
 ## Purpose
 This guide is to assist you in completing the Picnic form.

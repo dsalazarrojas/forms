@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sports_facility_marketing_event_consent_form - Help Guide
 ## Purpose
 This form is designed to collect consent and other relevant information from individuals participating in sports facility marketing events. It ensures that participants are aware of and agree to the terms and conditions of the event, including marketing permissions and waiver requirements.

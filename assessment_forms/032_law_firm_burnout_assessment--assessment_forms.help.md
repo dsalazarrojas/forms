@@ -1,5 +1,3 @@
-<thinking>...This form is designed to assess the burnout risk and level of law firms. The purpose of this form is to help law firms measure their burnout risk and identify areas for improvement in terms of job satisfaction, work-life balance, burnout symptoms, and burnout prevention. This form is not affiliated with any form platform and is an original adaptation of public survey metadata. It is released under CC BY 4.0 license and can be used, modified, and even sold with proper credit...</thinking>
-
 # Law Firm Burnout Assessment - Help Guide
 ## Purpose
 The Law Firm Burnout Assessment is a tool designed to help law firms measure their burnout risk and identify areas for improvement. It consists of multiple questions that cover various aspects of burnout, including stress symptoms, emotional exhaustion, burnout risk, and job satisfaction.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule an appointment with an office staff member for office hours. Before starting, ensure that this form is not a duplication of another request or conversation. If you have a meeting request pending, it's best to wait until you receive a response before resubmitting.
-</thinking>
-
 # office_hours_appointment_form - Help Guide
 ## Purpose
 This form is used to book an appointment with a staff member during their office hours. You can select a specific staff member, time slot, and other preferences to schedule your meeting.

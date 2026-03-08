@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about legal offensives (assaults, harassments, and vandalisms) in a concise and structured manner. This form is likely used by law enforcement or authorities to gather data and track incidents. It may also be used by individuals or organizations to report crimes or gather data for analysis.
 
 </thinking>

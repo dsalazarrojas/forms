@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Embryonic Development Assessment" form, I'll need to understand the form's purpose, how to complete it, and what each field means. 
-
-Based on the provided YAML, the form seems to be used to assess the developmental stage, gestational age, size, and potential abnormalities of an embryo. The form also includes an assessment outcome and comments sections. This suggests that the form is likely used in a medical or scientific context, possibly in research or fetal development studies. 
-
-Let's start by considering the following fields: Development Stage, Gestational Age, Embryo Size, Developmental Abnormalities, Assessment Outcome, Comments, Researcher's Name, and Institution. 
-
-This form appears to be focused on collecting data about fetal development, which is crucial in various medical and scientific studies. Each field will be explained in detail below.
-
-</thinking>
-
 # Embryonic Development Assessment - Help Guide
 ## Purpose
 The Embryonic Development Assessment form is used to collect data about the developmental stage, gestational age, size, and potential abnormalities of an embryo. This form is likely used in medical or scientific research to track and analyze fetal development. 

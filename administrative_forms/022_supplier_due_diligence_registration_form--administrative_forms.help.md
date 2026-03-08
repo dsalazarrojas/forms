@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that this form is only filled out by suppliers who have not already completed a due diligence registration form. This form should be used to gather necessary information for suppliers who are new to our system or have had significant changes to their business information. This form will help us to verify and validate the supplier's information, and ensure that they are in good standing with our organization. It should not be used for suppliers who have already completed a due diligence registration form in the past.
-</thinking>
-
 # Supplier Due Diligence Registration Form - Help Guide
 ## Purpose
 The Supplier Due Diligence Registration Form is designed to gather important information about suppliers who are new to our system or have undergone significant changes to their business. This form is essential for us to verify and validate the supplier's information and ensure they are in good standing with our organization.

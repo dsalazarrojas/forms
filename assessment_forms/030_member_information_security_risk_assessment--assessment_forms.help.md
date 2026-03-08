@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to assess the security risk of an employee. It is a critical tool for identifying potential security threats and vulnerabilities. Before completing this form, please ensure that you have a clear understanding of the purpose and the questions being asked.
-
-To complete this form, you will navigate through multiple pages, each with its own set of questions. Please answer all questions truthfully and thoroughly, and be sure to provide specific examples or explanations when necessary.
-
-Below is a field-by-field explanation of each section, please review and fill out this form carefully.</thinking>
-
 # Member Information Security Risk Assessment - Help Guide
 ## Purpose
 

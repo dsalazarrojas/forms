@@ -1,7 +1,3 @@
-<thinking>
-This form is a Rapid Sequence Intubation (RSI) Quiz, designed to assess a healthcare provider's knowledge and experience with RSI. This form is used to document and track RSI attempts, successes, and failures. It is meant to be completed by the healthcare provider who performed the RSI and reviewed by another healthcare provider for accuracy and completeness. The form helps to identify areas for improvement and provide feedback on the RSI process. It is essential to fill this form out thoroughly and accurately to ensure that the assessment is comprehensive and reliable.
-</thinking>
-
 # Rapid Sequence Intubation Quiz - Help Guide
 
 ## Purpose

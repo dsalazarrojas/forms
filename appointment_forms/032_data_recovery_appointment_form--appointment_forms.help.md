@@ -1,13 +1,3 @@
-<thinking>
-
-The Data Recovery Appointment Form is designed to facilitate the process of scheduling appointments for data recovery services. This form is meant to be used by clients to request appointment slots for data recovery services. 
-
-The form can be completed by clients to book an appointment with a technician for data recovery services such as data recovery, data destruction, or data backup. The client can select the date of the appointment, their name and contact information, the services they require, and the technician they would like to schedule the appointment with. 
-
-This form is intended to be a straightforward and user-friendly way for clients to schedule appointments and ensure that the necessary information is gathered for the technician to perform the data recovery services efficiently.
-
-</thinking>
-
 # Data Recovery Appointment Form - Help Guide
 ## Purpose
 The Data Recovery Appointment Form is used by clients to schedule appointments with technicians for data recovery services.

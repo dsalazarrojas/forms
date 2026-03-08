@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information for a flight booking appointment, allowing customers to provide details about their flight reservations, including customer contact information, flight schedules, and passenger details. This form is typically used for internal purposes, such as for administrative or customer service staff to access customer information. The form is intended for multiple passengers, with separate fields for each passenger's information. Please note that some fields may be optional, depending on the specific requirements of the flight reservation.</thinking>
-
 # Flight Booking Appointment Form - Help Guide
 
 ## Purpose

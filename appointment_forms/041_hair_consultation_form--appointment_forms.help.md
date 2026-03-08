@@ -1,5 +1,3 @@
-<thinking>Before we create the help guide for the Hair Consultation Form, let's break down the form's purpose and ensure it's not a duplication of existing forms. This form appears to be a comprehensive consultation form for clients, gathering various information such as client details, services requested, schedule requests, and other relevant details. It seems to be a one-time consultation form, and we should ensure that it's not already covered by other forms or processes within the system.</thinking>
-
 # Hair Consultation Form - Help Guide
 ## Purpose
 The Hair Consultation Form is designed to gather essential information from clients for a one-time hair consultation. It helps the staff in understanding the client's needs, preferences, and availability for the consultation.

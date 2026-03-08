@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect nominations for the Data Solutions Excellence Award. The form is used to submit a nomination for an individual or team that has demonstrated exceptional data-driven solutions. This form is meant to be completed by the nominator, who is the person or team nominating the individual or team for the award. This form will not be used for internal purposes, but rather for submission to the award committee for review and consideration.
-
-To prevent duplication of submissions, please ensure that you are not nominating the same individual or team for this award. If you have already submitted a nomination for the same individual or team, please do not resubmit. If you are unsure whether you have already submitted a nomination, please contact the award committee for clarification.
-
-This form is intended to be used for the 2023 Data Solutions Excellence Award. Please ensure that all fields are completed accurately and thoroughly, as the award committee will be using this information to review and consider your nomination.
-
-Please note that this form must be completed in English.
-
-</thinking>
-
 # Data Solutions Excellence Award Nomination Form - Help Guide
 ## Purpose
 The Data Solutions Excellence Award is an annual recognition of outstanding individuals or teams that have made significant contributions to the field of data solutions. The purpose of this form is to submit a nomination for an individual or team that has demonstrated exceptional data-driven solutions.

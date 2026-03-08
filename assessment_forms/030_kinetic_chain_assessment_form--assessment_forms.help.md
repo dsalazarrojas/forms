@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients about their kinetic chain assessment. This form likely aims to evaluate the client's physical condition, possibly for fitness or medical purposes. It's essential to ensure that each client fills out the form accurately and thoroughly to provide the best possible assessment results. Please check the provided fields to see if this form meets your specific use case. If you have any questions or need further clarification, please contact us for assistance.
-
-</thinking>
-
 # Kinetic Chain Assessment Form - Help Guide
 ## Purpose
 The Kinetic Chain Assessment Form is a comprehensive tool designed to collect and analyze data from clients regarding their physical condition. It's used to evaluate their mobility, strength, and overall fitness.

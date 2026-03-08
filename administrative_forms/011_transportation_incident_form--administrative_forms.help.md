@@ -1,11 +1,3 @@
-<thinking>
-  This form appears to be a comprehensive incident reporting form used for tracking and documenting transportation incidents. 
-  It seems to be designed to collect information on key details of the incident, including the location, time, and outcome, as well as details on the reporter and the reviewer. 
-  The form requires input on incident causes, outcomes, reporters, reviewers, and other relevant details. 
-  To confirm, the fields seem to be a mix of text, date, select_one, and select_multiple fields, which would allow users to report and review incidents in a structured manner.
-  Upon reviewing the form, it is evident that most fields are marked as required, indicating that they have to be filled in for the form to be considered complete.
-</thinking>
-
 # Transportation Incident Form - Help Guide
 
 ## Purpose

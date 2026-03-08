@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about an individual who deserves recognition or an award. It is used to gather details about the nominee's background, achievements, and reasons for nomination. Before filling out this form, please make sure you are familiar with the individual you are nominating and have a clear understanding of their qualifications and achievements. Please note that this form is for informational purposes only and does not guarantee any recognition or rewards. Also, ensure that you are not nominating someone who has already been recognized or nominated for the same award in the past.
-
-</thinking>
 # Nomination Form For Deserving Individual - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an individual who deserves recognition or an award. This form is designed to help gather details about the nominee's background, achievements, and reasons for nomination.

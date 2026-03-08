@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for assessing hot work safety on a construction site. It is intended for workers and site supervisors to report and manage hot work operations. Hot work operations involve work that involves open flames or sparks, and can pose a significant risk to workers and the site. This form helps to ensure that all necessary safety measures are in place to prevent fires and ensure a safe working environment. 
-
-Before completing this form, please ensure that you are familiar with the procedures and guidelines for hot work operations on this site, and that you have all necessary permits and equipment.
-
-Please note that this form must be filled out accurately and completely, as it is used for official site records and may be required for regulatory purposes.
-
-</thinking>
-
 # Hot Work Safety Assessment - Help Guide
 
 ## Purpose

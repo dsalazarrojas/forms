@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for budget approval. It is intended for submitters to provide details about their budget request, and for approvers to review and approve or reject the request. The form should only be filled out when a new budget request is being made, and not for existing budget revisions or updates.
-
-</thinking>
-
 # Budget Approval Form - Help Guide
 ## Purpose
 The Budget Approval Form is used to request and track budget approval for new requests.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's public speaking strategy skills, which are crucial for effective communication and presentation. The form is composed of 25 questions that cover various aspects of public speaking, including public speaking skills, body language non-verbal, voice non-verbal, verbal cues, and confidence abilities. To ensure that the assessment is fair and accurate, the questions are randomly shuffled to prevent any bias or duplication.
-</thinking>
-
 # Public Speaking Strategy Quiz - Help Guide
 ## Purpose
 

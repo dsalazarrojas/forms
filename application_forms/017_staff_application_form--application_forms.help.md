@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about applicants for staff positions within your organization. It will help us assess your qualifications and suitability for the role. Please fill out the form accurately and thoroughly, providing as much detail as possible.

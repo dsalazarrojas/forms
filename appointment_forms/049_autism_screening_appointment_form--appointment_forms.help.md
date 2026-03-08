@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is used for parents or guardians to request an appointment for their child to be screened for autism. The form captures information about the child's demographic and medical history, as well as the parent/guardian's contact information and the reason for requesting the screening. The goal of this form is to gather essential details that will aid in the screening and assessment process.</thinking>
-
 # Autism Screening Appointment Form - Help Guide
 ## Purpose
 This form is designed to gather information from parents or guardians to request an appointment for their child to be screened for autism. It's essential to complete this form accurately and thoroughly to help the screening process run smoothly.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a wall extraction assessment, which is likely a part of a construction or building assessment process. This form will guide users through a series of questions to evaluate the condition and feasibility of removing a wall. The internal logic of the form is to provide a structured and comprehensive assessment of the wall extraction process.
-</thinking>
-
 # Wall Extraction Assessment Survey - Help Guide
 ## Purpose
 The Wall Extraction Assessment Survey is a form designed to collect information about the condition and feasibility of removing a wall in a construction or building assessment process.

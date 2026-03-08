@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the user understands the context of the form and to prevent data duplication, the form is designed to capture information related to a specific issue with football equipment, allowing users to select the player and the specific equipment involved, describe the issue, provide a reason for the issue, assign the form to a specific user, choose a status, report the date and time of the issue, and include any additional comments. The form is designed to be completed by users who have knowledge of the issue and can provide accurate information, and it is expected that the user will be the person who will be working to resolve the issue.
-</thinking>
-
 # football_equipment_issue_form - Help Guide
 ## Purpose
 This form is used to report a specific issue with football equipment. It's essential to provide accurate information about the issue, the equipment involved, and the steps to resolve it.

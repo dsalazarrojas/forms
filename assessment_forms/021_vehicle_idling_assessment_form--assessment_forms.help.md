@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess vehicle idling habits. It's essential to complete it accurately to gather reliable data. Please ensure that the information provided is up-to-date and relevant. If you've already filled out a vehicle idling assessment form for the same vehicle in the past, you might not need to fill this form again. However, if there have been significant changes to the vehicle or its idling habits since the last assessment, please fill it out again.
-</thinking>
-
 # Vehicle Idling Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information about vehicle idling habits. It's used to identify areas for improvement and optimize vehicle performance.

@@ -1,7 +1,3 @@
-<thinking>Before you start the self-assessment for leaders form, take a moment to ensure that this is the correct form for your needs. This form is designed to help leaders reflect on their skills and performance in specific areas, with the aim of identifying areas for improvement and growth. It is not a comprehensive evaluation, but rather a tool to aid in self-reflection and development.
-
-Please note that this form is not intended for performance evaluations or official assessments. It is a personal, internal use case for self-awareness and self-improvement. If you're unsure about the form's purpose or relevance, please reach out to the relevant authority or contact person for guidance.</thinking>
-
 # self-assessment-for-leaders - Help Guide
 ## Purpose
 This form is designed to help leaders reflect on their skills and performance in various areas, aiding in self-awareness and self-improvement.

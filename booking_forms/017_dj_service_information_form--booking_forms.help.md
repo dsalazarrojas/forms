@@ -1,8 +1,3 @@
-<thinking>
-We will be designing a help guide for users to understand the purpose and usage of a "DJ Service Information Form". The form is meant to collect information about an event, including event type, date, start and end times, event duration, number of guests, music preferences, and equipment needed. This form will be used to gather relevant data for a DJ service to provide personalized experience for the client. The form is not meant to be a mandatory one, and some fields are not required to be filled in order to submit the form. We should ensure that the form is user-friendly and clear in its usage.
-
-</thinking>
-
 # DJ Service Information Form - Help Guide
 ## Purpose
 The "DJ Service Information Form" is designed to collect necessary information from clients to provide a personalized DJ service for their events. This form will help the DJ team to understand the client's needs and preferences, ensuring a successful and enjoyable experience.

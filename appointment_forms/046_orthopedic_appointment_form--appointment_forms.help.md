@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Orthopedic Appointment Form - Help Guide
 ## Purpose
 The Orthopedic Appointment Form is a digital form designed to help healthcare providers collect relevant information from patients before scheduling a consultation or treatment. This form is meant to gather essential details such as patient contact information, appointment scheduling preferences, and any specific medical notes or concerns.

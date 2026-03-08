@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for renting flight times. This form is likely used by an airline or flight company to gather essential details from customers who want to rent flight times for a specific duration. The form is designed to be completed by customers to provide their personal and flight-related information.
-</thinking>
-
 # Flight Time Rental Agreement - Help Guide
 
 ## Purpose

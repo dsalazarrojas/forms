@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and manage warehouse inventory. It captures information on individual items, including their descriptions, quantities, monetary values, statuses, locations, and reorder dates. The form is intended to be completed by warehouse staff to maintain accurate and up-to-date records. 
-</thinking>
-
 # warehouse_inventory_checklist_form - Help Guide
 ## Purpose
 The warehouse inventory checklist form is used to track and manage individual items in the warehouse, including their descriptions, quantities, values, statuses, locations, and reorder dates. This form helps warehouse staff to accurately record and update item information, ensuring that the inventory is properly managed and accounted for.

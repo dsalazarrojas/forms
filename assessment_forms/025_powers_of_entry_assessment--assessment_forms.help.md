@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # powersOfEntryAssessment - Help Guide
 
 ## Purpose

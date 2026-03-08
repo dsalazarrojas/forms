@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Audition Form is to collect information about an individual's acting experience, skills, and qualifications for auditions or casting calls. This form should only be filled out by individuals who are seeking to audition for a production and have been specifically directed to do so by a production team or casting director.
-
-Before completing this form, ensure that you have received a formal audition invitation or casting call and that you have been directed to fill out this form by the production team. Filling out this form does not guarantee an audition or placement, but it helps the production team to get to know you better and to assess your qualifications.
-
-Please only fill out this form if you have been invited to audition and if it is relevant to your specific situation. This will help the production team to manage their time and resources effectively and to make informed decisions about who to invite for auditions.
-
-</thinking>
-
 # Audition Form - Help Guide
 ## Purpose
 The purpose of this form is to provide the production team with information about your acting experience, skills, and qualifications for a specific audition or casting call.

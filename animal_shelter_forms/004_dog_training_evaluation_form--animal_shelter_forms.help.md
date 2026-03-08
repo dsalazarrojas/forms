@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dog Training Evaluation Form - Help Guide
 ## Purpose
 The Dog Training Evaluation Form is designed to help assess the behavior and training needs of dogs in our animal shelter. This form is used to gather information from our animal shelter staff and foster parents about the dog's personality, behavior, and training level. The information collected will help us provide the best possible care and training for our furry friends.

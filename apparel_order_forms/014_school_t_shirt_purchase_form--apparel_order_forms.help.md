@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help school administrators and staff manage and record student t-shirt purchases for school events or activities. It is used to collect information on student t-shirt purchases, including whether a student purchased a t-shirt, their student name, preferred t-shirt size, purchase type (class, activity, etc.), purchase date, and payment method. The form is designed to be completed by school staff or administrators to track and record purchase information for students. Please note that this form does not appear to be a payment or transactional form, but rather a record-keeping tool for school staff.
-</thinking>
-
 # School T Shirt Purchase Form - Help Guide
 ## Purpose
 This form is used to record and track student t-shirt purchases for school events or activities.

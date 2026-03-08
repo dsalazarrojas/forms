@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to record and evaluate job performance and conduct regular audits of employees. 
-The purpose of this form is to provide a consistent and objective assessment of each employee's performance. 
-
-The form will be completed by a supervisor or other authorized personnel who will evaluate and record their observations. 
-
-The data collected will help in identifying areas where the employee needs improvement and will aid in making informed decisions on employee development and performance management. 
-
-Please make sure to only complete this form if you are authorized to do so and the employee is aware that the form is being filled out.
-
-</thinking>
-
 # Job Audit Record Form - Help Guide
 ## Purpose
 The Job Audit Record Form is a tool to evaluate and document employee performance. It helps supervisors and other authorized personnel in conducting regular audits and providing feedback to employees.

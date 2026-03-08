@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from tenants regarding their consent to participate in a poll or event. The form aims to capture essential details such as poll title, message, start and end dates, event title, event description, event start and end dates, poll type, poll frequency, and event location. The form is designed to be completed by tenants, ensuring their consent and understanding of the poll or event details. Please note that all fields are optional, except for the "Message" field, which is required. This form is an original adaptation created by AI and is not affiliated with any form platform. It is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, provided they give credit.</thinking>
-
 # Tenant Community Poll Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from tenants regarding their consent to participate in a poll or event. It captures essential details such as poll title, message, start and end dates, event title, event description, event start and end dates, poll type, poll frequency, and event location.

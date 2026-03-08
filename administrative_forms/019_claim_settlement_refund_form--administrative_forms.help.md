@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process refund requests for customers who have made payments to our company. Before submitting this form, please ensure that you have not already submitted a refund request for the same issue, as duplicate requests will not be processed. Additionally, please provide as much detail as possible to help us process your refund request efficiently.
-</thinking>
-
 # Claim Settlement Refund Form - Help Guide
 ## Purpose
 This form is used to process refund requests for customers who have made payments to our company.

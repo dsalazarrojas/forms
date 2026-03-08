@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and information about quality improvements. It is designed to be completed by individuals after they have finished a certain task or project, with the goal of identifying areas for improvement and providing recommendations for future projects. This form should only be completed once the task or project is finished, as it asks for a date and time of completion. The fields in this form are intended to be filled out by the person completing the task or project, and the information collected will be used to review and improve processes and procedures. Please ensure that you have completed all required fields before submitting this form.
-</thinking>
-
 # Quality Improvement Checklist - Help Guide
 ## Purpose
 The Quality Improvement Checklist is a form designed to collect feedback and information about quality improvements. It is intended to be completed by individuals after they have finished a certain task or project, with the goal of identifying areas for improvement and providing recommendations for future projects.

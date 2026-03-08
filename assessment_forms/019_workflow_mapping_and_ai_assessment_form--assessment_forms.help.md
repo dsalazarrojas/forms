@@ -1,9 +1,3 @@
-<thinking>
-
-The "Workflow Mapping And AI Assessment Form" appears to be a comprehensive tool for assessing the impact and status of projects and AI systems within an organization. This form seems to be designed for analyzing and evaluating various aspects of AI integration, including its effectiveness in streamlining processes, improving efficiency, and assessing its overall impact on the business and technical outcomes. It's likely used in a business or IT operations setting where understanding the workflow and AI's role within it is crucial for informed decision-making and resource allocation. Given the variety of fields and options available, it's possible that this form is used for periodic reviews or evaluations of ongoing projects and AI initiatives.
-
-</thinking>
-
 # Workflow Mapping And AI Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the status and impact of AI projects and workflows within an organization. It provides a structured approach to evaluating various aspects of AI integration, including its efficiency, impact on the business and technical outcomes, and the overall project status.

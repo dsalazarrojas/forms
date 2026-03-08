@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create the user-facing help guide for the "RequestyAppointmentBrg" form, I will analyze the provided YAML fields and craft clear, concise explanations for end users.
 
 # RequestyAppointmentBrg - Help Guide

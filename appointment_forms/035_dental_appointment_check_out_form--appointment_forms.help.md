@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for dental clinics to create a comprehensive check-out form for patients at the end of their appointments. Its purpose is to collect essential information from patients and gather feedback about their visit. The form is likely to be used by clinics to keep track of patient interactions and evaluate the quality of service.
-</thinking>
-
 # dental_appointment_check_out_form - Help Guide
 ## Purpose
 The dental_appointment_check_out_form is a digital check-out form designed for dental clinics to collect important information from patients at the end of their appointments and gather feedback about their visit.

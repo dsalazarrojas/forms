@@ -1,10 +1,3 @@
-<thinking>
-This form is used by requesters to request a reassessment of an actor's performance. This form is designed to gather information from the requester about the reasons for the reassessment and the desired outcome. By filling out this form, the requester is able to provide specific details about the actor's role or production, the reason for the reassessment, and the desired outcome. The form also allows the requester to indicate their preferred contact method and any supporting documents or additional notes they would like to provide.
-This form is intended for use by actors, production companies, or other industry professionals who need to request a reassessment of an actor's performance.
-It is recommended that users only submit one request per issue or incident, to avoid duplication of effort.
-If you have already submitted a request for the same reason and outcome, please do not submit this form. If you have submitted a request for a related but different reason and outcome, please submit this form.
-</thinking>
-
 # Actor Performance Reassessment Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a reassessment of an actor's performance. This form is used by requesters to provide specific details about the reasons for the reassessment and the desired outcome.

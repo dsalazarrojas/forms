@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to document incidents involving students, typically warnings, where the purpose is to capture relevant details and actions taken. This form aims to be completed by teachers to document these incidents, and it should not be reused or repurposed for other types of incidents that do not fit the warning category. This guide is intended to assist users in understanding the form's purpose and fields correctly.</thinking>
-
 # Demerit Warning Form - Help Guide
 ## Purpose
 This form is used to document incidents involving student warnings, such as behavior or academic warnings, where a teacher needs to report the details of the incident, actions taken, and signatures from both the student and the teacher.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an athlete's absence from a specific event, such as a practice or a game. The purpose of this form is to provide an accurate and timely notification to the athlete's coach and other relevant parties, ensuring they are aware of the athlete's absence and can make necessary arrangements. This form helps to avoid confusion and miscommunication by providing a clear and concise way to report absences. It also helps the athlete to provide a valid reason for their absence, which can be used to address any potential issues or concerns. Before filling out this form, please make sure you have not previously submitted an absence notification for the same event. This will ensure that your submission is accurate and up-to-date.
-</thinking>
-
 # Athlete Absence Notification - Help Guide
 ## Purpose
 This form is used to notify the coach and other relevant parties of an athlete's absence from a specific event. It collects essential information about the athlete's name, team affiliation, absence details, and contact information to facilitate communication and make necessary arrangements.

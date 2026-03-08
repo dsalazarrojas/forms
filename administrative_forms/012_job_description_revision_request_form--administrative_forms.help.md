@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Job Description Revision Request Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for vendors to schedule meetings with internal teams. The form is meant to be filled out by the vendor, and its purpose is to gather information about the meeting's date, time, purpose, and duration. This form is typically completed by the vendor before their meeting. The vendor must answer the following questions: 
-* Meeting Date (a date in MM/DD/YYYY format)
-* Meeting Time (a 24-hour time in HH:MM format)
-* Meeting Purpose (a brief description of the meeting's goal or topic)
-* Vendor (whether the meeting is with a vendor)
-* Meeting Duration (a duration in minutes)
-
-To avoid duplicates, this form should only be completed by a unique vendor, with each form submission containing the vendor's name to prevent multiple submissions from the same vendor.
-</thinking>
-
 # Vendor Meeting Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule meetings between vendors and internal teams. It helps us gather information about the meeting's date, time, purpose, and duration.

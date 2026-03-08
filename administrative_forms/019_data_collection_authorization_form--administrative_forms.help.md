@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data from individuals for administrative purposes. It is designed to be completed by individuals whose data is being collected, and requires their consent. The form can be completed by individuals from different countries, with options for United States, Canada, and Mexico. The authorization field allows for selection of "Full" or "Limited" access. The form also has fields for date of birth, address, phone, and email.
-</thinking>
-
 # Data Collection Authorization Form - Help Guide
 ## Purpose
 This form is used to collect data from individuals for administrative purposes, such as collecting their name, contact information, and authorization level.

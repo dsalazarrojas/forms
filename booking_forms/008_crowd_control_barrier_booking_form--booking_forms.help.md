@@ -1,5 +1,3 @@
-<thinking>... This form is part of a broader system to collect information about events from various categories. It's a generic form designed to be adaptable to different types of events, and its purpose is to gather details for efficient planning and control. Before filling out this form, please ensure that you're using it for its intended purpose and that you've reviewed the event details carefully to avoid errors. If you're unsure about any part of the form, you can always reach out to the support team for clarification. This form is designed to be user-friendly and easy to fill out, so take your time and fill it out accurately. ...</thinking>
-
 # Crowd Control Barrier Booking Form - Help Guide
 ## Purpose
 The Crowd Control Barrier Booking Form is a tool to collect essential information about events. It helps in planning and organizing events effectively.

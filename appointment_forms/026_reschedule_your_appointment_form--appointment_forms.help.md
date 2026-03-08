@@ -1,7 +1,3 @@
-<thinking>
-This form is a simple form designed to assist users in rescheduling appointments. The primary purpose of this form is to collect information about an appointment's new date and time, reason for rescheduling, and any relevant details. It does not require authentication or any specific business logic, making it accessible to a wide range of users. This form does not duplicate or copy any content from other form platforms, but rather uses a generic structure that can be used in various contexts. By filling out this form, users can easily reschedule their appointments and provide necessary information for the relevant parties.
-</thinking>
-
 # Reschedule Your Appointment Form - Help Guide
 ## Purpose
 This form is designed to assist users in rescheduling appointments. It collects information about the new date and time of the appointment, reason for rescheduling, and any other relevant details.

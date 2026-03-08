@@ -1,9 +1,3 @@
-<thinking>
-**Internal reasoning block to clarify the form purpose and ensure relevance and non-duplication:**
-
-This form is designed to assess the security readiness of a stadium. The form's purpose is to evaluate the current state of the stadium's security features and systems, ensuring that they are up to date and functioning correctly. This includes the availability and response times of event operators, which is critical for emergency situations. The form also gauges the three levels of security readiness, which can be thought of as the stadium's "security score" and should be reviewed regularly to ensure the highest level of security. A description field is included to allow users to provide additional context or notes about the assessment. This form is intended for internal use and will help stakeholders understand the current security level of the stadium.
-</thinking>
-
 # Stadium Security Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the security readiness of a stadium, ensuring that its features and systems are up to date and functioning correctly. It evaluates critical elements such as event operator response times and the three levels of security readiness.

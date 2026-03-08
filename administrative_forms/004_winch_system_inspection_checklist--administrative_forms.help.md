@@ -1,28 +1,3 @@
-<thinking>
-This form is used to conduct a Winch system inspection, which is a series of checks to ensure that the Winch system is functioning correctly. The form is used to identify and document any issues or defects in the system.
-We've identified the following fields:
-- winch_system_inspection_checklist_1: A checklist of items to inspect (multi-select)
-- winch_system_inspection_checklist_2: Any additional notes or comments (text field)
-- winch_system_inspection_checklist_3: Date and time of the inspection (time field)
-- winch_system_inspection_checklist_4: A checklist of items to select one from (select_one)
-- winch_system_inspection_checklist_5: Date of the inspection (date field)
-- winch_system_inspection_checklist_6: Any additional notes or comments (text field)
-- winch_system_inspection_checklist_7: A numeric value to input (number field)
-- winch_system_inspection_checklist_8: Any additional notes or comments (text field)
-- winch_system_inspection_checklist_9: Date of the inspection (date field)
-The form is split into the following sections:
-- winch_system_inspection_checklist_1: Checklist 1 (multi-select)
-- winch_system_inspection_checklist_2: Additional notes or comments (text field)
-- winch_system_inspection_checklist_3: Date and time of the inspection (time field)
-- winch_system_inspection_checklist_4: Checklist 4 (select_one)
-- winch_system_inspection_checklist_5: Date of the inspection (date field)
-- winch_system_inspection_checklist_6: Additional notes or comments (text field)
-- winch_system_inspection_checklist_7: Numeric value to input (number field)
-- winch_system_inspection_checklist_8: Additional notes or comments (text field)
-- winch_system_inspection_checklist_9: Date of the inspection (date field)
-The form has a total of 9 fields, with some fields being mandatory ( winch_system_inspection_checklist_1, winch_system_inspection_checklist_3, winch_system_inspection_checklist_4, winch_system_inspection_checklist_6, winch_system_inspection_checklist_7, winch_system_inspection_checklist_9) and some fields being optional (winch_system_inspection_checklist_2, winch_system_inspection_checklist_5, winch_system_inspection_checklist_8).
-</thinking>
-
 # winch_system_inspection_checklist - Help Guide
 ## Purpose
 This form is used to conduct a Winch system inspection, which is a series of checks to ensure that the Winch system is functioning correctly.

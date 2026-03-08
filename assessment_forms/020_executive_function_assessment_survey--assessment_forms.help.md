@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely designed to assess an individual's executive function skills, which include abilities such as planning, organization, time management, and self-regulation. Executive functions are high-level cognitive processes that enable individuals to effectively perform tasks, solve problems, and make decisions. This form aims to provide a comprehensive assessment of an individual's executive function abilities, which can be useful for identifying potential strengths and weaknesses.
-
-The form is divided into several sections, each designed to collect specific information about an individual's executive function skills. The purpose of this form is to gather data that can be used to support treatment planning, goal setting, and progress monitoring for individuals who require executive function support.
-
-Before completing this form, it is essential to ensure that you have not already completed it. Please review your answers carefully to ensure that you are not providing duplicate information.
-
-</thinking>
-
 # Executive Function Assessment Survey - Help Guide
 ## Purpose
 The Executive Function Assessment Survey is designed to assess an individual's executive function skills, including planning, organization, time management, and self-regulation. This form is used to identify strengths and weaknesses in these areas, which can inform treatment planning, goal setting, and progress monitoring.

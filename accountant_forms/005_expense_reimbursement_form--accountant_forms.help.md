@@ -1,8 +1,3 @@
-<thinking>
-This form is used for employees to submit expense reimbursements for approved business trips or work-related activities. The form helps track and manage expense records accurately, ensuring that all necessary details are captured for auditing and reimbursement purposes. This guide provides an overview of the form's purpose, how to fill it out, and an explanation of each field to help users understand what information is required and why.
-
-</thinking>
-
 # Expense Reimbursement Form - Help Guide
 ## Purpose
 The Expense Reimbursement Form is designed to collect information about expenses incurred during business trips or work-related activities. This form helps to track and manage expense records accurately, ensuring that all necessary details are captured for auditing and reimbursement purposes.

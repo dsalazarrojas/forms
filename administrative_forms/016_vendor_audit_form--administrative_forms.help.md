@@ -1,5 +1,3 @@
-<thinking>...The vendor audit form is used to document and track vendor information and ratings. This form is intended to be completed by authorized personnel for each vendor that interacts with the organization. It's a required field for vendors with a rating of 4 or 5. The form is divided into several sections, each with its own specific purpose: vendor information, address, rating, rating reasons, and notes. This form is meant to provide detailed and accurate information for future reference and decision-making.</thinking>
-
 # vendor_audit_form - Help Guide
 ## Purpose
 The vendor audit form is a tool used to document and track vendor information and ratings. It is used to gather detailed data about each vendor, including their address, rating, and reasons for rating.

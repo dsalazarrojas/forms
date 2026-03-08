@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Architectural Project Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients or developers about their architectural projects. It aims to gather essential details about the project, including client information, project specifics, and project goals. The collected data will be used to provide guidance and support throughout the project's development process.

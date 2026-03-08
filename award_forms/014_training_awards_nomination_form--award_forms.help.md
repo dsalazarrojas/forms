@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # training_awards_nomination_form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to schedule interviews with maintenance workers who will perform various tasks in a facility. This form helps the user to collect relevant information about the worker, the facility they will be working in, and the details of the interview. It is essential to fill in this form carefully to ensure that the correct information is captured.
-The form is designed to collect data for scheduling interviews, and it is not intended for other purposes such as data analytics or reporting.
-
-The form is divided into several pages, each containing a few fields. To complete this form, follow the instructions for each page carefully.
-
-</thinking>
-
 # Maintenance Worker Interview Scheduling - Help Guide
 
 ## Purpose

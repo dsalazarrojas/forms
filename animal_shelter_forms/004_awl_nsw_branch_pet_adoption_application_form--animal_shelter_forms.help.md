@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential adopters about their household and preferences for adopting a pet from the Animal Welfare League (AWL) NSW Branch. This form is used to assess the suitability of the adopter for pet ownership and to ensure that the AWL NSW Branch can provide the best possible match between the adopter and a suitable pet. 
-Before starting the form, please ensure that the information you provide is accurate and honest, as it will be used to assess your suitability as an adopter. If you have already completed an adoption application with AWL NSW Branch, please do not duplicate your effort and contact our team directly to discuss the possibility of adopting another pet.
-Please note that by submitting this form, you are authorizing AWL NSW Branch to verify the information you provide and use it to assess your suitability as an adopter.
-</thinking>
-
 # AWL NSW Branch Pet Adoption Application Form - Help Guide
 ## Purpose
 This form is designed to help the AWL NSW Branch understand your household and preferences for adopting a pet. It is a crucial step in the adoption process and will help our team to find the best possible match between you and a suitable pet.

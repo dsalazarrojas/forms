@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Innovation Capability Diagnostic Application Form - Help Guide
 
 ## Purpose

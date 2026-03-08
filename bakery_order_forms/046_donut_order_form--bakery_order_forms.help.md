@@ -1,7 +1,3 @@
-<thinking>
-The Donut Order Form is a digital form designed to help customers place orders for donuts. The form is part of a bakery's sales process, and its primary purpose is to collect information from customers about their donut preferences and order details. By filling out this form, customers can select the type of donuts they want, provide their contact information, and specify the date for their order.
-</thinking>
-
 # Donut Order Form - Help Guide
 ## Purpose
 The Donut Order Form is designed to help customers place orders for donuts. This form is a convenient way for customers to share their donut preferences and order details with the bakery.

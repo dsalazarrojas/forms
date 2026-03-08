@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a financial forecast revision, likely to correct or update a previously submitted financial forecast. The purpose of this form is to provide a structured way for users to communicate their needs and requirements for revising a financial forecast. This form is designed to gather necessary information for the revision process, such as the date requested, reason for the revision, and type of revision required.
-</thinking>
-
 # Financial Forecast Revision Request Form - Help Guide
 ## Purpose
 The Financial Forecast Revision Request Form is a tool used to request revisions to a previously submitted financial forecast. This form helps ensure that the revision process is thorough and accurate by gathering necessary information from the user.

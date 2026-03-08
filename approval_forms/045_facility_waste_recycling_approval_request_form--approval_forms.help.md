@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's analyze the form's purpose and requirements. This form appears to be designed for a facility to request approval for waste recycling programs, which is likely an internal process within the facility's management system. The form likely serves to provide information about the facility's waste management practices, including the types of waste they are recycling, the programs in place, and the personnel involved in the process. This guide will cover the form's purpose, how to complete it, and provide explanations for each field.</thinking>
-
 # Facility Waste Recycling Approval Request Form - Help Guide
 ## Purpose
 The Facility Waste Recycling Approval Request Form is used by facilities to request approval for their waste recycling programs. This form is used to gather information about the facility's waste management practices and ensure compliance with internal guidelines.

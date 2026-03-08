@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture attendance information from employees, allowing administrators to track their attendance patterns, shifts, locations, and other relevant details. To ensure accuracy and consistency, please make sure to complete this form only once per shift for each employee, and avoid duplicate entries.
-</thinking>
-
 # Employee Check In Attendance Form - Help Guide
 ## Purpose
 The purpose of this form is to collect attendance information from employees. It helps administrators to track and monitor employee shifts, locations, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from social work clients, typically used to gather background details about their personal and medical history, current support systems, and ongoing treatment plans. The form is divided into several sections, each focusing on a different area of concern.
-</thinking>
-
 # Social Work Introduction Survey - Help Guide
 
 ## Purpose

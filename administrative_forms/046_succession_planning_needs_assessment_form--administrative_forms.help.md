@@ -1,12 +1,6 @@
 # Succession Planning Needs Assessment Form - Help Guide
 
 ## Purpose
-<thinking>Succession Planning is a strategic process used by organizations to identify, develop, and prepare for the future leadership needs. This form is designed to help assess an employee's skills, job performance, career aspirations, and job awareness to identify potential candidates for future leadership roles. It is used to gather information about employees' strengths, weaknesses, and areas for development to support succession planning and talent management initiatives. 
-
-This form will only be used for employees who have been identified as potential future leaders. If an employee has not been identified as a potential future leader, please do not fill out this form. This form is not intended to be a comprehensive performance evaluation or a promotion application. 
-
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

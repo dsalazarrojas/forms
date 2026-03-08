@@ -1,11 +1,3 @@
-<thinking>
-This help guide is to assist users in completing the knowledge assessment on ERP (Enterprise Resource Planning) and ITIL (Information Technology Infrastructure Library) form.
-The form is used to gauge a user's knowledge on ERP and ITIL, which are tools used in IT service management.
-The form is composed of multiple questions and fields that assess the user's understanding of ERP and ITIL concepts.
-To complete this form, users should carefully read each question and answer it based on their knowledge.
-The form's structure and fields are designed to be easy to navigate and understand.
-</thinking>
-
 # knowledge_assessment_on_erp_and_itil - Help Guide
 ## Purpose
 This form is designed to test a user's knowledge on Enterprise Resource Planning (ERP) and Information Technology Infrastructure Library (ITIL) concepts.

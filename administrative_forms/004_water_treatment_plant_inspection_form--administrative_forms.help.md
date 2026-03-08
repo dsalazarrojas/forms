@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the status of a water treatment plant, including its location, inspection date, type of inspection, status, maintenance issues, safety and quality standards, compliance issues, and any additional notes or assigned personnel. This form is likely used by plant operators, inspectors, or facility managers to report on the plant's condition and performance. Before starting, ensure you haven't completed this form recently or for the same plant; if so, please review and update any necessary information.
-
-This form has multiple pages, each containing several fields. To complete it, follow the instructions below.
-
-</thinking>
-
 # Water Treatment Plant Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the status of a water treatment plant, including its location, inspection date, type of inspection, status, maintenance issues, safety and quality standards, compliance issues, and any additional notes or assigned personnel.

@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended for assessing the effectiveness of visual learning methods in educational settings? Is it a recurring assessment or a one-time evaluation? Are there any specific guidelines or protocols that need to be followed during the assessment process? Are there any particular fields that require special attention or clarification?
-</thinking>
-
 # Visual Learning Assessment - Help Guide
 ## Purpose
 The Visual Learning Assessment form is designed to evaluate the effectiveness of visual learning methods in educational settings. This form helps to identify areas of improvement and provide insights into the strengths and weaknesses of visual learning methods.

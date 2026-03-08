@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for advertising campaigns. It appears to be a comprehensive form that covers various aspects of the campaign, including customer details, ad scheduling, budget, and campaign preferences. It seems to be designed for use cases where a client needs to create customized advertising campaigns with specific settings. However, it's worth noting that the form has a significant number of fields, which might be overwhelming for the user. The form does not appear to have any specific validation or validation error handling in place, which could potentially lead to incomplete or incorrect submissions. 
-</thinking>
-
 # Customized Basic Advertising Form - Help Guide
 
 ## Purpose

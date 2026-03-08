@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and completion process of the "Eye Exam Appointment Checklist Form Template". The form is designed to gather essential information for an eye exam appointment, ensuring that all necessary details are captured accurately and efficiently. Before proceeding, please review the form carefully to ensure that all relevant sections are completed to the best of your ability.
-
-</thinking>
-
 # Eye Exam Appointment Checklist Form Template - Help Guide
 ## Purpose
 The Eye Exam Appointment Checklist Form Template is a standardized form designed to collect crucial information for an eye exam appointment. This form helps healthcare providers gather essential details about the patient's medical history, medications, and other relevant factors to ensure a smooth and effective eye exam process.

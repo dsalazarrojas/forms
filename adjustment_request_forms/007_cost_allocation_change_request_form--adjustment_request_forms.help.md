@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cost Allocation Change Request Form - Help Guide
 ## Purpose
 The Cost Allocation Change Request Form is designed to facilitate the request to make adjustments to existing cost allocations. It is essential to ensure that changes are accurately and clearly documented to avoid confusion and ensure smooth financial management. Please use this form to request updates to existing cost allocations and ensure your changes are correctly processed.

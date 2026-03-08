@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Media Coverage Records Release Form, used to document and manage media coverage related records. It is designed to collect information from individuals or organizations that have been featured in media coverage, such as interviews, articles, or videos. The form is used to gather consent for reproduction, distribution, and archiving of the media content, as well as any other specific uses of the recorded media.
 
 The form is typically used by media professionals, such as journalists, public relations specialists, or marketing teams, to ensure they have the necessary permissions and documentation for using and sharing media content.

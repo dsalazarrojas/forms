@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the internal use of employees who need to fill out the "Financial Statement Form". This guide is to ensure a proper understanding of the form's purpose, how to complete it, and what each field means. 
-</thinking>
-
 # Financial Statement Form - Help Guide
 ## Purpose
 The Financial Statement Form is a document that provides a structured way to submit financial reports. It is intended to collect information about a financial report, including the category, description, date, and other relevant details. This form helps to ensure that financial reports are accurately and consistently recorded.

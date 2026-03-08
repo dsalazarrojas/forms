@@ -2,10 +2,6 @@
 ## Purpose
 This form is designed to collect information about a tour operator's details for booking purposes.
 
-<thinking>
-The form is intended to ensure that the tour operator provides essential information for smooth and organized bookings. The fields cover various aspects of the tour, including tour type, start and end dates, duration, and payment methods. This form will help tour operators provide their clients with the necessary information and terms to ensure a successful and stress-free tour experience.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

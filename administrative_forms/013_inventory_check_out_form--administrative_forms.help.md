@@ -1,5 +1,3 @@
-<thinking>...This form is designed to track the status and activity of inventory items as they are checked out to individuals or managers. It is used to record the date and time an item is checked out, who it was checked out by, and its current status...The form also captures additional information such as the return date, return status, and comments from the user and system. The fields are organized in a way that allows users to easily navigate through the different stages of the inventory checkout process...</thinking>
-
 # Inventory Check Out Form - Help Guide
 
 ## Purpose

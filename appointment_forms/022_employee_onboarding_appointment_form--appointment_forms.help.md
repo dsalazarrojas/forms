@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Employee Onboarding Appointment Form" is to collect information from new employees to schedule their onboarding appointment. This form is used to ensure that all new employees go through a standardized onboarding process, which includes scheduling a meeting with their manager to discuss job expectations, company policies, and other essential information. This form will help streamline the onboarding process and reduce the time and effort required for HR staff to manage the process.
-</thinking>
-
 # Employee Onboarding Appointment Form - Help Guide
 ## Purpose
 The Employee Onboarding Appointment Form is a tool used to schedule onboarding appointments for new employees. This form will help streamline the onboarding process by collecting all necessary information from new employees and their managers in one place.

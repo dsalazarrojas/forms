@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is for proposing a transfer of business activity or responsibility between departments or entities within the organization. The purpose of this form is to gather information about the proposed transfer, including the details about the activity being transferred, the current and proposed owners, the type of transfer, and the impact assessment. The form will be reviewed and approved by relevant parties before the transfer is executed.
-
-</thinking>
-
 # Business Activity Transfer Proposal - Help Guide
 
 ## Purpose

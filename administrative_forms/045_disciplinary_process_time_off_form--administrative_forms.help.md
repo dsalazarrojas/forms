@@ -1,15 +1,3 @@
-<thinking>**Internal Note:** This form is used to record disciplinary process time offs, allowing employees to report their absences due to a specific reason. The purpose of this form is to ensure accurate tracking and handling of such incidents. Please ensure that the form's completion is only necessary when a valid reason for time off is required for official records.
-
-To complete this form, you'll need to follow these steps:
-
-1. Select a valid reason for your time off in the "Time off reason" field.
-2. Enter the date you started your time off in the "Start date" field.
-3. Enter the date your time off ended in the "End date" field.
-4. Enter the time you started your time off in the "Start time" field.
-5. Enter the time you ended your time off in the "End time" field.
-
-</thinking>
-
 # Disciplinary Process Time Off Form - Help Guide
 ## Purpose
 The Disciplinary Process Time Off Form is designed to record disciplinary process time offs, allowing employees to report their absences due to a specific reason.

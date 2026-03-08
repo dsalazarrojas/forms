@@ -1,8 +1,3 @@
-<thinking>
-This form is used for hospital staff to sign in and provide their attendance information. The form is designed to capture essential details such as employee name, department, shift start and end times, dates in and out, attendance status, comments, phone number, email, employee ID, and shift length. The form should only be filled out by hospital staff members who are supposed to be present at work on the specified date. If a staff member is absent, they should answer 'No' to the shift length field. The form is intended to be filled out once a day or as required by management.
-
-</thinking>
-
 # Hospital Staff Sign In Form - Help Guide
 ## Purpose
 This form is designed to capture attendance information from hospital staff members on a daily or as required basis. It helps the management to keep track of staff presence and attendance status.

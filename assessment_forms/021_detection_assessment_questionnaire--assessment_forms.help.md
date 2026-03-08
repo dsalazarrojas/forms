@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a questionnaire used for assessing detection in a specific context. The purpose of this form is to gather information about detection, including its purpose, procedure, and approach.
-
-The form is designed to be completed by end-users, and it has a simple structure consisting of two sections. The first section gathers information about the purpose and procedure of detection, while the second section gathers information about the approach and duration of detection.
-
-To avoid duplication of effort and ensure that the form is completed accurately, it is recommended to review the questions and answers carefully before submitting the form.
-
-</thinking>
-
 # Detection Assessment Questionnaire - Help Guide
 ## Purpose
 The Detection Assessment Questionnaire is a form designed to gather information about detection in a specific context. It is used to assess the detection process, including its purpose, procedure, and approach.

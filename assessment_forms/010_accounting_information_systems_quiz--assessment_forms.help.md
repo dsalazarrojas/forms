@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger assessment form collection, which includes questions related to accounting information systems. It's essential to ensure that each question is relevant and not a duplicate. The questions in this specific form are designed to assess the student's understanding of accounting information systems, including their components, purposes, and importance in the context of accounting.
-</thinking>
-
 # Accounting Information Systems Quiz - Help Guide
 ## Purpose
 This form is designed to assess the student's understanding of accounting information systems (AIS) concepts. It contains questions that aim to evaluate the student's knowledge on various aspects of AIS, including its purpose, components, and importance in the context of accounting.

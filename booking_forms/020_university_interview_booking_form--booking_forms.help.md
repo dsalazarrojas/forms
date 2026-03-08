@@ -1,12 +1,3 @@
-<thinking>
-This is a technical review to ensure the form is being used correctly. The form is a university interview booking form, and it's crucial to understand its purpose and usage guidelines. 
-
-The form is designed to gather information from students for university interviews. Each field is carefully crafted to collect relevant data, and some fields are required for the booking to be considered valid. 
-
-Please ensure that the form is being used correctly and not duplicated or used for other purposes not intended by this form. 
-
-</thinking>
-
 # university_interview_booking_form - Help Guide
 ## Purpose
 This form is designed for university students to book interviews with the institution. It captures necessary details to facilitate the booking process.

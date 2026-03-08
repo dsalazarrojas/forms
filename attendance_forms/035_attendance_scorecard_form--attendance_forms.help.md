@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for recording and evaluating an individual's attendance and performance metrics in a workplace setting. It is likely used by HR or management teams to track and assess employee attendance, punctuality, and overall performance. Before proceeding, ensure you are aware of the specific guidelines and regulations regarding employee data management and privacy within your organization. This form should only be used for its intended purpose and not for any other use. Please ensure that you are authorized to access and use this form. If you are not sure, contact your HR department or supervisor for guidance.
-</thinking>
-
 # Attendance Scorecard Form - Help Guide
 ## Purpose
 The Attendance Scorecard Form is a tool used to record and evaluate employee attendance and performance metrics. It helps track employee's attendance, punctuality, and overall performance.

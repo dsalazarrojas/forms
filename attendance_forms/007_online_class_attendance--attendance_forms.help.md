@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to record the attendance of students in an online class. The form is used to track the attendance status, comments, and contact information of students. This form is likely used by instructors or administrators to quickly and efficiently record attendance data.
-Before filling out this form, it's essential to ensure that you are in the correct context and that you are not duplicating an existing entry. This form should only be used for new attendance records, and not for editing or updating existing ones.
-This form consists of several fields that require input from the user. Please read through each field explanation carefully to ensure accurate completion.
-</thinking>
-
 # Online Class Attendance - Help Guide
 
 ## Purpose

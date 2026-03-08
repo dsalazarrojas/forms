@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help teachers and administrators assess a child's readiness for kindergarten. The purpose of this form is to gather information on the child's developmental skills, such as language, social, and cognitive abilities, to determine their suitability for kindergarten. The form will help teachers and administrators to identify areas where the child may need additional support to be better prepared for kindergarten. By completing this form, teachers and administrators can provide valuable insights to parents and caregivers to help them support their child's development.
-</thinking>
-
 # Kindergarten Readiness Skills Checklist - Help Guide
 ## Purpose
 This form is designed to help teachers and administrators assess a child's readiness for kindergarten. It gathers information on the child's developmental skills, such as language, social, and cognitive abilities, to determine their suitability for kindergarten.

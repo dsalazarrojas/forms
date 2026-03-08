@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a simple payment request form that allows users to submit a request for payment from another party. It appears that this form is used in a banking context, likely for internal use within the bank or its affiliates. The purpose of this form is to gather information about the payment request, including the type of payment, amount, method, and other relevant details. This form is not intended to be used for complex financial transactions or high-value payments, but rather for straightforward, one-off payments. The form should only be used when there is a legitimate reason to request payment from another party, and users should be aware that submitting this form does not guarantee payment will be made. Users are advised to ensure they understand their responsibilities and obligations regarding payment requests before submitting the form. 
-</thinking>
-
 # Payment Request Form - Help Guide
 ## Purpose
 This form is used to request a payment from another party for a specified amount and method.

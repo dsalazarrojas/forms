@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of estate planning, including considerations for wills and trusts, beneficiaries, assets, liabilities, insurance, legal documents, tax planning, and creating an estate plan. This form should be completed by users who have a general understanding of estate planning concepts but need guidance on where to begin. Please note that the form is not a substitute for professional legal or tax advice. It is recommended to review and update this information regularly as it may change over time.
-</thinking>
-
 # Estate Planning Checklist Form - Help Guide
 ## Purpose
 This form is a comprehensive tool to help individuals and families plan their estates, consider their assets, and make informed decisions about their future.

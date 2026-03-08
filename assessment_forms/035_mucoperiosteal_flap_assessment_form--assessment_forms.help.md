@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Mucoperiosteal Flap Assessment Form - Help Guide
 ## Purpose
 The Mucoperiosteal Flap Assessment Form is designed to collect information about the characteristics of a mucoperiosteal flap, a layer of dense fibrous tissue between the periosteum and the periosteum of a bone. This form helps clinicians assess the condition and location of the flap, as well as its size, color, and any additional comments or images.

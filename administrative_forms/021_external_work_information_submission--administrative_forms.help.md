@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block is for internal reasoning purposes only and will be removed before outputting the final help guide.
 
 ## External Work Information Submission - Help Guide

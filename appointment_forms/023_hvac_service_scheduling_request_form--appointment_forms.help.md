@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is used correctly and to avoid duplication, I'll first analyze the form's purpose, which is to schedule a visit for HVAC services. This form is designed to collect contact information, service requests, and scheduling details from customers. The form's fields are organized in a logical and concise manner, making it easy to follow and complete. 
-</thinking>
-
 # HVAC Service Scheduling Request Form - Help Guide
 ## Purpose
 This form is designed to collect contact information, service requests, and scheduling details from customers for HVAC services.

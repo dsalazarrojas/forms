@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for use by companies to document the details of an employee's severance agreement. The purpose of this form is to capture the essential terms and conditions of the severance agreement, including the employer's and employee's information, terms of severance, notice period, payment terms, payment method, and other relevant details. This form should only be completed by the employee and employer involved in the severance agreement and should not be used for any other purpose.
-</thinking>
-
 # Severance Agreement Release Form - Help Guide
 ## Purpose
 

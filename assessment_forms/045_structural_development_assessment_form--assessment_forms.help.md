@@ -1,12 +1,3 @@
-<thinking>
-This form is used to assess the structural development of a project, which is a crucial process in project management. The form aims to evaluate the site, structural development status, construction type, and other relevant aspects of the project. It is likely used by project managers or structural engineers to gather information about the project's progress and identify potential issues.
-
-To avoid duplication, it's essential to ensure that this form is not used for the same project multiple times. Each project should have its unique form instance, and the form should not be used to assess the same project again.
-
-Before filling out this form, make sure to review the project's current status and any relevant documentation.
-
-</thinking>
-
 # structural_development_assessment_form - Help Guide
 ## Purpose
 This form is designed to collect information about the structural development of a project. It assesses various aspects of the project, including site evaluation, structural development status, construction type, and more.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Senior Activity Attendance Form - Help Guide
 ## Purpose
 The Senior Activity Attendance Form is used to record the attendance of senior participants in activities and events. This form is required for all senior participants to ensure accurate attendance tracking and reporting.

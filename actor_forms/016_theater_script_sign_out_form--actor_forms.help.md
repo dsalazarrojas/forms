@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to capture information for a Theater Script Sign Out Form. It is intended to be completed by actors or production staff to sign out of a theater or a specific script. This form should not be duplicated or used for any other purpose. This form will capture the necessary information for tracking and recording the script sign-out process.
 
 # Theater Script Sign Out Form - Help Guide

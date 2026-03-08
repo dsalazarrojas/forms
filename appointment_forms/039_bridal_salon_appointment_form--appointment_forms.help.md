@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential customers about their wedding-related appointments at a bridal salon. This form will collect data on the customer's personal details, appointment preferences, and dress-related information to provide a more personalized experience. Please ensure that each field is filled correctly to avoid any issues with appointment scheduling or services. Note that some fields are optional, and customers can choose to fill them as needed. Also, some fields might be self-explanatory, so please read through the explanations below for further clarification.
-</thinking>
-
 # Bridal Salon Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your appointment at our bridal salon. Please fill out this form to schedule a personalized appointment with our team. We will use this information to prepare for your visit and ensure you have a great experience.

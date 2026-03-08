@@ -1,7 +1,3 @@
-<thinking>
-The form "Product System Assessment Questionnaire" is designed to collect information from users about their experience with a product system. Its purpose is to assess the user's satisfaction, identify areas of improvement, and collect contact information for follow-up. This form should only be filled out by users who have interacted with the product system, ensuring that the data collected is relevant and useful for analysis. To avoid duplication of effort, this form should not be filled out by users who have already completed it.
-</thinking>
-
 # Product System Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with our product system.

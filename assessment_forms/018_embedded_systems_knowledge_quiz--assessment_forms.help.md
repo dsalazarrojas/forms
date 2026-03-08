@@ -1,7 +1,3 @@
-<thinking>
-This form is a general assessment of knowledge for embedded systems. It consists of three pages: a quiz, a page of questions, and a feedback page. The purpose of this form is to gather information about the user's knowledge and feedback on the embedded systems topic. Before completing this form, ensure you are not duplicating the assessment process and have a genuine interest in improving your knowledge.
-</thinking>
-
 # embedded_systems_knowledge_quiz - Help Guide
 ## Purpose
 The embedded_systems_knowledge_quiz form is designed to assess your knowledge on the topic of embedded systems. It consists of three pages: a quiz, a page of questions, and a feedback page. The form is meant to be a starting point for self-assessment or as a tool for instructors to gauge students' understanding of the subject.

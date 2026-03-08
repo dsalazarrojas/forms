@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to reserve a test drive for a luxury vehicle. The form collects information from the customer, including their contact details, vehicle preferences, and test drive preferences. The form is used to schedule a test drive at a designated location and duration, and to communicate with the customer and agent involved in the test drive process.
-</thinking>
-
 # Luxury Auto Test Drive Reservation Form - Help Guide
 ## Purpose
 The Luxury Auto Test Drive Reservation Form is a tool used to schedule test drives for luxury vehicles. This form helps customers reserve a test drive at a designated location and duration, and allows customers to communicate with agents involved in the test drive process.

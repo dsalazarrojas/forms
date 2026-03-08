@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hipaa_authorization_form - Help Guide
 ## Purpose
 The HIPAA Authorization Form is used to obtain patient consent for the release of their medical records to a healthcare provider. This form is a crucial document that ensures the confidentiality and security of patient information.

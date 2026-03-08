@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect demographic and assessment information for clients who have completed a specific program. The form should only be used for individuals who have actually completed the program and not for program administrators or staff members. Please ensure that you have received permission from your client before using this form, and that you are familiar with the program's goals and objectives. This form is meant to be filled out once the client has completed all the required activities and exercises of the program. 
-
-</thinking>
-
 # saor_needs_assessment_program_cf_example - Help Guide
 ## Purpose
 This form is used to collect demographic and assessment information from clients who have completed the program. It includes fields for personal details and program completion information. 

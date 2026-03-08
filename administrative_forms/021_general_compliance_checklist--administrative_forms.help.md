@@ -1,5 +1,3 @@
-<thinking>What does the form need to check for compliance? This form appears to be a General Compliance Checklist, likely used for monitoring and ensuring that business processes and practices are in line with regulatory and internal guidelines. I will need to ensure that the form is clear, concise, and understandable for end-users. This form seems to cover various aspects of compliance, including risk assessment, compliance plans, review frequencies, review dates, and other relevant details. I will carefully analyze each field and create a user-friendly help document.</thinking>
-
 # General Compliance Checklist - Help Guide
 ## Purpose
 

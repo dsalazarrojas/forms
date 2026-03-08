@@ -1,5 +1,3 @@
-<thinking>As this form is designed to assess the skills and experience of audio production professionals, it's likely that it will be used by industry experts and job seekers looking to evaluate or showcase their abilities. The form should cater to a specific group with a clear understanding of the field and its terminology. Ensure that the form fields are clear and concise, with options that accurately reflect the industry's norms and standards. Double-check that the fields are not duplicates or redundant, and that the required fields are accurately specified.</thinking>
-
 # Audio Production Skills Assessment - Help Guide
 ## Purpose
 The Audio Production Skills Assessment form is designed to evaluate the skills, experience, and expertise of audio production professionals. This comprehensive assessment will help identify strengths and areas for improvement.

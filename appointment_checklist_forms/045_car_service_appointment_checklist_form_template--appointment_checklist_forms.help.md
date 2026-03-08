@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information from a customer to schedule a car service appointment. The fields are a mix of customer contact details, vehicle information, and service details.
-
-The fields are organized into categories, such as customer information, vehicle details, and service needs. Some fields are required, while others are optional and provide additional context or information for the customer service team to consider when scheduling the appointment.
-
-The form should be filled out by the customer to provide clear and concise information about their needs and preferences for their car service appointment. The customer can choose from several options for various services and provide any additional comments they may have.
-
-The form's structure and fields are designed to ensure that all necessary information is collected and that the customer service team can quickly and efficiently process the appointment request.
-
-It's essential to review this form carefully and ensure that all required fields are completed before submitting it. The customer should also be aware that providing accurate information will help the customer service team to better understand their needs and provide a more personalized service.
-
-</thinking>
-
 # Car Service Appointment Checklist Form Template - Help Guide
 ## Purpose
 The Car Service Appointment Checklist Form Template is a tool to gather information from a customer to schedule a car service appointment. This form is designed to collect all necessary details to ensure a smooth and efficient appointment process.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help potential adopters and foster families apply for pet rescue adoption. It collects information about the pet and the applicant, aiming to match the right pet with the right owner. To ensure accurate matching, it's essential to fill out the form completely and truthfully. Please note that the form is not intended for duplicate applications, and filling out multiple forms will not expedite the adoption process.
-</thinking>
-
 # Pet Rescue Adoption Application Form - Help Guide
 ## Purpose
 The Pet Rescue Adoption Application Form is designed to gather information from potential adopters and foster families about the pets they are interested in adopting or fostering. This form helps our team match the right pet with the right owner, ensuring a smooth and successful adoption process.

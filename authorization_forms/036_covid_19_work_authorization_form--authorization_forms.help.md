@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect employee information for authorization purposes, specifically for COVID-19 work-related authorization. The form will help employees verify their details, health status, and agreement to work-related policies, ensuring a safe and healthy work environment. To ensure accuracy, employees should only fill in the form if they have not been previously authorized for COVID-19 work.
-
-The form is divided into sections for employee information, department details, and work arrangement, with fields for name, ID, contact details, employment type, and authorization status.
-
-This form should not be completed by employees who have been previously authorized for COVID-19 work, as it's intended for new or renewed authorizations. If an employee is unsure whether they have been previously authorized, they should not fill out the form.
-
-</thinking>
-
 # COVID 19 Work Authorization Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from employees for COVID-19 work authorization purposes. It ensures that employees meet the necessary requirements and agree to work-related policies to minimize the risk of transmission and protect the well-being of everyone in the workplace.

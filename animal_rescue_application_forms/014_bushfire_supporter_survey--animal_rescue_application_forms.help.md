@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bushfire Supporter Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information from supporters of our animal welfare efforts during bushfires. We aim to understand who is backing our cause, how they heard about us, and how they would like to contribute or help. Your input will help us tailor our outreach and support programs to better serve you and other animal lovers.

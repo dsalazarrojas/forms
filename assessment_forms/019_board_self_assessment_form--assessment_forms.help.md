@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for a board to evaluate their own performance and effectiveness as a governing body. It helps the board to assess their strengths and weaknesses, identify areas for improvement, and prioritize their focus. This form is a self-assessment tool, and the answers will be used for internal reflection and decision-making purposes only. The form is intended to be completed by the board members themselves, and the responses will be kept confidential and anonymous.
-</thinking>
-
 # Board Self Assessment Form - Help Guide
 ## Purpose
 The Board Self Assessment Form is a tool for board members to evaluate their own performance and effectiveness as a governing body. This form helps to identify areas of strength and weakness, and to prioritize areas for improvement.

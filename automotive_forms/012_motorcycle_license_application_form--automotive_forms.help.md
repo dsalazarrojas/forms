@@ -1,10 +1,3 @@
-<thinking>
-This form is for obtaining a motorcycle license. The purpose of this form is to collect information from individuals seeking to obtain a motorcycle license. The form will be used by licensing authorities to process the license application. 
-
-To ensure accuracy and efficiency, it is recommended that this form is filled out carefully and thoroughly. If the form is filled out in a manner that is not accurate or clear, it may cause delays or inaccuracies in the processing of the license application.
-
-</thinking>
-
 # motorcycle_license_application_form - Help Guide
 
 ## Purpose

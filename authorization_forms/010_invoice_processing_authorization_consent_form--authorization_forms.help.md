@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # invoice processing authorization consent form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a client's psychological health status, assessment results, and other relevant details from mental health professionals. This form is typically used in healthcare settings, such as clinics or hospitals, to gather data for research, diagnosis, or treatment purposes.
-
-Before filling out this form, please ensure you have not already filled it out for the same client. If you are unsure, please check with the responsible party (e.g., the client's file manager or healthcare manager) to confirm.
-
-</thinking>
-
 # Psychological Assessment Form - Help Guide
 
 ## Purpose

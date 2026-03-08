@@ -1,7 +1,3 @@
-<thinking>
-The Sales Onboarding Assessment Form is designed to assess a new sales representative's readiness to join the sales team. The form aims to gather information about the representative's sales onboarding program, training date, sales manager, territory, and other relevant details. Before filling out this form, please ensure that you have not already completed a similar assessment for this new sales representative in the past. This form is intended for new sales representatives only and is part of the sales onboarding process.
-</thinking>
-
 # Sales Onboarding Assessment Form - Help Guide
 ## Purpose
 The Sales Onboarding Assessment Form is a crucial tool to evaluate a new sales representative's readiness to join the sales team. It helps to gather essential information about their sales onboarding program, training, and other relevant details.

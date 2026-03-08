@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Evaluation Slot Booking Form - Help Guide
 ## Purpose
 This form is used for booking a performance evaluation slot, which is a specific time slot for a performance evaluation. This form helps to collect information from the user regarding the performance status, slot booking details, reviewer information, and other relevant details.

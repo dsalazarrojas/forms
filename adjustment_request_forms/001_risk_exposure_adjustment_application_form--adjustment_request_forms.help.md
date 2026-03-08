@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Risk Exposure Adjustment Application Form - Help Guide
 
 ## Purpose

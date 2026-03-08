@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning block is used to determine the purpose and relevance of this form. This form is designed to gather information about incidents that occur within the research lab. It is intended to provide a structured way to document and track incidents, including the details of the incident, the location and time it occurred, the responsible person or team, and any injuries or other relevant information. This form is likely used by lab administrators or safety officers to quickly and efficiently gather the necessary information to investigate and respond to incidents.
-
-This form is relevant for all incidents, regardless of severity or cause. It is not a duplication of any other form, as it is a singular tool for documenting and tracking lab incidents.
-</thinking>
-
 # Research Lab Incident Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about incidents that occur within the research lab. It is used by lab administrators or safety officers to quickly and efficiently document and respond to incidents.

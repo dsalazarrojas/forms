@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from aspiring basketball players for the purpose of registering for a tryout with our organization. By completing this form, players will provide personal and contact information, as well as details about their basketball experience and medical history. The form includes fields for both the player and parent/guardian to complete, ensuring we have accurate and comprehensive information to consider each player's application. This guide will walk you through each section of the form to ensure a smooth and accurate registration process.
-
-</thinking>
-
 # Basketball Tryout Registration Form - Help Guide
 ## Purpose
 This form is for basketball players to register for a tryout with our organization. It collects personal and contact information, as well as details about their basketball experience and medical history.

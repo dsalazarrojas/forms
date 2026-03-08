@@ -1,24 +1,3 @@
-<thinking>
-
-To determine the form's purpose and relevant fields, let's analyze the provided YAML structure.
-
-This form is designed to collect venue-related information, likely for booking purposes. The form appears to be focused on venue characteristics and contact details.
-
-Upon reviewing the fields:
-
-*   `venue` is a text field likely for the venue name or location.
-*   `venue_type` is a select multiple field with 7 options, possibly categorizing the venue by its type (e.g., event space, conference room, restaurant, etc.).
-*   `costs` is a number field likely for the venue's capacity or rental fees.
-*   `payment_method` is a select one field with 8 options, possibly specifying the payment methods accepted by the venue.
-*   `indoor` and `outdoor` are select multiple fields with 4-5 options each, possibly indicating the venue's indoor or outdoor spaces.
-*   `contact`, `phone`, `email`, `description`, `contact_person`, `contact_phone`, `contact_email`, and `contact_address` are text fields for various contact information.
-
-Considering the provided options and fields, the form seems to be collecting venue details for booking or event organization purposes.
-
-To avoid duplication, it's essential to ensure that the form is not used for other purposes without proper modifications.
-
-</thinking>
-
 # Venue Options Form - Help Guide
 ## Purpose
 This form is designed to collect venue-related information for booking purposes. It gathers details about the venue's type, capacity, payment methods, indoor and outdoor spaces, and contact information.

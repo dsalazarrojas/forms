@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for documenting attendance details for cadets in a uniform, likely in an educational or military setting. The purpose of this form is to capture essential information about the cadet's uniform, such as their name, the date of uniform issue, size confirmation, attendance status, and any necessary follow-up actions. This form will help administrators track and manage uniform distribution effectively.
-</thinking>
-
 # Cadet Uniform Attendance Form - Help Guide
 ## Purpose
 The Cadet Uniform Attendance Form is used to document the attendance details of cadets who receive uniforms. This form helps administrators keep track of uniform distribution, size confirmation, and attendance status.

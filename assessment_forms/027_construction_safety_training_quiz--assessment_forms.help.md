@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Safety Training Quiz - Help Guide
 ## Purpose
 The Construction Safety Training Quiz is designed to assess your knowledge and understanding of construction safety procedures and regulations. This quiz covers various topics related to construction safety, including fall protection, scaffolding, and confined space safety. The quiz is intended to ensure that participants have a good grasp of safety protocols and procedures to prevent accidents and ensure a safe working environment.

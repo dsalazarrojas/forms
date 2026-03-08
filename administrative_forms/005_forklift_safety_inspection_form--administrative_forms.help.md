@@ -1,7 +1,3 @@
-<thinking>
-The Forklift Safety Inspection Form is designed to ensure that all forklifts within the organization are properly inspected and maintained to prevent accidents and injuries. This form is a crucial tool for supervisors and safety managers to monitor and evaluate the safety of forklifts in various departments. Before proceeding, please ensure that the forklifts have been properly selected and that the inspection date and time are accurate.
-</thinking>
-
 # Forklift Safety Inspection Form - Help Guide
 ## Purpose
 The Forklift Safety Inspection Form is a tool used by supervisors and safety managers to monitor and evaluate the safety of forklifts. It ensures that all forklifts are properly inspected and maintained to prevent accidents and injuries.

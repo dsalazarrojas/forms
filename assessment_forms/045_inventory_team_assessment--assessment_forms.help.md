@@ -1,14 +1,3 @@
-<thinking>
-To confirm, you want me to create a user-facing help guide for an "Inventory Team Assessment" form. This form is designed to assess the performance of the inventory team members. Before I start writing the help guide, I'd like to clarify a few points.
-
-* Is there a specific format or style guide I should follow for the help guide?
-* Are there any specific requirements or constraints I should be aware of when creating the help guide?
-* Are there any additional fields or sections I should include or clarify in the guide?
-
-Please let me know if there's anything specific you'd like me to address or if there are any other details I should consider.
-
-</thinking>
-
 # Inventory Team Assessment - Help Guide
 ## Purpose
 The Inventory Team Assessment is a form used to evaluate the performance of inventory team members. It consists of several sections that cover various aspects of their skills, strengths, and areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The "Skin Detox Program Appointment" form is a critical component of the skin detox program, and it's essential to understand its purpose to ensure accurate and efficient completion. This form is intended to gather crucial information from clients, including their appointment details, skin and health information, and follow-up instructions. It's critical to review each field carefully to ensure accurate and relevant data is collected.
-</thinking>
-
 # Skin Detox Program Appointment - Help Guide
 ## Purpose
 The Skin Detox Program Appointment form is a critical component of the skin detox program, used to gather essential information from clients. This form is designed to collect client information, appointment details, skin and health information, and follow-up instructions to ensure accurate and efficient program implementation.

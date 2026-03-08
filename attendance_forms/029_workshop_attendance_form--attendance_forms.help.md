@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workshop Attendance Form - Help Guide
 ## Purpose
 The Workshop Attendance Form is used to track and record attendance for workshops. To use this form, please ensure that you have completed the necessary steps to attend the workshop and that you are using the correct version of the form.

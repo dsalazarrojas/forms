@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's mathematical background and preferences. It appears to be a survey or assessment form used to gauge a user's knowledge and interest in functions. The form is not a critical path form, as none of the fields are required, suggesting it's more of a diagnostic or exploratory tool.
-
-The form is divided into several sections, each with a unique set of questions or fields. The questions seem to be focused on gathering demographic information (age, gender, height), personal preferences (math preference, study habits), and educational background (mathematics knowledge).
-
-The form uses a variety of field types, including select_one, select_multiple, date, and text fields, indicating a mix of categorical and open-ended questions.
-
-</thinking>
-
 # functions_math_quiz - Help Guide
 ## Purpose
 The functions_math_quiz form is a survey or assessment tool designed to collect information about a user's mathematical background and preferences.

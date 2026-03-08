@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to assess the reactions and feelings of individuals experiencing grief, helping healthcare professionals and others support them effectively. This form guides users through various aspects of grief, including physical, cognitive, emotional, and behavioral reactions, as well as their thoughts and considerations. Ensure you have completed this form after experiencing a significant loss, such as the loss of a loved one, as it will help you better understand your emotions and reactions. If you have already taken the assessment, please do not fill it out again, as this will help maintain consistency in your records.
-</thinking>
-
 # Grief Assessment Form - Help Guide
 ## Purpose
 The Grief Assessment Form is designed to provide a structured and comprehensive evaluation of your grief reactions and feelings. This form is typically completed after experiencing a significant loss, such as the loss of a loved one. It helps healthcare professionals and others understand your emotional state, enabling them to offer appropriate support.

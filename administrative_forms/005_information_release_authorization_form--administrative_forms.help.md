@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and authorization for the release of sensitive data related to employees or applicants. The form ensures that the authorized party is properly identified and that the purpose of the release is clearly stated. This form is used in conjunction with other HR processes and is intended to be completed by employees or authorized parties. Please ensure that the form is not duplicated or completed by unauthorized individuals.
-</thinking>
-
 # Information Release Authorization Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information and authorization for the release of sensitive data related to employees or applicants.

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the nomination process for awards within an organization, allowing individuals to recommend their peers or colleagues for recognition. The purpose of this form is to gather information about the nominee, the nomination reason, and the nominee's achievements and impact on the team or organization.
-
-Before proceeding, please ensure that you are aware of the following:
-
-* This form is intended for internal use within the organization and is not affiliated with any external form platforms.
-* The form is designed to gather information for award nominations, and it's essential to complete it accurately to ensure a fair evaluation process.
-* The form has been generated using AI, and it is an original adaptation of public survey topic metadata.
-
-If you are not sure whether you should use this form or have already submitted a similar form, please review the form's purpose and fields before proceeding.
-
-</thinking>
-
 # ASA Award Form - Help Guide
 
 ## Purpose

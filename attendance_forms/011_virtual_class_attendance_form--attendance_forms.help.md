@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track virtual class attendance, which is crucial for instructors to gauge student participation and engagement. It's essential to fill out the form accurately to ensure that attendance records are up-to-date and reliable. Please make sure to complete the form for each virtual class and submit the correct attendance information. This form is not intended to be filled out multiple times for the same class; instead, submit one attendance report per virtual class.
-</thinking>
-
 # Virtual Class Attendance Form - Help Guide
 ## Purpose
 The Virtual Class Attendance Form is designed to track student attendance for virtual classes. Instructors use this form to record student participation and engagement in online classes. It's essential to fill out the form accurately and submit it for each virtual class.

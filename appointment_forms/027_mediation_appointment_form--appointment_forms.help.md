@@ -1,5 +1,3 @@
-<thinking>Before creating this form, please ensure that you have a clear understanding of the purpose and requirements of the Mediation Appointment Form. This form is designed to gather user input for mediation sessions, and it's essential to fill it out carefully to ensure that your mediation needs are properly addressed.</thinking>
-
 # Mediation Appointment Form - Help Guide
 ## Purpose
 The Mediation Appointment Form is designed to collect information from users to facilitate effective mediation sessions. This form will guide you through the fields you need to complete to ensure a smooth and successful mediation process.

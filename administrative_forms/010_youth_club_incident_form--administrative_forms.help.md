@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a specific incident that occurred at a youth club. This form may be used to report accidents, injuries, or other incidents that have happened to a member or staff of the youth club. Please note that the purpose of this form is to gather accurate and thorough information about the incident, and it is intended for internal use only. Before filling out this form, please ensure that you are not repeating an incident that has already been reported.
-</thinking>
-
 # Youth Club Incident Form - Help Guide
 ## Purpose
 The Youth Club Incident Form is designed to collect information about incidents that occur at the youth club. This includes accidents, injuries, or other incidents that involve members or staff.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track and process payroll information for employees. The purpose of this form is to ensure accuracy and consistency in payroll processing, reducing errors and saving time. This form is not intended to be used for other purposes and should only be used for payroll processing. 
-Please make sure to complete this form carefully and accurately, as the information collected will be used to process payroll for employees. If you are unsure about any information, please contact the payroll department for clarification.
-</thinking>
-
 # Payroll Processing Checklist Form - Help Guide
 
 ## Purpose

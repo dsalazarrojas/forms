@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and monitor the maintenance status of various equipment. It is essential for keeping track of regular maintenance schedules, costs, and frequencies to prevent equipment failure and ensure optimal performance. This form should only be filled out for equipment that requires regular maintenance to ensure that the data is up-to-date and accurate.
-</thinking>
-
 # equipment_maintenance_monitoring_form - Help Guide
 ## Purpose
 The Equipment Maintenance Monitoring Form is used to track and monitor the maintenance status of various equipment.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and monitor incident responses in a structured manner, allowing for efficient tracking and analysis of incidents. To use this form, please ensure that it is not being used for purposes other than what it was designed for, and that you are not duplicating efforts. This form is meant to be a centralized tool for recording and managing incidents, not a general-purpose note-taking or free-form text box.
-</thinking>
-
 # Incident Response Monitoring Form - Help Guide
 ## Purpose
 This form is designed to gather and monitor incident responses in a standardized format, ensuring that all relevant information is collected and tracked efficiently. It is intended for use by authorized personnel to provide a clear and concise picture of incidents that have occurred.

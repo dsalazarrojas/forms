@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to document and facilitate the investigation process after an incident has occurred in the workplace. The form helps to collect information about the incident, its location, and the involved parties. The purpose of this form is to ensure that all necessary details are gathered and recorded accurately for future reference and to aid in the investigation process.
-
-This form is only to be completed when an incident has occurred, and it is not intended to be used for routine or non-incident-related purposes. 
-
-Please ensure that all required fields are filled out to ensure the form is submitted correctly. 
-
-The form is only visible to authorized personnel. 
-
-Please do not submit duplicate forms.
-
-</thinking>
-
 # Workplace Incident Investigation Request Form - Help Guide
 ## Purpose
 The Workplace Incident Investigation Request Form is used to document and track incidents that have occurred in the workplace. This includes details about the incident, its location, involved parties, and the investigation status.

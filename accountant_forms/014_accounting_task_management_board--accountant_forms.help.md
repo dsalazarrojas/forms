@@ -1,5 +1,3 @@
-<thinking>First, let's break down the form purpose and ensure it's not a duplication of effort. This form is designed to manage accounting tasks, which involves overseeing and tracking the progress of various financial tasks. It likely serves as a tool for accounting teams to prioritize and coordinate tasks, set deadlines, and assign responsibilities. This form should be a one-stop shop for all task-related information, eliminating the need to maintain separate records or rely on memory. By centralizing task management, the accounting team can increase efficiency and productivity, reducing the likelihood of missed deadlines, lost tasks, or duplicated work.</thinking>
-
 # Accounting Task Management Board - Help Guide
 ## Purpose
 This form is designed to manage accounting tasks, allowing you to track and prioritize tasks, set deadlines, and assign responsibilities. It serves as a centralized platform for coordinating tasks and increasing team efficiency.

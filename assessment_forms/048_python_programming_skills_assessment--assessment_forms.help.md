@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the Python programming skills of a candidate. 
-The form consists of multiple fields that ask about the candidate's user input, programming language proficiency, coding ability, experience with programming challenges, and feedback from recruiters, trainers, and team members. 
-Please fill in the form accurately and honestly to get a fair evaluation of your Python programming skills.
-
-</thinking>
-
 # Python Programming Skills Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the Python programming skills of a candidate.

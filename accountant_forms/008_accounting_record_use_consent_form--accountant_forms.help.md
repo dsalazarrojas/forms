@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Accounting Record Use Consent Form", I'll analyze the provided YAML fields and ensure that the explanations are concrete, concise, and practical.
-
-The purpose of this form is to obtain consent from the owner of the accounting records for their use by others. The form is used to capture critical information about the person requesting access, the type and duration of access, and the restrictions on use. This guide will walk users through each field, ensuring they understand what is required and why.
-
-</thinking>
-
 # Accounting Record Use Consent Form - Help Guide
 ## Purpose
 The Accounting Record Use Consent Form is a crucial document used to obtain consent from the owner of accounting records for their use by others. This form is essential for ensuring that sensitive financial information is handled and protected properly.

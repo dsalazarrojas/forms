@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect nominations for the "Occupier Of The Year" award, a recognition of outstanding individuals in a given industry or community. The form is intended to capture essential information for the nomination process, including personal and professional details. To ensure accuracy and relevance, please carefully review each field before submitting the form. Note that this form is not affiliated with any specific platform or organization and is an original adaptation created using AI.
-</thinking>
-
 # Occupier Of The Year Nomination Form - Help Guide
 ## Purpose
 This form is used to submit nominations for the "Occupier Of The Year" award, which recognizes outstanding individuals in a specific industry or community.

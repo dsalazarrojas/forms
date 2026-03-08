@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide for the "tax_filing_verification_form" form, we need to consider the following:
-* The form is used for tax filing verification, which is an important administrative process to ensure accurate and compliant tax filings.
-* The form collects various information related to the client, including their name, tax return status, address, phone number, and email. This is likely used to verify the client's identity and validate their tax filing information.
-* The form also collects specific tax filing details, such as tax return amount, filing fee, and submission date. This is likely used to track and monitor tax filings.
-* Some fields are required, while others are not. The required fields are likely crucial for the tax filing process, while the non-required fields provide additional information for reference or reporting purposes.
-
-Given the fields and their descriptions, the form appears to be designed for tax authorities or financial institutions to verify and process tax filings. However, without additional context or business logic, we can only provide general explanations for each field.</thinking>
-
 # tax_filing_verification_form - Help Guide
 ## Purpose
 The "tax_filing_verification_form" is a form used to verify and process tax filings. It collects various information related to the client and their tax filings.

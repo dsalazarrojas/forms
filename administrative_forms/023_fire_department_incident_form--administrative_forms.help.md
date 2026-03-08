@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Department Incident Form - Help Guide
 ## Purpose
 This form is designed for the Fire Department to report and document incidents. It collects information about the location, type, date, time, status, and description of the incident. The form is intended for internal use within the department to track and manage incidents.

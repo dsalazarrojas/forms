@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track student attendance at school meetings. The purpose of this form is to capture relevant information from students about their attendance status and any comments or additional information they want to provide. This form is intended for internal use within the school and is not affiliated with any external form platforms. It is an original adaptation created using AI and is released under CC BY 4.0. This form can be used, modified, and even sold, but please provide proper credit.
-</thinking>
-
 # School Meeting Attendance Form - Help Guide
 ## Purpose
 The School Meeting Attendance Form is a tool used by school administrators to track student attendance at school meetings. This form is designed to collect information about each student's presence, comments, and any additional details they may want to share.

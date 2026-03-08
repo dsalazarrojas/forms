@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their earned income tax credit (EITC) status. The form is used to gather details about a client's income, age, marital status, dependents, and employment status, among other relevant information. The form's purpose is to help the client provide accurate and complete information about their financial situation, which will be used to determine their eligibility for the EITC.
-
-The form is structured to be user-friendly and easy to navigate, with clear labels and explanations for each field. The fields are categorized into sections that correspond to different aspects of the client's financial situation, making it easier for the client to provide the required information.
-
-Before filling out the form, please make sure to review the following:
-
-*   The form is not a tax return and is not a substitute for tax professional advice.
-*   The information collected on this form is for the purpose of determining EITC eligibility and will be kept confidential.
-*   Please provide accurate and complete information to ensure eligibility determination.
-</thinking>
-
 # Earned Income Tax Credit (EITC) Client Questionnaire - Help Guide
 ## Purpose
 The Earned Income Tax Credit (EITC) Client Questionnaire is designed to collect information from clients about their earned income tax credit status. The form helps clients provide accurate and complete information about their financial situation to determine their eligibility for the EITC.

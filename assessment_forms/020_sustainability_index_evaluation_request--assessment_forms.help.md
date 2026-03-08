@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're evaluating your sustainability index and want to make sure you're not duplicating any assessments. Please fill out this form with the following details.
 
 # Sustainability Index Evaluation Request - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to help users set and document their annual goals, making it easier to track and review progress. This form is intended to be used by individuals and teams to establish clear, measurable objectives. It's essential to understand that each field in this form is designed to be filled out in conjunction with the specific goal it pertains to. For instance, the "Goal X Description" fields should be filled with a description of the specific goal, while the "Goal X Priority Level" field should reflect the importance level of that goal. This form is not meant to be used for other purposes, such as reporting or data analysis. Please use this form for its intended purpose only.</thinking>
-
 # Annual Goal Setting Checklist - Help Guide
 
 ## Purpose

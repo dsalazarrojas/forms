@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting visitor information at a resort, which is likely for internal purposes such as record-keeping, follow-up, or communication. The form is not explicitly marked as required, but it's likely that some fields are necessary for correct processing. This guide will help users understand the purpose of the form and each field's intended use, in case there are any doubts or inconsistencies.
-</thinking>
-
 # Resort Visitor Information Form - Help Guide
 ## Purpose
 This form is designed to gather essential details about visitors to the resort, including contact information, visit dates and times, and any notable notes or assigned tasks. It will help the staff efficiently manage visitor data and provide better services.

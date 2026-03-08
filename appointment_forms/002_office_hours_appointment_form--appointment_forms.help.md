@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Hours Appointment Form - Help Guide
 
 ## Purpose

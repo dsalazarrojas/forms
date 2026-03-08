@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Repair And Inflammation Assessment - Help Guide
 
 ## Purpose

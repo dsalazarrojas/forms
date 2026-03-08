@@ -1,17 +1,3 @@
-<thinking>
-
-The "Rental Car Incident Form" is used to document incidents involving rental cars, which could be accidents, thefts, or other events that require reporting. This form is designed to gather information from the customer, such as details about the vehicle involved, the incident location, and any witness statements or contact information.
-
-To determine if a user is eligible to complete this form, consider the following:
-
-* Is the user affiliated with the organization responsible for managing rental car incidents?
-* Is the user authorized to report incidents on behalf of the organization?
-* Is the user attempting to complete this form for a legitimate reason, such as reporting an actual incident or gathering information for a hypothetical scenario?
-
-If the form is being used for an actual incident, ensure that the user has access to the necessary information and is not duplicating efforts. If the user is attempting to complete the form for a hypothetical scenario, ensure that they have a valid reason for doing so and are not attempting to manipulate the system.
-
-</thinking>
-
 # Rental Car Incident Form - Help Guide
 ## Purpose
 The Rental Car Incident Form is used to document incidents involving rental cars, including accidents, thefts, or other events that require reporting.

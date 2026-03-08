@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users to make a reservation for an island. This includes details about the booking, accommodation choice, and dates of stay. It's essential to provide correct information to ensure accurate processing of the reservation. The form is divided into four sections, each with specific fields that need to be filled in. Please make sure to fill out each field correctly to avoid errors.
-</thinking>
-
 # Island Reservation Form - Help Guide
 ## Purpose
 The Island Reservation Form is designed to gather information from users to make a reservation for an island. It's essential to provide correct information to ensure accurate processing of the reservation.

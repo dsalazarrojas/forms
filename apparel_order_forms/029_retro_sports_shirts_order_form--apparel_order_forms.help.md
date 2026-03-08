@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is meant to be used in a sports-themed online store to allow customers to order retro sports shirts. It will be used by customers to provide necessary information for ordering a shirt, including their name, address, preferred shirt size, payment method, and any additional notes about their order.
-The form has several pages, but all pages will be explained here as the content is relatively simple.
-</thinking>
-
 # retro-sports-shirts-order-form - Help Guide
 ## Purpose
 This form is used to order retro sports shirts. It is divided into several fields that ask for necessary information to process your order. Please fill out the form carefully to ensure your order is processed correctly.

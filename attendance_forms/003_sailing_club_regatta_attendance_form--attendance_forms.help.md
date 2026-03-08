@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sailing Club Regatta Attendance Form - Help Guide
 ## Purpose
 The Sailing Club Regatta Attendance Form is a tool for sailors to provide their information for regatta events organized by the club. This form helps the club to keep track of sailors' attendance and other details for regatta events.

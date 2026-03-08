@@ -1,8 +1,3 @@
-<thinking> 
-The Vascular Health Assessment Form is designed to collect information from patients about their health status, medical conditions, and symptoms. It is essential to ensure that each patient's unique situation is accurately assessed and documented. This form will help healthcare professionals gather the necessary data for personalized care. Please note that the form is not intended to replace professional medical advice or assessments. It is recommended that healthcare professionals review the form's output carefully before making any decisions.
-
-</thinking>
-
 # Vascular Health Assessment Form - Help Guide
 ## Purpose
 The Vascular Health Assessment Form is a tool used to collect information from patients about their health status, medical conditions, and symptoms. This information will help healthcare professionals provide personalized care and make informed decisions.

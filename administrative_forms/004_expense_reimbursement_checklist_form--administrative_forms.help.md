@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Expense Reimbursement Checklist Form" is to collect information about employee expenses, including the category of the expense, the date it was submitted, and the details of the expense, such as cost and description. This form should only be used for legitimate business purposes and not for personal expenses. It is recommended that employees only submit expenses that have not already been reimbursed. 
-</thinking>
-
 # Expense Reimbursement Checklist Form - Help Guide
 
 ## Purpose

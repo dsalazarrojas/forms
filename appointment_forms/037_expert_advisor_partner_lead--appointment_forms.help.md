@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for an "expert advisor" lead, which is a potential customer who has shown interest in a specific service or product. This form will guide users in providing their appointment details, nurture lead status, and any additional notes or comments. 
-
-Before proceeding, please ensure that you have reviewed the provided form fields and understand their relevance to your situation. If you have any existing information for the fields listed below, please fill them in accordingly. Duplicate entries may be removed or merged upon submission. This will ensure a smooth and efficient process for both you and our team.
-
-</thinking>
-
 # expert_advisor_partner_lead - Help Guide
 
 ## Purpose

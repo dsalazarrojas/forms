@@ -1,6 +1,3 @@
-<thinking>
-This form is used for pension withdrawal authorizations, and it's essential to ensure that all required fields are filled out correctly to process the request. This form is likely to be used by employees requesting a pension withdrawal, and it's crucial to review each field carefully to avoid any errors. Please note that if you're not sure about any field, it's best to consult with your HR or pension administrator for clarification. Before proceeding, review each field and its purpose to understand the form's intent. Ensure that all fields are completed as required before submitting the form.</thinking>
-
 # Pension Withdrawal Authorization Form - Help Guide
 ## Purpose
 The Pension Withdrawal Authorization Form is used to request a pension withdrawal from your pension account. This form is to be completed by pension account holders who wish to withdraw their pension funds for a specific reason.

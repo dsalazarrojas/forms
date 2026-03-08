@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about a part-time staff member's schedule preferences. This includes details such as their availability, preferred days and hours of work, schedule type, frequency, and length. The form also collects notes and contact information for follow-up purposes. This form is likely used for scheduling purposes within an organization.
-The form has multiple fields that may seem redundant, but each one serves a specific purpose. For instance, the "schedule_note" fields are likely for collecting additional information or comments about a schedule.
-To complete this form, please ensure you have all necessary information ready before starting. 
-</thinking>
-
 # part_time_staff_schedule_preference_form - Help Guide
 ## Purpose
 This form is used to collect information about a part-time staff member's schedule preferences.

@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is likely used for employees to request access to virtual desktops for work purposes. The form is designed to collect information from both the submitting user and the approver, including the submitting user's department, job title, location, and other relevant details. The form is probably used to facilitate the process of granting access to virtual desktops for employees who need it for their work.
-
-The form may also be used to track the approval process, including the approval date, approver's department, job title, and location.
-
-Before starting, check if a similar request has been made recently. If you've already submitted a request, you might not need to fill out this form again.
-
-</thinking>
-
 # Virtual Desktop Access License Request Form - Help Guide
 ## Purpose
 This form is used to request access to a virtual desktop for work purposes. It collects information from both the submitting user and the approver to facilitate the approval process.

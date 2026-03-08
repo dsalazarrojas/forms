@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information and approvals for specific standards and guidelines related to health, safety, and security standards. The purpose of this form is to ensure that all relevant approvals and documentation are in place before proceeding with any new project or proposal. The form should only be submitted once the relevant approvals have been received. 
-
-Please note that this form is part of a broader assessment process, and any submitted data will be reviewed by relevant stakeholders. Duplicate submissions will be automatically rejected, and submissions without necessary information may not be accepted. 
-
-</thinking>
-
 # Hsse_approval_checklist - Help Guide
 ## Purpose
 The Hsse_approval_checklist form is used to gather information and approvals for specific standards and guidelines related to health, safety, and security. This form ensures that all relevant approvals and documentation are in place before proceeding with any new project or proposal.

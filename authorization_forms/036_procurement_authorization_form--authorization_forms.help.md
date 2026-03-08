@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for procurement-related purposes, such as requesting or authorizing goods and services. It is a common form used for administrative purposes within an organization. To confirm the relevance and non-duplication, please review your current role and the specific business needs of your organization to determine if this form is necessary and not a duplicate.
-</thinking>
-
 # Procurement Authorization Form - Help Guide
 ## Purpose
 The "Procurement Authorization Form" is a template used to request or authorize procurement-related activities, ensuring proper administrative procedures are followed within the organization.

@@ -1,14 +1,3 @@
-<thinking>
-
-This form is intended to collect information from junior members who are applying for a junior branch medallion. The medallion is awarded to recognize and celebrate the achievements of junior members. The form is used to collect personal and achievement-related information from the junior member, as well as any supporting documents they may have. The form is not meant to be used for any other purpose.
-
-To ensure that the form is completed correctly, please review the following fields:
-
-*   Ensure that you are filling out the correct form for your branch medallion application. This form is specifically designed for junior branch medallion applications.
-*   Review the fields below to ensure that you are providing accurate and complete information.
-
-</thinking>
-
 # Junior Branch Medallion Application - Help Guide
 ## Purpose
 The Junior Branch Medallion Application form is used to collect information from junior members who are applying for a junior branch medallion. The medallion is awarded to recognize and celebrate the achievements of junior members.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from sellers who want to make an offer on Once Upon A Child's platform. The form is designed to be completed by individuals who have items they want to sell, and it will help the platform's administrators to better understand the seller's requirements and offer them the best possible service. This form is meant to be used by anyone who wants to list their items for sale, regardless of their background or expertise in selling. It's a one-time form to be completed once the items are ready to be listed.
-
-</thinking>
-
 # Appointment Request Form Once Upon A Child - Help Guide
 ## Purpose
 The form is designed to collect information about items you want to sell, including the seller information, appointment details, and additional information.

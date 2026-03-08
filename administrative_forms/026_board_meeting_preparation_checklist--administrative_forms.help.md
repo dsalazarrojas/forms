@@ -1,6 +1,3 @@
-<thinking>... 
-This form is used by administrators to ensure that all necessary tasks are completed before a board meeting takes place. It is essential to complete this form carefully to guarantee that the meeting is well-prepared and goes smoothly. The form should only be completed by a designated coordinator, and all answers should be accurate to the best of their knowledge.</thinking>
-
 # Board Meeting Preparation Checklist - Help Guide
 ## Purpose
 The purpose of this form is to confirm that the necessary tasks are completed before the board meeting. It is a checklist to ensure that the meeting is well-prepared and runs smoothly.

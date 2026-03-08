@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Income Certificate Application Form - Help Guide
 ## Purpose
 This form is designed to collect income certificate application information from applicants. It helps to gather details about the applicant's income, employment status, tax information, and bank accounts. The form is used to streamline the process of verifying income and employment information for application purposes.

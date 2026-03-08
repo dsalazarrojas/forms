@@ -1,7 +1,3 @@
-<thinking>
-To avoid unnecessary repetition, we want to ensure that users only complete the form once, and it's used to collect data for the Worker Skills Validation Program. This form should be used by workers to register and validate their skills, and we need to make sure that users have a clear understanding of what information is being collected. We also want to make sure that users understand that each field is optional, but required fields are marked as such.
-</thinking>
-
 # Worker Skills Validation Program Registration Form - Help Guide
 ## Purpose
 This form is used to register and validate your skills as part of the Worker Skills Validation Program. The program aims to collect information about your skills, experiences, and tools used to perform your job tasks.

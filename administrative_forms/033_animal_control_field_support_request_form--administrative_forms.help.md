@@ -1,12 +1,3 @@
-<thinking>
-To prevent duplication of effort and ensure that each animal-related issue is resolved efficiently, it's essential to submit a clear and comprehensive report of the situation. This guide will help you fill out the Animal Control Field Support Request Form accurately, ensuring that we can respond promptly and effectively.
-
-The form is designed to gather information about incidents involving animals in the field. Please answer each section carefully, providing as much detail as possible.
-
-This guide will walk you through each field in the form, explaining what information it collects and how to fill it out correctly.
-
-</thinking>
-
 # Animal Control Field Support Request Form - Help Guide
 ## Purpose
 The Animal Control Field Support Request Form is used to report incidents involving animals in the field. This form helps us to identify the issue, gather relevant information, and dispatch personnel to resolve the situation efficiently.

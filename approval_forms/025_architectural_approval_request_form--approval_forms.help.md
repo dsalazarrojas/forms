@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide for the Architectural Approval Request Form, let's review the form's purpose and requirements. This form is used to collect information from property owners or managers to request architectural approval for proposed projects. The form aims to gather essential details about the property, project, and approval process. The fields are divided into several sections, ensuring a clear and organized flow of information.</thinking>
-
 # Architectural Approval Request Form - Help Guide
 ## Purpose
 The Architectural Approval Request Form is designed to collect information from property owners or managers to request architectural approval for proposed projects. This form is used to gather essential details about the property, project, and approval process.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Post-Competition Performance Reservations" form. This form is used to collect information from users after a performance has taken place. The purpose of this form is to gather details about the performance, including the reservation date, event name, performer name, performance start and end times, event type, performance location, and any additional notes. The form is likely used by event organizers or administrators to track and record information about past performances.
-</thinking>
-
 # Post-Competition Performance Reservations - Help Guide
 ## Purpose
 This form is used to collect post-competition performance information from users.

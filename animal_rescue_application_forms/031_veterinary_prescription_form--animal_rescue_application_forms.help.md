@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to collect information for veterinary prescription purposes. The purpose of this form is to gather data about a pet's health status, its owner's information, the veterinarian's information, treatment details, and additional notes or signatures. This form is designed to be completed by the pet owner or a representative, and it's meant to be filled out at the time of a vet visit. Before starting, please ensure that you're using this form for its intended purpose and not duplicating efforts. If you're unsure, please consult with a veterinary professional.</thinking>
-
 # Veterinary Prescription Form - Help Guide
 ## Purpose
 The Veterinary Prescription Form is used to collect essential information for veterinary prescription purposes. It's a crucial document that helps veterinarians make informed decisions about a pet's treatment and care.

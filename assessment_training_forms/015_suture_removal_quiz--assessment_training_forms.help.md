@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to be completed by users who need to assess their knowledge and experience with suture removal procedures. The purpose of the form is to evaluate a user's understanding of when, why, and how to remove sutures safely and effectively. 
-
-The form is divided into 20 questions, each with a specific set of possible answers or options. The user will be asked to select the correct answers for each question, and the form will track their progress and provide feedback on their performance. 
-
-Before completing the form, ensure you have a good understanding of the general concepts of suture removal and the specific options provided in each question. 
-
-It is recommended that you do not complete this form if you have any doubts or concerns about suture removal procedures. 
-
-The form is not intended to be a definitive evaluation of a user's competence, but rather a tool to aid in their learning and development.
-
-This is a non-technical, non-medical form and the user's responses will not have any direct impact on their medical licenses or certifications. 
-
-This form should take approximately 5-10 minutes to complete.
-</thinking>
-
 # Suture Removal Quiz - Help Guide
 ## Purpose
 This form is designed to help users assess their knowledge and experience with suture removal procedures.

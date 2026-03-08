@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be a concise and concrete explanation of the "Shipping Document Authorization Form" for end-users. The form appears to be a crucial part of the shipping process, as it requires information such as customer name, shipping date, customer contact, and document details. This form might be used in various contexts where shipping documents need to be authorized, such as warehouse management, logistics, or supply chain operations. However, it's essential to review the form's purpose and requirements with the relevant stakeholders to ensure this guide accurately reflects the actual use case and requirements.
-</thinking>
-
 # Shipping Document Authorization Form - Help Guide
 ## Purpose
 The "Shipping Document Authorization Form" is used to authorize and track shipping documents. This form collects essential information about the customer, shipment details, and document status to facilitate smooth and organized shipping processes.

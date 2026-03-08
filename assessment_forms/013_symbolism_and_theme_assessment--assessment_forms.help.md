@@ -1,21 +1,3 @@
-<thinking>
-To create a help guide for the Symbolism And Theme Assessment form, I need to understand the purpose and requirements of this form. This form appears to be a comprehensive assessment tool for evaluating the symbolism and theme elements in a text or work of art. It likely helps assessors analyze and evaluate the symbolism and theme used in a piece of writing, identifying key aspects such as the type of symbolism, theme, theme justification, symbolism justification, analysis, conclusion, and more.
-
-To confirm, this form is used to:
-
-* Gather information about a student's work, specifically their name and ID
-* Collect data on the text title and theme description
-* Determine the type of symbolism used (e.g., symbolism, alliteration, metaphor, simile)
-* Evaluate the theme and its justification
-* Analyze and conclude on the theme and symbolism
-* Identify the theme's relevance, development, ideas, relationships, supports, oppositions, and implications
-
-This form is likely used in an educational setting, such as a writing or literature class, where students need to demonstrate their understanding of symbolism and theme analysis.
-
-Now, let's create a user-facing help guide that explains the form's purpose, how to complete it, and each field's meaning.
-
-</thinking>
-
 # Symbolism And Theme Assessment - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Work Consent Form - Help Guide
 
 ## Purpose

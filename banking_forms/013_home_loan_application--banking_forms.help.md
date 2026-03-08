@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of applying for a home loan. It's likely used in a banking or financial institution to collect relevant information from customers. The form has multiple pages with various fields asking for personal and financial information, employment status, and loan details. This form is probably used to evaluate customers' loan applications and determine the loan status. Before proceeding, please ensure you have all necessary documents and information ready.
-</thinking>
-
 # Home Loan Application - Help Guide
 ## Purpose
 This form is for customers to apply for a home loan. Please fill out the form accurately and completely to increase the chances of a successful loan application.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from wrestlers, referees, and other stakeholders involved in a wrestling match. The form's purpose is to gather necessary details about the wrestler, match, and referee for official record-keeping and future reference.
-
-Before proceeding, please note that this form does not require any specific fields to be completed, but filling out all fields will provide a more comprehensive record.
-
-Please review the following sections carefully to understand the requirements and best practices for completing this form.
-
-</thinking>
-
 # Wrestling Registration Form - Help Guide
 ## Purpose
 This form collects information from wrestlers, referees, and other stakeholders involved in a wrestling match. The goal is to gather essential details for official record-keeping and future reference.

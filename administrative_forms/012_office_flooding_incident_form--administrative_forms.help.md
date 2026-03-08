@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to report and track office flooding incidents within the organization. To determine if this form is a duplicate, the system may use the "contact name" and "incident date" fields to identify and prevent multiple submissions from the same person reporting the same incident. 
-The purpose of this form is to collect information about office flooding incidents, including the affected area, employee injuries, and contact information. This form will help the maintenance team to respond to and resolve the issue efficiently.
-
-</thinking>
 # Office Flooding Incident Form - Help Guide
 ## Purpose
 The Office Flooding Incident Form is used to report and track office flooding incidents within the organization. This form collects information about the incident, including the affected area, employee injuries, and contact information, to help the maintenance team respond to and resolve the issue efficiently.

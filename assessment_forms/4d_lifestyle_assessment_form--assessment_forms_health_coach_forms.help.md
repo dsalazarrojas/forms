@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's lifestyle habits, focusing on four dimensions: physical activity, nutrition, mindset, and finances. This assessment aims to help clients identify areas for personal improvement and provide a starting point for coaching sessions. 
-
-Please ensure you are using this form in a coaching context, and that you have the necessary permissions and agreements in place for data collection. 
-
-Before sharing this form, please review each field explanation below:
-</thinking>
-
 # 4D Lifestyle Assessment Form - Help Guide
 ## Purpose
 This form is a tool for coaching clients to assess their lifestyle habits across four dimensions: physical activity, nutrition, mind-set, and finances. The goal is to gain insights into areas that may need attention and support.

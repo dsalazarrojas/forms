@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure relevance, I will base this help guide on the provided YAML fields. The Theater Performance Consent Form is designed to collect information about participants and their guardians in a theater performance. This form will collect details such as participant names, relationships, ages, and consents. It will also allow users to provide additional contact information. The goal is to gather necessary data efficiently while ensuring that all required fields are filled out correctly.
-
-</thinking>
-
 # Theater Performance Consent Form - Help Guide
 ## Purpose
 The Theater Performance Consent Form is a document intended to collect necessary information from participants and their guardians about their involvement in a theater performance. This information helps us understand who will be participating and ensures we meet any necessary requirements for the event.

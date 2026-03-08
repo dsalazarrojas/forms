@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Monthly Treasurer Report Form - Help Guide
 
 ## Purpose

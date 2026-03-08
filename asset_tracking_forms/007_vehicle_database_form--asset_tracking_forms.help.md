@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to create a database entry for a vehicle, allowing users to input various details about the vehicle. This form is used to track and organize vehicle information, including its make, model, year, and other relevant data. Before filling out this form, please make sure you are authorized to access and manage vehicle data and that you are not duplicating an existing entry. To avoid errors, carefully review the form's requirements and ensure that all required fields are filled out accurately.
-
-</thinking>
-
 # Vehicle Database Form - Help Guide
 ## Purpose
 The Vehicle Database Form is used to create and manage vehicle database entries. It provides a structured format for users to input and store vehicle information, making it easier to track and maintain accurate records.

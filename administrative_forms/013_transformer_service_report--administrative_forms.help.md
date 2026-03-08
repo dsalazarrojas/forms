@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Transformer Service Report form, which is likely used in an industrial or technical context, possibly for tracking and recording information about transformer services or maintenance activities. The form's purpose is to collect relevant data from users, possibly for administrative or operational purposes. However, without further context, it's difficult to pinpoint the exact use case or industry. It's essential to review the form's purpose and ensure it aligns with the organization's needs before proceeding. Assuming this form is indeed relevant, let's proceed with creating the help guide.
-</thinking>
-
 # Transformer Service Report - Help Guide
 ## Purpose
 The Transformer Service Report form is designed to collect information about transformer services, likely for tracking and recording purposes. This form will help users provide detailed reports about their interactions with transformer services.

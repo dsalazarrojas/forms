@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from participants for a baseline cognitive assessment, likely for research or clinical purposes. The form aims to gather demographic details, cognitive function data, and general health information to help assessors make informed decisions or diagnoses. Ensure that you're completing this form for yourself or with the participant's consent. Please note that some questions may have specific scales or options for scoring, so make sure to understand their meaning before answering. If you're filling out this form for someone else, please ensure you have the necessary permissions or consents to do so. If you're unsure about any question, please ask an assessor for clarification. 
-
-</thinking>
-
 # Baseline Cognitive Assessment Form - Help Guide
 ## Purpose
 The Baseline Cognitive Assessment Form is a standardized tool used to evaluate a participant's cognitive functions, general health, and demographic details. It's essential to fill out this form accurately and honestly to ensure reliable results.

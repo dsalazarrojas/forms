@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be designed for assessing the loyalty of retail customers, likely for business intelligence or marketing purposes. The form collects various pieces of information about the customer, including demographics, satisfaction, and purchase behavior. The form is likely intended to help businesses understand their customer base and identify trends or patterns in customer loyalty. The form's structure and fields suggest it is meant to be completed by customers, who are likely being surveyed or interviewed to gather this information.
-
-Please note that some fields seem to be redundant or have similar labels, which may lead to confusion among users. For example, "Customer Experience" and "Customer Satisfaction" seem to have similar meanings. However, without further context or business requirements, it's difficult to determine the exact purpose of each field.
-
-It is also worth noting that some fields have a "Score" suffix, which suggests they are intended to be calculated or measured in some way. These fields may require additional context or calculation logic to be fully understood.
-
-Overall, the form appears to be designed for data collection and analysis, rather than real-time customer feedback or transactional data entry.
-</thinking>
-
 # Retail Customer Brand Loyalty Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect data about your shopping experience and loyalty to our brand. Your responses will help us understand your preferences and behaviors, which will inform our business decisions to better serve you.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to fill out the Vehicle Allocation And Exchange Form. The purpose of this form is to gather information about vehicles. This form should be used when an end-user has a vehicle that they would like to allocate or exchange. 
-</thinking>
-
 # Vehicle Allocation And Exchange Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about vehicles in order to facilitate their allocation or exchange. 

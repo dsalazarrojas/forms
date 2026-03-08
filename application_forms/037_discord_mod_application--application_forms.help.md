@@ -1,5 +1,3 @@
-<thinking>...The form appears to be a Discord mod application form, likely designed for users to apply for a moderator position within a Discord server. Each field, labeled with a numerical ID and title, seems to be a text entry field, allowing users to provide information about themselves in a specific category. The purpose of this form is to gather data from applicants in a structured and organized manner, likely for review by server administrators or moderators. The form has a large number of fields with identical labels, which may indicate that it is designed to be filled out multiple times, possibly for different aspects of the application or to gather additional information. However, it's worth noting that some fields are marked as "required" while others are not, which may indicate that some information is mandatory for the application process. Overall, the form appears to be a comprehensive collection of user information, likely for moderator position applications...</thinking>
-
 # Discord Mod Application - Help Guide
 ## Purpose
 

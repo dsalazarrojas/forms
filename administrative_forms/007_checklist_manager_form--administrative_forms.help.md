@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help project managers and team members manage tasks and checklists effectively. Its purpose is to provide a centralized platform for tracking projects, tasks, and their associated information. By using this form, project managers can create, edit, and track tasks, as well as assign team members and resources to tasks. The form also allows for the tracking of task progress, dependencies, and completion status.
-
-The form is divided into several sections, each with its own set of fields. This guide will walk you through each section and field, explaining their purpose and how to fill them out correctly.
-
-</thinking>
-
 # Checklist Manager Form - Help Guide
 ## Purpose
 The Checklist Manager Form is designed to help project managers and team members track and manage projects and tasks effectively.

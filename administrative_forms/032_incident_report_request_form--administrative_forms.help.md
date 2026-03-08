@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information about incident reports from various types of incidents, including accidents, and involve parties involved in the incident, such as the incident reporter and witnesses. It captures details like date and time of the incident, location, description, actions taken, safety measures, and incident reporting and updates. The form is meant to be completed by a person who witnessed or was involved in the incident and aims to gather accurate and comprehensive information for official incident reporting purposes. Please note that this form does not collect any personal identifiable information, and all fields are optional unless marked as required. If you've already reported an incident with the same details, this form will not allow you to report it again...</thinking>
-
 # incident_report_request_form - Help Guide
 ## Purpose
 This form is designed to collect information about incident reports from various types of incidents that involve parties such as witnesses, incident reporters, or those involved.

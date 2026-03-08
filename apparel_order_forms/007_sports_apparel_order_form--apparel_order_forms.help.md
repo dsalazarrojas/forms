@@ -1,8 +1,3 @@
-<thinking>... (Internal reasoning block)
-This form is part of a larger system for processing sports apparel orders. The "Sports Apparel Order Form" collects information from customers to facilitate the creation of their orders. Each field is designed to capture specific data points essential for processing and fulfilling the order accurately and efficiently. The form includes a range of fields that cater to different aspects of the order, such as details, items, date and time, customer preferences, and shipping information. This guide is intended to help customers understand what is required and how to accurately fill out the form to ensure a smooth and successful order experience.
-
-</thinking>
-
 # Sports Apparel Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers for their sports apparel order. It is essential to provide accurate details to ensure that your order is processed correctly and promptly.

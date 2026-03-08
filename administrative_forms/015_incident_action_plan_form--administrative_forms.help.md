@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and report incidents within the organization. It's essential to complete this form accurately and thoroughly to ensure that the incident is properly tracked, investigated, and resolved. Make sure to answer the fields based on the actual incident, and if there's any uncertainty, it's better to err on the side of caution and seek clarification before submitting the form.
-</thinking>
-
 # Incident Action Plan Form - Help Guide
 ## Purpose
 The Incident Action Plan Form is a document that helps in documenting and reporting incidents within the organization. It is used to gather essential information about the incident, including the category, description, date and time of the incident, location, and the incident's title.

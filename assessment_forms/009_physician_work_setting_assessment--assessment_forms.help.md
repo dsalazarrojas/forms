@@ -1,7 +1,3 @@
-<thinking>
-The Physician Work Setting Assessment form is designed to collect information about a physician's work setting, including their work hours, work environment, and patient flow. This form is intended for healthcare administrators, researchers, and other stakeholders who need to understand how physicians work in various settings. This form is used to assess the work setting of physicians in different hospitals, clinics, ambulatory surgery centers, offices, or other settings. It is not meant to duplicate existing evaluations or assessments, but rather to provide an additional layer of information for decision-making purposes.
-</thinking>
-
 # Physician Work Setting Assessment - Help Guide
 ## Purpose
 This form is used to gather information about a physician's work setting, including work hours, work environment, and patient flow, to help healthcare stakeholders understand and improve the work of physicians in different settings.

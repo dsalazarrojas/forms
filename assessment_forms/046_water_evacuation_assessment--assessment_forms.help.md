@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about water evacuation assessments. It is intended for use in emergency situations where there has been an incident or issue with the water system. This form should only be completed in such instances.
-It's worth noting that this form may only be relevant if you are a facility manager or similar. If you are not a facility manager, there may be other forms or procedures that you should use.
-Please ensure that you are not duplicating work by checking for existing reports or assessments before starting this form.
-</thinking>
-
 # Water Evacuation Assessment - Help Guide
 ## Purpose
 This form is used to collect information about water evacuation assessments. It is intended for use in emergency situations where there has been an incident or issue with the water system.

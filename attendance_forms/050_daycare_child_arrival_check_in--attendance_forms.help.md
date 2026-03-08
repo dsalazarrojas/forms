@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # daycare_child_arrival_check_in - Help Guide
 ## Purpose
 This form is used to track the details of a child's arrival at daycare, including the arrival time, caregiver information, and any notes related to the child's presence. It is intended to help daycare staff efficiently manage child arrival and departure processes. Ensure to only submit the form once for each child's arrival.

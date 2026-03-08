@@ -1,5 +1,3 @@
-<thinking>...The Joint Making Rules Assessment form is designed to collect information about joint making rules in a given context. This form is typically used for assessing and providing feedback on joint making rules in specific scenarios. It is recommended to use this form when there is a need to evaluate and document joint making rules to ensure consistency and fairness in decision-making processes. It is essential to complete this form when the assessment is relevant and has not been completed within the past few days. Please ensure that you understand the context and purpose of this assessment before proceeding to avoid duplication and unnecessary work...</thinking>
-
 # Joint Making Rules Assessment - Help Guide
 ## Purpose
 The Joint Making Rules Assessment form is designed to collect information about joint making rules in a given context. This form is typically used for assessing and providing feedback on joint making rules in specific scenarios.

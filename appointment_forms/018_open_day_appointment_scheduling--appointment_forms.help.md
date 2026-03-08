@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information and schedule appointments for visitors to a campus, allowing users to select time slots for the visit, provide visitor information, and manage the booking status.
-The form is intended for campus visit scheduling and should not be used for other purposes. It is crucial to ensure that the correct time slots are selected, visitor information is accurate, and booking status is managed correctly to avoid conflicts and ensure a smooth campus visit experience.
-</thinking>
-
 # Open Day Appointment Scheduling - Help Guide
 ## Purpose
 This form is for scheduling appointments for campus visits. Please use it to select a time slot, provide visitor information, and manage the booking status.

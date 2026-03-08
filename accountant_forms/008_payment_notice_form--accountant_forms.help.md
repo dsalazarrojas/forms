@@ -1,7 +1,3 @@
-<thinking>
-The payment_notice_form is used to capture information related to payment notices for accounts. This form should be used by accountants to document and communicate with clients about late or overdue rent payments. The purpose of this form is to ensure accurate and clear communication between accountants and clients. To avoid duplication of work, please do not use this form for any other purpose than documenting payment notices.
-</thinking>
-
 # payment_notice_form - Help Guide
 
 ## Purpose

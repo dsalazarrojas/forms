@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of obtaining partnership agreements from clients or business partners. It is a necessary step for the business to verify the partnership status and ensure that all parties involved are on the same page. This form is typically completed by the business partner or client and submitted to the company for review and approval.
-</thinking>
-
 # Partnership Agreement Authorization Form - Help Guide
 ## Purpose
 The Partnership Agreement Authorization Form is used to capture essential information about a business partner or client, including their name, address, contact details, and other relevant details. This information helps the company to verify the partnership status and ensure that all parties involved are aligned on the terms of the agreement.

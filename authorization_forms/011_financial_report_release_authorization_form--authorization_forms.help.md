@@ -1,7 +1,3 @@
-<thinking>
-This form is for authorizing the release of financial reports, typically for users who need to access or share sensitive financial information. It ensures that only authorized personnel can access these reports, and the authorization is tracked for audit purposes. This form helps to prevent unauthorized access or sharing of confidential financial data. The form is typically completed by the user, who provides their information and selects the type of report they are requesting access to. The form can be completed at any time, but it's best to do so before requesting the actual report. The purpose of this form is not to create a new authorization, but rather to release an existing one. It's not a duplicate of other forms, but rather a specific form for releasing financial reports.
-</thinking>
-
 # Financial Report Release Authorization Form - Help Guide
 ## Purpose
 The Financial Report Release Authorization Form is used to request access to financial reports for the purpose of releasing confidential information. This form ensures that only authorized personnel can access these reports and that the authorization is properly documented.

@@ -1,5 +1,3 @@
-<thinking>This form is used for administrative purposes to request and approve employee training budgets. It allows employees to submit requests for training and development opportunities, which are then reviewed and approved by their managers and supervisors. The form captures essential information such as employee details, training budget, start and end dates, and status. It also includes fields for submitting and approving the requests, which helps track the progress and approval of the training requests. It is crucial to ensure that only authorized personnel submit and approve the requests, and that the submitted information is accurate and up-to-date.</thinking>
-
 # Employee Training Budget Approval Form - Help Guide
 ## Purpose
 The Employee Training Budget Approval Form is a digital form used to request and approve employee training budgets. It enables employees to submit their training requests and their managers and supervisors to review and approve them.

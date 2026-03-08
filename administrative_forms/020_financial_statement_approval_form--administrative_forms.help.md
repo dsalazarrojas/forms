@@ -1,9 +1,3 @@
-<thinking>
-This form is used for the approval of financial statements, likely for financial audits or other administrative purposes. To confirm that the form is being used correctly, I will review the fields and ensure that they are relevant to the form's purpose. The fields are all related to the approval process, but some may have ambiguous labels. For example, the "Financial Documents" field is a select_multiple type, which implies that users can choose multiple documents, but the label does not clearly indicate what type of documents are being selected. In the "Financial Statement Approval Form" explanation, I will provide clear and concise descriptions for each field, and avoid assuming business logic that may not be supported by the provided YAML. 
-
-The form has six fields: Form Data, Financial Documents, Approval Date, Approver Signature, Approved By, and Comments. I will ensure that each field is described in a way that is easy for end-users to understand.
-</thinking>
-
 # Financial Statement Approval Form - Help Guide
 ## Purpose
 The Financial Statement Approval Form is used for the approval of financial statements, likely for financial audits or other administrative purposes.

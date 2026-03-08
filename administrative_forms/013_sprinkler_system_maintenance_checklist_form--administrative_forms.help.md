@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sprinkler System Maintenance Checklist Form - Help Guide
 
 ## Purpose

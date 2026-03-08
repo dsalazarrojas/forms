@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to support the handling and transportation of hazardous materials. The information gathered through this form will help the relevant authorities assess the risks and ensure that proper protocols are followed. To ensure the accuracy and relevance of the data collected, please check that each field is filled out as required and that the form is not duplicated or incomplete. If the form is incomplete or duplicated, it may be rejected. Please refer to the relevant authorities for further clarification.
-</thinking>
-
 # hazardous_material_handling_declaration_form - Help Guide
 ## Purpose
 This form is used to declare the handling and transportation of hazardous materials. It collects relevant information from employees handling the materials, including material details, employee information, and handling protocols. The form is required to be filled out accurately and completely to ensure proper handling and transportation procedures are followed.

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to assist veterinarians in assessing the pain level and medical history of a dog. The form is intended for general use and does not replace the expertise of a licensed veterinarian. It is essential to complete this form thoroughly and accurately to ensure the assessment is comprehensive.
-
-**Before starting this form, please ensure:**
-
-1. You have the dog's medical history for at least 6 months prior to the current evaluation.
-2. You have the owner's consent to complete this form.
-3. You have the necessary permissions or consents required by your organization or local regulations.
-
-**Duplicate evaluations or incomplete forms may lead to inaccurate assessments. Please ensure to review and verify the information before submitting.**
-
-</thinking>
-
 # Dog Pain Assessment Form - Help Guide
 ## Purpose
 

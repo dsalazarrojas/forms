@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a "Towing Service Request Form" which aims to gather information about a vehicle that requires towing service. It is likely used in a business-to-business setting, such as a roadside assistance service, where a representative needs to quickly and accurately gather relevant vehicle details. The form is designed to be straightforward, with the goal of facilitating efficient communication between the requester and the service provider.
-
-To prevent duplication, this guide assumes that the form is being filled out by the same user for the same vehicle.
-
-</thinking>
-
 # Towing Service Request Form - Help Guide
 ## Purpose
 The Towing Service Request Form is used to gather vehicle information for towing service. Fill out the form to provide essential details about the vehicle, its driver, and service requirements.

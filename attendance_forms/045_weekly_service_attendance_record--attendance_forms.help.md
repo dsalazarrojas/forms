@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect weekly attendance records for services, which helps track and maintain accurate records of service attendance and related details. Before proceeding, please ensure that the form is not already filled out for the same date and week. If you're unsure or need to edit a previously filled-out form, please contact the relevant team or department for guidance.
-</thinking>
-
 # Weekly Service Attendance Record - Help Guide
 ## Purpose
 

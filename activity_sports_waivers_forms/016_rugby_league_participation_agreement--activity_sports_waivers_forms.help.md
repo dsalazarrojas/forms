@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the YAML structure. The form is titled "rugby_league_participation_agreement" and has multiple pages with a variety of fields. Based on the field names and labels, it appears to be a form for registering a participant in a rugby league, likely for safety and administrative purposes. This form likely requires personal details, emergency contact information, medical information, and consents for participation. It's likely used by clubs, organizations, or teams to ensure the participant's safety and liability.
-
-The fields include personal details such as first and last names, date of birth, contact information (email and phone), medical conditions, and allergies. There's also a field for emergency contact information, including name, relationship, address, and phone number. The form also asks for consent to participate and includes fields for signatures.
-
-To confirm, let's check for any potential duplication or non-relevance. The fields seem to cover different aspects of participant registration, such as emergency contacts and medical information, which are not typically found in standard participant registration forms. This form appears to be a comprehensive and specific document for the context of rugby leagues.
-
-</thinking>
-
 # rugby_league_participation_agreement - Help Guide
 ## Purpose
 This form is for registering a participant in a rugby league. It collects personal details, emergency contact information, medical information, and consents for participation.

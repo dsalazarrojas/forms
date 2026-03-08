@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to educate users about the anatomy and functions of the gallbladder, a small organ located under the liver that plays a crucial role in the digestive system. The form is meant to help users understand the structure, location, function, diseases, disorders, treatment, and complications related to the gallbladder. The questions are designed to elicit specific information from users about their knowledge and understanding of the gallbladder.
-</thinking>
-
 # Gallbladder Anatomy Quiz - Help Guide
 ## Purpose
 This form is a self-assessment tool for users to test their knowledge about the gallbladder anatomy, its functions, diseases, disorders, treatment, complications, and associated risks. It is not a medical diagnostic tool or a substitute for professional medical advice.

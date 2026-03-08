@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to capture information for ride sharing appointments. This form is for requesting a ride share appointment, which could be useful for individuals who need a ride to a specific location. To use this form, ensure you are requesting a ride share appointment for a valid reason and that this request has not been previously made.
-
-</thinking>
-
 # Ride Share Appointment Request - Help Guide
 ## Purpose
 This form is for requesting a ride share appointment, which could be useful for individuals who need a ride to a specific location.

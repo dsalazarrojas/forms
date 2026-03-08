@@ -1,11 +1,3 @@
-<thinking>
-The form is for scheduling meetings using AI Assistant Zoom Meeting Scheduling.
-It's used to create meeting invites that include calendar invites and meeting details.
-The form will not be completed for meetings that are not in the future.
-It will also not be completed for meetings that are not within the scheduled duration.
-This form will be used for meetings that are intended to start in the future.
-</thinking>
-
 # AI Assistant Zoom Meeting Scheduling - Help Guide
 ## Purpose
 This form is for scheduling meetings using AI Assistant Zoom Meeting Scheduling.

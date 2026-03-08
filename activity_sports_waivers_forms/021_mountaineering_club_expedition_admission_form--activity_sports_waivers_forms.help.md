@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mountaineering_club_expedition_admission_form - Help Guide
 
 ## Purpose

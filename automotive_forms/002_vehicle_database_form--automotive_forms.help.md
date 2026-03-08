@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about vehicles and their owners. It appears to be a comprehensive form that covers various aspects of a vehicle's details, including its make, model, year, color, mileage, and owner's contact information. To ensure that the form is being used correctly, let's review it carefully.
-
-Upon examining the form, it seems to be designed to gather data about vehicles and their owners, but some fields may be redundant or unnecessary. For instance, the "year" field is a numeric field with a hint that indicates it's the year of manufacture, but the same information could be inferred from the "make" and "model" fields. Similarly, the "mileage" field seems to be a measure of the vehicle's condition, but the same information could be conveyed through other fields like "year" and "make".
-
-Before creating the help guide, it's essential to clarify the purpose and intended use of each field to avoid confusion and ensure that users understand how to complete the form accurately.
-
-</thinking>
-
 # Vehicle Database Form - Help Guide
 ## Purpose
 This form is designed to collect information about vehicles and their owners. The goal is to gather data that helps maintain a comprehensive vehicle database for various uses, such as inventory management, maintenance scheduling, or insurance purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Video Release Form accurately and efficiently. It is essential to review the form carefully to ensure that all required fields are filled out correctly, and to avoid duplicating efforts. A thorough understanding of this guide will help users to provide the necessary information for video releases, ensuring that the process is completed correctly and efficiently.
-</thinking>
-
 # Video Release Form - Help Guide
 ## Purpose
 This form is used for the release of video recordings. It is a necessary step in the process for users to provide their information for video releases.

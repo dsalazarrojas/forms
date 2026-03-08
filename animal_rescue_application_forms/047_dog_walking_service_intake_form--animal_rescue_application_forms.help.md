@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for a dog walking service company, allowing customers to schedule a walk for their furry friends. It is intended for the service owner to gather information about the dog's characteristics and needs so they can provide the best experience for them. It should not be used by other companies or organizations that don't offer dog walking services.
-
-</thinking>
-
 # Dog Walking Service Intake Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information about your dog so we can provide a safe and enjoyable experience for them during their walk. Please fill out this form carefully to ensure we can tailor the service to your dog's needs.

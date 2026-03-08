@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's experiences and feelings related to premature ejaculation. It aims to gather information on symptoms, feelings, and medical history to help professionals in the field understand the individual's situation better. The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created using AI-generated form design. Please ensure that you are not using this form for any commercial purposes without proper credit.
-</thinking>
-
 # Premature Ejaculation Training Questionnaire - Help Guide
 ## Purpose
 This form is intended to collect information about your experiences with premature ejaculation, feelings, and medical background to help professionals in the field provide better guidance and support.

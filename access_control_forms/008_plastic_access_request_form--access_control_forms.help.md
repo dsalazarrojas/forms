@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be designed for requesting access to plastic-related resources or information within an organization. It may be used to grant access to sensitive or restricted areas, equipment, or materials. The form is likely used in a work environment where employees need to access certain facilities or resources for work-related tasks.
-
-Before proceeding, ensure that you are requesting access for a valid reason and that you have the necessary approval from authorized personnel.
-
-To avoid duplication, please ensure that the form is not resubmitted if it has already been approved or denied.
-
-</thinking>
 # Plastic Access Request Form - Help Guide
 ## Purpose
 

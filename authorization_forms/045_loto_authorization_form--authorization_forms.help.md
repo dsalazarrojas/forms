@@ -1,7 +1,3 @@
-<thinking>
-The form purpose seems to be related to maintenance operations, likely for equipment or facilities. I'll assume it's for requesting maintenance authorization from a higher authority. The form likely requires information about the requestor, facility/equipment, lockout information, and maintenance details. I'll try to keep it simple and clear.
-</thinking>
-
 # LOTO Authorization Form - Help Guide
 ## Purpose
 The LOTO Authorization Form is a request form used to seek approval for maintenance operations from a higher authority. It gathers necessary information for maintenance authorization and tracking.

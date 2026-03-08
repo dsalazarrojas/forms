@@ -1,9 +1,3 @@
-<thinking>
-...The STEM Teacher Assessment Form is used to collect data about a teacher's assessment of a student's performance in a STEM subject area. The form is likely used to evaluate a student's awareness and understanding of STEM subjects, such as math, science, technology, and engineering. This form is probably used by schools or educational institutions to gather information about student's strengths and weaknesses in these subjects, which can inform instructional decisions and improve teaching practices. The form is designed to be completed by teachers who have regular contact with the student, such as classroom teachers or instructors...
-
-...The fields on this form are designed to capture specific information about the student's performance in each STEM subject area. Each field has a unique label and type, which will be explained below. This form does not require any fields to be completed; all fields are optional.
-</thinking>
-
 # STEM Teacher Assessment Form - Help Guide
 
 ## Purpose

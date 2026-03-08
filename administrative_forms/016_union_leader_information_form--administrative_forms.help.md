@@ -1,29 +1,3 @@
-<thinking>
-This form is designed to collect information from union leaders, ensuring that we have accurate and up-to-date contact details and demographic information for our union members. It's crucial to fill in this form carefully to avoid duplication of records and to ensure that your union leader information is accurately represented in our database. This form is intended for union leaders who need to be listed in our records, and it's essential to complete it thoroughly to avoid delays or inaccuracies in the registration process.
-
-Before filling out this form, please make sure you're completing it for the correct union leader and that the information is accurate. If you're unsure about any part of the form, please don't hesitate to reach out to our support team for clarification.
-
-This form is designed to be completed by union leaders themselves or authorized representatives. If you're filling out this form on behalf of someone else, please make sure you have their permission to do so and that you're accurately representing their information.
-
-The following fields are required, so please ensure you complete them accurately:
-
-*   Union Leader Name
-*   Union Leader Email
-*   Union Leader Phone
-*   Date of Birth (in YYYY-MM-DD format)
-*   Union Leader Title
-*   Union
-*   Union ID
-*   Union Leader Address
-*   Union Leader City
-*   Union Leader Province
-*   Union Leader Country
-*   Union Leader Postal Code
-
-Please note that if you're filling out this form for someone with a dual nationality, you should provide information for all relevant nationalities.
-
-</thinking>
-
 # union_leader_information_form - Help Guide
 ## Purpose
 The union leader information form is designed to collect and update contact and demographic information for union leaders. It's essential to complete this form accurately to avoid duplication of records and ensure that your union leader information is up-to-date in our database.

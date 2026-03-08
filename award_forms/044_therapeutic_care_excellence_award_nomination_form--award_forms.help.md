@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to ensure the form is being used for its intended purpose and to prevent duplication of effort...
-
-To prevent duplication, please only complete this form if the therapeutic care team you are nominating has not been previously recognized for this award or has not received the award in the past. This form is designed to facilitate the nomination process for therapeutic care excellence awards. It is not meant for self-nomination or nominations that are not genuine. Completing this form indicates that you have obtained the necessary permissions and approvals from the relevant parties to nominate the therapeutic care team. Please ensure that you have the necessary information and consent before submitting the nomination form.
-
-</thinking>
-
 # Therapeutic Care Excellence Award Nomination Form - Help Guide
 ## Purpose
 

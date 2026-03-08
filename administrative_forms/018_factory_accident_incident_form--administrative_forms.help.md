@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to report incidents that occurred in a factory setting, such as injuries or illnesses sustained by employees. It's essential to accurately report incidents to ensure that proper measures are taken to prevent similar incidents in the future and to provide support to affected employees. Please report all incidents, even if they seem minor, as they can lead to more severe consequences if left unreported. 
-</thinking>
-
 # factory accident incident form - Help Guide
 ## Purpose
 The factory accident incident form is used to report incidents that occurred in a factory setting, such as injuries or illnesses sustained by employees. This form is essential for ensuring that proper measures are taken to prevent similar incidents in the future and to provide support to affected employees.

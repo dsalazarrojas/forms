@@ -1,8 +1,3 @@
-<thinking> 
-The form is a user-facing form designed to capture information from dog owners seeking to board their dogs in a shelter. 
-The form's purpose is to gather details about the dog and its owner, including the dog's breed, age, special needs, and contact information. This information will be used by shelter staff to process the dog boarding request and ensure a smooth experience for both the dog and its owner. To ensure a successful submission, please review and understand each field below.
-
-</thinking>
 # Dog Sitting Application Form - Help Guide
 ## Purpose
 The Dog Sitting Application Form is designed to collect information from dog owners seeking to board their dogs in the shelter. This form helps shelter staff understand the dog's needs and preferences, ensuring a smooth and safe experience for both the dog and its owner.

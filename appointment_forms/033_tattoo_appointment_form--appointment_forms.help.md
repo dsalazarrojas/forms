@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to schedule a tattoo appointment with a preferred artist, specifying details such as appointment date and time, location, and any additional information the customer wants to share with the artist. The form should be completed by customers who are looking to book a tattoo appointment, and it's essential to have a clear understanding of each field's purpose to ensure a smooth and successful booking process. The fields are designed to gather relevant information from the customer to facilitate effective communication and preparation between the customer and the artist. It's crucial to review the form carefully to avoid any confusion or missing information that may lead to delays or cancellation of the appointment.
-</thinking>
-
 # Tattoo Appointment Form - Help Guide
 ## Purpose
 

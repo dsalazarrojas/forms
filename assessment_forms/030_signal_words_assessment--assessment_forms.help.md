@@ -1,13 +1,3 @@
-<thinking>
-The Signal Words Assessment form is used to evaluate a student's progress in reading and understanding. It is a crucial tool for teachers to assess a student's performance and provide constructive feedback. 
-
-This form is not intended for general use. Before filling out this form, please confirm that you are a teacher and you are assessing a student's performance in a specific learning activity or lesson. 
-
-Please do not fill this form if the student's name is not on the current class roll or if you are not the student's teacher. 
-
-Please ensure that you are filling out this form for a specific student and lesson, as this form is designed to be used on a per-student basis.
-</thinking>
-
 # Signal Words Assessment - Help Guide
 ## Purpose
 The Signal Words Assessment form is used to evaluate a student's performance in reading and understanding during a specific lesson or learning activity.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and assessment data from participants in the youth empowerment program. It will help identify areas of improvement and provide insights into the effectiveness of the program in empowering its participants. Please ensure that you are not filling out this form if you have already participated in this program and have not been specifically invited to take this assessment. 
-</thinking>
-
 # Youth Empowerment Assessment - Help Guide
 ## Purpose
 The Youth Empowerment Assessment form is a tool used to collect feedback and assessment data from participants in the youth empowerment program. This data will help the program's administrators to better understand the effectiveness of the program and identify areas where improvements can be made.

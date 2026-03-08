@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess elementary English skills, which likely include a range of abilities such as communication, listening, and reading comprehension. The form likely serves as an evaluation tool for students, educators, or language learners. The form appears to be a comprehensive assessment of English skills, with a mix of fields that might include personal details (name, email, phone number), demographic information (age), and specific language skills (reading, listening, speaking).
-
-To confirm, please ensure that:
-- This form is intended to assess English skills in a non-academic setting.
-- The form is not used for any other purpose (e.g., contact or transactional activities).
-</thinking>
-
 # Elementary English Skills Quiz - Help Guide
 ## Purpose
 This form is designed to assess elementary English skills in a non-academic setting. It collects personal and demographic information, as well as specific language skills, to evaluate proficiency.

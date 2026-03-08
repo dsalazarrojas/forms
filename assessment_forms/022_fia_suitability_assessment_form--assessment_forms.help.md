@@ -1,17 +1,3 @@
-<thinking>
-To confirm, you're asking me to create a user-facing help guide for a form called "FIA Suitability Assessment Form" with the following properties:
-
-- The form is part of the "assessment_forms" category.
-- The form's purpose is to assess the suitability of a particular investment or financial product.
-- The form has 8 fields, each with a unique id, name, label, hint, type, and set of options.
-- The form's fields are: risk_tolerance, time_horizon, goals, financial_goals, investment_goal, investment_return, risk_tolerances, and time_horizons.
-- Each field is either select_multiple or select_one, except for goals and financial_goals which are text fields.
-- The required property for each field is optional, but I can infer that the fields are generally optional, as there are no required properties set in the schema.
-- The form's options for select fields are either Yes or No, except for risk_tolerance and risk_tolerances which have two possible options and time_horizons which has two options but the same as risk_tolerance and risk_tolerances.
-- I will need to create a user-facing help guide with the following sections: "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips".
-
-</thinking>
-
 # FIA Suitability Assessment Form - Help Guide
 ## Purpose
 The FIA Suitability Assessment Form is designed to help us evaluate the suitability of a particular investment or financial product for your needs and goals. It's a set of questions that will help us assess your risk tolerance, time horizon, and investment objectives.

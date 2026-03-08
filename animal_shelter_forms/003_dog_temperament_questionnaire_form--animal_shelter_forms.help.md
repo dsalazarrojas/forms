@@ -1,9 +1,3 @@
-<thinking>
-The Dog Temperament Questionnaire Form is used to gather information from dog owners about their dog's characteristics, behaviors, and living situation. This data helps animal shelters assess the dog's suitability for adoption and tailor their care to meet the dog's needs.
-This form is not intended for multiple submissions, so each dog should only be submitted once.
-The data collected here will be used to determine the dog's temperament profile, which will help match them with a suitable foster or adopter.
-</thinking>
-
 # Dog Temperament Questionnaire Form - Help Guide
 ## Purpose
 The Dog Temperament Questionnaire Form is designed to collect information about a dog's behavior, socialization, energy level, health status, and other relevant characteristics.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information for a tax filing appointment, including client contact details, session information, and appointment status. The form is intended to be used by tax professionals to schedule and manage their appointments with clients. The form's fields are carefully designed to provide a clear and concise way to gather essential information.
-
-</thinking>
-
 # tax_filing_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule and manage tax filing appointments with clients. It captures essential information such as client contact details, session details, and appointment status.

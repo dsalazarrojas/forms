@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to gather information about a store's visit, inspection, or review. It is likely used for auditing purposes to collect data about the store's condition, management, and operations. The form should only be filled out when a store visit is conducted, and it may be used to prevent duplication by checking for existing records of the same store. If a store visit is already recorded, it is best not to fill out this form again.
-</thinking>
-
 # store_visit_checklist - Help Guide
 ## Purpose
 The store_visit_checklist form is used to gather information about a store's visit, inspection, or review.

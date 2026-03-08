@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stage Progress Assessment - Help Guide
 ## Purpose
 The Stage Progress Assessment is a form used to evaluate the progress of participants in a stage of a project or process. It helps assessors to provide a clear and objective evaluation of the participant's progress, which is crucial for making informed decisions and ensuring the participant meets the expected standards.

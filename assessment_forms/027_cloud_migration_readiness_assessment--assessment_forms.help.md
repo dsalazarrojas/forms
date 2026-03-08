@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who are completing the Cloud Migration Readiness Assessment form. This form is designed to help organizations evaluate their cloud migration readiness by providing an overview of their current systems and infrastructure, assessing their technical and organizational readiness, and determining the desired migration timeline. It is a self-assessment tool used by business stakeholders and technical teams to identify the level of effort required for a successful cloud migration.
-</thinking>
-
 # Cloud Migration Readiness Assessment - Help Guide
 ## Purpose
 The Cloud Migration Readiness Assessment form is a tool to help evaluate an organization's readiness for a cloud migration.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to assess the leadership skills and qualities of an individual in an early education setting. The form asks multiple-choice questions, numerical ratings, and demographic information such as email, phone, and date of birth. It is designed to gauge the respondent's leadership abilities, scores, and characteristics. The form should only be completed if the user is a leader or manager in an early education setting, as it may not be relevant for other roles. Please ensure you have the necessary permissions and authority to complete this form.
-</thinking>
-
 # Leadership Assessment For Early Education - Help Guide
 ## Purpose
 This form is designed to assess the leadership skills and qualities of an individual in an early education setting. It is intended for leaders or managers who are responsible for guiding and directing others in an early education environment.

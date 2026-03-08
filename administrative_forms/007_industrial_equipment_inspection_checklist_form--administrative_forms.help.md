@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information regarding the inspection and maintenance of industrial equipment. The goal is to gather data on the condition, certification, and any necessary next steps for the equipment in question. This form will help ensure that all critical details are documented, enabling informed decision-making and facilitating timely maintenance. 
-Please note that this form is not intended to be used as a substitute for a comprehensive equipment inspection. It is a supplementary tool to support the inspection process. Before starting the inspection, please ensure that the equipment is properly shut down and de-energized (if applicable) to prevent any potential safety risks. 
-</thinking>
-
 # industrial_equipment_inspection_checklist_form - Help Guide
 ## Purpose
 This form is used to collect information about industrial equipment inspections, including the condition, certification, and next steps for maintenance.

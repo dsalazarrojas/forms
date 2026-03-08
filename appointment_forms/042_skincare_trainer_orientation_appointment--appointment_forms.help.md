@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide, I want to ensure that I understand the form's purpose and the context in which it's being used. The form is titled "Skincare Trainer Orientation Appointment" and is likely used for scheduling and planning purposes for skincare training sessions. I'll assume that the form is used by trainers to provide information about their availability, preferences, and session details.</thinking>
-
 # Skincare Trainer Orientation Appointment - Help Guide
 ## Purpose
 This form is used to schedule and plan skincare training sessions. It gathers information from trainers about their availability, preferences, and session details.

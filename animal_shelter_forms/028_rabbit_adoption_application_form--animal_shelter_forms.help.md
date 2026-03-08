@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information from individuals interested in adopting a rabbit from our animal shelter. To ensure that we can match potential adopters with the right rabbit, we need to understand their personal details, as well as their preferences regarding the type and age of rabbit they are looking for. This form will help us to gather relevant information and make sure that both the adopter and the rabbit have a great match.</thinking>
-
 # Rabbit Adoption Application Form - Help Guide
 ## Purpose
 The Rabbit Adoption Application Form is designed to be completed by individuals interested in adopting a rabbit from our animal shelter. This form helps us to understand your preferences and match you with a suitable rabbit.

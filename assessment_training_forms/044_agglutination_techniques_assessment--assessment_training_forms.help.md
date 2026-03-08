@@ -1,11 +1,3 @@
-<thinking>
-This form is used by trainers or assessors to evaluate the skills and knowledge of candidates undergoing assessment. The form captures information about the candidate, their performance during the assessment, and the assessor's comments and recommendations. The form is likely used in an educational or training setting where candidates are being evaluated on their ability to perform specific tasks or demonstrate theoretical knowledge.
-
-The form is not intended for mass collection of assessment data but is likely used on a one-off basis for each candidate. Therefore, it is not necessary to worry about data duplication or consistency across forms.
-
-This form does not seem to have any complex conditional logic or branching fields that would complicate the help guide. Each field is a single input type, and there are no dependencies between fields.
-</thinking>
-
 # Agglutination Techniques Assessment - Help Guide
 ## Purpose
 The Agglutination Techniques Assessment form is used to evaluate the skills and knowledge of candidates undergoing assessment. It gathers information about the candidate, their performance during the assessment, and the assessor's comments and recommendations.

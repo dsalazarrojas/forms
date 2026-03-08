@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used to gather information about the perceptions and experiences of employees in the workplace, specifically regarding their feelings and observations of workplace inclusion. The form is designed to be completed by employees and is likely part of a larger effort to improve workplace culture and address potential issues of exclusion or discrimination. The goal of this form is to gather specific, concrete feedback from employees, which will then be used to inform changes and improvements to the workplace environment.
-</thinking>
-
 # Workplace Inclusion Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and observations of workplace inclusion. Your responses will help us better understand the workplace environment and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Approval Form - Help Guide
 ## Purpose
 

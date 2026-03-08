@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and support requests from customers or users. To confirm, we should ensure that the form is used for legitimate inquiries and not for spamming or other malicious purposes. We will also check for duplicate entries to prevent overloading of our support team. 
-
-</thinking>
-
 # Inquiry Call Request Form - Help Guide
 
 ## Purpose

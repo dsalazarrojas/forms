@@ -1,8 +1,3 @@
-<thinking>
-This form's purpose is to collect employee benefits information, likely from a human resources or benefits administration department. The goal is to provide a straightforward and easy-to-understand template for users to input their benefits data.
-The form might be used internally within an organization or externally, depending on the department's or company's specific needs. 
-It's essential to confirm that the form's structure is relevant to the specific business needs and does not overlap or duplicate existing forms within the company.
-</thinking>
 # Employee Benefits Information Form - Help Guide
 ## Purpose
 The Employee Benefits Information Form is designed to collect and maintain accurate and up-to-date information about employee benefits, ensuring that employees have access to the benefits they need and that the benefits administration process runs smoothly.

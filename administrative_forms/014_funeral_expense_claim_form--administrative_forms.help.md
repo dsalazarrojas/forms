@@ -1,7 +1,3 @@
-<thinking>
-This form is for claiming funeral expenses, and the purpose is to collect information from the claimant (the person who is claiming the expenses) regarding their funeral expenses. The form is likely used by administrative personnel to process claims from individuals, ensuring that they provide accurate and complete information about their losses. Please note that this form does not require a specific order of fields, so it's essential to fill in all relevant sections to provide a thorough account of your funeral expenses. If this form seems to be a duplicate, please check that you've not already initiated a claim or that no changes are necessary to the existing claim.
-</thinking>
-
 # Funeral Expense Claim Form - Help Guide
 ## Purpose
 This form is intended to collect information from the claimant about their funeral expenses. It is used by administrative personnel to process claims and ensure that all required information is provided.

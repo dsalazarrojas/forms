@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Functional Group Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate a user's knowledge of various functional groups in chemistry, specifically in the context of organic chemistry. It consists of a single question that asks for the molecular formula for a given functional group. The user is expected to provide the correct molecular formula as their answer.

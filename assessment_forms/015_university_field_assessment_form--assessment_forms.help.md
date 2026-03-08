@@ -1,36 +1,3 @@
-<thinking>
-
-This form is used for assessing students on various aspects of their university field visits. The purpose of this form is to gather information about the student's performance, behavior, and progress during the field visit. This form is likely to be filled out by university staff or instructors who have accompanied the student on the field visit.
-
-To fill out this form, follow these steps:
-
-1.  Enter the student's name in the "Student Name" field.
-2.  Enter the student's ID number in the "Student ID" field (if applicable).
-3.  Enter the student's email address in the "Student Email" field (if applicable).
-4.  Select the date of the field visit in the "Field Visit Date" field.
-5.  Enter any notes from the field visit in the "Field Visit Notes" field.
-6.  Enter the name of the faculty member accompanying the student in the "Faculty Name" field.
-7.  Enter the faculty member's ID number in the "Faculty ID" field (if applicable).
-8.  Enter the faculty member's email address in the "Faculty Email" field (if applicable).
-9.  Enter a description of the challenge the student faced during the field visit in the "Challenge Description" field.
-10. Enter a description of the observations made during the field visit in the "Observation Description" field.
-11. Enter any recommendations for the student's progress in the "Recommendation" field.
-12. Enter the name of the staff member who conducted the field visit in the "Staff Name" field.
-13. Enter the staff member's ID number in the "Staff ID" field (if applicable).
-14. Enter the staff member's email address in the "Staff Email" field (if applicable).
-15. Select the date on which the assessment was completed in the "Assessment Date" field.
-16. Enter any comments about the assessment in the "Assessment Comments" field.
-17. Enter the next steps to be taken by the student in the "Next Steps" field.
-18. Enter the name of the person who submitted the form in the "Form Submitted By" field.
-19. Enter the date and time when the form was submitted in the "Form Submitted On" and "Form Submitted Time" fields, respectively.
-20. Select "Yes" if the assessment is complete, otherwise select "No" in the "Assessment Complete" field.
-21. Select the status of the assessment (Complete, Incomplete, or Pending) in the "Assessment Form Status" field.
-22. Enter the location of the field visit in the "Field Visit Location" field.
-23. Enter the duration of the field visit in the "Field Visit Duration" field.
-24. Enter any comments about the field visit in the "Field Visit Comments" field.
-
-</thinking>
-
 # university_field_assessment_form - Help Guide
 ## Purpose
 The university field assessment form is used to gather information about students' performance, behavior, and progress during field visits.

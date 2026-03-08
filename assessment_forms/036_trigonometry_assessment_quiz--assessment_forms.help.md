@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trigonometry Assessment Quiz - Help Guide
 ## Purpose
 The Trigonometry Assessment Quiz is designed to evaluate a person's understanding of trigonometry concepts. It is intended to be a quick and easy-to-use assessment tool for individuals who want to gauge their knowledge in this subject. Please note that this quiz is for educational purposes only and should not be considered as a formal certification or assessment for professional purposes.

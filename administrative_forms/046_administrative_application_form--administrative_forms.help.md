@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect administrative application information from potential candidates. This form is intended for those interested in applying for administrative roles within the organization. The form should only be filled out by individuals who are genuine about their interest in these roles and have a valid reason for applying. Please ensure that you are filling out the form for a legitimate purpose and that you have attached all required supporting documents, such as a resume and cover letter.
-</thinking>
-
 # Administrative Application Form - Help Guide
 ## Purpose
 The Administrative Application Form is used to collect information from potential candidates interested in applying for administrative roles within the organization. This form is a crucial part of the application process, and it is essential to fill it out accurately and thoroughly.

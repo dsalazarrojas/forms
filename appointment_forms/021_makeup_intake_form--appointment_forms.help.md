@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clients to provide information about their appointment schedule, preferences, and any other relevant details. The purpose of this form is to ensure that the client's needs and expectations are met during their appointment. To use this form, please review the fields carefully and fill out the required and optional fields as applicable. Before submitting the form, make sure to review it thoroughly to avoid any errors.
-</thinking>
-
 # Makeup Intake Form - Help Guide
 ## Purpose
 The Makeup Intake Form is used by clients to provide information about their appointment schedule and preferences.

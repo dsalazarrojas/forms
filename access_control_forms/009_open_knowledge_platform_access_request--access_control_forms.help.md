@@ -1,11 +1,3 @@
-<thinking>
-This form is for requesting access to the Open Knowledge Platform, a platform that allows users to share and discover knowledge across the organization. It is essential to fill out this form accurately to ensure that your request is processed efficiently and effectively. Please note that this form is not a duplicate request form, so please do not submit multiple requests for the same access.
-
-Before filling out this form, please make sure you are requesting access for a legitimate purpose and that you have the necessary approvals or permissions to do so. 
-
-This form will guide you through the process of requesting access to the Open Knowledge Platform, and each field is explained below.
-</thinking>
-
 # Open Knowledge Platform Access Request - Help Guide
 ## Purpose
 The Open Knowledge Platform Access Request form is used to request access to the Open Knowledge Platform, a platform that allows users to share and discover knowledge across the organization. This form helps us to process your request efficiently and effectively.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to document and report on military training activities. It's designed to be completed by training activity coordinators or instructors to provide a record of drills, exercises, and other activities conducted during a unit's training session. The form should only be used for reporting purposes, and it is not intended to be used for official certifications or evaluations.
-
-Before proceeding, please ensure that you have a legitimate reason to complete this form. If you've already submitted a report for the same training activity, please do not duplicate the effort as this may cause confusion and extra work for the team.
-
-Please review the form carefully to ensure you are providing accurate and complete information.
-</thinking>
-
 # Military Training Activity Report Form - Help Guide
 ## Purpose
 

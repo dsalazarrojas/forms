@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return To Training Consent - Help Guide
 ## Purpose
 This form is designed to be used by athletes or participants to provide their consent for returning to training after a medical condition, injury, or other circumstances that may impact their participation. It aims to ensure that the participant understands and agrees to the facility rules, participant rules, and other relevant agreements before returning to training.

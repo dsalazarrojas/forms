@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'd like to clarify the purpose and usage context of this form. This form is designed for users to book workstations for animation editing purposes. It's intended to be used by individuals or teams to reserve specific workstations for a particular date and time, ensuring that everyone has access to the necessary resources for their tasks. The form should be used when a user needs to book a workstation for a specific duration, and they need to provide details about their project, the workstation they require, and any additional equipment or software needed.</thinking>
-
 # Animation Editing Workstation Booking Form - Help Guide
 ## Purpose
 This form is used to book a workstation for animation editing purposes. It gathers information about the user, their project, and the workstation requirements to ensure efficient resource allocation.

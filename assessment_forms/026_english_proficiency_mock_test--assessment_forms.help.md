@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # English Proficiency Mock Test - Help Guide
 ## Purpose
 The English Proficiency Mock Test is a form designed to assess an individual's proficiency in the English language. This test is meant to gauge a learner's ability to communicate effectively in English, covering various aspects such as reading, writing, and speaking.

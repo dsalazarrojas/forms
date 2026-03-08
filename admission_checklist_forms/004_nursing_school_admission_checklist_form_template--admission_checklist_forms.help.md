@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive checklist for nursing school admissions. It is intended to gather information from applicants about their general information, contact details, education history, employment history, personal statement, academic history, references, transcripts, test scores, language proficiency, nursing background, other certifications, and upload of required documents. The form's purpose is to streamline the admission process and ensure that applicants provide all necessary information in a clear and organized manner. It is not affiliated with any specific form platform and is a freely adaptable template.
-
-</thinking>
-
 # Nursing School Admission Checklist Form Template - Help Guide
 ## Purpose
 This form is designed to gather comprehensive information from applicants to streamline the admission process and ensure that all necessary information is provided in a clear and organized manner.

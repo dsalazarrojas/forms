@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from cat owners who are surrendering their pets to an animal rescue organization. This form helps the organization understand the circumstances surrounding the cat's surrender and ensures that the owner's rights are transferred properly. It is crucial that the owner fills out this form accurately and honestly to ensure the best possible outcome for the cat. This form should only be used in situations where the owner is unable or unwilling to care for their cat and wants to surrender it to the rescue organization.
-</thinking>
-
 # Cat Owner Surrender Form - Help Guide
 ## Purpose
 The Cat Owner Surrender Form is designed to collect information from cat owners who are surrendering their cats to the rescue organization. This form helps the organization understand the circumstances surrounding the cat's surrender and ensures that the owner's rights are transferred properly.

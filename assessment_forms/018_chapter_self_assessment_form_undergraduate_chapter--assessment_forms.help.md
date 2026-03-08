@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chapter Self Assessment Form Undergraduate Chapter - Help Guide
 ## Purpose
 The Chapter Self Assessment Form Undergraduate Chapter is a form used to evaluate the chapter's performance and progress in various areas such as academics, governance, and community involvement. This form serves as a means of self-assessment for the chapter's leadership and members to identify strengths and weaknesses and make informed decisions for future growth and development.

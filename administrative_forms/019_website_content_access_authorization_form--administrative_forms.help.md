@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to be used by administrators to request access to restricted website content. The form is used to submit requests for access, and the content will be reviewed and approved by a designated administrator. The purpose of this form is to ensure that only authorized personnel have access to sensitive information. Before filling out this form, the user must be familiar with the content they are requesting access to and have a valid reason for their request.
-
-The form should only be filled out once for each specific request, and users should not submit duplicate requests for the same content. If a user has already submitted a request for the same content, they should not submit another request.
-
-</thinking>
-
 # Website Content Access Authorization Form - Help Guide
 ## Purpose
 The Website Content Access Authorization Form is used to request access to restricted website content. Users must submit this form to request access to content that is not publicly available.

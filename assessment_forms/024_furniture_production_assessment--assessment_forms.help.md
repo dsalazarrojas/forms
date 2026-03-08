@@ -1,5 +1,3 @@
-<thinking>...The form "Furniture Production Assessment" is designed to collect information related to furniture production projects. The purpose of this form is to gather data on project details, project managers, and production dates. It is likely used in the furniture industry to track and analyze production projects. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created by AI. It is released under CC BY 4.0, allowing for modification and reuse. The form is meant to be used as is or adapted for specific business needs. Please ensure this form aligns with your organization's requirements before use... </thinking>
-
 # Furniture Production Assessment - Help Guide
 ## Purpose
 This form is designed to collect information on furniture production projects.

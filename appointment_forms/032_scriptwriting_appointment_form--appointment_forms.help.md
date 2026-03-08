@@ -1,7 +1,3 @@
-<thinking>
-To avoid non-duplication, let's first review the provided YAML fields. The form is designed for scriptwriting appointments, which likely involves creating content for a client. The form collects various information from the client, including personal details, appointment preferences, and session specifics. It seems to be a comprehensive form that covers different aspects of the appointment. I will create a clear and concise help guide for this form.
-</thinking>
-
 # Scriptwriting Appointment Form - Help Guide
 ## Purpose
 The Scriptwriting Appointment Form is designed for clients to provide information about their needs and preferences for scriptwriting services. This form helps the scriptwriter understand their client's requirements, allowing for tailored and efficient services.

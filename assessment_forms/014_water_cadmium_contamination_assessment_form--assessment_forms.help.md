@@ -1,8 +1,3 @@
-<thinking>
-This is a form for assessing water cadmium contamination. It is likely used to record data on the presence and levels of cadmium in water samples. The purpose of this form is to gather information on the location, type of sample, and other relevant details regarding cadmium contamination. To ensure accurate data entry, the form should only be completed by trained personnel. 
-
-</thinking>
-
 # Water Cadmium Contamination Assessment Form - Help Guide
 ## Purpose
 This form is used to record data on the presence and levels of cadmium in water samples. It is meant to be completed by trained personnel to gather information on the location, type of sample, and other relevant details regarding cadmium contamination.

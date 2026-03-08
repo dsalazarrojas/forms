@@ -1,13 +1,3 @@
-<thinking>
-
-We will create a help guide that explains the Fall Protection Knowledge Quiz form to end-users, making it easy for them to understand its purpose and how to complete it. This guide will help ensure that end-users can fill out the form correctly and accurately, and that they are aware of the purpose and requirements of the form.
-
-The form is intended to assess the knowledge of workers on fall protection, and it is crucial for their safety and the safety of others. The guide will explain the form's purpose, how to complete it, and what each field means, making it easy for end-users to understand and fill out the form correctly.
-
-To create this guide, we will follow the provided YAML fields and use them to explain each field and section of the form.
-
-</thinking>
-
 # Fall Protection Knowledge Quiz - Help Guide
 ## Purpose
 The Fall Protection Knowledge Quiz is a form designed to assess the knowledge of workers on fall protection. It is essential for their safety and the safety of others. The quiz aims to evaluate their understanding of fall protection concepts, such as safety equipment, personal protective equipment, and emergency procedures.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information and nominations for the Veteran Organization Service Award. The purpose of this form is to gather details about a nominee's service and submit the nomination for review and approval. Please ensure that you are submitting a new nomination and not duplicating an existing one. 
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Veteran Organization Service Award Nomination Form - Help Guide
 ## Purpose
 The Veteran Organization Service Award Nomination Form is used to collect information and nominations for the Veteran Organization Service Award. This form gathers details about a nominee's service and submits the nomination for review and approval.

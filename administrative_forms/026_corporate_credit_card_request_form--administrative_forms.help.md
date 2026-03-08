@@ -1,8 +1,3 @@
-<thinking>
-To avoid redundancy and miscommunication, this form is meant to be used only by authorized personnel who need a corporate credit card for work-related purposes.
-The form should not be used for personal credit card requests or other non-work-related expenses.
-</thinking>
-
 # corporate_credit_card_request_form - Help Guide
 ## Purpose
 The corporate credit card request form is designed for authorized personnel to request a corporate credit card for work-related expenses. This form should not be used for personal credit card requests or other non-work-related expenses.

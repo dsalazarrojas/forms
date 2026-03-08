@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Decommissioning Checklist - Help Guide
 ## Purpose
 The Equipment Decommissioning Checklist is a form used to track and verify the decommissioning process of company assets. This form helps to ensure that all necessary steps are taken to properly decommission and dispose of equipment, reducing the risk of data loss, damage, or unauthorized access. 

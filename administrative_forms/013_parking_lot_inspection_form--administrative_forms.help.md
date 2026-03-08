@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for inspectors to record and report on the condition and status of a parking lot. The form should not be used for general parking lot information or administrative purposes only. The form's purpose is to inspect and provide a detailed report of the parking lot's condition. The inspector should not duplicate information already available elsewhere and the form should only be used for the purpose stated.
-</thinking>
-
 # Parking Lot Inspection Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Collections Approval Request - Help Guide
 ## Purpose
 The Collections Approval Request form is used to request approval for collections actions on outstanding debts. This form captures essential information about the debtor's account and the collection process. Fill out this form to submit a collection request to the necessary approval authority.

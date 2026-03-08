@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's digital skills, specifically their level of proficiency in various areas. This form is likely used for self-assessment, where users evaluate their own abilities and provide details about their knowledge and performance in specific domains. The form's purpose is to gather data that can be used for personal development, training, or other business-related activities.
-</thinking>
-
 # digital_skills_self_assessment_form - Help Guide
 
 ## Purpose

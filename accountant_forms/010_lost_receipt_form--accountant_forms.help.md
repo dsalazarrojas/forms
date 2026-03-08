@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees regarding lost receipts related to expenses they have incurred. This form will help the accounting team to track and process such expenses efficiently. The form should only be used for legitimate purposes and not for other types of expenses or receipts.
-The form consists of 6 pages, each with its own set of fields. To ensure that the form is filled out correctly, we need to make sure that the required fields are completed before proceeding to the next page.
-</thinking>
-
 # lost_receipt_form - Help Guide
 ## Purpose
 The lost_receipt_form is a form used to collect information from employees regarding lost receipts related to expenses they have incurred. This form will help the accounting team to track and process such expenses efficiently.

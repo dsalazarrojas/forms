@@ -1,9 +1,3 @@
-<thinking>
-This block is used to reason about the form and provide context for the help guide.
-The form "Payroll Processing Checklist" is used to process new hires and their related information. This form is likely to be used by HR or accounting departments to streamline and organize the process.
-This form appears to be part of a comprehensive payroll processing system, and it's likely that some of these fields are redundant or have overlapping purposes, such as "tax_liability" and "tax_liability_options" or "email", "phone", and "address". The purpose of this form should be clarified in the help guide to avoid confusion.
-</thinking>
-
 # Payroll Processing Checklist - Help Guide
 ## Purpose
 The "Payroll Processing Checklist" form is used to process new hires and collect essential information for payroll purposes. This form is designed to guide users through the required steps and fields to ensure accurate and complete processing.

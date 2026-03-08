@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form, "Wireline Training Assessment Survey", is to collect feedback from users about their experience with the training course. This form will help assess the user's level of confidence in performing tasks, identify areas where they feel they have improved, and evaluate their satisfaction with the course. It is crucial to ensure that the user provides accurate and sincere feedback to help improve future training courses.
-
-Before filling out this form, please note that you should only provide your genuine feedback and thoughts. Make sure to be honest about your experience with the course. Also, please ensure that you complete all required fields.
-
-Please ensure that the form fields are accurate and relevant to the training course you have attended.
-
-This guide will walk you through each section of the form to help you complete it efficiently and effectively.
-</thinking>
-
 # Wireline Training Assessment Survey - Help Guide
 ## Purpose
 The Wireline Training Assessment Survey is designed to collect your feedback and opinions about your experience with the training course.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for new hire approval purposes. It captures essential information about a new employee, including their identification, job details, and approval status. This information will be used to verify the employee's status and ensure that all necessary approvals are in place before they start work. Please ensure that you complete this form accurately and thoroughly to avoid any issues during the onboarding process. Before filling out this form, ensure that you have the necessary approvals and permissions from your reporting manager and other relevant stakeholders. Additionally, if you have filled out this form previously, please note that this is a new hire approval form and should not be used for other purposes.
-</thinking>
-
 # new_hire_approval_form - Help Guide
 ## Purpose
 The new hire approval form is used to capture essential information about a new employee, including their identification, job details, and approval status. This form is used to verify the employee's status and ensure that all necessary approvals are in place before they start work.

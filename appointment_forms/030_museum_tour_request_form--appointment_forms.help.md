@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from visitors who want to book a tour at a museum. The purpose of this form is to gather necessary details about the visitor, such as their contact information and tour preferences, to ensure a smooth and efficient tour experience. This information will be used by the museum staff to manage tour bookings, communicate with the visitor, and provide the best possible experience during the tour.
-
-This form is not intended for internal use by the museum staff or for general inquiries. It is specifically designed for users who are planning to visit the museum as part of a guided tour. 
-
-Please fill out this form carefully to ensure that your tour request is processed correctly.</thinking>
-
 # Museum Tour Request Form - Help Guide
 ## Purpose
 The Museum Tour Request Form is designed to collect information from visitors who want to book a guided tour at the museum. This form helps the museum staff to manage tour bookings, communicate with visitors, and provide a smooth tour experience.

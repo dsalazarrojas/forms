@@ -1,10 +1,3 @@
-<thinking>
-**Internal Note for Reviewers**
-
-This form is intended to help employees correct mistakes in their previously submitted time off requests. It's meant to collect information to facilitate the correction process, ensure consistency and accuracy, and prevent duplicate requests. This guide assumes that the employee and manager are familiar with our time off policies and procedures. Reviewers should be aware that this form's purpose is to correct and clarify, not to re-evaluate or re-open existing requests.
-
-</thinking>
-
 # Employee Time Off Correction Request Form - Help Guide
 
 ## Purpose

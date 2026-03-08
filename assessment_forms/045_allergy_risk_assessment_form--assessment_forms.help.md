@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Allergy Risk Assessment Form - Help Guide
 
 ## Purpose

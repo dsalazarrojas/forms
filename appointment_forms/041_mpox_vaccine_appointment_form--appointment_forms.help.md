@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "mpox_vaccine_appointment_form", I'll first understand the form's purpose and required information. This guide is likely for healthcare professionals or individuals scheduling vaccine appointments for patients. The form seems to collect basic patient information for a vaccine appointment, including name, contact number, appointment date and time, vaccine dose, and patient age. This form might be used in a medical setting, such as a clinic or pharmacy.
-
-</thinking>
-
 # mpox_vaccine_appointment_form - Help Guide
 ## Purpose
 The "mpox_vaccine_appointment_form" is a form used to schedule a vaccine appointment for patients. This form is used to collect necessary information from patients to schedule and administer the vaccine effectively.

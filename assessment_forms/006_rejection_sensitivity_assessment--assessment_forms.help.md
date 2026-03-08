@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rejection Sensitivity Assessment - Help Guide
 ## Purpose
 The Rejection Sensitivity Assessment form is designed to evaluate an individual's sensitivity to rejection and rejection experiences. It aims to help understand how someone feels about rejection and their self-perception.

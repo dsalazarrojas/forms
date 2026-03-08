@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block will provide a brief internal explanation for the purpose and requirements for the form.
 
 The form is used to collect data for the Travel Planning Excellence Award Nomination process. The form is designed to gather information from end users to nominate an individual or organization for this award, which is likely used to recognize outstanding travel planning and coordination efforts. It's essential that the nomination is accurate and complete, so please take the time to fill out the form carefully, and avoid duplicating nominations for the same award.

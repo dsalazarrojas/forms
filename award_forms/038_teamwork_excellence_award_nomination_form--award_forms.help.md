@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is used for nominating team members for the Teamwork Excellence Award. The nominator is expected to provide detailed information about the nominee, including their name, title, department, and other relevant details. The form will be reviewed by the organization's award committee, and the nominee will be evaluated based on their teamwork skills and achievements. Please ensure that the nominator has correctly filled out the form by checking for completeness and accuracy before submitting it for review. Duplicate nominations will not be accepted. Nominations are open for a limited time, so please submit the form as soon as possible. The nominator is expected to provide honest and accurate information about the nominee.</thinking>
-
 # Teamwork Excellence Award Nomination Form - Help Guide
 ## Purpose
 The Teamwork Excellence Award is given to recognize and reward team members who demonstrate exceptional teamwork skills and achievements. This form is used to nominate a team member for this award.

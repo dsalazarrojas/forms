@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to schedule event rehearsals for participants in an event. It gathers information about the event itself, the participants involved, the schedule, and the communication methods used to coordinate with them. This form is created to assist organizers in managing event schedules effectively and communicating with participants to ensure a smooth and successful event experience.
-</thinking>
-
 # Event Rehearsal Scheduling Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants about their event rehearsal schedule and preferences.

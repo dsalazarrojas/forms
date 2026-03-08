@@ -1,6 +1,4 @@
-> <thinking>...The Port Access Authorization Form is designed to request access to a specific port or facility, typically for individuals or organizations. This form is used to verify and record the authorization of such access. It is used by authorized personnel to manage access permissions and ensure that individuals and organizations have the necessary clearance for accessing facilities and resources. The form is usually reviewed and processed internally within the organization and is not intended for external use or sharing. The form is not a replacement for formal agreements or contracts but rather a supporting document for the access authorization process. To avoid duplication, please note that access to a facility may be requested through different channels, e.g., through a company's own portal or in-person. Please ensure that you are using this form for the correct purpose and have all the necessary clearance and permissions to complete it.</thinking>
-
-# Port Access Authorization Form - Help Guide
+> # Port Access Authorization Form - Help Guide
 
 ## Purpose
 

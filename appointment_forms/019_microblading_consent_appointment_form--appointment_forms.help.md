@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather customer information, appointment details, and necessary consents for microblading services. This guide will help users understand each field's purpose and ensure a smooth and accurate filling process.
-</thinking>
-
 # Microblading Consent & Appointment Form - Help Guide
 ## Purpose
 The Microblading Consent & Appointment Form is designed to collect essential information from customers for microblading services. This form helps you to understand their appointment preferences, emergency contacts, and billing details.

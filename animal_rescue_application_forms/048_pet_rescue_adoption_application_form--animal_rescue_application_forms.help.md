@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations interested in adopting a pet from the animal rescue organization. The form should only be filled out by those who are genuinely interested in adopting a pet, not by those who are just browsing or trying to understand the adoption process. This guide will walk you through each field and provide explanations for a smooth and successful submission.
-</thinking>
-
 # Pet Rescue Adoption Application Form - Help Guide
 
 ## Purpose

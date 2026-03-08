@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Promotion Record Employment Form - Help Guide
 
 ## Purpose

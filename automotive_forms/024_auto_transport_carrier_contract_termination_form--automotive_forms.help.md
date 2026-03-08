@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used by carriers and their representatives to provide information about terminating their contract with the company. To fill out this form, please make sure you're authorized to do so and that the termination information you provide is accurate. If the termination is for one of the listed reasons, you'll need to choose the correct option. If you're unsure about anything, please contact your representative or contact the company to clarify. 
-
-Before filling out the form, take a moment to review the contract and all the relevant documents to ensure you're providing the correct information. 
-
-</thinking>
-
 # Auto Transport Carrier Contract Termination Form - Help Guide
 ## Purpose
 This form is used to terminate the contract between your company and the carrier. Please fill it out carefully and accurately to ensure a smooth termination process.

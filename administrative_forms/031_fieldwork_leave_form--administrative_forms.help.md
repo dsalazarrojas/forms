@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for recording fieldwork activities, whether it's a meeting, training, or other fieldwork events. The form is meant to capture essential details such as dates, locations, and times of the events, as well as the status and comments associated with them. The form's structure allows administrators to track and manage fieldwork activities efficiently. 
-</thinking>
-
 # Fieldwork Leave Form - Help Guide
 ## Purpose
 This form is used to record and track fieldwork activities, allowing administrators to manage events and keep records of their status and comments.

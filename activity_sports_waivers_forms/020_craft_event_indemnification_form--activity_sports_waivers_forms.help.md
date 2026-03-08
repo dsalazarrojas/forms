@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for event organizers to collect waiver information from participants in a craft event. It is essential to fill out this form accurately to ensure that participants understand and consent to the waiver terms. This form is not meant to be filled out by the participant themselves but rather by the event organizer on their behalf. Please note that the participant's signature is not required, but it is a good practice to obtain it for record-keeping purposes. This form is designed to collect participant details, waiver consent, event information, and other relevant data. Please fill out this form carefully and thoroughly to ensure that the participant's waiver is accurately recorded.
-</thinking>
-
 # Craft Event Indemnification Form - Help Guide
 ## Purpose
 The Craft Event Indemnification Form is used to collect waiver information from participants in a craft event. It is essential for event organizers to fill out this form to ensure that participants understand and consent to the waiver terms.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used by accountants to collect information for liquidation purposes.
-This form is intended to gather general information, liquidation details, reasons, documents, and other relevant data for the liquidation process.
-</thinking>
-
 # Liquidation Information Collection - Help Guide
 ## Purpose
 The Liquidation Information Collection form is a tool used by accountants to gather information related to liquidations.

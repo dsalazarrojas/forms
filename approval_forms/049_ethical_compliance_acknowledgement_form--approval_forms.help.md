@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, please note that this form is for employees to acknowledge their understanding and commitment to our company's Code of Conduct and Ethical Compliance Standards. It is crucial that the employee understands and accepts the standards as stated in the Code of Conduct before proceeding with their work. This form is not intended for non-employees or external individuals.
-</thinking>
-
 # Ethical Compliance Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to ensure that employees acknowledge and commit to our company's Code of Conduct and Ethical Compliance Standards.

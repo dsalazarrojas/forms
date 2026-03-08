@@ -1,16 +1,3 @@
-<thinking>
-
-This form is part of an administrative process for handling shareholder agreements. Shareholder agreements are contracts between shareholders and the company regarding the terms of their relationship, including ownership rights and responsibilities. The form is likely used by corporate legal teams, financial advisors, or other stakeholders to collect information about the shareholder agreement, such as details about the shareholders, the terms of the agreement, and any additional provisions.
-
-The form's purpose is to ensure that all necessary information is gathered and recorded correctly, which can help prevent misunderstandings and disputes in the future. It's essential to complete the form accurately and thoroughly to maintain a clear and transparent record of the shareholder agreement.
-
-To verify that the form is not a duplicate, we can check the following:
-- Is the form being filled out for a new shareholder agreement, or is it an update to an existing one?
-- Is the form being filled out by the correct person or organization?
-- Are all the fields filled out correctly and completely?
-
-</thinking>
-
 # Shareholder Agreement Declaration Form - Help Guide
 ## Purpose
 The Shareholder Agreement Declaration Form is used to collect information about the shareholder agreement, including details about the shareholders, the terms of the agreement, and any additional provisions. This form helps to ensure that all necessary information is gathered and recorded correctly, which can help prevent misunderstandings and disputes in the future.

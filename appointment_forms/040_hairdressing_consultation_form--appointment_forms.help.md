@@ -1,7 +1,3 @@
-<thinking>
-This form will be used by hairstylists to gather information about an appointment with a client. The form will help hairstylists to collect personal information from the client, schedule the appointment, and get a better understanding of the client's preferences and hair condition. By providing this information, the hairstylist can better tailor the service to the client's needs. The form is not meant to be used for duplicate appointments, so hairstylists should only fill it out for new clients or new appointments.
-</thinking>
-
 # Hairdressing Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information about a client's personal details, appointment schedule, hair service preferences, and hair condition for hairstylists to provide the best service possible.

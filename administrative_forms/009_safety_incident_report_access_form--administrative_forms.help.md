@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Incident Report Access Form - Help Guide
 ## Purpose
 This form is used to report safety incidents that have occurred within the organization. It allows employees to submit reports of incidents that have happened, providing details about the incident, including the date, location, and any relevant details. The form is used to gather information for internal use and is a requirement for reporting safety incidents.

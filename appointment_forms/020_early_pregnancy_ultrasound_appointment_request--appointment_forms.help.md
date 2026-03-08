@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, I will create a user-facing help guide for the "Early Pregnancy Ultrasound Appointment Request" form. This form aims to gather information from expectant mothers to schedule an ultrasound appointment. The purpose of this form is to provide a comprehensive understanding of the patient's pregnancy status, medical history, and preferences for the ultrasound appointment.
-
-The form consists of multiple pages, including sections for patient information, ultrasound request, appointment details, and contact information. The form is used to create and manage ultrasound appointments for patients.
-
-The following guide will walk the end-users through the process of completing this form, highlighting each field and its purpose.
-
-</thinking>
-
 # Early Pregnancy Ultrasound Appointment Request - Help Guide
 ## Purpose
 The "Early Pregnancy Ultrasound Appointment Request" form is designed to collect information from expectant mothers to schedule an ultrasound appointment. This form helps us understand their pregnancy status, medical history, and preferences for the appointment.

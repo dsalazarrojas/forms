@@ -1,13 +1,3 @@
-<thinking>
-The form "scrum_framework_knowledge_quiz" is designed to assess the knowledge of individuals on the Scrum framework, a popular Agile methodology used in software development and project management. This form is intended to evaluate the understanding of key concepts, principles, and values in the Scrum framework. 
-
-The purpose of this form is to evaluate the respondent's knowledge of the Scrum framework, its principles, and its roles. It is likely used in a training or certification context to assess the knowledge of individuals who are familiar with the Scrum framework. 
-
-To the best of our knowledge, there is no other form with the same content and purpose, making it an original adaptation of public survey topic metadata.
-
-Please be aware that this form was not created using any existing form platforms. If you need to modify or sell this form, please give credit.
-</thinking>
-
 # Scrum Framework Knowledge Quiz - Help Guide
 ## Purpose
 

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to be used in an internal context, likely within a company or organization, to request social media content creation or promotion. The form's purpose is to gather information about the type of content requested, the social media platform where it will be published, and other relevant details such as dates and times. This form is not affiliated with any external form platforms, and its design and content are based on public survey topic metadata.
-
-Please note that this form is a simple, AI-generated template and may not cover all possible scenarios or specific business needs. It is essential to review and refine the form according to your organization's specific requirements and policies.
-
-This form is released under the Creative Commons BY 4.0 license, allowing you to use, modify, and distribute it as needed.
-
-When filling out this form, please ensure that you have the necessary permissions and approvals to publish content on the selected social media platforms.
-
-</thinking>
-
 # Social Media Content Request Form - Help Guide
 ## Purpose
 The Social Media Content Request Form is a simple, internal tool used to request social media content creation or promotion within your organization. It helps gather necessary information for content planning, approval, and publishing.

@@ -1,7 +1,3 @@
-<thinking>
-**Internal note: Form purpose is to collect information about the status of anti-static workstations, likely for quality or safety inspection/evaluation purposes. Form data will likely be used to track and monitor workstation condition over time. This form does not appear to be a duplicate or variant of another form, and its purpose seems to be specific and unique.**
-
-</thinking>
 # Anti Static Workstation Assessment - Help Guide
 ## Purpose
 This form is designed to help assess the condition and status of anti-static workstations. It will help you evaluate the overall health and readiness of the workstations for use.

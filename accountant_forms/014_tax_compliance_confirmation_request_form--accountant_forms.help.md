@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information related to tax compliance confirmation requests from accountants. It's intended to be used by accountants to request a tax status update from the system, which will be reviewed and updated accordingly. This form will likely only be used by authorized personnel within the company to prevent duplication of requests and ensure accurate and efficient processing.
-
-To confirm that this form is being used correctly, you can consider implementing a system to track and store the submitted forms, and sending reminders to the submitter when their status is updated.
-
-To complete the form, follow these steps:
-</thinking>
-
 # Tax Compliance Confirmation Request Form - Help Guide
 ## Purpose
 This form is used to request a tax compliance confirmation from the system, which will be reviewed and updated accordingly.

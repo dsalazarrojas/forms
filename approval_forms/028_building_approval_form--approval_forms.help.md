@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from building applicants for approval purposes. The form is used to gather data on the project details, including applicant information, project description, and regulatory compliance. This form is intended for use by building owners, developers, or applicants seeking approval for various types of construction projects. Please ensure that this form is used for its intended purpose and that all required fields are completed accurately. 
-</thinking>
-
 # Building Approval Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Post Test Assessment Survey" form. After understanding the form's purpose, I will break down the instructions on how to complete it and provide a field-by-field explanation of each section. I will aim for clarity, conciseness, and practicality in the explanation, while staying true to the provided YAML fields. I will not invent any unsupported business logic if a field label is weak or unclear. I will also ensure that the help guide is in Markdown format as requested.</thinking>
-
 # Post Test Assessment Survey - Help Guide
 ## Purpose
 The Post Test Assessment Survey is a form designed to gather feedback from participants after a training session. This form helps us evaluate the effectiveness of the session, identify areas for improvement, and gather valuable insights for future program development. Please take a few minutes to complete this survey to help us better understand your experiences and thoughts.

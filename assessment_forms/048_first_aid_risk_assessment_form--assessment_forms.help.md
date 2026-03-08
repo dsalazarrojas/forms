@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that this form is completed correctly, it's essential to understand its purpose and requirements. The First Aid Risk Assessment Form is designed to assess the risk factors and first aid facilities in a workplace, school, or any other facility, ensuring that emergency situations can be handled effectively. It's crucial to fill out the form accurately and thoroughly, as it will guide your team in identifying potential risks and implementing measures to prevent accidents.
-
-This form should be filled out by authorized personnel in the facility, who will review and evaluate the information provided. It's vital to be honest and realistic when answering the questions, as this form will help identify areas that need improvement.
-
-Before proceeding, please ensure that you are the correct person to fill out this form and that you understand the significance of its completion.
-
-</thinking>
-
 # First Aid Risk Assessment Form - Help Guide
 ## Purpose
 The First Aid Risk Assessment Form is designed to assess the risk factors and first aid facilities in a workplace, school, or any other facility, ensuring that emergency situations can be handled effectively.

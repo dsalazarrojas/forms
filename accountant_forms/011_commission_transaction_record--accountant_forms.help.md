@@ -1,7 +1,3 @@
-<thinking>
-The Commission Transaction Record form is a crucial tool for accounting and sales teams to accurately track and record commission transactions. This form ensures that all relevant details are captured, making it easier to calculate commissions and manage financials. To avoid duplication, ensure that each transaction is recorded once and accurately. This form is designed to be comprehensive, covering all aspects of a commission transaction from transaction information to payment details.
-</thinking>
-
 # Commission Transaction Record - Help Guide
 ## Purpose
 The Commission Transaction Record form is used to track and record commission transactions, ensuring accurate and timely financial management.

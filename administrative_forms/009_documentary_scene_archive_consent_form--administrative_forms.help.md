@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in a documentary scene, such as their description, contact details, and consent status. The purpose of this form is to ensure that participants are aware of and agree to the terms of their participation in the documentary.
-</thinking>
-
 # Documentary Scene Archive Consent Form - Help Guide
 ## Purpose
 The Documentary Scene Archive Consent Form is a crucial document that helps ensure the comfort and consent of participants in a documentary scene. By filling out this form, participants acknowledge their involvement in the scene and give permission for their participation to be recorded and used for the documentary's purpose.

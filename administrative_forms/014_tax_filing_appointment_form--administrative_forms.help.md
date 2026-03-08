@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax Filing Appointment Form - Help Guide
 
 ## Purpose

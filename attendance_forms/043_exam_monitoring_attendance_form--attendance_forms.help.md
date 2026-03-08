@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to monitor student attendance during exam sessions. The purpose of this form is to gather information about the session, including details about students present, session duration, and any issues or incidents that occurred during the exam. This form will be used by exam supervisors or proctors to record their observations and notes during the session. To complete this form, you will need to provide information about the student's identifier, session date, start and end times, number of students present, whether students were supervised, and notes about the session. The form is not meant to be a comprehensive report, but rather a quick snapshot of the session's events.
-</thinking>
-
 # Exam Monitoring Attendance Form - Help Guide
 ## Purpose
 This form is designed to monitor student attendance during exam sessions.

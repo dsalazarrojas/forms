@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a vessel that is going to be hauled out for service. The purpose of this form is to ensure that the necessary details about the vessel are captured accurately and consistently. The fields in this form are designed to be completed by a person who has direct knowledge of the vessel's information. This form should not be used for vessels that do not require haulout service. If you are familiar with this form, please proceed to complete it. If you need to complete a new form, please make sure you have reviewed the vessel's information and are certain that it requires haulout service.
-</thinking>
-
 # Haulout Service Agreement - Help Guide
 ## Purpose
 The Haulout Service Agreement form is used to gather information about a vessel that is going to be hauled out for service. This form ensures that all necessary details about the vessel are captured accurately and consistently.

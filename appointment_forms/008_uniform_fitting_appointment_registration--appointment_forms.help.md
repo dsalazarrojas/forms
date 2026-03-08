@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for uniform fittings, such as measurements, appointment preferences, and uploadable documents. To complete this form, you will be asked to provide your details as a School, Team or Business, your name, email, phone number, date and time for the appointment, and your measurements. You will also be asked to choose whether you have an appointment or not, and to provide any additional comments. Furthermore, you can upload supporting documents, images, videos, audio files, and other attachments if necessary. Please make sure to provide accurate information and upload relevant files to ensure a smooth uniform fitting process.
-
-</thinking>
-
 # Uniform Fitting Appointment Registration - Help Guide
 ## Purpose
 

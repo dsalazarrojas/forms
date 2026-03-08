@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Measurement Conversion Quiz - Help Guide
 ## Purpose
 The Measurement Conversion Quiz form is designed to help users practice converting between different units of measurement. This form is used to convert a given value from one unit to another in various measurement systems.

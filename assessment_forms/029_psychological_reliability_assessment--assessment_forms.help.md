@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Psychological Reliability Assessment - Help Guide
 
 ## Purpose

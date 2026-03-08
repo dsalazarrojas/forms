@@ -1,7 +1,3 @@
-<thinking>
-The fill-in-the-blanks quiz form is designed to collect personal preferences and interests from users. Its primary purpose is to gather information about the user's favorite foods, colors, animals, music, books, movies, games, and other interests. This form will likely be used in a survey or assessment setting to gain insights into the user's personality, lifestyle, or preferences. To ensure the form is completed correctly, please review each field carefully and enter the desired information. If a field is not relevant, please leave it blank.
-</thinking>
-
 # fill_in_the_blanks_quiz - Help Guide
 ## Purpose
 The fill-in-the-blanks quiz form collects personal preferences and interests from users.

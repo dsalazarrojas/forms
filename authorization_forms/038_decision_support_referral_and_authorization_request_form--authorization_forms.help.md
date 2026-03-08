@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting a referral and authorization from the support team. The form is designed to collect information about the patient, the referral reason, and the status of the referral. The purpose of this form is to facilitate communication between the patient's care team and the support team, ensuring that everyone involved is aware of the referral and its status.
-</thinking>
-
 # Decision Support Referral And Authorization Request Form - Help Guide
 ## Purpose
 The Decision Support Referral And Authorization Request Form is used to request a referral and authorization from the support team, enabling efficient communication and ensuring that all parties are informed about the referral and its status.

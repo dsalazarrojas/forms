@@ -1,6 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the "Vendor Recommendation Form", I will first outline the internal reasoning behind the form's purpose and ensure that it does not duplicate any existing documentation. The form is intended to gather information about vendors, including their name, address, email, phone number, website, and other relevant details. It also aims to collect the user's recommendation status and reason for it, along with a rating and comments. The form is designed to be completed by users who need to provide input on various vendors, and the collected data will be used to make informed decisions about vendor selection. To avoid duplication of effort, I will ensure that this guide is clear, concise, and practical, making it easy for end-users to understand the form's purpose and complete it accurately.</thinking>
-
 # Vendor Recommendation Form - Help Guide
 ## Purpose
 The Vendor Recommendation Form is designed to collect information about vendors and gather user recommendations on their selection. This form is used to provide input on various vendors and help make informed decisions about vendor selection.

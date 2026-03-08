@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to assess the user's human respiration health, gathering information on symptoms, risk factors, medical history, and interactions with healthcare professionals. This assessment is likely used in a clinical setting to inform medical diagnoses and treatments. To ensure the accuracy of this assessment, please review the form carefully before submitting it.
-
-Before starting the form, verify that you have not completed a similar form recently, as this would be considered duplicated information.
-
-</thinking>
-
 # Human Respiration Assessment - Help Guide
 ## Purpose
 The Human Respiration Assessment form gathers information on a user's health status regarding respiration symptoms, risk factors, medical history, and interactions with healthcare professionals. This form aims to provide a comprehensive picture of the user's situation to aid in diagnosis and treatment.

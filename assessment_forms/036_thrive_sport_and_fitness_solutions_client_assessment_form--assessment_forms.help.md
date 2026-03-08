@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thrive Sport And Fitness Solutions Client Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather general information, medical history, contact details, assessment questions, medical questions, and physical activity information from clients to better understand their needs and provide personalized recommendations.

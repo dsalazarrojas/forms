@@ -1,7 +1,3 @@
-<thinking>
-The Termination Declaration Form is used when an employee's employment with the company is coming to an end. This form should only be filled out when an employee's termination is actually happening. Filling out this form for any other reason, such as testing or demonstration purposes, will not be permitted.
-</thinking>
-
 # Termination Declaration Form - Help Guide
 
 ## Purpose

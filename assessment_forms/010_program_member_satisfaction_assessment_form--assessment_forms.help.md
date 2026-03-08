@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Program Member Satisfaction Assessment Form". This form aims to collect feedback from program members on their satisfaction with various services provided by the program. The purpose is to understand the member's experience, identify areas of improvement, and gauge their willingness to recommend the program to others. This form should only be filled out by program members who have used the services and are providing honest feedback.
-</thinking>
-
 # Program Member Satisfaction Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback on your experience with our program services. Your responses will help us understand your satisfaction and identify areas where we can improve.

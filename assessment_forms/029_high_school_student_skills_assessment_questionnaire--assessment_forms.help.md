@@ -1,35 +1,3 @@
-<thinking>
-
-This form is intended to assess the skills and qualifications of a high school student. It is likely used by schools or educational institutions to collect data about students' grades, interests, and career aspirations.
-
-The form is composed of several sections that collect personal information (student ID, name), academic information (grades in math, science, English, social science, and foreign languages), and career goals (careers and graduation status).
-
-To complete this form, the student will need to:
-
-* Enter their student ID (a unique identifier)
-* Enter their name
-* Enter their grades for math, science, English, social science, and foreign languages
-* Select one or more career aspirations
-* Enter their graduation year
-* Select their graduation status
-
-Each field is explained below:
-
-* **student_id**: A unique identifier for the student.
-* **student_name**: The name of the student.
-* **math_grade**: The student's grade in math subject.
-* **math_subjects**: The student is asked to select one math subject that they excel at (Algebra, Calculus, Geometry, Trigonometry, Statistics).
-* **english_grade**: The student's grade in English subject.
-* **science_grade**: The student's grade in science subject.
-* **social_science_grade**: The student's grade in social science subject.
-* **foreign_language_grade**: The student's grade in foreign language subject.
-* **social_skills**: A short description of the student's social skills.
-* **career_aspiration**: The student selects one or more career aspirations from the list (Business/Entrepreneurship, Art/Design, Engineering, Social Science, Other).
-* **graduation_year**: The year the student plans to graduate.
-* **graduation_status**: The student selects their current graduation status from the list (High School, Currently in high school, Some college, Associates, Bachelor, Master, Doctoral).
-
-</thinking>
-
 # high_school_student_skills_assessment_questionnaire - Help Guide
 ## Purpose
 This form is designed to assess the skills and qualifications of a high school student.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from actors for commercial casting purposes. The form should only be filled out by actors or their representatives who are looking to be cast in a commercial or other performance-based roles. If this form has already been filled out previously, please make sure to update any changed information as needed.
-</thinking>
-
 # Hair Commercial Casting Application - Help Guide
 
 ## Purpose

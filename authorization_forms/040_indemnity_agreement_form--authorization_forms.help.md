@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information related to indemnity agreements between parties involved in a transaction. The form is used to document the terms and conditions of the agreement, including the transaction details, parties involved, responsibilities, liabilities, indemnity period, and other relevant information. This form is typically used in situations where one party is seeking indemnity coverage for potential losses or damages.
-
-</thinking>
-
 # Indemnity Agreement Form - Help Guide
 ## Purpose
 

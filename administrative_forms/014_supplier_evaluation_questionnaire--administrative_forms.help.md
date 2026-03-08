@@ -1,5 +1,3 @@
-<thinking>...We are using this form for evaluating suppliers. Please note that we only need evaluations from our internal suppliers. This form will be submitted to our internal stakeholders for evaluation and rating of these suppliers. We will only accept one evaluation per supplier. If you're unsure whether you've submitted an evaluation or not, please check our internal records. Please provide your evaluation honestly, as it will greatly help us improve our suppliers' performance.</thinking>
-
 # Supplier Evaluation Questionnaire - Help Guide
 ## Purpose
 This form is used to evaluate the performance of our internal suppliers. Your feedback will help us improve their services.

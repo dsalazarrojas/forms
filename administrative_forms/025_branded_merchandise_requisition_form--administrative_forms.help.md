@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Branded Merchandise Requisition Form - Help Guide
 
 ## Purpose

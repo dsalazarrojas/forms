@@ -1,5 +1,3 @@
-<thinking>...The form is used to gather information from alumni who are attending or not attending the reunion. The form is meant to collect personal contact information and preferences for the upcoming event. This ensures that attendees can be reached for planning and organizational purposes. To avoid any duplication of data, we verify the attendee's email address with other registered attendees... </thinking>
-
 # Reunion Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from alumni who are attending or not attending the reunion. It helps us gather contact details and preferences for the event.

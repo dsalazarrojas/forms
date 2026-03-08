@@ -1,9 +1,3 @@
-<thinking> 
-We need to ensure that the purpose of this form is clear to both the users and the development team. The form, "Fitness Assessment Form", is designed to collect essential information about a client's medical history, physical condition, and goals. This information is crucial for fitness professionals to assess the client's needs and create a tailored fitness plan.
-
-Before proceeding, please ensure the form is completed for each required field, and only if the option is not relevant or not applicable, leave it out. This will avoid unnecessary data and reduce errors. Also, please verify that the form is completed correctly to avoid incorrect assumptions or miscommunication.
-
-</thinking>
 # Fitness Assessment Form - Help Guide
 ## Purpose
 The "Fitness Assessment Form" is a comprehensive form designed to gather essential information about a client's medical history, physical condition, and goals. This form enables fitness professionals to assess the client's needs and develop a tailored fitness plan.

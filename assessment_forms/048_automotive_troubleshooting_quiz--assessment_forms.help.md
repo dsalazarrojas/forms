@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the diagnostic skills of automotive professionals, specifically mechanics, technicians, or enthusiasts. The form is meant to gauge their ability to troubleshoot common automotive issues. It's a self-assessment quiz that asks participants to select the most likely cause of various problems. The purpose of this form is to help professionals identify areas where they need more training or practice, ensuring they provide accurate and efficient diagnoses in their work.
-
-Before proceeding, please ensure you have taken the quiz with your own understanding and experience, without any external assistance. This form is meant for individual, independent assessment and should not be used for group or class assessments.
-
-The form is divided into two main sections: Participant Information and Troubleshooting Quiz. The first section collects basic participant details such as name, email, and department. The second section consists of ten questions covering common automotive issues and their possible causes. After the quiz, you will be asked to rate your confidence in your abilities and provide feedback on the quiz content. Finally, you will be asked about your perceived difficulty level of the quiz, the approximate time spent, and if you need additional training.
-
-Please note that this form is for self-assessment only. It is not intended for external use or to be taken in a group or class setting.</thinking>
-
 # Automotive Troubleshooting Quiz - Help Guide
 ## Purpose
 

@@ -1,25 +1,3 @@
-<thinking>
-This form is designed for users to pre-order festival t-shirts for an event. The form collects event details, customer information, and order options to help us process the pre-orders correctly. The fields are designed to be as straightforward and user-friendly as possible.
-
-To determine if a user is filling out the correct form, we should check that:
-
-- They are filling out the "festival t_shirt_pre_order_form" form.
-- The form is filled out on the correct event date.
-
-If the event date entered is not within the correct timeframe for the festival, we should alert the user and prevent them from proceeding.
-
-This form collects the following information:
-
-- Event details (event_details, event_details_2)
-- Customer information (name, organization, email, phone)
-- Delivery address and instructions
-- Payment method and amount
-- T-shirt options (size, color, design, order type)
-
-Please make sure you fill out the form accurately and thoroughly.
-
-</thinking>
-
 # festival_t_shirt_pre_order_form - Help Guide
 ## Purpose
 This form is for pre-ordering festival t-shirts. Please fill out the form accurately and thoroughly.

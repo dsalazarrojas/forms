@@ -1,13 +1,3 @@
-<thinking>
-This form is used to record and report attendance and sick leave policy for contractors. This form helps to track and record the contractor's work schedule, attendance, and any leave taken during the reporting period. The form is used for data collection and record-keeping purposes.
-
-The form should be completed by the contractor, and it is expected that the contractor has reviewed and understands the attendance policy before submitting this form. The form requires the contractor's name, employee or contractor ID number, email, phone number, department, project name, reporting period start and end dates, total scheduled work days, days actually worked, number of absences, sick leave days taken, reason for sick leave, personal leave days taken, unpaid leave days taken, acknowledgement of the attendance policy, understanding of the attendance requirements, understanding of the reporting procedure, and understanding of when documentation is required, supervisor name, supervisor email, and submission date. The form also includes space for additional notes.
-
-Before submitting this form, the contractor must confirm that they have reviewed and understand the attendance policy, attendance requirements, reporting procedure, and when documentation is required.
-
-The form is an internal use tool and should be filled out honestly and accurately.
-</thinking>
-
 # Contractor Attendance and Sick Leave Policy Form - Help Guide
 ## Purpose
 The purpose of this form is to record and report attendance and sick leave policy for contractors. This form is used for data collection and record-keeping purposes.

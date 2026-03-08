@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by clients and customers of the aviation services company to schedule an appointment for various purposes such as flight training, aircraft maintenance, or charter services. The form collects contact information, appointment details, and service preferences to ensure accurate scheduling and effective communication. 
-</thinking>
-
 # Aviation Appointment Scheduling - Help Guide
 
 ## Purpose

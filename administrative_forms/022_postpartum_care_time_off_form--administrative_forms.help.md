@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Postpartum Care Time Off Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is for requesting time off for religious observations such as holidays, observances, or other religious events. It's designed to help employees or staff members inform their management or HR department about their needs and ensure a smooth workflow. 
-
-To avoid conflicts or miscommunications, it's best to use this form for all religious observation requests.
-
-Please review the form carefully and ensure you understand all the fields before proceeding.
-
-</thinking>
-
 # Religious Observation Time Off Form - Help Guide
 
 ## Purpose

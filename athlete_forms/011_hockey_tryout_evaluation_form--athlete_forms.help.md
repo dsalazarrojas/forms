@@ -1,6 +1,3 @@
-<thinking>
-The form is intended to collect information about a hockey player's tryout, specifically evaluating their skills, physical attributes, and overall performance. It is likely used by coaches or evaluators to assess a player's potential for the team. The form should only be completed by authorized personnel, as it is not intended for general public submission. This is a unique form for evaluating hockey players, and each field should be filled out accordingly to ensure accurate and fair evaluation.</thinking>
-
 # Hockey Tryout Evaluation Form - Help Guide
 ## Purpose
 The Hockey Tryout Evaluation Form is a tool used by coaches and evaluators to assess the skills, physical attributes, and overall performance of hockey players during tryouts.

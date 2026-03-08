@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to facilitate the onboarding process for new employees, ensuring that essential information is gathered and system access is provisioned properly. This guide will walk the end user through the necessary steps to complete the form correctly.
-
-This form is not intended for existing employees or other personnel who do not require new system access. If the end user has already completed this form in the past, it is recommended to review the information and update as necessary, rather than re-submitting the form.
-
-Please ensure that all fields are filled accurately and correctly to avoid any issues with system access or employee records. If any fields are unclear or require further explanation, please refer to the specific field explanations below.
-</thinking>
-
 # IT System Onboarding Form - Help Guide
 ## Purpose
 The IT System Onboarding Form is used to gather essential information about new employees and provision system access as needed. This form must be completed by new employees to ensure proper integration into the company's IT systems.

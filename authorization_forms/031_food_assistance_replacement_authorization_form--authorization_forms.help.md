@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be used by food assistance program administrators to verify the authenticity of applicants' information, specifically their SNAP numbers, signatures, and dates. This form is not intended to be used for general public use, as it is meant for internal verification purposes within the food assistance program. Please ensure that the form is not shared with or used by non-authorized personnel to avoid any potential misuse or confusion. Additionally, please be aware that this form's purpose and content may change over time, so it's crucial to review the form regularly to ensure you understand its current requirements and limitations.</thinking>
-
 # Food Assistance Replacement Authorization Form - Help Guide
 ## Purpose
 This form is designed to verify the authenticity of applicants' information for the Food Assistance program. It collects the applicant's SNAP number, reason for loss, signature, date, time, and verification of these critical details. The form helps food assistance program administrators to ensure that the information provided by applicants is genuine and accurate.

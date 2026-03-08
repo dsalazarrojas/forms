@@ -1,8 +1,3 @@
-<thinking>
-The bakery needs to ensure that the customer provides accurate and detailed information to create a cake that meets their expectations. To avoid any miscommunication, it's essential to have a clear and comprehensive form that asks the right questions to gather all the necessary information.
-This form should be used by customers who are interested in placing an order for a custom cake, and it's crucial to fill out every field as accurately as possible to get the best results.
-</thinking>
-
 # Cake Order Inquiry Form - Help Guide
 ## Purpose
 This form is designed for customers who want to place a custom cake order, and it helps the bakery gather all the necessary information to create a cake that meets their expectations and requirements.

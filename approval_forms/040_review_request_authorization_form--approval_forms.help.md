@@ -1,35 +1,3 @@
-<thinking>
-**Internal reasoning check:**
-This form is intended for requesting review and approval of a review request. The purpose of this form is to facilitate the review process by gathering necessary information from the review requestor.
-The following fields are included:
-* Review Request: A text field for entering the review request details.
-* Deadline: A date field for setting a deadline for the review.
-* Review Requestor Email: An email field for the review requestor's contact information.
-* Approval: A select-one field for requesting approval or denial of the review request.
-* Comments: A text field for adding additional comments.
-* Review Date: A date field for tracking the review date.
-* Review Time: A time field for tracking the review time.
-* Submission Tracking: A select-multiple field for tracking submission status.
-* Review Requestor Name: A text field for the review requestor's name.
-* Asset ID: A text field for asset identification.
-* Asset Version: A text field for asset version.
-* Review Type: A select-one field for selecting the review type (Document or Asset).
-* Document Type: A select-multiple field for selecting the document type.
-* Document Title: A text field for document title.
-* Document URL: A text field for document URL.
-* Document Version: A text field for document version.
-* Document Date: A date field for document date.
-* Document Time: A time field for document time.
-* Asset Title: A text field for asset title.
-* Asset URL: A text field for asset URL.
-* Asset Version: A text field for asset version.
-* Approval Date: A date field for approval date.
-* Approval Time: A time field for approval time.
-* Submission Comments: A text field for submission comments.
-* Review Requestor Department: A text field for review requestor department.
-
-This form does not contain any proprietary content and is released under CC BY 4.0.
-</thinking>
 # Review Request Authorization Form - Help Guide
 
 ## Purpose

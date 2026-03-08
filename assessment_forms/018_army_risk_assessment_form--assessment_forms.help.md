@@ -1,5 +1,3 @@
-<thinking>...We need to ensure that the Army Risk Assessment Form is used correctly to evaluate soldiers' behavior and provide recommendations for their improvement. This form is intended to assess various aspects of a soldier's performance, including their behavior, interpersonal skills, and mental and emotional status. It should only be filled out by authorized personnel, and its purpose is to provide a comprehensive evaluation of a soldier's risk factors and recommend appropriate actions to mitigate them...</thinking>
-
 # Army Risk Assessment Form - Help Guide
 ## Purpose
 This form is used to assess various aspects of a soldier's performance, including behavior, interpersonal skills, and mental and emotional status.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's personality color preferences and traits. This form is required for users to accurately categorize themselves based on their personal characteristics. Please ensure that you only complete this form once.
-</thinking>
-
 # personality_color_assessment - Help Guide
 ## Purpose
 The personality color assessment form is designed to help you determine your personal preferences and characteristics based on color choices. This assessment is an essential part of the process to categorize yourself accurately.

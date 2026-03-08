@@ -1,20 +1,3 @@
-<thinking>
-
-This form is designed to collect information from candidates applying for a job opening. The purpose of this form is to gather detailed information about the candidate, including their personality, work experience, and job preferences. This form will help the hiring team assess the candidate's suitability for the job position.
-
-The form is divided into several sections, each covering different aspects of the candidate's profile. The candidate will be asked to provide their name, email address, phone number, job title, and work experience. They will also be asked to answer a series of personality questions that assess their traits, such as being agreeable, ambitious, confident, and diplomatic. Additionally, the candidate will be given the opportunity to provide a brief essay or notes about themselves, as well as any relevant images or videos.
-
-Before filling out the form, please make sure to have the following information ready:
-
-* A valid email address
-* A valid phone number
-* A job title
-* A brief description of your work experience
-* Answers to the personality questions
-* A brief essay or notes about yourself
-
-</thinking>
-
 # Hiring Personality Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from candidates applying for a job opening. The purpose of this form is to gather detailed information about the candidate, including their personality, work experience, and job preferences.

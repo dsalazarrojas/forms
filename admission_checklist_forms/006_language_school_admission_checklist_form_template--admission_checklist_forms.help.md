@@ -1,13 +1,3 @@
-<thinking>
-
-This form template is designed to guide the user through the process of providing necessary information for admission to a language school. The fields are intended to gather basic contact details, language school experience, and reasons for applying for admission. The form is likely used by a school administrator or staff member to collect information from prospective students.
-
-The purpose of this form is to help the admission staff to quickly gather the required information and create an efficient and organized admission process.
-
-This template does not appear to be duplicated in the organization's catalog of forms, and it seems to be specific to the language school's needs.
-
-</thinking>
-
 # Language School Admission Checklist Form Template - Help Guide
 ## Purpose
 This form template is designed to guide users through the process of providing necessary information for admission to a language school.

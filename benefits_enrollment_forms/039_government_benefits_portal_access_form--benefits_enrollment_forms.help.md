@@ -1,7 +1,3 @@
-<thinking>
-The Government Benefits Portal Access Form is a comprehensive form designed to gather essential information from individuals seeking access to government benefits such as food stamps, Medicaid, and housing assistance. This form is intended to provide a standardized and efficient way to collect demographic data, contact information, and benefits eligibility details. By filling out this form, you will be able to provide the necessary information to determine your eligibility for these benefits. Please ensure that you have the necessary documents and information ready before submitting the form. Note that some fields are required while others are optional and can be filled out at your discretion.
-</thinking>
-
 # Government Benefits Portal Access Form - Help Guide
 ## Purpose
 The Government Benefits Portal Access Form is a tool designed to help you determine your eligibility for various government benefits such as food stamps, Medicaid, and housing assistance.

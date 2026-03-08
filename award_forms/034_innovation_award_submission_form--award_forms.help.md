@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals or companies seeking to submit their innovative projects or ideas for a particular award. This form serves as a centralized platform to gather necessary details about the submission, including general information, contact details, innovation specifics, award information, submission details, and any attachments or supporting materials. It is essential to note that the form fields have been designed to be straightforward and user-friendly, minimizing the risk of duplication or irrelevant submissions.
-
-To prevent duplication, it is crucial to review the form carefully before proceeding. Ensure that you are submitting unique and relevant information for the specified award. This form is not affiliated with or endorsed by any form platform, and it is an original adaptation created using AI-driven processes.
-
-By following this guide, you will be able to complete the form accurately and effectively, ensuring that your submission is processed efficiently and without errors.
-
-</thinking>
-
 # Innovation Award Submission Form - Help Guide
 ## Purpose
 

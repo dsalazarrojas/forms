@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sticker Usage Agreement Form - Help Guide
 ## Purpose
 This form is used to obtain agreement on the usage of stickers in the workplace. It helps to document and clarify the expectations and guidelines for sticker placement, ensuring a smooth and respectful work environment.

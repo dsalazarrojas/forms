@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax Professional Communication Survey - Help Guide
 ## Purpose
 The Tax Professional Communication Survey is designed to gather feedback from tax professionals on the communication quality, responsiveness, and clarity of information provided by our team. This survey aims to help us better understand your experiences and needs, which will inform our efforts to improve communication and provide more effective support.

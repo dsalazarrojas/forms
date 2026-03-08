@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Risk Assessment Communication Form - Help Guide
 
 ## Purpose

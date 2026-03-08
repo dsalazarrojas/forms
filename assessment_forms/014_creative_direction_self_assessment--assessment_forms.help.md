@@ -1,5 +1,3 @@
-<thinking>As the form is designed to assess an individual's creative direction and goals, it's essential to provide a clear and concise guide for end-users to follow. The form aims to gather information on the individual's current creative direction, goals for the next quarter, and other relevant details. To ensure that the form is completed accurately and effectively, it's vital to understand the purpose and relevance of each field.</thinking>
-
 # Creative Direction Self Assessment - Help Guide
 ## Purpose
 

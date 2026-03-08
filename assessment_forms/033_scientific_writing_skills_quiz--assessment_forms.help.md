@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scientific Writing Skills Quiz - Help Guide
 ## Purpose
 The Scientific Writing Skills Quiz is designed to assess your skills in scientific writing. This quiz is meant to evaluate your ability to understand and apply scientific writing principles. Please answer the questions honestly and to the best of your ability.

@@ -1,13 +1,3 @@
-<thinking>
-The Mediation Checklist Form is designed to collect information from individuals seeking mediation services. This form helps mediatior to assess and document the needs and goals of the client, ensuring that the mediation process is tailored to their specific requirements. The form is typically used at the beginning of the mediation process to ensure that the client's goals and expectations are understood.
-
-The form is divided into several sections, each focusing on a different aspect of the mediation process. The information collected will help the mediator to better understand the client's situation and provide effective support.
-
-Before filling out the form, please make sure to carefully read the instructions and answer the questions honestly and accurately. This will ensure that the mediator has the necessary information to provide the best possible support.
-
-The form is a self-explanatory document, and the instructions will guide you through the process. If you have any doubts or questions, please do not hesitate to contact the mediator.
-</thinking>
-
 # Mediation Checklist Form - Help Guide
 ## Purpose
 The Mediation Checklist Form is designed to collect information from individuals seeking mediation services. The form helps the mediator to understand the client's needs and goals, ensuring that the mediation process is tailored to their specific requirements.

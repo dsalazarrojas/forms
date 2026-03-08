@@ -1,7 +1,3 @@
-<thinking>
-The "Peer Review Assignment Request Form" is used by peers to request a review of a specific request, likely in an academic or professional setting. This form allows the peer to provide feedback on the evaluation criteria and scale used, as well as any additional note or comment. The form is not intended for repeated submission of the same request, so users should verify that a similar request has not been submitted before proceeding. If a user intends to submit a new review request, they should confirm that the previous review has been finalized and closed.
-</thinking>
-
 # Peer Review Assignment Request Form - Help Guide
 ## Purpose
 This form is used by peers to request a review of a specific request. It's meant for submitting new review requests, and not for submitting repeated or duplicate requests.

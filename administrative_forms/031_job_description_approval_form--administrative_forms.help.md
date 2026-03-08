@@ -1,7 +1,3 @@
-<thinking>
-This form is for approving job descriptions, which is an administrative task performed internally within the organization. It is essential to ensure that the form is completed accurately and thoroughly to avoid errors or omissions. Please check that you have all necessary information before filling out the form, and that you have not already completed this form for the same job description. This will prevent unnecessary duplication of work and ensure that your input is up-to-date and consistent.
-</thinking>
-
 # Job Description Approval Form - Help Guide
 ## Purpose
 The Job Description Approval Form is a form used to approve job descriptions within the organization. Its primary purpose is to collect and record essential job-related information for accurate and efficient administrative management.

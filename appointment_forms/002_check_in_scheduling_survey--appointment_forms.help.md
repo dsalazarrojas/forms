@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from participants before scheduling an appointment. The goal is to ensure that the participant's needs and preferences are understood and met during the appointment. To prevent duplicates, this form will check for participant information in the database and prevent scheduling if a duplicate is found. The form is divided into two main sections: "General Information" and "Appointment Details." The "General Information" section captures the participant's name, email address, phone number, and preferred contact method for reminders. The "Appointment Details" section collects information on the type of appointment, preferred date and time, and any special requirements or additional comments. This guide will walk you through each field to help you navigate the form smoothly.</thinking>
-
 # Check In Scheduling Survey - Help Guide
 ## Purpose
 This form is designed to collect information from participants before scheduling an appointment. It helps our team understand your needs and preferences to ensure a successful appointment.

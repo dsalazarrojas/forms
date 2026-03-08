@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # stakeholder_interest_declaration_form - Help Guide
 ## Purpose
 

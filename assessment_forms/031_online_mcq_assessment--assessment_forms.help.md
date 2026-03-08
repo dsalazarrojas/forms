@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the user's understanding of online MCQ (Multiple Choice) assessments, likely as part of a training or educational program. 
-To confirm that the form is being used in the correct context and to avoid duplication of effort, the form should only be filled out once per assessment session. 
-</thinking>
-
 # online_mcq_assessment - Help Guide
 ## Purpose
 The online_mcq_assessment form is designed to help users understand the concept of online MCQ assessments and their benefits. 

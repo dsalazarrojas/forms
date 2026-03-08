@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for applicants to apply for a scholarship, providing their personal and contact information, as well as details about their financial situation and background. This form helps the scholarship committee evaluate applicants based on their merit, need, or a combination of both. To ensure accurate and complete submissions, please fill out the form only once, and avoid duplicates.
-</thinking>
-
 # Sample Scholarship Application Form - Help Guide
 ## Purpose
 The Sample Scholarship Application Form is designed for applicants to submit their application for a scholarship. Please follow the instructions below to complete the form accurately.

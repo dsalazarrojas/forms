@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose:**
-This form is intended to help users schedule a consultation appointment with our construction company. It collects relevant information about the client, including their contact details, appointment preferences, and project specifics.
-
-**Form Validation:**
-We will review this form before sending out a consultation confirmation email to prevent duplicate appointments and to ensure that all required fields have been filled out. 
-
-</thinking>
-
 # Construction Consultation Appointment Form - Help Guide
 ## Purpose
 This form helps us schedule a consultation appointment and gather essential information about your construction project.

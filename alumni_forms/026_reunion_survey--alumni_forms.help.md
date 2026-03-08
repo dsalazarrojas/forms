@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to gather information for an upcoming reunion event. The reunion event is an opportunity for alumni to reconnect with each other and share memories of their time at the institution. This form will be used by the event planning committee to get a sense of how many people are interested in attending, what kind of events they'd like to have, and other relevant details. The committee will use this information to create a successful and enjoyable event for all attendees. It's essential to fill out this form accurately and thoroughly to ensure that everyone's needs and preferences are considered.
-</thinking>
-
 # Reunion Survey - Help Guide
 ## Purpose
 The Reunion Survey form is designed to collect information about your interests, preferences, and needs for the upcoming reunion event. Your input will help the event planning committee create a memorable and enjoyable experience for all attendees.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and context should be carefully considered to prevent duplication and ensure relevance in nominations. This form is designed to collect information about an outstanding faculty advisor, which may include a member of the faculty who is recognized for their excellent guidance, mentorship, or contributions to students or the academic community. This form should only be used for nominations that are genuinely intended to highlight exceptional faculty performance. Nomination forms are not for general feedback or routine evaluations.
-</thinking>
-
 # Outstanding Faculty Advisor Nomination - Help Guide
 
 ## Purpose

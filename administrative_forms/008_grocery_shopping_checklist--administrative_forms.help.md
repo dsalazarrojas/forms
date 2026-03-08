@@ -1,20 +1,3 @@
-<thinking>
-This form is for tracking grocery shopping activities. The form will be completed by users to provide information about their shopping list, date, time of day, store visited, payment method, notes, and contact name. The form is designed to be completed by users to provide their grocery shopping information.
-
-The purpose of this form is to gather data about user's shopping habits, including their shopping list, date, time of day, store visited, payment method, notes, and contact name. This information will help in understanding user's preferences and shopping behavior.
-
-The form has 7 fields:
-- 1) Shopping List (text)
-- 2) Date (date)
-- 3) Time of Day (time)
-- 4) Shopping Store (select_one)
-- 5) Payment Method (select_multiple)
-- 6) Notes (note)
-- 7) Contact Name (text)
-
-The form is not required, but it is recommended to be completed for accurate and complete data collection.
-</thinking>
-
 # Grocery Shopping Checklist - Help Guide
 ## Purpose
 This form is for tracking grocery shopping activities, including shopping lists, dates, times, stores, payment methods, notes, and contact names.

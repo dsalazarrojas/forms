@@ -1,6 +1,3 @@
-<thinking> 
-This help guide is intended to provide users with a clear understanding of the Virtual Assessment Guide Request Form. The form is designed to capture information related to virtual assessments, including details about the assessment requestor, the type of assessment, resources required, and other relevant details. The form is used to streamline the process of requesting virtual assessments and ensure that all necessary information is captured. Before proceeding, please verify that you have not submitted a request for this virtual assessment previously. If you have, please check if any new information has been added or if your previous request is still relevant. If not, please submit your new request with the necessary updates. Please note that this form is not intended for use with internal assessments; internal assessments have their own dedicated forms. Please use this form only for virtual assessments.</thinking>
-
 # Virtual Assessment Guide Request Form - Help Guide
 ## Purpose
 The Virtual Assessment Guide Request Form is used to request a virtual assessment, which is a guided process to help users complete a virtual assessment.

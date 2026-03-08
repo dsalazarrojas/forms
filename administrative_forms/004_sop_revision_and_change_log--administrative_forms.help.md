@@ -1,7 +1,3 @@
-<thinking>... This form is used to record and track changes and revisions made to Standard Operating Procedures (SOPs). The "SOP Revision and Change Log" form is essential for keeping an accurate record of updates, revisions, and reviews made to procedures. By filling out this form, users can provide a clear and concise record of changes made to SOPs, including the current version number, revision date, and review status. 
-
-Please note that the form is not intended to be used for multiple revisions of the same SOP at the same time, but rather for tracking changes made over time.</thinking>
-
 # sop_revision_and_change_log - Help Guide
 ## Purpose
 The "SOP Revision and Change Log" form is used to record and track changes made to Standard Operating Procedures (SOPs). This form is essential for maintaining an accurate record of updates, revisions, and reviews made to procedures.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information for an organization's awards nominations. The purpose of this form is to streamline the nomination process for internal and external awards that recognize individual or team achievements. The form should only be filled out by authorized personnel and not duplicated or filled out by unauthorized individuals. To ensure accuracy, each award nomination will be reviewed and verified by the relevant team. 
-
-Please fill out the form carefully, providing accurate information to ensure a smooth review process.
-</thinking>
-
 # Organization Awards Nomination Form - Help Guide
 ## Purpose
 The Organization Awards Nomination Form is used to gather information for internal and external awards nominations. Fill out this form to nominate individuals or teams for recognition of their achievements.

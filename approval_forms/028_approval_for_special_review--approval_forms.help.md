@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information for special reviews, which are used to evaluate specific items or projects within an organization. This form aims to collect essential details from submitters, including submission information, reviewer details, and review request specifics. It is crucial to ensure that all required fields are completed accurately to facilitate a smooth and efficient review process.
-
-</thinking>
-
 # Approval For Special Review - Help Guide
 ## Purpose
 The purpose of this form is to gather information for special reviews, allowing reviewers to evaluate specific projects or items within the organization. This form is a critical component in the review process, ensuring that necessary details are collected and submitted properly.

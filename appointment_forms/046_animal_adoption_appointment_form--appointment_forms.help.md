@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals or families to schedule an appointment to adopt an animal. To determine if this form is relevant, consider the following questions: Do you want to adopt a new pet? Are you looking to schedule an appointment with a shelter or rescue organization? If so, this form can help guide you through the process. To avoid confusion, it's essential to review each section carefully and ensure the information is accurate to prevent duplication or errors during the adoption process. By filling out this form, you'll be able to provide the necessary details for a smooth adoption experience.
-</thinking>
-
 # Animal Adoption Appointment Form - Help Guide
 
 ## Purpose

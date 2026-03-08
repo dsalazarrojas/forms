@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and that users don't submit duplicate requests. This form is meant to gather information for processing documents, and the fields should be filled out accurately and truthfully. Before filling out the form, please review the fields carefully and ensure that you have answered all the required fields. If you're unsure about any field, please ask for clarification or assistance.
-</thinking>
-
 # Document Processing Authorization Letter Request Form - Help Guide
 ## Purpose
 The Document Processing Authorization Letter Request Form is used to collect information for processing document requests. This form is essential for our document processing team to understand the nature of the request and provide accurate support.

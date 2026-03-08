@@ -1,8 +1,3 @@
-<thinking>...
-The purpose of this form is to collect relevant information about the patient's dietary habits and medical history to help medical professionals assess their nutritional needs and potential health risks.
-To ensure accurate and relevant data, the form should only be filled out by authorized personnel. To avoid duplication of effort, please ensure that this form is not filled out multiple times for the same patient.
-</thinking>
-
 # dietary_assessment_form_template - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's dietary habits and medical history to aid medical professionals in assessing their nutritional needs and potential health risks.

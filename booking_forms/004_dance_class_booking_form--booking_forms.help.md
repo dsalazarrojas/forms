@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll analyze the form's purpose and ensure it's not a duplicate. This "Dance Class Booking Form" seems to be a booking form for students to register for dance classes with specific details such as class time, instructor, student information, and additional preferences. I'll create a clear and concise user-facing help guide that explains each field's purpose and requirements.</thinking>
-
 # Dance Class Booking Form - Help Guide
 ## Purpose
 This form is for booking and registration for dance classes. Please fill out the form to provide your details for class attendance.

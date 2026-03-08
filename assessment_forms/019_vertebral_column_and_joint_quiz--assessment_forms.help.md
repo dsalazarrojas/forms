@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vertebral Column And Joint Quiz - Help Guide
 ## Purpose
 The Vertebral Column and Joint Quiz is a form designed to assess your knowledge of the vertebral column and its various joints. It is intended to help you identify the function, primary role, and movement capabilities of each vertebra and joint in the cervical spine.

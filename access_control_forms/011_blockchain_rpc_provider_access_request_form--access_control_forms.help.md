@@ -1,17 +1,3 @@
-<thinking>
-This form is used to request access to the blockchain RPC services for a specific organization. The purpose of this form is to gather information about the organization and their expected use of the services. This information will be used to assess the request and ensure that the organization meets the necessary criteria for access.
-
-Before completing this form, please ensure that you have read and understood the terms of service and privacy policy. This form is intended for organizations that want to access the blockchain RPC services for their own legitimate purposes. If you are not an organization, please do not complete this form.
-
-To complete this form, please follow the instructions below.
-
-The form consists of several sections, each with its own set of questions. Please fill out the required fields accurately and thoroughly. If you are unsure about any of the questions, please reach out to the technical contact for clarification.
-
-This form is used to request access to the blockchain RPC services for a specific organization. The purpose of this form is to gather information about the organization and their expected use of the services. This information will be used to assess the request and ensure that the organization meets the necessary criteria for access.
-
-Please note that this form is for organizations only. If you are an individual, please do not complete this form.
-
-</thinking>
 # Blockchain RPC Provider Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to the blockchain RPC services for a specific organization. The purpose of this form is to gather information about the organization and their expected use of the services. This information will be used to assess the request and ensure that the organization meets the necessary criteria for access.

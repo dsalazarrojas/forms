@@ -1,7 +1,3 @@
-<thinking>
-This form is used for administrative purposes to track and manage maintenance requests within the organization. It captures essential information from the submitter about the issue, including the date and time it occurred, the specific issue or problem, and details about the request. The form also includes fields for selecting the priority and category of the request, which helps in organizing and scheduling maintenance tasks. The form is designed to be completed by staff members or authorized personnel who need to report or check in on maintenance requests. The submitted information will be reviewed and assigned to the appropriate team or individual for further action.
-</thinking>
-
 # Maintenance Request Check In Form - Help Guide
 ## Purpose
 The Maintenance Request Check In Form is used to report maintenance requests for tracking and management within the organization.

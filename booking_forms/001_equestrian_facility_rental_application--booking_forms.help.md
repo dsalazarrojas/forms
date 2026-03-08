@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients or customers who wish to rent the equestrian facility. The form should only be completed by those who have a genuine interest in renting the facility and are not simply testing the system or duplicating an existing request.
-
-Before filling out the form, please ensure that you have a legitimate reason for renting the facility and that you are not attempting to rent the facility for an unauthorized purpose.
-
-Please fill out the form carefully, as incomplete or inaccurate information may lead to delays in the rental process.
-
-</thinking>
-
 # Equestrian Facility Rental Application - Help Guide
 ## Purpose
 The Equestrian Facility Rental Application form is designed to collect essential information from potential clients or customers who wish to rent the equestrian facility. This form helps us understand your rental requirements, verify your contact information, and ensure a smooth rental process.

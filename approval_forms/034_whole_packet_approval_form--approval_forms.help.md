@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Whole Packet Approval Form - Help Guide
 ## Purpose
 This form is used for whole packet approval. It is used to collect information from team members who will review a packet. This form is typically used for internal approval purposes, but it's not clear if it's being used for duplicate submissions. Please ensure that you are not duplicating efforts and that your submission is relevant to your team's approval process.

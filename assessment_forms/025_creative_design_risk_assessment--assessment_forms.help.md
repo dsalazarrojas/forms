@@ -1,9 +1,3 @@
-<thinking>
-To create a form that accurately assesses the risk associated with creative design projects, we need to gather information about the project details, design team composition, risk factors, and risk scores. This form is intended for projects that require careful consideration of potential risks that can impact the project's success. It is crucial to understand the purpose of this form in order to effectively complete it.
-The form should only be completed by authorized personnel who are familiar with the project details. The form should not be used for projects that are not creative in nature or do not require risk assessment.
-Before starting, please ensure that you have the necessary information and permissions to complete the form accurately.
-</thinking>
-
 # Creative Design Risk Assessment - Help Guide
 ## Purpose
 The Creative Design Risk Assessment form is used to identify and assess potential risks associated with creative design projects. It gathers information about project details, design team composition, and risk factors to help project managers and team leaders make informed decisions.

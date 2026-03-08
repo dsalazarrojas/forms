@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to collect information about records inventory, specifically contact details and inventory comments. This form is not meant to be a comprehensive inventory management system, but rather a simple tool to gather essential information for tracking and maintaining records. The form fields are designed to be easy to understand and fill out, ensuring that users can quickly and accurately provide the necessary details. To ensure consistency and accuracy, it is essential to review the form fields carefully and complete them as instructed.
-
-</thinking>
-
 # Records Inventory Form - Help Guide
 ## Purpose
 The Records Inventory Form is a simple tool used to collect information about records inventory, including contact details and inventory comments.

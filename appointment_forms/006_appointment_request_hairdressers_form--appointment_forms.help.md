@@ -1,17 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Appointment Request Hairdressers Form", we need to break down the form into its various components and explain each field in a clear and concise manner. 
-
-Here's a brief internal reasoning block to clarify the purpose and relevance of this form:
-
-The "Appointment Request Hairdressers Form" is a digital form designed to collect essential details from clients prior to their visit to a hair salon. The form aims to streamline the appointment process, reducing the likelihood of missed or incorrect information, and allowing the hairstylist to prepare adequately for the appointment. 
-
-By filling out this form, clients can provide their personal details, such as name, phone number, and email address, which the salon can use to communicate with them effectively. The form also helps to specify the desired date and time of the appointment, the type of service required, and any specific concerns or goals the client may have with their hair. 
-
-This form reduces the need for clients to verbally communicate these details to the hairstylist during their initial consultation, making the appointment process more efficient. It also allows the hairstylist to review and prepare accordingly before the client's arrival, ensuring a more personalized and productive experience.
-
-</thinking>
-
 # Appointment Request Hairdressers Form - Help Guide
 
 ## Purpose

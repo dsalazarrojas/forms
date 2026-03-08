@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for loan write-off authorizations. This form is used to provide necessary details for loan write-offs, such as loan amounts, terms, and account numbers.
-
-When completing this form, please ensure that you have the necessary information and authority to proceed. This form should not be submitted in duplicate.
-
-Before proceeding, please review the following fields to ensure that you are submitting accurate and complete information.
-
-</thinking>
-
 # Loan Write Off Authorization Application Form - Help Guide
 ## Purpose
 This form is used to provide necessary details for loan write-offs, such as loan amounts, terms, and account numbers.

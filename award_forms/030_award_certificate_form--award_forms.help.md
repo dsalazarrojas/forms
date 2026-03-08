@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Award Certificate Form - Help Guide
 ## Purpose
 This form is designed to create a personalized award certificate for a recipient, allowing you to recognize and celebrate their achievements and milestones. It gathers essential information to create a customized certificate that can be delivered digitally or printed and mailed physically.

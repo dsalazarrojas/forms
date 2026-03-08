@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect essential information from parents or guardians about their child's basic profile, emergency contact information, medical history, and dietary needs. This form aims to ensure that the camp staff has accurate and up-to-date information about each camper's status, allowing for better care and safety during their stay.
-</thinking>
-
 # Camp Admission Checklist - Help Guide
 ## Purpose
 The Camp Admission Checklist is a mandatory form for parents or guardians to provide essential information about their child's profile, emergency contacts, medical history, and dietary needs. This form helps the camp staff to better understand each camper's situation and provide a safe and enjoyable experience for all.

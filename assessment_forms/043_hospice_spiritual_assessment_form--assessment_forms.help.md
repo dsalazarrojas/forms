@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hospice_spiritual_assessment_form - Help Guide
 
 ## Purpose

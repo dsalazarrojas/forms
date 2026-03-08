@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a conference poster presentation proposal. The presenter will be submitting their details and abstract to be considered for a spot in the conference. The fields are categorized into several sections: information about the presenter, the poster title and abstract, and additional information such as keywords, preferred session track, and accessibility requirements. To ensure that the form is filled out correctly, the presenter should be clear and concise in their responses. The form requires certain fields to be filled out, such as the presenter's name, email, institution, and poster title, to ensure that the conference staff can verify their identity and the accuracy of their proposal. This is a one-time submission, and the presenter is agreeing to display their poster if it is accepted.
-
-</thinking>
-
 # Conference Poster Presentation Proposal - Help Guide
 ## Purpose
 The Conference Poster Presentation Proposal form is designed to gather information for conference presenters to submit their proposals and showcase their work.

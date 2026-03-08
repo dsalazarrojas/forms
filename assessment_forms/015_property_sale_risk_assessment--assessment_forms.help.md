@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to collect risk assessment data for a property sale, which is a crucial process in real estate transactions. It ensures that potential buyers or sellers are aware of any potential risks associated with the property, such as legal issues, structural concerns, or safety hazards. By accurately completing this form, you will be able to identify and document these risks, which can help buyers make informed decisions and sellers be prepared to address any potential concerns.
-
-Please note that this form is not designed to be used for any other purpose, such as general property information or listing purposes. If you are not involved in a property sale, you should not complete this form.
-
-Before starting, ensure you have all the necessary information and permissions to complete this form. If you are unsure about any of the fields, please contact your supervisor or relevant authorities for guidance.
-
-The form is divided into several sections, each focusing on a specific aspect of the property sale risk assessment. You will need to complete all the fields as accurately and thoroughly as possible.
-
-Please review this help guide carefully before completing the form, and don't hesitate to ask if you have any questions or need clarification on any of the fields.
-</thinking>
-
 # Property Sale Risk Assessment - Help Guide
 
 ## Purpose

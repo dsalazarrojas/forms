@@ -1,6 +1,3 @@
-<thinking>
-This form is used to log the details of a truck's hour meter reading, which is a measure of the total operating hours of a vehicle's engine. This form helps in tracking the driver, vehicle, and other relevant details for the hour meter reading. To ensure accuracy, please make sure to enter the correct details for each field. Please note that this form does not log the actual hours worked or the date of the activity; it only logs the hour meter reading details.</thinking>
-
 # Truck_Hour_Meter_Log - Help Guide
 ## Purpose
 The Truck_Hour_Meter_Log form is used to record the details of a truck's hour meter reading, including driver, vehicle, and other relevant information.

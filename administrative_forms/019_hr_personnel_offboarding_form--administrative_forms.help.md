@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've analyzed the provided YAML fields to create a user-facing help guide for the "hr_personnel_offboarding_form". This guide aims to help end-users understand the form's purpose, complete it accurately, and get the most value out of it.
-
-The internal reasoning block: 
-
-This form is designed for administrative purposes, specifically for human resources or HR departments, to collect information from employees about their departure from the company. The form is a crucial tool for maintaining accurate records and facilitating a smooth transition for outgoing employees.
-
-</thinking>
-
 # hr_personnel_offboarding_form - Help Guide
 ## Purpose
 

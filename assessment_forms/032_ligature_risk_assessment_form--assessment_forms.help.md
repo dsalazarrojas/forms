@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the risk level and other relevant details of a ligature, which is a type of surgical suture or thread used in medical procedures. The form is intended to gather information about the patient's characteristics, the type of ligature used, and the risk associated with it. This form should not be filled out if the patient's ligature information is already documented in their medical records. Please make sure to fill out this form only when there is a need to update or add new information to the patient's medical records.
-</thinking>
-
 # Ligature Risk Assessment Form - Help Guide
 ## Purpose
 The Ligature Risk Assessment Form is designed to collect data on the risk level and other relevant details of a ligature used in medical procedures. This form helps to assess the risks associated with a ligature and ensure that patients receive proper care and follow-up.

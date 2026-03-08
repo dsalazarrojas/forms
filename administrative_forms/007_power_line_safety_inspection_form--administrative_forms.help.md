@@ -1,7 +1,3 @@
-<thinking>
-The Power Line Safety Inspection Form is designed to ensure that electrical lines and transmission stations are safe and free from hazards. This form should only be filled out by authorized personnel after an inspection has been completed. Please note that this form is not intended for general use, and its completion is only relevant for specific instances of power line inspections. The form is designed to gather information about the date of the inspection, the name of the employee conducting the inspection, the location of the inspection, and other critical details such as hazards found and actions taken. Ensure that the form is filled out thoroughly and accurately to ensure that all hazards are addressed and that necessary actions are taken to prevent future occurrences.
-</thinking>
-
 # Power Line Safety Inspection Form - Help Guide
 ## Purpose
 The Power Line Safety Inspection Form is designed to gather information about power line safety inspections.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to intake information for grievances that union members may have against the union leadership, other employees, or the union itself. This form helps to ensure that grievances are documented and addressed in a timely and fair manner. Please note that only union members can submit grievances through this form, and the information provided will be reviewed and addressed by union officials. Before submitting, ensure that you have not already submitted a similar grievance or that the grievance is not being addressed through an existing channel.
-
-</thinking>
-
 # Union Grievance Intake Form - Help Guide
 ## Purpose
 The Union Grievance Intake Form is used to document and address grievances that union members may have against the union, its leadership, or other employees. This form is intended for union members to submit their concerns or complaints, and the information will be reviewed and addressed by union officials.

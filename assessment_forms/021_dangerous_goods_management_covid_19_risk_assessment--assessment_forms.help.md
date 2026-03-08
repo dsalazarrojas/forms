@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the risks associated with the management of dangerous goods during the COVID-19 pandemic. The form is designed to collect information about the arrival of hazardous materials, their description, weight, and other relevant details. This form is intended for use by authorized personnel to ensure the safe handling and management of dangerous goods in compliance with regulatory requirements. The form should not be used for any other purpose without proper approval from relevant authorities.
-</thinking>
-
 # Dangerous Goods Management COVID-19 Risk Assessment - Help Guide
 ## Purpose
 This form is used to collect information about the arrival of hazardous materials, their description, weight, and other relevant details to assess the risks associated with their management during the COVID-19 pandemic.

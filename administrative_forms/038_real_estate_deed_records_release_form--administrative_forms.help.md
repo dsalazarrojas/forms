@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about real estate deeds, which are documents that verify ownership or possession of a property. The form is used in administrative contexts to release such deeds, which might happen for various reasons such as updating records, resolving title disputes, or fulfilling regulatory requirements. To avoid duplicate submissions, please review the form carefully and ensure you're filling it out for the correct purpose. Make sure to fill out the form completely and accurately before submitting it.
-</thinking>
-
 # Real Estate Deed Records Release Form - Help Guide
 ## Purpose
 This form is used to release real estate deeds, which are documents that verify ownership or possession of a property. It is used in administrative contexts for various purposes such as updating records, resolving title disputes, or fulfilling regulatory requirements.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help individuals assess their career in the pharmaceutical industry. It collects information about their education, skills, experience, career interests, and personal background. The form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public survey topic metadata. This form can be used by anyone interested in exploring their career prospects in the pharmaceutical industry.
-
-</thinking>
-
 # Pharmaceutical Career Assessment - Help Guide
 ## Purpose
 This form is designed to help you assess your career in the pharmaceutical industry. It will guide you through various sections to gather information about your education, skills, experience, career interests, and personal background.

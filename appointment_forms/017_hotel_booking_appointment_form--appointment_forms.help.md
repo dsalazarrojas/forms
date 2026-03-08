@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book a hotel room. The purpose of this form is to collect information from users about their personal details, contact information, and travel preferences. To avoid duplication, this form should only be used for booking hotel rooms and not for other purposes.
-</thinking>
-
 # Hotel Booking Appointment Form - Help Guide
 ## Purpose
 This form is used to book a hotel room. The form collects information about the user, their contact details, and their travel preferences to confirm their booking.

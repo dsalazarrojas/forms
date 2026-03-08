@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to support the fundraising efforts of a church by allowing donors to make easy and secure online donations. This form ensures that donors can contribute to the church in a way that is convenient and transparent. To ensure that the form's purpose is not duplicated, it is suggested that users only use this form for one-time donations or recurring contributions. 
-</thinking>
-
 # BlueSnap Church Donation Form - Help Guide
 ## Purpose
 The BlueSnap Church Donation Form is a tool for making secure and easy online donations to the church. This form allows donors to support the church's various initiatives and programs by specifying their donation amount, type, and frequency. 

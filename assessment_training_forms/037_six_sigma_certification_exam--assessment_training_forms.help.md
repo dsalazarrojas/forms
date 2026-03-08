@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the Six Sigma Certification Exam. This form is used to assess the readiness and certification status of candidates for the Six Sigma certification program. It is likely used by training providers or assessment administrators to verify the details of candidates, including their name, email, phone number, readiness score, certification status, and other relevant information.
-To avoid duplication, this form should not be used for candidates who have already been certified or have completed the certification process.
-</thinking>
-
 # Six Sigma Certification Exam - Help Guide
 ## Purpose
 This form is used to collect information for the Six Sigma Certification Exam.

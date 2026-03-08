@@ -1,7 +1,3 @@
-<thinking>
-The Elderly Care Assessment Form is used to collect and record information about an elderly individual's medical history, medical conditions, contact information, and other relevant factors that can impact their care and treatment. This information will help healthcare professionals and caregivers tailor their approach to better serve the individual's needs.
-</thinking>
- 
 # Elderly Care Assessment Form - Help Guide
  
 ## Purpose

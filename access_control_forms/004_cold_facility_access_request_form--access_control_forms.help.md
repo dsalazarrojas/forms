@@ -1,5 +1,3 @@
-<thinking>As a security-sensitive application, this Cold Facility Access Request Form is designed to ensure that employees and visitors can safely access specific cold facilities within an organization. This form should only be used for legitimate and authorized purposes, avoiding duplicate requests and ensuring that access is granted with adequate supervision and adherence to safety protocols. By following this guide, you'll be able to fill out the form accurately and efficiently, providing the necessary information for access approval. Please note that some fields are required for access approval, and others are optional for additional context.</thinking>
-
 # Cold Facility Access Request Form - Help Guide
 ## Purpose
 The Cold Facility Access Request Form is used to request access to cold facilities, such as storage warehouses, laboratories, or other climate-controlled areas. It gathers essential information for security, safety, and access approval purposes.

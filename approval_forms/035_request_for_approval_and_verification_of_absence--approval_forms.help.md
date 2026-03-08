@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request and verify an employee's absence from work, providing a structured way to communicate approval or denial of the request, specify dates and times, and provide a reason for the absence. To ensure accuracy, the form should only be filled out once per absence event, and users should be encouraged to use it for each separate absence request.
-
-</thinking>
-
 # Request For Approval And Verification Of Absence - Help Guide
 ## Purpose
 The purpose of this form is to provide a standardized process for requesting and verifying an employee's absence from work. This form allows you to easily communicate approval or denial of the request, specify the dates and times of the absence, and provide a reason for the absence.

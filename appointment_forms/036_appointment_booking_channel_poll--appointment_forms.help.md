@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers about their preferences and needs for booking appointments. It will help us understand how customers prefer to book appointments, which channel they use, and what features would improve their experience. This will aid in creating an effective and user-friendly appointment booking system. 
-
-Please ensure that you are completing this form only once, as repetition can lead to duplicate data and inaccurate results.
-
-</thinking>
-
 # Appointment Booking Channel Poll - Help Guide
 ## Purpose
 This form is used to gather information about your preferences and needs for booking appointments. The information collected will help us create a more effective and user-friendly appointment booking system.

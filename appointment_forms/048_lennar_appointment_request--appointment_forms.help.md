@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lennar Appointment Request - Help Guide
 ## Purpose
 The Lennar Appointment Request form is designed to collect information from users to schedule appointments for various categories of professionals (Dentist, Physician, Nurse) or for a custom "Other" category. This form gathers details such as date of birth, email, phone number, appointment date, time, duration, notes, and category selection to facilitate efficient scheduling and appointment management.

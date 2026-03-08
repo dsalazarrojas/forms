@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for registering athletes for a national sports combine event, where athletes can provide their contact information, emergency contact details, and demographic information such as sport participated in and date of birth. The purpose of this form is to collect necessary information from athletes to facilitate the registration process and ensure their participation in the event.
-</thinking>
-
 # national_sports_combine_registration - Help Guide
 ## Purpose
 This form is used to register athletes for a national sports combine event. It collects contact information, emergency contact details, and demographic information from athletes to facilitate their participation in the event.

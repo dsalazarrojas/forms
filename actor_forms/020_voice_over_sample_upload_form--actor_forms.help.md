@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information from voice over talent for sample uploads. This form is meant to be used as a template, and users can modify it as per their needs.
-
-To ensure that the form is filled out correctly, please note the following:
-
-* The form is divided into multiple pages, each with its own fields.
-* Each page has a submit button at the end, which will save the current page's data.
-* You can go back and forth between pages using the navigation buttons.
-* Some fields are required, denoted by an asterisk (\*) in the field label. These fields are necessary to ensure that the form is filled out correctly.
-* Fields with a "Select One" type are dropdown menus where you can choose one option from the list.
-* Fields with an "email" type are email addresses, and should be entered in the format "example@example.com".
-* Fields with a "text" type are free text fields where you can enter any text.
-
-Please note that the form has multiple pages, and each page's purpose is to collect specific information from the voice over talent. The first page is the main submission page, and subsequent pages are additional details and submission pages.
-</thinking>
-
 # Voice Over Sample Upload Form - Help Guide
 
 ## Purpose

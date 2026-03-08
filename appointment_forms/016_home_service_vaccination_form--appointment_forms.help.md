@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture the medical history and vaccination details of a patient, allowing healthcare professionals to provide personalized and accurate care. The form is typically used for home service vaccinations, which require careful consideration of the patient's medical history, vaccination type, and dosage instructions. This guide will walk you through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-Before proceeding, please ensure that you have all the necessary information and medical expertise to complete this form accurately. Completing this form requires a good understanding of the patient's medical history, vaccination types, and dosage instructions.
-
-To complete this form, start by gathering all relevant medical information about the patient, including past medical history, vaccination details, and dosage instructions. Then, review each field carefully and fill it out according to your understanding of the patient's needs.
-
-This form is designed to be filled out by a healthcare professional, such as a doctor or nurse practitioner, and is typically used for patients who receive medical services at home.
-</thinking>
-
 # Home Service Vaccination Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from workers regarding their attendance data. It is used by management to record and track attendance data for workers, which is crucial for various organizational purposes such as attendance tracking, performance evaluation, and compliance with labor regulations. It is essential to complete this form accurately to ensure that attendance data is reliable and up-to-date. Please note that this form should not be submitted multiple times for the same day or date range, as it may result in duplicate or inconsistent data.
-
-</thinking>
-
 # Worker Attendance Data Request Form - Help Guide
 ## Purpose
 This form is designed to collect worker attendance data for various organizational purposes such as attendance tracking, performance evaluation, and compliance with labor regulations.

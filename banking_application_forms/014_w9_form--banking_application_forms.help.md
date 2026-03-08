@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a W9 Form, which is used for reporting certain types of payments to the US Internal Revenue Service (IRS) to report payments made to non-employees or independent contractors. The form is likely being used in a banking context to report payments made to customers, such as interest paid on accounts or other types of payments. The form's purpose is to gather information about the customer, including their name, address, and payment details. The form seems to be designed for a specific use case within the banking industry, and the fields appear to be focused on collecting payment-related information.
-
-Before proceeding, it's essential to review the form's fields and ensure they are accurate and complete. The required fields and their corresponding labels will guide users in providing the necessary information. This guide will cover each field's label, its meaning, and any specific instructions or requirements related to it.
-
-Please note that this form's requirements and fields may vary based on the specific context, industry, or jurisdiction. Ensure that the fields are relevant and accurate for your use case.
-</thinking>
-
 # W9 Form - Help Guide
 ## Purpose
 This form is used to report certain types of payments to the US Internal Revenue Service (IRS) to report payments made to non-employees or independent contractors. It is used in a banking context to report payments made to customers, such as interest paid on accounts or other types of payments.

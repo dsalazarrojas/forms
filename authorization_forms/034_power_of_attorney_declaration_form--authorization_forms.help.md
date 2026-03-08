@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for the purpose of declaring and confirming the appointment of an agent to act on behalf of an individual or entity, as per the laws and regulations of the jurisdiction. This form is used to establish the authority and powers granted to the agent, which may include banking, investments, business, legal, taxes, real estate, or other purposes. It is crucial to ensure that the information provided is accurate and complete, as the form serves as a legal document that will be notarized and used to authenticate the appointment of the agent.
-
-Before proceeding, please ensure that you have reviewed and understood the form's purpose and the information required to be filled out accurately. Additionally, ensure that you are not duplicating any existing Power of Attorney declarations, as this will lead to confusion and invalidation of the form.
-
-Please note that the notary's name will be listed in the notarized field and should match one of the provided options.
-
-Please fill out the form carefully, taking into account the following steps.
-
-</thinking>
-
 # Power Of Attorney Declaration Form - Help Guide
 ## Purpose
 The Power of Attorney Declaration Form is a document used to establish the authority and powers granted to an agent to act on behalf of an individual or entity.

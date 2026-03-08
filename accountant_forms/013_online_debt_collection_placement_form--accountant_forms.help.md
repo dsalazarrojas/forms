@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect contact information and debt details from users, as well as their preferred payment terms. The form is structured into two main sections: "Contact Information" and "Debt Details." The "Contact Person" field is a dropdown menu with three options, while the "Payment Terms" field is a multiple-choice dropdown menu with three options. The form does not have any duplicate fields, and the "Contact Person" field is required, indicating that users must select one of the three options. The "Payment Terms" field is also required, allowing users to select multiple options. The form appears to be a straightforward and efficient way to collect basic contact and debt information, along with payment terms.</thinking>
-
 # online_debt_collection_placement_form - Help Guide
 ## Purpose
 This form is designed to collect contact information and debt details from users, as well as their preferred payment terms.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for booking team practice sessions. The purpose of this form is to gather information from team members about their practice session preferences, including date, time, location, and other relevant details. To ensure accurate and consistent data collection, please fill out this form carefully and thoroughly. Before completing the form, please review the field explanations below to ensure you understand each section's purpose and requirements.
-
-This form is not intended to be a one-time use form. It is a reusable form, which means that multiple teams can use it to book multiple practice sessions.
-
-Please note that the form fields may be subject to change based on your team's specific needs and requirements.
-
-</thinking>
-
 # team_practice_session_booking_form - Help Guide
 ## Purpose
 The team practice session booking form is designed for teams to book and manage their practice sessions. This form helps the team and coaches to gather important information about the practice session, such as date, time, location, and other relevant details.

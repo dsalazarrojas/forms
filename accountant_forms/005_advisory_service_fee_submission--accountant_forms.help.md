@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advisory Service Fee Submission - Help Guide
 ## Purpose
 The Advisory Service Fee Submission form is used to record and submit advisory service fees for clients. This form captures essential details about the client, advisor, and services provided, allowing for accurate invoicing and payment processing.

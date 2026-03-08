@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Church Attendance Registration C 19" form, we'll follow these steps:
 
 1. Identify the form's purpose: The form appears to be for registering attendees for a church service, likely for contact tracing and health screening purposes.

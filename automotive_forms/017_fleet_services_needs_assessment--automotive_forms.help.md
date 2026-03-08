@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for fleet services needs assessment. It gathers data on vehicle ownership, usage, maintenance, fuel consumption, location, driver, insurance, mileage, make, model, year, type, notes, contact information, company details, job title, department, manager, fleet type, size, location, frequency, status, submission date, and submission time. This form is used to understand the needs and requirements of various fleets to provide tailored services.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to provide accurate data. This form is not meant for personal or test data, but for actual fleet services needs assessment. If you are unsure about any of the fields, please refer to the provided explanations below or contact your supervisor for clarification.
-
-</thinking>
-
 # Fleet Services Needs Assessment - Help Guide
 ## Purpose
 This form is designed to collect information for fleet services needs assessment.

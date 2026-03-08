@@ -1,14 +1,3 @@
-<thinking>
-We should provide a clear and concise help guide for the External Worker Training Assessment form to ensure that end users understand its purpose, how to complete it, and each field's intended use. This guide will cover the form's purpose, completion instructions, and a field-by-field explanation of each section.
-
-To determine the form's purpose, we should consider the context and the fields presented. The form appears to be designed for collecting information about external workers' training status, including their name, contact information, training hours, and categories. It may be used for tracking, reporting, or other administrative purposes.
-
-Before proceeding with the help guide, we should verify that the form is not intended for any other purpose or context that may affect the explanation.
-
-Assuming the form is designed for its apparent purpose, let's proceed with creating the help guide.
-
-</thinking>
-
 # External Worker Training Assessment - Help Guide
 ## Purpose
 The External Worker Training Assessment form is designed to collect information about external workers' training status, including their name, contact information, training hours, and categories.

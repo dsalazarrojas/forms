@@ -1,7 +1,3 @@
-<thinking>
-This form is used to declare that a vehicle is not being operated on public roads due to various reasons such as mechanical issues, storage, financial reasons, or other reasons. The affiant is required to provide detailed information about the vehicle, including its year, make, model, VIN, license plate number, and current status of its registration and insurance. Additionally, the affiant must declare that the vehicle has not been operated on public roads during the specified period and that no claims have been made regarding this vehicle during the non-operation period. The affiant must also declare their intent to resume operation of the vehicle when the non-operation period ends. This form is typically used for insurance or government purposes and requires the affiant's signature and date of signature.
-</thinking>
-
 # Affidavit Of Non Operation - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings on fruit juice quality from end-users. The purpose of this form is to gather information about different aspects of fruit juice, such as its color, aroma, appearance, taste, texture, mouthfeel, juiciness, color intensity, and clarity. The form will help users provide a comprehensive evaluation of the fruit juice, which can be useful for manufacturers, suppliers, or anyone interested in improving fruit juice quality.
-The form is not meant to be a replacement for a comprehensive quality control process, but rather a supporting tool to gather feedback and ratings.
-Please note that the form's design and fields are based on publicly available information and may not be exhaustive or cover all the nuances of the topic.
-</thinking>
-
 # Fruit Juice Quality Assessment - Help Guide
 
 ## Purpose

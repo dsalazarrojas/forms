@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is a simple daily task checklist form designed to help users keep track of their daily tasks and activities. The form is divided into two main parts: a list of tasks with checkboxes and a set of additional information such as start and end times, date, and notes. The form is meant to be completed daily to provide a quick and easy way to report on progress and stay organized.
-
-</thinking>
-
 # Daily Task Checklist Form - Help Guide
 ## Purpose
 The Daily Task Checklist Form is a tool used to report on daily tasks and activities. It is meant to be completed daily to help users keep track of their progress and stay organized.

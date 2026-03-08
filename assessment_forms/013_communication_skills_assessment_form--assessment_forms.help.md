@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to assess the communication skills of an individual, providing a structured and consistent way to evaluate verbal and non-verbal communication clarity, listening skills, and overall effectiveness. This form is designed to help assessors provide clear and actionable feedback to individuals being assessed, enabling them to grow and improve their communication skills. This form is used by assessors to evaluate participants' verbal and non-verbal communication skills in a variety of settings, including professional or academic contexts. This form should only be used to assess individuals who are familiar with the person being assessed and have a good understanding of their typical behavior and skills. Please ensure that the form is used appropriately and not for evaluation purposes other than intended...</thinking>
-
 # Communication Skills Assessment - Help Guide
 ## Purpose
 The Communication Skills Assessment form is used to evaluate an individual's verbal and non-verbal communication skills, providing a consistent and structured way to assess their overall communication effectiveness.

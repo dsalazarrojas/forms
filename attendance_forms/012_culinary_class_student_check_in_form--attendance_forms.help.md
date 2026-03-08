@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Culinary Class Student Check In Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>... internal reasoning block to check relevance and non-duplication ...
-
-The purpose of this form is to collect information for vehicle deactivation. This form will help users to provide necessary details about the vehicle that needs to be deactivated, such as its info, deactivation reasons, and other relevant details.
-
-This form is intended to be used by authorized personnel within the organization to manage vehicle deactivation. The form is designed to be completed in a specific order and requires certain fields to be filled out to ensure accurate and complete information collection.
-
-The form is likely to be used in an internal business context, where the completion of this form will result in an internal decision or action related to vehicle management.
-
-</thinking>
 # vehicle_deactivation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for vehicle deactivation.

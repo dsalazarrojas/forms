@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for Quality Control Inspections, likely used in manufacturing, warehouse, or inventory management settings. Its purpose is to document the status, condition, and results of an inspection. This guide ensures that you, as the user, understand how to complete this form efficiently. Before proceeding, please take a moment to review each field's purpose to ensure accuracy.
-</thinking>
-
 # Quality Control Inspection Form - Help Guide
 ## Purpose
 This form is used for quality control inspections, gathering information about the items being inspected. Complete this form to record the inspection's details, results, and any necessary corrective actions.

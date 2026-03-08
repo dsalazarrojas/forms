@@ -1,7 +1,3 @@
-<thinking>
-To ensure that your form submission is correctly understood and processed, please be aware that this form is intended to gather information for a digital marketing consultation. The consultation will be based on the details you provide, so please fill in as much accurate information as possible. This form will be reviewed by a consultant who will use the information to provide you with tailored advice and guidance. To avoid duplication, please do not resubmit your form if you have already submitted one previously.
-</thinking>
-
 # Book Your Digital Marketing Consultation - Help Guide
 ## Purpose
 This form is designed to help us understand your business needs and preferences for a digital marketing consultation. Please fill in your information accurately to ensure that we can provide you with the best possible guidance.

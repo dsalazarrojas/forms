@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the progress of an individual's foundation skills assessment. It captures information about the user's input, assessment date, user ID, email, phone number, assessment result, and any additional notes. This form is designed to be completed by users who are undergoing foundation skills training or assessment. It ensures that the trainer/assessor can monitor the user's progress and update the assessment result accordingly. Before proceeding, please ensure that you have the necessary permissions to access this form.
-</thinking>
-
 # Foundation Skills Assessment - Help Guide
 ## Purpose
 This form is used to capture information about an individual's progress in foundation skills assessment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to request the replacement of a street sign, providing necessary information for the replacement process. Please ensure that this form is not submitted for non-relevant purposes or as a duplicate request, as it may cause unnecessary delays or duplication of efforts.
 
 # Street Sign Replacement Order Form - Help Guide

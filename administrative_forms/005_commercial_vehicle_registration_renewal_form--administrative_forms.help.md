@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and efficiently, and that users understand its purpose and how to fill it out. This form is for commercial vehicle registration renewal, which means it's used to update the registration of a commercial vehicle, such as a truck, bus, or other large vehicle used for business or commercial purposes. This form should only be filled out by the owner or representative of the commercial vehicle, and the information provided will be used to update the vehicle's registration status. To avoid duplication, the form should not be filled out if the vehicle is not registered or if the registration is not due for renewal.
-
-This form has multiple fields, and users should fill out each field carefully and accurately. If a field is marked as "required," it is essential to fill it out. If a field is optional, it's up to the user's discretion, but it's still helpful to provide any relevant information if possible. The form has two select fields for the renewal term and payment method, which require careful consideration to select the correct option. The insurance confirmation field is also crucial, as it confirms that the vehicle has active commercial insurance. Finally, the contact email field is essential for renewal confirmation and any follow-up communication.
-</thinking>
-
 # Commercial Vehicle Registration Renewal Form - Help Guide
 ## Purpose
 This form is used to update the registration of a commercial vehicle, ensuring it remains active and compliant with relevant regulations.

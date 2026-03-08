@@ -1,9 +1,3 @@
-<thinking>
-The Workplace Agreement Renewal Form is designed to collect and update essential information related to employee workplace agreements. This form helps ensure that all necessary details are accurately recorded, and agreements are properly renewed or terminated. This process is crucial for maintaining up-to-date records and facilitating smooth transitions within the workplace. Before completing this form, ensure that you have reviewed and updated any necessary information to ensure accuracy and relevance.
-
-Please note that this form is a critical document and should not be duplicated or used for any other purpose than the initial intent of the form.
-</thinking>
-
 # Workplace Agreement Renewal Form - Help Guide
 ## Purpose
 The Workplace Agreement Renewal Form is used to collect and update essential information related to employee workplace agreements. This form helps ensure that all necessary details are accurately recorded and agreements are properly renewed or terminated.

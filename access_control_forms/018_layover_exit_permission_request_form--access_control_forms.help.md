@@ -1,7 +1,3 @@
-<thinking>
-We need to verify that this form is being used for its intended purpose and not being submitted multiple times in a short span. The form is used for passengers to request layover exit permission, which is a critical aspect of airport security and operations. It's essential to ensure that each submission is legitimate and not a duplicate request.
-</thinking>
-
 # Layover Exit Permission Request Form - Help Guide
 ## Purpose
 This form is designed to help passengers request permission to exit the airport during a layover. This form will be reviewed and approved or denied by airport staff, and the passenger will be notified of the outcome.

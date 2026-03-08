@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to be filled out by a representative of a public relations (PR) agency to schedule meetings with potential or existing clients. This form is likely used by the agency to collect information about the meeting details, such as time, date, location, and attendees. The purpose of this form is to streamline the scheduling process and improve communication between the agency and clients. This form appears to be a basic template and does not seem to be designed for any specific industry or niche, so it is likely meant to be a general-purpose form.
-</thinking>
-
 # PR Agency Appointment Form - Help Guide
 ## Purpose
 The PR Agency Appointment Form is used to schedule meetings with clients, including time, date, location, and other relevant details. It is an essential tool for PR agency representatives to efficiently coordinate meetings with potential or existing clients.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to be completed by employees who wish to update their emergency contact information. Please ensure that you only submit this form if you need to make changes to your current emergency contact information. If you've already submitted a previous version of this form, please do not resubmit unless you have updated information.
 # employee_emergency_contact_amendment_form - Help Guide
 ## Purpose

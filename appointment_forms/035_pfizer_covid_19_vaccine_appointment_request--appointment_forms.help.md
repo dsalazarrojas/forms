@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pfizer COVID 19 Vaccine Appointment Request - Help Guide
 ## Purpose
 This form is designed to request an appointment for a Pfizer COVID-19 vaccine. It will help healthcare staff to gather necessary information from patients to schedule an appointment and provide the vaccine.

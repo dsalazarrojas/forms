@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to assess a user's understanding of basic array concepts, including their definition, indexing, operations, and advanced concepts. This form is designed to be a self-assessment tool to help users evaluate their knowledge and identify areas where they need improvement. 
-The form is divided into several sections, each focusing on a specific aspect of arrays. The user will be presented with multiple-choice questions, select-all questions, and open-ended questions that require them to demonstrate their understanding of array basics.
-
-</thinking>
-
 # Array Basics Assessment - Help Guide
 ## Purpose
 

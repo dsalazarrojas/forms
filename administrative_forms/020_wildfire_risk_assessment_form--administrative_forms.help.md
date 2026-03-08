@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to report a wildfire risk assessment. The goal of this form is to gather information about the wildfire risk factors and contact information of the user or local fire department. This form should only be completed if the user is assessing a new wildfire risk area. If the user has already submitted a wildfire risk assessment for the same area, please do not resubmit.
-</thinking>
-
 # wildfire_risk_assessment_form - Help Guide
 ## Purpose
 This form is used for reporting a wildfire risk assessment. It is essential to fill out this form accurately and completely to ensure that the information is useful for wildfire risk management and mitigation.

@@ -1,9 +1,3 @@
-<thinking>
-
-The "Film Production Expense Report Form" is a tool used to document and track expenses related to film production projects. It's intended for individuals to report and track expenses on their projects, ensuring accurate financial reporting and compliance with company policies. This form should not be used for other purposes, such as requesting reimbursement for personal expenses.
-
-</thinking>
-
 # Film Production Expense Report Form - Help Guide
 
 ## Purpose

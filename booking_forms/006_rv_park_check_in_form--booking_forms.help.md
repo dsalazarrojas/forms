@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to capture relevant information from RV park guests for check-in purposes. The purpose of this form is to streamline the check-in process, ensuring that the guest provides accurate and necessary information to the park staff. This form is intended to be completed by RV park guests before arriving at the park.
-The main sections of this form include: 
-- RV park details: This section is optional but helps the park staff understand the guest's RV details, such as size, type, or any special requirements.
-- Guest information: This is a required section that collects essential contact information from the guest, including their name and address.
-- Contact information: This section is also optional but helps the park staff know how to contact the guest in case of emergencies.
-- Arrival and Departure: This section is not required and allows guests to select their preferred arrival and departure times.
-- Check out time: Similar to the arrival and departure section, this is also not required and allows guests to select their preferred check-out time.
-- Payment method: This section is optional and allows guests to select their preferred payment method, such as cash or credit card.
-- Payment details: This is a required section that asks guests to provide more details about their payment method, such as the amount paid or payment due date.
-- Additional information: This section is optional and allows guests to provide any additional details or comments about their stay.
-</thinking>
-
 # rv_park_check_in_form - Help Guide
 ## Purpose
 The RV Park Check-in Form is designed to collect essential information from RV park guests for efficient check-in and management of their stay.

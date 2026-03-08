@@ -1,9 +1,3 @@
-<thinking>
-This form is used to verify the inventory of assets within the organization. It is meant to be completed by the person verifying the asset, and it helps to ensure that the asset's information is accurate and up-to-date. This form is a critical part of asset management, as it helps to prevent losses and mismanagement of assets. To ensure that this form is used correctly, please make sure to only complete it for assets that are currently on-site or in storage, and do not duplicate any existing asset records.
-
-When completing this form, please ensure that you are filling out all required fields and that they are accurate. If you are unsure about any of the fields, please consult with your supervisor or asset manager for clarification.
-</thinking>
-
 # Asset Inventory Verification Form - Help Guide
 ## Purpose
 This form is used to verify the inventory of assets within the organization.

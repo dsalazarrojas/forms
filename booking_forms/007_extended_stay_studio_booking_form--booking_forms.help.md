@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended for a form designed to collect information from users for extended stay bookings at a studio. The form likely aims to gather data on personal details, accommodation preferences, and payment methods. Each field should be explained in a way that makes it easy for users to understand how to complete it correctly. The form appears to be designed for users to book an extended stay at the studio, which involves providing various details such as name, email, room type, check-in and check-out dates, stay duration, arrival and departure times, room number, extra bed, extra bed type, reservation date and time, reservation note, special request, reservation source, payment method, payment terms, card details, and form terms. The goal is to provide clear guidance for users to fill out the form accurately and efficiently.</thinking>
-
 # Extended Stay Studio Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for extended stay bookings at the studio. Please fill out the form with your details and preferences to ensure your booking is processed correctly.

@@ -1,7 +1,3 @@
-<thinking>
-Internal notes: This form is used to collect information for a leadership award nomination. The purpose of this form is to gather details about the nominee, their relationship to the nominator, and their qualifications for the award. This form should only be filled out by those who are nominating someone for the award, not by the nominee themselves. The form should not be filled out if the nominee has already received an award in the past.
-</thinking>
-
 # Community Program Leadership Award Nomination Form - Help Guide
 ## Purpose
 The Community Program Leadership Award Nomination Form is used to collect information for a leadership award nomination. This form helps us understand the qualifications and achievements of the nominee and provide a strong case for their recognition.

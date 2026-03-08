@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is used to nominate a Jewish professional for an award. The purpose of this form is to gather information about the nominee, their organization, and any supporting documents. This form should only be used for genuine nominations, and not for spam or self-nomination.
-To prevent duplication, we should check if a similar nomination already exists before creating a new one.
-</thinking>
-
 # jewish_professional_award_nomination - Help Guide
 ## Purpose
 The Jewish Professional Award Nomination form is used to submit nominations for Jewish professionals who deserve recognition for their outstanding contributions to their field. This form helps to gather essential information about the nominee, their work, and any supporting documents that highlight their achievements.

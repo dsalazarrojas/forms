@@ -1,5 +1,3 @@
-<thinking>This form is used to record amendments to an influencer contract, which is a type of agreement between a brand or business and an individual who has a significant online presence and promotes their products or services. The form is used to document changes made to the contract, such as modifications to terms, conditions, or other aspects of the agreement. This form is an important record-keeping tool to ensure that all parties are aware of any changes made to the contract and to prevent misunderstandings or disputes. To use this form, please ensure that you have the necessary permissions and authorizations to make amendments to the contract. If you are unsure, please consult with the relevant authorities or seek guidance from a supervisor or colleague.</thinking>
-
 # Influencer Contract Amendment Form - Help Guide
 ## Purpose
 The Influencer Contract Amendment Form is used to record changes made to an influencer contract, ensuring that all parties are aware of any modifications to the agreement.

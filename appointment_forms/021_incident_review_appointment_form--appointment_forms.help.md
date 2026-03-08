@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Incident Review Appointment Form - Help Guide
 ## Purpose
 The Incident Review Appointment Form is designed to collect information about an incident that requires further review. This form is used to schedule and record details about the review process, ensuring that all necessary information is captured and communicated effectively.

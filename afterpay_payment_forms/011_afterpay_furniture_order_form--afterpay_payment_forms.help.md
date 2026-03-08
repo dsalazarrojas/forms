@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers about their order for furniture, specifically for payment plans through Afterpay. This form is intended to gather details such as customer contact information, order specifics (e.g., room type, style, category, specific item, and dimensions), and payment method preferences. The fields are designed to ensure accurate delivery and billing information is collected while also considering the customer's needs and preferences for their order.
-
-This form appears to be designed for a furniture store that offers Afterpay as a payment option, and the fields are structured to support this. However, it's essential to ensure that the form is clear and easy to use for customers, as well as to prevent duplication or errors in the information collected.
-
-To prevent duplication, consider implementing a system that checks for existing orders or accounts with the same customer information. This could include validating email addresses, phone numbers, or other unique identifiers to avoid creating duplicate entries.
-
-To ensure clarity, consider providing examples or guidance on how to fill out specific fields, such as formatting phone numbers or email addresses. Additionally, review the label descriptions for accuracy and consider rephrasing if they are unclear or too technical.
-
-</thinking>
-
 # Afterpay Furniture Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their order for furniture, with a focus on payment options through Afterpay.

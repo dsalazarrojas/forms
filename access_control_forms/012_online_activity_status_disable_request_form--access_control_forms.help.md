@@ -1,7 +1,3 @@
-<thinking>
-This form is used by users to request to disable their online activities. The purpose of this form is to gather information about the user's current online status and the specific activities they would like to disable. This form should only be used by users who are requesting to disable their online activities, not by users who are trying to enable them. The form should not be used to duplicate a request to disable online activities that have already been previously approved or denied.
-</thinking>
-
 # Online Activity Status Disable Request Form - Help Guide
 ## Purpose
 The Online Activity Status Disable Request Form is used to request disabling of online activities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vacation Leave Authorization Form - Help Guide
 
 ## Purpose

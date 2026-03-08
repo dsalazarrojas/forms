@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Construction Project Records Release Form", we first need to understand the purpose of the form and how it will be used. This form is designed to collect information from requestors who want to access construction project records. The form will help the requestor provide necessary details, such as their name, company name, project reference, and the types of records they need access to. The purpose of the form is to ensure that the requestor provides the required information to access the records, and the form will guide them through the process.
-
-</thinking>
-
 # Construction Project Records Release Form - Help Guide
 ## Purpose
 This form is used to collect information from requestors who want to access construction project records. By filling out this form, you will be able to provide the necessary details to access the records you need.

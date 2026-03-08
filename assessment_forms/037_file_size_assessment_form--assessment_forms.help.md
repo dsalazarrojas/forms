@@ -1,26 +1,3 @@
-<thinking>
-The file_size_assessment_form is used to assess the size of files that have been uploaded to a system. This form is designed to capture relevant information about the file size, type, and status of uploaded files. It's likely used in the context of data management, storage, or analytics within an organization.
-
-To complete this form, users need to select the type of file, format, and status of the file they're assessing. They're also required to input the file name and description, as well as the date and time it was uploaded. 
-
-The following fields will be required in this form:
-- File Size
-- File Type
-- File Format
-- File Name
-- Description
-- Upload Status
-
-The uploaded_file field is a note field and doesn't have a specific label but it's meant for additional information about the file.
-
-The upload_by field is optional and is meant for the person responsible for the upload.
-
-The upload_date field is optional and is meant for the date when the file was uploaded.
-
-The upload_status field is a required field and its options are: pending, success, and failure.
-
-</thinking>
-
 # file_size_assessment_form - Help Guide
 ## Purpose
 The file_size_assessment_form is used to assess the size of files that have been uploaded to a system.

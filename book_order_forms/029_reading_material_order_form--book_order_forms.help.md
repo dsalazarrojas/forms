@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # reading_material_order_form - Help Guide
 ## Purpose
 The "reading_material_order_form" is used to order reading materials from the store. This form allows customers to provide their personal information, book selection, and order details for a smooth and efficient ordering process.

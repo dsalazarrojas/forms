@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form, "hr_interview_assessment_form", is to collect feedback on an individual's performance and skills during an interview process. This form is likely used by HR departments to assess a candidate's suitability for a role. 
-
-Before proceeding, ensure you have a valid reason to fill this form and that the information provided is accurate and relevant. Please do not duplicate this form for the same purpose or individual, as this may lead to unnecessary repetition and errors in evaluation. 
-
-</thinking>
-
 # hr_interview_assessment_form - Help Guide
 ## Purpose
 The "hr_interview_assessment_form" is designed to collect feedback on an individual's performance and skills during an interview process.

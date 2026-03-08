@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from users to request a security key for a specific purpose, facility, or manager. The form is used to provide a standardized way to document requests for warehouse security keys. It is meant to ensure that all requests follow a consistent process, and the necessary information is collected to make an informed decision. 
-The form will be completed by users who need to access a warehouse security key, and the information collected will be reviewed by an administrator to ensure the request is approved or denied.
-Before completing this form, please ensure you have a legitimate reason for requesting a security key and that you have the necessary approvals or permissions.
-</thinking>
-
 # Warehouse Security Key Request Form - Help Guide
 
 ## Purpose

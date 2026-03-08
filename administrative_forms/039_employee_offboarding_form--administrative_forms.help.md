@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to facilitate the offboarding process of employees leaving the company. The purpose of this form is to collect necessary information from both the employee and their manager to ensure a smooth transition. This form was created based on the standard offboarding process and industry best practices. It is essential to review this form carefully and complete it accurately to avoid any potential issues during the offboarding process.
-
-By completing this form, both the employee and their manager can provide necessary details, confirm agreements, and acknowledge their roles and responsibilities. This form will help maintain clear communication, avoid misunderstandings, and ensure that all necessary steps are taken during the offboarding process.
-
-Before starting, it's a good idea to have the employee's manager present to ensure they are available to answer any questions and provide guidance when needed.
-
-</thinking>
-
 # Employee Offboarding Form - Help Guide
 ## Purpose
 The Employee Offboarding Form is designed to collect necessary information from both employees and their managers to facilitate a smooth offboarding process. This form will help maintain clear communication, avoid misunderstandings, and ensure that all necessary steps are taken during the offboarding process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Commercial Vehicle Inspection Checklist Form - Help Guide
 ## Purpose
 The Commercial Vehicle Inspection Checklist Form is used to document the condition and status of commercial vehicles during regular inspections. This form helps inspectors and drivers keep track of the vehicle's condition and ensures that any issues are reported and addressed in a timely manner.

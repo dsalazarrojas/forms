@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Portal Access Pre Survey - Help Guide
+> # Portal Access Pre Survey - Help Guide
 ## Purpose
 This form is designed to gather information and justification for access to a portal. It helps administrators to evaluate and decide on the access level required for users to access specific portal features or resources.
 

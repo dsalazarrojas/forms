@@ -1,20 +1,3 @@
-<thinking>
-This form is designed for internal use within an organization, likely for administrative purposes, such as requesting access to audit documents. The purpose of this form is to collect information from the user who is requesting access to a specific audit document. This form may be used by various departments, including Compliance, Finance, Operations, and Legal, depending on their needs and requirements. 
-
-This form is likely used by auditors, compliance officers, or other personnel who need to review and analyze audit documents for their work. The requested document's access level may vary depending on the department's requirements, such as viewing only, downloading, or editing the document. The form requires the following fields:
-*   **Requester Name** (Full legal name of the person requesting the document)
-*   **Requester Email** (Work or personal email for correspondence)
-*   **Department** (Compliance, Finance, Operations, Legal, or Other)
-*   **Document Reference or ID** (Audit document ID or filename)
-*   **Purpose of Request** (Brief reason for downloading this document)
-*   **Access Level Needed** (View only, Download, or Edit)
-*   **Requested Date** (Desired date for document delivery)
-
-The form is designed to be used by multiple departments, and the access level needed for the document may vary depending on the department's requirements. 
-
-This form is an internal tool for auditors and other personnel to request access to audit documents for their work. The form is not affiliated with any form platform, and it is an original adaptation of the provided metadata. It can be used, modified, and distributed freely with proper attribution.
-</thinking>
-
 # Audit Document Download Request Form - Help Guide
 ## Purpose
 This form is used to request access to a specific audit document within the organization.

@@ -1,12 +1,3 @@
-<thinking>
-To determine if a form is necessary, the following criteria should be checked:
-- Is the user a resident?
-- Is the resident's access badge expiring or expired?
-- Is the user requesting to renew their badge?
-If the user answers 'yes' to the last two questions, they should proceed with filling out the form. This form should not be used for other purposes such as initial badge applications.
-The resident_access_badge_renewal_consent_form is a form used for renewing access badges for residents. It helps property managers to gather necessary information for the renewal process.
-</thinking>
-
 # resident_access_badge_renewal_consent_form - Help Guide
 ## Purpose
 The resident_access_badge_renewal_consent_form is used for renewing access badges for residents. Before filling out this form, please make sure you meet the necessary criteria to use it.

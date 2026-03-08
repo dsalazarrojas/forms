@@ -1,15 +1,3 @@
-<thinking>
-This form is used for collecting travel information for trips, including trip details, dates, duration, destinations, and other relevant information. The form is likely used for travel planning, management, or reporting purposes. 
-
-This form should not be duplicated or used for other purposes as it is specifically designed for travel information collection. 
-
-Please note that the form has a mix of required and non-required fields, so make sure to fill in all the required fields to ensure the form submission is valid. 
-
-Also, the form has some fields with duplicate names, but with different types (e.g., "trip_date" and "trip_date_1"). This may cause confusion, and it's recommended to use one consistent naming convention to avoid confusion. 
-
-It's also worth noting that some fields, like "travel_method" and "travel_currency", have options that might not be commonly used in travel contexts, so it's possible that their options are placeholders or need to be reviewed.
-</thinking>
-
 # travel-information-form - Help Guide
 ## Purpose
 This form is used for collecting travel information for trips.

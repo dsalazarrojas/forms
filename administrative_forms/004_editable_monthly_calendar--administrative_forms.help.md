@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to create a customizable calendar entry that can be used for various purposes such as scheduling events, meetings, appointments, or tasks. This form is designed to capture essential details like the calendar month, start and end dates, start and end times, duration, whether the event is all-day, half-day, or full-day, notes, the event's organizer, and whether it's a recurring event. This form does not appear to be a redundant or duplicate form as the options provided are diverse and cater to different types of events. The form is primarily aimed at providing a structured way to create and manage event schedules.
-</thinking>
-
 # Editable Monthly Calendar - Help Guide
 
 ## Purpose

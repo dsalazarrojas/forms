@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage Inventory Assessment - Help Guide
 
 ## Purpose

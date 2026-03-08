@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a guide to help users understand the adoption agreement form. The purpose of this form is to collect information from adopters (individuals or families) about their adoption of an animal from an animal shelter. The form is used to ensure that both the adopter and the shelter are on the same page regarding the care and responsibilities of the adopted animal.
 
 The form is used to collect essential information about the adopter, such as their name, contact method, and signature. The form also includes details about the animal being adopted, such as its name and date of adoption.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is used by Production team members to request adjustments to production costs for items. It is intended for internal use only and should not be used for external requests. Before submitting this form, please ensure that you have reviewed the production cost adjustment process and have the necessary information and approvals. Please also check that no similar request has been made recently for the same item, to avoid duplication of effort. 
-</thinking>
-
 # Production Cost Adjustment Request Form - Help Guide
 ## Purpose
 This form is used by Production team members to request adjustments to production costs for specific items. It is intended for internal use only and should not be used for external requests.

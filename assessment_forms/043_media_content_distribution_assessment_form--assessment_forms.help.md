@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the media content distribution channels used, performance, and other factors related to customer satisfaction. This form will help in evaluating the effectiveness of media content distribution and identifying areas for improvement. It is essential to fill out this form carefully and accurately to get a comprehensive evaluation of the media content distribution process.
-
-</thinking>
-
 # Media Content Distribution Assessment Form - Help Guide
 ## Purpose
 The Media Content Distribution Assessment Form is used to evaluate the media content distribution channels, performance, and other factors related to customer satisfaction.

@@ -1,12 +1,4 @@
-# <thinking>
-**Form Purpose:**
-This form is used to record and store agreements between parties, including details such as user names, dates, and contractual terms. It's essential to have accurate and complete information in this form to ensure effective and secure agreements.
-
-**Internal Relevance and Non-Duplication Check:**
-Please ensure that this form is used for its intended purpose and not duplicated or used as a template for other forms. Each section of the form is designed to capture specific information related to indemnity agreements, and altering or omitting fields can lead to incomplete or inaccurate data.
-</thinking>
-
-# Indemnity Agreement Form - Help Guide
+# # Indemnity Agreement Form - Help Guide
 ## Purpose
 The Indemnity Agreement Form is used to record and store agreements between parties, including details such as user names, dates, and contractual terms.
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request approval for the onboarding process of a new vendor. It should only be used for legitimate requests from vendors and not for duplicate or unnecessary purposes. Before filling out the form, please ensure that you have all the necessary information required for the onboarding process. The form is used by our internal team to review and approve vendor requests. 
-</thinking>
-
 # vendor_onboarding_approval_request_form - Help Guide
 ## Purpose
 This form is used to request approval for the onboarding process of a new vendor. It is intended to be completed by the vendor or their representative and submitted to the internal review team for approval.

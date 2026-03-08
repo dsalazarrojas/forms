@@ -1,7 +1,3 @@
-<thinking>
-The form, "photography_mini_session_questionnaire_form", seems to be designed for capturing information from users prior to a photo session with a photographer. It gathers basic contact information, such as name, email, and phone number, as well as preferences for contact method and time. Additionally, it collects specific details about the photo session, like the type of session, session length, and date. The form also includes space for special instructions, photography preferences, and a note section for any specific requests or requirements. This form aims to provide the photographer with necessary information to prepare for the session and ensure a smooth experience for both parties. It is essential to review and ensure the form is not duplicated elsewhere in the system. Upon reviewing the form's design, it appears to be well-rounded and covers the necessary aspects for a successful photo session.
-</thinking>
-
 # photography_mini_session_questionnaire_form - Help Guide
 ## Purpose
 This form is designed to gather essential information from users prior to a photo session with a photographer. It helps the photographer understand the session preferences, contact details, and any specific requirements.

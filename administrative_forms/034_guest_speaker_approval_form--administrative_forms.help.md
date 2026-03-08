@@ -1,9 +1,3 @@
-<thinking>
-
-This form, named "guest_speaker_approval_form", is designed to collect information from individuals who wish to participate as guest speakers in a workshop or event. The form is used to gather essential details such as name, email, phone number, bio, and acceptance of terms. It also collects an optional image of the speaker, which is not explicitly defined in the schema but is assumed to be used for identification or promotional purposes. The form does not enforce a specific structure or formatting for the speaker's bio or image upload.
-
-</thinking>
-
 # guest_speaker_approval_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from guest speakers for a workshop or event.

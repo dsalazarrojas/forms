@@ -1,7 +1,3 @@
-<thinking>
-This form is used for an employee to sign out from work. It's designed to collect information for administrative purposes only. Ensure the form is not completed for any non-administrative reason. Please verify that the form is not duplicated, as it may affect employee records.
-</thinking>
-
 # user_sign_out_form - Help Guide
 
 ## Purpose

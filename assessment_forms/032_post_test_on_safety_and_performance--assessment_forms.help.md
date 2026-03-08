@@ -1,14 +1,3 @@
-<thinking>
-The form "Post Test On Safety And Performance" is a crucial instrument for evaluating an employee's safety awareness and performance during a post-test assessment. This guide will walk users through the purpose and completion process of the form.
-
-Before starting, please note that this form is designed to gather information on the employee's safety knowledge, confidence, and concerns regarding their work environment. It is essential to answer each question honestly and thoroughly to provide a comprehensive assessment.
-
-This form consists of multiple fields, each with specific questions or options. Please read each field carefully and answer accordingly. You can navigate through the form using the "Back" and "Next" buttons, or use "Save Draft" to save your progress and return later. If you need to cancel your progress, you can use the "Cancel" button. When you have completed the form, you can choose to submit or save your answers. Make sure to review each field before submitting to ensure accurate and complete information.
-
-If you have already completed the form and saved your draft, you can review and edit your answers using the "Save and Edit" buttons.
-
-</thinking>
-
 # Post Test On Safety And Performance - Help Guide
 ## Purpose
 The Post Test On Safety And Performance form is designed to evaluate an employee's safety awareness and performance during a post-test assessment. It helps in identifying areas of improvement and ensures that the employee is aware of their safety responsibilities and performance levels.

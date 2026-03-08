@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Loyalty Tier Adjustment Request - Help Guide
 ## Purpose
 This form is used to request adjustments to a customer's loyalty tier status. It's a way for customers or representatives to notify us of changes that need to be made to a customer's loyalty tier level.

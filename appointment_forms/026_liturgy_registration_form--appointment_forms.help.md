@@ -1,8 +1,3 @@
-<thinking>
-The "liturgy_registration_form" form is designed to collect information from users who need to register for a liturgy event. This form will be used in conjunction with other forms to track and manage events and their attendees. Before filling out this form, please ensure that you are registering for an event that you have been assigned or invited to attend. 
-To avoid duplication, please check with your administrator or team lead to confirm that your event registration has not already been completed. 
-</thinking>
-
 # liturgy_registration_form - Help Guide
 ## Purpose
 This form is used to register for a liturgy event. It collects your name, date of the event, time of the event, contact phone number, email, and any additional notes you would like to provide.

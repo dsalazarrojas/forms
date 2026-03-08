@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Community Identity Assessment" form, we need to understand the purpose and context of the form and ensure that the explanations are concise and practical. Based on the provided YAML, the form seems to be designed to gather information about the community's identity, sense of belonging, values, and priorities.
-
-The form likely serves several purposes, such as:
-
-*   Identifying key values that define the community
-*   Understanding the sense of belonging among community members
-*   Assessing barriers to a strong community identity
-*   Soliciting feedback and suggestions for improvement
-
-Before explaining each field, we need to consider what makes the form unique or challenging to complete. One potential challenge is that the form asks for a subjective assessment of "Sense of belonging" which may require some interpretation by the respondent.
-
-</thinking>
-
 # Community Identity Assessment - Help Guide
 ## Purpose
 This form is used to gather information about the community's identity, values, and priorities to better understand its strengths, challenges, and areas for improvement.

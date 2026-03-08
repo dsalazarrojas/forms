@@ -1,5 +1,3 @@
-<thinking>...This help guide is for users who want to fill out a Music Reading Proficiency Assessment form. This form is designed to gauge the reader's proficiency in reading musical notation, including their skills, reading confidence, comfort with different notation systems, readability of notations, speed, and practice habits. This form will likely be used by music educators, music theorists, or researchers to understand an individual's or group's music reading abilities. To ensure this help guide is accurate and up-to-date, review this form's purpose and content to prevent duplication...</thinking>
-
 # Music Reading Proficiency Assessment - Help Guide
 ## Purpose
 This form assesses an individual's or group's music reading proficiency, focusing on their skills, confidence, and habits related to reading musical notation.

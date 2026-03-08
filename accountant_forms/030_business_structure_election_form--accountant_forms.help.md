@@ -1,36 +1,3 @@
-<thinking>
-
-The "Business Structure Election Form" is used to collect information about a business's legal structure and ownership. The form is used to document a business's election of a new structure, which can impact its tax liabilities and regulatory requirements. This form is typically submitted to the relevant authorities to formalize the change in structure.
-
-The purpose of this form is to gather specific details about the business's current structure, the elected structure, and the effective date of the election. This information is necessary for tax purposes and regulatory compliance.
-
-The following fields are required for the form:
-
-* Legal Entity Name
-* Entity Registration Number (EIN, Tax ID, or registration number)
-* Entity Formation Date
-* Primary Contact Name
-* Contact Email
-* Contact Phone Number
-* Reason for Structure Election
-* Tax Year for This Election
-* Form Election Date
-
-Optional fields include:
-
-* Preparer Name and Firm or Company
-* Current Business Structure
-* Number of Members or Owners
-* Names of Members or Owners
-* Ownership Percentages
-* Supporting Documentation (if any)
-
-The form also includes fields for specific dates, such as Entity Formation Date and Effective Date of Election.
-
-This form is typically completed by the business owner or authorized representative.
-
-</thinking>
-
 # Business Structure Election Form - Help Guide
 ## Purpose
 The Business Structure Election Form is used to document a business's election of a new structure, which can impact its tax liabilities and regulatory requirements.

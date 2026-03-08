@@ -1,16 +1,3 @@
-<thinking> 
-This form is used to collect information for the Public Seating Structure Approval Application. The purpose of this form is to gather essential details from applicants who wish to be included in the public seating structure. The form is divided into multiple pages, each containing specific fields that require different types of information. The form's fields will be reviewed and evaluated by the approvers to assess the applicant's eligibility and suitability for the public seating structure.
-
-To complete this form, follow these steps:
-
-1.  Navigate through each page of the form and fill in the required fields.
-2.  For the second page, select the appropriate option from the dropdown menu.
-3.  Ensure you provide accurate information for all required fields, as indicated by the red asterisks (*).
-4.  For the fields with dropdown menus, select only one option that best suits your situation.
-5.  Review your entries before submitting the form for approval.
-
-</thinking> 
-
 # public_seating_structure_approval_application_form - Help Guide
 ## Purpose
 The public_seating_structure_approval_application_form is used to collect information from applicants for the public seating structure.

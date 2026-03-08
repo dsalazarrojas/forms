@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for verifying a dependent's information for administrative purposes. The form will help ensure that the dependent's details are accurate and up-to-date, which is crucial for various administrative tasks, such as tax benefits, health insurance, and other government-issued benefits. Before filling out this form, please make sure that the dependent's information is correct and not duplicated in other forms. This form is not intended for creating new dependent relationships but rather for verifying existing ones.
-
-</thinking>
-
 # Dependent Verification Form - Help Guide
 ## Purpose
 The Dependent Verification Form is used to verify a dependent's information for administrative purposes. This includes confirming the dependent's identity, date of birth, social security number, and other relevant details.

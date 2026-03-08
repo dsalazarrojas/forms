@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow team managers to request team-building activities within the organization. The form should only be used to request activities that are relevant and necessary for team building and development, and not for personal or non-team related purposes. It's essential to ensure that each activity meets the necessary criteria and does not duplicate previous requests.
-</thinking>
-
 # Team Building Activity Proposal Request Form - Help Guide
 ## Purpose
 This form is used to request team-building activities within the organization. It's a crucial tool for team managers to submit proposals for team-building events, outings, or projects that promote team cohesion, collaboration, and growth.

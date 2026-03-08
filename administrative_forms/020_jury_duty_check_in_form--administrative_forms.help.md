@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to capture information about a juror's check-in status. It appears to be used for administrative purposes within the judiciary system. Upon reviewing the YAML, I can infer that this form is likely used to track a juror's attendance, check-in time, and other relevant details. It's possible that this form is used to verify a juror's identity and status for legal proceedings. The form has multiple pages with various fields, suggesting that it may be used for different stages of the check-in process.
-
-To complete this form, a juror will be required to provide their name, email, phone number, check-in time, and other relevant details. They will also be asked to confirm their attendance and provide additional information if necessary. The form has several fields that are marked as optional, which may be used to capture additional context or comments.
-
-Some fields appear to be redundant or have similar labels, such as the "Check In By" fields. These may be intended to capture different types of information, such as the person who checked the juror in or the location where the check-in occurred.
-
-The form requires careful attention to detail and accuracy in filling out the various fields. It's essential to ensure that all required fields are completed accurately to avoid any issues or delays in the check-in process.
-
-</thinking>
-
 # Jury Duty Check In Form - Help Guide
 ## Purpose
 This form is used to capture information about a juror's check-in status for administrative purposes within the judiciary system.

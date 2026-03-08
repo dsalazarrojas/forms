@@ -1,7 +1,3 @@
-<thinking>
-The Property Modernization Program Consent Form is used to collect information from property owners who wish to participate in the Property Modernization Program. This form ensures that property owners understand the terms and conditions of the program, including their responsibilities and rights. Before filling out this form, please ensure that you are a property owner or have the necessary permissions to represent the property owner. If you have filled out this form previously, you do not need to do so again, as your consent is already recorded.
-</thinking>
-
 # Property Modernization Program Consent Form - Help Guide
 ## Purpose
 This form collects information from property owners to facilitate participation in the Property Modernization Program. It's essential to provide accurate and complete answers to ensure a smooth application process.

@@ -1,5 +1,3 @@
-<thinking>...This form is intended for users to request a free inspection for their company, which is then processed by the inspection team. This form will help us understand the company's request and gather the necessary information to assign the right tools for the inspection. It is essential to ensure the form is filled out correctly to avoid duplication of effort and ensure that the request is processed efficiently...</thinking>
-
 # Free Inspection Request Form - Help Guide
 
 ## Purpose

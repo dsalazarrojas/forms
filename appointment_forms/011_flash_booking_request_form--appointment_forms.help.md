@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for requesting an appointment booking for a flash service. It is an optional form and should only be filled out if a user has a genuine interest in booking a flash service. The fields provided in this form will help us understand the user's request and preferences for the service. Please make sure to fill out the form correctly to ensure that your request is processed efficiently and accurately.
-
-</thinking>
-
 # Flash Booking Request Form - Help Guide
 ## Purpose
 The Flash Booking Request Form is for users to submit a request for an appointment booking for a flash service.

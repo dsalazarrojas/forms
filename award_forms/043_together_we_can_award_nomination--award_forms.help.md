@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect nominations for the "Together We Can Award", which is an award given to teams or individuals that demonstrate exceptional collaboration and teamwork. The purpose of this form is to gather information about the nominee, their team, and the reasons why they should be considered for the award. This form will be used by award administrators to review and validate nominations.
-</thinking>
-
 # together_we_can_award_nomination - Help Guide
 ## Purpose
 The "Together We Can Award" form is used to collect nominations for the "Together We Can Award", a recognition given to teams or individuals that demonstrate exceptional collaboration and teamwork.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for requesting the removal of a specific agent, and it is intended for internal use within an organization. The form is used to gather information about the agent's details, the reason for removal, and the actions that need to be taken after removal. To complete this form, users will need to provide accurate and relevant information about the agent and the circumstances surrounding their removal. The form requires approval from both an HR manager and a department head before it can be processed.
-
-</thinking>
-
 # Agent Removal Request Form - Help Guide
 ## Purpose
 The Agent Removal Request Form is used to formally request the removal of an agent within the organization.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is part of the school's application portal, and is likely intended to assist in the management of user requests for support or access to certain services. The fields should be self-explanatory, but it's a good idea to double-check that the form is not already completed or that the user has the necessary information to fill it out correctly.
-</thinking>
-
 # School Application Portal Login Assistance - Help Guide
 ## Purpose
 This form is designed to help users access the school's application portal and provide support when needed.

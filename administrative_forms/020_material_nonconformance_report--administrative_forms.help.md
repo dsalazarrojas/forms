@@ -1,9 +1,3 @@
-<thinking>
-This form is used to report nonconformances related to materials used in the production process. Nonconformances can be related to material deficiencies, excess, or damage. The form helps track and document these issues to prevent them from becoming larger problems. Before completing this form, please ensure you have already reviewed the relevant procedures and policies for addressing material nonconformances.
-
-To complete this form, please ensure you have all necessary information and documents available. You can navigate the form by clicking on the "Next" or "Previous" buttons.
-</thinking>
-
 # Material Nonconformance Report - Help Guide
 ## Purpose
 This form is used to report nonconformances related to materials used in the production process.

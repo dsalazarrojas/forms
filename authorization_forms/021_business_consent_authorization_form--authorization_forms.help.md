@@ -1,11 +1,3 @@
-<thinking>
-Business Consent Authorization Form: This form is meant to obtain consent from individuals to collect, process, and retain their personal data for various purposes such as email communications, marketing materials, data sharing, and data retention. It is essential to ensure that the individual understands and consents to the collection and processing of their data. This form is a legal requirement for data controllers and organizations to obtain explicit consent from individuals before collecting and processing their personal data.
-Before filling out this form, please ensure that:
-- You are authorized to provide this consent on behalf of your organization.
-- You are not duplicating the form, as this would be a redundant and unnecessary step.
-- You have read and understood the form's content and purpose.
-</thinking>
-
 # Business Consent Authorization Form - Help Guide
 
 ## Purpose

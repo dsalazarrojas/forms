@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about gas leak incidents, which is crucial for maintaining a record of such events. This form is used to report and track gas leaks that have occurred. It is essential to provide accurate and detailed information to ensure proper handling and follow-up of the incident. Ensure that you fill out the form correctly and thoroughly to avoid duplication of efforts and ensure that the incident is handled efficiently.
-
-To complete this form, you will need to select the relevant options for each field. Please ensure that all required fields are filled out accurately and completely. Here is a detailed explanation of each field:
-
-</thinking>
-
 # Gas Leak Incident Report Form - Help Guide
 ## Purpose
 This form is used to report and track gas leaks that have occurred.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Refugee Status Assessment Survey - Help Guide
 ## Purpose
 The Refugee Status Assessment Survey is a tool used to gather information about an individual's refugee status. It is designed to collect essential details that aid in the assessment and support process. Please ensure you have reviewed the survey's purpose to understand its relevance to your situation before proceeding.

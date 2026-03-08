@@ -3,9 +3,6 @@
 ## Purpose
 This form is used to seek authorization for music licensing, typically from music rights holders for commercial use of their music in various projects.
 
-<thinking>
-This form is intended to be used internally by music licensing teams to gather necessary information from clients or users who wish to use copyrighted music. The form is not designed for public submission and should only be used for official business purposes.</thinking>
-
 ## How To Complete This Form
 1. Fill out the form with the required information as best as you can.
 2. Make sure to fill out all the fields accurately and thoroughly.

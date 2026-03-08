@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential clients for brand development consultations. The purpose of this form is to gather the necessary details required for the consultant to prepare for the appointment. 
-</thinking>
-
 # Brand Development Appointment Form - Help Guide
 ## Purpose
 This form is intended to be used by potential clients to provide information about their brand development goals and preferences for an appointment with a consultant. This guide will walk you through each field of the form, helping you to complete it efficiently and effectively.

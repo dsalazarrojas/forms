@@ -1,8 +1,3 @@
-<thinking>
-This form is used for employees to sign in and out of work, providing details such as their name, sign-in/sign-out time, department, and any relevant notes or dates. It's designed for internal use within an organization and should only be completed by authorized personnel. Please note that this form is likely used for tracking attendance or time management purposes, and employees should ensure they complete it accurately for their records.
-
-</thinking>
-
 # Work Day Sign In Form - Help Guide
 ## Purpose
 This form is used for employees to sign in and out of work, providing details such as their name, sign-in/sign-out time, department, and any relevant notes or dates.

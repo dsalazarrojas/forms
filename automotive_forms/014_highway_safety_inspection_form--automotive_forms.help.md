@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the highway safety of vehicles, including their status, condition, and any potential safety risks. This form is designed to be used by inspectors to gather information about vehicles that have been inspected for safety. The information collected will help identify areas of concern and provide recommendations for improvement.
-</thinking>
-
 # Highway Safety Inspection Form - Help Guide
 ## Purpose
 The Highway Safety Inspection Form is used to collect data on the highway safety of vehicles. The form is used to identify potential safety risks and provide recommendations for improvement.

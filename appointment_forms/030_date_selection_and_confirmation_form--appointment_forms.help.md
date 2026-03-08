@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Date Selection And Confirmation Form - Help Guide
 
 ## Purpose

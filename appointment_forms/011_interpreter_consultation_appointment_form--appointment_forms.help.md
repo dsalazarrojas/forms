@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # interpreter_consultation_appointment_form - Help Guide
 ## Purpose
 This form is designed to gather information from users for interpreter consultations. It collects essential details about the user, the appointment, and any special requests or medical history that may be relevant to the consultation.

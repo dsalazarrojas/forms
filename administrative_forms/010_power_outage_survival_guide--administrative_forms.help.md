@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or families affected by a power outage. The form will help users provide details about their situation, including their individual or family status, name, contact information, address, and other relevant details. This form will be used to determine the best course of action to take in response to the power outage. The form is intended to be completed by the individual or family member most affected by the power outage. 
-
-The form is divided into sections that cover various aspects of the power outage, including individual or family status, contact information, address, and emergency planning. The form asks for details about the power outage, including the start and end dates, and whether an emergency plan is in place. Additionally, the form asks for backup power sources and emergency contact information. The form also includes an option to provide any additional notes or comments.
-
-Each section of the form is designed to collect specific information that will help responders understand the situation and provide the best support. The form is intended to be completed by the individual or family member most affected by the power outage.
-</thinking>
-
 # Power Outage Survival Guide - Help Guide
 ## Purpose
 The Power Outage Survival Guide form is designed to collect information from individuals or families affected by a power outage. This form helps responders understand the situation and provide the best support by asking for details about the power outage, including individual or family status, contact information, address, and emergency planning.

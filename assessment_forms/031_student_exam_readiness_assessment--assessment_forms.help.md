@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess a student's exam readiness in a specific subject. This form is typically filled out by a teacher or instructor to evaluate a student's preparation and potential success in an upcoming exam. The form is meant to be used in conjunction with other assessment tools and rubrics to get a comprehensive picture of a student's abilities. This form is not intended to be used as a standalone assessment tool, but rather as a supplement to other evaluation methods. 
-
-</thinking>
-
 # Student Exam Readiness Assessment - Help Guide
 ## Purpose
 This form is used to collect information about a student's exam readiness. It includes fields for collecting information about the student's ID, name, and grade level, as well as their exam date, time, and duration. The form also includes fields for teacher and student comments, and recommendations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's medical history and consent for a lip blush procedure. It's essential to have a clear understanding of the patient's medical conditions, allergies, and consent before performing this procedure. This form helps ensure that the patient provides accurate and comprehensive information, which will be used by healthcare professionals to make informed decisions about their care. It's critical to review the form carefully and ensure that all required fields are completed accurately, as it may affect the quality of care provided.
-</thinking>
-
 # lip_blush_consultation_form - Help Guide
 ## Purpose
 The lip blush consultation form is designed to gather essential information about a patient's medical history, consent, and other relevant details before performing a lip blush procedure. This form helps healthcare professionals make informed decisions about the patient's care and ensures that they are aware of any potential risks or complications.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect feedback and ratings from readers for a book award. The purpose of this form is to gather information about the reader's experience with the book, including how much they liked it, what they liked and disliked about it, and whether they would recommend it to others. The form is divided into several sections, each focusing on a different aspect of the reader's experience. 
-
-To ensure that the form is completed accurately and without duplication, please only submit one entry per reader, and do not submit multiple forms with the same or similar information.
-
-</thinking>
-
 # Readers Choice Awards Voting Form - Help Guide
 ## Purpose
 The Readers Choice Awards Voting Form is used to collect feedback and ratings from readers about a book. This form helps us understand your experience with the book, and your input will contribute to the book's rating and recommendation.

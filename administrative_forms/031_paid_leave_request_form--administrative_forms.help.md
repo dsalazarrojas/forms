@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for employees to submit paid leave requests to their managers. The purpose of this form is to provide a structured and organized way for employees to submit their leave requests, including the type of leave, start and end dates, reason for leave, and other relevant details. To ensure that all necessary information is captured, this form should only be used for official paid leave requests, and not for other types of absences or leave.
-
-</thinking>
-
 # Paid Leave Request Form - Help Guide
 ## Purpose
 This form is used to submit a paid leave request to your manager.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by personnel to check the status of equipment in the organization. It's likely to be used by maintenance staff or equipment managers to track the readiness of equipment, but it's not exclusively so. The form will be used to gather information about the current status of equipment, which can be used to inform decisions about maintenance and upkeep. It's a good idea to ensure that the form is only filled out once per piece of equipment, to avoid duplicating effort and ensure accuracy.
-</thinking>
-
 # Equipment Readiness Checklist - Help Guide
 ## Purpose
 This form is used to check the status of equipment in the organization. It's designed to be a simple and efficient way to gather information about the current state of equipment, and to help maintenance staff and equipment managers make informed decisions about maintenance and upkeep.

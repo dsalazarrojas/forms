@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide that accurately explains the purpose and requirements of the Academic Exchange Program Impact Assessment form. This guide should be easy to follow and provide clear explanations for each field. Given the form's structure, we will cover the general purpose, step-by-step instructions, and detailed explanations for each field. The form's objective is to gather feedback from exchange program participants to assess the overall impact and quality of the program.
-</thinking>
-
 # Academic Exchange Program Impact Assessment - Help Guide
 
 ## Purpose

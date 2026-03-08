@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assisted Stretch Sign Up Form - Help Guide
 
 ## Purpose

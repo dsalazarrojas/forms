@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rock Chip Repair Acknowledgment Form - Help Guide
 
 ## Purpose

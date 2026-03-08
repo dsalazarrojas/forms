@@ -1,8 +1,3 @@
-<thinking>
-... 
-This form seems to be a simple order form for referee jackets. However, without more context, it's hard to determine the exact purpose. The form is asking for customer information, payment method, and order details. It's possible that this form is for a sportswear store or a uniform provider that sells referee jackets. The customer can select the type of order (men's, women's, or kids'), choose their payment method, enter their name, email, phone number, and order details (quantity and date). The form is designed to be simple and straightforward, but it's still important to provide clear guidance for the customer to fill it out correctly. Before filling out this form, please make sure to read the entire guide to understand each field's purpose.
-</thinking>
-
 # Referee Jacket Order Form - Help Guide
 ## Purpose
 The Referee Jacket Order Form is designed for customers to place orders for referee jackets. This guide will walk you through each field of the form to help you complete it accurately.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide a clear understanding of the purpose and usage of the Paycheck Authorization Form. This form is designed to gather essential information for the authorization of paycheck pickup, ensuring that the process is secure and efficient. The form will be used to identify the authorized pick-up person, their relationship to the employee, and their contact information. Before proceeding, please ensure that you have the necessary information and permissions to complete this form accurately and truthfully.
-</thinking>
-
 # Paycheck Authorization Form - Help Guide
 ## Purpose
 The Paycheck Authorization Form is a document that grants permission for someone else to pick up a paycheck on behalf of an employee. This form is used to establish a secure and efficient process for paycheck pickup.

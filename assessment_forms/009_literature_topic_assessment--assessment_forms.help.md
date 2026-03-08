@@ -1,5 +1,3 @@
-<thinking>... This form is for assessing various aspects of literature topics. It is a collection of input fields that will help users evaluate the relevance and quality of a particular literary work. Each field is designed to gather specific information about the work, its impact, and its significance. This form can be used by educators, researchers, or anyone interested in literary analysis and critique. It does not appear to be a duplicate of any other form in the system. I will now provide a guide on how to complete this form.</thinking>
-
 # Literature Topic Assessment - Help Guide
 ## Purpose
 The Literature Topic Assessment form is designed to help users evaluate and assess various aspects of literary works. This form is used to gather information about the work, its impact, and its significance.

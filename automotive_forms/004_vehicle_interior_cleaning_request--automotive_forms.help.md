@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture information for a vehicle interior cleaning request. It is intended for use by customers or clients to communicate their needs and preferences for interior cleaning services for their vehicles. 
-
-To ensure accurate processing and efficient service, please review and complete this form carefully. 
-
-Before submitting, check that you have not already submitted a request for this service in the past. 
-</thinking>
-
 # Vehicle Interior Cleaning Request - Help Guide
 ## Purpose
 The "Vehicle Interior Cleaning Request" form is designed to gather information from customers for a vehicle interior cleaning service. This form will help you communicate your needs and preferences for the service.

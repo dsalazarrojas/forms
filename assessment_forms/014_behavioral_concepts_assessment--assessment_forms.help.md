@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist learners in completing the Behavioral Concepts Assessment form. The form aims to assess the learner's understanding and confidence in applying behavioral concepts, such as habit loops, behavioral triggers, reinforcement and rewards, motivation theories, and change resistance. This guide will walk you through each field, explaining its purpose and how to fill it out accurately.
-
-Please note that the form is designed to be completed by learners, and this guide is intended for their use. If you are an admin or developer, you may already be familiar with the form's purpose and fields. This guide is for your learners, not you.
-
-That being said, let's get started! 
-
-</thinking>
-
 # Behavioral Concepts Assessment - Help Guide
 ## Purpose
 The Behavioral Concepts Assessment form is designed to evaluate a learner's understanding and confidence in applying various behavioral concepts. It's a crucial tool to gauge the effectiveness of training programs and help learners identify areas for improvement.

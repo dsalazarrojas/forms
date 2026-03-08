@@ -1,11 +1,3 @@
-<thinking>
-This help guide assumes the form is used for collecting visitor information for purposes of visitor management, likely for security, HR, or facility management. It may be part of a more extensive visitor management system that tracks visitors' details for access control, visitor scheduling, or other relevant purposes. The form likely aims to gather accurate and relevant data about visitors for a specific company or organization. 
-
-This form appears to have a mix of personal information (e.g. First Name, Last Name, Email, Address) and visitor information (e.g. Purpose of Visit, Arrival Time, Expected Departure Time) along with status and group information for employees and visitors. It might be used for visitor registration, scheduling, or tracking, but it's hard to say without further context.
-
-This guide will help you complete this form accurately and efficiently.
-</thinking>
-
 # Visitor Management Checklist Form - Help Guide
 ## Purpose
 This form is designed to collect visitor information for visitor management purposes. It gathers personal details, visit schedules, and status information to ensure accurate visitor tracking and management.

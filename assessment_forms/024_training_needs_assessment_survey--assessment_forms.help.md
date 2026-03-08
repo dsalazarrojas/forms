@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help assess the training needs of individuals or organizations in a particular industry or category, likely related to technical skills or professional development. It is a simple text-based form with three fields: Title, Description, and a main field for the Training Needs Assessment Survey. This form is intended for end-users to input their information and feedback. Please ensure you are using this form for its intended purpose and not for any other use case that may be deemed inappropriate or malicious.
-</thinking>
-
 # Training Needs Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gather information about training needs, specifically for the purpose of assessing and identifying areas that require development. It is used to collect feedback and input from individuals or organizations on their training requirements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Equipment Assessment Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The Driver Of The Year Nomination Form is intended to collect nominations from employees who wish to recognize and award a deserving colleague for their exceptional service, achievements, and dedication to their work. 
-
-This form ensures that only genuine and deserving employees can be nominated, and allows nominators to provide supporting details and contact information, ensuring that the nominee is properly recognized. 
-
-Nominators must ensure that the information entered is accurate and up-to-date to avoid any potential issues in the nomination process.
-
-</thinking>
-
 # Driver Of The Year Nomination Form - Help Guide
 ## Purpose
 The Driver Of The Year Nomination Form is a tool for nominating deserving colleagues for recognition and awards.

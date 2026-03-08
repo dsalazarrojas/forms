@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # daily_worker_check_out_form - Help Guide
 ## Purpose
 The daily_worker_check_out_form is an administrative form used to document the check-out of workers from their assigned tools. This form is typically used by supervisors or administrators to collect information about the check-out process, which helps to ensure accurate and timely tracking of tool availability.

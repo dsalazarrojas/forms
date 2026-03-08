@@ -1,5 +1,3 @@
-<thinking>This form, the "Fashion New Collection Popularity Assessment", is used to collect feedback on the popularity and purchase intent of a new fashion collection. The assessment is designed to gauge the likelihood of customers purchasing a collection based on its attributes such as price range, purchasability, and quality. The form includes fields to input the collection's name, description, image URL, and video URL, as well as ratings and ratings ranges for purchasability, quality, and recommendation. The form also asks about the customer's intent to buy and purchase probability, allowing for a comprehensive assessment of the collection's potential. Note that the form is optional and not required for every field, but rather for the overall assessment.</thinking>
-
 # Fashion New Collection Popularity Assessment - Help Guide
 
 ## Purpose

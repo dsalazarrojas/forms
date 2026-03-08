@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be designed for users to submit information about their emotional support animals, which could include cats, dogs, or other animals that provide emotional support. I'm assuming that this form is for a specific housing or medical organization that requires proof of emotional support status to accommodate certain needs. I'm considering the possible scenarios where this form would be used, such as when a person with a disability needs to document their emotional support animal to secure a housing accommodation or to provide evidence of their condition for medical purposes. 
-
-This form seems to be well-structured and follows a logical sequence of questions to gather necessary information, including the type and name of the animal, owner's name and phone number, date of disability diagnosis, doctor's name, landlord's consent, additional information, owner's signature, and landlord's signature. I'm checking to see if there's anything redundant or unnecessary in the form, and I do not see any obvious duplication or redundancy.
-
-The fields seem to be logically organized to guide the user through the process of submitting their emotional support animal information. The form requires the owner to confirm that the animal is a legitimate emotional support animal, and the landlord to provide consent, which suggests that the form is designed to accommodate both the owner's and landlord's needs. The form also includes a field for additional information, which could be used for any other relevant details that might be needed.
-
-Overall, this form appears to be clear and concise, and with this help guide, users should be able to understand what is required of them and how to complete it accurately.
-</thinking>
-
 # Emotional Support Animal Form - Help Guide
 ## Purpose
 This form is designed to document information about your emotional support animal, which is a living creature that provides emotional support and alleviates symptoms of a disability. You will need to provide details about your animal, such as its type and name, and your relationship with it as the owner. Your landlord or property manager will also be asked to confirm that they are aware of your emotional support animal and provide their consent.

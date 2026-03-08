@@ -1,10 +1,3 @@
-<thinking>
-The internal reasoning block explains the purpose and checks for relevance and non-duplication:
-The Event Planner Appointment Form is designed to gather information for scheduling appointments with clients. It collects details such as appointment dates, times, event types, locations, and other relevant event information. The form is likely used by event planners to create or update appointments for clients, ensuring that all necessary details are captured efficiently.
-
-Upon reviewing the provided form YAML, I've identified that the form has 10 fields. To create a comprehensive help guide, we'll need to break down the form into its constituent parts and provide clear explanations for each field.
-</thinking>
-
 # Event Planner Appointment Form - Help Guide
 ## Purpose
 The Event Planner Appointment Form is a tool for collecting information about client appointments. Fill out this form to schedule or update an appointment with a client, ensuring that all necessary details are captured.

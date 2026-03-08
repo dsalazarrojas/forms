@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Salon Consultation Form - Help Guide
 ## Purpose
 The Salon Consultation Form is designed to collect information from clients for their salon consultations. This form will help our stylists understand the client's needs and preferences to provide the best possible experience. Please fill out the form accurately to ensure a smooth and enjoyable consultation process.

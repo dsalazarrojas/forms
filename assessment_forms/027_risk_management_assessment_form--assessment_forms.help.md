@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess and manage risks within an organization, allowing users to track and evaluate potential risks, their impact, and probability, as well as schedule reviews and ratings. To avoid duplicate assessments, please fill out the form carefully and consistently throughout.
-
-Before starting, ensure you understand the definitions and implications of each field. Each field should only be filled out once and accurately reflect the information you are trying to convey.
-
-This form is split into multiple pages, each with specific fields to capture relevant information about a risk. Please follow the guide below to fill out the form correctly.
-</thinking>
-
 # Risk Management Assessment Form - Help Guide
 ## Purpose
 The Risk Management Assessment Form is used to identify, assess, and manage risks that may impact your organization's objectives and goals.

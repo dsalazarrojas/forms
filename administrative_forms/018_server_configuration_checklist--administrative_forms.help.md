@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the server configuration, likely for administrative or troubleshooting purposes. This form is used to check if certain configurations are in place, such as server type, network configuration, firewall settings, database configuration, user management, and backup procedures. This form is not intended for users who are not authorized to access sensitive server information.
-</thinking>
-
 # Server Configuration Checklist - Help Guide
 ## Purpose
 This form is used to check if the server configuration is correctly set up to ensure optimal performance and security.

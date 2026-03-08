@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from doctoral students for scheduling appointments with faculty members. The purpose of this form is to ensure that both students and faculty are on the same page regarding exam dates, times, and other relevant details. It's recommended to fill out this form only once per exam date, to avoid duplicate appointments.
-
-Before proceeding, please ensure that you have selected a preferred time slot and that the exam date and start/end times are accurate. Also, please confirm whether the exam will last more or less than an hour, and if a faculty member will be present during the exam. Finally, provide any additional comments or notes if necessary.
-
-</thinking>
-
 # Doctoral Exam Appointment Schedule - Help Guide
 ## Purpose
 The Doctoral Exam Appointment Schedule form is designed to collect information from doctoral students for scheduling appointments with faculty members. This form ensures that both students and faculty are on the same page regarding exam details, reducing miscommunications and errors.

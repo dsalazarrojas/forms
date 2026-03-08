@@ -1,8 +1,3 @@
-<thinking>
-This form is for obtaining credit card authorization from customers. It's used to collect necessary information to process credit card transactions. Please note that the form is designed to be filled out by customers themselves, so it's essential to ensure that they understand what each field is for.
-
-</thinking>
-
 # Credit Card Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information required to process credit card transactions. Please fill out this form to provide authorization to process your credit card for future transactions.

@@ -1,11 +1,3 @@
-<thinking>
-The recognition award claim request form is intended to be used by employees to request recognition and rewards for their outstanding work and contributions to the organization. To be eligible to submit a request, the employee's work must not already be recognized or rewarded through other means within a certain timeframe.
-
-Before starting the form, ensure that the recognition you are requesting has not already been given. This form is not intended for duplicate requests.
-
-The form can be completed by following the instructions below.
-</thinking>
-
 # recognition_award_claim_request_form - Help Guide
 ## Purpose
 The recognition award claim request form is a tool for employees to submit requests for recognition and rewards for their outstanding work and contributions.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the ethics compliance declaration form is to provide a clear and concise method for employees to declare their understanding and commitment to the company's ethics and compliance policies. This form is a mandatory process to ensure that employees are aware of and adhere to these policies, promoting a culture of integrity and responsibility within the organization.
-</thinking>
-
 # ethics_compliance_declaration_form - Help Guide
 ## Purpose
 The ethics compliance declaration form is used to collect information from employees regarding their understanding and compliance with the company's ethics and policies.

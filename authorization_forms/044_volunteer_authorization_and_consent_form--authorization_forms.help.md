@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from volunteers to ensure that they understand their role and responsibilities. This form is used to verify the authorization and consent of volunteers before they start working with the organization. The form should only be completed by authorized personnel and is not intended for use by external users. This form is part of a larger process to maintain accurate records and ensure compliance with relevant policies and regulations.
-
-</thinking>
-
 # Volunteer Authorization And Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from volunteers, including their contact details and authorization to work with the organization. It is essential to complete this form carefully to ensure that you are properly authorized and informed about your role and responsibilities.

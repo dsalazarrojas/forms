@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about the key elements of a short story, specifically its plot, main character, theme, setting, plot twist, main character description, theme description, plot ending, secondary characters, and author. The form is intended for users who want to analyze and understand the structural components of a short story.
-
-**Relevance**: This form is relevant for users who want to evaluate or analyze short stories, such as literary critics, educators, or readers who want to gain a deeper understanding of the story's components.
-
-**Non-duplication**: This form does not collect sensitive or personal data and does not duplicate any existing forms in the market.
-
-</thinking>
-
 # short_story_elements_quiz - Help Guide
 ## Purpose
 This form is designed to collect the essential elements of a short story, allowing you to evaluate and analyze its plot, characters, theme, setting, and other key components.

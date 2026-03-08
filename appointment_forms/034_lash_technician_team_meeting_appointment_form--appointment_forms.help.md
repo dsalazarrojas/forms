@@ -1,7 +1,3 @@
-<thinking>
-  This form is meant to be used for scheduling a team meeting with specific details and attendees. It's essential to fill in the form correctly to ensure that the meeting is well-organized and that the right people are informed about the meeting details and outcome. Please make sure to select the correct options for each field and fill in all required fields to submit the form successfully.
-</thinking>
-
 # lash_technician_team_meeting_appointment_form - Help Guide
 ## Purpose
 This form is designed to collect meeting details and attendees for a team meeting. It's crucial to fill it out accurately to maintain clear communication and ensure that the meeting is well-organized.

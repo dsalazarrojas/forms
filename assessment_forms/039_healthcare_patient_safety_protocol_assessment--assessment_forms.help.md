@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the patient safety protocol in a healthcare setting. This form is used to gather information about the general information, staff training, patient care, facility safety procedures, medical device malfunctions, medication administration, patient complaints, patient safety scores, medication errors, and facility accidents. It is essential to ensure that all fields are completed accurately to gather a comprehensive understanding of the patient safety protocol.
-</thinking>
-
 # Healthcare Patient Safety Protocol Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the patient safety protocol in a healthcare setting.

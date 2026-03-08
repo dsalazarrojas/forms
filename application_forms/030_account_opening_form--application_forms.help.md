@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect personal and professional information from users to open a new account with the financial institution. The form is divided into several sections, each with its own set of fields that require specific information. To ensure that the form is completed accurately and efficiently, it's essential to understand the purpose and requirements of each section and field. 
-
-Before proceeding, please note that this form is for opening a new account, not for updating or managing existing accounts. If you're unsure about any of the information or have questions, please contact our support team.
-
-The form will ask for personal details such as full name, date of birth, and contact information. It will also ask for employment status, employer details, and occupation. Additionally, it will require users to select the type of account they wish to open, the initial deposit amount, and the purpose of the account. Lastly, it will ask about online banking enrollment and agreement to terms and conditions.
-
-Ensure that all required fields are filled out accurately to avoid any issues with account opening. Some fields are optional, but providing them can help the account opening process.
-</thinking>
-
 # Account Opening Form - Help Guide
 ## Purpose
 This form is designed to collect personal and professional information from users to open a new account with the financial institution.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from potential clients interested in a real estate virtual tour. The real estate business owner can use this information to schedule appointments and manage their interactions with clients. This form is meant to be a simple and straightforward way to gather essential details about the client's requirements and preferences.
-</thinking>
-
 # Real Estate Virtual Tour Appointment Form - Help Guide
 ## Purpose
 This form is designed to help real estate businesses manage virtual tour appointments with potential clients. It collects relevant information from clients, allowing businesses to better understand their needs and preferences.

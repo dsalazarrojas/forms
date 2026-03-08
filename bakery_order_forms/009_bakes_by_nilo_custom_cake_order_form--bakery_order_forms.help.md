@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is for customers to place a custom cake order with Bakes by Nilo. The form collects information such as customer name, contact phone number, email address, cake size, flavor, and pickup details. This guide is to help customers understand what to expect and how to fill out the form correctly.
-</thinking>
-
 # Bakes by Nilo Custom Cake Order Form - Help Guide
 ## Purpose
 This form is used to place a custom cake order with Bakes by Nilo. Fill out the form to provide necessary information for a seamless order process.

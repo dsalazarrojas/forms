@@ -1,7 +1,3 @@
-<thinking>
-To determine whether the user should use this form, ask yourself: are you trying to understand a student's career readiness and needs? If you're not a student or a career counselor, this form may not be relevant for you. Also, make sure that you haven't already filled this form before. This will help us ensure you're giving the most accurate information.
-</thinking>
-
 # Graduate Career Readiness Assessment - Help Guide
 ## Purpose
 This form is used to assess a student's career readiness, career goals, and areas where they may need additional support.

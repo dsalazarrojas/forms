@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information for group bookings in an escape room. This form is likely used for customers or clients who are interested in booking an escape room experience for a group, and the form will help the customer provide details and preferences for the booking. This form might be used by a business or organization that offers escape room experiences and needs to collect relevant information from potential customers before confirming the booking.
 
 # escape_room_group_booking_form - Help Guide

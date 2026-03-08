@@ -1,8 +1,3 @@
-<thinking>
-This form is used by soccer referees to participate in training sessions. The purpose of this form is to collect information from referees about their training preferences and availability. The form is designed to be simple and easy to use, with fields that are self-explanatory. However, if a user is unsure of the form's purpose or has already participated in the same training session, please note that there is no need to fill out the form again.
-
-</thinking>
-
 # Soccer Referee Training Participation Form - Help Guide
 ## Purpose
 The Soccer Referee Training Participation Form is designed to collect information from soccer referees about their training preferences and availability.

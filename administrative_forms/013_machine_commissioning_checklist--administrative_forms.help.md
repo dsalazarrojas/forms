@@ -1,7 +1,3 @@
-<thinking>
-The machine commissioning checklist is used to ensure that machines are properly set up and ready for use. It is typically completed by a site supervisor or maintenance personnel during the machine installation and testing process. The purpose of this form is to gather all the necessary information to verify that the machine is correctly installed, configured, and tested before it is put into service.
-</thinking>
-
 # machine_commissioning_checklist - Help Guide
 ## Purpose
 The machine commissioning checklist is used to ensure that machines are properly set up and ready for use. It is typically completed by a site supervisor or maintenance personnel during the machine installation and testing process.

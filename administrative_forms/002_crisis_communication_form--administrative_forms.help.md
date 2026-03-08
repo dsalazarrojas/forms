@@ -1,18 +1,3 @@
-<thinking>
-
-To determine the relevance and potential duplication of this help guide, let's analyze the form's purpose and structure. The "crisis_communication_form" appears to be a form for reporting and managing emergencies, such as incidents or crises. It seems that this form is designed to gather essential information from various fields, including:
-
-- Type of crisis (emergencies)
-- Location of the incident
-- Contact information (person, email, phone)
-- Additional details about the emergency
-- Contact preferences (methods and categories)
-- Status of contact
-
-The form's structure suggests it's likely used for emergency management, crisis response, or incident reporting within an organization. Given the variety of fields and options, the form could be used in different contexts such as emergency services, disaster response, or internal incident management. To ensure the guide is not duplicating existing resources, it's essential to review existing documentation and internal resources for similar forms or procedures.
-
-</thinking>
-
 # crisis_communication_form - Help Guide
 ## Purpose
 

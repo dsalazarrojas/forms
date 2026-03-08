@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's consider the form purpose and context. The form is called "Pet Insurance Claim Form" and it's likely used by pet owners to file claims for medical expenses related to their pets. The form is designed to gather information about the pet, the medical condition, and the expenses submitted for reimbursement. The context is that the user is a pet owner who wants to claim reimbursement for medical expenses related to their pet's treatment.</thinking>
-
 # Pet Insurance Claim Form - Help Guide
 ## Purpose
 The Pet Insurance Claim Form is used to file claims for medical expenses related to your pet's treatment. This form is designed to gather information about your pet, the medical condition, and the expenses submitted for reimbursement.

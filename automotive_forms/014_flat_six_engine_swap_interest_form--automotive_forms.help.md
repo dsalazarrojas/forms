@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flat Six Engine Swap Interest Form - Help Guide
 ## Purpose
 This form is designed to gather information from users interested in learning more about flat six engine swaps, a process of replacing a car's engine with a new one. The form will help us understand your interests and needs, ensuring you receive the right information and support to make informed decisions about your vehicle's engine swap.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Network Access Restrictions Survey - Help Guide
 ## Purpose
 This survey aims to gather information about network access restrictions that may be impacting employee productivity and satisfaction. Please answer these questions to help us understand your access restrictions and provide suggestions for improvement.

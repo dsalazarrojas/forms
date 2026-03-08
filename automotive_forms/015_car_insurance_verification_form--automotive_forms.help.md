@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Insurance Verification Form - Help Guide
 ## Purpose
 This form is used to verify vehicle insurance information for the purpose of verifying insurance coverage, checking for accuracy, and updating records. It is essential to provide accurate and up-to-date information to ensure the verification process is successful.

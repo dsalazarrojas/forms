@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <details>
 
 # Annual Review Evaluation Form - Help Guide

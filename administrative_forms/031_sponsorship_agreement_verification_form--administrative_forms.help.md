@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about sponsorship agreements for events, ensuring that the agreement has been properly verified and documented. This form will guide you through the process of filling it out.
-
-Before starting, ensure that you're submitting this form for the correct purpose and that you haven't submitted it before. The form is used for sponsorship agreements verification, so it's essential to ensure you're not duplicating effort.
-
-This form will help you collect and store information about sponsorship agreements, including the event title, sponsor name, agreement date, sponsor address, event details, verification process, sponsorship terms, and verification result. You'll be asked to fill out all fields, with some fields having options like 'verified', 'not verified', and 'pending'. Finally, you can add any additional comments and upload a file if needed.
-
-</thinking>
-
 # Sponsorship Agreement Verification Form - Help Guide
 ## Purpose
 This form is designed to collect and store information about sponsorship agreements for events. It ensures that the agreement is properly verified and documented.

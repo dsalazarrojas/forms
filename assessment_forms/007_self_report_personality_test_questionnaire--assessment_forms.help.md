@@ -1,11 +1,3 @@
-<thinking>
-The Self Report Personality Test Questionnaire form is designed to collect information about an individual's personality traits, preferences, and goals. The form is intended for individuals who are looking for coaching or educational programs that cater to their specific needs. The form should not be used for official assessment or evaluation purposes, as it is a self-reporting tool. 
-
-Please note that this form is not meant to replace professional assessments or evaluations. The information collected through this form will be used to guide coaching or educational programs and should not be used as a definitive measure of an individual's personality or abilities.
-
-Before filling out this form, please ensure that you are not repeating this form for the same purpose or context. Each submission will create a new record in the system.
-</thinking>
-
 # Self Report Personality Test Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your personality, preferences, and goals. The data collected will help guide coaching or educational programs tailored to your needs.

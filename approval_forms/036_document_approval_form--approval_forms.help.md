@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## document_approval_form - Help Guide
 
 ## Purpose

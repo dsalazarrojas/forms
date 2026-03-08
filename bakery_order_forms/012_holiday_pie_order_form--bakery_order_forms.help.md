@@ -1,14 +1,3 @@
-<thinking>
-
-This form is used to process orders for holiday pies from customers. The form allows customers to provide order information, including their name, email, phone number, and order details such as pie description, order total, and payment type. The form also includes fields for baker information, including baker name and baker ID. The form's fields and their types are:
-
-*   **Order Information (Page 1)**: This page is used to capture general order information.
-*   **Customer Information (Page 2)**: This page captures customer details.
-*   **Order Details (Page 3)**: This page is used to capture order details such as order total and payment type.
-*   **Delivery Information (Page 4)**: This page captures delivery details.
-
-</thinking>
-
 # Holiday Pie Order Form - Help Guide
 ## Purpose
 The Holiday Pie Order Form is used to process orders for holiday pies from customers. This form captures customer and order information, allowing bakers to efficiently process orders and provide accurate delivery and payment information.

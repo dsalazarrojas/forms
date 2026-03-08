@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to record the temperature at which food has been thawed, which is an important aspect of food safety and quality control. This form is used to monitor and document the temperature at which food products such as cheese, meat, and seafood are thawed to prevent bacterial growth and ensure that they are safe for consumption. This form is not intended to be a one-time use form, it is a recurring task that should be filled out for every time food is thawed.
-The form fields should not be filled out if the food has already been processed and is not intended for immediate consumption. If a food product has been thawed previously, the user should not log it again.
-</thinking>
-
 # Food Thawing Temperature Log - Help Guide
 ## Purpose
 The Food Thawing Temperature Log is a form used to record the temperature at which food has been thawed. This is an important aspect of food safety and quality control.

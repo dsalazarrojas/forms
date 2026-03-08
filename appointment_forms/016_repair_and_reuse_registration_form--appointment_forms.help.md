@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather registration information for a repair and reuse event. It's designed to collect details about the service center, event date and time, and contact details of the person registering. The form is not mandatory, but it's essential to provide accurate and relevant information to ensure smooth registration and communication.
-
-To ensure that this form serves its purpose and doesn't get duplicated, we will check for existing registrations with similar event info (date, service center, and event info) to prevent multiple registrations for the same event.
-
-Before proceeding, please review the form carefully to understand the type of information it collects and ensure it's filled out correctly.</thinking>
-
 # Repair And Reuse Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather registration information for a repair and reuse event.

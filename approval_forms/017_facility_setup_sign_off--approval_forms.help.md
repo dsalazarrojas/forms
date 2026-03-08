@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to capture setup information for a facility, likely as part of an operational or administrative process. This form is likely used to document the setup details of a facility, such as its status or configuration. The form is designed to be flexible, allowing users to select various options and enter text-based information.
-
-To avoid duplication, it's recommended to check if the form has been filled out previously and only proceed if necessary.
-
-</thinking>
-
 # Facility Setup Sign Off - Help Guide
 ## Purpose
 This form is used to capture setup information for a facility, providing a record of its status or configuration.

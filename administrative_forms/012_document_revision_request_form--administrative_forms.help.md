@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Document Revision Request Form - Help Guide
 ## Purpose
 The Document Revision Request Form is used to request revisions to a document. This form is used to indicate whether a document requires revision and to specify the type of revision needed.

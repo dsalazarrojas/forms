@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used in a kindergarten setting to track the attendance of children. The purpose of this form is to gather information about the check-in and pickup times of children, as well as the contact information of the staff members responsible for their care. This form may be used by staff members to accurately record attendance and communicate with parents or guardians about their child's daily schedule.
-This form is not designed for public use, and its content is likely to be sensitive in nature (e.g., child's name, ID, and contact information). Therefore, it is crucial to ensure that only authorized personnel have access to this form, and its completion should be restricted to staff members.
-</thinking>
-
 # Kindergarten Safety Attendance Form - Help Guide
 ## Purpose
 The Kindergarten Safety Attendance Form is used to record and track the attendance of children in a kindergarten setting, ensuring their safe and accurate care.

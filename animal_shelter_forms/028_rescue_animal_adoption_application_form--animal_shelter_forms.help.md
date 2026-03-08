@@ -1,13 +1,3 @@
-<thinking>
-We will create a user-friendly help guide for the "rescue_animal_adoption_application_form" to ensure end-users understand the form's purpose, how to complete it, and what each field means. The form is designed to capture essential information from users interested in adopting an animal from a rescue organization.
-
-To ensure a smooth user experience, we will follow a step-by-step process:
-
-1.  Review the form's YAML structure and fields to understand their intent and requirements.
-2.  Create a clear and concise help guide that addresses the form's purpose, completion process, and field-by-field explanations.
-
-</thinking>
-
 # rescue_animal_adoption_application_form - Help Guide
 ## Purpose
 The "rescue_animal_adoption_application_form" is designed to gather information from individuals interested in adopting an animal from a rescue organization. This form helps the organization assess the applicant's suitability for adoption and ensures the best possible match between the applicant and the animal.

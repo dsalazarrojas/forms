@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help Girl Scouts process and fulfill cookie orders from customers. The form allows customers to select the type(s) of cookies they want, the number of cookies they'd like to buy, and other details about the order. To confirm that the form is being used correctly, it would be helpful to ensure that each field is filled out with relevant information.
-</thinking>
-
 # Girl Scout Cookie Order Form - Help Guide
 ## Purpose
 The Girl Scout Cookie Order Form is a tool to help customers place orders for cookies. Please fill out this form with the requested information to ensure your order is processed correctly.

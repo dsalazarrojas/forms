@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Book Character Casting Form - Help Guide
 ## Purpose
 This form is designed to collect information from actors who are interested in auditioning for book character roles. It gathers essential details such as actor name, contact email, role interest, age range, headshot link, availability, and experience notes. The form is intended for book character casting directors to review and consider potential actors for their roles.

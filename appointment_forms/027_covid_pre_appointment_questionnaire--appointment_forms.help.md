@@ -1,38 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I'll review the form's title and the structure of its fields. Given the title "Covid Pre Appointment Questionnaire", it is likely a form used to gather information about a person's health and appointment scheduling needs before a medical appointment. Each field appears to be related to this purpose, with some fields asking for personal contact information (first name, last name, email, phone) and others asking about medical-related information (medical condition, symptoms, medical history, etc.).
-
-I notice that some fields are marked as required, while others are not. The required fields suggest that they need to be filled in order to progress through the form or to be eligible for a medical appointment. These fields include "Last Name", "Date", "Appointment ID", and "Form ID".
-
-To complete this form, the user will need to follow these steps:
-
-1. Enter their first name in the "First Name" field.
-2. Enter their last name in the "Last Name" field.
-3. Select a date in the "Date" field.
-4. Select a time in the "Time" field (if required).
-5. Enter their email in the "Email" field.
-6. Enter their phone number in the "Phone" field (if required).
-7. Enter their reason for appointment in the "Reason" field (if required).
-8. Enter their medical history in the "Medical History" field (if required).
-9. Enter their travel history in the "Travel History" field (if required).
-10. Enter contact information for an emergency contact in the "Contact Info" field (if required).
-11. Enter the name of a doctor or healthcare provider in the "Doctor Name" field (if required).
-12. Enter any medical conditions that they are experiencing in the "Medical Condition" field (if required).
-13. Describe their symptoms in the "Symptoms" field (if required).
-14. Enter any medication they are currently taking in the "Medication" field (if required).
-15. Select the assigned appointment ID from the "Appointment ID" field.
-16. Select any assigned tools or equipment from the "Assigned Tool" field (if required).
-17. Enter a file output in the "Output File" field (if required).
-18. Enter a form ID in the "Form ID" field.
-19. Enter a description of their appointment in the "Description" field (if required).
-20. Enter a category for their appointment in the "Category" field (if required).
-21. Enter a title for their appointment in the "Form Title" field (if required).
-22. Enter a category for their form in the "Form Category" field (if required).
-23. Enter a description for their form in the "Form Description" field (if required).
-24. Select any assigned tools or equipment from the "Form Assigned Tool" field (if required).
-
-</thinking>
-
 # Covid Pre Appointment Questionnaire - Help Guide
 ## Purpose
 The Covid Pre Appointment Questionnaire is a form used to gather information about a person's health and appointment scheduling needs before a medical appointment. This form is designed to help healthcare providers gather necessary information to prepare for the appointment and ensure a smooth and efficient visit.

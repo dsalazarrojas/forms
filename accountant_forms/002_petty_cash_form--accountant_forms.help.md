@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to track and record petty cash transactions for an organization. The form is meant to be used by accounting personnel or financial managers to document and verify petty cash expenditures. Before proceeding, please ensure that you have permission to complete this form and that you are entering accurate and complete information.
-
-The form consists of several fields to collect relevant information about the transaction. 
-
-</thinking>
-
 # Petty Cash Form - Help Guide
 ## Purpose
 The Petty Cash Form is a tool used by accounting personnel or financial managers to document and track petty cash transactions within an organization. 

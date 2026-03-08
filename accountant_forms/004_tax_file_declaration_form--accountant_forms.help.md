@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals or businesses that need to declare tax-related details. This form is designed to be simple and user-friendly, making it easier for users to provide accurate and comprehensive tax information. It is not affiliated with any form platform, but rather a custom creation for general use. Before filling out this form, ensure that you are providing the correct information and that it is accurate to the best of your knowledge. If you are unsure about any field, please seek the advice of a tax professional. It is also worth noting that this form is an original adaptation and not a copy of any existing form.
-</thinking>
-
 # Tax File Declaration Form - Help Guide
 ## Purpose
 This form is used to collect tax-related information from individuals or businesses for tax declaration purposes.

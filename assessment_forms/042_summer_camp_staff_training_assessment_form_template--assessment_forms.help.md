@@ -1,14 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form designed for assessing summer camp staff training. The form aims to gather information on staff training and performance evaluation. The guide should be clear, concise, and practical, explaining the purpose of the form, how to complete it, and what each field means. 
-
-The form has 10 fields, including text, number, select_multiple, and select_one types. Some fields are optional, which means users can skip them if they don't provide relevant information. We need to ensure that the fields are explained in a way that is easy to understand for end-users. 
-
-The guide will be in Markdown format, with a clear structure, including a brief introduction, step-by-step instructions on how to complete the form, and a field-by-field explanation of each section. This will help users understand the purpose and usage of each field, making the form more intuitive and user-friendly. 
-
-The goal is to provide a comprehensive guide that covers all aspects of the form, from its purpose to its usage, so that users can complete it efficiently and effectively.
-
-</thinking>
-
 # Summer Camp Staff Training Assessment Form Template - Help Guide
 ## Purpose
 This form is designed to assess the training and performance of summer camp staff. It helps to evaluate the effectiveness of the training program and identify areas for improvement. Complete this form to provide valuable feedback on staff training.

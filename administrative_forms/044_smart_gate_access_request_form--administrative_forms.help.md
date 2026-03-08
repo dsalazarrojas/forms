@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Gate Access Request Form - Help Guide
 
 ## Purpose

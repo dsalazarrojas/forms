@@ -1,13 +1,3 @@
-<thinking>
-
-Before creating this help guide, I'd like to clarify the purpose of this form: the Volunteer Safety Checklist is a tool used to track and document safety measures taken by volunteers in various scenarios, including emergency procedures, first aid, and incident reporting. This form aims to ensure that volunteers and organization are prepared and equipped to handle emergencies effectively.
-
-Given the form's layout, it seems to be collecting information on event details, volunteer details, safety protocols, emergency procedures, and incident reporting. I won't repeat the form's fields in the reasoning below, but I'll make sure to cover all fields in the guide.
-
-After reviewing the form's fields, I'm not finding any obvious duplication or inconsistency issues.
-
-</thinking>
-
 # Volunteer Safety Checklist - Help Guide
 ## Purpose
 The Volunteer Safety Checklist is a crucial tool to ensure that volunteers are prepared and equipped to handle emergencies effectively.

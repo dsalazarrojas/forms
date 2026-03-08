@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Of The Month Award Nomination Form - Help Guide
 
 ## Purpose

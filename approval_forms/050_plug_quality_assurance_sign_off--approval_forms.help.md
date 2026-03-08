@@ -1,7 +1,3 @@
-<thinking>
-This form is used by inspectors to sign off on the quality of a specific plug. The inspector will be asked to provide their name, the date of inspection, and other details about the plug. This form is not required but it's a good practice to use it to maintain records and ensure consistency in inspections. 
-</thinking>
-
 # Plug Quality Assurance Sign Off - Help Guide
 ## Purpose
 This form is used to document the quality assurance sign off for a specific plug. It's meant to capture the details of the inspection process, including the date, inspector's name, and plug's ID. This form is not mandatory, but it's a good practice to use it for tracking and maintaining consistency in quality assurance processes.

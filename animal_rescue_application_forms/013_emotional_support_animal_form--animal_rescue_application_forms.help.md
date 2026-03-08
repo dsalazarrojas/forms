@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information about an animal's emotional support status. However, it is crucial to verify the authenticity of submitted claims and prevent duplication of requests. To do this, we need to ensure that the form is filled out accurately and thoroughly. Please note that this process is not for everyone, and it's essential to read and understand the form carefully before proceeding.
-</thinking>
-
 # Emotional Support Animal Form - Help Guide
 ## Purpose
 This form is designed to help individuals apply for emotional support animals, providing essential information about their mental health status and the animal's species and purpose.

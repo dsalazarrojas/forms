@@ -1,16 +1,3 @@
-<thinking>
-This form is used to verify the franchise agreement details of a particular franchise location. It is intended for use by franchise owners to provide accurate and up-to-date information about their franchise stores. This form is not intended for public use and should only be filled out by authorized personnel within the franchise organization.
-
-Before filling out this form, please make sure you have the necessary permissions and approvals to do so. If you have any questions or concerns, please reach out to the relevant support team.
-
-This form is designed to collect detailed information about the franchise store, including ownership, address, operating hours, and agreement details. Each field is carefully labeled to help guide you through the process.
-
-Please note that some fields are optional, while others are required. Required fields are indicated by "required" label in the field description. Ensure you complete all required fields before submitting the form.
-
-The form is divided into several sections, each corresponding to different parts of the franchise agreement. You will find detailed explanations for each field below.
-
-</thinking>
-
 # Franchise Agreement Verification Form - Help Guide
 ## Purpose
 ## How To Complete This Form

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an athlete's sports technique, providing a structured way to evaluate their skills and performance in a specific sport. It is intended for coaches, instructors, or evaluators to use in a clinical setting. This form is not meant for public consumption.
-</thinking>
-
 # Sports Technique Assessment - Help Guide
 
 ## Purpose

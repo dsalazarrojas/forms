@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to be completed by individuals interested in volunteering for a non-profit organization. The form is used to gather information from applicants about their availability, preferences, and commitment to volunteering for the non-profit. 
-This guide is intended to be used by potential volunteers to understand the purpose and requirements of the form.
-The form has several sections that ask for personal information such as name, email, phone number, and address. 
-The form also asks for the preferred volunteer role and shift. 
-The form will help the non-profit organization understand the applicant's availability and preferences, enabling the organization to match the volunteer with a suitable role. 
-Please note that some fields may not be required but are still important to provide a complete and accurate understanding of the applicant's qualifications and preferences.
-Please also note that this form is a general template that can be customized according to the specific needs of each non-profit organization.
-The form may have sections for non-profit specific information that can vary from one to another. 
-</thinking>
-
 # Volunteer Application Form For Non Profit - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals interested in volunteering for a non-profit organization, enabling the organization to understand their qualifications and preferences, and matching them with suitable volunteer roles.

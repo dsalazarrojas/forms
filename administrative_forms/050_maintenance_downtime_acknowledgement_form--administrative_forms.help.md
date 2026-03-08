@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to acknowledge maintenance downtime, which is a crucial process for organizations to ensure their systems and equipment are functioning correctly. The form helps in tracking and documenting maintenance activities, their impact, and the affected areas. It also captures contact information and any additional comments for further reference.
-
-The form will be used by maintenance personnel or authorized individuals to report and acknowledge maintenance activities, providing a structured way to collect essential information for record-keeping and reporting purposes.
-
-To complete this form, you will be asked to provide details about the maintenance activity, including its nature, schedule, expected completion date, and duration. You will also need to indicate the areas affected by the maintenance and provide contact information for follow-up or reference.
-
-Below is a field-by-field explanation of the form to help you complete it accurately.</thinking>
-
 # Maintenance Downtime Acknowledgement Form - Help Guide
 ## Purpose
 The Maintenance Downtime Acknowledgement Form is used to document and track maintenance activities, their schedule, and impact on business operations.

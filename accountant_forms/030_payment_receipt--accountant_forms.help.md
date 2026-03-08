@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about a payment receipt, which is a document that confirms a financial transaction between a customer and the company. The purpose of this form is to gather details about the payment, including the customer's name, the date of the payment, the amount paid, and other relevant information. 
-
-To complete this form, follow the instructions below.
-
-This form is intended for accounting and bookkeeping purposes, and it's likely used to track payments and update financial records. There's no indication that this form is meant for public-facing documentation or external communication.
-
-The form appears to be designed for internal use within the company, and the "Customer ID" field might suggest that it's meant to be used for customer management purposes.
-
-Before proceeding, make sure to have a clear understanding of the payment details and the company's internal processes for handling payments.
-</thinking>
-
 # Payment Receipt - Help Guide
 ## Purpose
 The Payment Receipt form is used to collect and document information about a payment made by a customer. This includes details about the customer, the payment amount, and the payment method.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's make sure I understand the form's purpose. The "employment_continuation_request_form" form appears to be used for requesting employment continuation, which likely involves an employee's ongoing employment status. I will make sure to create a comprehensive and concise help guide that explains each field's purpose and relevance to the employee's employment status. I will not assume any business logic that is not explicitly mentioned in the form YAML. I will also ensure that each explanation is concrete, concise, and practical. I am ready to proceed with creating the help guide. </thinking>
-
 # employment_continuation_request_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Police Report Amendment Request Form - Help Guide
 
 ## Purpose

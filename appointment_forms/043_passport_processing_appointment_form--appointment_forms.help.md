@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning:**
-This form is used for processing passport-related appointments. It collects user information, contact number, preferred language, schedule time, schedule date, passport number, notes, assigned tool, and category details. The form is likely used in a customer support or passport services setting, where users can provide their personal details and preferences to facilitate efficient processing.
-</thinking>
-
 # passport_processing_appointment_form - Help Guide
 ## Purpose
 

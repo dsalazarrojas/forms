@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we should first understand the context and purpose of the form. This Cyber Security Risk Assessment Checklist form appears to be designed to assess and evaluate potential cyber security risks in an organization or system. It is likely intended for use by IT professionals, risk analysts, or security auditors to help them identify and prioritize potential risks. This form might be part of a more comprehensive risk management process, aiding in the systematic identification, assessment, and mitigation of cyber threats.
-</thinking>
-
 # Cyber Security Risk Assessment Checklist - Help Guide
 ## Purpose
 The Cyber Security Risk Assessment Checklist is designed to help IT professionals and risk analysts assess and prioritize potential cyber security risks in an organization or system. This form guides users through a series of questions to identify, evaluate, and document risks, providing a structured approach to risk management.

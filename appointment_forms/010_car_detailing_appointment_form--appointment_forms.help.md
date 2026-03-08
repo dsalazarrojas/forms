@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be submitted by car owners or representatives to schedule an appointment for detailing services. The form will be used to collect information about the type of detailing service needed, vehicle details, and contact information to confirm the appointment. This guide will explain each section of the form in detail to help users complete it accurately and efficiently.
-</thinking>
-
 # Car Detailing Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule an appointment for detailing services for your vehicle. Please select the type of service you need and provide your vehicle and contact information to confirm the appointment.

@@ -1,14 +1,3 @@
-<thinking>
-Please verify that the provided YAML is correctly interpreted, and no unsupported business logic is being invented. 
-
-The input schema defines a form with various fields for fine dining reservations, including date, guest count, reservation time, reservation duration, and customer information such as email, phone number, and notes. The form also includes fields for special requests, dining preferences, reservation status, and assigned tool. 
-
-Please ensure that the explanation accurately represents the provided fields without adding any extra features or functionality not present in the YAML. 
-
-Please confirm before proceeding with creating the help guide. 
-
-</thinking>
-
 # Fine Dining Reservation Form - Help Guide
 ## Purpose
 The Fine Dining Reservation Form is designed to collect information from customers for fine dining reservations. This form helps gather essential details such as reservation dates, times, and guest counts, as well as customer contact information and preferences.

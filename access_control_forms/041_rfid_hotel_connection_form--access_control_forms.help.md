@@ -1,9 +1,3 @@
-<thinking>
-The form is used to connect a guest's RFID card to their hotel stay. This form is used to collect the necessary information to link a guest's RFID card to their stay in the hotel. This form will be used to provide the hotel staff with the necessary information to check-in and check-out the guest. It's likely that this form will be used by hotel staff to process the RFID card information for a guest, so they will only need to fill in the required fields. 
-
-Please note that this form is not designed for guest-facing use, and the fields are likely to be filled in by hotel staff.
-</thinking>
-
 # rfid_hotel_connection_form - Help Guide
 ## Purpose
 The rfid_hotel_connection_form is used by hotel staff to connect a guest's RFID card to their stay in the hotel. This form is used to collect the necessary information to link a guest's RFID card to their stay.

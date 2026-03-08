@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to evaluate an individual's competency in administering topical medications. The form assesses the learner's knowledge and understanding of various aspects of topical medication, including medication names, forms, dosages, routes of administration, and potential side effects. This form is likely designed for healthcare professionals, such as nurses or pharmacists, to evaluate their understanding of topical medications.
-
-Before proceeding, please review the form's requirements to ensure that it is not being duplicated. Specifically, check that there are no existing forms or assessments that serve the same purpose.
-
-</thinking>
-
 # Topical Medication Competency Checklist - Help Guide
 ## Purpose
 This form is designed to evaluate an individual's competency in administering topical medications. It assesses knowledge and understanding of various aspects of topical medications, including names, forms, dosages, routes of administration, and potential side effects.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in solar panels, including their contact information, preferences, and appointment scheduling details. The form is intended for people seeking to learn more about solar panels, likely as a potential customer or client. To ensure relevance, this form should not be filled out by individuals who are not interested in solar panels.
-</thinking>
-
 # interested_in_solar - Help Guide
 ## Purpose
 The "interested_in_solar" form is used to collect contact information and appointment scheduling details from individuals interested in learning more about solar panels.

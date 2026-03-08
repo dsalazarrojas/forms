@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Extraordinary Exam Assessment - Help Guide
 ## Purpose
 The "Extraordinary Exam Assessment" form is designed to collect feedback and comments from students about their exam experience. This form is meant to help instructors and educators identify areas of improvement and provide insights to enhance future exam development.

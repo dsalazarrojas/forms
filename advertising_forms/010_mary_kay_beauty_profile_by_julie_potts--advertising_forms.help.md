@@ -1,7 +1,3 @@
-<thinking>
-This is a form for collecting user information, specifically for advertising purposes.
-</thinking>
-
 # mary-kay-beauty-profile-by-julie-potts - Help Guide
 
 ## Purpose

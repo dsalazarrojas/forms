@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Rental Complaint Form - Help Guide
 
 ## Purpose

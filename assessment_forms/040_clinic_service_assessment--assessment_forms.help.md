@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Clinic Service Assessment" form, we need to consider the following steps:
-
-1. Identify the form's purpose and scope.
-2. Analyze each field's label, type, and options to provide clear explanations.
-3. Determine the optimal structure and content for the help guide.
-
-Based on the provided YAML, the form is designed to evaluate a patient's experience with a clinic service. It covers various aspects, from assessor information and patient details to service quality and overall satisfaction.
-
-</thinking>
-
 # Clinic Service Assessment - Help Guide
 ## Purpose
 The "Clinic Service Assessment" form is designed to collect feedback on a patient's experience at a clinic. The form aims to evaluate the quality of care, communication, and overall satisfaction. This assessment helps clinics identify areas of improvement and make data-driven decisions to enhance patient care.

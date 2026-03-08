@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Web Banner Creation Request Form - Help Guide
 
 ## Purpose

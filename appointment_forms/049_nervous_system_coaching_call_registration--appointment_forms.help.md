@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is correctly used for its intended purpose and not duplicated unnecessarily. This form is for clients to schedule coaching calls with the system, and the purpose of this form is to gather information about the client's goals, concerns, and preferences for the call. This form should only be used for clients who are interested in scheduling a call, not for internal staff or administrators. This form should be checked for duplication before creating a new entry to avoid multiple entries for the same client.
-</thinking>
-
 # Nervous System Coaching Call Registration - Help Guide
 ## Purpose
 This form is designed for clients to register for a coaching call with the system, allowing them to schedule a call at a time that suits them best. The information collected will be used to prepare for the call and ensure that the client gets the most out of their coaching experience.

@@ -1,5 +1,3 @@
-<thinking>...This form, "Prosthetic Therapy Session Log," is intended to collect information about the details of a patient's prosthetic therapy sessions. This includes the patient's name, date and time of visit, number of sessions, number of sessions completed, and any notes from the therapist. The form likely exists to track progress and facilitate communication between patients, therapists, and other healthcare professionals. It may also serve as a reference point for future sessions or evaluations...</thinking>
-
 # Prosthetic Therapy Session Log - Help Guide
 ## Purpose
 This form is used to record the details of a patient's prosthetic therapy sessions, including their name, visit dates and times, and session progress.

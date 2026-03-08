@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for independent assessments, which are evaluations or judgments made by assessors on a subject. Assessments are used to evaluate the progress, skills, or knowledge of individuals or groups. The purpose of this form is to capture key information regarding the assessor's evaluation, including the date and time of the assessment, the location, and any additional comments. This form aims to facilitate the process of providing feedback and guidance for individuals or teams.
-
-Before starting this form, it is essential to ensure that the assessment is not being performed on someone who has already been assessed previously, as indicated in the "follow-up frequency" dropdown menu. Selecting "Submit" will finalize the assessment, whereas selecting "Cancel" will discard any entered data.</thinking>
-
 # Independent Assessment Form - Help Guide
 
 ## Purpose

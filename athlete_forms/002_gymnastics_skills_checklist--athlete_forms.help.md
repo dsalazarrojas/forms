@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help athletes assess their skills in various gymnastics moves, such as basic tuck, forward roll, cartwheel, and handstand. The form is a checklist that asks the athlete to confirm whether they have mastered each skill or are unsure about it. The form is likely used by coaches or trainers to evaluate the athlete's progress and provide feedback.
-</thinking>
-
 # Gymnastics Skills Checklist - Help Guide
 ## Purpose
 This form is a checklist designed to help athletes assess their skills in various gymnastics moves. It asks the athlete to confirm whether they have mastered each skill or are unsure about it.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information about wildlife rescued animals, providing essential details to facilitate their rehabilitation and care. 
-This form must be completed by a person responsible for submitting the information and should not be duplicated. 
-</thinking>
-
 # Wildlife Rehabilitation Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about wildlife rescued animals, ensuring their proper care and rehabilitation. Please fill out this form with accurate and complete information.

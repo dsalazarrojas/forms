@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a crucial part of the assessment process, and it's essential to ensure that it's filled out accurately and completely. This form is used to gather essential information about the client and their property before a home assessment visit. It helps in preparing the assessor with the necessary details to make a thorough and informed assessment. Please ensure that this form is filled out correctly and thoroughly to avoid any confusion or miscommunication during the assessment process.
-
-</thinking>
-
 # Home Assessment Pre Visit Questionnaire - Help Guide
 ## Purpose
 This form is used to gather essential information about the client and their property before a home assessment visit. It's a crucial part of the assessment process and helps in preparing the assessor with the necessary details to make a thorough and informed assessment.

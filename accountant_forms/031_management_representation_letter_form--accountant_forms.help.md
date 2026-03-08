@@ -1,7 +1,3 @@
-<thinking>
-To create this help guide, I need to understand the purpose and context of the form. The form seems to be related to management representation, but I'm not sure what specific context it's used in. The fields provided are a title, a text field, a signature field with options, and a date field. I will make some educated guesses about the form's purpose and context based on these fields.
-</thinking>
-
 # Management Representation Letter Form - Help Guide
 ## Purpose
 The Management Representation Letter Form is a document that provides an official statement or declaration from a manager or supervisor, typically used to support or validate a particular action or decision. It may be used to confirm the manager's approval or agreement with certain terms or conditions. The form is likely used in situations where a formal written statement is required, such as in financial reporting, project approvals, or other business processes.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback and review information for project progress. The purpose of this form is to facilitate regular reviews of project progress, ensuring that all stakeholders are informed and on the same page. To use this form, simply fill in the required fields with the relevant information and submit it for review. Each field has a specific purpose, and explanations are provided below to ensure clarity.
-</thinking>
-
 # Project Progress Review Appointment Form Template - Help Guide
 ## Purpose
 This form is used to collect feedback and review information for project progress. It helps to ensure that all stakeholders are informed and on the same page.

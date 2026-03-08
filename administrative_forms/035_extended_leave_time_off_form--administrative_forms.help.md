@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # extended_leave_time_off_form - Help Guide
 
 ## Purpose

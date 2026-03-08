@@ -1,5 +1,3 @@
-<thinking>As you'll see, this is a form for users to request the services of a Satellite Technician. This form has 2 fields for the user to input information, including details about the customer and the service request itself. This form is designed to collect necessary information from the user in order to efficiently fulfill their request. Before proceeding, please ensure you're not duplicating an existing request or that this form is relevant to your specific situation. If you have any questions or concerns, please don't hesitate to contact us at form@gic.mx.</thinking>
-
 # Satellite Technician Service Request - Help Guide
 ## Purpose
 This form is designed to collect information for a Satellite Technician Service Request. The purpose of this form is to gather details from the user about their service request, including customer and service details.

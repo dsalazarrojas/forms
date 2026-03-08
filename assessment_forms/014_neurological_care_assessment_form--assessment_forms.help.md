@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed to be a comprehensive assessment tool for neurological care providers to evaluate and document patient symptoms, medical history, and treatment plans. The form should only be used for patients with neurological conditions and should not be used for other medical conditions. Please ensure that the form is filled out in a way that accurately reflects the patient's condition and any necessary care instructions.
-  To fill out this form, the healthcare professional should have a good understanding of the patient's condition and the relevant medical literature.
-  Please note that the form's layout is designed to be flexible and adaptable to the needs of the patient. However, it is recommended that healthcare professionals fill out the form in a way that allows for easy reference and comparison across patients.
-</thinking>
-
 # Neurological Care Assessment Form - Help Guide
 ## Purpose
 The Neurological Care Assessment Form is designed to be a comprehensive assessment tool for neurological care providers to evaluate and document patient symptoms, medical history, and treatment plans. It is intended to be used for patients with neurological conditions and should not be used for other medical conditions.

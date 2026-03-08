@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect essential information for new patients who require a COVID-19 test. The form gathers details such as patient demographics, test type, medical insurance, and emergency contact information. This form is meant to be completed by the patient or their representative.
-Before filling out the form, ensure that you have all necessary documents and information readily available. If you're unsure about any field, it's best to clarify with a healthcare professional.
-The following sections of this form should be filled out by the patient or their representative. The form should not be duplicated or modified in any way.
-</thinking>
-
 # New Patient COVID-19 Test Registration Form - Help Guide
 ## Purpose
 This form is used to register a new patient for a COVID-19 test. It collects information about the patient, test type, medical insurance, and emergency contact details.

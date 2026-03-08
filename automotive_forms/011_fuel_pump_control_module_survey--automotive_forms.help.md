@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users about the fuel pump control module, which is a critical component in the automotive industry for controlling fuel pumps in vehicles. This form will help gather feedback, suggestions, and data on the performance of fuel pump control modules.
-
-Before starting, please make sure you have not filled this form before. This will save time and effort for both you and our team.
-
-</thinking>
-
 # Fuel Pump Control Module Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the fuel pump control module, its type, control module type, version, and other related details. It will help us understand your experiences and gather feedback for improving our products and services.

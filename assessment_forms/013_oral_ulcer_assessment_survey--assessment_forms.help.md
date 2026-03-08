@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Oral Ulcer Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to assess the severity and treatment status of oral ulcers in patients.

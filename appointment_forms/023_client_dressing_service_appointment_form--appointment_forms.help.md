@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for clients to provide their information and preferences for a personal styling service appointment. The purpose of this form is to gather the necessary details to provide tailored styling services. 
-
-This form is intended for individuals who wish to book a personal styling appointment. 
-
-The provided YAML defines the form structure, including fields such as name, contact information, service preferences, and appointment details. 
-
-Please note that this form is intended for personal use and should not be duplicated or modified without proper authorization. 
-
-</thinking>
-
 # Client Dressing Service Appointment Form - Help Guide
 ## Purpose
 The Client Dressing Service Appointment Form is designed to help our clients provide their information and preferences for a personal styling service appointment. This form gathers necessary details to provide tailored styling services.

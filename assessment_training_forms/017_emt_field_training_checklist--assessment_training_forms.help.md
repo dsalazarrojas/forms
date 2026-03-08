@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # EMT Field Training Checklist - Help Guide
 ## Purpose
 The EMT Field Training Checklist is a tool used to record and track the completion of EMT field training sessions. It's intended to ensure that all necessary information is captured accurately and consistently, making it easier to evaluate and improve the effectiveness of training programs.

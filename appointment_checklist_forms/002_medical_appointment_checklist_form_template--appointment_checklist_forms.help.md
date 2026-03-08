@@ -1,34 +1,3 @@
-<thinking>
-This guide will help users understand how to fill out the Medical Appointment Checklist Form Template efficiently and effectively. This form is designed to gather information about a patient's medical appointment. It appears to be a comprehensive form for medical professionals to record important details about a patient's appointment.
-
-The form has several fields, including:
-
-* Appointment details
-* Patient information
-* Doctor information
-* Appointment type (e.g., check-up, emergency, etc.)
-* Appointment status (active or inactive)
-* Medical conditions
-* Medications
-* Medical history
-* Allergies
-* Medical tests
-* Appointment date and time
-* Notes
-* Patient and doctor contact information (phone and email)
-* Medical team
-* Next appointment details
-* Medical notes
-* Doctor and patient signatures
-
-Before proceeding, ensure that this form is relevant and not duplicative with other forms used in your practice. The purpose of this form is to streamline the process of recording and managing patient information for medical professionals.
-
-This form is designed to be completed by a healthcare professional during or after a patient's appointment. The goal is to gather accurate and comprehensive information about the patient's medical condition, appointment details, and other relevant facts.
-
-Please review this guide to understand each field and its significance in the overall process of managing patient data.
-
-</thinking>
-
 # Medical Appointment Checklist Form Template - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's medical appointment for medical professionals to record and manage patient data efficiently.

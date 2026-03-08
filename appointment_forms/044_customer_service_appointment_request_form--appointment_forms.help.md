@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide that explains the purpose of the "appointment_forms" and walks users through how to complete it, we'll first need to understand the purpose and requirements of the form. The form, as seen in the provided YAML, appears to be for customers to request an appointment with a service provider. The form is composed of several fields, including form details, service type, date, time, email, phone number, note, and submit. To confirm, the form does not have any required fields, which suggests that it's more of a suggestion or a general information-gathering form rather than a formal appointment request. This guide will cover the purpose and usage of the form in a concrete, concise, and practical manner.
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

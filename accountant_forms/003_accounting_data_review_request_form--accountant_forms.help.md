@@ -1,7 +1,3 @@
-<thinking>
-The Accounting Data Review Request Form is a tool for accountants and financial professionals to request a review of specific accounting data. The form is designed to gather necessary information to ensure that the review is done efficiently and effectively. This form will help in minimizing the time spent in discussing the review requirements over the phone or in meetings. Before starting the form, please note that it is essential to be as detailed as possible, and if unsure, it is best to consult with the accounting team before submitting the form. It is also important to avoid submitting duplicate requests, as this can cause delays and confusion. Ensure that all required fields are completed accurately, and if any field is not applicable or not relevant, please leave it blank.
-</thinking>
-
 # Accounting Data Review Request Form - Help Guide
 ## Purpose
 The Accounting Data Review Request Form is designed to gather information for a review of specific accounting data. This form ensures that all necessary details are captured to facilitate an efficient review process.

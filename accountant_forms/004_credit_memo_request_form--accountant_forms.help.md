@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Credit Memo Request Form - Help Guide**
 ====================================
 

@@ -1,10 +1,3 @@
-<thinking>
-We are providing a form to assess knowledge in electrostatics, and we want to ensure that the end-users understand the purpose and how to complete it correctly. The form is designed to gauge the knowledge of students or instructors in the area of electrostatics, and the data collected will be used to evaluate their understanding.
-
-Before proceeding, we need to confirm that the user is not attempting to fill out the form for an incorrect purpose. If the user is not a student or instructor, they should not be completing this form. Also, we want to avoid duplication of work, so if the user has already completed the form in a previous session, they should not be able to fill it out again.
-
-</thinking>
-
 # Electrostatics Knowledge Assessment - Help Guide
 ## Purpose
 

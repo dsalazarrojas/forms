@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for team-branded accessories orders. It is intended for team members or customers to place orders for team-branded accessories. This form should only be used for orders that are intended for in-house use, such as team events or team members. Orders for external customers or non-team use should not be processed through this form.
-
-It's worth noting that the form has two Team Name fields, which might indicate that this form is intended for ordering team-branded accessories for two different teams or for team members to order for two teams.
-
-This form collects various information, including team name, accessory type, quantity, delivery date, delivery time, delivery address, total amount, payment method, payment details, order details, order date, order time, customer name, customer email, customer phone, customer address, customer city, customer state, customer zip, customer country, customer notes, order status, order comments, submission time, and team name 2 (which might be redundant, see above).
-
-It's also worth mentioning that the "order_status" field is required, which might indicate that the form is intended for tracking and managing orders in real-time.
-
-Please review the form carefully and ensure that it's being used as intended.</thinking>
-
 # Team Branded Accessory Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for team-branded accessories orders.

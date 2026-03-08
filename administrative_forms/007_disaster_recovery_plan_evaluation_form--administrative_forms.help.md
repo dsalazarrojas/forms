@@ -1,5 +1,3 @@
-<thinking>As a form designer, I need to ensure that the form is clear and concise in its purpose and requirements for the end-user. This form is designed to collect information from users about their disaster recovery plan, which will help us assess their ability to respond to and recover from disasters. I will check that this form does not overlap with any other form and that the information collected is relevant to its purpose.</thinking>
-
 # Disaster Recovery Plan Evaluation Form - Help Guide
 ## Purpose
 The Disaster Recovery Plan Evaluation Form is designed to assess an organization's ability to respond to and recover from disasters. This form collects information about an organization's disaster recovery plan, which will help us evaluate its effectiveness and identify areas for improvement.

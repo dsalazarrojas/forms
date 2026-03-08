@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess an athlete's daily readiness for training. The form is used to gauge the athlete's physical and mental state, including their sleep quality, energy level, muscle soreness, hydration status, mental state, and overall readiness to train. This assessment is crucial for the coach to understand the athlete's preparedness for the day's training session. The form also includes fields for reporting any new injuries or concerns, which enables the coach to take necessary precautions and adjust the training plan accordingly. It is recommended that athletes complete this form before their first training session of the day.
-</thinking>
-
 # Athlete Daily Readiness Assessment - Help Guide
 ## Purpose
 The athlete daily readiness assessment is a tool used to evaluate the athlete's state of readiness for training. It ensures that the athlete's physical and mental state are in optimal condition for a productive and safe training session.

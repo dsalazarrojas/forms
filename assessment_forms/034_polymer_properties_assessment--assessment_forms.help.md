@@ -1,15 +1,3 @@
-<thinking>
-
-We need to ensure that the form is not duplicated, and the user understands the purpose and instructions of the "Polymer Properties Assessment" form.
-
-This form is designed to assess the properties of a polymer sample, which is a type of material composed of long chains of organic molecules. The form collects various attributes of the sample, such as its ID, name, type, weight, density, tensile strength, hardness, elongation, thermal resistance, chemical stability, and notes.
-
-The form is meant to be filled out for every polymer sample that is being assessed, and it provides a standardized way of collecting and storing information about each sample.
-
-To confirm that the form is not duplicated, we can ask the user to select the exact sample from a dropdown list, or use some other unique identifier.
-
-</thinking>
-
 # Polymer Properties Assessment - Help Guide
 ## Purpose
 The "Polymer Properties Assessment" form is designed to collect and store information about the properties of a polymer sample. The form is meant to be filled out for every polymer sample that is being assessed.

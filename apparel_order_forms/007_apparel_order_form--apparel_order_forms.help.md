@@ -1,21 +1,3 @@
-<thinking>
-
-To create a well-crafted user-facing help guide for the Apparel Order Form, we must first understand the form's purpose and the reasoning behind its design. 
-
-The Apparel Order Form is a form designed for customers to provide their information and preferences when ordering apparel items online. The form is divided into two main sections: Customer Information and Payment Information. 
-
-Customer Information section requires customers to provide their personal details such as full name, email address, phone number, shipping address, city, state/province, and zip code. This information is essential for processing their order and ensuring accurate delivery. 
-
-The Product Selection section allows customers to select the type of product they wish to purchase, including various categories like T-Shirts, Hoodies, Polos, Jackets, Hats, and Accessories. They can also choose the color and size of the product they prefer. 
-
-Finally, the Payment Information section enables customers to select their preferred payment method, such as credit card, debit card, PayPal, bank transfer, or check. This flexibility allows customers to choose a method that best suits their needs. 
-
-With the addition of the "Need another product?" field, customers can indicate if they wish to purchase more than one product. 
-
-The form's design ensures a smooth and straightforward process, guiding customers through essential fields to provide their order details accurately and efficiently.
-
-</thinking>
-
 # Apparel Order Form - Help Guide
 ## Purpose
 

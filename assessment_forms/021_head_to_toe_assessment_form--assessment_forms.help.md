@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Head To Toe Assessment Form - Help Guide
 ## Purpose
 The Head To Toe Assessment Form is a medical assessment tool used to evaluate a patient's overall condition and identify potential areas of concern. This form is used to gather information about a patient's physical status, including vital signs, muscle strength, and sensory and motor functions. It is an essential tool for healthcare professionals to gather comprehensive data and inform treatment decisions.

@@ -1,8 +1,3 @@
-<thinking>
-This form was created to help organizations assess their cyber security risks and identify potential threats. The purpose of this form is to provide a structured way to evaluate the risks and controls in place to mitigate them. Please note that this form is a generic template and may not cover all specific risks and controls relevant to your organization.
-
-</thinking>
-
 # Cyber Security Risk Assessment Questionnaire - Help Guide
 ## Purpose
 The Cyber Security Risk Assessment Questionnaire is a tool to help organizations identify and assess their cyber security risks. This guide will walk you through the form's purpose, how to complete it, and explain each field in detail.

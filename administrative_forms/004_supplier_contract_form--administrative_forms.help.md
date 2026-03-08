@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to capture information about a supplier's contract details. It includes fields for form data, suppliers, contract terms, contract duration, contract type, contract price, suppliers list, contract date, notes, email, phone, address, and contract status. This form should be completed by users who need to create or manage supplier contracts.
-The form is designed to be used in an administrative context, likely by procurement or purchasing teams within an organization.
-To avoid duplication, ensure that you only create one instance of this form per supplier contract.
-</thinking>
-
 # Supplier Contract Form - Help Guide
 ## Purpose
 The Supplier Contract Form is used to collect and manage information about supplier contracts.

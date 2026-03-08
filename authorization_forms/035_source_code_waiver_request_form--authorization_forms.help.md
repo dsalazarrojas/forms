@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a waiver of a source code, typically when a user needs to access or share sensitive or proprietary code. The purpose of this form is to ensure that the request is properly vetted and that the individual requesting the code has the necessary clearance.
-</thinking>
-
 # Source Code Waiver Request Form - Help Guide
 ## Purpose
 The Source Code Waiver Request Form is used to request access to sensitive or proprietary source code. This form must be completed by the requestor to ensure proper evaluation of their request.

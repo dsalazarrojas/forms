@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creative Break Time Off Form - Help Guide
 ## Purpose
 The Creative Break Time Off Form is a form used by employees to request a creative break, which is a scheduled time off to focus on personal projects, creative pursuits, or other non-work-related activities. This form allows employees to submit a request for a specific period of time off, providing necessary details about their project, and reason for the request.

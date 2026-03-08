@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rarity Assessment Form - Help Guide
 
 ## Purpose

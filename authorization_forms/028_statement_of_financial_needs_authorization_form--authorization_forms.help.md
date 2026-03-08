@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to collect information from users about their financial needs and authorization status. It is likely used by a financial institution or organization to assess a user's eligibility for certain benefits or services. The form is designed to be completed by a user, but also requires authorization from an official or administrator to confirm the user's financial needs. The form is typically used for internal purposes within the organization, such as tracking user requests and approvals.
-
-To complete this form, the user will need to provide information about their employment status, financial needs, and contact information. The form will also ask for the user's signature, as well as the authorized signature of an administrator.
-
-The form is not intended for general public use, and is likely only accessible to authorized personnel within the organization. The fields are designed to be self-explanatory, but some fields may require additional clarification or explanation to complete accurately.
-
-Before starting the form, ensure that you have the required permissions and authorization to access this form. If you are unsure, contact your supervisor or HR department for guidance.
-
-</thinking>
-
 # Statement Of Financial Needs Authorization Form - Help Guide
 ## Purpose
 The Statement Of Financial Needs Authorization Form is used to collect information about a user's financial needs and authorization status from an official or administrator. This form is intended for internal use within the organization to track user requests and approvals.

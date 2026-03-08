@@ -1,7 +1,3 @@
-<thinking>
-This form is used for checking out forestry equipment. It is intended for users to provide information about the equipment they are checking out, such as its type and size, the quantity of equipment being checked out, start and end dates, a description of the equipment, the name of the person checking it out, and their contact information. This form should only be completed by authorized personnel. Please ensure that you have the necessary permissions before completing this form.
-</thinking>
-
 # forestry_equipment_check_out_form - Help Guide
 ## Purpose
 This form is used for checking out forestry equipment.

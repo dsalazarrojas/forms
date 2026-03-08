@@ -1,5 +1,3 @@
-<thinking>As I ponder the provided YAML schema, I understand that this form is intended to collect monitoring and evaluation data related to "Appointment Forms" under the "activity_type" of the user's work. This form might be used for data analysis or reporting purposes. I will create a user-friendly help guide that covers the form's purpose, how to complete it, and what each field means. Before proceeding, I must ensure there are no duplicate explanations or unclear instructions. I will focus on making the guide concrete and practical for end users.</thinking>
-
 # Monitoring And Evaluation Data - Help Guide
 ## Purpose
 This form is used to collect monitoring and evaluation data related to "Appointment Forms". The data collected will help in analyzing and reporting purposes.

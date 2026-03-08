@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on Syllable Evaluation, which is a measure of the ability to articulate and convey ideas through speech. The purpose of this form is to gather input from users on their Syllable score, which can be used to assess their communication skills. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata. It's recommended to only submit this form if you have relevant and accurate information to share, as duplication of efforts can lead to incorrect or redundant data.
-</thinking>
-
 # Syllable Evaluation Form - Help Guide
 ## Purpose
 The Syllable Evaluation Form is designed to collect user feedback on their Syllable score, which is a measure of their communication skills. This form is intended to gather accurate and relevant information from users to help evaluate their speaking abilities.

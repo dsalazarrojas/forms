@@ -1,13 +1,3 @@
-<thinking>
-This form's purpose and business logic are assumed to be related to granting or denying access to group fitness classes. The form likely serves as a gateway to determine which classes a participant can join or access, based on their individual needs and preferences. This form should be completed by an individual to express their interest or availability for a specific group fitness class. 
-
-To complete this form correctly, follow these steps: 
-1. Select one or more classes that you are interested in joining from the list on the "Class Selection" page. 
-2. Answer "Yes" or "No" on the "Participant Details" page for the questions related to your ability or willingness to participate. 
-3. Choose a date from the list of available dates on the "Class Dates" page.
-
-</thinking>
-
 # Group Fitness Class Access Form - Help Guide
 ## Purpose
 This form is used to select and access group fitness classes. Complete this form to express your interest or availability for a specific class.

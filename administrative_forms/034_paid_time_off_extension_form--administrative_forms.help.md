@@ -1,6 +1,4 @@
-<thinking>...</thinking>
-
- Paid Time Off Extension Form - Help Guide
+Paid Time Off Extension Form - Help Guide
 =====================================
 
 ## Purpose

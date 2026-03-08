@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reimbursement Timing Adjustment Consent Form - Help Guide
 ## Purpose
 This form is designed to request a timing adjustment for reimbursement, which can be used to adjust the dates of a reimbursement payment. The form is used to gather information regarding the employee's request, such as the date of adjustment, the type of adjustment, and any necessary approval status. It is intended for employees and approvers to communicate and record the request and its approval.

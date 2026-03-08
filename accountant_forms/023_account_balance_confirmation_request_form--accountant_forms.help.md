@@ -1,7 +1,3 @@
-<thinking>
-This form is used by requestors to confirm the balance of their account with the financial institution. The form is typically used to request confirmation of account balances for various purposes such as annual audits, quarterly reviews, loan applications, or internal reconciliations. To avoid duplication, requestors should not submit multiple requests for the same account without prior approval from the financial institution.
-</thinking>
-
 # Account Balance Confirmation Request Form - Help Guide
 
 ## Purpose

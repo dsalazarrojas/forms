@@ -1,7 +1,3 @@
-<thinking>
-This form is used to nominate individuals or teams for a library services award. The purpose of this form is to provide a systematic and standardized way of nominating deserving individuals or teams for recognition and reward. This form should only be used for genuine nominations and not for self-nomination or duplication. Please ensure that you are not nominating someone who has already been nominated or has self-nominated themselves. If you are unsure, please check with the award committee before proceeding.
-</thinking>
-
 # Library Services Award Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate individuals or teams for a library services award. The purpose of this form is to recognize and reward outstanding achievements in library services.

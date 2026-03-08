@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information about wedding attendance, including the number of guests, contact information, and details about arrival and departure times. It is likely used by wedding planners or event coordinators to gather information about guests' attendance and preferences.
-
-To avoid data duplication, please ensure that you only fill out this form once. If you have already completed this form, please do not submit it again unless you have updated your information.
-
-This form contains 25 fields across 6 pages. Please review each field carefully and enter accurate information where possible.
-
-</thinking>
-
 # Wedding Attendance - Help Guide
 ## Purpose
 This form is used to collect information about wedding attendance, including the number of guests, contact information, and details about arrival and departure times.

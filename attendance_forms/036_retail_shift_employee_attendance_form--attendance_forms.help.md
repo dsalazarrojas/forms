@@ -1,11 +1,3 @@
-<thinking>Before creating this help guide, I will first review the form fields to understand its purpose and ensure that the explanations provided are clear and concise.
-
-Upon reviewing the form, I see that it's designed for recording retail shift employee attendance data. The form captures various details about an employee's shift, including store location, date, shift start and end times, attendance status, reason for absence (if applicable), and other relevant details. The form requires employee and manager signatures, indicating a collaborative effort between the employee and their manager to ensure accuracy and accountability.
-
-To confirm, the form's purpose is to collect attendance data for retail shift employees, and this guide will walk users through its completion process and explanation of each field.
-
-</thinking>
-
 # Retail Shift Employee Attendance Form - Help Guide
 ## Purpose
 This form is designed to record retail shift employee attendance data, ensuring accurate and transparent reporting of employee hours worked.

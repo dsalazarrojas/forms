@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended for users to register a paddleboard lesson, which includes details about the participant and the lesson specifics. The form has multiple fields for various pieces of information, including participant details and lesson specifics. Each field should be filled in as accurately as possible to ensure that the lesson is scheduled correctly and that the participant is properly registered. Please make sure that you fill out the form completely and accurately.
-
-</thinking>
-
 # paddleboard_lesson_registration_form - Help Guide
 ## Purpose
 The paddleboard lesson registration form is designed to collect information about participants and lesson details to schedule and register lessons correctly.

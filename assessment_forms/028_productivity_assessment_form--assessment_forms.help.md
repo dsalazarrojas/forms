@@ -1,6 +1,3 @@
-<thinking>What is the purpose of the "Productivity Assessment Form"?
-This form is designed to assess an employee's productivity, efficiency, and work habits. It helps to identify areas of improvement and provides a basis for regular feedback and reviews. The form is typically filled out by an employee and their manager to track progress and adjust work strategies as needed.</thinking>
-
 # Productivity Assessment Form - Help Guide
 ## Purpose
 The Productivity Assessment Form is a tool used to evaluate an employee's productivity, work habits, and satisfaction. It helps to identify areas of improvement and facilitates regular feedback and reviews.

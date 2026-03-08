@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Safety Attendance Form is to record attendance at meetings and events, ensuring that all employees are accounted for in case of emergencies or incidents. This form helps track who is present and allows for easy reference in case of accidents or other situations where employee location and status are crucial. It's essential to complete this form accurately and thoroughly to maintain a safe working environment.
-
-Before starting, check that there isn't already a completed form for the same meeting, to avoid duplication of effort. Ensure you have all necessary information about the attendees before submitting the form.
-
-</thinking>
-
 # Safety Attendance Form - Help Guide
 ## Purpose
 The Safety Attendance Form is designed to capture attendance information for meetings and events, ensuring accurate headcounts and easy reference in emergency situations.

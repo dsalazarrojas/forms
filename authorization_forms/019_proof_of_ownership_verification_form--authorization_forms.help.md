@@ -1,7 +1,3 @@
-<thinking>
-Form purpose and relevance check: This form is designed to verify ownership of something, likely a product, asset, or property. The form likely serves as a document to prove ownership, possibly for official or legal purposes. Non-duplication check: This form does not appear to be a duplicate of any well-known forms, but it does share similarities with general forms used for proof of ownership. It's essential to ensure that the information entered is accurate and up-to-date to maintain the form's purpose.
-</thinking>
-
 # Proof Of Ownership Verification Form - Help Guide
 ## Purpose
 The Proof Of Ownership Verification Form is designed to collect information and proof of ownership for verification purposes. This form is typically used when someone needs to demonstrate ownership of an item, asset, or property. It helps ensure that the owner can provide accurate and up-to-date information to facilitate the verification process.

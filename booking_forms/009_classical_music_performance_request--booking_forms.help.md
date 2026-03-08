@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help event organizers request classical music performance services. It gathers information about the event, music preferences, and technical requirements. Ensure that the fields are filled out accurately and comprehensively to get the best results. Please do not submit duplicate or vague requests. If you are unsure about any field, please contact us for clarification.
-</thinking>
-
 # Classical Music Performance Request - Help Guide
 ## Purpose
 The Classical Music Performance Request form is designed to gather all necessary information about your event and your musical preferences. Please fill out this form to ensure that we can tailor our performance to your specific needs.

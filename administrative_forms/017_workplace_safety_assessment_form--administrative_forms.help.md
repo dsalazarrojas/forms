@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about workplace safety measures and protocols in place at a workplace, allowing supervisors and employees to assess and document their current state of workplace safety. This form can be used by employees to report hazards, safety protocols, and incidents, and by supervisors to review and update safety measures.
-This form is intended to be a comprehensive assessment of workplace safety, covering general safety information, hazards identified, safety protocols, safety measures, safety equipment, training programs, employee information, supervisor information, emergency plans, incident information, and a review of safety measures.
-Please ensure that all required fields are completed and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Workplace Safety Assessment Form - Help Guide
 ## Purpose
 The Workplace Safety Assessment Form is designed to help employees and supervisors assess and document the current state of workplace safety measures and protocols.

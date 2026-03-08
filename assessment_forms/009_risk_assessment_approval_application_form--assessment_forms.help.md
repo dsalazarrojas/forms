@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for risk assessment and approval, ensuring that risks are properly evaluated and managed within an organization. The form is intended for use by authorized personnel to assess and approve risks, providing a standardized process for risk management. This form is not intended for general public use.
-</thinking>
-
 # Risk Assessment Approval Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather risk assessment and approval information for risks within your organization. It is used by authorized personnel to evaluate and approve risks, ensuring that they are properly managed and mitigated.

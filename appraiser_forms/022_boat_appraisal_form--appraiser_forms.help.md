@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the Boat Appraisal Form, which is used to gather information about a boat's condition, features, and value. The form is intended for use by appraisers and is used to assess a boat's worth in various situations, such as sale/purchase, insurance, financing, estate planning, tax assessment, or other purposes. 
 
 The form will cover various aspects of the boat, including its owner's information, technical specifications, condition, and estimated value. Please note that some fields are not required for all appraisal purposes.

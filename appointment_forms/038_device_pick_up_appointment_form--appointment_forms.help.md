@@ -1,7 +1,3 @@
-<thinking>
-This form is for scheduling a device pickup appointment. It is used for internal purposes, so ensure you're accessing this form as an authorized user. Please do not create duplicate records for the same device, as it may cause confusion in our inventory system.
-</thinking>
-
 # Device Pick Up Appointment Form - Help Guide
 ## Purpose
 This form is designed to schedule a device pickup appointment for a user.

@@ -1,11 +1,3 @@
-<thinking>
-
-The Vendor Access Authorization Form is used to collect information from vendors to ensure that they have the necessary access levels to perform certain tasks or access specific resources on behalf of our organization. This form is essential for our internal teams to verify the authenticity and identity of vendors before granting them access to our systems and resources. By filling out this form, vendors will be able to provide their first name, last name, company information, role, contact number, email, start date, and end date of their access authorization.
-
-Before proceeding, please ensure that this form is not a duplicate of an existing request for the same vendor. If you are unsure, kindly reach out to our support team for clarification.
-
-</thinking>
-
 # Vendor Access Authorization Form - Help Guide
 ## Purpose
 The Vendor Access Authorization Form is used to collect information from vendors to ensure that they have the necessary access levels to perform certain tasks or access specific resources on behalf of our organization.

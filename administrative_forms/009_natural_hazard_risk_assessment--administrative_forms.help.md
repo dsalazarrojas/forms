@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about natural hazards and their associated risks. The form is used to assess the potential risks associated with natural hazards such as floods, earthquakes, and wildfires. This form helps in understanding the frequency, impact, and location of these hazards, and provides a platform to capture any additional information or notes that may be relevant to the risk assessment.
-
-This form is intended for use by personnel responsible for risk management and mitigation efforts. The information collected through this form will help inform decisions and strategies for mitigating the risks associated with natural hazards. 
-
-Please note that this form may be used in conjunction with other forms and data collection efforts to provide a comprehensive understanding of natural hazards and their risks.
-
-</thinking>
-
 # natural_hazard_risk_assessment - Help Guide
 ## Purpose
 This form is used to collect information about natural hazards and their associated risks. It helps in understanding the frequency, impact, and location of these hazards, and provides a platform to capture any additional information or notes that may be relevant to the risk assessment.

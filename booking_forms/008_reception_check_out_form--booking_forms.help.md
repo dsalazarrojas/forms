@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll review the form schema to understand its purpose and ensure it's not a duplication of other forms. The form "Reception Check Out Form" appears to be a comprehensive form designed to gather various information from users, including general information, guest feedback, billing details, contact information, payment method, and additional fields for specific requirements. I'll make sure to cover all relevant fields in the help guide without duplicating information or omitting essential details.</thinking>
-
 # Reception Check Out Form - Help Guide
 ## Purpose
 The Reception Check Out Form is designed to collect information from guests during their stay at your reception, ensuring they can provide feedback, specify their payment method and details, and indicate any special requests or requirements. This guide will walk you through each field and help you complete the form accurately.

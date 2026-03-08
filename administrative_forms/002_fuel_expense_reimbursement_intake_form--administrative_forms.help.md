@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for employees to submit fuel expense reimbursement requests. It collects information for the following reasons:
-- Reimbursement of personal or business-related fuel expenses.
-- Collection of employee data for administrative purposes.
-
-This form should not be used for non-reimbursement purposes or for duplicate submissions. Ensure you're filling out the form only for genuine fuel expenses and do not submit duplicate forms for the same expense.
-
-</thinking>
-
 # fuel_expense_reimbursement_intake_form - Help Guide
 ## Purpose
 The fuel expense reimbursement form is used for submitting fuel-related expenses for reimbursement. This form collects relevant information about the expense, including date, mileage, and fuel type, to process your request.

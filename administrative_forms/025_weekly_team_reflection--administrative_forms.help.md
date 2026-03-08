@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from team members for weekly reflections. The purpose of this form is to collect data on team members' goals, availability, and other relevant details. It's essential to complete this form accurately to ensure that the team is functioning efficiently and effectively.
-</thinking>
-
 # Weekly Team Reflection - Help Guide
 ## Purpose
 The Weekly Team Reflection form is used to collect information from team members on their goals, availability, and other important details. This form helps the team to stay up-to-date with each other's progress and ensures that the team is working cohesively towards a common goal.

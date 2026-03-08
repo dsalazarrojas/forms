@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect personal and contact information from customers who wish to purchase hemp products. This form is designed to verify the customer's identity, age, and intended use of the products, as well as to ensure they are aware of and comply with relevant laws and regulations. This form may be used to assess the customer's eligibility to purchase certain hemp products, and to inform them of their responsibilities and limitations under state and federal laws. Before proceeding, please ensure that this form is applicable to your specific use case and that you are collecting only the information necessary for your purposes.
-</thinking>
-
 # Access Protection For Hemp Products - Help Guide
 ## Purpose
 This form is designed to collect personal and contact information from customers who wish to purchase hemp products. It will guide you through a series of questions to ensure you understand our policies and laws regarding hemp product sales.

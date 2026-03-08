@@ -1,11 +1,3 @@
-<thinking>
-The Salary Slip Overview Form is used to provide an overview of an employee's salary details. This form is used to collect and display information related to an employee's pay, including their name, department, job title, salary rate, and pay date. The form is used to ensure that all relevant information about an employee's pay is accurately recorded and up-to-date.
-
-This form will likely be used by employees, HR personnel, or accountants to view or update an employee's salary information. It is recommended to fill out this form only once for each employee, and any updates should be done through this form rather than creating a new entry.
-
-The fields in this form are designed to be filled out by the user, and the information will be used for internal purposes. Please make sure to fill out all required fields and ensure the accuracy of the information entered.
-</thinking>
-
 # Salary Slip Overview Form - Help Guide
 ## Purpose
 The Salary Slip Overview Form provides an overview of an employee's salary details, including their pay date, salary rate, department, job title, and other relevant information.

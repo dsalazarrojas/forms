@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect user information and preferences for premium content registration. It is intended for users who want to access premium content on the platform. The form will ask for user details such as name, date of birth, email, phone number, and other preferences. It will also ask users to agree to certain terms and conditions. The form is designed to be completed by new users who want to register for premium content. The main goal is to ensure that users have a clear and concise way to provide their information and agree to terms, making it easy for them to access the premium content they have signed up for.
-
-The form has multiple pages, and each page will have a different set of fields for users to fill out. Each field has a clear label and a description to help users understand what it is for. The fields include user input fields like name, date of birth, and phone number. There are also fields for users to select their preferences, such as options for user agreement and terms.
-
-The form will be completed by users who are registering for premium content, and it is essential to understand what each field is for to complete the form successfully. This guide will help users navigate the form and provide their information accurately.
-
-</thinking>
-
 # Premium Content User Registration - Help Guide
 ## Purpose
 This form is designed to collect user information and preferences for premium content registration. It is intended for users who want to access premium content on the platform.

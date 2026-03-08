@@ -1,7 +1,3 @@
-<thinking>
-We'll create a help guide for the "Cryptic Text Analysis Survey" form, which seems to be designed to gather users' thoughts and opinions on certain passages. The form appears to be focused on text analysis, potentially related to sentiment analysis or content evaluation. To confirm, the form has eight fields: four passages (First Passage, Sentiment Scale, Second Passage, Third Passage) and four text inputs (Interpretation, Second Passage Interpretation, Additional Comments, First Passage Interpretation). Each passage seems to be related to a text analysis exercise. The Sentiment Scale field is a select_one type, which suggests it might be used to gauge the user's emotional response or attitude towards the passage. The form does not have any explicit instructions, so we'll create a simple and concise help guide that assumes the user knows what they're expected to do.
-</thinking>
-
 # Cryptic Text Analysis Survey - Help Guide
 ## Purpose
 The Cryptic Text Analysis Survey is designed to gather users' thoughts and opinions on certain passages. This form is meant to elicit information about users' perceptions, attitudes, or interpretations of the provided texts.

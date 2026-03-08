@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information about a student's mathematics diagnostic assessment. It is designed to gather data on the student's math subject, grade level, and other relevant details. This information will help teachers and administrators assess the student's math readiness and identify areas where they need improvement. This form should only be filled out once per student and is typically completed by the teacher or school administration. It is not intended for frequent or repetitive use.
-</thinking>
-
 # Mathematics Diagnostic Assessment Form - Help Guide
 ## Purpose
 The Mathematics Diagnostic Assessment Form is a tool used to collect and track student information and assessment results. This form helps teachers and administrators to get a comprehensive overview of a student's math readiness and areas of improvement.

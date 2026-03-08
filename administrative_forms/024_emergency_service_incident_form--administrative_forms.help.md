@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to provide a standardized way for users to report emergencies or incidents. This form is intended to capture critical information about the incident, including details about what happened, who was involved, and how it was reported. By completing this form, users can ensure that the incident is documented accurately and in a format that is easily accessible by relevant stakeholders.
-
-To confirm, the form is meant to be used to report incidents that are not necessarily life-threatening or severe. The form is designed to be completed by staff members, students, or other individuals who need to report incidents that require some level of attention or follow-up.
-
-Please review this form carefully to ensure that it meets your needs. If you are unsure about any of the fields or the purpose of the form, please contact the relevant authorities or the system administrator.
-</thinking>
-
 # emergency_service_incident_form - Help Guide
 ## Purpose
 The emergency service incident form is designed to capture details about incidents that require some level of attention or follow-up. This form should be used to report incidents that are not necessarily life-threatening or severe.

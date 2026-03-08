@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Works Maintenance Checklist - Help Guide
 ## Purpose
 The Public Works Maintenance Checklist is designed to track the status of maintenance tasks related to public works projects. This form helps you keep track of which tasks are completed, which are in progress, and which are overdue. It provides a centralized place to record the completion dates, the personnel assigned to each task, and any comments that may be necessary for future reference.

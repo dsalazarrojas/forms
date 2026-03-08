@@ -1,7 +1,3 @@
-<thinking>
-This form is used to place an order for the factory access control system, a system that controls and monitors factory operations. This guide ensures that end users understand how to complete the form correctly, reducing errors and duplication.
-</thinking>
-
 # Factory Access Control System Order Form - Help Guide
 ## Purpose
 This form is used to request an installation of the factory access control system. Please complete the form carefully to provide all necessary information for the installation process.

@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be designed to collect feedback and information about accounts that are overdue or require follow-up. It appears to be used to manage client relationships and communication. The purpose of this form is likely to help users track and analyze the state of their accounts, identify potential issues, and plan follow-up actions. It seems that the form will help users assess the quality of communication and data collection processes, as well as the frequency of follow-up actions. I will assume that the form is intended for account managers or other stakeholders who need to keep track of client interactions and relationships.</thinking>
-
 # Overdue Account Management Survey - Help Guide
 ## Purpose
 The Overdue Account Management Survey form is designed to help account managers and stakeholders track and manage client accounts that are overdue or require follow-up. It collects information about communication practices, data collection, follow-up frequency, and other relevant details.

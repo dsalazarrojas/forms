@@ -1,12 +1,3 @@
-<thinking>
-Early Childhood Assessment Form - Help Guide
-
-This form is designed to gather information about a child's developmental status and assessment details. It is a crucial tool for assessing a child's development and planning actions for their growth and well-being. Please ensure that you are completing this form for the correct child and that the information is up-to-date and accurate.
-
-Before starting, please verify that you are not duplicating an existing assessment. Check the child's ID in our database to ensure that this form is not a duplicate.
-
-</thinking>
-
 # Early Childhood Assessment Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather personal and order-specific information from users interested in pre-ordering books from the Bestseller book series. It is meant to be filled out by customers to express their interest in purchasing specific books. The form checks for non-duplication of customer information and only allows unique pre-orders for each selected product. This ensures that customers can safely submit their interest in purchasing the books without worrying about their order being overridden by another customer. The internal logic is built to handle the pre-ordering process in a way that is both efficient and secure.
-</thinking>
-
 # Bestseller Book Pre Order Form - Help Guide
 ## Purpose
 The Bestseller Book Pre Order Form is designed for customers to express their interest in purchasing specific books from the Bestseller series. This form will help us better understand your requirements and preferences for these books.

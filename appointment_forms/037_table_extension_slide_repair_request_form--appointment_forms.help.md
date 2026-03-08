@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Table Extension Slide Repair Request Form", we must first clarify the form's purpose and potential issues to be addressed in this guide.
-
-The form is intended to capture information for table extension slide repair requests, including details about the repair itself and the appointment scheduling. Given the form's design, it seems to be used by customers to initiate a repair process and schedule a time slot within the repair. However, the form might lack some specificity, particularly in the way some fields are labeled (for example, "repair_date" and "appointment_date" seem to serve similar purposes). Without further information on the specific business logic or use cases behind this form, the following guide will offer explanations based on the provided fields and standard interpretation.
-
-</thinking>
-
 # Table Extension Slide Repair Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for table extension slide repair requests. It helps in scheduling a suitable time slot for the repair within the provided options. 

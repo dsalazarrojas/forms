@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by office administrators to collect information about temporary events that are not part of the regular office schedule. These events may be one-time meetings, ad-hoc conferences, or other types of events that require special arrangements. The form is meant to gather essential details about the event, such as the date and time it occurs, the type of event, and other relevant contact information. This form also gives office administrators the option to book office hours for these events, selecting specific time slots that work best for them.
-
-</thinking>
-
 # Temporary Event Office Booking Form - Help Guide
 ## Purpose
 This form is used to book temporary events, such as meetings, conferences, and workshops, for office space. It collects essential details about the event, including the date, time, type, and contact information.

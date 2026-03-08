@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect patient information for appointments. It is divided into four sections: patient details, appointment scheduling, appointment details, payment information, and patient appointment information. The form is designed to be easy to complete and understand, with each section having clear and concise labels and explanations.
-
-This form is not a medical or financial institution's form, but rather a general-purpose form designed to be useful for various industries and use cases. It's created using AI, not copied or extracted from any specific form platform.
-
-Before filling out this form, please ensure you have all the necessary information required for the sections below. If you're unsure about any field, please contact the form's creators at form@gic.mx.
-
-</thinking>
-
 # patient appointment form - Help Guide
 ## Purpose
 The patient appointment form is designed to collect patient details and appointment scheduling information for efficient and effective appointment management. It helps healthcare providers and other industries that require patient data collection and appointment organization.

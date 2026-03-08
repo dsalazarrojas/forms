@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to assess the wellness status of an individual in relation to COVID-19. It is intended to be completed on a daily basis to track the individual's overall, physical, and mental health. This form helps identify potential risks and provide support for the individual.
-
-This form will guide healthcare professionals and administrators in making informed decisions regarding access to work, school, or other activities. Please ensure that the date and time of completion match the actual date and time you are filling out the form.
-
-Before beginning, please ensure you have filled out a form for each day to track any changes in your wellness status over time.
-
-</thinking>
-
 # COVID 19 Daily Wellness Assessment - Help Guide
 ## Purpose
 The COVID 19 Daily Wellness Assessment form is designed to help track and record the overall, physical, and mental well-being status of an individual on a daily basis. This information is used to inform decisions about access to work, school, or other activities and to provide support.

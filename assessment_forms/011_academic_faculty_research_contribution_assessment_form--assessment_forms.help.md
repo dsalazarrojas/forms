@@ -1,10 +1,3 @@
-<thinking>
-This help guide will be designed to provide clear instructions on how to complete the Academic Faculty Research Contribution Assessment Form. The form is intended to gather information on the research contributions of academic faculty members, specifically their publications, grant activities, impact assessment, collaborative projects, supervision of graduate students, research development needs, and assessor comments. It is essential to ensure that the form is completed accurately and thoroughly to provide a comprehensive picture of the faculty member's research contributions.
-
-Before proceeding, please ensure that you have reviewed the form carefully to understand the requirements and fields involved. This guide is designed to walk you through each field and provide a clear explanation of what is expected from each section.
-
-</thinking>
-
 # Academic Faculty Research Contribution Assessment Form - Help Guide
 ## Purpose
 The Academic Faculty Research Contribution Assessment Form is designed to collect information on the research contributions of academic faculty members, including their publications, grant activities, impact assessment, collaborative projects, supervision of graduate students, research development needs, and assessor comments.

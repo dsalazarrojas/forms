@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users who need to sign out of a project. The purpose of this form is to capture relevant details about the user and their project, which will help the project team to track and manage the sign-out process efficiently. This form is intended for internal use within an organization, and it's likely that the project team or manager will review the submitted data to ensure a smooth transition of tasks and responsibilities.
-</thinking>
-
 # Project Key Sign Out Form - Help Guide
 ## Purpose
 The Project Key Sign Out Form is designed to gather user information and project details for sign-out purposes.

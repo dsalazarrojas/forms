@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to be a user-facing guide to assist end-users in completing the "Healthy Recipe Book Request" form. The form is designed to collect relevant information from users to create a book with healthy recipes. The purpose of this form is to allow users to specify their preferences for the book's format and content.
-
-The form will be used by the internal team to process the requests and create a book that meets the user's needs.
-
-Before filling out the form, please ensure you are not duplicating a request that has already been submitted. If you have any further questions or concerns, please contact the internal team for assistance.
-</thinking>
-
 # Healthy Recipe Book Request - Help Guide
 ## Purpose
 The "Healthy Recipe Book Request" form is designed to collect your preferences for a custom-made book with healthy recipes. Please fill out the form carefully to ensure that your book is created according to your needs.

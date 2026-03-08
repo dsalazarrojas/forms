@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # External Drive Unlock Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect medical assessment information from patients, including their medical history, condition, and contact information. To complete this form, please refer to the sections below for guidance.
-</thinking>
-
 # Medical Assessment Form - Help Guide
 ## Purpose
 The Medical Assessment Form is designed to collect information about a patient's medical history, condition, and contact information to ensure accurate and thorough assessment and treatment.

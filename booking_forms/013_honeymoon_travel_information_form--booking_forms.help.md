@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about honeymoon travel plans and preferences from users. This form will be used by travel agencies to gather details about the travelers' trip requirements, including their preferred destinations, travel modes, and budget constraints. The form's purpose is to ensure that the travel agency understands the client's needs and can provide an accurate quote. It is essential to complete this form accurately to provide the best possible experience for the traveler.
-</thinking>
-
 # Honeymoon Travel Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about your honeymoon travel plans and preferences to help us provide an accurate quote for your trip.

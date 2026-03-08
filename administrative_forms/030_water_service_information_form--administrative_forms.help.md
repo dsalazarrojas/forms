@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is meant to assist users in completing the "water_service_information_form" form, which appears to be a form for providing information about a water service. Given the fields included, it seems to be a form for submitting contact details and service-related data. 
-
-Considering the fields provided, it appears that this form is used in an administrative context, possibly for customer service or billing purposes. The form asks for address information (Street Address, Postal Code, City), contact details (Email, Phone), and possibly for assigning a specific contact person (Contact Person). It's essential to ensure the form is filled out accurately, as it seems to be used to establish communication and possibly for billing purposes.
-
-Before filling out the form, please ensure you're filling it for the correct purpose and that all required fields are accurate, as indicated by the "required" status in each field. If you're unsure about any of the information, please contact the relevant department for assistance.
-
-</thinking>
-
 # water_service_information_form - Help Guide
 ## Purpose
 The water service information form is used to provide essential contact and address information for water service purposes. It's crucial to fill out the form accurately to ensure proper communication and billing.

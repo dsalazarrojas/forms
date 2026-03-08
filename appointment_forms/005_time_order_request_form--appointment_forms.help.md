@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to request a time order, which likely refers to scheduling or arranging for a specific time frame or appointment. This form is meant to collect information from users to fulfill this request.
-The form appears to be designed for a general use case, without any apparent specific business logic or restrictions, suggesting that it is meant to be a catch-all for time-related requests. To avoid duplication of effort, it would be beneficial to check if a similar request has been made before.
-</thinking>
-
 # time_order_request_form - Help Guide
 ## Purpose
 This form is designed to request a time order, which is likely used for scheduling or arranging a specific time frame or appointment.

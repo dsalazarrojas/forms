@@ -1,5 +1,3 @@
-<thinking>...internal reasoning and duplication check...</thinking>
-
 # Test Blueprint Creation Form - Help Guide
 ## Purpose
 The Test Blueprint Creation Form is used to create a blueprint for assessments, which are used to evaluate and measure the performance of trainees in a training program. This form helps create a detailed plan for an assessment, including its objectives, criteria, and due dates.

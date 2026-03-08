@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # voter_registration_records_release_form - Help Guide
 ## Purpose
 The voter registration records release form is used to request the release of voter registration records from our office. This form is designed to collect information from individuals or organizations requesting access to these records.

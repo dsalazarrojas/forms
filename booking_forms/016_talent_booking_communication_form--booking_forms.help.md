@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact and event-related information from users who wish to book a talent or service for an event. Its primary purpose is to gather essential details for successful talent booking communication. The form is meant to be filled out by both talent providers and event organizers to facilitate smooth communication and ensure a smooth booking process.
-
-</thinking>
-
 # Talent Booking Communication Form - Help Guide
 ## Purpose
 This form is used to collect contact and event information from users to facilitate smooth talent booking communication between talent providers and event organizers.

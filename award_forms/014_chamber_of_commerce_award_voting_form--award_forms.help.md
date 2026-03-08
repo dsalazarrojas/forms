@@ -1,9 +1,3 @@
-<thinking>
-Form purpose:
-The Chamber Of Commerce Award Voting Form aims to gather votes for various award categories from chamber members. The form is designed to collect information from voters, including their name, email address, and membership status. It also allows voters to nominate businesses or organizations for different awards and provide reasons for their nominations. The form is used to ensure the integrity of the voting process and maintain confidentiality of votes.
-To prevent duplicate votes, voters are asked to confirm that this is their first time voting on this form, and to agree that their votes will not be attributed to them. After submitting their votes, users will be able to confirm their submission.
-</thinking>
-
 # Chamber Of Commerce Award Voting Form - Help Guide
 ## Purpose
 The Chamber Of Commerce Award Voting Form is designed to collect votes for different award categories from chamber members.

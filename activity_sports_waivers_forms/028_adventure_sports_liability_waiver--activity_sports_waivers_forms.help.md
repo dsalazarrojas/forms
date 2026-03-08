@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adventure Sports Liability Waiver - Help Guide
 ## Purpose
 This form is for participants to acknowledge and accept the risks associated with adventure sports activities. It requires participants to provide personal information, confirm their participation, and release the operator from liability in case of accidents or injuries.

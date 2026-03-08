@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users for a Tax Optimization Forum, which aims to facilitate discussions and knowledge sharing among professionals in the tax field. This form gathers relevant details such as forum title, date, time, location, description, category, interests, and other specific details. The form also includes a field for consent, which is essential for ensuring that users are aware of the terms and conditions of the event.
-
-Before proceeding, please ensure that the information provided is relevant and not duplicated. This form is designed to collect accurate and concise data for the Tax Optimization Forum.
-
-</thinking>
-
 # Tax Optimization Forum Registration - Help Guide
 
 ## Purpose

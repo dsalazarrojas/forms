@@ -1,14 +1,3 @@
-<thinking>
-**Form Purpose and Duplication Check:**
-
-The "Home Damage Incident Form" is designed to collect information about damage incidents that have occurred in a home environment. This form is typically filled out by a user who has experienced damage or vandalism in their home and is reporting it to the relevant authorities or insurance company. To ensure that this form is filled out correctly and efficiently, please review the following instructions carefully. 
-
-Before filling out this form, please check if you have already reported this incident. If you have, please do not fill out this form again. 
-
-**Form fields should only be filled out if they are relevant to the incident you are reporting.**
-
-</thinking>
-
 # Home Damage Incident Form - Help Guide
 ## Purpose
 The Home Damage Incident Form is a document used to report damage or vandalism that occurred in a home environment. 

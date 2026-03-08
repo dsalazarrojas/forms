@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the performance and management of housing managers. It is a comprehensive form that covers various aspects of housing management, including property condition, rent collection, and maintenance. This form is intended for use by housing managers to evaluate their own performance or for landlords to assess their property managers. It's crucial to complete this form accurately and thoroughly to get a clear picture of the housing management process.
-
-Before starting, please ensure that you have read and understood the form's purpose and instructions. This form has 25 fields, each with a specific focus on housing management.
-
-</thinking>
-
 # Housing Manager Assessment Form - Help Guide
 ## Purpose
 The Housing Manager Assessment Form is designed to evaluate the performance and management of housing managers. It covers various aspects of housing management, including property condition, rent collection, and maintenance.

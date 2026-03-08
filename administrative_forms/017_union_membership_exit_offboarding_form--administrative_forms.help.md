@@ -1,8 +1,3 @@
-<thinking>
-This form is used by union members to notify the union that they are exiting the union membership. This form helps the union to keep track of the reason for the member's resignation, the last date of union membership, and any additional comments. To prevent duplicate submissions, the member will receive an error message if they submit the same form with the same reason and last date of membership. This form should only be used by union members who are actively resigning from the union and not by members who are transferring to another union or renewing their membership.
-
-</thinking>
-
 # Union Membership Exit Offboarding Form - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-This form is used for requesting the release of construction permit records. The user is typically a representative of the property owner or their authorized agent, and they are requesting access to specific records related to the construction project. The form is used to gather information about the requesting party, the property and permit details, and the specific records being requested.
-
-Before filling out this form, the user should be aware of the following:
-
-* This form is for releasing records related to construction permits, not for requesting new permits or other types of records.
-* The form requires specific information about the requesting party, property, and records being requested to ensure accurate and efficient search and retrieval.
-* The user must acknowledge and agree to maintain confidentiality of sensitive information found in the records.
-* The user must also acknowledge and agree to pay the search and copy fees associated with the request.
-
-This form is not for internal use within the agency, but rather for external users who need to request records for legitimate purposes.
-</thinking>
-
 # Construction Permit Records Release Form - Help Guide
 ## Purpose
 This form is used to request the release of construction permit records related to a specific property.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information for a Nature Award nomination, which likely involves recognizing and celebrating outstanding works, achievements, or contributions related to nature, conservation, or environmentalism. 
-
-To avoid confusion, the form is designed to gather specific details from a photographer's perspective, assuming the nomination is for their work. However, it could be used to collect information for nominations from other fields as well.
-
-Before proceeding, check that all required fields are filled out correctly and that you have not already submitted this nomination. If you are submitting the same nomination multiple times, only the last submission will be accepted.</thinking>
-
 # Nature Award Nomination Form - Help Guide
 ## Purpose
 The Nature Award Nomination Form is designed to collect information for a Nature Award nomination, which recognizes and celebrates outstanding contributions related to nature, conservation, or environmentalism.

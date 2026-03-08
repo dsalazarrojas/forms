@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "Maintenance Record Template" form is to track and document maintenance activities performed on company assets. This form will help users to efficiently record and analyze maintenance data, ensuring that assets are properly maintained, and any issues are resolved in a timely manner.
-
-To prevent data duplication, this form should only be used for newly created maintenance records, and not for editing or updating existing records. If an asset already has an existing maintenance record, please refer to the original record instead of creating a new one.
-
-The form should not be used to track maintenance activities that have already occurred, but instead for future maintenance activities that are planned or in-progress.
-
-It is recommended to use this template for recording maintenance activities for assets that require regular upkeep or maintenance, such as vehicles, equipment, and properties.
-
-</thinking>
-
 # Maintenance Record Template - Help Guide
 ## Purpose
 This form is used to record and document maintenance activities for company assets, including vehicles, equipment, and properties.

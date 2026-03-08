@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Screen Printing Order Form - Help Guide
 
 ## Purpose

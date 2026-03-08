@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm assuming this form is intended to collect information for the launch details of sportswear products. This form likely collects metadata about the product, including its description, images, marketing and sales materials, target audience, and release date. The form is designed to be filled out by product managers or designers to provide a comprehensive overview of the product's specifications. I'm checking if there's any duplication of fields or irrelevant information...</thinking>
-
 # Sportswear Line Release Form - Help Guide
 ## Purpose
 The Sportswear Line Release Form is used to collect and document the launch details of sportswear products, ensuring a comprehensive and organized approach to product releases.

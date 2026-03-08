@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to verify the compliance of a policy amendment with the required approvers for a specific organization. This form ensures that all relevant approvers have reviewed and approved the policy amendment, ensuring that it aligns with the organization's policies and procedures. This form is used to validate that the necessary steps have been taken for the approval process, providing a clear audit trail of who has reviewed and approved the policy amendment.
 
 # policy_amendment_compliance_verification_form - Help Guide

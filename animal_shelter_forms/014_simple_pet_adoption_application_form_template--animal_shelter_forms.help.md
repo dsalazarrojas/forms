@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in adopting a pet from an animal shelter. The purpose of this form is to collect basic information about the adopter, their pet preferences, and their contact details. This form will help the animal shelter staff to process adoption applications efficiently and ensure that the adopter is well-matched with the pet they are interested in.
-</thinking>
-
 # Simple Pet Adoption Application Form Template - Help Guide
 ## Purpose
 This form is intended for individuals who wish to adopt a pet from an animal shelter. By completing this form, you will help us understand your preferences and needs, so we can provide you with the best match for your new pet.

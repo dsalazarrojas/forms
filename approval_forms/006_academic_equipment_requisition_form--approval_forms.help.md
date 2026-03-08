@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to allow faculty and staff to request academic equipment for departmental use. This form helps to streamline the process of acquiring and managing equipment, ensuring that requests are properly evaluated and approved. To avoid duplicates, please make sure to check the "Academic Equipment Requisition Form" database before submitting a new request. Please ensure that you have the necessary approvals and follow the departmental procedures for submitting this form...</thinking>
-
 # Academic Equipment Requisition Form - Help Guide
 ## Purpose
 The Academic Equipment Requisition Form is used to request academic equipment for departmental use. This form helps to streamline the process of acquiring and managing equipment, ensuring that requests are properly evaluated and approved.

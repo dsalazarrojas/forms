@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the office ergonomics of a workspace. This includes details about the workspace, workstation, and equipment used by employees, as well as their input and supervisor's input. The form is used to assess the ergonomic comfort and efficiency of the workspace.
-</thinking>
-
 # Office Ergonomics Assessment Form - Help Guide
 ## Purpose
 The Office Ergonomics Assessment Form is used to collect information about the office workspace, workstation, and equipment to ensure a comfortable and efficient working environment.

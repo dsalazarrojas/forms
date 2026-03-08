@@ -1,7 +1,3 @@
-<thinking>
-The form is used for requesting delivery of stationery items. The purpose of the form is to collect information about the type of stationery items, quantity, and delivery details. It seems to be used for internal administrative purposes within an office setting. Before proceeding, please ensure that you are in the correct context for this form and that you are not duplicating the form for the same request, as it might lead to unnecessary processing and potential issues.
-</thinking>
-
 # Stationery Delivery Form - Help Guide
 ## Purpose
 This form is for requesting delivery of stationery items within the office.

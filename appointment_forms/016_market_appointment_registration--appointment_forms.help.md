@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # market_appointment_registration - Help Guide
 ## Purpose
 The **market_appointment_registration** form is designed to collect user information, contact details, and appointment specifics in a straightforward and efficient manner. This form is intended for internal use within a business or organization to gather essential data for appointments, meetings, or events.

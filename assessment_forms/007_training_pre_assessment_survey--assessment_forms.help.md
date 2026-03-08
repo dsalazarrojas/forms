@@ -1,7 +1,3 @@
-<thinking>
-The goal of this "Training Pre Assessment Survey" form is to gather information about the trainee's self-evaluation and training needs. It appears to be designed for a training program or course, and is likely used to assess the trainee's current level of training, identify areas for growth, and provide feedback on their performance. This form may also be used to determine the trainee's willingness to receive additional training or support, and to identify potential areas of concern or need for improvement. Before proceeding, please ensure you have not completed this form previously, as it may be a duplicate entry.
-</thinking>
-
 # Training Pre Assessment Survey - Help Guide
 ## Purpose
 The "Training Pre Assessment Survey" form is designed to gather information about the trainee's self-evaluation and training needs.

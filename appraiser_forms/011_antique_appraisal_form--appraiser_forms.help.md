@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed for appraisers to provide detailed information about antique objects. This includes the date of the appraisal, the appraiser's details, the client's details, a description of the object, its type, estimated age, and condition. The form also allows for additional details such as damage description, material composition, dimensions, weight, maker signature, maker name, rarity assessment, comparable sales, appraised value, appraisal purpose, special characteristics, and recommendations for care or preservation.
-
-The form aims to collect a comprehensive set of data to facilitate accurate and precise antique object appraisals. It's intended for professionals to fill out, and the information collected will be used to provide a fair market value for the object.
-
-</thinking>
-
 # Antique Appraisal Form - Help Guide
 ## Purpose
 This form is designed for appraisers to collect detailed information about antique objects. It helps to facilitate accurate and precise appraisals by gathering a comprehensive set of data.

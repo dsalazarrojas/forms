@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of the "graphic_tee_order_form" form, I will analyze the fields and options provided in the YAML input. The form appears to be designed for ordering graphic t-shirts, and the fields seem to pertain to customer information, order details, payment and shipping information, and order status. Based on this analysis, the form's purpose is likely to process orders for graphic t-shirts, including gathering customer info, order specifics, payment options, and tracking order status.
-
-The form has multiple pages, but I will focus on the primary fields that need to be filled out. The fields can be grouped into categories for ease of understanding. 
-
-</thinking>
-
 # graphic_tee_order_form - Help Guide
 ## Purpose
 This form is used to process orders for graphic t-shirts. Fill out the form with customer information, order details, and payment options to create a new order.

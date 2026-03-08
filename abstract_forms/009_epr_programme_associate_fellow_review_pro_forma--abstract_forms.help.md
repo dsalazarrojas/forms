@@ -1,12 +1,3 @@
-<thinking>
-This form is a simple registration form used for associating a fellow review with a program. It is designed to collect the name and contact information of the individual to be associated with the review. Before proceeding, please ensure that you have already created the fellow review in the system and are now ready to link it with a program.
-
-This form should not be used to create a new fellow review. To create a new fellow review, please use the "Create Fellow Review" form.
-
-This form is intended for administrative users who need to associate an existing fellow review with a program. Please confirm that you have the necessary permission to access this form.
-
-</thinking>
-
 # epr_programme_associate_fellow_review_pro_forma - Help Guide
 ## Purpose
 This form is used to associate a fellow review with a program.

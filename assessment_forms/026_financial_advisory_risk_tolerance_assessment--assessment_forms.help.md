@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Advisory Risk Tolerance Assessment - Help Guide
 ## Purpose
 The Financial Advisory Risk Tolerance Assessment is a tool used to understand your risk tolerance and investment preferences. It helps us to provide personalized financial advice and investment strategies that suit your needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form used to assess and mitigate risks associated with COVID-19 in indoor playground settings, as well as to obtain a liability waiver from visitors. The form is designed to gather information about the visitor's understanding of COVID-19 risks, their medical history, and emergency contact information.
 
 The form consists of multiple pages with various fields, including text fields for risk assessments, medical history, and emergency contact information. Some fields have specific labels and formats, such as date and time fields for waiver form completion dates.

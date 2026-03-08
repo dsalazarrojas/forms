@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release warehouse inventory records, allowing users to provide information about the item being released, the reason for the release, the quantity, release date and time, any remarks, and the contact details of the person releasing the item. To ensure accurate and complete information, please review this form carefully and fill it out in its entirety.
-</thinking>
-
 # warehouse_inventory_records_release_form - Help Guide
 ## Purpose
 The warehouse inventory records release form is used to document the release of items from the warehouse. This form is essential for maintaining accurate inventory records and ensuring that all necessary information is captured for tracking and record-keeping purposes.

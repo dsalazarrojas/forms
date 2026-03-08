@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to assess the passenger's safety perception of a particular ride or travel experience. This includes evaluating their overall safety rating, specific aspects of their experience, and demographic information.
-We should only include pages 1 and 2 as they are the only required ones according to the form schema. Page 1 is a general text field for any additional comments. Page 2 contains questions about the passenger's experience, including their overall safety rating and whether they consider the ride safe.
-</thinking>
-
 # Passenger Safety Perception Assessment Form - Help Guide
 ## Purpose
 This form is used to collect feedback from passengers on their safety experience during a ride or travel. It will help us understand their overall perception of safety and identify areas for improvement.

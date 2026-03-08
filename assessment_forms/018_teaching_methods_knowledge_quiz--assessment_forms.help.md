@@ -1,6 +1,3 @@
-<thinking>
-This form is for assessing the knowledge of teachers on teaching methods. The purpose of this form is to gauge their understanding of various teaching methods and techniques. It is essential to complete this form accurately to get a fair assessment of one's knowledge. Please ensure that you are answering the questions based on your actual knowledge and experience in teaching. This form should be completed only once per person. If you have previously completed this form, please do not attempt to complete it again as it may affect the accuracy of the assessment.</thinking>
-
 # Teaching Methods Knowledge Quiz - Help Guide
 ## Purpose
 The Teaching Methods Knowledge Quiz is designed to evaluate your understanding of various teaching methods and techniques. It consists of multiple-choice questions and demographic fields to assess your knowledge and provide feedback.

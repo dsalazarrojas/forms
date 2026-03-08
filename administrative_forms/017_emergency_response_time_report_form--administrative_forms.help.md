@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report information about emergency response times. It's designed for users to provide details about incidents that have occurred on site, including the date and time they were notified, the start and end times of the response, and the duration of the response. The form will also help the user to select the type of response (medical, fire or other) and provide additional notes about the response.
-</thinking>
-
 # emergency_response_time_report_form - Help Guide
 ## Purpose
 The emergency_response_time_report_form is a tool used to record and report information about emergency responses, including the date and time of the incident, the start and end times of the response, and other relevant details.

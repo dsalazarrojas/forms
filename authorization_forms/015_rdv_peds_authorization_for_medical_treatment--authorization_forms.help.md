@@ -1,11 +1,3 @@
-<thinking>
-The form "ประก Rdv Peds Authorization For Medical Treatment" is likely used for medical professionals to request authorization for medical treatment or procedures from a patient's guardians or legal representatives. This form is used to document the details of the authorization, including the patient's name, medical condition, and the type of treatment or procedure being authorized. The form is likely used in pediatrics (Peds) or pediatric emergency settings.
-
-To avoid duplication, the form should only be used for patients who require authorization for medical treatment or procedures, and not for routine check-ups or follow-up appointments.
-
-This form is likely used in healthcare settings where patients may not be able to provide consent themselves, such as in emergency situations or when the patient is a minor.
-</thinking>
-
 # ประก Rdv Peds Authorization For Medical Treatment - Help Guide
 ## Purpose
 This form is for requesting authorization from a patient's guardians or legal representatives for medical treatment or procedures.

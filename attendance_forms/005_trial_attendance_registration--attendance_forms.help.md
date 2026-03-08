@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who wish to attend a trial session, providing details about the session, their preferred dates, times, and contact information.
-</thinking>
-
 # Trial Attendance Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to attend a trial session. By submitting this form, you will be providing essential details to schedule and manage your attendance.

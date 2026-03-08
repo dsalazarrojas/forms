@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to monitor vendor payments for a company or organization. It is used to track the status of payments made to vendors, whether they are full, partial, or not paid at all. This form is designed to be a simple and efficient way to gather information about vendor payments, making it easier to manage and monitor vendor relationships. The form is not intended to be used for any other purpose, and it is not a duplicate of any other existing form. The form's fields are designed to collect specific information about vendor payments, and each field has a clear and concise label that explains its purpose.
-</thinking>
-
 # Vendor Payment Monitoring Form - Help Guide
 ## Purpose
 The Vendor Payment Monitoring Form is used to track the status of payments made to vendors. It helps the user to quickly and efficiently monitor vendor payments and track any issues that may arise during the payment process.

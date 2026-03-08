@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Purchase Request Approval Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and process purchase requests in a streamlined manner. It helps the approver review and verify the purchase request before making a decision.

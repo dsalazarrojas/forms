@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from project leads or stakeholders for a health design audit request. This audit is used to review and assess the design of a project or system to identify areas for improvement and ensure compliance with relevant standards and regulations. When filling out this form, please ensure that you have permission from your project lead to complete this form, and that the information provided is accurate and up-to-date.
-
-To avoid duplication of efforts, please ensure that a health design audit has not been requested or performed for this project before submitting this form.
-
-Please note that the fields on this form are required to be filled in a specific format. For example, if you provide an email address, it should be in the standard "email@domain.com" format.
-
-</thinking>
-
 # Health Design Audit Request Form - Help Guide
 ## Purpose
 This form is used to request a health design audit for a project or system. The information gathered from this form will be used to review and assess the design and identify areas for improvement.

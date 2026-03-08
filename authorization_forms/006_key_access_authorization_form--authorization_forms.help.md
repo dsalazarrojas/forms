@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for the key_access_authorization_form, which is used for various authorization and access management purposes. This form is intended to be completed by authorized personnel to request or authorize access to specific resources or tools. It's designed to streamline the access request process, ensuring that only authorized personnel have access to sensitive information or systems.
-
-Before creating this guide, we should verify that this form is not duplicating any other existing documentation or forms, and that its purpose is clearly defined within our organization. This will help ensure that the form is comprehensive and serves its intended purpose effectively.
-
-Let's proceed with the creation of the guide, keeping in mind that the form is meant to collect relevant information from users to facilitate access authorization processes.
-
-</thinking>
-
 # key_access_authorization_form - Help Guide
 ## Purpose
 The key_access_authorization_form is used to request or authorize access to sensitive information or systems within the organization. It ensures that only authorized personnel have access to these resources.

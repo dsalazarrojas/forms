@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect biometric data from residents, which will be used to provide access to certain systems or facilities. This form is used to obtain the resident's consent for the collection of their biometric data. The form is designed to be completed by the resident themselves.
-
-Before filling out this form, please ensure that you have not already completed it in the past. If you have filled out this form previously, please do not fill it out again, as this will create duplicate entries.
-
-This form is divided into several sections, each with its own specific fields. Please read the explanations below for each field to ensure you complete it correctly.</thinking>
-
 # Resident Biometric Access Consent Form - Help Guide
 ## Purpose
 

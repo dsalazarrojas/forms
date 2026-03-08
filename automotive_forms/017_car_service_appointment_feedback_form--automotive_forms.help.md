@@ -1,6 +1,3 @@
-<thinking>
-Before creating the help guide, we should confirm that the form is intended to gather feedback from customers about their car service experience. This form should not be filled out by customers who are simply requesting a service appointment, but rather those who have already completed a service visit. To ensure data quality, we should also consider implementing a system to prevent duplicate submissions or ensure that only relevant customers fill out this form. This will help us to focus on gathering valuable feedback from customers who have actually experienced our services.</thinking>
-
 # Car Service Appointment Feedback Form - Help Guide
 ## Purpose
 This form is for customers to provide feedback on their car service experience, including their satisfaction with the service, staff professionalism, and areas for improvement.

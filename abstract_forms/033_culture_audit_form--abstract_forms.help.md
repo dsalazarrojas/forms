@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Culture Audit Form is used to collect information about the user's personal details and cultural background. This form is intended to help users provide accurate and consistent data for the purpose of the culture audit. Please ensure that you have filled in all required fields before submitting the form. Note that all fields are subject to review and validation, so please ensure that your responses are accurate and complete.
 
 # Culture Audit Form - Help Guide

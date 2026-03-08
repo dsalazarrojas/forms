@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who wish to register for a COVID-19 vaccine. It is intended for patients who are interested in receiving the vaccine and want to schedule an appointment. This form is not meant for healthcare providers or medical professionals. Please ensure that you are using this form for its intended purpose and not for duplicate registrations.
-</thinking>
-
 # COVID 19 Vaccine Registration, Consent And Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect personal and medical information from individuals who wish to register for a COVID-19 vaccine and schedule an appointment. It will ask you to provide your contact details, review and acknowledge the consent and authorization for the vaccination, and schedule a preferred appointment time and location.

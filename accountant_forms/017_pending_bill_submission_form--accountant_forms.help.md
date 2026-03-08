@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to submit pending bills for payment. It is a crucial part of our organization's financial process, as it allows us to keep track of outstanding payments and follow up on their status. To ensure accuracy and efficiency, please fill out the form carefully and correctly. Before submitting a bill, make sure it has not already been processed or paid. Duplicate submissions can cause confusion and errors in the financial records.
-
-</thinking>
-
 # Pending Bill Submission Form - Help Guide
 ## Purpose
 The Pending Bill Submission Form is used to submit new bills that are awaiting payment. It ensures that all necessary information is recorded accurately and on-time, helping to streamline the payment process.

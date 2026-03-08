@@ -1,5 +1,3 @@
-<thinking>...The Math Assessment Beginning Of Year form is designed to collect student information and assess their understanding of math facts at the beginning of the year. This form helps teachers to identify students' strengths and weaknesses, track progress, and inform instruction. It is intended to be completed by teachers or administrators for each student at the beginning of the year. To prevent duplication, ensure that each student's form is filled out only once per year... </thinking>
-
 # Math Assessment Beginning Of Year - Help Guide
 ## Purpose
 The Math Assessment Beginning Of Year form is a tool used to evaluate students' understanding of math facts at the beginning of the year. It helps teachers identify areas where students need additional support and tracks progress over time.

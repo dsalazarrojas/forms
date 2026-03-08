@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's consider the purpose and relevance of this form. This form, "Non Profit Volunteer Engagement Assessment", likely aims to gauge the satisfaction and engagement of volunteers within a non-profit organization. It's essential to confirm its relevance and ensure that it's not a duplicated effort. If this form is intended for internal assessment, there might be existing processes or tools in place that need to be reviewed for duplication of efforts. On the other hand, if it's for external use, it's possible that this form could be a useful tool for non-profit organizations to gauge the effectiveness of their volunteer programs.</thinking>
-
 # Non Profit Volunteer Engagement Assessment - Help Guide
 ## Purpose
 This form is designed to assess the engagement and satisfaction of volunteers within a non-profit organization. It aims to help organizations understand areas of improvement and make data-driven decisions to enhance the volunteer experience.

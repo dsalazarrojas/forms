@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for an Access Card Requisition from an employee. The form is meant to be used when an employee needs a new access card due to a variety of reasons such as a new employee, lost or stolen card, damaged card, name change, or access level update. The form helps the employee provide details about their request, including their contact information, reason for the request, access zones required, card type, and other relevant details.
-
-Before starting, please ensure that you have the necessary approval from your supervisor. This form is intended to be used by employees who are currently employed within the organization.
-
-</thinking>
-
 # Access Card Requisition Form - Help Guide
 ## Purpose
 This form is used by employees to request a new access card for their needs. It captures the required information for processing a new card request.

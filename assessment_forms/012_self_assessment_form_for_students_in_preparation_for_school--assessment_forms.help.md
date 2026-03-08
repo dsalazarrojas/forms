@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect self-assessment information from students to help schools prepare for school. This form is intended to gather information about students' health and well-being, particularly regarding their body temperature, symptoms, and other relevant details. The form is designed to be completed by students themselves, providing an opportunity for them to reflect on their health and provide accurate information to the school. Please ensure that you complete this form accurately and honestly, as the information collected will help the school provide better support and services for you.
-</thinking>
-
 # Self Assessment Form For Students In Preparation For School - Help Guide
 ## Purpose
 The Self Assessment Form For Students In Preparation For School is a tool used by students to report their health and wellness status, which will help the school staff prepare and provide necessary services.

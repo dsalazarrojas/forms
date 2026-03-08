@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information from customers seeking loan services. It is used to gather essential details such as name, contact information, loan specifics, and other relevant data. The form will likely be used by loan officers to assess loan applications and make informed decisions.
-</thinking>
-
 # ประก prophets form - Help Guide
 ## Purpose
 This form is designed to collect information from customers seeking loan services. It includes fields for personal details, loan specifics, and other relevant data to help loan officers assess loan applications and make informed decisions.

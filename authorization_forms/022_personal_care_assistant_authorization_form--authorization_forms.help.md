@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect authorization information from the family members or caregivers of a personal care assistant. The purpose of the form is to gather necessary details to establish a relationship between the personal care assistant and the family, ensuring that all parties are aware of each other's roles and expectations. This form is usually used in situations where an individual requires assistance with daily tasks, such as personal care, mobility, or medical needs. The form should only be completed by authorized family members or caregivers who are aware of the individual's needs and circumstances.
-
-It is essential to ensure that this form is completed by the right person to avoid duplication of efforts or incorrect authorization. Therefore, it is crucial to review the form carefully before completing it to ensure that the information provided is accurate and relevant to the individual's situation.
-
-Before starting to complete the form, please ensure that you are the authorized person to provide this information. If you are not sure, please check with the individual or their primary caregiver before proceeding.
-</thinking>
-
 # Personal Care Assistant Authorization Form - Help Guide
 ## Purpose
 This form is used to collect authorization information from family members or caregivers to establish a relationship between the personal care assistant and the individual requiring care.

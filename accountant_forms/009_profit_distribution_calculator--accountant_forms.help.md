@@ -1,17 +1,3 @@
-<thinking>
-To create a help guide for the "Profit Distribution Calculator" form, I will first analyze the form's purpose and ensure that there are no redundant or irrelevant fields. This form seems to be designed to calculate the profit distribution among partners in a business, taking into account the capital share, profit share, tax rate, and other factors.
-
-The purpose of this form is to help users calculate the net profit of a business after tax and capital distribution among partners. The form requires the following information:
-
-* Business details: Business name
-* Partner details: Partners (checkboxes for multiple partners), Capital Share, and Profit Share for each partner
-* Financial details: Total Capital, Total Profit, Remaining Capital, Tax Rate, and Net Profit
-* Additional tax and number of partnerships
-* Partner details: details of each partner
-
-This form seems to be relevant for businesses with multiple partners. There is no redundant or irrelevant field in this form.
-</thinking>
-
 # Profit Distribution Calculator - Help Guide
 ## Purpose
 The "Profit Distribution Calculator" form is designed to calculate the profit distribution among partners in a business. This form helps you determine the net profit of a business after considering capital share, profit share, tax rate, and other factors.

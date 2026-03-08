@@ -1,11 +1,3 @@
-<thinking>
-
-To help guide users complete the "Emotional Support Animal Form", I first need to understand the purpose and context of this form. Based on the provided YAML fields, it appears that this form is designed for individuals to provide information about their emotional support animal (ESA) to be considered for accommodation or assistance. The form likely serves to gather details about the animal's species, owner's contact information, and any relevant medical documentation or notes.
-
-The form is intended for individuals who need to provide proof of their emotional support animal to be eligible for assistance or accommodation. This form will help users navigate the process of submitting their information and supporting documentation.
-
-</thinking>
-
 # Emotional Support Animal Form - Help Guide
 ## Purpose
 

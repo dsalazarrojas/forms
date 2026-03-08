@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to assess the competencies of healthcare staff, likely for evaluation or review purposes. I assume it's used to determine whether a staff member has the necessary skills, knowledge, and experience to perform their role effectively. The fields seem to focus on various aspects of a healthcare staff member's capabilities, such as clinical experience, education, and recommendations. I'll make sure to cover all these areas in the help guide.
-</thinking>
-
 # Healthcare Staff Competency Assessment Form - Help Guide
 ## Purpose
 The Healthcare Staff Competency Assessment Form is designed to evaluate the competencies of healthcare staff members to determine their suitability for specific roles or positions.

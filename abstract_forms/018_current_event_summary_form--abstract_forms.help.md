@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # current_event_summary_form - Help Guide
 ## Purpose
 The current_event_summary_form is designed to collect information about a specific event, allowing users to record and document events such as meetings, conferences, or other gatherings. 

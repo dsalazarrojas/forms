@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be a tool for evaluating the effectiveness of reality therapy sessions. It will help therapists and practitioners to assess the progress and outcomes of their sessions. The form is meant to collect notes from the session, information about the therapist and client, and ratings of the client's performance on various scales. By filling out this form, practitioners can get a clear understanding of the client's situation and make informed decisions for follow-up planning and next steps.
-
-The form should only be filled out after a session has taken place. It's intended for use by licensed professionals, such as counselors or therapists, who have a working relationship with the client.
-
-Please note that the form is not for public use. All fields should be filled out carefully, as they are used for professional evaluation purposes.
-
-</thinking>
-
 # Reality Therapy Evaluation Form - Help Guide
 ## Purpose
 The Reality Therapy Evaluation Form is a tool for licensed professionals to assess the effectiveness of reality therapy sessions. It helps practitioners collect notes from the session, rate the client's progress, and plan follow-up activities.

@@ -1,7 +1,3 @@
-<thinking>
-The Strength And Confidence Assessment form is designed to evaluate a user's level of self-assurance in various areas, including personal qualities and skills. This form is used to gauge an individual's confidence and self-perception, providing valuable insights for personal development and growth. It's essential to complete this form honestly, as the results can help identify areas of improvement and potential areas of excellence.
-</thinking>
-
 # Strength And Confidence Assessment - Help Guide
 ## Purpose
 The Strength And Confidence Assessment form is designed to help users evaluate their level of self-assurance in various areas, providing a better understanding of their personal strengths and weaknesses.

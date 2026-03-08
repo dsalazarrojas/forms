@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who wish to pre-order a book. The purpose of this form is to gather essential details such as the customer's name, email, phone number, book title, quantity, book price, shipping address, and any additional comments they may have. This form is meant to be completed by customers who have not yet received their ordered book and are looking to place a pre-order. The form should only be filled out once per customer, to avoid duplication of effort and ensure accurate tracking of customer information.
-</thinking>
-
 # Pre Order Book Form - Help Guide
 ## Purpose
 The Pre Order Book Form is a tool used to collect information from customers who wish to pre-order a book. This form is designed to gather essential details such as customer contact information, order details, and shipping information.

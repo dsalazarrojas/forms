@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from users participating in a gift card giveaway contest. The form is used to gather details about the user, the gift card they are eligible for, and the contest information. This form should only be used to collect information from users who are actually participating in a gift card giveaway contest and not for other purposes. It is recommended to ensure the form is not duplicated or used in a different context. 
-
-</thinking>
-
 # Gift Card Giveaway Form - Help Guide
 ## Purpose
 This form is for users participating in a gift card giveaway contest. It will collect details such as user information, gift card details, and the source where the user found out about the contest.

@@ -1,20 +1,3 @@
-<thinking>
-This form appears to be designed for restaurant owners or managers to collect information about their inventory levels, stock checks, and other relevant details. The purpose of this form is to track and record inventory levels, track when stock checks were performed, and note any issues or discrepancies. It's likely used for inventory management and control within a restaurant setting. There may be concerns about data consistency and accuracy, and the form is designed to be completed by the restaurant staff or manager.
-
-The form seems to be focused on the general information of the restaurant, inventory takes (which I assume is the date of the stock taking), stock levels, stock check date, stock check time, and notes about any issues or concerns. Additionally, there's a field for syncing submissions with popular apps, which might be used for integration with other restaurant management systems.
-
-The "Sync Submissions" field seems to be a feature that allows users to sync their form submissions with other apps, which might be relevant for restaurants that use external services for management or inventory tracking. However, further clarification on this field would be appreciated.
-
-The form also collects contact information for the restaurant, such as phone and email, which could be used for communication or follow-up purposes.
-
-It's worth noting that the "Notes" field seems to be a generic field for any additional information that the user wants to record. This field might be useful for capturing specific events or issues that were not covered by other fields in the form.
-
-Lastly, the "Submit" field seems to be a button to finalize and submit the form data. This could be used to save the data for future reference or for syncing with other services.
-
-The form seems to be quite straightforward, and the fields are mostly self-explanatory. However, some fields like "inventory_takes" and "stock_check_date" could be better labeled to make it clearer to the user what information is expected.
-
-The form's purpose and functionality seem to be focused on inventory management, but it's always a good idea to double-check the form's design and content to ensure that it meets the restaurant's specific needs and requirements.</thinking>
-
 # Restaurant Inventory Information Record Form - Help Guide
 ## Purpose
 

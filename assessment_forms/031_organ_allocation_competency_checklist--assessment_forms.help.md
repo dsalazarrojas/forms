@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect data on an individual's organ allocation competency, which is a critical component of their overall competency assessment. The purpose of this form is to gather information on the individual's experience and training related to organ allocation. The form should only be used for this specific purpose and not as a general competency assessment tool.
-
-</thinking>
-
 # Organ Allocation Competency Checklist - Help Guide
 ## Purpose
 This form is used to collect data on an individual's organ allocation competency, which is a critical component of their overall competency assessment.

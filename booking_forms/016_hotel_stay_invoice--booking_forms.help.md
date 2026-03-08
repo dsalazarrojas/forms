@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to generate invoices for hotel stays, which are essential for accounting, tax purposes, and communication with clients. To confirm that this form is being used correctly, please review the following information carefully. This form should only be used for hotel stay invoices, and not for any other type of transaction.
-</thinking>
-
 # Hotel Stay Invoice - Help Guide
 ## Purpose
 This form is used to create invoices for hotel stays, including billing information, client details, services rendered, and payment terms.

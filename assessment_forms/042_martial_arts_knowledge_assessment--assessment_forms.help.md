@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's martial arts knowledge, experience, and training habits. The form is used to gather information on various aspects of martial arts training, including understanding of concepts, years of experience, physical condition, and training habits. The form is intended to help instructors or evaluators assess an individual's suitability for certain types of martial arts training or programs. It's essential to ensure that the information provided is accurate and complete, as it may impact the individual's training experience and potential risks. Before proceeding, please confirm that you have reviewed the form carefully and understand the questions and instructions.
-</thinking>
-
 # martial_arts_knowledge_assessment - Help Guide
 ## Purpose
 The martial arts knowledge assessment form is used to evaluate an individual's background, skills, and training habits in martial arts.

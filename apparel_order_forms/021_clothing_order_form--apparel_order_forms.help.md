@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a customer's clothing order, including contact information, order details, and shipping and billing details. To ensure that the form is properly filled out, please review the following steps and fields carefully.
-
-This form is intended to be used for ordering clothing items. If you are looking to place a different type of order, please use the appropriate form.
-
-Please note that some fields are required and must be filled out in order to complete the form. These fields are marked as "required" in the field explanations below.
-
-The form is divided into several sections to help guide you through the process. Each section is explained in detail below.
-
-</thinking>
-
 # Clothing Order Form - Help Guide
 ## Purpose
 The clothing order form is designed to collect information about your order, including contact details, product information, shipping details, and billing information.

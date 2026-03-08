@@ -1,12 +1,3 @@
-<thinking>
-The "international_rating_assessment_survey" form is used to collect feedback from customers on their experience with our international products or services. This form is designed to gather demographic information, ratings, and open-ended comments to help us understand the effectiveness of our global offering. 
-The form typically targets customers from diverse regions and age groups, but it's essential to note that completion of this survey is voluntary and anonymous. 
-Before starting the form, please review the following:
-
-* This form has been previously used by customers from the specified countries, so your input will be valuable in providing insights from regions we haven't yet surveyed. 
-* This form is anonymous, and your responses will be treated as confidential, unless you explicitly opt-in for follow-up contact.
-</thinking>
-
 # international_rating_assessment_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from international customers on their experience with our international products or services. 

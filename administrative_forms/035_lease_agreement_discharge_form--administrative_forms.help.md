@@ -1,7 +1,3 @@
-<thinking>
-This form is for documenting the discharge of a lease agreement between a tenant and a landlord. It's used to officially end a rental contract, typically when the tenant is terminating their lease or it's being mutually agreed upon. This form should be filled out when the lease term has ended or needs to be terminated early. The goal is to provide a clear and concise record of the lease agreement's end date and the tenant's information. This form is designed for administrative use and should not be used as a legal document. It is not intended to be used in place of a court-approved termination of lease agreement, which may be required in certain jurisdictions. Use this form responsibly and in accordance with local regulations.
-</thinking>
-
 # Lease Agreement Discharge Form - Help Guide
 ## Purpose
 The Lease Agreement Discharge Form is used to document the end of a lease agreement between a tenant and a landlord. It's a formal record of the lease's termination.

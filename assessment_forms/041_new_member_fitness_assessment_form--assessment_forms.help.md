@@ -1,13 +1,3 @@
-<thinking>
-
-The "new_member_fitness_assessment_form" is designed to collect information from new members about their health and fitness goals. This form is used to gather relevant data for our team to understand the member's medical history, fitness goals, and other essential details.
-
-Before proceeding, please note that this form is only required to be filled out by new members. It is intended to provide our team with the necessary information to tailor our services and advice to each member's specific needs.
-
-Please make sure to fill out this form carefully and accurately, as it will help us provide you with the best possible experience.
-
-</thinking>
-
 # new_member_fitness_assessment_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from new members about their health and fitness goals.

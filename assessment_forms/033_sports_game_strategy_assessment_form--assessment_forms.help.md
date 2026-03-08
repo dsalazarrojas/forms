@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess an individual's or a team's sports game strategy. The form will guide users in providing a comprehensive evaluation of their strategy, focusing on various aspects such as pre-game preparation, in-game adjustments, team communication, overall strategy, game outcome, player performance, coach feedback, team performance, game strategy, and game plan. This form should not be used for commercial purposes or to solicit donations. If you're not the intended user of this form, please delete it or use it as inspiration for your own original work. You can modify it, share it, or use it as is without any restrictions. However, please give credit to its creators if you're sharing or selling derived forms.
-
-</thinking>
-
 # Sports Game Strategy Assessment Form - Help Guide
 ## Purpose
 The Sports Game Strategy Assessment Form is designed to evaluate an individual's or a team's sports game strategy, considering various key elements such as pre-game preparation, in-game adjustments, and overall strategy. It will help users to assess their game plan and make informed decisions to improve their performance.

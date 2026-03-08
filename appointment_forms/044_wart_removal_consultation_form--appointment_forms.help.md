@@ -1,7 +1,3 @@
-<thinking>
-**Form Purpose and Relevance**: This form is intended to gather patient information and schedule a wart removal consultation appointment. It is likely for clinics or medical centers that offer wart removal services to collect relevant details about the patient, schedule an appointment, and configure preferences such as doctor and appointment reminders. It should only be used for patients who are seeking a wart removal consultation.
-</thinking>
-
 # Wart Removal Consultation Form - Help Guide
 ## Purpose
 The Wart Removal Consultation Form is used to collect patient information and schedule a wart removal appointment. This form helps the medical center or clinic prepare for the consultation and ensures that the patient's preferences and needs are met.

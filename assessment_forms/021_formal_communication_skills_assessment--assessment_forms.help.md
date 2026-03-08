@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to assess an individual's formal communication skills, which is a crucial aspect of effective communication in a professional setting. The form will help evaluate their verbal and written communication skills, presentation abilities, interpersonal skills, conflict management, and communication influencing capabilities. It is essential to complete this form to ensure that all fields are understood correctly, and the results accurately represent an individual's formal communication skills.
-</thinking>
 # Formal Communication Skills Assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's formal communication skills, which are critical in a professional setting. The assessment includes various aspects of communication skills such as verbal and written communication, presentation, interpersonal skills, conflict management, and communication influencing.

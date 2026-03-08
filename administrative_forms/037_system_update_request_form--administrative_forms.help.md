@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # system_update_request_form - Help Guide
 ## Purpose
 This form is for requesting system updates. It is intended for authorized personnel to submit requests for software, hardware, or network updates. Please complete this form to provide necessary information about the update type, date, and status.

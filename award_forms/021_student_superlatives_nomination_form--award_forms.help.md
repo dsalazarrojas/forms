@@ -1,6 +1,3 @@
-<thinking>
-We should check if this form is being used for its intended purpose and not for other purposes. It is also essential to ensure that it is not being filled out by the same person or group multiple times. This form should be used for nominating students for awards or recognition, and the answers should be sincere and accurate. The form should not be used for self-nomination or to nominate someone who does not deserve it.</thinking>
-
 # Student Superlatives Nomination Form - Help Guide
 ## Purpose
 The Student Superlatives Nomination Form is designed to collect nominations for students who have demonstrated exceptional qualities and traits that make them stand out among their peers. This form is used to recognize and reward students for their achievements and contributions to the school community.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be used for scheduling a thesis examination, likely for an academic or educational institution. The form is designed to collect information about the defense date, time, and location, as well as details about the supervisor and student involved. The form also includes fields for contact information and other attendees.
-
-Before proceeding, please ensure that you are using this form for its intended purpose and not for any other reason. If you have already scheduled a thesis examination using this form, please do not submit another instance of this form to avoid duplication of data.
-
-</thinking>
-
 # Thesis Examination Scheduling Form - Help Guide
 ## Purpose
 This form is used to schedule a thesis examination for a student.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to track the progress of a client's case, providing a structured format for gathering and documenting essential information. The form's purpose is to ensure consistency and accuracy in case management and reporting. Each field is carefully crafted to collect specific details about the client's case, from identifying information (e.g., first name, last name, client ID number) to tracking progress (e.g., case status, last contact date, next steps). The form aims to provide a comprehensive overview of the client's engagement level, risk assessment, and other relevant factors.
-
-To avoid duplication of effort, users are encouraged to review the form carefully before completing it and ensure they provide accurate and up-to-date information. This will help maintain a consistent and organized case management system.
-
-The form is intended for case workers, case managers, and other support staff to track client progress and make informed decisions about next steps. Please ensure you are familiar with the form's purpose and fields before proceeding.
-
-Please note that some fields are optional and only required for specific reasons or in certain circumstances. Make sure to read the field labels carefully to determine which ones are applicable to your case.
-
-</thinking>
-
 # Client Case Progress Tracking Form - Help Guide
 ## Purpose
 

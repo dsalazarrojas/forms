@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to schedule and document appointments between fitness professionals (trainers) and their clients. This form captures essential information about the appointment, including the date and time, client details, and any relevant notes. By providing this information in a clear and organized manner, trainers can ensure they are adequately prepared for their appointments and provide the best possible experience for their clients. 
-
-Before completing this form, please ensure that the information you are providing is accurate and up-to-date. 
-
-</thinking>
-
 # Fitness Progress Review Appointment Form Template - Help Guide
 ## Purpose
 This form is designed to schedule and document appointments between fitness professionals (trainers) and their clients.

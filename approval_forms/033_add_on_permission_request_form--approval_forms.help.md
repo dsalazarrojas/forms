@@ -1,5 +1,3 @@
-<thinking>...the form is used to request add-on permissions for software extensions, plugins, or tool add-ons. This form will be reviewed and processed internally to ensure that the requested add-on aligns with company policies and standards. Please fill out this form carefully, as it will help the internal team understand your request and make an informed decision. Note that this form will not be processed if you have already submitted a similar request in the past. This form has multiple pages, and we recommend reviewing each page carefully before submitting your request...</thinking>
-
 # Add-On Permission Request Form - Help Guide
 ## Purpose
 The Add-On Permission Request Form is used to request new software extensions, plugins, or tool add-ons that require internal approval. The form will be reviewed and processed internally to ensure that the requested add-on aligns with company policies and standards.

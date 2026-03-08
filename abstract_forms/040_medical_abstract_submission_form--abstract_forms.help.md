@@ -1,12 +1,3 @@
-<thinking>
-This form is for researchers to submit their abstracts for medical research papers. The purpose of this form is to collect essential information about the researcher, their contact details, and the abstract of their research paper. The form is designed to be completed by the researcher themselves or by someone representing them. 
-
-When filling out this form, please ensure that all required fields are filled out and that the information provided is accurate and up-to-date. This form is a digital representation of the traditional conference abstract submission process, but it has been adapted and made more accessible through AI-generated form design.
-
-Before proceeding, please note that this form is not affiliated with, endorsed by, or derived from any form platform, but rather an original creation using public survey topic metadata as inspiration.
-
-</thinking>
-
 # Medical Abstract Submission Form - Help Guide
 ## Purpose
 The Medical Abstract Submission Form is designed to collect essential information from researchers who want to submit their abstracts for medical research papers. This form helps streamline the submission process, making it easier for researchers to share their work with a wider audience.

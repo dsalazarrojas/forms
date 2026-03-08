@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the collection of information from clients regarding their online course development appointment. The form is divided into four sections: Client Information, Appointment Details, Availability, and Communication Preferences. This form aims to gather essential details about the client, the nature of their appointment, their schedule, and their preferred communication methods. The form is intended for use in the online course development industry, where clients often need to schedule appointments with professionals or experts to discuss project details, requirements, and timelines. The form is not designed to collect sensitive or personal data and does not require any specific technical knowledge to complete.
-</thinking>
-
 # Online Course Development Appointment Form - Help Guide
 ## Purpose
 This form is used to collect information from clients regarding their online course development appointment, including their contact details, appointment specifics, availability, and communication preferences.

@@ -1,10 +1,3 @@
-<thinking>
-The form "public_relations_records_release_form" is likely used for the release of public relations records, which could be related to public figures, organizations, or entities that have undergone significant changes, such as a merger, acquisition, or public statement. This form would allow users to collect information from an individual or organization about their public presence, activities, and releases of public statements. 
-This form could be used internally by an organization to keep track of public relations records for compliance, historical, or reference purposes.
-
-To determine relevance and prevent duplication, it's assumed that this form would not be used for everyday public relations operations, but rather for specific instances of public relations record releases.
-</thinking>
-
 # public_relations_records_release_form - Help Guide
 ## Purpose
 This form is for releasing public relations records, which include information about an organization's or individual's public presence, activities, and releases of public statements. It's used to document and track such events for reference and compliance purposes.

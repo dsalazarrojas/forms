@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help potential adopters provide information about themselves and their household, so that the animal shelter can assess their suitability as a potential adopter for a rescue dog. This form is not affiliated with, endorsed by, or derived from any form platform, and its design was generated using AI. It is an original adaptation using public metadata and is released under CC BY 4.0 license. The form is designed to collect essential information about the applicant, their household, and their experience with pets, to ensure a smooth and successful adoption process. By completing this form, potential adopters can demonstrate their ability to provide a safe and suitable environment for a rescue dog.
-</thinking>
-
 # Rescue Dog Adoption Application - Help Guide
 ## Purpose
 

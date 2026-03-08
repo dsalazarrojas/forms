@@ -1,17 +1,3 @@
-<thinking>
-This form is designed for applicants to apply for the Child Tax Credit, a tax credit provided by the government to support families with dependents. The form requires personal and financial information of the applicant and their dependents to determine eligibility.
-
-The main goal of this form is to collect the necessary data to process and approve the Child Tax Credit application. Each field in this form is crucial in determining the eligibility of the applicant for the credit.
-
-Before proceeding, ensure that you are eligible to apply for this credit. If you have previously applied for this credit or have been approved for it, do not submit the form again.
-
-The form has multiple sections, with each section containing various fields to be filled out accordingly. Ensure that all required fields are completed accurately, and the form is filled out in the correct format.
-
-Each field has a specific purpose, and a brief explanation of what the field is for will be provided below to facilitate an accurate and efficient completion of the form.
-
-The purpose of this guide is to provide a clear understanding of each field and how to complete this form accurately and efficiently.
-</thinking>
-
 # Child Tax Credit Application - Help Guide
 ## Purpose
 The Child Tax Credit application form is designed to collect information required to process and approve the Child Tax Credit, a tax credit provided by the government to support families with dependents.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a Telecommunications Support Excellence Award nomination. This award is used to recognize and appreciate the outstanding contributions and achievements of individuals or teams within the company's telecommunications support department. The nomination form is used to gather details about the nominee, the nominator, and the nomination reasons, which will be reviewed and evaluated by the award committee.
-
-Before proceeding, please note that:
-
-* This form is for new nominations only. If you have already submitted a nomination for the same individual or team, please do not resubmit.
-* The nomination should be specific to a single individual or team, not a group or a team of individuals.
-* Ensure that the nominee meets the eligibility criteria for the award.
-* The form requires accurate and detailed information to effectively evaluate the nomination.
-</thinking>
-
 # Telecommunications Support Excellence Award Nomination - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to collect information for a pet adoption event, specifically the event details and attendee information for an event where pets are being adopted. This form is likely used for internal tracking and management purposes within the organization hosting the event. 
-
-To ensure that the form is not duplicated, consider implementing a unique Event ID for each event. If a user is unsure which form to use, they can refer to the event's unique ID listed on their event's information page. 
-
-</thinking>
-
 # Pet Adoption Event Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a pet adoption event, including event details and attendee information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chemical Requisition Form - Help Guide
 
 ## Purpose

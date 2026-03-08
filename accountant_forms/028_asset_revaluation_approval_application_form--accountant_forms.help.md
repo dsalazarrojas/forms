@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the Asset Revaluation Approval Application process, which is crucial for accounting and financial purposes. The form is intended for asset owners, accountants, or other relevant personnel to provide detailed information about an asset's revaluation. This includes the asset's original cost, accumulated depreciation, proposed fair value, and other relevant data. The form aims to standardize the submission and approval process for asset revaluations, ensuring that all necessary information is provided and reviewed properly. It's essential that each field is filled in accurately and thoroughly to avoid discrepancies or delays in the process.
-</thinking>
-
 # Asset Revaluation Approval Application Form - Help Guide
 ## Purpose
 This form is used to submit an application for asset revaluation, ensuring that all required information is provided for accurate and timely processing.

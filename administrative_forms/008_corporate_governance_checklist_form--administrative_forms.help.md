@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to gather information about the corporate governance structure and practices of a company. It's intended to be used by internal staff to monitor and assess the governance standards of companies. The form should not be used in situations where the company's information is publicly available or where the user has a vested interest in the company. 
-It is also recommended to fill out this form only for companies where the user has direct access to the necessary information. 
-
-</thinking>
-
 # Corporate Governance Checklist Form - Help Guide
 
 ## Purpose

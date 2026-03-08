@@ -1,9 +1,3 @@
-<thinking>
-This is an order form for a tailor, likely for taking customer orders for custom suits. The form includes a range of fields for gathering customer details, order preferences, and tailor-specific information. It's designed to help tailor create and deliver custom suits efficiently.
-- This form appears to be comprehensive, covering all necessary fields for a tailor to process an order.
-- However, it's essential to review the fields carefully and consider any potential duplication or redundancy.
-</thinking>
-
 # Suit Order Form - Help Guide
 ## Purpose
 This form is used to gather information from customers to create and deliver custom suits. Fill out this form to provide your tailor with the details they need to craft your perfect suit.

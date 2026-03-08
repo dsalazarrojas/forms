@@ -1,8 +1,3 @@
-<thinking> 
-This form is meant to collect information about employees' start of day experiences, goals, and progress. It's likely used by the employee themselves or someone in a management position to record and review their workday. It could be part of a larger project management or time tracking system. The goal is to provide a clear and concise overview of each day's activities and progress. 
-
-</thinking>
-
 # Employee Start Of Day Report - Help Guide
 ## Purpose
 This form is designed to help employees report their daily progress, goals, and experiences. It's used to track and record the employee's workday, providing a clear overview of their activities and progress.

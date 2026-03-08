@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IT License Purchase Request Form - Help Guide
 ## Purpose
 The IT License Purchase Request Form is a tool used to request the purchase of IT licenses for various software and services. Please use this form to provide essential contact information and detailed software requirements to ensure a smooth license procurement process.

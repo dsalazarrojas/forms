@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sentence Clarity Evaluation Questionnaire - Help Guide
 
 ## Purpose

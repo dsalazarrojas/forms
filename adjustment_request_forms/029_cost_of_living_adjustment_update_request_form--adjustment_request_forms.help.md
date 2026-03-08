@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by employees to request a cost of living adjustment, which is a change in their salary in response to a change in their living costs. The purpose of this form is to provide a systematic way for employees to document and request a salary adjustment due to external factors such as inflation, rent increases, or other economic changes that affect their living costs. 
-
-When filling out this form, please ensure you are the actual employee and not someone else. Please do not submit duplicate requests for the same adjustment. If you have already submitted a request for a salary adjustment, please do not resubmit it as a new request.
-</thinking>
-
 # Cost Of Living Adjustment Update Request Form - Help Guide
 ## Purpose
 The Cost of Living Adjustment Update Request Form is used by employees to request a change in their salary due to external factors such as inflation, rent increases, or other economic changes that affect their living costs.

@@ -1,10 +1,3 @@
-<thinking>
-To confirm the form purpose: This guide outlines the instructions for completing the Property Evaluation Form, a tool used to gather and document information about a property for the purpose of evaluation or inspection. 
-The form typically collects data from the general information, property details, address, type, status, seller information, evaluation date, inspector signature, report details, and additional notes. 
-Please note that this form is for general purposes and might not be applicable for specific use cases or jurisdictions. 
-Before starting, review the form to ensure it is not a duplicate of an existing form in your organization. 
-</thinking>
-
 # Property Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect information about the organic farming market, its current state, and trends. This form is part of a larger survey aimed at assessing the market's dynamics and potential growth areas. By analyzing the answers provided, stakeholders can gain a deeper understanding of the organic farming market, its practices, and its overall development. This form is intended for use by individuals with expertise in the field of organic farming and market assessment. 
-</thinking>
-
 # Organic Farming Market Assessment Survey - Help Guide
 ## Purpose
 This form is a tool for collecting information about the organic farming market. It consists of several sections that gather data on the current state and trends of the market. Your input will help stakeholders assess the market's dynamics and identify areas for growth and development.

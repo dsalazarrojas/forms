@@ -1,11 +1,3 @@
-<thinking>
-The Company Vehicle Authorization Form is used to request authorization for employees to use company vehicles for work-related purposes. This form is used to gather information about the employee's needs, including their department, job title, supervisor's information, vehicle type and purpose, and driver's license details. The form helps the management team assess the request and ensure that company policies are being followed.
-
-Before filling out the form, please ensure that you have not submitted an identical request within the last 6 months. If you are requesting a vehicle for an ongoing use case, please fill out the authorization end date with today's date.
-
-Please fill out the form accurately and completely, as the information provided will be reviewed and verified by the management team. Ensure that all fields are filled in according to the guidelines provided as a hint.
-</thinking>
-
 # Company Vehicle Authorization Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess an applicant's skills and employment history for a technical position. It's meant to help employers understand the candidate's experience, skills, and background before proceeding to the interview or hiring process. The form should not be submitted by candidates who have already been employed by the company.
-
-</thinking>
-
 # Tech Applicant Skills Employment Assessment - Help Guide
 ## Purpose
 The Tech Applicant Skills Employment Assessment form is a tool for employers to gather information about a candidate's experience, skills, and employment history. It's an essential part of the hiring process, and it's designed to ensure that candidates who have been employed by the company have a complete understanding of their employment history and can honestly represent themselves.

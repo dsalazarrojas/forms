@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assist users in requesting help with their visa application process. The form is designed to collect information from users to help the support team provide accurate and relevant assistance.
-
-To avoid duplication of effort and ensure that the support team can provide effective assistance, please ensure that you have not submitted a similar request recently. If you are unsure or need guidance, please contact the support team for clarification.
-
-</thinking>
-
 # visa-application-assistance-request-form - Help Guide
 ## Purpose
 The "Visa Application Assistance Request Form" is designed to gather information from users who need help with their visa application process. This form helps the support team understand your concerns and provide accurate assistance.

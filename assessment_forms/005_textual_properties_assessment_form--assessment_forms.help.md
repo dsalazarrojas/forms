@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to be a comprehensive assessment tool for evaluating various aspects of written content, such as text properties, style, and evaluation criteria. The form is intended to gather information about the text's overall quality, coherence, and clarity. It is likely used in educational, academic, or professional settings where written communication is crucial.
-
-To ensure the form is used correctly, it is essential to verify that it is not a duplicate or redundant form. If you are unsure about the form's purpose or how to use it, please reach out to the contact information provided at the end of this guide.
-
-</thinking>
-
 # Textual Properties Assessment Form - Help Guide
 ## Purpose
 This form is designed to evaluate the textual properties of a given text, including its quality, style, and coherence. It is a comprehensive assessment tool for writers, educators, and professionals who require in-depth feedback on written content.

@@ -1,9 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "swimming pool maintenance checklist form", we should first consider the form's purpose. This form is used for pool maintenance tasks, likely for pool administrators or managers to track and record important tasks and checks. It's a good idea to review the form's schema and ensure that all fields are relevant and not duplicated. Let's take a closer look at the form's structure and fields.
-
-The form has 5 pages (or sections) with various fields for inputting data. Here's a brief explanation of the form's purpose and how to complete it:
-
-</thinking>
 # swimming_pool_maintenance_checklist_form - Help Guide
 ## Purpose
 This form is designed for pool maintenance tasks, allowing administrators to record and track important checks and tasks. It includes fields for selecting maintenance tasks, testing equipment, checking water quality, and more.

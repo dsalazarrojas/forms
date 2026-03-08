@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form, "moving-service-pre-screening-form", is to collect essential information from clients about their moving needs. This form helps the moving company to pre-screen clients for their specific moving requirements, such as move-in and move-out dates, addresses, and other details. 
-
-To avoid duplication, this form is intended to be filled out by the client only once, during the initial consultation with the moving company. 
-
-Please note that the fields are designed to be filled out in a specific order, and the required fields must be completed before proceeding to the next section. 
-
-The form will ask for various pieces of information, including client contact details, move dates and times, addresses, move duration, move type, and other specific details about the move. 
-
-Please fill out the form accurately and completely to ensure that the moving company can provide the best possible service for your move. 
-
-</thinking>
-
 # moving-service-pre-screening-form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from clients about their moving needs.

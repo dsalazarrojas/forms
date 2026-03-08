@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess a student's drumming skills, covering various aspects such as their experience, skills level, performance style, and rhythm feeling. To ensure the form is filled out correctly, please consider the following:
-
-* The form should only be completed by authorized personnel, such as teachers or instructors who have access to relevant information about the student.
-* If you have completed this form previously for the same student, please do not resubmit. Changes to the form will be considered as new submissions and may lead to unnecessary revisions to the student's records.
-</thinking>
-
 # drumming_skills_assessment - Help Guide
 ## Purpose
 This form is designed to assess a student's drumming skills and provide valuable information for instructors and teachers to evaluate their progress and identify areas for improvement.

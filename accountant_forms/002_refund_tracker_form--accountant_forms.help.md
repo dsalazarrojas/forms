@@ -1,8 +1,3 @@
-<thinking>
-This form is part of the "accountant_forms" category and has a title of "refund_tracker_form". The form's purpose is to track refunds, allowing users to input information related to refunds, such as account numbers, refund dates, customer details, and refund status. The form is likely used by accountants or administrative staff to manage and track refunds in an organized and efficient manner. Before proceeding, let's verify that this form is not a duplicate of any other existing form in the system.
-
-</thinking>
-
 # Refund Tracker Form - Help Guide
 ## Purpose
 The Refund Tracker Form is used to track refunds, enabling users to input information related to refunds, such as account numbers, refund dates, customer details, and refund status.

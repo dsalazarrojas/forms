@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recording Quality Assessment - Help Guide
 
 ## Purpose

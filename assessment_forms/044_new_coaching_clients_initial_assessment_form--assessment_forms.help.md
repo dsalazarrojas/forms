@@ -1,5 +1,3 @@
-<thinking>Internal use case: new_coaching_clients_initial_assessment_form - This form is used to gather information from new clients about their coaching needs, preferences, and goals. It helps coaches understand the client's background, communication style, and availability, which enables them to tailor their coaching approach to the client's needs. The form is not mandatory and its completion is voluntary. Ensure that you have reviewed the client's consent before sharing the data with the coach. This form is part of the coaching process and its completion will help build a strong foundation for the coaching relationship.</thinking>
-
 # new_coaching_clients_initial_assessment_form - Help Guide
 ## Purpose
 The new_coaching_clients_initial_assessment_form is a form used to gather essential information from new clients to create a strong foundation for the coaching relationship. It is not mandatory, and its completion is at the client's discretion.

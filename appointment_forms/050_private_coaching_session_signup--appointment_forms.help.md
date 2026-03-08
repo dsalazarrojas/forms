@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals interested in signing up for a private coaching session. This form captures essential details such as name, contact information, session preferences, and goals. The non-duplication checks ensure that users are not filling out the form for the same session multiple times.
-</thinking>
-
 # Private Coaching Session Signup - Help Guide
 ## Purpose
 The Private Coaching Session Signup form is designed to collect information from individuals interested in attending a private coaching session. This form helps our team to better understand your goals and preferences, ensuring a more effective and personalized session.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a workout plan for dogs undergoing obedience training. It will be used to record the training sessions and their respective details. To ensure that the information is accurate and consistent, please make sure to fill in all the required fields. Before starting, check if you have already filled out this form in the past to avoid duplication.
-</thinking>
-
 # Dog Obedience Training Workout Checklist - Help Guide
 ## Purpose
 The Dog Obedience Training Workout Checklist is a form used to create a workout plan for dogs undergoing obedience training. It helps in recording the training sessions and their respective details.

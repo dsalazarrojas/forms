@@ -1,7 +1,3 @@
-<thinking>
-We need to verify that the form is correctly set up for the purpose of tracking and managing medical school admissions. The form should be used to collect all relevant information about a medical school application, including deadlines, fees, and other important details. To ensure data accuracy, please fill out the form carefully, and if there are any doubts or questions, feel free to reach out to the relevant authorities. 
-</thinking>
-
 # Medical School Admission Checklist Form Template - Help Guide
 
 ## Purpose

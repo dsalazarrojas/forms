@@ -1,6 +1,3 @@
-<thinking>
-To confirm, the form "Service Agreement For Support Services" is intended to capture information from businesses that provide support services. This form should be used to gather details about the business, including its address, support services offered, business hours, contact information, and agreement terms. This form is crucial for businesses that require a comprehensive understanding of the services they provide, their operational hours, and payment terms. The form should not be used for other purposes, such as sales agreements or non-business related matters. It is designed for support services businesses only.</thinking>
-
 # Service Agreement For Support Services - Help Guide
 ## Purpose
 This form is designed for businesses that provide support services. It helps gather information about the business, support services offered, and payment terms.

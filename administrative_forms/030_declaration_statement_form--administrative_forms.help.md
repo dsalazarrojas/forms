@@ -1,6 +1,3 @@
-<thinking>
-This is a text-based form designed to collect general information about a declaration statement. The form may be used for declarations of any kind (e.g., declarations of intent, declarations of rights, etc.). This form is a simple, text-based input form, and users are free to use it as needed. To prevent duplication, we recommend checking our internal system before submitting this form. If you've already submitted a declaration with the same title or purpose, you can find it in our system using the search function.</thinking>
-
 # Declaration Statement Form - Help Guide
 ## Purpose
 The Declaration Statement Form is a simple, text-based form designed to collect general information about a declaration statement. It can be used for any type of declaration, such as declarations of intent, declarations of rights, etc.

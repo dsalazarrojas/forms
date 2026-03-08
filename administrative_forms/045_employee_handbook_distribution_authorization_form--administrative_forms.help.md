@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to authorize the distribution of the Employee Handbook. The Employee Handbook contains important information about company policies, procedures, and benefits. It is crucial to ensure that each employee receives a copy of the handbook and understands their responsibilities and expectations. To prevent duplication, this form should only be used once per employee.
-</thinking>
-
 # Employee Handbook Distribution Authorization Form - Help Guide
 ## Purpose
 The Employee Handbook Distribution Authorization Form is used for employees to authorize the distribution of the Employee Handbook, ensuring they receive essential information about company policies, procedures, and benefits.

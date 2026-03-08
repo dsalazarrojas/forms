@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers for a tournament event, likely for the purpose of printing shirts for the volunteers. The form will be used to gather details about the volunteer, the shirt order, and event information. This guide will help users understand what to expect and how to complete the form accurately.
-</thinking>
-
 # Tournament Volunteer Shirt Printing Order Form - Help Guide
 ## Purpose
 This form is intended to collect information from volunteers for a tournament event. The form will be used to gather details about the volunteer, the shirt order, and event information. It is divided into three sections, each focusing on a specific aspect of the volunteer's experience.

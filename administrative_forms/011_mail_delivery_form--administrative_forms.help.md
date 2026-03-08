@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be used as a reference for completing the "Mail Delivery Form". The form is used for tracking and logging information related to mail delivery, including package details and delivery status. It is crucial to ensure that all required fields are filled correctly and accurately for proper data entry.
-</thinking>
-
 # Mail Delivery Form - Help Guide
 ## Purpose
 The Mail Delivery Form is used to collect and track information related to mail delivery, ensuring accurate and efficient processing of packages and mail items. This guide provides a clear overview of the form fields and their purpose, enabling users to complete the form with precision and accuracy.

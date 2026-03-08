@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for corporate events such as conferences, meetings, weddings, and parties. It is meant to be used for internal purposes to generate quotes for catering services. This form is typically filled out by event planners or coordinators who need to book catering services for their events.
-
-</thinking>
-
 # Corporate Event Catering Quotation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather event details to generate a catering quotation for corporate events such as conferences, meetings, weddings, and parties.

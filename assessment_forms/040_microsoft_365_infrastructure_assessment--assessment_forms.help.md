@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for the Microsoft 365 Infrastructure Assessment. The form's purpose is to gather details about the user, their company, and their Multi-Factor Authentication (MFA) settings. This information will be used for assessment and analysis. 
-
-Please note that some fields are optional, and you are not required to complete them. However, providing accurate and relevant information will help with the assessment. If you're unsure about any field, please ask for clarification or contact the form administrators. 
-
-</thinking>
-
 # Microsoft 365 Infrastructure Assessment - Help Guide
 ## Purpose
 This form is designed to collect information for the Microsoft 365 Infrastructure Assessment.

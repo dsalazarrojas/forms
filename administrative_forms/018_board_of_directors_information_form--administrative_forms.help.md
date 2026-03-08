@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing information about the Board of Directors of a company. The form is used to collect personal and professional details of each board member, including their name, contact information, work details, and board-specific information. This form is likely used in an organizational or corporate setting.
-</thinking>
-
 # Board Of Directors Information Form - Help Guide
 ## Purpose
 The Board of Directors Information Form is used to collect and store information about the current members of the board, including their contact details, work information, and board-specific roles and terms.

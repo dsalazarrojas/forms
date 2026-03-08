@@ -1,7 +1,3 @@
-<thinking>
-**Form Purpose:** The Home Safety Assessment Form is a tool to evaluate a home's safety features and systems to ensure it meets the minimum standards for safety and accessibility. This form is typically used during the buying or selling process, or as a regular check-up for homeowners. It assesses various aspects of home safety, including electrical, fire, and water safety.
-</thinking>
-
 # Home Safety Assessment Form - Help Guide
 ## Purpose
 The Home Safety Assessment Form is a comprehensive evaluation tool for home safety features and systems. It helps homeowners, buyers, or sellers assess a home's safety and accessibility.

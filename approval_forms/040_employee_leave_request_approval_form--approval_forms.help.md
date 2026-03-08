@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to facilitate the request and approval process for employee leaves of absence. To use this form, the employee submits their leave request, which includes details such as employee ID, start and end dates, reason for leave, and approval status. After submission, the approver reviews the request and updates the approval status accordingly. This form ensures that all necessary information is gathered and communicated effectively to both the employee and the HR department.</thinking>
-
 # Employee Leave Request Approval Form - Help Guide
 
 ## Purpose

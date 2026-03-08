@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for requesting a treasury training session for employees. The purpose is to gather information about the session's specifics to determine if it's feasible and to schedule it.
-Please ensure that you have the necessary permissions to access this form and that you're not duplicating a request. If you have already submitted a request, it might not be necessary to submit again.
-If the form is not relevant, please don't use it.
-</thinking>
-
 # treasury_training_session_request_form - Help Guide
 ## Purpose
 The treasury training session request form is designed for employees to submit a request for a treasury training session. This form gathers information about the session's specifics, such as date, time, duration, location, and more.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to submit a request for a purchase requisition. The form is meant to be completed by the employee making the request and should only be submitted once the request has been approved by their supervisor or manager. The purpose of the form is to ensure that all necessary details are captured, and the request can be properly processed and approved.
-</thinking>
-
 # Purchase Requisition Authorization Form - Help Guide
 ## Purpose
 This form is used for employees to submit a request for a purchase requisition. The form captures necessary details for the purchase requisition, including title, category, description, requested date and time, employee and department ID, amount, and reason.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information for internal employee movement, such as promotions, transfers, or terminations. 
-This form is used to notify relevant parties of an employee's status change. The form may be used to update an employee's status from Active to Inactive or vice versa. 
-Please make sure to fill out this form accurately and completely to ensure that the employee's status is updated correctly.
-</thinking>
-
 # Employee Movement Notification Form - Help Guide
 ## Purpose
 The Employee Movement Notification Form is used to collect information for internal employee movement, such as promotions, transfers, or terminations. This form is used to notify relevant parties of an employee's status change.

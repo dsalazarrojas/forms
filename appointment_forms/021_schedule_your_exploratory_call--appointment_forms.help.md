@@ -1,8 +1,3 @@
-<thinking>...
-This help guide is intended to provide a clear understanding of the "Schedule Your Exploratory Call" form. The form is designed to collect information for scheduling exploratory calls with leads. The purpose of this form is to gather necessary details for effective planning and execution of the calls. The fields within this form will guide you in providing the required information.
-
-</thinking>
-
 # Schedule Your Exploratory Call - Help Guide
 ## Purpose
 The "Schedule Your Exploratory Call" form is designed to collect information for planning and scheduling exploratory calls with leads. This form helps in gathering all the necessary details in one place, making it easier to coordinate and execute the calls.

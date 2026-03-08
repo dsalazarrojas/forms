@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a board member candidate, including their personal details, professional background, and assessment of their suitability for board responsibilities. This form is likely used in an organizational setting to gather data for candidate evaluation and decision-making processes. To ensure accurate and relevant information is collected, please review the form carefully before completing it.
-</thinking>
-
 # Board Member Interview Form - Help Guide
 ## Purpose
 The Board Member Interview Form is designed to collect detailed information about candidate applicants for board positions. This form serves as a tool for evaluating and assessing potential board members, ensuring that the right individuals are selected for important organizational roles.

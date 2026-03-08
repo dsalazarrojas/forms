@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place an order for books from the BlueSnap catalog. It allows for the submission of basic contact information, shipping details, and order specifics, such as book title, author, and edition type. To ensure accurate processing and timely delivery, please make sure to complete all fields accurately and thoroughly. Please do not submit incomplete or duplicate orders.
-</thinking>
-
 # BlueSnap Book Order Form - Help Guide
 ## Purpose
 The BlueSnap Book Order Form is designed for customers to place orders for books from the BlueSnap catalog. This form collects essential information to ensure accurate order processing and timely delivery.

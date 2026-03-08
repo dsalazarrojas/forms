@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's first consider what's required for this form. The judging panel information form is used to gather data about the judging panel, including event details and panel member information. To ensure we're on the same page, this form will only be filled out by authorized individuals, and all the fields are optional. If there's any information that's already known or previously entered, please feel free to skip this form to avoid duplication of effort.</thinking>
-
 # Judging Panel Information Form - Help Guide
 ## Purpose
 This form is designed to collect data about the judging panel, including event details and panel member information. 

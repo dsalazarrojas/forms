@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, let's first clarify the purpose of this form. The Corporate Life And Confidentiality Agreement Form is used to collect information from business partners, including their contact details and confidentiality terms. This form is likely used in business settings where partners need to agree to keep sensitive information confidential. Before proceeding with the help guide, I'll make sure the explanations are concrete, concise, and practical, based on the provided YAML fields.
-</thinking>
-
 # Corporate Life And Confidentiality Agreement Form - Help Guide
 ## Purpose
 The Corporate Life And Confidentiality Agreement Form is used to collect information from business partners and their contact details, as well as terms related to confidentiality. This form is essential in maintaining confidentiality and security in business relationships.

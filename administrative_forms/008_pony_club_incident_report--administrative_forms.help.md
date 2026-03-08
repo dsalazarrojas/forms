@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to understand the context and the structure of the form itself. The form is called "pony_club_incident_report" which suggests it's used in a pony club setting, possibly for reporting incidents or accidents that have occurred within the club. The presence of fields like "incident_date", "incident_time", "incident_description", and "incident_location" further supports this interpretation. Additionally, the "incident_type" field with options "Yes" and "No" implies that the form is used to classify incidents based on their severity or type. The "assigned_to" field suggests that the form might be used to allocate tasks or follow-up actions to specific individuals after an incident has been reported.
-
-To ensure the form is not duplicated in the help guide, we'll need to review the form's structure and purpose carefully and verify that it's not already covered in existing help guides.
-
-</thinking>
-
 # pony_club_incident_report - Help Guide
 ## Purpose
 This form is used to report incidents that have occurred within the pony club. It helps in keeping track of incidents, their details, and any actions taken or assigned to specific individuals.

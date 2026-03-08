@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to reserve a spot in a yoga class. The reservation form will ask for general user details, class details, and payment information. This guide will walk you through the process of completing the form step-by-step.
-
-</thinking>
-
 # Yoga Class Reservation Form - Help Guide
 ## Purpose
 The Yoga Class Reservation Form is designed for users to reserve a spot in a yoga class. To complete this form, please follow the steps below.

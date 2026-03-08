@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to conduct an assessment on students' understanding of units and dimensions, gathering information from students and teachers on their performance, feedback, and evaluation. This form is likely used to evaluate students' grasp of units and dimensions in various subjects or courses, possibly in math, science, or engineering. This form helps in collecting data on students' knowledge, skills, and understanding of the topic, which can then be used for further analysis and improvement. This assessment form might be part of a larger system for tracking student performance, providing feedback, and supporting educational development.
-
-Before proceeding, ensure this form is not a duplicate or a variation of an existing form. If unsure, review the form's purpose, content, and intended use to determine its relevance.
-
-</thinking>
-
 # Units And Dimensions Assessment - Help Guide
 ## Purpose
 The Units and Dimensions Assessment form is used to evaluate students' understanding of units and dimensions in various subjects or courses.

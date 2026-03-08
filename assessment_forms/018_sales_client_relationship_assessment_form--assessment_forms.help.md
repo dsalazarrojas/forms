@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the relationship between sales teams and their clients. It helps to evaluate how well sales teams are meeting the needs of their clients, providing a basis for feedback and improvement. It's essential to complete this form to ensure that the sales teams are providing the best possible service to their clients. 
-The form should only be filled out when there is a valid sales client relationship to be assessed. 
-</thinking>
-
 # Sales Client Relationship Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the relationship between sales teams and their clients. It helps to evaluate how well sales teams are meeting the needs of their clients, providing a basis for feedback and improvement.

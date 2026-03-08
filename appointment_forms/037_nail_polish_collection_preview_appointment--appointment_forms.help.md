@@ -1,28 +1,3 @@
-<thinking> 
-We will be creating a help guide for a form used to schedule appointments for a nail polish collection preview at a salon. This form will help clients confirm their appointments and provide important details such as date, time, and preferences. We need to ensure that users understand the purpose and requirements of the form to avoid any confusion or errors.
-
-First, let's review the form fields to understand their significance:
-
-* "Preview Session" is likely for the client to select their preferred preview session.
-* "Date" and "Time" fields will probably be used to schedule the appointment.
-* "Nail Artist" is for choosing the preferred nail artist for the appointment.
-* "Client Preferences" will be used to record any specific preferences or instructions for the client.
-* "Nail Polish Preferences" will be used to select multiple nail polishes for the appointment.
-* "Client Phone" and "Client Email" can be used for communication between the client and the salon.
-* "Appointment Notes" can be used to record any important notes about the appointment.
-* "Salon Confirmation" and "Client Confirmation" are likely used to confirm or cancel the appointment.
-* "Cancellation Reason" is used to record the reason for canceling the appointment.
-* "Reschedule Appointment" and "Reschedule Reason" are for rescheduling the appointment.
-* "Client Signature" and "Salon Signature" are for recording the client and salon confirmations.
-* "Appointment Status" and "Reschedule Status" can be used to mark the appointment status.
-* "Confirmation Date" and "Confirmation Time" can be used to record the confirmation details.
-* "Cancellation Date" and "Cancellation Time" can be used to record the cancellation details.
-* "Notes" can be used to add any additional comments.
-
-Now, let's create the help guide based on this understanding.
-
-</thinking>
-
 # Nail Polish Collection Preview Appointment - Help Guide
 ## Purpose
 This form is designed to help clients schedule appointments for a nail polish collection preview at a salon. It includes fields to confirm the appointment, select preferences and options, and communicate with the salon.

@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-friendly help guide for the Auto Repair Service Quote Form. Before we start, let's make sure we understand the form's purpose and relevance. The form is designed to collect information from customers for an auto repair service quote. It gathers details about the customer, their vehicle, and the service needed. This form will help us provide a quote for the service requested, which will help us estimate the cost of the repair. We will review the form's structure and fields to ensure that it's clear and easy to use.
-
-We will also check for any duplication of information and ensure that each field is necessary and relevant to the service quote process.
-
-</thinking>
-
 # Auto Repair Service Quote Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for an auto repair service quote. It will help us provide an estimated cost for the service requested.

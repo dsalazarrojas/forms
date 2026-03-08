@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request and approve ID cards for employees. It captures various details about the employee, their department, job title, and supervisor's approval status. The form ensures that all required fields are filled in by the employee and supervisor before it is submitted for approval. 
-
-The form is used to ensure that the employee's ID card is approved by the supervisor and other departmental members before being issued to the employee. It helps in maintaining an organized record of employee ID card requests and approvals.
-
-</thinking>
-
 # ID Card Approval Form - Help Guide
 ## Purpose
 The ID Card Approval Form is used to request and approve ID cards for employees. It is a crucial tool for ensuring that all employees' ID cards are issued after receiving approval from their supervisors and department members.

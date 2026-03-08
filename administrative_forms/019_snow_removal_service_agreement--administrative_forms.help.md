@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: The Snow Removal Service Agreement form is meant to document the terms and conditions of a snow removal service, likely used by landscapers or property managers. This form should be relevant for businesses that offer snow removal services to residential or commercial properties. Before proceeding, make sure you don't have a similar form in use already, such as a contract or agreement specific to your business.
-</thinking>
-
 # Snow Removal Service Agreement - Help Guide
 ## Purpose
 The Snow Removal Service Agreement form is used to document the terms and conditions of a snow removal service. It is intended for businesses that offer snow removal services to residential or commercial properties. This form will guide you through the necessary information to create a comprehensive agreement.

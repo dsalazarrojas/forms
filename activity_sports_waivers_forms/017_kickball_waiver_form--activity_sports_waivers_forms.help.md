@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a waiver form for kickball, a sport that combines elements of baseball and kickball. The purpose of this form is to gather information from participants and ensure they are aware of and accept the risks associated with playing kickball. The form requires the participant's name, email, phone number, emergency contact information, signature, and a relationship with the emergency contact. Additionally, it inquires about medical conditions, medical history, and waiver signed date. A witness is also required to verify the participant's signature.
-
-</thinking>
-
 # Kickball Waiver Form - Help Guide
 ## Purpose
 This form is for participants to sign a waiver before playing kickball, acknowledging the risks associated with the sport.

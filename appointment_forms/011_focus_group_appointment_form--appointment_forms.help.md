@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my approach to creating a user-facing help guide for the "Focus Group Appointment Form" involves understanding the form's purpose, how to complete it, and providing clear explanations for each field. This form, which is AI-generated using public survey topic metadata, appears to be designed for scheduling focus group sessions. The form has a clear and concise structure, with multiple fields that guide the user through the selection of a schedule, time slot, and session duration. This guide will aim to make it easy for users to understand the form's purpose and complete it effectively.</thinking>
-
 # Focus Group Appointment Form - Help Guide
 ## Purpose
 The "Focus Group Appointment Form" is designed to schedule focus group sessions. This form helps users select a schedule and time slot for a session, providing options for different time slots and session durations.

@@ -1,10 +1,3 @@
-<thinking>
-The Leadership Event Attendance Survey is designed to gather feedback from attendees to evaluate the overall quality and effectiveness of leadership events hosted by our organization. This form is crucial in helping us understand what worked well and what could be improved for future events. By completing this form, you will provide valuable insights that will help us refine our event organization and content to better serve our attendees.
-
-To avoid duplication of effort and ensure that we receive comprehensive and accurate feedback, please only complete this form once after each event.
-
-</thinking>
-
 # Leadership Event Attendance Survey - Help Guide
 ## Purpose
 The Leadership Event Attendance Survey is designed to gather feedback from attendees to evaluate the overall quality and effectiveness of leadership events. This form is crucial in helping us understand what worked well and what could be improved for future events.

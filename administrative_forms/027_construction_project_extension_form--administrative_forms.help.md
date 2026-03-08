@@ -1,17 +1,3 @@
-<thinking>
-
-This form appears to be a construction project extension form, used to request an extension to a construction project. The form likely serves as a means of capturing information from project managers or team leads who need to request an extension to a project deadline. The primary purpose of the form is to ensure that all necessary details are collected in a structured and standardized manner to facilitate the review and approval process.
-
-This form is likely used in an organizational setting within the construction industry, possibly by project managers or project coordinators. The form is intended to gather information about the project and the reasons for the extension request, as well as any financial and logistical implications.
-
-Before proceeding, please ensure that:
-
-* You have all necessary information and documentation ready.
-* You have reviewed the form's instructions and requirements.
-* You have obtained any necessary approvals or permissions before submitting the form.
-
-</thinking>
-
 # Construction Project Extension Form - Help Guide
 ## Purpose
 The Construction Project Extension Form is a tool used to request an extension to a construction project. This form is designed to gather necessary information about the project and the reasons for the extension request.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is designed to be a helpful resource for customers filling out the customer_credit_application_form. It is essential to understand that this form is used for customer credit applications, and it should only be filled out by customers who have been previously approved by a credit representative. Please ensure that you do not fill out the form if you have not been contacted or approved to do so by our office. Duplicate submissions will be discarded.
-</thinking>
-
 # customer_credit_application_form - Help Guide
 ## Purpose
 The customer_credit_application_form is used for customer credit applications. Customers who have been approved by a credit representative will need to fill out this form to provide required information for their credit application.

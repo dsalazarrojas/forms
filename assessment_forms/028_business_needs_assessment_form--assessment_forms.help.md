@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for business owners and leaders to assess their organization's current needs and challenges. The purpose of this form is to provide a comprehensive understanding of the company's situation, allowing for tailored advice and guidance. Please ensure you are filling out this form as the primary contact person for your business, or as someone authorized to represent your organization.
-
-Before beginning, please note that this form is not meant to be a comprehensive diagnostic tool, but rather an initial assessment to identify areas of focus. The responses will help inform our understanding of your business and will be treated as confidential.
-
-</thinking>
-
 # Business Needs Assessment Form - Help Guide
 ## Purpose
 

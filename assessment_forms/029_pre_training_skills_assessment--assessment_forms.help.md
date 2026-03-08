@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess a user's pre-training skills, goals, and job satisfaction. It is typically used by HR or training departments to gather information about an individual's background, skills, and training needs. The form is usually completed by users who are about to undergo training or development programs. 
-
-The form is meant to be completed in a way that provides a clear and honest picture of the individual's current situation, skills, and goals. It is essential to answer each question truthfully to ensure accurate results.
-
-To prevent duplication, it is recommended to fill out the form only once, and then save it for future reference.
-
-</thinking>
-
 # Pre Training Skills Assessment - Help Guide
 
 ## Purpose

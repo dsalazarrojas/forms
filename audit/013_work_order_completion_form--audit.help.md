@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to report their work order completion status and provide additional information or notes. It's crucial to ensure that customers fill in their work order number to allow for correct order tracking and processing. Duplicate entries with the same order number may be deleted or disregarded.
-</thinking>
-
 # Work Order Completion Form - Help Guide
 
 ## Purpose

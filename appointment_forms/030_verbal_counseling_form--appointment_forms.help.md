@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to capture information related to verbal counseling sessions, allowing users to provide details about the main areas of concern, client interactions, and counselor notes. It is used to track and document the progress of each counseling session, ensuring that all necessary information is recorded and reviewed for further action.
-
-This form should only be used for new verbal counseling sessions. If a client already has an existing record, please do not use this form.
-
-Before filling out this form, please review the client's record to ensure that the new session is not a continuation of a previous session.
-
-This form will be used to gather information on the client's progress and concerns, and to create a record of the session that can be reviewed and acted upon.
-
-Please ensure that all fields are completed accurately and thoroughly.
-</thinking>
-
 # Verbal Counseling Form - Help Guide
 ## Purpose
 The Verbal Counseling Form is designed to capture information on the main areas of concern, client interactions, and counselor notes for each verbal counseling session.

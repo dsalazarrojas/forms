@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare providers to document and submit medical assessments for patients. It captures essential information about the patient, medical details, and submission specifics. The form is divided into multiple pages, each with its own set of fields that must be completed to ensure accurate and complete data collection. To ensure consistency and accuracy, we recommend reviewing the form carefully before submission.
-</thinking>
-
 # Medicine Assessment Form - Help Guide
 ## Purpose
 The Medicine Assessment Form is designed to collect information about a patient's medical assessment. This form captures essential details such as patient demographics, medical history, and submission specifics.

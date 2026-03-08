@@ -1,21 +1,3 @@
-<thinking>
-
-The "Organizational Chart Update Request Form" is used for requesting updates to the company's organizational structure. This form is intended for employees who need to make changes to their job titles, reporting lines, or other aspects of their position within the company.
-
-To complete this form, follow these steps:
-
-1.  Determine if you are requesting a new hire or a change to an existing employee's position.
-2.  Select the department and reporting level of the new hire or change.
-3.  Choose the manager for the new hire or change.
-4.  Provide the position and reporting level details.
-5.  Explain the reason for the change.
-6.  Enter the manager's name and email address (if necessary).
-7.  Select the effective and end dates for the change (if necessary).
-
-The field explanations below provide further guidance on each question:
-
-</thinking>
-
 # Organizational Chart Update Request Form - Help Guide
 ## Purpose
 The Organizational Chart Update Request Form is used to request updates to the company's organizational structure.

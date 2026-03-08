@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assist individuals in planning their repatriation process, which is the process of returning to one's home country after being abroad. The form is meant to gather relevant information to facilitate a smooth and efficient repatriation experience. To ensure that the form is used correctly, please review the following steps and explanations.
-
-</thinking>
-
 # repatriation_planning_form - Help Guide
 ## Purpose
 The Repatriation Planning Form is designed to help individuals gather essential information for a smooth repatriation process. It guides users in setting realistic repatriation objectives, determining their current country of residence, planning repatriation and flight dates, and arranging return trips.

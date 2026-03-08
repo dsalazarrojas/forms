@@ -1,11 +1,3 @@
-<thinking>
-
-To create a helpful guide for this form, let's consider the fields and their labels. The form purpose seems to be for mobile app approvals, which includes various information about the app, its status, and other relevant details.
-
-The form has several sections, and each section has a specific purpose. We will focus on breaking down each field and providing explanations that are concrete and concise.
-
-</thinking>
-
 # mobile_app_approval_form - Help Guide
 ## Purpose
 This form is used to provide information about mobile apps for approval and review purposes. It gathers details such as app metadata, status, and other relevant information to facilitate the approval process.

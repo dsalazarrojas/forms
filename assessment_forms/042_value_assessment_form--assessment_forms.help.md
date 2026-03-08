@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to assess the value of a rental property. It's designed to gather information on various aspects of the property, including rent period, rent type, rent amount, and other relevant details. This form is likely used for financial or real estate purposes, such as evaluating rental properties for investment or sale.
 
 To ensure accuracy, please fill out this form only when assessing the value of a single property. If you're unsure about any field, please refer to the guidelines below for clarification.

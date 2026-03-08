@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form used to assess workers' compensation claims. The purpose of this form is to gather information about an employee's workplace injury, including injury details, employee and claimant information, incident date, workplace, and medical information. This form is likely used by HR or insurance companies to assess the severity and impact of a workplace injury, and to determine the next steps in the claims process. To avoid duplication of effort and ensure accuracy, the form should only be filled out once per incident.
-</thinking>
-
 # Workers Compensation Assessment Form - Help Guide
 ## Purpose
 This form is used to collect information about a workplace injury, including details of the incident, employee and claimant information, and medical information. It will be used by HR or insurance companies to assess the severity and impact of the injury.

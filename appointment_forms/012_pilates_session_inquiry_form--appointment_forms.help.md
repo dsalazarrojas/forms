@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers or clients who are interested in booking a Pilates session. The form is divided into several sections, each with its own unique purpose and field requirements. 
-
-The form will help us understand the contact information of the individual, their desired schedule, whether they want to attend classes or one-on-one sessions, and any additional comments they may have. It's essential to fill out as much information as possible, but please note that the required fields are not marked as 'required' to accommodate users who may not be certain about their schedule or classes preferences. 
-
-To confirm, this form is primarily for inquiry and not booking purposes. The user is still able to provide their contact information, specify a desired schedule, and indicate their interest in attending classes or one-on-one sessions. However, this form does not automatically reserve a spot for them.
-
-</thinking>
-
 # Pilates Session Inquiry Form - Help Guide
 
 ## Purpose

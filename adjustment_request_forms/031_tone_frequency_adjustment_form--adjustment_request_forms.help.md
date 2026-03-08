@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tone Frequency Adjustment Form - Help Guide
 
 ## Purpose

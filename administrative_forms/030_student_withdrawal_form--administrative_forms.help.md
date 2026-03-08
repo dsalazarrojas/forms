@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of this form, I will analyze the provided YAML fields. The form is designed to collect information from students for withdrawal purposes, likely for administrative or academic reasons. This form might be used in educational institutions to track student withdrawals due to various reasons such as financial difficulties, program or course changes, or other personal reasons.
-
-To ensure the form is used correctly, the analysis also indicates that the form has multiple fields for different types of data, including student identification (Student ID, Student Name), contact information (email, contact), and reasons for withdrawal (Reason for Withdrawal, Reason for Withdrawing from Education, etc.). The form is likely used to collect data for administrative purposes, such as tracking student withdrawals, and providing information for further investigation or support.
-
-There is no indication that the form is used for duplicate purposes, so it seems that this form is a singular purpose-built tool for student withdrawal management.
-
-</thinking>
-
 # Student Withdrawal Form - Help Guide
 ## Purpose
 The Student Withdrawal Form is used to collect information from students who are withdrawing from an institution. This form helps the institution to track and understand the reasons for withdrawal and take necessary actions for support and future reference.

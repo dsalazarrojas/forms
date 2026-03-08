@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather the necessary information for board meeting resolutions, ensuring consistency in approval and voting processes across the organization. This is a critical aspect of corporate governance, and having a standardized form helps in maintaining transparency and accountability. Before proceeding, please ensure that you are familiar with the resolution being proposed and have the necessary approvals from relevant stakeholders. This form does not replace or override any existing governance policies or procedures. It is essential to review and understand the content before submitting.
-</thinking>
-
 # Board Meeting Resolution Approval Form - Help Guide
 ## Purpose
 This form is designed to document and track board meeting resolutions, gathering the essential information needed for their approval, voting, and implementation.

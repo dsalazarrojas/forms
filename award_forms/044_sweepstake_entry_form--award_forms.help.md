@@ -1,13 +1,3 @@
-<thinking>
-This guide will be used to explain to end users how to fill out the Sweepstake Entry Form. The form is used to collect information for a sweepstakes or giveaway, and it is expected that end users will be entering their first and last names, email address, phone number (if provided), and other relevant details. The form will have multiple fields, including text fields for name and phone number, an email field, and two select fields (one for how they heard about the sweepstakes and one for what they would like to win). The form will also ask for a date and time, though these are optional. 
-
-The form has a select_one field that is required, and a select_multiple field that is also required. The purpose of these fields is to ask the end user to select one option from the select_one field and multiple options from the select_multiple field.
-
-It is recommended that users only fill out the form once, so they do not need to re-enter the same information multiple times. If a user has already entered the sweepstakes, they are not required to re-enter the same information.
-
-To avoid errors when filling out the form, it is a good idea for end users to double-check their input for accuracy before submitting the form.
-</thinking>
-
 # Sweepstake Entry Form - Help Guide
 ## Purpose
 This guide will help you fill out the Sweepstake Entry Form correctly.

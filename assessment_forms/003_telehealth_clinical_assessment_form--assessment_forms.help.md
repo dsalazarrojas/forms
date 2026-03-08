@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telehealth Clinical Assessment Form - Help Guide
 
 ## Purpose

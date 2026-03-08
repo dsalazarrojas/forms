@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Auto Insurance Questionnaire" form, we need to consider the following steps:
-
-1.  The form is designed to collect information from users to provide them with accurate quotes for auto insurance.
-2.  The form is not intended to be filled out by users who are currently insured by another provider, as it may cause duplication of effort and unnecessary data collection.
-3.  Before proceeding, it's essential to check if the user has already submitted a quote request to avoid duplicate submissions.
-
-</thinking>
-
 # Auto Insurance Questionnaire - Help Guide
 ## Purpose
 The Auto Insurance Questionnaire form is designed to collect information from users to provide them with accurate quotes for auto insurance. Please answer the questions below to help us provide you with the best possible quotes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the check-out of a property, typically at the end of a lease term. The purpose of this form is to capture relevant information about the property's condition and any issues that need to be addressed before returning the security deposit. This form will help property managers and tenants track and verify the property's condition at check-out and ensure that any necessary steps are taken to resolve any issues. It's essential to review and submit this form carefully to accurately reflect the property's status. 
-</thinking>
-
 # Lease Agreement Check Out Form - Help Guide
 ## Purpose
 The Lease Agreement Check Out Form is used to document the check-out of a property and record information about its condition and any issues that need to be addressed before returning the security deposit.

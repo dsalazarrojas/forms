@@ -1,9 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and process of the Performance Review Registration Form.
-The form is meant to capture essential information about a performance review, including employee details, review criteria, and evaluation metrics.
-To ensure accurate completion, please review this guide and refer back to it as needed.
-</thinking>
-
 # Performance Review Registration Form - Help Guide
 ## Purpose
 This form is designed to facilitate the performance review process, providing an organized and structured approach to evaluating an employee's performance.

@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather essential information from clients for a healing session, which is a therapeutic process aimed at promoting physical, emotional, and mental well-being. The form asks for personal details, medical history, and preferences to ensure the client receives the best-suited treatment. Please fill out the form accurately and completely to provide the necessary information for a successful session. Ensure you answer honestly and do not duplicate answers from previous sessions if you have experienced healing sessions before...</thinking>
-
 # Client Intake For Healing Sessions - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients for a healing session, a therapeutic process aimed at promoting physical, emotional, and mental well-being.

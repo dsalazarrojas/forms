@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to conduct a thorough security assessment of a critical infrastructure site. The assessment will evaluate various aspects of the site's security profile, including the presence and effectiveness of security controls, risks, and response plans. The form is used to gather information on how well a site meets the necessary standards for security.
-
-This form is a crucial tool for identifying potential vulnerabilities and areas for improvement, helping sites to better protect themselves from potential threats. It is essential to complete this form accurately and thoroughly to ensure that the assessment is comprehensive and reliable.
-
-Please ensure that you are completing this form for the correct site and that you have a clear understanding of the questions and their relevance to the site's security profile.
-
-</thinking>
-
 # Critical Infrastructure Security Risk Assessment Questionnaire - Help Guide
 ## Purpose
 

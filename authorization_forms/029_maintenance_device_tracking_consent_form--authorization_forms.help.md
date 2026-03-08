@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to provide consent for tracking of their devices. The user is asked to input their name, email, preferred tracking method, tracking frequency, and preferred tracking date and time. The form also allows for optional notes to be added by the user. This form ensures that users can manage their tracking preferences in a secure and controlled manner. It is essential to ensure that users have a clear understanding of what data is being collected, and how it will be used. This form serves as a record of the user's consent, which can be referenced later for compliance and auditing purposes.
-</thinking>
-
 # Maintenance Device Tracking Consent Form - Help Guide
 ## Purpose
 The Maintenance Device Tracking Consent Form is used to obtain user consent for tracking of their devices. It helps ensure that users have a clear understanding of what data is being collected and how it will be used.

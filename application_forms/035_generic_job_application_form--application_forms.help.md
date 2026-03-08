@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form was designed to be a simple and generic job application form that allows users to provide their job title, contact details, job history, and other relevant information. It can be used in various contexts, such as when applying for a job, internship, or other career opportunities. To ensure that this form is relevant and useful, please review the following help guide carefully.
 
 # Generic Job Application Form - Help Guide

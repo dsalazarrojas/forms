@@ -1,5 +1,3 @@
-<thinking>... Checking the form purpose and ensuring it is not duplicated or irrelevant... This form is used to report and document fraudulent activity, providing a detailed description of the incident, supporting documents, and other relevant information. It is crucial to avoid submitting duplicate reports or reports that do not align with the form's intended use. Ensure that the report is accurate and thorough to facilitate efficient investigation and resolution of the issue...</thinking>
-
 # Fraudulent Activity Complaint Form - Help Guide
 ## Purpose
 This form is designed to report and document fraudulent activity, allowing for a detailed investigation and resolution of the issue.

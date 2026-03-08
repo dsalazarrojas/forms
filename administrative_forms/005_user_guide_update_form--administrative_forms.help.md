@@ -1,14 +1,3 @@
-<thinking> 
-This form is used for updating user guides, which are essential resources for users to learn about a system or process. The purpose of this form is to allow administrators to update the existing user guides by providing a structured way to input new information. 
-
-The form has multiple fields that allow administrators to input various details about the user guide, such as its category, description, title, tags, file details, version, date, time, email, phone number, and notes. The category field is a select multiple field where administrators can choose one or more categories for the user guide. The file fields (File, File Description, File Size, and File MIME Type) are used for uploading and managing files associated with the user guide. The version field is a select one field where administrators can choose the version of the user guide. The date and time fields are used to input the date and time of the user guide update. The email and phone fields are used to input contact information. The notes field is a text field for administrators to input any additional comments or notes about the user guide.
-
-When filling out this form, please make sure to input accurate and relevant information to ensure the user guide is up-to-date and helpful to users. You can choose one or more categories for the user guide, and input details about the file associated with it. Please also ensure that the version number is accurate, and the date and time of the update is correct. If you need to input contact information, please make sure to provide a valid email and phone number. Finally, you can input any additional comments or notes about the user guide in the notes field. 
-
-Please note that this form is used for internal purposes only, and the information inputted will be used for administrative purposes. 
-
-</thinking>
-
 # User Guide Update Form - Help Guide
 ## Purpose
 This form is used to update user guides, which are essential resources for users to learn about a system or process.

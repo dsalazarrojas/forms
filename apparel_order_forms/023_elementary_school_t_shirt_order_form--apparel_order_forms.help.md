@@ -1,7 +1,3 @@
-<thinking>
-The Elementary School T Shirt Order Form is used to collect information from customers or users for ordering Elementary School T Shirts. This form is designed to collect the user's color, size, type of shirt, and other contact information.
-</thinking>
-
 # Elementary School T Shirt Order Form - Help Guide
 ## Purpose
 The Elementary School T Shirt Order Form is a simple form designed for users to order Elementary School T-shirts. It helps to gather information about the user's preferences and contact details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the technological readiness of students, teachers, and schools. It is a self-evaluation tool used to gauge the readiness of these stakeholders in adopting and utilizing technology in their daily lives. This form aims to understand the availability and reliability of devices, internet access, and support structures within each setting. By gathering this information, administrators can better understand areas of improvement and develop targeted initiatives to bridge the technology gap.
-</thinking>
-
 # Student Technological Readiness Assessment - Help Guide
 ## Purpose
 The Student Technological Readiness Assessment is a self-evaluation tool designed to gauge the technological readiness of students, teachers, and schools in adopting and utilizing technology in their daily lives. This form helps administrators understand the availability and reliability of devices, internet access, and support structures within each setting.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to classify the residency status of an individual, likely for the purpose of establishing or renewing their residency or visa application in a specific region or country. The form may be used by immigration or government agencies to verify the individual's identity, address, and purpose of stay. The form is designed to be completed by the individual themselves, and may be used as part of the process for applying for residency or other government benefits. This form is not intended for use by third parties, such as family members or employers, and should only be completed by the individual in question.
-
-This form is likely one of multiple pages, each with its own set of fields. This guide will cover each page and field individually. 
-
-</thinking>
-
 # Residency Classification Declaration - Help Guide
 ## Purpose
 This form is used to classify the residency status of an individual, likely for the purpose of establishing or renewing their residency or visa application in a specific region or country.

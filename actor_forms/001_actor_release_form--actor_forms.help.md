@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the release of an actor's or performer's rights to a production or project. The form is required for the talent to formally agree to the terms of their participation in the production, which includes the use of their name, image, and likeness in various media formats. The form ensures that the production company has the necessary rights to use the talent's work, while also providing the talent with a clear understanding of their obligations and compensation. The form is typically filled out by the talent and signed by both the talent and a witness, if present. 
-
-</thinking>
-
 # Actor Release Form - Help Guide
 ## Purpose
 The Actor Release Form is used to document the release of an actor's or performer's rights to a production or project. This form ensures that the production company has the necessary rights to use the talent's work, while also providing the talent with a clear understanding of their obligations and compensation.

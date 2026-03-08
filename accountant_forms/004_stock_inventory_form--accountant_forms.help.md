@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to track and manage stock inventory for a business or organization. The purpose of this form is to collect detailed information about the stock, including its description, quantity, unit of measurement, and status. The form will be used to update and manage inventory levels, reordering, and other relevant information.
-
-This form will be filled out by inventory staff or managers to ensure accurate and up-to-date records of stock levels, quantities, and other relevant details. 
-
-Before filling out this form, please ensure that:
-
-- The form is completed by an authorized person (e.g., inventory staff or manager).
-- Each field is filled out accurately and thoroughly.
-- Reorder levels and quantities are updated according to business procedures.
-
-If you are unsure about any information or have questions, please contact the inventory team for guidance and support.
-
-</thinking>
-
 # Stock Inventory Form - Help Guide
 ## Purpose
 The Stock Inventory Form is used to track and manage stock levels, quantities, and other relevant information for a business or organization.

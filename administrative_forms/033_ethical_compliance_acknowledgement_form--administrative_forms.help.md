@@ -1,7 +1,3 @@
-<thinking>
-The ethical compliance acknowledgement form is a mandatory document that ensures all employees are aware of and acknowledge the company's ethical code of conduct. This form is designed to be filled out by employees when they join the company or at the beginning of each quarter to ensure they understand their responsibilities and the expectations set forth in the code of conduct. Before filling out this form, please ensure that you are not filling it out in duplicate - if you have already signed this form, please do not sign it again.
-</thinking>
-
 # Ethical Compliance Acknowledgement Form - Help Guide
 ## Purpose
 The Ethical Compliance Acknowledgement Form is a mandatory document that ensures all employees are aware of and acknowledge the company's ethical code of conduct.

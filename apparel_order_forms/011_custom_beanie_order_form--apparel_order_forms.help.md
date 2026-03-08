@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to submit their orders for custom beanie orders. This is a standard form used within the internal company systems and is not publicly accessible. Please note that the form's purpose is to gather necessary information for the production and delivery of custom beanie orders.
-</thinking>
-
 # Custom Beanie Order Form - Help Guide
 ## Purpose
 The Custom Beanie Order Form is designed for customers to provide their preferences for custom beanie orders. The form collects information on beanie color, size, type, quantity, and contact details.

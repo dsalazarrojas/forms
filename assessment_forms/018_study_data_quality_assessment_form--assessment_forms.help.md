@@ -1,11 +1,3 @@
-<thinking> 
-To confirm that the form is for the Study Data Quality Assessment Form. 
-This form is used to assess the data quality of a study. 
-It does not seem to be a duplicate of any other existing form. 
-The form has been designed to provide the reviewer with various options to provide information about the study. 
-
-</thinking>
-
 # Study Data Quality Assessment Form - Help Guide
 ## Purpose
 The Study Data Quality Assessment Form is used to assess the quality of a study. This form helps the reviewer evaluate the study's data and provide feedback to the researchers.

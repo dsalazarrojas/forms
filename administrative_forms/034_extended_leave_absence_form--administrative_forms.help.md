@@ -1,5 +1,3 @@
-<thinking>...This form is used to document an extended leave of absence for an employee, which may be a paid or unpaid break in work. It captures the start and end dates of the leave, the type of leave, and any other relevant details. This form is not mandatory, and employees may choose to fill it out to ensure proper documentation of their leave. It's used by HR or management to record and track employee absences. This form should only be filled out if the leave is indeed an extended leave of absence and not a one-off request or regular vacation.</thinking>
-
 # Extended Leave Absence Form - Help Guide
 ## Purpose
 This form is used to document an extended leave of absence for an employee. An extended leave of absence is a paid or unpaid break in work that lasts for an extended period of time.

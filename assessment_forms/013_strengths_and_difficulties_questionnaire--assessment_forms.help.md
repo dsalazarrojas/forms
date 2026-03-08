@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Strengths And Difficulties Questionnaire - Help Guide
 ## Purpose
 The Strengths And Difficulties Questionnaire is a tool to help assess an individual's personality, behavior, and social interactions. It is designed to identify an individual's strengths and difficulties in various areas, providing valuable insights for personal and professional development.

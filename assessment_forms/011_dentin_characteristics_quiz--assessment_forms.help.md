@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to aid users in understanding the purpose and usage of the "dentin_characteristics_quiz" form. This form is used to assess the characteristics of dentin, a key component of teeth structure. It appears to be a survey or quiz form designed to collect information about various aspects of dentin, including its properties, functions, location, color, structure, removal methods, removal risks, and the user's experience with the quiz. The form is likely used in the dental industry to educate or gather information about dentin.
-Before proceeding, please ensure that you are completing this form in the context in which it was designed to be used. If you have any doubt, please contact form@gic.mx for clarification.
-</thinking>
-
 # dentin_characteristics_quiz - Help Guide
 ## Purpose
 This form is designed to collect information about the characteristics of dentin, including its properties, functions, location, color, structure, removal methods, removal risks, and the user's experience with the quiz. It is intended to be used in the dental industry.

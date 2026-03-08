@@ -1,12 +1,3 @@
-<thinking>
-To ensure that this form is completed accurately and efficiently, let's go through the reasoning behind its design. This form is a Medical Surgical Exam Assessment, used to evaluate patients' conditions after a surgical procedure. The form is divided into several sections, each collecting specific information about the patient's status, medical history, and postoperative care. This form is designed for both medical professionals and patients to provide a comprehensive assessment of the patient's condition. It's crucial to complete this form accurately, as it helps clinicians make informed decisions about the patient's care. 
-
-Before starting, please ensure you have all the necessary information and permissions to complete this form. If you're unsure about any section, consult the relevant medical professional or patient care team member for guidance. 
-
-Please note that some sections might not be required, depending on the specific situation, so use your best judgment when deciding what to fill out. 
-
-</thinking>
-
 # Medical Surgical Exam Assessment - Help Guide
 ## Purpose
 This form is used to assess a patient's condition after a surgical procedure. It helps clinicians make informed decisions about the patient's care and ensures that all necessary information is collected for further evaluation and treatment.

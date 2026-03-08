@@ -1,11 +1,3 @@
-<thinking>
-The Hot Work Safety Assessment form is a crucial tool for ensuring that workplaces adhere to safety protocols when performing hot work operations, such as welding, cutting, or grinding, near or on combustible materials. This form helps site managers and safety experts evaluate potential hazards and risks associated with these operations. To use this form effectively, it's essential to understand its purpose and the information it collects.
-
-The Hot Work Safety Assessment form is designed to be completed in sections, guiding users through various aspects of hot work operations. Each section is carefully crafted to elicit specific information about the site's conditions, safety protocols, and risk management measures.
-
-Before proceeding, review the form to ensure that all relevant sections are filled out completely. This form is a crucial document for maintaining a safe working environment and should be treated as such.
-
-</thinking>
 # Hot Work Safety Assessment - Help Guide
 ## Purpose
 The Hot Work Safety Assessment form is designed to collect information about hot work operations on site to ensure compliance with safety protocols and identify potential risks associated with these operations.

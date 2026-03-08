@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Electronic Display Knowledge Quiz - Help Guide
 
 ## Purpose

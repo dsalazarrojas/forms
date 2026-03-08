@@ -1,12 +1,3 @@
-<thinking>
-This form is for users to book a reading session with a reader. The purpose of this form is to collect information from the user, such as their name, contact information, and preferences for the reading session. This form will help the reader to provide their details and preferences to the service provider.
-
-Before filling out this form, please ensure that you have not already filled out this form and that your information is up-to-date.
-
-To ensure that your information is correctly recorded and your reading session is booked accurately, please review each field below to understand what information is required.
-
-</thinking>
-
 # Reading Appointment Booking - Help Guide
 ## Purpose
 The Reading Appointment Booking form is used to book a reading session with a reader. It collects information from users to facilitate the provision of reading services.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information from coordinators in a way that is efficient and secure. To avoid duplication of effort, please only complete this form if you are a new coordinator or have had a change in your contact details. If you have already provided your contact information, please do not fill out this form.
-</thinking>
-
 # Coordinator Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect and update contact information from coordinators. Please fill it out carefully to ensure accurate and up-to-date information.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess a user's listening comprehension skills, which is a crucial aspect of communication and learning. The form is intended to be completed by individuals who have listened to a audio recording or presentation and need to provide their understanding of the content. The form's purpose is to gauge the user's ability to recall and interpret the information presented, which is essential for effective communication, learning, and decision-making.
-
-</thinking>
-
 # Listening Comprehension Quiz - Help Guide
 ## Purpose
 This form is designed to assess a user's listening comprehension skills by asking them to recall and interpret the content of a audio recording or presentation.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are providing a form to gather feedback on coastal management assessments for your feedback on how we can improve this process. This form will help us understand your needs and concerns, and provide a clear understanding of what you think about our current process. Your input will help us make this process more effective and efficient for everyone. Please take a few minutes to complete this form and let us know your thoughts, and don't worry, we won't duplicate your responses as this form is anonymous.
 
 </thinking>

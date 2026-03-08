@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diabetes Assessment Form - Help Guide
 
 ## Purpose

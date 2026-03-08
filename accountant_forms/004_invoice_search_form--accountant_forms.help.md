@@ -1,7 +1,3 @@
-<thinking>
-This form is used for searching invoices. It's crucial to provide a clear and concise search function for end-users, so they can quickly and effectively find specific invoices. The purpose of this form is to enable users to input search parameters such as client name, invoice number, and date ranges to get the list of matched invoices. This form's structure and content should avoid duplication of effort and redundancy for the user, thus making it efficient and user-friendly.
-</thinking>
-
 # invoice_search_form - Help Guide
 ## Purpose
 The invoice search form is a tool designed to assist you in finding specific invoices based on search parameters. This form allows you to input information to narrow down your search and quickly get the list of matched invoices.

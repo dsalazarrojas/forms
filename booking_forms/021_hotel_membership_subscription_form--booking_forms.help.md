@@ -1,10 +1,3 @@
-<thinking>
-To create a form that collects information for a hotel membership subscription, I will first review the provided YAML fields to understand the purpose and requirements of the form. The fields indicate that the form is intended to gather information about a hotel membership subscription, including the type of membership, start and end dates, duration, payment method, address, and contact details. The form requires a combination of text, select_one, select_multiple, date, number, email, text, and note fields. This form appears to be a comprehensive tool for collecting detailed information from users interested in hotel membership subscriptions.
-
-Upon reviewing the fields, I will create a user-facing help guide that explains the form's purpose, how to complete it, and each field's meaning in plain language.
-
-</thinking>
-
 # Hotel Membership Subscription Form - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in hotel membership subscriptions. Please fill out the form below to provide us with the necessary details.

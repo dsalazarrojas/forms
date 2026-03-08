@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information about employee discussions, allowing administrators to record and manage employee discussions in a structured and organized manner. The form is not intended to replace or supplant any other form of communication or reporting, but rather to supplement existing workflows and improve administrative efficiency. It is recommended that only one discussion record per employee be created per day.
-
-</thinking>
-
 # Employee Discussion Record Form - Help Guide
 ## Purpose
 The Employee Discussion Record Form is used to document discussions between employees, including location, date, time, and details of the discussion. This form helps administrators to keep a record of discussions, which can be useful for performance evaluations, employee development, and other administrative purposes.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients about their appointment communications. It is intended to be filled out by patients prior to or after an appointment to ensure effective communication and to provide the medical staff with necessary information for the appointment.
-
-To avoid duplication, this form is meant to be filled out once per appointment, not multiple times for different appointments.
-
-</thinking>
-
 # Patient Appointment Communication Form - Help Guide
 ## Purpose
 The Patient Appointment Communication Form is designed to collect essential information from patients about their appointment details, contact preferences, and medical history.

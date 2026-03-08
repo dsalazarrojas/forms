@@ -1,11 +1,3 @@
-<thinking>
-This form is used to document the reasons for no-show appointments and to gather information about the appointment details. Before completing this form, ensure that you have reviewed the patient's file and have the necessary information available. This form should only be completed for appointments that were not attended by the patient. If the patient did attend the appointment, do not complete this form.
-
-To complete this form, follow the instructions below.
-
-Please note that this form is for internal use only and should not be completed by patients or their representatives.
-</thinking>
-
 # Endoscopy Appointment No Show Report - Help Guide
 ## Purpose
 This form is used to document the reasons for no-show appointments and to gather information about the appointment details.

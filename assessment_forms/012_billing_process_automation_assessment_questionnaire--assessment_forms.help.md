@@ -1,7 +1,3 @@
-<thinking>
-To determine the form's purpose and assess the provided YAML structure, it is clear that this form is designed for organizations interested in automating their billing processes. The form is meant to assess the current state of an organization's billing processes and identify potential areas for improvement. The purpose of the form is to guide the respondent in understanding their current billing workflow, identify their readiness for automation, and provide a clear understanding of their needs and requirements to implement an automation solution.
-</thinking>
-
 # Billing Process Automation Assessment Questionnaire - Help Guide
 
 ## Purpose

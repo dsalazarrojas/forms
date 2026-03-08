@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the "leaseTerminationAuthorizationForm" is to document the details of a lease termination, which is an essential step when a tenant's lease is being ended or modified. This form is used to gather the necessary information from the relevant parties involved, ensuring a smooth and transparent process. 
-
-The form should only be used when it's truly necessary, such as in the case of an actual lease termination or modification, to prevent misuse and maintain data consistency. Ensure that you're not duplicating effort by checking the existing forms before filling this one out.
-</thinking>
-
 # leaseTerminationAuthorizationForm - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information about a peacekeeping mission, specifically focusing on the costs involved. The purpose of this form is to gather data on estimated and actual costs, along with any cost variances, to help in evaluating and improving peacekeeping operations. The form's content may seem straightforward, but its goal is to provide a structured and organized way to capture detailed information that can be used for decision-making and resource allocation purposes. Before starting, ensure that you are completing this form for the correct peacekeeping mission. 
-</thinking>
-
 # Peacekeeping Cost Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about peacekeeping costs, allowing for a detailed analysis and comparison of estimated and actual costs. This data will help in assessing the effectiveness and efficiency of peacekeeping operations.

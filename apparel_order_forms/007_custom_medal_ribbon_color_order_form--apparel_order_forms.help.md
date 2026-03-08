@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to order custom medal ribbons in various colors and quantities. The form is likely used for events or activities where custom medals or awards are distributed to participants, such as sports events or competitions. The form ensures that users can select the desired colors and quantities of medals, specify shipping information, and choose a payment method. The purpose of this form is to collect accurate and complete information for processing orders.
-
-</thinking>
-
 # Custom Medal Ribbon Color Order Form - Help Guide
 ## Purpose
 The Custom Medal Ribbon Color Order Form is a tool used to order custom medals with specific colors and quantities. This form helps ensure that you provide all necessary information for processing your order.

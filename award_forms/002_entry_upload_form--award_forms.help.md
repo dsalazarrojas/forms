@@ -1,7 +1,3 @@
-<thinking> 
-  This form is meant to collect information about uploaded entries. It asks the user to confirm whether the uploaded file is an entry or not. The form also collects various details about the uploaded file, including its title, description, category, upload date and time, user information, and location details. The form fields are not required, but users are encouraged to provide as much information as possible to help with processing and tracking. This form is likely used for internal purposes, such as data entry or content management.
-</thinking>
-
 # Entry Upload Form - Help Guide
 ## Purpose
 This form is used to confirm and document uploaded entries. It helps us to keep track of uploaded files and their details for future reference.

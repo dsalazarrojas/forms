@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information related to online risk assessments. The form is likely used in a business or organizational context to gather data from end-users or stakeholders. Given the structure of the form, it appears to be a multiple-page form that covers various aspects of risk assessment, including safety and environment considerations.
-
-Before proceeding, please make sure that you have reviewed the form carefully and are aware of the questions and options presented. This guide will walk you through each field to ensure you complete the form accurately and effectively.
-
-</thinking>
-
 # Online Risk Assessment - Help Guide
 ## Purpose
 The Online Risk Assessment form is used to collect information related to online risk assessments. It's essential to review the form carefully to ensure accuracy and completeness of your responses.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for reference checks, which are used to verify the credentials and background information of a candidate or individual. The form is designed to be completed by HR personnel or other authorized personnel to gather information about the individual being checked. The form is not intended for use in any other context, such as surveys or general feedback.
-To avoid duplication of effort, please ensure that a reference check is not already in process for the same individual. If a reference check is already in process, please do not initiate another one.
-</thinking>
-
 # reference_check_authorization - Help Guide
 ## Purpose
 The Reference Check Authorization form is used to gather background information about an individual to be verified for employment, promotion, or other purposes.

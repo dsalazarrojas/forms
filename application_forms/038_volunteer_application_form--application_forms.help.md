@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who are interested in volunteering for various roles or events. The purpose of this form is to gather the necessary contact details from the applicant, including their name, email, phone number, and address. This information will be used to communicate with the applicant and schedule any further interviews or meetings. Please note that this form is for general use and is not intended for any specific event or role.
-</thinking>
-
 # Volunteer Application Form - Help Guide
 ## Purpose
 The Volunteer Application Form is a general application form used to collect contact information from individuals who are interested in volunteering for various roles or events.

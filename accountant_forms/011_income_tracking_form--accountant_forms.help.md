@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking income payments received by the company. The purpose of this form is to record the details of each payment, including the date, amount, and method of payment. This form is typically used by accountants to reconcile and manage the company's income. It is essential to ensure that all relevant fields are filled in correctly to facilitate accurate tracking and reconciliation.
-</thinking>
-
 # income_tracking_form - Help Guide
 ## Purpose
 This form is used for tracking income payments received by the company.

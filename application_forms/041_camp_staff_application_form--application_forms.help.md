@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from potential camp staff members who are interested in working at the camp. It is intended for applicants who are at least 18 years old. We are looking for applicants who have experience working with children, are willing to learn and adapt to our unique camp environment, and are able to commit to the required staff training session. Please note that this form is only for applications to be a seasonal camp staff member. We also have separate forms for counselors and activity specialist applicants.
-
-**Note: If you are already an active staff member, please do not submit this form.**
-</thinking>
-
 # Camp Staff Application Form - Help Guide
 ## Purpose
 

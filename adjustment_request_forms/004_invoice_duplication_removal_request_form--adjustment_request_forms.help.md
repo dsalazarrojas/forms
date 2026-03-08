@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended for users to request the removal of duplicate invoices from their accounts. The form's primary purpose is to gather information about the duplicate invoices, including whether or not the invoices are duplicated, what supporting documents are required, and the user's request information. The form is designed to ensure that users provide the necessary details to facilitate the removal process. Before submitting the form, users must confirm that they want to submit their request, ensuring that their submission is intentional.
-</thinking>
-
 # Invoice Duplication Removal Request Form - Help Guide
 
 ## Purpose

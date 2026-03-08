@@ -1,5 +1,3 @@
-<thinking>Assessment Booking Form is designed to gather information from individuals who want to book an assessment with the organization. This form is intended for those who have not had the assessment before and need to provide information to facilitate the booking process. The form ensures that the individual's preferences, such as date and time, location, and contact information are collected correctly to make the assessment process smooth and convenient for all parties involved. It also ensures that individuals are aware of the terms and conditions of the assessment and provide the necessary information to proceed with the booking.</thinking>
-
 # Assessment Booking Form - Help Guide
 ## Purpose
 The Assessment Booking Form is designed to gather information from individuals who want to book an assessment with the organization. This form is intended for those who have not had the assessment before and need to provide information to facilitate the booking process.

@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form to create an alumni contact directory for our university. This directory will be a centralized database of alumni information, allowing them to stay connected with each other and the university. To fill out this form, please make sure you haven't already submitted your information to us before, as we want to avoid duplicate entries. This will help us keep the directory up-to-date and accurate.
-</thinking>
-
 # Alumni Contact Directory Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and store alumni information in a centralized directory, enabling alumni to connect with each other and the university.

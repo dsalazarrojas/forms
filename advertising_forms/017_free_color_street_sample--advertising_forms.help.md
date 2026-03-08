@@ -1,9 +1,3 @@
-<thinking>
-  This form is an AI-generated form for collecting information on free color street samples. It's designed to be a simple, user-friendly form that captures relevant details. To ensure accuracy, it's essential to review the form purpose and content carefully before proceeding.
-  To the best of my knowledge, this form doesn't duplicate any existing forms, but it's crucial to double-check that the form isn't already available in your organization or external sources.
-  Please note that this form is based on public survey topic metadata and has been adapted, not copied or extracted from any proprietary form platforms.
-</thinking>
-
 # free_color_street_sample - Help Guide
 ## Purpose
 The free color street sample form is designed to collect information about free color samples provided by the organization. This form helps to document and track the details of the samples, enabling efficient and accurate record-keeping.

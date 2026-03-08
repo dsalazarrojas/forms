@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To begin, this form is a tool used for assessing exposure risks related to MPox, a fictional illness ( Monkeypox). The form will help gather information from users to identify potential risks and provide a structured framework for evaluation. 
 
 Before proceeding, please ensure this form is not used for any other purpose, as it's specifically designed for assessing exposure risks related to MPox.

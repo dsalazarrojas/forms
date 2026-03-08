@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for end-users who need to complete the "Lease Deposit Amendment Form" to make changes to a lease agreement. Before proceeding, please ensure that you have the necessary permissions and approvals to initiate this process. This form should not be used in cases where the lease has already been terminated or where the tenant has vacated the premises. 
 
 # Lease Deposit Amendment Form - Help Guide

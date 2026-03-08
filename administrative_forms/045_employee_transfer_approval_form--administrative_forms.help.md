@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to facilitate the process of employee transfers within the organization. It ensures that all necessary approvals are secured before a transfer occurs, promoting a structured and organized process. Before starting, please ensure that you're not duplicating efforts and that the transfer is actually necessary. This form should only be used for official transfers, and not for other purposes such as casual work assignments or task delegation.
-
-</thinking>
-
 # Employee Transfer Approval Form - Help Guide
 ## Purpose
 The Employee Transfer Approval Form is a document used to request the approval of a transfer of an employee from one department to another within the organization.

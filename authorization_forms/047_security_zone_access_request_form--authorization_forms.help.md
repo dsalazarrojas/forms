@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request access to a specific Security Zone. The purpose of this form is to ensure that the correct information is collected for the access request. This form should only be submitted if the user has a legitimate reason to access the Security Zone.
-Before submitting this form, please review the fields below to ensure that you have provided accurate and complete information.
-</thinking>
-
 # Security Zone Access Request Form - Help Guide
 
 ## Purpose

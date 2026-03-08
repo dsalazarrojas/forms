@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Blood Draw Appointment Scheduling - Help Guide
 ## Purpose
 This form is designed to help patients schedule their blood draw appointments. It collects information necessary for the laboratory's scheduling and preparation processes. Please complete this form carefully to ensure accurate and efficient processing of your request.

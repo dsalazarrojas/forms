@@ -1,12 +1,3 @@
-<thinking>
-This form is a Tissue Gas Exchange Assessment form, which is used to collect information and results related to the gas exchange in tissues, likely in a medical or scientific context. The form likely aims to gather data on patients or samples, and the assessment results might be used for research, diagnosis, or treatment purposes.
-
-This form is likely used in a healthcare or research setting, and it's essential to ensure that users understand its purpose and how to complete it correctly to avoid errors or misinterpretation of the data.
-
-Assuming that the form is designed for a professional setting, it's also crucial to verify that users have the necessary permissions and authorization to access and submit this form. 
-
-</thinking>
-
 # Tissue Gas Exchange Assessment - Help Guide
 ## Purpose
 This form is designed to collect information and assessment results related to the gas exchange in tissues, likely in a medical or scientific context. It is intended for use in a healthcare or research setting.

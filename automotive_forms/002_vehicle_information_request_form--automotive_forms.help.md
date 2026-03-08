@@ -1,15 +1,3 @@
-<thinking>
-This form is used for collecting information about vehicles. The form is intended for customers or users to provide details about the vehicle they are interested in, such as the year, make, model, and color. The form has multiple sections with the same fields repeated multiple times, with slight variations in labels. This duplication may cause confusion for users, so it's essential to provide clear guidance on how to complete the form correctly.
-
-To complete this form, follow these steps:
-
-1. Start by providing the vehicle's year of manufacture.
-2. Next, enter the make of the vehicle.
-3. Then, enter the model of the vehicle.
-4. After that, select the color of the vehicle.
-5. Repeat steps 1 to 4 for each of the four sections, using the corresponding labels (e.g., "Year (again)", "Model (again)", etc.)
-</thinking>
-
 # Vehicle Information Request Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about vehicles from customers or users.

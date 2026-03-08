@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Imprest Management Form - Help Guide
 ## Purpose
 The Imprest Management Form is used to manage imprest accounts, including tracking their status, balance, and other relevant information. This form is intended for accounting and financial management purposes.

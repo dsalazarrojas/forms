@@ -1,7 +1,3 @@
-<thinking>
-The Cheque Requisition Form is a tool for employees to request a cheque for payment or reimbursement. This form is used to gather necessary information to process a cheque, including details about the payee, payment amount, and payment method. The form helps ensure that all required information is provided and that the cheque can be processed efficiently. Before filling out this form, ensure that you have the necessary information and approval from your manager. This form is only for internal use and should not be used for external or external requests.
-</thinking>
-
 # Cheque Requisition Form - Help Guide
 ## Purpose
 The Cheque Requisition Form is a tool for employees to request a cheque for payment or reimbursement.

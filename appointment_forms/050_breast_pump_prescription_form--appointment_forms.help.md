@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Breast Pump Prescription Form - Help Guide
 
 ## Purpose

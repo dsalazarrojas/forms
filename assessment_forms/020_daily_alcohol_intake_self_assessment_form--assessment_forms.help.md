@@ -1,7 +1,3 @@
-<thinking>
-  This form is a self-assessment tool designed to help users gauge their daily alcohol intake habits. It collects information on personal details, frequency and quantity of drinking, preferred drinking locations, and other relevant factors. The form is intended for individuals who want to assess their drinking habits and potentially identify areas for improvement or concern. This form is meant to be completed by individuals and does not require a healthcare professional's review or interpretation. It is essential to fill out this form accurately and honestly to ensure the assessment is reliable.
-</thinking>
-
 # Daily Alcohol Intake Self Assessment Form - Help Guide
 ## Purpose
 The Daily Alcohol Intake Self Assessment Form is a tool to help users evaluate their daily drinking habits and identify potential areas of concern.

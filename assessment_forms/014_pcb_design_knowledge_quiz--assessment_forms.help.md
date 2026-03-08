@@ -1,13 +1,3 @@
-<thinking>
-
-This guide explains the "pcb_design_knowledge_quiz" form, which is used to assess the knowledge of PCB (Printed Circuit Board) design principles, software, methodologies, and best practices. The form has ten questions, each covering a different aspect of PCB design. The form is designed to be completed by end-users, such as students, designers, or engineers, to gauge their understanding of PCB design concepts.
-
-The form has multiple-choice and open-ended questions, allowing users to select one or multiple options for certain questions and provide written answers to others.
-
-**Note:** This form is for informative purposes only and not for actual assessment or certification. Users are encouraged to complete the form at their own pace and use it as a learning resource.
-
-</thinking>
-
 # pcb_design_knowledge_quiz - Help Guide
 ## Purpose
 The "pcb_design_knowledge_quiz" form is a self-assessment tool for PCB design knowledge. It consists of 9 questions that cover various aspects of PCB design, from basic principles to best practices.

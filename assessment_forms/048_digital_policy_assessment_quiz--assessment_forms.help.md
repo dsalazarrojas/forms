@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic information from users, which will be used to assess their digital policy knowledge. This form should only be filled out once per user, so be sure to check if you've already completed it before proceeding. If you're not sure if you've already filled it out, you can always ask your supervisor or HR department for confirmation.
-</thinking>
-
 # Digital Policy Assessment Quiz - Help Guide
 ## Purpose
 The Digital Policy Assessment Quiz is a form used to assess users' knowledge of digital policies. Please take a few minutes to complete this form to help us better understand your digital policy understanding.

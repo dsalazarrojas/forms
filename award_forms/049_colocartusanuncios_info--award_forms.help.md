@@ -1,5 +1,3 @@
-<thinking>... I will assume the provided YAML describes a form for creating or editing advertisements on a platform. The form is likely used by users to submit their advertisement details for display on the platform. The form's purpose is to gather essential information about the advertisement, including the poster's personal details, advertisement description, location, and other relevant details. Before proceeding, I will ensure that the form is being used for its intended purpose and not for any other unrelated use case... </thinking>
-
 # Colocartusanuncios.info - Help Guide
 ## Purpose
 This form is designed to collect information about an advertisement for display on the Colocartusanuncios.info platform. To complete this form, please follow the steps outlined below.

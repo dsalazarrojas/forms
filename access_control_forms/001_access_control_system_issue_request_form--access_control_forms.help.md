@@ -1,7 +1,3 @@
-<thinking> 
-The Access Control System Issue Request Form is a tool used by employees to report issues with the access control system, which is a critical system for controlling access to secure areas within the company. This form helps the IT department to quickly identify and resolve problems, ensuring that employees can access their work areas safely and efficiently. To prevent duplicate reports, the IT department will check for existing tickets before processing new requests.
-</thinking>
-
 # Access Control System Issue Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly to gather information on vehicle maintenance practices, condition, frequency, and cost. This form should only be completed for vehicles that are relevant to the organization's database, and not for vehicles that have already been surveyed or maintained. It's essential to fill out the form with accurate and detailed information to provide useful insights for future maintenance decisions.
-</thinking>
-
 # driver_vehicle_maintenance_survey_form - Help Guide
 ## Purpose
 The driver_vehicle_maintenance_survey_form is a form designed to gather information on vehicle maintenance practices, condition, frequency, and cost. This information will help the organization to better understand the needs and habits of vehicle owners, and to make informed decisions for future maintenance and service plans.

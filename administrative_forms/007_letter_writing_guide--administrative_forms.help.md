@@ -1,8 +1,3 @@
-<thinking>
-This form is for generating a letter template based on the user's inputs. The form asks for basic information about the recipient, the purpose of the letter, and some formalities like salutations, sign-offs, and attachments. The purpose of this form is to assist users in writing a professional letter. The user can fill out the fields to create a letter that suits their needs. Please ensure that you are completing this form for the correct purpose and do not fill out duplicate entries as it may cause confusion. 
-
-</thinking>
-
 # Letter Writing Guide - Help Guide
 ## Purpose
 This guide will walk you through the "Letter Writing Guide" form, which is designed to assist users in generating a basic letter template.

@@ -1,11 +1,3 @@
-<thinking>
-The Luxury Sports Car Pre Order Form is designed to collect information from customers interested in purchasing a luxury sports car. This form is not intended for internal use and is meant to be filled out by potential customers who want to express their interest in a specific model. The form will be used to gather basic contact information, preferences, and requirements for the vehicle. Please note that this form will not be used for actual sales or order processing purposes. 
-
-To ensure that the form is completed accurately, please note that the following fields are optional unless marked as 'required'. If a field is 'required' but not completed, the form will not be successfully submitted. 
-
-Please fill out the form carefully as this will help us understand your preferences and requirements accurately.
-</thinking>
-
 # Luxury Sports Car Pre Order Form - Help Guide
 ## Purpose
 

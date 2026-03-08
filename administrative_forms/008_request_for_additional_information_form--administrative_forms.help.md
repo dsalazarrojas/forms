@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is for requesting additional information for administrative purposes. It's used to gather more details from users about a specific topic. The form is not affiliated with or endorsed by any form platform, and it's an original adaptation created using public survey topic metadata as inspiration. It's essential to ensure that users fill out the form correctly and understand what each field is asking for, to ensure accurate and relevant information is collected. 
-</thinking>
-
 # Request For Additional Information Form - Help Guide
 ## Purpose
 The Request For Additional Information Form is used to gather more details from users about a specific topic. This form helps to ensure that all relevant information is collected, and no important questions are left unanswered.

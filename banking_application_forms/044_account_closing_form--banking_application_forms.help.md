@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Account Closing Form", let's consider the form's purpose and requirements. This form is designed for account holders to formally close their bank accounts, providing details about the account to be closed and specifying the preferred method for handling any remaining balance.
-
-The form is structured to collect essential information from the account holder, including their name, Social Security Number, account number, account type, and preferred method for receiving the remaining balance. Additionally, it inquires about automatic payments, debit card handling, checkbooks handling, pending transactions, overdraft protection, and final statement preference.
-
-The form is likely to be used by customers who want to close their accounts due to various reasons such as moving to another bank, consolidating accounts, or experiencing poor service. It's essential to complete this form accurately to ensure a smooth account closure process.
-
-Please read the following instructions carefully to understand the form's purpose and requirements.</thinking>
-
 # Account Closing Form - Help Guide
 ## Purpose
 This form is designed for account holders to formally close their bank accounts, providing essential details about the account and specifying the preferred method for handling any remaining balance.

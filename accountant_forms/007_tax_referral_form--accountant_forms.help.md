@@ -1,7 +1,3 @@
-<thinking>
-The Tax Referral Form is designed to collect information about clients who are being referred to a tax firm. This includes their personal details (name, email, phone number, and address), the firm they are being referred to (name, website, phone number, and address), and the details of the referral (referral source, type, and date). The form also captures additional metadata such as the submitted date and time, IP address, user agent, country, city, and state. This form is likely used for internal purposes, such as tracking referrals and managing client relationships.
-</thinking>
-
 # Tax Referral Form - Help Guide
 ## Purpose
 The Tax Referral Form is used to collect information about clients who are being referred to a tax firm.

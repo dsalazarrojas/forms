@@ -1,10 +1,3 @@
-<thinking>
-The Theater Incident Form is used for reporting and tracking incidents that occur within a theater setting. This form helps to gather information about the incident, including its type, location, date, and status. It's essential to fill out this form accurately and completely to ensure that the incident is properly documented and addressed. Please note that this form is not meant to be a comprehensive incident report, but rather a quick and concise way to collect initial information.
-
-Before filling out this form, please make sure you haven't already reported the same incident. If you're unsure whether an incident has been reported, check the incident database or ask your supervisor.
-
-</thinking>
-
 # Theater Incident Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about incidents that occur within a theater setting, such as accidents, injuries, or near misses.

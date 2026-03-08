@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be a maintenance request form used by employees or staff to request maintenance for equipment or machinery within an organization. The form is designed to collect relevant information about the maintenance request, including the name and contact details of the person requesting the maintenance, the description of the maintenance, start date and time, status, priority, and any additional comments or comments from the supervisor. This form is likely used for internal communication and record-keeping within the organization.
-
-The form has several sections for collecting contact information, maintenance details, status updates, and approval or rejection of the maintenance request. There is also an option to include a comment from the maintenance requestor or their supervisor.
-
-Before completing this form, please ensure that you have not already submitted a maintenance request for the same issue, and that you have discussed the request with your supervisor or facilities team if needed. This will help ensure that the request is accurately and efficiently processed.
-
-To complete this form, please select the relevant details for each field, and be as detailed as possible when providing comments or status updates. If you are unsure about any field or need further assistance, please don't hesitate to reach out to the facilities team or your supervisor.
-</thinking>
-
 # Maintenance Approval Form - Help Guide
 ## Purpose
 The Maintenance Approval Form is used to submit a maintenance request for equipment or machinery within the organization. It is used to collect relevant information about the maintenance request, including the description of the work required, start date and time, status, and comments from the requestor or their supervisor.

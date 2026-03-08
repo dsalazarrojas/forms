@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used for participants in a snowmobile ride event to collect liability waiver information and gather necessary contact and vehicle details. It's essential to ensure accuracy and completeness of the information provided to maintain a secure and safe environment for all participants. This form will help guide users through the process of filling out the form, ensuring they understand each field's purpose and requirements.
-
-</thinking>
-
 # Snowmobile Ride Liability Waiver - Help Guide
 ## Purpose
 This form is a liability waiver for participants in a snowmobile ride event. It is crucial to fill it out accurately to ensure your safety and the safety of others on the ride.

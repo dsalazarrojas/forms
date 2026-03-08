@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a vehicle order. The form consists of several fields, including text inputs, dropdown menus, date and time selectors, and email fields. Some fields are required, while others are optional.
-The form is intended for users to provide details about their vehicle preferences, including the type of vehicle they are interested in, their preferred color, and other relevant information. The form will help the user to get a better understanding of their vehicle needs and requirements.
-To prevent duplication and ensure accurate information, we will not accept multiple submissions for the same vehicle order form.
-</thinking>
-
 # Vehicle Order Form - Help Guide
 ## Purpose
 The Vehicle Order Form is designed to collect information from users for a vehicle order.

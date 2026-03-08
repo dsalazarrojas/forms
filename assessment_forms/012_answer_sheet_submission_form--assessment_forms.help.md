@@ -1,5 +1,3 @@
-<thinking>...This guide is intended for end-users who need to complete the "Answer Sheet Submission Form". The form is used for students to submit their answers to an assignment, which will then be automatically graded. The form should only be used once per assignment submission. Please ensure you have filled out all required fields before submitting the form. If you are resubmitting the answers, please make sure you are not duplicating the submission. The purpose of this form is to capture the necessary information from students to facilitate automated grading and grade reporting...</thinking>
-
 # Answer Sheet Submission Form - Help Guide
 ## Purpose
 This form is used for students to submit their answers to an assignment, which will then be automatically graded. Please ensure you have filled out all required fields before submitting the form.

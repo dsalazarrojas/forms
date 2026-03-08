@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals requesting accessibility modifications for wheelchair access in their building. The form is intended to be completed by individuals who need to request a wheelchair accessible door, and the information collected will be used to determine the feasibility and priority of the request. To avoid duplication of efforts, it's recommended that users do not submit multiple requests for the same door. Additionally, please ensure that you have permission from the relevant authorities before submitting a request. 
-
-</thinking>
-
 # Wheelchair Accessible Door Request Form - Help Guide
 ## Purpose
 This form is designed to help individuals request wheelchair accessible doors in their buildings. It's essential to complete this form accurately and thoroughly to ensure that your request is processed efficiently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Form Name:** fat_malabsorption_assessment
 
 **Form Purpose:** This form is designed to collect information from patients about their malabsorption symptoms, medical history, and laboratory results. It helps healthcare professionals assess the severity of malabsorption in patients and create a treatment plan to improve their condition.

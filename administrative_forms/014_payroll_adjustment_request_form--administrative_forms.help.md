@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a change to an employee's compensation package. The form must be completed by the employee to request a change in their salary, bonus, or leave status. The employee must provide their name, the type of adjustment they are requesting, and the dates of the change, if applicable. The type of adjustment can be either a salary change, a bonus, or a leave of absence. The amount of the adjustment, if applicable, must be provided. Additionally, the employee can optionally select the tool they were assigned to perform the adjustment and provide a reason for the request. The status of the request will be selected from a list of options: Pending, Approved, or Rejected. This form is not mandatory, but it is strongly recommended that all adjustment requests be submitted through this form to ensure accurate tracking and processing. Please ensure that you only submit one adjustment request per form, as multiple requests will be reviewed and processed separately.
-</thinking>
-
 # Payroll Adjustment Request Form - Help Guide
 ## Purpose
 This form is used to request a change to an employee's compensation package.

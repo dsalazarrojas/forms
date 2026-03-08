@@ -1,7 +1,3 @@
-<thinking>
-This is a self-assessment form for evaluating compliance with fair payment codes. The form is used to collect information about an organization's assessment of their payment code compliance status, methodology, and frequency of assessments. To complete this form, the user will need to fill in their organization's details, including assessment title, organization name, contact information, and dates for assessment start and end. The user will also need to select the compliance status and describe the assessment methodology, frequency, and payment schedule methods used. The form is not meant to be a comprehensive report, but rather a quick self-assessment tool for organizational staff to evaluate their own payment code compliance. Please note that some fields are optional and do not require an answer if not applicable.
-</thinking>
-
 # fair_payment_code_compliance_self_assessment - Help Guide
 ## Purpose
 The Fair Payment Code Compliance Self-Assessment Form is a tool for organizations to evaluate their own compliance with fair payment codes. The form helps ensure that organizations are following the guidelines set by the fair payment code and making progress towards code compliance.

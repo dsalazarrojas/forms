@@ -1,11 +1,3 @@
-<thinking>
-To provide an internal reasoning block that explains the form purpose and checks for relevance and non-duplication:
-The purpose of this form is to collect information from users to estimate their advertising budget. This form will be used to gather data on whether the user is a yes or no, their estimated ad budget, a description of their budget, their desired ad frequency, and a description of their desired ad frequency. This form is designed to be user-friendly and gather relevant information in a structured format.
-
-The form will be used internally to analyze user feedback and improve the advertising services offered. The data will help identify trends and patterns in user behavior, and will be used to tailor the advertising offerings to better meet user needs.
-
-There is no duplication of effort or unnecessary fields in this form as each field has a specific purpose and will help in analyzing the user behavior.</thinking>
-
 # Estimate Advertising Budget Form - Help Guide
 ## Purpose
 The "Estimate Advertising Budget Form" is designed to collect information from users about their advertising needs and preferences. This form will help us understand whether you are a potential customer for our advertising services and if so, what your estimated budget for advertising is, how often you want to see ads, and any additional comments or descriptions you may have.

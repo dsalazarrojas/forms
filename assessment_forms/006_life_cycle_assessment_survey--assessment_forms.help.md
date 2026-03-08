@@ -1,9 +1,3 @@
-<thinking>
-# Life Cycle Assessment Survey
-This form was created using AI to help organizations assess their processes and products across various stages of their life cycles, from development to disposal. The form is intended to provide a comprehensive understanding of a company's products and services across different categories and subcategories, and gather user feedback and comments.
-This form is relevant to industries such as manufacturing, product development, supply chain management, and product life cycle management. Please ensure that the survey questions align with your company's specific business needs and goals before using this form.
-</thinking>
-
 # Life Cycle Assessment Survey - Help Guide
 
 ## Purpose

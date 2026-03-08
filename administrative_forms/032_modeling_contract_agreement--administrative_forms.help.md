@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to collect information for a contract agreement between two parties. It is used to create a formal agreement between a company and a contractor for a specific period of time. This form is likely used in business settings where agreements are made between companies and individuals or other companies. It is not specific to any particular industry or category, making it versatile for various types of contracts. This form does not collect sensitive data, so you do not need to worry about data privacy concerns.
 
 ## Modeling Contract Agreement - Help Guide

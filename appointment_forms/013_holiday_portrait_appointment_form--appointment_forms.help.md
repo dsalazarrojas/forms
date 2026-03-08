@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holiday Portrait Appointment Form - Help Guide
 ## Purpose
 The Holiday Portrait Appointment Form is used to schedule a holiday portrait session with a photographer. This form is used to collect information about the session, including the appointment details, date, time, and contact information.

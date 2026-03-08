@@ -1,5 +1,3 @@
-<thinking>... I am considering the form's purpose and the fields provided in the YAML inputSchema. The form is titled "vehicle_entry_and_exit_log" and appears to be designed to log vehicle entry and exit information. The fields are a mix of date, time, select_one, select_multiple, text, and select_one fields, suggesting that the form is used to collect various types of data related to vehicle entry and exit events. The fields include fields for entry and exit dates and times, vehicle type, vehicle ID, entry and exit locations, operator ID, notes, and other additional information such as created and updated timestamps. The form also includes fields for output file and category, which may be used for exporting or categorizing the logged data. I will now create a user-facing help guide based on this analysis... </thinking>
-
 # vehicle_entry_and_exit_log - Help Guide
 ## Purpose
 The vehicle_entry_and_exit_log form is used to record vehicle entry and exit events, including dates, times, locations, and other relevant information.

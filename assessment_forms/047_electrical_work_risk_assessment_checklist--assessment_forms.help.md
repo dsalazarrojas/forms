@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's review the form purpose and ensure it's not a duplication of effort. This form appears to be a comprehensive electrical work risk assessment checklist used to identify and assess potential risks associated with electrical work. The form is likely used in a workplace or industrial setting to ensure that electrical work is conducted safely. Given the detailed breakdown of fields, it seems this form is designed to be a thorough evaluation tool for electrical work risk assessments.</thinking>
-
 # Electrical Work Risk Assessment Checklist - Help Guide
 ## Purpose
 The Electrical Work Risk Assessment Checklist is a tool used to identify and assess potential risks associated with electrical work in a workplace or industrial setting. This comprehensive form helps ensure that electrical work is conducted safely and effectively.

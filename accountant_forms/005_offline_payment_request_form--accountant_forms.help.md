@@ -1,16 +1,3 @@
-<thinking>
-To ensure that this form is properly filled out and to prevent any potential issues, please note that this form is designed for making offline payment requests. This form should only be used when the payment is not made online. The purpose of this form is to provide a structured way to capture the necessary information for offline payment processing.
-
-To avoid any duplication or errors, please make sure to:
-
-* Only use this form for offline payments.
-* Fill out all required fields accurately and thoroughly.
-* If you are unsure about any field or process, please contact the relevant authorities or support team.
-
-Please note that some fields might have specific requirements or constraints. For example, the "payment_method" field is a select_one field, which means you must choose one of the available options. Similarly, the "employee_name" field requires a text input.
-
-</thinking>
-
 # Offline Payment Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for offline payment processing. It should only be used when payment is not made online.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for authorizing the rental of a unit in a rental property. It is meant to be filled out by the rental property owner or their representative to authorize the rental of a unit to a specific individual. The form should not be filled out by the renter or applicant unless explicitly instructed otherwise. The purpose of this form is to confirm that the rental property owner or their representative has authorized the rental of the unit and is providing background check authorization.
-</thinking>
-
 # rental_background_check_authorization_form - Help Guide
 ## Purpose
 The rental background check authorization form is used to confirm the authorization of a rental property unit. Fill out this form to provide background check authorization for the rental of a unit in a rental property.

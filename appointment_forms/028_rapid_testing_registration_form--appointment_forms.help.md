@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information and details for a rapid testing registration process. This form is likely used in a medical setting to gather essential information from patients before conducting testing or scheduling an appointment. The fields are designed to be straightforward, ensuring that patients provide accurate and relevant details.
-
-When creating this form, I've considered the following requirements:
-
-* The form should be easy to understand and fill out for patients.
-* Each field should be clear and concise, with relevant labels.
-* Fields with "true" values in the `required` field should be emphasized to ensure patients understand the importance of providing these details.
-* Fields with "false" values can be considered optional and may be marked as such for clarity.
-</thinking>
-
 # rapid_testing_registration_form - Help Guide
 ## Purpose
 The rapid testing registration form is designed to collect patient information and details for a rapid testing process. This form helps the medical staff to gather essential information from patients before conducting testing or scheduling an appointment.

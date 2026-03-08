@@ -1,9 +1,3 @@
-<thinking>
-# Ensure that this form is only used when necessary (required or relevant to the specific event). 
-# Ensure that the event has not been previously assessed. 
-# This form must not be used for events that don't have an environmental impact.
-</thinking>
-
 # Event Environmental Impact Assessment Form - Help Guide
 ## Purpose
 

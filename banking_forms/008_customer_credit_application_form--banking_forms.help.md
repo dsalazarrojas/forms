@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from customers to evaluate their creditworthiness for bank accounts. The customer is required to provide their personal details, employment status, income, and other relevant information to help the bank assess their credit score. This form is designed to gather data in a structured format to facilitate the evaluation process. It is essential to ensure the accuracy and completeness of the information provided to get an accurate credit score. Please note that this form does not guarantee credit approval, and the actual decision is made by the bank based on the information provided. 
-</thinking>
-
 # Customer Credit Application Form - Help Guide
 ## Purpose
 This form is a customer credit application form used to assess the creditworthiness of a potential customer for banking services. Please provide accurate and complete information to increase the chances of getting an accurate credit score.

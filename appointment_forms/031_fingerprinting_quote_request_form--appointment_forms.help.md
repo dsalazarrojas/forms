@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fingerprinting Quote Request Form - Help Guide
 
 ## Purpose

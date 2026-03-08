@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used by mechanics or maintenance personnel in an automotive industry setting to record and track information about the maintenance materials used on vehicles. The form is likely used for inventory management, cost tracking, and vendor verification purposes. It's possible that this form is used for a fleet management system or a maintenance management software for vehicles. The fields on the form seem to indicate that it's used for tracking the maintenance operations, materials used, costs, and other details related to the maintenance activities. I will make sure to tailor the help guide according to this context.</thinking>
-
 # Mechanical Maintenance Material Log - Help Guide
 
 ## Purpose

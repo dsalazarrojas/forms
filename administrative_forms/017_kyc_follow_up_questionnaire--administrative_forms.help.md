@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather follow-up information from businesses that have completed the Know Your Customer (KYC) process. It helps ensure that the business's information is up-to-date and accurate. This form is not intended for initial onboarding, but rather for businesses that have already been onboarded and need to update their information due to changes such as address, name, or phone number changes. 
-</thinking>
-
 # kyc_follow_up_questionnaire - Help Guide
 ## Purpose
 The KYC follow-up questionnaire is used to update a business's information in our system. It helps us ensure that the information we have on file is accurate and up-to-date.

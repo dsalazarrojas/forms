@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information about a customer for authorization purposes. It may be used in scenarios where the customer needs to be verified or identified by an organization or institution. The fields included in this form are general and might be used for various types of customer verification, such as in a business setting, a government agency, or a financial institution. It is essential to ensure that the correct and accurate information is provided in this form.
-</thinking>
-
 # Customer Letter Of Authorization - Help Guide
 ## Purpose
 The Customer Letter Of Authorization form is used to collect information about a customer for verification or identification purposes in various scenarios, such as in a business setting, a government agency, or a financial institution.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being used for its intended purpose and not duplicated. This form is intended for athletes to provide information about themselves and their team. This guide will help ensure that the form is filled out correctly and thoroughly.
-</thinking>
-
 # Athletic Team Information Form - Help Guide
 ## Purpose
 This form is designed to collect athlete information, including personal details, contact information, and medical history, for the purpose of team management and athlete development. Please fill out this form accurately and completely to ensure that your athlete information is up-to-date.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # grievance_submission_information_form - Help Guide
 ## Purpose
 This form is designed to collect information related to a grievance submission. A grievance is a complaint or expression of discontent about a situation or issue that requires attention and resolution. This form helps to gather necessary details for processing and addressing the grievance in a structured and efficient manner.

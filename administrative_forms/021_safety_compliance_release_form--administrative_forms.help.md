@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Compliance Release Form - Help Guide
 ## Purpose
 This form is used to record and document an employee's release from safety compliance obligations. It captures essential information to ensure a smooth transition process, maintain accurate records, and facilitate future reference.

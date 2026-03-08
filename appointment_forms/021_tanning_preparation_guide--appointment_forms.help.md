@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through the preparation process for a tanning appointment, likely for a medical or aesthetic purpose. The form should be relevant to individuals who are planning to undergo a tanning treatment or procedure. To avoid duplication, this form is not affiliated with any existing form platforms and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # Tanning Preparation Guide - Help Guide
 ## Purpose
 The Tanning Preparation Guide is a form designed to assist individuals in preparing for a tanning appointment. It will guide you through the necessary steps and information required for a smooth and successful tanning experience.

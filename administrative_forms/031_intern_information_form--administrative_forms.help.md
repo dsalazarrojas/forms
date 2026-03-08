@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an intern's details, including their personal contact information and professional roles. This form is typically used for internal use within an organization and is not intended for external sharing or public consumption. It's possible that the form is being used to track intern's data for administrative purposes, such as creating a database for internal records or for compliance requirements. It's worth noting that the form does not seem to be collecting sensitive information such as social security numbers or passwords.
-</thinking>
-
 # intern-information-form - Help Guide
 ## Purpose
 The "intern-information-form" is an administrative form used to collect information about an intern's details for internal purposes.

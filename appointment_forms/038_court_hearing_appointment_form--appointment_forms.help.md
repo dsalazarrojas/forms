@@ -1,15 +1,3 @@
-<thinking>
-This form is used to schedule a court hearing appointment. The form requires the following information: 
-- The date and time of the hearing
-- The name and contact information of the individual or party involved
-- The case number and court number
-- The type of hearing
-- A brief description of the hearing
-- Any additional comments or information
-
-The form is designed to be completed by a user and is used for scheduling purposes.
-</thinking>
-
 # Court Hearing Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule a court hearing appointment.

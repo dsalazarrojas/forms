@@ -1,9 +1,3 @@
-<thinking>
-This form, "Beneficial Ownership Declaration", is used to provide information about a business entity and its beneficial owners for compliance and regulatory purposes. The form is used to declare the accuracy of the information provided and to certify that the beneficial owner understands the definition of beneficial ownership. To ensure accuracy, please ensure that you have all required information available before starting the form.
-
-Before proceeding, please confirm that you have not previously submitted this form for the same entity and beneficial owners. If you have any doubts or uncertainties about the form or its requirements, please review the guidance and examples provided in this help documentation.
-</thinking>
-
 # Beneficial Ownership Declaration - Help Guide
 ## Purpose
 The Beneficial Ownership Declaration is used to provide information about a business entity and its beneficial owners for compliance and regulatory purposes. The form is designed to ensure that beneficial owners declare the accuracy of the information provided and certify that they understand the definition of beneficial ownership.

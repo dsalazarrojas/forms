@@ -1,9 +1,3 @@
-<thinking>... 
-
-The Risk Management Self Assessment Form is a crucial tool for individuals to evaluate and manage risks associated with their work, projects, or activities. This form is designed to help users identify, assess, and document potential risks, as well as provide space for further comments and suggestions. Before filling out this form, please ensure you have a clear understanding of the risk landscape and have reviewed relevant policies, guidelines, and procedures related to risk management within your organization. 
-
-</thinking>
-
 # Risk Management Self Assessment Form - Help Guide
 ## Purpose
 The Risk Management Self Assessment Form is designed to help you identify and assess potential risks associated with your work, projects, or activities. This form will guide you through a series of questions and prompts to collect relevant information and help you understand the likelihood and potential impact of each risk.

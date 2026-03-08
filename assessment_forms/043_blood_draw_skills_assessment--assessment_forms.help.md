@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the skills of a candidate in performing a blood draw, which is a crucial aspect of phlebotomy competency. This form helps evaluators evaluate the candidate's ability to perform blood draws safely and effectively. By completing this form, the assessor can provide constructive feedback to the candidate, identify areas of strength and improvement, and recommend whether the candidate is ready to perform blood draws independently.
-</thinking>
-
 # Blood Draw Skills Assessment - Help Guide
 ## Purpose
 

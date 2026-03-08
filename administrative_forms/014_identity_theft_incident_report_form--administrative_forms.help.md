@@ -1,7 +1,3 @@
-<thinking> 
-To provide users with a clear understanding of how to complete the Identity Theft Incident Report Form, I'll first clarify the purpose and context of this form. The Identity Theft Incident Report Form is designed to collect information about incidents of identity theft that have occurred within an organization. This form is intended to gather details about the incident, including the type of identity theft, the date and location of the incident, and the perpetrator's information. It also collects information about the victim, such as their name, phone number, and email address. The form will help to report the incident and track its status.
-</thinking>
-
 # Identity Theft Incident Report Form - Help Guide
 ## Purpose
 The Identity Theft Incident Report Form is designed to collect information about incidents of identity theft that have occurred within an organization, such as credit card or bank account theft, social media identity theft, or employment identity theft.

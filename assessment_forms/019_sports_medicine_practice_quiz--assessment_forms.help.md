@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the Sports Medicine Practice Quiz form, which is used to assess an individual's knowledge in sports medicine. It is intended for medical professionals and students to gauge their understanding of various topics in sports medicine.
-The form consists of multiple sections, each covering a different aspect of sports medicine. It is crucial to fill out each section carefully to ensure accurate results.
-Before proceeding, ensure that you have not taken the quiz before as it is designed to be taken only once.
-</thinking>
-
 # Sports Medicine Practice Quiz - Help Guide
 ## Purpose
 The Sports Medicine Practice Quiz is designed to evaluate an individual's knowledge and skills in various aspects of sports medicine, including concussion procedures, injury reporting, and medical certification.

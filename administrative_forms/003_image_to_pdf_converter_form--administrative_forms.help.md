@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for converting an image to a PDF document. It is used for administrative purposes, likely in a business setting. The form collects information for formatting and converting an image into a PDF file. 
-
-This form is intended for users who have a specific image file they want to convert into a PDF document. They will need to upload the image, select the desired formatting options, and confirm their selections to submit the conversion.
-
-</thinking>
-
 # image_to_pdf_converter_form - Help Guide
 ## Purpose
 This form is for converting an image into a PDF document.

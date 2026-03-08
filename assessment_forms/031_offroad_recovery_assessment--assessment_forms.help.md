@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an offroad recovery incident. It is used to assess the situation and gather data that will help in making decisions regarding recovery efforts. This form should only be used for offroad recovery incidents that have not been assessed before, or where the assessment is being re-evaluated. If you are unsure whether to use this form, please contact [insert contact information] to confirm its relevance.
-</thinking>
-
 # Offroad Recovery Assessment - Help Guide
 ## Purpose
 The Offroad Recovery Assessment form is designed to collect information about offroad recovery incidents. It helps in assessing the situation and making decisions regarding recovery efforts.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect consent from parents or guardians for the media representation of their child participating in youth sports. This includes photographs, audio recordings, and video recordings. This form ensures that the parents or guardians are aware of and agree to the publication of their child's likeness in media, which is a requirement for participating in youth sports programs.
-
-This form should only be used for youth sports programs and should not be used for other purposes. If a similar form is already being used, please ensure that the current version is outdated and needs to be updated.
-
-</thinking>
-
 # Youth Sports Publicity Consent Form - Help Guide
 ## Purpose
 The Youth Sports Publicity Consent Form is designed to collect consent from parents or guardians for the media representation of their child participating in youth sports. This form is a requirement for participating in youth sports programs and ensures that the parents or guardians are aware of and agree to the publication of their child's likeness in media.

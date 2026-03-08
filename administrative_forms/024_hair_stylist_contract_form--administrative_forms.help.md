@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by salon management to onboard new stylists. The purpose of this form is to collect essential information from both the client and the stylist, such as contact details, services offered, and contract terms. This form helps in maintaining accurate and up-to-date records, ensuring that the salon can provide effective communication and service agreements with its employees. 
-
-To ensure that all relevant information is gathered, it is essential to complete this form carefully. Please note that some fields are not marked as required, but including all necessary information will aid in a smoother onboarding process.
-
-</thinking>
-
 # Hair Stylist Contract Form - Help Guide
 ## Purpose
 The Hair Stylist Contract Form is designed to collect essential information from both the client and the stylist during the onboarding process. This form helps in maintaining accurate records, ensuring effective communication, and service agreements with employees.

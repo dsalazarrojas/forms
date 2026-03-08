@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dog Training Class Reservation Form - Help Guide
 ## Purpose
 The Dog Training Class Reservation Form is used to book a spot in a dog training class. To use this form, fill out the required and optional fields as instructed below.

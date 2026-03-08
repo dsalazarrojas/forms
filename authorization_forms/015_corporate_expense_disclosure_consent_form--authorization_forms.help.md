@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to obtain employee consent for corporate expenses, ensuring that employees understand and acknowledge their reporting requirements and responsibilities. This form is intended to be completed by employees who are required to report their expenses to their reporting managers. It is essential to review this form carefully to understand the specific requirements and fields outlined below.
-
-Before proceeding, please verify that you are not already aware of the expense disclosure policy and requirements. This form is designed to complement, not duplicate, the information already provided in your employee handbook or other relevant documentation.
-
-If you have any doubts or concerns, please refer to your supervisor or HR representative for guidance.
-
-</thinking>
-
 # Corporate Expense Disclosure Consent Form - Help Guide
 ## Purpose
 The Corporate Expense Disclosure Consent Form is a mandatory form that requires employees to acknowledge their understanding of the corporate expense reporting policy. This form helps ensure that employees are aware of their responsibilities and obligations regarding expense reporting.

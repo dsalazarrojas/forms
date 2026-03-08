@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a safety inspection, likely used for auditing purposes. The form appears to be used for tracking and documenting safety inspections, possibly in an industrial or workplace setting. To ensure the form is completed correctly, it's essential to understand its purpose and the fields it contains. This form is not affiliated with any specific platform, but it's been generated using public survey topic metadata. The form has multiple fields for collecting various types of information, including category, description, assigned tool, output type, and more. It's crucial to complete the form accurately and thoroughly to ensure that the collected data is reliable and useful. Please review the form carefully to understand the specific requirements and fill it out accordingly.
-</thinking>
-
 # safety_inspection_form - Help Guide
 ## Purpose
 This form is designed to collect information for a safety inspection in an auditing context.

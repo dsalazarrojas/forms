@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and ensure it's the right fit for your needs. This AI-generated form, "Behavioral Assessment Quiz", is designed to help assess an individual's behavioral style based on their responses to a series of questions. Each question is carefully crafted to gauge their preferences, habits, and tendencies. By completing this form, participants can gain insights into their dominant behavioral style, which may aid in personal development, team building, or even career growth. If you're looking for a tool to help you better understand yourself or others, this form might be a valuable resource.</thinking>
-
 # Behavioral Assessment Quiz - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Behavioral Assessment Quiz form. The form is designed to assess an individual's behavioral style based on their answers to a series of questions. By the end of this guide, you'll be able to navigate the form with ease and gain valuable insights into your dominant behavioral style.

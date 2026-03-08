@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for the Pre Test Assessment: Cooling Systems. The purpose of this form is to help assess an individual's knowledge on cooling systems, likely for a certification or proficiency test. It's crucial to complete this form carefully to provide accurate results.
-</thinking>
-
 # Pre Test Assessment: Cooling Systems - Help Guide
 ## Purpose
 The Pre Test Assessment: Cooling Systems form is a test to gauge your knowledge on the subject of cooling systems. This form will ask you to choose from different options and rate your confidence level on your answers. Please ensure you complete this form seriously and accurately, as the results will impact your assessment score.

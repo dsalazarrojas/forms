@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist users in navigating the Volunteer Award Category Quiz form. The form's purpose is to collect information about awards received by volunteers, including the category and type of award, as well as the date and description of the award. This guide will walk users through each field, explaining its purpose and expected input, to ensure accurate and complete submission of award information.
-</thinking>
-
 # Volunteer Award Category Quiz - Help Guide
 ## Purpose
 The Volunteer Award Category Quiz form is designed to collect detailed information about awards received by volunteers. This form helps in categorizing and tracking awards in a structured and organized manner.

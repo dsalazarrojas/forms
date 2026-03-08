@@ -1,13 +1,3 @@
-<thinking>
-  This form is designed to collect information about a patient's medication intervention assessment.
-  The purpose of this form is to gather data on the patient's current medication regimen, 
-  including the type of medication, dosage form, start and stop dates, and any additional notes. 
-  This information will help healthcare providers and pharmacists make informed decisions about the patient's care. 
-  The form is divided into several sections, each focusing on a specific aspect of medication intervention. 
-  Before completing this form, it's essential to review the patient's medical record to ensure this form is not a duplicate assessment. 
-  This form is typically used by healthcare providers, pharmacists, and other medical professionals to assess and document patient information.
-</thinking>
-
 # Medication Intervention Assessment - Help Guide
 ## Purpose
 This form is used to collect and document information about a patient's medication regimen, allowing healthcare providers to make informed decisions about their care.

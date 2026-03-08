@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from suppliers for check-in purposes. This includes verifying the supplier's contact information, product delivery details, and assigning a tool for their use. The form is required for all suppliers and is designed to be completed by the supplier or their representative. It's crucial to ensure that the supplier's contact information is accurate and up-to-date, and that the product details are correctly recorded.
-</thinking>
-
 # supplier_check_in_form - Help Guide
 ## Purpose
 This form is used to collect information from suppliers for check-in purposes, including their contact information, product delivery details, and assigned tool.

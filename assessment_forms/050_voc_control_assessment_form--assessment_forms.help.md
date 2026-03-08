@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # VOC Control Assessment Form - Help Guide
 ## Purpose
 The VOC Control Assessment Form is designed to collect information about the presence and status of VOC (Volatile Organic Compound) controls on a site. This form will help assess the compliance status of VOC controls, site visit details, and other relevant information.

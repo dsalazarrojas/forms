@@ -1,8 +1,3 @@
-<thinking>...
-This form is used to document incidents of injuries, including details about the incident, the injured person, and any medical treatment received. It's intended to be completed by individuals involved in the incident, including the injured person, a supervisor, or a medical professional. The form should only be completed once per incident, and it's a required form for all injuries that result in medical attention or time off work.
-
-</thinking>
-
 # Injury Incident Form - Help Guide
 ## Purpose
 This form is used to document incidents of injuries, including details about the incident, the injured person, and any medical treatment received.

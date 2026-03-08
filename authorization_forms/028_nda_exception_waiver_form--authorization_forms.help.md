@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NDA Exception Waiver Form - Help Guide
 ## Purpose
 This form is used to request an exception to a Non-Disclosure Agreement (NDA) for a specific reason. It helps to identify the user's intention to bypass the NDA for a particular agreement.

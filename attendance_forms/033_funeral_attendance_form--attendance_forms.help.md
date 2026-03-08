@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is used to collect information from attendees, including their name, date and time of attendance, location details, and any additional comments. The form is designed to be completed by the attendees themselves, and the data collected will be used for record-keeping and communication purposes. It is essential to ensure that all required fields are filled in accurately and thoroughly, as this information will help in understanding the attendee's experience and any feedback they might have.</thinking>
-
 # TITLE - Help Guide
 ## Purpose
 This form is used to collect information from attendees, including their name, date and time of attendance, location details, and any additional comments.

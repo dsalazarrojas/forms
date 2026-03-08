@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to support end users in filling out the Pricing And Documentation Checklist form in a way that ensures accurate and efficient completion. This form is used to track and verify the details of a project, including its pricing and associated documentation. It is crucial to fill out this form accurately to avoid duplication of effort and miscommunication within the team.
-
-The form is divided into various sections, each with a specific set of fields that need to be filled out. To ensure that you complete the form correctly, please follow the instructions below.
-
-</thinking>
-
 # Pricing And Documentation Checklist - Help Guide
 ## Purpose
 This form is designed to collect and verify the details of a project, including its pricing and associated documentation.

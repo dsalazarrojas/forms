@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be for requesting a consultation or submission related to windows, possibly for repair or installation purposes. However, it may be used for other types of window-related services as well. 
-
-Some fields like `submission_agreement_terms_*` fields seem to be duplicates or variations of the same field (`submission_agreement` and `submission_agreement_terms_1` to `submission_agreement_terms_12`), which could be consolidated or reviewed for clarity. 
-
-The form is designed to capture a wide range of information including contact details, preferences for services, and specific requirements such as window size and type. 
-
-It may be beneficial to add more guidance on what the submission agreement terms are intended to capture, as the name of these fields and their labels are not very descriptive.
-
-</thinking>
-
 # Window Consultation Request - Help Guide
 ## Purpose
 This form is for requesting a consultation or submission related to windows. It is used to provide your contact information, specify the services you need, and provide additional details such as window size and type.

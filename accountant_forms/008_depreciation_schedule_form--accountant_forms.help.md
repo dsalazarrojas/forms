@@ -1,5 +1,3 @@
-<thinking>Depreciation Schedule Form is used to record and track the depreciation of fixed assets, such as buildings, equipment, and vehicles. This form provides a structured approach to tracking the asset's cost, its useful life, and the depreciation method used. By completing this form, asset owners can accurately calculate the total depreciation of their assets and make informed decisions about asset replacement or retirement.</thinking>
-
 # Depreciation Schedule Form - Help Guide
 ## Purpose
 The Depreciation Schedule Form is used to record and track the depreciation of fixed assets, such as buildings, equipment, and vehicles.

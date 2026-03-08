@@ -1,5 +1,3 @@
-<thinking> This form is designed to capture essential information for a cat adoption contract. The purpose of this form is to collect details from adopters about themselves, the cat being adopted, and the terms of the adoption. It is intended to be completed by individuals interested in adopting a cat from the animal shelter. Upon completion, the form will be used to ensure that both the adopter and the shelter have a clear understanding of the adoption process and the responsibilities that come with it. The form will help facilitate a smooth and successful adoption experience for both parties. This form should not be used for any other purpose other than for the cat adoption process. </thinking>
-
 # Cat Adoption Contract Form Template - Help Guide
 ## Purpose
 

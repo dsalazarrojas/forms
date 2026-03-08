@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for users to book a Sound Mixing Masterclass event. The purpose of this form is to collect attendee information, including their name, contact details, and event-specific information such as event date and duration. 
-
-This form is intended for individuals who want to book a spot for the Sound Mixing Masterclass, which is likely a workshop or training event focused on sound mixing techniques. 
-
-Before filling out this form, make sure you are booking for the correct event and have all necessary details ready. If you've already submitted a booking for this event, please do not resubmit. 
-
-Please ensure the event details, such as event date and duration, match the details you've already been informed about or have checked the event schedule.
-</thinking>
-
 # Sound Mixing Masterclass Booking Form - Help Guide
 ## Purpose
 The Sound Mixing Masterclass Booking Form is a tool for users to book a spot for a Sound Mixing Masterclass event.

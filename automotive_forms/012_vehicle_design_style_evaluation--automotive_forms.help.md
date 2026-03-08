@@ -1,10 +1,3 @@
-<thinking>
-To begin with, let's consider the purpose and context of the "Vehicle Design Style Evaluation Form". The form is likely used to gather feedback or opinions from users on various design aspects of vehicles, such as exterior and interior design, color scheme, trim level, and technical specifications. This form might be used by designers, engineers, or other stakeholders to understand how different design elements impact the overall perception and functionality of a vehicle.
-
-Before proceeding, let's verify that the form hasn't been duplicated or redundant in the system. We'll review the existing forms and ensure that this form offers unique value or serves a distinct purpose. Assuming it's a new or existing form with a specific goal, let's move forward with creating the help guide.
-
-</thinking>
-
 # Vehicle Design Style Evaluation Form - Help Guide
 ## Purpose
 This form collects opinions on various design aspects of vehicles to help stakeholders understand how different elements impact the overall perception and functionality of a vehicle.

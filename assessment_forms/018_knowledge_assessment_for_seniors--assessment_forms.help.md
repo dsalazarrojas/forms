@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the health and well-being of seniors, gathering information about their physical, mental, and social health, as well as their ability to perform daily activities and their cognitive status. The form's purpose is to provide a comprehensive understanding of the senior's overall health condition, which can be used to identify potential areas of concern and provide targeted support. This form should only be filled out by seniors, not medical professionals, as it is intended to be a self-assessment tool. Please ensure that you are a senior before proceeding.
-</thinking>
-
 # Knowledge Assessment For Seniors - Help Guide
 ## Purpose
 The form is designed to assess your overall health and well-being, providing a comprehensive understanding of your current status.

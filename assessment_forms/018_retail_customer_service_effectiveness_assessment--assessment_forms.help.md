@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist retail customers in evaluating the effectiveness of the customer service they received at their store visit. It is recommended that this assessment be filled out immediately after the visit to ensure accuracy and relevance. To avoid duplication of effort, please only fill out this form if you have visited the store within the last 7 days.
-</thinking>
-
 # Retail Customer Service Effectiveness Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the effectiveness of the customer service received at our store. Please take a few minutes to complete this form and provide us with your honest feedback. Your input will help us improve our service to better meet your needs.

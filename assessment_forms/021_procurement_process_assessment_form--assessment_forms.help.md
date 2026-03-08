@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # procurement_process_assessment_form - Help Guide
 ## Purpose
 The Procurement Process Assessment Form is used to evaluate and assess the procurement process in your organization. This form is used to gather information on the different stages of the procurement process, including assessment period, procurement objectives, and risk factors. It helps in identifying areas of improvement and providing recommendations for enhancing the procurement process.

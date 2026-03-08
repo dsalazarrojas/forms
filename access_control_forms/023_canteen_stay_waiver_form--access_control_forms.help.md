@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for users to request after-hours access to a canteen or facility, typically for events, group activities, or personal use. The form requires personal and contact information, emergency contact details, and specific access request details such as date, time, and reason for access. This form is likely used to ensure users understand and agree to the facility's rules, take liability for potential risks, and demonstrate respect for the facility's property. It may also be used to collect demographic information about the participants, such as group size and supervisor presence. The form is probably used for both administrative and safety reasons to manage access requests and ensure users are aware of their responsibilities. Before creating a help guide, double-check if similar forms are already in use or if this form has any specific requirements that may be worth mentioning in the guide.
-</thinking>
-
 # Canteen Stay Waiver Form - Help Guide
 ## Purpose
 This form is used to request after-hours access to the canteen or facility for various reasons, such as events, group activities, or personal use. It is essential to complete this form accurately and thoroughly to ensure a smooth and safe access experience.

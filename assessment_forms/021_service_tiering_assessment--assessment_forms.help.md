@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Service Tiering Assessment - Help Guide
 
 ## Purpose

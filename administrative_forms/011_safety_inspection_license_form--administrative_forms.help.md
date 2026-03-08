@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "safety_inspection_license_form" form, we need to understand that the form is used to collect information and data from safety inspectors in the field. The purpose of this form is likely to document the results of a safety inspection, which is a critical task to ensure compliance with safety regulations and laws.
-</thinking>
-
 # safety_inspection_license_form - Help Guide
 ## Purpose
 The safety inspection license form is designed to collect information about the safety inspection of a facility. This form is used to document the results of a safety inspection, which is crucial to identify any safety concerns and take corrective actions to prevent accidents or injuries.

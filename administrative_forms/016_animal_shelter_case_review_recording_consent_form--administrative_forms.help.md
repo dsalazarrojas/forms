@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for the purpose of recording a case review for an Animal Shelter. The form is used to gather information about the participant being interviewed, including their contact details, the type of case review, and the purpose and usage of the recording. The form is also used to obtain consent from the participant for the recording and to outline the terms of use and retention of the recording. This form ensures that the participant is informed and in agreement with the recording process.
-
-Before starting this form, ensure that you are not duplicating a similar case review that already exists in the system and that the participant being interviewed is not already recorded in the system.
-
-The form is split into 5 pages, and each page has specific fields for collecting information. Ensure that you complete each field accordingly, and that you provide accurate and complete information.
-
-It is also essential to review the confidentiality agreement before submitting the form to understand the terms and conditions of recording.
-
-</thinking>
-
 # Animal Shelter Case Review Recording Consent Form - Help Guide
 ## Purpose
 This form is used to gather information and obtain consent for recording a case review in the Animal Shelter. The recording will be used to support case documentation and review processes.

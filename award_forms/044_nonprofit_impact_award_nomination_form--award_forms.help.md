@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the Nonprofit Impact Award nomination process. It's intended to collect details about the nominee, their impact, and the submitter's contact information. Please ensure you're using this form for its intended purpose and not duplicating another award nomination. If you're unsure, check the internal award nomination calendar or consult with your team leader for clarification.
-</thinking>
-
 # Nonprofit Impact Award Nomination Form - Help Guide
 
 ## Purpose

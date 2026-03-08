@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Human Verification Challenge - Help Guide
 
 ## Purpose

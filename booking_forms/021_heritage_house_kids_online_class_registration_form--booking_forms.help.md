@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Heritage House Kids Online Class Registration Form - Help Guide
 
 ## Purpose

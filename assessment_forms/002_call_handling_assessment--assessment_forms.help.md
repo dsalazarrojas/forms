@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the performance of Customer Service Representatives (CSRs) in handling calls. The Call Handling Assessment form is used to evaluate the effectiveness of CSRs in providing excellent customer service. It is used to rate the CSR's performance across various criteria, including opening and greeting, tone and empathy, active listening, problem-solving skills, closing etiquette, and overall call duration. The form also allows for optional feedback for the CSR and an overall evaluation comment from the assessor.
-
-This form should only be used to assess CSRs who have handled a call and have a unique call ID. If you are not a CS agent or have not handled a call with a recorded call ID, please do not complete this form.
-
-Before starting, ensure you have the Call Reference ID of the call you want to assess.
-
-</thinking>
-
 # Call Handling Assessment - Help Guide
 ## Purpose
 

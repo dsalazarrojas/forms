@@ -1,7 +1,3 @@
-<thinking>
-This W9 Form is a tax withholding form used for reporting employee tax payments. It's intended for employees who have received non-employee compensation, such as freelance work or independent contractor work. Please confirm that the employee is not already listed on the W9 form to avoid duplicate entries.
-</thinking>
-
 # W9 Form - Help Guide
 ## Purpose
 The W9 Form is a tax withholding form used for reporting employee tax payments. It's intended for employees who have received non-employee compensation, such as freelance work or independent contractor work.

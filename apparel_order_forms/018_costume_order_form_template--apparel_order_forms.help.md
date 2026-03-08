@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a template for taking costume orders from customers. The purpose is to collect information from customers to fulfill their costume orders in a timely and accurate manner. 
-
-This form appears to be a basic order form for a costume store or costume rental service. The fields are typical for such a scenario, including customer information (name, email, phone) and order details (date, time, address, etc.). 
-
-The form does not seem to include any fields for costume selection or customization options, which might be a limitation depending on the business use case. However, the form appears to be focused on collecting customer information and order details, making it suitable for a simple order form use case.
-</thinking>
-
 # Costume Order Form Template - Help Guide
 ## Purpose
 The Costume Order Form Template is a simple, easy-to-use form designed to collect information from customers for costume orders. Fill out this form to place an order for a costume with our service.

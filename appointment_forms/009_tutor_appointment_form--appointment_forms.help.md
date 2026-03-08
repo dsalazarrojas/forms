@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tutor Appointment Form - Help Guide
 ## Purpose
 The Tutor Appointment Form is designed to collect information from students and parents to schedule a one-on-one tutoring session with a teacher. This form helps the teacher to prepare for the session and ensures that both the teacher and the student are on the same page.

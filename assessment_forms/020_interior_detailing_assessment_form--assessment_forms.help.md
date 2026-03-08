@@ -1,10 +1,3 @@
-<thinking>
-The form "interior_detailing_assessment_form" is used to assess the interior condition of a vehicle, gathering information about its condition, rating, score, comments, date of last detailing, assigned detailer, contact method, and any additional comments or fields. This form likely serves as a tool for detailers or assessors to evaluate and document the interior condition of vehicles, possibly for maintenance, repair, or quality control purposes.
-
-To avoid duplication of effort, please ensure this form is only filled out once per vehicle assessment. Completing this form ensures accurate and consistent data collection.
-
-</thinking>
-
 # interior_detailing_assessment_form - Help Guide
 ## Purpose
 The interior_detailing_assessment_form is used to assess the interior condition of vehicles.

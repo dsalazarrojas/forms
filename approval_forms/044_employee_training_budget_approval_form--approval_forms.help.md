@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to manage employee training budget requests. It is used by employees to submit their training needs to their approver or manager for review and approval. The form is also used by approvers to track and manage the approval status of these requests. This form should not be used for duplicate requests or non-work related training. It is recommended that employees fill out the form in its entirety to ensure that their needs are accurately represented and that the approver has sufficient information to make an informed decision. 
-
-</thinking>
-
 # employee_training_budget_approval_form - Help Guide
 ## Purpose
 The Employee Training Budget Approval Form is used to request approval for employee training needs. It is a tool to help employees submit their requests and approvers review and manage these requests.

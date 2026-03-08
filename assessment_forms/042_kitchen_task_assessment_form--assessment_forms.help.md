@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a person's skills and experience in a kitchen setting. The form is intended for employees who have been working in the kitchen, and it's used to gather feedback on their performance. The assessment will help managers identify areas where the employee excels and where they need improvement. To avoid duplication, only one assessment form should be filled out per employee. The form will be reviewed and used for employee development purposes. It's essential that the information is accurate and completed honestly.
-</thinking>
-
 # Kitchen Task Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess a person's skills and experience in a kitchen setting. It's intended for employees who have been working in the kitchen and is used to gather feedback on their performance. The assessment will help managers identify areas where the employee excels and where they need improvement.

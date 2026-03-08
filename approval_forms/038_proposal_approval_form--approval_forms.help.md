@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information and approvals for proposals submitted to the organization. It's crucial to fill out this form accurately to ensure that your proposal is processed correctly and on time. Please review this form carefully to understand its purpose and what information is required. Ensure that you're not submitting duplicate or outdated proposals. If you're unsure about any field, please ask your supervisor or colleague for clarification.
-</thinking>
-
 # Proposal Approval Form - Help Guide
 ## Purpose
 The Proposal Approval Form is designed to collect necessary information and approvals for proposals submitted to the organization. This form helps to track and process proposals efficiently, ensuring that all required details are captured and reviewed correctly.

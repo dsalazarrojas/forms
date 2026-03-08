@@ -1,7 +1,3 @@
-<thinking>
-This form is used for recording and releasing information about the manufacturing process. The purpose of this form is to gather essential details about the production process, release dates and times, and other relevant information. It's crucial to fill out this form accurately to ensure that all relevant data is documented and easily accessible for future reference.
-</thinking>
-
 # Manufacturing Process Records Release Form - Help Guide
 ## Purpose
 The Manufacturing Process Records Release Form is used to record and release information about the manufacturing process. This form is used to ensure that all relevant details about the production process are documented and easily accessible for future reference.

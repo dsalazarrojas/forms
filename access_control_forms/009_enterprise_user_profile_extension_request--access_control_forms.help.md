@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by enterprise users to request an extension to their user profile. The form is designed to be completed by the user who is requesting the extension. The purpose of this form is to provide essential information to the manager or administrator responsible for approving or denying the request.
-Before starting to complete this form, please ensure that you have not already submitted a request for the same purpose or reason. This will avoid duplicate requests and ensure that your request is processed efficiently.
-</thinking>
-
 # Enterprise User Profile Extension Request - Help Guide
 ## Purpose
 This form is designed to be used by enterprise users to request an extension to their user profile.

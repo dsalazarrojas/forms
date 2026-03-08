@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that this form is properly completed and submitted, we need to verify that it is being used for its intended purpose and not for any other type of application or renewal. This form is specifically designed for government assistance records release. Therefore, only applications for government assistance should be made through this form. If you are seeking any other type of assistance, please use the correct form for that purpose.
-
-Additionally, we need to make sure that this form is not being duplicated. Before starting this form, please check if there are any other records that you have already submitted through this form. If you have already submitted the same record, do not submit it again.
-
-This form is a critical document that requires accurate and truthful information. It is essential to carefully complete each field as instructed.
-
-</thinking>
-
 # government_assistance_records_release_form - Help Guide
 ## Purpose
 

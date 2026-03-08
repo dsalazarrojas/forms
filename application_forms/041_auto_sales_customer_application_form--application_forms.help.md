@@ -1,28 +1,3 @@
-<thinking>
-We need to make sure the form purpose is clear: this is a form to gather information from potential customers about their vehicle needs and interests. We want to avoid duplicated or irrelevant submissions. If a user has already been pre-approved for a loan, we can skip certain questions.
-
-We'll use this information to guide us in crafting a clear and concise help guide for our end-users.
-
-This guide will help users understand how to fill out the form correctly and what each field is intended for.
-
-The form is divided into several sections:
-
-*   Lead Qualification
-*   Vehicle Interest
-*   Trade-In Analysis
-*   Financing
-*   Additional Sales Notes
-
-Each section will have its own page and clear instructions on what to fill out.
-
-We also need to make sure users understand what each field is for, including the required and optional fields.
-
-This form is designed to gather information about the user's vehicle needs and interests, and we want to avoid any confusion or misinterpretation of the data provided.
-
-Now that we have a clear understanding of the form purpose and structure, let's move on to the help guide.
-
-</thinking>
-
 # Auto Sales Customer Application Form - Help Guide
 ## Purpose
 

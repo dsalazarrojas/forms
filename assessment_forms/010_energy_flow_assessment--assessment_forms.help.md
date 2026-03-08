@@ -1,8 +1,4 @@
-> <thinking> The energy_flow_assessment form is used to assess the energy flow in a facility, which is crucial for evaluating the overall performance and efficiency of the energy generation and consumption processes. This form is designed to be completed by facility managers or energy analysts to provide a comprehensive overview of the energy sources, flow, and goals of the facility. By answering the questions in this form, users can help identify areas of improvement and optimize energy consumption and generation.
-
-</thinking>
-
-# energy_flow_assessment - Help Guide
+> # energy_flow_assessment - Help Guide
 ## Purpose
 
 The energy_flow_assessment form is used to evaluate the energy flow in a facility, including the sources, flow, and goals of energy generation and consumption. This form will help you provide a comprehensive overview of your facility's energy performance and identify areas for improvement.

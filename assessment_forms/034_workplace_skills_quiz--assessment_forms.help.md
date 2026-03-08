@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to assess the workplace skills of an individual. The purpose of this form is to help evaluate an employee's or candidate's ability to effectively communicate, collaborate, manage time, adapt to situations, and lead a team in a workplace setting. The form will be used to gather information about the individual's skills level in each of these areas and provide a score or assessment of their overall skills. This form should only be completed by those who have relevant work experience and have worked in a professional setting.
-
-To ensure that this form is completed accurately, please make sure to select the options that best reflect your current skills level in each of the given areas. Select "Excellent", "Fair", or "Poor" based on your experience and skills in the respective area. The form should not be completed more than once.
-
-Please note that this form is for assessment purposes only and the information gathered will be used for internal use by your organization. The data will not be shared with any external parties.
-
-</thinking>
-
 # Workplace Skills Quiz - Help Guide
 ## Purpose
 The Workplace Skills Quiz is a form designed to assess an individual's workplace skills, including communication, collaboration, time management, adaptability, and teamwork.

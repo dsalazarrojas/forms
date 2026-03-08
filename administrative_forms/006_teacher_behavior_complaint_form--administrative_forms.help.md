@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about teacher behavior complaints from students, parents, or other school staff. The form is intended for reporting incidents of unprofessional behavior, bullying, or harassment by teachers. The fields in this form are meant to gather specific details about the incident, including the complainant's information, the teacher's behavior, and the desired resolution. This form helps to maintain a record of such incidents and provides a structured format for addressing these issues.
-
-Before proceeding, please review the following:
-
-*   Is this form relevant to your situation? If you are not a student, parent, or school staff, this form may not be the right place to report your concerns.
-*   Have you already reported this incident to the school administration or a similar reporting mechanism? If so, do not report it here, as this form is for new incidents.
-
-If you still wish to report the incident, please proceed with the form.
-
-</thinking>
-
 # teacher_behavior_complaint_form - Help Guide
 ## Purpose
 This form is for reporting incidents of unprofessional behavior, bullying, or harassment by teachers. It helps to maintain a record of such incidents and provides a structured format for addressing these issues.

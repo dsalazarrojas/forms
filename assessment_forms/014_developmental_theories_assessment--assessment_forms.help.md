@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to assess the Developmental Theories Assessment form. This form aims to gauge the user's understanding and familiarity with developmental theories. The purpose of this form is to collect information about the user's experience and knowledge in this area.
 
 </thinking>

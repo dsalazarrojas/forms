@@ -1,9 +1,3 @@
-<thinking>
-
-The "Player Assessment And Certification Form" is used to assess and certify players based on their performance, skills, and other attributes. This form is designed to gather information from coaches, trainers, or other personnel involved in the player's assessment. The form is typically used in a sports-related context, such as evaluating a player's abilities, skills, and potential for improvement.
-
-</thinking>
-
 # Player Assessment And Certification Form - Help Guide
 ## Purpose
 The Player Assessment And Certification Form is used to collect and document information about a player's performance, skills, and other attributes. This form helps coaches, trainers, and other personnel to assess a player's abilities and make informed decisions about their training and development.

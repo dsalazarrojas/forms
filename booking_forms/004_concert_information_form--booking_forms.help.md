@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect information about concerts and events. It appears to be a comprehensive form that includes details such as event basics, venue information, performer details, and technical requirements. The form may be used by event organizers to provide essential information to attendees, ticketing systems, or other stakeholders. It does not appear to be designed for internal use within the organization, so the provided instructions and explanations should be user-facing...</thinking>
-
 # Concert Information Form - Help Guide
 ## Purpose
 This form is used to collect information about concerts and events. You can use it to provide essential details about the event, including the event basics, venue information, performer details, and technical requirements.

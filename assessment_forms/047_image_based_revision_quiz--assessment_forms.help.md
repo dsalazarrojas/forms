@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the "image_based_revision_quiz" form, a crucial tool for users to complete assessments and provide feedback. The form is designed to collect information from users, ensuring that each field is accurately filled in to guarantee accurate results. To prevent errors, it is essential to read through this guide carefully and understand what is expected of each field. 
-
-The form's primary purpose is to collect user's first and last name, email, date of birth, score, assessment type, image URL, image height, image width, image alt text, and assessment instructions. All fields except "assessment_type" and "image_based_revision_quiz" title are optional. Ensure that each field's required status is understood before proceeding. 
-
-Before starting, double-check the form's fields to ensure that none of them are duplicated or left blank, which might affect the form's functionality. A thorough understanding of this guide will ensure users can accurately fill the form and provide precise feedback for assessments.
-</thinking>
-
 # image_based_revision_quiz - Help Guide
 ## Purpose
 The "image_based_revision_quiz" form is designed to collect user information and provide a platform for assessments. This guide is meant to facilitate a smooth completion process for users.

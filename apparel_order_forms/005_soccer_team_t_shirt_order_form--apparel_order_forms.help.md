@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for ordering custom soccer team T-shirts. The form is intended for team managers, coaches, or administrators to place orders for their teams. The form collects details such as team name, team size, shirt color, shirt size, color choice, quantity, shipping method, payment method, any additional notes, and order details.
-</thinking>
-
 # Soccer Team T Shirt Order Form - Help Guide
 ## Purpose
 The Soccer Team T Shirt Order Form is designed to collect information for ordering custom soccer team T-shirts. This form is intended for team managers, coaches, or administrators to place orders for their teams.

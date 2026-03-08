@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from users for the purpose of scheduling appointments with an agency. The agency can use this form to manage and organize appointments more efficiently. This form is only meant for agency internal use and should not be used for external purposes.
 
 # Modeling Agency Appointment Form - Help Guide

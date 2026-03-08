@@ -1,14 +1,3 @@
-<thinking>
-The form "Flood Incident Report" is designed to collect information about a flood-related incident. The purpose of this form is to provide a structured way for users to report and document flood incidents in a standardized manner. This helps to ensure that all relevant information is captured accurately and consistently, which is crucial for effective response and recovery efforts.
-
-To complete this form, users will need to provide details about the incident, including the location, date, and time of the incident. They will also need to describe the impact of the flood, the affected population, and any other relevant details. Additionally, users can attach photos, videos, or documents to support their report.
-
-The form includes various fields to capture different aspects of the incident, such as the level of impact, the population affected, and the status of the incident. These fields are designed to help users provide a comprehensive account of the situation, which can be used to inform response and decision-making efforts.
-
-Before submitting the form, please review the fields carefully to ensure that you are providing accurate and complete information.
-
-</thinking>
-
 # Flood Incident Report - Help Guide
 ## Purpose
 The Flood Incident Report form is a tool for reporting and documenting flood-related incidents.

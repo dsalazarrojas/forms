@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers ordering dancewear products. The form is a template that can be used to guide customers through the process of placing an order. The form's purpose is to gather essential details such as customer information, order products, payment method, shipping address, special instructions, customer notes, billing information, order date, order time, and order total. It's essential to ensure that all relevant information is collected to facilitate smooth order processing and customer service.
-Before starting, ensure that you have all the necessary information ready. You might want to have the customer's billing information, shipping address, and contact details readily available. This will save time and reduce errors.
-</thinking>
-
 # Dancewear Order Form Template - Help Guide
 ## Purpose
 The Dancewear Order Form Template is designed to collect customer information and order details for dancewear products. This template helps guide customers through the process of placing an order, ensuring that all essential details are collected for smooth order processing and customer service.

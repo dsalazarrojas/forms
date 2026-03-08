@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of corporate team communication. It is intended to gather information on how well the team is communicating with each other and the frequency and length of meetings. The goal is to identify areas of improvement and provide feedback for better team communication. It is crucial to fill out this form accurately to get a clear picture of team communication. Please fill it out with the same unit of time (e.g., weekly, biweekly, monthly) for each question.</thinking>
-
 # Corporate Team Communication Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the effectiveness of corporate team communication.

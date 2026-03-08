@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's examine the provided YAML fields. The form title, "cytotoxic_drug_safety_assessment," suggests that it is related to assessing the safety risks of drugs that can cause cytotoxicity, which is a term used in medical fields to describe the ability of a substance to destroy cells. This form likely aims to collect information from assessors about whether a drug is cytotoxic and what safety measures should be taken if it is.
-
-The form has several fields, including "Assessor Details," "Cytotoxic Drug Type," "Safety Measures," "Incident," "Date of Incident," and "Incident Details." These fields suggest that the form is designed to collect information about potential incidents related to cytotoxic drugs.
-
-Upon examining the fields, I notice that some fields are marked as required, while others are not. The "Assessor Details," "Cytotoxic Drug Type," "Safety Measures," "Date of Incident," are all marked as required, indicating that these fields are essential to complete the form. The "Incident" field is not required, but the "Date of Incident" field is, which implies that the incident details are not as important as the date of the incident.
-
-The form seems to be designed to collect information about cytotoxic drugs and incidents related to them, with a focus on the safety measures that should be taken if such incidents occur. However, without more context, it's difficult to determine the exact purpose and scope of the form.
-</thinking>
-
 # cytotoxic_drug_safety_assessment - Help Guide
 ## Purpose
 The cytotoxic_drug_safety_assessment form is designed to assess the safety risks of drugs that can cause cytotoxicity. It collects information from assessors about potential incidents related to these drugs and determines the necessary safety measures to be taken if such incidents occur.

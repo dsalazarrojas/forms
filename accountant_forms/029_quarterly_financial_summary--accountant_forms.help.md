@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # quarterly_financial_summary - Help Guide
 ## Purpose
 The quarterly financial summary form is a tool used by accountants to document and report financial results for a specific quarter. This form is designed to capture essential financial information, making it easier to track and analyze quarterly performance.

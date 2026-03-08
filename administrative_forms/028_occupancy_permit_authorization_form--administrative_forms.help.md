@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from property owners or their representatives to request an occupancy permit. This form ensures that the property owner or their representative has provided all necessary information to initiate the permit application process. Before proceeding, please ensure that you have all the required details and that this form is not being filled out as a duplicate or for test purposes, as this would result in unnecessary processing and potential confusion in our records.
-
-</thinking>
-
 # Occupancy Permit Authorization Form - Help Guide
 ## Purpose
 The Occupancy Permit Authorization Form is a critical document that allows property owners or their representatives to request an occupancy permit, a crucial step in the property development process.

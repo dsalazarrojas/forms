@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to record and manage the time allocation for subcontractors working on different projects. It captures essential information such as the subcontractor's name, work type, project(s) involved, start and end dates of work, hours worked, any notes, and who submitted the record. The goal is to ensure accurate and detailed tracking of subcontractor time allocations for administrative and reporting purposes.
-
-The form is designed to be completed by individuals responsible for managing or overseeing subcontractor work, such as project managers, accountants, or HR personnel. To avoid duplication of effort, users should only complete this form for new or updated records of subcontractor time allocations.
-</thinking>
-
 # subcontractor_time_allocation_form - Help Guide
 ## Purpose
 This form is designed to record and manage time allocations for subcontractors working on various projects. It helps track hours worked, projects, and other relevant details for administrative and reporting purposes.

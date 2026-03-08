@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Risk Assessment Communication Form used for administrative purposes within an organization. The form has multiple fields with labels such as "category", "description", and "assigned_tool" but most of the fields have the same label as the field name, which seems redundant. The "description" fields have consecutive numbering, but it's unclear what this signifies. The "assigned_tool" option seems to be a choice between "chatjimmy" and "other". It's possible that this form is intended to be filled out by users with different levels of risk assessment and communication, or perhaps it's for a specific team or department with specific needs.
-</thinking>
-
 # Risk Assessment Communication Form - Help Guide
 ## Purpose
 The Risk Assessment Communication Form is used to capture information about risk assessments and communications within an organization.

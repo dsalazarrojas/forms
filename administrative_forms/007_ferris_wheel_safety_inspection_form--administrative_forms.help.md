@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for administrative use and is intended for inspectors to report on safety standards compliance and deficiencies during a Ferris Wheel safety inspection. This form will help ensure that all necessary information is collected and recorded for regulatory compliance and risk assessment. It is essential to understand that this form is not a substitute for regular maintenance and inspection schedules. The information collected through this form should be used in conjunction with other safety protocols and procedures to ensure the overall safety of the Ferris Wheel.
-</thinking>
-
 # Ferris Wheel Safety Inspection Form - Help Guide
 ## Purpose
 The Ferris Wheel Safety Inspection Form is a tool used to record and report on safety standards compliance and deficiencies during a Ferris Wheel inspection. It helps ensure that all necessary information is collected and recorded for regulatory compliance and risk assessment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for pet adoption purposes. It's likely intended for shelters or rescue organizations to collect data from individuals or organizations interested in adopting pets. The form aims to gather necessary details about the adoption process, pet history, care requirements, and other relevant factors. Before filling out this form, ensure you are authorized to adopt a pet and have the necessary resources to provide a suitable environment for the animal.
-</thinking>
-
 # lyr_pet_adoption_agreementcontract - Help Guide
 ## Purpose
 The purpose of this form is to collect information for pet adoption purposes. It's designed to capture essential details about the adoption process, pet history, and care requirements.

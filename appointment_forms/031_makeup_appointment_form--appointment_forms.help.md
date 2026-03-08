@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to book a makeup appointment. It is intended for customers to provide their details and preferences. Please ensure you are booking an appointment for yourself, and not for someone else. If you are looking to book multiple appointments, please create separate forms for each individual. 
-</thinking>
-
 # Makeup Appointment Form - Help Guide
 
 ## Purpose

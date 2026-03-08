@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from bookkeeping clients to better understand their business operations, financial challenges, and specific bookkeeping needs. This form aims to gather details about the client's business structure, accounting methods, financial transactions, and other relevant information to provide tailored bookkeeping services. It's essential to fill out this form accurately to ensure that our team can effectively address your bookkeeping requirements.
-</thinking>
-
 # Bookkeeping Client Intake Form - Help Guide
 ## Purpose
 The Bookkeeping Client Intake Form is designed to collect essential information from bookkeeping clients to provide personalized bookkeeping services tailored to their specific needs.

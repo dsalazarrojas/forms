@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by passengers who are looking to access the priority boarding process. The purpose of this form is to gather information from passengers about their flight, preferred boarding time, and other relevant details that will be used to optimize the boarding process. Please note that this form does not replace any other boarding process and is meant to be used in addition to, or as an alternative to, other existing boarding processes. To ensure you complete this form correctly, please carefully read the guidelines below.
-</thinking>
-
 # Priority Boarding Access Form - Help Guide
 ## Purpose
 The Priority Boarding Access Form is used to gather information from passengers to optimize the boarding process. This form is not a replacement for other boarding processes, but rather a supplement to help ensure a smooth and efficient boarding experience.

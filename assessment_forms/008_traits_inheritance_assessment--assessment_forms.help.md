@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to conduct an assessment of a person's traits, which are characteristics or attributes that define who they are or how they behave. This form helps to collect information about an individual's traits, such as their abilities, skills, or personality characteristics. By completing this form, you will be asked to indicate whether each trait is present or absent in an individual. This information can be used for various purposes, such as identifying strengths and weaknesses, creating personalized development plans, or informing decisions related to hiring, promotions, or other personnel matters.
-
-This form is intended to assess traits 1 through 10. Please ensure that you have read and understand the descriptions provided for each trait before answering. You are not required to complete this form if you are not familiar with the assessment.
-
-Please note that this form is designed to be completed by a single individual or a small group of individuals. If you are unsure about any of the trait descriptions or have questions, please refer to the hints provided for each trait or contact the form administrator.
-
-To ensure accuracy, please complete this form carefully and thoroughly. If you need to make corrections or revisions, please update the form accordingly.
-</thinking>
-
 # Traits Inheritance Assessment - Help Guide
 ## Purpose
 

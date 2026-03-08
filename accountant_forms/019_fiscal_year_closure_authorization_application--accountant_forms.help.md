@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for requesting approval for fiscal year closure. It is not intended for other purposes and should only be used by authorized personnel. The form is designed to gather information from the user and provide a clear and concise way to present the request for approval. Please ensure that all mandatory fields are filled in before submitting the request.
-</thinking>
-
 # fiscal_year_closure_authorization_application - Help Guide
 ## Purpose
 This form is used for requesting approval for fiscal year closure. It is a straightforward form designed to gather necessary information from the user and present it in a clear manner for approvers to review and act upon.

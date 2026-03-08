@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information and obtain consent from participants in a sports-related activity. This form is typically used for liability and terms agreements, which is a crucial aspect of ensuring that participants understand their responsibilities and rights when engaging in activities that may involve risks.
-This form is likely to be used in situations such as outdoor adventures, sports events, or other activities that require participants to acknowledge and agree to certain terms and conditions. The information gathered through this form will help in creating a safe and respectful environment for all participants.
-</thinking>
-
 # Liability And Terms Agreement - Help Guide
 ## Purpose
 The Liability And Terms Agreement form is used to gather essential information and obtain consent from participants in a sports-related activity.

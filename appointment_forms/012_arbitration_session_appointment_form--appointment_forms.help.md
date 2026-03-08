@@ -1,5 +1,3 @@
-<thinking>As a form designer, I will assume that this form is used to schedule an arbitration session between participants in a dispute resolution process. The form is designed to gather essential information about the participant's details, case details, schedule preferences, and representation details. This information will help the arbitration team to coordinate and conduct an efficient and effective arbitration session. The form is expected to be completed by the participant or their legal representative.</thinking>
-
 # Arbitration Session Appointment Form - Help Guide
 ## Purpose
 The Arbitration Session Appointment Form is a tool used to schedule an arbitration session between participants in a dispute resolution process. It is designed to collect information about the participant's details, case details, schedule preferences, and representation details.

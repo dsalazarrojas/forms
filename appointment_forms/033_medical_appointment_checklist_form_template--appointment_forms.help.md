@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a patient's medical appointments, including the type of appointment, date, time, and other relevant details. It is intended to be used by medical professionals to keep track of patient appointments and follow-ups. The form includes fields for selecting the type of appointment, date, time, doctor's name, location, notes, and follow-up information. This form should not be used to schedule appointments for non-medical purposes, such as social events or routine check-ins. Please ensure that you are using this form for its intended medical purpose only.
-
-</thinking>
-
 # Medical Appointment Checklist Form Template - Help Guide
 ## Purpose
 This form is used to gather information about a patient's medical appointments, including the type of appointment, date, time, and other relevant details.

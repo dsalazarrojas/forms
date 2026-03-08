@@ -1,13 +1,3 @@
-<thinking> 
-We need to ensure that the form is used for its intended purpose and not for other purposes. 
-We also need to ensure that the form is filled out correctly and that the user has all the necessary information to complete it. 
-Let's review the form fields and make sure they are filled out correctly. 
-This form is for the Automotive Service Advisor Application Form. 
-It is used to gather information from applicants for the Automotive Service Advisor position. 
-We need to ensure that the form is filled out with the correct information to make it easier for the applicant to be considered for the position. 
-We will review the form fields and provide a clear explanation for each field to make it easier for the applicant to understand. 
-</thinking>
-
 # Automotive Service Advisor Application Form - Help Guide
 ## Purpose
 The Automotive Service Advisor Application Form is used to gather information from applicants for the Automotive Service Advisor position. This form is designed to help us understand your qualifications, experience, and background.

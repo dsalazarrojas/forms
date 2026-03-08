@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request access to efin software applications. It's intended for employees to submit requests for access to efin software applications, which are used for specific purposes within the organization. Before creating this form, review the relevant policies and procedures to ensure that the requestor has the necessary permissions and approvals in place. This form should only be used by authorized personnel.
-
-The form is used to collect information about the software access request, including the requestor's name, date of the request, type of software access required, reason for the request, and other relevant details. The approver will review the request and take necessary actions to grant or deny the software access.
-</thinking>
-
 # efin_software_access_application - Help Guide
 ## Purpose
 This form is used to request access to efin software applications for specific purposes within the organization. Review the relevant policies and procedures before submitting a request to ensure that you have the necessary permissions and approvals in place.

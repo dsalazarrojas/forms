@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of the form, I analyzed the fields provided in the inputSchema. The form is designed for pet owners to book an animal boarding service, providing information about their pet and their preferences. The form appears to cover various aspects of the boarding service, including pet details, booking dates and times, service type, and owner's contact information. It also includes fields for medical conditions, special needs, and emergency contact information, suggesting that the form aims to provide comprehensive coverage of the pet's needs and ensure their well-being during the boarding period.
-
-This form likely serves as a centralized data collection tool for the boarding service, allowing owners to easily provide all necessary information in one place.
-
-Considering the fields and structure, I can now provide a help guide for the end-user.
-
-</thinking>
-
 # Animal Boarding Service Order Form - Help Guide
 ## Purpose
 This form is designed for booking and providing essential information about your pet and your preferences for the animal boarding service.

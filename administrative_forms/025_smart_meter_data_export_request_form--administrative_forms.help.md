@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request data export from smart meters. The purpose of this form is to collect information from users about their desired data export settings. This form is not intended for users to provide personal or sensitive information, but rather to facilitate the export of data for their own use. It is recommended that users fill out this form with accurate information to ensure that their data export requests are processed efficiently. 
-
-Before submitting the form, users are advised to check if they have already submitted a similar request in the past to avoid duplicate processing.
-
-</thinking>
-
 # Smart Meter Data Export Request Form - Help Guide
 ## Purpose
 

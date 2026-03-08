@@ -1,13 +1,3 @@
-<thinking>...
-The Accounting Technology Survey is designed to gather information about the current state and challenges of accounting technology in organizations. This survey is used to understand the adoption and usage of various accounting software and tools, the level of satisfaction with current accounting software, and the top technology priorities for investment. 
-
-The survey is aimed at collecting data that will help organizations identify areas where they can improve their accounting processes and technology usage. It is recommended that only one person from each organization completes the survey to ensure consistency and accuracy of the data collected.
-
-Before starting to fill out the survey, please ensure that you understand the purpose and relevance of each question. This survey is not a comprehensive assessment of an organization's technology usage, but rather a snapshot of the current state of accounting technology.
-
-Please select the most accurate answer for each question, and if you have additional comments or feedback, feel free to provide them in the "Additional Feedback" section.
-
-</thinking>
 # Accounting Technology Survey - Help Guide
 ## Purpose
 The Accounting Technology Survey is designed to gather information about the current state and challenges of accounting technology in organizations. This survey helps to understand the adoption and usage of various accounting software and tools, the level of satisfaction with current accounting software, and the top technology priorities for investment.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for employees or users to access company devices. To avoid duplication, this guide will assume that the form is being used by an employee requesting access to a company device. 
-</thinking>
-
 # Device Access Agreement - Help Guide
 ## Purpose
 This form is used to request and grant access to company devices. It captures necessary information about the user, the device, and the terms of access.

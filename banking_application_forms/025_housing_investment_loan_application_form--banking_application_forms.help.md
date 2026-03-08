@@ -1,16 +1,3 @@
-<thinking>
-To avoid duplication and ensure that this guide is relevant and up-to-date, we will focus on the most critical aspects of the Housing Investment Loan Application Form. The form's purpose is to gather information from applicants seeking housing investment loans from our bank. It is designed to help us evaluate the applicant's creditworthiness and the loan eligibility.
-
-This form will be used for applicants interested in obtaining a housing investment loan from us. They will be required to provide various details, including information about themselves, their employment status, property type, loan purpose, income, employer, job title, years of employment, property address, city, state, postal code, country, property purchase price, purchase date, property value, loan amount, interest rate, and loan term. Each field is essential to understanding the applicant's financial situation and ability to repay the loan.
-
-The form's design aims to gather all necessary information to make an informed decision about loan eligibility. It is crucial that applicants fill out the form accurately and comprehensively to facilitate a smooth and efficient loan application process.
-
-Before we begin, let's review the fields and their corresponding explanations to ensure we understand what information is required and how to use the form effectively.
-
-Please note that the required fields are marked as "required" in the form, and the optional fields are not.
-
-</thinking>
-
 # Housing Investment Loan Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help visitors plan and schedule a visit to the showrooms of a car dealership. The main purpose is to gather information about the visitor's preferences and needs, allowing the dealership to tailor their sales experience and provide the most suitable vehicles for them. This form is likely used to collect data for sales and marketing purposes, and to ensure that the sales team can provide a personalized experience for each customer. The fields are divided into three main sections: visitor information, vehicle preferences, and additional information. The form requires the visitor to provide their name, email address, phone number, and preferred date and time for the visit. They are also asked about their vehicle preferences, including the type, budget, and desired features. Additionally, they can express interest in financing options and specify their salesperson preferences. To facilitate the sales experience, visitors can choose to indicate their interest in a test drive, provide any additional requests or needs, and specify their preferred contact method. Finally, visitors can also mention any previous visits to the showroom.
-</thinking>
-
 # Car Showroom Visit Appointment Form - Help Guide
 ## Purpose
 This form is designed to help you plan and schedule a visit to our showrooms, ensuring that our sales team can provide the best possible experience for you.

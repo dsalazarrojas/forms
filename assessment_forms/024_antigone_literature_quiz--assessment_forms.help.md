@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Antigone Literature Quiz - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This help guide will cover the "spring_pond_cleaning_request_form" form, which is used for requesting cleaning of a spring pond. The form is designed to collect information from users to facilitate the cleaning process.
-The form is divided into several sections, each containing different fields that are explained in detail below.
-To ensure that the form is completed correctly, please note that each field is either required or optional, depending on the specific field.
-</thinking>
-
 # spring_pond_cleaning_request_form - Help Guide
 ## Purpose
 The "spring_pond_cleaning_request_form" is used to request cleaning of a spring pond. This form helps the maintenance team to understand the specific needs of the pond and schedule the cleaning accordingly.

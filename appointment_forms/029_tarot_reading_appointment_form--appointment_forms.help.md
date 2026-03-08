@@ -1,7 +1,3 @@
-<thinking>
-...this form is for users to schedule appointments with tarot card readers for various types of readings, including tarot, card, and palm readings. To confirm, the form will gather client information, details about the reading, and logistical information for the appointment. The form's fields should be filled out accurately and thoroughly to ensure a successful and informative reading.
-</thinking>
-
 # Tarot Reading Appointment Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial form that requires accurate and complete information to process adoptions and ensure the well-being of the pets and their owners. The form should not be used for other purposes, such as general pet registration or medical records. To avoid errors and duplication, it's essential to carefully review and verify the information entered in each field before submitting the form. This form collects crucial details about pets and their owners for shelter and adoption purposes only.
-</thinking>
-
 # Pet Information Form - Help Guide
 ## Purpose
 The Pet Information Form is a crucial tool for shelters to collect accurate and complete information about pets and their owners to facilitate the adoption process.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather information for vehicle tire loading requests. It is intended for users who need to submit requests for tire loading services. The form is designed to be completed by vehicle owners or their representatives to provide necessary details about the vehicle, owner, and loading requirements. 
-
-The information submitted through this form will be reviewed and processed by the relevant teams for further action.
-
-Please ensure that you have the authority to submit a request on behalf of the vehicle owner before proceeding with the form.
-</thinking>
-
 # tire_loading_information_label_request_form - Help Guide
 ## Purpose
 

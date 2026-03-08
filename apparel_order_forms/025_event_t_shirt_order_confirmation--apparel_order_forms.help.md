@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Event T Shirt Order Confirmation form is used to collect participant information and order confirmations for events. This form is designed to be completed by event participants to provide their details and confirm their t-shirt order. It is recommended to complete this form only once per participant, as duplicate submissions may cause discrepancies in the participant list.
 
 </thinking>

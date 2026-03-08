@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hvc_system_inspection_form - Help Guide
 ## Purpose
 The HVC System Inspection Form is used to gather information about a system's condition and performance. It is designed to be completed by a maintenance team to inspect and evaluate a system's functionality during a service visit. This form helps to ensure accuracy and consistency in data collection, making it easier for maintenance teams to identify potential issues and schedule follow-up services.

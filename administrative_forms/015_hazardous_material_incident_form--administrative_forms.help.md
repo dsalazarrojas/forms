@@ -1,17 +1,4 @@
-### <thinking>... thinking>
-
-The form purpose is to document and report incidents involving hazardous materials, which can pose a risk to employees or the organization as a whole. This form is meant to be completed by employees who have experienced or witnessed such an incident, and it will help the reporting officer and supervisors to quickly gather information and assess the situation.
-
-The form is designed to be completed in the following steps:
-
-1.  Reporting the incident details (date, location, description)
-2.  Identifying the affected employee(s) and the severity of the injury
-3.  Documenting any hazardous materials involved and their quantities
-4.  Notifying the necessary parties and assessing the need for follow-up actions
-
-To prevent duplication of work, please check with the reporting officer or supervisor if a similar incident has already been reported.
-
-</thinking>...
+### ...
 
 # Hazardous Material Incident Form - Help Guide
 ## Purpose

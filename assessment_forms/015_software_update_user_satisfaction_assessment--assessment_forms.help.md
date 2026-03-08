@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Update User Satisfaction Assessment - Help Guide
 ## Purpose
 This form is designed to collect your feedback on the recent software update. The goal is to understand your overall satisfaction, ease of use, performance, and the impact of the update on your productivity, work efficiency, and accuracy. Your responses will help us understand what works well and what areas need improvement.

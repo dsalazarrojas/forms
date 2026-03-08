@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to book a vehicle detailing service. The purpose of this form is to collect information from customers about their vehicle and preferences for the service. The form ensures that customers provide the necessary details for the service, such as vehicle make, model, and year, as well as their contact information. This form is intended to be completed by customers, and the collected data will be used by the assigned user to deliver the service.
-</thinking>
-
 # vehicle detailing booking form - Help Guide
 ## Purpose
 This form is for customers to book a vehicle detailing service for their vehicles. Please fill out the form with the required and optional information to ensure that we can provide the best service for your vehicle.

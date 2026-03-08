@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vacation Rental Billing Form - Help Guide
 
 ## Purpose

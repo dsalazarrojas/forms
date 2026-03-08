@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is a tool for tracking the presence of surgeons in various medical settings, such as hospitals. It allows users to record the surgeon's status (presence), the type of coverage they have, and other relevant details. This form is likely used for administrative purposes, such as scheduling and staffing, to ensure that the hospital is adequately staffed and that patient care is not compromised. It may also be used for billing or insurance purposes, to track the hours worked by each surgeon. It's possible that this form is part of a larger system for tracking surgeon attendance and performance metrics. This form likely has multiple fields to collect comprehensive data, which could include demographic information about the surgeon, their schedule, and their work hours. The form's fields should be filled out according to the surgeon's actual presence and work schedule, with the aim of providing accurate and up-to-date information about the surgeon's status and activity. The form's fields may overlap, and some fields may be optional or redundant, depending on the specific use case. It's essential to carefully read and understand the purpose of each field to ensure that you fill it out correctly. This form is a critical tool for ensuring efficient and accurate record-keeping in the hospital setting, and it's crucial to use it correctly to avoid errors or misunderstandings. Please review the explanation of each field below to complete this form accurately.
-
-</thinking>
-
 # Surgeon Attendance Log - Help Guide
 ## Purpose
 The Surgeon Attendance Log is a tool for tracking the presence and activity of surgeons in hospitals. It helps with scheduling, staffing, and administrative purposes.

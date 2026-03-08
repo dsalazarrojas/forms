@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide that covers the purpose of the form, how to complete it, and a detailed explanation of each field. This form is used for customers to order girl scout cookies. We will cover the following fields: Cookie Type, Quantity, Order Date, Cookie Price, Scout Name, Cookie Price Total, Payment Method, Notes, Email, Phone Number, and Confirm. Before proceeding, we will confirm that the form is not intended to be used for any other purpose and that the fields are not duplicated. This will ensure that the help guide is accurate and relevant to the form's intended use case.
-</thinking>
-
 # Girl Scout Cookies Order Form - Help Guide
 ## Purpose
 The Girl Scout Cookies Order Form is designed for customers to order their favorite Girl Scout cookies. To complete this form, follow the instructions below.

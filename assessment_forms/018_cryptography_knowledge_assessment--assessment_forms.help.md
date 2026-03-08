@@ -1,12 +1,3 @@
-<thinking> 
-  This form, titled "Cryptography Knowledge Assessment", is designed to evaluate an individual's knowledge and understanding of various cryptography-related concepts. 
-  It appears to be a form with multiple pages, each containing a series of questions or fields that the user must answer or select from. 
-  The form seems to cover topics such as encryption, hashing, key management, and other cryptography-related areas. 
-  It is likely used for assessment or certification purposes, such as evaluating the knowledge of cybersecurity professionals or students. 
-  Each field in the form is likely designed to gauge the user's proficiency in a specific area of cryptography. 
-  Before proceeding, it's essential to ensure that the form is not being used for any duplicate or unrelated purposes, and that the user understands its intended use.
-</thinking>
-
 # Cryptography Knowledge Assessment - Help Guide
 ## Purpose
 The Cryptography Knowledge Assessment form is designed to evaluate your knowledge and understanding of various cryptography-related concepts. This form is intended to gauge your proficiency in a range of areas, including encryption, hashing, key management, and more. Please take this form seriously to assess your knowledge and understanding of these critical concepts.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for the Distinguished Service Award, which recognizes outstanding service to the organization. Before completing this form, please make sure that you have a good understanding of the service award criteria and that you are nominating someone who meets the necessary qualifications. Additionally, please ensure that you are not nominating someone who has already received this award or is currently under consideration for this award.
-
-</thinking>
-
 # Distinguished Service Award Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Taxi Service Order Form. The form purpose is to allow customers to place an order for taxi services, providing necessary information about their pickup and drop-off locations, contact details, and preferred payment method. This guide will help users understand how to fill out the form correctly and what each field means in the context of the form.
-</thinking>
-
 # Taxi Service Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers about their taxi service order, including pickup and drop-off locations, contact details, and payment method.

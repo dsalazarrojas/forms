@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used for the Workplace Hazard Assessment. It is meant to collect information regarding a workplace hazard assessment. This form is not meant for [insert other purposes if any]. Please ensure that you are completing this form for its intended purpose and not duplicating efforts.

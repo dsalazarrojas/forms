@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help clients determine their investment strategy based on various factors such as their risk tolerance, investment objectives, timeframes, amounts, and preferences. This form will guide them through a series of questions to understand their risk tolerance, investment objectives, timeframes, and preferences.
-To avoid duplication, the form should be completed in a single session.
-</thinking>
-
 # Investment Strategy Assessment - Help Guide
 ## Purpose
 This form is designed to help clients determine their investment strategy based on various factors such as their risk tolerance, investment objectives, timeframes, amounts, and preferences.

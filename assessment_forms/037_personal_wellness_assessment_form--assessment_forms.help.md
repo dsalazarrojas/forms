@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help users assess their overall well-being by gathering information about their physical, mental, and emotional health. The form is not intended to be used for any medical diagnosis or treatment, but rather as a tool for users to gain insights into their own well-being. It's essential to complete this form in a self-aware and honest manner to get an accurate picture of one's health.
-
-Please note that this form is not meant to be completed by anyone under 18 years old or if you have any health concerns. If you have any health concerns, please consult a healthcare professional.
-
-</thinking>
-
 # Personal Wellness Assessment Form - Help Guide
 
 ## Purpose

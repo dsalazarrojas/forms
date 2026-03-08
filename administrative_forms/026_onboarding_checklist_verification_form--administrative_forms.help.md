@@ -1,7 +1,3 @@
-<thinking>
-The Onboarding Checklist Verification Form is used to track and verify the onboarding process of new employees. This form helps ensure that all necessary steps are completed and that the employee is properly integrated into the company. It's used by HR and management to monitor progress and provide feedback to employees. The form is divided into various sections, each covering different aspects of the onboarding process.
-</thinking>
-
 # Onboarding Checklist Verification Form - Help Guide
 ## Purpose
 The Onboarding Checklist Verification Form is a tool for HR and management teams to track and verify the onboarding process of new employees. It helps ensure that all necessary steps are completed and that the employee is properly integrated into the company.

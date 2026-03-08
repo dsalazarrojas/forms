@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to help users assess their current state in terms of SEO (Search Engine Optimization) and provide a clear understanding of their strengths and weaknesses. The form collects data on various aspects of an entity's online presence, such as keywords, meta tags, backlinks, content, and sitemap organization. The assessment will help users identify areas that need improvement and provide guidance on how to optimize their SEO strategy.
 
 # SEO strategy assessment form - Help Guide

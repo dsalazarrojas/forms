@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to allow faculty members to book and manage their recording sessions. 
-  It is expected that this form will be used by faculty members to provide accurate information about their recording sessions, 
-  including the session type, date, time, and duration. 
-  Before proceeding, ensure that you are booking a recording session that is not already booked or in progress. 
-  To avoid duplication, check the booking status of the session before submitting the form.
-</thinking>
-
 # Faculty Recording Session Booking Form - Help Guide
 
 ## Purpose

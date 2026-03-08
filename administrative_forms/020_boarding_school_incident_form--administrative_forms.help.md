@@ -1,10 +1,3 @@
-<thinking>
-The Boarding School Incident Form is designed to collect information about incidents that occur within the boarding school environment. This form is intended to gather details about the incident, including its date and time, location, and description, as well as any injuries sustained, medical responses, and actions taken. The form also captures information about who was involved, including students, faculty, and witnesses. The purpose of this form is to document incidents in a systematic and thorough manner, facilitating efficient reporting, investigation, and follow-up procedures.
-
-This guide is intended for end-users to understand the form's purpose, complete it accurately, and ensure that all necessary information is captured.
-
-</thinking>
-
 # Boarding School Incident Form - Help Guide
 ## Purpose
 The Boarding School Incident Form is used to document and report incidents that occur within the boarding school environment. This form helps to gather essential details about the incident, which can aid in the investigation, reporting, and follow-up procedures.

@@ -1,21 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a patient's antimicrobial therapy, including details about the patient's demographics, infection type, therapy regimen, and clinical outcomes. This form is typically used by healthcare professionals, such as pharmacists, physicians, or nurses, to assess the appropriateness and effectiveness of antimicrobial therapy.
-
-The form is divided into several sections, including:
-
-* Patient demographics
-* Infection details
-* Therapy information
-* Stewardship interventions
-* Clinical outcome
-
-This form is intended to be completed by a healthcare professional, such as a pharmacist or a physician, and is designed to be used as a tool for assessing the appropriateness and effectiveness of antimicrobial therapy.
-
-Please note that this form may not be a comprehensive assessment tool, and the results should be reviewed and discussed with the patient's healthcare team to ensure that the information is accurate and complete.
-
-</thinking>
-
 # Antimicrobial Therapy Assessment - Help Guide
 ## Purpose
 The Antimicrobial Therapy Assessment form is designed to collect information about a patient's antimicrobial therapy, including details about the patient's demographics, infection type, therapy regimen, and clinical outcomes. This form is typically used by healthcare professionals to assess the appropriateness and effectiveness of antimicrobial therapy.

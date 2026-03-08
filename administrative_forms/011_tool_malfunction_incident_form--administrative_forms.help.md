@@ -1,12 +1,3 @@
-<thinking>
-To determine the best approach for this help guide, let's examine the form's purpose and fields.
-
-The form, "Tool Malfunction Incident Form," likely serves as a reporting mechanism for incidents related to tools or equipment malfunctions within an organization. The form might be used to collect information such as the tool ID, location, date, description, and cause of the malfunction, as well as other relevant details like the assigned tool, tool condition, and recommended actions. The form is likely used for reporting and tracking purposes, and might be reviewed by a specific department or team to assess and resolve the incident.
-
-With this understanding, we can now create the help guide.
-
-</thinking>
-
 # Tool Malfunction Incident Form - Help Guide
 
 ## Purpose

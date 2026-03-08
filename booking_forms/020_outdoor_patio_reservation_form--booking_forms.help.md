@@ -1,12 +1,3 @@
-<thinking>
-Form design and writing best practices suggest that a clear and concise user-facing help guide is crucial for end users to understand the form purpose and completion process. This helps minimize confusion and reduces support queries. 
-
-The purpose of this guide is to assist users in completing the "report_outdoor_patio_reservation_form" accurately and efficiently.
-
-The form seems to be designed for customers or patrons to book or reserve outdoor patio areas or services. It requires various information such as date, time, contact details, and other relevant booking information. 
-
-</thinking>
-
 # report_outdoor_patio_reservation_form - Help Guide
 ## Purpose
 This form is used to book or reserve outdoor patio areas or services for customers or patrons. It is essential to fill out the form accurately to ensure successful booking and timely delivery of services.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a PPE Assessment Form, designed to collect information about a specific assessment or evaluation process. The form fields aim to gather details about the PPE type, contact information, date, start and end times, location, and any additional notes or comments. The form does not require a specific format, and users can fill it out as needed. Please note that the form is intended for public use, and the information collected can be used for various purposes, such as evaluation or assessment purposes.
-
-</thinking>
-
 # PPE Assessment Form - Help Guide
 ## Purpose
 The PPE Assessment Form is designed to collect information about a specific assessment or evaluation process. This form is for public use and can be filled out as needed.

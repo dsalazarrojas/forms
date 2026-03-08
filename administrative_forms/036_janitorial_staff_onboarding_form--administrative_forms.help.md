@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for new janitorial staff members to provide information about themselves for onboarding purposes. This form should only be filled out once per new hire, and the information will be stored in the system for future reference. Please ensure that this form is filled out accurately and completely to ensure that the onboarding process can move forward smoothly.
-</thinking>
-
 # Janitorial Staff Onboarding Form - Help Guide
 ## Purpose
 The Janitorial Staff Onboarding Form is a crucial tool in the onboarding process for new janitorial staff members. It collects essential information about the new hire, including their contact details and job title. This form helps to streamline the onboarding process and ensure that all new staff members are properly integrated into the team.

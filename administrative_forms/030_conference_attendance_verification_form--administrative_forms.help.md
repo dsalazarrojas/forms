@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to verify conference attendance for participants. It is likely to be used for events such as conferences, seminars, or workshops. The form aims to collect information on the participant's attendance, details about the conference, and other relevant information.
-
-This form is designed to be completed by conference attendees. It is recommended that participants fill out the form accurately and truthfully. The form will be used to verify the participant's attendance and provide the necessary information for certificate generation.
-
-Before filling out the form, please ensure you have attended the conference and have all the necessary information at hand. If you are unsure about any field, please ask your conference organizers or organizers of the event for clarification.
-
-This form is not meant to be used for any other purpose other than verifying conference attendance. Please do not use it for any other reason, and do not submit false information.</thinking>
-
 # Conference Attendance Verification Form - Help Guide
 ## Purpose
 The Conference Attendance Verification Form is designed to verify your attendance at a conference. It will help you provide accurate information about your participation, conference details, and other relevant information.

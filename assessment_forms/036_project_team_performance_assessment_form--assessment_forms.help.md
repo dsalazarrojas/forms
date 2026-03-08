@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to assess the performance of a project team. It's essential to evaluate the team's ability to complete a project on time, within budget, and to the desired quality. This form helps project managers and team leads to identify areas of improvement and provide a comprehensive report of the team's performance.
-</thinking>
-
 # Project Team Performance Assessment Form - Help Guide
 ## Purpose
 The Project Team Performance Assessment Form is used to evaluate the performance of a project team. This assessment helps project managers and team leads to identify strengths and weaknesses of the team and provide a comprehensive report for future project planning and improvement.

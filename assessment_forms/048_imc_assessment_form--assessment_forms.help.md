@@ -1,7 +1,3 @@
-<thinking>
-This form is used for calculating a patient's Body Mass Index (BMI). It seems that the form is related to medical/health context. The purpose of this form is likely to calculate IMC (IMC stands for "Indice de Masso-Cadrau", not to be confused with BMI), which is a metric used in some medical assessments. To avoid duplicate or irrelevant assessments, please ensure that you have not recently submitted the IMC form or have not been directed to take this form by a healthcare professional.
-</thinking>
-
 # imc_assessment_form - Help Guide
 ## Purpose
 The imc_assessment_form is a medical assessment form used to calculate a patient's IMC. This form is intended for patients or healthcare professionals to collect and analyze data related to a patient's height, weight, and age.

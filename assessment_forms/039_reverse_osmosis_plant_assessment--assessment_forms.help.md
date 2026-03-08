@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is filled correctly, please verify that the form is not filled out for the same Reverse Osmosis Plant more than once. This form is intended to be used for assessments and evaluations of the Reverse Osmosis Plant, and any submitted information will be reviewed and updated accordingly. Please ensure that all fields are accurately filled out and that you have permission to submit assessments for this facility.
-</thinking>
-
 # reverse_osmosis_plant_assessment - Help Guide
 ## Purpose
 The Reverse Osmosis Plant Assessment form is used to gather information about the status, performance, and maintenance of the Reverse Osmosis Plant. This form is essential for the facility team to monitor and maintain the plant's performance and for operators to document their findings.

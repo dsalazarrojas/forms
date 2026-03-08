@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supersedeas Bond Motion Form - Help Guide
 
 ## Purpose

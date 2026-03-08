@@ -1,8 +1,3 @@
-<thinking>
-This form is an original adaptation of a survey on educational unit understanding assessment. Its purpose is to collect data from teachers and students on the effectiveness of a specific educational unit. The form aims to gather information on the student's understanding of the unit, their feedback, and the teacher's feedback. This form is not affiliated with or endorsed by any form platform and is released under a Creative Commons BY 4.0 license, allowing users to modify and use it freely. 
-
-</thinking>
-
 # Educational Unit Understanding Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback and assessment from teachers and students on the effectiveness of an educational unit. It aims to gather information on the student's understanding of the unit, their feedback, and the teacher's feedback.

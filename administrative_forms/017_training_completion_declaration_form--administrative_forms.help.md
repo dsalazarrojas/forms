@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "training_completion_declaration_form", is to gather contact information and training completion details from users. This form likely serves as a declaration or verification tool for training programs, ensuring that users can provide essential data to confirm their participation in or completion of training sessions. The form's design is structured to collect basic contact info and specific details about the training completion, such as date and time. The form appears to be non-mandatory as it's not explicitly marked as required, but its fields suggest it's meant for user declaration or verification purposes.
-</thinking>
-
 # training_completion_declaration_form - Help Guide
 ## Purpose
 This form is used to declare or verify your participation in or completion of training sessions. It gathers essential contact information and specific details about the training.

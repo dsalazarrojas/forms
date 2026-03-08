@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule a meeting or appointment with a client. To ensure that it is used correctly, please check the form for any existing appointments before filling it out. This guide assumes that you have already checked for any existing appointments that may be relevant to the information you are providing in this form.
-</thinking>
-
 # financial_planning_appointment_form - Help Guide
 ## Purpose
 The financial_planning_appointment_form is used to schedule a meeting or appointment with a client.

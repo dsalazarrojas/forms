@@ -1,17 +1,3 @@
-<thinking>
-The Financial Behavior Assessment form is a tool designed to evaluate an individual's financial behavior, habits, and attitudes towards money management. It's intended to provide insight into their spending habits, saving strategies, and sources of financial support. This form is meant to be a self-assessment and does not require any external input or verification. To avoid duplication, individuals should only fill out this form once, and if they have filled out a similar form in the past, they may not need to do so again.
-
-This form will help users:
-
-* Identify areas of improvement in their financial behavior
-* Develop a better understanding of their financial habits and attitudes
-* Gain insight into their financial progress and milestones
-* Develop a plan to improve their financial well-being
-
-Please note that this form is not a substitute for professional financial advice. It's a tool to help users take control of their finances and make informed decisions about their financial behavior.
-
-</thinking>
-
 # Financial Behavior Assessment - Help Guide
 ## Purpose
 

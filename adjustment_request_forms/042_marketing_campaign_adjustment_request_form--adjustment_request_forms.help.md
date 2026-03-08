@@ -1,7 +1,3 @@
-<thinking>
-This form is a request form for marketing campaign adjustments. It is designed to collect information from users about changes they would like to make to existing marketing campaigns. The purpose of this form is to provide a structured way for users to submit their requests, ensuring that all necessary details are captured and that the request is properly evaluated and addressed. Before filling out this form, please ensure that you have reviewed the relevant campaign information and that your request is not a duplicate of an already submitted adjustment request.
-</thinking>
-
 # marketing_campaign_adjustment_request_form - Help Guide
 ## Purpose
 This form is used to collect information about adjustments users would like to make to marketing campaigns. Please use this form to submit your adjustment requests in a structured and organized manner.

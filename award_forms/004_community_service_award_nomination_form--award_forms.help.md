@@ -1,12 +1,3 @@
-<thinking>
-The form "Community Service Award Nomination Form" is used for nominating individuals or groups for a community service award. This form is used to collect information about the nominee, their service to the community, and the impact of their work. This form is only to be filled out by nominators, and it's not to be filled out by the nominees themselves. It's essential to review the form before submitting it to ensure that all fields are completed correctly, and to avoid duplication of nominations.
-
-Please note that the form has been designed to gather specific information, and the fields should be filled out accordingly. If a nominator has any questions or doubts about any field, it's best to clarify with the award committee before submitting the form.
-
-Also, please note that the form is divided into sections for better clarity and organization. Each section has its own purpose and fields related to it.
-
-</thinking>
-
 # Community Service Award Nomination Form - Help Guide
 
 ## Purpose

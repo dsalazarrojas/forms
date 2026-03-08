@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the submission of AI system licensing requests. The purpose of this form is to collect information about the applicant, AI system, and its deployment environment, ensuring that all necessary details for a valid license are provided. This form is meant to serve as a template for the application process, guiding applicants through the required fields and sections, and ensuring consistency in the information collected.
-</thinking>
-
 # AI Ethics Licensing Form - Help Guide
 ## Purpose
 

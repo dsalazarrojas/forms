@@ -1,10 +1,3 @@
-<thinking>
-This form is used to report data privacy violations that have occurred within the organization. The purpose of this form is to gather information about the incident, including the type of violation, description, date and time of the incident, location, and any other relevant details. This form helps ensure that all incidents are reported in a standardized way, making it easier to track and investigate them.
-
-Before starting to fill out this form, please make sure that you are reporting a genuine data privacy violation and not just a duplicate report.
-
-</thinking>
-
 # data_privacy_violation_intake_form - Help Guide
 ## Purpose
 This form is used to report data privacy violations that have occurred within the organization.

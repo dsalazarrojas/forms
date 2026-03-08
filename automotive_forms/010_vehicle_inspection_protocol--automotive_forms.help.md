@@ -1,10 +1,3 @@
-<thinking>
-This help guide is used to document the vehicle_inspection_protocol form, used for creating and managing vehicle inspection records. This guide will provide instructions on how to complete and understand the form.
-- Form purpose: The vehicle_inspection_protocol form is used to record and document the status of a vehicle's inspection, including details about the vehicle make, model, year, and registration number. It also captures the inspection status and result, as well as comments and the date of the inspection.
-
-Form completion instructions should be clear and easy to follow.
-</thinking>
-
 # vehicle_inspection_protocol - Help Guide
 ## Purpose
 The vehicle_inspection_protocol form is used to record and document the status of a vehicle's inspection, including details about the vehicle make, model, year, and registration number.

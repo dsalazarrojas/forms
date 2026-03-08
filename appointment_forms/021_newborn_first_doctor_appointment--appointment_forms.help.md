@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Newborn First Doctor Appointment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from actors who are interested in auditioning for the drama club. The form is intended to be completed by the actor themselves, and it will be reviewed by the drama club's staff. The purpose of the form is to collect relevant information such as name, contact details, performance experience, availability, and submission details. This form should only be used for actors who are interested in auditioning for the drama club, and not for any other purpose.
-</thinking>
-
 # drama_club_audition_form - Help Guide
 ## Purpose
 The "drama_club_audition_form" is a form designed for actors who are interested in auditioning for the drama club. It is meant to gather essential information that will help the drama club's staff review and contact the actors for further consideration.

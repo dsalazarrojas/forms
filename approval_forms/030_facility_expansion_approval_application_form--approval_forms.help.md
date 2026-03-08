@@ -1,18 +1,3 @@
-<thinking>
-This form is used by facility management teams to process and track facility expansion requests. Facility expansions can include new construction, renovations, or modifications to existing facilities. The form requires information about the facility, project details, and contact person's information to ensure proper tracking and approval process.
-This form will help you understand the required information for a facility expansion request.
-To complete this form, follow these steps:
-
-1. Enter the facility name where the project will take place.
-2. Describe the project details.
-3. Select the project's start and end dates.
-4. Choose the project status.
-5. Enter the contact person's name.
-6. Enter the contact person's phone number.
-7. Enter the contact person's email.
-8. If applicable, select the facility expansion approvals required.
-</thinking>
-
 # Facility Expansion Approval Application Form - Help Guide
 ## Purpose
 This form is used by facility management teams to process and track facility expansion requests.

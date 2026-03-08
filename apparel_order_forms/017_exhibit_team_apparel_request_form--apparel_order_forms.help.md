@@ -1,16 +1,3 @@
-<thinking>
-This form is for requesting team apparel for the exhibit team. It is used to order apparel with specific style, size, color, and quantity options. The form is designed to be completed by the user with the most knowledge of the team's needs and preferences. Please review the form before submitting it to ensure that all required fields are populated correctly. This guide will walk you through the purpose and instructions for completing the form. 
-
-Before completing this form, consider the following:
-
-* Please ensure that you have the approval of the team lead or manager before submitting the request.
-* Review the team's style guide to ensure that the selected apparel style is compliant.
-* If you are requesting multiple sizes, be sure to separate them with commas.
-* If the requested date is for a specific event or deadline, please include the event name or deadline in the "Additional Information" field.
-
-If the form is for an ongoing or recurring order, please let us know in the "Additional Information" field.
-</thinking>
-
 # Exhibit Team Apparel Request Form - Help Guide
 ## Purpose
 This form is for requesting team apparel for the exhibit team.

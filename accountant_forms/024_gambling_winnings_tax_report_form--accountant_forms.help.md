@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a gambler's winnings and payment details for tax reporting purposes. This form should only be used for reporting gambling winnings, not for other types of income or expenses. Please ensure that all required fields are completed accurately and truthfully. If you're unsure about any field or require further clarification, please refer to the relevant tax authority's guidelines or consult a professional tax advisor.
-</thinking>
-
 # Gambling Winnings Tax Report Form - Help Guide
 ## Purpose
 This form is used to report your gambling winnings for tax purposes. It helps the relevant tax authorities track your winnings and ensure you're reporting them accurately.

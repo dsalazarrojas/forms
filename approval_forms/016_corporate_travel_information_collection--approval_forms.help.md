@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about a corporate travel, specifically for employees who are planning to travel for work. The purpose of this form is to ensure that all necessary information is collected and approved by the relevant authorities before the travel commences. This form is designed to be completed by employees, and it is recommended that it be filled out as soon as travel plans are made. 
-
-Please note that all fields are optional unless otherwise specified. If you are unsure about any field, please refer to the instructions below for further clarification.
-
-</thinking>
-
 # corporate_travel_information_collection - Help Guide
 ## Purpose
 This form collects information about corporate travel, allowing us to track employee travel and ensure that all necessary approvals and expenses are accounted for.

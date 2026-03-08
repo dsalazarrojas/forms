@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to request access to resources within the organization. To ensure accurate and efficient processing, please review each field carefully before submission. Ensure that all required fields are completed, and review the form for completeness before clicking the "Submit" button. If you need to request access to a specific resource, please ensure that you have the necessary permissions to do so, and be aware that some resources may have specific requirements or limitations. 
-</thinking>
-
 # Employee Resource Access Request Form - Help Guide
 ## Purpose
 The Employee Resource Access Request Form is a tool for employees to submit requests for access to resources within the organization. This form will guide you through the necessary fields to complete the request efficiently.

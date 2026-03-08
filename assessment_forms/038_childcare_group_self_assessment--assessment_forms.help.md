@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a childcare group's self-assessment, which is a critical component of quality improvement and accountability. The purpose of this form is to gather data on various aspects of the center's operations, such as staff qualifications, curriculum quality, parent satisfaction, and overall facility conditions. This data will be used to help the childcare group identify areas of strength and areas for improvement, ultimately contributing to the continuous improvement of their services.
-
-Before proceeding with the self-assessment, ensure that you are filling out the form accurately and consistently across all sections. It is essential to review previous self-assessments to prevent duplication of information and ensure that your input is aligned with the previous assessment's findings.
-
-</thinking>
-
 # Childcare Group Self-Assessment - Help Guide
 ## Purpose
 The Childcare Group Self-Assessment form is designed to help you evaluate your childcare center's performance in various areas such as staff qualifications, curriculum quality, parent satisfaction, and overall facility conditions. This self-assessment will aid in identifying your center's strengths and weaknesses, enabling you to make informed decisions for continuous improvement.

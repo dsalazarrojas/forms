@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a Roleplay Scenario Assessment, which is used to evaluate and provide feedback on roleplay scenarios. This form is used to collect information about the overall scenario rating, scenario details, evaluator feedback, and other relevant data. 
-
-It is essential to ensure that each scenario is thoroughly reviewed, and this form helps in organizing and structuring the evaluation process. This assessment form should only be completed for each roleplay scenario once.
-
-</thinking>
-
 # Roleplay Scenario Assessment - Help Guide
 ## Purpose
 This form is designed to gather information from evaluators about roleplay scenarios. It includes various fields to collect ratings, feedback, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, we need to ensure that our end-users understand the purpose and requirements of this form. This form, "sports_covid_19_and_release_of_liability_waiver", is designed to collect information from patients regarding their COVID-19 vaccination status, including their medical organization details, vaccine dosage, and consent for treatment. This form is likely to be used in a medical setting to ensure that patients understand and agree to the risks associated with the COVID-19 vaccine. By using this form, patients can provide essential information that healthcare providers need to ensure they are properly vaccinated and informed.</thinking>
-
 # sports_covid_19_and_release_of_liability_waiver - Help Guide
 ## Purpose
 The purpose of this form is to collect information from patients regarding their COVID-19 vaccination status, including their medical organization details, vaccine dosage, and consent for treatment. This form is designed to ensure that patients understand and agree to the risks associated with the COVID-19 vaccine.

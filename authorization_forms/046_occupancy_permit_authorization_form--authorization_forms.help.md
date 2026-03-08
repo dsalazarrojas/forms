@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to authorize the occupancy of a property by a tenant or occupant. This form is likely used in the construction or real estate industry to ensure that the property's occupancy meets all necessary requirements and regulations.
-</thinking>
-
 # Occupancy Permit Authorization Form - Help Guide
 ## Purpose
 This form is designed to collect information necessary to authorize the occupancy of a property. It requires the property owner's details, property address, and the date of inspection. The property inspector's approval is crucial to ensure that the property meets all the necessary standards.

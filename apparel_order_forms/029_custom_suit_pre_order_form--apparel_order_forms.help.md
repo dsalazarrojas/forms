@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for customers to pre-order custom suits, jackets, pants, or skirts. It captures information that will be used to process the order and communicate with the customer. This guide will cover the purpose and completion instructions for the custom suit pre-order form.
-
-To ensure accurate completion of the form, it's essential to review the form fields carefully before proceeding. The form fields should not be duplicated or omitted, as this may cause confusion during order processing.
-
-</thinking>
-
 # custom_suit_pre_order_form - Help Guide
 ## Purpose
 The custom suit pre-order form is designed to gather information for customers who want to pre-order custom suits, jackets, pants, or skirts. This form is used to collect essential details that will be used to process the order accurately and communicate with the customer.

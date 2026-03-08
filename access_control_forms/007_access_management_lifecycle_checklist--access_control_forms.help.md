@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to guide the user through the access management lifecycle process. The form is used to collect and track information about access requests, approvals, and provisioning of employees' access to various systems and resources. The form helps ensure that access is properly managed and audited throughout the entire lifecycle. This form is intended to be used by employees, managers, and administrators to streamline the access management process. It is not intended to be a replacement for any existing system or process, but rather a supplement to enhance efficiency and accuracy.
-
-Before completing this form, please ensure that you have the necessary permissions and authority to access the systems and resources being requested. If you are unsure, please consult with your supervisor or manager.
-
-The following pages and fields are included in the form:
-
-Page 1: Employee Information
-Page 2-4: Access Request Details
-Page 5: Status Updates
-
-</thinking>
-
 # Access Management Lifecycle Checklist - Help Guide
 ## Purpose
 This form is used to guide the user through the access management lifecycle process for employees' access requests.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used for project team members to sign out of a project, indicating their completion status and any necessary information for the project's next steps. It's essential to complete this form accurately to ensure that project stakeholders are aware of project team member availability and any items that were signed out. 
-The form is designed to be completed by project team members, and it's a required process for project closure. Please review each section carefully and fill in the necessary information. 
-Ensure that you have permission from your manager or team lead before signing out. If you're unsure, please reach out to your project lead for guidance. 
-</thinking>
-
 # Project Key Sign Out Form - Help Guide
 ## Purpose
 The Project Key Sign Out Form is a crucial document that project team members use to sign out of a project, providing essential information about their completion status, return window, and other relevant details. It helps project stakeholders track project progress and ensure that all necessary steps are taken for project closure.

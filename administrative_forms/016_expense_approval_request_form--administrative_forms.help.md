@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly, and we've designed this help guide to assist with that.
-
-</thinking>
-
 # Expense Approval Request Form - Help Guide
 ## Purpose
 The Expense Approval Request Form is used to request approval for expenses incurred by employees. It is an essential tool for managing and tracking expenses within the organization.

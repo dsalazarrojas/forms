@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a corporate tax audit request. The form is designed to be completed by users to provide details about the audit request, including category, description, supporting documents, defined audit periods, authorized contact, contact phone, assigned tool, notes, and submitted by. This form should only be completed if the user has a legitimate reason for requesting a corporate tax audit. If the user is not a member of the finance team, auditor, or accounting firm, they should not be submitting this form.
-</thinking>
-
 # corporate_tax_audit_request_application_form - Help Guide
 ## Purpose
 The corporate tax audit request application form is used to collect information for corporate tax audit requests. This form is typically completed by users to provide details about the audit request, including category, description, supporting documents, defined audit periods, authorized contact, contact phone, assigned tool, notes, and submitted by.

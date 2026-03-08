@@ -1,6 +1,4 @@
-> <thinking>...checking if form is correctly implemented and non-duplication is avoided...</thinking>
-
-# Access Badge Check In Form - Help Guide
+> # Access Badge Check In Form - Help Guide
 ## Purpose
 The Access Badge Check In Form is used to collect information from visitors, including their full name, contact details, and reason for visiting, as well as to check their identity and confirm security procedures.
 

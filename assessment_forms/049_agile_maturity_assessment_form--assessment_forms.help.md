@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the maturity level of an organization in terms of its adoption of Agile principles and practices. The form is intended for use by teams and organizations looking to evaluate their current state of Agile adoption and identify areas for improvement. The form will help assess the degree of commitment from leadership, team autonomy, and the use of Agile practices such as Scrum, Kanban, and DevOps. The form also aims to gauge the organization's approach to continuous improvement, use of metrics, and overall maturity level. By providing a clear and concise framework for evaluation, this form will help organizations identify their strengths and weaknesses and provide actionable recommendations for advancement. 
-
-This form is an original adaptation of a publicly available template, created using AI-generated code and does not replicate any proprietary content from other form platforms. It is released under CC BY 4.0 license, allowing users to modify and distribute the form as needed.
-
-</thinking>
-
 # Agile Maturity Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the maturity level of an organization in terms of its adoption of Agile principles and practices.

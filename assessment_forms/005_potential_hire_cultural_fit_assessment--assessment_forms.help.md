@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate the cultural fit of potential hires, helping you make more informed hiring decisions. To ensure you fill out the form correctly, please make sure the following:
-- You only fill out the form once per candidate.
-- You have all necessary information and answers ready before starting the form.
-
-The form is structured into multiple pages, each covering a specific topic, making it easier to focus on one aspect at a time. Please complete each page according to the instructions below.
-
-</thinking>
-
 # Potential Hire Cultural Fit Assessment - Help Guide
 ## Purpose
 This form is used to assess the cultural fit of potential hires, helping you make more informed hiring decisions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a generic online appointment form that caters to various business needs, particularly for appointment and customer management. It can be adapted for different use cases such as appointment scheduling, customer information collection, and business management. This form's design and content should not be taken as a direct reflection of any specific business or platform.
-</thinking>
-
 # Online Appointment Form - Help Guide
 ## Purpose
 The Online Appointment Form is a customizable form designed to help you schedule appointments, manage customers, and track appointments with ease. It's perfect for businesses looking to streamline their customer management and appointment scheduling processes.

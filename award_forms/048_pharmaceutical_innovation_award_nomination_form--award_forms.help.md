@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information and supporting documents for the Pharmaceutical Innovation Award nomination process. The form is designed to gather essential details about the nominated award recipient, the nomination reason, and the supporting documents. It also includes fields for submission status, comments, and attachment information. The purpose of this form is to streamline the nomination process and ensure that all necessary information is collected accurately and efficiently. To avoid duplication, it is essential to review and fill out the form carefully before submitting it.
-
-</thinking>
-
 # pharmaceutical_innovation_award_nomination_form - Help Guide
 ## Purpose
 The Pharmaceutical Innovation Award nomination form is used to collect information and supporting documents for the Pharmaceutical Innovation Award nomination process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about client and session details for counseling appointments. The form includes fields for client contact information, session dates and times, feedback, and follow-up actions. The form is meant to be used for collecting data from clients for the purpose of providing counseling services. This form is not intended to be used for any other purpose and is not affiliated with any specific form platform.
-</thinking>
-
 # Counseling Appointment Form - Help Guide
 ## Purpose
 The Counseling Appointment Form is designed to collect information from clients for counseling appointments. This form helps to gather essential details about the client and their sessions to provide personalized and effective counseling services.

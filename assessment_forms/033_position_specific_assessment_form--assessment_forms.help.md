@@ -1,7 +1,5 @@
 # Position Specific Assessment Form - Help Guide
 ## Purpose
-<thinking>The Position Specific Assessment Form is used to assess the skills, experience, education, and other relevant details of a candidate or individual. This form is used to evaluate a person's position-specific qualifications and identify any gaps or areas where further training or education may be needed. The form is typically used by hiring managers, recruiters, or assessors to gather information about a candidate's background and qualifications.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

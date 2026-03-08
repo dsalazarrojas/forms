@@ -1,14 +1,3 @@
-<thinking>
-The form purpose and relevance check are as follows:
-The Fuels And Emissions Assessment form is used to evaluate the fuel consumption and emissions of a vehicle or equipment. It is likely used by environmentalists, researchers, or regulatory bodies to assess the impact of different types of fuel on the environment. The form is designed to be completed by individuals who are responsible for the fuel consumption and emissions of the vehicle or equipment.
-
-Please note that the form may not be relevant for users who do not have fuel consumption or emissions data to report.
-
-Non-duplication check:
-This form is a self-contained assessment tool and does not require any additional information or forms to be completed in conjunction with it.
-
-</thinking>
-
 # Fuels And Emissions Assessment - Help Guide
 ## Purpose
 The Fuels And Emissions Assessment form is used to evaluate the fuel consumption and emissions of a vehicle or equipment. It is likely used by environmentalists, researchers, or regulatory bodies to assess the impact of different types of fuel on the environment.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used for event organizers to submit an application for fireworks display approval. The form is designed to collect necessary information about the event, including the event title, location, date and time, and safety plans. The purpose of this form is to ensure that the event meets the necessary safety and regulatory requirements before approval is granted. 
-
-Before filling out this form, please ensure that you have all the necessary information ready. It's also a good idea to review the form carefully before submitting it to avoid any errors or discrepancies.
-
-</thinking>
-
 # Fireworks Display Approval Application - Help Guide
 ## Purpose
 This form is used to submit an application for a fireworks display. To fill out this form, please follow the steps below.

@@ -1,7 +1,3 @@
-<thinking>
-The "Player Readiness Check In" form is designed for athletes to report their readiness to participate in a competition or event. This form aims to collect information about the athlete's availability for each leg of the event, which typically consists of 6 legs. The form should only be completed by athletes who are expected to participate in the event. 
-</thinking>
-
 # Player Readiness Check In - Help Guide
 
 ## Purpose

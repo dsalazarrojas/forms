@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Puppy Adoption Form is to collect information from potential adopters about themselves and the puppy they wish to adopt. This form aims to gather relevant details to ensure a smooth and safe adoption process for both the adopter and the animal.
-Before filling out the form, please ensure that you are not filling it out multiple times or for someone else. If you have already submitted a form, do not submit this form again.
-Please follow the steps below to complete this form accurately and efficiently.</thinking>
-
 # Puppy Adoption Form - Help Guide
 
 ## Purpose

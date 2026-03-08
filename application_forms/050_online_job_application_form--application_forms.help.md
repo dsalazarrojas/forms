@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit their online job applications to a job posting. It is intended for individuals seeking employment opportunities in a variety of job types. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation using public survey topic metadata. 
-</thinking>
-
 # Online Job Application Form - Help Guide
 ## Purpose
 The Online Job Application Form is designed for users to submit their online job applications to a job posting. This form gathers information about the applicant, including contact details, resume, job preferences, and work experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to provide information necessary for setting up their smart access cards, which grant access to certain systems, applications, and data. The form is a critical step in ensuring that employees have the necessary access rights to perform their job duties effectively. It is essential to complete the form accurately and honestly. Please ensure you have permission from your manager to access the system and provide their name and contact information in case of any questions or issues. This form should not be used for any other purpose other than setting up access cards. 
-</thinking>
-
 # Smart Access Card Setup Consent Form - Help Guide
 ## Purpose
 The Smart Access Card Setup Consent Form is a document that employees must complete to set up their smart access cards, which grant access to specific systems, applications, and data.

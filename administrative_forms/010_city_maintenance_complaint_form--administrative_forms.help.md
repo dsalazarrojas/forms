@@ -1,10 +1,3 @@
-<thinking>
-The internal purpose of this form is to gather information from the general public for city maintenance complaints, such as pothole reports, streetlight outages, and other issues. The form is designed to be accessible to anyone, regardless of their technical expertise, and the data collected will be used to inform city maintenance teams on areas that need attention.
-
-Before filling out this form, please ensure that you have not already submitted a complaint for this issue, as duplicate submissions may not be processed. If you are unsure whether your issue has already been reported, feel free to reach out to our support team for verification.
-
-</thinking>
-
 # City Maintenance Complaint Form - Help Guide
 ## Purpose
 The City Maintenance Complaint Form is designed to provide a convenient way for the public to report any issues or concerns about city maintenance. The goal is to inform city maintenance teams about areas that need attention and ensure that necessary repairs are made in a timely and efficient manner.

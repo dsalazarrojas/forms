@@ -1,5 +1,3 @@
-<thinking>...this form is intended to collect lease manager information from tenants. It appears to be a comprehensive form with various fields for different types of data. I will make sure to break down the form into smaller, digestible chunks in the guide to help users complete it efficiently. Each field has been carefully examined and explanations will be provided to minimize any confusion... </thinking>
-
 # lease_manager_information_form - Help Guide
 
 ## Purpose

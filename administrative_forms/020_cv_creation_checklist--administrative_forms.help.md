@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to create a CV or resume for an individual, providing a structured and organized way to capture essential information about a person's professional background. The purpose of this CV creation checklist is to help individuals create a comprehensive CV that showcases their skills, experience, and education, making it easier to share with potential employers or clients. This form is not intended to be a substitute for a full-fledged resume, but rather a helpful tool to gather the necessary information for creating a professional CV.
-
-</thinking>
-
 # CV Creation Checklist - Help Guide
 
 ## Purpose

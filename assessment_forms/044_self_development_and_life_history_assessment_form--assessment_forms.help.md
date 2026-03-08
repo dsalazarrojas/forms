@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the self-development and life history of an individual. To ensure you provide accurate and relevant information, please note that the fields are not strictly required, but it's best to fill them out to ensure you get the most out of this assessment. This form is intended to collect demographic information and personal details that are not sensitive or private. Please ensure you're providing accurate and authentic information. If you're unsure about any field, please don't hesitate to reach out to us for clarification. We also encourage you to review the form carefully before submitting it to avoid any mistakes. Please ensure you have all necessary information ready before proceeding, and if you need help with any field, we'll be happy to assist you. This form is for internal use only and is not intended for external sharing or use. By filling out this form, you acknowledge that you're aware of these guidelines.
-
-</thinking>
-
 # self_development_and_life_history_assessment_form - Help Guide
 ## Purpose
 This form is designed to collect demographic and personal details for assessment purposes. It will help us better understand your background and experiences, which will aid in providing tailored support and guidance.

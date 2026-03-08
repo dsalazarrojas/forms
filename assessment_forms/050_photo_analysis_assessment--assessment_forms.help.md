@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a photo analysis assessment. This form will help the user to provide details about the photo being analyzed, including user information, image review, image details, analysis requirements, and photo metadata such as date, time, location, and size. It's intended for internal use within the organization and should be filled out by authorized personnel only. Please ensure you have the necessary permissions and access rights before filling out this form.
-</thinking>
-
 # photo_analysis_assessment - Help Guide
 ## Purpose
 The photo analysis assessment form is used to collect and store information about a photo analysis process. This form is used to gather details about the photo, including user information, image review, and analysis requirements.

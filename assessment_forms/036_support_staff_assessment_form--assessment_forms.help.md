@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Support Staff Assessment Form - Help Guide
 ## Purpose
 This form is used to assess support staff performance, identify areas for improvement, and document progress toward meeting goals and objectives.

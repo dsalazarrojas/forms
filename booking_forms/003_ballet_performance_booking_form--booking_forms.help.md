@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information for booking ballet performance tickets. It is intended for customers to provide their booking details, such as name, email, and contact information, as well as specific preferences for their ticket booking, including performance date and time, seat selection, number of tickets, ticket type, and accessibility requirements. The form also includes options for special requests and payment methods.
-
-The form is structured into sections, each with distinct fields and labels. It is essential to fill in all required fields, which are marked as "required." The form's fields and sections should be filled in the following order:
-
-1. Customer information section: This includes fields for customer name, email, and phone number.
-2. Performance selection section: Here, customers select the performance they want to attend and the date and time of the performance.
-3. Ticket selection section: This section includes options for seat selection, number of tickets, and ticket type.
-4. Accessibility and special requests section: Customers can specify any accessibility requirements and special requests they may have.
-5. Payment and order section: This includes payment method and any special occasion or occasion for the booking.
-
-Please note that not all fields are required, but they are marked as "required" for essential information. Customers can also provide a mailing address for delivery if they prefer not to use electronic tickets.
-</thinking>
-
 # Ballet Performance Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for booking ballet performance tickets.

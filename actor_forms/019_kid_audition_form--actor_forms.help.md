@@ -1,5 +1,3 @@
-<thinking>... This form appears to be designed for a kid's audition process. It is likely used by parents or guardians to provide information about their child's audition details such as name, contact information, and performance history... </thinking>
-
 # Kid Audition Form - Help Guide
 ## Purpose
 This form is designed for parents or guardians to provide information about their child's audition details such as name, contact information, and performance history in order to facilitate the audition process.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from customers applying for a fixed deposit program, which is a type of savings account that typically offers a higher interest rate than a standard savings account in exchange for keeping a fixed amount in the account for a specified term. The purpose of this form is to collect the necessary details about the customer, including their name, email, fixed deposit amount, loan term, payment method, approval date, and fixed deposit status. This information is crucial in determining the feasibility of the fixed deposit program for the customer and in processing their application.
-
-Before completing this form, please ensure that you are aware of the following:
-
-* You have not previously filled out this form.
-* You have all the necessary information required to complete the form accurately.
-* You understand the implications of your input on your account and fixed deposit program.
-</thinking>
-
 # Fixed Deposit Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers applying for a fixed deposit program, which is a type of savings account that offers a higher interest rate than a standard savings account in exchange for keeping a fixed amount in the account for a specified term.

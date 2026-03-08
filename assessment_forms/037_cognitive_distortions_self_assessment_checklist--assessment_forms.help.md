@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cognitive Distortions Self Assessment Checklist - Help Guide
 
 ## Purpose

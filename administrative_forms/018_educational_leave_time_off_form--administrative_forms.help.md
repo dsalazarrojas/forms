@@ -1,7 +1,3 @@
-<thinking>
-To ensure relevance, I've checked that this form is for educational purposes only and doesn't duplicate existing forms. The form is a straightforward, self-explanatory template designed to guide users through the process of requesting educational leave time off. This guide will help users understand what the form is for, how to fill it out, and what each field represents.
-</thinking>
-
 # Educational Leave Time Off Form - Help Guide
 ## Purpose
 This form is designed to help you request time off for educational purposes, such as attending conferences, workshops, or courses. It's a simple way to notify your educational institution or relevant authorities about your leave.

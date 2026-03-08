@@ -1,5 +1,3 @@
-<thinking>This form is meant to collect information and authorization from a patient and their policyholder (a parent or guardian) for medical treatment or services. This form helps ensure that the patient and policyholder are aware of and agree to the terms and conditions of the treatment or service. The form will be reviewed and processed internally, and the patient will not be able to submit it themselves. The form fields are designed to gather necessary information to verify the patient's identity and relationship with the policyholder, as well as to confirm their consent to the treatment or service.</thinking>
-
 # Insurance Authorization Form - Help Guide
 ## Purpose
 This form is used to collect authorization from a patient and their policyholder for medical treatment or services. It ensures that the patient and policyholder are aware of and agree to the terms and conditions of the treatment or service.

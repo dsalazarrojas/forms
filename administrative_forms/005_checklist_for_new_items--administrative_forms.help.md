@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Checklist For New Items - Help Guide
 ## Purpose
 The "Checklist For New Items" form is used to ensure that all necessary tasks and steps have been completed before launching a new item. This includes reviewing and confirming the project's progress in various aspects such as project management, quality testing, documentation, marketing, and more. 

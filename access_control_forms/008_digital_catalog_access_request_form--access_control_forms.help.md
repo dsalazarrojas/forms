@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request access to the digital catalog for users. It is designed to be completed by users who need to access the digital catalog for various purposes. To ensure that the form is filled out correctly, please review the fields below and make sure to complete all required fields. Please note that this form is not intended to be used for duplicate requests. If you have already submitted this form, please do not resubmit. This form is intended for new requests only.
-</thinking>
-
 # Digital Catalog Access Request Form - Help Guide
 
 ## Purpose

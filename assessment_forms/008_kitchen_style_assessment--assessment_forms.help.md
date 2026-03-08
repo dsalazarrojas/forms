@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for assessing kitchen designs and styles, likely for a business or professional use. The form collects information about a project's details, including its budget, layout preferences, and desired completion date. It may be used by architects, designers, or other individuals involved in the design process. This form is not intended for personal use, so please ensure you are a registered user before completing it.
-</thinking>
-
 # kitchen_style_assessment - Help Guide
 ## Purpose
 This form is used to collect information about a kitchen project's style and design preferences.

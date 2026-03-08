@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to request a free home inspection, allowing homeowners to submit their request along with necessary details. The form is designed to collect basic information about the property address, preferred inspection date and time, type of inspection, and any additional details or contact number. This form is likely to be used by property management or maintenance teams to fulfill homeowner requests.
 
 # Free Home Inspection Request Form - Help Guide

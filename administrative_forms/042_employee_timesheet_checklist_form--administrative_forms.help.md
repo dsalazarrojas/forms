@@ -1,13 +1,3 @@
-<thinking>
-
-The "Employee Timesheet Checklist Form" is used to track employee attendance and work hours for the current week. The form is designed to be a quick and easy way for employees to report their hours worked and attendance status. This form should only be filled out for the current week and should not be completed multiple times for the same week.
-
-The current design does not include any specific validation or business rules, so the form is intended to be filled out in good faith by the employee.
-
-Before filling out the form, make sure to have it open to the correct page and select the relevant options for each field.
-
-</thinking>
-
 # Employee Timesheet Checklist Form - Help Guide
 ## Purpose
 

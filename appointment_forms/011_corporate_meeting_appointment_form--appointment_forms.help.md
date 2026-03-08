@@ -1,22 +1,3 @@
-<thinking>
-This form is intended for scheduling corporate meetings within the organization. It's used to collect necessary information to facilitate meetings between staff members and stakeholders. Please check that you are using this form for its intended purpose and not for any other type of meeting (e.g., personal events or external collaborations), as its design and fields are tailored to corporate meeting requirements.
-
-This form should be completed in the following steps:
-
-1.  Enter the meeting topic in the "Meeting Topic" field to briefly summarize the meeting's objective.
-2.  Select a "Meeting Date" to schedule the meeting on the desired date.
-3.  Choose the "Meeting Time" to set the start time for the meeting.
-4.  Indicate the duration of the meeting in the "Meeting Duration" field.
-5.  Enter the meeting location in the "Meeting Location" field.
-6.  Specify any meeting preferences in the "Meeting Preferences" field.
-7.  Select "Yes" or "No" for the "Attendees" field to indicate if staff members are invited.
-8.  Enter the start and end time of the meeting in the "Start Time" and "End Time" fields respectively.
-9.  Provide a brief description of the meeting in the "Meeting Notes" field.
-
-This form is designed to be completed by staff members and meeting organizers to schedule meetings efficiently and effectively within the organization.
-
-</thinking>
-
 # corporate_meeting_appointment_form - Help Guide
 ## Purpose
 The corporate meeting appointment form is used for scheduling corporate meetings. It's intended for meetings between staff members and stakeholders within the organization.

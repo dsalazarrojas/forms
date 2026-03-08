@@ -1,22 +1,3 @@
-<thinking>
-This form is used to schedule a thesis examination for a student. The purpose of this form is to gather information about the defense date, time, supervisor, graduate program, defense location, student name, supervisor approval, student approval, department chair, and coordinator approval for the thesis examination. This form is used by students and staff to schedule and coordinate thesis examinations. To avoid duplication, please ensure that this form is only filled out once per thesis examination schedule.
-
-The fields in this form should be filled out in the following order: defense date, defense time, supervisor, graduate program, defense location, student name, supervisor approval, student approval, department chair, and coordinator approval.
-
-The fields in this form are used to collect the following information:
-
-* **Defense Date** (`defense_date`, date, required: false): This field is used to select the date of the thesis examination.
-* **Defense Time** (`defense_time`, time, required: false): This field is used to select the time of the thesis examination.
-* **Thesis Supervisor** (`thesis_supervisor`, select_one, required: false): This field is used to select a supervisor from the list.
-* **Graduate Program** (`graduate_program`, select_multiple, required: false): This field is used to select multiple graduate programs.
-* **Defense Location** (`defense_location`, text, required: false): This field is used to enter the defense location.
-* **Student Name** (`student_name`, text, required: false): This field is used to enter the student's name.
-* **Supervisor Approval** (`supervisor_approval`, select_one, required: false): This field is used to select supervisor approval.
-* **Student Approval** (`student_approval`, select_one, required: false): This field is used to select student approval.
-* **Department Chair** (`department_chair`, select_one, required: false): This field is used to select department chair.
-* **Coordinating Approval** (`coordinator_approval`, select_one, required: false): This field is used to select coordinator approval.
-</thinking>
-
 # Thesis Examination Scheduling Form - Help Guide
 
 ## Purpose

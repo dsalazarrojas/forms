@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the knowledge of a user in the field of toxicology, specifically in the areas of chemical compounds, hazard levels, and measurement units. This form will guide the user through a series of questions that cover various topics in toxicology, allowing them to demonstrate their understanding of key concepts and terminology.
-
-To avoid confusion, this form is not intended for users who are unfamiliar with the basics of toxicology. If you are not familiar with the subject, please do not attempt to complete this form. You can find additional resources and information on toxicology on [external website URL].
-
-</thinking>
-
 # Toxicology Knowledge Quiz - Help Guide
 ## Purpose
 ## How To Complete This Form

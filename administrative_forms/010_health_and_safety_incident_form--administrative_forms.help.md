@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used by organizations to track and report incidents that could impact employee health and safety. The purpose of this form is to collect information about the incident, including employee information, details about what happened, who reported the incident, and any supporting documents that may be relevant. The form might be used in various industries, such as manufacturing, construction, or healthcare, where employee safety is a top priority. This form is designed to be completed by employees, supervisors, or other authorized personnel when an incident occurs.
-
-To confirm, this form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata as inspiration. It is released under CC BY 4.0 license, allowing for free use, modification, and even commercial use, as long as the origin is credited.
-
-Before proceeding, please ensure you have a valid reason to complete this form and that you have not already reported the incident. This form should only be used for incidents that have not been reported or resolved previously.
-</thinking>
-
 # Health and Safety Incident Form - Help Guide
 ## Purpose
 The Health and Safety Incident Form is a tool to collect and document information about incidents that could impact employee health and safety. This form helps to ensure that incidents are reported, investigated, and addressed in a timely and thorough manner.

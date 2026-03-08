@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's examine the fields it contains. The form is titled "School Application Form" and includes fields for user input, contact details, academic history, school name, application date, school level, student ID, address, email, and contact phone. This suggests that the form is intended for students or their representatives to submit an application to a school, likely for enrollment, admission, or some other administrative purpose. Given the variety of fields, it's possible that this form is used by schools or educational institutions to collect and process applications from students.
-
-Before proceeding, we should check if there's any duplication of effort or similar forms that might serve the same purpose. After reviewing the fields, it appears that this form is distinct from other common forms like "Student Registration Form" or "Student Information Form". It's likely that this form is designed to handle a specific scenario or requirement unique to the school or institution.
-
-</thinking>
-
 # School Application Form - Help Guide
 ## Purpose
 This form is used to collect and process applications from students or their representatives for enrollment, admission, or other administrative purposes in a school or educational institution.

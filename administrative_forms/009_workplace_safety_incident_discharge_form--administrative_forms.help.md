@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about workplace safety incidents. The purpose of this form is likely to report and document incidents that occur within the workplace, ensuring that employees can provide details about the incident, their name, and other relevant information. It's also possible that this form is used for incident reporting, which is a common practice in various industries. To confirm, it's essential to check with the organization that created this form to ensure that it's not a duplicate effort or unrelated to the workplace safety incident reporting process.
-</thinking>
-
 # Workplace Safety Incident Discharge Form - Help Guide
 ## Purpose
 This form is designed to collect and document information about workplace safety incidents. The goal is to provide a structured format for employees to report and describe incidents that occur within the workplace.

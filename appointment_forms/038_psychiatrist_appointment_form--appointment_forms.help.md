@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture information for a psychiatrist's appointment, aiming to provide a structured and efficient data collection process. This form is likely to be used for administrative purposes, such as scheduling and tracking patient appointments. It's essential to ensure that the form is filled out correctly to prevent errors and miscommunication. To achieve this, the form should be thoroughly reviewed before submission. The goal is to create a comprehensive and clear guide that assists users in filling out the form accurately and efficiently.
-</thinking>
-
 # Psychiatrist Appointment Form - Help Guide
 ## Purpose
 The Psychiatrist Appointment Form is a tool designed to capture essential information for scheduling and tracking patient appointments with a psychiatrist. This form helps ensure accurate and efficient communication between the patient and the clinic staff.

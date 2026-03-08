@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to create a monthly billing statement for a customer's account. This form likely captures key information about the account, including billing details, account status, and submitter details.
-The form appears to be designed for use by account managers or staff members within a company, possibly for internal accounting or billing purposes.
-This form seems to be part of a larger system or workflow for managing customer accounts and billing statements.
-</thinking>
 # Monthly Billing Statement - Help Guide
 ## Purpose
 This form is used to create a monthly billing statement for a customer's account. It gathers essential information about the account, including billing details and account status.

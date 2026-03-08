@@ -1,5 +1,3 @@
-<thinking>...This form is designed for checking in inventory, allowing users to update the quantity of items in stock. The form is meant for administrative purposes and is not intended for customer-facing use. The fields included in this form will gather information about the item being checked in, such as its title, description, quantity, category, and subcategory. It is essential to ensure that all required fields are completed to accurately reflect the current state of the inventory. Users should not submit the form if the item is not actually being checked in or if the information is already up-to-date. The form's submit button should only be clicked when the user has accurately and completely filled out the form. Please refer to the field-by-field explanation for a detailed understanding of each field's purpose. ...</thinking>
-
 # Inventory Check In Form - Help Guide
 ## Purpose
 The Inventory Check In Form is a tool used to update the quantity of items in stock. This form is designed to be used by authorized personnel to accurately reflect the current state of the inventory.

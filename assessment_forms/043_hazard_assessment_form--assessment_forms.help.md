@@ -1,7 +1,3 @@
-<thinking>
-The Hazard Assessment Form is a tool used to assess and record potential hazards and risks associated with a specific area or task. It helps in identifying and mitigating these hazards, ensuring a safe working environment. To use this form, the user must be aware of their responsibilities and the level of risk involved in the work area they are assessing.
-</thinking>
-
 # Hazard Assessment Form - Help Guide
 ## Purpose
 The Hazard Assessment Form is designed to identify and assess potential hazards and risks in a work area. It provides a structured approach to documenting and managing these hazards, ensuring a safe working environment.

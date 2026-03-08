@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to collect information from travelers about their upcoming trips, including their first name, last name, email, phone number, travel dates, flight numbers, travel reasons, travel type, airline, travel destination, travel duration, travel frequency, travel purpose, travel origin, return date, travel group, ticket number, boarding gate, flight status, travel type, travel class, travel agent, and notes about their trip. This form is likely used to help travel agents or other stakeholders understand traveler preferences, requirements, and needs. Please ensure that you have all necessary information before proceeding and do not submit duplicate forms. If you have already completed this form, please do not submit again.</thinking>
-
 # Expedited Boarding Questionnaire - Help Guide
 
 ## Purpose

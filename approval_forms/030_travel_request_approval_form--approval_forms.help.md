@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about a travel request, including the approver, travel dates and times, locations, reason, duration, type, and other relevant details. This form is designed to be filled out by the traveler and submitted for approval by a supervisor or manager.
 
 # Travel Request Approval Form - Help Guide

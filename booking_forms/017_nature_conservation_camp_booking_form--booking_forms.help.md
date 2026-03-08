@@ -1,30 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the booking process for a nature conservation camp, gathering essential information from participants to ensure a smooth and enjoyable experience for all. This guide will walk you through the form fields and their corresponding purposes, helping you understand what's required and what's optional.
-
-This form is designed to be used by participants to provide their details and preferences for the nature conservation camp booking process.
-
-The form is divided into several sections, each with a specific purpose:
-
-1. **Nature Conservation Camp Booking Form** - This is the main form where participants can provide their name, email, and booking status.
-
-2. **Participant Details** - This section allows participants to enter their personal details, which will be used to tailor the camp experience to their needs.
-
-3. **Date** - This field is for entering the dates of the camp.
-
-4. **End Date** - This field is for entering the end date of the camp.
-
-5. **Booking Status** - This field allows participants to select the status of their booking.
-
-6. **Participant Status** - This field is for selecting the participant's status.
-
-7. **Participant Name** - This is for entering the name of the participant.
-
-8. **Email** - This field is for entering the participant's email address.
-
-9. **Participant Details** (note) - This section is for entering a list of participant details.
-
-</thinking>
-
 # Nature Conservation Camp Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from participants to ensure a smooth and enjoyable experience at the nature conservation camp.

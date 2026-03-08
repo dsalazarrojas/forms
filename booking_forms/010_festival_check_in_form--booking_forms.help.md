@@ -1,14 +1,3 @@
-<thinking>
-
-## Internal Reasoning Block
-The purpose of this form is to collect essential information from users to confirm their presence at a festival event. The form's primary goal is to ensure accurate event attendance tracking and to enable efficient communication with attendees. 
-
-This guide will walk you through each field's significance, providing clarity on what to expect and how to complete the form accurately. 
-
-Before proceeding, it's essential to review the form's fields and understand their relevance to the event. This form is designed for general attendees; please do not fill out this form if you are a staff member or volunteer.
-
-</thinking>
-
 # festival_check_in_form - Help Guide
 ## Purpose
 The festival_check_in_form is designed to collect essential information from festival attendees, enabling efficient event tracking and communication. This includes gathering their name, contact details, and event specifics.

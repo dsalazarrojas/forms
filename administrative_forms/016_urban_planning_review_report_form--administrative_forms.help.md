@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used for project managers or administrators to review and monitor projects within an organization or department. It could be a part of a regular check-in process or as part of a project lifecycle management system to track various project details such as project status, budget, and timeline. The form's purpose is to help project administrators keep track of multiple projects, and each project may have its unique characteristics that are documented in this form.
-
-This guide will help users fill out the form in a straightforward and clear manner, ensuring they have the necessary information to review and manage projects effectively.
-</thinking>
-
 # Urban Planning Review Report Form - Help Guide
 
 ## Purpose

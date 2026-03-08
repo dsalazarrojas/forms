@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "legislative-proposal-submission-form" is to collect information about a legislative proposal, its project details, and contact information for the submitter. This form is used for internal purposes within the organization and should only be submitted once for each proposal. Please ensure that you have all the required information before filling out the form, as incomplete submissions may cause delays in the review process.
 
 To complete this form, please follow these steps:

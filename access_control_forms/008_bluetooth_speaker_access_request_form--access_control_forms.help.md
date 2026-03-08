@@ -1,8 +1,3 @@
-<thinking>
-This form is used for requesting access to a Bluetooth speaker for events or meetings. It is designed to gather information about the request, the equipment needed, and the event details.
-The system checks for duplicate requests before submitting new forms, and the approval process is managed internally. Before filling out this form, please ensure that you have not already submitted a request for the same event or purpose. Please note that the form will only accept one submission per event/purpose.
-</thinking>
-
 # Bluetooth Speaker Access Request Form - Help Guide
 ## Purpose
 The Bluetooth Speaker Access Request Form is used to request access to a Bluetooth speaker for events or meetings.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request access to the Payroll Portal, a sensitive system that handles employee payroll information. Only authorized personnel should be granted access to this system to prevent unauthorized access and ensure data confidentiality. To prevent duplication, this form should only be submitted once for each employee and only by the authorized personnel who needs access. This form is used to track and approve access requests.
-</thinking>
-
 # Payroll Portal Access Request Form - Help Guide
 ## Purpose
 The Payroll Portal Access Request Form is used to request access to the Payroll Portal system. This system is highly sensitive and only authorized personnel should be granted access to ensure data confidentiality.

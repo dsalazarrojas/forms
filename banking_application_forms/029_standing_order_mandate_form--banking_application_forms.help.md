@@ -1,16 +1,3 @@
-<thinking>
-To determine the correct approach to creating the user-facing help guide for the "Standing Order Mandate Form", I'll review the provided YAML fields and consider the following:
-
-* The form is a part of a "banking application forms" category.
-* The form seems to be focused on defining a standing order mandate, which is a financial concept where a bank account holder authorizes automatic payments or transactions.
-* There is no clear indication that the form is specifically for a particular business use case, such as a specific bank or a particular type of account.
-* The form includes fields for account information, mandate details, and bank account holder information.
-* Most fields are optional, except for none, indicating that the form is likely not a required document for regular account management.
-
-Considering the above points, I will create a help guide that provides a clear and concise explanation of the form's purpose and how to complete it.
-
-</thinking>
-
 # Standing Order Mandate Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the fleet_maintenance_requisition_form, we need to break down the form's purpose, how to complete it, and provide explanations for each field. Given the YAML input, I will create a comprehensive guide for end-users.
-
-</thinking>
-
 # Fleet Maintenance Requisition Form - Help Guide
 ## Purpose
 The Fleet Maintenance Requisition Form is used to submit requests for vehicle maintenance services. This form collects information about the maintenance service requested, the vehicle involved, and relevant details such as estimated costs and due dates. The goal is to gather all necessary information for the maintenance process, ensuring efficient service delivery.

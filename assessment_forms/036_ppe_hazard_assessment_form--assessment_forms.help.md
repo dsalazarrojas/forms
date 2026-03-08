@@ -1,9 +1,3 @@
-<thinking>
-This form is a tool for conducting a Personal Protective Equipment (PPE) hazard assessment to identify potential risks and ensure a safe working environment. To use this form, follow the instructions below to ensure accurate and complete reporting.
-
-
-</thinking>
-
 # PPE Hazard Assessment Form - Help Guide
 
 ## Purpose

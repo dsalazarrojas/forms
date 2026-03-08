@@ -1,7 +1,3 @@
-<thinking>
-The Hostess Rewards Form is used by customers to claim rewards for purchasing books in bulk. To qualify for rewards, customers must submit a completed form with the required information. Please ensure you are completing the correct form for your specific needs.
-</thinking>
-
 # Hostess Rewards Form - Help Guide
 ## Purpose
 The Hostess Rewards Form is used to claim rewards for purchasing books in bulk. This form helps customers provide the necessary information to redeem their rewards.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Collaboration Appointment Form - Help Guide
 ## Purpose
 

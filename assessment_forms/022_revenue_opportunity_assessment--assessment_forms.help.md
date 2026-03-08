@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess revenue opportunities, and its purpose is to gather information about a specific revenue opportunity. This form is likely used by sales teams to document and track potential revenue opportunities. Before completing this form, ensure that you are not duplicating an existing opportunity.
-</thinking>
-
 # Revenue Opportunity Assessment - Help Guide
 ## Purpose
 The Revenue Opportunity Assessment form is used to capture information about a specific revenue opportunity.

@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of completing the "Dog Behavior Questionnaire" form. The form is designed to collect information about a dog's behavior and characteristics, which can be useful for animal shelters and rescue organizations to better understand and care for the dogs in their facilities.
-
-The form is not intended to be a comprehensive or scientifically-validated assessment tool, but rather a simple and practical way to collect basic information about a dog's behavior and history. By completing this form, users can help provide essential information about a dog's needs and habits, which can inform care and placement decisions.
-
-**Note: Please be aware that the form may not capture all relevant information about a dog's behavior and history. If you are concerned about a specific issue or characteristic of a dog, please provide additional comments or context in the "owner info" or "dog info" fields.**
-
-</thinking>
-
 # Dog Behavior Questionnaire - Help Guide
 ## Purpose
 The Dog Behavior Questionnaire is a simple form designed to collect information about a dog's behavior and characteristics. The form is intended to help animal shelters and rescue organizations better understand and care for the dogs in their facilities.

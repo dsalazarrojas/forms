@@ -1,11 +1,3 @@
-<thinking>
-To ensure that this form accurately captures the required information and effectively guides the user through the assessment process, the following internal reasoning checks should be performed:
-
-* The form's purpose is to assess the expertise and qualifications of a rigging supervisor, which includes evaluating their safety performance, certifications, skills, experience, and qualifications. This form should be used to gather data that can be used to evaluate and improve the rigging supervision processes and procedures.
-* To avoid duplication of effort, the assessment form should not be used to collect redundant or unnecessary information. Each field should be carefully designed to ensure that it collects unique and relevant data that can be used to inform decisions or improve performance.
-* The form should be designed with the end-user in mind, taking into account their needs, preferences, and cognitive abilities. The layout, language, and instructions should be clear, concise, and easy to follow.
-</thinking>
-
 # Rigging Supervisor Assessment - Help Guide
 ## Purpose
 The Rigging Supervisor Assessment form is designed to evaluate the expertise and qualifications of a rigging supervisor, capturing their safety performance, certifications, skills, experience, and other relevant information.

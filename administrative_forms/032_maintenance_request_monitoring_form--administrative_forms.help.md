@@ -1,8 +1,3 @@
-<thinking>
-This form is primarily used by maintenance personnel to monitor and track maintenance requests within a facility. It is essential to ensure that all maintenance activities are properly documented and that requests are accurately categorized to prevent potential errors or oversights. This form is designed to be simple and efficient, allowing maintenance personnel to quickly input relevant information and keep track of their work. Please review the following guidelines to ensure that you complete the form correctly and accurately. 
-
-</thinking>
-
 # Maintenance Request Monitoring Form - Help Guide
 ## Purpose
 The Maintenance Request Monitoring Form is used to track and monitor maintenance requests within a facility. This form provides a clear and concise way for maintenance personnel to document and categorize requests, ensuring that all necessary information is captured and that tasks are completed efficiently.

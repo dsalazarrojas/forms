@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive assessment tool for resource development, aiming to evaluate the effectiveness and efficiency of resources within a team or organization. The form gathers input on various aspects of resource management, including team lead responses, team and individual challenges, and resource adequacy. The form's purpose is to provide a structured and systematic approach to assessing resource development, ensuring that teams and individuals are well-equipped to tackle challenges and make informed decisions. This form is not affiliated with any form platform and is an original adaptation created using AI-driven metadata. It is released under CC BY 4.0, allowing users to freely use, modify, and even sell forms derived from it, provided they give credit.
-
-Please note that this form is a generic template and may not be specific to any organization or industry. If you have any questions or need further clarification, feel free to contact form@gic.mx.
-
-</thinking>
-
 # Resource Development Assessment - Help Guide
 ## Purpose
 The Resource Development Assessment form is designed to evaluate the effectiveness and efficiency of resources within a team or organization. It assesses the challenges faced by team and individual members, their responses to these challenges, and the adequacy of resources to address them.

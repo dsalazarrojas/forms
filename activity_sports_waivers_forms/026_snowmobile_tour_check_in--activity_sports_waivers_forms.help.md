@@ -1,13 +1,3 @@
-<thinking>
-  This form is a crucial tool for collecting participant information, emergency contact details, and medical waivers for snowmobile tours. 
-  Its primary purpose is to ensure that all participants provide the necessary information to the tour operators, so they can offer a safe and secure experience. 
-  Before proceeding, ensure that this form is only used for the intended purpose and not for any other snowmobile-related activities. 
-  To prevent duplication of information, please ensure that each participant fills out the form only once. 
-  If you need to revisit any information, kindly update the form accordingly. 
-  This form is not designed for general feedback or suggestions; it is a vital document for ensuring the well-being of participants during snowmobile tours. 
-  Lastly, please be aware that providing accurate information is essential for the tour operators to take necessary precautions and provide an enjoyable experience for all. 
-</thinking>
-
 # Snowmobile Tour Check In - Help Guide
 ## Purpose
 This Snowmobile Tour Check In form is designed to collect crucial information from snowmobile participants, including emergency contact details, medical information, and tour specifics.

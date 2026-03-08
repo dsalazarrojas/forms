@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Use Request Form - Help Guide
 ## Purpose
 The Facility Use Request Form is used to request use of a facility for a specific event or activity.

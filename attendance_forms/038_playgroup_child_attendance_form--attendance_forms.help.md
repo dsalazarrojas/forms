@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect attendance information from parents for their child at a playgroup. The purpose of the form is to ensure accurate and up-to-date information about each child's presence, drop-off, and pick-up times. This form will likely be used by parents or caregivers to report their child's attendance and provide necessary details for pick-up and communication. Before completing this form, please ensure that you have reviewed your child's information carefully and have all necessary contact details and signature available.
-</thinking>
-
 # Playgroup Child Attendance Form - Help Guide
 ## Purpose
 The Playgroup Child Attendance Form is used by parents or caregivers to report their child's attendance and provide necessary information for pick-up and communication.

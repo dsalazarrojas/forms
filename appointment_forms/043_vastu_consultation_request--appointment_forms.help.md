@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by Vastu agents to request a consultation with a client regarding a property. It is intended to be completed by the agent in order to schedule and coordinate the meeting with the client. Before filling out this form, please make sure that you are not duplicating a request for the same property. The form is not intended to be filled out multiple times for the same property.
-</thinking>
-
 # Vastu Consultation Request - Help Guide
 ## Purpose
 The Vastu Consultation Request form is used by Vastu agents to request a consultation with a client regarding a property. This form helps agents to schedule and coordinate meetings with clients, allowing for more efficient communication and better service.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for a Construction Project Management Excellence Award Nomination. The purpose of this form is to gather data from project managers and teams to recognize and celebrate their outstanding projects. The form is divided into sections that guide the user through the nomination process, asking for specific details about the project and the nominee's involvement.
-
-Before starting the nomination process, ensure that the project meets all the stated award eligibility criteria. This form is not intended to be a comprehensive evaluation of the project, but rather a showcase of exceptional work and achievements.
-
-The form includes sections for project details, nominee information, award category, and supporting evidence. The user is required to provide specific information, such as project location, project name, and nominee's years of experience. Additionally, they need to upload high-resolution project photos and confirm the eligibility rules.
-
-The form also captures the nominator's details, including their name, email, and professional relationship with the nominee. The submission date and acknowledgment of eligibility rules are also required fields.
-
-Ensure that the project meets all the stated award eligibility criteria before proceeding with the nomination. This form is designed to guide users through the nomination process and ensure that all necessary information is provided.</thinking>
-
 # Construction Project Management Excellence Award Nomination - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a Construction Project Management Excellence Award Nomination, which recognizes outstanding projects and project managers in the construction industry.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess a student's daily well-being, providing an opportunity for them to report on their emotional state, physical comfort, and habits. This form helps track and monitor the student's daily experiences, providing a baseline for future assessments and potential interventions. Please ensure that this form is not filled out multiple times, as each submission is a separate entry for the student's record.
-</thinking>
-
 # student_daily_wellness_assessment_form - Help Guide
 ## Purpose
 The student daily well-being assessment form is designed to gather information about a student's daily experiences, including their emotional state, physical comfort, and habits. This form helps track and monitor the student's well-being over time, enabling the identification of trends and patterns.

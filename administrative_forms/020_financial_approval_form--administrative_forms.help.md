@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Approval Form - Help Guide
 
 ## Purpose

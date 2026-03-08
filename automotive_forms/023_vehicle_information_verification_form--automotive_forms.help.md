@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block... verify that this form is used for verifying vehicle information and that it is not duplicating other forms. In this case, it's used for verifying vehicle information for various purposes such as insurance claims, vehicle sales, and rentals. It's not duplicating other forms as the fields are specific to vehicle-related activities. The purpose of this form is to gather essential details about a vehicle to ensure accurate and efficient processing of the associated transactions... </thinking>
-
 # Vehicle Information Verification Form - Help Guide
 ## Purpose
 This form is used to collect and verify information about a vehicle for various purposes such as insurance claims, vehicle sales, and rentals. It helps ensure accurate and efficient processing of the associated transactions.

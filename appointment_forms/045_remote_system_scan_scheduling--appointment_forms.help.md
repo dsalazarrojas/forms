@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for remote system scans, which can be used for various purposes such as troubleshooting, maintenance, or optimization. The form is divided into several sections to gather essential details about the user's contact information, scan request details, system information, and additional information. It's crucial to ensure that the user fills out the form accurately and thoroughly to provide the best possible assistance. To avoid duplication, please check if you've already filled out this form in the past. If you're unsure about any field, please refer to the field-by-field explanations below.
-</thinking>
-
 # Remote System Scan Scheduling - Help Guide
 ## Purpose
 This form collects information for remote system scans to assist with troubleshooting, maintenance, or optimization of systems. It's essential to fill out the form accurately to ensure efficient processing of your request.

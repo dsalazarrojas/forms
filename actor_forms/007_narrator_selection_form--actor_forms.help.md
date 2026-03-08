@@ -1,22 +1,3 @@
-<thinking>
-
-This form, "narrator_selection_form", is used to gather information about a narrator for a story or scriptwriting purpose. The form collects data on the narrator's name, age, ethnicity, gender, occupation, language, notes, contact details, and other descriptive features. This form is designed to be completed by end users who need to provide a detailed description of their character.
-
-To ensure that the form is completed correctly, please note that the following fields are required to be filled out:
-
-* Enter Narrator Ethnicity
-* Enter Narrator Gender
-* Enter Narrator Occupation
-* Enter Narrator Language
-* Enter Narrator Genre
-* Enter Narrator Nationality
-* Enter Narrator Employment
-* Enter Contact Country
-
-Please fill out each field carefully, as the information collected will be used to create a realistic and engaging story.
-
-</thinking>
-
 # narrator_selection_form - Help Guide
 ## Purpose
 This form is used to gather information about a narrator for a story or scriptwriting purpose.

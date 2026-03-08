@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended for employees to use when reporting incidents that have led to leave requests due to injury or illness. This form is required for all accidents that result in a work-related injury or illness. Please note that this form is a critical document for our organization's risk management and compliance purposes. It is essential to provide accurate and truthful information in this form to ensure the correct processing and handling of leave requests. Please fill out this form completely and accurately to the best of your ability.
-
-Before submitting this form, please review the information below for each field to ensure you understand what is required.
-
-</thinking>
-
 # Accident Investigation Leave Form - Help Guide
 ## Purpose
 The Accident Investigation Leave Form is a critical document used to report work-related accidents, injuries, or illnesses that result in leave requests. This form helps our organization's risk management and compliance teams track and manage leave requests efficiently.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a nomination form for an award, likely for outstanding achievement or service in the context of the Surf Life Saving New South Wales (SLSNSW) organization. The form is intended to provide a structured way for nominators to provide information about a nominee who they believe deserves to be recognized for their achievements.
-
-The form is divided into two main sections: Nomination Details and Nominator Information. The Nomination Details section collects information about the nominee, including their name, club or branch, primary role, and category for which they are being nominated. The Nominator Information section provides details about the person submitting the nomination, including their name, email address, and phone number.
-
-Before proceeding, it is essential to review the form carefully to ensure that the nominee meets the eligibility criteria and that the nomination is complete and accurate. Please follow the instructions below to complete the form correctly.
-
-</thinking>
-
 # 2019/20 SLSNSW Awards Of Excellence - Help Guide
 ## Purpose
 This guide is intended to assist you in completing the 2019/20 SLSNSW Awards Of Excellence nomination form. Please read through the guide carefully before starting to fill out the form.

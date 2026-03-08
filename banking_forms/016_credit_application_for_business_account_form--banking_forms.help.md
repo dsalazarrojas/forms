@@ -1,8 +1,3 @@
-<thinking>
-This form is used to process credit applications for business accounts. The business owner can select their entity type, input their credit limit, payment term, and other relevant information to create or manage their business account. This form is intended for business use and does not apply to personal credit applications. It does not duplicate any existing process as it is designed specifically for this particular use case.
-
-</thinking>
-
 # credit_application_for_business_account_form - Help Guide
 ## Purpose
 This form is used to create and manage business accounts for business credit applications.

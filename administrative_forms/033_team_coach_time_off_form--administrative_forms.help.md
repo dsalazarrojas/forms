@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Team Coach Time Off Form is to allow coaches to request time off from the team, providing necessary information for administrative purposes.
 
 To complete this form, follow these steps:

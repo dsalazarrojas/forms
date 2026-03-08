@@ -2,11 +2,6 @@
 ## Purpose
 This form is designed to help us get to know you and your family better so we can find the perfect match for you and your new furry friend. Please answer all questions honestly, and don't worry, we'll take care of the rest.
 
-<thinking>
-We need to ensure that you're a good match for the animal we'll be introducing you to. This form will help us understand your lifestyle, preferences, and capabilities as a pet owner. We'll use this information to select the perfect animal for you and your family.
-Please fill out this form carefully, and don't hesitate to ask if you have any questions or need help with any of the fields. We're here to help!
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, simply fill out each field with the requested information. If a field is not applicable to you, please select "Not Applicable" or "False" as needed. Don't worry if you're not sure about something, just let us know and we'll discuss it with you.

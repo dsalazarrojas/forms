@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess the knowledge of users about data compression, specifically focusing on lossless and lossy methods. The form includes 18 questions that cover the primary goal of lossless data compression, the differences between lossless and lossy compression, and their applications. The form is intended for educational purposes, and the questions are designed to be answered by users who have a basic understanding of data compression concepts.</thinking>
-
 # Data Compression Knowledge Quiz - Help Guide
 ## Purpose
 The form is designed to assess the knowledge of users about lossless and lossy data compression methods.

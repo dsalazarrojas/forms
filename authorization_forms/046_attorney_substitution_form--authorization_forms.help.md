@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Attorney Substitution Form", we must first acknowledge that this form is used for the substitution of attorneys in judicial proceedings. It's essential to confirm the form's purpose and relevance to the user's needs, avoiding duplication of effort and ensuring accurate completion.
-
-This form is designed to collect information about a case, including the case name, number, and type, as well as details about the current and new attorneys involved. The form also includes fields for the client's authorization, effective date of substitution, and additional notes. 
-
-The user should carefully review each field to ensure accurate and complete information is entered. Each field is crucial in ensuring a smooth and efficient process for the substitution of attorneys.
-
-</thinking>
-
 # Attorney Substitution Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the "Attorney Substitution Form" to ensure accurate and efficient submission.

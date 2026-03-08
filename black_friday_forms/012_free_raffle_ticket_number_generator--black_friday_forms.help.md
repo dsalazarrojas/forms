@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to generate free raffle tickets for a specific raffle event. The purpose of this form is to provide a quick and easy way to generate tickets for a raffle draw. 
-
-The form will ask for various details such as ticket number, draw date, draw time, winning tickets, raffle ID, total tickets, winning number, and other relevant information. 
-
-Before proceeding, please ensure that the form is not being submitted for duplicate or non-existent raffle events. 
-
-</thinking>
-
 # Free Raffle Ticket Number Generator - Help Guide
 ## Purpose
 The Free Raffle Ticket Number Generator form is designed to provide a quick and easy way to generate free raffle tickets for a specific raffle event.

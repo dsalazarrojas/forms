@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to aid users in completing the "Cultural Heritage Event Approval Application Form" correctly. Before proceeding, it's crucial to ensure the form's purpose is clear and its content is relevant to your needs. If you're unsure, please take a moment to review the form's metadata to confirm its intended use and relevance. This guide will walk you through the form's sections and fields, explaining what each field means and how to complete it accurately.
-
-</thinking>
-
 # Cultural Heritage Event Approval Application Form - Help Guide
 ## Purpose
 This form is designed to capture information for cultural heritage events, such as festivals, exhibitions, or performances. It is meant to aid in the approval process for these events, providing relevant details for organizers and attendees alike.

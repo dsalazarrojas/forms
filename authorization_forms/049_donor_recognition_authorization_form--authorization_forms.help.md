@@ -1,11 +1,3 @@
-<thinking>
-The form is used to collect information from donors for recognition and acknowledgment purposes. It's essential to ensure that the donor is aware of and consents to how their donation will be recognized and acknowledged. This form will help us understand the donor's preferences for recognition and acknowledgment, ensuring that we respect their wishes and provide them with the desired level of recognition. We will review each field to prevent duplicate or inconsistent information.
-
-This form has several fields, including donor recognition, contact information, consent to share, and acknowledgment preferences. The fields are designed to gather information on the donor's preferences for recognition and acknowledgment, including the type of recognition, frequency, and medium. Additionally, the form includes fields for consent to share and acknowledgment, allowing the donor to control how their information is shared.
-
-It's crucial to complete this form accurately, as the information collected will be used to personalize the recognition and acknowledgment process. If you're unsure about any field, please consult the donor directly or contact our team for clarification.
-</thinking>
-
 # Donor Recognition Authorization Form - Help Guide
 ## Purpose
 The Donor Recognition Authorization Form is used to collect information from donors about their preferences for recognition and acknowledgment of their donation.

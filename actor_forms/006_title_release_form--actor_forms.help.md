@@ -1,12 +1,3 @@
-<thinking>
-The "Title Release Form" is used for releasing vehicle titles, typically when a buyer is taking possession of a vehicle. This form collects information about the vehicle and the transfer process. 
-
-The form is likely used in a dealership or similar setting where the title needs to be released from the seller's name to the buyer's name. The form should not be used in other contexts without proper review and approval from a relevant authority.
-
-It is assumed that the form is filled out correctly in all fields before being submitted. 
-
-</thinking>
-
 # Title Release Form - Help Guide
 ## Purpose
 The "Title Release Form" is used for releasing vehicle titles from the seller's name to the buyer's name. This form is typically used in dealership settings for vehicle transfers.

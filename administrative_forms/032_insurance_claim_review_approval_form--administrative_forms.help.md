@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to review and process insurance claims in a structured and efficient manner. It is intended for use by authorized personnel to assess and approve or deny insurance claims, ensuring that all necessary information is gathered and verified before making a decision. This form is not intended for use by external parties or customers, and its completion is restricted to internal personnel with the necessary clearance and access.
-</thinking>
-
 # Insurance Claim Review Approval Form - Help Guide
 ## Purpose
 This form is used for reviewing and processing insurance claims. It gathers essential information for making informed decisions regarding claim approval or denial.

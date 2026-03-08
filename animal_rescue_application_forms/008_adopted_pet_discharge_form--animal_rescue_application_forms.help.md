@@ -1,11 +1,3 @@
-<thinking>
-
-To create an effective help guide for the Adopted Pet Discharge Form, I will need to understand the purpose and context of the form. This form appears to be designed for an animal rescue organization to collect information from adopters about their adopted pets. The purpose of the form is to ensure that the adopter has all necessary information about the pet's characteristics, care, and medical history, as well as their own contact information.
-
-Before proceeding, I will verify that the form is not duplicating any other forms or processes.
-
-</thinking>
-
 # Adopted Pet Discharge Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from adopters about their adopted pets. It will help our organization ensure that we have up-to-date information about the pet's characteristics, medical history, and care requirements, as well as the adopter's contact details.

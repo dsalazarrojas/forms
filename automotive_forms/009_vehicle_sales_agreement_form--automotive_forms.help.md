@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information from buyers and sellers involved in a vehicle sale, including buyer and seller contact information, vehicle details, and payment terms. It appears to be a basic form for recording vehicle sales data, likely for internal use in an automotive sales department. However, I will review the form fields and provide explanations for each field to ensure a complete and accurate help guide.</thinking>
-
 # vehicle-sales-agreement-form - Help Guide
 ## Purpose
 The vehicle-sales-agreement-form is a form used to collect information from buyers and sellers involved in a vehicle sale. This includes contact details, vehicle information, and payment terms. The form is likely used for internal record-keeping in an automotive sales department.

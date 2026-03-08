@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect feedback on a collection, which is an assessment of a collection's quality, usability, and overall performance. 
-The form is designed to help assessors evaluate and improve the collection's content, design, and overall user experience. 
-The form is typically filled out by a collection owner or moderator who wants to get feedback from assessors on a collection. 
-It is recommended that you only submit feedback for collections that you have interacted with in the past or are familiar with. 
-Before starting the assessment, make sure you have not already assessed this collection or have any conflicts of interest. 
-
-</thinking>
-
 # New Collection Feedback Assessment Form - Help Guide
 
 ## Purpose

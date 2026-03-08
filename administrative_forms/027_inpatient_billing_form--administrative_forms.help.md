@@ -1,9 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I will break down the purpose and completion instructions for the Inpatient Billing Form. The form is designed to capture essential information for billing purposes when patients are admitted to the hospital. The primary objective is to ensure accurate and efficient billing processing. When filling out this form, users should ensure they provide accurate information for each field. If any fields are incomplete or contain errors, it may lead to delays or discrepancies in the billing process.
-
-</thinking>
-
 # Inpatient Billing Form - Help Guide
 ## Purpose
 The Inpatient Billing Form is a document used for billing purposes when patients are admitted to the hospital. It helps to gather essential information for accurate and efficient billing processing.

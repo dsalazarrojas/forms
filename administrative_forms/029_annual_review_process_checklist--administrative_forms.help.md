@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to track the annual review process in an organization. The review process is a series of steps that managers and employees go through to evaluate performance, provide feedback, and make decisions about promotions, raises, or other personnel actions. The form helps to ensure that all necessary steps are taken in a timely manner, and that all stakeholders are informed and engaged throughout the process.
 
 This form is meant to be used by the team or department that oversees the annual review process, and is likely to be used by HR personnel or department managers. It is not intended for individual employee use.

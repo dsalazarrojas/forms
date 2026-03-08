@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Idle Resource Assessment" form, we'll need to understand the form's purpose, how to complete it, and what each field means. 
-
-The form's purpose is to collect information about idle resources, which could be assets or equipment that are not currently being used or are in a state of disuse. The goal is to assess the condition and status of these resources, including their maintenance history, next maintenance schedule, and follow-up requirements.
-
-The form appears to be designed for maintenance management, tracking the details of idle resources such as their asset type, status, condition, and maintenance history. It's likely used to identify which resources need attention, when they were last maintained, and when they should be next. The form might also be used to assign follow-up actions or tasks to specific personnel.
-
-Upon reviewing the YAML, it seems that the form is quite comprehensive, covering various aspects of resource management. Each section appears to have a specific focus, such as user input, location, and status. Some fields seem to be related to maintenance scheduling and follow-up, like the "follow_up_date" and "next_maintenance" fields. Other fields appear to pertain to resource condition and status, like "asset_condition" and "asset_status".
-
-</thinking>
-
 # Idle Resource Assessment - Help Guide
 ## Purpose
 The "Idle Resource Assessment" form is designed to collect information about idle resources, including their condition, status, and maintenance history. This form helps identify which resources need attention and schedule next maintenance actions.

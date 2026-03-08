@@ -1,7 +1,3 @@
-<thinking>
-The form "epic-bianca-form-2" is used to collect information about appointments or meetings. This form likely serves as a template for scheduling appointments within a specific organization or context. The fields included are a mix of text, date, time, and select fields that cover basic appointment information such as title, description, category, and participant details.
-</thinking>
-
 # epic-bianca-form-2 - Help Guide
 ## Purpose
 The epic-bianca-form-2 form is used for collecting information about appointments or meetings within an organization or context. This form likely helps schedule and organize appointments efficiently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Onboarding Approval Request Form - Help Guide
 
 ## Purpose

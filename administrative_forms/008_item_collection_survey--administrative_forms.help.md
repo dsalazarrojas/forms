@@ -1,11 +1,3 @@
-<thinking>
-This form is a simple survey for collecting information about items in your collection. It's designed to gather basic details about each item, such as its name, description, quantity, and price. The form has 5 fields: item name, item description, item quantity, item price, and (presumably) a main page for general information. This form is likely used for inventory management or cataloging purposes.
-
-Before starting, ensure this form is relevant to your task and not a duplicate effort. If you're unsure, refer to your task's requirements and context.
-
-The form is not a complex or conditional form, so it should be straightforward to complete. However, if you're not sure about a field or its purpose, use your best judgment or ask your supervisor/colleague for clarification.
-</thinking>
-
 # Item Collection Survey - Help Guide
 ## Purpose
 This form helps users collect and record information about items in your collection, including its name, description, quantity, and price.

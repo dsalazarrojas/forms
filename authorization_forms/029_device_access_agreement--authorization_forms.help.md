@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to manage access to company devices for employees. It allows employees to request access to a device, specifying the type of device and the level of access they need. The form is used to gather information about the employee and their device request, including any necessary agreements or reviews.
-
-The form consists of 8 fields, and is divided into two main sections: employee information and device access settings. Employees can choose from three options for device type: Laptop, Smartphone, or Tablet. They can select multiple access levels, including Read, Write, or Admin. The form also asks for a review date and time, and includes a signature field for the employee to sign off on the agreement.
-
-</thinking>
-
 # Device Access Agreement - Help Guide
 ## Purpose
 This form is used to request access to company devices for employees. It ensures that employees understand and agree to the terms and conditions of device usage.

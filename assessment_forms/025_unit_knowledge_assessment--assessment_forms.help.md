@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # unit_knowledge_assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the knowledge and confidence of units in a specific topic or subject area. It is designed to gather information about how well individuals understand and are confident about the unit.

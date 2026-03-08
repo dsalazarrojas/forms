@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health insurance premium authorization - Help Guide
 ## Purpose
 This form is used to collect information and authorize health insurance premium payments. It is an essential part of the process to ensure that premium payments are accurate and up-to-date. Please complete the form carefully to provide the required information.

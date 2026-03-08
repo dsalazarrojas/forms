@@ -1,8 +1,3 @@
-<thinking>
-Please ensure the form is used correctly to prevent duplication and ensure accuracy in assessments. This form is intended to collect information about employment status and job characteristics, such as job title, duration of employment, and compliance risk. It's crucial that users understand the purpose and requirements of the form to avoid any misinterpretation or omission of critical information. This guide is meant to be a comprehensive resource for users to reference and ensure they complete the form accurately and without duplication.
-
-The form will be used to assess pharmaceutical compliance employment status and characteristics, and it's essential to follow the instructions carefully to avoid any errors or inconsistencies. This guide will walk you through each field's purpose and requirements, helping users understand how to complete the form correctly.</thinking>
-
 # Pharmaceutical Compliance Employment Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your employment status and job characteristics related to pharmaceutical compliance. Please read this guide carefully to ensure you complete the form accurately and without duplication.

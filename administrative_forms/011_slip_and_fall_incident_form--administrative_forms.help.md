@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll review the form's purpose and fields to ensure I provide accurate and concise information for end users. The form appears to be for documenting incidents of slips, falls, or other accidents that may have occurred in a workplace or similar environment. It captures details about the incident, witnesses, and staff present. Some fields are optional, like witness video record and incident video, which suggests that these may be supplementary records or supporting evidence. I will focus on explaining the mandatory fields and provide guidance on how to complete the form.</thinking>
-
 # Slip And Fall Incident Form - Help Guide
 ## Purpose
 The Slip And Fall Incident Form is designed to collect information about incidents of slips, falls, or other accidents that have occurred in a workplace or similar environment. This form helps ensure that all relevant details are documented accurately and thoroughly.

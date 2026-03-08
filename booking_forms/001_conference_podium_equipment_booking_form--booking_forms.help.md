@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm that I understand the task, I'll follow the provided YAML structure to create a user-facing help guide for the Conference Podium Equipment Booking Form. The form is meant to collect information for booking conference podium equipment, and the fields are designed to gather relevant details to ensure smooth equipment setup and use. The guide will explain each field's purpose, provide clear instructions, and offer tips for users to complete the form accurately and efficiently.
-
-</thinking>
-
 # Conference Podium Equipment Booking Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The Development Opinion Assessment form is designed to gauge the impact and effectiveness of a proposed development project on stakeholders. This form is meant for residents and business owners who will be directly affected by the project. It should not be completed by individuals who are not directly invested in the project's success or failure. Ensure you have reviewed the project description and are familiar with its goals before proceeding.
-
-The form is intended to be a quick and concise assessment of the respondent's opinion on the development project. The responses should be honest and to the best of your ability.
-
-If you have any questions or concerns about the form or the project, please contact us at form@gic.mx.
-
-</thinking>
-
 # Development Opinion Assessment - Help Guide
 ## Purpose
 This form is designed to gather opinions from stakeholders about a proposed development project.

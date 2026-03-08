@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for auditing a store, likely by an authorized personnel. The form is meant to guide the auditor in checking for various items during the inspection. The purpose of this form is to ensure the store meets the expected standards and guidelines for cleanliness, safety, and operations. The form may be completed by the store manager or the auditor.
-</thinking>
-
 # store_audit_checklist_form - Help Guide
 ## Purpose
 This form is used for auditing a store, checking for cleanliness, safety, and operations compliance.

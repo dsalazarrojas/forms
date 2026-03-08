@@ -1,12 +1,3 @@
-<thinking>
-What is the purpose of this form? This form is designed to facilitate scenario planning and analysis, allowing users to create, edit, and manage scenarios for what-if situations. This form is likely used in a business or organizational context to help teams and individuals anticipate and prepare for potential risks, outcomes, or situations. It is intended to be a structured way of capturing and analyzing information about scenarios, their impacts, and the steps to mitigate them.
-
-Is this form relevant to your work? If you're working on planning and risk management, this form might be useful. If you're unsure, consider what aspects of your work involve anticipating and managing potential scenarios, risks, or outcomes.
-
-Has this form been covered before? Before proceeding, ensure you haven't completed this form recently or have access to an existing version with the same or similar information. If you do, you might want to review and update the existing version instead.
-
-</thinking>
-
 # what_if_scenario_analysis_form - Help Guide
 ## Purpose
 The what_if_scenario_analysis_form is a tool for users to create and manage scenarios for what-if situations.

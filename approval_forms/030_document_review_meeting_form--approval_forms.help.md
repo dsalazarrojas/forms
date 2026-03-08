@@ -1,5 +1,3 @@
-<thinking>Document Review Meeting Form is used to track and record important information related to document reviews. This form is intended for internal use within the organization and should only be completed by authorized individuals. Please ensure you are filling out this form with the correct information to avoid duplication and ensure accurate data collection. If you're unsure about any field or the purpose of this form, refer to this guide for clarification. This form is typically completed by individuals who have participated in a document review meeting.</thinking>
-
 # Document Review Meeting Form - Help Guide
 
 ## Purpose

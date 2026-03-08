@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rolled Plate Quality Assessment - Help Guide
 
 ## Purpose

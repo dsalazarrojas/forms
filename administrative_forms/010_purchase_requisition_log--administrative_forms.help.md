@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to log purchase requisitions submitted to the system, capturing key details such as the category of the purchase, the item description, quantity requested, cost, and the individuals involved in the approval process. Each field is designed to be easy to understand, ensuring accurate and consistent logging of purchase information.
-
-Before starting, please ensure that you are using this form for its intended purpose and not for duplicating existing records.
-
-</thinking>
-
 # purchase_requisition_log - Help Guide
 ## Purpose
 This form is used to log purchase requisitions submitted to the system, allowing for accurate tracking and record-keeping of purchase activities.

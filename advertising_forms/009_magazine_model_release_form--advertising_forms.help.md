@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to obtain a model's consent and release for the use of their image in advertising and media purposes. This form ensures that the model is aware of how their image will be used and gives them the opportunity to provide any necessary contact information and other details related to the photo shoot. This form is usually filled out by a model in conjunction with a photographer or other authorized representative.
-This form is typically required for all commercial photo shoots, so please ensure that you have reviewed and completed it accurately before proceeding with the shoot or distribution of the images.
-Please note that this form should not be used for non-commercial purposes or personal photo shoots.
-</thinking>
-
 # Magazine Model Release Form - Help Guide
 
 ## Purpose

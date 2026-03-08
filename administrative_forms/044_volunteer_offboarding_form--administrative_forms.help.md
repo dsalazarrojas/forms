@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by volunteers who are leaving or have left their volunteer roles. The purpose of the form is to gather information about the volunteer's experience, status, and any additional comments they may have. This data will be used to maintain accurate records and for administrative purposes. To ensure that the form is completed correctly, please review the fields carefully and answer each question truthfully. Note that this form is for informational purposes only and not for evaluation or review purposes. If you have already completed a similar form, please do not submit this form.
-</thinking>
-
 # Volunteer Offboarding Form - Help Guide
 ## Purpose
 This form is designed to gather information about your volunteer experience and status. Completing this form helps us maintain accurate records and understand your involvement with our organization.

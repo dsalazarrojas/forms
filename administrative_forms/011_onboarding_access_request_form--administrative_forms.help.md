@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Onboarding Access Request Form" used by internal employees to request access to the onboarding process. This form is not intended to be used by external users. Please ensure that this form is not used for any other purpose than internal employee onboarding.
-</thinking>
-
 # onboarding_access_request_form - Help Guide
 ## Purpose
 

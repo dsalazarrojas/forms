@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from patients for the purpose of granting access to the "Patient Starter Kit", a package containing information and resources for patients to take their care into their own hands. This form asks about the patient's preferences and requirements for receiving the kit, including whether or not they want to receive it, their preferred method and time of delivery, and their contact information.
-</thinking>
-
 # Patient Starter Kit Access Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from patients to grant them access to the "Patient Starter Kit", a package containing information and resources for patients to take their care into their own hands.

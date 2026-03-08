@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assess the user's knowledge in system modeling, and it is intended to be a self-assessment tool. To ensure that the user is not duplicating their effort, it is suggested to fill out the form only once. If you have already completed the form, please do not fill it out again. This form is meant to be a quick and easy assessment of your system modeling knowledge, and it will take approximately 5-10 minutes to complete.
-
-Please note that the form is designed to be completed by individuals with some level of system modeling experience. If you are new to system modeling, it may take more time to complete the form.
-
-The form has a total of 8 questions, which are split over two pages. The questions are designed to be concise and clear, and they are meant to elicit specific information about your system modeling knowledge.
-
-Each question is designed to be completed by a single response, except for questions 2 and 6, which have multiple options. You can select as many options as applicable for questions 2 and 6.
-
-The form also has a few specific fields that require special attention: question 8 is a numerical field that requires a specific numerical value, while question 7 is a date field that requires a date in the format 'yyyy-mm-dd'.
-
-Please ensure that you fill out the form accurately and completely, as this will give you a true representation of your system modeling knowledge.
-
-</thinking>
-
 # system_modeling_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge in system modeling. It is a self-assessment tool that should take approximately 5-10 minutes to complete.

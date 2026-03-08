@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information related to incidents that occur within a healthcare facility. It's intended for use by facility staff to report and document incidents that need to be investigated and addressed. The form should only be completed by authorized personnel who have direct involvement in the incident.
-
-To ensure that each incident is thoroughly documented and investigated, please complete all relevant fields accurately and thoroughly. This form is not intended to be a substitute for formal incident reports, but rather a supportive tool for gathering information and facilitating the investigation process.
-
-Before starting the form, please review the fields and ensure that all relevant information is provided. If you're unsure about any field, please consult with the relevant personnel or the facility's incident management team.
-
-</thinking>
-
 # Healthcare Facility Incident Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information related to incidents that occur within a healthcare facility. It's designed to support the investigation and documentation of incidents, ensuring that all relevant details are captured and addressed.

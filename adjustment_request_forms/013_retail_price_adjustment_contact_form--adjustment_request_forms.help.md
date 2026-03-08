@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to assist end-users in understanding the purpose and completion of the Retail Price Adjustment Contact Form. The form is used to collect information related to retail price adjustments, such as product information, reason for change, and supporting documents. The form is not intended for multiple submissions for the same product. Before filling out the form, ensure that you are submitting a new request and that the necessary supporting documents are attached.
-
-</thinking>
-
 # Retail Price Adjustment Contact Form - Help Guide
 ## Purpose
 This form is used to submit a retail price adjustment request for a specific product. Please provide accurate and detailed information to facilitate the processing of your request.

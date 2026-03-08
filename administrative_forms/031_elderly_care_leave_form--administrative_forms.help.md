@@ -1,12 +1,3 @@
-<thinking> 
-The Elderly Care Leave Form is a form used to request leave for employees who need to care for an elderly family member or friend. This form is used to inform the company of the employee's needs and ensure a smooth transition of work responsibilities during their absence. To complete this form, employees must ensure they are requesting leave for a valid reason and that their leave dates are accurate. 
-
-This form will be reviewed by the manager to ensure it is complete and accurate before approval. If an employee has already submitted a similar request, the manager will check to ensure that it is not a duplicate request.
-
-Before submitting the form, employees should ensure they have attached all necessary documents and have the required information ready.
-
-</thinking>
-
 # Elderly Care Leave Form - Help Guide
 ## Purpose
 The Elderly Care Leave Form is used to request leave for employees who need to care for an elderly family member or friend. 

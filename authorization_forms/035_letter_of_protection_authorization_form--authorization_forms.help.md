@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain authorization from patients for medical treatment or procedures. The purpose of this form is to document the patient's consent and provide information for the healthcare provider to perform the necessary treatment or procedure. This form should only be filled out by the patient or their authorized representative, and not by anyone else. It's a one-time authorization, and the patient can revoke it at any time if they wish. If the patient has filled out this form before, please do not fill it out again.
-
-</thinking>
-
 # Letter Of Protection Authorization Form - Help Guide
 ## Purpose
 The Letter Of Protection Authorization Form is used to obtain authorization from patients for medical treatment or procedures. This form ensures that the healthcare provider has the necessary consent and information to perform the treatment or procedure.

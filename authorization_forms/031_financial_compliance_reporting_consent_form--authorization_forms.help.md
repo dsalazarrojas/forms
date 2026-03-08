@@ -1,12 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and requirements for the "Financial Compliance Reporting Consent Form". This form is intended to gather information for financial compliance reporting. It is essential to complete this form accurately and truthfully.
-
-Before proceeding, please ensure you have all necessary permissions and approvals. If you have already completed this form, please do not submit it again.
-
-This guide will walk you through each field and explain its purpose and requirements.
-
-</thinking>
-
 # Financial Compliance Reporting Consent Form - Help Guide
 ## Purpose
 This form is used to gather information for financial compliance reporting. It is a critical document that requires accurate and truthful information.

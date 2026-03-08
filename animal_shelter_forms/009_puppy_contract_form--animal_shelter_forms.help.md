@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Puppy Contract Form - Help Guide
 
 ## Purpose

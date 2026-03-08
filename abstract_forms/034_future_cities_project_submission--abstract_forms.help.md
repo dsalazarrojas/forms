@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll start by internalizing the form's purpose and requirements to create a comprehensive user-facing help guide. This guide will be based on the provided YAML fields and will help end-users understand how to complete the form successfully.</thinking>
-
 # **future-cities-project-submission - Help Guide**
 
 ## **Purpose**

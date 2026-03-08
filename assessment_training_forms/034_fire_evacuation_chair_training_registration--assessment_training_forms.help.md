@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for fire evacuation chair training registration. The form is used to register participants for training sessions, which is a mandatory requirement for staff who need to be trained on evacuation procedures. The form is intended to be completed by the staff member who will be participating in the training, or by the staff member who will be attending the training on behalf of a colleague (e.g. in case the colleague is unable to attend the training).
-
-To prevent duplication of trainings and to track the training status of staff, this form also captures information about the staff member's department, shift, job title, and location.
-
-The form is designed to be filled out in advance of the training session, ideally before the participant attends the session.
-</thinking>
-
 # Fire Evacuation Chair Training Registration - Help Guide
 ## Purpose
 This form is used to register participants for fire evacuation chair training sessions. It is a mandatory requirement for staff to be trained on evacuation procedures.

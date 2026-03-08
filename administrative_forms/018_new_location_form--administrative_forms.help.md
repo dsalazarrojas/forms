@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about a new location, including the location's name, address, city, postal code, country, contact phone number (optional), email address (optional), and business or residential type. The form also captures the reason for expansion and relocation. This form is intended for use in an administrative context, and the information collected will be used to update location information. Please note that some fields are marked as optional, but providing accurate and complete information will improve the quality of the data collected.</thinking>
-
 # new_location_form - Help Guide
 ## Purpose
 This form is designed to collect information about a new location, including its name, address, contact details, and business or residential type.

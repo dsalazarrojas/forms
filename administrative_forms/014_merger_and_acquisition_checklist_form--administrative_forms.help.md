@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for internal use by administrative staff within an organization to gather essential information for the merger and acquisition process. It serves as a checklist to streamline and ensure that all necessary approvals and steps are taken before proceeding with a merger or acquisition. It's meant to be filled out by authorized personnel only, and not by the employees of the acquiring or target company.
-</thinking>
 # Merger And Acquisition Checklist Form - Help Guide
 ## Purpose
 This form is a checklist used by administrative staff to gather essential information and track approvals for merger and acquisition processes within the organization. It ensures that all necessary steps are taken before proceeding with a merger or acquisition.

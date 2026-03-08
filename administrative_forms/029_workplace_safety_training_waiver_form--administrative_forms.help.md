@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in a workplace safety training program, aiming to obtain their waiver and acknowledgments for safety procedures, emergency contact information, and any potential medical conditions that may impact their participation. The form is intended to be completed by participants before or after attending safety training sessions.
-
-To complete this form, the user should follow these steps:
-
-1.  On the first page, provide participant information. This includes any relevant details about the participant, which will be used for internal records.
-2.  On the second page, acknowledge the waiver and risks associated with participating in the safety training program. The participant should select the options that apply to them.
-3.  On the third page, provide information on any safety procedures that may impact their participation or safety while attending the training session.
-4.  On the fourth page, list the name and contact information for the person or emergency contact person or family member to be reached in the case of an emergency.
-5.  On the fifth page, note any medical conditions that may impact the participant's participation in the training session or pose any risk to themselves or others.
-6.  On the sixth page, the participant will indicate that they have read and understand the waiver form, and that they are signing it of their own free will.
-7.  On the seventh and final page, enter any additional employee information as required. 
-
-</thinking>
-
 # Workplace Safety Training Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants in a workplace safety training program, aiming to obtain their waiver and acknowledgments for safety procedures, emergency contact information, and any potential medical conditions that may impact their participation.

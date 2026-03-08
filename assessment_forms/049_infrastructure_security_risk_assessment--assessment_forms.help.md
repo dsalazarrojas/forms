@@ -1,9 +1,3 @@
-<thinking>... Internal Reasoning ...
-
-This form is used for assessing the security risks associated with an infrastructure site. It ensures that all relevant information is captured for the site and auditor during the risk assessment process. To fill this form, you should only use it for sites that do not already have a completed risk assessment. If you have already assessed the site, please do not fill out this form.
-
-</thinking>
-
 # Infrastructure Security Risk Assessment - Help Guide
 ## Purpose
 This form is used to identify and document the security risks associated with an infrastructure site. It captures relevant site information, risk factors, and remediation plans to ensure that the site's security status is accurately evaluated.

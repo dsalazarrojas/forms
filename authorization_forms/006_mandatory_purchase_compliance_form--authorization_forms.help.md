@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mandatory Purchase Compliance Form - Help Guide
 
 ## Purpose

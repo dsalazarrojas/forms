@@ -1,7 +1,3 @@
-<thinking>
-This form is used for assessing employee training plans and RPL (Recognition of Prior Learning) evidence. It is designed to collect information about an employee's training history, including their training plans, RPL status, and contact information. This form is meant to be filled out by employees who are seeking recognition or certification for their prior learning experiences. To ensure that the form is filled out correctly, please make sure to review each field carefully and only select options that apply to your situation. If you are unsure about any field, please contact your supervisor or HR representative for clarification. Note: The form is required, so please fill it out thoroughly.
-</thinking>
-
 # Training Plans And RPL Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess an employee's training plans and RPL evidence. It is used to evaluate an employee's training history, including their training status, and ensure that they have completed all required training hours.

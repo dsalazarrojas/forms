@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help conference room administrators manage equipment requisitions for events and meetings. The form collects information from the requestor about the required equipment, event details, and contact information. The goal is to ensure that the correct equipment is available at the correct time and location, and that the necessary arrangements are made for setup and delivery. It's essential to carefully complete this form to ensure a smooth and successful conference or meeting.
-</thinking>
-
 # Conference Room Equipment Requisition Form - Help Guide
 ## Purpose
 This form is used to request and manage conference room equipment for events and meetings. It's a one-stop-shop to submit your equipment needs and coordinate logistics.

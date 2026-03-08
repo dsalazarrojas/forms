@@ -1,11 +1,3 @@
-<thinking>... (Internal reasoning block to check for form purpose and non-duplication)
-
-This form appears to be used for customers to provide recommendations for a Customer Service Specialist position. The form likely aims to capture details about the individual being recommended, the reason for the recommendation, and any supporting information or comments. The "Submit" option at the end of the form suggests that it's intended for customers to submit their feedback or approval for the recommendation.
-
-Please ensure this form is not being used for other purposes or for duplicating existing processes. For instance, if a similar form already exists within the organization, this new form may not be necessary. If there's no similar form, this one seems to be a useful tool for capturing customer feedback.
-
-</thinking>
-
 # Customer Service Specialist Recommendation Form - Help Guide
 ## Purpose
 

@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to provide a reference for important dates and events in an administrative context. This form should be used when there are multiple dates and events that require attention, such as birthdays, anniversaries, holidays, and other types of events. It's essential to fill out this form correctly to ensure accuracy and consistency in recording these dates and events.
-
-When filling out this form, please make sure to select all required fields, as they are marked with an asterisk (\*). Required fields are:
-
-* Event type: This field is used to select the type of event or date being recorded.
-* Dates and events: This field should be filled with a list of dates and events, such as birthdays, anniversaries, or holidays.
-* Date 1 and Date 2: These fields should be filled with specific dates in the format of MM/DD/YYYY.
-* Time 1 and Time 2: These fields should be filled with the corresponding time in the 24-hour format (HH:MM).
-* Email and Phone: These fields are not required but can be used for additional contact information.
-* Note: This field can be used to provide a brief description or note about the date or event.
-
-Please make sure to fill out all the required fields correctly and accurately. This form is meant to be a reference for important dates and events, so make sure to be as precise as possible.
-</thinking>
-
 # Important Dates Reference Form - Help Guide
 ## Purpose
 This form is used to record and reference important dates and events.

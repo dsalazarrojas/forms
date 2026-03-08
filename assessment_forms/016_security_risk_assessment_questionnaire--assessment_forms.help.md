@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and document information about security risks and mitigation plans for a specific process or project. It will help the users to identify, analyze, and evaluate potential security risks and their corresponding mitigation plans. This form will help in ensuring that all relevant security risks are identified and documented and that plans are in place to mitigate them. 
-</thinking>
-
 # Security Risk Assessment Questionnaire - Help Guide
 
 ## Purpose

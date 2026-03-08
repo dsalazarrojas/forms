@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients who are due for a COVID-19 booster vaccine. The purpose of this form is to gather essential details about the patient's medical history, preferences, and circumstances, allowing healthcare providers to offer personalized and efficient care. The form is divided into several sections that cover various aspects of the patient's situation, including their personal and contact information, medical history, vaccination details, appointment preferences, and other relevant factors.
-
-Before filling out the form, please ensure that you have all the necessary information readily available. You can save your progress at any time by clicking on the "Save Progress" button, which will allow you to return to the form later. Once you have filled out all the sections, review your answers carefully and submit the form.
-
-If you are unable to complete the form or have any issues while filling it out, you may contact our support team for assistance.
-
-</thinking>
-
 # COVID 19 Booster Vaccine Appointment Form - Help Guide
 ## Purpose
 

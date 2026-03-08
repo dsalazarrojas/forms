@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Coach Appointment Authorization Form, we need to consider the following factors:
-* The form's purpose is to gather information from clients about their coaching preferences and authorization for services.
-* Clients will need to provide personal information such as their name, email, phone number, and date of birth.
-* They will also need to specify their coaching preferences, including coaching service type, appointment date and time, session format, session duration, and preferred communication method.
-* The form will ask about their previous coaching experience, any medical conditions, and medications they are taking.
-* Clients will need to authorize coaching services, agree to the privacy policy, understand the cancellation policy, and authorize payment for services.
-* Finally, they will need to specify how they would like to be reminded about appointments and who to contact in case of an emergency.
-* The form's design should make it clear and easy to navigate.
-* Each field should have a clear and concise label and explanation.
-* The form should not duplicate any information already available in the client's profile.
-* The form's content should be reviewed for relevance and updated regularly to reflect any changes in the coaching services offered.
-</thinking>
-
 # Coach Appointment Authorization Form - Help Guide
 ## Purpose
 The Coach Appointment Authorization Form is a necessary document for clients to provide information about their coaching preferences, authorization for services, and agreement to the coaching business's policies. This form ensures that you, as a client, understand and agree to the terms and conditions of our coaching services.

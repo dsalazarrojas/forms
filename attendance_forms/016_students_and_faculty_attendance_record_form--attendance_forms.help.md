@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Students And Faculty Attendance Record Form - Help Guide
 ## Purpose
 The Students And Faculty Attendance Record Form is used to track student and faculty attendance. This form helps administrators and other authorized users record and maintain accurate attendance data for students and faculty members. The form is typically used in educational settings where attendance is a crucial aspect of student and faculty monitoring.

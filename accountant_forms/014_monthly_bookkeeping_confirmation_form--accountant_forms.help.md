@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, you are asking me to create a user-facing help guide for an accountant form with the provided YAML structure. The form has 25 fields, and I will create a concise and practical guide explaining the purpose of the form, how to complete it, and a field-by-field explanation of each field.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to gather information for accountants and other financial professionals to record and track various tasks, appointments, and follow-ups. It is essential to provide accurate and detailed information to ensure efficient task management and maintain clear communication.

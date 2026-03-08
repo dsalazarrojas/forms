@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conference Agenda Revision Request Form - Help Guide
 
 ## Purpose

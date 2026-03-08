@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from an artist or agency representative to schedule an update session for an actor's profile. This form is meant to be completed by the artist or their representative, and the information gathered will be used to schedule a meeting with the desired updates. It is essential to ensure that the artist has the necessary details to update their profile accurately and efficiently. Before proceeding, please confirm that this form is relevant and not a duplicate request. If you are not the intended recipient of this form, please do not complete it, as it may lead to confusion or unnecessary work for our team. 
-</thinking>
-
 # Actor Profile Update Session Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from an artist or agency representative to schedule an update session for an actor's profile. The form will help us gather the necessary details to ensure an efficient and accurate update process.

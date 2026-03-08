@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to be used for submissions to the Flotilla Derby Awards, a prestigious award that recognizes excellence in a specific industry or category. The form is likely used by individuals or organizations to nominate themselves or others for an award. The form may be used by award committees to review and evaluate submissions. 
-
-The form's fields seem to be a mix of general information and specific requirements for the award, including contact information and submission terms. The purpose of this form is to help users submit their entries for the Flotilla Derby Awards. 
-
-It's worth noting that the lack of required fields suggests that the form may be used for optional submissions or for gathering additional information for internal review. However, a more robust form design would ideally have a more clear and structured approach to gathering information.
-
-</thinking>
-
 # Flotilla Derby Awards Submission - Help Guide
 ## Purpose
 The Flotilla Derby Awards Submission form is designed to collect information for submissions to the Flotilla Derby Awards. This form is used to gather details about the submission, including the award entry, nomination, supporting documentation, and other relevant information.

@@ -1,5 +1,3 @@
-<thinking>Fire safety monitoring is a critical aspect of ensuring that buildings and facilities are safe for occupants. This form is used to monitor fire safety measures, such as regular inspections, equipment maintenance, and training. It's essential to complete this form accurately and thoroughly to maintain compliance with regulatory requirements and reduce the risk of fire-related incidents. This form should only be completed by individuals with knowledge of fire safety procedures and protocols. If you're unsure about any aspect of this form, please consult with a fire safety expert or supervisor before submitting it.</thinking>
-
 # Fire Safety Monitoring Form - Help Guide
 ## Purpose
 This form is used to monitor and record fire safety measures in your building or facility. It helps ensure that all necessary precautions are taken to prevent and respond to fires, and that regulatory requirements are met.

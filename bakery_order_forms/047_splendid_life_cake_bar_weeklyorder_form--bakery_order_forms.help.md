@@ -1,14 +1,3 @@
-<thinking>
-This form is for customers to place a weekly order at a bakery. It captures essential information such as delivery time, customer contact details, order preferences (cake type, bakery store, cake size, delivery address), and any special instructions or order notes. It's likely used for customers to place orders for custom cakes for delivery, ensuring the bakery has all necessary information to fulfill the order.
-
-The form likely serves as an internal tool for the bakery staff to process orders efficiently. The purpose of this form is to ensure all necessary information is captured accurately, reducing errors and ensuring a smooth delivery process.
-
-Before completing this form, please ensure you have all the required information ready. This form is designed to be completed by customers or bakery staff members, so it's essential to have the necessary information at hand.
-
-This form consists of 13 fields, each with specific requirements and explanations. Please take a moment to review each field carefully to ensure accurate completion.
-
-</thinking>
-
 # splendid_life_cake_bar_weeklyorder_form - Help Guide
 ## Purpose
 This form is for customers to place a weekly order at a bakery, providing essential information to ensure accurate order processing and smooth delivery.

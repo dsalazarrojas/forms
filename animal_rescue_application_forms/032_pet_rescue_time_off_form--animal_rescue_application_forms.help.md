@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Pet Rescue Time Off Form" efficiently and accurately. The form is designed to allow staff members to request time off for pet rescue activities. This form is not intended for other purposes, such as scheduling work or requesting personal time off. Please ensure that you are filling out this form for the correct reason. 
-</thinking>
-
 # Pet Rescue Time Off Form - Help Guide
 ## Purpose
 The Pet Rescue Time Off Form is a form used by staff members to request time off for pet rescue activities. This form allows staff to provide essential information about their time off request, including the staff member requesting time off, the start and end dates of the time off, and the reason for the request.

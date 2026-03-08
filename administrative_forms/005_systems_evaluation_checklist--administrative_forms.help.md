@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Systems Evaluation Checklist - Help Guide
 ## Purpose
 The Systems Evaluation Checklist is a form designed to collect information about the evaluation of systems. It is intended to gather feedback and scores from various stakeholders, including project managers and IT teams, about the performance and quality of systems. This form is used to assess the systems' strengths and weaknesses, providing a comprehensive overview for decision-making and improvement purposes.

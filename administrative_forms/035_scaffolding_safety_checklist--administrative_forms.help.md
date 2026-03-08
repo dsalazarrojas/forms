@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the safety of scaffolding in a work site or construction project. It's meant to be completed by workers or supervisors to ensure that the scaffolding is safe and compliant with regulations. The form is divided into multiple pages, each addressing a different aspect of scaffolding safety. The pages cover safety concerns, hours worked, safety training, safety concerns description, inspection, height safety, hours worked this month, reporting safety concerns, safety orientation, and equipment maintenance.
-</thinking>
-
 # scaffolding_safety_checklist - Help Guide
 ## Purpose
 The scaffolding safety checklist is a form designed to evaluate the safety of scaffolding in a work site or construction project. It's a tool for workers or supervisors to ensure that the scaffolding is safe and compliant with regulations.

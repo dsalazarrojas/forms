@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Workstation Cleaning Checklist" form, used for tracking cleaning tasks and tasks completion on workstations. It is intended for users to report their cleaning activities and provide comments for future reference. The form is not required for any specific task or project, so users can submit it voluntarily to improve their cleaning practices. To ensure accurate and helpful responses, please fill out the form carefully and provide clear comments. If you are unsure about any field, please refer to this guide for clarification. 
-</thinking>
-
 # Workstation Cleaning Checklist - Help Guide
 
 ## Purpose

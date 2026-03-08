@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for the purpose of planning appointments with clients or clients' representatives. The form fields are designed to be filled out by the individual or representative, and the information will be used to coordinate and schedule appointments. Please note that this form is not intended for emergency situations or high-pressure sales pitches. This form should only be used for routine, planned appointments. If you are not sure if you should use this form, please consult with a supervisor or team lead.
-</thinking>
-
 # Inheritance Planning Appointment Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Surgery Recovery Assessment - Help Guide
 ## Purpose
 The Surgery Recovery Assessment form is used to track a patient's progress and condition after surgery. This form helps healthcare professionals to gather essential information about the patient's recovery, update their status, and schedule follow-up appointments. The data collected through this form will aid in providing personalized care and ensuring optimal recovery outcomes.

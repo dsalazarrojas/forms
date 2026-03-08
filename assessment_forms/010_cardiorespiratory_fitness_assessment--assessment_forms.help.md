@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cardiorespiratory Fitness Assessment - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess an individual's audiovisual culture, gathering information on demographic characteristics, viewing habits, and preferences. It's essential to ensure that you're completing the form accurately and honestly to provide valuable insights. Please note that some fields are required, and you must answer all of them to submit the form. If you're unsure about any field, please refer to the explanations below.</thinking>
-
 # Audiovisual Culture Assessment - Help Guide
 ## Purpose
 The Audiovisual Culture Assessment form aims to gather information about your audiovisual culture, including demographic characteristics, viewing habits, and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess the user's knowledge of receptor biology in the fields of first-name, last-name, email, phone, and receptor-biology-knowledge. This form aims to collect basic user information and assess their knowledge on receptor biology. To avoid duplication, the form is only accessible to users who have not already taken the assessment.
-</thinking>
-
 # Receptor Biology Knowledge Quiz - Help Guide
 ## Purpose
 This form is a knowledge quiz for assessing your understanding of receptor biology. It is divided into several sections where you will be asked to provide your basic information and answer questions related to receptor biology.

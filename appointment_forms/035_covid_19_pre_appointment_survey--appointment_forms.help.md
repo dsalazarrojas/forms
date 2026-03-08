@@ -2,10 +2,6 @@
 
 ## Purpose
 
-<thinking>
-This form is used to gather information about a patient's medical history, symptoms, and other relevant details prior to an appointment. The goal is to collect data that will help healthcare professionals assess the patient's condition and make informed decisions about their care.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, please follow these steps:

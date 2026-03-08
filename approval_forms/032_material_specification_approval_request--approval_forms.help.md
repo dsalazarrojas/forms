@@ -1,11 +1,3 @@
-<thinking>
-This block is meant to help users understand the purpose and process of the form, while also checking for internal consistency and avoiding duplication of effort. The form is designed to collect material specification approval requests from customers, which is a critical part of the business process. This form is meant to be used by customers to submit their requests, and by approvers to review and approve or decline the requests. 
-
-The form is divided into sections that gather various information about the material specification, including the customer's name, email, and phone number. The form also collects the material description, type, and file information. 
-
-Each field has been carefully designed to provide approvers with the necessary information to make an informed decision. The form is meant to be completed by customers and reviewed by approvers, ensuring a seamless and efficient approval process. 
-</thinking>
-
 # Material Specification Approval Request - Help Guide
 ## Purpose
 The Material Specification Approval Request form is used by customers to submit their material specification requests to the approver for approval. The form collects necessary information about the customer and the material specification, allowing the approver to make an informed decision.

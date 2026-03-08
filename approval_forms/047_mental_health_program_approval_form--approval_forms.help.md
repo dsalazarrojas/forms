@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the approval process of mental health programs. To ensure that the approval process is efficient and accurate, please fill out this form thoroughly and accurately. Before proceeding, check that the information you're about to enter doesn't already exist in the system. 
-
-</thinking>
-
 # Mental Health Program Approval Form - Help Guide
 ## Purpose
 The Mental Health Program Approval Form is used to collect information necessary for the approval process of mental health programs. This form serves as a central location for collecting all relevant details related to a mental health program, including its status, approval date, and other supporting information.

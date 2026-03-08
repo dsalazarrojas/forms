@@ -1,5 +1,3 @@
-<thinking>This form is used for authorization purposes, such as checking cardholder information, verifying credit card details, or other similar use cases. To the best of my knowledge, there are no other forms in this category with the same purpose as this one, so it's unlikely that this form is being duplicated.</thinking>
-
 # credit_card_authorization_form - Help Guide
 ## Purpose
 This form is used to collect and verify credit card information for authorization purposes. It collects information such as first name, last name, credit card number, card holder name, expiration date, amount, authorization type, and notes.

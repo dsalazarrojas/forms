@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to collect financial information about a company's income statement, specifically for the calculation of revenue, cost of goods sold, gross profit, operating income, and other financial metrics. This form is likely used by accountants or financial analysts to track and analyze a company's financial performance. 
-
-The form is divided into different sections, each representing a different aspect of the income statement. 
-
-This form does not appear to be a part of a larger form suite, and each page seems to focus on a single aspect of the financial information.
-
-The form fields are mostly numerical, which suggests that the form is focused on numerical data entry and calculation.
-
-The form does not appear to be using any specific business logic that would require advanced domain knowledge, making it more suitable for general financial data entry and calculation.
-
-The form fields seem to be self-explanatory, and the field labels are clear and concise.
-
-It is likely that this form is used for general financial reporting and analysis, and not for complex financial planning or forecasting.
-</thinking>
-
 # income_statement_form - Help Guide
 ## Purpose
 The income statement form is designed to collect financial data for calculation and analysis.

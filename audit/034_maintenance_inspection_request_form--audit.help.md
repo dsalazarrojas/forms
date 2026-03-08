@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Maintenance Inspection Request Form - Help Guide
 ## Purpose
 The Maintenance Inspection Request Form is used to request maintenance inspections on tanks, pumps, and other equipment. This form helps maintenance personnel to gather necessary information for efficient and effective maintenance.

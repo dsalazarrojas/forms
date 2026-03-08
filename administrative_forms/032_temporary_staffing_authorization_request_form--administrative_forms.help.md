@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Temporary Staffing Authorization Request Form - Help Guide
 
 ## Purpose

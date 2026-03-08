@@ -1,8 +1,3 @@
-<thinking>
-This form is used to evaluate the training provided to participants. It is meant for trainers and assessors to give feedback on the training program.
-The form should only be used for this specific use case. It is not intended to be used in other contexts.
-</thinking>
-
 # Training Assessment Form - Help Guide
 ## Purpose
 This form is used to collect feedback on the training provided to participants. It is designed for trainers and assessors to give ratings and comments on the effectiveness of the training program.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Perfect Attendance Form - Help Guide
 ## Purpose
 The Perfect Attendance Form is designed to track attendance for events or activities where participants are required to sign in and sign out. This form is meant to be filled out by attendees to verify their presence during the event.

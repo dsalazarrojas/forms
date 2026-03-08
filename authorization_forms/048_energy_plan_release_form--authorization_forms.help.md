@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information for energy plan releases, allowing customers to request and track the status of their energy plans. The form includes fields for customer contact information, request details, and approval tracking. The purpose of this form is to facilitate communication and streamline the process of releasing energy plans between customers and the energy company. This form is likely used by energy companies to manage customer requests and approvals, ensuring that customers receive accurate and timely information about their energy plans.
-
-</thinking>
-
 # Energy Plan Release Form - Help Guide
 ## Purpose
 This form is used to collect information for energy plan releases, enabling customers to request and track the status of their energy plans.

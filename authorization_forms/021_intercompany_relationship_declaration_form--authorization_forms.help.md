@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by individuals to declare an intercompany relationship between two companies. This means it's a declaration form for companies that are related or have some sort of connection. The form will ask questions about the type of company relationship, the status of the relationship, and other relevant details. This form is used to ensure that all related companies have a proper declaration of their relationship, reducing potential risks and ensuring compliance. This is not a form for declaring conflicts of interest, those should be declared in a separate form.
-
-</thinking>
-
 # Intercompany Relationship Declaration Form - Help Guide
 ## Purpose
 

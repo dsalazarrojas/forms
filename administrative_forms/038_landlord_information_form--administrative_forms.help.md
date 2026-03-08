@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from landlords, which is essential for administrative purposes. It's crucial to ensure that the form is completed accurately and thoroughly, as the information collected will be used to verify the identity and status of the landlord. To avoid duplication, please note that this form should only be filled out once by the landlord, and any subsequent submissions should be ignored. This form is designed to be completed by the landlord themselves, and it's recommended that they fill it out in a quiet, distraction-free environment to minimize errors. If you're unsure about any field, please refer to this help guide for clarification.
-</thinking>
-
 # Landlord Information Form - Help Guide
 ## Purpose
 The Landlord Information Form is designed to collect essential information from landlords for administrative purposes. This form ensures that the landlord's identity and status are accurately verified, which is vital for efficient and secure communication and decision-making processes.

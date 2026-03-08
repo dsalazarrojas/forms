@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose and context of this form. This form is designed to collect and record attendance information for patients in medical practices. It's used to track the attendance status of patients for scheduled appointments. The form likely serves as a tool for healthcare providers to monitor patient attendance and identify any issues or patterns in attendance.</thinking>
-
 # Covid 19 Attendance Record Form - Help Guide
 ## Purpose
 This form is designed to collect and record attendance information for patients in medical practices. It helps healthcare providers monitor patient attendance and identify any issues or patterns.

@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's fitness goals and training expectations. It's a straightforward assessment form that helps trainers or instructors understand what their clients want to achieve through training and what they can expect from the training program. This form is likely to be used by fitness professionals or trainers to gauge the client's fitness level and design a tailored training plan.
-
-The form has a simple layout with seven fields:
-
-*   "Client Info" is a text box where clients can provide their personal details.
-*   "Training Goals" is a multiple-choice select input that allows clients to select one or more goals they want to achieve through training.
-*   "Training Expectations" is a text box where clients can describe their expectations from the training program.
-*   "Client Data" is a text box where clients can input their personal data.
-*   "Training Program" is a text box where clients can provide information about the specific program they are interested in.
-*   "Assessment Date" is a date input that collects the date of the assessment.
-*   "Assessment Time" is a time input that collects the time of the assessment.
-
-To fill out this form, the client simply needs to select the relevant options and input their details in the text boxes provided. The assessment date and time fields should be filled out using standard date and time format respectively.
-
-</thinking>
-
 # Functional Strength Training Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's fitness goals and training expectations.

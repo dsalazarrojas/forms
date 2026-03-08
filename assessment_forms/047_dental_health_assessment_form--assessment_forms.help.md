@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide explains how to complete the dental health assessment form, a tool used to gather information about a patient's dental history, medical conditions, and oral health. The form is designed to help healthcare professionals assess a patient's overall health and provide recommendations for treatment.
 
 ### dental_health_assessment_form - Help Guide

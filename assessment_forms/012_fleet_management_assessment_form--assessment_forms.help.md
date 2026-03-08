@@ -1,7 +1,3 @@
-<thinking>
-This form is a Fleet Management Assessment Form, used to assess the status of a fleet of vehicles and evaluate their performance, maintenance, and overall condition. Its purpose is to provide a structured way to collect relevant data about the fleet, which can be used by fleet managers to make informed decisions about fleet maintenance, replacement, and resource allocation. This form is designed to be completed by fleet managers or other authorized personnel, and its fields are intended to cover various aspects of fleet management, including vehicle performance, maintenance status, and driver efficiency. It is essential to complete this form accurately and thoroughly to ensure that the data collected is reliable and useful for decision-making purposes.
-</thinking>
-
 # fleet_management_assessment_form - Help Guide
 ## Purpose
 The Fleet Management Assessment Form is a tool used by fleet managers to assess the status of a fleet of vehicles and evaluate their performance, maintenance, and overall condition.

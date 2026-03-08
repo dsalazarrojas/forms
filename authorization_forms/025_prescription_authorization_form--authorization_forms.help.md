@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be used in a healthcare setting to obtain authorized person information and signature for prescription medication pickup. It's likely used in a pharmacy or clinic setting. This form should only be used for prescription medication pickup authorization, not for other purposes. To avoid confusion, make sure to only use this form for its intended purpose. Please do not use this form for other purposes, such as patient registration or appointment scheduling.</thinking>
-
 # prescription_authorization_form - Help Guide
 ## Purpose
 The Prescription Authorization Form is used to obtain authorized person information and signature for prescription medication pickup in a healthcare setting.

@@ -1,7 +1,3 @@
-<thinking>
-The disbursement correction form is used to correct errors in disbursement amounts. This form is typically used when an incorrect disbursement amount is discovered, and the user needs to provide a revised amount for processing. Before filling out this form, please confirm that you have the correct information and that the corrections are not redundant. Ensure that the corrections are necessary and accurate to avoid any discrepancies in the account records.
-</thinking>
-
 # Disbursement Correction Form - Help Guide
 
 ## Purpose

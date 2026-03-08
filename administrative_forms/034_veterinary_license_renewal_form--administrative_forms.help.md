@@ -1,7 +1,3 @@
-<thinking>
-This form is for veterinarians to renew their veterinary licenses. It is intended to be completed by veterinarians and their staff. It is likely to be used by those in the veterinary profession who need to renew their licenses. This form is not intended for public consumption or for individuals who do not require veterinary licensing.
-</thinking>
-
 # Veterinary License Renewal Form - Help Guide
 ## Purpose
 This form is used by veterinarians to renew their licenses. It requires submission of relevant information such as license numbers, expiration dates, and contact details.

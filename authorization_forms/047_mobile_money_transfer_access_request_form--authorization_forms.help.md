@@ -1,9 +1,3 @@
-<thinking>
-
-To create a Mobile Money Transfer Access Request Form, we need to determine if this form is being filled out to request access to a mobile money transfer service or if it's being filled out to request changes to an existing account. We should verify that all required fields are completed before proceeding. If this form is being filled out for changes to an existing account, we should ensure that all current account details are updated accordingly. This form should not be used to request access to multiple accounts; if you need access to multiple accounts, please fill out a separate form for each account.
-
-</thinking>
-
 # Mobile Money Transfer Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to the mobile money transfer service for a specific account. This includes providing account details, branch information, and contact information for the account manager.

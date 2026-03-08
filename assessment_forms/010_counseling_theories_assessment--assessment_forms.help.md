@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the respondent's level of education and their preferences regarding various counseling theories. This guide will help users understand the purpose of the form, how to complete it, and what each field represents. Before proceeding, it's essential to note that this form is an original adaptation of a public survey, and its completion is intended to provide insights into counseling theories. Please ensure that you understand the form's purpose and have relevant information to provide accurate answers.
-
-</thinking>
-
 # Counseling Theories Assessment - Help Guide
 
 ## Purpose

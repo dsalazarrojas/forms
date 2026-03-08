@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used by customers to report a request for inventory management services, providing information such as the type of inventory, size, location, and status. The form may be used by internal teams to track and categorize service intakes, ensuring that the right services are assigned to the correct customers. This form could be part of a larger system used for work order management or asset tracking. It's essential to check for duplicate requests and ensure the form is completed for the correct purpose.
-</thinking>
-
 # Inventory Management Service Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to provide information about a customer's inventory management service request to our team. Please fill out this form to initiate the process of managing your inventory.

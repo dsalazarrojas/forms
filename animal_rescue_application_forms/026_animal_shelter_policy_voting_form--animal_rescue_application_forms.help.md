@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from various categories of individuals related to an animal shelter. It's meant to gauge their opinions on proposed policy changes, such as extending visiting hours, adjusting adoption fees, and expanding foster programs. The form also inquires about their willingness to help implement approved policies. This form is not meant for actual voting, but rather for collecting feedback and suggestions from different categories of stakeholders.
-</thinking>
-
 # Animal Shelter Policy Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from various categories of individuals related to an animal shelter on proposed policy changes. Your input will help inform decision-making processes.

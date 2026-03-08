@@ -1,7 +1,3 @@
-<thinking>
-...the form is meant to assess the status and performance of hydroelectric power plants, including their operational status and site visit information. This form is designed to be completed by personnel visiting or interacting with the plant. The goal is to provide a consistent way for field staff to document their observations and interactions, which can help inform future decisions and actions. This form should be completed for each site visit, ensuring data consistency and quality. Please ensure that you only submit one form per site visit, as submitting duplicate forms may lead to data duplication and inconsistency. Please complete the form with accurate and truthful information, and ensure that all required fields are filled in as necessary...
-</thinking>
-
 # Hydro Operations Assessment Survey - Help Guide
 
 ## Purpose

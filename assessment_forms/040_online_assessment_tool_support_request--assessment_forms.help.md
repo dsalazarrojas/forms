@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the online assessment tool support request form is to collect user feedback and information for support and troubleshooting purposes. The form is intended to help us understand the issues users are experiencing with our online assessment tool, and to assist us in providing timely and effective support. It's essential that each user submits only one form per issue to avoid duplication of effort and ensure that we can efficiently address their concerns.
-
-Before starting, please make sure that you have not already submitted a form for this specific issue. If you've already submitted a form, you can also submit an update with any new information or changes.
-
-</thinking>
-
 # online_assessment_tool_support_request - Help Guide
 ## Purpose
 The online assessment tool support request form is designed to collect user feedback and information for support and troubleshooting purposes.

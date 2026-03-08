@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect liability waiver information from participants in a flotation device activity. This form is likely used for a specific activity or event where participants are using flotation devices, and the organization or company wants to ensure that they have a signed waiver from all participants and their guardians. The waiver serves as a legal document that protects the organization or company from potential liabilities in case of accidents or injuries during the activity.
-
-To create this help guide, I will follow the provided YAML fields and create a concise and practical explanation for each field. Please note that I will not output YAML or invent unsupported business logic.
-
-</thinking>
-
 # Flotation Device Liability Waiver - Help Guide
 ## Purpose
 This form is used to collect liability waiver information from participants in a flotation device activity. It's essential to sign this waiver to acknowledge and accept the risks associated with the activity.

@@ -1,5 +1,3 @@
-<thinking>...this form is used to assess the production quality of written work, likely for an academic or educational setting. The form collects information on the written production, including its evaluation and grading. The form's primary purpose is to evaluate the written production based on a specific rubric. The form is meant to be completed by an administrator or evaluator, and the information is likely used to track student progress or performance in a class or project. This form should not be used for other purposes, as it is specifically designed for this particular assessment task. It is assumed that the evaluator will already have knowledge of the rubric and its requirements... </thinking>
-
 # Written Production Evaluation Rubric - Help Guide
 ## Purpose
 The Written Production Evaluation Rubric is a form used to assess the production quality of written work in an academic or educational setting. It collects information on the written production, including its evaluation and grading, and is meant to be completed by an administrator or evaluator.

@@ -1,9 +1,4 @@
-> <thinking>
-This form is designed to gather information for the purpose of conducting an audit of government financial records. The form's purpose is to collect relevant details from auditors and agency staff to facilitate a thorough review of financial records. This form is intended to be used in conjunction with the relevant government agency's internal audit guidelines and procedures.
-This form is not a substitute for professional audit training or certification. Auditors and agency staff should refer to their agency's internal guidelines for audit procedures and guidelines. The form is meant to provide a structured format for collecting information and should be reviewed and updated regularly to ensure it meets the agency's evolving audit needs.
-</thinking>
-
-# Government Financial Records Audit Form - Help Guide
+> # Government Financial Records Audit Form - Help Guide
 ## Purpose
 The Government Financial Records Audit Form is designed to collect information from auditors and agency staff to facilitate a thorough review of government financial records. This form is intended to be used in conjunction with the relevant government agency's internal audit guidelines and procedures.
 ## How To Complete This Form

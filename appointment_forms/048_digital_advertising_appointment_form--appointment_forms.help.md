@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Digital Advertising Appointment Form - Help Guide
 ## Purpose
 The Digital Advertising Appointment Form is a tool used to schedule appointments for digital advertising services. This form is designed to collect information from clients regarding their scheduling preferences and requirements for meetings or consultations about their digital advertising needs.

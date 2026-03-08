@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for performance assessments. It's essential to fill it out accurately and completely to ensure that you're on track with your goals. Please note that this is a required form for all employees. Make sure to answer all questions to the best of your ability. If you're unsure about any field, please ask your manager for guidance.
-</thinking>
-
 # MedeoLinx Performance Self Assessment Form - Help Guide
 ## Purpose
 This form is used to assess your performance and provide feedback for improvement. It's an essential tool for evaluating your progress and setting goals.

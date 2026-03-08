@@ -1,16 +1,3 @@
-<thinking>
-This form is used to document the eviction process and gather acknowledgment and agreement from tenants. It's essential to ensure that the tenant understands their status and any necessary steps for a smooth transition. 
-
-This form should only be used for evictions initiated by landlords or property managers. Tenants should not use this form for voluntary terminations.
-
-Please make sure this form is not used in cases where the tenant is a minor or lacks capacity.
-
-Before using this form, please review the applicable local and national laws regarding evictions in your region.
-
-The form is designed for use in a controlled environment, like a property management office. It should be filled out by a landlord or property manager, not the tenant.
-
-</thinking>
-
 # eviction_policy_acknowledgement_form - Help Guide
 ## Purpose
 The Eviction Policy Acknowledgement Form is a document used to record the eviction process and gather acknowledgment and agreement from tenants. 

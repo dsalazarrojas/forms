@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from clients before scheduling an appointment or meeting to discuss business strategy. The purpose of the form is to ensure that the client's needs are met and that the session is tailored to their specific requirements. The form collects data on the client's contact information, business details, and appointment preferences, which will be used to prepare for the meeting.
-
-The form will not collect any sensitive or confidential information and will be used solely for internal purposes to prepare for the meeting.
-
-Before proceeding, please ensure that you have the necessary permissions to fill out this form on behalf of your company.
-
-</thinking>
-
 # Business Strategy Appointment Form - Help Guide
 ## Purpose
 The Business Strategy Appointment Form is designed to gather information from clients before scheduling an appointment or meeting to discuss business strategy. This form ensures that their needs are met and that the session is tailored to their specific requirements.

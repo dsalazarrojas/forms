@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by customers who wish to check out early from a hotel or other accommodation. The form will collect information from the customer to facilitate an early check out payment. The form is designed to be completed by the customer, and will be reviewed by hotel staff to process the payment. This form should only be used for customers who have a valid reason for checking out early, and will be used in conjunction with the customer's booking information. Please ensure that this form is only used for its intended purpose and not for other purposes such as cancellations or modifications to existing bookings.
-</thinking>
-
 # Early Check Out Payment Form - Help Guide
 ## Purpose
 This form is for customers who wish to check out early from a hotel or other accommodation. It is used to submit a payment for an early check out and will be reviewed by hotel staff for processing.

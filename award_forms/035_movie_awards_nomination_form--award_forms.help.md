@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for movie award nominations. The purpose of this form is to allow users to submit nominations for movie awards, either as an individual or as part of a larger process. This form should only be completed once per nomination and is not intended for repeated submissions. Please ensure that the form is completed accurately and thoroughly, and that each field is filled out with the correct information.
-
-</thinking>
-
 # Movie Awards Nomination Form - Help Guide
 ## Purpose
 The Movie Awards Nomination Form is a tool for submitting movie award nominations. It's used to collect information about a movie, its title, and the nominee's contact details for award consideration.

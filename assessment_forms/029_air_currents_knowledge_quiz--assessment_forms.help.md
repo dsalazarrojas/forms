@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly and that users understand its purpose. This form is meant to assess the Air Currents Knowledge Quiz, which is a tool used to evaluate a person's knowledge on air currents and related topics. To prevent duplication of results, we should avoid allowing users to access the quiz multiple times. We should also make sure users understand the questions and answer types.
-</thinking>
-
 # Air Currents Knowledge Quiz - Help Guide
 ## Purpose
 The Air Currents Knowledge Quiz is a tool used to assess a person's knowledge on air currents and related topics.

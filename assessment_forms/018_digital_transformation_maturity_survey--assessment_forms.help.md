@@ -1,8 +1,3 @@
-<thinking>
-Digital Transformation Maturity Survey form is designed to measure the level of digital transformation within an organization. This form helps to assess the digital capabilities and maturity level of an organization, identifying areas that need improvement. The form is used to gather information about the organization's ability to collect and use data effectively, the role of business leaders and IT managers, and the level of digital transformation maturity.
-Before filling out this form, please make sure to answer the questions honestly and thoroughly, and do not duplicate efforts by checking with the form's "Assessment Form Note" section for any additional information or instructions.
-</thinking>
-
 # Digital Transformation Maturity Survey - Help Guide
 ## Purpose
 The Digital Transformation Maturity Survey form is a tool to assess the digital transformation level within an organization. It helps to identify areas of improvement and measure the organization's digital capabilities.

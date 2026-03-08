@@ -1,7 +1,3 @@
-<thinking>
-This help guide provides an explanation for the scaffolding incident report form.
-</thinking>
-
 # scaffolding_incident_report - Help Guide
 ## Purpose
 The Scaffolding Incident Report form is a tool used to document and report incidents that have occurred within a scaffolding construction site. It helps gather relevant information about the incident, including details about the incident itself, witness statements, and reporter information.

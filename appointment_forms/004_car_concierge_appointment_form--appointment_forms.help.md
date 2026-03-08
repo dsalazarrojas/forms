@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Car Concierge Appointment Form" to ensure that end-users understand the purpose, how to complete it, and each field's meaning. I will base the explanation on the provided YAML fields and aim for a concrete, concise, and practical approach.</thinking>
-
 # Car Concierge Appointment Form - Help Guide
 ## Purpose
 This form is designed to help customers schedule an appointment for vehicle services such as detailing, oil changes, tire services, vehicle inspections, general maintenance, repair estimates, customizations, and other services. The form requests information to understand the customer's needs and preferences.

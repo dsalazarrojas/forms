@@ -1,9 +1,3 @@
-<thinking>
-
-The "Afterpay Book Order Form" is a form designed to help customers place an order for a book, with the option to use Afterpay for payment. The form requires customer information, including their name, email, and billing address, which are all necessary for order processing and confirmation. The form also asks for the book title and quantity, as well as the preferred format (physical or digital). Customers can choose to use Afterpay for payment, which splits the payment into installments. Additionally, the form includes fields for delivery instructions and special requests, which are optional. This form is likely used by a book retailer or online store that offers Afterpay as a payment option.
-
-</thinking>
-
 # Afterpay Book Order Form - Help Guide
 
 ## Purpose

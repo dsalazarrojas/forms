@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form is to ensure that users can provide accurate and complete information when applying for animal adoption. This form is meant to be a one-time application and not a form for ongoing updates. The fields are designed to gather relevant information about the applicant, their household, and their preferences. The application process should not be duplicated, and users are expected to submit a new application for each new adoption.
-</thinking>
-
 # Animal Adoption Application ARP - Help Guide
 ## Purpose
 The Animal Adoption Application ARP is designed to be a comprehensive and accurate form for users applying for animal adoption. This guide explains each section and field in detail to ensure a smooth and successful application process.

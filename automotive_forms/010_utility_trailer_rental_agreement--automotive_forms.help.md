@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the rental agreement process for utility trailers. This form is designed to collect information from renters, including their name and the rental dates. The fields in this form are intended to be completed by the renter. It is not affiliated with or endorsed by any form platform, and it is an original adaptation created using public survey topic metadata. The form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and sell derivatives of the form while providing credit.
-</thinking>
-
 # Utility Trailer Rental Agreement - Help Guide
 ## Purpose
 This form is used to collect information from renters for a utility trailer rental. It helps to establish a rental agreement between the renter and the trailer provider.

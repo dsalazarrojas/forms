@@ -1,11 +1,3 @@
-<thinking>
-To create this form, I need to ensure I have a clear understanding of its purpose and the specific fields it contains. Based on the input YAML, the form is an "robot_equipment_safety_inspection_form", which suggests it is used for the safety inspection of robot equipment. This form has multiple pages, but I will assume each page has a specific section of the form. Each field is either a select, text, or date type.
-
-Given the fields, the form seems to be collecting various information related to the robot equipment inspection, such as general information about the equipment, its details, hazards found, compliance status, inspection date, who performed the inspection, remarks, certification number, serial number, equipment type, model number, manufacturer name, manufacturer address, location of inspection, remarks for the inspection, certification date, certification status, and any additional notes.
-
-The form does not seem to have any complex business logic that would require additional explanation. Each field is self-explanatory, but I'll provide additional information if it's unclear or ambiguous.
-</thinking>
-
 # robot_equipment_safety_inspection_form - Help Guide
 ## Purpose
 This form is used for the safety inspection of robot equipment. It helps track and document the inspection process and results to ensure the equipment is safe for use.

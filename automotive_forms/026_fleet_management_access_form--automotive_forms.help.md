@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to manage fleet management access, which involves controlling user access levels and vehicle status for a fleet of vehicles. This form is likely used by administrators to track and manage user and vehicle information for a fleet of vehicles. The form requires the user to input user-specific and vehicle-specific information, including user ID, first and last name, email, vehicle ID, driver license status, vehicle type, vehicle make, vehicle model, vehicle year, date of birth, start and end dates, phone number, notes, user access level, vehicle status, and multiple vehicle access levels. This form seems to be designed for administrative tasks and may be used by fleet managers or other authorized personnel.
-
-Please ensure that the form is being used for its intended purpose and that all required fields are filled out accurately to avoid any issues with fleet management.
-
-To determine if this form is being used correctly, you will need to review the fields and their respective requirements. 
-
-Before using this form, ensure that you are filling it out for its intended purpose and that you have the necessary permissions to access and update the fleet management data.
-
-</thinking>
-
 # fleet_management_access_form - Help Guide
 ## Purpose
 The fleet management access form is used to manage fleet management access, which involves controlling user access levels and vehicle status for a fleet of vehicles.

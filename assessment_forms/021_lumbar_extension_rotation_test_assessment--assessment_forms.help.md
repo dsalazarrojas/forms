@@ -1,7 +1,3 @@
-<thinking>
-The Lumbar Extension Rotation Test Assessment form is designed to collect data from a healthcare professional regarding the assessment of the patient's lumbar extension rotation, including patient demographics, pain information, and treatment history. This form is intended to gather specific data from patients undergoing this type of test, and its completion is crucial for accurate diagnosis and treatment planning. Please ensure that this form is not duplicated or used for any other purpose.
-</thinking>
-
 # Lumbar Extension Rotation Test Assessment - Help Guide
 ## Purpose
 The Lumbar Extension Rotation Test Assessment form is used to collect information from healthcare professionals about the assessment of the patient's lumbar extension rotation. This form is essential for gathering data on patient demographics, pain intensity, and treatment options.

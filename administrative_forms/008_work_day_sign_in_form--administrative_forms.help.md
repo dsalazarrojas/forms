@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # work_day_sign_in_form - Help Guide
 ## Purpose
 The work_day_sign_in_form is used to record employee workday details. It is designed to be completed by employees to provide information about their workday, including arrival and departure times, reason for absence, and any notes or comments. This form is typically used for administrative purposes and may be used to track attendance, hours worked, and other relevant metrics.

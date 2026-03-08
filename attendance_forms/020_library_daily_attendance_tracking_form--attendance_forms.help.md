@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to track daily attendance in libraries. This form allows users to input relevant information about a visitor, including their library ID, date of visit, time of arrival and departure, and contact details. This form is likely used by library staff to record and monitor visitor activity within the library, and may be used for security, statistical, or other purposes.
-
-To ensure accurate and efficient tracking, it's essential to complete this form correctly. Please read through this guide to understand what each field is for and how to fill it out.</thinking>
-
 # Library Daily Attendance Tracking Form - Help Guide
 ## Purpose
 The Library Daily Attendance Tracking Form is a tool used to record and monitor visitor activity within the library. This form helps library staff keep track of who is in the library, for how long, and under what circumstances.

@@ -1,7 +1,3 @@
-<thinking>
-The Payment Withdrawal Form is used for submitting a payment withdrawal request to the bank. This form is designed to collect basic information about the account holder and their account details. The purpose of this form is to ensure that the payment withdrawal request is correctly processed and that the account holder's details are accurately recorded. This form is not intended for use in other contexts or for any other purpose; it should only be used for submitting payment withdrawal requests.
-</thinking>
-
 # Payment Withdrawal Form - Help Guide
 ## Purpose
 

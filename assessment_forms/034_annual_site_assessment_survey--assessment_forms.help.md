@@ -1,9 +1,3 @@
-<thinking>
-This form is a tool for conducting an annual site assessment survey to evaluate the overall condition and compliance of a facility. The purpose of this survey is to identify areas of concern and provide recommendations for improvement. This form is not intended to be a comprehensive inspection, but rather a snapshot of the facility's status at a particular point in time.
-
-Before starting this survey, ensure that you are not duplicating efforts and that this assessment is not already underway or completed. If you have any questions or concerns, please reach out to the relevant authorities or stakeholders.
-</thinking>
-
 # Annual Site Assessment Survey - Help Guide
 ## Purpose
 The Annual Site Assessment Survey is a tool to evaluate the overall condition and compliance of a facility.

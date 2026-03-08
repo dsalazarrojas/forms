@@ -1,6 +1,3 @@
-<thinking>
-To ensure the form is being used correctly and to prevent duplication, please review this form's purpose and fields before proceeding. This form assesses the level of communication between two individuals in a dyadic relationship. The form is designed to collect information about the participants' relationships, support for each other, conflict, satisfaction, and suggestions for improvement. The form should only be filled out by the participants themselves and not by someone else on their behalf. Please take the time to read each question carefully and provide honest answers to get accurate results.</thinking>
-
 # Dyadic Communication Assessment Form - Help Guide
 ## Purpose
 The Dyadic Communication Assessment Form is designed to help participants in a dyadic relationship (e.g., two colleagues, friends, or romantic partners) assess their communication dynamics. The form will help you identify areas where you need to improve your communication to strengthen your relationship.

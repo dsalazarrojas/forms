@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an organization's level of maturity with regards to Agile methodologies. It aims to evaluate the effectiveness of the organization's Agile practices, such as sprint planning, team collaboration, and leadership commitment. The form is used to identify areas of improvement and provide a basis for the next steps in implementing Agile in the organization.
-</thinking>
-
 # Agile Maturity Assessment Form Template - Help Guide
 ## Purpose
 This form is designed to assess an organization's level of maturity with regards to Agile methodologies. It will help you evaluate the effectiveness of your Agile practices and identify areas of improvement.

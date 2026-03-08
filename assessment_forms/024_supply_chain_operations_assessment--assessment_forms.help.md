@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to assess the overall health and performance of a company's supply chain operations. This assessment is used to evaluate the strengths and weaknesses of a company's supply chain management processes, identify areas for improvement, and provide recommendations for optimization.
-
-To complete this form, please follow the instructions below:
-
-1. Answer the questions truthfully and provide as much detail as possible.
-2. Please select the correct options for each field, as indicated in the "hint" text.
-3. If a field has a "Select multiple" or "Select one" option, select only one or multiple relevant options.
-4. Enter the required information for each field accurately and completely.
-5. Do not leave any field blank, as they are all required fields.
-
-</thinking>
-
 # Supply Chain Operations Assessment - Help Guide
 ## Purpose
 

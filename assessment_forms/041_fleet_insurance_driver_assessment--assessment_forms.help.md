@@ -1,9 +1,3 @@
-<thinking>
-This form is a crucial tool for assessing drivers and their vehicle insurance policies. Its purpose is to gather critical information about drivers, such as their personal details, vehicle information, and driving history. This data is used to accurately assess the driver's risk profile and determine the level of insurance coverage needed. 
-
-To avoid duplication and ensure accurate data entry, please ensure you've reviewed and updated all previous records of the driver's information before completing this form. This form is designed to be completed by drivers themselves or their authorized representatives.
-</thinking>
-
 # Fleet Insurance Driver Assessment - Help Guide
 ## Purpose
 This form is used to collect information about a driver and their vehicle insurance policy for risk assessment and coverage determination.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "On Site Repair Appointment Form" which is used to schedule and manage on-site repair appointments. Before proceeding, please ensure that this form is being used for its intended purpose and not for duplicate submissions. This form is designed to collect necessary information for a successful on-site repair visit. Please refer to the following guide to understand how to complete the form accurately and efficiently.
-
-</thinking>
 # On Site Repair Appointment Form - Help Guide
 ## Purpose
 The On Site Repair Appointment Form is used to schedule and manage on-site repair appointments. It captures essential information to ensure that the technician and customer are informed and prepared for the visit.

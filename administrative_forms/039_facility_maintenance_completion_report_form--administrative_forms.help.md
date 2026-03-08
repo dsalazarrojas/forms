@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to report on the completion status of facility maintenance activities. It is used to gather information about the current state of facilities, equipment, and systems within a building or site. The form is typically used by facility managers, maintenance personnel, or other authorized personnel to document and track maintenance tasks and schedules.
-
-To avoid duplication and ensure accurate reporting, users should ensure that the form is filled out for each maintenance activity separately and not for multiple activities at once. The form should not be used to report on ongoing or future maintenance activities.
-
-</thinking>
-
 # Facility Maintenance Completion Report Form - Help Guide
 ## Purpose
 The Facility Maintenance Completion Report Form is used to report on the completion status of facility maintenance activities.

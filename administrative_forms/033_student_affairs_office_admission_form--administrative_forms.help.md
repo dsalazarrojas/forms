@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from students for admission purposes in the Student Affairs Office. It's intended for students who want to be admitted into the Student Affairs Office's programs and services. This form should only be filled out by students who are interested in joining these programs, and not by students who are already enrolled in the office's programs.
-</thinking>
-
 # Student Affairs Office Admission Form - Help Guide
 ## Purpose
 The Student Affairs Office Admission Form is used to collect information from students for admission purposes. This form is intended for students who want to be admitted into the Student Affairs Office's programs and services.

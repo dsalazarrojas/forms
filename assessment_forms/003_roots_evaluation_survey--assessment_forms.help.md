@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the knowledge, health, and management of roots, gathering feedback from participants. It will serve as a valuable tool for researchers, scientists, or anyone interested in understanding more about roots. I will not explain the internal logic behind this form as it seems to be a straightforward assessment form.
-</thinking>
-
 # roots evaluation survey - Help Guide
 ## Purpose
 The roots evaluation survey is a comprehensive form designed to gather information about the knowledge, health, and management of roots. It is intended to collect data from participants to better understand their perspectives and experiences.

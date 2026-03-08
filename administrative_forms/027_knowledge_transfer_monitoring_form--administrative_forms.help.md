@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to track the knowledge transfer between different tools or systems, helping to monitor and record the progress of knowledge sharing activities. This form can be used to indicate whether knowledge transfer took place, which tool was used, provide a description of the knowledge transfer, and categorize the type of knowledge transfer.
-
-We should only create this form when the knowledge transfer is relevant and not for duplicate knowledge transfers.
-
-</thinking>
-
 # Knowledge Transfer Monitoring Form - Help Guide
 
 ## Purpose

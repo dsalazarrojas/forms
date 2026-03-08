@@ -1,13 +1,3 @@
-<thinking>
-This is a form for documenting assessments of curtain wall ESD (Electrostatic Shielding) performance. It's likely used in industrial settings or facilities management to track and report on the condition of curtain walls, which are designed to minimize electrostatic charges. 
-
-To avoid confusion, it's essential to ensure that each site is only assessed once per form submission, and the assessment date is accurate. The Assessor field should reflect the person performing the assessment, not a generic or automated entry.
-
-The form is divided into sections and fields that guide the user through a standard assessment process. Each field has a specific role to play, and understanding these roles will help complete the form efficiently and effectively.
-
-Please note that some fields are not mandatory and are intended for additional context or follow-up information.
-</thinking>
-
 # Anti Static Curtain Wall Assessment - Help Guide
 ## Purpose
 The Anti Static Curtain Wall Assessment form is designed to document and track the performance of curtain walls in various settings, focusing on their electrostatic shielding capabilities. This form helps assessors evaluate and report on the condition of curtain walls, guiding corrective actions when necessary.

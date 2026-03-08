@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for healthcare providers to assess the severity of depression in their patients using the PHQ-9 (Patient Health Questionnaire-9) form. It is designed to be completed by patients to help providers understand the level of depressive symptoms they are experiencing. The PHQ-9 form is not a diagnostic tool, but rather a guide for providers to understand the severity of symptoms. Please ensure that you answer honestly and to the best of your ability, and do not overthink the answers. Completing this form is not a substitute for medical treatment or advice from a healthcare provider. If you are experiencing symptoms of depression, please seek help from a qualified healthcare professional.
-</thinking>
-
 # Depression Assessment (PHQ 9) - Help Guide
 ## Purpose
 The PHQ-9 form is a standardized measure of depression severity used by healthcare providers to assess their patients' symptoms. The form consists of 19 questions that cover different aspects of depression, such as general questions, somatic complaints, sleep disturbance, appetite, interest in activities, concentration, mood reactive, mood irritable, work performance, self-reliance, guilt, worry, self-care, loss, loss interest, social conflict, interest in safety, interest in security, interest in happiness, interest in family, interest in friends, interest in people, and interest in friends.

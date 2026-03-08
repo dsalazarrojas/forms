@@ -1,9 +1,3 @@
-<thinking>
-This form is used to capture information related to an independent contractor's agreement. The purpose of this form is to collect details about the contract period and payment terms. It's essential to complete this form accurately to ensure a smooth and successful working relationship with the independent contractor. Please make sure to review and understand each field before proceeding.
-
-Before starting, ensure that you're authorized to create a new independent contractor agreement or that you're completing this form for a previously established agreement. This form should not be used for any other purpose.
-</thinking>
-
 # independent_contractor_agreement_form - Help Guide
 ## Purpose
 This form is designed to collect information about the contract period and payment terms for an independent contractor agreement. It's crucial to complete this form accurately to establish a solid foundation for your working relationship with the independent contractor.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information and authorization from visitors and their escorts for visits to a facility or institution. The form helps to ensure that visitors have been properly cleared and escorted during their visit. The form should only be used for visitors and their escorts who are not already authorized to enter the facility. 
-</thinking>
-
 # Visitor Escort Authorization Form - Help Guide
 ## Purpose
 The Visitor Escort Authorization Form is used to gather information and authorization from visitors and their escorts for visits to a facility or institution.

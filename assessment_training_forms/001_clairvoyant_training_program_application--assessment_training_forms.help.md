@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gather information from individuals interested in joining the Clairvoyant Training Program. The purpose of this form is to determine a candidate's eligibility for the program, which likely involves assessing their background, experience, and motivation for participating in the program. This form is likely used by program administrators to evaluate applicants and ensure they meet the necessary requirements. To avoid duplication, users should only submit one application per person. Please review the form carefully and ensure you are completing it for your own application, as duplicate submissions may result in delays or disqualification.
-
-</thinking>
-
 # Clairvoyant Training Program Application - Help Guide
 ## Purpose
 

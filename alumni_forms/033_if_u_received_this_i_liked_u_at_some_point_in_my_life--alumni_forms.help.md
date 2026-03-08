@@ -1,7 +1,3 @@
-<thinking>
-I'm thinking: This form is designed to allow users to share their memories and stories about recognizing someone they know or have interacted with in the past. The form is meant to collect information about the occasion, location, and context in which they recognized the person, as well as how and why they recognized them. This form is likely used for nostalgic, social, or academic purposes, such as reuniting people with old classmates or friends. To complete this form, users will need to provide their first name, last name, email, graduation year, phone number, and a brief description of when and where they met or recognized the person. They will also need to select from a series of options to describe how and why they recognized the person, and provide any additional details they'd like to share.
-</thinking>
-
 # if_u_received_this_i_liked_u_at_some_point_in_my_life - Help Guide
 ## Purpose
 This form is designed to collect and share memories and stories about recognizing someone in the past.

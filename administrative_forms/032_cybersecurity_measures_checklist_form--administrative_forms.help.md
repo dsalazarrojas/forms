@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cybersecurity_measures_checklist_form - Help Guide
 ## Purpose
 The "cybersecurity_measures_checklist_form" is used to assess and document the organization's current cybersecurity measures in place to protect against threats and vulnerabilities. This form helps identify areas of strength and weakness in the organization's cybersecurity posture, allowing for more effective risk management and mitigation efforts.

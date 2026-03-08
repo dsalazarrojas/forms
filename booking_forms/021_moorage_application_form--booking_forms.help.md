@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for moorage applications. The form is designed to gather general information, vessel details, request specifics, moorage requirements, contact information, submitter information, and submitter terms agreement. This form is not affiliated with any particular form platform and is an original adaptation of public survey topic metadata. The form is released under CC BY 4.0 and is free to use, modify, and share with proper credit.
-</thinking>
-
 # Moorage Application Form - Help Guide
 ## Purpose
 The Moorage Application Form is designed to collect necessary information for moorage applications. Please fill out this form with accurate and detailed information to ensure a smooth submission process.

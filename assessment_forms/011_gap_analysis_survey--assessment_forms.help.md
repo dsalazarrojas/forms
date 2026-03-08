@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The gap analysis survey is used to identify areas for improvement within an organization. This form is designed to gather information about the current performance, goals, and stakeholder feedback to help identify performance gaps and areas for strategic improvements.
 
 Before proceeding, ensure that this form is relevant to your work and has not been completed recently. If you've completed this form within the past week, it's likely not necessary to fill it out again. If you're unsure, please reach out to your supervisor or administrator for guidance.

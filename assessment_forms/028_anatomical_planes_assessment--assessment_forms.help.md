@@ -1,7 +1,3 @@
-<thinking>
-To begin with, it's essential to understand the purpose of the form. The "Anatomical Planes Assessment" form is designed to assess a student's knowledge and understanding of the different anatomical planes in the human body. This form is typically used in a clinical setting to evaluate a student's ability to accurately identify and describe the sagittal, transverse, and coronal planes, and their applications in various medical contexts. It's a crucial assessment tool for instructors to gauge a student's understanding of these fundamental concepts in anatomy.
-</thinking>
-
 # Anatomical Planes Assessment - Help Guide
 ## Purpose
 The "Anatomical Planes Assessment" form is a critical tool used to evaluate a student's knowledge and understanding of the anatomical planes in the human body. This form is designed to assess a student's ability to identify and describe the sagittal, transverse, and coronal planes, and their applications in clinical settings.

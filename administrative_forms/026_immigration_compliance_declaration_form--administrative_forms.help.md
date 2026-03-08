@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for collecting employee information for immigration compliance purposes. It asks for details such as employee ID, department, employment status, start date of employment, section and subsection in the company's organizational structure, name, role, job title, date of birth, nationality, passport number, address, contact email, and contact phone number. The form likely serves to verify employee identities and track employment details for compliance with relevant laws and regulations.
-</thinking>
-
 # immigration_compliance_declaration_form - Help Guide
 ## Purpose
 The immigration compliance declaration form is a template for collecting employee information for immigration purposes. This form helps in verifying employee identities and tracking employment details for compliance with relevant laws and regulations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Insurance Adjustment Authorization Form - Help Guide
  
 ## Purpose

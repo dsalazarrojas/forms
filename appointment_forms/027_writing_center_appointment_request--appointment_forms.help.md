@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # writing_center_appointment_request - Help Guide
 
 ## Purpose

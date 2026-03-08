@@ -1,7 +1,3 @@
-<thinking>
-The Gaming Server Access Application form is used to collect information from users who want to request access to a gaming server. This form is not used for any other purpose. It is essential to fill in all required fields to ensure that your request is processed correctly and quickly. Please note that filling out this form does not guarantee access to the gaming server; the access request will be reviewed and approved by the relevant authorities before access is granted.
-</thinking>
-
 # Gaming Server Access Application - Help Guide
 ## Purpose
 This form is used to submit a request for access to a gaming server. Please fill out the form with your details to initiate the access request process.

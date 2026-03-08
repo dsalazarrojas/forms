@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information related to hurricane damage assessment. The form's purpose is to collect data from individuals affected by a hurricane to understand the extent of the damage caused by the storm. This data will help organizations and emergency services better respond to the disaster and provide aid to those affected.
-
-To ensure that this form is completed accurately and effectively, it's essential to review the following:
-
-* This form is designed to be filled out by individuals who have experienced hurricane damage.
-* The form should not be used for other purposes or to collect data from people who have not experienced hurricane damage.
-* Before filling out this form, ensure that you have access to the information being requested and that it is up-to-date.
-* If you're unsure about any question or field, please ask for clarification before proceeding.
-</thinking>
-
 # Hurricane Damage Assessment Survey - Help Guide
 
 ## Purpose

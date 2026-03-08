@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # monthly_audit_assessment - Help Guide
 ## Purpose
 The monthly_audit_assessment form is used to record and track the results of regular audits and assessments, helping to identify risks and opportunities for improvement.

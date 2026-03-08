@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Travel Authorization Request Form" used for requesting official travel authorization for business or official purposes. It's essential to ensure that this form is filled out accurately and thoroughly to avoid any confusion or miscommunication. Before filling out this form, please check that there are no existing or ongoing travel authorization requests for the same dates. This will help prevent duplicate requests and ensure that only necessary travel authorization is granted.
-</thinking>
-
 # Travel Authorization Request Form - Help Guide
 ## Purpose
 The Travel Authorization Request Form is used to request official travel authorization for business or official purposes. It helps to provide necessary information for travel authorization and ensures that all required details are captured.

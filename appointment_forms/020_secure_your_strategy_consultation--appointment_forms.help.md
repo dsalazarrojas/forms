@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Secure Your Strategy Consultation - Help Guide
 ## Purpose
 This form is designed to help you schedule a secure strategy consultation with our team. Please ensure that you have a clear understanding of what you're looking for from this consultation before proceeding. If you've already submitted a consultation request, please do not submit another. 

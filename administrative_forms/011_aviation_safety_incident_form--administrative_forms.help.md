@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about aviation safety incidents, allowing for proper reporting and investigation of incidents that may impact flight operations. This form should be used by pilots, air traffic controllers, or other personnel involved in flight operations to report incidents that occurred during flight. Please ensure that you fill out the form completely and accurately, as it will help improve the safety of flight operations. Before starting, please check that you haven't already reported this incident, and that this report is not a duplicate of another incident already investigated.
-</thinking>
-
 # Aviation Safety Incident Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about aviation safety incidents, helping to identify areas for improvement and reduce the risk of future incidents.

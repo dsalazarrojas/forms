@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Dealership Maintenance Service Feedback Poll". The form is likely used by dealership service departments to collect feedback from customers about their recent service visit. It seems to be a form designed to gather information about the service experience, including ratings and comments, as well as details about the service advisor and visit details. This guide will aim to help users understand how to complete the form accurately and efficiently.
-
-The purpose of this form is to gather feedback from customers about their recent service visit, which will help the dealership service department to improve their services and provide better customer experience. The form has several fields that require user input, including ratings and comments about the service and staff, as well as details about the visit, such as date and time of visit, and contact information.
-
-The form is not mandatory, and users can choose to provide as much or as little information as they like. However, providing as much information as possible will help the dealership service department to get a better understanding of the customer's experience.
-
-The guide will cover how to complete the form, field by field, and provide explanations and hints to help users fill in the form accurately.</thinking>
-
 # Dealership Maintenance Service Feedback Poll - Help Guide
 ## Purpose
 The purpose of this form is to provide feedback about your recent service visit at our dealership. Your input will help us improve our services and provide better experience for our customers.

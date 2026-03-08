@@ -1,7 +1,3 @@
-<thinking>
-To create this help guide, we need to consider the purpose of the form and the fields it contains. The form "Men's Thobe Product Inquiry Form" likely collects information from customers to inquire about or order a product. The fields seem to be a mix of demographic information, product selection, and additional details.
-</thinking>
-
 # Men's Thobe Product Inquiry Form - Help Guide
 
 ## Purpose

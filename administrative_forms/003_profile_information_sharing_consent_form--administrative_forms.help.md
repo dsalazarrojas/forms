@@ -1,7 +1,3 @@
-<thinking>
-The "Profile Information Sharing Consent Form" is designed to gather information about an individual's consent to share their personal data with third parties. This form is typically used in situations where an individual's data needs to be shared with external parties, such as researchers, partners, or collaborators, for administrative purposes.
-</thinking>
-
 # Profile Information Sharing Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals about their consent to share their personal data with third parties. This form ensures that individuals are aware of what data will be shared, with whom, and for what purposes.

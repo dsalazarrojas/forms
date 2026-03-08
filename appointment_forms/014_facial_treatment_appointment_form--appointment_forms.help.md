@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Facial Treatment Appointment Form", we need to provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means. The form's purpose is to schedule a facial treatment appointment for a client, which is a common process in the beauty and wellness industry. 
 
 To complete this form, the user will need to provide some basic information such as their contact number, client name, and treatment type. The form will also ask for an appointment date, time, and email address. Additionally, users will have the option to provide a note about their appointment preferences.

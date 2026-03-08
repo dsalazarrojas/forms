@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expense Report Form - Help Guide
 ## Purpose
 This form is designed to allow employees to submit expense reports for reimbursement. The form captures necessary information such as company, category, description, and cost associated with each expense. It also includes sections for uploaded files, email, phone number, and notes.

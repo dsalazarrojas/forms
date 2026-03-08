@@ -1,11 +1,3 @@
-<thinking>
-
-To begin with, it's essential to understand that the **Road Condition Inspection Form** is designed to collect critical information about the condition of roads. As such, the form is used by inspectors and surveyors to evaluate the state of roads in a region. This form should only be used for the purpose of inspecting and reporting on road conditions, and should not be used for any other purpose.
-
-Before filling out the form, ensure that you're not duplicating work or reporting on a road that has already been inspected. If you're unsure about the purpose of a particular field, refer to the explanation provided below for each field.
-
-</thinking>
-
 # Road Condition Inspection Form - Help Guide
 ## Purpose
 The Road Condition Inspection Form is used to collect information about the condition of roads, including their maintenance frequency, condition, location, and other relevant factors. This form is essential for identifying areas that require immediate attention and resource allocation.

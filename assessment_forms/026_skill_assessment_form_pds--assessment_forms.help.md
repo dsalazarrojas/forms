@@ -1,7 +1,3 @@
-<thinking>
-This form is used for skill assessment and evaluation purposes. It's intended to collect information from candidates to assess their skills and experiences. The form has multiple sections, each focusing on different aspects of the candidate's skills and qualifications. Before filling out this form, please make sure you have all necessary information ready, and be aware that this form should only be filled out once for each candidate.
-</thinking>
-
 # Skill Assessment Form PDS - Help Guide
 ## Purpose
 This form is used for skill assessment and evaluation purposes.

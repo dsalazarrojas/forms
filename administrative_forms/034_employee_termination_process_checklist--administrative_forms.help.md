@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a part of the employee termination process, used to document and track the steps involved in terminating an employee. The form is likely used by HR or management personnel to keep track of the status and details of employee terminations. It's possible that this form is used in conjunction with other HR processes, such as employee onboarding or performance management, to ensure that all relevant information is collected and documented.
-It's worth noting that the form fields suggest that there are different types of terminations (voluntary and involuntary), but only one field for the reason for voluntary termination is included. This may imply that involuntary termination reasons are more complex or require more specific details. 
-The form also includes fields for comments and supervisor information, which may be used for follow-up actions or reference in future employee interactions.
-</thinking>
-
 # employee_termination_process_checklist - Help Guide
 ## Purpose
 The employee_termination_process_checklist form is used to document and track the employee termination process. It provides a structured way to collect relevant information and status updates throughout the process.

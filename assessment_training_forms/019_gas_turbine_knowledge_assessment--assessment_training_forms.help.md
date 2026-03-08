@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gas Turbine Knowledge Assessment - Help Guide
 
 ## Purpose

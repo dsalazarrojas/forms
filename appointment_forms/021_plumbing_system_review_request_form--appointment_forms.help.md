@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a request form for plumbing system reviews. The purpose of this form is to collect information from users about their plumbing system needs or issues. It seems to be a general-purpose form for various plumbing services and does not specify a particular industry or business context. I will assume it is intended for internal use within a company that provides plumbing services or a similar organization.
-</thinking>
-
 # plumbing_system_review_request_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their plumbing system needs or issues. This form will help the organization to better understand the user's requirements and provide necessary services.

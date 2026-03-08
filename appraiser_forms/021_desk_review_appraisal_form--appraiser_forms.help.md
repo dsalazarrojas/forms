@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect general information for a desk review appraisal. A desk review appraisal is a process where an appraiser reviews a property's financials and other relevant data without physically visiting the property. This form is intended to be used by appraisers to gather necessary information for their review.
-
-To avoid duplication, this form should not be used to collect data that is already available in the appraiser's file or other readily accessible sources.
-
-Before filling out this form, please make sure that you have a clear understanding of the purpose and scope of the desk review appraisal.
-
-</thinking>
-
 # Desk Review Appraisal Form - Help Guide
 ## Purpose
 The purpose of this form is to collect general information for a desk review appraisal. It is designed to gather data that is not already available in the appraiser's file or other readily accessible sources.

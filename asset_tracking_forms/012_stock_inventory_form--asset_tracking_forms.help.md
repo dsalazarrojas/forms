@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to track the stock inventory of a company or organization. It gathers information about stock items, including their type, description, quantity, received date, status, location, category, subcategory, updated date, condition, price, vendor, and additional notes. The form is intended for use by inventory managers or staff to efficiently manage stock items and monitor their status.
-
-The form is divided into several fields, each with a specific purpose. Some fields are required, marked as "true" in the yaml, while others are optional, marked as "null". The form's structure and fields are designed to gather comprehensive information about stock items.
-
-The form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI-powered tools, based on public survey topic metadata, and is released under Creative Commons 4.0 license. This form can be used, modified, and even sold with proper credit given.
-
-The following sections provide detailed guidance on how to complete this form and what each field means.
-</thinking>
-
 # Stock Inventory Form - Help Guide
 ## Purpose
 This form is designed to track and manage stock inventory of a company or organization.

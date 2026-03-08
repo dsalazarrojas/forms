@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to enable individuals to request modifications to their original application submissions. The form allows users to provide details about what aspect of their application needs updating and why, along with any supporting documents and the preferred effective date for the amendment. The form also tracks the status of the amendment and includes space for the approver's comments and final notes. This form is designed to facilitate efficient and transparent amendment processing within the organization.
-</thinking>
-
 # Application Amendment Form - Help Guide
 ## Purpose
 The Application Amendment Form is used to request modifications to original submissions. Fill out this form to provide details about the changes you'd like to make and any supporting documents.

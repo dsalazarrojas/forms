@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information for referral service login assistance requests. The form is intended to be used by users who need help with accessing a login service, such as a username, password, or login URL. The form will be filled out by the user requesting assistance and will be reviewed by the assigned team to provide a solution.
-
-To prevent duplication, the system will check for existing requests before allowing a new one to be submitted. A new request will only be created if a similar one has not been made in the past 30 days.
-
-Before filling out this form, please ensure that you have a clear understanding of the issue you're experiencing and the desired outcome. This will help in providing a more effective solution.
-
-Please note that filling out this form is a commitment to receive assistance from the assigned team. If you're not willing to provide the necessary information, please do not submit this form.
-
-Also, please be aware that some of the fields may have specific formatting or formatting requirements. For example, the "email" field should be in the standard email format (e.g., user@example.com).
-
-</thinking>
-
 # Referral Service Login Assistance Request - Help Guide
 
 ## Purpose

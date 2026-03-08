@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to conduct an assessment of a student's mathematics skills, focusing on integration. This involves evaluating their understanding of the concept of integration, including their ability to apply it in different contexts and methods. This form should only be used for assessment purposes related to mathematics, specifically integration, and not for any other type of evaluation or assessment. To ensure that the form is being used correctly, we should check if the form is being used for its intended purpose and not being duplicated for other assessments or evaluations.
-</thinking>
-
 # mathematics_integral_assessment - Help Guide
 ## Purpose
 The mathematics integral assessment form is designed to evaluate a student's understanding of integration in mathematics. It is used to gauge their ability to apply integration techniques in different contexts and methods.

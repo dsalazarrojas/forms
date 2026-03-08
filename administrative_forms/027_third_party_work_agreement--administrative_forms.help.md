@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from third-party workers or vendors about their work agreements, which are essential for various administrative tasks. This form is likely used in an organizational or business setting to standardize and streamline the process of managing third-party relationships.
-</thinking>
-
 # third_party_work_agreement - Help Guide
 ## Purpose
 The third-party work agreement form is used to collect information from third-party workers or vendors about their work agreements. This information is essential for administrative tasks, such as tracking, reporting, and managing third-party relationships.

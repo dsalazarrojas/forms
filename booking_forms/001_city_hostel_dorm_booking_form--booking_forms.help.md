@@ -1,14 +1,3 @@
-<thinking>
-To ensure the City Hostel Dorm Booking Form is relevant and not duplicated, please consider the following:
-
-* This form is for guests who want to book a room at the City Hostel.
-* It requires personal information such as name, email, phone number, and nationality.
-* Guests can select their preferred room type, bed type, number of guests, and whether breakfast is included.
-* They can also make special requests and select their preferred payment method.
-* The form includes a section on the cancellation policy, which guests must agree to.
-
-</thinking>
-
 # City Hostel Dorm Booking Form - Help Guide
 ## Purpose
 The City Hostel Dorm Booking Form is designed to collect personal information and booking preferences from guests who want to stay at the City Hostel. This form helps us to confirm their booking and ensure a smooth check-in process.

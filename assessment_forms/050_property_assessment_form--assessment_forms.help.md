@@ -1,9 +1,3 @@
-<thinking>
-
-The property assessment form is a tool for users to assess the condition and value of a specific property. The form will help users evaluate the age, type, and price range of the property, and also capture any additional comments or notes. The data collected through this form will help in providing accurate and reliable assessments. This form should only be filled out for properties that are relevant to the assessment task at hand, and it's essential to ensure that the form is not filled out for properties that are not applicable.
-
-</thinking>
-
 # property_assessment_form - Help Guide
 ## Purpose
 The property assessment form is a tool for users to assess the condition and value of a specific property.

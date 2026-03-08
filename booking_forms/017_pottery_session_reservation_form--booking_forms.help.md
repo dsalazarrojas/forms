@@ -1,7 +1,3 @@
-<thinking>
-A form that collects booking information for pottery sessions. It's intended for end users to book and manage pottery sessions. Before proceeding, ensure this form is the correct one to be used for your booking needs. Check if this is the intended form for your purpose and that it's not a duplicate of another form.
-</thinking>
-
 # Pottery Session Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information for booking pottery sessions. It allows users to enter details such as student names, contact information, and session preferences. This form is required for booking purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place an order for custom shirts. It is crucial that customers provide accurate contact information, including their first name, last name, and email address. The payment method and amount fields are required to ensure accurate billing. The shirt size, color, and design selection will determine the specifications of the custom shirt. Shipping address and zip code are essential for delivery purposes.
-</thinking>
-
 # shirt_order_form - Help Guide
 ## Purpose
 This form is used for customers to place an order for custom shirts.

@@ -1,7 +1,3 @@
-<thinking>
-The "Immunization Appointment Form" is designed to collect patient information and vaccination schedule details. This form is intended for patients to provide their personal and health-related data in a structured and organized manner. The form is not designed for high-security or HIPAA compliance, and its use is limited to general patient information collection.
-</thinking>
-
 # Immunization Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect patient information and vaccination schedule details for immunization appointments. The form is not intended for high-security or HIPAA compliance, and its use is limited to general patient information collection.

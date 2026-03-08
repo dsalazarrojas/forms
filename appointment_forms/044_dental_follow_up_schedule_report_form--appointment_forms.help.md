@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be designed for generating a report on follow-up appointments or visits in the dental field. The form likely aims to capture essential information about the schedule and follow-up process, such as the list of patients or prophets to be followed up, the dates, reminders, and methods of follow-up. It might be used by dental professionals or administrative staff to manage and track follow-up activities. This form's design suggests a focus on patient communication and care, potentially for scheduling appointments, sending reminders, or conducting routine check-ups. It's essential to ensure that all required fields are filled out accurately, as this will help maintain the integrity of the report. Before filling out this form, please review the form carefully to avoid any errors or omissions. 
 
 # dental_follow_up_schedule_report_form - Help Guide

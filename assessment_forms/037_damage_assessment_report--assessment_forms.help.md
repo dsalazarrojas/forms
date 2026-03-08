@@ -1,10 +1,3 @@
-<thinking>
-This form will serve as a Damage Assessment Report, which is used to document and track damage to a property. The purpose of this form is to gather information about the damage, including the date and time it occurred, the cause of the damage, and any relevant details or attachments.
-
-**Note:** Before proceeding, ensure that this form is being used for its intended purpose and not for duplicate reporting. If you are unsure about the form's purpose or have questions, please consult with the relevant authorities or personnel.
-
-</thinking>
-
 # Damage Assessment Report - Help Guide
 ## Purpose
 The Damage Assessment Report is used to document and track damage to a property, including the date and time it occurred, the cause of the damage, and any relevant details or attachments.

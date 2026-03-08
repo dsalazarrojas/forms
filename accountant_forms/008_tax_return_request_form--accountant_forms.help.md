@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplication, we first check if the form is already filled out. If it is, we skip the form. This form is used to request tax returns for taxpayers. It is intended for accountants to use when requesting tax returns for their clients.
-The form will be used to gather information about the taxpayer, including their name, address, and other relevant details. This information will be used to process the tax return.
-</thinking>
-
 # Tax Return Request Form - Help Guide
 ## Purpose
 This form is used to request tax returns for taxpayers.

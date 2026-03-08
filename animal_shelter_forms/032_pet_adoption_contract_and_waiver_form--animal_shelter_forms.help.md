@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to gather information from a pet owner who is adopting a pet from an animal shelter. This form will likely be used to collect details about the pet being adopted, the owner's contact information, and their agreement to take care of the pet. I will now create a help guide based on this form's fields.
-</thinking>
-
 # Pet Adoption Contract And Waiver Form - Help Guide
 ## Purpose
 

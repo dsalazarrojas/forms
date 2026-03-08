@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help project teams communicate and track project milestones. It captures essential information about project milestones, including the milestone description, date, and time, as well as the team lead's name. This form is intended to be used for internal purposes only, and its use is restricted to project management and team coordination. 
-</thinking>
-
 # Project Milestone Communication Form - Help Guide
 ## Purpose
 The Project Milestone Communication Form is a tool used by project teams to convey important information about project milestones to team members and stakeholders. 

@@ -1,8 +1,4 @@
-> <thinking>
-Internal reasoning for this form purpose is to collect information from teachers regarding complaints or issues they may have experienced. This form will help to identify areas of concern and facilitate a resolution process. Please ensure that you are submitting genuine complaints, not duplicates or unfounded ones. Please note that this form is for internal use only and the data collected will be reviewed by authorized personnel.
-</thinking>
-
-# Teacher Complaint Form - Help Guide
+> # Teacher Complaint Form - Help Guide
 ## Purpose
 The Teacher Complaint Form is a tool designed to collect and document complaints or issues experienced by teachers. This form helps to identify areas of concern and facilitate a resolution process.
 

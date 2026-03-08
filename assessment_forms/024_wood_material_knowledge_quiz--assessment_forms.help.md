@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wood Material Knowledge Quiz - Help Guide
 ## Purpose
 The Wood Material Knowledge Quiz is designed to test your knowledge about different types of wood materials. This form will help you identify your strengths and weaknesses in understanding various wood materials.

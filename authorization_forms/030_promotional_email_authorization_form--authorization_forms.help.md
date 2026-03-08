@@ -1,11 +1,3 @@
-<thinking>
-This form is for promotional email authorization, allowing users to manage their email preferences and other details. This form is likely used in a marketing or outreach context where users need to opt-in or opt-out of promotional emails and other communications. The form should only be filled out once for each user, as it contains sensitive information such as email address and phone number.
-
-Before filling out the form, ensure that you are not duplicating any existing records. If you are unsure, please verify with the relevant authorities.
-
-Please note that this form is for personal data management, so please fill it out accordingly.
-</thinking>
-
 # promotional_email_authorization_form - Help Guide
 ## Purpose
 The promotional email authorization form is used to manage email preferences and other details for promotional communications.

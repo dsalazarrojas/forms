@@ -1,5 +1,3 @@
-<thinking>Before diving into the user-facing help guide for the "Equipment Lifecycle Extension Request Form", let me explain the form's purpose and internal checks for relevance and non-duplication. This form is used to request an extension on the lifecycle of equipment, allowing users to submit their requests for further review and potential approval. To ensure that the form is filled out correctly and that duplicate requests are not submitted, the form will internally validate the following: (1) The asset details provided match the current asset information, (2) The supervisor's approval is verified, and (3) The request date matches the date of the current equipment lifecycle extension.</thinking>
-
 # Equipment Lifecycle Extension Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request an extension on the lifecycle of equipment, allowing users to provide additional time for further review and potential approval.

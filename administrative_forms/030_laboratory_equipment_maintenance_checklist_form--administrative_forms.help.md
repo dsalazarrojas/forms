@@ -1,7 +1,3 @@
-<thinking>
-This form is a checklist for maintaining laboratory equipment, designed to help users track and report on the condition and functionality of various lab equipment. This checklist can be completed by lab technicians, maintenance staff, or other individuals responsible for ensuring that equipment is in good working order.
-</thinking>
-
 # laboratory_equipment_maintenance_checklist_form - Help Guide
 ## Purpose
 The laboratory equipment maintenance checklist form is used to track and report on the condition and functionality of various lab equipment. This includes checking for wear and tear, damage, and needed repairs or replacements.

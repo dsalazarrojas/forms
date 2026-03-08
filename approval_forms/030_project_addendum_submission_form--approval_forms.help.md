@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a project addendum, which is an amendment or update to a project's original scope, schedule, or budget. The purpose of this form is to gather details about the changes made to a project and to keep track of the project's status and progress. It is recommended to fill out this form only once for each project, and not to duplicate entries. 
-</thinking>
-
 # Project Addendum Submission Form - Help Guide
 ## Purpose
 The "Project Addendum Submission Form" is used to collect information about project changes and updates. This form helps to keep track of project status and progress, and ensures that all project stakeholders are informed about the changes made to the project.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to nominate investigators for awards. This form is designed to gather information about the nominee, including their name, email, and affiliation, as well as the reason for the nomination and any supporting statements or files. The nominator's name, email, and affiliation are also collected, and the nominator can select multiple supporting files to include with their nomination. The form allows users to select the type of award and category the nominee is being nominated for, and finally, the nominator can submit or cancel their nomination. This form is intended to ensure that the nomination process is thorough and complete, providing all necessary information for a fair and informed decision-making process.
-</thinking>
-
 # Investigator Award Nomination Form - Help Guide
 ## Purpose
 This form is for nominating investigators for awards. It helps gather relevant information to ensure a fair and informed decision-making process.

@@ -1,7 +1,3 @@
-<thinking>
-This form was created to gather information for self-permission purposes. This form is intended to be a basic, text-based, and minimalistic form with the least amount of fields required for the purpose.
-</thinking>
-
 # Self Permission Acknowledgement Form - Help Guide
 ## Purpose
 The Self Permission Acknowledgement Form is a simple form designed to gather information from individuals who need to acknowledge their own permission for a specific purpose. This form is intended for internal use and does not require any additional fields that may be sensitive or confidential.

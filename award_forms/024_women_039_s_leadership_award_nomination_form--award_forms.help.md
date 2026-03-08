@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a Women's Leadership Award Nomination. The nomination process aims to recognize and celebrate women's leadership in various fields. The form is used to submit nominations for these awards, and the information collected will be used to evaluate and potentially award nominees. This form is not intended for self-nomination, but rather for nominating others. Please ensure that the nominator and nominee are accurate and valid before submitting.
-</thinking>
-
 # Women's Leadership Award Nomination Form - Help Guide
 
 ## Purpose

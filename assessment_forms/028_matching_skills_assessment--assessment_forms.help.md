@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # matching_skills_assessment - Help Guide
 ## Purpose
 The matching skills assessment form is designed to help users match their skills with roles. This form is intended to be completed by users who want to identify their skills and match them with relevant roles.

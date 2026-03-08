@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pantomime Attendance Registration - Help Guide
 
 ## Purpose

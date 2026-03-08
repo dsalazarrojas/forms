@@ -1,5 +1,3 @@
-<thinking>Internal use case: This form is for customers to request alterations for their clothing items. The purpose of this form is to gather information about the customer's preferences, including their contact information, appointment scheduling, garment details, alteration requests, and payment information. This form is used by the internal team to process and fulfill the alteration requests. To avoid duplicate work, please ensure that you only submit one form per customer and that the form is complete and accurate. If you have any questions or need assistance, please contact your local tailor.</thinking>
-
 # Clothing Alterations Appointment Request Form - Help Guide
 ## Purpose
 The Clothing Alterations Appointment Request Form is a form used to request alterations for clothing items. To complete this form, please provide the required information to help our team schedule and fulfill your alterations.

@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about a Mary Kay Beauty customer's profile and preferences. The goal of this form is to capture the customer's data for the consultant to better understand their needs and tailor their recommendations accordingly. This form must not be duplicated. </thinking>
-
 # Mary Kay Beauty Profile By Julie Potts - Help Guide
 ## Purpose
 

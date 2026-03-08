@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for adult sports teams to collect information about their athletes, including personal details, medical conditions, and emergency contact information. The form is designed to be completed by athletes before participating in team activities, ensuring that they are aware of and consent to the use of their personal photos for promotional materials and agree to a liability waiver. This form is not intended for minors or athletes not participating in team activities.
-
-</thinking>
-
 # Adult Sports Roster Form - Help Guide
 ## Purpose
 The Adult Sports Roster Form is a collection of information about athletes participating in team activities. It is used to gather essential details such as name, date of birth, position, emergency contact, and waiver and consent information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Safety Inspection Report Form - Help Guide
 ## Purpose
 This form is used to report on the status of a facility's fire safety systems and equipment. It allows users to document observations, findings, and recommendations on fire safety hazards and equipment. The form helps facilities maintain compliance with fire safety regulations and ensures a safe working environment for employees and visitors.

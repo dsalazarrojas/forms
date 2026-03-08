@@ -1,8 +1,3 @@
-<thinking>
-This form, "Static Evaluation Form", is used for evaluating and recording project-related information. The purpose of this form is to collect static data for project evaluation and assessment. This form is meant to be used for projects that have been completed and are not subject to frequent changes or updates. This guide will walk you through how to complete this form correctly, field by field.
-Please note that while some fields are labeled as "Required: false," it does not mean they are exempt from filling out, but rather that they are optional and can be skipped if not applicable.
-</thinking>
-
 # static_evaluation_form - Help Guide
 ## Purpose
 ## How To Complete This Form

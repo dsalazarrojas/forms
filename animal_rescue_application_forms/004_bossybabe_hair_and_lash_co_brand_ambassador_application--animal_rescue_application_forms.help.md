@@ -1,12 +1,3 @@
-<thinking>
-To ensure that our internal system does not receive duplicate applications and that our applicants are genuine and fit for the role of being a BossyBabe Brand Ambassador, we want to verify that the form is being filled out correctly. This guide will help applicants understand the purpose and expectations of the form.
-
-The "BossyBabe Brand Ambassador Application" form is designed to help us understand who you are, what makes you suitable to represent our brand, and what you can offer as an ambassador. This form gathers information about your identity, contact preferences, experience, and motivations for representing the brand. It also includes a section where you can share any additional comments or questions you might have.
-
-The form is divided into several sections, each with its own set of questions. Please follow the instructions carefully to ensure that you provide accurate and relevant information.
-
-</thinking>
-
 # BossyBabe Brand Ambassador Application - Help Guide
 ## Purpose
 

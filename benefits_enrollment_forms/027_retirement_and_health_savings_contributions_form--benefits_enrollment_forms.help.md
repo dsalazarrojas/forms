@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from employees regarding their retirement and health savings contributions. The purpose of this form is to gather data on the employee's current and potential future contributions to their retirement and health savings plans. This form should only be completed by employees who are eligible to participate in these plans. If the employee is not eligible, please do not complete this form.
-
-This form is not intended to be a substitute for any official retirement or health benefits documentation. The information collected through this form will be used for internal purposes only and will not be used to determine any benefits eligibility or to process any benefits claims. 
-
-Before proceeding, ensure that you have the necessary information and permissions to complete this form accurately and honestly. If you have any doubts or concerns, please reach out to your HR or benefits representative.
-
-</thinking>
-
 # Retirement And Health Savings Contributions Form - Help Guide
 ## Purpose
 This form is intended to collect information on retirement and health savings contributions for employees. It's used for internal purposes and not for benefits eligibility or claim processing.

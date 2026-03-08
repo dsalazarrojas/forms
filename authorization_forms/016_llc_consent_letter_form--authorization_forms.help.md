@@ -1,13 +1,3 @@
-<thinking>... internal reasoning check...
-
-The form is designed to collect information for a letter of consent from an LLC (Limited Liability Company). It appears to be a form for uploading documents related to the LLC, possibly for regulatory compliance or other legal purposes. The form includes fields for company name, member information, document details, and representative information. The fields indicate a focus on uploading documents and ensuring their legitimacy.
-
-Fields with "upload" or "document" in their labels suggest an emphasis on attaching or linking files. The "uploaded_by" and "uploaded_by_employees" fields imply that multiple individuals may be associated with the uploaded documents. The required fields ("required: true") include member name, action description, date, and email, which suggests that these are essential details for the letter of consent.
-
-The form may be used for various scenarios, such as submitting documents to a government agency, sharing information with stakeholders, or as part of a legal process. However, the exact purpose and usage context are not explicitly stated in the provided YAML...
-
-</thinking>
-
 # LLC Consent Letter Form - Help Guide
 ## Purpose
 This form is designed to collect information for a letter of consent from an LLC. It is used to upload documents and ensure their legitimacy. The form is intended to be completed by LLC representatives or members.

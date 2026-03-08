@@ -1,14 +1,3 @@
-<thinking>
-To create this form, we should first understand its purpose. This form is designed to collect information from participants in a social media contest. We need to ensure that the form is clear and easy to fill out for end-users, and that the information collected is accurate and relevant to the contest. Let's review the form structure and fields to determine the best way to present this information to the end-user.
-
-The form is composed of 9 fields, but some fields have the same label and name. This could indicate that they are meant to collect similar information but possibly with different contexts or purposes. We will need to clarify this in the help guide. Additionally, some fields are not required, which might suggest that they are optional or have an alternative purpose. We should highlight this distinction in the help guide as well.
-
-The form is meant to collect participant information, social media information, and additional information. The participant fields seem to be redundant (fields 4, 6, and 8), which might mean that they are meant to collect different types of information about the same participant or have different contexts. The email field (field 3) is required, indicating that it's an important piece of information.
-
-The form's structure and field names suggest that it's designed for a simple registration process, where end-users need to provide basic information about themselves. The purpose of this form seems to be to gather demographic information and possibly social media handles for marketing or promotional purposes.
-
-</thinking>
-
 # Social Media Contest Registration Form - Help Guide
 ## Purpose
 This form collects information from participants in a social media contest. It is designed to gather demographic information and social media handles for marketing and promotional purposes.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about incidents or issues that need to be addressed. It's likely used for tracking and managing incidents within an organization or team.
-
-We'll review the form's purpose and ensure we're not duplicating information. The form collects 8 fields across 3 pages and requires all 8 fields to be filled out completely.
-
-</thinking>
-
 # river_overflow_incident_form - Help Guide
 ## Purpose
 This form is designed to collect and report incidents within an organization or team.

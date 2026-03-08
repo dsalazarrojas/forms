@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be for assessing the security protocols of IoT (Internet of Things) devices. The form likely aims to evaluate the security posture of these devices, which are increasingly used in various industries such as smart homes, industrial automation, and healthcare. The form might be used by organizations to ensure that their IoT devices meet specific security requirements and protocols. It's essential to complete this form accurately to avoid duplication and ensure that the assessment is thorough. Please proceed with the form instructions.</thinking>
-
 # IoT Security Protocol Assessment Form - Help Guide
 ## Purpose
 This form is designed to evaluate the security protocols of IoT devices. It helps organizations assess the security posture of their IoT devices and ensure they meet specific security requirements and protocols.

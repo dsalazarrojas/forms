@@ -1,12 +1,3 @@
-<thinking>
-
-This form is designed to collect information for scheduling appointments and handling payments for clients, likely in a healthcare or service-based setting.
-
-**Purpose:**
-This form is for scheduling appointments and collecting payment information from clients. The form includes fields for scheduling details, payment methods, and client/patient contact information. 
-
-</thinking>
-
 # Zoom Appointment Form - Help Guide
 ## Purpose
 This form is intended for clients to provide their appointment and payment information.

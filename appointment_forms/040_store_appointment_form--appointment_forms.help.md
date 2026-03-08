@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Store Appointment Form - Help Guide
 ## Purpose
 The Store Appointment Form is designed to collect information from customers about their appointment schedule and preferences. This form is used to store and organize appointments at the store, ensuring that staff are well-prepared to handle customer requests. The form gathers data on customer details, appointment dates and times, and any additional notes that may be relevant to the customer's visit.

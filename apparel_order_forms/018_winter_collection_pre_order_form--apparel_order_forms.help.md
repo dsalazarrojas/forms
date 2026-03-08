@@ -1,13 +1,3 @@
-<thinking>
-
-Before creating this form, let's make sure we understand its purpose and relevance. This form is a part of a larger process for managing pre-orders of the winter collection. It's designed to collect important customer information, shipping preferences, payment details, and other relevant order specifics. 
-
-The purpose of this form is to ensure accurate and efficient pre-ordering and shipping of the winter collection. It's meant for customers who want to reserve items before they are available for general sale. 
-
-Please note that some of the fields might be optional, but providing accurate information is essential for smooth processing of the order.
-
-</thinking>
-
 # Winter Collection Pre Order Form - Help Guide
 ## Purpose
 The Winter Collection Pre Order Form is designed to collect information from customers who want to reserve items from our winter collection before they are available for general sale. This form helps us understand your preferences and requirements for the pre-ordered items, ensuring a smooth and efficient pre-ordering and shipping process.

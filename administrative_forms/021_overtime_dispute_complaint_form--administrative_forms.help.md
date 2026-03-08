@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help employees submit overtime disputes, ensuring accuracy and fairness in the calculation of their compensation. To be eligible for this form, the employee has a valid reason for their dispute and meets the submission criteria.
-When an employee submits this form, the HR department reviews and investigates the dispute, verifying the evidence provided and ensuring that the submitted information is accurate and up-to-date.
-Please be aware that filling out this form multiple times will result in duplicate or unnecessary work for both the employee and the HR team.
-</thinking>
-
 # OvertimeDisputeComplaintForm - Help Guide
 ## Purpose
 The OvertimeDisputeComplaintForm is a form designed to help employees report and resolve overtime disputes. This form is used to provide accurate and up-to-date information regarding overtime hours worked and pay discrepancies.

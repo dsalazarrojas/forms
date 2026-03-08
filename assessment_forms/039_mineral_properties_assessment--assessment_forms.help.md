@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mineral Properties Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about a sample's properties, including its composition, physical characteristics, and collection details. The purpose of this form is to gather data for the assessment of mineral properties.

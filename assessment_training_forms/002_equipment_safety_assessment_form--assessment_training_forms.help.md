@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed to be used by personnel conducting equipment safety assessments. To be relevant, users should be familiar with the procedures and standards of their own organization. The purpose of this form is to document the assessment of equipment safety, and its use should be part of a routine maintenance cycle. This form is likely intended for internal use.
-  The form's fields may be used to track various information related to equipment safety, such as user details, equipment details, assessment results, risk level, safety measures implemented, notes, user's signature, date, time, phone number, email, address, equipment status, and comments.
-  The form's structure and fields are likely based on standard safety assessment practices.
-</thinking>
-
 # Equipment Safety Assessment Form - Help Guide
 ## Purpose
 

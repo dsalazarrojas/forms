@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to book an appointment for a license renewal process. It is likely used by customers or users to schedule a time to meet with a representative to renew their license. To ensure that only relevant and non-duplicate data is collected, this form should be used by customers or users who have not previously submitted a license renewal appointment request. If a user has already submitted a request, they should not use this form to avoid creating a duplicate entry.
-
-</thinking>
-
 # License Renewal Appointment Booking Form - Help Guide
 ## Purpose
 This form is used to book an appointment for a license renewal process. Fill out the form with your details to schedule a convenient time to meet with a representative to complete your license renewal.

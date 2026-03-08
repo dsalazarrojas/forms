@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect personal and work-related information from individuals seeking work authorization in a specific country. The purpose of this form is to ensure that the individual and their employer comply with all applicable laws and regulations related to work authorization.
-</thinking>
-
 # Work Authorization Form - Help Guide
 ## Purpose
 The "Work Authorization Form" is used to collect personal and work-related information from individuals seeking work authorization in a specific country.

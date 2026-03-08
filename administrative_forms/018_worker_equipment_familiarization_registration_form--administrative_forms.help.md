@@ -1,10 +1,3 @@
-<thinking> 
-  This form is used for the registration and familiarization of worker equipment. It captures essential information from the user including user details, equipment information, training completion, and other relevant data. 
-  To ensure accuracy, this form is required for all new worker equipment registrations.
-  Please note that this form should not be used for duplicate registrations or updates. 
-  If you are unsure about any field or have any questions, please reach out to your supervisor or the equipment team.
-</thinking>
-
 # Worker Equipment Familiarization Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from workers to ensure they are familiarized and registered with the equipment they will be using for work. It is crucial for maintaining accurate records, preventing equipment misuse, and ensuring worker safety.

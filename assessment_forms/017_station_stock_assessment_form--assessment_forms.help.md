@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to assess the current state of a station's stock, including its current quantity, low stock level, and potential damage to items. This form is likely used to track and manage inventory levels, identify potential issues, and inform decision-making regarding stock replenishment and maintenance. Please ensure you are filling out this form for a specific station only once. If you're unsure, please refer back to the station's inventory record or contact the station owner or manager.
-</thinking>
-
 # Station Stock Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the current state of a station's stock.

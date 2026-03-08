@@ -1,8 +1,3 @@
-<thinking>
-This form is used to audit and verify the allocation of grant funds within an organization. It is designed to collect information about the grant funding sources, allocation dates, amounts, and purposes, as well as the current status of the funds. The purpose of this form is to ensure transparency and accountability in the management of grant funds.
-The form has multiple pages, each with different fields that need to be filled out. This help guide will walk you through each field and provide guidance on how to complete it.
-</thinking>
-
 # Grant Fund Allocation Audit Form - Help Guide
 ## Purpose
 The Grant Fund Allocation Audit Form is used to verify and audit the allocation of grant funds within an organization. It helps to collect and track information about grant funding sources, allocation dates, amounts, and purposes, and the current status of the funds.

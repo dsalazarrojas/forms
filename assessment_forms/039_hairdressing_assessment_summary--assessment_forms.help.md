@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information from a client's hair assessment, including client details, hair condition, treatment history, and assessment details such as stylist recommendations, client notes, dosage, and signature fields. It's intended for use by stylists to provide a comprehensive summary of the client's hair assessment.
-</thinking>
-
 # Hairdressing Assessment Summary - Help Guide
 
 ## Purpose

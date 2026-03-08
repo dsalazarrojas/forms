@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool to gather information about a customer's email design preferences and content. It is designed to be used by customers who are looking to create an email that effectively communicates with their target audience. The form is intended to be filled out by customers who want to know how to create an email that is both visually appealing and effective in conveying the message. The form should not be used for other purposes such as creating a form for internal administrative tasks. This form is a self-contained entity and does not rely on any external data. It is intended to be filled out by one user at a time.
-</thinking>
-
 # Email Design Questionnaire - Help Guide
 ## Purpose
 

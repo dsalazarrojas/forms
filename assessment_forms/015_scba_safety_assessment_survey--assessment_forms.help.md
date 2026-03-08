@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the SCBA Safety Assessment Survey. The purpose of this form is to assess the safety of equipment used in SCBA (Self-Contained Breathing Apparatus) units. The form is designed to gather information about the equipment's readiness, inspections, and other relevant details.
-
-Before completing this form, please ensure you have all the necessary information and permissions required for this assessment. This form should not be duplicated in any other context without proper authorization.
-
-This guide is intended to assist you in understanding each field's purpose and how to complete it accurately.
-
-</thinking>
-
 # SCBA Safety Assessment Survey - Help Guide
 
 ## Purpose

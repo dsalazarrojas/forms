@@ -1,19 +1,3 @@
-<thinking>
-
-This form is used to process a service cancellation and refund for a customer. When filling out this form, please ensure that you are the authorized representative of the customer and that you have the customer's permission to complete the form on their behalf. 
-
-This form is meant for one-time cancellations. If you are dealing with recurring service cancellations, please contact your supervisor for further instructions.
-
-Before proceeding, please ensure that you have the customer's email address and phone number. These details are required for communication and processing purposes.
-
-Please select a valid reason for cancellation from the dropdown menu or type in a specific reason if it's not listed. The customer's email and phone number are also required fields. Enter the refund amount and the refund method, and ensure that it's correct and reasonable for the cancellation.
-
-Note that the "Service Start Date" field is not required, but if you enter a date, it must be in the correct format (MM/DD/YYYY) to avoid errors.
-
-Please double-check your input for accuracy and completeness before submitting the form.
-
-</thinking>
-
 # service_cancellation_refund_form - Help Guide
 ## Purpose
 This form is used for processing service cancellations and refunds. It captures key information from the customer, including reason for cancellation, refund amount, and refund method.

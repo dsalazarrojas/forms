@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Jewelry Expertise Assessment - Help Guide
 ## Purpose
 The Jewelry Expertise Assessment form is designed to evaluate an individual's knowledge, skills, and experience in the jewelry industry. This assessment is used to determine an individual's level of expertise in various aspects of jewelry, including their knowledge of different types of jewelry, their required skills, and their level of experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Epiglottitis Knowledge Assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Match Attendance Form" that explains its purpose, how to complete it, and what each field means. This form is used to record attendance data for a specific match, including team and participant information, attendance status, and additional comments. It's essential to ensure that the form is filled out accurately and thoroughly to maintain accurate records. Before proceeding, please review this guide to understand the form's purpose and requirements.
-</thinking>
-
 # Match Attendance Form - Help Guide
 ## Purpose
 The Match Attendance Form is used to record attendance data for a specific match, including team and participant information, attendance status, and additional comments. This form helps maintain accurate records and ensures that attendance is tracked correctly.

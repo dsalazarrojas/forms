@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide a clear and concise explanation of the "Haircare Business Audit Appointment Form" to ensure end-users understand its purpose and how to complete it accurately.
-</thinking>
-
 # Haircare Business Audit Appointment Form - Help Guide
 ## Purpose
 This form is designed to schedule and document business audit sessions with contacts from the haircare industry. It collects essential information about the contact, such as their name, email, phone number, session preferences, and service interests. The form helps gather data to plan and conduct the audit sessions efficiently and effectively.

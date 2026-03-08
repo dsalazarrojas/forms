@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shopping Mall Emergency Exit Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to ensure that all emergency exit points in a shopping mall are thoroughly inspected and recorded. This form is used to document the status of emergency exits, exits, signs, alarms, and other critical safety features.

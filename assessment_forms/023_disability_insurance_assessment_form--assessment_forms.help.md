@@ -1,7 +1,3 @@
-<thinking>
-The Disability Insurance Assessment Form is designed to collect information from clients about their disability insurance needs and preferences. The form is used to determine the client's eligibility for disability insurance and to provide a personalized quote. The form asks for information about the client's assessment, insurance agent, client information, age, medical condition, disability start date, insurance provider, other providers, medical history, income, occupation, employment status, investment amount, investment frequency, investment option, and consent.
-</thinking>
-
 # Disability Insurance Assessment Form - Help Guide
 ## Purpose
 This form is used to collect information from clients about their disability insurance needs and preferences.

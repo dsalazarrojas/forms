@@ -1,11 +1,3 @@
-<thinking> 
-
-The form "HSSE Approval Checklist" appears to be used for obtaining approval for some kind of project or task within an organization, possibly for a project proposal, budget, or other similar purpose. This form might be used by various departments or teams within the organization to ensure consistency and adherence to standard approval processes. The form includes sections for essential information like organization details, contact person and phone/email, date and time, and approval status.
-
-Before starting the form, ensure that the required fields for the specific approval process are completed accurately and correctly to avoid duplication of work and minimize the risk of unnecessary back-and-forth communication. Ensure that the contact person and contact information are up-to-date and valid to facilitate timely communication and responses. Also, double-check the date and time to ensure it aligns with the organization's work schedule and approval deadlines. Lastly, be thorough in providing a clear and concise approval process explanation and reason for rejection (if applicable) to maintain transparency and understanding within the team and across departments.
-
-</thinking>
-
 # HSSE Approval Checklist - Help Guide
 ## Purpose
 The HSSE Approval Checklist form is designed to facilitate the approval process for various projects, tasks, or proposals within an organization. It collects essential information from the contact person, organization, and approval details to ensure a smooth and efficient approval process.

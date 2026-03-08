@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for ordering apparel products. The purpose of the form is for the customer to provide their contact information, select their preferred product, and specify their delivery details. Each page is divided into two main sections: "Contact Information" and "Order Details". The "Contact Information" section requires the customer to input their full name, email address, and phone number. The "Order Details" section requires the customer to select the product they want to order, provide their preferred size and color, specify the quantity of the product, and select the delivery method. The form also allows the customer to provide any special requests they may have. This form is intended to gather all the necessary information for processing the order.
-</thinking>
-
 # Apparel Product Order Form - Help Guide
 
 ## Purpose

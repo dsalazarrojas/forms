@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist spa staff and administrators with understanding the requirements and best practices for filling out the Foot Spa Appointment Booking form. The form is primarily used for booking spa appointments, and its completion necessitates accurate and complete information. The form's primary objective is to gather client and appointment details for efficient and effective booking management.
-</thinking>
-
 # Foot Spa Appointment Booking - Help Guide
 ## Purpose
 The Foot Spa Appointment Booking form is used to book appointments for clients at a foot spa. It is a crucial tool for spa staff and administrators to gather necessary information to manage appointments efficiently.

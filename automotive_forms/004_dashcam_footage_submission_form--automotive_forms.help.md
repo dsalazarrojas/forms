@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a dashcam footage submission related to a specific incident. The form is intended to gather details about the incident, including the time and location it occurred, the vehicle involved, and any damage caused. This form will help users provide clear and accurate information about the incident. Before starting, please check if you have already submitted a similar incident report. If so, please do not repeat the same report, as it may cause confusion in our system.
-
-Please note that this form is for submitting dashcam footage only. If you have other types of evidence or attachments, please contact our support team for further instructions on how to submit them.
-</thinking>
-
 # Dashcam Footage Submission Form - Help Guide
 ## Purpose
 The Dashcam Footage Submission Form is designed to collect information about a dashcam footage submission related to a specific incident. This form will help you provide clear and accurate information about the incident, including the time and location it occurred, the vehicle involved, and any damage caused.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Study Results Validity Assessment Form - Help Guide
 
 ## Purpose

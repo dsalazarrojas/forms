@@ -1,9 +1,3 @@
-<thinking>
-This form is a critical component of the Premier League Assessment Form, used to collect data for assessing the performance of referees in a sports league. The form is designed to capture essential information from players, including their first name, surname, email address, date of assessment, start time, duration of the assessment, referees' club, and referee assigned. This form will serve as the primary means of evaluating the performance of referees, and its accuracy and completeness are vital for making informed decisions. To ensure data integrity, please fill out the form carefully and thoroughly.
-
-Before proceeding, please check that you have not completed this form recently. If you have completed it previously, please do not submit duplicate data.
-</thinking>
-
 # premier-league-aal1-assessment-form - Help Guide
 ## Purpose
 The Premier League Assessment Form is a critical tool for evaluating the performance of referees in a sports league. It captures essential information from players, which is used to assess their performance accurately and make informed decisions.

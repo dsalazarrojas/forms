@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baby Clinic Pre Appointment Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about the baby's health and medical history before their scheduled appointment at the baby clinic. It is essential to provide accurate and up-to-date information to ensure a smooth and effective consultation.

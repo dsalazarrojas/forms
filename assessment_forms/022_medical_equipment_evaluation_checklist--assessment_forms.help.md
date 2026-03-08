@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about medical equipment, focusing on evaluation and assessment. The form has 9 sections, each with its own set of questions and prompts. The form is intended for medical professionals and others involved in the evaluation process. The purpose of this form is to gather comprehensive data about medical equipment, including its safety precautions, maintenance, and performance. This information will be used to make informed decisions about the equipment's suitability for use, and for future reference.
-
-Before starting, ensure that this form has not been used by you previously, as the responses will not be retained.
-
-</thinking>
-
 # Medical Equipment Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to collect thorough information about medical equipment, aiming to assess its condition and potential risks. Medical professionals can use it to evaluate equipment, identify safety hazards, and make informed decisions about its maintenance and use.

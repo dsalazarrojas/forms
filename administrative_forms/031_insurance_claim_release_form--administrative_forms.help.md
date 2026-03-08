@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals who are releasing their insurance claims. It's a simple, one-page form with six fields. This form is not part of an official insurance company's documentation, but rather a tool to help individuals release their claims in a structured manner. There is no direct connection to any specific insurance company, but rather a general form that can be used for any insurance claim release purpose.
-</thinking>
-
 # Insurance Claim Release Form - Help Guide
 ## Purpose
 This form is used to gather information from individuals who are releasing their insurance claims. It is a simple, one-page form designed to gather necessary details for claim release purposes.

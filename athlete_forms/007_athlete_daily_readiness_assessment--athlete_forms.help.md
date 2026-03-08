@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Athlete Daily Readiness Assessment - Help Guide
 
 ## Purpose

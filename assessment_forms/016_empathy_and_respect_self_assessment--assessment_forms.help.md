@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be assessing an individual's interpersonal skills and emotional intelligence. It appears to be evaluating their attitudes and behaviors towards relationships, empathy, and conflict resolution. The purpose of this form is likely to help users reflect on their own behaviors and identify areas where they may be improving their relationships with others. Each question is a self-assessment question that asks users to evaluate their own actions and feelings in specific situations.
-</thinking>
-
 # Empathy And Respect Self Assessment - Help Guide
 ## Purpose
 This form is designed to help individuals reflect on their attitudes and behaviors towards relationships, empathy, and conflict resolution. By answering the questions, you will be able to identify areas where you may be improving your relationships with others.

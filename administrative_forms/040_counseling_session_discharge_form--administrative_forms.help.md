@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Counseling Session Discharge Form - Help Guide
 
 ## Purpose

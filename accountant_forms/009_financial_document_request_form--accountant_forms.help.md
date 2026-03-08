@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about financial documents requested by the taxpayer. It helps in understanding what type of financial document is needed, its status, and the due date for its submission. This form should not be filled out if the document is already active or if the taxpayer doesn't need any financial document. Please ensure that this form is not duplicated and filled out by the same taxpayer for the same type of document.
-</thinking>
-
 # Financial Document Request Form - Help Guide
 ## Purpose
 This form is used to collect information about financial documents requested by taxpayers. It helps in understanding what type of financial document is needed, its status, and the due date for its submission.

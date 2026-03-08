@@ -1,5 +1,3 @@
-<thinking>As a form expert, I've analyzed the "Most Creative Branding Nomination Form" and I'm convinced that its primary purpose is to collect nominations for a creative branding project. This form is designed to gather information about a nominated project, its category, and the submitter's details, while ensuring that the submitter agrees to the terms and conditions of the submission. To ensure that this form serves its purpose effectively, I'll create a user-facing help guide to walk users through the nomination process.</thinking>
-
 # Most Creative Branding Nomination Form - Help Guide
 ## Purpose
 The Most Creative Branding Nomination Form is designed to collect nominations for a creative branding project. This form helps to identify and celebrate innovative and impressive branding efforts.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather information from customers for cake pricing purposes. It is essential to ensure that we can provide accurate pricing and services that meet their expectations. To avoid any misunderstandings or miscommunication, it is crucial to complete this form carefully and thoroughly. Please note that some fields are required and some are optional, so make sure to provide all required information to get the best results.</thinking>
-
 # Cake Pricing Overview - Help Guide
 ## Purpose
 The Cake Pricing Overview form is designed to collect information from customers for the purpose of getting a cake price quote. It will help us understand their preferences, requirements, and expectations to provide an accurate pricing estimate.

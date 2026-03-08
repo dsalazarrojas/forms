@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals requesting career counseling sessions. The form is designed to be user-friendly and efficient, allowing for easy submission of requests. It is not a form for internal use, but rather a publicly accessible template that can be filled out by anyone seeking career guidance. It's possible that some users may already be familiar with similar forms, but to ensure clarity, this guide will walk through each field and its intended use.
-
-The form is not intended to be used for any commercial purposes, and it's released under a Creative Commons license allowing for modification and distribution under certain terms. The purpose of this form is not affiliated with, endorsed by, or derived from any other form platform. It's an original creation using public survey topic metadata as inspiration. 
-
-</thinking>
-
 # Career Counseling Session Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Cargo Loss Incident Form is to document and report incidents of cargo loss or damage. This form helps ensure that all relevant details are captured and reported consistently, aiding in the swift resolution and prevention of future incidents.
 
 To complete this form, follow these steps:

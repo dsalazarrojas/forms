@@ -1,13 +1,3 @@
-<thinking>
-
-The Industrial Hygiene Inspection Form is a comprehensive tool used to document and track industrial hygiene inspections within a workplace. The form is designed to be completed by inspectors to collect data on the conditions of the workspace, equipment, and employee interactions. This form is typically used by health and safety professionals to assess and identify potential hazards and risks within the industrial environment. 
-
-This form can be used to identify potential hazards and risks within various industries such as manufacturing, construction, and food processing. By using this form, inspectors can gather information on the type and number of inspectors involved, the date and time of the inspection, as well as notes on specific areas of concern. This form can also be used to track and follow up on past inspections, ensuring that improvements are made based on the findings.
-
-Before completing this form, make sure that you have a clear understanding of the workplace environment and the hazards present. Review the form's guidelines and instructions to ensure that you are collecting the correct information. If you are unsure about any section of the form, please ask your supervisor or a qualified safety professional for guidance.
-
-</thinking>
-
 # Industrial Hygiene Inspection Form - Help Guide
 ## Purpose
 This form is used by inspectors to collect data on industrial hygiene inspections within the workplace.

@@ -1,7 +1,3 @@
-<thinking>
-The form designer is required to create a user-facing help guide for the "Payment Request Form" within the "accountant_forms" category, which should include a brief explanation of the form's purpose, instructions on how to complete it, and a field-by-field explanation of each field. The form's YAML schema is provided, which outlines the fields and their properties. The form is for creating payment requests, and the purpose is to collect information about a payment, including the amount, method, date, term, description, contact information, and any supporting documents. The form should be designed for users who need to make a payment request, such as customers or vendors. Each field's label and hint should be used as a starting point for creating the field-by-field explanation, and any unclear labels should be best-effort explained without inventing business logic. The resulting help guide should be concrete, concise, and practical, and should provide users with the necessary information to complete the form accurately.
-</thinking>
-
 # Payment Request Form - Help Guide
 ## Purpose
 The Payment Request Form is designed to collect information about payments that need to be made. Fill out this form to submit a payment request, including the amount, method, date, term, description, contact information, and any supporting documents.

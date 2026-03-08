@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # first_meeting_date_selection - Help Guide
 ## Purpose
 This form is designed to assist users in selecting key details for an initial appointment. The form is intended to be used in conjunction with other appointment scheduling tools to ensure consistency and accuracy.

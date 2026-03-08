@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by parents or guardians to request access to the Family Portal, a platform that allows them to access their child's information and progress in school. The form is used to gather the necessary information from the guardian to verify their identity and relationship to the student. This form should only be filled out once per guardian and is not intended for repeated use. Please ensure that you only fill out this form if you are the parent or guardian of the student in question.
-</thinking>
-
 # Family Portal Access Request - Help Guide
 
 ## Purpose

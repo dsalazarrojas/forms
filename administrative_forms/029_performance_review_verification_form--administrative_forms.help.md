@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # performance_review_verification_form - Help Guide
 
 ## Purpose

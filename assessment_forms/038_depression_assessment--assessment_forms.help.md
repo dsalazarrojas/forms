@@ -1,7 +1,3 @@
-<thinking>
-The form is a depression assessment form, designed to collect information from patients. To use this form, you should be aware that it's intended for medical purposes only and not for commercial or personal use. Before proceeding, ensure you have the necessary permissions and rights to use this form, as it's not affiliated with any specific platform.
-</thinking>
-
 # Depression Assessment - Help Guide
 ## Purpose
 The depression assessment form is a tool used to gather information from patients about their mental health status, particularly regarding depression. This form helps healthcare professionals assess and document a patient's symptoms, medical history, and treatment plans.

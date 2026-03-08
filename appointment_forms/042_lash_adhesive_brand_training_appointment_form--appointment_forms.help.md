@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for training sessions related to lash adhesive brands. It is crucial that users fill out this form correctly to ensure accurate data collection. Please note that you will need to fill out each field accurately and truthfully, and you should not duplicate any training sessions.
-
-</thinking>
-
 # Lash Adhesive Brand Training Appointment Form - Help Guide
 
 ## Purpose

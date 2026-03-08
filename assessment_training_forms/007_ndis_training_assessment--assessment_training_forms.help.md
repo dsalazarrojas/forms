@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess a training session, capturing details such as the training provider, session date, feedback, and outcomes. This form is designed to be completed by the training facilitator or assessor after a training session. The purpose of this form is to ensure that the training session was conducted effectively and that the training provider meets the necessary standards. This form should not be completed by the trainee or anyone who was not present during the training session. To ensure consistency, please only complete this form once for each training session.
-
-</thinking>
-
 # NDIS Training Assessment - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ### Golden Rule Award Nomination Form - Help Guide
 ## Purpose
 The Golden Rule Award Nomination Form is a tool to help recognize individuals who embody the Golden Rule of our organization. This form is used to collect nominations from colleagues, peers, and team members who believe an individual deserves this award.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Booking For Bed And Breakfast Form - Help Guide
 ## Purpose
 This form is designed to help guests make a booking for a bed and breakfast. It gathers information about the guest, their preferences, and payment details to process their request efficiently.

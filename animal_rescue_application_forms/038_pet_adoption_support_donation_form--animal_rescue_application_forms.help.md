@@ -1,7 +1,3 @@
-<thinking>
-The form "pet_adoption_support_donation_form" is designed to support pet adoption and donations for animal rescue organizations. The form is divided into multiple pages, each with different types of fields to gather various information from users. The form is intended to be completed by individuals who want to support pet adoption and donation efforts by providing their details and preferences. To ensure accuracy and completeness, please review the form carefully and answer all the questions truthfully.
-</thinking>
-
 # pet_adoption_support_donation_form - Help Guide
 ## Purpose
 This form is for users who want to support pet adoption and donation efforts by providing their details and preferences. It is designed to collect relevant information from users to facilitate effective support.

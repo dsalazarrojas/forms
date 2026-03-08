@@ -1,8 +1,3 @@
-<thinking>
-The "Adopted Pet Discharge Form" is a critical document used to record the details of an adopted pet's medical, behavioral, and care information. This form is used to ensure a smooth transition for the pet from the shelter to its new adopter, and to provide the adopter with accurate and essential information for proper care and maintenance. 
-To confirm the accuracy and consistency of the form, we check that the adopter has provided all required information and verify that the form is not already completed for the pet.
-</thinking>
-
 # Adopted Pet Discharge Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure that our customers understand the purpose and usage of the Chava' Pelo Salon Self Assessment Form. This form is designed to gather information about a guest's current health status before their appointment, to ensure a safe and healthy environment for everyone. It's crucial that the guest answers these questions honestly, and that this form is not duplicated or misused.
-
-The form is divided into two main sections: an introduction and the assessment questions. The introduction provides a clear explanation of the form's purpose and importance. The assessment questions cover a range of topics related to COVID-19, including symptoms, exposure, and health status. Each question is designed to gather relevant information to assess the guest's health risks and determine the necessary precautions to be taken during their appointment.
-
-It's essential that the guest completes this form accurately and honestly, as it will help us provide a safe and healthy experience for everyone involved. This includes the guest, our staff, and other customers.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Chava' Pelo Salon Self Assessment Form - Help Guide
 ## Purpose
 ## How To Complete This Form

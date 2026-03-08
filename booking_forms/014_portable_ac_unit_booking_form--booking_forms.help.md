@@ -1,11 +1,3 @@
-<thinking>
-The Portable AC Unit Booking Form is used to book a portable air conditioning unit for a specific time period. It is designed to capture customer information, unit details, and payment preferences. This form will help customers reserve a unit for a certain period and provide necessary details for the delivery or installation process.
-To ensure you are in the right place, please note that:
-- This form is for booking a portable AC unit, not for other types of rentals or services.
-- If you are looking for a different type of rental or service, please do not proceed with this form.
-- Please review your booking requirements before submitting the form.
-</thinking>
-
 # Portable AC Unit Booking Form - Help Guide
 ## Purpose
 The Portable AC Unit Booking Form is used to book a portable air conditioning unit for a specific time period. It is designed to capture customer information, unit details, and payment preferences.

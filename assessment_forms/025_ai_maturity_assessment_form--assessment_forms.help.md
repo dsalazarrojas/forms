@@ -1,12 +1,3 @@
-<thinking> 
-We are developing an AI Maturity Assessment Form to help organizations evaluate their current state of AI implementation and identify areas for improvement. This form is designed to be completed by respondents with knowledge of their organization's AI initiatives and capabilities. To ensure accurate results, please complete the form with the person most familiar with your organization's AI efforts.
-
-This form is not intended to be a comprehensive, exhaustive evaluation, but rather a starting point for further discussion and discovery. The assessment is based on four dimensions: Data Maturity, Infrastructure & Technology, Talent & Culture, and Strategy & Governance. Each dimension is further divided into sub-sections, and the questions are designed to be answered in a binary or rating system.
-
-Please note that some questions may be redundant or overlap with others. If you're unsure about the relevance of a question, please provide your best effort to answer it. If you have any questions or concerns about the form, please don't hesitate to reach out to us.
-
-</thinking>
-
 # AI Maturity Assessment Form - Help Guide
 ## Purpose
 The AI Maturity Assessment Form is designed to evaluate your organization's current state of AI implementation and identify areas for improvement. The form assesses four dimensions: Data Maturity, Infrastructure & Technology, Talent & Culture, and Strategy & Governance.

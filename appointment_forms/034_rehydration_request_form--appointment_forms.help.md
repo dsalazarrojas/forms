@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the rehydration_request_form form is to collect information about an individual's rehydration needs, typically in the context of medical or healthcare settings. This form is used to gather personal details such as name, contact information, and location, as well as specific details about the rehydration request, including date, time, and urgency level. It is crucial to ensure that the form is filled out accurately and thoroughly to provide the best possible care and response to the individual's needs.
-</thinking>
-
 # rehydration_request_form - Help Guide
 ## Purpose
 The rehydration_request_form is a tool used to collect information about an individual's rehydration needs in a medical or healthcare setting.

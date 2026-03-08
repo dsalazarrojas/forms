@@ -1,7 +1,3 @@
-<thinking>
-This form is for access control check-in purposes, ensuring that visitors and employees can accurately report their identity, department affiliation, and access level upon entering the building. This form is likely used in a corporate or office setting where security and access control are paramount. The form appears to be designed to capture essential information for granting access to restricted areas or resources.
-</thinking>
-
 # Access Control Check In Form - Help Guide
 
 ## Purpose

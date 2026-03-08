@@ -1,11 +1,3 @@
-<thinking>
-This form is used to assess the progress of a student's choreography skills. The form is meant to be completed by an instructor or assessor to evaluate a student's performance during a dance session or class. The assessor fills out the form to provide feedback and evaluate the student's level of proficiency in different dance skills, such as Dance 1, Dance 2, and Dance 3.
-
-To determine if the form is a duplicate, the assessor should ensure that the student's ID is unique and that the assessment date is accurate. The purpose of this form is to provide a clear and concise evaluation of the student's progress, which will help the student identify areas of improvement and work towards their goals.
-
-The form is divided into several sections: student ID, level of proficiency, dance skills, evaluation criteria, comments, additional comments, assessment date, and assessor comments. Each section is designed to gather specific information about the student's progress and performance during the assessment.
-</thinking>
-
 # Student Choreography Progress Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the progress of a student's choreography skills.

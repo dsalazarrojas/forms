@@ -1,5 +1,3 @@
-<thinking>Refund Timeframe Exception Request form is used to request an exception to the refund timeframe for a specific purchase. This form is used to communicate with the customer service team and the business team about the refund request. The form is used to provide details about the purchase, reason for refund, and any additional information that may be required. Please ensure that you only submit one request per purchase, and that your request is not already in progress or pending. Before submitting, check that all relevant fields are filled correctly and that you are providing enough information for the customer service team to process your request.</thinking>
-
 # Refund Timeframe Exception Request - Help Guide
 ## Purpose
 The Refund Timeframe Exception Request form is used to request an exception to the refund timeframe for a specific purchase. This form is used to communicate with the customer service team and the business team about the refund request.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about businesses that have been impacted by the COVID-19 pandemic. It aims to gather data on various aspects of how businesses have been affected, including their operational changes, employee impact, and financial challenges. The survey will help identify areas where businesses need assistance and support to recover from the pandemic. This form is intended for businesses that have been in operation for at least 1 year and are willing to be contacted for follow-up. It is not intended for non-businesses or businesses that have not been impacted by the pandemic.
-</thinking>
-
 # COVID 19 Business Assistance Survey - Help Guide
 ## Purpose
 

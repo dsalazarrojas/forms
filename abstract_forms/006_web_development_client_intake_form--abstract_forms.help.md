@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form, "web_development_client_intake_form", is to collect information about a client's project requirements, technical specifications, and project status. This form is intended to streamline the client onboarding process for web development projects. The form will help to gather essential details about the client's project, such as the tech stack, project location, budget, status, type, and priority. The gathered data will be used to facilitate communication and collaboration between the client and the development team.
-
-</thinking>
-
 # web_development_client_intake_form - Help Guide
 ## Purpose
 The web_development_client_intake_form is a form designed to collect crucial information about a client's web development project. This form will help to streamline the client onboarding process and facilitate effective communication between the client and the development team.

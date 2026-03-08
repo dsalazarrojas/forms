@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for assessing candidates for a specific position within the company. Its purpose is to collect information about the candidate's technical knowledge, problem-solving ability, communication skills, cultural fit, and overall performance. The form should be completed by an assessor who has interviewed or observed the candidate. The form's structure is divided into several sections, each focusing on a specific aspect of the candidate's abilities and performance. Please make sure to fill out this form carefully and consistently to get the most accurate assessment.
-
-This form is a single-page form with 17 fields. Please ensure that all required fields are filled out to avoid any issues with submission.
-</thinking>
-
 # Applicant Assessment Form - Help Guide
 ## Purpose
 This form is designed for assessing candidates for a specific position within the company. Its purpose is to collect information about the candidate's technical knowledge, problem-solving ability, communication skills, cultural fit, and overall performance.

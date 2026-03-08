@@ -1,15 +1,3 @@
-<thinking>Internal reasoning:
-
-This form is designed for assessing the knowledge of railway operation team members on a specific locomotive operation scenario. The form is meant to be completed by train operators and engineers, and it will ask questions regarding their knowledge of safety procedures, locomotive systems, and experience in the field. The purpose of this form is to evaluate the operator's understanding of the topic, identify knowledge gaps, and provide feedback for future training and improvement.
-
-To complete this form, operators will need to provide answers to various questions, including multiple-choice questions and free-text answers. They will be asked about their experience, role, and operator name, as well as about the locomotive type and submission status. The form also includes a section for notes and additional information.
-
-The form is divided into several sections, each with its own set of questions. The first section, "Introduction", is a text-based question that introduces the form and explains its purpose. The second section, "Category", asks operators to select whether they have a specific category of knowledge. The third section, "Role", asks operators to select their role in the railway operation, and so on.
-
-Each question is designed to assess a specific aspect of the operator's knowledge and experience, and the answers will be evaluated based on their relevance and accuracy.
-
-</thinking>
-
 # locomotive_operation_knowledge_assessment - Help Guide
 ## Purpose
 This form is designed for assessing the knowledge of railway operation team members on a specific locomotive operation scenario.

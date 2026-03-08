@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will analyze the provided YAML fields. The form is titled "Home Visitation Form" and appears to be used for recording details of home visits made by staff or other visitors. The form includes fields for visit details, date and time, duration, frequency, visited person and location, visit type, and visit status.
-
-To identify the relevance of this form, I will consider the context in which it might be used. This form is likely used in a healthcare or social services setting where staff or other visitors make home visits to patients or families.
-
-To determine if the form has already been duplicated, I will review existing forms in the same category ("appointment_forms") to see if any similar forms exist. Based on the fields provided, it seems this form is distinct from others in the same category.
-
-Given that the form is relevant and not a duplicate, its purpose is likely to collect and record information about home visits made by staff or other visitors in a healthcare or social services setting.
-</thinking>
-
 # Home Visitation Form - Help Guide
 ## Purpose
 The Home Visitation Form is used to record details of home visits made by staff or other visitors in a healthcare or social services setting.

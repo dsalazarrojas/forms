@@ -1,18 +1,3 @@
-<thinking>
-
-This form is designed to record the completion status of operator training sessions. It's intended for use by operators and their supervisors to keep track of training progress and sign off completion. The form is likely used in a work environment where operators require training on specific tasks or procedures. 
-
-To determine if this form is relevant to your use case, consider the following:
-- Do you need to track training completion status for operators?
-- Are there multiple operators and supervisors involved in the training process?
-- Do you need to record comments and review dates for each training session?
-
-If yes, this form may be applicable to your use case.
-
-Please ensure this form is not duplicated and refer to the relevant business process documentation for more information on the expected usage and completion of this form.
-
-</thinking>
-
 # Operator Training Sign Off - Help Guide
 ## Purpose
 

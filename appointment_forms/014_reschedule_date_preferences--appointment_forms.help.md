@@ -1,9 +1,3 @@
-<thinking>
-This form is for end-users to reschedule an existing appointment or meeting. The form is designed to collect relevant information from the user to facilitate the rescheduling process. This form is typically used when an appointment or meeting needs to be rescheduled due to unforeseen circumstances or personal reasons. The form is used in conjunction with other systems and processes, such as calendar management and communication tools, to ensure that all stakeholders are informed and up-to-date about the changes.
-
-Before proceeding, please ensure that you have all necessary information readily available. This form may require multiple fields to be completed, so please refer to each field explanation below for more details.
-
-</thinking>
 # Reschedule Date Preferences - Help Guide
 ## Purpose
 The "Reschedule Date Preferences" form is designed to help end-users reschedule an appointment or meeting by providing a structured way of collecting the necessary information.

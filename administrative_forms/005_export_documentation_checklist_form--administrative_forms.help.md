@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "export_documentation_checklist_form" form, we first need to understand its purpose and requirements. This form is likely used for exporting documents, certificates, and other related items. The fields include options for exporting documents, certificates, and other items, with some fields being optional.
-
-The form is divided into multiple pages, each with a unique identifier (id), name, label, and type. The form seems to ask about exporting documents, certificates, and other items, with some fields allowing for multiple selections. 
-
-The form's fields suggest that it is used in a context where exporting and certifying items is crucial. The fields also seem to be asking about the presence or absence of certain items, such as certificates, export certificates, commercial invoices, and certificate of origin.
-
-The form might be used in a business or commercial context, where exporting and importing goods is involved. This form could be used to gather information about the process of exporting goods, including the presence of certificates and commercial invoices.
-
-Before creating the form, it's essential to review the business logic and ensure that the form is not duplicating any existing form in the same context.
-
-</thinking>
-
 # export_documentation_checklist_form - Help Guide
 ## Purpose
 This form is used to document the exportation process, including the exportation of documents, certificates, and other related items.

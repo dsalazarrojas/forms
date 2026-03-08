@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help the Saddlebred Association recognize and celebrate the accomplishments of outstanding Saddlebred horses. The form submission process is designed to gather information about the horse's achievements and owner information, including horse breed, age, color, height, and supporting files. Please ensure you have all necessary information and supporting documents before starting the submission process. To avoid duplication, please check our database to see if the horse has already been recognized before submitting this form.
-
-</thinking>
-
 # Saddlebred Recognition Submission - Help Guide
 ## Purpose
 This form is designed to help the Saddlebred Association recognize and celebrate outstanding Saddlebred horses. It collects information about the horse's achievements, owner details, and supporting files.

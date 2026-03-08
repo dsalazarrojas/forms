@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for moderators to request that a user's account be allowed to unmute a channel. This form is meant to be completed by moderators to facilitate this process, and is not intended for users to complete themselves. 
-
-The form will be reviewed and processed internally to determine if the unmute request should be approved or denied.
-
-</thinking>
-
 # Unmute Permission Request Form - Help Guide
 ## Purpose
 This form is used for moderators to request that a user's account be allowed to unmute a channel.

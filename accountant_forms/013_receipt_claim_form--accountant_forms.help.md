@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be used by employees to claim reimbursement for business expenses. The form is meant to be filled out by the employee who has incurred the expense, and the information collected will be used to process the reimbursement. The form should only be filled out by the employee who has actually incurred the expense, and not by someone else on their behalf. This form will collect information about the business expense, including the amount claimed, the date it was submitted, and other relevant details. To ensure the form is completed correctly, please ensure you are only filling out fields that apply to your specific situation.
-
-</thinking>
-
 # Receipt Claim Form - Help Guide
 ## Purpose
 

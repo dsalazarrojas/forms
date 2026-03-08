@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for small businesses to gather and organize financial data in a structured and concise manner. The purpose of this form is to gather information about a small business's revenue, financial goals, expenses, and other relevant financial details. This form can be used by business owners, financial planners, or accountants to get an overview of a small business's financial situation.
-
-By completing this form, users will be able to:
-
-* Gather and organize financial data in a structured and concise manner
-* Identify areas of improvement in financial planning and operations
-* Make informed decisions based on data-driven insights
-* Enhance financial planning and analysis capabilities
-
-Note that this form is not intended to be a comprehensive financial analysis tool, but rather a starting point for further analysis and discussion. It is essential to review and refine the collected data before making any financial decisions.
-
-This form has been created using only public survey topic metadata and is an original adaptation. It is released under CC BY 4.0 license, allowing users to use, modify, and distribute the form freely.
-</thinking>
-
 # Small Business Financial Assessment - Help Guide
 ## Purpose
 This form is designed to gather and organize financial data for small businesses. It consists of 8 questions, covering revenue, financial goals, expenses, and other relevant financial details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist with ordering t-shirts. It is not necessary that users have a strong understanding of the form purpose before proceeding, but it is helpful to know that each field is designed to collect information from the customer in order to facilitate the order process. The form should be completed by anyone who wants to place an order for a t-shirt.
-</thinking>
-
 # t_shirt_product_order_form - Help Guide
 ## Purpose
 The t_shirt_product_order_form is a form designed to collect information from customers to facilitate the order process for t-shirts.

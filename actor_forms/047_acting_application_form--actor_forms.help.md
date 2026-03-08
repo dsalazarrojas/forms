@@ -1,7 +1,3 @@
-<thinking>
-We must ensure that the form's purpose and each field's intent are clear to the end user, so we'll create a comprehensive help guide that addresses these concerns.
-</thinking>
-
 # Acting Application Form - Help Guide
 ## Purpose
 The Acting Application Form is a tool used by actors to submit their applications for auditions, casting calls, or other acting opportunities. This form helps casting directors, agents, or other stakeholders quickly and easily gather relevant information about the actor, making it easier to consider them for the role.

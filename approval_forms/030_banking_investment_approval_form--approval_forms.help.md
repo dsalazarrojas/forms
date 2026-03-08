@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Banking Investment Approval Form - Help Guide
 
 ## Purpose

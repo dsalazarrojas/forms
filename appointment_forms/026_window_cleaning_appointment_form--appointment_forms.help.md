@@ -1,5 +1,3 @@
-<thinking>As we review the form's purpose and requirements for the end user, we need to ensure that the form serves its intended goal of capturing essential information for the window cleaning service. The form's purpose is to collect details from the client to schedule a window cleaning appointment. It's crucial that the form is user-friendly, easy to understand, and free from redundant questions to avoid overwhelming the client. We aim to create a comprehensive guide that will walk the end-user through each section of the form, explaining every field and their corresponding labels to facilitate a smooth and efficient submission. Let's review the form's structure and content before proceeding.</thinking>
-
 # Window Cleaning Appointment Form - Help Guide
 
 ## Purpose

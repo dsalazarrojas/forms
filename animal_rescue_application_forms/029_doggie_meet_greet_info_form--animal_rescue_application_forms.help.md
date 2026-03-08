@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this vehicle evaluation form is to gather information about vehicles for a specific evaluation process. This form is likely used for inventory management, sales, or other purposes within the automotive industry. Before filling out this form, please ensure you have all the necessary information and that you are using it for the correct purpose. To the best of my knowledge, this form does not duplicate any other form with a similar purpose in the "automotive_forms" category.
 
 </thinking>

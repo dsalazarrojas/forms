@@ -1,11 +1,3 @@
-<thinking>
-This form template is designed to collect veterinary appointment information from pet owners. The "Veterinary Appointment Checklist Form Template" is intended for veterinary clinics, hospitals, or animal care providers to gather necessary details about the pet's visit, including general information, appointment specifics, and medical history.
-The form is likely to be used by pet owners, veterinary staff, or veterinarians to streamline the appointment process, ensuring all necessary information is collected and documented before the appointment.
-There is no indication that this form is part of a larger system or workflow, so it is unlikely to be duplicated or conflicting with other forms.
-This form template is a basic, original design created by an AI, using public survey topic metadata from the "appointment_forms" category.
-No proprietary content was used in its creation.
-</thinking>
-
 # Veterinary Appointment Checklist Form Template - Help Guide
 ## Purpose
 The "Veterinary Appointment Checklist Form Template" is a basic form designed to collect information about a pet's visit to a veterinary clinic or hospital. It is intended to be used by pet owners, veterinary staff, or veterinarians to ensure a smooth and efficient appointment process.

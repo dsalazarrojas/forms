@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from submitters regarding a synthesis document submission. This information will be used to track and manage submissions. The submitter and collaborator information will be used to identify the person submitting the document and any collaborators involved in the submission. The synthesis document type will be used to categorize the document type. The submission date and time will be used to track when the document was submitted. The submitter notes will be used for any additional comments or information from the submitter. The synthesis document URL and title will be used to track the document URL and title.
-</thinking>
-
 # Synthesis Document Submission Form - Help Guide
 ## Purpose
 The Synthesis Document Submission Form is used to gather information from submitters regarding a synthesis document submission. This form is used to collect data on the submitter, collaborator, synthesis document type, submission date, submission time, and submitter notes.

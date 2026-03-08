@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a checklist for document review, ensuring that all required and optional items are checked off to verify the document's completeness. The form is composed of multiple fields, each representing a different aspect of the document's review, such as completeness, attachments, formatting, and content. 
-The form's purpose is to provide a structured way to evaluate the document's review status and ensure consistency across different evaluations. It's essential to complete each field accurately and thoroughly, as this will directly impact the document's review status.
-</thinking>
-
 # document_review_checklist - Help Guide
 ## Purpose
 The document review checklist is a form used to evaluate the completeness and accuracy of a document. It helps ensure that all aspects of the document are reviewed and verified to meet the required standards.

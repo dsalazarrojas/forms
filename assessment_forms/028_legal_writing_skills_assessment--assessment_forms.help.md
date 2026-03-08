@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess the legal writing skills of an individual or team. This form aims to evaluate the quality of written documents, such as contracts, memos, or reports, submitted by the users. The form consists of several sections that allow users to self-rate their own writing and provide feedback on the quality of submitted documents. The assessment is subjective and based on the user's perception of their own writing skills.
-</thinking>
-
 # Legal Writing Skills Assessment - Help Guide
 ## Purpose
 

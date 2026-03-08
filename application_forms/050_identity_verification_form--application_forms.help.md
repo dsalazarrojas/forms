@@ -1,9 +1,3 @@
-<thinking>As a technical writer, I'll create a user-facing help guide for the "Identity Verification Form" based on the provided YAML input schema. Before diving into the guide, here's a brief internal reasoning block to clarify the purpose and requirements of the form:
-
-The Identity Verification Form is designed to collect personal information from users to verify their identity. This form is likely used in high-security contexts where accurate identity verification is crucial. By following this guide, users will be able to fill out the form correctly and provide the necessary information to complete the verification process.
-
-</thinking>
-
 # Identity Verification Form - Help Guide
 ## Purpose
 The Identity Verification Form is a document designed to collect and verify personal information from users. This form is intended for high-security contexts where accurate identity verification is essential.

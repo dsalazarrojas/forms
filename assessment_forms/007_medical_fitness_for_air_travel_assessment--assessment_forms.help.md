@@ -1,6 +1,3 @@
-<thinking>
-This form is used for assessment of a traveler's medical fitness for air travel. The form helps gather relevant information about the travel details, travel destination, medical clearance, and any potential health risks associated with the trip. The form fields are designed to be completed by a healthcare professional. This form does not aim to be an exhaustive assessment tool but rather a basic aid to aid healthcare professionals in making decisions related to air travel. Please refer to local medical guidelines and travel regulations for more specific and detailed information. Ensure that the completed form is accurate and up-to-date to avoid any potential risks or complications.</thinking>
-
 # Medical Fitness For Air Travel Assessment - Help Guide
 
 ## Purpose

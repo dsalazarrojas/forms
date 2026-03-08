@@ -1,7 +1,3 @@
-<thinking>
-This form is primarily used by customer support teams to monitor and track the progress of customer support tickets. It helps to keep track of ticket details, status, customer information, and resolution notes. The form is designed to be used by customer support agents during regular monitoring and review of customer tickets, ensuring that they are up-to-date on the status of each ticket and can provide accurate information to customers.
-</thinking>
-
 # Customer Support Ticket Monitoring Form - Help Guide
 
 ## Purpose

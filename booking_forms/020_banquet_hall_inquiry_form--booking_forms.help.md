@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to collect information from potential customers who are interested in booking a banquet hall for their events. It is essential to provide accurate and relevant information to ensure that their event is planned and executed smoothly. Please complete this form carefully, and if you have any further questions or concerns, do not hesitate to reach out to us.
-
-Before starting, please ensure you have reviewed our available banquet halls and their capacities to select the most suitable option for your event.
-
-This form will guide you through the necessary details to help us better understand your requirements and preferences. 
-
-The information provided will be used to tailor our services and provide the best experience for your event.
-
-If you have already submitted similar information, kindly let us know so that we can prevent duplicate entries.
-</thinking>
-
 # Banquet Hall Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for potential customers to book a banquet hall for their events. It will help our team understand their requirements and preferences to provide a smooth and enjoyable experience.

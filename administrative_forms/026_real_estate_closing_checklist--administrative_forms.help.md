@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be a checklist for real estate closing processes. It is used to record and track the status of real estate transactions, including property status, closing date, sale price, and other relevant details. This form will help administrators ensure that all necessary steps are taken to complete a real estate closing process.
-
-To avoid duplication, please do not create a new form if a similar form already exists in the system. If you are unsure about the purpose or functionality of this form, please review the form's settings and instructions before proceeding.
-
-This form is part of a larger set of tools used by administrators to manage real estate transactions. It is essential to understand the form's purpose and how to use it correctly to avoid errors and ensure accurate data recording.
-
-Before using this form, please review the instructions below to understand its components and how to complete it correctly.
-</thinking>
-
 # Real Estate Closing Checklist - Help Guide
 ## Purpose
 This form is a checklist for real estate closing processes, used to track and record details of real estate transactions.

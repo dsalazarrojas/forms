@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for this "Facility Unauthorized Entry Incident Report" form. This form is designed to collect information about incidents that occur within a facility, such as security breaches, property damage, or theft. To complete this form, follow the steps below.</thinking>
-
 # Facility Unauthorized Entry Incident Report - Help Guide
 ## Purpose
 The Facility Unauthorized Entry Incident Report form is used to document and report incidents that occur within a facility. This form helps to gather detailed information about the incident, including the facility involved, the type of incident, and any supporting documentation.

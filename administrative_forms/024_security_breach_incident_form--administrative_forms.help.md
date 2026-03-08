@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # security_breach_incident_form - Help Guide
 ## Purpose
 This form is used to report security breaches or incidents within the organization. It captures essential information about the incident, including details about the incident itself, the reporter's contact information, and any relevant supporting documentation. This form helps ensure that incidents are reported accurately and consistently, facilitating prompt and effective action to mitigate potential risks.

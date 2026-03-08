@@ -1,16 +1,3 @@
-<thinking>
-# Athletics Program Enrollment Form - Help Guide
-
-Internal reasoning:
-
-This form is used for enrolling athletes in a sports program, collecting information about the student such as name, grade level, contact information, and sports preferences. This form aims to provide the necessary details to efficiently register students in the program, ensuring accurate and comprehensive data collection.
-
-Form fields are categorized into sections for easier navigation. Some fields, like 'Student Information' and 'Parent/Guardian Information', require sensitive data and are marked as 'required'. 'Athletics Information' and 'Emergency Contact Information' are optional and used for supplementary purposes. 
-
-To avoid duplication and ensure the accuracy of the data, it is essential to review the form carefully before submission.
-
-</thinking>
-
 # Athletics Program Enrollment Form - Help Guide
 ## Purpose
 The Athletics Program Enrollment Form is used to gather information from athletes to enroll them in a sports program. This form collects personal details and sports preferences of the athlete.

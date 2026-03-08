@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information for the process of discharging a life insurance policy. This form will be used to gather relevant details from the policyholder, beneficiary, and other relevant parties. The purpose of this form is to ensure a smooth and accurate discharge process. Before filling out this form, please ensure you have the necessary permissions and approvals from all relevant parties. Also, please note that this form should not be used to collect information for duplicate discharges or for policies that are not currently active.</thinking>
-
 # Life Insurance Discharge Form - Help Guide
 ## Purpose
 This form is used to collect information for the process of discharging a life insurance policy. Please ensure you have the necessary permissions and approvals from all relevant parties before filling out this form.

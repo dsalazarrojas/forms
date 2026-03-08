@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information for parent-teacher conferences, which are meetings between parents and teachers to discuss a student's progress in school. This form helps teachers and other school staff to schedule and prepare for these conferences with students' parents. The form asks for the type of conference, dates and times of the conference, location, and any additional comments.
-The purpose of this form is to ensure that conferences are properly scheduled and communicated with parents, and to help teachers and staff be well-prepared for the meetings.
-To avoid duplication, it's recommended that schools or districts only use this form for scheduling purposes, and not for storing student progress or performance data.
-</thinking>
-
 # Parent Teacher Conference Time Off Form - Help Guide
 ## Purpose
 This form is used to schedule and prepare for parent-teacher conferences, allowing teachers and staff to gather essential information from parents and plan accordingly.

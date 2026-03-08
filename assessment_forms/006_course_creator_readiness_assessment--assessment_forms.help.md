@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to help course creators understand how to effectively complete the Course Creator Readiness Assessment form. Before diving in, let's briefly review the form's purpose and ensure it's not redundant.
-
-The Course Creator Readiness Assessment form is a valuable tool for course creators to evaluate their readiness in terms of years of experience, marketing strategy, target audience, course creation process, course launch strategy, lead qualification, and overall readiness score. This form helps course creators assess their strengths and weaknesses, providing a comprehensive evaluation to inform their growth and improvement.
-
-The form does not require any prior knowledge or experience, and is designed to be completed by course creators who are either new or experienced in the field. It's essential to complete the form accurately and honestly to get a reliable assessment.
-
-The form consists of 8 fields, each focusing on a specific aspect of course creation and launch. By understanding each field's purpose and requirements, course creators can complete the form efficiently and effectively.
-
-</thinking>
-
 # Course Creator Readiness Assessment - Help Guide
 ## Purpose
 The Course Creator Readiness Assessment form is designed to evaluate a course creator's readiness in terms of years of experience, marketing strategy, target audience, course creation process, course launch strategy, lead qualification, and overall readiness score. This form helps course creators assess their strengths and weaknesses, providing a comprehensive evaluation to inform their growth and improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Movie Release Form - Help Guide
 
 ## Purpose

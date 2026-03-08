@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning block:
-
-The "Return Shipment Form" is used for processing returns and shipments. This form gathers essential information from the user for the return shipment process. The user is required to provide details about the shipment, recipient, shipping method, reason for return, and other relevant information. This form is essential for tracking shipments, identifying issues, and making necessary adjustments. 
-
-To avoid confusion and potential duplication, please ensure you have all necessary information ready before filling out this form. If you are unsure about any field, you can refer to this help guide for clarification.
-</thinking>
-
 # Return Shipment Form - Help Guide
 ## Purpose
 This form is used to document and track the return shipment process, ensuring accurate and efficient processing of returned goods.

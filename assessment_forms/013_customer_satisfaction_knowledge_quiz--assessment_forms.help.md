@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to assess the customer's satisfaction with various aspects of their experience with our company. The purpose of this form is to gather information about the customer's perceptions, preferences, and experiences related to our products, services, and interactions. This form will help us better understand the customer's needs and expectations, allowing us to improve our products and services accordingly.
-
-To ensure the form's effectiveness, we must consider the following:
-
-* Each question is carefully crafted to target specific aspects of the customer's experience.
-* The form is designed to be user-friendly and easy to complete.
-* The questions are carefully selected to minimize bias and gather meaningful data.
-
-The form should not be used for any other purpose than customer satisfaction assessment. If you're unsure about the form's purpose or usage, please contact our team for clarification.
-</thinking>
-
 # Customer Satisfaction Knowledge Quiz - Help Guide
 ## Purpose
 The Customer Satisfaction Knowledge Quiz is designed to gather information about the customer's satisfaction with our company's products, services, and interactions. This form will help us improve our products and services by understanding the customer's perceptions, preferences, and experiences.

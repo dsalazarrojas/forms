@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pharmaceutical_stock_validation_form - Help Guide
 ## Purpose
 The pharmaceutical stock validation form is used to validate the stock of pharmaceutical products. It helps in ensuring that the stock is up-to-date and accurate, and that the products are available for use.

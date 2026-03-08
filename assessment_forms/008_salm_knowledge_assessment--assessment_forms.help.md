@@ -1,15 +1,3 @@
-<thinking>
-
-The Salm Knowledge Assessment form is used to evaluate and document user knowledge, skills, and experiences. This form is designed to provide a comprehensive assessment of a user's understanding and capabilities in various areas, including user input, assessment questions, selected answers, assessment date and time, and other relevant details. 
-
-To ensure accurate and consistent data collection, please complete this form carefully and thoughtfully. 
-
-Before proceeding, please review the fields carefully and ensure you are aware of the correct answers to select for each field. 
-
-If you are unsure of any information, please seek clarification or assistance from the relevant authorities or subject matter experts.
-
-</thinking>
-
 # Salm Knowledge Assessment - Help Guide
 ## Purpose
 

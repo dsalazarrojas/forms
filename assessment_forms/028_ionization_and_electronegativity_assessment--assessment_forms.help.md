@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to assess ionization and electronegativity, two fundamental concepts in chemistry. Ionization refers to the process of removing an electron from an atom or ion, while electronegativity is a measure of the ability of an atom or ion to attract electrons in a covalent bond. The form is meant to be used by experts and non-experts alike to gauge their understanding and knowledge on these topics.
-
-To ensure that the form is correctly filled out and useful for its intended purpose, the following conditions apply:
-
-- This form is a self-assessment tool and should not be filled out as a formal assessment or evaluation by experts.
-
-- The form is meant to be used by individuals who are familiar with the basics of chemistry and the concepts of ionization and electronegativity.
-
-- If a question seems unclear, please ask yourself what information would be most relevant to the concept being asked.
-
-- Please answer each question truthfully based on your knowledge and understanding of the subject matter.
-
-- Do not hesitate to reach out if you need clarification or further guidance on any question or concept.
-
-</thinking>
-
 # Ionization And Electronegativity Assessment - Help Guide
 ## Purpose
 The Ionization And Electronegativity Assessment is a self-assessment tool designed to gauge your understanding and knowledge on the concepts of ionization and electronegativity in chemistry.

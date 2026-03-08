@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for printing welcome packets for athletes. This form will help the user determine the details needed for the order, including the organization name, department, contact information, order date, packet type, quantity needed, and other specific details such as color options, binding type, and contents included. 
-
-This form is intended for organizations or departments within organizations to order welcome packets for their athletes. The form will be used to collect the necessary information to ensure the welcome packets are printed correctly and meet the requirements of the ordering organization. 
-
-Please note that this form is not intended for individual athletes to use; it is designed for administrators or staff members to use to place orders for their teams or departments.
-
-The information collected on this form will be used to process the order and ensure that the welcome packets are printed correctly and delivered to the correct location. 
-
-To confirm that the form is being used correctly, please make sure to fill out all the required fields (marked as "required" in the form) and follow the instructions below.
-</thinking>
-
 # Athlete Welcome Packet Printing Order Form - Help Guide
 
 ## Purpose

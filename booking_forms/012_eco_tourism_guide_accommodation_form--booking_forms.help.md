@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from guests or customers who are planning to visit an eco-tourism guide. The form is meant to gather necessary details such as guest contact information, travel plans, arrival and booking information, accommodation requirements, and any special requests. The form will help the accommodation providers to understand the guests' needs and preferences, enabling them to offer a better experience.
-
-The form has eight fields that include Guest Details, Contact Information, Payment Details, Accommodation Information, Travel Plans, Arrival Information, Booking Information, and Travel Documents, and Special Requests. These fields are all optional but will help to ensure a smooth and enjoyable stay for the guests.
-
-The purpose of this form is to provide a user-friendly interface for the guests to share their details with the accommodation providers. The form can be filled out by the guests themselves, and they can choose to fill out as many or as few fields as they need to. The accommodation providers will then have all the necessary information at hand to prepare for the guests' arrival.
-
-This form is an original creation and does not copy or use any proprietary content from any form platform. It is released under CC BY 4.0 and can be used, modified, and even sold, just giving credit to the original creator.
-</thinking>
-
 # Eco Tourism Guide Accommodation Form - Help Guide
 ## Purpose
 The Eco Tourism Guide Accommodation Form is designed to collect information from guests or customers who are planning to visit an eco-tourism guide. The form gathers necessary details such as contact information, travel plans, accommodation requirements, and special requests to ensure a smooth and enjoyable stay.

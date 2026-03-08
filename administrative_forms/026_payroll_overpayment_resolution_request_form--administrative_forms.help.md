@@ -1,7 +1,3 @@
-<thinking>
-The Payroll Overpayment Resolution Request Form is used to request an overpayment for an employee's payroll. This form must be completed by the employee in question. To prevent duplicate requests and ensure accurate handling, please ensure that this form is only submitted when an overpayment is not already being processed or if there are no outstanding issues with the previous overpayment request.
-</thinking>
-
 # Payroll Overpayment Resolution Request Form - Help Guide
 ## Purpose
 The Payroll Overpayment Resolution Request Form is used to request an overpayment for an employee's past due wages. This form is used to resolve discrepancies or errors in an employee's payroll.

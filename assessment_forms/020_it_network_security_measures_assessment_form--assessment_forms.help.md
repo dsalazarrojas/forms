@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IT Network Security Measures Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the current state of IT network security measures in your organization. It helps identify areas of improvement and ensures that your network security practices are up-to-date and effective. Please fill out this form to provide an honest assessment of your organization's IT network security measures.

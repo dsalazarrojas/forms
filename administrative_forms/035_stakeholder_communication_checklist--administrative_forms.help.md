@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is not duplicated, please check the project status and stakeholder relationship fields. The purpose of this form is to collect and document communication with stakeholders. The form has two main sections: stakeholder contact information and meeting details. Please fill out the required fields first. The form is not a substitute for other forms or records, but rather a complement to them. The project status and stakeholder relationship fields are crucial in determining the type of communication needed. Please ensure that the project status and stakeholder relationship fields are accurate and up-to-date.
-</thinking>
-
 # Stakeholder Communication Checklist - Help Guide
 ## Purpose
 The Stakeholder Communication Checklist is a form used to collect and document communication with stakeholders. It is essential to ensure that all relevant information is collected and that follow-up actions are taken.

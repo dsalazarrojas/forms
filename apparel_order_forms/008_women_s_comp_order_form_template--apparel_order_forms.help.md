@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "women_s_comp_order_form_template" is to gather customer information and order details for the Women's Clothing department in an online store. This form is used to create a comprehensive order form that captures essential customer and order information.
 
 To complete this form, follow these steps:

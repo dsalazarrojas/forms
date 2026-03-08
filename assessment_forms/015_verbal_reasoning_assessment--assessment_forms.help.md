@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Verbal Reasoning Assessment - Help Guide
 ## Purpose
 

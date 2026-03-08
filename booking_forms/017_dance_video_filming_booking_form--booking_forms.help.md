@@ -1,11 +1,3 @@
-<thinking>
-
-The Dance Video Filming Booking Form is used to collect information about an event or project that requires video filming services. This form helps in booking the services and provides a structured format for clients to submit their requirements. It is essential to ensure that all necessary details are collected and communicated efficiently.
-
-To complete this form, you will need to provide information about the event/project in a step-by-step manner. Below is a detailed explanation of each field to make it easier for you to fill it out accurately.
-
-</thinking>
-
 # Dance Video Filming Booking Form - Help Guide
 
 ## Purpose

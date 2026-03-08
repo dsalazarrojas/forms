@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for booking food vendors for a festival. Vendors provide food and beverages to festival attendees. To complete this form, a festival organizer or coordinator will fill out the form to book a vendor for a specific festival. The fields in this form are meant to collect information about the vendor, their contact details, and the festival dates, setup, and teardown details. Before proceeding, ensure that the form is filled out correctly and that all required fields are filled in accurately to avoid any issues during the festival.
-
-</thinking>
-
 # Food Festival Vendor Booking Form - Help Guide
 ## Purpose
 The Food Festival Vendor Booking Form is used to book food vendors for a festival.

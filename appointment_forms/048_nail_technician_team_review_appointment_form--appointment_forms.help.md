@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Technician Team Review Appointment Form - Help Guide
 ## Purpose
 The Nail Technician Team Review Appointment Form is used to record and review appointments with nail technicians. This form helps to assess the performance of each technician and provide feedback on their strengths and areas of improvement.

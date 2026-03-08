@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who wish to opt-in to receive emails from the company. This form is used to collect contact information, job details, and agreement to terms and conditions. It's essential to fill out this form accurately to ensure that you receive relevant communications from us. Please fill out the form only once, as duplicate submissions are not allowed.
-</thinking>
-
 # EMail Opt In Form - Help Guide
 ## Purpose
 This form is used to collect contact information and preferences for users who wish to receive emails from the company.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about a company or business for auditing purposes. It ensures that the provided data is accurate and complete, and that all relevant documents and materials are uploaded. This form helps to identify any issues or discrepancies in the company's supply chain and aids in taking corrective action.
-The data collected here may be used for internal auditing, regulatory compliance, or other business-related purposes. To avoid duplication, please ensure that the same information is not submitted multiple times.
-</thinking>
-
 # Supply Chain Audit Intake Form - Help Guide
 ## Purpose
 This form is used to gather accurate and complete information about a company or business for auditing purposes.

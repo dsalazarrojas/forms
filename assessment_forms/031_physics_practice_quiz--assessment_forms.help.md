@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI-generated form design and technical writing. I'll use the input YAML to guide the user through the completion of the form. The form is a Physics Practice Quiz, and its purpose is for users to assess their knowledge on various physics topics, such as Astronomy, Chemistry, Math, and Physics. Please make sure this form is suitable for your needs; this is an original adaptation, not copied or derived from any other form platform.
-</thinking>
-
 # Physics Practice Quiz - Help Guide
 ## Purpose
 The Physics Practice Quiz is a form designed to test your knowledge on various physics-related topics. It's a self-assessment tool to gauge your understanding of Physics, Astronomy, Chemistry, Math, and other related fields.

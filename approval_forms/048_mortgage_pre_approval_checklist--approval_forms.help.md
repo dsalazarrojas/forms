@@ -1,14 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Mortgage Pre Approval Checklist" form. This form is designed to collect information from applicants for mortgage pre-approval, helping lenders evaluate their eligibility and creditworthiness for a loan. This guide will outline the purpose, steps to complete the form, and an explanation of each field to ensure clarity and accuracy.
-
-The purpose of this form is to gather essential information about the applicant's financial situation, property details, and loan requirements. This information is used by lenders to assess the applicant's creditworthiness and pre-approve the loan. 
-
-Before proceeding, please ensure that you have all necessary documents and information ready for each field. This guide will walk you through each section of the form, making it easier for you to complete it accurately and efficiently.
-
-Please note that some fields are required, indicated by an asterisk (\*) in the field label. These are essential for the pre-approval process and must be completed.
-
-</thinking>
-
 # Mortgage Pre Approval Checklist - Help Guide
 ## Purpose
 The Mortgage Pre Approval Checklist is a form used by lenders to gather essential information about you and your property to pre-approve a loan. This information helps assess your creditworthiness and loan eligibility.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about the user's learning activity related to probability. The form is part of a larger assessment suite to help educators or evaluators gauge the student's understanding and performance in this subject area. This form specifically aims to collect data that will be used to evaluate the student's ability to reason about probability concepts. 
-The form consists of eight sections, with different types of questions and fields to cater to various aspects of probability knowledge. The sections include text, select one, select multiple, date, time, and numerical fields to accommodate different types of responses. Some fields are required, while others are optional, allowing the user to provide as much or as little information as needed. 
-The form is designed to be completed by students, and the goal is to make it easy to understand and fill out, while still gathering meaningful data that can be used for assessment and feedback. The sections and fields are structured to guide the user through the process of providing clear and concise responses. 
-</thinking>
-
 # Probability Learning Activity - Help Guide
 
 ## Purpose

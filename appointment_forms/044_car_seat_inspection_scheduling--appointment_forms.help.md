@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Seat Inspection Scheduling - Help Guide
 
 ## Purpose

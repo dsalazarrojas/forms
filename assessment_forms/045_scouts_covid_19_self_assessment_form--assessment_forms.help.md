@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scouts COVID 19 Self Assessment Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from prospective tenants for an office space tour. The form is not intended for internal staff use, but rather for external customers to provide their preferences and requirements for a tour. This form should not be filled out by internal staff members or for purposes not directly related to the office space tour. The form fields are designed to be as flexible and open-ended as possible to accommodate various user needs and preferences. This form may be filled out multiple times by different prospective tenants for the same event, and the collected data will likely be used by the office staff to schedule and manage tours accordingly. The following guide provides a step-by-step explanation of the form fields and how to use it effectively. 
-</thinking>
-
 # office_space_tour_registration - Help Guide
 ## Purpose
 

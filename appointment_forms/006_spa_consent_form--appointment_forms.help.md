@@ -1,9 +1,3 @@
-<thinking>
-A spa consent form is a document that clients must sign before they receive any spa treatments. The form is used to obtain their consent and gather essential information about their visit, such as their name, contact details, and medical conditions. This information helps us to provide them with the best possible service and ensures their safety during the treatment.
-This form is designed to be completed by clients, either online or in-person, and is a crucial part of our intake process. By understanding the purpose and fields of this form, clients can provide the necessary information to create a comfortable and enjoyable experience.
-Please note that the purpose of this form is to gather information and not to obtain any medical consent or approval.
-</thinking>
-
 # Spa Consent Form - Help Guide
 ## Purpose
 The Spa Consent Form is a document that clients must sign before they receive any spa treatments. This form is used to gather essential information about their visit, such as name, contact details, and medical conditions, to ensure their safety and provide them with the best possible service.

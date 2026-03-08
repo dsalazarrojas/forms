@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the Performance Review Tool Requisition Form is designed to collect information for performance review and evaluation of an employee. This form will gather details such as employee name, job title, evaluation date, performance area, evaluation date, manager name, manager title, evaluation score, evaluation comments, manager comments, approval status, submitted by, submitted date, performance categories, performance levels, performance frequency, performance status, performance status note, performance status note date, performance status note time, performance status category, and assigned tool. The form will only be used for employees who are already being evaluated in the performance review system, and the goal is to collect relevant information to aid in the evaluation process. This form will help ensure that all necessary information is collected for a thorough evaluation.
-
-</thinking>
-
 # Performance Review Tool Requisition Form - Help Guide
 ## Purpose
 This form is used to collect information for performance review and evaluation of an employee.

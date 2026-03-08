@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to help employees submit claims for reimbursement of expenses related to approved training programs. This form is used to collect information about the training program, such as the name of the employee, the training provider, and the details of the training session. The form also requires the employee to provide the reimbursement amount and the date of submission. This form is designed to be simple and easy to complete, ensuring that employees can quickly and accurately submit their claims.
-
-Before starting to fill out this form, ensure that you have all the necessary documents and information ready. This includes any supporting documents that may be required, such as receipts or certificates of completion.
-
-The following guide is for informational purposes only. If there are any doubts or uncertainties, please reach out to the relevant department or manager for clarification.
-
-</thinking>
-
 # Employee Training Reimbursement Claim Form - Help Guide
 ## Purpose
 This form is used to submit a claim for reimbursement of expenses related to approved training programs.

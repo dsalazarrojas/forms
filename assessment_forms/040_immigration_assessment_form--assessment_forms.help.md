@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Immigration Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about clients seeking immigration services. It's used to assess their immigration status, gather contact details, and capture any necessary notes for the assessment process. The form is part of the immigration services process and is intended for internal use by our organization.

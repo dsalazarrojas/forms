@@ -1,18 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Laboratory Competency Assessment" form, we need to understand the purpose of the form and the fields it contains. Based on the provided YAML, it appears that this form is designed to assess the competency of medical laboratory scientists in various aspects of their work, including laboratory practices, quality control, and professionalism.
-
-Before we begin, let's confirm that this form is intended for use in a specific context and not for general purposes. If this form is being used for a specific program or institution, such as a medical laboratory certification program, it would be helpful to note that in the guide. Similarly, if there are any specific rules or regulations that must be followed in completing this form, we should highlight them clearly.
-
-Assuming that the form will be completed by medical laboratory scientists, let's create a user-facing help guide that addresses the following:
-
-1. Purpose: What is the purpose of this form, and how does it contribute to the assessment process?
-2. How to complete this form: What are the steps required to fill out the form, and what information is expected to be provided?
-3. Field-by-field explanation: What does each field mean, and how should it be completed?
-
-With this understanding, we can create a clear and concise guide for users to complete the form effectively.
-
-</thinking>
-
 # Laboratory Competency Assessment - Help Guide
 ## Purpose
 The Laboratory Competency Assessment form is designed to evaluate the competency of medical laboratory scientists in various aspects of their work, including laboratory practices, quality control, and professionalism. This form helps assessors identify areas of strength and weakness in a medical laboratory scientist's knowledge, skills, and performance.

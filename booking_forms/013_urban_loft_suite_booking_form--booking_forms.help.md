@@ -1,5 +1,3 @@
-<thinking>Urban Loft Suite Booking Form Purpose: This form is used for guests to book their stay in the Urban Loft Suite. The form gathers basic information necessary for their stay, including check-in and check-out dates, whether they have special requests, and their accommodation preferences. This guide will walk you through the process of completing the form, field by field, so you can have a smooth and stress-free booking experience.</thinking>
-
 # urban_loft_suite_booking_form - Help Guide
 ## Purpose
 The Urban Loft Suite Booking Form is designed to collect relevant information from guests to facilitate their stay in our accommodation.

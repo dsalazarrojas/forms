@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smartphone Addiction Assessment - Help Guide
 ## Purpose
 This form is designed to help assess your smartphone addiction. It is meant to be used for educational and awareness purposes only. This form will guide you through a series of questions to help you understand your phone use habits and identify any potential impacts on your life.

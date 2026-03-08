@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data on an individual's weekly schedule availability for meetings. This includes information such as start and end times, meeting duration, meeting frequency, type of meeting, and any additional comments. It's essential to fill out this form accurately to ensure that meetings are scheduled effectively and efficiently. Please note that some fields are required, and incomplete submissions will not be processed.
-</thinking>
-
 # weekly_schedule_availability_form - Help Guide
 ## Purpose
 This form is used to collect your weekly schedule availability for meetings, which will help in scheduling meetings effectively and efficiently.

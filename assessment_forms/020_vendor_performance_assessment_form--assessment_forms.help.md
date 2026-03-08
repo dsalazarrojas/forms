@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the performance of a vendor, typically in the context of a project or business partnership. Its purpose is to collect feedback and ratings from assessors on various aspects of the vendor's work. This form is usually filled out by a team member or assessor who has direct experience with the vendor's performance. It is essential to ensure that the assessor is familiar with the vendor's work before completing this form. Please review the vendor's history in our system and ensure you are not duplicating an existing assessment. If you are unsure, contact the relevant team leader or project manager for guidance.
-</thinking>
-
 # Vendor Performance Assessment Form - Help Guide
 ## Purpose
 The Vendor Performance Assessment Form is used to collect feedback and ratings from assessors on various aspects of a vendor's performance. It helps to evaluate their strengths and weaknesses, identify areas for improvement, and make informed decisions about future collaborations or partnerships.

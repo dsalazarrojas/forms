@@ -1,9 +1,3 @@
-<thinking>Assessing mental capacity is a critical process for ensuring that individuals are able to make informed decisions and provide informed consent. This form is designed to help healthcare professionals evaluate a patient's mental capacity, which is a crucial aspect of patient care. The form is used to collect information about the patient's mental state, capacity for decision-making, and any risks associated with their mental health. It is essential to complete this form accurately and thoroughly to ensure that the patient receives the best possible care.
-
-Before starting, please ensure that you have a clear understanding of the patient's mental state and capacity. If you are unsure about any aspect of the form, please consult with a colleague or supervisor.
-
-</thinking>
-
 # Mental Capacity Assessment Form - Help Guide
 
 ## Purpose

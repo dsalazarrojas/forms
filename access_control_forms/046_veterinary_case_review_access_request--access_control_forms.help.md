@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for users to request access to veterinary case reviews, likely for research or evaluation purposes. It's essential to understand that this form is not a medical record but a request for access to existing case information. Users will be asked for various details, including the user's identity, date of request, reason for request, and justification for the request. The form also asks about the type of access being requested, confidentiality concerns, and institution affiliation. The submission status and completion status will also be tracked. To ensure that this form is filled out correctly, it's crucial to follow the instructions below.</thinking>
-
 # Veterinary Case Review Access Request - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed to collect information from individuals seeking to apply for an Automotive Mechanical Engineer position. It gathers personal contact information, educational background, professional experience, technical skills, specialization areas, and motivation for the position.
-  The form is intended to be completed by applicants who have the necessary qualifications and experience in the field of automotive mechanical engineering. It does not collect information on non-relevant fields such as family or social media profiles.
-  To avoid duplication, the form is only accessible through a restricted link or portal, and applicants should have received an invitation or have been explicitly granted access to complete the form.
-</thinking>
-
 # Automotive Mechanical Engineer Application Form - Help Guide
 ## Purpose
 The form is designed to collect information from applicants to support the hiring process for an Automotive Mechanical Engineer position. Please complete the form accurately and thoroughly to ensure the best evaluation of your qualifications.

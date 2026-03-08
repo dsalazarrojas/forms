@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the purpose of this form, let's analyze the YAML fields:
 
 - The form title is "Vehicle Appointment Form", which suggests it's related to scheduling appointments for vehicles.

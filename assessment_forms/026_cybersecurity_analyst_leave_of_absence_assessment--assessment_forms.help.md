@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess the leave of absence request of a Cybersecurity Analyst. It is meant to gather information about the analyst's details, work location, start and return dates, reason for leave, coverage needs, operational risk, and supervisor approval. This form will likely be used by the HR department to evaluate and process leave requests. Before proceeding, please ensure that you are filling out this form for a valid reason, and not as a substitute for other forms, as it may cause duplication of effort and confusion.</thinking>
-
 # Cybersecurity Analyst Leave Of Absence Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the leave of absence request of a Cybersecurity Analyst, ensuring accurate and efficient processing of the request.

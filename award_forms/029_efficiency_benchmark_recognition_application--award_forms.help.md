@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to recognize the efficiency benchmark application submitted by the applicant, which aims to acknowledge and reward individuals or teams for their outstanding contributions in different categories such as Finance, Operations, or IT. This form is used to gather information about the applicant, their organization, and the details of their nomination. The form is designed to be straightforward and easy to complete, ensuring that all necessary fields are filled out to ensure a smooth and efficient recognition process.
-
-To ensure the accuracy and relevance of this form, it is recommended to review the form regularly to remove or update any fields that are not necessary or relevant. This will help maintain the form's effectiveness and accuracy over time.
-
-Note that fields 7 (applicant_consent) and 12 (category) are marked as required, ensuring that the applicant provides essential information for the recognition process to proceed.
-
-</thinking>
-
 # Efficiency Benchmark Recognition Application - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is for customers to book a gutter cleaning service. To ensure the form is relevant and non-duplication, it's essential to understand that:
-- The form is designed for customers to provide their information and preferences for a gutter cleaning service.
-- It's crucial to complete the form accurately to ensure the right service is provided at the right time.
-</thinking>
-
 # Gutter Cleaning Service Booking - Help Guide
 ## Purpose
 This form is designed to help customers book a gutter cleaning service. Please fill it out accurately to ensure the right service is provided.

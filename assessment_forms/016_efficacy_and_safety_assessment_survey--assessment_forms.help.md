@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to help users provide feedback on the efficacy and safety of a particular product or service. The form is used to assess the overall experience, efficacy, and safety of the product, as well as any safety concerns that may have been encountered. This information will be used to improve the product and ensure it meets the desired standards of quality and safety.
-
-To ensure that this form is relevant and accurate, please consider the following:
-
-* Does the product or service being assessed align with the form's purpose?
-* Are the form's fields and labels clear and concise?
-* Have you reviewed the form's instructions and explanations carefully to ensure you understand each field's purpose?
-
-If you're unsure about any of these points, please take a moment to review the form's instructions and fields again before proceeding.
-
-</thinking>
-
 # Efficacy And Safety Assessment Survey - Help Guide
 
 ## Purpose

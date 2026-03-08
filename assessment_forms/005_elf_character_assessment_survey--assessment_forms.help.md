@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide assumes that the Elf Character Assessment Survey is designed to collect information about elves, which is a type of fictional character in fantasy settings. The form is likely intended for use in tabletop gaming or role-playing games. The purpose of this guide is to help users understand the survey's purpose and how to fill it out correctly.
 
 ## Purpose

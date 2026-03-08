@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for an HVAC System Requisition Form that explains its purpose and how to complete it, including a detailed field-by-field explanation of each section. This form is designed to gather information about HVAC system requisitions, which are likely requests for heating, ventilation, and air conditioning system installations or upgrades. This form will help users provide necessary details about their requisition, making it easier for administrators to process and fulfill their requests. The form is likely used in a business or organization setting, possibly in a facility management or maintenance department. The form is intended to be completed by an individual or department representative who is requesting the HVAC system installation or upgrade, and it will be reviewed by an administrator or manager who will process the request and provide the necessary services or resources.
-</thinking>
-
 # HVAC System Requisition Form - Help Guide
 ## Purpose
 This form is used to request the installation or upgrade of an HVAC system in your building or facility. The information collected in this form will help our team determine the best course of action to fulfill your request.

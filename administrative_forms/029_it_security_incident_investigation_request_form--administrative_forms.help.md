@@ -1,13 +1,3 @@
-<thinking>
-This form is used to report and track IT security incidents that have occurred within the organization. Before proceeding, please ensure that the incident you are reporting has not already been reported and investigated. If you are unsure, check the incident log or reach out to the IT security team for clarification. 
-
-Please note that some fields may be required or optional based on the incident type and severity.
-
-This form is designed to gather information about the incident, including its description, date, time, location, and details. It also requires selecting the incident type, status, priority, and severity. Additional sections are included for gathering more detailed information about the incident, if necessary.
-
-When filling out this form, please use the following format for dates and times: YYYY-MM-DD for dates and HH:MM AM/PM for times.
-</thinking>
-
 # it_security_incident_investigation_request_form - Help Guide
 
 ## Purpose

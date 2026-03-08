@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for end-users who need to complete the Brand Risk Assessment Form. The form is designed to assess the risk level and potential impact of a brand's operations, products, or services. The form will help identify areas of risk and provide a framework for mitigation actions to reduce those risks.
 
 Please note that this form is a one-time assessment and not a continuous monitoring tool. It's essential to fill it out accurately and thoroughly to ensure the assessment is comprehensive.

@@ -1,8 +1,3 @@
-<thinking>
-Are you ready to create a user-facing help guide for a form that's out of this world? The "Farm Show Ethics Agreement" form is a vital document that ensures attendees of a farm show are on the same page regarding event rules, animal welfare, conduct standards, and more. To prevent any confusion or misinterpretation, this form should be approached with caution. Let's break it down step by step, just like a farmer tends to their crops.
-
-</thinking>
-
 # Farm Show Ethics Agreement - Help Guide
 ## Purpose
 The "Farm Show Ethics Agreement" is a crucial document that outlines the rules and guidelines for attendees of a farm show. By signing this form, you acknowledge that you have read, understand, and will comply with the specified rules, ensuring a safe and enjoyable experience for all participants.

@@ -1,7 +1,3 @@
-<thinking>
-  This form is meant to collect information from customers for billing purposes. Its primary goal is to gather the customer's name, billing address, email, and phone number. This form likely serves as a means to update or manage customer information within the banking system. The fields included are basic contact details that are commonly used in billing processes. 
-</thinking>
-
 # customer_bill_pay - Help Guide
 ## Purpose
 The customer_bill_pay form is used to collect the customer's contact information for billing purposes.

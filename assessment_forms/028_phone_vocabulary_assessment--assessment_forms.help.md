@@ -1,7 +1,3 @@
-<thinking>
-The phone_vocabulary_assessment form is designed to evaluate a participant's understanding of PBX (Private Branch Exchange) and other related concepts in telecom networks. The form is not affiliated with, endorsed by, or derived from any form platform. It is an original creation using public survey topic metadata as inspiration.
-</thinking>
-
 # phone_vocabulary_assessment - Help Guide
 ## Purpose
 The phone_vocabulary_assessment form assesses a participant's understanding of PBX and other key concepts in telecom networks. This form helps to gauge their knowledge and awareness of telecom-related terminology and concepts.

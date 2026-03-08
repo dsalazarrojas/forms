@@ -1,12 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from RV owners when they arrive for service at the dealership. This form will be used to capture the owner's details, vehicle information, service requests, preferred check-in time, and any notes they may have. 
-
-To ensure this guide does not get outdated, a check will be made before every update to this document to see if the fields and their requirements have changed. If the changes make the document outdated, it will be updated accordingly.
-
-
-</thinking>
-
 # RV Service Check In Form - Help Guide
 ## Purpose
 The RV Service Check In Form is designed to collect information from RV owners when they arrive at the dealership for service. This form gathers essential details to ensure efficient and personalized service.

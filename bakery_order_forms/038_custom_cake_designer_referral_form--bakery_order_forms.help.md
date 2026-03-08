@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Cake Designer Referral Form - Help Guide
 
 ## Purpose

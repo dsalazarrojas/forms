@@ -1,8 +1,3 @@
-<thinking> 
-  The purpose of this form is to record information about individual artworks or art pieces within an inventory system. This form will help in maintaining accurate and organized records of art pieces, including details such as title, artist name, medium, condition, valuation, and other relevant information. The form will help in ensuring that each art piece is properly documented and tracked for future reference. It is essential to fill out this form accurately and thoroughly to prevent duplication or omission of vital information. 
-
-</thinking>
-
 # Art Inventory Information Record Form - Help Guide
 ## Purpose
 The purpose of this form is to record and track information about individual artworks or art pieces within an inventory system.

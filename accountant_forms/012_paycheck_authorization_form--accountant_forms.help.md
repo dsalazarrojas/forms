@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to authorize the payment of a paycheck for an employee. 
-The form is used by management to verify the details of the employee's paycheck before processing the payment. 
-The form should only be filled out by employees who are authorized to do so.
-</thinking>
-
 # Paycheck authorization form - Help Guide
 ## Purpose
 This form is used to authorize the payment of a paycheck for an employee. It is meant to be filled out by authorized employees to verify their details before processing the payment.

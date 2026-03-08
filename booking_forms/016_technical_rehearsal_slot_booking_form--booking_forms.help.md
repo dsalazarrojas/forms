@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm excited to create a user-facing help guide for this booking form. After reviewing the provided YAML fields, here's my internal reasoning block:</thinking>
-
 # technical_rehearsal_slot_booking_form - Help Guide
 ## Purpose
 This form is designed to help users book a technical rehearsal slot, providing essential information to ensure a smooth and successful rehearsal process.

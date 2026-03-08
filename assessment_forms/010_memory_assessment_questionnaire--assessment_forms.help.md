@@ -1,12 +1,3 @@
-<thinking>
-This form seems to be intended for assessing memory problems or difficulties experienced by individuals, likely for medical or cognitive psychology applications. Given the options for "memory_problems" fields, it appears that the form is designed to gather information on various aspects of memory, such as attention, concentration, memory, and learning. The presence of "Other" options suggests that respondents may also report difficulties not explicitly listed. The form's title, "Memory Assessment Questionnaire," further supports this interpretation. 
-
-The form's structure also implies that it may be used to collect free-text responses, allowing respondents to provide more detailed information on their experiences. The "form_start" page is likely a welcome or introduction page, and the "form_submit_button" field is the final step before submission. 
-
-To avoid duplication or confusion, this guide will focus on the main form content. 
-
-</thinking>
-
 # Memory Assessment Questionnaire - Help Guide
 
 ## Purpose

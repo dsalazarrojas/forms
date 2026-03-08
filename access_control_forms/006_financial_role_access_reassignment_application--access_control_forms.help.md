@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to reassign a financial role to a user, allowing for changes to be made to the existing role assignments and access controls. This form is intended for internal use within the organization, and its completion is a necessary step in managing user access and permissions. 
-The form should only be completed by authorized personnel who are familiar with the organizational hierarchy and current role assignments. 
-Please note that the form should not be used for general inquiries or casual requests; it is intended for formal, official reassignments.
-</thinking>
-
 # Financial Role Access Reassignment Application - Help Guide
 ## Purpose
 The Financial Role Access Reassignment Application is used to manage changes to financial roles within the organization. This form helps ensure that access and permissions are accurately updated and reflected in the system.

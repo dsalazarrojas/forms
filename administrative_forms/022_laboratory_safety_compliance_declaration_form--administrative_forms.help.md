@@ -1,13 +1,3 @@
-<thinking>
-This guide is designed to help users understand the purpose and process of completing the "Laboratory Safety Compliance Declaration Form" form. The form is used to record and track the safety compliance status of a laboratory. Users are expected to complete the form with accurate information, and it is recommended that users only fill in the form if they are familiar with the laboratory procedures and protocols. The form should not be used to record false or misleading information.
-
-The form is typically completed by laboratory employees who are required to declare their compliance with safety protocols and protocols. The form will be reviewed and signed by laboratory supervisors or managers, who will ensure that the employee has declared their compliance accurately.
-
-Please note that the form has multiple fields, and users are required to fill in all mandatory fields. The form is split into several sections, each with its own fields and purpose.
-
-This guide will explain each field of the form and its purpose.
-</thinking>
-
 # Laboratory Safety Compliance Declaration Form - Help Guide
 ## Purpose
 The Laboratory Safety Compliance Declaration Form is a mandatory form for laboratory employees to declare their compliance with laboratory safety protocols. It is used to track the safety compliance status of laboratory employees and ensures that all employees follow the required safety protocols.

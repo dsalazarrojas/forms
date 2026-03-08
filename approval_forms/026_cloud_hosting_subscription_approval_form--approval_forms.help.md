@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users requesting cloud hosting subscription approval. This form aims to gather necessary details to evaluate the request and make an informed decision. Before filling out this form, please ensure you are the correct person to be filling it out. If you are not the requestor, please don't proceed. If you are already an approved user, you may have already filled out this form and should not duplicate your efforts.
-
-The form is divided into several sections to ensure a smooth and organized collection of information. Please complete the form as per the instructions below.
-
-</thinking>
-
 # Cloud Hosting Subscription Approval Form - Help Guide
 
 ## Purpose

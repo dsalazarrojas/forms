@@ -1,7 +1,3 @@
-<thinking>
-This is an administrative form for project management tracking. The form is used to track projects and tasks in a structured manner, helping project managers to keep track of multiple projects and their respective tasks. The form is not intended to be used for other purposes. The form has a single page with multiple fields that are used to input relevant information about projects and tasks. The fields are grouped into categories, such as project and task details, resources, and status.
-</thinking>
-
 # Project Management Tracker - Help Guide
 ## Purpose
 The Project Management Tracker form is designed to help project managers track multiple projects and their tasks in a structured manner. The form is used to input and manage project and task details, resources, and status.

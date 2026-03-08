@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to request information from loan signing appointments. The purpose of this form is to collect data for internal use by the loan signing company. The form is divided into several fields that gather contact information, appointment details, and loan-related data. To ensure that you complete the form correctly, please read the explanations below carefully.
-
-</thinking>
-
 # Loan Signing Appointment Request Form - Help Guide
 
 ## Purpose

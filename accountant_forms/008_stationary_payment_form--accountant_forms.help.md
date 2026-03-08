@@ -1,8 +1,3 @@
-<thinking>
-This is a Stationary Payment Form, used for recording financial transactions for stationary purchases. 
-The form captures the essential details required for such transactions, including user information (name, phone, email), payment date, product name, price, quantity, and total amount. The user can select the payment method (cash, credit card, or bank transfer) and provide any additional message if needed. This form is likely used for internal accounting and tracking purposes within the organization.
-</thinking>
-
 # Stationary Payment Form - Help Guide
 
 ## Purpose

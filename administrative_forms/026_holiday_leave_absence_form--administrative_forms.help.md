@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will help users understand the purpose and usage of the Holiday Leave Absence Form. To ensure accuracy and effectiveness, please note that this form is intended for employees to request leave for personal or work-related reasons. It is not a duplicate or supplementary form for benefits or other purposes. Before starting, ensure that your leave type and dates are correct and that you are submitting this form for the correct reason.
 
 # Holiday Leave Absence Form - Help Guide

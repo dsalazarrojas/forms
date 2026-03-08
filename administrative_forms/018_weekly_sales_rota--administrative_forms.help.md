@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for sales representatives who use the "Weekly Sales Rota" form to assign sales tasks to team members. However, before proceeding, please note that you should only access this form if you have been granted the necessary permissions. Additionally, this form is not intended to be used to assign multiple tasks to a single user at once; if you need to assign multiple tasks, please use the "Multi-Assignment Form" instead.
-</thinking>
-
 # Weekly Sales Rota - Help Guide
 ## Purpose
 The "Weekly Sales Rota" form is a tool used to assign sales tasks to sales representatives. It helps in planning and organizing sales tasks for team members on a weekly basis.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and to prevent duplication of effort. The Merchandise Order Form is a crucial part of the business process, and its proper use will ensure accurate and efficient order processing. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation to help users understand each section clearly.
-</thinking>
-
 # Merchandise Order Form - Help Guide
 ## Purpose
 The Merchandise Order Form is designed to collect necessary information from customers to process orders for merchandise items. This form should only be used to place new orders for merchandise items and not for any other purpose.

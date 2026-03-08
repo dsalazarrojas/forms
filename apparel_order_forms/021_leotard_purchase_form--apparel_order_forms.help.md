@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the purchase of leotards. This form is likely used by customers or customers' representatives when placing an order for leotards. Before filling out this form, ensure that the customer information is accurate and up-to-date. This form is not intended for internal use, so it's essential to double-check the customer's details. Ensure that the form fields are completed correctly to process the order smoothly.
-</thinking>
-
 # Leotard Purchase Form - Help Guide
 ## Purpose
 This form is designed to collect information necessary for the purchase of leotards.

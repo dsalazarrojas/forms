@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a premium credit card application. This form is used to gather relevant details from the user to determine their eligibility and process their application. Before filling out this form, please ensure that you are not a duplicate application. If you are unsure, contact the bank for assistance.
-
-</thinking>
-
 # Premium Credit Card Application Form - Help Guide
 ## Purpose
 The Premium Credit Card Application Form is used to collect information for a premium credit card application. This form is used to gather relevant details from the user to determine their eligibility and process their application.

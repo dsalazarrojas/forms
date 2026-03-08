@@ -1,11 +1,3 @@
-<thinking>
-This form is for applicants to provide information about their driver's license application. It collects personal details, driver's license information, address, date of birth, social security number, expiration date, license number, vehicle information, driver's permit status, vehicle ownership permit status, and vehicle ownership status. Ensure that the form is filled out correctly and honestly to avoid any issues with the driver's license application process.
-
-When filling this form, please note that some fields may be marked as optional, but providing accurate and complete information is crucial for the successful completion of the driver's license application.
-
-This form does not collect any sensitive or financial information, and any information provided will be used solely for the purpose of processing the driver's license application.
-</thinking>
-
 # Driver's License Application Form - Help Guide
 ## Purpose
 The Driver's License Application Form is a document used to gather essential details about an applicant's driver's license. This form is necessary for the application process to be completed successfully.

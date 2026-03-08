@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adhesion Agreement Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-# Lost And Found Pet Form - Help Guide
-## Purpose
-
-The Lost And Found Pet Form is used to report lost or found animals to help facilitate their safe return. Please use this form to provide detailed information about your pet, including its species, size, and contact information, to increase the chances of it being reunited with its owner.
-
-</thinking>
-
 ## How To Complete This Form
 
 1.  Answer the questions truthfully and accurately to provide the most helpful information.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that effectively communicates the purpose and usage of the "in-home-cooking-appointment-form" to its users. To achieve this, I'll focus on making the explanations clear, concise, and practical, while avoiding any unexplained business logic. This guide will walk users through the form's purpose, step-by-step instructions, and a detailed field-by-field explanation.</thinking>
-
 # in-home-cooking-appointment-form - Help Guide
 ## Purpose
 The "in-home-cooking-appointment-form" is designed to help users schedule and coordinate cooking appointments with a personal chef in the comfort of their home. This form collects necessary information for the chef to understand the client's needs, preferences, and requirements for the appointment.

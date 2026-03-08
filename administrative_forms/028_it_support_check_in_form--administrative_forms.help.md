@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their IT support requests, allowing them to submit requests for technical, general, or equipment support, and specifying the priority and due date of the request. The form is not meant to be filled out multiple times for the same issue, and the submitter's contact information is optional.
-</thinking>
-
 # it_support_check_in_form - Help Guide
 ## Purpose
 This form is used to submit requests for IT support, providing detailed information to help our team assist you efficiently.

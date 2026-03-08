@@ -1,15 +1,3 @@
-<thinking>
-The form purpose is to collect information from individuals about their understanding of math fractions. The form is designed to assess their knowledge and skills in calculating different types of math problems involving fractions. The form has 20 questions that cover a range of fraction-related topics, from basic addition and subtraction to more complex operations like multiplication and division. 
-
-To confirm, this form is a tool for educational or research purposes, and its purpose is not to collect personal identifiable information or to be used for any other purpose not related to math education or research. 
-
-Before proceeding, please review the form carefully to ensure you understand its purpose and the type of information it collects. If you are unsure about any part of the form, please contact the form administrators at form@gic.mx for assistance. 
-
-Please fill out this form with as much detail as possible, and if you have any doubts or concerns, don't hesitate to reach out. 
-
-The form has been designed by an AI using public survey topic metadata and is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Math Fractions Assessment - Help Guide
 ## Purpose
 The Math Fractions Assessment form is designed to collect information from individuals about their understanding of math fractions. It is used for educational or research purposes and is not meant to collect personal identifiable information.

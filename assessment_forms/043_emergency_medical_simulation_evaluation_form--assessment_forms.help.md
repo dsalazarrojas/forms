@@ -1,14 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of medical simulations in emergency medical scenarios. It is designed to assess how well individuals or teams performed in these simulations, providing a framework for feedback and improvement. 
-
-Before filling out this form, please make sure that you have a clear understanding of the simulation you are evaluating, and that the questions and fields are relevant to the specific situation. If you have any doubts or concerns, please contact your supervisor or instructor for guidance.
-
-Please note that not all fields are required; only fill out the ones that are relevant to your specific evaluation. However, ensure that you fill out all required fields, if applicable.
-
-Please also note that the fields are designed to be filled out by a person evaluating the medical simulation, rather than the person participating in the simulation.
-
-</thinking>
-
 # Emergency Medical Simulation Evaluation Form - Help Guide
 ## Purpose
 This form is used to provide feedback and assessment on individual or team performance in medical simulations, helping identify areas of improvement and recognition of strengths.

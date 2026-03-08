@@ -1,19 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out correctly and consistently, to provide accurate data for assessment and maintenance planning. The form should be used for inspecting and reporting on the condition of buildings. To fill out this form, the user should follow these steps:
-
-- Start by filling out the header section (Assessment Header), which includes the building name/identifier and assessment date.
-- Select the condition of the building's roof, walls, and foundation using the "Excellent", "Good", "Fair", "Poor", or "Critical" options.
-- Evaluate the condition of the building's exterior, including gutters and drainage systems, landscaping, and windows/doors.
-- Assess the building's interior conditions, including flooring, walls/paint, ceiling, and doors/frames.
-- Evaluate the condition of the building's systems, including electrical, plumbing, and HVAC.
-- Report any immediate and short-term repairs needed, and estimate the total cost for such repairs.
-- Provide an overall assessment of the building's condition and assign a rating from "Excellent" to "Critical".
-- Confirm the building's safety for occupancy, considering the overall condition and any safety concerns.
-
-Note: This form is a comprehensive assessment of a building's condition, including exterior and interior elements, systems, and overall safety.
-
-</thinking>
-
 # Building Condition Assessment Survey - Help Guide
 ## Purpose
 The Building Condition Assessment Survey is a comprehensive assessment of a building's condition. This form is used to evaluate the building's external and internal elements, systems, and overall safety status. The assessment is crucial for maintenance planning, prioritization, and budgeting.

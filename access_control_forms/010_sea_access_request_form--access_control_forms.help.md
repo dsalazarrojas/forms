@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request access to the sea or specific areas within it. 
-This form is typically completed by an individual or organization requesting access to the sea, and the information collected will be reviewed and approved by relevant authorities before access is granted.
-To ensure accurate and efficient processing of sea access requests, please fill out this form as accurately and completely as possible.
-</thinking>
-
 # Sea Access Request Form - Help Guide
 ## Purpose
 The Sea Access Request Form is used to request access to the sea or specific areas within it. This form helps the requestor provide necessary information for review and approval by relevant authorities.

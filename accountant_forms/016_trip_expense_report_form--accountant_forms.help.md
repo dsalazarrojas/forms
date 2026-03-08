@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about employee business trips, including whether the trip is business-related, the start and end dates of the trip, a brief description of the trip, an optional expense amount, a description of the expenses, and a category for the expenses. The form is used to report expenses for business trips.
-
-The form is used for reporting business trips and associated expenses to help management track company spending.
-
-The form is meant to be completed by employees who have taken business trips and are seeking reimbursement for expenses incurred during the trip.
-
-</thinking>
-
 # Trip Expense Report Form - Help Guide
 
 ## Purpose

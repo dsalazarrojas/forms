@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used for eye exams to help healthcare professionals and patients track important information about patient's medical history, allergies, medications, test results, and other relevant details. By using this form, medical teams can ensure that all necessary information is collected and documented before, during, and after the eye exam. This form aims to standardize and streamline the process of gathering crucial data, reducing errors and enhancing patient care.
-
-To complete this form, please follow the instructions below:
-
-</thinking>
-
 # Eye Exam Appointment Checklist Form Template - Help Guide
 ## Purpose
 This form is designed to help eye exam teams gather and document crucial information about patients during an eye exam.

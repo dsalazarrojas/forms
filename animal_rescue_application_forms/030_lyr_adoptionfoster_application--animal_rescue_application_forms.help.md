@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # LYR AdoptionFoster Application - Help Guide
 ## Purpose
 This form is for prospective adopters or foster parents to provide information about themselves and their household in order to be considered for adopting or fostering a pet from a local animal rescue group. The goal is to ensure that both the animal and the applicant are matched well and have a successful adoption or fostering experience.

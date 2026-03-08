@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help team managers keep track of team status and updates. The form allows team managers to select multiple team members who need updates, specify the date and time of the update, provide a note for the update, and check in team members. The form also includes fields for feedback and status tracking. Each page of the form guides the user through different stages of the check-in process.
-
-The form is intended for team managers to use during team check-ins, which are regular meetings or updates between team members. This form is not intended for other purposes, so please do not use it for other types of updates or meetings.
-
-</thinking>
-
 # team_manager_check_in_form - Help Guide
 ## Purpose
 The team manager check-in form is designed to facilitate team status updates and feedback during team check-ins. It helps team managers stay organized and ensure all team members are on the same page.

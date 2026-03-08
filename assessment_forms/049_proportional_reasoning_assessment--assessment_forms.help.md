@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a Proportional Reasoning Assessment, a type of reasoning skill evaluation that measures an individual's ability to understand and apply proportional relationships in different contexts.
-The form is designed to gather information on the respondent's understanding of various proportional relationships, such as equivalent, greater than, and less than, and their ability to apply these concepts in real-world scenarios.
-To complete this form, the respondent will be presented with a series of questions that cover different aspects of proportional reasoning, including multiple-choice questions and open-ended text fields.
-The form will also provide opportunities for the respondent to provide explanations and justifications for their answers, allowing for a more in-depth evaluation of their understanding and application of proportional reasoning concepts.
-</thinking>
-
 # Proportional Reasoning Assessment - Help Guide
 ## Purpose
 The Proportional Reasoning Assessment is a tool designed to evaluate an individual's ability to understand and apply proportional relationships in different contexts. This assessment covers various types of proportional relationships, including equivalent, greater than, and less than.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Program Audit Form - Help Guide
 ## Purpose
 The Training Program Audit Form is used to assess the effectiveness and relevance of a training program. It helps us evaluate how well the program met its objectives, whether it was useful for the participants, and if it led to continuous improvement.

@@ -1,5 +1,3 @@
-<thinking>This form is designed for tracking the attendance of interns in a gathering or meeting. The purpose of this form is to collect information about the attendees, their roles, and the events they attended. To fill out this form, follow the steps below to ensure accurate and complete data collection.</thinking>
-
 # Intern Gathering Attendance Form - Help Guide
 ## Purpose
 The Intern Gathering Attendance Form is a tool used to track the attendance of interns in a gathering or meeting. It helps in collecting information about the attendees, their roles, and the events they attended.

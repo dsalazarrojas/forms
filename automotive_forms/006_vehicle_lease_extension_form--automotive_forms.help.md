@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "Vehicle Lease Extension Form" is to collect information from customers about their leased vehicle's lease extension request. This form is used to gather details such as the vehicle lease date, lease ID, customer name, vehicle year, make, and model, reason for extension, customer contact information (email and phone number), and lease term length. The form is typically filled out by customers who wish to extend their leased vehicle's lease period.
-When a customer submits this form, the data will be used to update their lease agreement. To avoid any confusion or errors, please ensure that you have the following information ready before filling out this form:
-
-* Make sure you have the correct lease ID to avoid duplicating a request.
-* Verify the accuracy of your vehicle information, including lease term length.
-* If you are unsure about any information, please double-check with your leasing representative or refer to your original lease agreement.
-
-Please fill out this form accurately and truthfully, as the information collected will be used to update your lease agreement.
-</thinking>
-
 # Vehicle Lease Extension Form - Help Guide
 ## Purpose
 This form is used to request a lease extension for a leased vehicle. It is used to collect necessary information to update the lease agreement and ensure a smooth lease extension process.

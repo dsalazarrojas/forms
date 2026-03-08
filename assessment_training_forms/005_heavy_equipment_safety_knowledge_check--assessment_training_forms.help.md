@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to be a safety check for Heavy Equipment. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation using only public survey topic metadata. It has been created as a general guide for checking the safety of heavy equipment. This form is meant to be used by those who need to ensure the safety of heavy equipment in their workplace or facility. It may be used to track and record the safety of heavy equipment, including procedures, personal protective equipment (PPE) usage, policy acknowledgment, and other relevant safety-related fields. The form is meant to be a comprehensive check for the safety of heavy equipment and is intended to be filled out by those responsible for ensuring the safety of heavy equipment in their workplace or facility.
-
-Before using this form, ensure that you have not completed it in the past 6 months. This form is designed for regular and periodic inspections, and it should not be used as a duplicate or to circumvent regular and proper inspection procedures.
-
-Please be aware that the following pages are meant to be used in conjunction with proper documentation and inspection procedures. The fields in this form are meant to supplement and support those procedures, not replace them. Ensure that you follow proper safety guidelines and procedures in your workplace or facility.
-
-This form is a general guide and may need to be adapted or modified according to your specific needs and procedures.
-
-</thinking>
-
 # Heavy Equipment Safety Knowledge Check - Help Guide
 ## Purpose
 

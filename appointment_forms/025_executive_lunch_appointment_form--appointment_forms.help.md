@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting an executive lunch meeting. It is crucial to fill out this form correctly to ensure that the meeting request is properly documented and communicated to the executive team. Please make sure that you have the necessary permissions and approvals before submitting a meeting request. To avoid duplication, please check that the meeting subject is not already on the calendar before submitting this form.
-</thinking>
-
 # executive_lunch_appointment_form - Help Guide
 ## Purpose
 This form is used to request an executive lunch meeting. It helps to provide necessary information for the meeting, which will be sent to the executive team for review and scheduling.

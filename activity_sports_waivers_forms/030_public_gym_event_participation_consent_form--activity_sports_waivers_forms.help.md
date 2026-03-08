@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Gym Event Participation Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant information and consent for public gym events. It is meant to be completed by individuals who want to participate in a public gym event. The form is used to gather details about the participant, their health status, event details, and emergency contact information.

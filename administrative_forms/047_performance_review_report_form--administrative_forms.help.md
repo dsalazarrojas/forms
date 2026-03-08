@@ -1,14 +1,3 @@
-<thinking>
-The Performance Review Report Form is designed to facilitate regular employee evaluations, providing a structured way to document and track progress, strengths, and areas for improvement. This form ensures that managers and employees have a clear and organized format for discussing performance, which can lead to more accurate and constructive feedback.
-
-This form is intended for use in administrative settings, such as HR departments or management teams, to collect and document performance data from employees. It should not be used in other contexts without proper adaptation and validation.
-
-This guide is for end-users, not developers or form administrators. If you are a developer or form administrator, please refer to other resources for form setup and customization instructions.
-
-The following guide explains each field's purpose, making it easier for end-users to fill out the form correctly and effectively.
-
-</thinking>
-
 # Performance Review Report Form - Help Guide
 ## Purpose
 The Performance Review Report Form is designed to document and evaluate employee performance, helping managers to track progress and provide constructive feedback.

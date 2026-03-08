@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for assigning roles and responsibilities within an organization. The form is designed to gather information from users to make informed decisions about role assignments. Each field is carefully crafted to ensure that the necessary information is collected for role assignment purposes. This form is not intended to be used for any other purpose. Please ensure that you complete this form carefully and accurately to avoid any errors or misunderstandings.
-</thinking>
-
 # Role Assignment Authorization Form - Help Guide
 ## Purpose
 The Role Assignment Authorization Form is used to collect information for assigning roles and responsibilities within an organization. This form helps to ensure that the necessary information is gathered for making informed decisions about role assignments.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Role Creation Request Form - Help Guide
 ## Purpose
 This form is used to request the creation of a new role within the administrative context. It helps in documenting and tracking the process of role creation, including categorization, description, required skills, and other relevant details.

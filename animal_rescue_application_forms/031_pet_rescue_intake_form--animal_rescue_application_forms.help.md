@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a pet that needs rescue, ensuring that all relevant details are captured efficiently and effectively. To prevent duplication, this form will prevent users from submitting the same pet name multiple times, and it will also prevent users from submitting a form with invalid or incomplete data. The form is divided into several sections, each with its own set of required and optional fields. Please review the form carefully and ensure that you have all the necessary information before submitting it. If you are unsure about any field, please refer to this help guide for more information.</thinking>
-
 # Pet Rescue Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about a pet that needs rescue. It will help the shelter staff to quickly and efficiently intake the pet and its details.

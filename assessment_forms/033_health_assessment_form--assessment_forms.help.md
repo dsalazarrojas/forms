@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and store patient health information, including medical history, health risks, and test results. The form is used to assess the health status of patients and identify potential risks or conditions that may impact their health. This form should only be used for patients who have not undergone this assessment previously to avoid duplication of efforts.
-</thinking>
-
 # health_assessment_form - Help Guide
 ## Purpose
 The health assessment form is designed to collect and store patient health information, including medical history, health risks, and test results. This information is used to assess the health status of patients and identify potential risks or conditions that may impact their health.

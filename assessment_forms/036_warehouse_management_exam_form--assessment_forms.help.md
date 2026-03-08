@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to help assess the knowledge and skills of a candidate for warehouse management position. This form will likely be used during the hiring process to evaluate a candidate's experience, knowledge, and attitude in managing a warehouse setting.
-
-Before proceeding, ensure that you have not taken the exam recently, as this form will likely be intended to assess your current knowledge and skills. If you have taken a similar exam or have experience in the field, you might find some questions to be too easy or too similar.
-
-Please read the following guide carefully to understand the form's layout and how to complete it. If you have any questions or concerns, feel free to ask your recruiter or HR representative for assistance.
-
-</thinking>
-
 # Warehouse Management Exam Form - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and skills in warehouse management. It will help us evaluate your experience, knowledge, and attitude in managing a warehouse setting.

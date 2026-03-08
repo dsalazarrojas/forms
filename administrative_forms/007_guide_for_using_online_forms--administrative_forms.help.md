@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through a process related to online forms. The form's purpose is to provide a structured and clear way to collect information from users about online forms. This will help in understanding how users interact with online forms, which is crucial for making informed decisions about form development and improvement.
-</thinking>
-
 # Guide For Using Online Forms - Help Guide
 ## Purpose
 This guide is designed to help users understand the process of using online forms. It will walk you through the necessary steps and provide detailed explanations for each field to ensure a smooth and error-free submission process.

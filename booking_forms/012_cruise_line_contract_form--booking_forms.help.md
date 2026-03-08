@@ -1,13 +1,4 @@
-# <thinking>
-The Cruise Line Contract Form is designed to collect essential information for booking and confirming travel arrangements. 
-This form aims to streamline the booking process, reduce paperwork, and increase accuracy. 
-Before filling this form, please ensure that it's not a duplicate or unnecessary submission. 
-You can only submit one form per passenger. 
-Please make sure you have all necessary information at hand before completing this form. 
-Ensure that your email address is valid and up-to-date. 
-</thinking>
-
-# Cruise Line Contract Form - Help Guide
+# # Cruise Line Contract Form - Help Guide
 ## Purpose
 The Cruise Line Contract Form is a document that captures critical information for booking and confirming travel arrangements. It's designed to ensure that all necessary details are collected and verified in one place, making the booking process more efficient and reducing errors.
 

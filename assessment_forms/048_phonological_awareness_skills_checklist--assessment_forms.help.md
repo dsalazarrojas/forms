@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess an individual's phonological awareness skills, which are essential for reading and language development. These skills include the ability to identify and manipulate phonemes (sounds), syllables, and other phonological units. The form is designed to evaluate a child's or an adult's understanding of various phonological concepts, such as rhythm, rhyme, and sound awareness. This assessment will help identify strengths and weaknesses in phonological awareness, which can inform educational or therapeutic interventions.
-
-</thinking>
-
 # Phonological Awareness Skills Checklist - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a Crew Release Agreement, a document that outlines the terms and conditions for a crew's participation in a production or project. The purpose of this form is to ensure that all crew members are aware of their responsibilities, expectations, and rights during and after the project. This form is typically used by production companies, filmmakers, or other organizations that work with freelance or contract crew members. 
-
-This form is designed to be completed by the production company and the crew member in collaboration, with both parties providing their input and signature. The form should not be used as a standalone agreement, but rather as a starting point for more in-depth discussions and negotiations.
-
-Before filling out this form, please make sure you have a clear understanding of the project requirements and the terms of your involvement. If you are unsure about any aspect of the form, please consult with your production company representative or project manager.
-
-</thinking>
-
 # Crew Release Agreement - Help Guide
 ## Purpose
 The Crew Release Agreement is a document that outlines the terms and conditions for a crew's participation in a production or project. It is used to ensure that all crew members are aware of their responsibilities, expectations, and rights during and after the project.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # spill_management_checklist - Help Guide
 ## Purpose
 This form is used to report and manage spills, including providing incident details, response procedures, and cleanup actions. It is an essential tool for the team to respond effectively and efficiently to spills, ensuring a prompt and proper response.

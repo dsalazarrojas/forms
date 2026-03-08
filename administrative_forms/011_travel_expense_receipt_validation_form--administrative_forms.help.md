@@ -1,8 +1,3 @@
-<thinking>
-Travel Expense Receipt Validation Form is used for employees to submit and validate their travel expenses incurred on company time. This form ensures that all necessary information, such as travel dates, purpose, and expense amounts, are documented and reviewed by the company. This form is intended for internal use and is not meant for external users. Before proceeding, please ensure that you have all necessary documents and information ready, and that you have not previously submitted this form for the same travel period.
-
-</thinking>
-
 # Travel Expense Receipt Validation Form - Help Guide
 ## Purpose
 The Travel Expense Receipt Validation Form is used for employees to document and validate their travel expenses incurred on company time. This form helps ensure that all necessary information, such as travel dates, purpose, and expense amounts, are accurately reported and reviewed by the company.

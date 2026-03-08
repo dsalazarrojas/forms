@@ -1,7 +1,3 @@
-<thinking>This form is designed to facilitate the creation and submission of apparel purchase orders. The form captures the supplier information, order logistics, and itemized details required for processing the order. The purpose of this form is to guide users through the process of creating a purchase order in an efficient and accurate manner. 
-
-This form should be reviewed to ensure that all required fields are completed correctly and that the information is accurate. This will help prevent errors and ensure that the order is processed correctly.</thinking>
-
 # Apparel Purchase Order Form - Help Guide
 ## Purpose
 The Apparel Purchase Order Form is used to create and submit purchase orders for apparel items. It captures the necessary information from the supplier, logistics, and item details to process the order accurately.

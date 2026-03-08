@@ -1,22 +1,3 @@
-<thinking>
-# The internal purpose of this form is to authorize Electronic Filing and provide a way to capture client details and representative information. This form should only be filled out once per client and should not be duplicated.
-
-This form has the following fields:
-*   **Client Name (Client Name)** (`client_name`, `text`, required): Enter the name of the client.
-*   **Client Address (Client Address)** (`client_address`, `text`, optional): Enter the client's address.
-*   **E-File Authorization (E-File Authorization)** (`e_file_authorization`, `select_multiple`, required): Indicate whether the client is authorized to E-file or not.
-*   **Signature Date (Signature Date)** (`signature_date`, `date`, required): Enter the date of the client's signature.
-*   **Date Signed (Date Signed)** (`date_signed`, `date`, optional): Enter the date the representative signed the form.
-*   **Authorized Representative (Authorized Representative)** (`authorized_rep`, `text`, optional): Enter the name of the authorized representative.
-*   **Authorized Representative Title (Authorized Representative Title)** (`authorized_rep_title`, `text`, optional): Enter the title of the authorized representative.
-*   **Authorized Representative Phone (Authorized Representative Phone)** (`authorized_rep_phone`, `text`, optional): Enter the phone number of the authorized representative.
-*   **Authorized Representative Email (Authorized Representative Email)** (`authorized_rep_email`, `text`, optional): Enter the email address of the authorized representative.
-*   **Client Signature (Client Signature)** (`client_signature`, `note`, required): Provide a signature from the client.
-*   **Authorized Representative Signature (Authorized Representative Signature)** (`rep_signature`, `note`, required): Provide a signature from the authorized representative.
-*   **Notes (Notes)** (`notes`, `text`, optional): Enter any additional comments or notes about the client.
-*   **Form Footer (Form Footer)** (`form_footer`, `text`, optional): Enter any other notes or comments about the form.
-</thinking>
-
 # Tax Filing E File Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize electronic filing and capture client details and representative information for tax filing purposes.

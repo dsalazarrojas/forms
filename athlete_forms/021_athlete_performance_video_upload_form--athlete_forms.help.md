@@ -1,9 +1,3 @@
-<thinking>
-To confirm, the form is for athletes to upload video of their performance, which will be reviewed by coaches or scouts for recruitment, tryouts, or other purposes. This form will gather information about the athlete, their performance, and the video submission to help coaches evaluate their abilities. The form will ask for contact information, video details, and any relevant context or achievements. It's crucial to ensure the athlete understands the purpose and usage of their submitted video.
-
-Before proceeding, please ensure you're not duplicating a submission. This form is intended for original, unique video uploads. If you've already submitted a video, do not resubmit.
-</thinking>
-
 # Athlete Performance Video Upload Form - Help Guide
 ## Purpose
 The Athlete Performance Video Upload Form is a tool for athletes to upload video of their performance, which will be reviewed by coaches or scouts for recruitment, tryouts, or other purposes.

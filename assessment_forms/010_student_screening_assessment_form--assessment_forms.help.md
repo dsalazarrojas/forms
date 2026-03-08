@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Screening Assessment Form - Help Guide
 
 ## Purpose

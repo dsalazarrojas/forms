@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Building Access Authorization Form. The form is designed to collect information necessary for requesting access to a building, ensuring that the requesting individual and the management team have the necessary data to make informed decisions. This form will help prevent duplication of effort and provide an efficient way to gather essential details.
-</thinking>
-
 # Building Access Authorization Form - Help Guide
 ## Purpose
 The Building Access Authorization Form is designed to collect information from requestors seeking access to the building. It is essential that all required fields are completed accurately to ensure a smooth and efficient process.

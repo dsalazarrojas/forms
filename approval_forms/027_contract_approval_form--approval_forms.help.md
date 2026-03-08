@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather necessary information for contract approval. This form is for internal use within the organization and should only be completed for contracts related to our company. Please do not submit contracts for approval if they are not relevant to our company's operations or if you are not an authorized user. Ensure that all fields are filled out completely and accurately to avoid delays in the approval process.</thinking>
-
 # Contract Approval Form - Help Guide
 ## Purpose
 The Contract Approval Form is a tool for gathering and tracking information for contract approvals within the organization.

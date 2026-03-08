@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from individuals interested in banking services. It is a multi-page form that collects various details such as contact information, employment status, financial information, and preferences for banking services. This form is likely used by banks to understand the needs and requirements of potential customers, allowing them to tailor their services accordingly. To prevent duplication, the form may include questions that help identify existing customers or those who have already filled out the form in the past.
-</thinking>
-
 # Banking Leads Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in banking services, allowing the bank to tailor their services to meet the needs and preferences of potential customers.

@@ -1,10 +1,3 @@
-<thinking>
-To ensure that this form serves its intended purpose and does not duplicate existing nominations, please consider the following internal reasoning block:
-* This form is designed to collect information about a young alumnus' achievements and contributions to their alma mater.
-* Before completing this form, please check if a similar nomination has been made in the past two years for the same nominee.
-* If you are unsure, check with the relevant department or faculty member to confirm the eligibility of the nominee.
-</thinking>
-
 # Outstanding Young Alumni Recognition Nomination - Help Guide
 ## Purpose
 The Outstanding Young Alumni Recognition Nomination form is used to collect information about the achievements and contributions of young alumni who have made a significant impact in their field or community. This form will be reviewed by a panel of judges to select the outstanding young alumnus who will receive recognition for their work.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contractor Access Authorization Form - Help Guide
 ## Purpose
 The purpose of this form is to request authorization for a contractor to access various areas of the organization. This form ensures that all necessary information is collected to assess the contractor's access level, locations, and systems access requirements.

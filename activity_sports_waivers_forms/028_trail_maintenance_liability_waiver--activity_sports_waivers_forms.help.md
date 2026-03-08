@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining liability waivers from participants in trail maintenance activities. The purpose of this form is to ensure that participants are aware of and acknowledge the risks associated with trail maintenance activities, and to provide emergency contact information in case of an accident. This form should only be used for trail maintenance activities, and not for other types of activities or events. The form fields should be filled out accurately and truthfully.
-</thinking>
-
 # Trail Maintenance Liability Waiver - Help Guide
 ## Purpose
 This form is used to obtain liability waivers from participants in trail maintenance activities. It helps to ensure that participants are aware of and acknowledge the risks associated with these activities and provides emergency contact information in case of an accident.

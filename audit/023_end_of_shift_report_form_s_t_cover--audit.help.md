@@ -1,21 +1,3 @@
-<thinking>
-This form is intended to capture essential information for an End Of Shift Report, particularly for S&T (Security & Technical) personnel. The form is likely used to record details of a shift, including employee information, shift timing, and other relevant notes. This form should not be used for other purposes, such as creating a new employee record or scheduling a new shift.
-
-Before completing this form, ensure that you have all the necessary information available. If you are unsure about any field, please consult with your supervisor or HR representative for guidance.
-
-This form is divided into two main sections: Employee Information and Shift Details. Please fill out the form in the following order:
-
-1. Employee Information: Enter the employee's ID, name, and any other relevant details. This section is used to identify the employee who conducted the shift.
-2. Shift Details: Record the start and end times of the shift, as well as any notes or comments related to the shift. This section is used to document the specifics of the shift.
-
-When filling out the form, please make sure to:
-
-* Enter accurate information for the employee's ID, name, and shift start and end times.
-* Provide clear and concise notes or comments about the shift.
-* Review the form carefully before submitting it to ensure all fields are filled out correctly.
-
-</thinking>
-
 # End Of Shift Report Form S&T Cover - Help Guide
 ## Purpose
 The End Of Shift Report Form S&T Cover is used to record details of a shift conducted by S&T personnel.

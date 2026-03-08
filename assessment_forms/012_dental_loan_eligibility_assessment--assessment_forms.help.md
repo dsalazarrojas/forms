@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients to assess their eligibility for a dental loan. It gathers data on patient demographics, loan details, financing options, loan eligibility, and other relevant financial information. This form should not be used to collect sensitive or personal health information. Please review the form carefully and ensure that it is being used in a way that is compliant with applicable laws and regulations, such as HIPAA.
-</thinking>
-
 # Dental Loan Eligibility Assessment - Help Guide
 ## Purpose
 This guide is designed to assist patients in understanding the Dental Loan Eligibility Assessment form, which is used to gather information necessary for assessing their eligibility for a dental loan.

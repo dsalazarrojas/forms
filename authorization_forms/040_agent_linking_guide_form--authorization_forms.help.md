@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from agents who are requesting linking and access authorization to systems and databases. The form is used to gather essential details from the agent, such as their name, agency name, and the specific system or database they are requesting access to. It also captures the requested access level, reason for the request, and the duration of access. Additionally, the form requires approval from a manager before submission, which is confirmed by the "Has this request been approved by a manager?" field.
-
-The form aims to streamline the agent linking and access authorization process, ensuring that all necessary information is collected in one place. It's a crucial step in granting or denying access to sensitive systems and databases, and this form serves as a guide for agents to provide accurate and complete information.
-
-</thinking>
-
 # Agent Linking Guide Form - Help Guide
 ## Purpose
 The Agent Linking Guide Form is designed to collect information for linking and access authorization between agent profiles and systems.

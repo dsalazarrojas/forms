@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report a fraudulent transaction. The goal is to gather information about the transaction, including the date, amount, description, and other relevant details. Please note that all fields are optional, and you can submit the form with as much or as little information as you need. Make sure to fill in all required fields before submitting the form. Before filling out this form, please check if a similar transaction has already been reported. If you're unsure, contact our support team for guidance.
-</thinking>
-
 # Fraudulent Transaction Report Form - Help Guide
 ## Purpose
 This form is used to report a suspicious or fraudulent transaction.

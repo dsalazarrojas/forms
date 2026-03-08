@@ -1,7 +1,3 @@
-<thinking>
-This form is used for administrative purposes to track and manage dispatch and receipt information for shipments. It is used to capture details about the shipment, including dispatch status, dates, shipping carrier, and tracking numbers. This form is intended to be completed by staff members who are responsible for processing and tracking shipments. It is not intended to be used for customer-facing purposes.
-</thinking>
-
 # dispatch_and_receipt_form - Help Guide
 ## Purpose
 This form is used to track and manage dispatch and receipt information for shipments.

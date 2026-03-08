@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by individuals who wish to participate in stunts, typically in a sports setting. Before we dive into the instructions, let's confirm this form is relevant for our context: activity_sports_waivers_forms. The purpose of this form is to gather crucial information from participants to ensure their safety and well-being, and to obtain their consent for stunt participation.
-</thinking>
-
 # Stunt Participation Consent Form - Help Guide
 ## Purpose
 The Stunt Participation Consent Form is designed to gather essential information from stunt participants. This form is intended to be filled out by individuals who wish to participate in stunts, such as sports events or activities that involve risks. The form helps the organizer to ensure the participant's safety and obtain their consent before allowing them to participate.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a Tax Preparer Agreement, a document that formalizes the relationship between a tax preparer and their client. The form is used to gather essential details about the client, the tax preparer, and the tax return being prepared. This form is required for all tax preparers working with clients to ensure compliance with regulatory requirements. To avoid duplication of effort, review the form carefully before completing it and ensure you are not already working with the client.
-</thinking>
-
 # Tax Preparer Agreement Form - Help Guide
 ## Purpose
 This form is for tax preparers to collect and document information from clients, ensuring a clear understanding of their relationship and the tax return being prepared.

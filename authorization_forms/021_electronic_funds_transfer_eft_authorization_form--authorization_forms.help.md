@@ -1,12 +1,3 @@
-<thinking>
-The Electronic Funds Transfer (EFT) Authorization Form is used to authorize electronic funds transfers between accounts. This form is used to ensure that all parties involved in the transfer have agreed on the terms of the transaction. The form will guide you through the required fields for a successful EFT transaction.
-
-To ensure that you are using the correct form, please verify that you are accessing the correct form type (EFT Authorization Form) and that you have all the necessary information to complete it.
-
-Please review the fields below to understand what information is required for each field.
-
-</thinking>
-
 # Electronic Funds Transfer (EFT) Authorization Form - Help Guide
 
 ## Purpose

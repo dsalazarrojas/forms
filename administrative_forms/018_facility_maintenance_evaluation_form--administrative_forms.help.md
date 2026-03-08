@@ -1,9 +1,3 @@
-<thinking>
-Before creating this help guide, I will review the provided YAML form definition to understand its purpose and requirements. This form appears to be designed for evaluating and managing facilities maintenance activities. Its purpose is likely to gather information about the condition and maintenance status of facilities, such as the condition of the facility, maintenance requests, scheduled maintenance, and responsible personnel.
-
-I will check if there are any similar forms with similar purposes within our system to prevent duplication of efforts.
-</thinking>
-
 # Facility Maintenance Evaluation Form - Help Guide
 ## Purpose
 The Facility Maintenance Evaluation Form is designed to collect information about the condition and maintenance status of facilities. This form helps in tracking and managing maintenance activities, ensuring that facilities are properly evaluated and maintained to ensure they remain in good condition and meet the required standards.

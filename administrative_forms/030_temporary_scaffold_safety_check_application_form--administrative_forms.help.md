@@ -1,5 +1,3 @@
-<thinking>As a safety check application form, this template is designed to capture information related to temporary scaffold safety checks. It allows users to input general information, select multiple scaffold types, provide site location details, dates, and other relevant details such as inspector's name, company, and contact information. This form is likely used for administrative purposes, possibly to monitor or record scaffold safety check activities. It is not intended for public-facing purposes, so users do not need to be concerned with security or authentication. It's essential to complete this form accurately to ensure the correct information is captured.</thinking>
-
 # Temporary Scaffold Safety Check Application Form - Help Guide
 ## Purpose
 This form is designed to gather information for temporary scaffold safety checks.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a school booking form used for scheduling appointments or meetings at a school. It's used to collect relevant information from users to confirm or request a meeting with a specific resource (e.g., teacher, staff member, or facility). This form may be used by students, teachers, or administrators to schedule events such as meetings, classes, or events. Ensure that the form is completed accurately to avoid any miscommunication or scheduling conflicts.
-</thinking>
-
 # School Booking Form - Help Guide
 ## Purpose
 This form is used to schedule appointments or meetings at a school. It collects information from the user to confirm or request a meeting with a specific resource such as a teacher, staff member, or facility.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create an Offer Letter for a Program Coordinator position.
-</thinking>
-
 # Program Coordinator Offer Letter - Help Guide
 
 ## Purpose

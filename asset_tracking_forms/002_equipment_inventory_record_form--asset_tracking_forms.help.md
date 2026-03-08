@@ -1,11 +1,3 @@
-<thinking>
-The "Equipment Inventory Record Form" serves as an asset tracking system where users can log the details of their equipment. Each asset record includes specific information to ensure accurate record-keeping and help prevent loss or misplacement. 
-The form helps in maintaining a centralized database of asset details, which streamlines asset management and facilitates better decision-making. 
-
-This guide will walk you through the process of filling out the form and explaining each field's purpose.
-
-</thinking>
-
 # Equipment Inventory Record Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about your assets to maintain a comprehensive inventory and track the status of your equipment.

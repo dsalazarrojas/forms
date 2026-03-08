@@ -88,11 +88,6 @@ To complete this form, follow these steps:
 *   Enter accurate and up-to-date information about the new mother's health and well-being. 
 
 Thinking block:
-<thinking>
-This form is designed for healthcare providers to collect essential information for postnatal care appointments. The fields are intended to gather information about the new mother's health, contact information, and appointment details. This form is not designed to be a comprehensive medical history, but rather a collection of essential details for healthcare providers to plan and execute postnatal care appointments. It is essential to ensure that all required fields are completed accurately and thoroughly to ensure the best possible care for the new mother and her baby. 
-
-</thinking> 
-
 # Postnatal Care Appointment Form - Help Guide
 
 ## Purpose

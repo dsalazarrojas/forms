@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a book for a book award application process. It is essential to ensure that the form is filled out accurately and thoroughly to avoid any issues during the evaluation process.
-
-Before filling out this form, ensure that the book you are applying with is unique and has not been previously submitted for recognition. A duplicate submission may lead to delays or disqualification. If you are unsure about any of the fields or their requirements, it's always best to consult the relevant authorities or contact the support team for clarification.</thinking>
-
 # Book Award Application Form - Help Guide
 ## Purpose
 The "Book Award Application Form" is used to gather the necessary information for a book to be considered for an award in the book award application process.

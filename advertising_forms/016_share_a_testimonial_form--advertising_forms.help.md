@@ -1,5 +1,3 @@
-<thinking>What a lovely form! The purpose of the "share_a_testimonial_form" is to collect valuable feedback or testimonials from customers or users about our services, products, or events. This form is meant to be shared on our website or marketing materials to showcase how our audience feels about our offerings. To ensure accurate and helpful responses, please follow the guidance below to complete this form.</thinking>
-
 # share_a_testimonial_form - Help Guide
 ## Purpose
 The "share_a_testimonial_form" is a collection of questions and fields designed to gather feedback and testimonials from our audience. This form will help us understand their experiences, opinions, and suggestions, which we will use to improve our services, products, or events.

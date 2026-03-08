@@ -1,7 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect information about lunch menu pre-orders from end users. It seems that the form is designed for customers to specify their preferences, including food items, dates, times, and any special requests. I am assuming that the form will be used in an institutional or organizational setting, such as a cafeteria or restaurant, where pre-orders can be placed and processed in advance. I will proceed to create a user-facing help guide based on these assumptions.
-</thinking>
-
 # Lunch Menu Pre Order Form - Help Guide
 ## Purpose
 This form is designed for customers to pre-order lunch menu options and provide additional information to ensure a smooth ordering experience.

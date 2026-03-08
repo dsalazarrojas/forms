@@ -1,7 +1,3 @@
-<thinking>
-The form "daily_technician_report" is used to report on the daily activities and tasks performed by a technician. This form is used to provide a clear and concise overview of the work completed during the day. It is essential to fill this form accurately and completely to ensure that the information is recorded correctly and used for future reference.
-</thinking>
-
 # daily_technician_report - Help Guide
 ## Purpose
 The purpose of this form is to document the daily activities and tasks performed by a technician. This includes reporting on maintenance tasks completed, daily activities, and other relevant information such as date and time of completion.

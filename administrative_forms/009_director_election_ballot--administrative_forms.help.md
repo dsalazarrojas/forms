@@ -1,7 +1,3 @@
-<thinking>
-The Director Election Ballot form is used to collect votes from team members or users within an organization for the election of directors. This form is likely to be used in a corporate or educational setting where members can vote for their preferred candidates. The purpose of this form is to gather feedback from users and to help select the next director. This form is not typically used for other purposes and should only be filled out by authorized users. Please make sure to fill out the form only once, as duplicate submissions can cause confusion and affect the outcome of the election.
-</thinking>
-
 # Director Election Ballot - Help Guide
 
 ## Purpose

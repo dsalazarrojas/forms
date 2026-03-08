@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain approval for artworks from approvers. The purpose of this form is to provide a structured way to gather information about the artwork and get approval from the approvers. It's crucial to complete this form accurately and thoroughly to ensure that the approvers have all necessary information to make informed decisions. Please ensure that you are completing this form for the correct artwork and that you are not submitting duplicate requests.
-</thinking>
-
 # Proof Approval - Help Guide
 ## Purpose
 The Proof Approval form is used to obtain approval for artworks from approvers. It gathers information about the artwork, such as title, date, and notes, as well as the approver's signature.

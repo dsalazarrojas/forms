@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive checklist for special education admission. It includes sections for student information, parental contact, disability status, and more. The purpose of this form is to ensure a thorough understanding of a student's needs and circumstances before providing special education services. Please review the form carefully to ensure accurate and complete information is provided.
-</thinking>
-
 # Special Education Admission Checklist Form Template - Help Guide
 ## Purpose
 The Special Education Admission Checklist Form Template is designed to collect comprehensive information from students and their families to ensure a thorough understanding of their needs and circumstances before providing special education services.

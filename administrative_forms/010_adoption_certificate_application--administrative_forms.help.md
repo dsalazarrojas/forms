@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for an adoption certificate, which is an official document that confirms an adoption has been finalized. This form captures the necessary details about the applicant, the adoption case, and the delivery of the certificate to ensure it is completed accurately and efficiently.
-
-When filling out this form, please ensure that you are applying for an adoption certificate for the correct adoption case, and not for another unrelated case. This form will be used to create an official document, so it is crucial that the information provided is accurate and correct. Please do not submit this form if you have not gone through an adoption process or do not have a case reference number.
-
-This form is intended to be completed by the individual or entity applying for an adoption certificate. If you are submitting on behalf of someone else, please ensure that you have their permission to do so.
-
-Before completing this form, please make sure that you have the necessary information and supporting documents required for the adoption process, including the final decree date and the court of jurisdiction.
-
-If you have any questions or concerns while filling out this form, please don't hesitate to reach out to the contact information provided.
-
-</thinking>
-
 # Adoption Certificate Application - Help Guide
 ## Purpose
 The purpose of this form is to gather information for an adoption certificate, which is an official document that confirms an adoption has been finalized.

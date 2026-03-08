@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a student award recommendation. It is meant for a nominator (someone recommending a student) to provide details about the student they are recommending, the award they are nominating them for, and their own contact information. This form is likely used to gather data for an internal or external evaluation process within an educational institution or organization.
-
-To avoid duplication of efforts and ensure accurate and relevant information is collected, please make sure:
-
-* You are nominating a student for a genuine reason, not as a formality.
-* You have a genuine connection to the student, such as a teacher, mentor, or colleague.
-* You have a clear understanding of the award's criteria and are confident in the student's qualifications.
-
-</thinking>
-
 # Student Award Recommendation Form - Help Guide
 ## Purpose
 The form is designed to collect information for a student award recommendation.

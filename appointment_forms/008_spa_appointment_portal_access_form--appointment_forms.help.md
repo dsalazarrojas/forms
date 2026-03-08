@@ -1,5 +1,3 @@
-<thinking>As a designer, my first step is to analyze the provided YAML schema to understand the form's purpose and structure. This form appears to be a comprehensive appointment management form for a spa, collecting customer information, appointment details, and other relevant data. The form has 25 fields, which is a lot, but they can be grouped into clear categories. I will make sure to break down each field in an easy-to-understand way to make it user-friendly.</thinking>
-
 # Spa Appointment Portal Access Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for spa appointments, including customer contact details, appointment details, and confirmation of the appointment.

@@ -1,9 +1,3 @@
-<thinking>
-This form was created by analyzing the public metadata of the "booking_forms" category, but it does not contain any proprietary information, and it's not affiliated with any form platform. The purpose of this form is to collect user information and reservation details for jet ski rental services. This form does not store any sensitive or personal information. The information collected will be used for internal purposes only and will not be shared with any third party. 
-
-The form consists of three sections: "User Info", "Reservation Info", and "Rental Info". The user will be required to provide their personal information, reservation details, and rental information to ensure a smooth and successful jet ski rental experience.
-</thinking>
-
 # Jet Ski Rental Reservation Form - Help Guide
 
 ## Purpose

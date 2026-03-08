@@ -1,5 +1,3 @@
-<thinking>Operations Manager Interview Assessment form is designed to collect information about candidates' skills, experience, and qualifications for operational management positions. This form is intended to be used by hiring managers or recruiters to assess candidates' suitability for operational management roles. The form does not collect any sensitive or personal data and is intended for internal use only.</thinking>
-
 # operations_manager_interview_assessment - Help Guide
 ## Purpose
 This form is designed to collect information about candidates' skills, experience, and qualifications for operational management positions.

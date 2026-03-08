@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML, I understand the form's purpose to be a client check-in form for a yoga studio. The goal of this form is to collect relevant contact and emergency information from clients, likely for the studio's internal records and communication purposes. It appears to be a simple, multi-page form that captures basic details. I will create a user-friendly help guide based on this understanding, ensuring it is concrete, concise, and practical, and covering the essential fields and instructions for completion.</thinking>
-
 # Yoga Studio Client Check In Form - Help Guide
 ## Purpose
 The Yoga Studio Client Check In Form is designed to collect contact and emergency information from clients. This form is used by your yoga studio to gather essential details for internal purposes, such as keeping your client list up to date and ensuring their safety in case of emergencies.

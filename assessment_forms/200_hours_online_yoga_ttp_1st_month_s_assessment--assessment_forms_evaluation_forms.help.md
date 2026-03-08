@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback and assessment from participants who have completed the first month of the 200 Hours Online Yoga Training Program. The form is used to evaluate the participant's progress, strengths, and areas for improvement. The assessment includes questions about the participant's demographic information, practice habits, and goals, as well as their comfort level with various aspects of yoga practices. This form is intended to be completed by participants after the completion of the first month of the training program.
-
-This form is intended for participants to provide honest and constructive feedback about their experience in the training program. Please take a few minutes to complete this form to help us improve and provide a better experience for future participants.
-
-To ensure that you can provide the most accurate and helpful feedback, please do not duplicate this form. If you have already completed this form, do not fill it out again.
-
-Please note that all the information collected through this form will be kept confidential and used solely for the improvement of the training program.
-
-</thinking>
-
 # 200 Hours Online Yoga TTP 1st Month's Assessment - Help Guide
 ## Purpose
 

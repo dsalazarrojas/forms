@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information for fuel storage tank inspections, which are crucial for maintaining the safety and efficiency of fuel storage facilities. The form is meant to be completed by designated inspectors to document the status of each tank, including its condition, contents, and maintenance history. This helps track and address any potential issues, prevent accidents, and ensure regulatory compliance. 
-
-The fields are designed to be straightforward and easy to understand. The form should not require any specialized knowledge or training to complete it accurately. However, it's essential to fill it out carefully and consistently for reliable data.
-
-The completion of this form is optional, but it's highly recommended for regular maintenance and inspection purposes.
-
-</thinking>
-
 # Fuel Storage Tank Inspection Form - Help Guide
 ## Purpose
 

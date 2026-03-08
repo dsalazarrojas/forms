@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Surveillance Feed Access Consent Form - Help Guide
 ## Purpose
 

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students for an entrepreneurship exam. The form is designed to gather data on student performance, preferences, and experiences related to entrepreneurship. Each question is designed to assess the student's knowledge, skills, and attitudes relevant to entrepreneurship. This form is used for internal evaluation and improvement of the entrepreneurship program.
-
-Before completing the form, it is essential to review the required fields and provide accurate and relevant answers. 
-
-The form has two parts: student information and questions. Each question is a multiple-choice or single-answer question. The student name, student ID, and submission date are required, while other fields are optional.
-
-Please ensure to complete the form accurately and thoroughly to help us evaluate and improve the program.
-
-</thinking>
-
 # Entrepreneurship Exam Answer Sheet - Help Guide
 ## Purpose
 

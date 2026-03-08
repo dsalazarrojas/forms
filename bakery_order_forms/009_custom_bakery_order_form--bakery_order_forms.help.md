@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Bakery Order Form - Help Guide
 
 ## Purpose

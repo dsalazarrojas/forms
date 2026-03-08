@@ -1,6 +1,3 @@
-<thinking> 
-Is this form intended for staff members, parents, and students to assess the effectiveness of an anti-bullying initiative within their school or organization? Are there specific questions about the initiative's components, such as education and awareness, reporting mechanisms, and staff training? Are there any specific sections or questions that aim to identify areas of improvement or potential challenges with the initiative? Are there any fields that ask about the respondent's involvement or participation in the initiative? Is there a specific section that allows respondents to provide additional comments or suggestions for improvement? Are there any questions that target the overall satisfaction with the initiative? Is there a way to track or measure the initiative's effectiveness over time?</thinking>
-
 # Anti Bullying Initiative Effectiveness Assessment - Help Guide
 
 ## Purpose

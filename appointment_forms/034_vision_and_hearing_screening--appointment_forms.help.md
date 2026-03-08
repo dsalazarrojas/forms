@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vision And Hearing Screening - Help Guide
 
 ## Purpose

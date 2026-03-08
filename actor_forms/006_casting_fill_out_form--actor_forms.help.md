@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information from applicants for casting and auditioning purposes. This form is used by casting staff to gather essential details about the applicant, including contact information, skills, and availability. The form helps ensure that casting staff have accurate and complete information about each applicant, which enables them to effectively manage the auditioning process. 
-
-Before proceeding, please ensure that you have not already submitted this form for the role you are applying for. If you are not sure, contact the casting staff for guidance.
-
-</thinking>
-
 # Casting Fill Out Form - Help Guide
 
 ## Purpose

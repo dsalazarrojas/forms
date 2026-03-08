@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information related to proof approval from various teams within an organization. This form will likely be used in a workflow or process where proof-related tasks require approval from specific personnel or teams. It's essential to fill out this form accurately and truthfully to ensure the approval process is efficient and secure.
-
-To fill out this form, follow the same steps below to ensure consistency in your input. Review the fields for each page carefully and fill them in accordingly.
-
-</thinking>
-
 # Proof Approval Form - Help Guide
 ## Purpose
 The Proof Approval Form is used to gather information related to proof approval from various teams within an organization. It's used to ensure the approval process is efficient and secure.

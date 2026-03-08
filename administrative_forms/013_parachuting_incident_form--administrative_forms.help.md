@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to document and report incidents that occur during parachuting activities, such as skydiving accidents or near misses. The form helps to ensure that incidents are thoroughly reported, investigated, and addressed to improve safety and prevent future incidents. 
 
 To ensure the accuracy and completeness of the incident report, please carefully review and provide as much detail as possible for each field. 

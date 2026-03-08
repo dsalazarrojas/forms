@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information for Accounts Payable Check Requests. The purpose of this form is to provide a structured way to request payments from vendors or payees. The form requires the requester's name, vendor information, invoice number, amount to be paid, currency, payment method, department charge (if applicable), accounting code (if applicable), and approval signature, date, and any additional notes. 
-
-The form is divided into sections, and each section should be filled out in order. Please ensure you have all necessary information before completing the form. This information will help the accounting team process the payment accurately and efficiently.
-</thinking>
-
 # Accounts Payable Check Request Form - Help Guide
 
 ## Purpose

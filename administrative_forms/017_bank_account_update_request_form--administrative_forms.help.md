@@ -1,10 +1,3 @@
-<thinking>
-To create this help guide, I will analyze the form YAML and extract the necessary information to provide a clear and concise explanation.
-
-The purpose of this form is to allow account holders to request updates to their bank account information. The form is used to collect information about the account holder's identity, account details, and any updates they wish to make to their account. The form is divided into several sections, each with its own set of fields and options. The account holder must provide their current full name, account number, and contact phone number. They must also select which updates they wish to make to their account, such as changing their legal name, updating their mailing address, or adding or removing a joint account holder. The account holder must also choose a preferred method of verification and authorize the bank to update their records. Finally, they must select a date for their request.
-
-</thinking>
-
 # Bank Account Update Request Form - Help Guide
 ## Purpose
 This form is used to request updates to your bank account information. Please use this form to provide any changes you'd like to make to your account details.

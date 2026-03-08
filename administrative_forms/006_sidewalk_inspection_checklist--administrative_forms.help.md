@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for Sidewalk Inspection Checklists, a process to inspect and document the condition of sidewalks in various settings. The form is not affiliated with, endorsed by, or derived from any form platform, and its content is original and released under CC BY 4.0.
-</thinking>
-
 # Sidewalk Inspection Checklist - Help Guide
 ## Purpose
 This form is used to conduct thorough inspections of sidewalks to identify any issues or defects. It is designed to be used in various settings, such as schools, commercial properties, or public areas, to document the condition of sidewalks and ensure their safety and accessibility.

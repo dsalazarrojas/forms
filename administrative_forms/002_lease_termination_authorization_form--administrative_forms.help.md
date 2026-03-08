@@ -1,21 +1,3 @@
-<thinking>
-This form is used for authorizing lease termination. A user is required to provide a yes or no answer to whether the tenant has agreed to terminate the lease. If the tenant has agreed, the user will also need to fill out additional details such as the reason for termination, notice period, rent amount, last payment, start date of the notice period, end date of the notice period, and reason for termination. This form helps to ensure that all necessary information is collected for proper lease termination processing.
-
-The form is not intended for use in duplicate situations, so users should only access it when the tenant has agreed to terminate the lease.
-
-The form fields are as follows:
-- The "Yes" or "No" answer for whether the tenant has agreed to terminate the lease.
-- The name of the landlord.
-- The date of the termination.
-- The reason for the termination.
-- The notice period.
-- The rent amount.
-- The last payment.
-- The start date of the notice period.
-- The end date of the notice period.
-- A general reason for termination.
-</thinking>
-
 # Lease Termination Authorization Form - Help Guide
 ## Purpose
 

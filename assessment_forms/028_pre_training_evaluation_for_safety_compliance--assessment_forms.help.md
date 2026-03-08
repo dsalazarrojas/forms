@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "pre-training-evaluation-for-safety-compliance", is designed to collect information about pre-training evaluations for safety compliance. It is likely used in a workplace setting to ensure that employees have received the necessary training to perform their job tasks safely. The purpose of this form is to assess the status of pre-training evaluations for safety compliance, and its completion is likely mandatory for employees and/or managers. This form appears to be a comprehensive evaluation tool used to monitor and track the progress of employee training.
-
-</thinking>
-
 # pre-training-evaluation-for-safety-compliance - Help Guide
 ## Purpose
 The "pre-training-evaluation-for-safety-compliance" form is used to collect information about pre-training evaluations for safety compliance. It is used to assess the status of pre-training evaluations and ensure that employees have received the necessary training to perform their job tasks safely.

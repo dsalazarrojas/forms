@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers who would like to schedule a test drive for an electric vehicle. The form is designed to gather details about the customer's test drive preferences, customer information, and vehicle information. This form is likely used by car dealerships or rental companies that offer electric vehicles for test drives.
-
-This form appears to be a simple text-based form with three main sections: "test_drive_details", "customer_info", and "vehicle_info". The form does not have any complex logic or conditional fields, so users should be able to complete it without any issues. There is no duplication of effort or non-relevance to other forms, as this form is a standalone creation.
-
-</thinking>
-
 # electric_vehicle_test_drive_reservation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who want to schedule a test drive for an electric vehicle.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of getting an employee's work authorization, typically after they have been absent from work due to illness or injury. It's crucial to ensure that the employee's work status and authorization are properly documented to prevent any disruptions to work schedules and productivity.
-</thinking>
-
 # Return To Work Authorization Form - Help Guide
 ## Purpose
 The Return To Work Authorization Form is used to notify the supervisor and HR department that an employee is returning to work after an absence. It requires the employee's information, including their name, work status, and authorization date, as well as supervisor comments and a doctor's note.

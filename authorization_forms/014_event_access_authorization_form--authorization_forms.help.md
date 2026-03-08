@@ -1,7 +1,3 @@
-<thinking>
-The Event Access Authorization Form is used to grant access to events for specific users or groups. It's used by event organizers to control who can attend, when, and what level of access they have. Before filling out this form, please ensure you have the necessary permissions and have reviewed the event's rules and policies. This form is only used for event access authorization and does not imply any other type of authorization.
-</thinking>
-
 # Event Access Authorization Form - Help Guide
 ## Purpose
 The Event Access Authorization Form is used to grant access to events for specific users or groups.

@@ -1,11 +1,3 @@
-<thinking>
-The Senior Superlatives Form is used to collect votes and feedback from students about their senior superlatives, a group of students who embody the spirit and ideals of the institution. This form is designed to gather information on student preferences and opinions regarding the superlatives and their activities. Please note that the form is not mandatory for students, and they can submit their votes/ feedback voluntarily. The form is designed to be used once a year, typically during senior week.
-
-This guide is meant to provide a general understanding of the form's purpose and the fields required to complete it. Please refer to your institution's guidelines and instructions for specific requirements and deadlines.
-
-Before starting, please ensure that you have not already completed this form. Duplicate submissions may cause unnecessary work for students and administrators.
-</thinking>
-
 # Senior Superlatives Form - Help Guide
 ## Purpose
 The Senior Superlatives Form is used to collect votes and feedback from students on their senior superlatives, a group that represents the spirit and ideals of the institution.

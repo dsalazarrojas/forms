@@ -1,9 +1,3 @@
-<thinking>
-This help guide will cover the FMLA Notice Submission Form, ensuring that users understand its purpose, how to complete it, and what each field means.
-The FMLA Notice Submission Form is used for employees to submit notice for leave requests due to Family and Medical Leave Act (FMLA). The form is used to gather information about the employee's leave request, including reason, dates, and contact details.
-Before starting, it is essential to check for duplicate submissions, as the system will only allow for one active leave request per employee at any given time. This form will be used to submit new or updated leave requests.
-</thinking>
-
 # FMLA Notice Submission Form - Help Guide
 ## Purpose
 This form is used to submit notice for leave requests due to Family and Medical Leave Act (FMLA). It is used to gather information about the employee's leave request, including reason, dates, and contact details.

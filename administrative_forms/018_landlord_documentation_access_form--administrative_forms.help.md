@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Landlord Documentation Access Form - Help Guide
 
 ## Purpose

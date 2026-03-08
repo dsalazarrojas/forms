@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record contact visits to the facility. It collects information about the visitor, visit details, and post-visit data such as security confirmation. This log helps maintain accurate records of visitations and ensures adherence to facility security protocols. 
-</thinking>
-
 # Contact Visit Log - Help Guide
 
 ## Purpose

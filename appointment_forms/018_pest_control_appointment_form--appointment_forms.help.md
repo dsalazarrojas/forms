@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or clients regarding pest control services, including contact information, service information, appointment schedules, and other relevant details. This form aims to streamline the process of managing appointments and services provided by pest control professionals.
-
-To avoid duplication and ensure accurate data collection, this form should not be filled out if the customer has already been assigned a service appointment or if the service is not currently active.
-
-The form consists of multiple pages, each containing a set of fields to be filled out by the customer. 
-
-Please note that the form is designed to be completed by the customer, and all fields are optional unless explicitly marked as required.
-
-Please refer to the field-by-field explanations below for more information on each field.
-</thinking>
-
 # pest_control_appointment_form - Help Guide
 ## Purpose
 This form is used to collect information from customers regarding pest control services, including contact information, service details, and appointment schedules.

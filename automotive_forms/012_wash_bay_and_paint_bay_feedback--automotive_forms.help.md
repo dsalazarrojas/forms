@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended for collecting feedback on the quality of service provided in a wash bay and paint bay? The purpose of this form seems to be to gather information on various aspects of the experience, including cleanliness, equipment, staff helpfulness, and overall experience. It also requests contact information for potential follow-up. I'll assume that the form is used to improve the service quality and customer satisfaction.
-</thinking>
-
 # Wash Bay And Paint Bay Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback on the quality of service provided in the wash bay and paint bay. Your input will help us improve our services and provide a better experience for our customers.

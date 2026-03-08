@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # research_theory_submission_form - Help Guide
 ## Purpose
 The "research_theory_submission_form" is a form used for submitting research theories and papers. It is intended for authors to provide information about their published or unpublished research, including title, author details, abstract, and submission status.

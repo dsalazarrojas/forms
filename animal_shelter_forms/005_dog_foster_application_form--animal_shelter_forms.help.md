@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential dog foster families who are interested in providing a loving home to a dog in need. This form will help us understand their personal background, household details, pet experience, and contact information to ensure the best match for both the dog and the foster family.
-We want to ensure that the foster family has the necessary resources and space to care for a dog, and that the dog will receive the love and attention it deserves. By providing accurate and complete information, we can make the adoption process more efficient and effective.
-Please note that this form is not intended to be a comprehensive adoption application, but rather a preliminary step in the process. If selected as a foster family, you will be contacted by our organization to discuss further details and answer any additional questions.
-</thinking>
 # Dog Foster Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential dog foster families, allowing us to understand their background, household, pet experience, and contact details. This information helps us match the best-suited foster family with a dog in need.

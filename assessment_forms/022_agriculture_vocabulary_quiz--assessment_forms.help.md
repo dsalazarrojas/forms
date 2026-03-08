@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for end-users to test their knowledge on agriculture-related terminology and concepts. The form has 7 fields, each with a specific label, type, and optional hint. The form is not intended to be taken seriously in a formal academic or professional setting, as it is meant for entertainment or educational purposes only. However, it may still be useful in a classroom setting or for self-assessment. 
-</thinking>
-
 # Agriculture Vocabulary Quiz - Help Guide
 ## Purpose
 The Agriculture Vocabulary Quiz is a self-assessment form designed to test your knowledge on agriculture-related terminology. It is a tool for participants to gauge their understanding of key concepts in agriculture.

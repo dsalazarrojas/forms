@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather feedback from users about their experience with the writing advisor, including their overall experience, what they found helpful and what could be improved, and whether they would recommend the advisor to others.
-</thinking>
-
 # writing-advisor-feedback-form - Help Guide
 ## Purpose
 

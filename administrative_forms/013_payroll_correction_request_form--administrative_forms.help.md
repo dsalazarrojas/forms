@@ -1,17 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form appears to be for payroll corrections, which suggests it's used to address errors or discrepancies in employee pay. This form likely serves as a way to document and manage these corrections, ensuring they're properly tracked and processed. To confirm, the presence of fields like "Error Date", "Error Type", "Pay Cycle", and "Pay Currency" support this hypothesis. Additionally, the form likely needs to be non-duplicative, as indicated by the required "employee_id" field.
-
-Let's verify this by examining the fields:
-- The "Pay Cycle" field, with options "Yes" and "No", might be used to indicate if the error affects the current pay cycle.
-- The "Error Type" field, also with options "Yes" and "No", could be used to specify the type of error.
-- The "Description" field is a free-text field for adding further details about the error.
-- The "Attachment" field is likely for uploading supporting documents or evidence related to the correction.
-- The "Submitter" field, with options "Yes" and "No", might indicate who submitted the correction request. 
-- The "Submitter Email", "Submitter Phone", "Submitter Department", and "Submitter Job Title" fields likely provide contact information for the person submitting the request.
-- The "Pay Adjustment Amount" field might be used to specify the amount of the pay correction.
-- The "Pay Currency" field, with options "Yes" and "No", might indicate if the error affects pay in a specific currency.
-</thinking>
-
 # Payroll Correction Request Form - Help Guide
 ## Purpose
 This form is used to request corrections to employee pay, ensuring accuracy and transparency in payroll processing.

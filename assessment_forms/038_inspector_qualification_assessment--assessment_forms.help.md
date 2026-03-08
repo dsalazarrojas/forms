@@ -1,14 +1,3 @@
-<thinking>
-This form is used to assess and evaluate the qualifications of inspectors. To ensure accuracy and consistency, please review the form's purpose and fields carefully before proceeding.
-
-The form's purpose is to assess the qualifications of inspectors, which may include evaluating their experience, certifications, and performance. This assessment is crucial for maintaining the integrity and quality of inspection processes.
-
-Please note that this form is intended for internal use only and should not be shared or duplicated. Each section of the form has a specific purpose and requirements. Review the form carefully to ensure accurate and thorough completion.
-
-To minimize duplication, please ensure that each section is filled out only once.
-
-</thinking>
-
 # inspector_qualification_assessment_form - Help Guide
 ## Purpose
 The form is used to assess and evaluate the qualifications of inspectors.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from individuals interested in volunteering at an animal rescue organization. The purpose of this form is to gather contact and demographic information from potential volunteers, as well as their availability and experience related to animal care. This information will help the organization determine the best fit for each volunteer and streamline the volunteer matching process. Please review each field to ensure that all required information is provided.</thinking>
-
 # Volunteer Application Form - Help Guide
 ## Purpose
 This form is used to collect application information from individuals interested in volunteering at an animal rescue organization.

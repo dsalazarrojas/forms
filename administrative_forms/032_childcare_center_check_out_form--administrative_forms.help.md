@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Childcare Center Check Out Form - Help Guide
 
 ## Purpose

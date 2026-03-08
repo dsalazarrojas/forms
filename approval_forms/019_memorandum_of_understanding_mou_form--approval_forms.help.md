@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a Memorandum Of Understanding (MOU) between partners, which is a legal document that outlines the terms and conditions of a partnership or agreement between two or more parties. The form is used to formalize the partnership and ensure that all parties are on the same page. Before filling out this form, ensure that you have a clear understanding of the partnership's objectives, risks, and responsibilities.
-</thinking>
-
 # Memorandum Of Understanding (MOU) Form - Help Guide
 ## Purpose
 The Memorandum Of Understanding (MOU) Form is a document that outlines the terms and conditions of a partnership or agreement between two or more parties. It ensures that all parties are on the same page and provides a clear understanding of the partnership's objectives, risks, and responsibilities.

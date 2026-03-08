@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for scheduling an appointment for a patient who is receiving orthodontic adjustments. It is intended for use by patients, and its purpose is to ensure that the patient's needs and preferences are accurately captured for the appointment.
-
-The form is divided into several sections, each focusing on a specific aspect of the patient's appointment, including their personal details, appointment preferences, and medical and billing information. 
-
-This form is not intended for internal use by the clinic, but rather for use by the patient to submit their information. 
-This form does not require any internal logic or rules engine validation, and is simply a data collection tool to gather necessary information. 
-
-This form is a critical piece of the clinic's intake process and ensures that all necessary information is collected from the patient before the appointment.
-</thinking>
-
 # Braces Adjustment Appointment Form - Help Guide
 ## Purpose
 The Braces Adjustment Appointment Form is a patient-facing form used to collect information and preferences for scheduling an appointment for orthodontic adjustments.

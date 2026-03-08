@@ -1,11 +1,3 @@
-<thinking>
-This form is used for processing lease extension amendments. Landlords and property managers may use it to verify tenant requests for lease extensions, track the current status of these requests, and keep a record of the approval process. 
-
-When a tenant submits a request for a lease extension, the landlord or property manager will use this form to document the details of the request, the current lease terms, and the decision made on the request. The form helps ensure that all relevant information is collected and recorded consistently. 
-
-The form is designed to minimize unnecessary data collection and reduce the risk of data errors. This form is not affiliated with any form creation platform. 
-</thinking>
-
 # Lease Extension Amendment Approval Form - Help Guide
 ## Purpose
 

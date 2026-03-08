@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to update the emergency contact information for an individual. This form is used to collect and confirm the updated contact information in a structured and organized manner. Before proceeding, please ensure that you have the necessary information and that the updates are accurate. Please also note that this form is not intended for duplicate or redundant updates. If you're unsure about any of the fields or their requirements, please review this guide carefully to ensure you complete the form correctly.
-</thinking>
-
 # Emergency Contact Update Confirmation Form - Help Guide
 ## Purpose
 This form is used to update and confirm emergency contact information for an individual.

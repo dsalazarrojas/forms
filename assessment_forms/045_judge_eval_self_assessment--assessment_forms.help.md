@@ -1,8 +1,3 @@
-<thinking>
-This form was created to assist individuals in evaluating their own performance and skills, specifically in a group setting. The purpose of this Judge Eval Self Assessment form is to provide a structured approach to reflecting on one's experiences, strengths, and areas for improvement within a group context.
-The form will guide the respondent through a series of questions that aim to elicit a comprehensive understanding of their role and contributions within the group.
-</thinking>
-
 # Judge Eval Self Assessment - Help Guide
 ## Purpose
 This form is designed to help users reflect on their experiences and performance within a group, identifying strengths and areas for improvement.

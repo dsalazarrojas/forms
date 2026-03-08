@@ -1,12 +1,3 @@
-<thinking>
-This form is used to assess an individual's proficiency in office software, such as Microsoft Office, to determine their level of expertise in various aspects of office software. This form is likely used by HR or training departments to evaluate employees' skills in office software and provide feedback or training recommendations. The form should only be filled out once per user and is not intended for frequent completion.
-
-This form is likely used in a work-related setting, such as an office or corporate environment, where knowledge of office software is a required skill.
-
-Before filling out this form, ensure that you have the necessary information and permissions to complete it.
-
-</thinking>
-
 # office_software_proficiency_assessment - Help Guide
 ## Purpose
 The office software proficiency assessment form is used to evaluate an individual's proficiency in office software, including Microsoft Office, to provide feedback or training recommendations.

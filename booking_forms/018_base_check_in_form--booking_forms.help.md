@@ -1,8 +1,3 @@
-<thinking>
-The Base Check In Form is a critical component of the event management process, ensuring that attendees provide accurate and up-to-date information for smooth event execution and post-event follow-up. This form is designed to collect information on attendees' registration details, event preferences, and expectations. It is essential to fill out the form accurately to enable event organizers to provide a tailored experience and communicate effectively with attendees.
-Before starting the form, please ensure you are not filling it out on behalf of someone else, as each attendee should submit their own form. If you are unsure about any field, please contact the event organizers for clarification.
-</thinking>
-
 # Base Check In Form - Help Guide
 ## Purpose
 

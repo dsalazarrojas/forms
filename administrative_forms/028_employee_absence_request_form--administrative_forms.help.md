@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an absence (vacation, sick leave, or other) by employees. Before filling out this form, please ensure that you have checked the company's absence policy and that you have your manager's approval to submit this request. Please also check if there are any existing absence requests that cover the same time period as it might be duplicate.
-</thinking>
-
 # Employee Absence Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request an absence (vacation, sick leave, or other) for an employee. This form helps the employee to request a specific period of absence and ensures that it is properly documented and communicated with the management.

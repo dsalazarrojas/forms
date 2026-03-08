@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record financial transactions for accounting purposes. It's used to track income and expenses, as well as other financial activities. To ensure accuracy, please fill out the form completely and carefully. If you're unsure about any field or have questions, please refer to this help guide. Before filling out the form, ensure you're filling it out for the correct purpose and not duplicating existing transactions.
-</thinking>
-
 # Financial Transaction Log - Help Guide
 ## Purpose
 

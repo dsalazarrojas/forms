@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be filled out by the traveler or authorized representative to provide and update emergency contact information for the traveler in question. This information will be used to contact the emergency contact in case the traveler needs assistance while abroad. To avoid filling out this form if you are not a traveler or authorized representative, please don't fill it out.
-
-Please ensure you are filling out this form only if you have the right to update emergency contact information for the traveler. Duplicate submissions will not be accepted and may lead to confusion.
-
-</thinking>
-
 # Passport Emergency Contact Information Update - Help Guide
 ## Purpose
 The "Passport Emergency Contact Information Update" form allows you to provide and update emergency contact information for yourself or an authorized representative to contact in case of emergency while abroad.

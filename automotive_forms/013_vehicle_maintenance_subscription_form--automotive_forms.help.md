@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their vehicle maintenance preferences. It is intended for use in the automotive industry and is meant to be a general guide for collecting customer data. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata as inspiration. 
-
-The purpose of this form is to streamline the process of collecting vehicle maintenance information from customers and provide a standardized way of doing so. 
-
-It is recommended to review the form thoroughly before using it to ensure it is accurate and suitable for your business needs.
-
-</thinking>
-
 # Vehicle Maintenance Subscription Form - Help Guide
 
 ## Purpose

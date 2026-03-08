@@ -1,7 +1,3 @@
-<thinking>
-This form is used for managing access to the document management system. It requires a unique ID, role, access level, and start and end dates for access. The role determines who has access to the system and the access level dictates how much access they have. The start and end dates determine when the access is active. This guide will walk you through each field in the form.
-</thinking>
-
 # document_management_system_access_form - Help Guide
 ## Purpose
 This form is used to manage access to the document management system. It requires a unique ID, role, access level, and start and end dates for access.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture event-related information, specifically for a "Prophets Personal Chef" service. This form is intended to be used by clients to book events with a personal chef, providing essential details about the event, client preferences, chef details, and payment information. This form does not require a login or registration, making it accessible to anyone who needs to book an event. The form was created using public survey topic metadata as inspiration, ensuring it is an original adaptation without proprietary content from any form creation or data collection platform.
-</thinking>
-
 # Prophets Personal Chef Booking Form - Help Guide
 ## Purpose
 This form is designed to help clients book events with a personal chef. It captures necessary details to ensure a smooth and enjoyable experience for both the client and the chef.

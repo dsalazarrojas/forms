@@ -1,17 +1,3 @@
-<thinking>
-This form is likely used to request deviations to the security plan, allowing users to document and track changes to the security plan. The purpose is to ensure that any changes are properly reviewed and approved by the relevant stakeholders.
-
-This form is designed to collect information about the nature and scope of the security plan deviation, including the context, affected teams or departments, and potential risks involved.
-
-The form appears to be a multi-page form, with each page collecting information on different aspects of the deviation request.
-
-Before completing this form, the user should ensure that they have a good understanding of the current security plan and the proposed changes. They should also review the relevant policies and procedures related to security plan deviations.
-
-To submit a complete form, the user will need to fill in all required fields, which are marked as such.
-
-The form should not be completed for duplicate or frivolous requests.
-
-</thinking>
 # Security Plan Deviation Request Form - Help Guide
 ## Purpose
 The Security Plan Deviation Request Form is used to request changes to the security plan. This form helps to ensure that any deviations to the plan are properly reviewed and approved by relevant stakeholders.

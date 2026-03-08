@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to document and track project responsibilities and authorities for each project. This allows teams to ensure that each project's scope and timeline align with the project's goals and objectives.
-The goal is to assign and track the following project attributes:
-
-- Project: Select the project you want to manage and track.
-- Process Name: Provide a clear and concise name for the process being used in this project.
-- Project Description: Describe the project's objective, goals, and any relevant details.
-- Roles and Responsibilities: Select all roles that are involved in this project.
-- Project Owner: Identify the person in charge of this project.
-- Handoffs: Describe any handoffs between team members or departments.
-- Centralized Data Collection: Select all options where data is collected and stored in a centralized location.
-- Manager Review: Record the date when the project manager will review the project's progress.
-- Completion Date: Record the expected completion date of the project.
-- Notes: Add any additional comments or notes related to this project.
-
-Please fill out the form as per your project's requirements.
-</thinking>
-
 # Responsibility And Authority Matrix Form - Help Guide
 ## Purpose
 The Responsibility And Authority Matrix Form is used to document and track project responsibilities and authorities for each project.

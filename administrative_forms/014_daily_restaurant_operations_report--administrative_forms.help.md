@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about daily restaurant operations, including sales data, employee information, and cash handling details. The form is intended for sales captains and restaurant management to report on daily sales, employee hours worked, and cash handling activities. It is likely used for monitoring and analyzing daily sales performance, employee productivity, and cash handling efficiency.
-
-</thinking>
-
 # daily-restaurant-operations-report - Help Guide
 ## Purpose
 The daily-restaurant-operations-report form is used to collect and report on daily sales data, employee information, and cash handling details for a specific restaurant location.

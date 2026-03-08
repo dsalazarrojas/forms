@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # internship_authorization_form - Help Guide
 
 ## Purpose

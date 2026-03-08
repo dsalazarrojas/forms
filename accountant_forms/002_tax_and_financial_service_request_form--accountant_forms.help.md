@@ -1,9 +1,3 @@
-<thinking>
-The Tax And Financial Service Request Form is designed to capture essential information from clients who require financial services such as accounting, tax filing, or investment planning. This form is used to gather relevant details about the client's business, including their name, contact person, financial service required, and other pertinent information.
-The form is intended for use by business owners or representatives to submit a request for financial services. It is NOT meant to be used for personal or individual purposes, such as tax filing for personal income tax. This form should only be completed for business-related services.
-Before filling out this form, ensure that you are requesting financial services for your business.
-</thinking>
-
 # Tax And Financial Service Request Form - Help Guide
 ## Purpose
 The Tax And Financial Service Request Form is designed to capture essential information from clients who require financial services such as accounting, tax filing, or investment planning.

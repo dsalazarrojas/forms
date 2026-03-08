@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for collecting information from tow truck operators to register their vehicles for insurance purposes. This guide will cover how to fill out the form accurately and efficiently. 
-
-The form is designed to gather essential details about the vehicle and its insurance provider. It's recommended that the operator fills out the form thoroughly and carefully, ensuring that all fields are accurate and up-to-date. 
-
-Before proceeding, ensure that you have all the required information handy, as the form requires some personal and vehicle-related data. 
-
-Please note that some fields are required for insurance purposes and others are optional. If you are unsure about any field, refer to this guide for further clarification.
-
-</thinking>
-
 # Tow Truck Insurance Intake Form - Help Guide
 ## Purpose
 The Tow Truck Insurance Intake Form is designed to collect essential information from tow truck operators about their vehicles and insurance providers. This form helps us understand their insurance coverage and ensures that we can provide you with accurate information about your insurance.

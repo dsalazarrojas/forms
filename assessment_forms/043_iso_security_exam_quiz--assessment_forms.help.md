@@ -1,20 +1,3 @@
-<thinking>
-The form "iso_security_exam_quiz" is likely designed for individuals to self-assess their knowledge and understanding of security controls and policies related to the ISO 27001 standard. This form is probably used in a business or organizational context to gauge the current state of security practices within an organization. The form might be used for training, certification, or audit purposes.
-
-It's essential to ensure that the form is completed by relevant users and not duplicated. Users should be aware that this form is an original adaptation of a public survey and is not affiliated with any specific platform or organization.
-
-The form has seven fields, each designed to capture specific information:
-- "User Input" for free-form comments or answers
-- "ISO 27001 Knowledge" for users to express their understanding of the standard
-- "Iso Policies" for notes on policies related to security
-- "User Comments" for users to share their thoughts on the submitted form
-- "Security Controls" for users to report on security practices
-- "Date Submitted" for tracking when the form is submitted
-- "Submitter" for users to identify themselves
-
-This guide will help users understand the purpose and requirements of each field.
-</thinking>
-
 # iso_security_exam_quiz - Help Guide
 ## Purpose
 This form is designed to gauge users' knowledge and understanding of security controls and policies related to the ISO 27001 standard.

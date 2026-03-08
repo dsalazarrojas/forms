@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the safety of a quad bike, its rider, and the surrounding environment. It is meant to be completed by individuals in charge of managing or maintaining quad bike safety. The form is not intended to be used for riders or operators who are not directly responsible for safety management.
-</thinking>
-
 # quad_bike_safety_assessment - Help Guide
 ## Purpose
 The quad bike safety assessment form is used to evaluate and document the safety of a quad bike, its rider, and the surrounding environment. It is designed to be completed by individuals responsible for managing or maintaining quad bike safety, such as operators, managers, or safety officers.

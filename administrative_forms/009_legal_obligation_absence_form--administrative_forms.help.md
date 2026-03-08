@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to be completed by employees to report their absence from work due to legal obligations, such as court appearances, jury duty, or other legal commitments. This form is used to provide necessary information to the management to process employee absences and ensure compliance with company policies and applicable laws.
-
-The form is typically completed by employees during their normal working hours, and it is recommended to be done as soon as possible after becoming aware of the commitment. The employee should only complete this form if they have a legitimate legal obligation that requires their absence from work.
-
-The form is not intended to be used for casual absences or personal appointments. If you are unsure about the purpose of this form or have any questions, please consult with your supervisor or HR department.
-
-Please note that this form is only for reporting absences due to legal obligations, and not for other types of absences. If you are reporting a different type of absence, please use the appropriate form for that purpose.
-
-</thinking>
-
 # Legal Obligation Absence Form - Help Guide
 
 ## Purpose

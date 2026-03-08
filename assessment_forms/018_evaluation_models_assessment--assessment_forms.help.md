@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate models and provide feedback on their performance. The purpose of this form is to gather information on the evaluation criteria, comments, date, and time of the evaluation, as well as the strategies and models used. It is essential to complete this form to ensure that the evaluation is thorough and accurate. Please note that this form is not meant to be used for any other purpose, and the information provided will be used solely for internal evaluation and development.
-</thinking>
-
 # evaluation_models_assessment - Help Guide
 ## Purpose
 The evaluation models assessment form is used to evaluate the performance of different models and provide feedback on their performance.

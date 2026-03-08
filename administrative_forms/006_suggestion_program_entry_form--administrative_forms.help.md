@@ -1,7 +1,3 @@
-<thinking>
-We will design this form to collect user suggestions and input on a program. The form will be used internally within the organization to gather feedback and track progress on suggestions. To ensure data consistency, the form will not allow users to submit duplicate suggestions.
-</thinking>
-
 # Suggestion Program Entry Form - Help Guide
 ## Purpose
 The Suggestion Program Entry Form is designed to collect user suggestions and feedback on a program. This form is used to gather information from users and track progress on suggestions.

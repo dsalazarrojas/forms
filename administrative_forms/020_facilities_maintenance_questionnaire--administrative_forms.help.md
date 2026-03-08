@@ -1,10 +1,3 @@
-<thinking>
-The Facilities Maintenance Questionnaire is used to collect information about the maintenance request for a facility. This form is used to help facilities management and maintenance teams to identify the issues, status, and condition of the facility and to follow up on the maintenance requests. This form is intended to be completed by the person submitting the maintenance request.
-
-To ensure that the form is used correctly and consistently, please review the fields carefully before completing the form.
-
-</thinking>
-
 # Facilities Maintenance Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information about maintenance requests for facilities. This form helps facilities management and maintenance teams to identify issues, status, and condition of the facilities and to follow up on maintenance requests.

@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to gather information about meeting availability from users. This form is designed to be used in a variety of contexts, such as scheduling meetings, appointments, or events. To ensure that the form is used correctly, please note that this form is a public adaptation of a survey topic and is not affiliated with or endorsed by any form platform. If you are using this form in a context where it may be duplicated or similar to other forms, please verify that your use case is not a duplicate. If you have any questions or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # Meeting Availability Survey - Help Guide
 ## Purpose
 The Meeting Availability Survey is a form designed to collect information about meeting availability from users. This form is intended to be used in a variety of contexts, such as scheduling meetings, appointments, or events.

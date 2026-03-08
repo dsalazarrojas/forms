@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a user's level of knowledge and understanding of healthcare compliance, including their frequency of training, understanding of policies, and participation in training sessions. The form aims to evaluate the user's awareness and adherence to healthcare compliance standards, providing a comprehensive view of their current compliance status. This form is likely to be used by healthcare professionals, such as doctors, nurses, or other medical staff, to ensure they are up-to-date with the latest compliance policies and procedures.
-</thinking>
-
 # Healthcare Compliance Skills Quiz - Help Guide
 
 ## Purpose

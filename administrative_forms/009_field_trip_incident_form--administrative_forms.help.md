@@ -1,10 +1,3 @@
-<thinking>
-This help guide is for the field_trip_incident_form form, a tool used to collect information about field trips. The form is not affiliated with, endorsed by, or derived from any form platform, and was created by AI using public survey topic metadata as inspiration. 
-
-Before proceeding, please ensure this form is relevant to your organization's incident reporting needs and not a duplicate of any existing form. This guide will walk you through the purpose, how to complete the form, and an explanation of each field.
-
-</thinking>
-
 # Field Trip Incident Form - Help Guide
 ## Purpose
 

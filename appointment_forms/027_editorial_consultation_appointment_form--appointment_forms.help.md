@@ -1,9 +1,3 @@
-<thinking>
-This form is used for scheduling editorial consultation appointments. 
-The form is intended to gather information about a project's details, editor involvement, schedule, and status.
-This form will help project managers and editors schedule and coordinate editorial consultations efficiently.
-</thinking>
-
 # editorial_consultation_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule editorial consultations for a project. It collects information about the project's details, editor involvement, schedule, and status.

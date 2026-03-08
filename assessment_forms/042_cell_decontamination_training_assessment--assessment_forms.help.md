@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to assess an employee's understanding and competencies in cell decontamination procedures. It is used to evaluate their knowledge, skills, and adherence to safety protocols. The form collects information about employee details, training attendance, and assessment questions. Questions cover key aspects of cell decontamination, including purpose, protocol, contamination types, prevention, detection, and procedure competency. The form also includes sections for overall training quality, feedback, and areas for improvement.</thinking>
-
 # Cell Decontamination Training Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess an employee's understanding and competencies in cell decontamination procedures. It is used to evaluate their knowledge, skills, and adherence to safety protocols.

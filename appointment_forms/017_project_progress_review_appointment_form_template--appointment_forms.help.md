@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for reviewing project progress, typically after a meeting or discussion. It's likely used within an organization or team to track and document the state of a project, and to determine whether a "review request" should be made. The form fields are designed to gather information about the project's status, meeting details, and other relevant factors. 
-</thinking>
-
 # Project Progress Review Appointment Form Template - Help Guide
 ## Purpose
 This form is used to review the progress of a project, typically after a meeting or discussion. It helps gather information about the project's status, meeting details, and other relevant factors.

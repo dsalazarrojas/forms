@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a manager, which will be used for administrative purposes. This form is likely used by HR or other management teams to gather data about manager titles, contact details, job titles, and other relevant information. It's essential to ensure that the data entered is accurate and up-to-date to avoid duplication and redundancy.
-</thinking>
-
 # Manager Information Collection Form - Help Guide
 ## Purpose
 The Manager Information Collection Form is used to gather information about a manager, including their title, contact details, job title, and other relevant information. This form is used by HR or other management teams for administrative purposes.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used by companies for corporate retreats, which are meetings or events held by companies to discuss and plan business strategies. The form is designed to gather information about the company and its representatives attending the retreat. 
-The form is likely to be used by event organizers or retreat planners to ensure that all necessary details are captured accurately. The form's purpose is to streamline the process of organizing and executing a corporate retreat. 
-
-This form does not appear to be used for duplicate or unnecessary purposes. It seems to be a one-time event, and the information collected through this form will be used for the specific purpose of organizing the corporate retreat.
-
-</thinking>
-
 # Corporate Retreat Accommodation Form - Help Guide
 ## Purpose
 This form is designed to gather information about companies and their representatives attending a corporate retreat. It is used to streamline the process of organizing and executing the event.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather patient information and appointment details for healthcare providers to schedule and conduct health screenings. The form collects data for the patient's contact information, medical history, appointment schedule, medical screening, and additional details. The purpose of this form is to facilitate efficient and accurate appointment management and ensure that patients receive the necessary screenings for their health.
-
-</thinking>
-
 # Health Screening Appointment Form - Help Guide
 ## Purpose
 This form is used to collect patient information and appointment details for health screenings.

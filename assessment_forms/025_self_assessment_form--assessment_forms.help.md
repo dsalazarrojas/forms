@@ -1,8 +1,3 @@
-<thinking>
-The "self_assessment_form" form is designed to gather self-assessment information from users. It is typically used in settings where users need to provide their personal details and thoughts on a particular topic or situation. This form is likely used by HR departments, academic institutions, or other organizations that need to collect data for internal purposes.
-The form has several pages with various fields to capture different types of information. Please review the form carefully and make sure you're completing it with the right information. Note that the fields marked as "required" are mandatory and should be filled in.
-</thinking>
-
 # self_assessment_form - Help Guide
 ## Purpose
 The self_assessment_form is a tool used for users to provide their personal details and thoughts on a particular topic or situation.

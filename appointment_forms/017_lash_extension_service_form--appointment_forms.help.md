@@ -1,8 +1,3 @@
-<thinking>
-This form is used for clients to book an appointment for lash extension services. It captures essential information about the client, such as their name, contact details, and the type of service they want. The form is designed to be completed by clients who wish to book an appointment for a lash technician.
-To ensure that the form is completed correctly, please review the following sections carefully.
-</thinking>
-
 # Lash Extension Service Form - Help Guide
 ## Purpose
 This form is designed to help clients book an appointment for lash extension services. It gathers necessary information about the client and the service they require.

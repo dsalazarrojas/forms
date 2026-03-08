@@ -1,10 +1,6 @@
 # Financial Wellness Assessment - Help Guide
 
 ## Purpose
-<thinking>
-The Financial Wellness Assessment is a form designed to help individuals assess their current financial situation and identify areas for improvement. This assessment is intended to help users understand their financial health and create a plan for achieving financial independence and stability.
-</thinking>
-
 ## How To Complete This Form
 To complete the Financial Wellness Assessment, follow these steps:
 

@@ -1,12 +1,3 @@
-<thinking>
-This help guide aims to support end-users in completing the assessment form with the goal of evaluating their linguistic and literature backgrounds across different languages. The form will assess each user's proficiency and interest in various languages and genres of literature, allowing the organization to better understand user demographics and tailor services or content accordingly.
-
-It is essential that the form is only completed by users with the required language skills and literature preferences, as inaccurate information may lead to misrepresentation and misallocation of resources.
-
-To ensure data accuracy and relevance, please review the form carefully before completing it.
-
-</thinking>
-
 # Linguistics And Literature Assessment - Help Guide
 ## Purpose
 The Linguistics And Literature Assessment form is designed to evaluate your background in languages and literature across various genres and styles. This information will help us better understand your demographics and preferences, enabling us to tailor our services and content to meet your needs more effectively.

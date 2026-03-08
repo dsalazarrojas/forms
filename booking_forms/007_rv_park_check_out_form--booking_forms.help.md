@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used by customers to check out of an RV park after they have completed their stay. It is used to record the details of the checkout process, including the date and time of check out, payment method, and any comments or issues that arose during the stay. It is an essential document for park management to keep track of the checkout process and ensure that all customers are accounted for. 
-
-To prevent duplication of effort, this form should only be completed after the customer has been given a receipt or confirmation of their payment, indicating that their charges have been settled. 
-
-This form should not be used as a payment request or invoice, but rather as a formal document to verify the checkout process and provide any necessary information for follow-up actions.
-</thinking>
-
 # RV Park Check Out Form - Help Guide
 ## Purpose
 The RV Park Check Out Form is used to document the details of a customer's checkout from an RV park. It is an essential tool for park management to keep track of customer transactions and ensure accurate financial records.

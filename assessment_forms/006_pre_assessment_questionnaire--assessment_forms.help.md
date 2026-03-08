@@ -1,10 +1,3 @@
-<thinking> 
-  This form is intended to assess the pre-assessment questionnaire. The questions on this form are related to various skills and proficiencies in English language, mathematics, reasoning, attention, memory, problem-solving, and other cognitive areas. 
-  Before proceeding with this form, ensure you have not taken it in the past and that the answers are based on your current skills and abilities. 
-  Please fill in the form accurately to ensure the assessment results are a true reflection of your skills and proficiencies. 
-
-</thinking>
-
 # pre_assessment_questionnaire - Help Guide
 ## Purpose
 The pre-assessment questionnaire is designed to gauge your skills and proficiencies in various areas including English language, math, reasoning, attention, memory, problem-solving, and other cognitive abilities.

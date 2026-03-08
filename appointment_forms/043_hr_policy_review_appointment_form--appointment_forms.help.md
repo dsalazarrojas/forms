@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hr_policy_review_appointment_form - Help Guide
 
 ## Purpose

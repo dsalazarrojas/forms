@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Safety Assessment Checklist - Help Guide
 
 ## Purpose

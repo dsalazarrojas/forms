@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect project assessment data, specifically for evaluating the performance of software projects. It is intended for internal use within your organization. Please ensure that you are using this form for its intended purpose and within your company's established guidelines and protocols.
-
-Before starting, please review the form fields carefully and ensure that you are completing the form accurately and truthfully. If you are unsure about any field or have any questions, please contact the relevant authorities within your organization.
-
-The form has several pages with various fields, each with its own label, type, and instructions. Please make sure to fill out each field accurately and completely, as per the guidelines below.
-
-This form will help assess various aspects of a project, including its name, team involved, duration, budget, status, impact, goals, benefits, and challenges. Be honest and thorough in your assessment to ensure that your responses are useful for project evaluations and improvements.
-</thinking>
-
 # it-software-project-performance-assessment - Help Guide
 ## Purpose
 This form is designed to collect project assessment data for internal use within your organization.

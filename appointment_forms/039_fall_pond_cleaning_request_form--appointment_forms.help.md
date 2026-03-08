@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for scheduling and managing appointments for a fall cleaning service, possibly for a property management or maintenance context. The purpose of this form is to collect information from the user about the service they require, and to track the status of the service request. Before starting the form, please ensure that you have already initiated a request and that it is not a duplicate.
-</thinking>
-
 # Fall Pond Cleaning Request Form - Help Guide
 ## Purpose
 The Fall Pond Cleaning Request Form is used to schedule and manage appointments for fall cleaning services. This form is used to collect information from users about the service they require and the status of the request.

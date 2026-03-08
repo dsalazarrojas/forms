@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Email Routing Assessment Survey - Help Guide
 ## Purpose
 The Email Routing Assessment Survey is designed to assess your current email routing process, identify areas for improvement, and provide recommendations for enhancing your email management. This survey will guide you through a series of questions to help you evaluate your email routing process and provide insights for improvement.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Meeting Room Request Form - Help Guide
 ## Purpose
 This form is used to request a meeting room for a specific date and time. It is intended for users to provide the required information to book a meeting room, ensuring that the room is available for their scheduled meeting.

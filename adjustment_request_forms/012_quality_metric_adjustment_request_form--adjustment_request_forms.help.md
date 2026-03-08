@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of requesting a quality metric adjustment. The form will be used by individuals to make requests for adjustments to quality metrics, and will gather information from the reviewer, submitter, and approver. The form will help ensure that all stakeholders are informed and on the same page during the adjustment process. This form should only be used for legitimate requests and will be reviewed and approved by the approver. Please note that the form is intended for internal use only and is not a substitute for external communications. If you are unsure about the purpose or usage of this form, please reach out to your supervisor or quality manager for clarification.
-
-</thinking>
-
 # Quality Metric Adjustment Request Form - Help Guide
 ## Purpose
 The Quality Metric Adjustment Request Form is designed to facilitate the process of requesting adjustments to quality metrics. This form is intended for internal use only and should only be used for legitimate requests for adjustments.

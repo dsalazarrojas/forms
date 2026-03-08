@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "jet_lag_sleep_assessment" form is to assess the number of hours slept over 24 days to evaluate the potential effects of jet lag. The form is intended to help users track their sleep patterns and identify any potential sleep disturbances caused by jet lag. The form is designed to be filled out by individuals who have experienced or are experiencing jet lag. 
-
-Please ensure that this form is used appropriately and not duplicated unnecessarily. Jet lag can occur when the body's internal clock is adjusted to a different time zone, typically during travel or time zone changes. This form helps evaluate the symptoms and impact of jet lag on daily functioning.
-
-This form is meant to be used for a period of 24 days. Please ensure you are using the correct days for the intended purpose, as it may affect the accuracy of the results. 
-
-</thinking>
-
 # jet_lag_sleep_assessment - Help Guide
 ## Purpose
 The "jet_lag_sleep_assessment" form is designed to assess the number of hours slept over a 24-day period to evaluate the potential effects of jet lag on an individual's sleep patterns.

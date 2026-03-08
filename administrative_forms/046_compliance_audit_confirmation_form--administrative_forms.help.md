@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Compliance Audit Confirmation Form - Help Guide
 ## Purpose
 The Compliance Audit Confirmation Form is used to confirm the details of an upcoming audit, including dates, auditor information, and company details. This form ensures that all parties involved are on the same page and that the audit proceeds as scheduled.

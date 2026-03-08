@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Walk Throughs And Observations - Help Guide
 ## Purpose
 This form is used to document Teacher Walk Throughs and Observations, which are activities where educators engage in guided observations of student learning to inform instruction and improve teaching practices. The form captures information about the walk through, including the category, description, form ID, assigned tool, output file, date, and time. This form is intended to be completed by educators to record and report on their observations.

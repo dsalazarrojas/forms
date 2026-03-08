@@ -1,9 +1,3 @@
-<thinking>
-
-The Hospice Nursing Assessment Form is a comprehensive form designed to gather essential information about a patient's status, medical conditions, and care needs. Before proceeding, please ensure you have the necessary permissions and approvals to access the patient's data. This form is used to collect information for hospice care purposes only, so please only fill out this form if the patient requires hospice care. 
-
-</thinking>
-
 # Hospice Nursing Assessment Form - Help Guide
 ## Purpose
 

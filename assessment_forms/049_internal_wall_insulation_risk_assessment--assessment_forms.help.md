@@ -1,5 +1,3 @@
-<thinking>Internal Wall Insulation Risk Assessment form is used to identify potential risks associated with internal wall insulation in buildings. To determine if this form is relevant, you likely work in a field related to building inspection or construction. Before proceeding, confirm that you are completing this form for internal wall inspection purposes. If you're unsure or have already completed this form, please do not proceed with this guide.</thinking>
-
 # internal_wall_insulation_risk_assessment - Help Guide
 ## Purpose
 This form is used to assess the internal wall insulation of a building or property, identifying any potential risks associated with it. The assessment includes details about the surveyor, property, risks, and recommendations for mitigation.

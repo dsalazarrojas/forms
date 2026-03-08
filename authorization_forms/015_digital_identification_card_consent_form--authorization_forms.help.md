@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Identification Card Consent Form - Help Guide
 
 ## Purpose

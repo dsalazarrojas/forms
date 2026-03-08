@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Extracellular Matrix Assessment Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Basic Sign Up Form - Help Guide
 
 ## Purpose

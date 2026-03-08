@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for monitoring shareholder agreements, which are contracts between the company and its shareholders. The purpose of this form is to collect and record information about these agreements, including details such as date, status, and notes. This form is intended for internal use by company administrators, but it may also be used by external parties, like lawyers or auditors, for reference. The information collected on this form will help the company keep track of its shareholder agreements and ensure compliance with relevant regulations. 
-
-Before proceeding, make sure to check if you already have a similar form with the same purpose and content. 
-</thinking>
-
 # Shareholder Agreement Monitoring Form - Help Guide
 ## Purpose
 The Shareholder Agreement Monitoring Form is designed to collect and record information about shareholder agreements between the company and its shareholders. This form helps the company keep track of its shareholder agreements and ensures compliance with relevant regulations.

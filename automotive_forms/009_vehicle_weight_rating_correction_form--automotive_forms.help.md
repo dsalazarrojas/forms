@@ -1,11 +1,3 @@
-<thinking>
-This form is used to correct the weight rating of a vehicle. It appears that this form is intended for vehicle weight rating corrections, but the form fields suggest a more general application. To ensure that this form is being used correctly, please review the form fields carefully. 
-
-It is likely that this form is part of a larger process for rating vehicles, and the weight rating of a vehicle is being adjusted or cleared. There doesn't seem to be any duplicate forms in this YAML. 
-
-Before proceeding, make sure that the intended corrections are accurate and up-to-date. This will help prevent any unnecessary corrections from being made.
-</thinking>
-
 # Vehicle Weight Rating Correction Form - Help Guide
 ## Purpose
 The Vehicle Weight Rating Correction Form is used to correct the weight rating of a vehicle. This form is for making adjustments to the weight rating of a vehicle for which a correction is needed.

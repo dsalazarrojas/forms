@@ -1,6 +1,3 @@
-<thinking>
-This form is used for submitting equipment maintenance requests. Before submitting a request, ensure that you have the necessary information and approvals to prevent duplicate requests. Please verify that the equipment is not currently under maintenance and that you have the relevant contact information for the equipment's owner or manager.</thinking>
-
 # Equipment Maintenance Request Form - Help Guide
 
 ## Purpose

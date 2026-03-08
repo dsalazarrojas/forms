@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information about training attendance from employees, 
-with the purpose of tracking attendance records. This form should only be used 
-for legitimate purposes and not for any other reasons such as tracking attendance 
-for non-training programs. It is essential to fill this form honestly to maintain 
-the accuracy of the records. 
-
-Please ensure that you are filling this form for the correct training and 
-session that you attended. If you are unsure about any information, please 
-contact the relevant authorities for clarification. 
-
-Note: Before filling this form, ensure that you have the necessary permissions 
-and rights to access this form. 
-
-</thinking>
-
 # Training Attendance Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The Rental Car Incident Form is designed to collect information about incidents or accidents involving rental cars. This form aims to gather details about the incident, including the date, location, and circumstances surrounding it. The form is intended for use by rental car companies, insurance providers, or other parties involved in the incident.
-
-Before filling out the form, please ensure that you are not duplicating an existing report or incident. If you have already submitted a report, please do not submit another one. If you are unsure whether the incident has already been reported, please contact the relevant authorities or parties involved.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Rental Car Incident Form - Help Guide
 ## Purpose
 The Rental Car Incident Form is designed to collect information about incidents or accidents involving rental cars. This form aims to gather details about the incident, including the date, location, and circumstances surrounding it.

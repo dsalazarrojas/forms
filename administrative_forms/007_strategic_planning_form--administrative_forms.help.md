@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form appears to be a project management form, likely used to gather information for a strategic planning process. It includes fields for long-term goals, strategic goals, collaboration approach, data collection, team members, and other relevant information. The form is designed to guide project teams through the process of defining and monitoring project objectives, progress, and outcomes. It is not clear whether the form is intended for internal use within an organization or for external stakeholders, but it does not appear to be a sensitive or confidential form...</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

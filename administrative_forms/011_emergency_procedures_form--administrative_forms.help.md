@@ -1,8 +1,3 @@
-<thinking>
-This help guide aims to assist users in completing the "Emergency Procedures Form" effectively. Before proceeding, please note that this guide is intended for end-users who are not familiar with the form's purpose or its field requirements. It is essential to review the form's fields and instructions carefully to ensure accurate completion. If you have completed this form before, please ensure that you are aware of any changes or updates made since your last submission. This guide assumes you are using the latest version of the form.
-
-</thinking>
-
 # Emergency Procedures Form - Help Guide
 ## Purpose
 The Emergency Procedures Form is designed to provide a structured template for reporting and documenting emergency procedures that need to be followed in case of unexpected events or situations. The form helps ensure that procedures are properly recorded, and necessary actions are taken in a timely and efficient manner.

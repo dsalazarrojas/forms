@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for reviewers to evaluate and select a winner in a competition or award, where multiple candidates are being considered. Its primary purpose is to ensure that the selection process is fair and unbiased, and to provide a structured and thorough evaluation of each candidate. This form is designed to collect information about the reviewer and award context, the candidates being evaluated, and the tie-breaker criteria used to make the final selection.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and is a completely original adaptation. It is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-The form consists of two main sections: Reviewer and Award Context, and Tie-Breaker Criteria. The Reviewer and Award Context section collects information about the reviewer, the award name, and the category. The Tie-Breaker Criteria section requires the reviewer to select which candidate excels in each area, and to provide a final recommendation and reason for their choice.
-
-Before starting the review, please ensure that you are using the correct award name and category to avoid any confusion.
-
-</thinking>
-
 # Award Tie Breaker Review Form - Help Guide
 ## Purpose
 The Award Tie Breaker Review Form is used to ensure that the selection process for an award is fair and unbiased.

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying for an internship opportunity. The purpose of this form is to gather relevant details about the applicant's user information, contact information, educational background, work experience, skills, languages, career goals, motivation statement, expected start and end dates, and work status. This form is intended to be used by potential interns who are interested in applying for an internship position. 
-
-This form is not affiliated with any form platform, and it is an original adaptation of a public survey topic. The form is released under CC BY 4.0, allowing users to modify and even sell derived forms, as long as they give credit.
-
-The form has several required fields, which are marked as required in the form's schema. These required fields are:
-
-* Skills
-* Languages
-* Work Status
-
-These fields are critical in determining the applicant's suitability for the internship opportunity. Please ensure that you provide accurate and honest information in these fields.
-
-</thinking>
-
 # internship_application - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying for an internship opportunity.

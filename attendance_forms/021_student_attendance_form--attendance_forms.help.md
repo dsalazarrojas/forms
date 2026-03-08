@@ -1,7 +1,3 @@
-<thinking>
-The Student Attendance Form is designed to track attendance information for students in educational settings. This form allows users to input student names, dates, times, attendance status, and reasons for absence. The form is intended for teachers, instructors, or administrators to use for administrative purposes, such as maintaining attendance records.
-</thinking>
-
 # Student Attendance Form - Help Guide
 ## Purpose
 The Student Attendance Form is used to record and document student attendance, including dates, times, and status. This form helps to track attendance patterns and provide an overview of student activity.

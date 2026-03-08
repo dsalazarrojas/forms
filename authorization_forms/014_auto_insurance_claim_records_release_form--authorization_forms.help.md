@@ -1,15 +1,3 @@
-<thinking>
-
-The "Auto Insurance Claim Records Release Form" is a vital document used to obtain authorization from the insured to release their personal and claim-related records to a specified entity or individual. This form is crucial for insurance companies, claims adjusters, and other relevant parties to ensure they have the necessary permissions to access and share the claimant's records. 
-
-Before completing this form, ensure that:
-
-* You are authorized to act on behalf of the insured.
-* You have the necessary information to fill out the form accurately.
-* You are not duplicating an existing authorization, as this form is used to create a new authorization.
-
-</thinking>
-
 # Auto Insurance Claim Records Release Form - Help Guide
 ## Purpose
 This form is used to obtain authorization from the insured to release their personal and claim-related records to a specified entity or individual.

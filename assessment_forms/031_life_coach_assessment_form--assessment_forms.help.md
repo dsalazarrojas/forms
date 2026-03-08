@@ -1,12 +1,3 @@
-<thinking> 
-The Life Coach Assessment Form is designed to help coaches and professionals in the industry assess their own skills, experience, and abilities. It's a comprehensive form that covers various aspects of coaching, including general information, skills and abilities, experience, education and certifications, and more. By filling out this form, coaches can gain valuable insights into their own strengths and weaknesses, helping them to identify areas where they need improvement and development.
-
-The form consists of 26 pages, each focusing on a specific area of coaching. Please ensure you fill out each page accurately and thoroughly, providing detailed information about your skills, experience, and abilities.
-
-Before starting, please note that you can save your progress and come back to the form later if needed.
-
-</thinking>
-
 # Life Coach Assessment Form - Help Guide
 ## Purpose
 The Life Coach Assessment Form is a comprehensive tool designed to help coaches and professionals in the industry evaluate their own skills, experience, and abilities.

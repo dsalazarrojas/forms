@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess the overall health and wellness of a club or community by gathering feedback from its members. By completing this form, you will be able to gauge your level of engagement, communication, inclusion, leadership, and other aspects of the club's performance. This information will help club administrators to better understand your needs and make informed decisions to improve your experience. Please ensure that you have completed this form only once, and that you are providing honest and accurate feedback. If you have already completed this form, do not submit it again to avoid duplication of effort.</thinking>
-
 # Club Health Assessment - Help Guide
 ## Purpose
 The Club Health Assessment is a tool used by club administrators to gather feedback from members on various aspects of the club's performance. This form is designed to be completed by club members to provide valuable insights for club improvement.

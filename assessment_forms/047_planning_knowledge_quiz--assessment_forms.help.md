@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's take a moment to explain why this form was created. The goal of the "planning_knowledge_quiz" form is to gather information about knowledge quizzes or assessments used in planning and learning contexts. Its purpose is to collect metadata about the quizzes, allowing for easy organization and categorization. The form can be completed by users who want to create, manage, or evaluate knowledge quizzes in their educational or professional settings.</thinking>
-
 # planning_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to collect metadata about knowledge quizzes, allowing for easy organization and categorization.

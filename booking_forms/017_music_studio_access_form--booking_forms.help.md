@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about musicians who wish to access the music studio. The purpose of this form is to gather relevant details about the musician, such as their name, instrument, student status, contact information, and scheduling preferences. This information will be used to coordinate studio access and ensure that the musician has a smooth and efficient experience.
-
-To avoid duplication, please note that this form should only be filled out once per musician. If you need to make changes or updates, please contact the studio administrator.
-</thinking>
-
 # music_studio_access_form - Help Guide
 ## Purpose
 The music_studio_access_form is a user-facing form designed to collect information about musicians who wish to access the music studio.

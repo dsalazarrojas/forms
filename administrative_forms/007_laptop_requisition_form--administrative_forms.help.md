@@ -1,19 +1,3 @@
-<thinking>
-This form is used to request a laptop for an employee or manager, likely for work-related purposes. The form captures details such as the requested laptop model, department, and priority level. It also includes fields for comments and attachments. The form is likely used by department managers or IT personnel to process laptop requests. 
-
-When filling out this form, please ensure that you have permission to request a laptop and that you have reviewed and agreed to the terms and conditions of the company's laptop policy. 
-
-Please note that some fields may be optional, but providing complete and accurate information will help the form's purpose. 
-
-Before submitting the form, review your answers carefully and ensure that all required fields are filled out. 
-
-This form is for internal use only and not for personal or non-work-related purposes. 
-
-To avoid duplication, please ensure that you have not already submitted a laptop request and that your request is not already approved. 
-
-If you are unsure about any part of the form, please contact your department manager or the IT department.
-</thinking>
-
 # Laptop Requisition Form - Help Guide
 ## Purpose
 The Laptop Requisition Form is used to request a laptop for work-related purposes. It captures details such as laptop model, department, priority level, and other relevant information to process the request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for expressing interest in sustaining capital expenditures (Capex) projects within the organization. The purpose of this form is to gather project ideas, budgets, justifications, and other relevant information from project owners to ensure that all proposed projects align with the company's strategic goals and priorities. Before filling out this form, please ensure that you have a clear understanding of the project's objectives, budget, and justification to ensure that your submission is complete and accurate. Also, check that you're not duplicating a project that has already been submitted or is already underway.
-</thinking>
-
 # Sustaining Capex Expression Of Interest - Help Guide
 ## Purpose
 The Sustaining Capex Expression Of Interest form is used to gather project information for consideration by the organization's management team. The form helps ensure that all proposed projects align with the company's strategic goals and priorities.

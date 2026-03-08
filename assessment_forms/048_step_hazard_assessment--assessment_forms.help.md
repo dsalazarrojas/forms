@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this Step Hazard Assessment form is to help users evaluate and report hazards present on a given step of the process. This form is used to identify potential safety risks and implement corrective actions to mitigate them. Before proceeding with the assessment, please review the following fields to ensure you understand their purpose and requirements.
-
-</thinking>
-
 # Step Hazard Assessment - Help Guide
 ## Purpose
 The Step Hazard Assessment form is designed to identify and document hazards on a specific step of the process. This form helps in identifying potential safety risks and creating a plan to mitigate them.

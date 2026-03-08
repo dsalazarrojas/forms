@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll first provide an internal reasoning block explaining the purpose and relevance of the form, and then create a user-facing help guide in Markdown format.</thinking>
-
 # Senior Adoption Sign Up - Help Guide
 
 ## Purpose

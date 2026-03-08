@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather information about a tech product development project, including its name, team members, start and end dates, status, risks, tech stack, project lead, and other relevant details. The form should only be completed by authorized personnel with access to the project's relevant information. To avoid duplication of effort, please ensure that the form is not completed for duplicate projects or projects that have already been audited.</thinking>
-
 # Tech Product Development Audit Form - Help Guide
 ## Purpose
 The Tech Product Development Audit Form is used to collect and document information about tech product development projects. This includes details such as project name, team members, start and end dates, status, risks, tech stack, and other relevant project information.

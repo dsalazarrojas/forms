@@ -1,20 +1,3 @@
-<thinking>
-The form is designed to assess the mental mindset of an athlete. It's a critical tool for coaches and trainers to evaluate and provide personalized feedback to athletes. The purpose of this form is to help athletes develop their mental skills, set realistic goals, and improve their overall performance. It's essential to complete this form accurately to achieve a comprehensive understanding of the athlete's strengths and areas for development. Please make sure to provide honest answers based on your observations and experiences.
-
-This form should not be repeated unless there are significant changes in the athlete's situation or a substantial amount of time has passed since the last assessment.
-
-Before filling out this form, ensure you have the most up-to-date information about the athlete. The athlete's name should be their full name as it appears on their records.
-
-This form is designed to be completed by coaches and trainers. If you're not familiar with the athlete, please do not fill out this form. The results will be most accurate when completed by someone who knows the athlete's performance and abilities.
-
-This form is a comprehensive assessment of the athlete's mental mindset. Each section is designed to help identify the athlete's strengths and areas for improvement. Please answer each question as honestly as possible.
-
-The form includes questions about the athlete's experience level, motivation, confidence, and ability to handle pressure and adversity. These questions will help identify the athlete's mental toughness, focus, and goal-setting skills.
-
-Please answer each question with the corresponding number or description. Use the options provided to select the most accurate answer.
-
-</thinking>
-
 # Athlete Mindset Assessment - Help Guide
 ## Purpose
 The Athlete Mindset Assessment form is designed to help coaches and trainers evaluate an athlete's mental mindset. This comprehensive form assesses the athlete's experience level, motivation, and ability to handle pressure and adversity.

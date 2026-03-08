@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report the absence of an employee from work due to a disaster recovery plan, allowing the employee to document their absence and provide essential contact information. This form is used to keep track of employee absences during a disaster recovery period. Please fill this form if you are an employee who is absent from work due to a disaster recovery plan.
-</thinking>
-
 # Disaster Recovery Plan Absence Form - Help Guide
 
 ## Purpose

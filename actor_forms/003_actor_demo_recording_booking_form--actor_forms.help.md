@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for booking a demo recording session with an actor, which is a key part of a demo or test recording project. The form will help ensure that the booking information is accurate and complete, and that the client has the necessary details for the session. The purpose of this form is to collect information from the client before creating a session, so the client can be confident that the session will proceed as planned.
-</thinking>
-
 # Actor Demo Recording Booking Form - Help Guide
 ## Purpose
 The Actor Demo Recording Booking Form is designed to collect necessary information for booking a demo recording session with an actor. This form ensures that the booking details are complete and accurate, and that the client has all the necessary information for the session.

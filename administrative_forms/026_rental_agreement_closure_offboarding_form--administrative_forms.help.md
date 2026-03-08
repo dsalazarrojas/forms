@@ -1,11 +1,3 @@
-<thinking>
-This form is used to document the closure of a rental agreement between a landlord and tenant. It's essential to ensure that all necessary information is collected to facilitate a smooth offboarding process. This form should only be used for rental agreements that are currently closed or will be closed in the near future. 
-
-Please note that the provided form schema is a simplified representation of a typical offboarding process and might not cover all possible scenarios or nuances. It's recommended that you review and adapt it according to your specific business needs and industry regulations.
-
-This document is a helpful guide to complete the Rental Agreement Closure Offboarding Form.
-</thinking>
-
 # Rental Agreement Closure Offboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to collect relevant information about the tenant's situation when a rental agreement is closed. It's used to ensure that all necessary details are documented for future reference and to maintain a smooth and professional offboarding process.

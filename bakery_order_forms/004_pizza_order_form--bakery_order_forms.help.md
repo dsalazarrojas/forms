@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect order information from customers for a pizza order. The form has various fields for customers to input their details, order specifics, and payment information. This form is likely used in a bakery or pizzeria setting where customers place orders for pizzas. 
-
-Before creating this form, ensure that you understand what type of order is being placed (e.g., dine-in, take-out, or delivery) and what the payment method will be. This form should only be used for pizza orders and not for other types of orders.
-
-This form is not designed to be completed by staff members for their personal orders. It is intended for customers to provide their order details.
-
-</thinking>
-
 # Pizza Order Form - Help Guide
 ## Purpose
 The Pizza Order Form is designed to collect order information from customers for a pizza order. 

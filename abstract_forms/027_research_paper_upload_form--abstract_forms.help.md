@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to upload research papers to be evaluated or reviewed. The primary goal is to collect information from the submitter for follow-up purposes, such as contacting them after a review or evaluation is completed. To ensure that the form is filled out correctly, we will be checking for completeness and uniqueness before processing the submission. Please make sure to fill out the form accurately and completely.
-</thinking>
-
 # Research Paper Upload Form - Help Guide
 ## Purpose
 The Research Paper Upload Form is designed to collect information about research papers submitted for evaluation or review.

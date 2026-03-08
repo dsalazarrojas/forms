@@ -1,5 +1,3 @@
-<thinking>Before I can create the help guide, I need to ensure that the form is being used within a valid context. The "Fiction And Structure Assessment" form appears to be a manuscript assessment form used to evaluate submitted manuscripts for publication. It contains fields for manuscript information, submission details, and reviewer feedback. The fields include title, author, genre, rating, feedback, dates, status, type, and other relevant details.</thinking>
-
 # Fiction And Structure Assessment - Help Guide
 ## Purpose
 This form is designed to collect and assess submitted manuscripts for publication. It helps authors, editors, and reviewers track manuscript details, submit and review manuscripts, and provide feedback and ratings.

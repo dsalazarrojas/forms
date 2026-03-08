@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for athletes to register for an athletic league. It captures essential information necessary for team management, communication, and emergency planning. To fill out this form, athletes must provide their personal details, such as name, date of birth, contact information, and medical history. The league also needs to know their sport of interest, age group, and experience level. 
-
-This guide is meant to help athletes understand what information is needed and how to fill out the form accurately.
-
-</thinking>
-
 # Athletic League Registration Form - Help Guide
 ## Purpose
 The Athletic League Registration Form is a crucial document that helps the league manage and communicate with its registered athletes. It ensures that the league has the necessary information to contact, place, and manage athletes during the season.

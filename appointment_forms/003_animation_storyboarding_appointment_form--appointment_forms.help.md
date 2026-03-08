@@ -1,7 +1,3 @@
-<thinking>
-We must determine the purpose and requirements of the "Animation Storyboarding Appointment Form". This form is intended for users to schedule appointments related to animation storyboarding, possibly for projects, storyboarding sessions, or meetings. The form should cater to clients who require specific dates and times for these sessions. We should check if this form is being used for other purposes or if there are similar forms that could be reused or duplicated. This form's fields are mostly straightforward, but some require explanation to ensure users understand their purpose and requirements.
-</thinking>
-
 # Animation Storyboarding Appointment Form - Help Guide
 ## Purpose
 The "Animation Storyboarding Appointment Form" is for clients to schedule appointments for animation storyboarding sessions, meetings, or other related activities. This form helps ensure that clients provide all necessary information for successful appointments.

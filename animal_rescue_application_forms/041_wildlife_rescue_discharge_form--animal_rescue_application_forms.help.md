@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for a specific use case where a wildlife rescue organization needs to record the details of a rescued animal and its release. This form is intended for use by wildlife rescue personnel and should only be used for animals that require release after being cared for at the rescue facility. The purpose of this form is to gather essential information about the animal, including its species, status, and reason for release. The form will be used to track and report on the release of animals from the rescue facility.
-
-The user must be aware that this form is for animals that are being released from the rescue facility, and not for animals that are being taken in for treatment or other purposes.
-
-This form should not be used for animals that are being taken in for treatment or other purposes. 
-
-</thinking>
-
 # wildlife_rescue_discharge_form - Help Guide
 ## Purpose
 The wildlife_rescue_discharge_form is designed to record the details of a rescued animal and its release from the wildlife rescue facility.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## medical_certificate_request_form - Help Guide
 
 ## Purpose

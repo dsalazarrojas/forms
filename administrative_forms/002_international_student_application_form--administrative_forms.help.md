@@ -1,7 +1,3 @@
-<thinking>
-This form is used for international students to apply for a program or course at an educational institution. It collects personal and contact information, medical data, qualifications, and motivation for the application. This form is designed to gather all the necessary information required for the admission process. Please ensure that all required fields are filled out accurately and completely, as this information will be used to assess the eligibility of the applicant. Note that some fields are optional and can be filled out at the discretion of the applicant.
-</thinking>
-
 # International Student Application Form - Help Guide
 ## Purpose
 This form is used for international students to apply for a program or course at an educational institution.

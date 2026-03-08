@@ -1,11 +1,3 @@
-<thinking>
-
-The Tax Representative Authorization Form is a crucial document used to formalize the relationship between a taxpayer and their tax representative. This form is typically required when a taxpayer needs to appoint an authorized representative to handle their tax-related matters on their behalf. The form provides a standardized format for capturing essential information about the representative, such as their name, scope of work, and contact details. It also allows taxpayers to specify the scope of work, start and end dates, and other relevant information about their tax representation.
-
-Before proceeding, ensure that you have reviewed and understood the requirements and purpose of this form.
-
-</thinking>
-
 # Tax Representative Authorization Form - Help Guide
 ## Purpose
 The Tax Representative Authorization Form is a document used to formalize the relationship between a taxpayer and their authorized representative. It ensures that essential information about the representative is captured in a standardized format for official record-keeping.

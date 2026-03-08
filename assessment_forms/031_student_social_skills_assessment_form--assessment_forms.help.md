@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess a student's social skills, providing teachers and staff with valuable insights to tailor their support and guidance accordingly. The form is meant to be used by educators to evaluate a student's strengths and areas of improvement in social interactions, relationships, and communication. To ensure accurate and meaningful data, please fill out each field with as much detail as possible. Please do not repeat any information or observations that might be already documented elsewhere.
-
-</thinking>
-
 # Student Social Skills Assessment Form - Help Guide
 
 ## Purpose

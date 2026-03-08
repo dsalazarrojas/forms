@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a reimbursement request for a student organization. The purpose of this form is to allow students to submit a request for reimbursement for expenses related to their student organization activities. This form is typically used by students who are seeking reimbursement for expenses such as travel, food, or other related expenses. The form should only be completed by students who are members of an authorized student organization.
-</thinking>
-
 # Student Organization Reimbursement Request - Help Guide
 ## Purpose
 The Student Organization Reimbursement Request form is used to submit a reimbursement request for expenses related to student organization activities. To complete this form, follow the steps below.

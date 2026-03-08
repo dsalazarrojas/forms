@@ -1,10 +1,3 @@
-<thinking>
-The Emotional Support Animal Form is a document used to request an emotional support animal (ESA) accommodation from a landlord or housing provider. This form is meant to be completed by a tenant or resident who wishes to have an emotional support animal in their living space. The form collects information about the applicant's mental disability, their relationship with the animal, and their living situation.
-
-To determine if this form is applicable, we first need to check if the form is not already filled out. If it is, we do not allow the applicant to fill it out again.
-
-</thinking>
-
 # Emotional Support Animal Form - Help Guide
 ## Purpose
 This form is used to request an emotional support animal accommodation from a landlord or housing provider. It is meant to be completed by a tenant or resident who wishes to have an emotional support animal in their living space.

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's mental health and treatment preferences. It is intended to help the therapist or service provider understand the client's situation and provide personalized care. The form is not a formal assessment, but rather a starting point for the therapy process. Please ensure that you have reviewed this form carefully and answer all questions to the best of your ability.
-
-To complete this form, please answer each question as accurately and thoroughly as possible. If you are unsure about any question, please consult with the service provider or your healthcare professional.
-
-When filling out the form, please note that:
-
-*   Select the correct option from the dropdown menus.
-*   Enter a clear and concise answer in the text fields.
-*   If a question is not applicable, select "N/A" or "Not Applicable" to indicate that.
-*   If you have any issues or concerns, please let us know and we will do our best to accommodate your needs.
-
-The questions on this form are designed to help us understand your mental health situation and preferences for treatment. Your answers will be treated confidentially and used to provide you with personalized care.
-</thinking>
-
 # Therapy Service Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's mental health and treatment preferences.

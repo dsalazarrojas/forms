@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess language proficiency confidence among language learners. It collects information on respondents' language abilities, skills, and areas that need improvement.
-It's essential to understand that this form should only be filled out once per language proficiency assessment period to avoid duplication of effort and ensure accurate data collection.
-</thinking>
-
 # Language Proficiency Confidence Survey - Help Guide
 ## Purpose
 This form aims to gauge your self-assessment of your language proficiency levels, skills, and areas that need improvement.

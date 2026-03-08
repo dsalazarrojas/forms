@@ -1,14 +1,3 @@
-<thinking> 
-This guide is intended to be a help guide for end users who need to fill out the Business Audit Authorization Form. It is assumed that the form is used to authorize an audit of a business, providing information about the business being audited, the audit itself, and the scope of the audit. 
-
-To fill out this form, you will need to provide information about the business, the audit, and the authorization. Please make sure you have all necessary information before proceeding. 
-
-The form is divided into several sections, each with its own set of questions or fields. Please answer each question or field accurately and thoroughly. 
-
-The form is intended for use by authorized representatives of the business being audited. If you are not an authorized representative, please do not proceed. 
-
-</thinking>
-
 # Business Audit Authorization Form - Help Guide
 ## Purpose
 The Business Audit Authorization Form is used to authorize an audit of a business, providing information about the business being audited, the audit itself, and the scope of the audit.

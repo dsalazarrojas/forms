@@ -1,9 +1,3 @@
-<thinking>
-This form is for creating a credit application for a business account. Its purpose is to collect information from businesses seeking credit with our financial institution. The form is designed to gather essential details about the business, including its name, address, contact information, account holder, and credit terms. It's essential to fill out the form accurately to ensure that the credit application is processed correctly. Make sure to provide all required fields and ensure that your answers align with the financial institution's requirements.
-
-Before submitting the form, please ensure that you have all the necessary information and approvals from your business. This form is a critical step in the credit application process, and any errors or discrepancies may lead to delays or rejections. If you're unsure about any field or question, it's best to ask your account representative for clarification.
-</thinking>
-
 # credit_application_for_business_account_form - Help Guide
 ## Purpose
 The credit application form is used to create a credit application for a business account. This form helps the financial institution to understand the business's details and make an informed decision about the credit application.

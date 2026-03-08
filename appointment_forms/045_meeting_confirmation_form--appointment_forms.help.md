@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm meetings and keep track of participants and meeting details, you need to fill out this meeting confirmation form. Before starting, please make sure to have all the required information ready and that you've reviewed this guide. This form is intended for one-time use and will be completed by each participant.
 
 # meeting_confirmation_form - Help Guide

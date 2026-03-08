@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by employees to request permission to access a specific web resource or feature, allowing them to report issues or request assistance from IT staff. The form is meant to be completed by the employee experiencing the issue, and the information gathered will be used by IT staff to assess and address the issue. The purpose of this form is to ensure that the correct personnel are notified and that the issue is handled in a timely and efficient manner.
-
-Before completing this form, please confirm that the issue has not already been reported or escalated through other channels. If you are unsure, contact your supervisor or IT staff for guidance.
-
-</thinking>
-
 # Web Issue Permission Form - Help Guide
 
 ## Purpose

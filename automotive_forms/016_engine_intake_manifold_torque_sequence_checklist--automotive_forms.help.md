@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information related to the engine intake manifold torque sequence checklists. This form likely helps mechanics or technicians track and record the procedures, types, and results related to engine intake manifold torque sequences during vehicle maintenance or repair work. The form's design suggests it's used for documentation and reference purposes within a specific shop or organization.
-
-This form appears to be a collection of various fields that gather data from different aspects of engine intake manifold torque sequences, such as procedures, types, and results. The form's structure implies it's meant to be filled out by individuals who have hands-on experience with engine maintenance or repair.
-
-Given the fields present, it seems this form might be used for tracking and recording engine performance, maintenance, or troubleshooting procedures. It might be used by mechanics to ensure consistency and accuracy in their work, or by shop supervisors to monitor and improve overall performance.
-
-However, without further context or specific business logic, it's difficult to confirm the exact purpose and intended use case. If this form is being used to collect data for a specific business purpose, it's essential to ensure the fields and labels accurately reflect that purpose.
-
-</thinking>
-
 # engine_intake_manifold_torque_sequence_checklist - Help Guide
 ## Purpose
 This form is used to collect information related to engine intake manifold torque sequences. It's designed for mechanics or technicians to document and track procedures, types, and results related to engine intake manifold maintenance or repair work.

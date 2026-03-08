@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Ballot Box Security Log" form is to document the security checks and handovers of ballot boxes. This form is used to track the status of ballot boxes, including their location, condition, and any incidents reported. It helps ensure that ballot boxes are secure and that any issues are addressed promptly. This form is likely used in the context of election administration and voting process.
-
-To ensure accuracy, please note that each field is a required or optional entry depending on its purpose. The form is divided into sections for easy reading and completion.
-
-Before proceeding, ensure you have access to the correct information and that the form is filled out in the correct sequence.</thinking>
-
 # Ballot Box Security Log - Help Guide
 ## Purpose
 The Ballot Box Security Log is used to track the security of ballot boxes during the voting process. It is a key document for ensuring the integrity of the election process.

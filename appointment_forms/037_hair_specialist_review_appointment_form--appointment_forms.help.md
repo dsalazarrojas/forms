@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for hair specialists to gather information from clients for review appointments. The purpose of this form is to collect client details, reasons for visiting the hair specialist, and other relevant information to provide an efficient and personalized experience.
-
-To confirm the form's relevance and non-duplication:
-- The form is used by hair specialists to assess client needs and preferences.
-- The form does not have a specific "duplicate" or "submit" logic built-in, as it's likely used as an entry point for new clients.
-- The form fields are designed to be straightforward and easy to fill out for both the hair specialist and client.
-
-</thinking>
-
 # Hair Specialist Review Appointment Form - Help Guide
 ## Purpose
 This form collects information from clients for review appointments with a hair specialist. It's meant to help the hair specialist assess client needs and provide an efficient and personalized experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to support employees in reimbursing for mileage expenses related to official business trips. To avoid duplication, please only submit this form for trips that have not already been reimbursed or are not currently in progress. The form is intended for employees to claim mileage reimbursement for trips taken on company time, and each field is essential for accurate and efficient processing of claims.
-</thinking>
-
 # Mileage Reimbursement Claim Form - Help Guide
 ## Purpose
 The Mileage Reimbursement Claim Form is used to submit a request for reimbursement for official business trips taken on company time. It is essential to complete this form accurately to ensure timely and efficient processing of your claim.

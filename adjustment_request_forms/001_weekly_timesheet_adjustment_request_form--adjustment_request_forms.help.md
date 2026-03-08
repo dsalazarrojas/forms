@@ -1,7 +1,3 @@
-<thinking>
-This form is used for making adjustments to an employee's weekly timesheet. This form should only be filled out by authorized users who have a legitimate reason for making adjustments to an employee's timesheet. The form should not be used to submit timesheets for weeks that are not yet complete, as this may lead to errors and inconsistencies in the system. Additionally, this form should not be used to make repeated adjustments for the same week, as this may also cause problems.
-</thinking>
-
 # Weekly Timesheet Adjustment Request Form - Help Guide
 ## Purpose
 The Weekly Timesheet Adjustment Request Form is used to make adjustments to an employee's weekly timesheet. This form is typically filled out by authorized users to correct errors or make changes to an employee's timesheet.

@@ -1,9 +1,3 @@
-<thinking>
-  **Purpose:** The Holiday Cake Order Form is intended for customers to place orders for cakes and other desserts for special occasions like holidays, birthday celebrations, or other festive events.
-  **Form Relevance:** This form is designed for bakeries, cake shops, or dessert houses to collect order information from customers.
-  **Non-Duplication:** This form is a generic representation of a typical holiday cake order form and is not intended to be a replacement for your company's official form. Please review and adapt the form to fit your business needs.
-</thinking>
-
 # Holiday Cake Order Form - Help Guide
 ## Purpose
 The Holiday Cake Order Form is a tool designed to help customers place orders for cakes and other desserts during holidays and special occasions. Use this guide to learn how to complete the form accurately.

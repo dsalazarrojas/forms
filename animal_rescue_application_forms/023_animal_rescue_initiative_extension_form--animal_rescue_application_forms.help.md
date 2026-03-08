@@ -1,8 +1,3 @@
-<thinking>
-The goal of the Animal Rescue Initiative Extension Form is to gather information from potential foster families about their ability and willingness to care for animals in need. This form helps us assess their suitability for fostering and ensures that we match them with animals that fit their lifestyle and preferences. By filling out this form, you will be helping us to make informed decisions about animal placements and ensure the best possible outcomes for both the animals and the foster families.
-
-</thinking>
-
 # Animal Rescue Initiative Extension Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential foster families about their ability and willingness to care for animals in need.

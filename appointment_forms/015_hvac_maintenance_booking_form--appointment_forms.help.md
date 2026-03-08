@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to book HVAC maintenance appointments or services. The form is used by users to request maintenance or service for their HVAC systems. The purpose of this form is to collect relevant information from the user to schedule the maintenance or service efficiently. 
-
-When completing this form, users are required to select a category (appointment form, service request, or maintenance), specify the service type (service or repair), select a date and time for the maintenance, assign the task to a staff member, and enter any additional comments. 
-
-Please note that some fields may be optional, but all fields are designed to gather specific information to ensure the maintenance or service is performed correctly and efficiently.
-
-</thinking>
-
 # hvac_maintenance_booking_form - Help Guide
 ## Purpose
 This form is used to book HVAC maintenance appointments or services.

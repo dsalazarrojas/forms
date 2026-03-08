@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Digital Consultation Form, a crucial tool for scheduling and managing appointments with clients. To ensure that users understand the form's purpose and how to fill it out correctly, it's essential to provide clear explanations of each field's requirements and expectations. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section, providing users with a comprehensive understanding of the form's functionality.
-</thinking>
-
 # Digital Consultation Form - Help Guide
 ## Purpose
 The Digital Consultation Form is designed to collect information from clients for scheduled appointments at your establishment. This form helps to gather essential details about the client, their preferred appointment type, and the services they require.

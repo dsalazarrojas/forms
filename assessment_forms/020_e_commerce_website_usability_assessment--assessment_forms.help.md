@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be assessing the usability of an e-commerce website, specifically evaluating its various aspects such as user experience, navigation, website design, search, contact, accessibility, overall satisfaction, mobile and tablet experience, cart and checkout, payment process, product information, shipping, returns, overall usability, mobile usability, tablet usability, and overall satisfaction again. The form appears to be designed to gather feedback on the website's usability from a user's perspective, which will help identify areas of improvement. I will make sure to follow the same structure and format as the original YAML to ensure consistency. I will also try to provide clear and concise explanations for each field without making any assumptions about the underlying business logic.
-</thinking>
-
 # E-Commerce Website Usability Assessment - Help Guide
 ## Purpose
 The E-Commerce Website Usability Assessment form is designed to help you provide feedback on your experience with an e-commerce website. This form will guide you through a series of questions that will help us understand your thoughts on the usability of the website, including various aspects such as navigation, design, search, payment process, and more.

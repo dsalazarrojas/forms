@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect sensitive payment data from users for various payment-related purposes, such as processing transactions, tracking payment history, and verifying payment details. To fill out this form, you will need to provide your first name, last name, email address, phone number, address, date of birth, social security number, payment method, bank account information, and other payment-specific details. Please ensure that you provide accurate and up-to-date information to facilitate smooth payment processing. Note that some fields are optional and only required for specific payment scenarios.
-
-Before proceeding, please make sure you do not duplicate any payment records, as this form will be used for tracking and processing payment history. Ensure that your input will not result in duplicate entries in the database.
-</thinking>
-
 # Payment Data Privacy Assessment - Help Guide
 ## Purpose
 The Payment Data Privacy Assessment is used to collect sensitive payment data from users for various payment-related purposes.

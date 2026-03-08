@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book a coat check service for guests attending an event. The form is intended for event organizers and staff to collect information from guests about their coats, including size, color, type, and arrival time. This information will be used to manage coat check services during the event. The form is designed to be completed by guests, but event organizers may also use it as a guide for their staff to collect information from guests. It's worth noting that the form's fields and options may be subject to change based on the specific event and its requirements.
-</thinking>
-
 # Guest Coat Check Booking Form - Help Guide
 ## Purpose
 The Guest Coat Check Booking Form is used to collect information from guests about their coats, allowing event staff to efficiently manage coat check services during events.

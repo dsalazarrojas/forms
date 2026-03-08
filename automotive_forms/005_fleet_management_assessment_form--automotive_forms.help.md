@@ -1,29 +1,3 @@
-<thinking>
-This form is used for fleet management assessment, which involves evaluating the performance, condition, and status of vehicles within a fleet. The form is designed to gather relevant information about each vehicle, such as its performance, maintenance status, driver efficiency, and overall condition. This information will be used to identify areas of improvement and optimize fleet management.
-
-Before completing this form, please ensure that you have all the necessary information about each vehicle. This form should only be filled out once for each vehicle.
-
-Please note that the form is divided into multiple pages, each addressing a different aspect of fleet management. The pages are:
-
-* Fleet Management Form
-* Vehicle Performance
-* Maintenance Status
-* Driver Efficiency
-* Vehicle Condition
-* Vehicle Performance (additional)
-* Vehicle Type
-* Maintenance Status (additional)
-* Driver Efficiency (additional)
-* Vehicle Status
-* Driver Experience
-* Vehicle Condition (additional)
-* Vehicle Type (additional)
-* Maintenance Status (additional)
-* Driver Efficiency (additional)
-* Vehicle Status (additional)
-
-</thinking>
-
 # fleet_management_assessment_form - Help Guide
 ## Purpose
 This form is used to assess the fleet management of vehicles within a fleet.

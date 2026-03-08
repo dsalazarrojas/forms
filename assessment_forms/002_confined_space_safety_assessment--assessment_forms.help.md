@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess the safety of confined spaces, ensuring that workers have the necessary information to evaluate hazards and take appropriate measures to mitigate them. This form is crucial for identifying and controlling risks associated with confined spaces, which can be hazardous environments that pose significant threats to worker safety. The assessment results will help identify potential hazards, determine the required control measures, and provide a conclusion on whether it's safe to enter the space.
-The following checks should be performed before using this form:
-- Is this form relevant to your situation? If not, please use a different form or create a new one.
-- Has this form been reviewed by relevant stakeholders and is it up-to-date?
-
-</thinking>
-
 # Confined Space Safety Assessment - Help Guide
 
 ## Purpose

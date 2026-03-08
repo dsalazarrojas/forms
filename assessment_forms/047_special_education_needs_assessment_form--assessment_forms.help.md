@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the special education needs of a student. It is required for students who have been identified as needing support to help them succeed in their educational journey. The form ensures that all relevant information is collected to provide the most effective support. Please review this guide to understand each field clearly before filling out the form.
-</thinking>
-
 # Special Education Needs Assessment Form - Help Guide
 ## Purpose
 The Special Education Needs Assessment Form is used to gather information about a student's special education needs. This form helps identify areas where a student may require additional support to access their education.

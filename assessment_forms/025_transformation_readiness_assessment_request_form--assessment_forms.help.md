@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the transformation readiness of an organization. The Transformation Readiness Assessment Request Form is intended to help assessors evaluate the readiness of an organization to undergo transformation, which could be a digital transformation, business model change, or any other type of transformation. The form aims to collect information about the organization's current status, goals, and objectives, as well as the assessor's evaluation and assessment duration. It is used for internal purposes and does not require any proprietary information from third-party platforms.
-</thinking>
-
 # Transformation Readiness Assessment Request Form - Help Guide
 
 ## Purpose

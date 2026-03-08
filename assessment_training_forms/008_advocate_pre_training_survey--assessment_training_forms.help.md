@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather participant information for an advocacy training program. The purpose of this form is to collect data about the participant's background, experience, and expectations from the training. This will help the training organizers understand the participant's needs and tailor the training content accordingly.
-
-Before filling out this form, please ensure you have not participated in this form in the past, as duplicate entries may affect the accuracy of the participant data.
-
-Please answer the questions honestly and thoroughly to ensure the training organizers can create a suitable learning experience for you.
-
-</thinking>
-
 # Advocate Pre-Training Survey - Help Guide
 ## Purpose
 

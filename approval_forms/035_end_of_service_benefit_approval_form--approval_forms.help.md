@@ -1,6 +1,3 @@
-<thinking> 
-The form is used to document and track employee benefits after they have ended their employment with the company. The form is not required to be filled out for every termination, but rather for cases where benefits need to be approved or declined, and the reason for this decision must be documented. This form serves as a formal record of the approval or rejection process, and helps ensure that all parties involved are on the same page. It's used to prevent duplication of effort and potential misunderstandings, and to ensure that all necessary steps are taken before benefits are approved or denied. Before filling out this form, it's recommended to ensure that the employee's employment has indeed ended and that the form is being filled out for a valid reason.</thinking>
-
 # End Of Service Benefit Approval Form - Help Guide
 
 ## Purpose

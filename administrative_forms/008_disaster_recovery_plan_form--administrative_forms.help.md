@@ -1,8 +1,3 @@
-<thinking>...
-The form is designed to collect information for disaster recovery planning. It is meant to be used by administrative personnel to gather data about contact details, recovery planning, and services affected by a disaster. This form is likely to be used in a business continuity or emergency management context. Before proceeding, please ensure that you have the necessary permissions and approvals to complete this form. If you are unsure about any part of this process, please reach out to your supervisor or team lead for clarification.
-
-</thinking>
-
 # disaster_recovery_plan_form - Help Guide
 ## Purpose
 This form is used to collect information for disaster recovery planning, including contact details, recovery planning, and services affected by a disaster.

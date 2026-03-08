@@ -1,15 +1,3 @@
-<thinking>
-This form is used for booking maintenance or repairs for heating, ventilation, and air conditioning (HVAC) systems. The purpose of this form is to collect necessary information from clients about their maintenance or repair needs, schedule, and preferred technicians. This form should be completed by clients to book a maintenance or repair job with the organization's HVAC team.
-
-The form includes the following pages:
-
-- **Client Details**: This page collects information about the client, including any additional comments or comments.
-- **Job Details**: This page collects information about the job, including the schedule, date and time, and preferred technician(s).
-- **Submission**: This page summarizes the completed form and includes fields for submitting the booking.
-
-Each page is designed to be completed by the client, ensuring that all required information is collected accurately and efficiently.
-</thinking>
-
 # hvac_maintenance_booking_form - Help Guide
 ## Purpose
 This form is used for booking maintenance or repairs for heating, ventilation, and air conditioning (HVAC) systems.

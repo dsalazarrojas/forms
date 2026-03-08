@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about incidents that have occurred at a retail store, allowing administrators to track and investigate these incidents efficiently. 
-
-This form aims to gather details about the employee(s) involved in the incident, the incident's location, type, and status, as well as any witness statements or attachments related to the incident. This form will be used to document and follow up on incidents, ensuring that all necessary information is captured in one place.
-
-To avoid duplication, please fill out this form only once for each incident. If you have any questions or concerns, please reach out to the relevant personnel or management for assistance.
-
-</thinking>
-
 # Retail Store Incident Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document incidents that have occurred at retail stores, allowing for efficient tracking and investigation of these incidents.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # escalator_incident_form - Help Guide
 ## Purpose
 The escalator incident form is used to document and report escalator incidents. It captures essential details such as incident description, status, type, and reported information. This form helps ensure that incidents are accurately recorded and communicated to relevant personnel for prompt action.

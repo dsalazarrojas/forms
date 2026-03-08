@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID Phase 1A Authorization Form - Help Guide
 ## Purpose
 The COVID Phase 1A Authorization Form is designed to gather information from healthcare workers, long-term care facility residents and staff, emergency responders, and others who are eligible for Phase 1A COVID-19 vaccination. This form ensures that you have provided accurate and truthful information for the purpose of authorization.

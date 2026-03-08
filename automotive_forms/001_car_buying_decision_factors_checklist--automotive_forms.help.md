@@ -1,12 +1,6 @@
 # Car Buying Decision Factors Checklist - Help Guide
 ## Purpose
 
-<thinking>
-
-This form is designed to help you decide on the key factors to consider when buying a new vehicle. It covers various aspects of your vehicle preferences, including personal and vehicle specifications, safety features, technology needs, and financial requirements. By filling out this form, you will be able to identify your priorities and make an informed decision when purchasing a car.
-
-</thinking>
-
 ## How To Complete This Form
 
 1.  Start by providing your personal information, including your full name and email address.

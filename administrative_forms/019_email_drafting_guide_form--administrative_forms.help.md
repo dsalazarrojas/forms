@@ -1,5 +1,3 @@
-<thinking>The purpose of this email drafting guide form is to facilitate the creation of emails for various stakeholders. It allows users to input specific details such as email subject, body, recipient, and sender information. The form is designed to gather all necessary information for drafting emails efficiently and effectively. Before proceeding, please ensure that you have all the required information for the email at hand. This form does not create actual emails, but rather helps you prepare and organize the content and details before sending it. If you have already created an email for the same recipient or with the same subject, please do not fill out this form again. Please provide accurate information in all fields to ensure seamless communication and avoid any errors.</thinking>
-
 # email_drafting_guide_form - Help Guide
 ## Purpose
 

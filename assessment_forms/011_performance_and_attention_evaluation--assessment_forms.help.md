@@ -1,6 +1,3 @@
-<thinking>
-The Performance And Attention Evaluation form is intended for evaluating the performance and attention areas of an individual or team. It is designed to assess specific skills and characteristics that demonstrate attention and performance capabilities. This form is typically completed by evaluators, who will assess the individual or team's attention areas and level of performance. The purpose of this form is to provide a comprehensive evaluation of the individual or team's strengths and weaknesses, which can be used to identify areas for improvement and development.
-</thinking>
 # Performance And Attention Evaluation - Help Guide
 ## Purpose
 The Performance And Attention Evaluation form is used to assess the performance and attention areas of an individual or team. It helps evaluators to evaluate the individual or team's strengths and weaknesses, identify areas for improvement, and provide a comprehensive picture of their capabilities.

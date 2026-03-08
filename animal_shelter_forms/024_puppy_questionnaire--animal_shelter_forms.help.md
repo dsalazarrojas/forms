@@ -1,12 +1,3 @@
-<thinking>
-The Puppy Questionnaire is designed to gather information about a newly adopted puppy, including details about the puppy's age, breed, weight, and medical history. The form will be used to track the adoption process, from initial contact to final adoption, and will help us better understand the needs and requirements of the puppies.
-
-This guide will walk you through each section of the form to ensure you have all the necessary information for the adoption process.
-
-Please note that some fields may not be relevant to every adopter, and you can fill in only the information that applies to you and your new furry friend.
-
-</thinking>
-
 # Puppy Questionnaire - Help Guide
 ## Purpose
 The Puppy Questionnaire is designed to gather information about a newly adopted puppy, including details about the puppy's age, breed, weight, and medical history.

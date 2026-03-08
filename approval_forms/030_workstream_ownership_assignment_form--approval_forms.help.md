@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information related to workstream ownership assignments, which is the process of assigning tasks, responsibilities, and ownership of projects or work items within a team or organization. This form helps to clarify the ownership structure and accountability for project-related tasks.
-
-To ensure accuracy and effectiveness, please review the information carefully before submitting the form. Make sure to check if the project is already assigned to someone or if there are any duplicate entries.
-
-</thinking>
-
 # Workstream Ownership Assignment Form - Help Guide
 ## Purpose
 The Workstream Ownership Assignment Form is used to assign ownership and tasks to specific team members for project-related work. The form captures essential information about the project, such as the project name, status, and key personnel involved.

@@ -1,10 +1,3 @@
-<thinking>
-
-This form is intended to assess the guarantee period and type related to an employee's employment. The purpose of this form is to gather information about the employee's guarantee status, which is likely related to employment protection or benefit plans. This form will guide users through the required fields to provide accurate and complete information. Ensure you only complete the form if you have the relevant information and context. If you're unsure about the purpose or requirements, please consult with the relevant authorities or seek clarification from the form administrator.
-
-
-</thinking>
-
 # Employee Guarantee Assessment - Help Guide
 ## Purpose
 This form is used to collect information about an employee's guarantee status, including the type of guarantee and period of guarantee. It's essential to provide accurate and complete answers to help ensure the correct processing and management of employment-related data.

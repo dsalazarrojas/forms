@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help educators and administrators assess their professional development needs for the upcoming year. It is meant to be a comprehensive guide to identify areas of improvement, resource gaps, and other needs that require attention. Please complete this form to help us better understand your specific needs and provide support accordingly. Note that this form is a general tool and may not cover every possible scenario or need. If you have any specific or unusual needs not listed here, please do not hesitate to contact us.
-
-</thinking>
-
 # Education Professional Development Needs Assessment - Help Guide
 ## Purpose
 The Education Professional Development Needs Assessment form is designed to gather information about your professional development needs and requirements. It helps us understand your needs and provide targeted support to enhance your teaching and administrative practices.

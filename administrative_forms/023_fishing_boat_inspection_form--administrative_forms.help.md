@@ -1,7 +1,3 @@
-<thinking>
-This form is for fishing boat inspection. It is used to ensure that a boat is safe and compliant with regulations for fishing activities. This form is used by fishing boat owners or captains to report on the status of their vessel, including details about the boat, safety equipment, engine, safety inspection, emergency equipment, navigation equipment, radio equipment, and other relevant information. This form is likely to be used by regulatory authorities or boat owners to track and manage boat safety and compliance. 
-</thinking>
-
 # Fishing Boat Inspection Form - Help Guide
 ## Purpose
 This form is used to report on the status of a fishing boat, including its details, safety equipment, engine, safety inspection, and other relevant information.

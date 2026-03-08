@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to make a reservation for a visit to the embassy. It is essential to provide accurate and complete information to ensure a smooth and efficient visit. Please make sure to fill out the form carefully, and if you have any questions or concerns, don't hesitate to contact us.
-</thinking>
-
 # Embassy Visit Reservation Form - Help Guide
 ## Purpose
 This form is designed to help you make a reservation for a visit to the embassy. Please fill out the form with accurate and complete information to ensure a smooth and efficient visit.

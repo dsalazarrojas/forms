@@ -1,7 +1,3 @@
-<thinking>
-The "expense_reimbursement_audit_form" is designed to help administrators review and process employee expense reimbursements. This form should only be filled out by authorized personnel to ensure that the data being entered is accurate and relevant to the company's expense reimbursement policies and procedures. Before filling out this form, review the company's expense reimbursement guidelines to ensure that you are entering the correct information. If you are unsure about any information, it is best to consult with the relevant department or someone familiar with the policy.
-</thinking>
-
 # expense_reimbursement_audit_form - Help Guide
 ## Purpose
 The expense_reimbursement_audit_form is used to review and process employee expense reimbursements.

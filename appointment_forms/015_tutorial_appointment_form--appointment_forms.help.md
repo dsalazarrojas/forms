@@ -1,12 +1,3 @@
-<thinking>
-We should ensure that this form is used for scheduling tutorials and appointments, and that the fields are clearly explained to avoid confusion. We should also consider adding validation to prevent duplicate entries. The form has a mix of required and optional fields, which is good for flexibility, but may cause confusion if not properly explained. 
-
-This form appears to be used for scheduling and managing tutorials and appointments, and should be used for both individual and group sessions. There are fields for tutor and student information, session details, and status updates. 
-
-Let's break down the form into sections to explain each field clearly and concisely. 
-
-</thinking>
-
 # Tutorial Appointment Form - Help Guide
 ## Purpose
 This form is used for scheduling and managing tutorials and appointments. It captures information for both individual and group sessions, including tutor and student details, session details, and status updates.

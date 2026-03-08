@@ -1,7 +1,3 @@
-<thinking>...The Analyst Skills Assessment form is designed to gauge the skills and abilities of an individual, specifically those in an analytical role, to ensure they possess the necessary expertise to perform tasks and responsibilities in the company. This form assesses their proficiency in Microsoft Excel, SQL, data visualization tools, and their analytical and communication skills. It also evaluates their experience and approach to complex problems. The assessment is essential for the company to understand the strengths and weaknesses of their team members and to identify areas that require improvement or training. This form is a crucial tool for HR and managers to make informed decisions regarding employee promotions, job assignments, and professional development programs. 
-
-Before starting this form, please ensure that you are familiar with the assessment and its purpose. If you are unsure about any of the questions or fields, please ask your manager or HR representative for guidance...</thinking>
-
 # Analyst Skills Assessment - Help Guide
 ## Purpose
 This form is designed to assess the skills and abilities of an individual in an analytical role, specifically their proficiency in Microsoft Excel, SQL, data visualization tools, and their analytical and communication skills.

@@ -1,10 +1,3 @@
-<thinking>
-# This form is intended for assessing an individual's or team's product development skills, process, and experience. It aims to gather information on their proficiency in various product development skills, processes, and technologies, as well as their experiences with product development teams and initiatives. This form is likely used in a business or organizational setting to evaluate and improve product development processes and team performance.
-
-To ensure accuracy, please ensure that you have the authority to complete this form and that it is not a duplicate submission.
-
-</thinking>
-
 # product_development_skills_assessment_form - Help Guide
 ## Purpose
 ## How To Complete This Form

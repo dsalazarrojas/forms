@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for mental health services billing purposes, used to process and report payment information related to client services.
-This form should only be completed for mental health billing purposes and is not intended for other use cases.
-</thinking>
-
 # mental_health_billing_form - Help Guide
 ## Purpose
 The mental_health_billing_form is used to process and report payment information related to client services.

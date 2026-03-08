@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "credit_card_statement_communication_form" form, which appears to be used for communication and management of credit card statements. This form is likely used by credit card companies or financial institutions to gather information about customer transactions, disputes, and inquiries. The form might be used for tasks such as processing disputes, responding to customer inquiries, or managing statement frequency. It's essential to note that the form is not strictly tied to a specific business process, but its purpose is likely to facilitate communication and data collection for credit card management.
-Before proceeding, let's review the form's structure and fields to ensure we cover all essential aspects in the help guide.
-</thinking>
-
 # credit_card_statement_communication_form - Help Guide
 ## Purpose
 This form is used for communication and management of credit card statements, including processing disputes, responding to customer inquiries, and managing statement frequency.

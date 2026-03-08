@@ -1,5 +1,3 @@
-<thinking>Grant Approval Form is used to process and manage grants. This form is required for all grant proposals. Ensure you have all necessary information before filling it out, and please review your previous submissions to avoid duplication. Before submitting, review each field carefully to ensure accuracy and completeness.</thinking>
-
 # Grant Approval Form - Help Guide
 ## Purpose
 The Grant Approval Form is used to gather and process grant proposals. It's essential for grant applicants to submit accurate and complete information to enable timely and effective processing.

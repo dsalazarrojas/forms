@@ -1,7 +1,3 @@
-<thinking>
-This form is used for property claim discharge, which involves the cancellation or termination of a property claim. It's crucial to accurately complete this form to ensure that the claim is properly documented and processed. Before proceeding, please verify that this form is relevant to your situation and not a duplicate of another form. If you're unsure, consult with the relevant parties or authorities to confirm its necessity.
-</thinking>
-
 # Property Claim Discharge Form - Help Guide
 ## Purpose
 This form is used to discharge or cancel a property claim, providing a clear and concise way to document the claim's status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Member Data Import And Export - Help Guide
 ## Purpose
 The Member Data Import And Export form is a tool used to facilitate the import and export of member data. This form helps users to select, manage, and control their member data in a organized and efficient manner.

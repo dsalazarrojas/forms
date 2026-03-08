@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory Checklist Form - Help Guide
 
 ## Purpose

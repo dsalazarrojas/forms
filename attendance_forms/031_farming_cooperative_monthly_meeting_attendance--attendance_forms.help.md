@@ -1,8 +1,3 @@
-<thinking>
-The form "Farming Cooperative Monthly Meeting Attendance" is designed to record the attendance of members at a monthly meeting of a farming cooperative. This form aims to gather information on who attended the meeting, their position within the cooperative, and their current attendance status. The form is likely to be completed by cooperative members themselves or administrators who need to keep track of attendance records. This explanation is to ensure users understand the form's purpose, how to complete it, and what each field entails, thus facilitating accurate and efficient completion.
-
-</thinking>
-
 # Farming Cooperative Monthly Meeting Attendance - Help Guide
 ## Purpose
 This form is used to record the attendance of members at a monthly meeting of a farming cooperative. It is essential to complete the form accurately to ensure that attendance records are up to date and reflect the actual attendance of members.

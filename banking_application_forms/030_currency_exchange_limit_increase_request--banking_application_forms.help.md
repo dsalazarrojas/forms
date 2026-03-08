@@ -1,9 +1,3 @@
-<thinking>
-This form is used for a "Currency Exchange Limit Increase Request" which is a process to allow users to request an increase in their current currency exchange limits. It's essential to review the form's purpose regularly to ensure that you're using it correctly. To avoid duplication, check if the currency exchange limit is already at its maximum before proceeding with this request.
-
-This form should only be filled out if the client's current limit is below the desired limit or needs to be reviewed.
-</thinking>
-
 # Currency Exchange Limit Increase Request - Help Guide
 ## Purpose
 The "Currency Exchange Limit Increase Request" form is used to request an increase in the current currency exchange limit for a client. This form is used to provide additional information required for the review process.

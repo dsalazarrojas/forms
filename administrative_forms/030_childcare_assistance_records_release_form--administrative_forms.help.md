@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting the release of childcare assistance records to a third party, such as a new program or a government agency. This form helps ensure that all necessary information is collected and that the records release process is properly handled. It is essential to review each field carefully and understand the requirements before completing the form. Please ensure that the form is completed in its entirety and accurately, as incomplete or inaccurate forms may lead to delays or denial of the records request.
-</thinking>
-
 # Childcare Assistance Records Release Form - Help Guide
 ## Purpose
 This form is used to request the release of childcare assistance records to a third party, such as a new program or a government agency. It is essential to provide accurate and complete information to ensure the proper handling of the records release process.

@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: Determine the purpose of the form.
-  - The purpose of this form is to allow individuals to book spots for a workshop, specifying their interest in a leather workshop, cutting, or finishing, and providing information to help the organizer with communication and planning.
-  - This form is intended to be used by both potential participants and the workshop organizer to facilitate the process.
-  - There should be no other forms of similar purpose within the application.
-</thinking>
-
 # Leather Craft Workshop Booking Form - Help Guide
 ## Purpose
 This form is designed to help participants book and organize workshops in leather crafting, cutting, or finishing. It will help the workshop organizer with planning, communication, and logistics. 

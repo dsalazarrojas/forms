@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Salon Staff COVID 19 Self-Assessment Form - Help Guide
 ## Purpose
 The Salon Staff COVID 19 Self-Assessment Form is a tool designed to help salon staff assess their own health status in relation to COVID-19. This form is meant to be completed by salon staff to determine if they are fit to work and interact with clients and other staff members in a safe and healthy environment.

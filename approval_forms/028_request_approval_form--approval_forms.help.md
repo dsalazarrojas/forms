@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Request Approval Form - Help Guide
+> # Request Approval Form - Help Guide
 ## Purpose
 
 This form is used to request approval for various tasks, projects, or initiatives within your organization. It is intended for employees, managers, and directors to seek approval from higher-level stakeholders. The form captures essential details about the request, including the required approval level, date, and submitter's information.

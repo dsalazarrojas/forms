@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess an individual's self-reported health status and gather relevant data for further evaluation. It is likely used in a healthcare setting to collect information from patients or individuals. The purpose of this form is not clearly defined, so it's essential to verify with the relevant stakeholders that the information collected will be used for its intended purpose. 
-To avoid duplication of effort and ensure consistency, it is recommended to review the form design and the provided fields to confirm that they are accurate and aligned with the intended use case.
-</thinking>
-
 # Self Health Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect self-reported health data from individuals in a healthcare setting. Please ensure that the information collected will be used for its intended purpose.

@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to assess a company's readiness for digital transformation. Digital transformation is a process of changing traditional business practices to be more efficient, cost-effective, and responsive to changing market conditions. The form is meant to be completed by a company representative to provide insight into their current state and goals related to digital transformation.
-The following fields are included to gather information on:
-- current stance on digital transformation
-- support for digital transformation from leadership
-- available resources
-- change management processes
-- communication strategies
-- employee training and development
-- metrics for measuring progress
-- technology stack and infrastructure
-- innovation capacity and adoption
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata as inspiration.
-
-</thinking>
-
 # Digital Transformation Readiness Assessment Form - Help Guide
 ## Purpose
 This form is designed to help assess a company's readiness for digital transformation, a process of changing traditional business practices to be more efficient, cost-effective, and responsive to changing market conditions.

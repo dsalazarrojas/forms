@@ -1,10 +1,3 @@
-<thinking>
-This form is used to validate employee attendance on a daily basis.
-The form is designed to collect information about the employee's attendance status, 
-start and end time, date, and other relevant details. 
-This form is typically used for HR or attendance management purposes.
-</thinking>
-
 # Daily Sign In Log Validation Form - Help Guide
 
 ## Purpose

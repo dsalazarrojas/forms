@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be filled out by employees to enroll or update their benefits with the company. The form captures various employee benefits such as health insurance, life insurance, disability insurance, and other benefits. The form will help the employee accurately and efficiently enroll or update their benefits information. It is crucial to fill this form correctly to ensure that the benefits information is up-to-date and accurate. Please review the form carefully before filling it out to avoid errors. Ensure that you have all the required information before proceeding, as some of the fields are mandatory.
-
-Before filling out this form, please note that you should only select one provider for each type of benefit. Also, ensure that you select the correct employee status as it will impact the benefits you are eligible for.
-
-Please fill out this form carefully and accurately as it will be used to manage your employee benefits.
-</thinking>
-
 # Employee Benefit Enrollment Form - Help Guide
 ## Purpose
 The Employee Benefit Enrollment Form is a form for employees to enroll or update their benefits with the company. This form helps ensure that the benefits information is up-to-date and accurate.

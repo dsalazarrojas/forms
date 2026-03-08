@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Acting School Marketing Consent Form - Help Guide
 ## Purpose
 The Acting School Marketing Consent Form is a document that allows acting school students to provide their consent for the use of their photographs and videos for marketing purposes. This form helps the school to promote students' work and image while ensuring they respect students' rights and boundaries.

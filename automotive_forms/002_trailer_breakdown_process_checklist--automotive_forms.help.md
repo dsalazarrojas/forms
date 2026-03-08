@@ -1,5 +1,3 @@
-<thinking>This form is designed to assist in the trailer breakdown process, which is a crucial step in maintaining the overall safety and efficiency of trailer operations. This process involves evaluating the condition and status of a trailer, taking into account various factors such as its type, condition, loading status, and security. The form helps users assess the trailer's readiness for use, identify potential issues, and make informed decisions for maintenance or repair. This form may be used by trailer operators, mechanics, or logistics personnel to ensure trailers are in optimal condition for transportation and delivery.</thinking>
-
 # Trailer Breakdown Process Checklist - Help Guide
 ## Purpose
 The trailer breakdown process is a critical step in maintaining the reliability and safety of trailers. This form is designed to guide users through a systematic evaluation of a trailer's condition and status.

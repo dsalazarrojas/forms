@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to evaluate the performance of a reception supervisor. This form is designed to gather data on the supervisor's work quality, efficiency, and overall performance. It is intended to help management assess the supervisor's strengths and weaknesses and provide feedback for improvement. Before filling out this form, please make sure you have a clear understanding of what you want to evaluate and that you are not duplicating any existing evaluations or assessments. Ensure you have all necessary information and resources before completing this form. If you have any doubts or concerns, please reach out to your supervisor or HR department for guidance...</thinking>
-
 # Reception Supervisor Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of a reception supervisor, gathering data on their work quality, efficiency, and overall performance.

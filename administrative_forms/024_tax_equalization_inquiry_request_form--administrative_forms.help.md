@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to request tax equalization for employees. This form is intended to be used by employees who want to know their tax status. The form is used to inquire about the tax type and status of an employee and is not used for actual tax filing or payment purposes.
-This form is not meant for employees who want to submit a tax refund or payment. Instead, it is for employees who want to know their current tax status. The employee can select their tax type (e.g., yes/no) and status (e.g., active/inactive) to inquire about their current status.
-Before filling out this form, please make sure you're not already familiar with your tax status. This form is for informational purposes only and is not a substitute for actual tax filing or payment. If you're unsure about your tax status, you can contact the relevant authorities for clarification.
-</thinking>
-
 # tax_equalization_inquiry_request_form - Help Guide
 ## Purpose
 The tax equalization inquiry request form is used by employees to inquire about their tax type and status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Robot Activity Liability Waiver - Help Guide
 ## Purpose
 This form is used to obtain a liability waiver from participants in robot activities. The waiver is a legal document that protects both the participant and the robot owner/parent from any potential liability in case of accidents or injuries during robot activity events.

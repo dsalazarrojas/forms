@@ -1,9 +1,3 @@
-<thinking>
-The form seems to be designed to assess the suitability of a user for some sort of cryptocurrency-related activity, possibly investment or trading. The form appears to be collecting various pieces of information about the user, including their suitability for investing, risk awareness, exchange registration, and employment status. The form also asks for specific details about the user's assets, investments, income, and employment. It is likely that the form is used to determine the user's eligibility for a particular program or service related to cryptocurrencies. However, without more information about the internal logic and requirements, it's hard to give a definitive answer about the exact purpose of the form. It's possible that the form is a risk assessment form for some sort of regulatory compliance.
-
-Assuming the form is designed to assess user eligibility for a particular program or service, the following explanation and guide will be provided.
-</thinking>
-
 # Cryptocurrency Eligibility Assessment - Help Guide
 ## Purpose
 This form is designed to assess the suitability of a user for a particular program or service related to cryptocurrencies.

@@ -1,5 +1,3 @@
-<thinking> This form is for requesting a legal document, likely for official or administrative purposes. It is not intended for emergency situations or high-priority requests. Ensure that you only submit this form for legitimate and routine requests. Please do not submit multiple requests for the same document. If you're unsure about submitting a request, contact the relevant authority for guidance. </thinking>
-
 # legal_document_requisition_form - Help Guide
 ## Purpose
 The legal document requisition form is a standardized form for requesting official legal documents. It is designed to gather essential information for the preparation and issuance of these documents. Please complete this form accurately and thoroughly to ensure that your request is processed efficiently and effectively.

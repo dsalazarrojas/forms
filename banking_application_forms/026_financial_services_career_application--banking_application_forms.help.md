@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from job applicants about their qualifications and work experience for potential positions within our banking services department. It is designed to be completed by individuals interested in exploring career opportunities in this field. The form is a mandatory part of our application process and is used to evaluate the candidate's suitability for the role.
-To ensure a complete and accurate submission, please fill out the form carefully and thoroughly. Before starting the form, make sure you have your resume and any necessary information readily available.
-</thinking>
-
 # Financial Services Career Application - Help Guide
 
 ## Purpose

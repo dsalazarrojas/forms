@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll assume this form is for logging mailbox usage activities, such as opening, closing, or deleting mailboxes. This form will track user interactions with mailboxes, which could be related to email accounts, file storage, or other types of mailboxes. The form's purpose is to provide a structured way to record these activities, ensuring accurate and efficient tracking. Before proceeding, let's confirm that this form will not be used for other purposes, and all the required fields are properly filled out to avoid incomplete submissions.</thinking>
-
 # Mailbox Usage Log - Help Guide
 ## Purpose
 The Mailbox Usage Log form is designed to track user interactions with mailboxes, such as logging opening, closing, or deleting activities. This form helps maintain accurate and efficient tracking of mailbox usage.

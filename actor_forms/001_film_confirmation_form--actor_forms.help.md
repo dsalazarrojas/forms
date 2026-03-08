@@ -1,8 +1,3 @@
-<thinking>
-This is a form for confirming information about a film. It is used to gather details about a movie, such as the title, description, and other relevant information. This form is designed to be simple and straightforward, making it easy for users to input their data. Before proceeding, please ensure that you have all the necessary information ready. If you've already filled out this form for the same film, please don't fill it out again. Duplicate submissions can cause confusion and may lead to errors.
-
-</thinking>
-
 # Film Confirmation Form - Help Guide
 ## Purpose
 The Film Confirmation Form is used to confirm details about a film for our records. It helps us gather accurate and up-to-date information about your film.

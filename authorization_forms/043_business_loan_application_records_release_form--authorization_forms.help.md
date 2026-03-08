@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from a loan applicant for the purpose of granting authorization to release their business loan application records. This form is intended for use by institutions requesting records from a loan applicant, such as financial institutions or government agencies. The form is meant to be completed by the loan applicant, providing their necessary details for the release of relevant records. The completion of this form is required for the purpose of providing authorization for the release of records, and it is essential to ensure that the records are released for the correct purpose and to the right party.
-</thinking>
-
 # Business Loan Application Records Release Form - Help Guide
 ## Purpose
 This form is used to collect information from a loan applicant to grant authorization for the release of their business loan application records. It is a requirement for institutions requesting records from the loan applicant.

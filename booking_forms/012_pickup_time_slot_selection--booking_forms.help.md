@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to select a pickup time slot for a pickup or delivery operation. The form can be completed by selecting multiple available time slots and providing contact information. The purpose of this form is to gather information from the user for scheduling purposes. It is not a form that requires any specific technical knowledge or expertise, so it's likely intended for general users. I will not duplicate any information from the schema, so the form explanation will be concrete and straightforward.
-
-</thinking>
-
 # Pickup Time Slot Selection - Help Guide
 ## Purpose
 This form is used to select a pickup time slot for a pickup or delivery operation. It's a simple way to gather information from the user for scheduling purposes.

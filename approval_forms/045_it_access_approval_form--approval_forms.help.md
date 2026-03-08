@@ -1,10 +1,3 @@
-<thinking>
-The form "it_access_approval_form" is intended to collect information for internal access approval. This form is likely used within an organization for users to request access to certain resources or systems, and for approvers to review and approve or deny these requests. The form should be filled out by both the requestor and the approver to ensure accurate and complete information is captured.
-
-To complete this form, start by filling out the "Requestor Info" section, which includes providing your name and contact information. Next, select the "User ID" and enter a valid ID to associate with the request. Then, choose the "Resource Name" of the system or resource being requested. After that, select the appropriate "Access Level" that is needed to access the resource. If applicable, enter the date of the request and the date the request was approved or denied. The "Approver Name" and "Approver Department" fields should be filled out by the person reviewing the request. Finally, select the "Approval Status" of the request, and if desired, add any comments or additional information.
-
-</thinking>
-
 # it_access_approval_form - Help Guide
 ## Purpose
 The it_access_approval_form is used to collect information for internal access approval requests.

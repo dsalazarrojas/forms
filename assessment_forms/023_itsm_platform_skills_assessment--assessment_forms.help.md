@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to assess the ITSM (Information Technology Service Management) platform skills and requirements of users. The purpose of this form is to gather information about the hiring needs, skills, and training requirements of the users, as well as their evaluation method, platform version, evaluation frequency, benchmarking needs, and comments.
-
-The form is divided into several sections, each representing a specific area of the ITSM platform. The sections are:
-
-*   Hiring Needs: This section is to be filled in case the user has any hiring needs for the ITSM platform.
-*   Skills Assessed: This section is to be filled to check if the user has the necessary skills to use the ITSM platform.
-*   Training Needs: This section is to be filled to indicate if the user has any training needs for the ITSM platform.
-*   Evaluation Method: This section is to be filled to specify the method of evaluation used.
-*   Platform Version: This section is to be filled to provide the version of the ITSM platform being used.
-*   Evaluation Frequency: This section is to be filled to specify how often the user evaluates the ITSM platform.
-*   Benchmarking Needs: This section is to be filled to indicate if the user has any benchmarking needs for the ITSM platform.
-*   Comments: This section is to be filled to provide any additional comments or feedback about the ITSM platform.
-
-The form has both required and optional fields. Required fields are marked with an asterisk (\*). It is essential to fill these fields accurately to ensure that the form submission is valid. Optional fields can be filled or left blank, and they are not required for the form submission.
-
-Please note that the form has a specific structure, and each section should be filled in a specific way to ensure accuracy and completeness.
-</thinking>
-
 # ITSM Platform Skills Assessment - Help Guide
 ## Purpose
 This form is designed to assess the ITSM platform skills and requirements of users.

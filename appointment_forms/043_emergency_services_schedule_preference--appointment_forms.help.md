@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for healthcare professionals to schedule emergency services, such as doctor's visits or hospital admissions. The form likely aims to capture the preferences and constraints of emergency services, including availability and constraints on specific shifts or dates. To avoid duplication of effort, it's essential to ensure that users understand the purpose and usage of this form to accurately input their preferences. It's also crucial to clarify the meaning of each field to avoid confusion and incorrect submission. 
-
-</thinking>
-
 # emergency_services_schedule_preference - Help Guide
 ## Purpose
 The purpose of this form is to allow healthcare professionals to schedule emergency services, such as doctor's visits or hospital admissions, in accordance with their preferences and constraints.

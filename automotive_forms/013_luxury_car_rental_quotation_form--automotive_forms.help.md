@@ -1,10 +1,3 @@
-<thinking>
-This form is used to generate a quotation for luxury car rental. 
-The purpose of this form is to collect user information for the rental process.
-The form collects user's name, contact information, rental details, and other relevant information.
-The form should not be filled more than once per user to avoid duplication.
-</thinking>
-
 # Luxury Car Rental Quotation Form - Help Guide
 ## Purpose
 This form is used to generate a quotation for luxury car rental. 

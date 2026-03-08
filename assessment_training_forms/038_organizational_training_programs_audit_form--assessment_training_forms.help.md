@@ -1,11 +1,3 @@
-<thinking>
-This form is used to audit organizational training programs, which is an essential process for evaluating the effectiveness and quality of these programs. The purpose of this form is to collect data on various aspects of the training programs, including the availability of training programs, departmental involvement, training quality, completions, completion practices, improvement opportunities, review frequency, auditor, completion certification, and certification date. It is crucial to fill out this form accurately and thoroughly to ensure that the data collected is reliable and can be used to make informed decisions about future training programs.
-
-Before starting to fill out this form, please ensure that you are familiar with the training programs being audited and the relevant departments involved. If you are unsure about any of the fields, please ask your supervisor or HR representative for clarification.
-
-Please note that this form is not intended to be used for self-assessment. It should be filled out by the auditor or reviewer who conducted the assessment.
-</thinking>
-
 # Organizational Training Programs Audit Form - Help Guide
 ## Purpose
 This form is used to audit organizational training programs by collecting data on various aspects of these programs. The goal is to provide a comprehensive evaluation of the training programs and identify areas for improvement.

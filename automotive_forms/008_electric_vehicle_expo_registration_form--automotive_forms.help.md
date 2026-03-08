@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for registration of electric vehicles at an event. The purpose of this form is to collect information about the electric vehicles that will be present at the event, including their year, make, model, type, and any other relevant details. This form will help the organizers of the event to keep track of the electric vehicles and their owners. It's essential to fill out this form accurately to ensure that the event runs smoothly and that all necessary information is captured.
-
-The form will not be used for any other purpose other than event registration and will not share any data with third parties. If you're unsure about any field, please refer to the field-by-field explanation below.
-
-</thinking>
-
 # electric_vehicle_expo_registration_form - Help Guide
 ## Purpose
 The electric_vehicle_expo_registration_form is used for registering electric vehicles at an event.

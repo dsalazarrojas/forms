@@ -1,7 +1,3 @@
-<thinking>
-This form is a data verification checklist used to ensure the accuracy and integrity of data entered into a system or database. It is designed to be completed by data entry personnel to verify that their work meets certain standards and protocols. This form should only be completed by authorized personnel and is not intended for public distribution.
-</thinking>
-
 # Data Verification Checklist - Help Guide
 ## Purpose
 The purpose of this form is to help data entry personnel ensure the accuracy and integrity of their work by verifying the data they enter into a system or database.

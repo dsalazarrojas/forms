@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide for the "Compensation Band Adjustment Form," I'll first consider the internal reasoning behind the form's purpose. This form appears to be designed to facilitate a request for a compensation band adjustment for employees, likely within an organizational or corporate setting. The form aims to gather specific details about the employee, their job title, department, current and proposed compensation bands, reason for the adjustment, and other relevant information. This form might be used by HR representatives or employees to request adjustments to compensation bands for various reasons such as promotions, role expansions, or market corrections.
-
-This form seems to be designed to collect accurate and detailed information to support such adjustments, ensuring that the process is streamlined and efficient. The fields included are a mix of demographic data (Employee Name, Employee ID, Job Title, Department) and specific information about the adjustment request (Current Compensation Band, Proposed Compensation Band, Adjustment Reason, Effective Date, Justification).
-
-Before proceeding with completing this form, it's essential to review the relevant policies and procedures within the organization to ensure that this form meets the required standards and guidelines.
-
-</thinking>
-
 # Compensation Band Adjustment Form - Help Guide
 
 ## Purpose

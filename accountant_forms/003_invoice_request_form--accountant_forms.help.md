@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact and payment information from customers for invoice requests. It appears to be a simple form with minimal fields, indicating that it's intended for a basic contact and order information gathering. There are some fields that might be redundant or not clearly labeled, so it's worth double-checking to ensure that the form is not duplicating any existing functionality. For example, the "Contact Method" field is a select-one type, which may be used to determine the customer's preferred contact method. It's also worth considering whether the "Email Address" and "Phone Number" fields are necessary given the "Contact Information" field is already present.
-</thinking>
-
 # Invoice Request Form - Help Guide
 ## Purpose
 The Invoice Request Form is used to collect contact and payment information from customers for invoice requests.

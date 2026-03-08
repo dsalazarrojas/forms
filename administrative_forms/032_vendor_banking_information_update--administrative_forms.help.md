@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for updating vendor banking information. The purpose of this form is to collect data about the vendor's banking details, including their name, account number, account type, routing number, branch, address, and contact information. This form is not meant to be a comprehensive banking information form but rather a supplementary document for updating existing information. 
-
-Before proceeding, ensure that you have the necessary permissions and approvals to access and update this information. 
-
-This form should not be used for new banking information, but rather for updating existing information. 
-
-Please fill out this form accurately and completely to ensure that the vendor's banking details are up-to-date. 
-
-</thinking>
-
 # vendor_banking_information_update - Help Guide
 ## Purpose
 The vendor_banking_information_update form is used for updating vendor banking information.

@@ -1,7 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the "Accounts Receivable Customer Request Form" as per the provided YAML fields.
-</thinking>
-
 # Accounts Receivable Customer Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for accounts receivable requests, such as invoices, payments, credit balances, or disputes. It helps our team understand the customer's needs and provide timely and accurate support.

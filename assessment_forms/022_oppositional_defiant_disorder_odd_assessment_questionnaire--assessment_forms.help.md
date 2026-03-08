@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # oppositional_defiant_disorder_odd_assessment_questionnaire - Help Guide
 ## Purpose
 This form is designed to assess the presence and impact of Oppositional Defiant Disorder (ODD) in individuals. It helps identify potential risk factors, behaviors, and consequences associated with ODD. The form is used to gather information on the individual's history, family dynamics, and environment that may contribute to the development and maintenance of ODD.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to help us understand your personal details, interests, and availability to volunteer at the Bayside Animal Shelter. We will use the information provided to get to know you better, understand how you can best contribute to our organization, and ensure that our volunteers are a good fit for our shelter.
-
-Before you start, please note that you can always contact us at [insert contact info] if you have any questions or concerns.
-
-</thinking>
-
 # Bayside Animal Shelter Volunteer Application - Help Guide
 ## Purpose
 The Bayside Animal Shelter Volunteer Application form is designed to gather information about you, your experience, and your availability to volunteer with us. This will help us assess your suitability for various roles at the shelter and ensure a smooth onboarding process.

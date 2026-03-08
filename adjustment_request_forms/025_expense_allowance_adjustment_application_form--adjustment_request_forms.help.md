@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to apply for an expense allowance adjustment. The purpose of this form is to gather information from employees requesting an adjustment to their expense allowance. This form should only be completed by employees who have an existing expense allowance and are seeking an adjustment to the amount or category of expenses allowed. The form will be reviewed by management to determine the eligibility of the adjustment request. Please note that this form is not intended for employees who are seeking to initiate an expense allowance for the first time.
-</thinking>
-
 # Expense Allowance Adjustment Application Form - Help Guide
 ## Purpose
 This form is used by employees to apply for an adjustment to their existing expense allowance.

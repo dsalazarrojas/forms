@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate employees to request revisions to the employee handbook. It's a crucial document that outlines company policies and procedures. To ensure that you submit a valid request, please review the following guidelines. This form should not be used for non-revision requests or to circumvent existing policies. If you're unsure about the purpose or content of the request, please consult with your supervisor or HR before completing this form.
-</thinking>
-
 # Employee Handbook Revision Request Form - Help Guide
 ## Purpose
 The Employee Handbook Revision Request Form is a form designed for employees to submit requests for revisions to the company's employee handbook. This form helps to document and track revisions, ensuring that changes are implemented effectively and efficiently.

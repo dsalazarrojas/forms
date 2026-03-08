@@ -1,11 +1,3 @@
-<thinking>...Checking the form structure for any inconsistencies and determining the purpose and relevance of this form...
-
-This form appears to be designed for collecting participant information and assessment data for a "Muscle Action Assessment". The form has a mix of fields that require participant demographics, assessment dates, and possibly other relevant information. However, there are a significant number of empty pages (pages 12-25) that seem to be unnecessary. It is likely that these pages were added by mistake or are duplicates of other pages. I will focus on the relevant fields for this help guide.
-
-The purpose of this form is to collect information about a participant's muscle action assessment, including participant details, session type, assessment type, and possibly some additional notes or signatures.
-
-</thinking>
-
 # Muscle Action Assessment Form - Help Guide
 ## Purpose
 The Muscle Action Assessment Form is designed to collect information about a participant's muscle action assessment, including participant demographics, session type, and assessment type.

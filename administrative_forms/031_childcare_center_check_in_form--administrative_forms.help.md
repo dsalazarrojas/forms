@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from parents or guardians dropping off their child at the childcare center. The form asks for details such as check-in date and time, child's name, age, and health status, as well as any special instructions or medications that the child may have. This information will be used by the center's staff to provide care and attention to the child during their stay. Please ensure that all required fields are completed accurately to ensure smooth and safe child care experience.
-</thinking>
-
 # Childcare Center Check In Form - Help Guide
 ## Purpose
 This form is used to gather essential information from parents or guardians about their child's stay at the childcare center. It helps the staff provide the best possible care and attention to the child.

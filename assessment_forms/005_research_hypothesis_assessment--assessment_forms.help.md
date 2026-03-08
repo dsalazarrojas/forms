@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users submit a research hypothesis assessment, which is a crucial step in the research process. The form should only be completed if the user has a well-defined research question, hypothesis, and a clear understanding of the context. Please ensure that you have a valid research question and hypothesis before proceeding.
-</thinking>
-
 # Research Hypothesis Assessment - Help Guide
 ## Purpose
 The Research Hypothesis Assessment form is designed to collect information about a research hypothesis. It is intended for users who have a clear research question and hypothesis in mind and want to document their thoughts and ideas.

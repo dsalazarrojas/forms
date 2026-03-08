@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used for requesting leave for an internship. It is a required form, as indicated by the 'required: true' flag on several of its fields. This form is likely to be completed by employees or interns who need to take a temporary leave from their internship. The fields in this form are designed to collect necessary information, such as dates and reasons for leave, to process the request properly. Please ensure that you only complete this form for your own leave requests, and not for others. Also, please note that some fields are marked as 'required' which means they must be completed in order to submit the form.
-</thinking>
 # internship_leave_form - Help Guide
 ## Purpose
 The purpose of this form is to request internships for leave. This form is used to process leave requests from employees or interns.

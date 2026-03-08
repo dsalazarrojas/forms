@@ -1,17 +1,3 @@
-<thinking>
-The Conference Room Booking Authorization Form is designed to streamline the conference room booking process within the organization. The form ensures that users provide accurate and complete information to request authorization for conference room booking. To prevent duplication of requests, users are asked to fill out the form completely and accurately.
-
-By filling out this form, users will be able to:
-
-* Provide accurate contact information for the requestor and supervisor
-* Specify the requested room and event details
-* Ensure the conference room is booked with the correct layout and equipment
-* Confirm the supervisor's approval status
-* Accept the room booking policies and terms
-
-Please note that filling out this form completely and accurately will improve the chances of your request being approved.
-</thinking>
-
 # Conference Room Booking Authorization Form - Help Guide
 ## Purpose
 This form is used to request approval for a conference room booking. It is essential for users to complete the form accurately and thoroughly to prevent duplication of requests and ensure efficient processing.

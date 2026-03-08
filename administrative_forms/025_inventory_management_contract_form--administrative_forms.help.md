@@ -1,7 +1,3 @@
-<thinking>
-This form is used for managing inventory contracts, which are agreements between the company and a contact person regarding the management and maintenance of inventory. 
-</thinking>
-
 # Inventory Management Contract Form - Help Guide
 ## Purpose
 The "Inventory Management Contract Form" is a document used to capture essential information about the management and maintenance of inventory. It includes details about the contact person, contract terms, contact information, contract date and time, and inventory type. This form aims to streamline the process of managing inventory contracts.

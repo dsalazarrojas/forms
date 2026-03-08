@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and assessments on the communication and culture within an organization. It is meant to be completed by employees to provide insights on their experiences and perceptions of their workplace communication and culture. Please note that the form is not meant to be taken personally and is intended to help the organization improve its communication and culture.
-</thinking>
-
 # Communication And Culture Assessment - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees about their experiences and perceptions of communication and culture within the organization. The feedback collected will help the organization understand areas of improvement and make informed decisions to enhance communication and culture.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Class Attendance Form - Help Guide
 
 ## Purpose

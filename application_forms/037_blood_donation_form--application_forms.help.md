@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for individuals to register as blood donors, providing personal information and medical history to determine eligibility for donation. The form includes fields for contact details, medical history, and preferences. The purpose of this form is to ensure that potential donors meet the necessary criteria for donation and to gather relevant information for medical records. To confirm, the form includes fields for recent illness, travel, and medical conditions, which suggests that the organization prioritizes the safety and well-being of both donors and recipients.</thinking>
-
 # Blood Donation Form - Help Guide
 
 ## Purpose

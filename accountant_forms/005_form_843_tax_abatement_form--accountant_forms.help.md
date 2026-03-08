@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a simple and straightforward form for handling tax abatement, which is a process to reduce or eliminate tax owed on a given tax account. This form is designed to be used by accountants and other financial professionals to manage tax abatement requests. Before proceeding, please ensure that you have a clear understanding of tax abatement policies and procedures in place at your institution. It's also important to review the current tax refund status and abatement form to avoid duplicating efforts.
-</thinking>
-
 # Form 843 Tax Abatement Form - Help Guide
 
 ## Purpose

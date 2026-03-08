@@ -1,6 +1,4 @@
-> <thinking>...The purpose of this form is to document and close cybersecurity incidents, ensuring that they are properly discharged with relevant information and actions taken. This form should be completed by the incident reviewer after a thorough investigation, and it will help the IT team and management review and track the incident. Ensure that you complete the form accurately and thoroughly to ensure a complete and accurate record of the incident. Please ensure that you are not duplicating effort and only complete the form once the incident has been properly investigated and reviewed. Please review the form carefully and only fill in the relevant fields as required. If you are unsure about any field or section, please consult with the incident reviewer or the IT team. Please note that some fields may be optional or have specific instructions, please read the instructions carefully...</thinking>
-
-# Cybersecurity Incident Discharge Form - Help Guide
+> # Cybersecurity Incident Discharge Form - Help Guide
 ## Purpose
 
 The Cybersecurity Incident Discharge Form is used to document and close cybersecurity incidents, ensuring that they are properly discharged with relevant information and actions taken.

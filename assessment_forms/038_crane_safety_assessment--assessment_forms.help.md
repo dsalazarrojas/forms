@@ -1,7 +1,3 @@
-<thinking>
-To begin with, we must ensure that our internal documentation accurately reflects the purpose and functionality of the "Crane Safety Assessment" form. This form should only be used for assessing the safety of cranes within the organization. It is essential to avoid duplication of effort and ensure that each form is correctly completed to prevent potential safety hazards.
-</thinking>
-
 # Crane Safety Assessment - Help Guide
 ## Purpose
 The "Crane Safety Assessment" form is used to assess the safety of cranes within the organization. It helps identify and document potential hazards and the corrective actions taken to mitigate them. This form should only be used for assessing cranes and not for any other purpose.

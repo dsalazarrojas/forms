@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Air Duct Cleaning Appointment Request Form - Help Guide
 ## Purpose
 This form is for customers to request air duct cleaning services for their properties. It collects essential information for scheduling a suitable appointment and providing the best possible service.

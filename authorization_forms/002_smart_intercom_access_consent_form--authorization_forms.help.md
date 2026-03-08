@@ -1,5 +1,3 @@
-<thinking>Smart Intercom Access Consent Form</thinking>
-
 # Smart Intercom Access Consent Form - Help Guide
 
 ## Purpose

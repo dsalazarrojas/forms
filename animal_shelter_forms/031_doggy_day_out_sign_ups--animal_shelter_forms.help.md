@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from dog owners and their furry friends for the "Doggy Day Out" event. It's intended for sign-ups, and it's not affiliated with any specific form platform. The form is an original adaptation created using AI, and it's released under a Creative Commons BY 4.0 license, allowing free use, modification, and even sale of derived forms while giving credit. The form collects contact information, event sign-up date, start and end times, dog details, owner details, and sign-up time. This form will serve as a template for various applications, and users can modify it as needed. To ensure a smooth and efficient process, please follow the instructions below to complete the form correctly.
-
-</thinking>
-
 # Doggy Day Out Sign Ups - Help Guide
 ## Purpose
 This form is designed for dog owners to sign up for the "Doggy Day Out" event. It collects necessary information for event organization and management.

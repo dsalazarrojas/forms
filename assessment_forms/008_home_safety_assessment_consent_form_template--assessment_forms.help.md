@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Safety Assessment Consent Form Template - Help Guide
 ## Purpose
 This form is used to gather consent for the home safety assessment process. The assessment is to evaluate the safety of a resident's home environment. Please ensure you are filling out this form for the correct purpose and not duplicating efforts.

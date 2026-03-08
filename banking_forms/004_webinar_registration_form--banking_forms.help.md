@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to collect registration information from attendees of a webinar. The purpose of this form is to gather essential details about each attendee, including their names, contact information, and role or position within their company. This information will be used to prepare for the webinar and ensure that each attendee is properly registered.
-
-The form is divided into several sections, each containing a field that requires a specific type of information. The goal is to guide the user through each field in a clear and concise manner, reducing the risk of errors and ensuring that the form is completed accurately and efficiently.
-
-</thinking>
-
 # Webinar Registration Form - Help Guide
 ## Purpose
 This form collects registration information from attendees of a webinar.

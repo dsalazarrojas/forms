@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule live sessions with clients, allowing coaches to manage their schedules and client interactions. The form should only be used for scheduling purposes and should not be used for other types of interactions. To avoid duplication, make sure to only use this form for clients who do not have an existing scheduled session.
-</thinking>
-
 # Live Session Scheduling Form - Help Guide
 ## Purpose
 The purpose of this form is to schedule live sessions with clients, providing a structured way for coaches to collect information and confirm session details with their clients.

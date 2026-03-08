@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect referral information for solar-related business or service purposes. It is a template designed to gather basic contact information and date of birth for individuals being referred by someone. The form does not have any specific business logic or validation rules beyond the required/optional designation of the fields. It is not affiliated with or endorsed by any specific form platform, but rather created using AI-generated metadata.
-</thinking>
-
 # solar_referral_form_template - Help Guide
 ## Purpose
 The purpose of this form is to collect basic contact information and date of birth from individuals being referred by someone.

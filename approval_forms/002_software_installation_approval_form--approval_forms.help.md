@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Installation Approval Form - Help Guide
 ## Purpose
 The Software Installation Approval Form is a document used to request and track the approval of software installations in your organization. This form ensures that all software installations are reviewed and approved by designated personnel before they are deployed, which helps maintain software consistency, data security, and regulatory compliance.

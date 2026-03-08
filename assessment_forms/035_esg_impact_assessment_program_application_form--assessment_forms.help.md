@@ -1,7 +1,3 @@
-<thinking>
-To confirm the accuracy and relevance of the form content, I've analyzed the provided YAML fields. The form is a generic text-based form with three pages: User Information, Application Details, and Submission Confirmation. No specific business rules were provided to determine the form's purpose and content. I'll proceed with a general understanding that the form is likely used for users to provide information about themselves and their application for a program related to environmental, social, and governance (ESG) impact assessments.
-</thinking>
-
 # ESG Impact Assessment Program Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from users about their application for the ESG Impact Assessment Program.

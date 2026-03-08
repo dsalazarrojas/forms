@@ -1,21 +1,3 @@
-<thinking>
-This form is used for treasury reconciliation approval. Treasury reconciliation is a process that ensures the accuracy of financial transactions and accounts between departments or business units within an organization. This form is designed to gather information from users to facilitate this process. Before proceeding, please ensure that this form is not a duplicate submission and that you have all the necessary information required for the reconciliation process.
-
-Note: This form has the following fields:
-1. Username
-2. Account Number
-3. Supporting Documents
-4. Details
-5. Reviewer Name
-6. Email Address
-7. Phone Number
-8. Date
-9. Time
-10. Submit
-
-This form is only required to be filled out by authorized personnel. All fields are optional except for "Submit" which is required to submit the form.
-</thinking>
-
 # Treasury Reconciliation Approval Application Form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the treasury reconciliation process by gathering information from users to verify and approve financial transactions.

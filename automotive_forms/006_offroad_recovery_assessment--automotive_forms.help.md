@@ -1,9 +1,3 @@
-<thinking>...checking the form purpose and fields for relevance and non-duplication...
-
-The form purpose is to gather information for off-road recovery assistance. The fields seem to cover various aspects of an off-road incident, including location, vehicle details, hazards present, photos, recovery services, vehicle type, recovery location, and incident date.
-
-</thinking>
-
 # Offroad Recovery Assessment - Help Guide
 
 ## Purpose

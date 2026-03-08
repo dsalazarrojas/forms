@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's accessibility knowledge and compliance with accessibility standards. This form is designed to help organizations assess their employees' or team members' understanding of public accessibility standards and ensure that they are adhering to these standards. By completing this form, individuals can demonstrate their knowledge and provide evidence of their compliance. The form is intended for internal use within an organization and is not a public-facing form.
-
-To determine relevance and duplication of this form, it's essential to consider that it is primarily used for internal purposes, such as training and compliance tracking. There might be similar forms used in other contexts, but the focus here is on assessing and maintaining accessibility standards within the organization.
-
-Before filling out this form, it's crucial to understand that the answers will be used to evaluate an individual's knowledge and compliance with public accessibility standards. This form is not intended for general information collection or public consumption.
-</thinking>
-
 # public_accessibility_checklist_form - Help Guide
 ## Purpose
 This form is designed to assess an individual's knowledge and compliance with public accessibility standards within an organization. It is used for internal purposes, such as training and compliance tracking.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # nursing-assessment-form - Help Guide
 ## Purpose
 The <code>nursing-assessment-form</code> is designed to collect essential information from patients, healthcare providers, or caregivers. This form aims to streamline the assessment process, gathering crucial details such as patient info, vital signs, allergies, medications, medical history, physical conditions, and mental health. The data collected will help healthcare professionals understand the patient's overall well-being and provide targeted care.

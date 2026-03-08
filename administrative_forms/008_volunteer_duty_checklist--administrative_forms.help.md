@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and track the duties assigned to volunteers during their shifts. This form is essential for ensuring that volunteers have a clear understanding of their responsibilities and deadlines. It's crucial to fill out this form accurately to avoid any confusion or miscommunication. This form should not be used for other purposes, such as tracking volunteer hours or managing volunteer schedules. Please note that this form is not designed to be completed multiple times for the same volunteer in the same period. 
-</thinking>
-
 # Volunteer Duty Checklist - Help Guide
 ## Purpose
 The Volunteer Duty Checklist form is used to record and track the duties assigned to volunteers during their shifts. This helps ensure that volunteers have a clear understanding of their responsibilities and deadlines.

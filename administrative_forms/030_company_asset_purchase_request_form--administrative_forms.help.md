@@ -1,15 +1,3 @@
-<thinking>
-
-To help you understand the purpose and requirements of this form, let me break down its purpose and requirements internally:
-
-The "Company Asset Purchase Request Form" is a key tool for employees to request company assets such as equipment, software, or other items for work-related purposes. This form helps ensure that requests for new assets are properly evaluated and approved, taking into account their necessity, cost, and impact on the company.
-
-When filling out this form, employees must provide specific details about the asset they need, such as its category, name, specifications, and estimated cost. They must also specify the urgency level of their request, the department budget source, and the asset's intended use location.
-
-Managers and approvers review these forms to assess the need for the asset, consider budget implications, and determine whether the request is approved or denied. The form's fields help guide this review process, ensuring that all necessary information is considered.
-
-</thinking>
-
 # Company Asset Purchase Request Form - Help Guide
 
 ## Purpose

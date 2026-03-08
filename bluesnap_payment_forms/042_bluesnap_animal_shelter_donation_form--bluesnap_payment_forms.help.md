@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is likely to collect donations for the BlueSnap Animal Shelter, allowing users to support various aspects of the shelter's operations, such as medical care, food and supplies, shelter operations, and adoption programs. This form is intended to gather information about the donor, including their personal details, donation preferences, and payment method. It is designed for both individual and corporate donors.
-
-Before proceeding, ensure you have not previously submitted a donation to this form. If you are unsure about the purpose of this form or have any questions, please contact the BlueSnap Animal Shelter directly.
-</thinking>
-
 # BlueSnap Animal Shelter Donation Form - Help Guide
 ## Purpose
 The BlueSnap Animal Shelter Donation Form is designed to collect donations and support various aspects of the shelter's operations. Your contribution will help make a difference in the lives of animals in need.

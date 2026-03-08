@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agreement - FreelanceIndependent Contract Form - Help Guide
 
 ## Purpose

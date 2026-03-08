@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's risk behavior and financial risk tolerance in a series of questions. This form is designed to help users identify their risk level and investment goals, as well as their experience and history with investments. The form is intended to be completed by individuals seeking to understand their risk profile and make informed investment decisions.
-
-To avoid duplication and ensure accurate completion, it is essential to review and understand each question carefully before answering. Please ensure you have a clear understanding of each question before proceeding. If you have any doubts or concerns, please seek guidance from a qualified professional.
-
-This form is a comprehensive assessment tool, and the questions are designed to cover various aspects of risk behavior and investment decisions. Each question has been carefully crafted to elicit specific information about the user's risk tolerance, investment goals, and financial experience.
-
-Before starting, please note the following:
-
-* Some questions are required fields, while others are optional. Ensure you complete all required questions before proceeding.
-* For questions with multiple options, select all that apply.
-* For numerical questions, please enter a whole number.
-* If you need help or clarification on any question, please contact a qualified professional.
-</thinking>
-
 # Financial Risk Behavior Assessment Form - Help Guide
 ## Purpose
 The Financial Risk Behavior Assessment Form is designed to assess an individual's risk behavior and financial risk tolerance in a series of questions. This form helps users identify their risk level, investment goals, and financial experience to make informed investment decisions.

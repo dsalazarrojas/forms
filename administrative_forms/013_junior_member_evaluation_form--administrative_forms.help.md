@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the performance and progress of junior members within an organization. The Junior Member Evaluation Form is a tool for managers or evaluators to assess the skills, abilities, and contributions of junior members. It's essential to fill out this form accurately and honestly to ensure that junior members receive fair and constructive feedback. Please make sure that you are familiar with the junior member being evaluated and that you have all the necessary information to complete this form. Before starting, please review this guide carefully to understand the purpose and requirements of each field.
-</thinking>
-
 # Junior Member Evaluation Form - Help Guide
 ## Purpose
 The Junior Member Evaluation Form is a tool for managers or evaluators to assess the performance and progress of junior members. It helps to provide constructive feedback and identify areas for improvement.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is for an athlete to complete a liability waiver for sports training, which is a common practice in various sports settings to ensure the athlete's and their emergency contact's information is collected for safety and emergency purposes. This form helps to gather essential details about the athlete's personal and contact information, as well as any emergency contact information.
-
-Before proceeding, please ensure this guide is relevant to your specific use case. If you're unsure, please review the form fields below to confirm it's the correct guide for your form.
-
-</thinking>
-
 # Sports Training Liability Waiver - Help Guide
 ## Purpose
 The Sports Training Liability Waiver form is designed to collect athlete-specific information for safety and emergency purposes.

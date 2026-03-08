@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for users to apply for job openings. The purpose of this form is to gather information from applicants regarding their job preferences, skills, and contact details. It seems that the form is a general template, and not all fields are required.
-
-To ensure that the form is used correctly, please note that it is essential to fill out all the required fields to ensure that your application is complete and accurate. Some fields are not required, but providing more information will help us better understand your qualifications and preferences. Please make sure to select the correct job type, job status, and job category that match your job aspirations.
-
-Before starting to fill out the form, ensure that you have the necessary documents and information ready, such as your resume and any other supporting materials.
-
-</thinking>
-
 # New Job Application Form - Help Guide
 ## Purpose
 The New Job Application Form is designed for users to apply for job openings. It is intended to gather information from applicants regarding their job preferences, skills, and contact details.

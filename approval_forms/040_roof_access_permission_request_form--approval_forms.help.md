@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request permission for roof access for a specific duration. The purpose of this form is to collect necessary information from the requester to evaluate their need for access. Please note that you should only fill out this form if you have a legitimate reason for accessing the roof. To avoid duplication of efforts, please check that you have not already submitted a similar request in the past.
-</thinking>
-
 # Roof Access Permission Request Form - Help Guide
 ## Purpose
 The Roof Access Permission Request Form is used to request permission for roof access for a specific duration.

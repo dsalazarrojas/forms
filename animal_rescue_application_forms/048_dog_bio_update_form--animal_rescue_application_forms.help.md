@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the Dog Bio Update Form. This form is designed to collect information about a dog's biological data, allowing users to update their dog's information in a database or system. The form should only be filled out if the user has a valid reason to do so, such as a new adoption or a significant change in the dog's condition. To prevent duplicate updates, the system should check for existing updates before processing the form submission.</thinking>
-
 # Dog Bio Update Form - Help Guide
 ## Purpose
 The Dog Bio Update Form is used to collect and update a dog's biological information, such as name, breed, age, size, and update frequency. This form is essential for ensuring the accuracy and consistency of a dog's profile in the system.

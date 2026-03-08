@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **vehicle_repair_billing_form - Help Guide**
 
 ## Purpose

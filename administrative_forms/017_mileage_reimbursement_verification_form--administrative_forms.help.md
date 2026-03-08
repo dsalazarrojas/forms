@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is being used correctly, without any errors or misuse. A brief review of the form's fields and purpose will help us determine its relevance and prevent duplication. This form seems to be designed for mileage reimbursement claims, and it's essential to follow the standard procedure to complete it accurately.
-</thinking>
-
 # Mileage Reimbursement Verification Form - Help Guide
 
 ## Purpose

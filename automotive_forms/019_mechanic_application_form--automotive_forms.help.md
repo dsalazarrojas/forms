@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of a hiring process for a mechanic position at a dealership, shop, or other automotive-related entity. The goal is to gather relevant information about potential candidates' experiences, skills, and availability. It's essential to review the form carefully to ensure that you're meeting the requirements and submitting the correct information. To maintain accuracy, please note that some fields are required while others are optional and should only be filled if relevant.
-</thinking>
-
 # Mechanic Application Form - Help Guide
 ## Purpose
 

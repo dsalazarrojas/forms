@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about the condition and maintenance needs of a site's landscape. It helps to identify potential issues and record the status of maintenance actions taken.
-The form can be used to audit a site, which may include evaluating the site's overall condition, noting any issues or problems, and documenting any maintenance actions that have been taken or are planned.
-There is no duplication of effort expected, as this form is intended to be used as a standalone tool for gathering and recording site-specific information.
-</thinking>
-
 # Landscape Maintenance Site Audit Form - Help Guide
 ## Purpose
 This form is used to collect information about the condition and maintenance needs of a site's landscape. It helps to identify potential issues and record the status of maintenance actions taken.

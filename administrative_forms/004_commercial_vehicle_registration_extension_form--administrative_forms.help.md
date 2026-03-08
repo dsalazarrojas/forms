@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by owners or businesses seeking an extension of a commercial vehicle registration. The purpose of this form is to gather necessary information for the registration extension process. To avoid duplication, please ensure that the form is completed by the registered owner or business and that all required fields are filled out correctly.
-</thinking>
-
 # Commercial Vehicle Registration Extension Form - Help Guide
 ## Purpose
 The Commercial Vehicle Registration Extension Form is a crucial document used to request an extension of a commercial vehicle registration. This form collects necessary information from the registered owner or business, allowing for the efficient processing of the extension request.

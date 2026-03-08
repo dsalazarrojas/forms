@@ -1,7 +1,3 @@
-<thinking>
-We are implementing a form to schedule Zoom meetings with our team members. This form is designed to gather essential information for the meeting such as meeting type, time, date, start time, end time, subject, duration, location, meeting participants, and a brief description. To prevent duplication and ensure accurate scheduling, it's crucial to fill out the form correctly and consistently. Please take a few minutes to review the form carefully and ask if you have any questions or concerns.
-</thinking>
-
 # Schedule A Zoom Meeting Form - Help Guide
 ## Purpose
 The "Schedule A Zoom Meeting Form" is designed to gather essential information for scheduling meetings with team members. This form ensures that all necessary details are collected accurately and efficiently, preventing duplication and ensuring smooth communication.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Functional Ability Assessment Questionnaire - Help Guide
 
 ## Purpose

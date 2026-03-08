@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Media Buy Planning Appointment Form - Help Guide
 ## Purpose
 The Media Buy Planning Appointment Form is designed to collect information about a media buy planning appointment, including the company's and contact's details, meeting information, and meeting purpose. This form helps in streamlining the planning process and ensuring that all necessary information is collected in one place.

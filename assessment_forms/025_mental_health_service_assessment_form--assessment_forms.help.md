@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_service_assessment_form - Help Guide
 ## Purpose
 This form is used to collect information about a client's mental health service assessment. It gathers details about the client's mental status, service history, and service coordinator's notes and plans.

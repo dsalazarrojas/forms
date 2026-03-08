@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used within an organizational setting for preparation and planning purposes, and the field types and labels suggest that it is primarily used by shipping personnel or managers to document and track shipments. This form does not appear to be a duplicate or redundant, as the fields are varied and seem to cover distinct aspects of shipping, such as preparers, product information, shipping methods, warehouse status, documentation, contact information, and tracking details. This form's structure and field types suggest it is designed for both data collection and record-keeping purposes.
-</thinking>
-
 # Shipment Preparation Checklist Form - Help Guide
 ## Purpose
 

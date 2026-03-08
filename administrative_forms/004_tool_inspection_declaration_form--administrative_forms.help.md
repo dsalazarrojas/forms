@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a Tool Inspection Declaration Form, designed to collect information about a tool's current status. The primary purpose of this form is to provide an overview of a tool's condition, its category, and relevant inspection dates. This form is intended to be completed by personnel in charge of tools, such as maintenance teams or quality control officers.
-
-This form should only be used for tool inspection declaration, not for creating a comprehensive inspection report or for recording detailed notes. It is meant to be a concise and straightforward form for quickly capturing essential information about tools.
-
-Please note that the form is not meant to replace the need for more in-depth inspections or evaluations that require specialized knowledge and expertise.
-
-</thinking>
-
 # Tool Inspection Declaration Form - Help Guide
 ## Purpose
 The Tool Inspection Declaration Form is used to gather information about a tool's condition, category, and inspection history. This data helps ensure that tools are properly maintained and monitored.

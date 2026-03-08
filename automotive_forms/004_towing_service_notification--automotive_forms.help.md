@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a notification for towing services, used to inform the user of the vehicle's towing status and provide options for the user to confirm or deny authorization, pickup, dropoff, and services. The form should not be duplicated if the user has already submitted a similar towing notification in the past 24 hours, as it may cause confusion and create redundant work.
 
 </thinking>

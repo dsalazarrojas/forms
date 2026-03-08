@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the analysis of budgeted amounts against actual expenditures for a specific project or department. The form will guide the user through a series of questions and fields to gather relevant information about the analysis, including the name of the analyst, department, and analysis date. The user will also be able to input specific details about the project, such as the fiscal year, project name, and analysis period. Additionally, the form will ask the user to input financial data, including the total budgeted amount, total expended amount, and overall variance. The user will also be able to select categories of expenditures analyzed and identify potential risk factors. The form will provide a space for the user to make recommendations and include supporting attachments.
-</thinking>
-
 # Budget vs Expenditure Analysis Form - Help Guide
 ## Purpose
 This form is designed to analyze budgeted amounts against actual expenditures for a specific project or department, providing a comprehensive analysis of financial data and potential risk factors.

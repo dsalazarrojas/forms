@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from individuals who have attended a handgun safety training course. The form is designed to assess the quality and effectiveness of the training program, focusing on the instructor's performance, safety procedures, and overall environment.
-
-This form is intended to be completed by course attendees, providing valuable insights for the course instructors and administrators to improve future training programs. It does not duplicate or affiliate with any existing form platforms.
-
-The form collects various types of feedback, including ratings and comments, which can help identify areas of improvement and ensure that the course meets the necessary standards of safety and quality.
-
-Each question is designed to gather specific information and feedback from attendees, making it easier for instructors and administrators to understand the effectiveness of the course.
-
-This form will help improve the overall quality and effectiveness of the handgun safety training programs.
-
-</thinking>
-
 # Handgun Safety Training Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from individuals who have attended a handgun safety training course. It helps us assess the quality and effectiveness of the training program and identify areas for improvement.

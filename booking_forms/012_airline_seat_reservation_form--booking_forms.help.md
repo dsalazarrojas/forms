@@ -1,7 +1,3 @@
-<thinking>
-The Airline Seat Reservation Form is a crucial document for passengers to provide information about their flight reservations. This form serves as a centralized hub for collecting essential details from passengers before their flight. It's designed to be completed by passengers to ensure accurate seat allocation and provide the best possible experience during their journey. To ensure you complete the form accurately, review it carefully and follow the instructions provided below.
-</thinking>
-
 # Airline Seat Reservation Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning and checks:
-This form is intended to gather information from building administrators or facility managers to facilitate the reconfiguration process for access points, security levels, or zones within a building or facility. The form should be completed by the requestor (e.g., building administrator or manager) and submitted to the relevant authorities. This form will be reviewed and processed internally to ensure that the reconfiguration is properly coordinated and executed.
-
-Before proceeding, ensure that this form is not a duplicate or unnecessary submission. If you have already submitted a reconfiguration request, please do not submit another form. If you are unsure about the purpose or process of this form, please contact your supervisor or facility management team for clarification.
-
-</thinking>
-
 # Building Access Reconfiguration Consent Form - Help Guide
 ## Purpose
 

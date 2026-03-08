@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning block:**
-This form is intended to collect information from users who want to book a life coaching session. The purpose is to ensure that the user provides accurate and relevant information to facilitate a productive and effective coaching session. To avoid duplication, it's essential to note that users should not submit duplicate requests, as this will be treated as spam and may result in account termination. Additionally, please note that the coach's name and services offered are pre-set options to ensure consistency and accuracy in the coaching process.
-</thinking>
-
 # life coaching session booking contact form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from users who wish to book a life coaching session. It's essential to provide accurate and relevant details to ensure a successful and productive coaching experience.

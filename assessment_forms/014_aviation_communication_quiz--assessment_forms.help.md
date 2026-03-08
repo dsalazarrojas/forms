@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Aviation Communication Quiz - Help Guide
 
 ## Purpose

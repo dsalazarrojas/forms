@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplication, this form is intended for employees who need to claim fuel reimbursement for work-related purposes. This form should only be filled out by employees who have been assigned a company vehicle and are using that vehicle for work-related activities. Please ensure that you have all necessary supporting documentation before completing this form.</thinking>
-
 # Fuel Reimbursement Claim Form - Help Guide
 ## Purpose
 The Fuel Reimbursement Claim Form is used to claim reimbursement for fuel expenses incurred while using a company vehicle for work-related purposes.

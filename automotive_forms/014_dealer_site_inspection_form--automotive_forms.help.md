@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive inspection form for dealerships to report their findings on a vehicle's condition. The form captures various details about the vehicle, including its make, model, year, and condition, as well as the inspector's notes and signature. The form also requires the dealer's license and address, indicating that it's designed for official use within the dealership.
-
-This form does not appear to have any duplicate fields or irrelevant sections, and it's likely that it's been designed to capture a wide range of information about the vehicle's condition. The presence of fields like "Inspection Date" and "Inspection Type" suggest that the form is meant to be used for tracking and recording inspection data over time.
-
-Overall, the form appears to be well-structured and easy to use, but the specific fields and their labels suggest that it's primarily for internal use within the dealership. The form's structure and content may require some adjustments to make it more user-friendly and accessible to external users.
-
-</thinking>
-
 # Dealer Site Inspection Form - Help Guide
 ## Purpose
 The Dealer Site Inspection Form is a comprehensive inspection form for dealerships to report their findings on a vehicle's condition. This form captures various details about the vehicle, including its make, model, year, and condition, as well as the inspector's notes and signature.

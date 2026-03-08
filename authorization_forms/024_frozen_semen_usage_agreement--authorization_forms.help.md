@@ -1,8 +1,3 @@
-<thinking>
-The form "Frozen Semon Usage Agreement" is likely used for collecting information related to frozen semen usage, which could be a part of a breeding process or a similar application. This form is probably used for capturing details about the owner and recipient of the frozen semen, as well as other relevant information such as breeding details, collection methods, and form submission status. The form might be used in a scientific, medical, or veterinary context. I'm assuming this form is not for general public use and might be specific to a particular organization or industry. I'll make sure to provide a detailed and clear explanation to help users understand the form's purpose and how to complete it correctly. I'll also provide clear explanations for each field to make it easy for users to fill out the form accurately.
-
-</thinking>
-
 # Frozen Semon Usage Agreement - Help Guide
 ## Purpose
 The Frozen Semon Usage Agreement form is used to collect information for breeding purposes, such as details about the owner, recipient, and frozen semen usage. This form ensures accurate and efficient processing of relevant data.

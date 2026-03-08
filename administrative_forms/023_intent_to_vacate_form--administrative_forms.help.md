@@ -1,7 +1,3 @@
-<thinking>
-This form is used when an employee's employment relationship with the company is ending due to resignation, retirement, or other reasons, and the organization needs to formally document the intent to vacate for record-keeping and potential future references. This process ensures that the company has a clear understanding of the reasons for the employee's departure and can maintain accurate personnel records. It is essential that the employee completes this form accurately and thoroughly to facilitate a smooth transition. Please ensure that this form is not completed by mistake or for any reason other than the actual intent to vacate.
-</thinking>
-
 # Intent To Vacate Form - Help Guide
 
 ## Purpose

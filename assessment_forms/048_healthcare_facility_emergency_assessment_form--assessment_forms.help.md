@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Facility Emergency Assessment Form - Help Guide
 
 ## Purpose

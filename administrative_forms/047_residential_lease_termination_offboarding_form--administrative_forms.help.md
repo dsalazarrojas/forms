@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form's purpose and relevance, I understand that this form is used for residential lease termination, and it's meant for administrative purposes only, used to collect information from tenants before terminating their lease. I will ensure the help guide is concise and clear, explaining each field's purpose and any additional information that might be required to complete it correctly.
-</thinking>
-
 # residential_leaseterminationoffboarding_form - Help Guide
 ## Purpose
 The residential_leaseterminationoffboarding_form is a form used for the administrative process of terminating a lease. This form is required to be completed by a tenant when they wish to terminate their lease agreement.

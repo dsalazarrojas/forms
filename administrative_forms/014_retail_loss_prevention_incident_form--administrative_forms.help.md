@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report and document incidents related to retail loss prevention, such as theft, fraud, or vandalism. It is crucial to accurately and thoroughly complete this form to ensure that incidents are properly investigated and addressed. To avoid duplication, please only submit one incident report per incident. This form is designed to collect relevant information about the incident, including details about the suspect, the incident itself, and any witnesses.
-
-</thinking>
-
 # Retail Loss Prevention Incident Form - Help Guide
 ## Purpose
 The Retail Loss Prevention Incident Form is used to report and document incidents related to retail loss prevention, such as theft, fraud, or vandalism.

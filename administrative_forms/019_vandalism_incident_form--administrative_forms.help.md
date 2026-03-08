@@ -1,7 +1,3 @@
-<thinking>
-This form is for reporting vandalism incidents. The purpose of this form is to collect information about the incident in order to investigate and prevent future occurrences. To prevent duplicate submissions, please note that each incident report will be reviewed and verified before it is accepted as a valid report.
-</thinking>
-
 # Vandalism Incident Form - Help Guide
 ## Purpose
 This form is used to report vandalism incidents to the authorities. Reporting an incident helps the authorities to investigate and prevent future occurrences.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used by employees to report their remote work schedule and status to the management team. It's essential to fill it out accurately and completely, as it helps the management team track remote work hours, monitor progress, and make informed decisions. Please ensure that you fill this form for each day you work remotely. If this form has been filled out for a previous day, please do not fill it out again unless you have new information.</thinking>
-
 # remote_work_monitoring_form - Help Guide
 ## Purpose
 The remote work monitoring form is used to report remote work schedule and status to the management team.

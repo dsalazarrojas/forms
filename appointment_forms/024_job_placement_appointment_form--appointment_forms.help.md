@@ -1,5 +1,3 @@
-<thinking>Job Placement Appointment Form is a tool used to schedule and coordinate job placement appointments. This form helps job seekers and job placement agencies set up meetings for potential job openings. Before starting the form, ensure that the job seeker has not already submitted an appointment request for the same job title and agency, and that the agency has not already assigned a representative for the same job title. To verify this, you can search for existing requests in the system or contact the relevant agency directly.</thinking>
-
 # job_placement_appointment_form - Help Guide
 ## Purpose
 The job placement appointment form is designed to facilitate communication between job seekers and job placement agencies, enabling them to schedule meetings for potential job openings.

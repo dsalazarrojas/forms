@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a new particle submission. The purpose of this form is to gather data about the particle's description, image, type, researcher's details, and submission date and time. This information will be used to process and review the particle submission. To ensure accurate and efficient processing, please make sure to complete the form correctly and avoid duplication of efforts. Before starting, please review the fields and their requirements below.
-</thinking>
-
 # New Particle Submission Form - Help Guide
 ## Purpose
 The New Particle Submission Form is a tool used to gather information about new particles submitted for review. This guide will walk you through each field to ensure a smooth and accurate submission process.

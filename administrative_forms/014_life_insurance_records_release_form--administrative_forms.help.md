@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to release life insurance records, likely for purposes of data anonymization, record transfer, or other administrative tasks. It asks for information about the insurance policy, such as the insurance company, policy number, and policy holder, as well as dates related to the policy. The form also asks for the release date and the authority granting the release, which is a multiple-choice option of "Administrator", "Agent", or "Policy Holder". The last field, "Notes", allows for additional comments or explanations. This form is intended to be completed by someone authorized to release the information, who would also sign it, and submit it to the relevant authorities.
-</thinking>
-
 # Life Insurance Records Release Form - Help Guide
 ## Purpose
 The Life Insurance Records Release Form is a document used to release life insurance records. It is designed for administrative purposes, such as data anonymization, record transfer, or other tasks that require the release of insurance information.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information from users seeking to apply for a visa. The purpose of this form is to collect the applicant's personal details, including their name, email, phone number, and date of birth. This form is designed to be completed by individuals who wish to apply for a visa, and the information collected will be used to process their application. Before completing this form, please ensure that you have all the necessary information and documentation required for the visa application process.
-
-The form consists of five fields, each with its own specific purpose. Please read each field explanation carefully to ensure you complete the form accurately and completely.
-
-</thinking>
-
 # visa_application_authorization_form - Help Guide
 ## Purpose
 This form is used to gather information from users seeking to apply for a visa. The information collected will be used to process their application.

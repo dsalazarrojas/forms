@@ -1,5 +1,3 @@
-<thinking>...The form is designed to create a detailed inventory of personal properties, such as real estate or personal belongings, with the aim of organizing and cataloging items in a systematic and structured way. This form allows users to input information about the properties, including category, location, item number, description, value, acquired date and time, whether they are insured, and property type. The form is intended for personal use or for use within a business setting, such as a real estate agency or insurance company, to maintain accurate and up-to-date records of properties. It is essential to ensure that all fields are completed accurately and thoroughly to provide a comprehensive picture of the property inventory...</thinking>
-
 # Personal Property Inventory Form - Help Guide
 ## Purpose
 The Personal Property Inventory Form is a tool for creating and maintaining a detailed inventory of personal properties. It is intended for personal use or for use within a business setting, such as a real estate agency or insurance company, to provide a comprehensive picture of properties.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Hazard Identification Training Form - Help Guide
 ## Purpose
 This form is designed to help employees identify, assess, and address potential hazards in the workplace environment. It is intended to be used as part of a comprehensive occupational health and safety training program to ensure a safe and healthy work environment.

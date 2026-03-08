@@ -1,8 +1,3 @@
-<thinking>
-This form will be used to collect information about a pet's history, including its type, breed, age, weight, and other relevant details. This form will help us gather essential information to provide the best possible care for the pet. Before filling out this form, please ensure that you have all the necessary information about the pet. Please note that some fields may not be required, but filling them out will help us provide more comprehensive care for the pet.
-
-</thinking>
-
 # Pet History Form - Help Guide
 ## Purpose
 This form is designed to collect vital information about a pet's history to provide the best possible care for the pet.

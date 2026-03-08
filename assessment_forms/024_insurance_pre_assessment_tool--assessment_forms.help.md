@@ -1,7 +1,3 @@
-<thinking>
-This form, called the "insurance_pre_assessment_tool", is designed to collect information related to insurance claims. It is a tool used to gather relevant details about a claim before it is processed. The form is divided into several sections, each focusing on a specific aspect of the claim. This form should only be used for new claims, and users should not use it for existing claims or other purposes not related to insurance claims. Please ensure that you have the necessary permissions to access this form and that you are completing it for the correct purpose.
-</thinking>
-
 # insurance_pre_assessment_tool - Help Guide
 ## Purpose
 The insurance_pre_assessment_tool is a form designed to collect information related to insurance claims in a systematic and organized manner.

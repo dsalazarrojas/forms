@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for booking railway tickets. Its purpose is to collect information from users for ticket reservations. The form is used in the context of rail travel, where users can input details about their journey, including departure and arrival stations, travel dates and times, passenger information, and contact details. To ensure consistency, it is assumed that the form will be filled out by the end user who is booking the ticket for themselves.
-
-</thinking>
-
 # rail_ticket_booking_form - Help Guide
 ## Purpose
 This form is used to book railway tickets for passengers. Please fill out the form with the required and optional information to complete the reservation process.

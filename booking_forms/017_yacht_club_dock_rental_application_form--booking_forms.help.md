@@ -1,10 +1,3 @@
-<thinking>
-The form is designed for users to request for yacht club dock rental services.
-The form has two main sections: Request Form and Status.
-The Request Form contains fields for applicant information (name, email, phone number), boat information (boat type), and rental details (rental date, time, duration, and special requirements).
-The Status section displays the status of the application.
-</thinking>
-
 # Yacht Club Dock Rental Application Form - Help Guide
 ## Purpose
 The Yacht Club Dock Rental Application Form is designed for users to submit their request for yacht club dock rental services. Please fill out the form with the required information to ensure a smooth and efficient processing of your application.

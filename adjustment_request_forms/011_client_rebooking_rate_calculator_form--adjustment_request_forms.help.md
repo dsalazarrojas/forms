@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help business owners calculate their rebooking rate, which is a key metric in the service industry. The rebooking rate represents the percentage of clients who return for another booking after their initial service. This metric is crucial for understanding customer loyalty and retention. 
-
-The form is intended to collect data from business owners on their performance over a specific reporting period. This data will allow them to track their progress towards a targeted rebooking rate. 
-
-The form will ask for information on the number of clients served, the number of new and returning clients, repeat bookings, cancellations, and other relevant details. 
-
-By using this form, business owners can identify areas where they may need to improve their services or operations and make data-driven decisions to increase client retention. </thinking>
-
 # Client Rebooking Rate Calculator Form - Help Guide
 ## Purpose
 This form is designed to collect data on client rebooking rates for service businesses, helping them to track performance and identify areas for improvement.

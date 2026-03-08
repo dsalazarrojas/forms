@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to capture and document the workflow process and status of projects within the organization. This form is used to track project progress, team involvement, and review cycles.
-
-We should ensure that this form is filled out completely and accurately to maintain a comprehensive and up-to-date record of project information. 
-
-Before filling out this form, please check that it is not already filled out or duplicated in another project. 
-
-This form should be used for all projects, regardless of size or complexity.
-</thinking>
-
 # Workflow Documentation Form - Help Guide
 ## Purpose
 This form is used to document and track project information, including team member roles, project manager contact info, team lead roles, and review cycles.

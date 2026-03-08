@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to schedule a sales consultation appointment with a client. The purpose of this form is to collect essential information about the client, the appointment details, and any relevant language preferences. This form is typically used by sales teams to coordinate with clients and ensure that both parties are on the same page before the actual consultation. Please ensure that you are using this form in the correct context and not for other types of appointments or meetings.
-</thinking>
-
 # Sales Consultation Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule a sales consultation with a client. It helps in collecting necessary details about the client and the appointment, ensuring a smooth and effective consultation process.

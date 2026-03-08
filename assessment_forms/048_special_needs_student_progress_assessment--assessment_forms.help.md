@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Special Needs Student Progress Assessment form, we need to consider the following fields and their corresponding properties. We have 25 fields in total, including student identification, progress tracking, and follow-up information. The form is likely used to track the progress of students who require special needs support, providing an assessment of their progress and any necessary follow-up activities.
-
-The main purpose of this form is to collect data and track the progress of students with special needs. This includes assessing their progress, noting any next steps, and planning follow-up activities. The form likely serves as a tool for educators and support staff to monitor the progress of students and tailor their support accordingly.
-
-The form appears to be structured to collect both qualitative and quantitative data, including text-based and select-one fields. The required fields are likely critical for the form to be considered complete and valid.
-
-</thinking>
-
 # Special Needs Student Progress Assessment - Help Guide
 ## Purpose
 The Special Needs Student Progress Assessment form is designed to track the progress of students who require special needs support. This form helps educators and support staff assess the student's progress, identify next steps, and plan follow-up activities.

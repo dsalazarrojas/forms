@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist users in understanding the purpose and completion of the "identity_verification_authorization_form" form, reducing the risk of errors and improving user experience.
-</thinking>
-
 # identity_verification_authorization_form - Help Guide
 ## Purpose
 The Identity Verification Authorization Form is a document used to collect information for verifying identities and authorizing access. This form is essential for ensuring the accuracy and legitimacy of an individual's identity and granting permission to access sensitive information or facilities.

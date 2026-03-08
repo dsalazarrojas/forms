@@ -1,7 +1,3 @@
-<thinking>
-The Inventory Lot Assessment Form is a crucial document used to assess the inventory of items in a lot. It is a mandatory form that requires specific information to accurately determine the status and value of a lot. Before proceeding, please ensure that this form is relevant to your current lot and that you have completed the necessary assessments for this lot in the past (if any). Completing this form incorrectly or incompletely can lead to inaccurate assessments and incorrect inventory records.
-</thinking>
-
 # Inventory Lot Assessment Form - Help Guide
 ## Purpose
 The Inventory Lot Assessment Form is used to gather information about a specific lot, including its number, size, value, status, and assigned tool. This information is essential for maintaining accurate inventory records and ensuring that the lot is properly managed and accounted for.

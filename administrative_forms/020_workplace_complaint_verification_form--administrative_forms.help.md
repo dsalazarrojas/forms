@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form to help guide employees through the process of reporting a complaint in the workplace. It is essential to ensure that each employee understands the purpose of this form and the information it requires to be filled accurately. 
 
 This form should only be filled when reporting a complaint, not for other purposes. Ensure to fill it out thoroughly and truthfully to avoid duplication and to expedite the resolution of the complaint.

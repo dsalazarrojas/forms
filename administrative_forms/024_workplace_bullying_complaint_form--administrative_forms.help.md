@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # WorkplaceBullyingComplaintForm - Help Guide
 
 ## Purpose

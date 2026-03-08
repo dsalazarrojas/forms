@@ -1,7 +1,3 @@
-<thinking>
-This form is for the adoption of a rescue dog. It is meant to gather information from potential adopters about themselves and their household to determine if they are a suitable match for the dog. The form is not intended to be a comprehensive adoption application, but rather a starting point for further discussions with the rescue organization. The fields are designed to be straightforward and easy to understand. The form does not collect sensitive or financial information, and all fields are optional unless specifically marked as required.
-</thinking>
-
 # rescue_dog_adoption_application - Help Guide
 ## Purpose
 The rescue_dog_adoption_application form is designed to gather information from potential adopters about themselves and their household to determine if they are a suitable match for a rescue dog.

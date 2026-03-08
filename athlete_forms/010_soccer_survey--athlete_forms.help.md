@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for athletes and sports teams to provide information about soccer players. The form is intended for players to provide their personal details, including their position on the team, team membership, playing time, age, height, weight, player number, shirt number, and notes about their position and team membership. This form will help the team administrators to better understand each player's strengths and weaknesses, making it easier to manage the team and improve player performance.
-Please ensure that you are completing this form for the correct purpose and have not filled it out previously to avoid duplication of information.
-</thinking>
-
 # Soccer Survey - Help Guide
 ## Purpose
 This form is designed to collect information about soccer players and teams.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll aim to create a clear and concise help guide for the "Vendor Banking Update Consent Form". The form is designed to collect information from vendors for banking updates, and it's crucial to ensure that the end users understand its purpose and how to complete it accurately. Upon reviewing the input schema, I'll base my explanation on the field labels, types, and options provided. I'll also consider best-effort explanations for unclear or weak field labels, while avoiding inventing unsupported business logic.</thinking>
-
 # Vendor Banking Update Consent Form - Help Guide
 ## Purpose
 The Vendor Banking Update Consent Form is designed to collect essential information from vendors for banking updates. This form will help us understand and update your banking details accurately, ensuring efficient and secure financial transactions.

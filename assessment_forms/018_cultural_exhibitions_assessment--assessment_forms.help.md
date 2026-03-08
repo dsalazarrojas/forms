@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: the "cultural_exhibitions_assessment" form is used by curators to gather feedback on exhibitions in a museum or gallery. The form is used for assessment purposes and the information collected will be used internally for evaluation and improvement. The form fields are: 1) the exhibition name, 2) the exhibition date, 3) a rating of the exhibition, 4) any comments, 5) email address, and 6) phone number. The curator is not required to complete all the fields, but it is recommended for providing a complete review...</thinking>
-
 # cultural_exhibitions_assessment - Help Guide
 ## Purpose
 The **cultural_exhibitions_assessment** form is used by curators to gather feedback on exhibitions in a museum or gallery.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information for a treasury fee waiver request, which is typically submitted by users (employees or customers) to waive fees associated with certain services or transactions. The form is used to gather details about the user making the request, their department, the reason for the waiver, the amount of the fee, the date of the request, and any additional comments or information. It is used by the financial team to review and process the requests efficiently. To avoid duplication and ensure accurate processing, this form should only be completed by the intended user, not by a representative or proxy.
-</thinking>
-
 # Treasury Fee Waiver Request Form - Help Guide
 ## Purpose
 The Treasury Fee Waiver Request Form is used to gather information for treasury fee waivers. Users can submit their requests to waive fees associated with services or transactions.

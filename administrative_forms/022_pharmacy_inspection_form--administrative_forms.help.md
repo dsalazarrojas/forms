@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a pharmacy's inspection. The form aims to gather data on general information, safety standards, compliance, facility information, equipment maintenance, personnel information, safety equipment, corrective actions taken, overall safety rating, and recommendations. 
-
-</thinking>
-
 # Pharmacy Inspection Form - Help Guide
 ## Purpose
 The Pharmacy Inspection Form is used to inspect and evaluate a pharmacy's compliance with safety and regulatory standards. It helps the inspector to assess the pharmacy's overall safety and cleanliness, identify areas for improvement, and provide recommendations.

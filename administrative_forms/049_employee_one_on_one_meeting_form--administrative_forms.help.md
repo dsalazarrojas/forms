@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information related to one-on-one meetings between employees. The form will be used to record the meeting date, start and end times, location, notes, employee feedback, and other relevant details. This form will help to keep track of meetings and facilitate communication between employees and their managers. To ensure consistency, this form should be used for all one-on-one meetings, and not for other types of meetings or events.
-
-To avoid duplication, please do not fill out this form for meetings that have already been recorded in the system.
-
-</thinking>
-
 # Employee One On One Meeting Form - Help Guide
 ## Purpose
 The purpose of this form is to record and document one-on-one meeting information between employees.

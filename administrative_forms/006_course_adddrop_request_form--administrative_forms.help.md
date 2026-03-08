@@ -1,9 +1,3 @@
-<thinking>
-
-A Course AddDrop Request Form is used to manage courses for students. When a student needs to add or drop a course from their program, they will be required to fill out this form. This form will guide you through the process of making such changes. Please note that before filling out this form, you should first ensure that you have the necessary permissions and approvals to make these changes. Also, double-check that you are not submitting duplicate requests for the same course.
-
-</thinking>
-
 # Course AddDrop Request Form - Help Guide
 ## Purpose
 The Course AddDrop Request Form is used to submit a request to add or drop a course from your program.

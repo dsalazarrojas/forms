@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to facilitate the approval process for subscription renewals. It requests information from the user, including subscription details, business justification, and approval from a manager. The form is used to track the status of subscription renewal requests, ensuring that each request is properly reviewed and approved. 
-
-This form is a one-page form with several sections and fields, each designed to collect specific information. Before filling out the form, make sure to review the purpose and the required fields to ensure accuracy. Note that some fields are marked as "optional," and you should only fill them out if you have relevant information.
-
-</thinking>
-
 # Subscription Renewal Approval Request Form - Help Guide
 ## Purpose
 This form is used to request approval for subscription renewals. It helps track the status of these requests, ensuring they are properly reviewed and approved.

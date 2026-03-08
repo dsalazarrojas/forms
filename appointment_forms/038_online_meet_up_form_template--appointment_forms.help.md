@@ -1,37 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly review the form's purpose, functionality, and potential issues that might arise when filling it out. This form is an "Online Meet Up Form Template" designed to gather information about meetings. It includes fields for meeting details, date, time, location, attendees, and more. 
-
-The form's primary use case is for planning or coordinating meetings. However, it may also serve other purposes, such as scheduling events, managing appointments, or documenting events. 
-
-There is a chance that some of the fields might seem redundant or have overlapping functionality. For example, "Meeting Location Map" and "Meeting Location Address", "Meeting Location City", "Meeting Location State", and "Meeting Location Country" could be combined into a single "Meeting Location" field with a separate field for the map URL. 
-
-The meeting_status field might be redundant with meeting_recurrence. The meeting_priority field might be redundant with meeting_recurring and meeting_frequency. However, these decisions depend on the specific use case or business logic that drives the form's functionality. 
-
-The meeting_tags and meeting_notes fields could be combined into a single "Meeting Notes" field. 
-
-The meeting_attachment field could be replaced with a file upload field to make it more practical for users. 
-
-The meeting_location_address field could be replaced with a separate field for latitude and longitude. 
-
-The meeting_agenda field could be replaced with a separate field for meeting description, which would be more user-friendly and practical. 
-
-The meeting_attendees field could be replaced with a separate field for meeting attendees' email addresses. 
-
-The meeting_type field could be replaced with a separate field for meeting category. 
-
-The meeting_recurrence field could be removed or replaced with a separate field for meeting start and end dates. 
-
-The meeting_recurring field could be replaced with a separate field for meeting start and end dates. 
-
-The meeting_priority field could be replaced with a separate field for meeting urgency. 
-
-The meeting_frequency field could be removed or replaced with a separate field for meeting frequency interval. 
-
-The meeting_status field could be removed or replaced with a separate field for meeting status date. 
-
-The meeting_tags field could be removed or replaced with a separate field for meeting labels. 
-
-This help guide is created based on the provided YAML and will focus on the fields as they are currently defined.</thinking>
-
 # Online Meet Up Form Template - Help Guide
 
 ## Purpose

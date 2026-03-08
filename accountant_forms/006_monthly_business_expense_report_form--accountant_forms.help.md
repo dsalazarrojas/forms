@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be used by accountants to gather information about business expenses. The purpose of this form is to collect data for reporting and analysis. Before filling out this form, please ensure that you have all the necessary information and documents ready. This form is not intended for personal use, but rather for business expenses only. Please do not fill out this form if you are a personal user. If you are unsure about any field or its relevance, please refer to the specific guidelines provided below.</thinking>
-
 # Monthly Business Expense Report Form - Help Guide
 ## Purpose
 The Monthly Business Expense Report Form is designed to collect data for reporting and analysis of business expenses.

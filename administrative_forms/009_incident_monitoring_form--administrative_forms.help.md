@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect and track incidents for incident monitoring purposes. The form helps in monitoring and managing incidents by gathering relevant details such as incident date, time, type, description, location, status, assignee, priority, due date and time, and the person who reported it. It's essential to fill out the form completely and accurately for effective incident monitoring. Please fill in the form only once for each incident.</thinking>
-
 # incident_monitoring_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to create a Power of Attorney declaration, which is a legal document that grants authority to another person or entity to act on behalf of the grantor. The form is designed to be completed by the grantor, who is the individual or entity granting the power, and the agent, who is the individual or entity receiving the power. The form requires the grantor to provide personal and contact information, including a signature, and the agent to provide personal and contact information, including a signature. A notary public is also required to sign and stamp the document, confirming that it has been executed properly. The form includes fields for selecting the type of Power of Attorney and the type of authority granted.
 
 </thinking>

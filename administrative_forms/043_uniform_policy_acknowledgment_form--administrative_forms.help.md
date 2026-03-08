@@ -1,7 +1,3 @@
-<thinking>
-The Uniform Policy Acknowledgment Form is used to ensure that employees understand and agree to the onboarding process and all policies outlined in the form. This form helps to prevent duplication of effort and ensures that new employees are properly informed about the company's onboarding process and policies before starting work. It's essential to complete this form carefully and accurately to avoid any potential issues or misunderstandings.
-</thinking>
-
 # Uniform Policy Acknowledgment Form - Help Guide
 ## Purpose
 The Uniform Policy Acknowledgment Form is a mandatory document that must be completed by all new employees to acknowledge and agree to the company's onboarding process and policies. This form helps to ensure that new employees are properly informed and aware of their responsibilities and obligations within the company.

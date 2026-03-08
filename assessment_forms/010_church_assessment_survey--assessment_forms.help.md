@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from church members, attenders, or visitors to assess their experience with a specific church. The form is divided into several sections to help guide the respondent in providing clear and concise feedback. Each section is meant to capture specific aspects of the church's performance, including worship services, leadership, communication, facilities, and overall satisfaction.
-
-To avoid any confusion, it's essential to note that this form does not collect any sensitive or personal identifiable information and is intended for general assessment and improvement purposes only.
-
-Before proceeding, ensure that you have reviewed the provided fields and understand their purpose. If you're unsure about any field, please ask for clarification.
-
-</thinking>
-
 # Church Assessment Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from church members, attenders, or visitors to help the church improve its services, leadership, and overall experience.

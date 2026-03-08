@@ -1,8 +1,3 @@
-<thinking>
-We will be creating a help guide for a form used for property lease termination and offboarding. This form is likely used by property managers or administrators to document the process of ending a lease agreement, which involves collecting information from the landlord and the tenant. The form may be used to track and record the details of the termination, including the termination date, reason for termination, notice period, and other relevant information. The purpose of this form is to provide a structured way of collecting and storing this information, making it easier to manage and reference later. This form should only be used for property lease terminations, and not for other types of offboarding or termination processes.
-
-</thinking>
-
 # property_lease_termination_offboarding_form - Help Guide
 
 ## Purpose

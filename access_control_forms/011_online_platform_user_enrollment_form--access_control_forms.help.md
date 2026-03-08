@@ -64,10 +64,6 @@ This form is used to collect information from users to enroll them on the online
 ### Step  17: Assign Tool
 - Enter any additional information for the tool assigned to your account in the `assigned_tool` field.
 
-<thinking>
-The form is designed to collect information from users to create or update their account details on the online platform. This information includes personal details, account status, account type, and other relevant information. This form ensures that users can accurately provide the required information to create or update their account correctly.
-</thinking>
-
 ## Field-by-Field Explanation
 
 * **user_details** (`user_details`, text, required: false): Enter your name and other relevant information to create or update your account details.

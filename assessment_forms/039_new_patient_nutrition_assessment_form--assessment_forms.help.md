@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information for new patients, specifically focusing on their demographic details, medical history, and emergency contact information. This form is intended for internal use and not for external sharing. Please ensure you are only using this form for new patient intakes and not for follow-up assessments. Duplicate submissions will not be accepted.
-</thinking>
-
 # new_patient_nutrition_assessment_form - Help Guide
 ## Purpose
 The new patient nutrition assessment form is designed to collect relevant information about new patients, including their demographic details, medical history, and emergency contact information. This form helps healthcare professionals gather necessary data for personalized care and treatment planning.

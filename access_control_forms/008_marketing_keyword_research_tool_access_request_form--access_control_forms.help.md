@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Keyword Research Tool Access Request Form - Help Guide
 ## Purpose
 The Marketing Keyword Research Tool Access Request Form is used to submit a request to access the Marketing Keyword Research Tool for a specific team and purpose. This form helps ensure that access is properly reviewed and approved by relevant team leads and managers. The form is used to avoid duplication of effort and to ensure that only authorized team members have access to the tool.

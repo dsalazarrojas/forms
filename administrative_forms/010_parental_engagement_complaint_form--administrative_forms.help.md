@@ -1,14 +1,3 @@
-<thinking>
-The "Parental Engagement Complaint Form" is designed to collect information from parents or guardians who have concerns or complaints about their child's educational experience. This form is intended to be used by institutions or organizations that provide educational services to collect feedback and address the concerns of their students' parents. The form can be completed by anyone who has had a negative or unsatisfactory experience with an educational institution and wishes to share their concerns.
-
-The form consists of four fields that allow parents or guardians to provide detailed information about their experiences and concerns. The fields are designed to be easy to fill out and require minimal technical expertise.
-
-Before proceeding, please review the form carefully to ensure you are providing accurate and relevant information. If you are unsure about any field, feel free to contact the form owner or the educational institution for guidance.
-
-Please note that this form is not a formal complaint procedure but rather a way to provide feedback to the educational institution. Your input will help them to improve their services and make them more suitable for their students.
-
-</thinking>
-
 # Parental Engagement Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from parents or guardians who have concerns or complaints about their child's educational experience.

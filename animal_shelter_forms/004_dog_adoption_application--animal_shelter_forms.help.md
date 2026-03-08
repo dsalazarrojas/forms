@@ -1,12 +1,3 @@
-<thinking>
-To create an engaging and effective user-facing help guide for the "Dog Adoption Application" form, we need to consider the purpose and relevance of the form, as well as ensure that the content is concise, concrete, and practical.
-
-The purpose of this form is likely to gather information from users who are interested in adopting a dog from a shelter or rescue organization. This form should be filled out by users to provide necessary details about themselves, including their household information, contact information, veterinary experience, and other relevant details. The form should also allow users to express their willingness to adopt a dog and provide any additional comments or notes.
-
-To complete this form, users need to fill out each of the sections provided, ensuring that all required fields are completed. The form seems to be primarily text-based, with some select options for certain fields. Users should take their time to carefully read and understand each field's purpose before entering their information. The form's sections and fields are designed to gather relevant information about the user and their potential adoption of a dog.
-
-Now, let's move on to the field-by-field explanation of the form.</thinking>
-
 # Dog Adoption Application - Help Guide
 ## Purpose
 The "Dog Adoption Application" form is designed to gather essential information from users interested in adopting a dog from a shelter or rescue organization. This form helps us understand your household, contact, and veterinary information, as well as your experience with pets, so we can better match you with the right dog.

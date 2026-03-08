@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for athletic field owners, administrators, or maintenance personnel to help them understand the purpose and completion process of the "Athletic Field Inspection Form". The form is designed to assess the condition of athletic fields, including playing surface, drainage, grass/turf condition, and safety violations. The goal is to provide a comprehensive evaluation to inform maintenance decisions and ensure player safety.
-</thinking>
-
 # Athletic Field Inspection Form - Help Guide
 ## Purpose
 The Athletic Field Inspection Form is a tool to evaluate the condition of athletic fields, ensuring they are safe for play and providing recommendations for maintenance and repairs.

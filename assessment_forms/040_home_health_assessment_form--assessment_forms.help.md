@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from patients about their general well-being, medical history, and social context. This form is likely used in a healthcare setting to understand the patient's overall health status, medical conditions, and medication usage. It may be used for initial assessments, follow-ups, or monitoring purposes. Please ensure that the form is completed accurately and thoroughly to provide the most informative data for healthcare professionals.
 
 # Home Health Assessment Form - Help Guide

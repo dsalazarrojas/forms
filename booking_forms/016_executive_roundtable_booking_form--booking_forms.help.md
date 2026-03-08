@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to book a meeting or roundtable discussion with executives. It's a straightforward form meant to gather essential details from the user to facilitate a productive meeting or discussion.
-
-To determine if this form is relevant, please check the "Booking Forms" category in your system. If you've already used this form or a similar one for this purpose, it might not be necessary to recreate another instance.
-
-The form contains multiple text input fields that require users to provide specific information. This guide will walk you through each field's purpose to ensure you complete the form accurately.
-</thinking>
-
 # Executive Roundtable Booking Form - Help Guide
 
 ## Purpose

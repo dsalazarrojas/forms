@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose and context of the "Experience Waiver Form". The form is likely used to gather information from participants in experiences or activities, such as sports or adventure-related events, to collect their personal details, medical history, emergency contact information, and signatures.
-
-This guide should help users understand the purpose and usage of the form, ensuring they complete it accurately and effectively.
-
-</thinking>
-
 # Experience Waiver Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about mental health accommodation requests for a person or organization. It's essential to ensure that the form is filled out correctly and consistently, as it helps us understand the user's needs and provide the necessary support. Before proceeding, please review the form carefully to avoid duplication or incomplete submission.
-</thinking>
-
 # mental_health_accommodation_request_form - Help Guide
 ## Purpose
 The mental health accommodation request form is designed to gather information about a person or organization's mental health accommodation needs. This form should be filled out by the individual or representative of the individual requesting accommodation.

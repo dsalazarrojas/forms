@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Workplace Child Visitor Consent Form - Help Guide
 
 ## Purpose

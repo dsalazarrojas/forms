@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to gather essential information about an individual's retirement benefits, including whether they have already enrolled in such benefits, the type of benefits they have, and their plan type. This form is likely used in a work-related context to ensure accurate and up-to-date employee information.
-This form is not intended for use in situations where benefits enrollment is not applicable or has not been previously determined. Please ensure you are filling out this form in the correct context.
-</thinking>
-
 # Retirement Benefits Overview - Help Guide
 ## Purpose
 The "Retirement Benefits Overview" form is designed to collect information about an employee's retirement benefits. This includes whether they have enrolled in benefits, the type of benefits they have, and their plan details.

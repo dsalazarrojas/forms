@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect and organize fashion design ideas, including references, timelines, and other relevant information. The purpose of this form is to gather all the necessary details for a fashion design idea, making it easier to review and act upon it. This form is not meant to be a one-time use case, but rather a recurring process to collect and manage multiple fashion design ideas.
-
-Before starting to fill out this form, it's essential to ensure that you have all the necessary information ready. This form is not designed for incomplete or duplicate submissions, so please make sure to review the form carefully before submitting your fashion design idea.
-</thinking>
-
 # Fashion Design Idea Request Form - Help Guide
 ## Purpose
 This form is used to collect and organize fashion design ideas for further review and action.

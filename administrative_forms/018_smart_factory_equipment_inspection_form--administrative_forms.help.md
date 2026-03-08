@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about the condition and maintenance needs of Smart Factory equipment. It is designed to be completed by authorized personnel after inspecting the equipment. To ensure accurate and complete data, please review this form carefully before submitting it. Note that this form may be duplicated if it is completed for the same equipment in multiple instances. Please ensure that each submission is unique and accurate for the specific equipment being inspected.
-</thinking>
-
 # Smart Factory Equipment Inspection Form - Help Guide
 ## Purpose
 The Smart Factory Equipment Inspection Form is used to collect information about the condition and maintenance needs of Smart Factory equipment.

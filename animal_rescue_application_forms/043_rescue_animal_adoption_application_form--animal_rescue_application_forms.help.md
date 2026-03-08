@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help animal rescue organizations collect information from potential adopters about their adoption application. The form will be used to verify the adopter's identity and preferences, as well as provide information about the animal being adopted. This form should only be used by those who are serious about adopting an animal, as it will be reviewed and considered by the rescue organization before an adoption can be completed. Please ensure that the information provided is accurate and complete to help facilitate a smooth adoption process.
-</thinking>
-
 # Rescue Animal Adoption Application Form - Help Guide
 ## Purpose
 This form is intended to gather information from potential adopters to determine their eligibility and preferences for adopting an animal from the rescue organization.

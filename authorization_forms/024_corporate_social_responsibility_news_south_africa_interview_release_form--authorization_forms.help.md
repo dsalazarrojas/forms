@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate_social_responsibility_news_south_africa_interview_release_form - Help Guide
 
 ## Purpose

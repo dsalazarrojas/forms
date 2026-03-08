@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Activity Check Out Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from parents or guardians regarding their child's medical treatment. The purpose of this form is to gather necessary details about the child's condition, treatment, and consent from the parent or guardian. It is crucial that the parent or guardian fills out this form accurately and truthfully to ensure the child receives the best possible care. Please fill out this form carefully and completely.
-</thinking>
-
 # Parent Authorization Form - Help Guide
 
 ## Purpose

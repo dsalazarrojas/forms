@@ -1,8 +1,3 @@
-<thinking>
-This form is used for stock transfer purposes, allowing users to input details about a stock transfer, including the transfer type, stock quantity, stock symbol, stock price, investor information, and other relevant details. This form is designed to be completed by users who are involved in stock transfers, such as investors, brokers, or financial professionals.
-
-To avoid duplication, please ensure that you have not completed this form in the past 30 days. If you have any doubt, please review the stock transfer form agreement and terms before proceeding.</thinking>
-
 # Stock Transfer Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a stock transfer from the user, including transfer type, stock details, and other relevant information.

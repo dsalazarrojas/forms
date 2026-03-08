@@ -1,9 +1,3 @@
-<thinking>
-This is a design approval form used for designers to submit and get feedback on their designs. 
-The form is used to track the status of the design process and gather feedback from clients. Designers can submit their designs, upload design files, and add notes. Clients can provide feedback on the design, which can be in the form of a simple yes or no response or a more in-depth response. The design status can be set to active or inactive, indicating whether the design is ready for further work or not. 
-To avoid duplication, please note that this form is intended for submitting and tracking single designs. 
-</thinking>
-
 # Design Approval Form - Help Guide
 ## Purpose
 The Design Approval Form is a tool used to track the status of designs and gather feedback from clients.

@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will explain the purpose and usage of the Holiday Brunch Table Booking Form, which is used to book a table for a holiday brunch event. This form is used to gather information from guests, including their names, contact details, and preferences. The form is divided into several sections, each with its own set of fields. The purpose of this guide is to help users complete the form correctly and efficiently.
-
-</thinking>
-
 # Holiday Brunch Table Booking Form - Help Guide
 ## Purpose
 The Holiday Brunch Table Booking Form is used to book a table for a holiday brunch event. Guests can use this form to submit their booking requests, including their name, email, phone number, preferred date and time, party size, and any special requests.

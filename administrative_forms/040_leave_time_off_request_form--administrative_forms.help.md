@@ -1,9 +1,3 @@
-<thinking>This form is used for requesting time off from work, allowing employees to submit their leave requests and track the status of their requests. The form is designed to collect relevant information and track the workflow of the request process, from submission to approval or denial. 
-
-To ensure consistency and prevent duplicate requests, it's recommended that each employee only submits one request per time off period, which is defined as the date they are requesting time off from to date they are requesting to return. 
-
-Before filling out this form, please ensure that you have the necessary permissions and approvals in place.</thinking>
-
 # leave_time_off_request_form - Help Guide
 ## Purpose
 The leave time off request form is used to submit a request for time off from work. It's a necessary step to track and manage leave requests, ensuring that all employees are aware of each other's schedules and can plan accordingly.

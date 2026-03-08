@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that explains the purpose of the Architectural Plan Release Form, how to complete it, and what each field means. This form is used for administrative purposes to collect information about architectural plans, and it's essential to ensure that users understand what's required and what's expected of them when filling out the form.</thinking>
-
 # Architectural Plan Release Form - Help Guide
 ## Purpose
 The Architectural Plan Release Form is a crucial document that facilitates the release of architectural plans to authorized parties. This form ensures that the plans are reviewed and approved before being released, and it helps maintain transparency and accountability throughout the process.

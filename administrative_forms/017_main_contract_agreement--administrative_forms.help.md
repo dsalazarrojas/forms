@@ -1,10 +1,3 @@
-<thinking>
-This form is used to document and manage contracts between businesses. It's a comprehensive form that captures essential details about the contract, including its terms and conditions, agreement terms, business parties involved, contract signatory, contract start and end dates, contract duration, contract amount, payment terms, payment frequency, payment due date, payment method, cancellation terms, contract cancellation date, cancellation reason, contract status, contract version, agreement version, contract notes, agreement notes, contract signed by, agreement signed by, contract signed date, and contract signed time.
-Before filling out this form, please ensure that you are familiar with the contract details and have all the necessary information available.
-
-The form is composed of several pages, each with its own set of fields. Please follow the instructions below to complete the form correctly.
-</thinking>
-
 # Main Contract Agreement - Help Guide
 ## Purpose
 This form is used to document and manage contracts between businesses.

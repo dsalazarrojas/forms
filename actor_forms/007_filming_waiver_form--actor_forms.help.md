@@ -1,5 +1,3 @@
-<thinking>As I review this form, I notice that it's used to collect information from individuals in the context of filming activities. This form seems to be intended for actors to provide details about themselves, their medical conditions, and other relevant information. I'll aim to explain each field in a concise and practical manner to help end-users fill out this form accurately. I'll also ensure the explanation is based on the provided YAML fields, avoiding any assumptions or unsupported business logic. Upon reviewing the fields, I notice there isn't a clear indication of which fields are related to each other or how they're used in the context of filming activities. I'll do my best to provide a clear and practical explanation for each field, considering their types and required status.</thinking>
-
 # Filming Waiver Form - Help Guide
 ## Purpose
 The Filming Waiver Form is used to collect information from actors about their participation in filming activities. This includes their personal details, medical conditions, and other relevant information to ensure a safe and successful filming experience.

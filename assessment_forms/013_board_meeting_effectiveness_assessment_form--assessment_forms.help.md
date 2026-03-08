@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of board meetings, helping participants evaluate their performance and identify areas for improvement. The form covers various aspects of a board meeting, including its agenda, materials, time management, and overall effectiveness. It is intended for board members to provide honest and constructive feedback, promoting transparency, accountability, and collaboration. Please ensure you fill out this form only if you attended the meeting.
-</thinking>
-
 # Board Meeting Effectiveness Assessment Form - Help Guide
 ## Purpose
 

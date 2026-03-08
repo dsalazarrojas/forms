@@ -1,8 +1,4 @@
-> <thinking> 
-This guide is intended to assist users in completing the Fire Incident Report Form, which is designed to gather information about fires that have occurred within our organization. This form serves as a standardized means of reporting incidents, ensuring consistency and accuracy in data collection. Please note that this form is meant to be used for reporting incidents that have already taken place, and users should only submit reports for events that have actually occurred. 
-If you are unsure about any aspect of the form or the reporting process, please consult with your supervisor or the incident management team. They can provide further guidance and clarification. 
-</thinking>
-# fire_incident_report_form - Help Guide
+> # fire_incident_report_form - Help Guide
 ## Purpose
 
 The Fire Incident Report Form is used to collect information about fires that have occurred within our organization. This form helps ensure accurate and consistent data collection, allowing for better understanding and response to fires.

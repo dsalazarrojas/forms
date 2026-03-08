@@ -1,13 +1,3 @@
-<thinking>
-This form is likely to be used by property managers or owners to assess the condition and needs of a property's exterior, specifically its power washing requirements. The form will be used to collect information about the property's layout, accessibility, and features such as its roof, gutters, downspouts, deck, doors, siding, windows, and locks. This information will help assessors or maintenance teams determine the best power washing strategies for the property.
-
-The form is likely used in a business-to-business (B2B) or internal business context where property managers, owners, or maintenance teams need to evaluate the condition of a property to decide on the best course of action for power washing. 
-
-Before filling out this form, please confirm that you have the necessary permissions and authorization to assess the property and make decisions based on this form's output.
-
-Please note that some fields may not apply to your specific property, and that's okay! Fill out the fields that are relevant to your assessment, and skip or leave blank the ones that don't apply.
-</thinking>
-
 # Property Power Washing Assessment Form - Help Guide
 ## Purpose
 

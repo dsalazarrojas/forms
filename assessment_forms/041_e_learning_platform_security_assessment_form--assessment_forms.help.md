@@ -1,8 +1,3 @@
-<thinking>
-As the E Learning Platform Security Assessment Form is used to assess the security posture of the platform, it's essential to verify that this form is being filled out accurately. Please ensure you are familiar with the platform and security practices before completing this form. To prevent duplicate submissions, please note that this form should only be filled out once a year or as needed, but not on a regular basis. It's also important to fill out this form thoroughly and accurately, as any incomplete or inaccurate submissions may cause delays or misinform security decisions.
-
-</thinking>
-
 # E Learning Platform Security Assessment Form - Help Guide
 
 ## Purpose

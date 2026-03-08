@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the "Sewing Machine Parts Quiz" form, which is designed to assess a user's knowledge and understanding of various aspects of sewing machines. The form is a multiple-page quiz that consists of ten questions, each with different types of questions such as select_one, number, select_multiple, date, time, and select_one.
-
-The form is likely used in a learning or educational setting to evaluate a user's understanding of sewing machine parts and their characteristics. The questions are presented in a sequence of ten pages, each with its own question type and corresponding options.
-
-Before proceeding, ensure that you are familiar with the purpose of this form and the types of questions it will be asking you to answer. This form is designed to be completed in a specific order, so please answer each question in the sequence presented.
-</thinking>
-
 # Sewing Machine Parts Quiz - Help Guide
 ## Purpose
 The Sewing Machine Parts Quiz is a 10-question form designed to assess your knowledge and understanding of various aspects of sewing machines.

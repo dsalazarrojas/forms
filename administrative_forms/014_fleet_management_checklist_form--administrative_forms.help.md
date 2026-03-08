@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a comprehensive checklist for managing fleet vehicles. It appears to cover various aspects of vehicle maintenance, inspections, licenses, insurance, and other key details. The purpose of this form is to collect information about the vehicles in the fleet, including their condition, usage, and any necessary documentation. This form likely serves as a tool for fleet administrators to efficiently track and maintain vehicle records.
-</thinking>
-
 # Fleet Management Checklist Form - Help Guide
 
 ## Purpose

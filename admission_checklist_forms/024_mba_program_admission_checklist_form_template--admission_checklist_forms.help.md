@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that the "MBA Program Admission Checklist Form Template" effectively gathers the necessary information from applicants, we need to verify that it is not being used to collect redundant or irrelevant data. This form is intended for applicants to provide their contact information, academic background, professional experience, and scores, which will be used to evaluate their eligibility for the MBA program.
-
-The form should not be used to collect sensitive or personal data that is not directly related to the MBA program. 
-
-</thinking>
-
 # MBA Program Admission Checklist Form Template - Help Guide
 ## Purpose
 This form is designed to collect essential information from applicants to evaluate their eligibility for the MBA program.

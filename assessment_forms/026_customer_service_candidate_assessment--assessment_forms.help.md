@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from candidates for a Customer Service role. The form will likely be used for assessment and evaluation purposes, such as determining whether a candidate is a good fit for the role or to identify areas where the candidate may need additional development or training. The form should only be used in the context of a job application or assessment, not for personal or general inquiry. 
-
-</thinking>
-
 # Customer Service Candidate Assessment - Help Guide
 ## Purpose
 This form is designed to gather information from candidates applying for a Customer Service role. It includes questions about the candidate's experience, education, language proficiency, and job satisfaction. 

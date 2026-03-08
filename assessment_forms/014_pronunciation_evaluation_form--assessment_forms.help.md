@@ -1,5 +1,3 @@
-<thinking>...The Pronunciation Evaluation Form is used to assess the pronunciation skills of students in language classes. It is designed to be completed by instructors or evaluators to provide feedback on student pronunciation. To ensure the accuracy of the data collected, please fill out this form for each student only once. If you need to update the form for a student, please do not create a new form. Instead, update the existing one. Please fill out this form completely and carefully to provide thorough and accurate feedback... </thinking>
-
 # Pronunciation Evaluation Form - Help Guide
 ## Purpose
 

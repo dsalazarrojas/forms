@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for customer onboarding, and its purpose is to gather information about new clients. The form should only be used for new clients, and not for existing clients or other types of customers. To confirm, please ensure that the client you are onboarding is indeed a new client. This guide will walk you through each field of the form, but if you have any doubts or questions, please contact your administrator.
-
-</thinking>
-
 # customer_onboarding_checklist_form - Help Guide
 ## Purpose
 The customer onboarding checklist form is used to collect information about new clients. It is essential to ensure that you have all the necessary details to onboard a client successfully.

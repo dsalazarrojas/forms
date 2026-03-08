@@ -1,12 +1,3 @@
-<thinking>
-This is a critical section to determine if we are creating the correct help document, so let us think about what the form is about...
-
-The form is for the "Response And Recovery Award Application". Given the field names, it seems to be some kind of award nomination or recognition for organizations or individuals that have responded to or recovered from a challenging situation. The form is likely used to provide details about the nominee's actions and impact, and to identify the organization or individual receiving the award. The purpose of the form is to gather all relevant information about the nominee and the award recipient, to make the award decision-making process easier and more efficient.
-
-This form will help the end-users understand how to properly fill out the form and what each field means, so let's make sure we are being clear and concise.
-
-</thinking>
-
 # Response And Recovery Award Application - Help Guide
 ## Purpose
 The Response And Recovery Award Application form is used to nominate an organization or individual for an award in recognition of their response to or recovery from a challenging situation. This form is used to gather details about the nominee and the award recipient, to facilitate the award decision-making process.

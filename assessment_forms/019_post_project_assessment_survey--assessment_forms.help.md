@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly and that the user understands the context before proceeding. This form is designed to collect project assessment data after a project has been completed. This data will likely be used for evaluation and improvement purposes, so it's essential that the user fills out the form accurately and thoroughly. We also need to make sure that the user doesn't fill out the form multiple times for the same project, which could lead to duplicate data and skewing of results.
-</thinking>
-
 # Post Project Assessment Survey - Help Guide
 ## Purpose
 The Post Project Assessment Survey is a form designed to collect project assessment data after a project has been completed. This data will help the project team and stakeholders to evaluate the project's performance, identify areas for improvement, and make informed decisions for future projects.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on project management interview schedules. It is used to record and organize information about project timelines, interviewee availability, and contact details. This form should be completed for each project management interview. 
-
-This form may be part of a larger workflow or process, but it is designed to be standalone and self-explanatory. To ensure accurate and consistent data collection, please follow this guide carefully.
-
-</thinking>
-
 # Project Management Interview Schedule - Help Guide
 ## Purpose
 The project management interview schedule form is designed to collect information on project timelines, interviewee availability, and contact details for project management interviews. It is essential to have this data for efficient and effective project planning and coordination.

@@ -1,31 +1,3 @@
-<thinking>
-The apartment lease renewal form is used by tenants to notify their landlords or property managers of their intention to renew their lease, and to provide necessary information for the renewal process. This form is typically completed by the tenant and returned to the landlord or property manager before the current lease expires. The form is used to request a renewal of the lease for a specific length of time, and to provide details on the current lease terms and conditions.
-
-To complete this form, the tenant will need to provide the following information:
-* The date they wish to renew the lease
-* The address of the property
-* The unit or apartment number (if applicable)
-* The name and contact information of the landlord or property manager
-* The tenant's name and contact information
-* The current lease start and end dates
-* The current rent amount
-* The proposed renewal start and end dates
-* The proposed length of the renewal term in months
-* The new rent amount
-* A reason for any rent increase (if applicable)
-* The tenant's acceptance of the new rental terms
-* Any concerns or requests the tenant has
-* The condition of the property upon renewal
-* If any maintenance or repairs are requested
-* The terms of the utilities (if changed)
-* If any other terms are proposed
-* The method of rent payment
-* The date of move-out (if not renewing)
-* The notice period provided
-* The signature dates for both the landlord and tenant
-
-This form is typically completed by the tenant and returned to the landlord or property manager before the current lease expires to ensure a smooth renewal process. The landlord or property manager will review the form and respond with any necessary information or changes before finalizing the renewal of the lease.</thinking>
-
 # Apartment Lease Renewal Form - Help Guide
 ## Purpose
 The apartment lease renewal form is used by tenants to notify their landlords or property managers of their intention to renew their lease, and to provide necessary information for the renewal process.

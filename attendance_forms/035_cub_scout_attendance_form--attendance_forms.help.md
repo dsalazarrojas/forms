@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete a simple form for tracking the attendance of Cub Scouts in their organization. The purpose of this form is to collect information about a Cub Scout's attendance in activities, including their name, the type of activity, date of attendance, any notes or comments, and their parent's name and contact information. This form is designed to be easy to fill out and provide a clear and concise way to track attendance records.
-
-Before filling out this form, please ensure that you have all the necessary information and that you're not duplicating an existing entry. This form should only be used for new attendance records.
-
-</thinking>
-
 # Cub Scout Attendance Form - Help Guide
 ## Purpose
 The Cub Scout Attendance Form is a simple form designed to track the attendance of Cub Scouts in activities. It helps organizers and leaders keep up-to-date records of who was present, who was absent, and any relevant comments or achievements.

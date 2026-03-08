@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used to check in a university library resource, likely a material or equipment, by a user. This form will likely be used by library staff to verify the availability of a resource and ensure it's being used by authorized personnel. To determine relevance and non-duplication, we'll consider the context of a library environment where resources are often checked in and out, and this form will help track these transactions.
-
-</thinking>
-
 # university_library_resource_access_check_in - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the check-in process for university library resources. To complete this form, you will need to provide information about the resource and yourself.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Collaborative Practice Agreement Form - Help Guide
 ## Purpose
 This form is used to document collaborative practice agreements between healthcare providers. It captures essential details about the agreement, including provider names, scope of practice, and termination conditions. This form ensures that all parties involved are aware of their responsibilities and obligations.

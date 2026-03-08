@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for an animal that is being submitted for admission into the animal sanctuary. It is expected that the applicant will fill in their personal details as well as information about the animal they are submitting. The form is a required form for all animal admissions and must be filled out in full before an animal can be accepted into the sanctuary.
-</thinking>
-
 # Animal Sanctuary Admission Application Form - Help Guide
 ## Purpose
 This form is used to collect information for an animal that is being submitted for admission into the animal sanctuary. It's a required step in the admission process.

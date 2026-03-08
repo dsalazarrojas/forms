@@ -1,15 +1,3 @@
-<thinking>**Internal reasoning and duplication check**
-
-The Chromosomes Biology Quiz form is designed to assess students' knowledge on various topics related to chromosomes and genetics. This form is intended to help students evaluate their understanding of the subject matter through a series of multiple-choice questions. The form has two main sections: Part 1, Part 2, and Part 3, each covering different topics in chromosomes biology.
-
-The form has 15 questions, including multiple-choice questions, a bonus question, and two open-ended questions. The questions cover topics such as the definition of a chromosome, the structure and function of DNA, the process of cell division, genetic disorders caused by extra chromosomes, and more. The form also includes questions on the relationship between genotype and phenotype, as well as the difference between confidence levels and study time.
-
-Upon completing the form, students will submit their answers and have the option to request a review of topics they found most challenging or difficult to understand. This feature allows students to identify areas where they need further study or clarification.
-
-The form is designed to be completed by students of various backgrounds and skill levels. The questions are carefully crafted to assess their understanding of the subject matter, and the open-ended questions allow students to provide additional information or insights.
-
-</thinking>
-
 # Chromosomes Biology Quiz - Help Guide
 ## Purpose
 The Chromosomes Biology Quiz is designed to assess students' knowledge on various topics related to chromosomes and genetics. This form will help you evaluate your understanding of the subject matter through a series of multiple-choice and open-ended questions.

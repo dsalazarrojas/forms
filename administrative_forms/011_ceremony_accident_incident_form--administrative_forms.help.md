@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide for the "Ceremony Accident Incident Form" to ensure that end-users understand its purpose and usage.</thinking>
-
 # Ceremony Accident Incident Form - Help Guide
 ## Purpose
 The "Ceremony Accident Incident Form" is designed to collect information about incidents that occur during ceremonies, such as weddings, funerals, and other events. This form helps to ensure that incidents are reported accurately and promptly, allowing for swift and effective action to be taken.

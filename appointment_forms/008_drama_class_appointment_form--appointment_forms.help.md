@@ -1,18 +1,3 @@
-<thinking>
-This form is used to schedule a new drama class session. The form requires the following information: 
-- Class date
-- Class start time
-- Class end time
-- Class duration
-- Maximum enrollments (optional)
-- Maximum students (optional)
-- Instructor name
-- Whether the class is a workshop or not
-- Optional workshop description and location
-
-This form should only be used to create a new drama class session. If you are looking to update an existing class, please use the "update drama class" form.
-</thinking>
-
 # drama_class_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule a new drama class session.

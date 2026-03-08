@@ -1,8 +1,3 @@
-<thinking>
-This form is a custom form for an elementary school to order books for their students. It is not a general-purpose form and its specific fields and options are tailored to the needs of an elementary school.
-The form is used to collect information from the school about their students' book orders and is likely to be used by the school's library or administration department.
-</thinking>
-
 # Elementary School Book Order Form - Help Guide
 ## Purpose
 This form is used to order books for your school's students.

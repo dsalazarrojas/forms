@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for requesting access to inventory visibility, which allows users to specify the level of access they need to certain assets within the inventory. This form is typically used for team members to request access to assets that they don't currently have access to, and for team leads to approve or deny these requests. The form ensures that all requests and approvals are documented and easily accessible for auditing purposes.
-
-Before filling out this form, please make sure to review the following:
-
-* You have a valid reason for requesting access to the asset(s) in question.
-* You have filled out the form completely and accurately.
-* You have submitted the form to your team lead or approver for review.
-</thinking>
-
 # Inventory Visibility Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to assets within the inventory. Fill out this form completely to ensure your request is processed correctly.

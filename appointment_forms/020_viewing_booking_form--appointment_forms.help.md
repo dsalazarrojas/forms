@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for viewing appointments or meetings. It is likely used in a business or professional setting. The form collects personal information such as name, email, and phone number, as well as appointment details like start and end dates, times, and venue. The form also asks for comments and description, which could be used for internal purposes or follow-up activities. It is required to be completed by a specific individual, as indicated by the required field "Assigned To". 
-</thinking>
-
 # Viewing Booking Form - Help Guide
 
 ## Purpose

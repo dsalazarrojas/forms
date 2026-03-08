@@ -1,7 +1,3 @@
-<thinking>
-**Form Purpose:** The "Online Doctor Appointment Form" is designed for patients to schedule appointments with healthcare providers at a practice. It is used to collect necessary information for assigning an available doctor to the patient based on their preference for a specific date and time. This form will not be completed for patients that already have an appointment with the assigned doctor or practice.
-</thinking>
-
 # online-doctor-appointment-form - Help Guide
 ## Purpose
 The Online Doctor Appointment Form is designed for patients to schedule appointments with healthcare providers at a practice. It is used to collect necessary information for assigning an available doctor to the patient based on their preference for a specific date and time.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to offboard travel agents from the company's asset management system. It is intended to be filled out by the HR department and is used to document the details of the offboarding process. The form is not meant for general end-users and is likely only accessible by authorized personnel. This form should not be used for other purposes such as requesting vacation time or submitting expense reports. Ensure you have the correct access permissions before attempting to complete this form.
-</thinking>
-
 # Travel Agent Offboarding Form - Help Guide
 ## Purpose
 The Travel Agent Offboarding Form is used to document the details of a travel agent's departure from the company. This form helps ensure that all necessary information is collected and that the offboarding process is completed smoothly.

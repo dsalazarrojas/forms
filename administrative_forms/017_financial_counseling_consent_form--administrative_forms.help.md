@@ -1,7 +1,3 @@
-<thinking>
-The Financial Counseling Consent Form is used to obtain consent from both the client and the financial professional for financial counseling services. It is essential to have a clear understanding of the consent process to ensure that all parties involved are aware of their roles and responsibilities. This form should only be completed once per client, and the client's details should be verified to prevent duplication of services. 
-</thinking>
-
 # Financial Counseling Consent Form - Help Guide
 ## Purpose
 The Financial Counseling Consent Form is used to obtain consent from both the client and the financial professional for financial counseling services. It is essential to have a clear understanding of the consent process to ensure that all parties involved are aware of their roles and responsibilities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Grooming Appointment Form - Help Guide
 ## Purpose
 The Grooming Appointment Form is designed to collect essential information from customers for their upcoming appointments. This form helps to ensure that all necessary details are gathered accurately and efficiently, making it easier for our team to prepare for each appointment.

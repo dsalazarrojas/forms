@@ -1,13 +1,3 @@
-<thinking>
-This is a critical form that requires careful attention to detail, and users must fill it out accurately to record vehicle emissions inspection results.
-
-This form is used to log the result of a vehicle emissions inspection, which is a mandatory process in the automotive industry. The form captures crucial information such as vehicle year, make, model, inspection date, and inspection results to ensure accurate records are kept.
-
-To prevent errors, it's essential to complete the form carefully and ensure that all required fields are filled in correctly. The form is split into multiple pages, each with its own set of fields. 
-
-Before starting, ensure that you are familiar with the form layout and have a clear understanding of the fields that require your input.
-</thinking>
-
 # Vehicle Emissions Inspection Result Log - Help Guide
 ## Purpose
 The Vehicle Emissions Inspection Result Log form is used to record the results of a vehicle emissions inspection, which is a mandatory process in the automotive industry.

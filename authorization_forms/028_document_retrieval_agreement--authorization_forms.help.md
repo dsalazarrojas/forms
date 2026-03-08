@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain an agreement from the end-user for document retrieval. This form is used to verify that the user has understood the terms and conditions of document retrieval, including the type of document to be retrieved, the document ID, and other relevant details. The form is also used to capture additional information such as organization contact details and the reason for document retrieval. Before proceeding, ensure that the form is being filled out for a valid reason and not as a duplicate request.
-</thinking>
-
 # Document Retrieval Agreement - Help Guide
 ## Purpose
 The Document Retrieval Agreement form is used to obtain an agreement from end-users for document retrieval. It is essential to review the form carefully before completing it to ensure that you understand the purpose and requirements of the form.

@@ -1,9 +1,3 @@
-<thinking> 
-The Open Day Appointment Scheduling form allows users to schedule visits for various time slots during an open day event. This form is typically used to track visitor information, select a time slot, and check the booking status of a particular time. It may be used by visitors or staff members who need to schedule meetings, presentations, or other activities. 
-
-Before starting, ensure that you are using this form to schedule a visit and not a meeting or an event. If you have already booked a time slot, please make sure it's not already booked as 'Not Available' in the booking status field.
-</thinking>
-
 # Open Day Appointment Scheduling - Help Guide
 ## Purpose
 The Open Day Appointment Scheduling form is designed for users to schedule visits during an open day event, providing an efficient way to plan and organize meetings.

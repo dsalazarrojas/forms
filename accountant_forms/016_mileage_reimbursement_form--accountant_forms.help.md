@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for mileage reimbursement claims from employees. This form is typically used by employees to report their business-related travel expenses, including the start and end dates and times of their trips, the total miles driven, and other relevant details. The form is used to ensure accurate and efficient reimbursement processing.
-
-</thinking>
-
 # Mileage Reimbursement Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for mileage reimbursement claims from employees. It is used to track business-related travel expenses, including trip details and total miles driven.

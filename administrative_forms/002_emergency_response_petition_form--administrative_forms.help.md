@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is used to create a simple, standardized way for individuals to express their support or response to an emergency situation. It helps to gather essential information, such as contact details and a statement of support, which can be used for further actions or follow-up.</thinking>
-
 # emergency_response_petition_form - Help Guide
 ## Purpose
 The **emergency_response_petition_form** is a standardized form used to collect responses or expressions of support from individuals in response to an emergency situation. This form is designed to gather essential information from individuals, including their contact details and statement of support, which can be used for further actions or follow-up.

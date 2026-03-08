@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is likely to gather information and feedback from users on internal audit functions, such as evaluating the effectiveness and efficiency of these functions. This form might be used by internal audit teams or management to assess the performance of audit functions, identify areas for improvement, and make data-driven decisions. It's essential to ensure that the form's questions and fields are clear and concise to facilitate accurate and honest responses from users.
-</thinking>
-
 # internal-audit-function-evaluation-form - Help Guide
 ## Purpose
 The internal-audit-function-evaluation-form is designed to gather feedback and information from users on internal audit functions. This form is used to evaluate the performance, efficiency, and effectiveness of internal audit functions, enabling internal audit teams or management to identify areas for improvement and make data-driven decisions.

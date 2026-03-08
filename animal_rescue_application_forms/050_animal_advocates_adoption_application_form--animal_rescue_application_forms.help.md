@@ -1,7 +1,3 @@
-<thinking>
-...the form is designed to collect information from potential adopters (individuals or families) interested in adopting animals from Animal Advocates. This form is intended to provide a structured way to gather essential details about the applicant's identity, contact information, and household situation to ensure a smooth and safe adoption process. The questions are carefully crafted to ensure that the applicant is ready and capable of providing a suitable home for the animal. To avoid duplication of effort and ensure accurate application processing, please ensure that you have reviewed the questions carefully before submitting the form.
-</thinking>
-
 # Animal Advocates Adoption Application Form - Help Guide
 ## Purpose
 The Animal Advocates Adoption Application Form is a critical step in the animal adoption process, designed to collect essential information from potential adopters about their identity, contact details, and household situation to facilitate a successful and stress-free adoption experience for both the animals and the adopters.

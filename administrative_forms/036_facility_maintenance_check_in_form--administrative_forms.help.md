@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from maintenance requesters about their facility's maintenance needs. It's meant for use by facility administrators or maintenance staff to record and manage maintenance requests. The form can be used in various settings such as offices, schools, hospitals, or industrial complexes. To ensure accuracy and avoid duplication, please check with the facility's maintenance team before filling out this form.
-
-</thinking>
-
 # Facility Maintenance Check In Form - Help Guide
 ## Purpose
 This form is used to collect and manage maintenance requests from facility users. It's essential to fill it out clearly and accurately to ensure that maintenance issues are properly addressed.

@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Retail Inventory Management Assessment Form" to help end-users understand its purpose, complete it correctly, and know what each field means.
-
-The form is likely used to collect information from retail stores about their inventory management practices, possibly for assessment, evaluation, or survey purposes. However, the exact use case is not specified, so we'll create a general guide that applies to various scenarios.
-
-</thinking>
-
 # Retail Inventory Management Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information from retail stores about their inventory management practices. It helps assess the efficiency and effectiveness of inventory management systems, allowing stakeholders to identify areas for improvement and make data-driven decisions.

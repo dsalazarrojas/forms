@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be for booking a prop (a type of equipment or item) for an event. The form requires information about the event, including dates, location, type, and organizer. Additionally, it collects details about the prop, such as its type, size, description, and image. The form also requires contact information, including first name, email, and phone number.
-The form seems to be intended for a specific purpose and doesn't have any redundant fields. It's a straightforward form for collecting essential information about events and props. I will now create a help guide based on the provided YAML.
-</thinking>
-
 # Prop Rental Booking Form - Help Guide
 ## Purpose
 The Prop Rental Booking Form is used to book a prop for an event. Fill out the form to provide details about the event and the prop.

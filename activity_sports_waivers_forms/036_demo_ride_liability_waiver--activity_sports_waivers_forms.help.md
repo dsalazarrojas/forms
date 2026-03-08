@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants in a demo ride event to confirm their participation and provide contact information in case of an emergency. The form should only be completed by participants who are willing to participate in the demo ride event. It is not intended for general event registration or other purposes. Before proceeding, review the form carefully to ensure it is complete and accurate. If you are unsure about any field, please ask the form administrator for clarification. If you need to fill out this form multiple times, ensure that you have received approval from the form administrator or are using the same email address each time you submit the form.
-</thinking>
-
 # Demo Ride Liability Waiver - Help Guide
 ## Purpose
 This form is a liability waiver for participants in a demo ride event. It is intended to confirm the participant's consent to participate and gather contact information for emergency purposes.

@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Driver Performance Monitoring Form", I will base my explanation on the provided YAML fields. This form is likely used for tracking and monitoring the performance of drivers in a vehicle-based environment. The form's purpose is to collect specific data about each driver's performance, which can be useful for evaluating their efficiency and effectiveness. It's essential to understand how to complete the form accurately and what each field represents to ensure the collected data is reliable and usable.
-
-Before we dive into the field-by-field explanation, let's ensure that users understand the form's layout, which is divided into multiple pages.
-
-**Form Layout:**
-The Driver Performance Monitoring Form consists of multiple pages, each representing a different aspect of the driver's performance. Please review each page carefully and ensure you have all the necessary information before proceeding to the next page.
-
-</thinking>
-
 # Driver Performance Monitoring Form - Help Guide
 ## Purpose
 The Driver Performance Monitoring Form is used to track and analyze the performance of drivers in vehicles. This form helps to collect data on various parameters, such as vehicle ID, driver ID, monitoring date, driving time, average speed, maximum speed, and acceleration.

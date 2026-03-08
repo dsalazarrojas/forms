@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from visitors to your office. It's crucial to ensure that each field is filled in correctly to avoid any issues during the visit. The form has 5 sections:
-- Visitor Information, which includes fields for visitor's contact information and note.
-- Appointment details, which include fields for the visit date and time.
-- Visit type, which specifies whether the visitor is a new or returning patient.
-- Visit reason, which can be filled by the visitor for any reason they wish to state for their visit.
-- Staff information, which can be left empty if not necessary.
-</thinking>
-
 # office_visit_scheduling_form - Help Guide
 ## Purpose
 The office visit scheduling form is designed to collect information from visitors to your office. Completing this form helps ensure a smooth and organized visit process.

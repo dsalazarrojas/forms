@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Boxing and Fitness Client Assessment Form - Help Guide
 ## Purpose
 The Boxing and Fitness Client Assessment Form is a comprehensive form used to gather information about the client's health, fitness level, and goals. The form is designed to help trainers create a personalized workout program tailored to the client's needs and abilities. This form should only be completed by the client after consulting with a medical professional if necessary.

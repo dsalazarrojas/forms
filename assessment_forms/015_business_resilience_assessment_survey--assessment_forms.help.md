@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to first understand the purpose and context of the form. The Business Resilience Assessment Survey seems to be a tool for businesses to assess their resilience and identify areas for improvement. The form appears to be designed to gather information about various aspects of a business's resilience, including its size, strategic planning, risk assessment, crisis management, financial reserves, supply chain resilience, technology backup, workforce capability, leadership strength, stakeholder relationships, adaptability, recovery time objective, self-assessed resilience score, top resilience improvement priorities, and resources needed for improvement.
-
-Before creating the guide, I need to check that this form is not duplicating any existing documentation or assessments that the target audience may be familiar with. I also need to ensure that the guide will be useful and clear for end-users who may not have extensive knowledge of business resilience.
-
-</thinking>
-
 # Business Resilience Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help businesses assess their resilience and identify areas for improvement. It covers various aspects of a business's resilience, including size, strategic planning, risk assessment, crisis management, financial reserves, supply chain resilience, technology backup, workforce capability, leadership strength, stakeholder relationships, adaptability, recovery time objective, self-assessed resilience score, top resilience improvement priorities, and resources needed for improvement.

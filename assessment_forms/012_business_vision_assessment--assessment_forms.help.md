@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assess an individual's understanding and alignment with their organization's vision, values, and strategic priorities. It appears to be a self-assessment tool used to evaluate one's awareness, understanding, and commitment to the organization's vision and values.
-
-Before filling out this form, please note that your responses will be used to gauge your personal understanding and alignment with the company's vision and values. Your answers will help identify areas where you may need improvement or additional support.
-
-Please fill out this form carefully and honestly, as your input will be used to inform organizational development and improvement efforts.
-
-If you have filled out this form before, please note that your responses will be treated as individual assessments, and your answers will not be compared or contrasted with previous responses.
-
-Before submitting, review your responses carefully to ensure accuracy and completeness.
-
-If you have any questions or concerns, please reach out to the form administrators or support team for assistance.
-
-</thinking>
-
 # Business Vision Assessment - Help Guide
 ## Purpose
 This form assesses your understanding and alignment with your organization's vision, values, and strategic priorities. It's a self-assessment tool to help you evaluate your own awareness, understanding, and commitment to the company's vision and values.

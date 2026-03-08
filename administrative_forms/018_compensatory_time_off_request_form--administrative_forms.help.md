@@ -1,5 +1,3 @@
-<thinking>Form purpose is to request compensatory time off from work due to overtime worked. This form will help employees and management track and approve time off requests. It will be used to determine the validity of the request and ensure that it follows company policies.</thinking>
-
 # Compensatory Time Off Request Form - Help Guide
 ## Purpose
 The Compensatory Time Off Request Form is used to request compensatory time off from work due to overtime worked. This form will help employees and management track and approve time off requests, ensuring that they follow company policies and procedures.

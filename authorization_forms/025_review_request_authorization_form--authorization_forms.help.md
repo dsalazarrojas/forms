@@ -1,5 +1,3 @@
-<thinking> This form is used for requesting and reviewing authorization to process a review request. The form is designed to gather information from both the review requester and the reviewer, ensuring that all necessary details are provided for a smooth review process. To avoid duplication, this form should only be used for new review requests, not for updates or revisions to existing requests. The form's structure and fields should be understood by both the review requester and the reviewer to ensure accurate and complete information is provided. </thinking>
-
 # Review Request Authorization Form - Help Guide
 ## Purpose
 

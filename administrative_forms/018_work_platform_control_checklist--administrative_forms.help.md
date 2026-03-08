@@ -1,8 +1,3 @@
-<thinking>
-The form "work_platform_control_checklist" is a checklist used to assess and document the control measures implemented on a work platform to ensure safety and regulatory compliance. The purpose of this form is to provide a standardized way of collecting data on the platform's condition, control measures, and any observed hazards or non-compliance issues. It is essential to fill out this form to ensure that the work platform is in a safe condition for workers and to demonstrate compliance with regulatory requirements.
-The form is designed to be filled out by the platform operator or safety officer and should be completed for each work platform. The form should not be duplicated or used for other purposes.
-</thinking>
-
 # work_platform_control_checklist - Help Guide
 ## Purpose
 The "work_platform_control_checklist" is a checklist used to assess and document the control measures implemented on a work platform to ensure safety and regulatory compliance.

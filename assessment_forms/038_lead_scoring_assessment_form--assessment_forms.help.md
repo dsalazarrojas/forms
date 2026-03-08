@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be used for assessing and scoring leads in some capacity. The specific purpose of this form could be to evaluate the potential of a lead to be a good fit for a particular business opportunity. The fields on this form seem to be collecting information about different aspects of the lead's characteristics and behavior, such as their willingness to take action, the time they can commit to a project, and the date they are available to start a new engagement. It would be best to confirm if this form is used to determine the lead's suitability for a specific business opportunity. 
-</thinking>
-
 # Lead Scoring Assessment Form - Help Guide
 
 ## Purpose

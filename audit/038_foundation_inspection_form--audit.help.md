@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Foundation Inspection Form - Help Guide
 
 ## Purpose

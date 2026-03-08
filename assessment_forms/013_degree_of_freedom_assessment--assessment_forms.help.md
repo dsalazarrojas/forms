@@ -1,7 +1,3 @@
-<thinking>
-To determine the form's purpose, I analyzed the input schema and found that it's for a "Degree Of Freedom Assessment" form, likely used to collect feedback or assessment data from individuals, possibly in a training or wellness context. This form appears to be designed for trainers and wellness teams to gather consistent data collection and fast follow-up after each form submission. I didn't find any explicit information about the form's target audience or specific use case, so I'll assume it's for general use in the assessment of individual or group mobility and flexibility.
-</thinking>
-
 # Degree Of Freedom Assessment - Help Guide
 ## Purpose
 The "Degree Of Freedom Assessment" form is designed to collect feedback or assessment data from individuals, possibly in a training or wellness context. It's ideal for trainers and wellness teams to gather consistent data collection and fast follow-up after each form submission.

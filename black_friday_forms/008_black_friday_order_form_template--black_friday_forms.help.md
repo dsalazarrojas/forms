@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Black Friday Order Form Template - Help Guide
 ## Purpose
 

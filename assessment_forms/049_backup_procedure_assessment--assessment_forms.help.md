@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to help assess the current backup procedure of a company, allowing administrators to evaluate its effectiveness and identify areas for improvement. The form is designed to gather detailed information about the company's backup practices, including backup methods, frequency, and procedures. This information is essential for ensuring that the organization's data is adequately protected in the event of a disaster or data loss. This assessment will help administrators determine the company's level of risk and provide recommendations for improvement. This form is intended for internal use only and should only be filled out by authorized personnel. It is not intended to be used for marketing or sales purposes. 
-
-</thinking>
-
 # Backup Procedure Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the effectiveness of a company's backup procedure and identify areas for improvement.

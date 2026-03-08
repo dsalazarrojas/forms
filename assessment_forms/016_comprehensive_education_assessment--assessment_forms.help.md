@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Comprehensive Education Assessment - Help Guide
 ## Purpose
 This form is designed to provide a comprehensive assessment of a student's learning performance in a specific subject area. It captures basic student information, their name, and other relevant details such as their school or program identifier, assessment date, and subject area. Additionally, it evaluates competency levels and provides space for teachers to collect evidence and make comments.

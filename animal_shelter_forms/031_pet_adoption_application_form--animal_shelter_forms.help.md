@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from potential pet adopters who are interested in adopting a pet from the animal shelter. This form is meant to gather demographic information (first name, email, phone number, address) and preferences (pet type, adoption method, desired adoption date) to facilitate the adoption process. The form is not intended to be a comprehensive adoption application, rather a preliminary step to get in touch with potential adopters and gauge their interest in adopting a pet. Please note that this form does not guarantee adoption approval. To avoid duplication, users should not fill out this form if they have already done so previously.
-</thinking>
-
 # Pet Adoption Application Form - Help Guide
 ## Purpose
 The Pet Adoption Application Form is a preliminary step to get in touch with potential adopters and gauge their interest in adopting a pet from the animal shelter. It helps us understand your preferences and demographics to better assist you in finding your new furry friend.

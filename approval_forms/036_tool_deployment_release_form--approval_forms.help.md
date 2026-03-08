@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about tool deployment releases, including release information, team members involved, environment, tool version, release notes, approval status, risk notes, risk level, review and approval dates, and comments. This form is intended for use by teams to coordinate and track the release process. 
-
-Before filling out this form, ensure that you have the necessary permissions and approvals in place. If you're not sure about the purpose or scope of this form, please double-check with your team or project lead.
-
-To fill out this form, start by selecting the relevant information for each field. If you're unsure about any of the fields, you can refer to the explanations below for guidance.
-
-</thinking>
-
 # Tool Deployment Release Form - Help Guide
 ## Purpose
 This form is used to gather information about tool deployments, allowing teams to coordinate and track the release process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skill Assessment Tool Requisition Form - Help Guide
 
 ## Purpose

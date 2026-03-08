@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining parental consent for youth sports participation. The purpose of this form is to gather information from parents or guardians about their child's involvement in sports activities that may involve risk of head injury. The form is designed to be completed by parents or guardians to indicate their consent for their child to participate in these activities. The form should not be used for other purposes or contexts, such as for general health records or other non-sport related activities.
-</thinking>
-
 # Youth Sports Concussion Consent Form - Help Guide
 ## Purpose
 

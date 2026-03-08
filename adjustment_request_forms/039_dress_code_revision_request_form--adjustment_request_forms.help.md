@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dress Code Revision Request Form - Help Guide
 
 ## Purpose

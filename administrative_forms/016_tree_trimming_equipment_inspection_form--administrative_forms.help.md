@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the inspection of tree trimming equipment. The purpose of this form is to collect information about the condition and performance of tree trimming equipment, such as chain saws, cutting heads, and other essential components. This data will help maintenance personnel assess the equipment's state and identify any issues that need to be addressed.
-</thinking>
-
 # Tree Trimming Equipment Inspection Form - Help Guide
 ## Purpose
 The Tree Trimming Equipment Inspection Form is used to inspect and assess the condition and performance of tree trimming equipment.

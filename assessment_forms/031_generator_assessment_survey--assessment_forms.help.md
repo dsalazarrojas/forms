@@ -1,10 +1,3 @@
-<thinking>
-The form's purpose is to collect feedback and assessments from users regarding the generator's performance, efficiency, and condition. This form is likely used in a production or manufacturing setting where generators are used to produce various products or services. The form is designed to collect data from users to identify areas of improvement in the generator's performance and condition.
-
-Before starting the form, please ensure that you are filling out the correct form for your specific assessment. If you have filled out this form previously, please do not fill it out again as a duplicate assessment will not be submitted.
-
-</thinking>
-
 # Generator Assessment Survey - Help Guide
 ## Purpose
 The Generator Assessment Survey is used to collect feedback and assessments from users regarding the generator's performance, efficiency, and condition.

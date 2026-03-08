@@ -1,10 +1,3 @@
-<thinking>
-The Final Assessment For T Cell Expansion form is used to evaluate the expansion of T cells in a given sample. This form is used to collect information about the cell count, cell viability, and methods used for expansion. It is intended to provide a comprehensive assessment of the T cell expansion process.
-
-Before proceeding, please ensure that you have read and understood the purpose of this form and that you have not already completed it. If you have any questions or concerns, please don't hesitate to reach out to the relevant team for assistance.
-
-</thinking>
-
 # Final Assessment For T Cell Expansion - Help Guide
 ## Purpose
 

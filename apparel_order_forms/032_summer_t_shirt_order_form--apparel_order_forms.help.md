@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear, and that end-users understand its relevance to the company's business. This form seems to be for customers to place an order for a summer T-shirt. It appears to be a general order form, collecting various information such as shipping address, credit card info, and order details. There doesn't seem to be any duplication or overlap in the fields, and they all appear to be relevant to the form's purpose.
-</thinking>
-
 # Summer T Shirt Order Form - Help Guide
 ## Purpose
 This form is used to place an order for a summer T-shirt. It collects customer information, order details, and shipping address for the order to be fulfilled.

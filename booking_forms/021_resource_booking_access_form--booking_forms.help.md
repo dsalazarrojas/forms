@@ -1,7 +1,3 @@
-<thinking>
-  This form is used for users to request access to a resource, such as a meeting room or equipment, for a specific time period. The form asks for essential details like resource type, booking start and end dates, and start and end times, along with additional information like booking duration and reason. This guide will help you fill out the form correctly and understand its purpose and functionality.
-</thinking>
-
 # Resource Booking Access Form - Help Guide
 ## Purpose
 The Resource Booking Access Form is a tool used to request access to resources such as meeting rooms, equipment, or office spaces. It helps ensure that resources are used efficiently and are available for other users during the requested time period.

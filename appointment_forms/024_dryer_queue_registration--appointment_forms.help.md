@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dryer Queue Registration - Help Guide
 ## Purpose
 This form is designed to register users for a dryer queue, allowing them to select their preferred time slot and receive an update on their availability.

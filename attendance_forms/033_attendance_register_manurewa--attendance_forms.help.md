@@ -1,11 +1,3 @@
-<thinking>
-This form, known as the "Attendance Register Manurewa," is a critical tool for tracking student attendance in schools or institutions. Its purpose is to provide a centralized record of student attendance patterns, allowing educators to monitor attendance, identify trends, and make data-driven decisions to support student learning. To ensure the accuracy and completeness of the data, it's crucial to understand each field's importance and how to correctly fill out the form.
-
-This form is typically completed by teachers or administrators to record student attendance, but it can also be used by students to record their own attendance. The following guide will walk you through each section of the form, explaining the purpose of each field and how to complete it correctly.
-
-Before starting to fill out the form, make sure to review the available options carefully, and if you're unsure about any field, consult your institution's guidelines or contact your supervisor for clarification.
-</thinking>
-
 # Attendance Register Manurewa - Help Guide
 
 ## Purpose

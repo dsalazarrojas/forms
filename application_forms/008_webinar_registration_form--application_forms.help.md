@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Webinar Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for a webinar. It's a simple, AI-generated form that helps us understand who's attending and what they're interested in learning about.

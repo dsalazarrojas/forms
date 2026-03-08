@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals navigate the process of divorce proceedings. The main purpose of this form is to gather information from both spouses to facilitate a smooth and efficient divorce process. This form is intended for use in the administrative context and is not a substitute for legal advice. It is essential to understand that the information provided on this form may be used by authorized personnel to process the divorce documents and finalize the separation. Please ensure that you fill out the form accurately and honestly, as incomplete or misleading information may cause delays or complications in the divorce process. This guide will walk you through each field of the form and provide clear instructions on how to complete it correctly.
-</thinking>
-
 # Divorce Proceedings Guide Form - Help Guide
 ## Purpose
 The Divorce Proceedings Guide Form is a document used to gather essential information from both spouses to facilitate a smooth and efficient divorce process. It is crucial to fill out the form accurately and honestly to avoid delays or complications.

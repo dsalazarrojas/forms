@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of applying for boat financing. It's essential to ensure that all required fields are filled out correctly to avoid delays in the loan processing. Please note that this form is for boat financing applications, and the information provided will be used to evaluate the applicant's creditworthiness. It's also a good opportunity to review and update the form to prevent duplication of effort and ensure the best possible user experience. If you're unsure about any part of the form, please contact the loan officer for clarification.
-</thinking>
-
 # Boat Financing Application Form - Help Guide
 ## Purpose
 The Boat Financing Application Form is designed to collect essential information from applicants seeking boat financing. This form helps our loan officers evaluate the applicant's creditworthiness and determine the loan eligibility.

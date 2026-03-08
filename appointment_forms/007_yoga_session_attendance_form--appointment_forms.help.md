@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for recording attendance at yoga sessions. The fields are designed to collect information about the session's attendance in a structured and consistent manner. This form is part of a larger set of tools for managing yoga sessions, so please ensure that you are using it in the context of this system and not for any other purpose. Also, please do not submit duplicate records. 
-</thinking>
-
 # Yoga Session Attendance Form - Help Guide
 
 ## Purpose

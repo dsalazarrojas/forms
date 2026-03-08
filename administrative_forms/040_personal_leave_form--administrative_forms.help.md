@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees or staff members who are requesting personal leave. The purpose of this form is to gather essential details to process leave requests efficiently and ensure that work responsibilities are covered during the employee's absence. To ensure relevance, the form has been tailored to capture the necessary information for HR or administrative purposes. To avoid duplication, the form is designed to be filled out once per leave request.
-</thinking>
-
 # Personal Leave Form - Help Guide
 ## Purpose
 This form is used to request personal leave, allowing you to provide essential details for processing your leave request efficiently.

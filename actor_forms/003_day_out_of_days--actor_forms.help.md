@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to calculate the difference between two dates. The form is used to collect information on the start and end dates, and a calculated date difference. This form is likely to be used in scenarios where a user needs to know how many days have passed between two specific dates, such as in financial calculations or scheduling events.
-</thinking>
-
 # day_out_of_days - Help Guide
 ## Purpose
 The "day_out_of_days" form is used to calculate the difference between two dates. This form helps users to determine how many days have passed between the start and end dates.

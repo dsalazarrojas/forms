@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess trainees' knowledge of civil litigation concepts, ensuring they meet the required standards for a specific department or practice area. The form is part of a larger assessment process, and completion is required for trainees to demonstrate their understanding of these concepts. Please note that this is not a comprehensive test of the entire legal field but rather a focused evaluation of specific topics. The form is used to gather data for training purposes and to identify areas where further education is needed.
-
-</thinking>
-
 # Civil Litigation Knowledge Quiz - Help Guide
 ## Purpose
 This form assesses your knowledge of civil litigation concepts, including discovery methods, pleading types, statute limitations, burden of proof, summary judgment, hearsay rules, jurisdiction, and more. It is essential to complete this form accurately to demonstrate your understanding of these critical topics.

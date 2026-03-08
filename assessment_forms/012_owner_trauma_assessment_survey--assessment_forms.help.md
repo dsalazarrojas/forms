@@ -1,5 +1,3 @@
-<thinking>This form is used to assess an individual's trauma and its impact on various aspects of their life. The form is designed to be completed by the individual being assessed, and it should only be filled out by the person experiencing the trauma. Please note that this form is not a substitute for professional medical or psychological evaluation. If you are experiencing trauma, please seek help from a qualified professional.</thinking>
-
 # owner-trauma-assessment-survey - Help Guide
 ## Purpose
 The owner-trauma-assessment-survey is a tool used to help individuals understand and document the impact of their trauma on their life. It is a self-reporting form that asks questions about the frequency and effects of traumatic experiences on various aspects of life.

@@ -1,9 +1,3 @@
-<thinking>...checking for form purpose and non-duplication...
-
-This form is designed for scheduling property inspections, gathering essential information from tenants or property managers for the inspection process. It appears to be a comprehensive form for planning and organizing inspections with multiple fields for various details. The form is intended for users to input data that will be used for scheduling and conducting property inspections.
-
-</thinking>
-
 # Property Inspection Scheduling Form - Help Guide
 ## Purpose
 The Property Inspection Scheduling Form is used to collect information necessary for scheduling and conducting property inspections. It is a crucial tool for property managers, tenants, or inspection teams to plan and execute inspections efficiently.

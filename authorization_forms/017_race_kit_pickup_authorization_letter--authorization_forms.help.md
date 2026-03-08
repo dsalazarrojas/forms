@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Race Kit Pickup Authorization Letter - Help Guide
 
 ### Purpose

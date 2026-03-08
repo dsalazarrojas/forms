@@ -1,8 +1,3 @@
-<thinking>
-In the "In-Kind Contribution Report" form, you will be asked to provide information about in-kind contributions, which are non-cash donations made by an individual or organization to support a political campaign or committee. This form helps to track and record in-kind contributions, ensuring transparency and compliance with relevant regulations.
-Please ensure that you only complete this form if you have made in-kind contributions to report. If you have not made any in-kind contributions, this form is not applicable to you.
-</thinking>
-
 # In-Kind Contribution Report - Help Guide
 ## Purpose
 The In-Kind Contribution Report form is used to report non-cash donations made to a political campaign or committee. This form is required for individuals and organizations that have made in-kind contributions, which include goods and services provided by a donor to support a campaign or committee.

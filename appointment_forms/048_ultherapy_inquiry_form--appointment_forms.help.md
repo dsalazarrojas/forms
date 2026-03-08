@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended for users to inquire about Ultherapy, a non-invasive, non-surgical, and non-thermal aesthetic treatment for skin rejuvenation. Users will be asked to provide personal information, medical history, and preferences for appointment scheduling. The form aims to gather relevant details for the clinic's staff to assess and schedule an appointment.
-  Before completing the form, please ensure that you have not already submitted an inquiry for the same purpose. Duplicate inquires may lead to confusion and delay in the assessment process.
-  This form is designed to be a single page form, with each section representing a part of the inquiry process. The form will ask you for your name, email, phone number, and medical history. You will also be asked to provide your preferred contact method (email, phone, or text), available dates for the appointment, and the location of the Ultherapy treatment.
-  Please make sure to fill in all the required fields to ensure that the clinic can assess your request accurately.
-</thinking>
-
 # Ultherapy Inquiry Form - Help Guide
 ## Purpose
 The Ultherapy Inquiry Form is a tool designed for users to inquire about Ultherapy treatment. This form helps the clinic's staff to understand your needs and preferences for the treatment.

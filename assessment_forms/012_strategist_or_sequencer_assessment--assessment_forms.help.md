@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block that explains the form purpose and checks for relevance and non-duplication ...
-
-The Strategist Or Sequencer Assessment form is designed to evaluate and compare the abilities and skills of individuals in a given team. It assesses the strategist's and sequencer's roles within a team, focusing on their individual and collective performance. This form is intended for team leaders or managers to use when evaluating team members or evaluating team performance.
-
-Assessment outcomes will help determine whether an individual has a strong Strategist or Sequencer role, or if they are a mix of both, or if they don't fit into any of these roles.
-
-Before starting the assessment, make sure that the team member being assessed has not been evaluated recently, to avoid duplication of assessments. If there's a need to re-evaluate, make sure to update the previous assessment accordingly.
-
-</thinking>
-
 # Strategist Or Sequencer Assessment - Help Guide
 ## Purpose
 The Strategist Or Sequencer Assessment form is designed to evaluate and compare the abilities and skills of individuals in a given team, focusing on their individual and collective performance. This form is intended for team leaders or managers to use when evaluating team members or evaluating team performance.

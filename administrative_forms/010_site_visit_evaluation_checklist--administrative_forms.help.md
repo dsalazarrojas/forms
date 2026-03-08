@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback on site visit evaluations. The purpose of this form is to gather information from site visitors about their experiences and outcomes of a site visit. This form is likely used by site administrators, event organizers, or project managers to assess the quality of site visit experiences and identify areas for improvement.
-
-Before completing this form, please note that:
-
-* If you've already completed this form for the same site visit, your input will not be duplicated. This form is designed to collect new and unique feedback.
-* If you're unsure about any of the fields, try to answer based on your best understanding and judgment.
-* If you have any additional comments or suggestions, please feel free to add them in the "Additional Comments" field (not shown here).
-
-</thinking>
-
 # Site Visit Evaluation Checklist - Help Guide
 ## Purpose
 The Site Visit Evaluation Checklist is a form designed to collect feedback on site visit experiences and outcomes.

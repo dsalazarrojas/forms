@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request a correction to an employee's payroll. The form is used by the employee to report any errors or discrepancies in their paycheck or benefits. This form is used to ensure that the employee's payroll is corrected and accurate. The form should only be completed by the employee who has experienced the error. If the same error has been reported previously, please do not report it again through this form. Instead, follow up with the relevant personnel or department to ensure the issue has been addressed.
-
-</thinking>
-
 # Payroll Correction Request Form - Help Guide
 ## Purpose
 This form is used to request a correction to an employee's payroll, including errors or discrepancies in paychecks or benefits. Complete this form to report any issues that need to be addressed and ensure your pay is accurate.

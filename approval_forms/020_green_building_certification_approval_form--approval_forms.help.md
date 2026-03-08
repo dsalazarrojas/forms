@@ -1,11 +1,3 @@
-<thinking>
-This form is used for seeking approval for a project to be certified as a green building. 
-- It captures project details including project name, location, description, and status. 
-- It also captures the green building certification information, including certification documents, date, and certifying entity details. 
-- This form is used internally for approval purposes and might be used by various team members to review and verify project information.
-
-</thinking>
-
 # Green Building Certification Approval Form - Help Guide
 ## Purpose
 The Green Building Certification Approval Form is used to seek approval for a project to be certified as a green building. This form captures essential project details and green building certification information, enabling team members to review and verify the project's status.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and usage of this form. This form is used for declaring name changes, where an individual or entity is requesting a change to their name. To be eligible for completion, the form must be submitted by a registered user who has the authority to make such declarations. This form should not be submitted if the name change is a mere update or correction of existing records; it should only be used for declarations that have a significant impact or require formal verification.
-</thinking>
-
 # Name Change Declaration Form - Help Guide
 ## Purpose
 The "Name Change Declaration Form" is used to request a formal change to an individual or entity's name. This form is meant for significant name changes, such as mergers, acquisitions, or other major rebranding events.

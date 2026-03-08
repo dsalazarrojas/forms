@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form to track time spent on various projects by employees. This form will help employees provide a summary of their work hours, project start and end dates, and other relevant details. It's intended to be completed by employees to keep track of their work hours and projects. The form will be used to generate reports and summaries for administrative purposes. Before filling out this form, please ensure that you've completed all necessary projects and have the required information ready. This form will only include the following fields: Project Title, Employee Name, Project Start Date, Project End Date, Work Hours, Work Minutes, Comments, Email, and Phone. The Employee Name field is a required field as it helps us to identify you and your work hours accurately. The Project Start Date and Project End Date fields are also required as they help us to understand the project's duration. The Work Hours and Work Minutes fields should be filled with actual hours and minutes spent on the project. The Comments field is optional and can be used for any additional comments or information about the project. The Email and Phone fields are optional and should only be filled if you want to receive updates or be contacted about the project.
-</thinking>
-
 # Time Tracking Summary Report Form - Help Guide
 ## Purpose
 This form is used to provide a summary of work hours, project start and end dates, and other relevant details for administrative purposes.

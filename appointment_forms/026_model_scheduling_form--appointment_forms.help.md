@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Model Scheduling Form - Help Guide
 
 ## Purpose

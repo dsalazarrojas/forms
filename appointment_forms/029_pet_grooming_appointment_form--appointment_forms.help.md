@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from pet owners for a pet grooming appointment. The form will be used to schedule appointments for pets and collect relevant contact information of the pet's owner and any assistants. The form will be used by groomers to prepare for the appointment and ensure that all necessary information is collected. This will prevent confusion and miscommunication during the appointment.
-
-Please note that this form is for pet grooming appointments only. If you are not a pet owner or do not have a pet, you should not fill out this form.
-
-To prevent duplication of forms, please do not submit multiple forms for the same pet.
-
-</thinking>
-
 # Pet Grooming Appointment Form - Help Guide
 
 ## Purpose

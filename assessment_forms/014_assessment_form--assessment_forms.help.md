@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess a candidate's performance in a variety of contexts, such as evaluations, exams, or assessments. It helps to gather information about the candidate, including their name, identification number, and assessment date. The form also includes fields for the assessor's name and signature, as well as the candidate's signature to acknowledge completion of the assessment. To prevent duplication, this form should not be filled out by candidates who have already completed an assessment for the same assessment date.
-
-</thinking>
-
 # Assessment Form - Help Guide
 ## Purpose
 The Assessment Form is a tool used to evaluate a candidate's performance in a specific context. This form gathers information about the candidate's name, identification number, assessment date, and other relevant details.

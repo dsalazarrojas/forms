@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used for lockout tagout safety assessment. The form is used to document and track the safety procedures and status of equipment that needs to be locked out for maintenance or repairs. This helps ensure that equipment is properly locked out before maintenance work is performed and that all necessary safety precautions are taken. This form is typically used by maintenance personnel to record their procedures and ensure that equipment is returned to service in a safe and controlled manner.
-Before starting, check that you have not already completed this form for the same equipment. If the equipment is already locked out, ensure that the current lockout status is up-to-date and accurate.
-</thinking>
-
 # Lockout Tagout Safety Assessment - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to grant authority to an authorized agent to lodge documents, applications, or other materials on behalf of the principal (the individual submitting this form). This form is used to establish a relationship between the principal and the agent, outlining the scope and limitations of the agent's authority. The form ensures that the principal has given their explicit consent to the agent to act on their behalf in a specific capacity. In cases where the principal may not be present or available to physically sign documents, this form provides a way to empower the agent to act as their representative. By completing this form, the principal is granting permission to the agent to perform certain actions, such as lodging documents, applications, or permits, and specifying the scope of their authority and any limitations that may apply. 
-</thinking>
-
 # Authority To Lodge Form - Help Guide
 
 ## Purpose

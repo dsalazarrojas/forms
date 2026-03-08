@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Basic Arithmetic Quiz - Help Guide
 
 ## Purpose

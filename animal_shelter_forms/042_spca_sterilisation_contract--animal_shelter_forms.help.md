@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information and agreement for animal sterilization procedures in animal shelters. This form will help ensure that all necessary details are documented for the animal's welfare and future care. It is intended for use by animal shelter staff and veterinary professionals to streamline their processes and maintain accurate records. Please review the form carefully to ensure it meets your specific needs.
-
-</thinking>
-
 # spca_sterilisation_contract - Help Guide
 ## Purpose
 This form is used to document the agreement and details of animal sterilization procedures in animal shelters.

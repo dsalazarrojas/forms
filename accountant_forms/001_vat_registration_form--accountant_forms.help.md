@@ -1,9 +1,3 @@
-<thinking>
-The vat_registration_form form is used to collect information from vendors for VAT purposes, specifically for tax identification, business name, Vat number, Vat percentage, Vat date, Vat address, Vat phone number, Vat email, and Vat notes. 
-This form is designed to be simple and easy to fill out, with fields that require minimal effort to understand and fill out. 
-The form fields and their corresponding labels and types are self-explained in the form of a help guide that will be provided below.
-</thinking>
-
 # vat_registration_form - Help Guide
 ## Purpose
 The vat_registration_form is used to collect information from vendors for VAT purposes. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # workforce_capability_evaluation_request_form - Help Guide
 
 ## Purpose

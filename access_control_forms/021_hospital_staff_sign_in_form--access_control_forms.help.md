@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Staff Sign In Form - Help Guide
 
 ## Purpose

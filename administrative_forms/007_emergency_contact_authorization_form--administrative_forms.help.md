@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the emergency contacts of the owner, allowing them to provide essential details about the people who can be contacted in case of an emergency. This form is typically used in situations where it's crucial to have a backup contact person for critical situations, such as in healthcare or financial institutions. It's essential to ensure that the form is completed accurately and thoroughly to guarantee that the emergency contacts are reachable and informed about the owner's status. Please verify that you are completing this form for the correct purpose and not duplicating an already existing one.
-</thinking>
-
 # Emergency Contact Authorization Form - Help Guide
 
 ## Purpose

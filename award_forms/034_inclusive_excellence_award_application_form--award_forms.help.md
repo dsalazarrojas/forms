@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Inclusive Excellence Award Application Form" which is used by applicants to apply for awards in various categories. It's essential to understand that this form is meant to gather information and support for award applications, and applicants are encouraged to only submit one application per award category per cycle. Repeating applications in the same category will be considered a duplication and will not be processed further.
-</thinking>
-
 # Inclusive Excellence Award Application Form - Help Guide
 ## Purpose
 The "Inclusive Excellence Award Application Form" is designed to collect information and supporting documents from applicants for award applications. It's a comprehensive form that helps applicants showcase their skills, experience, and achievements in a specific category.

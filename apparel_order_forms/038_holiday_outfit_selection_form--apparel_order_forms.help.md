@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will review the form's purpose and fields to ensure the guide is comprehensive and accurate. This form is for holiday outfit selection, likely for a fashion or retail context. The purpose of the form is to collect information about users' preferences and requirements for a holiday outfit, such as their inspiration, preferred looks, style, colors, budget, and more. To avoid duplication and ensure relevance, I will focus on explaining the form's fields in a way that covers all key aspects of the user's preferences and requirements.
-
-The form is designed to collect diverse information through various fields, including text inputs, file uploads, and selects. The fields can be grouped into categories, such as "Inspiration," "Style and Colors," "File Upload," and "Contact Information." This categorization will help users navigate the form logically.
-
-To create an engaging and user-friendly guide, I will focus on explaining each field's purpose and required/optional status, using a clear and concise tone.
-
-</thinking>
-
 # Holiday Outfit Selection Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Holiday Outfit Selection Form. The form is designed to collect your preferences and requirements for a holiday outfit.

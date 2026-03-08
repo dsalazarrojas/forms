@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to collect information about the water heater's condition and maintenance history. It's meant to be used by individuals or organizations responsible for maintaining or replacing water heaters. The form should only be used for water heaters, and not for other types of appliances or equipment. It's essential to complete this form accurately and honestly to ensure that the information gathered is useful for future maintenance and decision-making processes.
-</thinking>
-
-# Water Heater Assessment Survey - Help Guide
+> # Water Heater Assessment Survey - Help Guide
 ## Purpose
 This form is used to assess the condition and maintenance history of a water heater. It helps gather essential information about the water heater's status, service history, and maintenance needs.
 

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for a public event permit. The form will be used to verify the details of the event, the applicant, and any additional information required for the permit. It will help to ensure that all necessary information is provided in a clear and concise manner.
-This form is for the public, and it will be used to verify the details of the event that you want to hold. The form will help us to process your application quickly and efficiently.
-Before starting, please make sure that you have all the required information ready. If you are unsure about any field, you can refer to this guide for clarification.
-</thinking>
-
 # public_event_permit_application_form - Help Guide
 ## Purpose
 The public event permit application form is used to collect information from applicants for a public event permit. This form is designed to gather all necessary details for the event, including the event details, applicant information, and additional requirements.

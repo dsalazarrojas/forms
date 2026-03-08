@@ -1,7 +1,3 @@
-<thinking>
-This form is used to elect to be treated as a pass-through entity for tax purposes. This is a critical form for entities that are required to file Form 1120S, such as S corporations and their owners. The form is used to report the election to the IRS and is typically filed with the entity's tax return. This form is not intended for entities that are not required to file Form 1120S, such as sole proprietorships or partnerships.
-</thinking>
-
 # Pass Through Entity Tax Election Form - Help Guide
 ## Purpose
 The Pass Through Entity Tax Election Form is used to elect to be treated as a pass-through entity for tax purposes. This is a critical form for entities that are required to file Form 1120S, such as S corporations and their owners.

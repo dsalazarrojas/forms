@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Move In Checklist Form" is to collect essential information from tenants when they are moving into a new property. This form helps landlords and property administrators to gather accurate and timely data on the tenant's arrival date, contact information, and other relevant details.
-
-The form is designed to be completed by the tenant during the move-in process, ensuring that all necessary documents and information are collected in one place.
-
-Before starting, please ensure that you have all the necessary information and documents ready. If you are unsure about any field, please refer to the field-by-field explanations below.
-
-</thinking>
-
 # Move In Checklist Form - Help Guide
 ## Purpose
 The "Move In Checklist Form" is a crucial document for property administrators and landlords to obtain essential information from tenants upon move-in. Completing this form accurately helps streamline the process and reduces potential issues during tenancy.

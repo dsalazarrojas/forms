@@ -1,13 +1,3 @@
-<thinking>... (internal reasoning and non-duplication checks) 
-
-The Animal Cruelty Investigator Application Form is designed to gather information from applicants interested in joining the animal welfare team as an investigator. This form is meant to assess the applicant's qualifications, background, and experience to determine their suitability for the role. The questions cover various aspects, including personal contact information, educational background, work history, and specific skills and qualifications required for the position.
-
-The form is divided into several sections, each focusing on different aspects of the applicant's profile. The sections cover personal details, employment history, and skills and qualifications, as well as a section for additional information and an application signature.
-
-Before filling out the form, applicants should review the entire document to ensure they can accurately answer each question and provide the necessary information to demonstrate their suitability for the role. 
-
-</thinking>
-
 # Animal Cruelty Investigator Application Form - Help Guide
 ## Purpose
 The Animal Cruelty Investigator Application Form is designed to gather information from applicants interested in joining the animal welfare team as an investigator. This form helps assess the applicant's qualifications, background, and experience to determine their suitability for the role.

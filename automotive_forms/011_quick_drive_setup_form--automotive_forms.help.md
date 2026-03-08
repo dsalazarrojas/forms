@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, we want to make sure our end users are clear about the purpose and process of completing this form. The form is called "Quick Drive Setup Form" and is used for requesting a drive service from the company. It's a crucial form that will help customers get the necessary information to schedule a successful drive experience. Before creating this guide, we've taken into account the fields in the provided YAML. Our goal is to make it easy to understand, concise, and helpful for the users to fill out the form correctly.</thinking>
-
 # Quick Drive Setup Form - Help Guide
 
 ## Purpose

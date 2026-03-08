@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers for an Afterpay Cosmetics order, gathering personal details, shipping and billing information, skin type and concerns, cosmetic preferences, and order specifics. This form aims to ensure accurate ordering and shipping processes while also collecting valuable customer data for potential future interactions. It's crucial to provide clear instructions to ensure end-users understand what is being asked and how to fill it out correctly.
-</thinking>
-
 # Afterpay Cosmetics Order Form - Help Guide
 ## Purpose
 The Afterpay Cosmetics Order Form is a comprehensive form designed to gather essential information from customers for accurate order processing and potential future interactions.

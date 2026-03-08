@@ -1,10 +1,3 @@
-<thinking>
-The form's purpose is to collect essential information from participants before a session, ensuring that the session facilitator is well-prepared and informed. This information will help the facilitator understand the participant's preferences, interests, and details, allowing for a more engaging and relevant session.
-
-Before proceeding, it's essential to confirm that the participant has not previously completed this form, to avoid duplications and ensure data accuracy.
-
-</thinking>
-
 # Pre Session Information Form - Help Guide
 ## Purpose
 This form collects essential information from participants before a session, providing the session facilitator with valuable insights into their preferences, interests, and details.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect client attendance information for a variety of programs offered by the organization. The form is designed to gather essential details about the client, including contact information, program type, and attendance schedule. This information will be used to facilitate communication and ensure that clients can be reached for important updates or changes to their schedule. The form is a one-time requirement for clients to confirm their attendance, and it's essential to complete it accurately to ensure a smooth experience.
-
-This form should not be confused with other types of client-facing forms, such as membership applications or payment forms. The information collected in this form will only be used for the purpose of client attendance management.
-</thinking>
-
 # Client Attendance Agreement - Help Guide
 ## Purpose
 This form is designed to collect client attendance information for various programs offered by the organization. It's a one-time requirement for clients to confirm their attendance and ensure a smooth experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to apply for loan restructuring, a process that allows borrowers to modify their loan terms and conditions to make their payments more manageable. Before starting, please check that you have the necessary permissions to submit this form and that you haven't already submitted a loan restructuring application. Ensure that the information provided is accurate and up-to-date, as incorrect or outdated information may lead to delays or rejections in the application process.
-</thinking>
-
 # Loan Restructuring Approval Application - Help Guide
 ## Purpose
 The Loan Restructuring Approval Application form is used to apply for modifications to your existing loan terms. This form is designed to gather all necessary information to review and approve your loan restructuring request.

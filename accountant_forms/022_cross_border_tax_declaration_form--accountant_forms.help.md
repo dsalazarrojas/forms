@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for accountants to declare tax-related information for cross-border transactions. The form is likely used to report taxes on international transactions, and it's intended to gather specific details about the business and tax-related information. I will base my explanation on the fields provided, assuming this form is used in an accounting or tax-related context. I'll focus on creating a clear and concise user guide that explains each field's purpose and requiredness.
-</thinking>
-
 # Cross Border Tax Declaration Form - Help Guide
 ## Purpose
 The Cross Border Tax Declaration Form is a document used by accountants to report cross-border taxes. It gathers essential information about the business, tax rates, and other relevant details for tax declarations.

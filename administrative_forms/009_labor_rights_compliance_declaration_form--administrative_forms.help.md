@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an employee's labor rights status, including their name, department, employment start and end dates, hours worked, rate of pay, and labor practices. This form is likely used in an organizational setting to collect data for HR or legal purposes. Please ensure that you are filling out the form for the correct employee and that you are not duplicating efforts.
-</thinking>
-
 # Labor Rights Compliance Declaration Form - Help Guide
 ## Purpose
 This form is used to gather information about an employee's labor rights status. It is essential to provide accurate and complete information to ensure the accuracy of labor rights documentation.

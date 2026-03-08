@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Day T Shirt Order Form - Help Guide
 
 ## Purpose

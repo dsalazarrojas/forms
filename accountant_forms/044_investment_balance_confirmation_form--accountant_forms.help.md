@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for accounting purposes, specifically for confirming the balance of an investment. It should be used when an accountant needs to verify that a client has confirmed or not confirmed their investment balance. If you are not an accountant or are not familiar with the process, please do not complete this form without guidance from an accountant. 
-
-To ensure that the form is being used correctly, it is recommended that accountants and clients review this guide before proceeding.
-
-</thinking>
-
 # Investment Balance Confirmation Form - Help Guide
 ## Purpose
 The Investment Balance Confirmation Form is used by accountants to collect information from clients regarding their investment balance. The form helps to confirm whether the client has agreed on the balance or not.

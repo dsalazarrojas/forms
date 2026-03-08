@@ -1,8 +1,3 @@
-<thinking>
-This form, the "Workplace Ergonomics Checklist Form", is designed to collect information about the ergonomics of a workspace. The form is meant to be used by employees or supervisors to assess the comfort and safety of the work environment. The fields on this form should only be filled out by employees who have a genuine need to complete it, and not duplicated for the same workspace.
-
-</thinking>
-
 # Workplace Ergonomics Checklist Form - Help Guide
 ## Purpose
 This form is a tool to help employees or supervisors assess and improve the ergonomics of a workspace. It gathers information on the comfort, safety, and awareness of the employees working in the space.

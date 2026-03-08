@@ -1,7 +1,3 @@
-<thinking>
-This form was generated to support wildlife rescue organizations in finding suitable applicants for their internship programs. It's essential to be completed by individuals genuinely interested in wildlife rescue and conservation. To ensure the quality of applications, please fill out this form honestly and thoroughly. Duplicate applications will be automatically detected and removed from the review process. 
-</thinking>
-
 # Wildlife Rescue Internship Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in participating in a wildlife rescue internship program. It will help us understand your educational background, motivation for joining the program, relevant experience, and availability to contribute to the program.

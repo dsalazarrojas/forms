@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the purpose of this form, let's analyze the provided YAML fields. The form appears to be related to issue management, as it contains fields such as "New Issue", "Issue Type", "Description", "Report Date", "Report Time", "Contact Method", "Contact Phone", "Contact Email", and "Issue Resolution". This suggests that the form is used for submitting and managing issues.
 
 Before proceeding, let's check if this form has been duplicated or has a similar version elsewhere. Unfortunately, there is no information available to confirm whether a similar form exists or not.

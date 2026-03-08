@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for review and inclusion purposes. It may be used by individuals or organizations to request reviews of various documents or data collections. The form's purpose is to provide a structured way to gather information and facilitate the review process. Before proceeding, please review the fields below and ensure that you have the necessary information ready. If you've already submitted a similar form, please ensure it's not a duplicate submission.
-</thinking>
-
 # inclusion_data_review_request_form - Help Guide
 ## Purpose
 The inclusion data review request form is a structured form designed to collect data for review and inclusion purposes. It's meant to be used by individuals or organizations to request reviews of various documents or data collections.

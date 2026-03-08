@@ -1,13 +1,3 @@
-<thinking>
-This form is used to schedule and manage safety inspections. It is designed to be completed by users who need to schedule a safety inspection at a specific location. The form is used to provide essential information for the inspection, including the start and end times, location, type of inspection, and frequency. The form will help to streamline the scheduling process and ensure that all necessary information is captured correctly.
-
-This form is likely used by facility management teams, health and safety officers, or other personnel responsible for managing safety inspections. The form can be used to create a schedule for regular safety inspections, which can help identify potential hazards and reduce the risk of accidents.
-
-The form is divided into several sections, each representing a page. The pages are designed to collect relevant information for the inspection, making it easy to complete and review.
-
-The form is a required field for some of the inspectors and optional for others, as indicated in the field definitions.
-</thinking>
-
 # Safety Inspection Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule and manage safety inspections by providing essential information for the inspection process.

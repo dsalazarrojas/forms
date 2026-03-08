@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about critical incident response sessions. These sessions are used to gather data on critical incidents, which are events that require immediate response and resolution. The purpose of this form is to help responders prepare for and document the session, ensuring they have all necessary information to effectively respond to the incident. This form should only be used for critical incident response sessions and not for other types of events or meetings. 
-</thinking>
-
 # Critical Incident Response Session Appointment Form - Help Guide
 ## Purpose
 

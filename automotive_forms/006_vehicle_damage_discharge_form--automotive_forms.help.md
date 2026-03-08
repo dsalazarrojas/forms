@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture information about vehicle damages, including a description of the damage, associated costs, and date of occurrence. Its purpose is to help owners, managers, or fleet administrators document and manage vehicle maintenance and repair records.
-
-Before filling out this form, please confirm that:
-- The vehicle's damage has been evaluated and approved for repair or release.
-- The information is being submitted for the first time to avoid duplication of efforts.
-
-Please fill out this form carefully to ensure accurate and complete information is captured.
-</thinking>
-
 # Vehicle Damage Discharge Form - Help Guide
 ## Purpose
 This form is a record-keeping tool to document and manage vehicle damages.

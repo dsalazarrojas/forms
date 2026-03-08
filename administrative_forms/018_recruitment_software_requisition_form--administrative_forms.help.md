@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recruitment Software Requisition Form - Help Guide
 ## Purpose
 The purpose of the Recruitment Software Requisition Form is to collect information about the software or system you are requesting from the IT department. This form ensures that all relevant details about the software are captured, making it easier for the IT department to process your request and provide the necessary support.

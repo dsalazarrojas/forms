@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for counseling appointments, including the client's personal details (first name, last name, email, phone number), language preference, appointment date and time, reason for visit, preferred contact method, and any additional comments. The purpose of this form is to streamline the appointment scheduling process and ensure accurate communication with clients. This form should only be completed once per appointment.
-</thinking>
-
 # Counseling Appointment Communication Form - Help Guide
 ## Purpose
 The Counseling Appointment Communication Form is used to collect and document information for counseling appointments, ensuring clear communication and efficient scheduling.

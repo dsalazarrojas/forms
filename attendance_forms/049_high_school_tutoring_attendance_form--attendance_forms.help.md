@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to track student attendance in high school tutoring sessions. It's intended for tutors and other staff to record attendance information for students, including their name, attendance date, attendance time, session start and end times, tutor name, student grade, sessions attended, comments, and form completion status. This form should be completed for each tutoring session, and users should fill out as much or as little information as necessary, depending on the situation.
-
-The form has the following fields:
-
-- **Student Name**: the name of the student being tutored
-- **Attendance Date**: the date of the tutoring session (format: YYYY-MM-DD)
-- **Attendance Time**: the time of the tutoring session (format: HH:MM AM/PM)
-- **Session Start Time**: the start time of the session
-- **Session End Time**: the end time of the session
-- **Tutor Name**: the name of the tutor
-- **Student Grade**: the student's grade level (e.g., 9th, 10th, 11th, 12th)
-- **Sessions Attended**: a list of sessions the student attended (e.g., "Yes", "No")
-- **Comments**: any additional comments or notes about the session
-- **Form Completion Status**: whether the form is completed, incomplete, or pending
-- **Student Attendance Form ID**: a unique identifier for the form (not editable by users)
-- **Form Version Number**: the version number of the form (not editable by users)
-
-The following fields are not required for all users, but they are necessary for certain scenarios or situations. Please only fill out as much or as little information as necessary, depending on the situation.
-
-</thinking>
-
 # High School Tutoring Attendance Form - Help Guide
 ## Purpose
 This form is designed to track student attendance in high school tutoring sessions.

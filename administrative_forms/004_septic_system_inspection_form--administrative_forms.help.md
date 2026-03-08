@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a septic system inspection, including details about the septic system, inspector, and contact information. This form is likely to be used by field agents or inspectors to gather data for compliance or reporting purposes.
-
-To the best of my knowledge, this form does not exist in our existing library, so this guide will help in introducing the form and its fields to end-users.</thinking>
-
 # Septic System Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about a septic system inspection, including details about the septic system, inspector, and contact information.

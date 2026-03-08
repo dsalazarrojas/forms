@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for tracking and maintaining the calibration status of laboratory instruments. The form's purpose is to provide information about a specific instrument, including its identifier, name, and other relevant details. The form may be used by laboratory technicians, engineers, or other personnel responsible for maintaining and calibrating instruments. To avoid redundancy, this guide will focus on the essential fields required for a comprehensive understanding of the form.
-
-</thinking>
-
 # Lab Instrument Calibration Report Form - Help Guide
 ## Purpose
 The Lab Instrument Calibration Report Form is a document used to record and track the calibration status of laboratory instruments. It helps laboratory personnel to maintain accurate records, ensure compliance with calibration schedules, and prevent instrument malfunction.

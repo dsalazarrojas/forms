@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's experience and satisfaction with their vehicle. The purpose of this form is to gather data on various aspects of vehicle ownership, including the model of the vehicle, overall satisfaction, features of the vehicle, and demographic information about the owner. This information will be used to improve the understanding of vehicle owners' needs and expectations.
-
-Before answering, please keep in mind that each question is optional unless marked as required, and your responses will be used for internal analysis only.
-
-</thinking>
-
 # Vehicle Feature Satisfaction Survey Form - Help Guide
 ## Purpose
 This form is designed to collect information about your vehicle and your experience with it. Your responses will help us understand your needs and expectations as a vehicle owner.

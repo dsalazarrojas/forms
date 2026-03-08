@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for clients to check in upon arrival to a consultation meeting. It is intended to gather necessary information from clients to ensure a smooth and successful meeting. By completing this form, clients will be able to provide their identification and contact information, specify the topic of discussion, and confirm their meeting details. It will also help the consultant or meeting officer verify the client's arrival status and ensure compliance with data privacy and GDPR regulations. Please ensure that the form fields are correctly filled out to avoid delays or miscommunication.</thinking>
-
 # Consultation Client Arrival Check In - Help Guide
 ## Purpose
 This form is used to collect information from clients upon arrival to a consultation meeting, ensuring a smooth and successful meeting.

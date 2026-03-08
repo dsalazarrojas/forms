@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # onsite_dynamic_risk_assessment_form - Help Guide
 ## Purpose
 The onsite dynamic risk assessment form is a tool used to evaluate and document potential risks associated with a site or location. This form helps assessors gather and record relevant information about the risks present at the site, enabling informed decision-making and risk management.

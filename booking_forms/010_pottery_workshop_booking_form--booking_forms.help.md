@@ -1,6 +1,3 @@
-<thinking>
-This help guide will cover the Pottery Workshop Booking Form, a digital form designed to facilitate the booking of pottery workshops. The form is intended for individuals to provide their details and preferences for a workshop, allowing them to express interest in a specific date and time, pay the required fee, and select their preferred payment method. To ensure accurate and relevant information, please fill out the form with the required details carefully. If you have any existing bookings, kindly use this form only for new or updated information, ensuring a seamless and efficient booking process.
-</thinking>
 # Pottery Workshop Booking Form - Help Guide
 
 ## Purpose

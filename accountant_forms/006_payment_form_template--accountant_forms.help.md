@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather payment information from users, likely for the purpose of processing transactions or payments. This form could be used in various contexts such as e-commerce platforms, online marketplaces, or financial institutions. 
-
-To determine the best course of action, we should review the form fields provided in the YAML configuration: credit card type, expiration month, expiration year, payment method, CVV/CVV2, 2-digit expiration date, CVV zip code, CVV country, phone number, address, city, and country code. This form does not require user authentication or any sensitive information, but it might be used for online payments or financial transactions.
-
-Given the fields, it appears this form is focused on credit card information. This form likely serves as a template or a base structure for users to input their payment details. The fields seem to be a combination of credit card specifics (expiration date, type, CVV, zip) and payment method options (payment amount, currency).
-
-Based on the structure and content of this form, we can create a clear and user-friendly help guide to assist end-users in completing it properly.
-</thinking>
-
 # Payment Form Template - Help Guide
 ## Purpose
 The Payment Form Template is designed to gather payment information from users for processing transactions or payments.

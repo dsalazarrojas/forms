@@ -1,5 +1,3 @@
-<thinking>...the Operational Readiness Assessment Template is used to assess the operational readiness of an organization. This form will help you evaluate the current state of your operational capabilities, management structure, communication, risk assessment, and overall performance. The assessment will provide a detailed understanding of your strengths and weaknesses, allowing you to identify areas that need improvement... </thinking>
-
 # Operational Readiness Assessment Template - Help Guide
 ## Purpose
 The Operational Readiness Assessment Template is a comprehensive form used to assess the operational readiness of an organization. This assessment provides a detailed understanding of the current state of your operational capabilities, management structure, communication, risk assessment, and overall performance.

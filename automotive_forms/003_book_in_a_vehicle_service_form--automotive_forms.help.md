@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the form's purpose, which is to book an in-vehicle service for a customer's vehicle. The form is likely to be used by customers who need to schedule a service appointment with a mechanic or service center. Given this context, I will create a help guide that explains the form's purpose, how to complete it, and what each field means.
-
-The form is meant to collect customer information, vehicle details, and service preferences. This includes first and last names, email address, phone number, vehicle make, model, year, registration number, current mileage, service type, preferred service date, preferred time slot, any additional concerns, and whether the vehicle is still under warranty.
-
-To avoid duplication and ensure the form is completed correctly, I will include an internal reasoning block to check for relevant information and prevent errors.
-
-</thinking>
-
 # Book In A Vehicle Service Form - Help Guide
 ## Purpose
 This form is used to book an in-vehicle service for your vehicle. Please provide your information and select your preferred service date and time to schedule an appointment.

@@ -1,7 +1,3 @@
-<thinking>
-The primary purpose of this form is to collect information for setting up and scheduling job interviews. This form is crucial for organizing and preparing for interviews, ensuring that all necessary details are captured and communicated effectively. Before proceeding, please ensure you have all the required information at hand, and review the form to avoid duplication of effort.
-</thinking>
-
 # Job Interview Appointment Form - Help Guide
 ## Purpose
 The Job Interview Appointment Form is used to collect details for setting up and scheduling job interviews.

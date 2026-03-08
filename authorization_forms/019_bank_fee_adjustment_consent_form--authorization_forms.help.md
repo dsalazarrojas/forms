@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bank Fee Adjustment Consent Form - Help Guide
 ## Purpose
 The "Bank Fee Adjustment Consent Form" is a document used to request adjustments to fees charged on your bank account. This form helps us understand your situation and the reason behind your request for an adjustment. By completing this form, you're providing us with the necessary information to review and potentially make changes to your fees.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used by facility management or HR staff to record the emergency evacuation authorization for an employee in case of an emergency. The purpose of this form is to provide a record of the employee's status in case of an emergency, which can be used for contact and communication. To avoid duplication, please fill out this form only for the employee who is absent due to an emergency. 
-</thinking>
-
 # Emergency Evacuation Authorization Form - Help Guide
 
 ## Purpose

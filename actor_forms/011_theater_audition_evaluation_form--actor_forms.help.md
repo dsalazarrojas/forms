@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # theater_audition_evaluation_form - Help Guide
 
 ## Purpose

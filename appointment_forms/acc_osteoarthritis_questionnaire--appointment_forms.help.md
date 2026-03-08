@@ -1,11 +1,3 @@
-<thinking> 
-  This guide is intended for pet owners who are completing the "ACC Osteoarthritis Questionnaire" for their pets.
-  This form is designed to help identify the symptoms and treatment history of osteoarthritis in pets.
-  It is essential to ensure that the form is completed accurately and thoroughly, as the information will be used to assess the pet's condition and determine the best course of treatment.
-  Please take the time to read through this guide carefully before starting the form.
-  If you have any doubts or concerns, please ask for help before completing the form.
-</thinking>
-
 # ACC Osteoarthritis Questionnaire - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lash Adhesive Product Demo Appointment - Help Guide
 ## Purpose
 This form is designed for customers to book a demo appointment with a representative from a company offering lash adhesive products. The form requests general product demo information, appointment scheduling details, and contact information. The purpose of this form is to facilitate communication and scheduling between the representative and the customer for a personalized product demo.

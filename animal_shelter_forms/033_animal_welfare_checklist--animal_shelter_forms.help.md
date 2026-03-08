@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block: This form is designed to assess the animal welfare of a given animal or facility by collecting information on various aspects of its living conditions and care. The form is used to identify areas for improvement and ensure that the animal is receiving the necessary care to maintain its health and well-being. The purpose of this form is to provide a comprehensive evaluation of the animal's welfare, helping animal shelters, rescues, or caregivers to identify potential issues and implement necessary changes to improve the animal's living conditions.
-</thinking>
-
 # Animal Welfare Checklist - Help Guide
 ## Purpose
 This form is designed to help animal shelters, rescues, and caregivers evaluate the welfare of an animal in their care. It assesses various aspects of the animal's living conditions, including access to clean drinking water, nutrition, cleanliness of the living area, space for movement, veterinary care records, physical health, behavior, and overall welfare score.

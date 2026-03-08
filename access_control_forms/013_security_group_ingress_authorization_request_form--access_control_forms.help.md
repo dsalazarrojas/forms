@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for requesting access to a security group within the organization. The purpose of the form is to gather information for an access control decision made by an approver or approvers. The information collected includes the security group ID, description of the request, the date and time of the request, the security group to access, the reason for the request, and the identity of the person making the request. The form will be reviewed by an approver or approvers to determine the status of the request, which can be approved, rejected, or pending. The form is used for administrative purposes and is intended to streamline the process of access control decisions.
-
-</thinking>
-
 # Security Group Ingress Authorization Request Form - Help Guide
 ## Purpose
 This form is used to request access to a security group within the organization. It is intended for administrative purposes and to streamline the process of access control decisions.

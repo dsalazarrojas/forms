@@ -1,8 +1,3 @@
-<thinking>
-The form "fruit_juice_quality_assessment" is used to assess the quality of a fruit juice sample. It is used by authorized individuals to evaluate the appearance, taste, aroma, color, and other characteristics of a fruit juice product.
-To ensure accurate and consistent data, please fill out this form with care.
-</thinking>
-
 # fruit_juice_quality_assessment - Help Guide
 
 ## Purpose

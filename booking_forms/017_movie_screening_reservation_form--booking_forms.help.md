@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help users reserve a movie screening. The form is divided into several sections, each with a specific purpose:
-- Selecting the movie to be screened.
-- Selecting the screening time.
-- Selecting the seats to be reserved.
-- Confirming the reservation.
-- Confirming the form submission.
-- Providing additional comments.
-- Inputting the email address for the reservation.
-
-The form is intended for users to provide their preferences and confirm their reservations. However, some fields are not required, and users can choose to provide their information or not.
-
-To ensure that users understand the form's purpose and the importance of each field, it's essential to provide a clear and concise help guide.
-</thinking>
-
 # Movie Screening Reservation Form - Help Guide
 ## Purpose
 This form is designed to help users reserve a movie screening. Users will be able to select their preferred movie, screening time, seats, and other options to make their reservation.

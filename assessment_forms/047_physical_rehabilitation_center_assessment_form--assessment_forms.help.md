@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to create a comprehensive assessment of patients in a physical rehabilitation center. The form collects patient information, medical history, physical assessment, functional status, rehabilitation plans, patient goals, treatment options, and family history.
-
-The form is designed to gather essential information about each patient, which will be used by the rehabilitation center staff to provide personalized care and treatment.
-
-The form should only be used for internal purposes, not for collecting sensitive or personal data of individuals without explicit consent. The form's data should not be shared or distributed without proper authorization and clearance.
-
-</thinking>
-
 # Physical Rehabilitation Center Assessment Form - Help Guide
 ## Purpose
 The Physical Rehabilitation Center Assessment Form is a comprehensive assessment tool used by the rehabilitation center staff to collect essential information about each patient.

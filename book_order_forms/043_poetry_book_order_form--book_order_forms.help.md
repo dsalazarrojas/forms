@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user information and book orders for a poetry book service. It may not be affiliated with, endorsed by, or derived from any form platform, and is instead created using public survey topic metadata. Its originality and non-proprietary nature make it open to modification, usage, and even resale. The form's CC BY 4.0 license allows for free use, modification, and distribution. Contact the form creator at form@gic.mx.
-</thinking>
-
 # Poetry Book Order Form - Help Guide
 
 ## Purpose

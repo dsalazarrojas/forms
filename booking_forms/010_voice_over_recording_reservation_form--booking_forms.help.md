@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information for voice over recording sessions. The form purpose is to gather essential details from clients to schedule and facilitate smooth voice over recording sessions. This form is intended to be filled out by clients to provide their project information, preferences, and requirements for the voice over recording process. 
-
-Before filling out this form, please ensure you are not duplicating a previous reservation, as multiple reservations with the same project details might lead to incorrect or duplicated work.
-
-</thinking>
-
 # Voice Over Recording Reservation Form - Help Guide
 ## Purpose
 

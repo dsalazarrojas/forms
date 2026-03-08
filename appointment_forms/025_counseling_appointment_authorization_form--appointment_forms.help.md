@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from clients for counseling sessions. It is used to verify client details, schedule session dates and times, and obtain consent for participation. Before filling out this form, please ensure you have not previously completed it as a duplicate submission will be considered invalid.
-</thinking>
-
 # counseling_appointment_authorization_form - Help Guide
 ## Purpose
 The counseling appointment authorization form is designed to collect necessary information from clients for counseling sessions. This form includes details such as client contact information, session dates and times, and a consent statement.

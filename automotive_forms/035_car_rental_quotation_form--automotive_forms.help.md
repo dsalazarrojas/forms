@@ -1,24 +1,3 @@
-<thinking>
-The Car Rental Quotation Form is designed to gather information from customers about their car rental requirements. This form is used to create an accurate quote for the customer's rental needs. 
-
-To fill out this form correctly, the customer must provide their contact information (first and last name, email, phone number), their company name (if applicable), and their address. They must also provide details about their rental requirements, such as the pickup and return locations, dates, and times, as well as the type of vehicle they need. 
-
-The form asks for specific vehicle preferences, such as transmission type, fuel type, and passenger capacity, to ensure that the customer gets the correct vehicle. It also asks for additional services like GPS navigation and child safety seats. 
-
-The form also asks for information about the customer's insurance preferences, driver information, and any special requests. 
-
-The customer can choose how to receive the quote (email, phone call, text message, or fax), and how long the quote is valid for (24 hours, 48 hours, 1 week, 2 weeks). They can also provide a budget range and any additional comments. 
-
-Note that the form is divided into two pages: one for customer information and one for rental details. This division helps to organize the customer's needs and preferences, making it easier for them to provide accurate information and for the rental company to create an accurate quote. 
-
-The form is designed to be completed by the customer themselves, but the rental company's employees will review and process the information before providing the final quote. 
-
-The form should be used for both business and personal car rentals, but it is not designed for special events or other types of rentals. 
-
-The form should not be used if the customer is unsure of their rental needs or has multiple quotes to compare. 
-
-</thinking>
-
 # Car Rental Quotation Form - Help Guide
 ## Purpose
 The Car Rental Quotation Form is designed to gather information from customers about their car rental requirements, allowing the rental company to create an accurate quote for the customer's needs.

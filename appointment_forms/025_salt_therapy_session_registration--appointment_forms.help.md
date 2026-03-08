@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect information from users for salt therapy sessions. The form is intended for users who need to register for a salt therapy appointment. The fields within the form are meant to collect personal details of the user, appointment details, and contact information. To ensure that the form is only used for its intended purpose, it is recommended to check the form's purpose and content before submitting it, to verify that it is not a duplicate form or a form for a different purpose. If you are unsure, please contact the form creators for further clarification.
-</thinking>
-
 # Salt Therapy Session Registration - Help Guide
 ## Purpose
 This form is used to register users for a salt therapy session. To use this form, please fill in the required fields with your personal and appointment details.

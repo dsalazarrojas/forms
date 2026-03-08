@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about ocean alkalinity assessment, a process that measures the pH level of sea water. The form is intended for field personnel or researchers to document their sampling location, date, temperature, salinity, and other relevant details. Before filling out this form, ensure you have a valid reason for assessing ocean alkalinity and that the information you provide is accurate and relevant to the specific location being assessed.
-
-</thinking>
-
 # Ocean Alkalinity Assessment Form - Help Guide
 ## Purpose
 The Ocean Alkalinity Assessment Form is a tool for collecting and documenting ocean alkalinity data from sampling locations.

@@ -1,5 +1,3 @@
-<thinking>As this form is designed to collect information about a person's relationship, it is intended for users who are in a romantic relationship or have a romantic relationship in their past. This form is not designed for users who are in a platonic relationship or do not have a romantic relationship. Please ensure you are in the correct category before completing this form.</thinking>
-
 # Relationship Self Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your romantic relationship, including your relationship type, status, and dynamics.

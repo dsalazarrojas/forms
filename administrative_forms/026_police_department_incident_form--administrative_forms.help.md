@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about incidents reported to the police department. It is meant to be used by police officers to record and track incidents, and by other stakeholders to gather details about the incidents. The form should not be used for non-official purposes or for collecting personal data without proper authorization. The form fields are designed to be completed by the officer or person reporting the incident.
-
-</thinking>
-
 # police_department_incident_form - Help Guide
 ## Purpose
 This form is used to collect information about incidents reported to the police department.

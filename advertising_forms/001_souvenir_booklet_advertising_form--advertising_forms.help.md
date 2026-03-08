@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses interested in advertising their products or services in a souvenir booklet. The purpose of this form is to gather contact and payment details from businesses, as well as information about their desired advertising size and method. This form is meant for internal use by the souvenir booklet's administrators, not for external customers.
-</thinking>
-
 # Souvenir Booklet Advertising Form - Help Guide
 ## Purpose
 This form is used to collect advertising information from businesses for inclusion in a souvenir booklet.

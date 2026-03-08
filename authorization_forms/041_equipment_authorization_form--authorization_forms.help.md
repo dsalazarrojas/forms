@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help non-technical users complete the Equipment Authorization Form. This form is likely used for requesting access to or permission to use specific equipment within an organization. It's essential to ensure that the form is completed accurately and thoroughly for efficient processing. To avoid errors and duplication, users should review the form carefully before submitting it. The form consists of several fields that need to be completed with specific information. This guide will walk you through each field, explaining its purpose and requirements.
-</thinking>
-
 # Equipment Authorization Form - Help Guide
 ## Purpose
 The Equipment Authorization Form is a tool used for requesting access to or permission to use specific equipment within an organization. This form helps ensure that equipment usage is authorized and tracked correctly.

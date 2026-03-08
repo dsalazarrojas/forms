@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers who have rented a car from our company. It's meant to be filled out by customers who have had an experience with our car rental services, and it will help us improve our services for future customers.
-The form is not meant for customers who are currently renting a car, and it's not a required form for all customers. It's for customers who want to provide their feedback and help us grow as a company.
-
-This form is used to ask various questions about the customer's experience with our car rental services, including their satisfaction with the rental process, the condition and cleanliness of the vehicle, the friendliness and professionalism of our staff, and any additional services they used during their rental. It's used to help us identify areas where we need to improve and make changes to better serve our customers.
-
-The form is filled out by customers after their rental experience is complete and before they return the vehicle. The feedback collected will help us improve our car rental services, and it's not a required form for all customers.
-
-This form will help us gather information about the customer's experience with our car rental services, including their:
-    - Satisfaction with the overall experience
-    - Vehicle condition and cleanliness
-    - Staff friendliness and professionalism
-    - Additional services used
-    - Likelihood to recommend our services to others
-
-Please fill out this form to help us improve our car rental services.
-</thinking>
-
 # Car Rental Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers who have rented a car from our company. It will help us improve our services and better serve our customers.

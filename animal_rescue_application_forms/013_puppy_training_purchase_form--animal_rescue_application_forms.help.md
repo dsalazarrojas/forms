@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from users who want to purchase puppy training services from the organization. It's crucial to ensure that the user provides accurate contact information to facilitate effective communication and follow-up actions. To prevent duplication, we should check if the user has already submitted a form in the past 30 days. This will help us ensure that we're not spamming or flooding users with unnecessary follow-ups. By requiring only basic information, we're making it easy for users to fill out the form without being overwhelmed with too many fields.</thinking>
-
 # Puppy Training Purchase Form - Help Guide
 ## Purpose
 The Puppy Training Purchase Form is designed to collect information from customers interested in purchasing puppy training services. This form helps us understand their needs and preferences to provide them with the best possible training experience.

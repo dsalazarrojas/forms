@@ -1,10 +1,3 @@
-<thinking>
-The form "Prescriptive Authority Agreement" is a critical document that outlines the terms and conditions of a prescriptive authority agreement between a prescriber and a facility. This form is used to establish a legal agreement between two parties, ensuring that both parties are aware of their responsibilities and commitments.
-
-Before we proceed, let's ensure that the form is being used for its intended purpose and that there is no duplication of efforts. This form should only be used when a prescriber needs to establish a legal agreement with a facility for the purpose of prescriptive authority.
-
-</thinking>
-
 # Prescriptive Authority Agreement - Help Guide
 ## Purpose
 The Prescriptive Authority Agreement form is a legal document that outlines the terms and conditions of an agreement between a prescriber and a facility. This form is used to establish a clear understanding of the responsibilities and commitments of both parties.

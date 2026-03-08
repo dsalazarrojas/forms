@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess a user's self-report measures. Self-report measures are questionnaires or surveys used to collect self-reported data from users, typically to gather information about their thoughts, feelings, or behaviors. This form is part of a larger assessment process that aims to gather insights into a specific set of topics or domains. 
-The form is composed of several sections, each asking about different aspects of the user's experiences or behaviors. The user is asked to select one or multiple options for each section, depending on the type of question. 
-To ensure that each user's responses are unique, this form has been designed to be filled out by one user at a time.
-</thinking>
-
 # self_report_measures_assessment_form - Help Guide
 ## Purpose
 

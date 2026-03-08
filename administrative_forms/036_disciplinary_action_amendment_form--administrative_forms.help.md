@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disciplinary Action Amendment Form - Help Guide
 
 ## Purpose

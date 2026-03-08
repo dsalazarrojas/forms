@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for verifying the status of a medication batch. It is used by pharmacists to report on the completion, incompleteness, or non-started status of a batch. The form is typically used in a hospital setting for quality control and record-keeping purposes.
 
 # medication_batch_validation_form - Help Guide

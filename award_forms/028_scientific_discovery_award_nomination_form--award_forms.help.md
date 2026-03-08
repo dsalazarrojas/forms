@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form is called "Scientific Discovery Award Nomination Form" and is part of a category called "award_forms". The form has multiple pages with various fields such as "Nominator Information", "Award Nominator Information", "Nomination Reason", "Award Nomination Category", "Award Nomination Year", "Award Nomination Description", "Award Nomination URL", "Nominator's Relationship with the Nominee", "Nomination Supporting Letter", "Nomination Supporting Document", "Nomination Supporting Document URL", "Nomination Supporting Letter URL", "Nominee's CV or Bio", "Nomination Supporting Document 2", "Nomination Supporting Document 2 URL", "Nomination Supporting Letter 2", "Nomination Supporting Letter 2 URL".
-
-This form is likely used to nominate a scientific discovery for an award. The form collects information about the nominator, the award nomination, and supporting documents or letters to support the nomination.
-
-The fields on the form can be broadly divided into three sections: nominator information, award information, and supporting documents. This division suggests that the form is used to gather information about the person nominating the scientific discovery, the details of the discovery itself, and any supporting materials that can attest to its significance or relevance.
-
-Upon further analysis, it seems that this form is used for internal purposes within an organization or company to nominate scientific discoveries for awards. The purpose of the form is likely to standardize the process of nominations and ensure that all relevant information is provided.
-
-
-</thinking>
-
 # Scientific Discovery Award Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate a scientific discovery for an award. It collects information about the person nominating the discovery, the details of the discovery, and any supporting materials that can attest to its significance or relevance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Yummlies Cupcakes - Help Guide
 
 ## Purpose

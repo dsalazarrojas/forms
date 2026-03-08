@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the respiratory system of a patient, including their medical history, symptoms, vital signs, and medication list. It's likely used by healthcare professionals to monitor and evaluate the patient's condition. The form likely aims to gather detailed information about the patient's respiratory system, which will help in making informed decisions about their treatment and care.
-</thinking>
-
 # Respiratory Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the respiratory system of a patient, gathering information on their medical history, symptoms, vital signs, and other relevant details.

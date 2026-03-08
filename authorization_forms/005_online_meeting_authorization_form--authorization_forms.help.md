@@ -1,13 +1,3 @@
-<thinking>
-This form is used to authorize online meetings, which is a crucial part of our business operations. It ensures that all participants are aware of the meeting details and have agreed to the terms and conditions before attending. This form is a critical component of our risk management and compliance procedures.
-
-This form must not be filled out by participants who do not have the authority to do so. In case of any discrepancies or issues, please contact the meeting organizer or your supervisor for assistance.
-
-Before completing this form, ensure that you have the necessary information and approvals in place. This form is not a substitute for other required documentation or procedures.
-
-Please note that some fields are required, and failing to provide the required information may result in delays or issues with the meeting arrangements.
-
-</thinking>
 # Online Meeting Authorization Form - Help Guide
 ## Purpose
 The Online Meeting Authorization Form is designed to gather essential information from participants before the meeting takes place. This form ensures that all attendees are aware of the meeting details and have agreed to the terms and conditions.

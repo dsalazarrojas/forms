@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to document chemical spill incidents in a comprehensive and structured manner. The form is designed to capture relevant details about the spill, including its location, cause, and response actions taken. This information will be used to improve incident response and prevention measures to minimize future incidents.
-To avoid duplication of work, please ensure that you are only submitting this form for new incidents. If a report has already been submitted, please do not resubmit it.
-</thinking>
-
 # Chemical Spill Incident Form - Help Guide
 ## Purpose
 This form is used to document chemical spill incidents to improve incident response and prevention measures.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about their roadside assistance service needs and preferences. The form is designed to be simple and easy to use, with a focus on understanding the customer's requirements and providing them with relevant services. Before filling out this form, please ensure that you have already submitted a request for roadside assistance and that you have a valid reason for filling out this form (e.g. you are not filling it out for testing or training purposes). 
-
-The form is divided into multiple sections, each with a specific purpose. Each section has a brief explanation to guide the user on what information to provide and what is expected from them. If you have any doubts or concerns, please reach out to our support team for assistance.
-</thinking>
-
 # Roadside Assistance Service Recommendation Form - Help Guide
 ## Purpose
 This form is designed to help our roadside assistance service team understand your specific needs and preferences for roadside assistance services. Please provide as much detail as possible to ensure we can tailor our services to your requirements.

@@ -1,5 +1,3 @@
-<thinking>...internal logic dictates this form is used to collect information about a student's ability to ride horses, including their name, age, contact information, riding experience, and waiver of liability. This form helps us ensure that students are aware of the risks involved in horse riding and their instructor's name and contact information are on file. It also captures the start and end time of riding lessons and emergency contact information. The form's fields aim to provide necessary details while keeping it concise and accessible for students to fill out. The form will not be filled out if the student answers "No" to "Riding Lesson Admission Form" at the start...)</thinking>
-
 # Riding Lesson Admission Form - Help Guide
 ## Purpose
 This form is used to gather information about students before they begin riding lessons.

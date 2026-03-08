@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Typhoid Vaccination Registration Form - Help Guide
 ## Purpose
 The Typhoid Vaccination Registration Form is a document used for registering and recording information about individuals who receive typhoid vaccinations. This form captures essential details such as user identification, vaccination history, and consent for medical procedures.

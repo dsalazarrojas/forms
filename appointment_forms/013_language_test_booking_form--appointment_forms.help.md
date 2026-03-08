@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for language test booking purposes, and it appears to be used to collect information from candidates regarding their language test preferences and scheduling needs. The form is designed to be completed by candidates, and the fields are mostly boolean or select-one/select-multiple fields, suggesting it's a simple data collection form for language testing purposes.
-
-Before we dive into the help guide, let's ensure that this form is relevant and not a duplication. This form seems to cover a variety of language testing aspects, including scheduling, proficiency level, test center, and more. It's possible that this form is used in a language testing or assessment context.
-
-Please confirm or deny this assumption.
-
-Assuming this form is relevant and not a duplicate, let's proceed with the help guide.
-</thinking>
-
 # Language Test Booking Form - Help Guide
 ## Purpose
 

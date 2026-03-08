@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect input and output data for evaluation purposes. This form is used to gather information on various aspects of a project, including process input, output, and quality measures. The form is not required for all users, but it is recommended for users who need to evaluate the input and output of their projects.
-
-Please make sure to fill out this form only for the relevant project and do not duplicate entries.
-
-</thinking>
-
 # Input Output Evaluation Form - Help Guide
 ## Purpose
 The Input Output Evaluation Form is used to collect input and output data for evaluation purposes.

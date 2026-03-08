@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Record Release Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization for the release of veterinary records to a third-party individual or organization. It is a crucial document that ensures the pet owner's consent is obtained before releasing sensitive medical information. The form is typically used when a pet owner is unable to pick up their pet after a veterinary visit or when the pet needs to be transferred to another facility.

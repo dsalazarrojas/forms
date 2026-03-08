@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to request an extension for filing franchise taxes for an entity. This form will be used to gather information from the user to facilitate the extension process. It is essential to ensure that all relevant fields are completed accurately to avoid any errors or discrepancies. To prevent duplication, users should only complete the form once per entity.
-</thinking>
-
 # Franchise Tax Extension Form - Help Guide
 ## Purpose
 This form is designed to help you request an extension for filing franchise taxes for an entity. Please fill out the form accurately to ensure a smooth extension process.

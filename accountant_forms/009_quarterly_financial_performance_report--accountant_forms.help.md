@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture the user's feedback on the quarterly financial performance report, allowing them to indicate if they have reviewed and accepted the report, provide any financial or operations data updates, and upload relevant files. This form is likely used by accounting or financial teams to track and manage financial performance across different quarters.
-
-The form is not strictly required to be completed for every quarter, and some fields are optional, allowing for flexibility in reporting.
-</thinking>
-
 # Quarterly Financial Performance Report - Help Guide
 ## Purpose
 The Quarterly Financial Performance Report is a form that captures feedback and information on the quarterly financial report.

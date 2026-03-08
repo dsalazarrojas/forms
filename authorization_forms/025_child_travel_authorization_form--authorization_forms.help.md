@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain authorization for a child to travel, which involves collecting information about the child, the accompanying adult, and travel details. The form ensures that necessary permissions are obtained from the child's parent or guardian before allowing travel. This form will be used internally to verify the child's travel plans and ensure that the accompanying adult is authorized to care for the child during travel.
-</thinking>
-
 # Child Travel Authorization Form - Help Guide
 ## Purpose
 The Child Travel Authorization Form is used to collect information about the child, the accompanying adult, and travel details. This form ensures that necessary permissions are obtained from the child's parent or guardian before allowing travel.

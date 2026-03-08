@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to capture essential information during the handover process from sales operations to other teams. The purpose of this form is to gather details about a client's sales operations and ensure a seamless transition of tasks and responsibilities. By completing this form, you will be able to provide critical information to the next team member, allowing them to quickly understand the status of the client's sales operations and take necessary steps to maintain or improve the situation.
-
-</thinking>
-
 # Sales Operations Handover Checklist - Help Guide
 ## Purpose
 This form is designed to facilitate the handover process of sales operations between teams. It ensures that all critical information is captured and shared to guarantee a smooth transition of tasks and responsibilities.

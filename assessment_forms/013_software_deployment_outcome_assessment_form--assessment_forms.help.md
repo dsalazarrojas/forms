@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the outcome of software deployment, gathering information about the release results, IT team involvement, documented issues, issue description, issue priority, issue frequency, root cause, corrective action, follow-up, next steps, and issues resolved. This form is meant to be completed by the deployment team after a deployment has been performed, to ensure that all necessary information is captured and documented. It is essential to complete this form accurately and thoroughly to provide a clear understanding of the deployment outcome. Please ensure that you only complete this form once the deployment has been completed and all relevant information is available. This form should not be completed in parallel with the deployment process. 
-
-</thinking>
-
 # Software Deployment Outcome Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the outcome of software deployment, ensuring that all necessary information is captured and documented.

@@ -1,14 +1,3 @@
-<thinking> 
-This form is for obtaining a waiver and liability release from participants in a drone racing event. The purpose of this form is to ensure that participants understand and agree to the risks involved in the event and to release and hold harmless all parties responsible for the event and the drone. This form is not a standard waiver of liability but rather a specific one tailored for drone racing events. 
-
-The form has 25 fields but some of the fields can be skipped by selecting the correct options in other fields. For example, if the participant selects "I am an event organizer" then the fields "Parent or Guardian Name", "Participant Phone", "Participant Address", and "Participant Waiver" will be skipped. 
-
-To complete this form, the participant (or their parent/guardian) needs to provide some personal information, such as their name, email address, and phone number. They also need to select the correct drone type, size, speed, experience, and license type. The participant (or their parent/guardian) also needs to agree to the waiver and liability release terms. 
-
-Each field in this form is required, but some fields can be skipped based on the options selected in other fields. For example, if the participant selects "I have a commercial pilot license" then the fields "Drone Experience" will be skipped. Also, if the participant selects "Drone 1" then the fields "Drone Size", "Drone Speed", and "Drone Experience" will be skipped. 
-
-The form is divided into several sections. The first section is for personal information and waiver agreement. The second section is for event information. The third section is for drone information and waiver agreement.</thinking>
-
 # Drone Race Liability Waiver - Help Guide
 ## Purpose
 

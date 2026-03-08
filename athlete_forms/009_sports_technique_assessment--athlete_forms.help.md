@@ -1,14 +1,3 @@
-<thinking>
-This guide provides a step-by-step explanation of how to complete the "Sports Technique Assessment" form for athletes. The form is intended to evaluate an athlete's sports technique and assess their skill level, technique name, and other relevant details.
-
-This guide is provided to assist users in understanding the form's purpose, filling it out correctly, and what each field is intended for.
-
-Please note that this form is part of a larger system, and it is recommended that you review the entire form carefully before proceeding.
-
-Also, please be aware that this form is not meant for duplicate entries. If you need to assess an athlete's sports technique multiple times, please create a new instance of this form.
-
-</thinking>
-
 # Sports Technique Assessment - Help Guide
 ## Purpose
 

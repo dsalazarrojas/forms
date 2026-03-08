@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I need to create a user-friendly help guide for the Tech Customer Support Assessment Form. This form is designed to gather information from customers to assess their technical support experience. Before starting the form, I would like to check if this is not a duplicate submission, as some of these fields are optional and could potentially lead to redundant data collection. I will assume that customers will be using this form for the first time.</thinking>
-
 # Tech Customer Support Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your technical support experience and help us better understand your needs.

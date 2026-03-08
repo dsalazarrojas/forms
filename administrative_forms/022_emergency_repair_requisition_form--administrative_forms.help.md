@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Emergency Repair Requisition Form is used correctly to prevent duplication and ensure that the repair requests are properly categorized and processed. This form should only be used for emergency repairs that require immediate attention. Non-emergency repairs should be submitted through other channels. 
-</thinking>
-
 # Emergency Repair Requisition Form - Help Guide
 
 ## Purpose

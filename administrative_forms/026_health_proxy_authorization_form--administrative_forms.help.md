@@ -1,7 +1,3 @@
-<thinking>
-This form is used to authorize a health proxy, which is a person who is authorized to make medical decisions on behalf of another person. This form is typically used for patients or individuals who are unable to make their own medical decisions due to a medical condition or other reasons. 
-</thinking>
-
 # Health Proxy Authorization Form - Help Guide
 ## Purpose
 This form is used to designate a health proxy for an individual who is unable to make their own medical decisions. A health proxy is an individual authorized to make medical decisions on behalf of another person.

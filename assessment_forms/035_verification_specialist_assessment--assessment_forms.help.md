@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Verification Specialist Assessment" form, we need to understand the form purpose and the fields it contains. Based on the form YAML, the purpose of this form is to assess a verification specialist's skills and knowledge, and it appears to be a structured assessment with multiple fields. Each field seems to be optional, which may be intended to accommodate different user scenarios or situations. The form also includes fields for candidate details, assessment date and time, and verification specialist information. To determine if a field is required or not, we should check the "required" field in the YAML. For instance, "candidate_details" is not required. 
-
-Let's go through the fields one by one to make sure each one is clear and concise:
-
-</thinking>
-
 # Verification Specialist Assessment - Help Guide
 ## Purpose
 The Verification Specialist Assessment is a form used to assess a verification specialist's skills and knowledge. It appears to be a structured assessment with multiple fields that collect various information about the verification specialist. Each field is optional, allowing for flexibility in different user scenarios or situations.

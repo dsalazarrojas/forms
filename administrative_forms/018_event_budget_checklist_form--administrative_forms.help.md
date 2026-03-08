@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information for event budget planning and tracking. This form is likely used by event organizers to gather estimates and actual expenses for different categories (venue, catering, entertainment, marketing, and others). The field names are fairly self-explanatory, but the "other" category is a catch-all for expenses that don't fit into the other categories. There may be some overlap with other event planning forms, so it's worth double-checking that this form is the correct one for the use case.
-</thinking>
-
 # Event Budget Checklist Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the form is for a "Surf School Liability Waiver" used to collect participant information for a surf school, including contact details, medical conditions, and emergency contact information. This form is likely used by surf schools to gather necessary information from participants before they engage in surfing activities. This form is not a legal contract, but rather a waiver to be signed by the participant or their parent/guardian. 
-
-</thinking>
-
 # Surf School Liability Waiver - Help Guide
 ## Purpose
 This form is designed to gather participant information, including contact details, medical conditions, and emergency contact information from participants or their parents/guardians for a surf school.

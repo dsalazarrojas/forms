@@ -1,12 +1,3 @@
-<thinking>
-**This is a technical writing exercise**
-
-The purpose of the "Department Condition Assessment" form is to gather information about the current state of a department or organization. The form consists of multiple pages with various fields for the user to input their assessment. 
-
-**Note:** Before starting the assessment, please confirm that you are in the correct form and that it is not a duplicate request. 
-
-</thinking>
-
 # Department Condition Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about the current state of a department or organization. It is an important tool for assessing the condition of departments and identifying areas that need improvement.

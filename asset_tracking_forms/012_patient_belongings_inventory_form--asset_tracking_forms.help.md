@@ -1,7 +1,3 @@
-<thinking>
-The form "Patient Belongings Inventory Form" is intended to track and manage the belongings of patients in a healthcare setting. The form is used to record information about the patient's belongings, including the category and subcategory, item description, date and time received, value, status, and any comments or asset tags associated with the item. This form is likely used in a clinical environment to maintain accurate records and ensure patient property is properly tracked and accounted for.
-</thinking>
-
 # Patient Belongings Inventory Form - Help Guide
 ## Purpose
 The Patient Belongings Inventory Form is used to track and manage patient property within a healthcare setting.

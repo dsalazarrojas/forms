@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book an appointment at a nail salon. It is designed to gather information from clients about their preferred time slot, desired services, appointment date, and other relevant details. The form ensures that clients select a valid time slot and date for their appointment, and provides an option to add any additional comments. The confirmation fields at the end of the form are used to confirm the client's phone number and email address. The form's design makes it easy for clients to understand what information is required and what options are available for them to choose from.
-</thinking>
-
 # Nail Salon Appointment Form - Help Guide
 ## Purpose
 The Nail Salon Appointment Form is used to book an appointment at a nail salon. It is designed to gather information from clients about their preferred time slot, desired services, appointment date, and other relevant details.

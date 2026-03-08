@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Workshop Planning Appointment Form - Help Guide
 
 ## Purpose

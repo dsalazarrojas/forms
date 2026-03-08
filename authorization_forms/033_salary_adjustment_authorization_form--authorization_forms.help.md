@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a request for salary adjustments, likely for an employee, with multiple fields for different types of information such as employee details, justifications, and approver information. To confirm, the purpose of this form is to facilitate the authorization process for salary changes, and it seems to be intended for use by HR or similar administrative personnel. The form likely serves as a template to guide these individuals in collecting the necessary information for each salary change request. It's possible that this form is part of a more comprehensive system for managing employee data and requests.
-
-To avoid duplication of effort, please ensure that the form fields are correctly filled out according to your organization's internal processes and procedures.
-
-</thinking>
-
 # Salary Adjustment Authorization Form - Help Guide
 ## Purpose
 The Salary Adjustment Authorization Form is a template for requesting salary changes for an employee. This form helps guide HR or administrative personnel in collecting the necessary information for each request.

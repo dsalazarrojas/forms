@@ -1,8 +1,3 @@
-<thinking>
-The form "it_infrastructure_evaluation_form" is designed to collect information about the infrastructure of an organization. The purpose of this form is to assess the status of the infrastructure, including team size, location, infrastructure type, and other relevant details. This form is intended for use by authorized personnel within the organization to ensure that the infrastructure is properly evaluated and maintained.
-Please ensure that you are filling out this form if you have been assigned to do so by authorized personnel. If you have already filled out this form, please do not repeat your submission.
-</thinking>
-
 # it_infrastructure_evaluation_form - Help Guide
 ## Purpose
 The "it_infrastructure_evaluation_form" is designed to collect information about the current state of the organization's infrastructure.

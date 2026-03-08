@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a travel permit for a dental clinic. The form is likely used to gather details about the user's trip, including general information, medical license, vehicle license, travel details, travel reason, return ticket, and travel duration. The form is not strictly required, and its purpose is to collect information that the clinic may find useful or necessary for the user's travel. Before proceeding, please review the form carefully and ensure that all required fields are filled out accurately.
-</thinking>
-
 # Travel Permit Form For Dental Clinic - Help Guide
 ## Purpose
 This form is designed to collect information from users for a travel permit for a dental clinic. The information collected will be used by the clinic for the user's travel purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creative Assessment Research Application Form - Help Guide
 
 ## Purpose

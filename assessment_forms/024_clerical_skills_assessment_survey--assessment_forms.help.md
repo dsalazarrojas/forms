@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clerical Skills Assessment Survey - Help Guide
 
 ## Purpose

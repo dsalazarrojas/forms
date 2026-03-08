@@ -1,9 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the Athlete Scout Referral Form. The form is designed to collect relevant information about an athlete's skills and abilities, providing a detailed assessment of their potential for evaluation. Users should ensure they complete the form for the right purpose and with the athlete's consent. Referrals should not be duplicated, as this can lead to unnecessary evaluations and potential confusion.
-
-This form is intended for individuals who wish to refer an athlete for evaluation. It gathers information from the referrer, including their contact details and relationship with the athlete, as well as the athlete's details and performance data. The form is essential for the athlete development process and should be completed accurately and thoroughly.
-</thinking>
-
 # Athlete Scout Referral Form - Help Guide
 ## Purpose
 The Athlete Scout Referral Form is designed to collect information about an athlete's skills, abilities, and potential for evaluation. This form is used to identify promising athletes and provide them with guidance and resources for their development.

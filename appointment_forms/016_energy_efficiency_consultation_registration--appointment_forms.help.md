@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in booking an energy efficiency consultation appointment. The form aims to gather contact details and scheduling preferences from the user to facilitate a smooth consultation experience. Please note that this form is not intended for duplicate or internal use, and it is assumed that the user is a genuine customer seeking a consultation. Before proceeding, kindly review the form carefully to ensure you've completed it accurately.</thinking>
-
 # energy_efficiency_consultation_registration - Help Guide
 ## Purpose
 This form is used to book an energy efficiency consultation appointment with our team. Please fill out the form with your details to schedule a consultation that suits you best.

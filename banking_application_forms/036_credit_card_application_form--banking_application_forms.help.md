@@ -1,15 +1,3 @@
-<thinking>**Form purpose:** This form is intended to help applicants apply for a credit card. 
-
-The form guides the user through providing necessary information about themselves, their employment status, and their financial situation in order to assess their eligibility for a credit card.
- 
-It appears the form is meant for personal, non-commercial use and is likely part of an online banking application process.
- 
-The form includes a wide range of fields, such as personal details, employment status, income, and financial information, which will be used to evaluate the applicant's eligibility.
- 
-The form's purpose is to gather necessary information for credit assessment. 
-
-</thinking>
-
 # credit_card_application_form - Help Guide
 
 ## Purpose

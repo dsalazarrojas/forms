@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the form is to collect patient information and schedule appointments at the Kidney Clinic. This form is used to gather essential details such as contact numbers, appointment types, and selected date and time for the scheduled appointment. It also allows patients to provide their comments and allows doctors to input their comments. The form is designed to be easy to use and understand, and it's meant for both new and existing patients.
-
-This form is designed for both new and existing patients, hence the need to specify appointment types. This form will guide end-users through the process of filling out the form accurately and efficiently.
-
-Please note that the form fields are mostly optional, which means that users can fill in only the required information and skip the optional ones.
-</thinking>
-
 # Kidney Clinic Doctor Appointment Form - Help Guide
 
 ## Purpose

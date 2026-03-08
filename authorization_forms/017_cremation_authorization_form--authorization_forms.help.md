@@ -1,10 +1,3 @@
-<thinking>
-To ensure that this form is not filled out unnecessarily or in error, consider the following before proceeding:
-- The form is typically used when an individual is deceased, and a representative (such as a family member) is filling out the form.
-- The form is usually completed in conjunction with a death certificate or other relevant documentation.
-- It's essential to fill out this form accurately, as it will be used to make decisions about funeral arrangements, including the possibility of cremation.
-</thinking>
-
 # Cremation Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize the cremation of an individual who has passed away. It is completed by a representative of the deceased, typically a family member.

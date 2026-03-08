@@ -1,23 +1,3 @@
-<thinking>
-This form is intended for reporting incidents of harassment, providing a structured and confidential way for witnesses or victims to share details about the incident. The form is designed to be filled out by individuals who have witnessed or experienced harassment. The purpose of this form is to gather information necessary for further investigation and resolution. Please note that submitting this form will not automatically trigger any immediate action but will be reviewed and acted upon in accordance with internal policies and procedures.
-
-The form has 13 fields, each with a specific purpose:
-*   **Report Details (1)**: This field allows you to briefly describe the incident you are reporting.
-*   **Date of Occurrence (2)**: Enter the date when the incident happened.
-*   **Time of Occurrence (3)**: Enter the time of the incident.
-*   **Description of Incident (4)**: This is a more detailed account of the incident.
-*   **Perpetrator Info (5)**: Enter any identifying information about the individual or group who was involved.
-*   **Witness Info (6)**: Provide any relevant information about the witness that might be necessary for investigation.
-*   **Reporting Officer (7)**: Select the officer in charge of this case from the provided options.
-*   **Reporting Officer Email (8)**: Enter the email of the reporting officer for communication.
-*   **Reporting Officer Phone (9)**: Enter the phone number of the reporting officer.
-*   **Witness Details (10)**: Enter any details about the witness that might be helpful.
-*   **Witness Statement (11)**: Provide a statement from the witness, including what they saw or experienced.
-*   **Supporting Documents (12)**: Attach any documents that support your claim or provide evidence.
-*   **Submit (13)**: Select whether you want to submit the form or save it for later.
-
-</thinking>
-
 # Harassment Report Form - Help Guide
 ## Purpose
 This form is designed for reporting incidents of harassment, providing a structured and confidential way for witnesses or victims to share details about the incident.

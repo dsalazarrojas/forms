@@ -1,9 +1,3 @@
-<thinking>
-
-We need to consider that the form is for internal use, likely within an organization. It seems to be a form for scheduling and tracking internal audits. The form might be used for assigning tasks, tracking progress, and recording notes during the audit process. This form could be used by internal auditors, auditors, or other staff members.
-
-</thinking>
-
 # Internal Audit Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule and track internal audits within your organization. It provides a structured way to capture information about the audit assignment, including the audit type, start and end dates, assigned user, and notes.

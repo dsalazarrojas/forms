@@ -1,13 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for this form to ensure end-users understand its purpose, how to complete it, and what each field means.
-
-First, I want to clarify the purpose of this Mechanic Activity Log form. This form is designed for mechanics to record and document their activities, such as services, repairs, and inspections, for their customers' vehicles. The form is used to maintain accurate records of the work done, track progress, and provide a clear overview of the vehicle's history.
-
-The form is likely used in a service center or repair shop where mechanics work on vehicles, and the data collected will help the shop manage customer records, assign tasks, and track job status.
-
-To ensure this form is not duplicated, I'll consider the following: Are there any other forms that cover similar activities or data collection? If yes, is there any overlap or redundancy in the data collected? Are there any specific requirements or standards for the data collected?
-
-After verifying the form's purpose and potential redundancies, I'll create the final help guide as requested.</thinking>
-
 # Mechanic Activity Log - Help Guide
 ## Purpose
 The Mechanic Activity Log form is designed to record and document activities, such as services, repairs, and inspections, for customer vehicles. This form helps maintain accurate records, track progress, and provide a clear overview of the vehicle's history.

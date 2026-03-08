@@ -1,6 +1,3 @@
-<thinking>
-This form is for requesting access to the Interview Preparation App, which allows users to prepare for their interview with a specific purpose in mind. Before submitting this form, ensure that you have not already filled out this request and that you truly need access to the app. This guide will walk you through the necessary information and fields required to complete the form accurately.</thinking>
-
 # Interview Preparation App Access Request - Help Guide
 ## Purpose
 This form is for requesting access to the Interview Preparation App. It is used to gather information about the user and their interview preparation needs.

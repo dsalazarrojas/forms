@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form is relevant and not a duplication of effort for the end-users. This form is intended to be a waiver for personal training, and it's likely that the users are filling it out as part of a fitness-related activity or program. The form is designed to collect information about the participant, their emergency contacts, and any medical conditions or allergies they may have. We need to ensure that users understand the purpose and process of filling out the form.
-</thinking>
-
 # Personal Training Waiver - Help Guide
 ## Purpose
 This form is a waiver for personal training, used to collect information about the participant, their emergency contacts, and any medical conditions or allergies they may have.

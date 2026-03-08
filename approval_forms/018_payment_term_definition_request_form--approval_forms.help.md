@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request changes to payment terms, which are crucial for accurate and efficient financial operations. Payment terms define the conditions under which payments are made or received, and changes to these terms can have significant impacts on business operations. This form helps to ensure that payment term changes are properly documented, reviewed, and approved.
-
-Before filling out this form, please make sure that a payment term change is actually required. If you're unsure, consult with relevant stakeholders or review existing payment terms to confirm the change is necessary.
-
-Also, please be aware that the form is not for duplicate requests. If you're submitting a request for a payment term change, double-check that you haven't already made a similar request in the past.
-
-</thinking>
-
 # Payment Term Definition Request Form - Help Guide
 
 ## Purpose

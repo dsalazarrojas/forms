@@ -1,11 +1,3 @@
-<thinking>... (internal reasoning block) 
-
-The form's purpose is to gather information for a personalized weight loss assessment. This form will collect general information, health information, medical conditions, medications, exercise frequency, dietary plan, weight loss goals, weight loss plan, weight loss progress, and medical history to better understand the client's current situation and provide a tailored approach to their weight loss journey. 
-
-Before starting, ensure that all the required fields are filled out. This will help in getting a comprehensive overview of the client's situation.
-
-</thinking>
-
 # Personalized Weight Loss Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information for a personalized weight loss assessment. It will help us understand your health status, medical history, and current weight loss goals, which will enable us to provide a tailored plan for your weight loss journey.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to update their contact information, such as their name, email, department, job title, phone number, date of birth, and any additional notes or comments. This form may be used by HR or management staff to collect and update employee contact information for internal records or communication. It is essential to ensure the accuracy and completeness of this information to maintain effective communication and ensure that employees can be reached efficiently. This form is not intended for external use, and the information collected will not be shared with external parties without proper clearance and consent.
-
-To prevent duplication, ensure that the employee's contact information is up-to-date in our system before attempting to update it. If the information is already current, there is no need to submit this form.
-
-</thinking>
-
 # Employee Contact Information Update Form - Help Guide
 ## Purpose
 This form is designed to allow employees to update their contact information, such as their name, email, department, job title, phone number, date of birth, and any additional notes or comments. This form is intended for internal use by HR or management staff.

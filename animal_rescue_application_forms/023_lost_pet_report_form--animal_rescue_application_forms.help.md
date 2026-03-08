@@ -1,9 +1,3 @@
-<thinking>
-This form is for reporting a lost pet. The purpose of this form is to gather information about a lost pet, including the pet's name, last seen location, and last seen date and time. This information will be used to help the pet's owner or authorities locate the pet. 
-The form should only be filled out if the pet is indeed lost, and not for any other purpose such as a regular update or query. 
-Please fill out the form completely and accurately for the best chance of recovery. 
-</thinking>
-
 # lost_pet_report_form - Help Guide
 ## Purpose
 The lost pet report form is designed to gather information about a lost pet with the goal of helping the pet's owner or authorities locate the pet.

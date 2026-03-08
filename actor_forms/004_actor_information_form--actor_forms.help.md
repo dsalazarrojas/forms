@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an actor's personal details, including their name, birth date, contact email, and union status. This form is used to update or add actor information in the system, and it is essential to ensure accuracy and completeness of the data. To avoid duplication and ensure data consistency, this form should only be completed if there is no existing actor record in the system.
-</thinking>
-
 # Actor Information Form - Help Guide
 ## Purpose
 This form is used to collect and update personal details of actors, including their name, birth date, contact email, and union status. It's essential to provide accurate and complete information to ensure the correct functioning of the system.

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block ... thinking>
-
-The form "Security Badge Training Registration" is used to register users for security badge training sessions. This form is used to gather information about the user, such as their email and phone number, as well as details about the training session they are registering for. The form is designed to be completed by users who are interested in attending a security badge training session. The purpose of this form is to ensure that users provide accurate and relevant information about their training preferences and availability.
-
-</thinking>
-
 # Security Badge Training Registration - Help Guide
 ## Purpose
 The "Security Badge Training Registration" form is used to register users for security badge training sessions.

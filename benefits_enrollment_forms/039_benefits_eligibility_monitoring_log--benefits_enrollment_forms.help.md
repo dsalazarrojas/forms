@@ -1,16 +1,3 @@
-<thinking>
-We need to explain this form to end users in a way that makes it clear, concise, and easy to understand. To start, let's break down the form's purpose and required information for eligibility monitoring. This form will help HR administrators keep track of employee benefits eligibility by collecting details about each employee. Each page of the form is divided into distinct sections, including employee information, eligibility review details, current eligibility status, and follow-up information.
-
-This form is essential for several reasons:
-
-*   It helps ensure accurate and up-to-date information about each employee's benefits eligibility.
-*   It streamlines the review process, making it more efficient for HR administrators.
-*   It provides a clear audit trail of changes made to an employee's status, ensuring transparency and accountability.
-
-Before filling out this form, ensure that you have the necessary information about the employee and the review process. This includes knowing the employee's name, ID, and date of birth, as well as the date of the review and the reason for the review. The form also requires you to indicate the current employment status and benefits eligibility status of the employee. Finally, you need to determine whether the employee is in a waiting period and provide the end date of the waiting period if applicable.
-
-</thinking>
-
 # Benefits Eligibility Monitoring Log - Help Guide
 ## Purpose
 

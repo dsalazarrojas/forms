@@ -1,13 +1,3 @@
-<thinking>
-This form is used to obtain participant's consent for the release of their data to a third party. The form is used to capture information from the participant about their personal details, the purpose for which their data will be released, and their relationship with the recipient of the data. The form is intended to ensure that the participant is aware of and consents to the release of their data, in accordance with relevant laws and regulations.
-
-This form will likely be used by administrators or data protection officers to collect information from participants before releasing their data to a third party. The form is a critical component of the data release process, as it ensures that participants' rights are respected and that data is released in accordance with their wishes.
-
-Before using this form, please ensure that you have reviewed and understood the requirements for data release in your organization. This form should not be used for other purposes, as it is specifically designed for data release authorization.
-
-Please review the form carefully and complete it accurately and truthfully. If you have any doubts or questions, please seek guidance from a data protection officer or administrator.
-</thinking>
-
 # Participant Data Release Authorization - Help Guide
 ## Purpose
 The Participant Data Release Authorization form is used to collect participant's consent for the release of their data to a third party.

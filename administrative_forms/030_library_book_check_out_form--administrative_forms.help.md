@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to be used for internal purposes only. The form "library_book_check_out_form" is designed to collect information for the library's book check-out process. This form is not intended to be used for non-administrative purposes. The form should not be used to check out books for non-library members or for books that are not available for check-out. Please ensure that you are checking out a book for a legitimate library member and that the book is not already checked out.
-</thinking>
-
 # library_book_check_out_form - Help Guide
 ## Purpose
 The library_book_check_out_form is used to check out books from the library's collection. This form is for library members only and should not be used to check out books for non-library members. It is also not intended to be used for books that are not available for check-out.

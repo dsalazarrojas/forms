@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide users with a means to access public records. This form is intended for requesting access to public records in a specific context, such as for research or other legitimate purposes. It is not intended for duplicate or unnecessary requests.
-</thinking>
-
 # Public Record Access Request Form - Help Guide
 ## Purpose
 

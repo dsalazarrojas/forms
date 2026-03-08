@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the effects of ethanol consumption on an individual. It asks a series of questions to gather information about the user's drinking habits, including their consumption frequency, amount, and context. This form is likely used in a health or wellness context, such as by a healthcare professional or researcher, to collect data on individuals' drinking behaviors.
-</thinking>
-
 # Ethanol Effects Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's ethanol consumption habits, including frequency, amount, and context of consumption.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to request advance releases of books for review, feature articles, interviews, or other purposes. Advance releases are typically sent to reviewers, writers, and other individuals who will be writing about or featuring books. This form helps the book author or publisher request and track these advance releases.
-
-To ensure that this form is not filled out in error, we may ask for clarification or request additional information before sending advance releases. 
-
-We also want to ensure that our advance releases are only being sent to legitimate reviewers and writers, hence this form's detailed information gathering. Please ensure all information is accurate and up-to-date.
-
-This form is a critical part of the book review and distribution process, so please fill it out carefully.
-
-</thinking>
-
 # Book Advance Release Request - Help Guide
 ## Purpose
 This form is used to request advance releases of books for review, feature articles, interviews, or other purposes. 

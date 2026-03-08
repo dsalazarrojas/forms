@@ -1,10 +1,3 @@
-<thinking>
-Before creating the user-facing help guide, let's first ensure that the form is relevant and not duplicating any other process. This form is used to collect information from prospective animal adopters about their acceptance of the animal's behavior, living conditions, and other factors that can impact the animal's well-being. It's crucial to verify that the applicant understands the terms and conditions of the animal acceptance policy before allowing them to bring their pet into the animal shelter.
-
-Assuming that's the case, let's break down the form into its various sections and explain each field in a user-friendly way.
-
-</thinking>
-
 # Animal Acceptance Policy Form - Help Guide
 ## Purpose
 The Animal Acceptance Policy Form is designed to help ensure that you, as an animal adopter, understand and agree to the terms and conditions of our animal acceptance policy. This form is a crucial step in the adoption process and helps us to assess your suitability as an adopter.

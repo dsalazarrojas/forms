@@ -1,7 +1,3 @@
-<thinking>
-We are checking for relevance and non-duplication of this form. This form is designed to collect data for fair market valuation of properties. It is used to gather information about the property in question, including its type, sale type, address, and other relevant details. The form asks for information about the property's market trends, comparable sales, and condition, among other things. All fields are carefully curated to ensure accurate and comprehensive data collection. Please proceed to the user-facing help guide.
-</thinking>
-
 # fair-market-valuation-form - Help Guide
 ## Purpose
 The fair market valuation form is designed to collect data for fair market valuation of properties. It helps gather information about the property in question, including its type, sale type, address, and other relevant details.

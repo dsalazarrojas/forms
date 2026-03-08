@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for emergency situations where a participant in the system needs to provide information about their emergency contact details. This information is probably used to ensure that in case of an emergency, the system can reach out to the contact person. The form may be required only for certain types of participants or under specific circumstances, such as when they are about to start a new project or have a certain role within the organization. The form is likely to be used for internal administrative purposes and is not intended for public access. It's also possible that this form is part of a larger onboarding process to ensure that all participants have provided their emergency contact details in a standardized way. 
-</thinking>
-
 # Emergency Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect emergency contact information from participants. This information will be used in case of an emergency to reach out to the contact person.

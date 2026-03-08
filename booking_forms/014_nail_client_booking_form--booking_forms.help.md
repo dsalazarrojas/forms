@@ -1,12 +1,3 @@
-<thinking>
-To avoid duplication of effort and ensure accuracy, let's review the provided YAML fields before creating the user-facing help guide.
-
-The form appears to be a booking form for clients to book nail services. It seems to be collecting client information and booking details for manicures, pedicures, polish changes, and other services. There's an option for clients to choose their contact method, service type, appointment date and time, and service duration. The form also has fields for additional notes and confirmation of booking.
-
-The purpose of this form is to collect client information and booking details in a structured and organized manner, making it easier for staff to manage bookings and provide efficient service to clients.
-
-</thinking>
-
 # Nail Client Booking Form - Help Guide
 ## Purpose
 The Nail Client Booking Form is used to collect client information and booking details for manicures, pedicures, polish changes, and other services. This form helps our staff efficiently manage bookings and provide excellent service to clients.

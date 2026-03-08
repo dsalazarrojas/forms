@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect general information about a student. The form is not intended for official university or academic purposes but rather for internal administrative use. It may be used for general inquiries, surveys, or other non-academic purposes. Please note that the fields are not all required, and users can fill out as much or as little information as they need. The form is meant to be simple and easy to fill out, and all fields are self-explanatory.
-
-</thinking>
-
 # Student Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect general information about students for internal administrative purposes.

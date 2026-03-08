@@ -1,26 +1,3 @@
-<thinking>
-This form appears to be a booking form for an RV park, collecting information from both the guest and the park staff. The form is likely used for managing bookings and reservations at the RV park. To ensure the form is filled out correctly, let's review the fields to understand their purpose and relevance.
-
-*   `rv_park_name` and `rv_park_address` seem to be fields for collecting information about the RV park, likely to be used for internal management purposes.
-*   `guest_name`, `guest_email`, and `guest_phone` appear to be fields for the guest's contact information.
-*   `arrival_date` and `departure_date` are likely for booking dates.
-*   `arrival_time` and `departure_time` could be for scheduling arrival and departure times.
-*   `number_of_people` and `number_of_units` might be for planning purposes, such as arranging for the correct number of units and guests.
-*   `unit_type` seems to be a selection of unit types available for booking.
-*   `payment_method` is probably for selecting the payment method for the booking.
-*   `reservation_note` and `message_to_staff` might be fields for additional comments and messages.
-*   `agree` appears to be a field for the guest to agree to terms or policies.
-*   `rv_park_reservation_id` could be an internal field for referencing the booking ID.
-*   `rv_park_reservation_status` is likely for tracking the status of the booking.
-*   `guest_message_to_rv_park` and `message_to_guest` might be fields for communication between the guest and park staff.
-*   `rv_park_booking_status` and `rv_park_staff_response` are likely for tracking staff responses and booking status.
-*   `payment_received` seems to be for indicating if payment has been received.
-*   `rv_park_staff_response` and `message_to_guest` appear to be fields for staff responses and guest communication.
-
-Given the fields, the form seems to be a comprehensive booking system, allowing for the collection of necessary information for both the guest and the park staff. However, the form does not seem to be entirely optimized for user experience, with many fields being required even if they might not be necessary for the booking process.
-
-</thinking>
-
 # rv park booking form - Help Guide
 ## Purpose
 The RV park booking form is used for managing reservations and bookings at an RV park. This form collects information from both the guest and the park staff for efficient management of bookings.

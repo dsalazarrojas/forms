@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a patient's health risks and medical history. The purpose of this form is to gather essential details that healthcare professionals can use to assess the patient's health status and provide personalized care. It's essential to complete this form accurately and thoroughly to ensure that the patient's information is up-to-date and complete. Please check that you haven't completed this form before, as this will help prevent unnecessary data duplication and ensure that your information is accurate.
-
-</thinking>
-
 # Health Risk Assessment Questionnaire - Help Guide
 ## Purpose
 The Health Risk Assessment Questionnaire is a form used to collect information about a patient's health risks and medical history. This form helps healthcare professionals assess the patient's health status and provide personalized care.

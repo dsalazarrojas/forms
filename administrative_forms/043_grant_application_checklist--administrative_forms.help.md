@@ -1,6 +1,3 @@
-<thinking>
-This form is used for collecting information related to grant applications. It appears to be a comprehensive checklist that covers various aspects of grant applications, such as contact information, dates, and other relevant details. However, the provided YAML fields do not specify the exact purpose of the form in a detailed manner. It is possible that this form is used for internal administrative tasks or for external grant applications. Further investigation is necessary to determine the exact purpose and context of this form. If you are reading this guide, it is assumed that you have access to the relevant information and are familiar with the form's purpose and requirements.</thinking>
-
 # Grant Application Checklist - Help Guide
 ## Purpose
 The Grant Application Checklist is a form used for collecting information related to grant applications. Its purpose is to gather details that are crucial for grant applications, but the exact context and scope of the form are not specified in the provided YAML fields.

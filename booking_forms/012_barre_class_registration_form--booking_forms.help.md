@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to be completed by individuals interested in registering for a Barre class. The form will help us understand your preferences and needs, ensuring that you get the best experience in our classes. Please fill out the form carefully, as it will help us prepare for your needs in the class. We will use the information you provide to schedule your classes and communicate with you accordingly.
-
-</thinking>
-
 # Barre Class Registration Form - Help Guide
 ## Purpose
 The Barre Class Registration Form is designed to collect information from individuals interested in registering for a Barre class. By completing this form, you'll help us understand your preferences and needs, ensuring a smooth and enjoyable experience for you in our classes.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to facilitate the process of amending a partnership agreement for businesses. The Partnership Agreement Amendment Form is used for updating or modifying the terms of an existing partnership. The form is not intended to create new partnership agreements from scratch. This form should only be used for amendments, not for initial partnership setup or other purposes. It is essential to ensure that the correct and complete information is entered to maintain the validity and effectiveness of the partnership amendments. Ensure that each field is filled out accurately and with relevant details to avoid any potential issues or disputes in the future.
-
-</thinking>
-
 # Partnership Agreement Amendment Form - Help Guide
 ## Purpose
 The Partnership Agreement Amendment Form is a tool for updating or modifying the terms of an existing partnership agreement. This form is designed to be used for amending partnership agreements, not for creating new ones. It's crucial to ensure that the form is filled out correctly and with accurate details to maintain the integrity and effectiveness of the partnership amendments.

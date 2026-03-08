@@ -1,14 +1,3 @@
-<thinking>
-To determine the form purpose and ensure it meets the requirements of our internal processes, let's first analyze the provided YAML fields.
-
-The form is named "Application For Credit Form" and is used in the "banking_application_forms" category. Based on the form fields, it appears to be designed to collect information from applicants seeking credit. The form is likely used to assess the applicant's creditworthiness and gather relevant details for a loan application. The form fields cover various aspects of the applicant, including their personal details, employment status, income, and loan requirements. 
-
-Upon reviewing the form fields, it seems that all fields are required, indicating that the form is comprehensive and covers essential information. The presence of a credit check consent field suggests that the form is used for a formal credit application process.
-
-Given the form's purpose and fields, it's reasonable to assume that the form is intended for internal use within the banking or financial institution to assess and process credit applications.
-
-</thinking>
-
 # Application For Credit Form - Help Guide
 ## Purpose
 The "Application For Credit Form" is designed to collect essential information from applicants seeking credit. It helps our institution assess the applicant's creditworthiness and gather relevant details for a loan application.

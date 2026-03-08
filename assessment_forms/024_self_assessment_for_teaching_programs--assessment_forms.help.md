@@ -1,7 +1,3 @@
-<thinking>
-The Self Assessment For Teaching Programs form is designed to help teachers reflect on their own teaching practices and identify areas for improvement in their teaching programs. This form can be used to assess the effectiveness of the teacher training programs and to gather data for future program development.
-</thinking>
-
 # Self Assessment For Teaching Programs - Help Guide
 ## Purpose
 The Self Assessment for Teaching Programs form is a tool for teachers to assess their own teaching practices and identify areas of improvement.

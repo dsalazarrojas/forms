@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Flood Incident Form, which is used to document and report flooding incidents that occur in the community. This form is only to be used by authorized personnel to report incidents that are not already well-documented or have been previously reported. Please ensure that all required fields are filled out accurately and thoroughly to provide the necessary information for response and resolution.
-</thinking>
-
 # Flood Incident Form - Help Guide
 
 ## Purpose

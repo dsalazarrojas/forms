@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the knowledge of medical professionals on lymphatic drainage, a crucial process in the human body. This form will help evaluate the accuracy and completeness of their understanding on the topic. Please make sure to only provide information that you are certain about, and do not submit this form if you have doubts about any of the questions. This guide will cover each field in the form, so you can fill it out with confidence.
-</thinking>
-
 # lymphatic_drainage_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to assess the knowledge of medical professionals on lymphatic drainage, a crucial process in the human body. It consists of 8 questions, each covering a different aspect of the topic.

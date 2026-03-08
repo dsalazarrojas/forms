@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investment Limit Increase Application Form - Help Guide
 
 ## Purpose

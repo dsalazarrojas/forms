@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospitality Knowledge Assessment - Help Guide
 
 ## Purpose

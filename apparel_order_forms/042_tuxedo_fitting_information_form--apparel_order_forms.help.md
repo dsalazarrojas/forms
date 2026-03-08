@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tuxedo Fitting Information Form - Help Guide
 ## Purpose
 The Tuxedo Fitting Information Form is designed to collect important information about a client's fitting needs for a tuxedo. This form allows you to gather essential details about the event, client size, and contact information to provide a smooth and tailored experience.

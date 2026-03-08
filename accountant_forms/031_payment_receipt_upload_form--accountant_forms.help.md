@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to upload payment receipts, providing users with a way to upload payment information in a digital format. This form is likely used in a business or financial context, such as in accounting or bookkeeping, where receipts need to be documented and tracked. 
-
-The form does not seem to be designed for any specific platform, such as Google Forms, Jotform, or ODK Collect, which suggests it may be a custom form created by an organization to suit their specific needs. 
-
-Before proceeding, please ensure that you are familiar with the payment receipt upload process and the requirements for your organization, as the form may not cover all the specific details or nuances of your particular payment receipt upload procedure.
-</thinking>
-
 # Payment Receipt Upload Form - Help Guide
 ## Purpose
 The Payment Receipt Upload Form is designed to upload payment information for documentation and tracking purposes. Please ensure you have the necessary permissions to upload payment receipts for your organization before proceeding.

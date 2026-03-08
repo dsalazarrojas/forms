@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for assessing organizational compliance with regulatory requirements. It's essential to ensure accuracy and relevance of the information entered. To avoid duplication, please complete this form only if you have not completed it before. Note that the form's fields and structure might not exactly match the original, as it was generated using AI-powered form adaptation.
-</thinking>
-
 # Regulatory Compliance Assessment - Help Guide
 ## Purpose
 This form is designed to assess an organization's regulatory compliance in various aspects, including awareness, training, documentation, implementation, and review. It helps you evaluate your organization's level of compliance and identify areas that need improvement.

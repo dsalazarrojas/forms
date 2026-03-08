@@ -1,8 +1,3 @@
-<thinking>
-This form is used to verify the identity of a drone operator. It's crucial to fill out this form accurately to ensure the correct person is being identified as a drone operator. Please fill out this form only if you are an actual drone operator. If you're unsure, refer to your employer or supervisor for guidance. This form is not meant to be filled out for demonstration or testing purposes.
-
-</thinking>
-
 # drone_operator_identity_verification_form - Help Guide
 ## Purpose
 The Drone Operator Identity Verification Form is used to verify the identity of a drone operator. This form is designed to collect necessary information to confirm the identity of the person filling it out.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect acknowledgments from donors after a donation has been made. The main purpose of this form is to ensure that both the donor and the organization receiving the donation have a clear understanding of the terms of the donation and any other relevant details. This form is designed to be used as a standard template for all donations, reducing the need for individualized acknowledgments and streamlining the process.
-
-When completing this form, please ensure that you provide accurate and complete information, including the date of the donation, the amount donated, and any relevant details or notes. This form is intended for internal use only and is not intended for public distribution.
-</thinking>
-
 # Donor Acknowledgment Checklist - Help Guide
 ## Purpose
 

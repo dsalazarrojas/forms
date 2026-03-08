@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from clients for a hair color consultation. This form likely serves as an intake questionnaire to capture the client's preferences, needs, and availability for a consultation. It appears that the form is designed to be completed by clients before their appointment, and the information gathered will inform the stylist's preparation and discussion during the appointment.
-</thinking>
-
 # Hair Color Consultation Form - Help Guide
 ## Purpose
 The Hair Color Consultation Form is a pre-appointment questionnaire designed to collect information from clients about their hair characteristics, preferences, and availability for a hair color consultation.

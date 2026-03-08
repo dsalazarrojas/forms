@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect patient information and schedule appointments for drive-thru testing. It is intended to be used by patients, healthcare providers, or other authorized personnel. This form should not be used for any other purpose. If you are not a patient or authorized personnel, please do not complete this form. ...</thinking>
-
 # Drive Thru Testing Appointment Form - Help Guide
 ## Purpose
 The Drive Thru Testing Appointment Form is designed to collect patient information and schedule appointments for drive-thru testing. It is intended to be used by patients, healthcare providers, or other authorized personnel for the purpose of scheduling drive-thru testing appointments.

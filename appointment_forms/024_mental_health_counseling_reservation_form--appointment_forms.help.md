@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_counseling_reservation_form - Help Guide
 
 ## Purpose

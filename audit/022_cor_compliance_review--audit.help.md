@@ -1,5 +1,3 @@
-<thinking>...The COR Compliance Review form is a critical tool used to evaluate a company's compliance with health and safety standards. This form is designed to assess the company's implementation and effectiveness of various health and safety elements, providing an overall compliance rating and recommendations for improvement. When completing this form, please ensure that you have access to all necessary information and documents related to the company's health and safety programs. This form should be filled out by a qualified reviewer who has a deep understanding of the company's safety practices and procedures. Reviewer and management signatures are required to validate the assessment... </thinking>
-
 # COR Compliance Review - Help Guide
 ## Purpose
 The COR Compliance Review form is used to evaluate a company's compliance with health and safety standards. The goal is to provide an overall compliance rating and recommendations for improvement.

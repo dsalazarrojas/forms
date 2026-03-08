@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help car dealership sales teams assess their sales process, identify areas of improvement, and provide valuable insights for growth and optimization. It covers various aspects of the sales process, from lead generation to follow-up, and includes questions that will help the team evaluate their current performance in different areas such as conversion rates, customer satisfaction, and review collection. This form is intended for sales teams to fill out regularly to monitor their progress and stay on track with their sales goals.
-
-To ensure accuracy, each question is carefully crafted to provide a clear and concrete understanding of the current state of the sales process. Each field is designed to be completed by the appropriate member of the sales team.
-
-The questions and their respective options are meant to elicit specific responses from the sales team, allowing them to identify areas that need improvement and prioritize their efforts accordingly.
-
-</thinking>
-
 # Car Dealership Sales Process Assessment - Help Guide
 ## Purpose
 This guide is a comprehensive help document for users to understand how to complete the Car Dealership Sales Process Assessment form. The form is designed to evaluate the sales process of your dealership, identifying areas of improvement and areas of excellence.

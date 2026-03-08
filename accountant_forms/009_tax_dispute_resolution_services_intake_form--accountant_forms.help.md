@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clients to provide information about their tax disputes. The purpose of this form is to gather details about the tax dispute, including client contact information, tax dispute specifics, tax return information, and any supporting documents. This form will help the accountants resolve tax disputes efficiently and effectively. To prevent duplication and ensure accurate intake, it's essential to fill this form carefully and accurately.
-</thinking>
-
 # Tax Dispute Resolution Services Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their tax disputes. It helps accountants understand the issue, gather necessary details, and resolve the dispute efficiently.

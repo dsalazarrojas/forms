@@ -1,11 +1,3 @@
-<thinking>
-This form is used for a proxy to request authorization to access resources on behalf of a primary user. This form is used to capture details that will be used to evaluate the authorization request.
-
-It's essential to fill out this form carefully to ensure your request is properly evaluated and processed internally. Please do not submit duplicate requests as this might cause issues with our internal system.
-
-Before filling the form, make sure you have all the necessary details at hand. If you're unsure about any part of the form, please refer to the field-by-field explanations below.
-</thinking>
-
 # Proxy Authorization Request Form - Help Guide
 ## Purpose
 The Proxy Authorization Request Form is used for a proxy to request authorization to access resources on behalf of a primary user.

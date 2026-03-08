@@ -1,13 +1,3 @@
-<thinking>
-
-The Audit Authorization Form is used to request permission to conduct an audit within an organization. This form is essential for auditors to get the necessary approval and access to perform their audit tasks. The form requires information about the audit, such as the audit type, scope, and expected start and end dates. Additionally, it requires the authorization of the auditor and the official approval from the organization's management. The form is designed to ensure that the auditor has the necessary access and authority to perform the audit without compromising the organization's security and confidentiality.
-
-The form is divided into two main sections: "Audit Identification" and "Authorization Terms". The first section collects basic information about the audit, such as the audit ID reference, type, and lead auditor's name. The second section collects information about the authorized person, such as their name, title, and digital signature.
-
-Before starting the form, ensure that you are authorized to access the necessary information and systems. This form is not a one-time use form, and your audit scope should be well-defined to prevent any unnecessary access or exposure of sensitive information.
-
-</thinking>
-
 # Audit Authorization Form - Help Guide
 ## Purpose
 The Audit Authorization Form is used to request permission to conduct an audit within an organization.

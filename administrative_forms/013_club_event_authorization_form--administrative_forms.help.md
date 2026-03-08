@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a club event, ensuring that all necessary details are captured for proper planning and approval. It's crucial to fill out this form accurately to avoid any issues with event organization. Please ensure that you're filling this form for the right purpose and not duplicating events. The form should only be used for official club events.
-</thinking>
-
 # Club Event Authorization Form - Help Guide
 ## Purpose
 The Club Event Authorization Form is designed to collect essential information about events organized by the club. This form helps ensure that all necessary details are captured for proper planning and approval. It's essential to fill out this form accurately to avoid any issues with event organization.

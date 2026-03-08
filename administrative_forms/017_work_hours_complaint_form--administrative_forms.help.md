@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about work hours complaints or issues that employees may have. This is likely to be used by HR department to track and address these complaints, ensuring that employees' concerns are heard and dealt with efficiently. It's essential to fill out this form to report any work-related issues that affect work hours, such as work-life balance, compensation, or work environment problems. 
-</thinking>
-
 # Work Hours Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about work hours complaints or issues that employees may have. It helps the HR department track and address these concerns, ensuring they are heard and dealt with efficiently.

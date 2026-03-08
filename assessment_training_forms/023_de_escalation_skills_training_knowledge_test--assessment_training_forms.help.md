@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the provided YAML to understand the form's purpose and requirements. This form is for assessing training skills, specifically de-escalation skills, and seems to be related to some kind of training program or assessment. The form appears to be used for collecting information about the trainee's response to scenarios, their de-escalation skills, and other related topics. It also includes fields for reviewer information, submission status, and notes.</thinking>
-
 # de_escalation_skills_training_knowledge_test - Help Guide
 
 ## Purpose

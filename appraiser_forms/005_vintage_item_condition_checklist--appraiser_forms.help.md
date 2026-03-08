@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the "Vintage Item Condition Checklist" form. The form is designed to collect detailed information about a vintage item, including its condition, material, weight, and other relevant details. It is intended for use by sellers to accurately describe and price their items. This form should not be used for items that are not vintage or have not been purchased or sold before. If the item has been sold before, please use the "Sold" version of this form.
-</thinking>
-
 # Vintage Item Condition Checklist - Help Guide
 ## Purpose
 The Vintage Item Condition Checklist is a form used to collect detailed information about a vintage item. It helps sellers accurately describe and price their items, ensuring a smooth and efficient buying and selling experience.

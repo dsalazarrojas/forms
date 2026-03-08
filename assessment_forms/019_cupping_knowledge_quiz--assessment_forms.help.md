@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cupping Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and experience with cupping therapy, a traditional form of alternative therapy that involves the use of cups to promote relaxation and relieve pain. The form aims to evaluate your understanding of the risks and benefits associated with cupping therapy, as well as your level of experience and certification in the practice.

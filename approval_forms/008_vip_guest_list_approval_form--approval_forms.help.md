@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for VIP guest list approvals. It is intended for internal users to review and manage the approval process. Please confirm that this is the correct form for your use case before proceeding.
-</thinking>
-
 # vip_guest_list_approval_form - Help Guide
 ## Purpose
 The vip_guest_list_approval_form is used to collect information for VIP guest list approvals. This form is meant to be completed by internal users to review and manage the approval process.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for communication skills testing sign-up, which is a process to assess an individual's communication abilities. This form is used to collect personal details, testing preferences, and other relevant information to schedule a suitable appointment for testing. The form is designed to be completed by individuals seeking communication skills testing, such as students, employees, or clients. Please note that this form is not intended to be completed by third-party representatives or professionals. Before proceeding, ensure that you are completing this form for your own testing needs.</thinking>
-
 # Communication Skills Testing Sign Up - Help Guide
 ## Purpose
 The Communication Skills Testing Sign Up form is designed to collect information and schedule a suitable appointment for communication skills testing. This form collects personal details, testing preferences, and other relevant information to ensure a smooth and efficient testing process.

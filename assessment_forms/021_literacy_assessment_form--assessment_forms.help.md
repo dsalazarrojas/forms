@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will walk you through the steps to complete the Literacy Assessment Form, which aims to evaluate an individual's reading, writing, speaking, and listening comprehension skills. The form will help assessors collect information and provide a score for the overall literacy level of an individual. Please note that this form is designed for internal use and is not intended to be shared externally. 
 
 # Literacy Assessment Form - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-To reduce duplication and ensure relevance, we will only include this form if the user is an animal control contractor who is looking to apply to work with the city or local government. This form will be used to gather information about the contractor's background, services offered, and experience in working with government agencies. It will also help us to assess their ability to provide timely responses, manage their workforce, and maintain liability insurance. By providing accurate information in this form, the contractor will be able to demonstrate their suitability for working with the city or local government.
-
-</thinking>
-
 # Animal Control Contractor Application - Help Guide
 
 ## Purpose

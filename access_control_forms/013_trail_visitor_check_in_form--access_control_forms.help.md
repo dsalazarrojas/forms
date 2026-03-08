@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trail_visitor_check_in_form - Help Guide
 ## Purpose
 The "trail_visitor_check_in_form" is used to record visitor information for trailheads, providing a way to track and manage visitor data for trailhead management.

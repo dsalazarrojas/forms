@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # DNS Assessment Survey - Help Guide
 
 ## Purpose

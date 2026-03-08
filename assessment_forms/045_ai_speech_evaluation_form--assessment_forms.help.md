@@ -1,5 +1,3 @@
-<thinking>...I'm creating a user-facing help guide for the "AI Speech Evaluation Form". This form is designed to assess a speaker's performance, focusing on various aspects such as vocal performance, content structure, and overall impact. The form is meant to be completed by evaluators to provide feedback and suggestions for improvement. I'll make sure to clearly explain each field and its purpose, making it easy for users to understand and fill out the form effectively... </thinking>
-
 # AI Speech Evaluation Form - Help Guide
 ## Purpose
 

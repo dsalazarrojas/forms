@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information related to legal consultations, specifically for appointments and follow-ups. It is meant to be used by legal professionals to collect contact and appointment details from clients. The purpose of this form is to provide a standardized template for collecting essential information, ensuring consistency and accuracy in recording client data.
-</thinking>
-
 # legal_consultation_appointment_checklist_form_template - Help Guide
 ## Purpose
 This form is a checklist template used to collect essential information for legal consultations, including client contact details, appointment specifics, and follow-up requirements.

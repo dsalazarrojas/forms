@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients seeking business consulting services. It is designed to help consultants understand the client's needs and preferences for the appointment. The form should not be filled out by consultants, only clients.
-</thinking>
-
 # Business Consulting Appointment Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients about their needs and preferences for a business consulting appointment. This information will help consultants tailor their approach to best meet the client's requirements.

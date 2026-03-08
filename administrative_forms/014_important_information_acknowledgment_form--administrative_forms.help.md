@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect acknowledgment information from users, likely for administrative purposes such as tracking user activity or sending reminders. It's essential to complete this form accurately and thoroughly to ensure the collected information is reliable and useful. Please ensure that each field is filled out correctly, as incorrect or missing information might lead to misunderstandings or miscommunications. It's also crucial to check that the same information has not been previously collected, as this form is primarily designed for new or updated data entry.
-</thinking>
 # Important Information Acknowledgment Form - Help Guide
 ## Purpose
 The Important Information Acknowledgment Form is a document used to collect and track acknowledgment information from users. It is essential to complete this form accurately to ensure that your information is up-to-date and correct.

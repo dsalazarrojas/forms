@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used as a tool to assess features in a product or service. It is designed to allow users to evaluate and compare features based on their priority, description, benefit, cost, and status. The form is divided into separate sections for each feature, making it easier to input and review data. This form does not duplicate any other forms in the system.
-
-The form is used to collect data on features in a structured and organized way. It is used to assess and prioritize features based on their priority, description, benefit, cost, and status. The features are categorized into different sections for easier input and review.
-
-Please note that the form is not intended to be a comprehensive and exhaustive tool for feature assessment. It is a simple and lightweight tool for initial feature evaluation.
-</thinking>
-
 # Feature Assessment Form - Help Guide
 ## Purpose
 This form is used to assess and prioritize features based on their priority, description, benefit, cost, and status. It is a tool to help you evaluate and compare features in a structured and organized way.

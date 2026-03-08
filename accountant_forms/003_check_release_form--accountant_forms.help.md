@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used within a banking or financial institution to release checks for deposit, ensuring that the necessary information is gathered and verified before allowing a check to be deposited. This form would be used by bank employees to gather information and confirm the release of checks, and it might be reviewed and approved by managers as part of the process. To create this help guide, I'll focus on explaining each field in a clear and concise manner, assuming that the form is being completed by a bank employee.
-</thinking>
-
 # Check Release Form - Help Guide
 
 ## Purpose

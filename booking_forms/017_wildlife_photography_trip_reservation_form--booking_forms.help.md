@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in understanding the purpose and completing the wildlife_photography_trip_reservation_form form. This form is designed to collect participant and trip details for a wildlife photography trip. 
-
-</thinking>
-
 # wildlife_photography_trip_reservation_form - Help Guide
 ## Purpose
 This form is used to collect information from participants for a wildlife photography trip. It is essential to fill out this form accurately and completely to ensure that the trip organizers have all the necessary details to plan and execute the trip successfully.

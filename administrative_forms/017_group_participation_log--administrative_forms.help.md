@@ -1,11 +1,3 @@
-<thinking>
-The main purpose of this form is to record and track individual participation in a group event. This form will capture essential details such as participant name, email, and phone number, as well as their status (attending or not) and any comments they may have. The form also captures event details like date, time, location, and notes for the event organizer. 
-
-It's essential to ensure that each participant fills in their information accurately, and the event organizer reviews and updates the form regularly to reflect any changes or status updates. 
-
-Please make sure to review this guide before proceeding to ensure you understand the form's purpose and fields correctly to avoid duplication of effort or incomplete submissions. 
-</thinking>
-
 # Group Participation Log - Help Guide
 ## Purpose
 The Group Participation Log is used to track individual participation in a group event, capturing key details such as participant information and event specifics.

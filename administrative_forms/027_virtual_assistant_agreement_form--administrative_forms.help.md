@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information on the scope of work, payment terms, client and assistant requirements, and other essential aspects of a virtual assistant agreement. The form is divided into several sections, each focusing on a specific area of the agreement. The purpose of this form is to facilitate clear communication between the client and the assistant, ensuring that both parties are on the same page before starting work together.
 
 The form will guide the user through a series of questions and fields that will help to establish the scope of work, payment terms, and other essential parameters of the agreement. 

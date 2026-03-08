@@ -1,13 +1,3 @@
-<thinking>
-The "Tax Policy Amendment Approval Form" is used to approve or deny amendments to tax policies within an organization. This form helps ensure that all stakeholders are informed and on the same page regarding policy changes. When filling out this form, make sure to follow the instructions carefully to ensure accurate and complete information.
-
-The form is designed to be completed by various users, including those making the policy change and those approving the change. Please review the fields carefully to provide necessary information and ensure that all stakeholders are notified accordingly.
-
-Before filling out the form, ensure that the policy change has not already been approved or denied. If it has been approved, there is no need to fill out this form. If it has been denied, please follow the denial process as outlined by the organization.
-
-To avoid errors, make sure to fill out all required fields and provide clear and concise information in the text fields.
-</thinking>
-
 # Tax Policy Amendment Approval Form - Help Guide
 ## Purpose
 The Tax Policy Amendment Approval Form is used to approve or deny amendments to tax policies within an organization. This form ensures that all stakeholders are informed and on the same page regarding policy changes.

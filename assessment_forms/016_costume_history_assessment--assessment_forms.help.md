@@ -1,12 +1,3 @@
-<thinking>
-To begin with, this form is intended to assess the knowledge of users about the history of costume design. We need to ensure that users understand what the form is about and what they are expected to provide. The form is designed to be user-friendly and straightforward, with clear labels and instructions. Before we start, let's make sure we're on the same page: this form is not meant to be a comprehensive, exhaustive resource, but rather a quick assessment of a user's knowledge in this area.
-
-Let's assume that the user has a basic understanding of costume design and its history, and we want to check their recall and application of that knowledge.
-
-The form has 8 fields, each with its own specific purpose and requirements. We will explain each field in detail below.
-
-</thinking>
-
 # Costume History Assessment - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who access the bunker, including their demographic information, access frequency and methods, safety perceptions, and areas for improvement. The purpose of this survey is to help the bunker management team understand the experiences and concerns of the people who enter the bunker, allowing them to identify and address any issues that may be hindering access or safety.
-The survey will not be used to identify or track individual respondents, so all answers will be anonymous.
-Please only complete this survey once.
-</thinking>
-
 # Bunker Access Survey - Help Guide
 ## Purpose
 The Bunker Access Survey is designed to gather information about your experiences and perceptions of the bunker. Your feedback will help the management team identify areas for improvement and make informed decisions to enhance access and safety.

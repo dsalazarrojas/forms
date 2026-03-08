@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a pre-job technical assessment form, intended to collect information about a candidate's availability and suitability for a particular shift. The form includes fields for candidate information (name, email, phone), technical skills, and availability for various shifts. The fields seem to be designed to accommodate multiple shifts and allow for flexibility in scheduling. However, it's worth noting that some fields are labeled as "note" type, which could be used for additional comments or notes. It's essential to confirm with the stakeholders that this form meets the actual business requirements and doesn't have any duplication or redundancy.
-</thinking>
-
 # pre_job_technical_assessment - Help Guide
 ## Purpose
 This form is designed to collect information about a candidate's suitability for a job, particularly their technical skills and availability for various shifts.

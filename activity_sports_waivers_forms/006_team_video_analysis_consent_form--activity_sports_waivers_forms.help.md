@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information and consent for the analysis of video recordings of a team. The form is intended for team members and their parents or guardians to provide consent for the recording and analysis of video footage. The form includes fields for the team name, parent's name, date and time of the video recording, recording duration, type of recording, purpose of recording, and other relevant information. The form also includes terms, privacy policy, and a disclaimer for the team video analysis consent.
-
-</thinking>
-
 # Team Video Analysis Consent Form - Help Guide
 ## Purpose
 This form is required for team members and their parents or guardians to provide consent for the analysis of video recordings. The form collects information about the team, parent, and recording details, including type, duration, and purpose.

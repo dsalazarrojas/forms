@@ -1,7 +1,3 @@
-<thinking>
-The Digital Signature Authorization Form is used to verify the identity and permissions of users in our organization. This form is meant to collect essential information about the user, including their name, email, and department, as well as their role and any relevant agreements and contracts. To avoid duplication and ensure accuracy, this form should only be completed by users who have not already submitted similar information, and it is essential to fill out every field with correct and complete information.
-</thinking>
-
 # Digital Signature Authorization Form - Help Guide
 ## Purpose
 The Digital Signature Authorization Form is used to collect and verify user information, including their name, email, role, department, and other relevant details, to ensure accurate and up-to-date records.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by warehouse staff to check in shipments from suppliers. It is an essential part of inventory management and helps ensure that all shipments are properly tracked and recorded. To complete this form, warehouse staff will need to provide information about the shipment, including its manifest number, carrier name, shipment date and time, ship from and ship to locations, and any relevant notes. 
-
-This form is not intended to be used for other purposes such as customer ordering or sales tracking. If you are unsure about the purpose of this form, please consult with your supervisor or warehouse manager.
-
-</thinking>
-
 # Shipping Manifest Check In Form - Help Guide
 ## Purpose
 The Shipping Manifest Check In Form is used by warehouse staff to check in shipments from suppliers. It helps ensure that all shipments are properly tracked and recorded.

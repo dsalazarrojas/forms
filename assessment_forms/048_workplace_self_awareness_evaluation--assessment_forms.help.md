@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help you evaluate your self-awareness in a workplace setting. Self-awareness is the ability to have a deep understanding of one's own feelings, motivations, and emotions, and how they impact your behavior and relationships with others. This form will help you assess your strengths and weaknesses, identify areas for improvement, and provide a starting point for personal growth and development.
-
-When filling out this form, please keep in mind that it's a tool to help you become more aware of your own self and how it interacts with others. Be as honest and introspective as possible, and don't worry about what others might think. This form will help you gain insight into your thoughts, feelings, and behaviors, which can lead to positive changes in your life and workplace.
-
-Please note that this form is not a evaluation or assessment tool. It's a personal and private reflection exercise designed to help you grow and develop.
-
-Before starting, take a few minutes to review this guide to ensure you understand the form's purpose and how to complete it.
-
-If you're unsure about any of the questions or options, feel free to ask your supervisor or HR representative for guidance.
-
-Now, let's get started!
-
-</thinking>
-
 # Workplace Self Awareness Evaluation - Help Guide
 ## Purpose
 The Workplace Self Awareness Evaluation is a form designed to help you reflect on your self-awareness in a workplace setting. It's a personal and private reflection exercise that will help you identify your strengths and weaknesses, and provide a starting point for personal growth and development.

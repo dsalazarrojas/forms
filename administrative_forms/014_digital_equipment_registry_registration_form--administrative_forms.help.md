@@ -1,9 +1,3 @@
-<thinking>
-The form "digital_equipment_registry_registration_form" is designed to collect information about digital equipment registration. This form is used for administrative purposes, likely to keep track of digital devices within an organization. The form is not intended to be used for any other purpose, such as for public surveys or data collection.
-
-The form has multiple fields that require different types of information. Before starting, please ensure you have all the necessary information to fill out the form correctly. If you're unsure about any field, you can always ask for clarification.
-</thinking>
-
 # digital_equipment_registry_registration_form - Help Guide
 ## Purpose
 This form is used to register digital equipment for administrative purposes within an organization.

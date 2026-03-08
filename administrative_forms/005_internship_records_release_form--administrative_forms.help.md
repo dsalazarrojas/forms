@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "internship_records_release_form" form is to collect information related to the release of student records, specifically in regards to internships. This form is likely used by administrative staff to gather details about the release of records for students who have completed internships. The form may be used to track the release of records, ensure that the necessary consents are obtained from students, and maintain accurate records of student activity.
-Before filling out this form, please ensure that you have a valid reason for releasing the records and that the student has provided their consent. 
-</thinking>
-
 # internship_records_release_form - Help Guide
 
 ## Purpose

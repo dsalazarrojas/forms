@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Online Appointment Request" form, we'll need to understand its purpose, how to complete it, and what each field means.
-
-This form, "Online Appointment Request", is likely used for patients to request online appointments for various treatments or services. The form might be used by a healthcare organization, medical spa, or other business offering services that require advance booking.
-
-To ensure this form is being used correctly, we should check that it's not being duplicated and only used for its intended purpose.
-
-</thinking>
-
 # Online Appointment Request - Help Guide
 ## Purpose
 This form is used to request online appointments for various treatments or services. To use this form, you will need to provide your name, email, and phone number, as well as select the treatments and appointments you would like to book.

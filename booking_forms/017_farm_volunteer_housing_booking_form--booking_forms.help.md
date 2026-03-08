@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide a user-friendly explanation of the Farm Volunteer Housing Booking Form. The form is designed to collect information from potential volunteers regarding their accommodation preferences and requirements for a specific event or period. The form is not meant to be used for any other purpose, such as booking appointments or making purchases. To ensure the form is being filled out correctly, please make sure to read this guide carefully and only submit the form for the intended purpose. If you're unsure about any of the fields, please contact the form administrators for clarification. Before filling out the form, please ensure that you are a legitimate volunteer candidate and that you are not booking on behalf of someone else without their permission. Please note that the form is not a commitment, and your submission does not guarantee accommodation booking.
-
-</thinking>
-
 # Farm Volunteer Housing Booking Form - Help Guide
 ## Purpose
 The Farm Volunteer Housing Booking Form is a simple online form designed to collect information from potential volunteers about their accommodation preferences and requirements for a specific event or period. This form helps the event organizers to understand your needs and preferences and ensure a smooth and enjoyable stay for all volunteers.

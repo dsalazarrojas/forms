@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from users for a talent agency demo reel upload process. This form likely exists to collect contact information and other relevant details for a talent agency to review and consider for potential collaboration or representation. The purpose of this form might be to streamline the submission process for individuals seeking representation or to facilitate the discovery of new talent. It's essential to ensure that the form fields are filled out correctly to increase the chances of a successful submission.
-</thinking>
-
 # Talent Agency Demo Reel Upload Form - Help Guide
 ## Purpose
 The Talent Agency Demo Reel Upload Form is designed to collect necessary information from users for a talent agency to review and consider for potential collaboration or representation.

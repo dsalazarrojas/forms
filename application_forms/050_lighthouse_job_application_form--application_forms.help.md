@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the Lighthouse Job Application Form is to collect information from job applicants, helping us assess their qualifications and suitability for potential roles. This form will be reviewed internally to determine the next steps in the hiring process. Please note that this form is not intended to be a comprehensive employment contract or a formal agreement. If you've already submitted an application for a job at Lighthouse, you may not need to complete this form again. In cases where you're unsure, please reach out to us for clarification.
-
-</thinking>
-
 # Lighthouse Job Application Form - Help Guide
 ## Purpose
 The Lighthouse Job Application Form is a tool used to gather essential information from job applicants. It helps the Lighthouse team assess their qualifications, skills, and experience to determine the best fit for potential roles within the organization.

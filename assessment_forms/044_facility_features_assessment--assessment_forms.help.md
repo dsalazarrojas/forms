@@ -1,5 +1,3 @@
-<thinking>... this form is designed to gather information about a facility's features and characteristics. This information will be used to assess the facility's safety, security, and compliance with regulatory requirements. The form should only be filled out by authorized personnel or individuals with knowledge of the facility's features and characteristics. Please ensure that you have the necessary permissions and access to fill out this form accurately and honestly. Also, be aware that this form is a mandatory requirement for facilities of this type, and failure to complete it may result in penalties or other consequences. </thinking>
-
 # Facility Features Assessment - Help Guide
 
 ## Purpose

@@ -1,27 +1,3 @@
-<thinking>
-We need to create a help guide for the Publishing Authoring Tools Requisition Form. This form is used to collect information from submitters regarding their requests for publishing authoring tools. The form is designed to gather details about the tools requested, the submitter's contact information, and the submission date and time. We should check if the form has any required fields that need to be filled out before proceeding.
-
-Upon reviewing the form schema, we can see that the form has the following fields:
-* `form_title` (text field)
-* `request_type` (select one field with options: Approval Forms, Request Forms)
-* `software_request` (text field)
-* `priority` (select one field with options: High, Medium, Low)
-* `form_submission` (note field)
-* `submitter_email` (email field)
-* `submitter_phone` (text field)
-* `submitter_name` (text field)
-* `submitter_location` (text field)
-* `submitter_team` (text field)
-* `form_submission_date` (date field)
-* `form_submission_time` (time field)
-* `form_submission_time_zone` (text field)
-* `assigned_tool` (select one field with options: Jotform, Other)
-* `notes` (note field)
-
-This form seems to be quite comprehensive in gathering all the necessary information for publishing authoring tools requests. We can now proceed with creating the help guide.
-
-</thinking>
-
 # Publishing Authoring Tools Requisition Form - Help Guide
 
 ## Purpose

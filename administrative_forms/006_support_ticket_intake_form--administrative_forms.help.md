@@ -1,14 +1,3 @@
-<thinking>
-Support Ticket Intake Form is used to collect information about a support ticket from the customer. This form is used to create a new support ticket, which can be used to track and manage customer issues.
-
-This form is meant to gather information about the issue the customer is experiencing, and will help our team to quickly and efficiently resolve the issue. Please fill out this form accurately and thoroughly, and make sure to include all necessary information. 
-
-This form may be used to create duplicate tickets. Please be cautious when submitting multiple tickets for the same issue. We will review each ticket separately, but if we find that multiple tickets are related, we will merge them into one ticket.
-
-To complete this form, click on the "Submit" button after filling out each field. If you need help with the form or have any questions, please contact our support team.
-
-</thinking>
-
 # Support Ticket Intake Form - Help Guide
 ## Purpose
 The Support Ticket Intake Form is used to collect information about a support ticket from the customer.

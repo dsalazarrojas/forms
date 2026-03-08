@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the 401(k) Plan Termination Distribution Request form, we must consider the following:
-
-The purpose of this form is to assist employees in requesting a 401(k) plan distribution upon termination of their employment. This form will help ensure that all necessary information is collected accurately and efficiently. The form should be user-friendly and straightforward.
-
-</thinking>
-
 # 401(k) Plan Termination Distribution Request - Help Guide
 ## Purpose
 

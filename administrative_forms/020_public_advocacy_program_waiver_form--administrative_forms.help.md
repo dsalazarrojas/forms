@@ -1,20 +1,3 @@
-<thinking>
-This form is designed for public advocacy programs to gather information from participants. A public advocacy program is a type of program that supports and promotes a particular cause or interest. The form is meant to collect general information, obtain participant consent, and verify that participants are aware of the risks involved. The form also aims to understand the relationship between the participant and the organization, and to ensure that the participant agrees to certain terms.
-To complete this form, you will be asked for general information about yourself, such as your name, contact information, and the name of the organization you are representing. You will also be asked to acknowledge certain risks and to indicate whether you have read and understand this form. Finally, you will be asked to agree to certain terms and conditions.
-This form is not intended to be a legally binding contract, but rather a way for the organization to understand your involvement in the public advocacy program.
-The form has several fields that require your input:
-- <b>General Information</b>: This field is to provide general information about yourself and your organization.
-- <b>Participant Consent</b>: This field is to obtain your consent to participate in the public advocacy program.
-- <b>Risk Acknowledgement</b>: This field is to acknowledge the risks involved in participating in the public advocacy program.
-- <b>Legal Protections</b>: This field is a selection of the legal and regulatory protections that apply to the public advocacy program.
-- <b>Participant Agreement</b>: This field is a selection of agreements that you are making with the organization.
-- <b>Organization</b>: This field is to provide information about the organization you are representing.
-- <b>Participant Name</b>: This field is to provide your name.
-- <b>Participant Contact</b>: This field is to provide your contact information.
-- <b>Organization Representative</b>: This field is to provide information about the representative of the organization.
-- <b>Participant Agree</b>: This field is to select whether you agree to certain terms.
-</thinking>
-
 # Public Advocacy Program Waiver Form - Help Guide
 ## Purpose
 The Public Advocacy Program Waiver Form is designed to gather information from participants and ensure that they are aware of the risks and terms involved in the public advocacy program.

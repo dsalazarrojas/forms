@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a travel authorization form, used to record and track employee travel activities. The purpose of this form is to provide an official record of travel authorization, ensuring that travel is properly approved and accounted for. This form likely falls under HR or administrative policies.
-It is designed for employees to submit their travel plans and schedules, so that travel managers and approvers can review and manage these plans.
-The provided schema suggests that this form will be used for tracking and recording employee travel details, including travel dates, reason for travel, destination, duration, budget, and the contacts responsible for managing the travel.
-</thinking>
-
 # Travel Authorization Form - Help Guide
 ## Purpose
 The Travel Authorization Form is used to record and track employee travel activities. This form helps ensure that travel is properly approved and accounted for.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees for self-assessment purposes. It is meant to be completed by employees themselves, and the information collected will be used for internal evaluation and development purposes only. Please ensure that you are filling out this form for your own evaluation, and not for someone else's evaluation. This form is not intended to be submitted for external use, such as for official company reports or external audits. If you are not an authorized employee, please do not complete this form.
-</thinking>
-
 # Self Assessment Recommendation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # supply_chain_industry_assessment_form - Help Guide
 ## Purpose
 The supply chain industry assessment form is designed to collect information about a specific business or company's supply chain practices and operations. It is used to evaluate the industry's overall assessment.

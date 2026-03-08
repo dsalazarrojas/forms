@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to book Consciousness Access sessions, which likely refer to meditation or mindfulness sessions aimed at increasing consciousness, relaxation, or spiritual growth. The form's primary purpose is to gather essential information from clients about their session preferences, including the type of session, preferred date and time, contact information, and payment terms. The form's internal logic likely involves assigning clients to available session slots based on their preferences and ensuring they understand the payment terms and cancellation policy.
-
-</thinking>
-
 # Consciousness Access Session Booking Form - Help Guide
 ## Purpose
 This form is used to book sessions for Consciousness Access, a type of meditation or mindfulness session. Fill out this form to schedule a session that suits your needs and preferences.

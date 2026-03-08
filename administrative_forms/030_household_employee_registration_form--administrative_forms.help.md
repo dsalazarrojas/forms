@@ -1,7 +1,3 @@
-<thinking>
-The form "Household Employee Registration Form" is designed to collect information from individuals working in households. The purpose of this form is to gather essential details about the employee, including their personal and contact information, as well as emergency contact details. This form is likely used for administrative purposes, such as HR record-keeping or insurance compliance. To ensure the accuracy and completeness of the information, it is essential to review the form carefully and fill it out correctly.
-</thinking>
-
 # Household Employee Registration Form - Help Guide
 ## Purpose
 The Household Employee Registration Form is a mandatory document used to collect and store employee information for HR record-keeping and insurance compliance purposes.

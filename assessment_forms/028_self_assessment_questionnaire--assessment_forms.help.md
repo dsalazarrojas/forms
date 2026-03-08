@@ -1,7 +1,3 @@
-<thinking>
-The self-assessment questionnaire is a form used to gather information from users about their self-assessment process. It's designed to be completed by end-users to provide feedback about their current situation, goals, and next steps. This form is used to collect relevant data for internal analysis and improvement of the system. Please make sure to only complete this form if you have not already done so in the past 30 days to avoid duplication of effort. It's essential to provide accurate and honest answers to help us better understand your needs and preferences.
-</thinking>
-
 # self_assessment_questionnaire - Help Guide
 ## Purpose
 The self-assessment questionnaire is a form used to gather information from users about their self-assessment process. It helps us understand your current situation, goals, and next steps to improve the system and provide better support.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear and the fields are properly understood by the end-users. The form is for apparel design, where users can input information about their orders, such as customer name, email, phone number, and delivery date. The fields should be self-explanatory and the user should be able to easily fill out the form without any confusion.
-</thinking>
-
 # Apparel Design Form - Help Guide
 ## Purpose
 This form is designed to collect information for apparel design orders, allowing you to create custom designs based on your preferences.

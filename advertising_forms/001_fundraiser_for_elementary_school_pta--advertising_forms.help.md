@@ -1,6 +1,3 @@
-<thinking>
-To ensure that this form is correctly understood by end-users, let's first clarify its purpose and potential duplication. This form, "Fundraiser For Elementary School PTA," is a general-purpose form used by elementary school PTAs (Parent-Teacher Associations) to gather information for fundraising events. The form's purpose is to collect data from the school or PTA, and it's likely that there will be multiple instances of this form being used within the same school or by different schools. This form doesn't have any conditional logic or specific fields that would make it unique to a particular context. Therefore, it's essential to ensure that each field is clearly explained to avoid confusion and potential errors.</thinking>
-
 # Fundraiser For Elementary School PTA - Help Guide
 
 ## Purpose

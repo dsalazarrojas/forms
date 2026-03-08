@@ -1,5 +1,3 @@
-<thinking>Assessment of internal knowledge management systems, their tools and overall company/department performance. This form aims to collect and evaluate data on various aspects of productivity systems, tools, and team/department performance. This form is intended to gather information that can help inform business decisions on resource allocation, system optimization, and performance benchmarking.</thinking>
-
 # Productive Systems Assessment - Help Guide
 ## Purpose
 The Productive Systems Assessment is designed to evaluate the effectiveness of your organization's productivity systems, tools, and processes. It helps to identify areas of improvement, track progress, and make data-driven decisions.

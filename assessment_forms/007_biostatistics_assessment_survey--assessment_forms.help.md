@@ -1,11 +1,3 @@
-<thinking>
-
-This is a form used to assess the biostatistics expertise of a respondent. The purpose of this form is to gather information about the respondent's background, experience, and skills in biostatistics, as well as their preferences for training and resources. This form will help identify areas where the respondent needs improvement and tailor training programs to their specific needs.
-
-Before starting the form, ensure that you have read and understood the purpose and instructions clearly, and that you have access to the required resources and tools mentioned in the form.
-
-</thinking>
-
 # Biostatistics Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess your biostatistics expertise and identify areas where you need improvement. It will help tailor training programs to your specific needs.

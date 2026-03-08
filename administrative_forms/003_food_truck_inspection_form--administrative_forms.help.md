@@ -1,8 +1,3 @@
-<thinking>
-This help guide is generated automatically and is intended to ensure the end-user understand the purpose and usage of the "Food Truck Inspection Form". The form's purpose is to gather information about food trucks, specifically their licenses, safety equipment, cleanliness, and inspection history. The form is not intended to be used for any other purpose. The fields are designed to be completed by the food truck operator or their representative. To ensure the form's accuracy and effectiveness, it is essential to understand each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # Food Truck Inspection Form - Help Guide
 ## Purpose
 The "Food Truck Inspection Form" is a tool used by food truck operators to gather information about their vehicle's safety and cleanliness status. This form is intended to ensure that food trucks meet the required standards for safe and clean operation.

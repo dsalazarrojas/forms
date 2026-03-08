@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users book a tent lighting installation. The form requires users to provide event planning information, such as the event date, start and end times, and location. Additionally, users must specify the lighting system requirements and power distribution needs for the event. This form is intended for event planners to plan and book a suitable tent lighting installation for their event. Please ensure that you fill out this form accurately and thoroughly to ensure that the event lighting can be set up and configured correctly for a smooth and successful event experience.
-
-</thinking>
-
 # Tent Lighting Installation Booking Form - Help Guide
 ## Purpose
 This form is designed to help event planners book a tent lighting installation for their event. It will help us understand the event requirements to provide the right lighting solution for a successful event experience.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to place an order for team-branded water jugs. The form is used to capture information from end users about their team's order details, such as team name, water jug size, order quantity, contact email and phone number, and any additional notes. This form does not have any required fields. 
-The purpose of this form is to provide a convenient and structured way for teams to place orders for their water jugs without having to contact the company directly. The form data will be used to fulfill the order and send relevant information to the user.
-</thinking>
-
 # Team Branded Water Jug Order Form - Help Guide
 ## Purpose
 This form is designed to help teams place orders for branded water jugs that can be customized with their team's name and logo. Fill out the form with your team's details and any additional notes to ensure that your order is fulfilled correctly.

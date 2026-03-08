@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Claim Discharge Form - Help Guide
 ## Purpose
 The Insurance Claim Discharge Form is used to document the discharge of an insurance claim. This form is essential for providing a formal record of the claim's status and the reason for its discharge. It is typically used by insurance providers to ensure accurate and transparent documentation of the claim's lifecycle.

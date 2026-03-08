@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for internal use within the organization and is designed to be completed by Venture Capital Analysts who are offboarding from the company. 
-It's crucial that analysts complete this form accurately to ensure a smooth transition of their responsibilities and assets. Please ensure that you have the necessary information and permissions before filling out this form.
-</thinking>
-
 # Venture Capital Analyst Offboarding Form - Help Guide
 ## Purpose
 This form is used to collect information from Venture Capital Analysts who are offboarding from the company. It is a crucial document that helps in the transition process, ensuring that their responsibilities and assets are properly transferred.

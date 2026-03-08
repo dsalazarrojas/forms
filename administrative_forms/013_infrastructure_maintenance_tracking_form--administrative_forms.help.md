@@ -1,18 +1,3 @@
-<thinking>
-The form appears to be a standard data entry form for tracking maintenance activities on physical assets, with a focus on scheduling and communication. The form's fields suggest it's used to assign tasks, record progress, and notify relevant parties. It's crucial to ensure that users understand the correct use and intent behind each field to accurately and efficiently complete the form.
-
-To verify the form's purpose and relevance, I will analyze each field:
-
-*   The form contains fields for `maintenance_date`, `asset_id`, `description`, `assigned_to`, `priority`, `maintenance_status`, `comments`, `email_notifications`, `email_recipients`, and `due_date`. These fields cover essential aspects of asset maintenance, including scheduling, assignment, progress tracking, and communication.
-
-*   The form's structure and field names do not indicate any complex business logic or specialized requirements that might make it difficult for end-users to understand.
-
-*   The form fields are mostly self-explanatory, but some field labels might be a bit ambiguous for end-users who are not familiar with the terminology used.
-
-*   Overall, this form appears to be a straightforward tool for tracking and organizing maintenance activities.
-
-</thinking>
-
 # Infrastructure Maintenance Tracking Form - Help Guide
 
 ## Purpose

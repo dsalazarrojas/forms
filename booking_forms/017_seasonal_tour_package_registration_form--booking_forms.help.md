@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a seasonal tour package. This includes details about the package, traveler information, package options, payment details, package price, package discount, discount type, package status, assigned tool, and any additional notes or contact information. This form is likely used by customers or users to register for a seasonal tour package.
-</thinking>
-
 # Seasonal Tour Package Registration Form - Help Guide
 ## Purpose
 This form is used to register for a seasonal tour package. The form collects information for the package, traveler, payment, and other relevant details.

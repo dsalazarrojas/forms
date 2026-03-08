@@ -1,16 +1,3 @@
-<thinking>
-The Auditor Estimate Form is a critical document used to gather information about an organization's financial and operational activities. The form is designed to be completed by the client, providing essential details about their business, including the type of audit services required, financial information, and contact details. This form is typically used by auditors to prepare for an audit, ensuring they have a comprehensive understanding of the client's needs and requirements.
-
-Before completing the form, it is essential to review the provided fields carefully and answer each question accurately. The form is divided into several sections, each focusing on specific aspects of the client's business. 
-
-The purpose of this form is to help auditors prepare for the audit and to ensure that all necessary information is collected. It is a critical tool in the audit process, and its completion should not be taken lightly.
-
-This guide will walk you through each field and provide a clear explanation of what information is required and why it is essential.
-
-Please note that the form is not a one-time use form, but rather a dynamic tool that is used throughout the audit process. It is crucial to be honest and accurate in your responses as they will influence the audit services provided.
-
-</thinking>
-
 # Auditor Estimate Form - Help Guide
 ## Purpose
 The Auditor Estimate Form is a document used to gather essential information about an organization's financial and operational activities. It is designed to be completed by the client, providing details about their business, including the type of audit services required, financial information, and contact details.

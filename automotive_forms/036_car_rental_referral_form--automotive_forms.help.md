@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Car Rental Referral Form", I'll first consider the context in which this form is used. This form is likely used by travel agents, hotel concierges, corporate partners, and other individuals who are interested in referring potential customers to the car rental service.
-
-The form is designed to capture information about the referrer, the referred customer, and the rental details. The referrer's information includes their first name, last name, email, phone number, company (if applicable), and the type of referrer they are. The referred customer's information includes their full name, email, phone number, and the type of vehicle category needed. The rental details section includes the expected pickup and return dates, vehicle category, and any special requirements or preferences.
-
-The form is also used to track the status of the referral, including the date of submission, commission eligibility, follow-up required, and any additional comments.
-
-Before filling out this form, make sure you are a legitimate referrer and that you have the necessary permissions to refer customers. If you have any questions or issues while completing this form, please contact us at your earliest convenience.
-
-</thinking>
-
 # Car Rental Referral Form - Help Guide
 ## Purpose
 The Car Rental Referral Form is used to refer potential customers to our car rental service. This form captures information about the referrer, the referred customer, and the rental details to help us process the referral and follow up with the customer.

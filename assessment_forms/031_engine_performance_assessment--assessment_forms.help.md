@@ -1,32 +1,3 @@
-<thinking>This form is designed to assess the performance of an engine in a vehicle. The form is used to gather information about the engine's condition, maintenance requirements, and other related factors. To ensure that the assessment is comprehensive and accurate, please complete the form with the following fields in mind:
-
-*   Engine Check Results: A note field for any results or comments about the engine check.
-*   Check Date: The date on which the engine check was performed.
-*   Engine Type: A select-one field to determine if the engine is functioning properly.
-*   Engine Performance: A select-multiple field to determine the engine's performance characteristics.
-*   Maintenance Type: A select-one field to determine the need for maintenance.
-*   Maintenance Frequency: A select-multiple field to determine the frequency of maintenance.
-*   Fuel Level: A number field to check the current fuel level.
-*   Oil Level: A number field to check the current oil level.
-*   Coolant Level: A number field to check the current coolant level.
-*   Transmission Type: A select-one field to determine the type of transmission.
-*   Transmission Condition: A select-multiple field to determine the transmission condition.
-*   Engine Condition: A select-multiple field to determine the engine condition.
-*   Vehicle Condition: A select-multiple field to determine the vehicle condition.
-*   Fuel Efficiency: A number field to check the fuel efficiency.
-*   Engine Failure: A select-one field to determine if the engine has failed.
-*   Fuel Type: A select-one field to determine the type of fuel used.
-*   Vehicle Type: A select-one field to determine the type of vehicle.
-*   Vehicle Mileage: A number field to check the vehicle's mileage.
-*   Vehicle Year: A number field to check the vehicle's year.
-*   Fuel Level 2: A number field for the second check.
-*   Oil Level 2: A number field for the second check.
-*   Coolant Level 2: A number field for the second check.
-*   Fuel Efficiency 2: A number field for the second check.
-*   Engine Failure 2: A select-one field to determine if the engine has failed in the second check.
-*   Vehicle Type 2: A select-one field to determine the type of vehicle. 
-
-</thinking>
 # Engine Performance Assessment - Help Guide
 ## Purpose
 This form is used to assess the performance of an engine in a vehicle. It is designed to gather information about the engine's condition, maintenance requirements, and other related factors.

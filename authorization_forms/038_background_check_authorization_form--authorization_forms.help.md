@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive background check authorization form used by employers or organizations to request background checks on potential or current employees. The form asks for personal and demographic information, employment history, and authorization for background investigations. The form also includes fields for the applicant to acknowledge their rights under the Fair Credit Reporting Act (FCRA) and express their consent for background checks. It seems that this form is used in a professional setting, likely for employment purposes. I am not aware of any specific business logic or requirements for this form, and it appears to be well-structured. I will base my explanations on the provided YAML fields.
-</thinking>
-
 # Background Check Authorization Form - Help Guide
 ## Purpose
 This form is used to request background checks on potential or current employees. It collects information about the applicant's personal details, employment history, and authorization for background investigations.

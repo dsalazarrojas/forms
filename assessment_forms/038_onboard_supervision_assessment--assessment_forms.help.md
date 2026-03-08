@@ -1,8 +1,3 @@
-<thinking>
-This is an AI-generated form for onboarding assessments, specifically designed for supervisory purposes. The form is intended to gauge the effectiveness of the onboarding process and provide feedback on the supervision provided to new hires. The form's fields cover various aspects of the onboarding experience, including new hire experience, supervisor support, communication, training, support resources, overall satisfaction, and feedback on the supervisor. This form can be used by supervisors to gather valuable insights into their performance and identify areas for improvement. To ensure consistency and avoid duplication of effort, please use this assessment for all new hires.
-
-</thinking>
-
 # Onboard Supervision Assessment - Help Guide
 ## Purpose
 The Onboard Supervision Assessment is a form designed to evaluate the effectiveness of the onboarding process for new hires under the supervision of a manager/supervisor. It aims to gather feedback on key aspects of the onboarding experience, including new hire experience, supervisor support, communication, training, support resources, overall satisfaction, and feedback on the supervisor.

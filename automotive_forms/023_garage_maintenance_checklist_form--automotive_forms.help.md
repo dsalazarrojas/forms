@@ -1,7 +1,3 @@
-<thinking>
-The Garage Maintenance Checklist Form is designed to help automotive professionals and owners track and record the necessary maintenance tasks and inspections for their vehicles. This form is intended to cover essential checks for a garage or mechanic's shop. To avoid redundancy and ensure accurate completion, it is recommended to review the form carefully before filling it out.
-</thinking>
-
 # Garage Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is designed to record and track maintenance tasks and inspections for your vehicle. It helps ensure that your vehicle receives regular check-ups and stays in good condition.

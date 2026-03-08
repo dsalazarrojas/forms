@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for customers to request access to their digital wallet, allowing them to recover access to their digital assets. This form is used to gather information about the customer's request, including their details, reason for the request, and any attached files. The form will ask the customer to upload files if required and also ask for follow-up details and status of the follow-up.
-
-To avoid duplication of requests, customers are only allowed to request access once. This form should only be used by customers who have not already submitted a request.
-
-This form is designed to be user-friendly and easy to complete. The customer needs to select their details and reason for the request, upload any required files, and fill out the follow-up details. The status of the follow-up will be selected by the customer.
-
-The form will ask the customer about the follow-up status to keep track of the process. The status of the follow-up will be either Active or Inactive, depending on the customer's preference.
-
-</thinking>
-
 # Digital Wallet Access Recovery Request - Help Guide
 ## Purpose
 This form is used to request access to a digital wallet, allowing customers to recover access to their digital assets.

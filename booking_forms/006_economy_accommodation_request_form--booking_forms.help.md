@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate users in requesting economy accommodation for a trip or travel. The form is divided into two main categories: check-in and check-out dates, contact information, and accommodation preferences. To ensure that the form is filled out correctly, please note that the check-in and check-out dates should be in the correct format (date/month/year) and that contact information (phone, email, and company email) should be in a valid format. Additionally, please make sure to fill out the required fields (marked with *) as they are essential for processing your request.
-</thinking>
-
 # Economy Accommodation Request Form - Help Guide
 ## Purpose
 This form is used to request economy accommodation for a trip or travel. It is essential to fill it out correctly to ensure that your request is processed efficiently.

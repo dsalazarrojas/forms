@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information for an appointment, including appointment details, client information, and confirmation details. It is likely used by healthcare or service providers to collect information from clients before a scheduled appointment. This guide will help users understand the purpose and how to fill out the form correctly.
-
-The form has 9 pages, each with several fields, but most of the fields are on pages 3, 6, 7, 10, 11, 14, 17, and 21.
-
-</thinking>
-
 # Calendar Reception Confirmation Form - Help Guide
 ## Purpose
 

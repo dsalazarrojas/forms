@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to declare insurance claims related to distance-based events, such as travel or transportation incidents. It is intended for employees who need to provide information about their travel history to help with insurance claims. This form should only be completed by employees who are currently or have been employees of the company, and who have experienced a travel-related incident that may be covered by the company's insurance policy. If you have already completed this form for the same event, please do not submit another one. This will help prevent duplicate claims and ensure accurate records.
-</thinking>
-
 # Insurance Claim Distance Declaration - Help Guide
 ## Purpose
 The Insurance Claim Distance Declaration form is a mandatory document for employees who have experienced a travel-related incident that may be covered by the company's insurance policy. It is used to gather information about the distance traveled and other relevant details to process the insurance claim.

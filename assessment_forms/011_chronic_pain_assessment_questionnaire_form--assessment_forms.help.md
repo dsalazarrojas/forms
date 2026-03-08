@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for clinicians and healthcare professionals to assess the chronic pain levels of patients, providing a comprehensive evaluation of the severity and impact of their pain. This form helps healthcare professionals gather crucial information about the patient's pain experience, including the location, frequency, intensity, and impact on daily activities. The form will help healthcare professionals develop a thorough understanding of the patient's needs and create a treatment plan tailored to their individual circumstances. Please note that this form should only be completed by authorized healthcare professionals, and any duplicate submissions should be avoided.
-
-</thinking>
-
 # Chronic Pain Assessment Questionnaire Form - Help Guide
 ## Purpose
 

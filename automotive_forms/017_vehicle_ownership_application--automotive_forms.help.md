@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about vehicle ownership. The purpose of this form is to collect data about the vehicle's details and its owner's information. 
-
-The form is divided into sections, each containing specific fields that require relevant details. 
-
-Before proceeding, please ensure you have all the necessary information ready to fill in the form accurately.
-</thinking>
-
 # Vehicle Ownership Application - Help Guide
 ## Purpose
 The Vehicle Ownership Application form is designed to collect information about vehicle ownership. It is intended for use by dealerships and other relevant authorities to gather data about vehicles and their owners.

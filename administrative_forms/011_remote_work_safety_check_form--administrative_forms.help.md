@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to help employees ensure their safety while working remotely. It is not meant to be completed multiple times, and its purpose is to provide a one-time assessment of the employee's safety protocols for remote work. This form will be used by the management team to review and verify the employee's safety measures. The fields in this form are designed to collect information about the employee's workspace, safety risks, and emergency contacts.
-</thinking>
-
 # Remote Work Safety Check Form - Help Guide
 ## Purpose
 This form is used to assess an employee's safety protocols for remote work and ensure they are following the company's safety guidelines while working outside of the office.

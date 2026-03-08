@@ -1,12 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and efficiently, let's clarify its purpose and potential usage. This form, titled "Trauma-Informed Care Assessment", is designed to gather information for assessing trauma-informed care practices in a specific setting or context. It's possible that this form might overlap with other assessments or surveys, so please review and confirm that you are using it for the intended purpose.
-
-The form is divided into several sections that cater to different aspects of trauma-informed care, including training priorities, resource planning, and ongoing improvement activities. Each section is designed to collect specific information that can help in assessing the care practices.
-
-To complete this form, please refer to the following steps and explanations for each field.
-
-</thinking>
-
 # Trauma-Informed Care Assessment - Help Guide
 ## Purpose
 The Trauma-Informed Care Assessment form is designed to collect data on trauma-informed care practices in a specific setting or context. It is used to gather information on the care and services provided, and to identify areas for improvement and growth.

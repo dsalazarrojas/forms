@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used for booking taxis or other transportation services online. The purpose of this form is to gather information from the user to facilitate the booking process. The form collects address and contact information, as well as other relevant details such as taxi fares, trip information, and description of the request. The fields on this form are designed to be as minimal as possible while still collecting all necessary information. 
-
-</thinking>
-
 # online_taxi_booking_form - Help Guide
 ## Purpose
 The online taxi booking form is used to gather information from users to facilitate the taxi booking process.

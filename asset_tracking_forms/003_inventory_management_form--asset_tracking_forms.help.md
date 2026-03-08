@@ -1,6 +1,3 @@
-<thinking>
-This form is used for managing and tracking inventory items. It will help users keep records of items in their inventory, including their quantities, prices, and purchase/sale dates. The form is not required for any specific business process, but it's a general tool for inventory management and monitoring. Please make sure to fill out the form accurately and honestly to get the most useful results.</thinking>
-
 # Inventory Management Form - Help Guide
 ## Purpose
 The Inventory Management Form is a tool for keeping track of items in your inventory. It's designed to help you collect and record information about the items in your stock, including their quantities, prices, and purchase/sale dates.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to facilitate the behavior analysis precertification process for patients who require special services. The primary purpose of this form is to gather essential information about the patient, provider, and requested services. This form will guide you through the necessary steps to request and document the required information for precertification purposes.
-
-The form is divided into several sections, including patient information, provider information, service details, and attestation. Each section is designed to collect specific data to ensure that the requested services are properly precertified.
-
-Before proceeding, please ensure that you have all the necessary information required for the form. This includes the patient's name, date of birth, insurance member ID, and primary diagnosis code. Additionally, you must confirm that you have attached the required clinical assessment.
-
-When completing this form, please ensure that you are filling in the correct information in the corresponding sections. For instance, patient information must be accurate and up-to-date. Similarly, you must choose the correct service type and hours requested per week that align with your needs.
-
-Below is the detailed help guide for this form.
-
-</thinking>
-
 # Behavior Analysis Precertification Request - Help Guide
 ## Purpose
 This form is designed to collect information necessary for the behavior analysis precertification process. It gathers data about the patient, provider, and services requested to ensure that the precertification process is completed correctly.

@@ -1,10 +1,3 @@
-<thinking>
-The form is used to request adjustments to the time clock, and the user needs to fill out their employee details, select a reason for the adjustment, and provide any additional comments or notes. This form is likely used for HR or payroll purposes.
-To prevent duplication and ensure accuracy, please only submit one request per adjustment. Before submitting, review your entries carefully and ensure they are correct.
-This form has multiple fields for employee information, adjustment reason, and status. The fields are mostly text-based, except for the status field which is a select_one type.
-Before submitting, ensure you have filled out all required fields.
-</thinking>
-
 # Time Clock Adjustment Request - Help Guide
 ## Purpose
 The Time Clock Adjustment Request form is used to request adjustments to the time clock. This form is designed to collect employee information, adjustment reason, and status, allowing HR or payroll teams to track and process requests accurately.

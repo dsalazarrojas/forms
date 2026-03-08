@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Overtime Authorization Form - Help Guide
 ## Purpose
 The Overtime Authorization Form is used for employees to request authorization for overtime work beyond their regular working hours. This form is a necessary step to ensure that employees are properly approved for overtime work and that the necessary paperwork is completed accurately and efficiently.

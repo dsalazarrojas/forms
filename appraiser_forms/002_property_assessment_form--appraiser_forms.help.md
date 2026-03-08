@@ -1,18 +1,3 @@
-<thinking>
-This form design seems well-structured. To confirm, I'm assuming the form has the following properties:
-- A property value field with a numerical input type.
-- A location field for describing the property's location (text input type).
-- An assessment type field for categorizing the property's assessment status (select_one type with two options: 'Yes' and 'No').
-- An assessment date field for recording the date of the assessment (date type).
-- An assessment time field for recording the time of the assessment (time type).
-
-I also assume that the form is meant to be completed by a user who has some knowledge of the property being assessed. If this is not the case, the form might need additional guidance.
-
-The property value field is likely used to store a numerical value representing the property's condition, quality, or other relevant metric. The location field should provide a concise description of the property's location. The assessment type field will determine whether the property is assessed as 'Yes' or 'No'. The assessment date and time fields will record the date and time when the assessment was performed.
-
-Please let me know if my assumptions are correct or if I need to clarify anything.
-</thinking>
-
 # Property Assessment Form - Help Guide
 
 ## Purpose

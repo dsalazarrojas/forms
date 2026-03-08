@@ -1,8 +1,4 @@
-# <thinking>... This form is designed to help individuals and families who want to adopt a new dog from our animal shelter. To ensure that you're adopting a pet that's the right fit for your lifestyle, we've created this application form to gather essential information about you and your household. Please note that all fields are optional, but providing accurate information will help us better understand your needs and preferences for a suitable match.
-
-</thinking>
-
-# Dog Adoption Application - Help Guide
+# # Dog Adoption Application - Help Guide
 ## Purpose
 This form is intended to help us understand your household and pet preferences so we can find the perfect match for you and your family. It's a crucial step in the dog adoption process, and your cooperation is greatly appreciated!
 

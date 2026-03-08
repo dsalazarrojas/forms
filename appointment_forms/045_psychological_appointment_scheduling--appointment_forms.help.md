@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Psychological Appointment Scheduling - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals and patients schedule appointments for psychological evaluations and sessions. It collects information about the patient's name, contact information, appointment date and time, and other relevant details such as the reason for the visit and preferred schedule.

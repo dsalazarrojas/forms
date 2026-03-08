@@ -1,7 +1,3 @@
-<thinking>
-The form "Present Tense Grammar Quiz" is designed to test the user's knowledge of the present tense in English grammar. The form is intended for language learners to assess their understanding of the present tense and its various aspects, such as the present simple, present continuous, and present perfect tenses. The form will help users identify their strengths and weaknesses in understanding the present tense and provide a baseline for future improvement.
-</thinking>
-
 # Present Tense Grammar Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of the present tense in English grammar. It contains multiple-choice questions that cover various aspects of the present tense, such as the present simple, present continuous, and present perfect tenses.

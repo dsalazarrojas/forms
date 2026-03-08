@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Land Use Rezoning Application Form is to allow applicants to submit a formal request for land use rezoning, which involves changing the current land use designation of a property. This form is intended for property owners or their representatives to provide necessary information about the proposed rezoning, including the property address, the land use description, and supporting documents. It's essential to ensure that all required fields are completed accurately and thoroughly to avoid delays or rejection of the application.
-
-Before proceeding, ensure that you're submitting a duplicate application or that you're aware of the current zoning regulations. If you're unsure about any aspect of the process, it's recommended to review the municipal zoning ordinance or consult with the relevant authorities.
-
-</thinking>
-
 # Land Use Rezoning Application Form - Help Guide
 ## Purpose
 

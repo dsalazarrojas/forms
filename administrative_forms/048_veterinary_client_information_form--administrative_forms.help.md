@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Client Information Form - Help Guide
 ## Purpose
 The Veterinary Client Information Form is a tool used to collect essential information from veterinary clients. It serves as a comprehensive document to gather details about the client and their pet, including contact information, pet details, and any additional relevant information. This form is designed to be completed by veterinary clients or their representatives to provide accurate and up-to-date information to the veterinary clinic or practice.

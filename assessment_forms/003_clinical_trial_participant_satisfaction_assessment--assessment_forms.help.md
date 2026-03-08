@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and opinions from clinical trial participants about their experiences with the study. This form helps researchers and sponsors understand the strengths and weaknesses of their clinical trial, identify areas for improvement, and make data-driven decisions to enhance participant satisfaction and overall quality of the trial. 
-To ensure that the form is filled out correctly, please note that each question has specific instructions and options. Please make sure to follow these instructions carefully to provide accurate and useful feedback.
-</thinking>
-
 # Clinical Trial Participant Satisfaction Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and opinions from clinical trial participants about their experiences with the study.

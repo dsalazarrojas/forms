@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to request access to monitoring systems for various purposes, such as troubleshooting, maintenance, or testing. The form is designed to be completed by the person requesting access, providing necessary information about their identity, the system they wish to access, and the reasons for their request. This form helps ensure that access is granted based on the required information.
-</thinking>
-
 # Smart Monitoring Access Request Form - Help Guide
 ## Purpose
 

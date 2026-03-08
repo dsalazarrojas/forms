@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, this help guide is for a form used to request adjustments to office furniture, and its purpose is to gather information from employees about the type of adjustment needed, the reason for the request, the location, and other details. This form is not a mandatory field, as indicated by the "required: false" in each field. This guide will cover the form's purpose, how to complete it, and an explanation of each field's purpose to ensure users understand what each field is used for.
 
 # Office Furniture Adjustment Request Form - Help Guide

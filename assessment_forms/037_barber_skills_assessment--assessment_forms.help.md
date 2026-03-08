@@ -1,5 +1,3 @@
-<thinking>...this form is for evaluating a barber's skills and performance, and it's designed to gather information about their technical skills, client interaction, and overall performance. This assessment is likely used for employee evaluations or performance reviews in a barbering industry setting. It's essential to ensure that only the relevant assessors/evaluators complete the form for each barber, and there's no need for duplicates. This form is intended to be completed by a single individual for each barber, so please avoid filling it out multiple times... </thinking>
-
 # Barber Skills Assessment - Help Guide
 ## Purpose
 This guide is designed to help you complete the Barber Skills Assessment form, which is used to evaluate a barber's performance and skills in a professional setting.

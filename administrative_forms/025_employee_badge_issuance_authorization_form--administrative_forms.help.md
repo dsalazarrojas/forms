@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request the issuance of a badge for an employee. The purpose of this form is to provide authorization for badge issuance to the appropriate personnel, ensuring that the employee receives the badge they need to perform their job duties. Before completing this form, please ensure that you have the necessary approvals and permissions to request a badge for the employee. Also, please double-check that this form is not already filled out for the same employee and purpose. If you're unsure, please contact the relevant personnel for clarification.
-</thinking>
-
 # Employee Badge Issuance Authorization Form - Help Guide
 ## Purpose
 The Employee Badge Issuance Authorization Form is used to request the issuance of a badge for an employee. This form ensures that the employee receives the badge they need to perform their job duties.

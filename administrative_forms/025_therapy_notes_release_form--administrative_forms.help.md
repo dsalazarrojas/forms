@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for releasing therapy notes, likely in a professional setting, such as a medical or counseling practice. The purpose of this form is to document the client's release of their therapy notes, which may include sensitive or confidential information. This form should only be used for authorized and legitimate purposes, such as when a client explicitly requests the release of their notes. 
-
-To determine if this form is applicable, consider the following:
-
-* Is the form being used to release confidential client information?
-* Is the form being used for an authorized and legitimate purpose, such as at the client's request?
-* Are you certain that you are not duplicating an existing form with similar purpose and fields?
-
-If you answered 'yes' to the above questions, then proceed to complete the form.
-
-</thinking>
-
 # Therapy Notes Release Form - Help Guide
 ## Purpose
 This form is designed to facilitate the release of therapy notes, ensuring that clients understand their options for sharing confidential information.

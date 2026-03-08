@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to facilitate discussions between lash brand retailers and their clients. It is intended to be used by the client to schedule and prepare for an appointment with a retailer to discuss their needs and interests. The form is a crucial tool for effective communication and ensuring a smooth and productive meeting. It is recommended to fill out this form only once for each appointment and not to duplicate efforts.
-
-</thinking>
-
 # Lash Brand Retailer Discussion Appointment Form - Help Guide
 ## Purpose
 This form is designed to schedule and prepare for an appointment with a lash brand retailer. It helps to facilitate clear communication between the client and the retailer, ensuring a smooth and productive meeting.

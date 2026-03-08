@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Drinking Water Contamination Incident Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by educators to provide feedback and support to their administrative team, helping them to identify areas where they can improve. It's designed to be a straightforward and efficient way for teachers to offer their input, allowing for a more collaborative and supportive work environment. 
-The main goal is to gather information that can help the school administration make informed decisions and take actions that benefit the teachers and the students. This form is likely to be used by teachers in a school setting. It's a tool to facilitate open communication between teachers and the administration.
-</thinking>
-
 # Teacher Administrative Support Assessment Form - Help Guide
 ## Purpose
 The Teacher Administrative Support Assessment Form is designed to gather feedback and support from teachers for the school administration team. This form helps to identify areas where the school administration can improve, allowing for a more effective and supportive work environment.

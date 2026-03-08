@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to reserve a meeting room at the library for a specific date and time. This form will be used by library staff to manage and track meeting room reservations. It is not intended for general public access, but rather for authorized library staff to schedule and manage meetings for library events, workshops, or other events that may require the use of a meeting room. This form will not be used for public-facing purposes, so it's not necessary to include instructions for external users. 
-</thinking>
-
 # Library Meeting Room Reservation Form - Help Guide
 ## Purpose
 This form is for library staff to reserve a meeting room for a specific date and time. 

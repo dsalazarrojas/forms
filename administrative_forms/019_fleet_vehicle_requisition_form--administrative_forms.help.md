@@ -1,5 +1,3 @@
-<thinking> This form appears to be a vehicle requisition form, designed for requesting access to a company's fleet vehicle. It likely contains fields for various vehicle attributes such as type, make, model, year, color, registration, and other relevant details. The "Company Details" page might include information about the requesting employee, while the "Vehicle Requisition Status" option might be used to track the current status of the vehicle request. It is essential to ensure that the form is completed accurately and consistently to avoid duplication and miscommunication. </thinking>
-
 # fleet_vehicle_requisition_form - Help Guide
 ## Purpose
 This form is used to request access to a company's fleet vehicle. It is intended to capture essential information about the vehicle and the reason for the request.

@@ -1,15 +1,3 @@
-<thinking>
-The goal of this form is to collect information from clients regarding their relaxation packages, including details about themselves, the package they wish to release, and any additional information that may be relevant. The form is likely to be used in a spa or wellness setting where clients are releasing packages they have previously purchased. 
-The form should be able to collect the following:
-- Client details (name, etc.)
-- Package details (name, etc.)
-- Date of the package release (schedule session)
-- Capture of consent regarding the terms and conditions
-- Duration and frequency of the scheduled session
-- Manager of the package (client, spa, third party)
-- Notes about the session
-</thinking>
-
 # Relaxation Package Release Form - Help Guide
 
 ## Purpose

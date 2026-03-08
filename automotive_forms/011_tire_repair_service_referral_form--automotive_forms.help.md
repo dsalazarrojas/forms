@@ -1,7 +1,3 @@
-<thinking>
-This form is for referring customers to a tire repair service. It will allow customers to input their first name, last name, phone number, email, vehicle make, year, model, and other relevant details for repair purposes. The form will help in identifying the vehicle type, color, license plate, and any other required information to process a service request. The user needs to fill out this form to provide the required information so that our team can process the repair service request efficiently.
-</thinking>
-
 # tire_repair_service_referral_form - Help Guide
 ## Purpose
 The tire repair service referral form is designed to collect essential information from customers for the purpose of referring them to a tire repair service.

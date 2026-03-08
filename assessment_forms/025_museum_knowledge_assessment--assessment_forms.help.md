@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Museum Knowledge Assessment - Help Guide
 
 ## Purpose

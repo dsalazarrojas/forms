@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used by patients and clients to schedule an appointment with an occupational therapist. The purpose of this form is to collect necessary information for the therapist to prepare for the appointment and ensure that the client is aware of what to expect.
-
-The form is divided into two main sections: one for personal information and another for appointment details. 
-
-This guide will walk you through each field in the form and provide explanations for each.
-</thinking>
-
 # Occupational Therapy Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule an appointment with an occupational therapist. Please fill out the required fields to ensure a smooth and successful appointment.

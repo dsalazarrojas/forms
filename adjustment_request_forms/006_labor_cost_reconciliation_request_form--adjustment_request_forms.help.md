@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request a labor cost reconciliation when there is a discrepancy between the actual costs incurred by a project and the estimated costs recorded in the project management system. The purpose of this form is to provide a structured way to document and request a correction to the labor costs, ensuring that both the finance team and project teams are aligned on the actual costs and can take corrective action.
-To avoid duplication of effort, ensure that you have not already submitted a similar request before. Before submitting this form, verify that the project status is active.
-</thinking>
-
 # Labor Cost Reconciliation Request Form - Help Guide
 ## Purpose
 The Labor Cost Reconciliation Request Form is used to request a labor cost reconciliation when there is a discrepancy between the actual costs incurred by a project and the estimated costs recorded in the project management system.

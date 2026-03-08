@@ -1,10 +1,3 @@
-<thinking>
-This form is a Loan Restructuring Approval Application form. The form's purpose is to gather information and approval status for a loan restructuring request. It is intended for use in a banking or financial institution to facilitate the evaluation and approval process for loan restructurings.
-To ensure that you're using this form correctly, please make sure:
-* The form is only used for loan restructuring requests.
-* You have the necessary approval authority for the loan being restructured.
-</thinking>
-
 # Loan Restructuring Approval Application - Help Guide
 ## Purpose
 This form is for loan restructuring requests, to gather information and approval status for restructurings.

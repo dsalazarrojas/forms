@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information related to tenant billing inquiries, payment details, and property address information. The form allows tenants to submit their billing inquiries, payment details such as start and end dates, rent amount, payment frequency, and status. Additionally, it collects the contact information of both the tenant and landlord. This form is intended for administrative use to track and manage tenant billing information.
-
-This form is part of a larger system for managing administrative tasks and is not intended for general public use.
-
-Before filling out this form, please ensure that you have the necessary permissions and authority to access and submit this form.
-
-Please fill out this form carefully, as the information collected will be used for administrative purposes.
-
-</thinking>
-
 # Tenant Billing Form - Help Guide
 ## Purpose
 The Tenant Billing Form is designed to collect information related to tenant billing inquiries, payment details, and property address information.

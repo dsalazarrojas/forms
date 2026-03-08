@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physical Therapy Leave Form - Help Guide
 ## Purpose
 The Physical Therapy Leave Form is used to document and track physical therapy-related leaves, allowing healthcare professionals to keep track of patient absences and schedule adjustments. This form is typically used for planning purposes only, and its data is not intended for long-term storage. It's essential to fill out this form accurately and completely to ensure that patients' needs are met and that their absence is properly recorded.

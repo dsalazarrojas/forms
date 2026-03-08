@@ -1,11 +1,3 @@
-<thinking>
-This form seems to be an original creation and does not duplicate or copy from any other form platforms. It's a medical leave authorization form created for a specific industry or category, likely related to HR or employee management.
-
-This form's purpose is to authorize an employee's medical leave, which may be needed for various reasons such as illness, injury, or surgery. The form is designed to collect relevant information from the employee, their doctor, and the company.
-
-The form appears to be simple, with eight fields that require some level of input from the user. I will create a help guide based on the provided YAML fields.
-</thinking>
-
 # medical leave authorization form - Help Guide
 
 ## Purpose

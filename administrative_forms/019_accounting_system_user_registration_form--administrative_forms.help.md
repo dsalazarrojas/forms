@@ -1,9 +1,3 @@
-<thinking>
-
-The primary purpose of this form is to onboard new users in the accounting system, ensuring that they have the necessary access and permissions to perform their assigned tasks and roles. This form should only be completed by authorized personnel, and it's essential to check that the user is not duplicating an already existing account before proceeding. If the user is new to the organization, they may not have access to the system yet, so ensure that they are not attempting to register with an account that already exists or has not been approved.
-
-</thinking>
-
 # Accounting System User Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register new users in the accounting system, providing them with the necessary access and permissions to perform their assigned tasks and roles.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a personal shopping assistant for Black Friday sales. It's meant to help users create a wishlist of items they want to buy during the holiday shopping season. This form will likely be used by individual customers rather than business users, and is meant to aid them in planning their shopping trip and staying within their budget. The form should be easy to fill out and understand, and will guide the user in setting up their wishlist with all the necessary information.
-
-The form will not be used for any other purpose other than personal shopping planning, and will likely be used by a single user at a time. This is a one-time use form, and there should be no need for any additional information to be entered in the future.
-
-</thinking>
-
 # Black Friday Wishlist Template - Help Guide
 ## Purpose
 This form is a personal shopping assistant for Black Friday sales. It helps users plan their shopping and stay within their budget by creating a wishlist of items they want to buy.

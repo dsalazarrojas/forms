@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # zero_discrimination_policy_declaration_form - Help Guide
 ## Purpose
 The purpose of this form is for employees to declare their commitment to our organization's zero-discrimination policy. This form will be used to gather information about employee's declarations, which will be reviewed and documented by the relevant authorities.

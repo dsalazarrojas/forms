@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Purpose
 The RED Handover Form is designed to capture essential information from customers for their orders. This form helps us understand their delivery preferences, address, and contact details. Please note that this form is not intended for internal use only and is a public-facing form.
 

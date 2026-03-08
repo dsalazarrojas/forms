@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the Aftermarket Information Disclosure Form is used correctly to avoid any potential issues. This form is used to collect information about a company's or individual's request for aftermarket products or services. It's essential to fill out this form accurately to demonstrate a genuine interest in the products or services. Please review the form carefully to understand the fields and their requirements. If you're unsure about any field, it's best to consult with the person responsible for handling the form.
-
-Before starting, let's ensure that you're not duplicating an existing request. Check if you've already submitted a similar request in the past. If you're looking to update or modify an existing request, please provide the relevant reference number for reference.
-
-Now, let's go through the form step by step:
-
-</thinking>
-
 # Aftermarket Information Disclosure Form - Help Guide
 ## Purpose
 The Aftermarket Information Disclosure Form is a crucial document used to collect information about a company's or individual's request for aftermarket products or services. It helps us understand your requirements and ensure that we provide accurate and relevant information.

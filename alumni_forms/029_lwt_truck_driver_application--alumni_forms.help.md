@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from potential LWT (Licensed Wholesale Truck) truck drivers. This form will likely be used in a business-to-business context, such as for logistics or delivery services. The form is designed to capture essential data from applicants, including their personal details and contact information.
-
-To avoid duplication, this form should only be used for new driver applications. If you are an existing LWT driver, please do not fill out this form again.
-
-</thinking>
-
 # LWT Truck Driver Application - Help Guide
 ## Purpose
 This form is used to collect information from potential LWT truck drivers for business-to-business logistics or delivery services.

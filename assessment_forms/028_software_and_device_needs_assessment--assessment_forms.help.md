@@ -1,11 +1,3 @@
-<thinking>
-
-The "Software And Device Needs Assessment" form is designed to help teams identify their software and hardware needs to ensure that they have the necessary tools to perform their tasks efficiently. This form is typically filled out by team leads or managers to provide information on the team's composition, software and hardware requirements, and other relevant details. 
-
-Before proceeding, ensure that this form is not filled out by mistake or duplication. If you're not a team lead or manager, please do not fill out this form.
-
-</thinking>
-
 # Software And Device Needs Assessment - Help Guide
 ## Purpose
 The purpose of this form is to gather information from teams on their software and device needs to support team performance and resource allocation.

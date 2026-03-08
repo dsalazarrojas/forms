@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents and guardians regarding a meeting with their child's teacher. The form is designed to gather details about the meeting date, time, location, and contact information for the teacher. This form will help the school administration to keep track of meeting schedules and facilitate effective communication between teachers and parents. 
-
-This form should only be used for meetings that are specific to individual teachers and their respective classes. It should not be used for general meetings or events that do not involve individual classes. 
-
-Please review the form carefully before proceeding to ensure you are completing it for the correct purpose.
-</thinking>
-
 # parents_teacher_meeting_registration - Help Guide
 ## Purpose
 The "parents_teacher_meeting_registration" form is designed to collect information from parents and guardians about a meeting with their child's teacher. This form is meant to be used for specific meetings related to individual classes, not for general meetings or events.

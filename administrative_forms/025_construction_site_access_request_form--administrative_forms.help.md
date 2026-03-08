@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is used to request access to a construction site, which is likely for inspection, maintenance, or other authorized purposes. The form ensures that the site access is properly managed and recorded, and that visitors are aware of site rules and safety protocols.
-The form is likely intended for use by site managers, administrators, or security personnel to manage site access. It's a necessary step to ensure that visitors comply with site regulations, and that access is granted or denied based on their specific needs and circumstances.
-Before proceeding, ensure that you are authorized to request access to the site and that your request is not a duplicate. If you are unsure, please verify with the site manager or administrator before submitting the form.
-</thinking>
-
 # Construction Site Access Request Form - Help Guide
 ## Purpose
 The Construction Site Access Request Form is used to request access to a construction site for inspection, maintenance, or other authorized purposes.

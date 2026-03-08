@@ -1,5 +1,3 @@
-<thinking>Before designing the help guide, I reviewed the form's purpose and content. The Accident Investigation Report form is designed to collect information about incidents that occur within the workplace. Its primary goal is to document the facts surrounding an incident, identify the root cause, and outline corrective actions to prevent similar incidents in the future. This form should only be completed for incidents that require reporting under your company's incident reporting policy.</thinking>
-
 # Accident Investigation Report - Help Guide
 ## Purpose
 

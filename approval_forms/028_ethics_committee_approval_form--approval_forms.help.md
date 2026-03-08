@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ethics_committee_approval_form - Help Guide
 ## Purpose
 This form is designed for the Ethics Committee to review and approve research projects, ensuring that they adhere to ethical standards and guidelines. It collects information about the research project, including its purpose, duration, and involvement of human or animal subjects. The form also captures the committee's comments, recommendations, and approval decisions.

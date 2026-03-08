@@ -1,13 +1,3 @@
-<thinking>
-This guide is intended to assist users in filling out the Baseball Uniform Order Form Template. This template is used to collect information for the production of custom baseball uniforms. The form is divided into five sections: Team Information, Uniform Specifications, Sizing Information, Customization Options, and Delivery and Payment. The sections are designed to gather necessary details for the design and production of the uniforms.
-
-To use this form effectively, please ensure that you fill out each field according to the following guidelines:
-
-The form is not intended for general information gathering or sales pitches. Each section is specific and designed to gather the most relevant information. Please answer the questions accurately and completely, as any missing or incorrect information may affect the production of the uniforms.
-
-Please ensure that you review each field carefully and answer the questions based on the options provided.
-</thinking>
-
 # Baseball Uniform Order Form Template - Help Guide
 ## Purpose
 This form is designed to gather the necessary information for the production of custom baseball uniforms, including team details, uniform specifications, sizing information, customization options, and delivery and payment details.

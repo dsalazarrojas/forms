@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track student attendance in a classroom or educational setting. It captures basic information about the student, such as their name and the date of attendance, and provides a field to mark whether the student was present or absent. The reason for absenteeism can also be optionally provided. The form's purpose is to streamline attendance tracking, making it easier for educators to keep records and analyze attendance patterns. This form is designed to be simple and user-friendly, with a focus on collecting the most relevant information.
-</thinking>
-
 # Student Attendance Tracking Form - Help Guide
 
 ## Purpose

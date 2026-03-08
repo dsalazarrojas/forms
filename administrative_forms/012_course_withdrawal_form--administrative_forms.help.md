@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by students to notify the administrative staff of their decision to withdraw from a course. The purpose of this form is to collect information about the student's status, the reason for withdrawal, and other relevant details. To ensure accuracy, this form should only be completed by the intended user, i.e., the student who is withdrawing. Duplicate submissions from the same user should be avoided. Please review each field carefully before submitting the form.
-</thinking>
-
 # Course Withdrawal Form - Help Guide
 ## Purpose
 The Course Withdrawal Form is used to notify the administrative staff of a student's decision to withdraw from a course. This form is intended for students to inform the staff about their withdrawal status and the reason for it.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a Venue Booking Form, used for users to book events such as conferences, workshops, or meetings at venues. Its purpose is to collect information about the event, including its details, guests, and services required. This form should not be used for other purposes, and users should be guided through its completion process carefully.
-</thinking>
-
 # Venue Booking Form - Help Guide
 ## Purpose
 The Venue Booking Form is designed to collect information for booking events at venues. This form will be used by users to provide details of the event, including its name, date, time, and guests.

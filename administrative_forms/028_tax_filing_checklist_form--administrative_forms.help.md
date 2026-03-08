@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to gather relevant information from users for tax filing purposes. It aims to collect data about a person's income, employment status, and tax payment details. This form's structure is likely to be used for internal administrative processes and may be used by tax professionals or individuals requiring accurate tax information. 
-</thinking>
-
 # Tax Filing Checklist Form - Help Guide
 ## Purpose
 The Tax Filing Checklist Form is a comprehensive form used to collect essential information for tax filing purposes. It helps gather accurate data to support tax calculations and ensure timely tax filings.

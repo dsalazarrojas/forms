@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to collect information from individuals applying for an internship. It is essential to fill out this form accurately and thoroughly, as the information provided will be used to assess your qualifications and suitability for the internship. Please review each field carefully and provide as much detail as possible.
-  
-  Before starting, please ensure that you are eligible for the internship program and that you haven't already submitted an application. If you're unsure, contact us to clarify.
-  
-  This form is a one-time submission. You will not be required to revisit this form after submission.
-</thinking>
-
 # Online Internship Application Form - Help Guide
 ## Purpose
 This form is for individuals who are interested in applying for an internship in the field of [specific field of study or area of interest]. The purpose of this form is to gather essential information about your background, skills, and experience that will be used to assess your eligibility for the internship program.

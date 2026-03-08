@@ -1,13 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Textile Knowledge Assessment" form, we need to consider the primary function of this form and the type of information it aims to collect from users. This form appears to be a tool for evaluating the knowledge level of individuals, particularly those in the textile industry, regarding various topics such as fibers, fabric structures, and textile processes. 
-
-The form is designed to be a knowledge assessment, not a transactional or functional form for data collection or form filling. The primary purpose of this form is to evaluate the user's knowledge, and therefore, it's essential to guide users through the process in a way that is clear and concise.
-
-The form is composed of a series of questions or fields that require users to choose between select options or enter text. Each field has a specific label and a set of options provided for selection. The fields are divided into sections, but there's no explicit indication of a specific workflow or sequence that users must follow.
-
-Given the nature of this form and its objective, the help guide should aim to educate users about the form's structure, what each field means, and how to navigate it effectively. This will help ensure that users understand the context and purpose of each question, making the assessment fair and accurate.
-</thinking>
-
 # Textile Knowledge Assessment - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for Spa Renovation Planning. It's essential to ensure the form is filled out correctly to facilitate accurate planning and follow-up. Before completing this form, ensure that you're not duplicating an existing appointment. Please check with the spa manager or review previous appointments to confirm.
-
-</thinking>
-
 # Spa Renovation Planning Appointment Form - Help Guide
 ## Purpose
 The Spa Renovation Planning Appointment Form is used to schedule and track appointments for spa renovations. It gathers essential information from clients, including their project details, budget, and appointment preferences.

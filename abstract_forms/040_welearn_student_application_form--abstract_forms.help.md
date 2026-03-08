@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who are applying to Welearn, a [insert relevant context here]. The purpose of this form is to gather essential details about the student, including their contact information, personal details, and enrollment preferences. This information will help us evaluate the student's eligibility and prepare them for the Welearn program. 
-</thinking>
-
 # Welearn Student Application Form - Help Guide
 ## Purpose
 The Welearn Student Application Form is used to collect essential details from students who are applying to Welearn.

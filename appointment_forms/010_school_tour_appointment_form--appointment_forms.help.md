@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to schedule a school tour for a student. The form is intended to collect relevant information from the student, including the date and time of the tour, tour duration, student name, parent contact, email, and school name. The fields in this form are designed to be filled out by the student or parent, and the information will be used to facilitate the school tour.
-</thinking>
-
 # School Tour Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule a school tour for a student. It is intended to be filled out by the student or parent to provide necessary information for the tour.

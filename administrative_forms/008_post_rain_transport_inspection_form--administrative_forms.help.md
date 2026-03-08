@@ -1,16 +1,3 @@
-<thinking>
-This form is used for post-rain transport inspection, which is an essential process for ensuring the roadworthiness of vehicles after a rainfall event. The form is used to collect information about the vehicle, its condition, and the result of the inspection. The purpose of this form is to facilitate the inspection process and reduce the risk of accidents due to vehicle malfunctions caused by the rain.
-
-Before filling out this form, please make sure you are not duplicating the inspection process for a vehicle that has already been inspected in the past. If you are unsure, please contact the relevant authorities for further guidance.
-
-This form will help you to collect the following information about the vehicle:
-- Vehicle details such as user name, vehicle type, vehicle number, vehicle year, vehicle make, vehicle model, and vehicle color.
-- Inspection details such as vehicle condition, odometer reading, safety checkpoints, and vehicle mileage.
-- Inspection result and additional comments.
-
-Please fill out this form carefully and accurately to ensure that the vehicle is properly inspected and cleared for use.
-</thinking>
-
 # post_rain_transport_inspection_form - Help Guide
 ## Purpose
 The post-rain transport inspection form is used to inspect vehicles after a rainfall event to ensure they are roadworthy and safe for use.

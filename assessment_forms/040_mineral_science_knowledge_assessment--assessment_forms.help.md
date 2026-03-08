@@ -1,14 +1,3 @@
-<thinking>
-This help guide will cover the Mineral Science Knowledge Assessment form, which is designed to evaluate the knowledge of a user about mineral science. The form is likely to be used by researchers, scientists, or students to assess their understanding of various aspects of mineral science. The form will be completed by the user, and the data collected will be used for research purposes only. This guide will walk you through each field of the form to ensure that users understand the purpose and requirements of each section. The form will be completed on a per-page basis, allowing users to focus on one section at a time.
-
-Before starting, please note that the form will be completed on a per-page basis. Each page will have multiple sections with different fields, including quizzes, answer fields, and additional comments. Please ensure that each field is completed accurately and thoroughly.
-
-The form is not intended to be a timed assessment, so take your time to complete each section carefully. If you have any doubts or questions, please don't hesitate to reach out to the form administrators.
-
-Now, let's move on to the guide for completing this form.
-
-</thinking>
-
 # Mineral Science Knowledge Assessment - Help Guide
 ## Purpose
 The Mineral Science Knowledge Assessment is a form designed to evaluate your knowledge of mineral science. This form will cover various aspects of mineral science and will help researchers, scientists, or students assess their understanding of the subject.

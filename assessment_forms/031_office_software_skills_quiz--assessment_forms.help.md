@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to assess the suitability of office software for different purposes, such as skills assessment, hiring, and training. It helps determine whether the software can collect quiz responses online, support consistent skills assessment, and provide easy review and comparison across different candidates or employees. This form is relevant to users who want to evaluate office software options for their organization's specific needs. It is not intended for general software discovery or feature comparison. Please make sure you fill in all required fields to ensure accurate results. Each field is marked as required, so please fill them in accordingly.
-</thinking>
-
 # Office Software Skills Quiz - Help Guide
 
 ## Purpose

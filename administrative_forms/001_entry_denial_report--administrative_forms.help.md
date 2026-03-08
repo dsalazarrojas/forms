@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used for creating a report on an entry denial, which is a formal process used to document and manage incidents that have been denied entry or access to a system or facility. The form is intended to ensure that all relevant details are captured accurately and consistently across the organization. By using this form, users should be able to provide a clear and concise explanation for the denial, which can be used for future reference and decision-making.
-
-The form is divided into two main sections: the incident details section and the uploader information section. Each section is designed to collect specific information that is critical to the denial process.
-
-This form is not intended to be used for creating new entry requests, but rather for documenting and managing the denial of existing entries.
-</thinking>
-
 # entry_denial_report - Help Guide
 ## Purpose
 The entry denial report is a formal document used to record and manage incidents that have been denied entry or access to a system or facility.

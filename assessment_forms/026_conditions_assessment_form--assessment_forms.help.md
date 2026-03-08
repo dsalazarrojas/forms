@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the purpose of the Conditions Assessment Form, how to complete it, and a field-by-field explanation of each field.
-</thinking>
-
 # Conditions Assessment Form - Help Guide
 ## Purpose
 The Conditions Assessment Form is a tool used to assess the condition of a site or building. This form helps to gather information about the type of condition being assessed, its severity rating, and compliance status. The purpose of this form is to provide a consistent and structured way to document and report on the conditions found during an assessment.

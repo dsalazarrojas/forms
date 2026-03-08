@@ -1,5 +1,3 @@
-<thinking>Before diving into the form, let's first understand the purpose of the "Vehicle Interior Assessment Survey". This form is designed to gather information about the interior condition and details of a vehicle. It's likely used by automotive professionals or assessors to evaluate the vehicle's interior condition, identify potential issues, and document their findings. The form likely serves as a template for a structured assessment process, ensuring consistency and accuracy in the evaluation of vehicle interiors.</thinking>
-
 # Vehicle Interior Assessment Survey - Help Guide
 ## Purpose
 The Vehicle Interior Assessment Survey is a tool used to evaluate the interior condition of a vehicle. It helps assessors document their findings and provides a structured approach to identifying potential issues with the vehicle's interior.

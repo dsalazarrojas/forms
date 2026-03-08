@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for tracking and managing inventory information related to various assets in a home or office setting. The purpose of this form is to collect data on the type of asset, its name, quantity, price, and location, which can be useful for maintenance, repair, or replacement purposes. It's likely intended for use by facilities management, IT, or asset management teams to ensure accurate and up-to-date records are maintained. This form might be used for periodic checks or audits to ensure that assets are accounted for and their condition is monitored. I'll create a help guide based on the provided form schema, focusing on making it easy for end-users to understand how to complete it and what each field represents.
-</thinking>
-
 # Home Inventory Information Record Form - Help Guide
 ## Purpose
 This form is designed to help you accurately track and manage asset information in your home or office. It collects data on the type of asset, its name, quantity, price, and location, which can be useful for maintenance, repair, or replacement purposes.

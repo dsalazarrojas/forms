@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the user understands the purpose of this form and that it's not being filled out for duplicate or unnecessary requests. This form is for requesting a conditional release from military service, which means the user is asking for a temporary or conditional release from their military duties. This form is likely to be filled out by an individual in a military unit who needs to request a release for specific reasons. To ensure accuracy and reduce duplicate requests, the unit administrator should review and sign off on the request before it is sent for review and approval.
-</thinking>
-
 # Military Conditional Release Request Form - Help Guide
 ## Purpose
 This form is used to request a conditional release from military service. A conditional release allows individuals to temporarily leave their military duties for specific reasons such as education, family emergencies, or other personal circumstances.

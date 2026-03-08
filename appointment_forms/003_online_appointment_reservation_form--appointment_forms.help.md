@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for online appointment reservations, likely for a business or service provider. Each field is designed to gather relevant details about the customer and their desired appointment. The form does not currently ask for any sensitive or identifying information, such as government-issued ID or credit card numbers.
-</thinking>
-
 # Online Appointment Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information for online appointment reservations with a service business or provider.

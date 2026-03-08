@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # weekly_spelling_quiz - Help Guide
 
 ## Purpose

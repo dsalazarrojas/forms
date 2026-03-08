@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information on a company's or project's strategic capabilities, which refer to its strengths, challenges, and priorities. It is used to assess and document the strategic position of an entity, providing a snapshot of its current capabilities and areas for improvement. This information can be used to inform decision-making and resource allocation. 
-
-Please ensure that you have read and understood the purpose of this form before proceeding. If you have already completed a similar assessment, please do not repeat the effort to avoid duplication of work. This form is meant for new assessments and should be filled out only once per entity. 
-
-This guide is intended to help you complete the form accurately and effectively.
-</thinking>
-
 # Strategic Capabilities Assessment - Help Guide
 ## Purpose
 The Strategic Capabilities Assessment form is used to gather information on an entity's strategic position, including its strengths, challenges, and priorities. This form provides a snapshot of the entity's current capabilities and identifies areas for improvement.

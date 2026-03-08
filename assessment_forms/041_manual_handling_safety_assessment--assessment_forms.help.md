@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for a manual handling safety assessment, which is a crucial process for identifying and mitigating risks associated with manual handling tasks in the workplace. This type of assessment is often used to evaluate the risks related to manual handling, such as lifting, carrying, or moving objects, and to identify control measures that can be implemented to reduce these risks. To complete this form, the user will be asked to assess the risk factors and control measures associated with manual handling tasks, which will help in identifying potential hazards and implementing measures to mitigate them. This form is likely used by safety professionals or supervisors to conduct regular safety assessments and ensure that employees are working safely and efficiently. Before proceeding, ensure that you are familiar with the purpose and context of this form and that you are authorized to complete it.
-</thinking>
-
 # Manual Handling Safety Assessment - Help Guide
 
 ## Purpose

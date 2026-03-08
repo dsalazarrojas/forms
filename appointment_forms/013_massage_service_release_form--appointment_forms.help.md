@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by massage service providers to collect information from clients about their massage services. The form is intended to be completed by the client and is part of the massage service's intake process. This form is not affiliated with, endorsed by, or derived from any form platform, and its content is original and adapted from public survey topic metadata. The form is released under CC BY 4.0 and can be used, modified, and even sold freely, provided credit is given. The purpose of the form is to collect essential information about the client's massage service experience, including details about the service, risks associated with it, and client contact information. This form is not a replacement for any professional medical or therapeutic advice, and its completion should not be considered as such. 
-
-Is this form relevant to your needs? Please ensure you have not already completed a similar form, as duplication of effort may be unnecessary.
-</thinking>
-
 # Massage Service Release Form - Help Guide
 ## Purpose
 The Massage Service Release Form is designed to collect information from clients about their massage services. This includes details about the service provided, risks associated with it, and client contact information. The form helps massage service providers to gather essential data for their services.

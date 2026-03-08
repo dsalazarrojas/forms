@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to facilitate the upgrade process of property access control, which grants users permission to access specific properties. It's crucial to complete this form accurately to avoid potential security risks and ensure that the upgrade request is processed correctly. Before proceeding, please review the following guide to ensure you understand the form's purpose and requirements.
-
-It's also essential to note that if you've already completed this form in the past or have access to the property, you should not resubmit it. Duplicate submissions may lead to unnecessary processing and potentially cause issues with access control.
-
-Please follow this guide carefully to complete the form and upgrade your property's access control correctly.
-</thinking>
-
 # Property Access Control Upgrade Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for collecting cost of goods sold (COGS) information from businesses, likely for accounting purposes. The form asks for general business information and specific COGS details. It's likely used for financial reporting and analysis. I'll create a user-facing help guide that explains the form's purpose, completion instructions, and field-by-field explanations to ensure end-users understand what's required and how to fill it out correctly.
-</thinking>
-
 # Cost Of Goods Sold Information Form - Help Guide
 ## Purpose
 This form is designed to collect detailed cost of goods sold (COGS) information from businesses for financial reporting and analysis purposes. It's essential to fill this form accurately to ensure correct calculations and reporting.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Narcissistic Behavior Assessment Quiz - Help Guide
 
 ## Purpose

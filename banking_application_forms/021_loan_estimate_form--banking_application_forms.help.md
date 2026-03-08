@@ -1,7 +1,3 @@
-<thinking>
-Please ensure the form is being used for its intended purpose: estimating loan amounts for personal and commercial loans. Double-check that all fields are being filled in correctly as it may affect the accuracy of the estimate. Avoid overwriting or duplicating loan types, interest rates, or payment frequencies as it may result in inaccurate estimates.
-</thinking>
-
 # Loan Estimate Form - Help Guide
 ## Purpose
 The Loan Estimate Form is a tool used to calculate loan estimates for personal and commercial loans. It is designed to help you understand the potential costs and terms of a loan, including loan amounts, interest rates, and repayment schedules.

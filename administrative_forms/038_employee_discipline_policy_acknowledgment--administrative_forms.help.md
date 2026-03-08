@@ -1,5 +1,3 @@
-<thinking>As an employee, understanding the policies and guidelines that govern our workplace is crucial for a positive and productive work environment. This form is designed to acknowledge that you have read and will adhere to the Employee Discipline Policy, ensuring that we all are on the same page. It's not just a formality; it's a confirmation of our shared commitment to maintaining a professional and respectful workplace. By completing this form, you're demonstrating your understanding of our policies and procedures, which is essential for avoiding misunderstandings and resolving conflicts. Please take a moment to carefully review each field and answer accordingly.</thinking>
-
 # Employee Discipline Policy Acknowledgment - Help Guide
 ## Purpose
 The purpose of this form is to confirm that you have read and will adhere to the Employee Discipline Policy. This is a mandatory acknowledgment that ensures all employees are aware of and committed to upholding our workplace policies and guidelines.

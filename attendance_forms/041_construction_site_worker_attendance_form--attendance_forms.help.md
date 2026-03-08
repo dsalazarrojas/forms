@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Construction Site Worker Attendance Form" is to collect information about workers' attendance on a construction site. This form helps ensure that workers are accounted for, their work hours are accurately recorded, and any issues or incidents are documented. It is essential to fill out this form accurately and completely to maintain accurate records and ensure workers' safety and well-being.
-
-To ensure the form is used correctly, make sure to review each field carefully and ask for clarification if any questions arise.
-
-This guide will walk you through each field of the form and provide explanations and tips to make it easier to complete.
-
-</thinking>
-
 # Construction Site Worker Attendance Form - Help Guide
 ## Purpose
 

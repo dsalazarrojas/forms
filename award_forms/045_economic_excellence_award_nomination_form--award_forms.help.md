@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for an Economic Excellence Award Nomination. The form asks the nominator to select whether or not to submit a nomination, and provides fields for the nominator and nominee information. 
-
-Before starting the nomination process, please ensure that this form is relevant and not already submitted by checking for internal duplicates or similar existing nominations. If you still want to proceed, follow the steps below.
-
-</thinking>
-
 # Economic Excellence Award Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for an Economic Excellence Award Nomination. It is used to gather details about the nominee and the nominator to facilitate the nomination process.

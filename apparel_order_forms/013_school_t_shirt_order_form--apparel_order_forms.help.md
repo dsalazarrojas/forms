@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information for ordering school t-shirts. The main goal is to gather customer details and preferences for the order. It appears that the form is intended to be filled out by customers, possibly students or staff members, who are looking to purchase t-shirts. 
 
 </thinking>

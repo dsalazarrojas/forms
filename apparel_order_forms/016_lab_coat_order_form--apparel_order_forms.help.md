@@ -1,12 +1,3 @@
-<thinking>
-This is a sample internal reasoning block to ensure that the form purpose is understood and not duplicated in the help guide:
-
-*   This form is used to order lab coats for various purposes, such as research, education, or daily work.
-*   The form collects information on size, color, style, quantity, and other details of the lab coats ordered.
-*   It also captures additional information such as contact details (email and phone) and specific notes if required.
-*   The form is designed to provide a structured and easy-to-use interface for lab coat orders, helping to ensure that all required details are captured accurately and efficiently.
-</thinking>
-
 # Lab Coat Order Form - Help Guide
 
 ## Purpose

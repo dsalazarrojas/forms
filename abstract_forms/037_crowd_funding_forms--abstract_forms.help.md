@@ -1,7 +1,3 @@
-<thinking>
-This form is used for crowd funding purposes, specifically to collect information about forms for a specific project or campaign. The form is designed to gather data about the form name, reward name, reward description, reward value, contributor name, email, phone, and experience. The fields are mostly text-based, with the exception of "Reward Value" which is a number field. The "Submit" field is a select multiple option, allowing the user to choose whether to submit the form, save it as a draft, or cancel the process. This form is likely used by project managers or administrators to collect data for a project or campaign, and the form will be used to populate a database or spreadsheet with the submitted information.
-</thinking>
-
 # crowd_funding_forms - Help Guide
 ## Purpose
 This form is used for crowd funding purposes, specifically to collect information about forms for a project or campaign.

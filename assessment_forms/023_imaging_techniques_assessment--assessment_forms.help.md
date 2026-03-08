@@ -1,13 +1,3 @@
-<thinking>
-
-The "Imaging Techniques Assessment" form is used to evaluate a user's knowledge, skills, and experience in various imaging techniques. The form is designed to be completed by a subject matter expert (SME) who has a deep understanding of imaging procedures and protocols. 
-
-This form should only be completed by a qualified and experienced professional who can provide an honest and accurate evaluation of a user's abilities. The form should not be used for personal or casual assessments.
-
-The "Imaging Techniques Assessment" form is a critical part of our quality control process, ensuring that users meet the necessary standards and criteria for performing imaging procedures. By completing this form, users demonstrate their commitment to upholding our standards and maintaining the highest level of quality and safety in our work.
-
-</thinking>
-
 # Imaging Techniques Assessment - Help Guide
 ## Purpose
 The "Imaging Techniques Assessment" form is used to evaluate a user's knowledge, skills, and experience in various imaging techniques.

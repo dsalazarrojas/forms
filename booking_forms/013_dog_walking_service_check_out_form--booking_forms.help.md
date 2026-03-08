@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information for a dog walking service. It includes details about the service date, time, payment method, client's name, email, and more. Each field is crucial in ensuring accurate and efficient processing of the service. The form's purpose is to gather information about the service details, payment status, and client's contact and payment information. This form is not intended for multiple use; users should only fill out this form once per service instance. Please ensure that all required fields are accurately and completely filled in order to ensure a smooth checkout process.
-</thinking>
-
 # Dog Walking Service Check Out Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for dog walking services, ensuring accurate and efficient processing of each service instance.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Course Module Request Form" that covers its purpose, completion steps, and field-by-field explanations.</thinking>
-
 # Course Module Request Form - Help Guide
 
 ## Purpose

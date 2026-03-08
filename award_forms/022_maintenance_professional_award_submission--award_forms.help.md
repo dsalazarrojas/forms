@@ -1,6 +1,3 @@
-<thinking>
-This is a form used to collect information and nominations for employees who have demonstrated exceptional performance, leadership, or innovative work. The purpose of this form is to submit nominations for maintenance professionals who have made significant contributions to the organization. Nominations should be submitted on behalf of a specific individual and should not be submitted by the nominee themselves. Please ensure that the nominator and nominee information is accurate and up-to-date. Additionally, please note that nominations will only be accepted for maintenance professionals who are current employees or retired employees who have made significant contributions to the organization. If you are unsure about the eligibility criteria or have any questions, please contact the award committee or a supervisor.</thinking>
-
 # Maintenance Professional Award Submission - Help Guide
 
 ## Purpose

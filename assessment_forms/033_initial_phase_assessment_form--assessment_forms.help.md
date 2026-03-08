@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to be an initial phase assessment form for projects. It is used to gather information about a project's name, scope, feasibility, potential challenges, and solutions. The form also captures project start and completion dates, status, and any notes associated with the project status. The form does not collect sensitive or personal data. It is designed for project managers, team leads, or stakeholders to quickly assess and track project progress.
-
-To confirm, the form is not designed for:
-- Sensitive or personal data collection
-- Time-sensitive project planning or execution
-- High-risk or high-priority projects
-
-Please ensure you have reviewed project-specific requirements and consulted with relevant stakeholders before completing this form.
-
-</thinking>
-
 # initial_phase_assessment_form - Help Guide
 ## Purpose
 The initial phase assessment form helps project managers, team leads, and stakeholders quickly assess and track project progress. It collects information about project name, scope, feasibility, potential challenges, and solutions, as well as project start and completion dates, status, and any associated notes.
