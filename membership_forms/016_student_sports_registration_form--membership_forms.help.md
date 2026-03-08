@@ -1,7 +1,3 @@
-<thinking>...
-This form is used to register students for sports in the school sports program. The form collects information on the student's details, such as their name and grade level, and the sport they are interested in playing. The purpose of this form is to ensure that students are registered accurately and on time for the upcoming sports season. This form is only for students who are interested in playing sports, and not for staff or faculty members. To avoid duplication, students should only submit one form per sport they are interested in playing. If a student is already registered in the same sport, they should not submit another form.
-</thinking>
-
 # Student Sports Registration Form - Help Guide
 ## Purpose
 The Student Sports Registration Form is used to register students for the school sports program. It helps the sports team to gather important information about the student, such as their name, grade level, and preferred sport.

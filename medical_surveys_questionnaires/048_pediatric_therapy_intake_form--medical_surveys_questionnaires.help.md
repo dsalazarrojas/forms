@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pediatric Therapy Intake Form - Help Guide
 ## Purpose
 The Pediatric Therapy Intake Form is designed to gather information about the patient's medical history, therapy history, and other relevant medical information to better understand their needs for therapy. This form is mandatory for all patients seeking pediatric therapy services.

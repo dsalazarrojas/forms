@@ -1,8 +1,3 @@
-<thinking>
-The Medical Wearable Technology Pilot Evaluation Form is used to collect feedback from medical professionals on the usability, benefits, and challenges of a wearable technology device. This form is part of a pilot program to evaluate the effectiveness and user experience of the device. The information collected through this form will help in making decisions regarding the continuation of the pilot program and future development of the technology.
-
-</thinking>
-
 # Medical Wearable Technology Pilot Evaluation Form - Help Guide
 ## Purpose
 This form aims to gather feedback from medical professionals on the usability and effectiveness of a wearable technology device. It is an important part of the pilot program, helping to shape future development and improvement of the technology.

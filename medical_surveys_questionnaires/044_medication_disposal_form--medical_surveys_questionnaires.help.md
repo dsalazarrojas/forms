@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to guide end users on how to properly complete the Medication Disposal Form, ensuring that they understand the purpose of the form and how to fill it out correctly. This is particularly relevant for medical facilities, pharmacies, and healthcare organizations to properly manage the disposal of medications and maintain regulatory compliance.
-
-Before proceeding, let's verify that the form is not meant to be used for non-regulatory purposes or duplicate information. This form is a standard document used for tracking and managing medication disposal in a healthcare setting.
-
-</thinking>
-
 # Medication Disposal Form - Help Guide
 ## Purpose
 

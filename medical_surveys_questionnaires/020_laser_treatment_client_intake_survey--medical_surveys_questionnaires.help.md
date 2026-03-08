@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a comprehensive intake survey for clients undergoing laser treatment. It seems to be designed to collect detailed information about the client's personal details, medical history, treatment preferences, and treatment specifics. The form includes fields for the client's name, contact information, medical history, treatment type, and treatment area, as well as fields for the client's goals and expectations. The form also includes fields for the client's medical facility and staff member assigned to them, as well as fields for tracking treatment specifics such as frequency, energy, and duration.
-
-To ensure that this form is being used correctly, it's worth double-checking that all required fields are completed and that the client has provided accurate and detailed information. Additionally, the form's fields seem to be designed with the help of a medical professional in mind, so it's possible that some fields may have specific requirements or guidelines that need to be followed.
-
-It would also be good to ensure that this form is being filled out in a way that is clear and easy to read, and that the client is aware of the purpose and importance of each field.</thinking>
-
 # Laser Treatment Client Intake Survey - Help Guide
 
 ## Purpose

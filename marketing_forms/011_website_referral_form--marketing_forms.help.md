@@ -1,8 +1,3 @@
-<thinking>
-The form's purpose is to collect information from website users who wish to refer others to a website. Referrals can be through a referral code or invitation code, and the form may be used to gather details such as name and email address for follow-up communication. The form's structure and field explanations below are designed to facilitate easy completion and help users provide accurate and relevant information.
-
-</thinking>
-
 # Website Referral Form - Help Guide
 ## Purpose
 The Website Referral Form is designed to collect information from users who wish to refer others to a website. This form allows users to input their referral code, invitation code, name, and email address for follow-up communication.

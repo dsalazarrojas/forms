@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who want to become members of our online technology forum. It's meant to be a comprehensive guide on how to fill in the membership application form.
-</thinking>
-
 # technology_forum_membership_application - Help Guide
 ## Purpose
 The technology_forum_membership_application form is designed to collect necessary information from users who want to become members of our online technology forum. This form helps us to process your membership application and ensure that you have the necessary information to get started.

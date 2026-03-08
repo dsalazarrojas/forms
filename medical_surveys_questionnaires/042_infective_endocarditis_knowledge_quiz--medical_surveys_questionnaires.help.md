@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's knowledge and experience with infective endocarditis, a condition where the heart's inner lining is infected, typically by bacteria. This form will guide users through a series of questions to assess their understanding of various aspects of the disease, its symptoms, medical history, and treatment. 
-
-To determine relevance, this form is likely intended for medical professionals or students in the medical field who want to gauge their knowledge on infective endocarditis. It may also be used for educational purposes or as a reference tool for patients or their families to learn more about the condition.
-
-To avoid duplication, this form does not appear to be designed for clinical patient data collection or for billing purposes, which are typical use cases for forms in the "medical_surveys_questionnaires" category.
-
-</thinking>
-
 # Infective Endocarditis Knowledge Quiz - Help Guide
 ## Purpose
 The Infective Endocarditis Knowledge Quiz is a series of questions designed to assess your understanding of infective endocarditis, a condition that affects the inner lining of the heart. This quiz is intended to gauge your knowledge and experience with the disease's symptoms, medical history, and treatment.

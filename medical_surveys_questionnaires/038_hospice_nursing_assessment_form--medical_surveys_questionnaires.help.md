@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for hospice nursing assessments, which are crucial for evaluating the level of care needed for patients who are terminally ill or have a life-threatening condition. This form will help healthcare professionals gauge the patient's medical condition, identify potential care needs, and create a comprehensive care plan. Before starting, please ensure you are familiar with the form's purpose and the information it is intended to capture.
-</thinking>
-
 # hospice_nursing_assessment_form - Help Guide
 ## Purpose
 The hospice nursing assessment form is a tool used to evaluate the needs of patients who require end-of-life care. It helps healthcare professionals assess the patient's medical condition, identify their care needs, and create a care plan that meets those needs.

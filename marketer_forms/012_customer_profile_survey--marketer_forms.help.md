@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create this help guide, I will first analyze the provided form YAML and then generate the content in the required Markdown structure.
 
 **Analyzing the Form YAML**

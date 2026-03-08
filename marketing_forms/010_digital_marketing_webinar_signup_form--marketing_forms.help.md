@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who are looking to sign up for a digital marketing webinar. Before proceeding, please ensure you have the correct information and are not attempting to sign up for a non-existent webinar. If you are looking for information on how to sign up for a different webinar, please search for the relevant webinar in our system.
-</thinking>
-
 # Digital Marketing Webinar Signup Form - Help Guide
 ## Purpose
 This form is designed to allow users to sign up for a digital marketing webinar. Please fill out the required fields to confirm your spot in the webinar.

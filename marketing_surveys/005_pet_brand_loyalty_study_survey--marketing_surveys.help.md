@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to gather information from pet owners about their loyalty and purchasing habits towards pet brands. It's a survey that aims to understand factors that influence pet brand loyalty, how frequently users buy from these brands, and their satisfaction levels with different pet brands.
-
-Before proceeding, please check if your organization uses the "Pet Brand Loyalty Study Survey" internally or externally, to avoid duplicating the survey. Also, make sure this form is relevant to your current projects or initiatives.
-
-</thinking>
-
 # Pet Brand Loyalty Study Survey - Help Guide
 ## Purpose
 The Pet Brand Loyalty Study Survey is designed to gather information from pet owners about their loyalty and purchasing habits towards pet brands.

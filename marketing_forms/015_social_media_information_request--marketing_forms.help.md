@@ -1,16 +1,3 @@
-<thinking>
-
-To ensure the user understands the purpose and fills out the form correctly, we need to consider the following:
-
-* The form is for gathering social media information from users, which implies it's used for marketing or promotional purposes.
-* We should be careful not to duplicate information or ask for unnecessary fields, to avoid overwhelming the user and reducing the chances of form completion.
-* The form is likely used by a specific team or department within the organization, and they should be aware of the intended use of this form.
-* The fields provided are a mix of basic identification information (First Name, Last Name, Email, Phone) and location-specific information (Country, State, Zip).
-* The Date of Birth field is likely not necessary for marketing purposes, so it might be considered for deletion or removal.
-* The Time Zone field is likely not necessary for this type of form, so it might be considered for deletion or removal as well.
-
-</thinking>
-
 # social_media_information_request - Help Guide
 ## Purpose
 The social media information request form is designed to collect basic contact information from individuals who are interested in engaging with our organization through social media channels. This form helps us to understand your identity, location, and preferred contact method.

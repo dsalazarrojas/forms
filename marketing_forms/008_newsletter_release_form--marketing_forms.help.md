@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Newsletter Release Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help users refer a friend to our company. The purpose of this form is to collect information from the referrer and their friend, such as their names and contact details. This data will be used to follow up with the referrer and their friend to discuss potential business opportunities. The form is meant to be completed by the referrer, who will be entering their own information and that of their friend.
-
-The form will be displayed in multiple pages, each with a specific set of fields. The first page is required and will have the referrer's name and contact information. The second page will have the friend's name and contact information. The referrer's contact email is not required, but it can be entered for further contact.
-
-</thinking>
-
 # Refer A Friend Form - Help Guide
 ## Purpose
 The Refer A Friend Form is a tool to help you refer your friends to our company. By filling out this form, you will be entering your own information and that of your friend, which will help us follow up with you both to discuss potential business opportunities.

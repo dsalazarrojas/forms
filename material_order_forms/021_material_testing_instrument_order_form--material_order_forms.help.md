@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Testing Instrument Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for material testing instrument orders. It gathers details about the instrument's ID, type, model, price, quantity, and other relevant information.

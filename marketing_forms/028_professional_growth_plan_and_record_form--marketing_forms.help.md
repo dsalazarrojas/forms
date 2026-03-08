@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record and track professional growth plans for employees in the marketing department. It is a critical tool for marketing teams to outline their development and improvement goals, aligning with company objectives and ensuring a structured approach to their growth. This form helps in creating a centralized record of progress, providing a clear picture of team performance, and facilitating data-driven decision-making. To ensure that all relevant information is captured accurately, please fill out the form with precision and attention to detail.
-
-</thinking>
-
 # Professional Growth Plan And Record Form - Help Guide
 ## Purpose
 The form is used to record and track professional growth plans for marketing employees, ensuring alignment with company objectives and a structured approach to development and improvement.

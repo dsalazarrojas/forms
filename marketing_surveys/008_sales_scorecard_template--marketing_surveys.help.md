@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture sales performance data and customer satisfaction metrics for a business. The purpose is to create a sales scorecard that helps businesses evaluate their sales performance, identify areas of improvement, and track customer satisfaction. This form is intended to be used by sales teams to collect data on sales progress, target sales, current sales, customer satisfaction, customer service, and sales scorecard comments. Please note that this form is a template, and businesses may modify it according to their specific needs. If you are duplicating this form for other purposes, make sure to clearly identify the differences in the updated template to avoid confusion. Also, ensure that your modified form is compliant with the original intent and doesn't add redundant fields that can lead to data duplication or inconsistencies.
-</thinking>
-
 # Sales Scorecard Template - Help Guide
 ## Purpose
 The **Sales Scorecard Template** is a form used by sales teams to collect data on sales performance and customer satisfaction metrics. This data helps businesses evaluate their sales progress, identify areas of improvement, and track customer satisfaction.

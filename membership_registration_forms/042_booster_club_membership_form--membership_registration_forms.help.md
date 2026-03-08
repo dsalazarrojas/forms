@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registering new members for the Booster Club, an organization that supports various activities and initiatives related to students in a school setting. The form aims to collect essential information from potential members, including their personal details, relationship to the student, membership level, and other relevant data. The form is designed to ensure that each member understands their responsibilities and expectations, and it helps the club administrators to manage membership records efficiently.
-
-</thinking>
-
 # Booster Club Membership Form - Help Guide
 ## Purpose
 The Booster Club Membership Form is designed to collect information from individuals interested in joining the booster club. The form is a crucial tool for registering new members and managing their details.

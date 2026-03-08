@@ -1,11 +1,6 @@
 # Healthcare Climate Impact Awareness Survey - Help Guide
 
 ## Purpose
-<thinking>
-This form aims to assess the current climate change awareness and actions taken by healthcare staff. It is designed to gather information on observed impacts, staff priorities, and climate action items that are deemed essential. The form also aims to gauge the expected change in climate impact, staff confidence in climate action, and progress measurement methods used. It is a crucial tool for healthcare organizations to understand their current climate change stance and plan for future actions.
-
-</thinking>
-
 ## How To Complete This Form
 
 1. Please answer each question based on your current knowledge and understanding.

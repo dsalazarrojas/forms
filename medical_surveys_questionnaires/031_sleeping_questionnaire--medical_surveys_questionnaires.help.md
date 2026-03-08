@@ -1,7 +1,3 @@
-<thinking>
-The "Sleeping Questionnaire" form is designed to gather information about an individual's sleep patterns and experiences related to sleep disorders. This form will help healthcare providers assess sleep-related issues and provide valuable insights for treatment and care planning.
-</thinking>
-
 # Sleeping Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to collect information about sleep issues, sleep duration, age, and other symptoms related to sleep disorders. Please answer the questions accurately and completely to provide the best possible information for your healthcare provider.

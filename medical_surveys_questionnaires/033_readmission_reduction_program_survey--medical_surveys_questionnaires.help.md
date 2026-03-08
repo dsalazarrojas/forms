@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Readmission Reduction Program Survey - Help Guide
 ## Purpose
 The Readmission Reduction Program Survey is a collection of questions designed to help healthcare professionals identify opportunities for reducing readmissions in medical facilities. This survey aims to gather information on patient demographics, medical history, and current health status to inform targeted interventions and improve patient outcomes.

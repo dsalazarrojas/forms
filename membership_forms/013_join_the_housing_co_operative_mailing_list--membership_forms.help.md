@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users who wish to join the housing co-operative's mailing list. It's used to collect basic contact information and preferences from new subscribers. The purpose of this form is to ensure that users can easily opt-in or opt-out of receiving emails from the housing co-operative. The form should not be completed by users who are already subscribed to the mailing list, as they will not be able to submit their information successfully. Please make sure to review the form and its fields before proceeding.
-</thinking>
-
 # join_the_housing_co_operative_mailing_list - Help Guide
 ## Purpose
 This form is used to join the housing co-operative's mailing list.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information for a Surrogate Matching Questionnaire. It is intended for individuals who are seeking to become a surrogate, and the information collected will be used to match them with potential intended parents. It is essential to complete this form accurately and thoroughly to ensure a successful matching process.
-
-Please note that this form should only be completed by individuals who are serious about becoming a surrogate and have a genuine interest in participating in the matching process. Duplicate submissions will not be accepted, and any attempt to do so may be considered spamming the system.
-
-</thinking>
-
 # Surrogate Matching Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information for a Surrogate Matching Questionnaire. It is intended for individuals who are seeking to become a surrogate, and the information collected will be used to match them with potential intended parents.

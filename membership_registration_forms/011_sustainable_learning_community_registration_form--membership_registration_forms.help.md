@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in joining a Sustainable Learning Community. The form is part of a broader membership registration process that aims to onboard new members into the community. To ensure that the form is completed correctly and consistently, please follow these steps:
-
-The form consists of 6 fields:
-
-1. Registration Form: A general section where users can provide their initial thoughts on joining the community.
-2. Member Details: Users can provide their personal details such as name, email, and other relevant information.
-3. Member Interests: Users can select their interests from a list of predefined options.
-4. Participation Preferences: Similar to Member Interests, users can choose their preferred participation options.
-5. Contact Details: Users can provide any additional contact information they'd like to share.
-6. Save and Share: A final section where users can provide a title for their registration and share the form on social media.
-
-It's essential to ensure that each section is completed consistently to avoid duplication of effort in our internal systems. For example, if a user marks 'Yes' for both Member Interests and Participation Preferences, it's likely that the same interest/participation is being registered twice. To prevent this, please review each section carefully and ensure that your input is accurate and consistent.
-
-Before starting, please ensure that you have read and understood the form's purpose and the instructions above.
-
-Please note that each field is optional, but providing accurate and relevant information will help us better understand your interests and preferences.</thinking>
-
 # Sustainable Learning Community Registration Form - Help Guide
 ## Purpose
 This form is used to register new members into the Sustainable Learning Community, gathering information about their interests, contact details, and other relevant data.

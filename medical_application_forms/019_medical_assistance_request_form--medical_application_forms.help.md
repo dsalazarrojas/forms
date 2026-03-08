@@ -1,13 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Medical Assistance Request Form, we need to consider the following factors:
-
-* The form is designed to collect information from patients or their representatives to request medical assistance.
-* The form is part of a medical assistance application process, and it is likely used by medical professionals or administrators to gather necessary information for processing requests.
-* To avoid duplication and ensure relevance, we should focus on providing clear and concise explanations for each field, without duplicating information that can be obtained from other sources, such as medical records or previous applications.
-* The form fields should be self-explanatory or have clear labels that provide enough context for users to understand their purpose.
-* We should also consider that some fields might be optional or have specific formatting requirements (e.g., date, time, or email fields).
-</thinking>
-
 # Medical Assistance Request Form - Help Guide
 ## Purpose
 The Medical Assistance Request Form is designed to collect information from patients or their representatives to request medical assistance. It is used by medical professionals or administrators to gather necessary information for processing requests.

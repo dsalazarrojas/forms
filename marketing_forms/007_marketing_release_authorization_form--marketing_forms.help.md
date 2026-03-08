@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Release Authorization Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess perfectionism tendencies over the past month. The questions in this form are designed to measure how much perfectionism has impacted your work, relationships, mental wellbeing, and daily life. The answers to these questions will help identify potential areas where you may be experiencing unhealthy perfectionistic tendencies.
-
-This form is meant to be completed by individuals who are seeking to understand and possibly address their perfectionism. It should not be used as a diagnostic tool without further evaluation by a qualified professional.
-
-To complete this form, please answer the questions truthfully based on your experiences over the past month.
-</thinking>
-
 # Clinical Perfectionism Questionnaire - Help Guide
 ## Purpose
 The Clinical Perfectionism Questionnaire is designed to assess perfectionistic tendencies and their impact on work, relationships, mental wellbeing, and daily life.

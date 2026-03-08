@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect information and preferences from the user for a creative design request. This includes general information such as form title and description, categorization, assigned tool, and output file. Additionally, it allows users to specify custom options, share with or via other users, and synced details with specific options. It also includes a range of select multiple fields for various options such as custom options, shared with, and shared via. The form is likely used in a business or marketing context to gather requirements and preferences for a design project, and the fields are designed to guide the user through the process of specifying these details... </thinking>
-
 # Creative Design Request Form - Help Guide
 ## Purpose
 The Creative Design Request Form is designed to collect information and preferences from the user for a creative design request. This includes general information such as form title and description, categorization, assigned tool, and output file.

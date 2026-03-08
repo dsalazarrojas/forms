@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ayahuasca Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with Ayahuasca, a plant-based psychedelic substance used in traditional healing and spiritual practices. The questionnaire aims to gather data on the effects of Ayahuasca, including emotional, physical, and visual sensations, as well as your overall experience and willingness to participate in future ceremonies.

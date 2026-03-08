@@ -1,5 +1,3 @@
-<thinking>Before diving into the form guide, let's briefly discuss the form's purpose and relevance. The MASSBERG Membership Registration Form is designed to collect information from individuals interested in joining the MASSBERG community. The form is intended for users who want to become part of the MASSBERG family, and its sections are tailored to gather essential details about the applicants, including their personal and family information. It's essential to ensure that the form is completed accurately and thoroughly, as this data will be used to establish or update membership records. This guide will walk you through each section of the form, explaining what each field represents and how to complete it correctly.</thinking>
-
 # MASSBERG Membership Registration Form - Help Guide
 ## Purpose
 The MASSBERG Membership Registration Form is a critical step in becoming a part of the MASSBERG community. By filling out this form, you'll provide essential information about yourself and your family, which will help us understand your needs and preferences.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about the mental health and well-being of pregnant women and new mothers. The Perinatal and Postnatal Mental Health Questionnaire aims to assess their experiences, concerns, and support systems related to mental health during and after pregnancy. The questionnaire covers various aspects, including maternal mental health issues during pregnancy, postnatal mental health issues, mental health history, family and childhood mental health history, support systems, and access to mental health resources. It is essential to understand that this form is not a substitute for professional medical advice. If you are experiencing mental health concerns or issues, please seek help from a qualified healthcare provider.
-
-Form fields will be used to identify potential risk factors and provide personalized recommendations for support and resources. Please fill out the form carefully and honestly, as your answers will help us better understand the mental health landscape and improve the well-being of pregnant women and new mothers.
-
-Before starting the form, please note that the questions are designed to be self-explanatory, and you can choose from multiple options for some questions. If you need clarification or have any issues while filling out the form, please contact us at form@gic.mx.</thinking>
-
 # Perinatal And Postnatal Mental Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your mental health and well-being as a pregnant woman or new mother. The goal is to understand your concerns, experiences, and support systems related to mental health during and after pregnancy.

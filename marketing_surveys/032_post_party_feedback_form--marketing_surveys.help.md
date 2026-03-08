@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect feedback from guests who have attended a party. The feedback form will help us understand what went well and what did not go well during the party, which will allow us to improve future parties.
-
-This form is not intended to be filled out by party hosts or organizers, but rather by the guests who attended. If a guest has already provided feedback, they do not need to fill out this form again.
-
-The form is divided into several sections with different fields that need to be filled out. This guide will help you understand what each field is for and how to complete it.
-</thinking>
-
 # Post Party Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from guests who attended a party. The purpose of this form is to gather information about the party and help us understand what worked well and what did not work well.

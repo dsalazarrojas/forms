@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gauge the financial wellness of respondents, assessing their current financial situation, financial security, financial goals, and awareness of their financial situation. This form is designed to be used for marketing purposes, providing valuable insights to help improve financial services and products offerings.
-
-Before filling out this form, make sure you're answering honestly and to the best of your ability. This form is intended to be completed by one person per submission. If you're unsure about any question, don't hesitate to reach out to our support team.
-
-This form is not a formal financial assessment or consultation. Our goal is to gather general information to help improve our services and products, not to provide personal investment advice or financial guidance.
-
-</thinking>
-
 # Financial Wellness Survey - Help Guide
 ## Purpose
 The Financial Wellness Survey is a short form designed to assess your current financial situation and goals. It will help us understand your financial needs and provide you with personalized recommendations to improve your financial well-being.

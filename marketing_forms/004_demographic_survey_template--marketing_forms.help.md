@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the purpose, completion, and field-by-field explanation of the Demographic Survey Template form.
-</thinking>
-
 # Demographic Survey Template - Help Guide
 ## Purpose
 This form is designed to collect demographic information from users, including their personal details, employment status, and professional background. This data will help us better understand our audience and improve our marketing efforts.

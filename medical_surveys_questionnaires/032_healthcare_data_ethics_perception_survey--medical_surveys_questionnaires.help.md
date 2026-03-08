@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Data Ethics Perception Survey - Help Guide
 
 ## Purpose

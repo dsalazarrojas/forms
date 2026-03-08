@@ -1,12 +1,3 @@
-<thinking>
-To prevent duplication and ensure accuracy, this guide is intended for end-users who will be submitting the "Compliance Therapy Assessment" form. It is essential to carefully read and understand the instructions to complete the form correctly.
-
-The form is designed to collect essential information from clients about their mental health concerns, progress, and safety risks. It helps therapists assess the client's mental health status, identify potential barriers to progress, and determine the necessary steps for effective treatment.
-
-Please review the form carefully to ensure that you understand each field's purpose and requirements before proceeding.
-
-</thinking>
-
 # Compliance Therapy Assessment - Help Guide
 ## Purpose
 The "Compliance Therapy Assessment" form is a crucial tool for therapists to gather essential information about clients' mental health concerns, progress, and safety risks. This guide will walk you through each field to help you complete the form accurately and effectively.

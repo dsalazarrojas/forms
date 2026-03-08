@@ -1,6 +1,3 @@
-<thinking>
-The purpose of the student medical information form is to collect vital information about a student's health and medical history. This form will help medical professionals and school administrators understand a student's medical needs, conditions, and emergencies, ensuring they receive proper care and attention when needed. This form should only be filled out by the student or a parent/guardian, and is not intended for use by medical facilities or other third parties.
-</thinking>
 # student_medical_information_form - Help Guide
 ## Purpose
 The student medical information form is a crucial document that helps medical professionals and school administrators understand a student's health and medical history.

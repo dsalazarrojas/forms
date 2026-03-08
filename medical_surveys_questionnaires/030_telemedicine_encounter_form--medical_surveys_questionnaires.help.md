@@ -1,9 +1,3 @@
-<thinking>
-
-The Telemedicine Encounter Form is designed to collect patient information and medical data during remote consultations. It should only be used for patients who have already been established in our practice or have a prior relationship with a healthcare provider. Please ensure that you have the necessary permissions to access and update patient information before filling out this form. If you have filled out this form previously for the same patient, please check that the information on this form is up-to-date and not a duplicate.
-
-</thinking>
-
 # Telemedicine Encounter Form - Help Guide
 ## Purpose
 The Telemedicine Encounter Form is a digital form used to collect and record information about patients' medical histories, symptoms, diagnoses, and treatment plans during remote consultations. It helps healthcare providers to assess the patient's condition and create a comprehensive treatment plan.

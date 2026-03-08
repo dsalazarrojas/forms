@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the quality of specialist care in an organization. It is intended to be completed by staff members who have direct experience with the specialist care model. The goal of this form is to collect feedback on the current state of specialist care, including its effectiveness, progress, and areas for improvement. This form is not intended to be a comprehensive evaluation, but rather a snapshot of the current situation. It should not be used as a substitute for more in-depth evaluation methods.
-
-To ensure accurate and reliable results, please complete this form only once a year, and do not duplicate responses. If you have already completed this form in the past, please do not complete it again. If you are unsure about any of the questions or options, please ask for clarification before proceeding.
-</thinking>
-
 # Specialist Care Model Assessment - Help Guide
 ## Purpose
 

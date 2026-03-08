@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals interested in becoming a member of the Digital Arts membership program. The form is used to collect contact information, membership preferences, and artist statement details from potential members. This form will help the Digital Arts team assess the applicant's eligibility for membership and guide them through the process of joining the program.
-</thinking>
-
 # Digital Arts Membership Form - Help Guide
 ## Purpose
 The Digital Arts Membership Form is designed to collect information from potential members and guide them through the process of joining the Digital Arts membership program. This form is used to assess eligibility and facilitate a smooth membership application process.

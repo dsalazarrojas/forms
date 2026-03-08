@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals on the impact of a specific ad on their thoughts, emotions, and actions. The form will help us understand how well the ad is doing in terms of its overall effect, emotional resonance, and potential to drive donations. This will aid in refining the ad's content and messaging to better resonate with our target audience.
-Before completing this form, please make sure you haven't already filled it out for this ad. This will help us gather a diverse range of responses and avoid duplicate feedback.
-</thinking>
-
 # Nonprofit Ad Sentiment Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback on the impact of a specific ad on your thoughts, emotions, and actions. Your input will help us refine the ad's content and messaging to better resonate with our target audience.

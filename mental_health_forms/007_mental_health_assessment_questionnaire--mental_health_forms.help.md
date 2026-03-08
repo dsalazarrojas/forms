@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer for this mental health assessment questionnaire, I need to clarify the purpose of this form and provide a clear, concise guide on how to complete it. The mental health assessment questionnaire is designed to gather information about an individual's mental health concerns, symptoms, and history. It's meant to be a comprehensive guide to help healthcare providers better understand the individual's mental health needs and provide appropriate care and support. This form will serve as a valuable tool for mental health professionals to conduct assessments and develop treatment plans. I've reviewed the form design and content, and I'm confident that it's a well-structured and user-friendly tool.</thinking>
-
 # mental_health_assessment_questionnaire - Help Guide
 ## Purpose
 The mental health assessment questionnaire is a tool designed to gather information about an individual's mental health concerns, symptoms, and history. It helps healthcare providers better understand the individual's mental health needs and provide appropriate care and support.

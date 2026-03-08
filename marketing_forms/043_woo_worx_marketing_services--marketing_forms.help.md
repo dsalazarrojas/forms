@@ -1,12 +1,3 @@
-<thinking>
-This form is a comprehensive marketing services form designed to collect detailed information from businesses seeking marketing services. The form is likely to be used by marketing agencies or professionals to gather essential details about a business before providing marketing services. The form's purpose is to ensure that the business owner is aware of what information is being collected and what to expect from the marketing services.
-
-Before filling out this form, please make sure you have all the necessary details about your business. This form is divided into several sections, each covering a specific aspect of your business. You will be asked for information such as your business name, address, website, telephone number, and email. You will also be asked about your target audience, marketing strategy, marketing budget, and marketing objectives. Additionally, you will be asked about the marketing channels and media you plan to use, as well as your marketing message and marketing plan. Finally, you will be asked for the start and end dates of your marketing campaign, the time of day you want to start and end, and the location where the campaign will take place.
-
-Please fill out this form carefully and accurately, and make sure to provide as much detail as possible. The more information you provide, the better the marketing agency or professional can understand your business needs and provide effective marketing services.
-
-</thinking>
-
 # Woo Worx Marketing Services - Help Guide
 ## Purpose
 This form is a comprehensive marketing services form designed to collect detailed information from businesses seeking marketing services.

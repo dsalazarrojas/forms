@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Newsletter Subscription Form - Help Guide
 ## Purpose
 This form is designed to allow customers to subscribe to our newsletter. By filling out this form, customers can provide their contact information and payment details to receive our newsletter. 

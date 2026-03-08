@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals participating in health AI research studies. The form helps researchers gather essential details about the participants, including their general information, study-specific details, and contact information. The form is designed to ensure that participants understand the purpose and scope of the research and agree to participate voluntarily.
-</thinking>
-
 # Health AI Transparency Research Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals participating in health AI research studies. It ensures that participants understand the purpose and scope of the research and agree to participate voluntarily.

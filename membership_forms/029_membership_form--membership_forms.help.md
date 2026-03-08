@@ -1,21 +1,3 @@
-<thinking>
-
-The purpose of this membership form is to gather information from individuals who wish to become members of an organization. This form guides them through the process of sign-up, selecting membership plans, providing contact information, confirming their membership and details, and indicating their member since status.
-
-To ensure that the form is completed correctly and efficiently, it's essential to follow these steps:
-
-1.  Sign up by providing the required information on the first page.
-2.  Select the desired membership plan from the options provided.
-3.  Enter contact information for the individual.
-4.  Confirm their membership status by selecting the correct option.
-5.  Indicate their member since status by selecting the correct option.
-
-Before proceeding, note that this form is not intended for existing members or non-members who do not wish to join. If you're an existing member looking to update your details, you'll need to log in to our system and use the member profile form instead.
-
-The membership status and member since options are not required for this form, but selecting 'Yes' for both will automatically apply a premium membership status and update their member since status accordingly.
-
-</thinking>
-
 # Membership Form - Help Guide
 ## Purpose
 The membership form is designed to allow individuals to sign up for membership with the organization and provide necessary information to facilitate the process.

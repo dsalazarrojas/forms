@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and preferences from swim wear users. The form has been created to gauge the level of satisfaction with swim wear products, identify areas for improvement, and understand consumer preferences. This form will help in creating more comfortable, stylish, and affordable swim wear products. Please ensure that you are only completing this form if you have used our swim wear products and are familiar with their features and benefits.
-</thinking>
-
 # Swim Wear Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and preferences from swim wear users, helping us create more comfortable, stylish, and affordable swim wear products.

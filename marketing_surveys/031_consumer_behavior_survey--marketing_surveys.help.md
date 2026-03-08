@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consumer Behavior Survey - Help Guide
 ## Purpose
 This form is designed to gather information about consumers' behavior and preferences regarding a specific product category. The survey aims to understand how consumers interact with products, their satisfaction levels, and their likelihood to recommend the product to others. The information collected will help us better understand our target audience and make informed decisions for future product development and marketing strategies.

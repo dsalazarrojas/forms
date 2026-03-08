@@ -1,7 +1,3 @@
-<thinking>
-We are designing a help guide for a running club membership form. This form is intended to collect information from individuals interested in joining the running club. It is crucial to ensure that the form is completed accurately and effectively to facilitate the registration process. Before proceeding, let's validate that the form purpose and fields are suitable for our needs.
-</thinking>
-
 # running_club_membership_form - Help Guide
 ## Purpose
 The running club membership form is designed to collect personal details from individuals interested in joining the running club. The form gathers basic information such as name, contact, and demographic details to enable the club to manage member data and provide personalized services.

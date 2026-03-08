@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of this form, let's analyze the provided YAML fields. The form is called "Announce An Event Form" and has several sections with various fields. The form appears to be designed for event organizers to submit information about their events, including event details, location, and ticketing information. 
-
-The form is likely used to announce upcoming events to a specific audience, possibly a company or organization's website or community. The form is not primarily used for general user feedback or support requests, given the specific fields related to event management.
-
-To avoid duplication, it's essential to verify if an event has already been announced through this form before submitting a new event.
-
-</thinking>
-
 # Announce An Event Form - Help Guide
 ## Purpose
 The "Announce An Event Form" is designed for event organizers to submit information about their events, including event title, description, date, time, location, and ticketing details. The form is used to announce upcoming events to a specific audience.

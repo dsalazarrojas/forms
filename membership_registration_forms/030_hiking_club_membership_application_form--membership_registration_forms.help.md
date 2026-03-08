@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals or groups to apply for membership in the Hiking Club. The purpose of this form is to collect essential information about the applicant, including their name, contact details, and membership type. This form is not intended for internal use within the organization, but rather as a public-facing application process for potential members. To avoid duplication, please ensure you are only applying for membership once. If you have previously submitted an application, kindly review your current status before resubmitting.
-</thinking>
-
 # Hiking Club Membership Application Form - Help Guide
 
 ## Purpose

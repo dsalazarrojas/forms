@@ -1,10 +1,3 @@
-<thinking>
-**Internal Note:** The purpose of this form is for end-users to provide information required for a medical application. This form is used to collect personal and address details, as well as a contact number and date of birth. The form has four fields: First and Last Name, Address, Contact Number, and Date of Birth. 
-
-When filling out this form, it is essential to ensure that all required fields are completed accurately and thoroughly. This form should not be used for other purposes or for duplicate applications. 
-
-</thinking>
-
 # Medical Biller Application Form - Help Guide
 ## Purpose
 This form is designed to collect personal and address information required for a medical application. It is intended for individuals who are applying for medical services or billing purposes.

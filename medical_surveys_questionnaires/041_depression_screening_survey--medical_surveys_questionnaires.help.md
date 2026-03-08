@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to screen for depression symptoms and assess an individual's mental health status. This guide will help you understand the purpose of the form and how to complete it correctly. 
-
-The form is divided into several sections, each covering different aspects of mental health. 
-
-Please ensure that you have filled out any necessary medical history forms before proceeding.
-</thinking>
-
 # Depression Screening Survey - Help Guide
 ## Purpose
 This Depression Screening Survey is designed to assess an individual's mental health status, including general mood, sleep quality, energy level, physical symptoms, and suicidal tendency. It is a critical tool for identifying potential depressive episodes and providing early intervention.

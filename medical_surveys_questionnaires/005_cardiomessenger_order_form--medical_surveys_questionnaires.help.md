@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from clinicians and medical professionals for ordering CardioMessenger devices. The goal is to gather essential details for processing and shipping orders efficiently. To ensure accurate and complete data, kindly review each field carefully and provide the required information.
-
-The purpose of this guide is to help users understand the form's structure and requirements. It's intended for end-users who will be filling out the form, not for those designing or modifying the form.
-
-Please note that some fields are required for the order to be processed, while others are optional but helpful for additional context.
-
-Before proceeding, consider the following:
-
-* Ensure you have the necessary authorization to order devices on behalf of your clinic or practice.
-* Be prepared to provide accurate contact information for billing and communication.
-* Clarify any additional instructions or comments to ensure smooth delivery and installation of the devices.
-
-This guide will walk you through each field, providing clarity on what information is needed and why. Read it carefully to avoid any issues during the order process.</thinking>
-
 # CardioMessenger Order Form - Help Guide
 ## Purpose
 The CardioMessenger Order Form is designed to collect necessary information from clinicians and physicians for processing and shipping CardioMessenger devices. The goal is to gather accurate and complete data for efficient order management.

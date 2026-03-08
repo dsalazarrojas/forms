@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a registration form designed for men to join a support group, likely to seek help and guidance from others who may be experiencing similar challenges or emotions. The form aims to gather basic information from participants to facilitate communication and coordination among group members. It is essential that participants understand that this form is not affiliated with or endorsed by any specific organization or platform. The purpose of this form is to help create a safe and welcoming community where individuals can share their experiences and feelings without fear of judgment or repercussions. 
-
-Before completing this form, please ensure that you haven't filled it out before, as this form does not store or track personal data. 
-
-</thinking>
-
 # Men's Support Group Registration - Help Guide
 ## Purpose
 This form is designed for men to register and join a support group, providing a platform for them to connect with others who share similar experiences and emotions.

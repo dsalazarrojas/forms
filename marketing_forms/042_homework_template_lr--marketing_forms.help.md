@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture essential information related to homework submissions, allowing users to track and report on completed homework tasks. The purpose of this form is to provide a structured format for users to input details about the homework they have completed, including their name, contact information, completed homework status, and other relevant details. This form is designed to be filled out by users who have completed homework tasks and need to report their progress.
-
-To ensure consistency and accuracy, it's essential to complete this form carefully and thoroughly. If you're unsure about any of the fields, please refer to the explanations below.
-
-</thinking>
-
 # Homework Template LR - Help Guide
 ## Purpose
 This template is designed to collect information about homework submissions, providing a standardized format for users to report their progress.

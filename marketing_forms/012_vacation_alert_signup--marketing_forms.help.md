@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from users for the purpose of setting up a vacation alert system. The form is intended to collect data about the user's travel agency, subscription preferences, contact information, and notification preferences. The data collected will be used to customize the user's experience on the platform and ensure they receive relevant notifications during their travel.
-The form will not be displayed to users who have already completed it in the past 30 days.
-</thinking>
-
 # vacation-alert-signup - Help Guide
 ## Purpose
 This form is designed to gather information from users for the purpose of setting up a vacation alert system.

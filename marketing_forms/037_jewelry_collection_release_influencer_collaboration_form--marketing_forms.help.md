@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to assist in creating a custom form for a specific use case. The form's purpose is to facilitate collaboration between jewelry collection release teams and social media influencers. It collects information about the user, details of the collaboration, product media, social media, submission, and agreement. The form is designed to be completed by influencers who want to collaborate with the jewelry collection release team. Please ensure that you are filling out this form for the correct purpose and not duplicating your effort elsewhere.
-</thinking>
-
 # Jewelry Collection Release Influencer Collaboration Form - Help Guide
 ## Purpose
 This form is designed to help the jewelry collection release team collaborate with social media influencers. It collects necessary information to facilitate a successful collaboration.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from male patients about their fertility. The purpose of this form is to gather data on the patient's lifestyle, medical history, and any relevant fertility tests they may have undergone. This information will be used to assess their fertility.
-
-Before we dive into the form, let's make sure this is the right form for you. Please note that this form is an original adaptation of a publicly available survey topic, created using only the provided metadata. If you're not sure about the purpose or any other aspect of this form, feel free to ask for clarification.
-
-</thinking>
-
 # Male Fertility Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a male patient's lifestyle, medical history, and fertility tests to assess their fertility.

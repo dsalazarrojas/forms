@@ -1,7 +1,3 @@
-<thinking>
-We are checking to see if this form is relevant and does not duplicate any other form. This form is a medical application form for organ donation registration. It gathers information from a registrant who is interested in becoming an organ donor. The form collects personal details like name, email, phone numbers, medical history, and address. It also includes fields for blood type, medical conditions, and a medical provider. This form is intended to be filled out by the person registering themselves as an organ donor. Please note that this form is not for medical professionals or medical organizations.
-</thinking>
-
 # Organ Donation Registration Form - Help Guide
 ## Purpose
 The Organ Donation Registration Form is a medical application form for individuals who wish to register themselves as organ donors. This form collects personal and medical information to facilitate the organ donation process.

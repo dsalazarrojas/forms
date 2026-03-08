@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for the new shortened COVID-19 patient questionnaire and consent for dental treatment. The purpose of this form is to gather essential details from patients, including their name, contact information, appointment schedule, and medical history, as well as their consent for wearing a mask during treatment. This form ensures that patients are properly assessed and treated according to their specific needs and requirements.
-
-Before filling out this form, please note that it has been designed to be completed by patients in person, and it is essential to provide accurate and honest information to facilitate effective treatment planning and execution.
-
-Please ensure that you complete the form carefully and accurately, and if you have any questions or concerns, do not hesitate to ask for assistance from our staff.
-
-The information collected on this form will be kept confidential and will be used solely for the purpose of treating your dental condition.
-
-To avoid any duplication of effort, please ensure that you have not already completed this form on a previous visit to our office.
-
-</thinking>
-
 # new_shortened_covid_19_patient_questionnaire_and_consent_for_dental_treatment - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients for dental treatment planning and execution.

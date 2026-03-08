@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist gym-goers in selecting the most suitable membership tier that suits their needs. The form is meant to gather essential information from users to provide them with accurate and personalized membership options. The purpose of this form is to streamline the membership registration process, ensuring that users are matched with the most suitable tier that meets their requirements. It is crucial to ensure that each user completes the form accurately to avoid duplication of work and provide the best possible experience for them. It is also essential to note that this form is a general template and may not cover all possible scenarios or membership types.
-</thinking>
-
 # Gym Membership Tier Selection Form - Help Guide
 ## Purpose
 This form is used to select the most suitable gym membership tier for individuals.

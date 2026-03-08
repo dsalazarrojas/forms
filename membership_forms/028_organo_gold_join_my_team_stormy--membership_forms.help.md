@@ -1,9 +1,3 @@
-<thinking>
-We're checking if this form is relevant and not a duplicate... 
-this form is a join my team member form. The purpose of this form is to help us understand more about the person who is interested in joining our team. We want to know a little bit about them, like their name, contact information, their desired role, and how they found out about us.
-
-</thinking>
-
 # organo_gold_join_my_team_stormy - Help Guide
 ## Purpose
 This form is to help us understand more about you and your interest in joining our team.

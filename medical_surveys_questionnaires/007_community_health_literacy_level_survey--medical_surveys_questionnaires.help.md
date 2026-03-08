@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool to evaluate community health literacy levels, which refers to the ability of individuals to understand and navigate health information and services. It is likely used in healthcare settings to assess the needs of patients or community members. To confirm, the form does not appear to be a duplicated form, and it is designed for users with varying levels of education and health literacy. Please continue with the help guide generation process.
-</thinking>
-
 # Community Health Literacy Level Survey - Help Guide
 ## Purpose
 The Community Health Literacy Level Survey is a tool used to measure an individual's ability to understand and navigate health information and services. This survey assesses various aspects of health literacy, including confidence in finding health information, understanding prescription instructions, and barriers to accessing care.

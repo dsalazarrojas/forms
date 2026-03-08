@@ -1,7 +1,3 @@
-<thinking>
-The main purpose of this form is to collect information from customers or service users about their behavior support service agreement, which likely includes details about their personal preferences, contact information, and specific circumstances related to the service. This form likely aims to gather relevant information for providing optimal service support. Before proceeding, ensure this form is the correct one for your intended use and that you've already reviewed any internal documentation regarding the behavior support service agreement.
-</thinking>
-
 # Behavior Support Service Agreement - Help Guide
 
 ## Purpose

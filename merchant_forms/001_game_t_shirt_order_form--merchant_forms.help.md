@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand how to complete the Game T Shirt Order Form. This form is used to collect information about a game t-shirt order, including customer details and order specifics. It's essential to ensure that the information provided is accurate and complete, as it will be used to process and fulfill the order. Before starting to fill out the form, make sure you have the necessary information required for the fields, especially the customer's name, email, phone number, and order details. Please do not duplicate or submit incomplete forms, as this will cause delays in processing your order.
-</thinking>
 # Game T Shirt Order Form - Help Guide
 
 ## Purpose

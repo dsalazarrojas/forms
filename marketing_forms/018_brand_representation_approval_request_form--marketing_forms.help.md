@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive guide for the "Brand Representation Approval Request Form", let's break down the form's purpose, how to complete it, and each field's explanation.
-
-This form is designed to facilitate the process of requesting brand representation, which involves submitting information about the type of representation needed, the context and date of the representation, and other relevant details. It's essential to ensure that the brand representation aligns with the company's guidelines and standards, and that the request is not repetitive.
-
-Before submitting the form, please make sure to review the guidelines and ensure that your request is not a duplicate. If you're unsure, please reach out to the relevant department.
-
-</thinking>
-
 # Brand Representation Approval Request Form - Help Guide
 ## Purpose
 This form is used to request brand representation, such as logo usage, brand messaging, product representation, spokesperson roles, social media representation, press or media appearances, and partnership announcements. It's designed to provide all necessary information for the brand approval process.

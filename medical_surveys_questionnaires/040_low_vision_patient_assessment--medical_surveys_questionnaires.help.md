@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain the purpose and usage of the Low Vision Patient Assessment form, which is used to collect information from patients with low vision conditions. The form is intended to gather data on the patient's medical history, personal details, and specific aspects of their vision condition, which will help healthcare professionals better understand their condition and provide appropriate care.
-</thinking>
-
 # Low Vision Patient Assessment - Help Guide
 
 ## Purpose

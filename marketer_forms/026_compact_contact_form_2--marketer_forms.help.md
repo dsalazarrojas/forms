@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be a compact contact form for users to submit inquiries, provide feedback, or request information about products or services. It should be used for general inquiries, product information, sales questions, support requests, partnership opportunities, media inquiries, or other purposes not explicitly listed. This form should not be used for duplicate submissions, as this could lead to unnecessary back-and-forth communication and potential confusion. It's best to fill out this form once and allow the organization to respond accordingly.</thinking>
-
 # Compact Contact Form 2 - Help Guide
 ## Purpose
 The Compact Contact Form 2 is a simple form designed to gather user contact information and inquiries. It should be used for users to submit general inquiries, request information about products or services, or seek partnership opportunities. 

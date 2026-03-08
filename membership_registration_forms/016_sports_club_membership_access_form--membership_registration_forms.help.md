@@ -1,7 +1,3 @@
-<thinking>
-This form is used for membership registration and management. It's designed to gather information about a person's membership status, such as club name, address, contact details, birth date, gender, membership type, member type, membership level, join date, expiration date, contact phone number, member since, and member status. 
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the membership registration form. 

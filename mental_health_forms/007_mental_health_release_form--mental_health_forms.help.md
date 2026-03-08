@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect general information about a patient's mental health, medical history, and emergency contact details. It's essential to fill out this form accurately and thoroughly to ensure that we can provide the best possible care. Please note that this form is not a substitute for a comprehensive medical evaluation or diagnosis. If you have any questions or concerns about your mental health or medical history, please consult a healthcare professional before completing this form. Also, please be aware that this form is not for sharing sensitive or confidential information about others. Ensure that you are authorized to share the information requested in this form.</thinking>
-
 # mental_health_release_form - Help Guide
 
 ## Purpose

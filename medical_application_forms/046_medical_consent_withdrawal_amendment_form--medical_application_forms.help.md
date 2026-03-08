@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Consent Withdrawal Amendment Form - Help Guide
 
 ## Purpose

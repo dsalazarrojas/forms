@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Excuse Note Request - Help Guide
 ## Purpose
 The purpose of this form is to collect information from medical providers to create a medical excuse note for a patient. This form is intended for use in medical settings, such as clinics or hospitals, to document the reason for an absence or leave of a patient. By providing the necessary information, medical providers can create a clear and concise medical excuse note that can be used by the patient to inform their employer or academic institution.

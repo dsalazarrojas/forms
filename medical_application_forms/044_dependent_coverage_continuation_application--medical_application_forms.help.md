@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I am creating a help guide for the "Dependent Coverage Continuation Application" form. The form is designed for individuals to apply for dependent coverage continuation, allowing them to maintain their health insurance coverage for their dependents. The form's purpose is to gather essential information from applicants, including details about their dependents, the type of coverage they require, and the reason for continuation. This form is likely used by health insurance providers, employers, or government agencies to assess applications and make informed decisions.</thinking>
-
 # Dependent Coverage Continuation Application - Help Guide
 ## Purpose
 The Dependent Coverage Continuation Application form is designed for individuals to apply for dependent coverage continuation, allowing them to maintain their health insurance coverage for their dependents.

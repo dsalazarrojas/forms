@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to verify media coverage for publications. Media coverage verification is an essential process to evaluate the impact and reach of media publications. It involves tracking and documenting various aspects of a publication, including the organization or individual responsible for the publication, the date and location of the publication, the type of publication, and the number of citations it received.
-
-Before proceeding, ensure that the form is not being completed for a duplicate publication. If you're unsure, check the media coverage database or contact the relevant team for guidance.
-
-This form is typically completed by the user assigned to the publication during the submission process.
-
-</thinking>
-
 # Media Coverage Verification Form - Help Guide
 ## Purpose
 This form is used to verify media coverage for publications. It ensures that all relevant details of a publication are accurately recorded.

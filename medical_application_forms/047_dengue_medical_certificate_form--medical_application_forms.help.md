@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to assist users in understanding and completing the "Dengue Medical Certificate Form". Before proceeding, ensure that:
-1. The form is being filled out for the correct purpose and not for other unrelated medical certificates.
-2. The form is not being filled out for a person who has not been issued a medical certificate previously, as this form is intended for individuals who have already received a medical certificate for dengue fever.
-</thinking>
-
 # Dengue Medical Certificate Form - Help Guide
 ## Purpose
 The Dengue Medical Certificate Form is used to document and verify the medical status of an individual who has been diagnosed with dengue fever. This form is typically completed by medical professionals to provide essential information about the patient's medical history, symptoms, and treatment.

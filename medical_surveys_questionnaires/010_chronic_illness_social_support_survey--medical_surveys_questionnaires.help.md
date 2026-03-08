@@ -1,12 +1,3 @@
-<thinking>
-The Chronic Illness Social Support Survey form is designed to collect information about the emotional, practical, and social support received by individuals living with chronic illnesses. This form aims to assess the effectiveness of social support networks and identify areas where support may be lacking. It will help healthcare professionals better understand the needs of their patients and provide more personalized support and services.
-
-This form is meant for individuals who are willing to share their experiences and perspectives on their support networks. The collected data will be used to inform the development of support programs and services for individuals with chronic illnesses.
-
-Please note that this form should not be used for individuals who are not willing to participate in follow-up interviews. Also, if you are not comfortable sharing certain information, you can skip the relevant questions or provide an alternative answer that reflects your feelings or experiences.
-
-</thinking>
-
 # Chronic Illness Social Support Survey - Help Guide
 
 ## Purpose

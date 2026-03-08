@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information on promotional strategies and inventory management practices. The purpose of this form is to help organizations understand the effectiveness of various promotional strategies and inventory management practices in achieving sales goals. This form will guide users through a series of questions that cover different aspects of promotional strategies and inventory management, including the use of email marketing, social media, paid advertising, and other relevant options. Please note that each question is designed to elicit specific information from users, and the answers provided will help in creating a comprehensive report. This form is not designed to be duplicated, and each user's response will be treated as a unique contribution to the survey.
-
-Please note that this form has 20 pages, each with its own label and type of input field. Users will be required to fill in some of these pages, while others are optional. 
-
-</thinking>
-
 # promotions and inventory survey - Help Guide
 
 ## Purpose

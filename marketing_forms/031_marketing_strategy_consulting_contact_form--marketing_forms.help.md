@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # marketing_strategy_consulting_contact_form - Help Guide
 ## Purpose
 The purpose of this form is to provide a contact form for marketing strategy consulting inquiries. It collects contact information and a brief message from users interested in learning more about your marketing strategy consulting services.

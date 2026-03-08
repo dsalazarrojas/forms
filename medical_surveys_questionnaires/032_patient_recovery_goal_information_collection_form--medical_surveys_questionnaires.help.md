@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's recovery goals and progress. It is a crucial tool for healthcare providers to gather data on each patient's recovery goals, including primary and secondary recovery goals, recovery planning, and expected outcomes. This form should only be filled out for patients who have been admitted to or are receiving care from the healthcare facility. Please ensure that you have the necessary permissions and clearances before filling out this form. It is recommended to fill out this form only once per patient.
-</thinking>
-
 # Patient Recovery Goal Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's recovery goals and progress.

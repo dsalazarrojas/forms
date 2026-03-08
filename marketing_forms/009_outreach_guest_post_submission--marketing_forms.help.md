@@ -1,12 +1,3 @@
-<thinking>
-We are going to create a help guide for the "Outreach Guest Post Submission" form. This form is used for submitting guest post ideas or pitches to be featured on our blog. The form is designed to gather relevant information about the post, including the title, draft, author bio, email, and other specific details. The form is used by our team to review and evaluate the submitted ideas.
-
-Before submitting a form, please make sure that the idea is not a duplicate and that it aligns with our blog's focus and guidelines. We also encourage you to review our blog's terms and conditions before submitting a form.
-
-This help guide is intended to provide a clear understanding of the form's purpose and fields. Please take a few minutes to read through it carefully before filling out the form.
-
-</thinking>
-
 # Outreach Guest Post Submission - Help Guide
 
 ## Purpose

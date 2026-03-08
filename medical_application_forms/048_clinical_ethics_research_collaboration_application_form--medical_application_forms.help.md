@@ -1,9 +1,3 @@
-<thinking>...The internal reasoning block is used to check the form purpose and avoid duplication. This block is used to identify the form's purpose and ensure that the user understands the context and requirements of the form before proceeding. Here is the internal reasoning block:
-
-This form is a crucial part of the medical research process, and it's essential to ensure that all necessary information is collected to ensure the success and ethical conduct of the research project. The form is designed to gather information from potential applicants who wish to collaborate on a research project that involves ethical considerations. The purpose of this form is to provide a clear and concise way for applicants to provide details about their research project, including their institution, research focus, scope, timeline, and more. By completing this form, applicants can help ensure that their research project is thoroughly reviewed and approved, and that they are well-prepared for the collaboration process...
-
-</thinking>
-
 # Clinical Ethics Research Collaboration Application Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Research Intake Form - Help Guide
 
 ## Purpose

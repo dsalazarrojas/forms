@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to collect personal, contact, family, and emergency contact information from individuals registering to use the health and wellness center. The purpose is to collect essential data to facilitate efficient and effective communication with registrants.
-
-The form will be used to collect the following types of information:
-• Personal details (e.g., name, address)
-• Contact information (e.g., email, phone number)
-• Family details (e.g., family members' names, relationships)
-• Emergency contact information (e.g., name, contact information)
-
-The form is not meant to collect sensitive or medical information, and responses are intended to be treated as private.
-
-Before starting, please ensure you are filling out the correct form and not duplicating registration.
-
-</thinking>
-
 # Health And Wellness Center Registration Form - Help Guide
 ## Purpose
 The Health And Wellness Center Registration Form is designed to collect essential information from individuals registering to use the center's services. This form helps us to create a record of your personal, contact, family, and emergency contact information.

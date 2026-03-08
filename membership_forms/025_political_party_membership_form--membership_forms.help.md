@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect and store information about new and existing members of a political party. This form is essential for the party to maintain accurate records, track member activities, and ensure that members are aware of their rights and responsibilities within the party. It's crucial that members complete the form accurately and honestly, as the information collected will be used for internal purposes only.
-
-To prevent duplication, we recommend that members check their membership status and details before filling out this form. If you're unsure about your membership status or have any questions, please contact the party's membership team.
-</thinking>
-
 # Political Party Membership Form - Help Guide
 ## Purpose
 This form is used to collect and store information about new and existing members of a political party.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a web banner creation request. It is intended for web designers and/or other stakeholders involved in the banner creation process. This form will help the web team determine the requirements and specifications for a web banner. 
-Before filling out this form, please ensure you're submitting a new request and not duplicating an existing one.
-</thinking>
-
 # Web Banner Creation Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document web banner creation requests from internal stakeholders. Please fill out this form to provide detailed information about the banner you want to create.

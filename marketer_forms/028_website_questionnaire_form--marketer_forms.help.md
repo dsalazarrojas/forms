@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users of the Website Questionnaire Form. Please note that this form is designed to collect user feedback and preferences related to a website. 
-
-Before starting, ensure this form is not a duplicate of any other form and that you have the necessary permissions to submit this form.
-
-This guide is intended to help you understand the form's purpose and how to complete it correctly.
-
-</thinking>
-
 # Website Questionnaire Form - Help Guide
 ## Purpose
 The Website Questionnaire Form is designed to collect user feedback, preferences, and insights related to a website.

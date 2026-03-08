@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the UTM Generator Form is used correctly to generate UTM values for marketing campaigns. This form should only be used by authorized users. To prevent duplication, we'll need to check if a UTM with the same name and group already exists before generating new UTMs. The form should be completed by providing accurate and relevant information about the campaign, and the generated UTM values should be reviewed and validated before use. We'll also need to ensure that the form is filled out correctly, including selecting the correct campaign type and source.
-
-</thinking>
-
 # Utm Generator Form - Help Guide
 ## Purpose
 The Utm Generator Form is used to generate UTM values for marketing campaigns. It helps in creating and tracking campaign details such as name, type, source, budget, lead generation, sales generation, traffic, start and end dates, start and end times, cost, and other relevant information. 

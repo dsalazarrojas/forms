@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help assess an individual's mental health and wellbeing. The purpose of this form is to collect information about an individual's emotional state, behavioral habits, and other factors that may impact their mental health. This form is not affiliated with or endorsed by any form platform and is an original adaptation created by AI using public survey topic metadata. It is released under CC BY 4.0 and can be used, modified, or even sold with proper credit. If you are experiencing suicidal thoughts or need immediate emotional support, please contact form@gic.mx.
-
-</thinking>
-
 # Neurochemistry Assessment Survey - Help Guide
 ## Purpose
 The Neurochemistry Assessment Survey is a tool designed to help assess an individual's mental health and wellbeing. This form is intended to collect information about an individual's emotional state, behavioral habits, and other factors that may impact their mental health.

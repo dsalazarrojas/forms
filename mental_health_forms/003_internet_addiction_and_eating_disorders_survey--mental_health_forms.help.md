@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data on internet addiction and eating disorders. The purpose of this form is to assess the severity of internet addiction and eating disorders in users. The form is designed to gather demographic data and behavioral insights. The form will likely be used by mental health professionals to identify individuals who may be at risk of developing or experiencing internet addiction and eating disorders. This form should only be filled out by individuals who are interested in participating in a mental health study or who have been referred by a mental health professional. 
-</thinking>
-
 # Internet Addiction And Eating Disorders Survey - Help Guide
 ## Purpose
 This form is designed to collect data on internet addiction and eating disorders. The form is intended for individuals who are interested in participating in a mental health study or who have been referred by a mental health professional.

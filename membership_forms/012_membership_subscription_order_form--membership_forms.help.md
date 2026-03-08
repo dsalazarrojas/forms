@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit a membership subscription order with specific details such as membership plan, subscription duration, payment method, contact information (email, phone, address), and membership status and type. This form will ensure that users provide accurate and complete information for a smooth subscription process. Before proceeding, check that the form is not already filled out for any other reason, to avoid duplicate submissions.
-</thinking>
-
 # Membership Subscription Order Form - Help Guide
 ## Purpose
 This form is designed to collect subscription details from users. It ensures that you provide all necessary information for a successful membership subscription.

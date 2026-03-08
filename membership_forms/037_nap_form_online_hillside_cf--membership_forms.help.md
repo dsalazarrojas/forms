@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to create a specific type of membership form, "nap_form_online_hillside_cf", used for administrative purposes within a membership-focused context, such as online hillside memberships. To ensure accuracy and prevent duplication, the form will only be visible to authorized personnel.
-</thinking>
-
 # nap_form_online_hillside_cf - Help Guide
 
 ## Purpose

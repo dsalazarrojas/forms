@@ -1,11 +1,3 @@
-<thinking>
-To begin with, let's clarify the purpose and relevance of this form, Media Project Planning Survey.
-The Media Project Planning Survey form is designed to collect essential information about media projects, including their objectives, timeline, production studio involvement, production team composition, resources, contact details, deadline, notes, project status, budget, and project manager.
-This form is intended to be filled out by individuals responsible for media project planning, including project managers, coordinators, and team leads.
-Before proceeding, ensure that you are completing this form for a legitimate media project planning purpose. If you have already submitted a similar form for a project with similar details, please do not resubmit. Repeated submissions can cause confusion and affect project tracking accuracy.
-
-</thinking>
-
 # Media Project Planning Survey - Help Guide
 ## Purpose
 The Media Project Planning Survey form is designed to gather key information about media projects. This form helps project managers, coordinators, and team leads to efficiently plan and track project progress.

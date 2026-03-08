@@ -1,9 +1,3 @@
-<thinking>
-This guide will walk you through the purpose and completion of the Dental Clinic Performance Assessment Form. The form's primary intention is to gauge the overall performance and quality of service at dental clinics based on user experiences and perceptions. This will help clinics assess areas for improvement and provide better patient care. Before starting, please ensure that the form's questions and options match your specific experience.
-
-Please note that some fields might not be required for completion, depending on the user's preferences.
-</thinking>
-
 # Dental Clinic Performance Assessment Form - Help Guide
 
 ## Purpose

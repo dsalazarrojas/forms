@@ -1,14 +1,3 @@
-<thinking>
-To provide a user-facing help guide for this form, let's first consider the context and purpose of the PCOS Health Assessment Questionnaire. This form is designed to gather information about a patient's polycystic ovary syndrome (PCOS) symptoms, medical history, and other relevant details.
-
-Before creating the guide, we should ensure that the form is being used for its intended purpose and not for any other use cases. This form is intended for patients, medical professionals, or caregivers who need to assess the severity and impact of PCOS symptoms on a patient's health. 
-
-We should also check if there are any existing guides or resources that cover similar topics, such as general health assessment questionnaires or PCOS-specific resources. However, based on the provided YAML, this form appears to be a specific, in-depth assessment tool tailored to PCOS.
-
-With this context in mind, we can proceed to create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # PCOS Health Assessment Questionnaire - Help Guide
 ## Purpose
 The PCOS Health Assessment Questionnaire is a comprehensive tool designed to help assess the severity and impact of polycystic ovary syndrome (PCOS) symptoms on a patient's health. This form gathers information about the patient's demographic details, menstrual history, medical history, and other relevant factors to better understand their condition.

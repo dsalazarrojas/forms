@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Brand Compliance Check Request Form. It is a crucial document that ensures all marketing materials align with the brand identity and comply with relevant laws and regulations. To complete this form, users must provide accurate and detailed information about the request, which includes their name, department, project name, type of compliance check, materials description, target audience, distribution channels, review deadline, priority level, attached brand guidelines, previous review reference, additional comments, electronic signature, and submission date. This guide will walk users through each field, explaining its purpose and expected input.
-</thinking>
-
 # Brand Compliance Check Request Form - Help Guide
 
 ## Purpose

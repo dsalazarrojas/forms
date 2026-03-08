@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to guide users in creating a well-structured and comprehensive Medical Research Collaboration Proposal Application. It is essential to understand the context and scope of this form to ensure a successful proposal submission. 
-Before filling out this form, kindly review the guidelines below to ensure that your proposal aligns with the requirements and is not a duplicate of an existing proposal. 
-This form will collect the following information: 
-- User Information: A brief description of the user submitting the proposal 
-- Proposal Information: A concise overview of the proposal and its objectives 
-- Research Team: Details about the research team involved in the proposal 
-- Research Institution: Information about the institution where the research will take place 
-- Supporting Document: Any additional document that supports the proposal 
-- Review: A field for any additional comments or feedback
-
-</thinking>
 # Medical Research Collaboration Proposal Application - Help Guide
 
 ## Purpose

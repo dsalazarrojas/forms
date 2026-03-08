@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information for medical records and intake processes. The purpose of this form is to create a comprehensive record of patient data for medical professionals. This form is intended to be used by patients, their family members, or authorized medical personnel. It is crucial to ensure that the form is completed accurately and thoroughly to avoid duplication of patient records and to maintain data consistency. The fields in this form are designed to capture essential patient information, and each field has a specific purpose. Please note that some fields are not required, but they are included to provide additional context or to aid in medical diagnosis or treatment.
-</thinking>
-
 # Patient Intake Form - Help Guide
 
 ## Purpose

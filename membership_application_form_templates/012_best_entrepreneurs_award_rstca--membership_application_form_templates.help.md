@@ -1,8 +1,3 @@
-<thinking>
-This is a form design project. The purpose of the form is to collect information from potential award recipients to award them for their business achievements. This form will help the award committee understand the business's background, achievements, and future goals. This form will also help identify potential award winners.
-Before creating a help guide for this form, I will go through each field and provide a clear explanation.
-After understanding the form structure and fields, I can proceed with creating the help guide.
-</thinking>
 # Best Entrepreneurs Award RSTCA - Help Guide
 ## Purpose
 The Best Entrepreneurs Award RSTCA is a form designed to collect information from potential award recipients. This form helps the award committee evaluate businesses for their achievements and future goals. It is essential to provide accurate and truthful information to increase the chances of being selected for the award.

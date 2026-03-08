@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in creating an identity for their creative agency. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created by AI using public survey topic metadata. It is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit. 
-Please ensure this form is not being used for any malicious or unauthorized purposes.
-
-This form has 25 fields, but most are not required, allowing users to fill out only the necessary information. The fields are categorized under "Form Title", "Contact Information", "Form Description", "Marketing Channel", "Target Audience", "Marketing Objectives", "Key Messages", "Form Tags", "Contact Information" (again), and "Social Media". 
-
-Before filling out the form, please ensure you have all necessary information ready.
-</thinking>
-
 # identity_creative_agency_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from creative agencies interested in creating an identity for their brand, product, or service.

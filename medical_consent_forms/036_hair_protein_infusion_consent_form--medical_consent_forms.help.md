@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for a medical consent form related to hair protein infusion procedures. The purpose of this form is to gather client information and consent for a specific medical treatment. To verify, the category "medical_consent_forms" suggests a medical context, and the "Hair Protein Infusion" title indicates that the form is specific to a treatment involving hair. The form has three pages: "Client Details", "Health Information", and "Consent". This form does not appear to be a duplicated or copy-pasted form, as it is based on public survey metadata. 
-</thinking>
-
 # Hair Protein Infusion Consent Form - Help Guide
 ## Purpose
 This form is designed to collect client information and consent for hair protein infusion procedures. It consists of three sections: Client Details, Health Information, and Consent.

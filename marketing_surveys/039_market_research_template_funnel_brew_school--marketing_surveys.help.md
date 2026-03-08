@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for market research on a "Market Research Template Funnel Brew School" project. The purpose of this form is to gather information from participants about their preferences, habits, and demographics. The form will help to identify trends and patterns among the participants. To avoid duplication, please do not submit this form multiple times. If you have already submitted this form, your responses will be recorded and will not affect your responses in any way.
-</thinking>
-
 # Market Research Template Funnel Brew School - Help Guide
 ## Purpose
 This form is designed to collect market research data on the "Market Research Template Funnel Brew School" project. The data collected will help us to understand your preferences, habits, and demographics.

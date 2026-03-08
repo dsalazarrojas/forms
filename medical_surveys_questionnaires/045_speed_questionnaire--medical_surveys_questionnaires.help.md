@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from patients about their medical history, symptoms, and treatment plans. It is meant to gather relevant and accurate information to help healthcare professionals understand the patient's condition and provide better care. Please ensure that you have a legitimate reason for filling out this form and that you do not submit duplicate entries.
-
-Please review the form carefully and fill out all required fields accurately. You are not required to provide information if you do not know or have access to it.
-
-This guide is intended to be a quick reference for users. If you need further guidance, please consult with a healthcare professional.
-</thinking>
-
 # Speed Questionnaire - Help Guide
 ## Purpose
 The Speed Questionnaire is a patient-facing form designed to collect information about their medical history, symptoms, and treatment plans. This information is used by healthcare professionals to better understand the patient's condition and provide personalized care.

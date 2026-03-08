@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from digital artists who want to book a booking with your company. The form is meant to gather essential details about the artist, their social media presence, and the nature of the booking. This form will likely be used by the booking team to assess and confirm the artist's information before making a booking decision.
-
-It's worth noting that the form does not seem to have any validation rules or conditional logic to check for duplication or relevance. However, the form fields are mostly self-explanatory and should be fairly straightforward for users to complete.
-
-</thinking>
-
 # Digital Artist Booking Form - Help Guide
 ## Purpose
 The Digital Artist Booking Form is a tool used to gather information from digital artists who want to book a session with our company. Please fill out this form to provide us with the necessary details about yourself and your work.

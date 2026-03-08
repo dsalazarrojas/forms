@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beauty Marketing Collaboration Application Form - Help Guide
 ## Purpose
 

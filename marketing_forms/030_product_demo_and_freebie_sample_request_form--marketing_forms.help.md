@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to request a product demo or freebie sample from the company. It is a simple, one-page form that captures essential details about the customer's request. The form does not require any login credentials, and the purpose is to facilitate communication with the sales team. Please make sure this form meets your specific needs and is not a duplicate of an existing form.
-</thinking>
-
 # product_demo_and_freebie_sample_request_form - Help Guide
 ## Purpose
 This form is for customers to request a product demo or freebie sample from our company.

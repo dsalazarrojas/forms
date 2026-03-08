@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to gather information and insights from users about moodboards, which are visual boards used to represent and organize thoughts, ideas, and themes. The form asks for feedback on the effectiveness and relevance of moodboards in a given context.
-</thinking>
-
 # Moodboard Creation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness and relevance of moodboards in a given context.

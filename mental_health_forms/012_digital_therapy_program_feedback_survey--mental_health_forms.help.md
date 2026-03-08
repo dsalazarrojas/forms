@@ -1,11 +1,3 @@
-<thinking>
-
-The form's purpose is to collect feedback from participants in a digital therapy program. This feedback will help us understand how participants experienced the program, their satisfaction with the sessions, and their ratings of various aspects of the program. This form will help us improve the program for future participants.
-
-Before proceeding, let's make sure you are not already a participant in this survey. If you are, it's likely that your feedback has already been collected. Please do not submit this form if you have already provided feedback.
-
-</thinking>
-
 # Digital Therapy Program Feedback Survey - Help Guide
 
 ## Purpose

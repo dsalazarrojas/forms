@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to gather information about a user's medical withdrawal status and associated details. This includes user information, medical condition, medical certification, medical documentation, date of last attendance, expected return date, medical withdrawal reason, medical certificate upload, and medical documentation upload.
-The form is intended to be completed by individuals who have been medically withdrawn from work or school. The user will provide basic information such as name, date of last attendance, and expected return date. They will also provide medical-related information like medical condition, medical certification, and documentation, as well as a medical withdrawal reason. The uploaded files for medical certificate and documentation will help to verify the information provided.
-To complete this form, the user should follow these steps:
-</thinking>
-
 # Medical Withdrawal Form - Help Guide
 ## Purpose
 This form is used to document a user's medical withdrawal status, including their medical condition, reason for withdrawal, and associated documentation.

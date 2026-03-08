@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a customer loyalty gamification program. The purpose of this form is to understand customer preferences, program details, and agreement to participate in the program. It's essential to fill in this form accurately to ensure that the program meets your expectations. Please note that this form is not affiliated with or derived from any proprietary form platforms. It's a custom-designed form for the purpose of collecting relevant customer data.
-</thinking>
-
 # Customer Loyalty Gamification Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers to tailor our customer loyalty program to their needs and preferences.

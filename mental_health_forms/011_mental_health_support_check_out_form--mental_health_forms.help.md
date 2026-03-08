@@ -1,13 +1,3 @@
-<thinking>
-
-The "mental_health_support_check_out_form" is a form used to collect feedback and comments from clients after a mental health session. It's intended to be completed by clients who have had a session with a mental health professional. The form is used to gather information about the client's experience and any concerns they may have, which can help the professional to improve their services and provide better support in the future.
-
-When filling out this form, please ensure that you provide accurate and honest feedback, as it will help the mental health professional to better understand your needs and concerns.
-
-The form consists of the following fields:
-
-</thinking>
-
 # mental_health_support_check_out_form - Help Guide
 ## Purpose
 The mental health support check out form is a way for clients to provide feedback on their experience with a mental health professional. This includes sharing any concerns, questions, or suggestions they may have, which can help the professional to improve their services and better support clients in the future.

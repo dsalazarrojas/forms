@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear and relevant to the end-users. Let's assume this form is for patients to provide medical consent for a procedure. We should double-check that the form is not already in use or has been replaced by a more up-to-date version. We also need to make sure that the fields are accurately reflected in the form and that the instructions are concrete and easy to follow.
-</thinking>
-
 # Medical Consent Form - Help Guide
 ## Purpose
 This form is used to obtain medical consent from patients for medical procedures. It collects essential information about the patient's medical details, treatment, and consent status.

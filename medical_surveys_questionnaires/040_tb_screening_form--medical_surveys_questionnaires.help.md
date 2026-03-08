@@ -1,8 +1,3 @@
-<thinking>
-<!-- internal reasoning block to check for relevance and non-duplication -->
-<!-- This form seems to be a medical survey/questionnaire, possibly used for healthcare professionals or organizations to gather information about patient health and medical procedures. It appears to be a generic form, not affiliated with any specific form platform, and is created using AI-generated metadata from public survey topics. The form contains a mix of text and multiple-choice fields, likely for collecting patient information, medical procedures, and survey responses. -->
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This guide will walk you through the <string> form, a generic medical survey/questionnaire used to collect information from patients. The form is designed to be adaptable and can be used by healthcare professionals or organizations for various purposes.

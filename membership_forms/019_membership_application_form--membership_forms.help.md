@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist users in understanding the purpose and functionality of the Membership Application Form. Before proceeding, please verify that this form is not a duplicate of any existing form and that it is relevant to the user's current goals and requirements. If you are unsure, please contact your supervisor or departmental representative for further clarification.
-</thinking>
-
 # Membership Application Form - Help Guide
 ## Purpose
 This membership application form is designed to collect information and payment details from prospective members for the purpose of enrolling them in a membership program. The form guides you through a series of fields that will help the administration team understand your interest and preferences for membership.

@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to gather information about an individual's wishes for their end-of-life medical treatment, property distribution, and asset dispersal in case they become unable to make decisions for themselves. This form will likely be used by medical professionals, attorneys, or other authorized individuals to document the individual's decisions and communicate them with others involved in their care.
-
-Before we dive into the form's explanation, I want to check if this is the first time you're using this form. If you have previously filled out this form, please review the updated version for any changes and update your information accordingly.
-
-</thinking>
-
 # Living Will Form - Help Guide
 ## Purpose
 The Living Will Form is a document that outlines an individual's wishes for their end-of-life medical treatment, property distribution, and asset dispersal. It ensures that their medical, financial, and personal wishes are respected and implemented in the event of incapacitation.

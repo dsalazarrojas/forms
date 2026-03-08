@@ -1,10 +1,3 @@
-<thinking>
-This guide is for the Lifelong Learning Advocate Network Registration form. The form is designed to help individuals register themselves as advocates for lifelong learning initiatives. It gathers information about the registrant's personal details, interests, motivations, and contact information. The form's purpose is to create a network of advocates who can work together to promote lifelong learning opportunities and initiatives.
-
-By registering, individuals can join a community that aims to create a culture of lifelong learning and make it a reality in their own organizations, communities, and nations. The form is open to anyone who is enthusiastic about promoting lifelong learning and wants to join this cause.
-
-Before proceeding, please ensure that you have not already registered for this network. If you have already registered, you can edit your existing profile instead. Please note that the form is designed to gather accurate and up-to-date information about you, so please complete it as thoroughly and accurately as possible.</thinking>
-
 # Lifelong Learning Advocate Network Registration - Help Guide
 ## Purpose
 The purpose of this form is to gather information about you so that we can create a profile for you in the Lifelong Learning Advocate Network. This network is a community of individuals who are passionate about promoting lifelong learning initiatives and opportunities. By registering, you will be able to connect with others who share your interests and work together to create a culture of lifelong learning in your own organization, community, or nation.

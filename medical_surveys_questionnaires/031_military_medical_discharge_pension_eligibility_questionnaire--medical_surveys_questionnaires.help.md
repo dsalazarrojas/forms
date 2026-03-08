@@ -1,11 +1,3 @@
-<thinking>Before creating the help guide, let's review the form's purpose and ensure it's correctly explained. This form is designed to collect information related to military medical discharge pension eligibility. It appears to be a form used for veterans or military personnel to determine their eligibility for a medical discharge pension. The form likely serves as a tool for military administrators or pension authorities to assess an individual's qualifications for such benefits. To confirm this, let's review the form fields:
-
-* The form asks for basic contact information (Name, Email address)
-* It gathers information about the individual's military service (Service branch, Service start date, Service end date, Discharge date, Reason for discharge, Service connected status, Disability rating, Service connected rating)
-* The form also inquires about the individual's military medical discharge pension eligibility status
-
-Given this understanding, let's create a help guide that guides users through the form's purpose, how to complete it, and a field-by-field explanation of each section.</thinking>
-
 # Military Medical Discharge Pension Eligibility Questionnaire - Help Guide
 
 ## Purpose

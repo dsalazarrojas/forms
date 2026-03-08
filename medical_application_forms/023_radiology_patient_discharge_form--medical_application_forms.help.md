@@ -1,9 +1,3 @@
-<thinking>
-
-Before we dive into the help guide, let's ensure we're on the same page regarding the form's purpose and relevance. The Radiology Patient Discharge Form is a crucial document used to document a patient's status after a radiology procedure. It helps medical professionals track patient information, medication, medical history, and next steps for follow-up care. This form should be completed by patients (with their signature) and radiologists (with their signature) to ensure accurate and up-to-date patient information. To ensure we don't duplicate effort, let's review the form design to confirm that each field is necessary and well-labeled.
-
-</thinking>
-
 # Radiology Patient Discharge Form - Help Guide
 ## Purpose
 The Radiology Patient Discharge Form is a document used to record a patient's status after a radiology procedure. It ensures accurate and up-to-date information for patient care and facilitates communication between medical staff.

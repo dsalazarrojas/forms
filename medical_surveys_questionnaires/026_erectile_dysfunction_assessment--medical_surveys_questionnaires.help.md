@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Erectile Dysfunction Assessment - Help Guide
 
 ## Purpose

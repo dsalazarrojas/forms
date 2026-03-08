@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 This form aims to assess an individual's awareness and perception of a foreign conflict. It is designed to gather information on various aspects of conflict, including awareness levels, sources of influence, and conflict types. Completing this form will help to provide valuable insights for further research and analysis.

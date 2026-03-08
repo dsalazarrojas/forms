@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to gather all necessary information for marketing campaigns, allowing the team to understand the project's goals, objectives, target audience, and strategies. It also includes fields to track the campaign's progress and completion status. This form serves as a centralized repository for storing and managing marketing campaign information.
-Please confirm that the form is for marketing campaign purposes only and is not intended for other types of projects or tasks. Additionally, please ensure that you are not duplicating efforts by checking for existing campaigns with similar names.
-</thinking>
-
 # Marketing Brief Form Template - Help Guide
 ## Purpose
 The Marketing Brief Form Template is designed to streamline the process of managing marketing campaigns. It collects crucial information to help teams create effective marketing strategies and track progress.

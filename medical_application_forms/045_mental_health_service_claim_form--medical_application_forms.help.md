@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or their representatives about mental health services they have received. The form is intended to be filled out by the patient or their caregiver to provide details about the services received, such as dates, amounts, and any supporting documents. Before starting, please ensure that you are filling out this form for a single individual or group, and that you have their consent to do so. If you are unsure, please review the patient's medical record or contact the patient's healthcare provider directly.
-</thinking>
-
 # Mental Health Service Claim Form - Help Guide
 ## Purpose
 The Mental Health Service Claim Form is a document used to gather information about mental health services received by patients. This form helps to ensure that the necessary details are documented accurately and thoroughly.

@@ -1,8 +1,3 @@
-<thinking>
-We need to create a help guide for the Measles Exposure Monitoring Survey form that explains its purpose and how to complete it step by step. The form is used to collect information about an individual's exposure to measles, which is a contagious and serious disease that can cause severe health issues if not addressed promptly. This form is intended to gather data on individuals who may have been exposed to measles and help healthcare professionals track and contain the spread of the disease. The form will only be visible to authorized personnel within our organization, ensuring confidentiality of the submitted information.
-
-</thinking>
-
 # Measles Exposure Monitoring Survey - Help Guide
 
 ## Purpose

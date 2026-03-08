@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying to become a mental health counselor. The form is intended to be completed by those who are passionate about providing mental health services and wish to join our team of counselors. The form does not collect sensitive or confidential information that would require a formal application process with our organization.
-</thinking>
-
 # mental_health_counselor_application_form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in applying to become mental health counselors. It is not intended for individuals seeking mental health services.

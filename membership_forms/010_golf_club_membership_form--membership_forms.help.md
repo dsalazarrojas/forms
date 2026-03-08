@@ -1,7 +1,3 @@
-<thinking>
-This is a form designer and technical writer's task to create a user-facing help guide for the "Golf Club Membership Form". Before we begin, let's consider the form's purpose and ensure it's not duplicating any existing content. The purpose of this form is to collect information from individuals who want to become members of the golf club. This form will gather personal details, membership type, address, payment information, and other relevant details. It's essential to make sure this form is clear and easy to understand for the end-users.
-</thinking>
-
 # Golf Club Membership Form - Help Guide
 ## Purpose
 This form is designed to help us collect your information so we can process your membership application. Please fill out this form carefully and accurately to ensure that your membership details are up-to-date.

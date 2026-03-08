@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect payment information for travel medicine. This form is designed to be used by patients or clients to submit their payment details for medical services rendered while traveling. The form is divided into several sections, each representing a specific part of the payment process. It is essential to review this form carefully before proceeding to ensure that all relevant information is provided.
-</thinking>
-
 # Travel Medicine Billing Form - Help Guide
 ## Purpose
 This form is used to collect payment details for travel medicine services. Please fill out this form to provide the necessary information for our billing department.

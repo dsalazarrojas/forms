@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure accuracy, let's first clarify the purpose of this mental health survey form. This form is designed to collect information from users to better understand their mental health status, demographic details, and other relevant data. Its purpose is to provide insights for research and analysis in the mental health domain. By completing this form, users can contribute to the improvement of mental health services and policies. Please ensure that you complete the form accurately and honestly, as your responses will be treated with confidentiality and respect. If you have any concerns or questions, feel free to contact us.
-</thinking>
-
 # Mental Health Survey - Help Guide
 ## Purpose
 The Mental Health Survey form is designed to collect information from individuals to better understand their mental health status, demographic details, and other relevant data. This form is used to provide insights for research and analysis in the mental health domain.

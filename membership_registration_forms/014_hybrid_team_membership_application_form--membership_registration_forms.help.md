@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by team members to register new members to join the hybrid team. The form should only be used by new team members, not for internal team members. It's not designed for internal team members, who should already have an existing account. The form fields are intentionally designed to be simple and easy to use. If you're still unsure about what information is required, please reach out to the team lead for further clarification.
-</thinking>
-
 # hybrid_team_membership_application_form - Help Guide
 ## Purpose
 This is the membership application form for new team members. Use this form to submit your application to join the hybrid team.

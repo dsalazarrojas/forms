@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a new product idea, including the submitter's details and any relevant data about the product itself. The form is meant to be completed by internal stakeholders, such as product managers, designers, and developers, to ensure that the product idea is properly documented and tracked. This form is not intended for external users, such as customers or customers' support requests.
-
-Please ensure that the form is only completed by authorized internal personnel to prevent duplication of effort and maintain data consistency. If you're unsure about the purpose or completion of this form, please reach out to the product management team for clarification.
-
-</thinking>
-
 # Name Our New Product - Help Guide
 ## Purpose
 The "Name Our New Product" form is used to collect information about a new product idea, including submitter details and product data. This form is meant for internal use only.

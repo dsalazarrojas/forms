@@ -1,7 +1,3 @@
-<thinking>
-We will assume that the form "Payment Processing" is part of a medical application process, and it is required for users to provide their payment information in order to be processed. It should not be possible for users to submit the form without selecting a Medical Group, as it is a required field. We will ensure that users understand that they must select a payment method from the options provided (Visa, Mastercard, American Express). We will also make sure that users know that providing a date and time is optional, but may be required in certain situations. We will clearly explain how to fill out each field, and provide any additional guidance or tips that users might need.
-</thinking>
-
 # Payment Processing - Help Guide
 ## Purpose
 The Payment Processing form is used to collect payment information from users as part of a medical application process.

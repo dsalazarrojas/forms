@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from applicants for membership to the Auto Club. The form is composed of various sections, including personal information, membership selection, and emergency contact details. The form requires the applicant to provide their personal details such as name, date of birth, email, phone number, and mailing address. The applicant must also select their preferred membership tier and payment frequency. Additionally, the form requests information about the applicant's vehicle, including the make, model, and year. The form also requires the applicant to provide contact information for an emergency contact person. Finally, the applicant must authorize auto-renewal of their membership.
-
-Before filling out the form, please ensure you are applying for an adult membership and are of legal driving age (18+ years old). If you are under 18, please have a parent or guardian fill out this form on your behalf.
-
-Please note that all fields marked as "Required" must be filled in correctly. If you are unsure about any field or section, please contact the Auto Club staff for further clarification.
-</thinking>
-
 # Auto Club Membership Application Form - Help Guide
 ## Purpose
 This help guide is designed to walk you through the process of filling out the Auto Club Membership Application Form.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information for a medical simulation design research application. The purpose of this form is to gather details about the research proposal, including the simulation center name, researcher information, and reviewing units' contact details. The form is likely used by researchers to apply for or submit their proposals to a simulation center or a similar organization.
-This form seems to be used for internal purposes within an institution or organization, possibly for reviewing or approving research proposals.
-</thinking>
-
 # Medical Simulation Design Research Application Form - Help Guide
 ## Purpose
 This form is designed to collect information for a medical simulation design research application. It is used to gather details about the research proposal, including the simulation center name, researcher information, and reviewing units' contact details.

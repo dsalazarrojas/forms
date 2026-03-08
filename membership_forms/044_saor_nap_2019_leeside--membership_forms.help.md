@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users who want to sign up for the 2019 Saor Nap Leeside membership. This form is used to gather basic information, motivation for joining, and contact details of the applicant. This form is intended for people who want to become members of the 2019 Saor Nap Leeside. Please ensure that you only fill out this form once. If you have already signed up for the membership, please do not fill it out again.
-</thinking>
-
 # Saor Nap 2019 Leeside - Help Guide
 ## Purpose
 This form is used to collect information from users who want to sign up for the 2019 Saor Nap Leeside membership. The gathered information includes basic details, motivation, goals, contact information, and membership options.

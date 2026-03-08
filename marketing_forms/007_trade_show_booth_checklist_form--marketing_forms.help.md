@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Show Booth Checklist Form - Help Guide
 ## Purpose
 This form is designed to gather information about your trade show booth's specific requirements and needs. It will help us better understand your needs and ensure that we can provide the best possible experience for you and your team.

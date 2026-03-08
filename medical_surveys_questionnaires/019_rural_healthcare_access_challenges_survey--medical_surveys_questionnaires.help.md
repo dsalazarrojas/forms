@@ -1,7 +1,3 @@
-<thinking>
-Checking if the form is for "Rural Healthcare Access Challenges Survey" and has not been duplicated or outdated in the system, and verifying the fields are relevant and up-to-date.
-</thinking>
-
 # Rural Healthcare Access Challenges Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the challenges faced by individuals in rural areas when accessing healthcare services. It helps to identify the issues and barriers that prevent rural populations from receiving necessary healthcare services.

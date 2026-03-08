@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for customers to request free samples from the company. 
-The form should be used to collect contact information from customers, including their name, email, and phone number. 
-The form also asks for the type of sample the customer is interested in, the quantity they would like, and any additional address details. 
-Additionally, it allows customers to specify whether they would like to receive the sample, and if so, by when. 
-</thinking>
-
 # Send Free Sample Form - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to request free samples from the company. Customers can submit their contact information and preferences for samples, which can be reviewed and processed by the company's staff.

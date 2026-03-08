@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a website's marketing efforts. 
-- The form is intended for users to provide data on their website's objectives, target audience, website traffic, conversion rates, website performance, marketing budget, marketing strategy, and marketing activities.
-- The form's data will be used for analysis and comparison with other websites.
-- This form is a general purpose questionnaire and not specific to a particular project or campaign.
-</thinking>
-
 # website_marketing_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a website's marketing efforts, which will be used for analysis and comparison with other websites.

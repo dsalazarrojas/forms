@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Surgery Nomenclature Update Survey - Help Guide
 ================
 

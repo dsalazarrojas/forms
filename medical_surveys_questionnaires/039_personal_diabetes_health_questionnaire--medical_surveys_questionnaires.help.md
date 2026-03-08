@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a part of the "medical_surveys_questionnaires" category, designed to gather information about an individual's personal experience with diabetes. To ensure that this form is completed accurately and effectively, please follow these guidelines:
-
-This form is intended to collect information about an individual's diabetes history, current medications, blood glucose levels, diet, exercise frequency, healthcare team, medical tests, health outcomes, diabetes management, and complications. This data will help healthcare professionals better understand an individual's situation, providing a more accurate diagnosis and tailored treatment plan. **Please note that the information gathered through this form will not replace a medical professional's assessment. If you have any questions or concerns, consult with your doctor or healthcare provider before answering this form.**
-
-</thinking>
-
 # Personal Diabetes Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect detailed information about your diabetes health status, habits, and experiences.

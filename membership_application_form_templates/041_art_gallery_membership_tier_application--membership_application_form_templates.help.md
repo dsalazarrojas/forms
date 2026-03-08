@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to allow users to apply for membership at an art gallery. The form is likely used by the gallery's staff to collect information from potential members, including their name, contact information, membership tier preferences, payment method, and other relevant details. This form likely feeds into a database or CRM system used by the gallery to manage member records and communicate with members.
-
-To determine if this form should be used, the user should be a potential art gallery member. The form may be used multiple times by different people, so ensure that you've completed it correctly before submitting.
-
-To avoid errors, verify that you're submitting the form for the correct person and that all required fields are filled out before hitting submit.
-</thinking>
-
 # Art Gallery Membership Tier Application - Help Guide
 ## Purpose
 

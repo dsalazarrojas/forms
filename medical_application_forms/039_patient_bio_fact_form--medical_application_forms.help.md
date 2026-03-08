@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? This form is intended to collect basic demographic information about a patient, including their name, contact details, and medical ID number. The form is likely used for administrative or medical record-keeping purposes. Is the patient a new or existing patient? Are there any specific medical conditions or allergies that the patient may have? Is there a specific medical staff member responsible for reviewing and completing this form? These questions can help clarify the form's purpose and guide the user's input.</thinking>
-
 # patient_bio_fact_form - Help Guide
 ## Purpose
 The patient bio fact form is used to collect basic demographic information from patients.

@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to collect information about individuals' knee pain experiences, including the location, intensity, duration, frequency, and impact of knee pain, as well as their current treatments and preferences for future treatment. This form will help identify trends and patterns in knee pain experiences, which can inform the development of effective treatment options.</thinking>
-
 # Knee Pain Treatment Options Survey - Help Guide
 
 ## Purpose

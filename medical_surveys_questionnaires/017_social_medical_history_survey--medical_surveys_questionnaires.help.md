@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Medical History Survey - Help Guide
 ## Purpose
 The Social Medical History Survey is a form designed to collect information about a patient's medical history, medical conditions, and other relevant medical information. This information is used to create a comprehensive medical profile for the patient, which can help healthcare providers make informed decisions about their care.

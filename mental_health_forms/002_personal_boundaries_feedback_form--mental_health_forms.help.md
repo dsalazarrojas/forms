@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive assessment tool designed to evaluate an individual's perceptions of their workplace environment, relationships, and overall well-being. It is intended to help individuals identify areas where they feel safe or threatened, respected or disrespected, and where they may need support or resources to maintain healthy boundaries. By providing detailed feedback on various aspects of the work environment, this form aims to promote a culture of empathy, respect, and open communication, ultimately contributing to a more positive and productive work experience.
-</thinking>
-
 # Personal Boundaries Feedback Form - Help Guide
 ## Purpose
 The Personal Boundaries Feedback Form is a tool designed to assess an individual's perceptions of their workplace environment, relationships, and overall well-being. It helps identify areas where individuals feel safe or threatened, respected or disrespected, and where they may need support or resources to maintain healthy boundaries.

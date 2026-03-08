@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to collect relevant information for the ICU Discharge Form, which is a critical part of the patient's care journey. The purpose of this form is to gather essential details about the patient's status, medical condition, and discharge information. This information will help healthcare professionals provide comprehensive care and ensure a smooth transition for the patient upon discharge. Before proceeding, please ensure that you have reviewed and understand the form's purpose and content.
-
-The following help guide will walk you through the form's fields, providing a clear explanation of each field and its purpose.
-
-</thinking>
-
 # ICU Discharge Form - Help Guide
 ## Purpose
 The ICU Discharge Form is a critical document that captures essential information about a patient's status during their ICU stay. This information helps healthcare professionals make informed decisions and provide effective care.

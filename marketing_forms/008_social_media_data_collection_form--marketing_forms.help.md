@@ -1,9 +1,3 @@
-<thinking>
-We should only include this form on our website for social media platforms we are not already represented on. 
-This form will allow our team to get the necessary information for our next steps. 
-Please only fill it out if we don't already have your data, and you're a current or past employee of our company or an affiliate of our organization.
-</thinking>
-
 # Social Media Data Collection Form - Help Guide
 ## Purpose
 This form is for our internal team to collect information about your social media presence. 

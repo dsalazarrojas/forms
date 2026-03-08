@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Technology Innovation Showcase Consent Form - Help Guide
 
 ## Purpose

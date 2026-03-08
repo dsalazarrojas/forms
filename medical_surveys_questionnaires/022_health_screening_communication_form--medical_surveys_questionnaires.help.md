@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by medical professionals to collect information about a patient's screening status, vaccination status, and other relevant details after a screening process. The form might be used for record-keeping, communication, or follow-up purposes within a healthcare setting.
-</thinking>
-
 # Health Screening Communication Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's screening status, vaccination status, and other relevant details after a screening process. It is intended for use by medical professionals to facilitate communication and record-keeping within a healthcare setting.

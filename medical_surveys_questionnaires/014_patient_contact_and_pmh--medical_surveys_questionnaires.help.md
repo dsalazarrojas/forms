@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect patient contact information and history of prior medical conditions (PMH). It's intended for clinical staff to gather details about a patient's medical background and contact preferences. The form can be filled out by patients or their representatives.
-Please ensure this is not a duplicate form, and you are not completing this form for a test or demonstration purpose. If unsure, please contact [Your Support Contact]
-</thinking>
-
 # Patient Contact And PMH - Help Guide
 ## Purpose
 This form collects patient contact information and history of prior medical conditions (PMH). It's intended for clinical staff to gather details about a patient's medical background and contact preferences.

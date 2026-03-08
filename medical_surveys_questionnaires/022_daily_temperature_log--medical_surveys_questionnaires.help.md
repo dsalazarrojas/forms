@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a daily log for healthcare professionals to record patients' temperatures. It's likely used in hospitals, clinics, or medical offices to keep track of a patient's temperature readings over time. 
-The form's purpose is to gather information on patient temperature, recorded date and time, temperature units, patient details, medical specialty involved, and staff member(s) responsible for the recording. 
-Before we begin, please note that some fields are not required, but it's essential to fill in all relevant fields for accurate and comprehensive patient data. 
-This guide will walk you through each field and its purpose to ensure you can efficiently complete the form.
-</thinking>
-
 # Daily Temperature Log - Help Guide
 ## Purpose
 The Daily Temperature Log is a form designed to record a patient's temperature readings, along with other relevant details.

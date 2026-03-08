@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Health Monitoring Alarm Setup" form, which helps you set up alarm settings for health monitoring. The form is used to configure alarm frequencies, types, threshold values, and notification settings for health monitoring systems.
-This form is only accessible to authorized personnel in the healthcare industry. Please ensure you have the required permissions to access this form.
-</thinking>
 # Health Monitoring Alarm Setup - Help Guide
 ## Purpose
 

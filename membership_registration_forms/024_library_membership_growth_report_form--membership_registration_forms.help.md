@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for the Library Membership Growth Report, which is used to monitor and analyze the growth of the library's membership over time. This report can be used to identify trends and patterns in membership growth, which can inform the library's marketing and outreach efforts. It's essential to ensure that the data collected is accurate and comprehensive to make informed decisions about the library's services and programs.
-
-Before starting to complete the form, please check that you're not duplicating any previous reports, as this can lead to inaccurate data and unnecessary work.
-
-To complete this form, follow these steps:
-
-1. Select the relevant report period from the "Select a Date" field.
-2. Enter the number of library members as of the selected date in the "Number of Members" field.
-3. Choose the membership status (Active, Inactive, or Unknown) for the library's members.
-4. Enter the date when the members joined the library in the "Date Joined" field.
-
-The following fields are used to collect specific data points:
-</thinking>
-
 # Library Membership Growth Report Form - Help Guide
 ## Purpose
 The Library Membership Growth Report Form is used to collect data for the library's membership growth report, which can inform the library's marketing and outreach efforts.

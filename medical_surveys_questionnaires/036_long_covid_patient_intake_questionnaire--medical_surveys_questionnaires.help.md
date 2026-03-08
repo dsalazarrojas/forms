@@ -1,8 +1,3 @@
-<thinking>
-Please note that the form purpose is to gather information from patients regarding their Long COVID experience, specifically regarding symptoms experienced and the impact of these symptoms on their daily lives. It's essential to understand the relationship between these symptoms and the patient's overall condition. This form should not be used to replace a medical diagnosis or treatment, but rather as a tool to help healthcare providers better understand the patient's situation and provide more targeted care.
-Please ensure that the data collected through this form is accurate and up-to-date to avoid duplication and misrepresentation.
-</thinking>
-
 # Long COVID Patient Intake Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their experiences with Long COVID. It helps healthcare providers better understand the symptoms and impact of Long COVID on patients' daily lives.

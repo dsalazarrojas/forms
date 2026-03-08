@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information on a patient's medical condition, history, deployment eligibility, and medical clearance. The goal is to gather relevant details to assess their suitability for certain procedures or activities. This form should only be filled out by patients who are seeking medical clearance for such procedures or activities. Please ensure that you only complete this form if it is relevant to your current situation.
-</thinking>
-
 # physical_clearance_form - Help Guide
 ## Purpose
 The physical_clearance_form is used to collect information on a patient's medical condition, history, deployment eligibility, and medical clearance.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from members who are leaving the organization. The purpose of this form is to understand the reasons behind a member's decision to exit and to gather feedback that can be used to improve the services provided. This form should only be filled out by members who are actually leaving the organization, as it is intended to be a survey for outgoing members.
-
-To ensure accurate and relevant responses, please only fill out this form if you are currently a member and are leaving the organization. If you are filling out this form, it means you are intentionally leaving the organization and are providing feedback on your experience.
-
-Note to the developers: Please ensure that this form is only accessible to members who are actually leaving the organization, and that the survey is only shown to relevant users.
-</thinking>
-
 # Membership Exit Survey - Help Guide
 ## Purpose
 The Membership Exit Survey is a form designed to gather feedback from members who are leaving the organization. This information will help us understand the reasons behind a member's decision to exit and identify areas for improvement in our services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Request Form - Help Guide
 
 ## Purpose

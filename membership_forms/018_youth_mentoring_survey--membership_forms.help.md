@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect feedback and insights from participants in a youth mentoring program. It's intended to gauge the effectiveness and satisfaction of the program, gather data on participant engagement and outcomes, and identify areas for improvement. Before filling out this form, please ensure that you have not already provided feedback on this program, as duplication of feedback may be unnecessary and redundant. This form is divided into sections covering contact information, participant details, program specifics, and evaluation questions. Please answer the questions to the best of your ability, and be as detailed as possible in your responses.</thinking>
-
 # Youth Mentoring Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback and insights from participants in a youth mentoring program.

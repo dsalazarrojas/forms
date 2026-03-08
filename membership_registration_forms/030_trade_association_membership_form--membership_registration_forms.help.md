@@ -1,8 +1,3 @@
-<thinking>
-We're designing a form to guide users through the process of registering for a Trade Association membership. The form is designed to gather information from potential members about their interest in joining the association, how they found out about the association, their contact preferences, and membership plan selection. The association aims to collect this information to better understand its audience and tailor its services and communication accordingly. This form will help the association's administrators to efficiently manage the registration process and provide a smooth experience for new members. 
-The form will be used by individuals interested in becoming a member of the Trade Association, and the information collected will be used for internal purposes only. It is not intended for any other use.
-</thinking>
-
 # Trade Association Membership Form - Help Guide
 ## Purpose
 The Trade Association Membership Form is designed to gather information from potential members about their interest in joining the association, their contact preferences, and membership plan selection.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather product evaluation data from customers or employees. The goal of this form is to collect feedback on a new product, its launch status, and the target audience. This form will be used to assess the product's performance and identify areas for improvement.
-The form will ask the user to select the type of product, its launch status, and the audience it is targeted towards. It will also ask for a brief description of the product, the name, and the target audience. Additionally, the user will be asked to select the rating and provide comments on the product's performance.
-The form's fields are designed to be as clear and concise as possible to ensure accurate and efficient data collection.
-</thinking>
-
 # new_product_evaluation - Help Guide
 ## Purpose
 This form is designed to gather product evaluation data from customers or employees to assess the performance of a new product and identify areas for improvement.

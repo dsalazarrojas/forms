@@ -1,9 +1,3 @@
-<thinking>...The purpose of this form is to collect information from clients about their allergies, medical conditions, and consent for treatment. This form ensures that the beauty salon is aware of any potential risks and can take necessary precautions to ensure a safe and successful treatment experience for the client. It is a requirement for all clients to complete this form before receiving any services at the salon. This form should be completed carefully and honestly to avoid any potential risks or complications.
-
-After ensuring that the form is completed accurately and in full, the client will be able to proceed with their chosen treatment. Note that the salon may request to see a doctor's note or other medical documentation before starting the treatment in some cases. This is to further ensure the safety and well-being of the client.
-
-Before proceeding to the next question, make sure to complete this form carefully and accurately. If you are unsure about any of the questions, please ask your beauty therapist for guidance.</thinking>
-
 # Beauty Salon Allergy Waiver Form - Help Guide
 ## Purpose
 The Beauty Salon Allergy Waiver Form is a required document that must be completed by all clients before receiving any services at the salon. It collects information about the client's allergies, medical conditions, and consent for treatment.

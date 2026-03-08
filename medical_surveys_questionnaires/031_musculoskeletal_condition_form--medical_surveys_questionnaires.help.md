@@ -1,5 +1,3 @@
-<thinking>By analyzing the provided YAML, this form appears to be designed for collecting information related to musculoskeletal conditions, specifically focusing on the experience of pain, stiffness, or limited movement in various body regions such as the neck, back, arm, and hand. This form is likely used in a medical or health-related context to gather data for diagnosis, treatment, or patient care. Please ensure that the form is relevant and not a duplication of existing forms in your collection.</thinking>
-
 # Musculoskeletal Condition Form - Help Guide
 ## Purpose
 The Musculoskeletal Condition Form is designed to collect information about the musculoskeletal system, which includes the muscles, bones, and associated tissues of the body. This form aims to gather data about pain, stiffness, or limited movement in different areas of the body to aid in medical diagnosis or treatment.

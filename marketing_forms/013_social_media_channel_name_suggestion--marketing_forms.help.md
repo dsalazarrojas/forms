@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about social media channels. It has several pages, each with multiple fields that ask for different details. The form is likely used by marketing teams to create or manage social media profiles. It's not entirely clear what the exact process is for, but it seems like it's for suggesting names for social media channels, which might be used for branding or marketing purposes.
-</thinking>
-
 # social_media_channel_name_suggestion - Help Guide
 ## Purpose
 This form is used to suggest names for social media channels.

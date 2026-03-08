@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to elicit feedback from users about the usability of medical devices. This is an internal form, and its purpose is to gather user feedback to improve future design of medical devices. This form is intended to be filled out by users who have experience with a medical device, either as a patient, healthcare provider, or other user. 
-</thinking>
-
 # Medical Device Usability Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about the usability of medical devices from users who have experience with them. Your input is important in helping us improve the design of these devices for better patient outcomes.

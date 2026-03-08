@@ -1,14 +1,3 @@
-<thinking> 
-This form is for researchers who wish to participate in the Precision Nutrition Research Initiative, a program aimed at promoting cutting-edge research in nutrition and related fields. The form will be used to gather information about the research projects, researchers, and other relevant details. 
-
-Before filling out this form, please ensure that you have all the necessary information and approvals required for your research. This form will help the research team to review your application and consider it for further consideration. 
-
-To avoid any potential errors or miscommunications, please carefully review each field below and ensure that you provide accurate and truthful information. 
-
-Please note that this form is not for personal or commercial use. It's a professional research application form, designed to gather and review information for academic and research purposes only. 
-
-Please fill out this form completely and accurately, and do not reuse or duplicate any existing applications. 
-</thinking>
 # Precision Nutrition Research Initiative Application Form - Help Guide
 ## Purpose
 The Precision Nutrition Research Initiative Application Form is a tool used to gather information about researchers and their projects. It will help the research team to review and consider your application for further consideration in the Precision Nutrition Research Initiative.

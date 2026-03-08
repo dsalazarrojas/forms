@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a patient's rehabilitation progress and goals. This form helps healthcare professionals assess the patient's overall progress, neurological status, and other relevant factors. It's essential to complete the form accurately and thoroughly to ensure the best possible treatment outcomes. Please ensure that you don't submit the form multiple times for the same patient, as this may lead to data duplication. If you are not sure which patient to select from the list, please ask your healthcare provider for guidance.
-</thinking>
-
 # neuro_rehabilitation_assessment_form - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's rehabilitation progress and goals, enabling healthcare professionals to assess their overall well-being and provide personalized treatment.

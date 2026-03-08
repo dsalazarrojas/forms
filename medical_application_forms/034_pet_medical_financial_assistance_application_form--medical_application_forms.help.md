@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from pet owners regarding their pet's medical information, owner contact details, and other related financial information for medical assistance. 
-This form will help to prevent duplication or incorrect submissions by ensuring the pet and owner information is accurate.
-</thinking>
 # pet_medical_financial_assistance_application_form - Help Guide
 ## Purpose
 The pet medical financial assistance application form is designed to collect necessary information for pet owners to seek financial assistance for their pet's medical needs. This form aims to gather vital details about the pet, owner, and medical information to process the application efficiently.

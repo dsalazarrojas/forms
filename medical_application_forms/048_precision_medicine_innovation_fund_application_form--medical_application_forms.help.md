@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to submit applications to the Precision Medicine Innovation Fund. The form is designed to gather necessary information to evaluate and potentially fund innovative projects related to precision medicine. Before proceeding, ensure you have a clear understanding of the project you are applying for and the required fields. This form should not be used for other purposes. Please fill out the form carefully and accurately, and only once per project.
-</thinking>
-
 # Precision Medicine Innovation Fund Application Form - Help Guide
 ## Purpose
 The Precision Medicine Innovation Fund provides funding for innovative projects that leverage precision medicine approaches to improve human health. This form is used to submit applications for funding.

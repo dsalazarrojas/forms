@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect insights on social media advertising performance and audience engagement from end-users. 
-The purpose of this form is to gather information from the end-users about their experience and needs with our company's social media advertising products. This will help our internal team better understand what insights our customers are looking for, allowing us to provide more effective support and services. 
-</thinking>
-
 # social_media_insights_request_form - Help Guide
 ## Purpose
 This form is used to request insights on social media advertising performance and audience engagement from our team. Please fill out the form to provide us with your company information and specific insights you are looking for.

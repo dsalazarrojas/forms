@@ -1,13 +1,3 @@
-<thinking>
-The Cardiology Consultation Form is a crucial tool for healthcare professionals to gather essential information about patients before their consultation. This form is designed to ensure that all necessary details are captured to provide the best possible care and treatment. It's essential to complete this form accurately and thoroughly to avoid duplication of effort and ensure continuity of care.
-
-Before proceeding, please check that:
-- This form is not already open for another patient with a similar medical history.
-- You have the patient's informed consent to complete this form.
-
-If you're ready to proceed, let's move on to completing the form.
-</thinking>
-
 # Cardiology Consultation Form - Help Guide
 
 ## Purpose

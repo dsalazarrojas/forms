@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assess an individual's risk for blood sugar issues, which is a common health concern that can lead to various complications if left unaddressed. The form is intended for individuals who are at risk or want to assess their risk for blood sugar issues.
-
-This form has multiple fields that ask about an individual's medical history, lifestyle habits, and health conditions. The purpose of this form is to gather information to identify potential risks and provide recommendations for maintaining a healthy lifestyle or consulting a healthcare provider for further evaluation.
-
-The form is divided into sections that cover the following topics:
-* Demographic information (name, date of birth)
-* Physical characteristics (height, weight)
-* Medical history (family history of diabetes, previous high blood sugar reading)
-* Lifestyle habits (physical activity, diet quality, sugary drink consumption, processed food intake, sleep quality, stress level)
-* Medical conditions (high blood pressure, high cholesterol, smoking status)
-* Additional information (current medications, other medical conditions)
-
-Please review each field carefully and answer truthfully to obtain an accurate risk assessment.</thinking>
-
 # Blood Sugar Risk Assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's risk for blood sugar issues. It's essential to complete this form carefully and truthfully to get an accurate assessment.

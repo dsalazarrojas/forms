@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose of the Hi Fi Music Service Membership Form and how to complete it. The form will be used to collect basic information, membership details, address information, and membership status. The purpose is to onboard new users and gather necessary information for account management and services.
-
-The form will not be used for any other purposes, and it is a one-time form that users need to fill out only once. To ensure accuracy, it is recommended to fill out the form carefully and make sure all required fields are filled out completely.
-
-Before filling out the form, make sure to understand what each field is asking for. If you're unsure about any field, please ask for clarification.
-
-Please review the form carefully before starting the form, and if you have any questions, you can contact us for assistance.
-</thinking>
-
 # Hi Fi Music Service Membership Form - Help Guide
 ## Purpose
 The Hi Fi Music Service Membership Form is a one-time form designed to onboard new users and gather necessary information for account management and services. This form is not intended for any other purposes and should be filled out carefully to ensure accuracy.

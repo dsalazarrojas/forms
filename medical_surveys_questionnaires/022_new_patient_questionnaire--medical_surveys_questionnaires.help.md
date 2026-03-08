@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about new patients, including their medical history, allergies, medications, medical conditions, and contact information. The form aims to provide a comprehensive overview of the patient's situation, which can be used for further medical evaluation and treatment. This form should only be completed by the patient or their authorized representative, and it is not a replacement for an in-person consultation with a medical professional.
-
-Please note that this form is intended for new patients only. If you have already completed this form, you do not need to do so again. Completing the same form multiple times will not cause any adverse effects, but it will likely lead to redundant information being stored.
-
-</thinking>
-
 # new_patient_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about new patients, including their medical history, allergies, medications, medical conditions, and contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Club Registration Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's digital health literacy, which refers to their ability to access and effectively use digital health information to make informed decisions about their health and well-being. This form is used to gather self-reported data from individuals to help understand their experiences and perceptions related to digital health resources and tools.
-
-Before creating this guide, I have checked the provided YAML file and it appears to be a comprehensive list of questions that aim to assess digital health literacy. I have identified 26 questions that cover various aspects of digital health, including internet use, perception of digital health benefits, demographic information, and more. However, I did not find any obvious duplication or inconsistencies in the questions.
-
-This guide will provide clear instructions on how to complete the form, explaining each question and field in a concise and practical manner.
-
-</thinking>
-
 # Digital Health Literacy Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for members to register and indicate their ministry interests and availability. It is essential to complete this form accurately, as the information collected will be used to align members with their suitable serving opportunities. Please note that some fields are required, and failing to complete them may result in errors or issues with processing the registration. Ensure that you have all necessary information before starting the form. This form is a one-time registration process for members, and it is not intended for repeated use.
-</thinking>
-
 # Member Registration And Ministry Alignment - Help Guide
 ## Purpose
 This form is used for members to register and align their interests and availability with their serving opportunities within the organization.

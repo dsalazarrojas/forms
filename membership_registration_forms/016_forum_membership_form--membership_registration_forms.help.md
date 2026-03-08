@@ -1,8 +1,3 @@
-<thinking> 
-This form is for users to register for forum membership. Users must complete the form with their details to sign up for membership. This form is only for new members and existing members who need to make changes to their membership status. Please do not attempt to fill out this form if you are not trying to register for or make changes to your forum membership. The following guide will walk you through how to complete the form correctly. 
-
-</thinking>
- 
 # Forum Membership Form - Help Guide
 ## Purpose
 The Forum Membership Form is used to sign up for or make changes to forum membership. Fill out the form with your details to become a registered member or update your membership status.

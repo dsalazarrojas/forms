@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_survey - Help Guide
 ## Purpose
 The mental health survey is designed to gather information about your mental well-being and help identify potential areas of concern. It is intended for self-assessment and is not a substitute for professional medical advice. Please answer the questions honestly, and if you have any concerns, consider sharing this information with a mental health professional.

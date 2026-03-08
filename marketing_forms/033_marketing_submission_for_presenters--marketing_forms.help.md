@@ -1,5 +1,3 @@
-<thinking>As a marketer, you likely understand the importance of submitting information for presentations in a clear and structured way. The "marketing_submission_for_presenters" form is designed to provide a comprehensive framework for submitting presentation information in a format that is both efficient and effective. Before proceeding, please note that this form is an AI-generated adaptation of a public survey, and you are free to use, modify, and share it as you see fit, provided you give credit to the original creators.</thinking>
-
 # marketing_submission_for_presenters - Help Guide
 ## Purpose
 The "marketing_submission_for_presenters" form is intended to help presenters submit their presentation information in a standardized manner, making it easier for event organizers and coordinators to collect and manage submissions. This form guides you through the necessary fields to provide a complete and organized presentation submission.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Device Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about the performance, usability, and safety of medical devices. It is intended to be used by healthcare professionals to provide insight into the effectiveness and safety of various medical devices, including their usability and performance. This survey will help us identify areas of improvement for the devices and make informed decisions to enhance patient care and safety.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brand Partnership Media Consent Form - Help Guide
 ## Purpose
 The Brand Partnership Media Consent Form is designed to obtain permission from potential partners to use their brand assets and share their story with our audience. This form is crucial for our marketing and partnership development team to ensure we respect their boundaries and comply with their requirements while promoting their brand.

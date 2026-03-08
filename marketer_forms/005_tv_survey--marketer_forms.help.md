@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "tv_survey" form, I will analyze the form schema and provide a clear explanation of its purpose, how to complete it, and each field's meaning.
-
-The form's purpose is to gather information from users about TV experts, network executives, TV producers, ratings, and other related aspects. This form seems to be used for research or data collection purposes.
-
-Before we proceed, I'd like to ensure that this form doesn't duplicate any other form, and it's being used for the intended purpose. Assuming it's unique and relevant, let's create the help guide.
-
-</thinking>
-
 # tv_survey - Help Guide
 ## Purpose
 The "tv_survey" form is designed to collect information from users about TV experts, network executives, TV producers, and ratings. The gathered data will be used for research or data collection purposes.

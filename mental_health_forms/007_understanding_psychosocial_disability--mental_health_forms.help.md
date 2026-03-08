@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## understanding-psychosocial-disability - Help Guide
 
 ### Purpose

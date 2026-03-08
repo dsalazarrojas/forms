@@ -1,14 +1,3 @@
-<thinking>
-To ensure the form is used correctly, let's review the fields and form purpose:
-
-The form, called "vsl_questionnaire_template", is likely designed to collect various information from users. It appears to be a questionnaire template for gathering data related to an offer, product, or service. The form contains fields for personal details (name, email), demographics (date, time), and feedback (note, select_one, select_multiple). Some fields are repeated, which could indicate that the form is meant for multiple use cases or to provide a more comprehensive feedback mechanism.
-
-Considering the form fields, it seems the form is not strictly a form for personal data collection, as some fields like email and phone are optional. The repeated fields, like select_one and select_multiple, suggest that the form is designed to collect feedback on various aspects of the offer, product, or service.
-
-To avoid non-duplication, we'll focus on unique fields and provide guidance on how to complete the form correctly.
-
-</thinking>
-
 # vsl_questionnaire_template - Help Guide
 ## Purpose
 

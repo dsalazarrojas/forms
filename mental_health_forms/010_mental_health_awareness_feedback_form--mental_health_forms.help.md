@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from patients about their mental health experience. This form should only be used for new, unique feedback submissions. Please do not submit this form if you have already provided feedback in the past. 
-</thinking>
-
 # Mental Health Awareness Feedback Form - Help Guide
 ## Purpose
 The Mental Health Awareness Feedback Form is designed to collect feedback from patients about their mental health experience. This form helps us understand how we can improve our services and provide better care for our patients.

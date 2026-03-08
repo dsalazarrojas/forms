@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information regarding mental health referrals from patients. The goal is to gather details about the patient's mental health status, referrals made, and the current status of the referral process. This form is used by the mental health team to track and manage mental health referrals.
-
-The form has several sections with various fields, including referral details, patient information, and referral status. To ensure accurate and complete data collection, it's crucial to fill out each field as accurately and thoroughly as possible.
-
-Before proceeding, please note that the form is divided into several sections, and each section has specific fields with explanations. This guide will walk you through each field and explain its purpose and relevance in the referral process.
-
-</thinking>
-
 # mental_health_team - Help Guide
 ## Purpose
 This form is designed to collect information regarding mental health referrals from patients.

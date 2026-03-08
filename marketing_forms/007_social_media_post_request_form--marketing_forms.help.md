@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request social media posts from coworkers, which can help to create engaging content for social media marketing campaigns. Before filling out this form, please note that you are about to create a new social media post request, which will help us to create a social media post based on the information provided. To ensure that you are not duplicating an existing post request, please check the social media post request ID if you already have one available.
-</thinking>
-
 # Social Media Post Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for a social media post that will be created based on the information provided. It will help our marketing team to create a relevant and engaging social media post for our social media marketing campaigns.

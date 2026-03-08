@@ -1,13 +1,3 @@
-<thinking>
-
-We will be designing a user-facing help guide for a Car Club Registration Form. This form is designed to collect information from potential members of a car club about their personal and vehicle details. The form aims to gather data that will help the club manage its membership and provide a tailored experience for its members. 
-
-The form is structured into two main sections: Member Details and Vehicle Details. Member Details will ask for personal info such as name, contact information, and membership preferences. Vehicle Details will inquire about the vehicle's make, model, year, and modifications. 
-
-Before proceeding, users should carefully review the form fields and their corresponding labels for any required or optional inputs. This guide will provide a clear understanding of each field's purpose and how to complete the form accurately and efficiently.
-
-</thinking>
-
 # Car Club Registration Form - Help Guide
 ## Purpose
 

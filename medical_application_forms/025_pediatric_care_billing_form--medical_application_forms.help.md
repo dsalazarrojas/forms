@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for healthcare providers to bill for pediatric care services. It is intended for use by medical professionals to document and process billing information for patients under the age of 18. The form should only be used for billing purposes and not for patient medical record keeping. Please ensure that the form is filled out accurately and completely, and that any errors are corrected before submission. This form is not intended for use in emergency situations and should only be used during non-emergency billing situations. Please review the fields and instructions carefully to ensure accurate and complete submission.
-
-</thinking>
-
 # Pediatric Care Billing Form - Help Guide
 ## Purpose
 The Pediatric Care Billing Form is designed to collect billing information for pediatric care services provided to patients under the age of 18. This form should be used to document and process billing information for non-emergency situations.

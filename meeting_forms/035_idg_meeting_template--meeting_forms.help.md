@@ -1,14 +1,3 @@
-<thinking>
-This form is used to schedule meetings with facilities. 
-It is meant to be used for scheduling meetings between staff members, vendors, or other facilities. 
-This form is only to be used by authorized personnel to schedule meetings with facilities. 
-Please ensure that the information provided is accurate and up-to-date to avoid scheduling conflicts. 
-Please note that this form is a template and should not be used for meetings that are not related to facility management. 
-Ensure to review the meeting schedule before proceeding. 
-This form is used in conjunction with other internal tools for meeting planning and management.
-
-</thinking>
-
 # idg_meeting_template - Help Guide
 ## Purpose
 The idg_meeting_template form is designed to help authorized personnel schedule meetings with facilities. It collects relevant information for meeting scheduling, goal definition, and action items.

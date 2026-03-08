@@ -1,7 +1,3 @@
-<thinking>
-The Client Intake Questionnaire is designed to collect information about patients' demographics, medical history, and emergency contact details. This form is intended to be used in a clinical or healthcare setting to ensure that patients' medical information is accurate, up-to-date, and consistent. The goal of this form is to gather comprehensive patient data that will aid in providing personalized care and services. Before completing this form, please note that it is intended for one patient at a time.
-</thinking>
-
 # Client Intake Questionnaire - Help Guide
 ## Purpose
 The Client Intake Questionnaire is a crucial tool for healthcare providers to collect and document patient information. It is used to gather essential details about patients' demographics, medical history, and emergency contact information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals report and share their experiences with specific health challenges. The goal is to collect information from respondents about the health challenges they are currently facing. The purpose of this form is to collect data that can help healthcare professionals understand the prevalence of certain health challenges, their impact, and how to provide better support to those affected.
-</thinking>
-
 # Health Challenges Survey - Help Guide
 ## Purpose
 The Health Challenges Survey is designed to collect information from individuals about their current health challenges. This data will help healthcare professionals understand the prevalence of specific health challenges, their impact, and how to provide better support to those affected.

@@ -1,5 +1,3 @@
-<thinking>As a caregiver, your role is crucial in providing support and care to your loved ones, which can be a challenging and demanding responsibility. This form aims to help us understand your perception of the strain you experience in your caregiving role. Please take a few minutes to answer the questions honestly. Your responses will help us better understand your needs and provide support where needed. If you have already completed this form, please do not worry - you can skip this guide. Your answers will be treated confidentially and will not affect any existing support or resources you may be receiving. Thank you for your time and honesty!</thinking>
-
 # Caregiver Role Strain Perception Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting custom flyers, brochures, or posters for various marketing purposes. The form requires information on the form type, location, and other essential details to create the desired marketing material. The purpose of this form is to gather the necessary information from the customer to create a high-quality custom flyer, brochure, or poster. 
-</thinking>
-
 # Custom Flyer Request Form - Help Guide
 ## Purpose
 This form is designed to gather information for creating custom flyers, brochures, or posters for marketing purposes. Please fill out the form with your requirements to create high-quality marketing materials.

@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form, "square_charity_donation_form", is to collect information for charitable donations made on the Square platform. This form is used to process donations, and its fields are designed to gather essential details to facilitate smooth and secure transactions. When filling out this form, ensure that all required fields are completed accurately to ensure the correct processing of the donation.
-
-When creating this form, we've considered the following best practices:
-- The form's layout and organization make it easy to understand and fill out.
-- Each field is described in detail to minimize errors and confusion.
-- The form's fields are optional or required based on their importance for the donation process.
-
-Before proceeding, please review the form's fields and instructions carefully to ensure you're completing it correctly.
-
-</thinking>
-
 # square_charity_donation_form - Help Guide
 ## Purpose
 The square_charity_donation_form is used to collect information for charitable donations made on the Square platform. This form gathers essential details to process donations accurately and securely.

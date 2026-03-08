@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplemental Health Questionnaire - Help Guide
 ## Purpose
 The **Supplemental Health Questionnaire** is designed to gather essential information about a patient's health status, travel history, and medical conditions to aid healthcare professionals in assessing and managing patient care. This form is typically used for patients who require attention from medical staff, such as those with recent travel history, symptoms, or medical conditions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Breast Imaging History Survey - Help Guide
 ## Purpose
 This form is designed to gather essential information about a patient's breast imaging history for the purpose of providing accurate and effective breast imaging examinations. The survey helps us understand your medical background, previous breast experiences, and any relevant health conditions. Please take a few minutes to answer these questions honestly and thoroughly.

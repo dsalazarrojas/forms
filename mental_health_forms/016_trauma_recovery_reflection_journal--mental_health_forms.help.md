@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to be a useful resource for users who complete the Trauma Recovery Reflection Journal form. Before we begin, let's consider that the form's purpose is to facilitate users' reflection on their trauma recovery progress, gathering valuable insights into their mental state and coping strategies. We will be looking for any duplicates or irrelevant submissions to ensure that users' data is not compromised. This guide will cover the form's purpose, how to complete it, and an in-depth explanation of each field.</thinking>
-
 # Trauma Recovery Reflection Journal - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>This form is designed to collect feedback from customers after their visit to a business or service provider. To determine if this form is relevant to your situation, please consider the following questions:
-
-* Are you a customer who has recently visited a business or service provider?
-* Do you have feedback or comments to share about your experience?
-* Are you willing to provide ratings and ratings values to help us improve our service?
-
-If you answered "yes" to these questions, this form is likely relevant to you. However, if you're not a customer or don't have feedback to share, please don't fill out this form.
-
-To avoid duplication of effort, please note that this form is designed for one-time feedback. If you have already filled out this form recently, you may want to review the information you provided and update it if necessary.</thinking>
-
 # Customer Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers after their visit to a business or service provider. It helps us understand your experience and identify areas for improvement.

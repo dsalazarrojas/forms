@@ -1,12 +1,3 @@
-<thinking>
-The Labor Union Membership Intake Form is used to collect information about a member's work history and union employment status. This form is typically used by union administrators or membership committees to gather data on a member's work experience, union type, and employment status. The form is usually completed by the member themselves, and the information collected will be used to update the union's records and membership database.
-
-Before filling out this form, please ensure that you have all necessary information and documents ready, such as your work history, union type, and employment status. It's also a good idea to review the form carefully to ensure you're providing accurate information.
-
-Please note that this form is not a registration form for membership. If you're interested in joining the union, you should contact the union office for more information on the membership process.
-
-</thinking>
-
 # Labor Union Membership Intake Form - Help Guide
 ## Purpose
 The Labor Union Membership Intake Form is used to collect information about a member's work history and union employment status.

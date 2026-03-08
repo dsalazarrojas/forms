@@ -1,11 +1,3 @@
-<thinking> 
-  To determine the form's purpose, let's first analyze the form's fields. The form appears to be designed for creating or managing events. It has fields for event name, date, location, description, and other relevant details. The required fields are "tags", "assignee", "submit", and "terms". These fields suggest that the form is used for assigning events to specific teams or individuals and getting their approval.
-  The form also has fields for notes, comments, and file uploads, which might be used for additional event information or attachments.
-  To confirm, let's check the form's title: "Event Programming Form". This title further supports the conclusion that the form is related to event programming.
-  The form's structure and fields seem to be consistent with a process for creating or managing events, likely for a project or team.
-  Considering the form's purpose and fields, it's possible that this form is used by event organizers or managers to create, assign, and track events.
-  To ensure this form meets the team's needs and to prevent duplication, a review of existing forms or processes might be necessary.</thinking>
-
 # Event Programming Form - Help Guide
 
 ## Purpose

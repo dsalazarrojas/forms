@@ -1,7 +1,3 @@
-<thinking>
-This form is used for project managers to estimate the effort required for a project. The form is used to gather information about a project's scope, complexity, and resources needed to complete it. This form is likely to be used by project managers to communicate with team members, stakeholders, and clients to ensure that everyone is on the same page about the project's requirements and timeline. This form is not likely to be used for internal projects, and it's likely to be used for projects that require collaboration with external partners or vendors. Therefore, it's essential to fill this form accurately and completely to ensure that all stakeholders have a clear understanding of the project's requirements.
-</thinking>
-
 # Effort Estimation Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers to send them free samples or products. The purpose of this form is to gather contact and product preferences to ensure that the customer receives relevant information and offers. The form should only be filled out once per customer to avoid duplication of efforts and maintain accurate records. If the customer has already been sent a free sample or product in the past, please do not fill out this form.
-</thinking>
-
 # Send Free Sample Form - Help Guide
 ## Purpose
 This form is used to collect information from customers to send them free samples or products.

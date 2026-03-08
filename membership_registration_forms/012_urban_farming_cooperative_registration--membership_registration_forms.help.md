@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for individuals interested in joining an urban farming cooperative. The form is designed to collect basic contact information and interests of the potential member. The purpose of this form is to gather data that will be used to create a member directory and to tailor services and information to the interests of the members. This form is not intended for internal use within the organization, but rather for external use by the members. This form will be used to collect data from multiple users, so there is no need for internal duplication checks. The form is designed to be simple and easy to use.
-</thinking>
-
 # Urban Farming Cooperative Registration - Help Guide
 ## Purpose
 The Urban Farming Cooperative Registration form is a simple, multiple-page form designed to collect contact information and interests from potential members of the urban farming cooperative. The form is intended to be user-friendly and easy to complete.

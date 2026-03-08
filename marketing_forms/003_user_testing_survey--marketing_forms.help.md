@@ -1,6 +1,3 @@
-<thinking>
-**Internal note: This form is designed to collect user feedback and ratings to improve the product and services offered by the company. This form will help us understand user perceptions and experiences, which will guide us in making data-driven decisions to enhance our products and services. Before filling out this form, please ensure that you have not already submitted feedback on this topic to avoid duplication. If you have any questions or concerns, please don't hesitate to contact us.</thinking>
-
 # User Testing Survey - Help Guide
 ## Purpose
 The User Testing Survey form is designed to collect your honest feedback and ratings on our products and services. Your responses will help us understand what we do well and where we can improve.

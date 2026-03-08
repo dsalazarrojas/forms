@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to evaluate individual mental skills in five different areas: self-motivation, building confidence, individual visualization, faith, and dealing with difficult situations. The form is designed to be a general assessment tool for evaluating an individual's mental skills and providing insights into their strengths and weaknesses.
-</thinking>
-
 # Mental Skills Evaluation Form - Help Guide
 ## Purpose
 This form is intended to help assess an individual's mental skills in various areas, allowing for a comprehensive understanding of their mental fitness.

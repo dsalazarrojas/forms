@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Farm Gift Referral Form - Help Guide
 ## Purpose
 This form is designed to help you refer a friend or family member to our farm and potentially receive a reward in return. Please fill out this form accurately and honestly, as it will be used to verify the authenticity of your referral.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Mental Health Check Form - Help Guide
 ## Purpose
 The Student Mental Health Check Form is a tool used to assess a student's mental health and well-being. It is designed to gather information from school psychologists, teachers, and parents to understand a student's current mental health status, identify potential concerns, and provide targeted support.

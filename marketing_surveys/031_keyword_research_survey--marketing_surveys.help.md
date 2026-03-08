@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Keyword Research Survey - Help Guide
 ## Purpose
 The Keyword Research Survey is designed to gather information about your habits, preferences, and experiences with keyword research. This survey will help us understand how you use keyword research tools, what challenges you face, and how you implement keyword ideas in your work.

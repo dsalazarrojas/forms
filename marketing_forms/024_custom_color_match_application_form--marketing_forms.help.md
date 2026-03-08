@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a custom form designed for a specific industry or category, possibly related to color matching or customization. The form is divided into five sections, each asking for different types of information from the user. The purpose of this form seems to be to gather data from customers or users regarding their preferences and information. The form does not specify if it's for B2B or B2C (business-to-business or business-to-customer) use case, so it's possible it's for both. Given the fields, it might be used for marketing purposes or to collect feedback from customers.
-</thinking>
-
 # custom_color_match_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers or users regarding their preferences and details. The goal is to gather accurate and relevant data to match colors or provide customized services.

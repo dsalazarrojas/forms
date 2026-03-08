@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to conduct a merchandising strategies audit, which is an assessment of a store's performance and potential. 
-The form will help to gather information about the store location, store manager, audit period, and various aspects of the store's performance. 
-The purpose of this form is to ensure that the store is performing well and identify areas for improvement. 
-It's a crucial tool for store managers and decision-makers to make informed decisions about store operations and marketing strategies. 
-Please fill out the form carefully and accurately to get the most out of this audit.
-</thinking>
-
 # Merchandising Strategies Audit Form - Help Guide
 ## Purpose
 The Merchandising Strategies Audit Form is designed to conduct a thorough assessment of a store's performance and potential. This form will help store managers and decision-makers identify areas of improvement and make informed decisions about store operations and marketing strategies.

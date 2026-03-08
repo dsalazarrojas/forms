@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for individuals or organizations applying for the Preventive Medicine Education Project. The purpose of this form is to gather information about the applicant's background, education, and project details. This form will be used to evaluate the application and determine eligibility for the project.
-
-Before completing the form, please ensure that you have the necessary information and authorization to apply. If you have already submitted an application, please do not duplicate the application process.
-
-</thinking>
-
 # Preventive Medicine Education Project Application Form - Help Guide
 ## Purpose
 

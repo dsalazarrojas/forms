@@ -1,5 +1,3 @@
-<thinking>As a marketer, the purpose of this form is to gauge customer satisfaction with a market offering. This form will be used to collect feedback on the overall satisfaction with the market, including a numerical rating and a written description of the experience. This form is part of our market research process to improve our market offerings and provide better services to our customers. Please make sure to fill in the form only once per market offering, and if you've already filled in the form, you can skip it to avoid duplication. This guide is meant to be used by customers to fill in the form accurately and efficiently.</thinking>
-
 # Market Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the overall customer satisfaction with a market offering. It will help us understand your experience and improve our services.

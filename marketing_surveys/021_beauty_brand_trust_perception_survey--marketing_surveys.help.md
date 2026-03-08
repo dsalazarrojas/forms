@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beauty Brand Trust Perception Survey - Help Guide
 
 ## Purpose

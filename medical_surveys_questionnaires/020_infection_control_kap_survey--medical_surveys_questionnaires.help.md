@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and practices of healthcare workers regarding infection control in a facility. It aims to evaluate the effectiveness of the existing infection control practices and identify areas for improvement. The survey is used to gather data that will inform infection control policy and procedures. This form should only be completed by healthcare workers who have been tasked with infection control responsibilities, such as nurses, doctors, or other healthcare professionals. It is not intended to be completed by non-healthcare workers.
-</thinking>
-
 # Infection Control KAP Survey - Help Guide
 ## Purpose
 The Infection Control KAP Survey is a tool to help assess the knowledge and practices of healthcare workers regarding infection control in a facility.

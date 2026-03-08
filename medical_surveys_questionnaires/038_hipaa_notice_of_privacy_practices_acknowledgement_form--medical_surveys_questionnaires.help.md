@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to inform the individual about the HIPAA regulations and ensure they understand their privacy rights. This guide is to prevent duplicate submissions of the same form and ensure that the form is completed correctly.
-</thinking>
-
 # HIPAA Notice Of Privacy Practices & Acknowledgement Form - Help Guide
 ## Purpose
 The HIPAA Notice Of Privacy Practices & Acknowledgement Form is a document that informs individuals about their rights under the Health Insurance Portability and Accountability Act (HIPAA) and requires their acknowledgment of understanding and compliance with its requirements.

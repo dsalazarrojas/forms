@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for scheduling a psychological appointment. Before filling out this form, please ensure that you have not already submitted a scheduling request for the same appointment. If you have, this form will not be accepted.
-</thinking>
-
 # Psychological Appointment Scheduling - Help Guide
 ## Purpose
 This form is used to schedule a psychological appointment. It collects information about the patient's contact preferences, available days and times, and appointment details. Please fill out this form to request a new appointment.

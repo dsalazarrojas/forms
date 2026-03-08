@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fabric Order Form - Help Guide
 
 ## Purpose

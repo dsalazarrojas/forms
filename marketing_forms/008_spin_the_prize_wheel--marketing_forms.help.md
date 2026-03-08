@@ -1,5 +1,3 @@
-<thinking>Form "Spin The Prize Wheel" is used to record and manage prize winners in a marketing context. This guide will walk through the form's purpose, completion steps, and explanation of each field.</thinking>
-
 # Spin The Prize Wheel - Help Guide
 ## Purpose
 The Spin The Prize Wheel form is used to capture and store information about prize winners, including their name, contact details, and other relevant data. This form is typically used in marketing campaigns where prizes are awarded to customers or participants.

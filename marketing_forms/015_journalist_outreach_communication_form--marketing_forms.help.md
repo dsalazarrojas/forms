@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form, the "Journalist Outreach Communication Form", is likely to facilitate communication and outreach between the organization and journalist contacts. It may be used for various purposes, such as scheduling interviews, sending press releases, or sending information requests. The form is designed to be simple and intuitive, allowing users to quickly input relevant information. Before proceeding, please review the form carefully to ensure all fields are completed as required and relevant to the purpose of the form.
-
-</thinking>
-
 # Journalist Outreach Communication Form - Help Guide
 ## Purpose
 The Journalist Outreach Communication Form is used to facilitate communication and outreach between the organization and journalist contacts for various purposes such as scheduling interviews, sending press releases, or sending information requests.

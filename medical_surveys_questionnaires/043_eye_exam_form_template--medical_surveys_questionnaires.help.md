@@ -1,5 +1,3 @@
-<thinking>What we're trying to create is a help guide that explains the "Eye Exam Form Template" in a way that end-users can easily understand its purpose, how to complete it, and what each field means. Let's break down the form fields and provide clear explanations that cater to the end-users' needs.</thinking>
-
 # Eye Exam Form Template - Help Guide
 ## Purpose
 The Eye Exam Form Template is a medical form designed to collect essential information from patients undergoing an eye exam. This form aims to gather details about patient demographics, medical history, medications, visual acuity, and other relevant medical information.

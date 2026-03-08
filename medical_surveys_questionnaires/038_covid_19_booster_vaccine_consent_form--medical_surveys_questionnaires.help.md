@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to help users understand the purpose and requirements of the COVID 19 Booster Vaccine Consent Form. This form is designed to collect information from patients about their medical history, vaccine information, and consent for vaccination. It will be used to inform healthcare providers about the patient's medical status, allergies, and previous vaccine reactions. By completing this form, patients can provide their informed consent for vaccination, and healthcare providers can make informed decisions about their treatment.
-To ensure the form is completed accurately and efficiently, the following guide explains each field in detail.
-</thinking>
-
 # COVID 19 Booster Vaccine Consent Form - Help Guide
 ## Purpose
 The COVID 19 Booster Vaccine Consent Form is a document used to gather information about patients' medical history, vaccine information, and consent for vaccination. This form is essential for healthcare providers to make informed decisions about vaccination and ensure patient safety.

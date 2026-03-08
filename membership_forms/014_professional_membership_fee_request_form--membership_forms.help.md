@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Professional Membership Fee Request Form" is to provide a straightforward way for professionals to request an account with our organization. This form is designed to gather essential information about the user, including their contact details and fee request, to facilitate a smooth and efficient process.
-We aim to ensure that each request is unique and that there is no duplication of requests. To this end, we will check for existing requests before processing a new one. If a request is found to be a duplicate, we will notify the user accordingly.
-</thinking>
-
 # Professional Membership Fee Request Form - Help Guide
 ## Purpose
 The "Professional Membership Fee Request Form" is used to request an account with our organization. Fill out this form to provide us with your contact information and fee request, and we will review your application to determine if you qualify for membership.

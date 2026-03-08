@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information related to a patient's pre-anesthetic assessment. The purpose of this form is to gather necessary data from the patient prior to undergoing medical or surgical procedures.
-Before proceeding, please ensure you have reviewed the patient's medical records and that this form does not duplicate any existing assessments. If you are unsure, please contact the healthcare team for clarification.
-Please note that this form is not intended to replace the medical evaluation of a healthcare professional. It is a supplementary tool to aid in the pre-anesthetic assessment process.
-</thinking>
-
 # pre_anesthetic_questionnaire - Help Guide
 
 ## Purpose

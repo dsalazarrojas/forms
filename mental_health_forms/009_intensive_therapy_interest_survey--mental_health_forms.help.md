@@ -1,5 +1,3 @@
-<thinking>Intensive Therapy Interest Survey is a form designed to collect information from clients interested in intensive therapy sessions. This form is used to gather data on the client's goals, concerns, and availability for therapy sessions. Please ensure you have the necessary permissions and approvals before completing this form. This form is not meant to be completed multiple times by the same client. If you are completing this form for someone else, please ensure you have their consent to do so. Please answer the questions honestly and provide as much detail as possible. The information collected will be used to tailor the therapy sessions to the client's specific needs.</thinking>
-
 # Intensive Therapy Interest Survey - Help Guide
 ## Purpose
 The Intensive Therapy Interest Survey is a form designed to collect information from clients interested in intensive therapy sessions. This form helps us understand the client's goals, concerns, and availability for therapy sessions.

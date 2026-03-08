@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to support radiologists and healthcare professionals in referring patients for diagnostic imaging services, such as MRI, CT scans, ultrasounds, and X-rays. This form will help them gather all the necessary information to accurately complete the referral and ensure that the patient receives the required care.
-</thinking>
-
 # Diagnostic Imaging Referral Form - Help Guide
 ## Purpose
 This form is designed to assist healthcare professionals in referring patients for diagnostic imaging services. It collects the necessary information to provide a complete and accurate referral.

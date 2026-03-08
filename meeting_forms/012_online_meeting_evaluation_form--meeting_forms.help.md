@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's ensure that the form is being used for its intended purpose and that there's no duplication of efforts. The form is designed for evaluating online meetings, and it's likely being used to gather feedback from participants after a meeting. The form should be completed by meeting participants to provide their feedback on the meeting details, presenters, and overall experience. This process will help to identify areas of improvement and ensure that future online meetings are well-organized and engaging.</thinking>
-
 # Online Meeting Evaluation Form - Help Guide
 
 ## Purpose

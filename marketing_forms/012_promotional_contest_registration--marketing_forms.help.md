@@ -1,9 +1,3 @@
-<thinking>
-This form is part of a promotional contest, designed to encourage customer participation and engagement. 
-The form should only be shown to customers who do not already have a promotional account. 
-This will prevent duplicate entries and maintain a clear record of all customers who have entered the contest. 
-</thinking>
-
 # promotional_contest_registration - Help Guide
 ## Purpose
 This form is used to collect customer information and entry details for a promotional contest. 

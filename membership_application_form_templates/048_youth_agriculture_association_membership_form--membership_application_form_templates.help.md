@@ -1,11 +1,4 @@
-# <thinking>
-**Internal Reasoning Block:**
-
-This form is a membership application form for the Youth Agriculture Association. The purpose of this form is to collect essential information from potential members, including their name, address, and contact details. The form has a mix of required and optional fields, ensuring that essential information is collected while not overwhelming the applicant with too many questions. The repeated "Phone number" field is likely intended to collect multiple phone numbers from the applicant, such as a home and work number.
-
-</thinking>
-
-# Youth Agriculture Association Membership Form - Help Guide
+# # Youth Agriculture Association Membership Form - Help Guide
 ## Purpose
 This form is for potential members of the Youth Agriculture Association to apply for membership. Fill out this form to provide your details and become a part of our community.
 

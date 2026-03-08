@@ -1,5 +1,3 @@
-<thinking> We need to create a user-facing help guide for the "Fitness Studio Furniture Order Form". This form is used for customers to order fitness-related furniture for a studio, such as tables, chairs, and desks. The form should be completed in a way that ensures the customer's order is correctly assigned to the right staff member. The form will likely be used by studio staff to fulfill customer orders and ensure accurate delivery of products. It's likely that the form will be used by customers who need to order furniture for a specific event or project, so the form should be easy to understand and fill out. We should ensure that the form's fields and options are clear and concise, and that any confusion is addressed in the help guide. </thinking>
-
 # Fitness Studio Furniture Order Form - Help Guide
 ## Purpose
 The Fitness Studio Furniture Order Form is used to order fitness-related furniture for a studio. This form helps the studio's staff to accurately assign and fulfill customer orders for specific items such as tables, chairs, and desks.

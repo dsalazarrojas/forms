@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to assess the usage of wheelchairs for individuals with mobility impairments. It is used to gather information about the individual's ability to use wheelchairs, their level of independence, self-care needs, caregiver support, mobility aids, medical conditions, and medications.
-The form is divided into several sections, including:
-* Introduction: This section provides a brief overview of the form and its purpose.
-* Wheelchair usage: This section assesses the individual's level of independence in using wheelchairs.
-* Mobility: This section collects information about the individual's mobility level and any aids they use.
-* Self-care: This section collects information about the individual's self-care needs and aids used.
-* Caregiver support: This section assesses the level of caregiver support the individual receives.
-* Mobility transfer: This section collects information about the individual's mobility transfer needs and aids used.
-* Medical: This section collects information about any medical conditions the individual has.
-* Medication: This section collects information about any medications the individual takes.
-The form is designed to be completed by healthcare professionals or caregivers to assess the individual's needs and provide appropriate care and support.
-
-Before completing this form, please note that:
-
-* The form is intended to assess the individual's current situation, not their potential future needs.
-* The answers provided will be used to inform care and support decisions.
-* Please answer each question honestly and to the best of your ability.
-
-This form is not intended to be a comprehensive medical evaluation, but rather a tool to gather information and identify potential needs.
-</thinking>
-
 # Wheelchair usage assessment checklist - Help Guide
 ## Purpose
 This form is designed to assess the usage of wheelchairs for individuals with mobility impairments.

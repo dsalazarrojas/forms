@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from applicants for the Global Health Collaboration Fund, a program that supports collaborative projects focused on global health issues. The form is used to collect details about the applicant, the project, and the submitter, as well as their agreements and acknowledgements. To ensure that each application is complete and accurate, please fill out the form carefully. If you are reapplying, please ensure that you are not duplicating information or submitting a revised application for the same project.
-</thinking>
-
 # Global Health Collaboration Fund Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for internal use only and will not be shared externally. The form is designed to collect information from users who wish to join the Interior Decorators Society. The form will collect personal details such as name, contact information, and membership preferences. This guide will help ensure that users understand what information is required and how to complete the form accurately.
-</thinking>
-
 # Interior Decorators Society Membership Form - Help Guide
 
 ## Purpose

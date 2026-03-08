@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advertising Survey Form - Help Guide
 
 ## Purpose

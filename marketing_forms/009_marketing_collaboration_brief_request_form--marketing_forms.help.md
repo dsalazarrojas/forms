@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used by marketing teams to request a collaboration brief from other teams or departments within the company. This form helps to gather necessary information about the brand name, goal of the collaboration, project timeline, and budget for the marketing project. This form should only be filled out by marketing teams when a collaboration brief is required, and it is not necessary to fill it out for every marketing project. 
-</thinking>
 # Marketing Collaboration Brief Request Form - Help Guide
 ## Purpose
 The Marketing Collaboration Brief Request Form is a tool used by marketing teams to request a collaboration brief from other teams or departments within the company. This form helps to gather necessary information about the brand name, goal of the collaboration, project timeline, and budget for the marketing project.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to capture the essential information necessary for membership registration at the church. The purpose of this form is to streamline the membership process, ensuring that new members provide accurate and comprehensive data for administrative and pastoral purposes. Before proceeding, ensure that you have reviewed the church's statement of faith and covenant, and that you are familiar with the membership process. This form should only be completed once the individual has been approved to become a member. If you are unsure about any section, please consult with a church representative.
-
-</thinking>
-
 # Church Membership Form - Help Guide
 ## Purpose
 The Church Membership Form is a necessary step for registration as a church member. This guide will walk you through the form's sections and fields to ensure a smooth and accurate completion process.

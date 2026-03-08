@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # GDPR Consent Form Template - Help Guide
 ## Purpose
 The GDPR Consent Form Template is a form designed to collect user consent for data collection and processing under the General Data Protection Regulation (GDPR). This form helps ensure that users understand what data will be collected and how it will be used.

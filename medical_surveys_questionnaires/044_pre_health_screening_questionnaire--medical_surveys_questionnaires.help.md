@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect pre-health screening questionnaires from patients. The form is designed to gather various types of information about the patient's medical history, medical conditions, medical history 2, allergies, medications, and other relevant health information. It is essential to ensure that the form is completed accurately and thoroughly to enable healthcare professionals to assess the patient's health status effectively. Please review the form carefully to confirm that it is relevant to your situation and that you have not already completed it. If you are unsure or have questions, please contact your healthcare provider.</thinking>
-
 # pre-health-screening-questionnaire - Help Guide
 ## Purpose
 This form is designed to collect pre-health screening information from patients, which is crucial for healthcare professionals to assess their health status.

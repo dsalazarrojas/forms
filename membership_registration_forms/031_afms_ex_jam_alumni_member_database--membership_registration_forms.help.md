@@ -1,7 +1,3 @@
-<thinking>
-The "Afms Ex Jam Alumni Member Database" form is designed to collect and store personal and professional information of alumni members from the AFMS community. This data will be used to facilitate communication, provide updates, and facilitate connections between alumni members. It is essential to ensure that all required fields are completed accurately and truthfully to avoid duplication of entries and maintain the integrity of the database. Please note that all fields with a "required" status of true must be completed before submitting the form.
-</thinking>
-
 # Afms Ex Jam Alumni Member Database - Help Guide
 ## Purpose
 The Afms Ex Jam Alumni Member Database form is designed to collect and store personal and professional information of alumni members from the AFMS community.

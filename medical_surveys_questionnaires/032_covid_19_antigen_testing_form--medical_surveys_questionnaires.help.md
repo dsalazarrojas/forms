@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect relevant information from patients who have undergone Covid-19 antigen testing. The form aims to gather details about the patient's medical history, symptoms, test results, and contact information for both the patient and the doctor. This data will be used to track and manage patient records.
-</thinking>
-
 # Covid 19 Antigen Testing Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from the patient or their authorized representative about their medical records, including access to the records and the duration of such access. The form is used to obtain written permission from the patient or their representative to access their medical records. This form is typically used in a hospital or healthcare setting to ensure that the patient's personal and medical information is handled according to their preferences.
-
-</thinking>
-
 # Public Health Records Release Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's medical records, including access to their records and the duration of such access. The form helps ensure that the patient's personal and medical information is handled according to their preferences.

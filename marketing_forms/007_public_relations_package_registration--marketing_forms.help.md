@@ -1,5 +1,3 @@
-<thinking>...this form's purpose is to gather information from users who want to register for the public relations package. This form is not required for users, and the purpose of the form will be to help us gauge interest and provide additional services to the users. Before proceeding, please note that we have a system in place to prevent duplicate registrations. If a user has already registered, they will not be able to submit this form again...</thinking>
-
 # Public Relations Package Registration - Help Guide
 ## Purpose
 This form is intended to gather information from users who are interested in the public relations package. It is a non-mandatory form, and submitting it will help us gauge interest and potentially provide additional services to the users.

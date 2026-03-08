@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather data from customers for market study purposes. The goal is to collect information about customers' opinions, habits, and demographics to better understand their market preferences and behaviors. This data will help us to tailor our marketing strategies to meet their needs and preferences.
-
-Before proceeding, please ensure that you have not already taken this survey. If you have, your submission will be discarded and considered a duplicate. 
-
-</thinking>
-
 # Market Study Survey - Help Guide
 ## Purpose
 The Market Study Survey is a form designed to collect data from customers for market study purposes. The goal is to gather information about customers' opinions, habits, and demographics to better understand their market preferences and behaviors.

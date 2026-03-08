@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about the patient's and their caregiver's contact details and preferences for tele-rehabilitation services. This form will help us better understand the patient's needs and preferences for tele-rehabilitation services. Please ensure that you have read and understood the purpose of this form before proceeding to fill it out. If you have already completed this form, please do not fill it out again.
-</thinking>
-
 # Tele Rehabilitation Accessibility Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the patient's and their caregiver's contact details and preferences for tele-rehabilitation services.

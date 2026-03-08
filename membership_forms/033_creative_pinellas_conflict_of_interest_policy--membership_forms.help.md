@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information on conflict of interest declarations from individuals who wish to serve on the Creative Pinellas Board of Directors. This form is meant to be used to help identify any potential conflicts of interest that may arise during the appointment process or while serving on the board.
-
-To avoid duplication of work, please make sure that you or the individual completing this form is not already listed on the Creative Pinellas database. If this form has already been completed by the individual, the existing version should be used and this form should be ignored.</thinking>
-
 # creative_pinellas_conflict_of_interest_policy - Help Guide
 ## Purpose
 This help guide will assist users in understanding the purpose and process of completing the Creative Pinellas Conflict of Interest Policy form.

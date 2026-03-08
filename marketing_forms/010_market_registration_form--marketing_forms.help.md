@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Registration Form - Help Guide
 
 ## Purpose

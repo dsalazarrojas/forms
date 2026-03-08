@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that our internal systems for project naming are accurate and consistent, and this form helps with that. This form will be used by our marketing team to propose new project names based on certain guidelines.
-The form should not be used if you're already familiar with our naming conventions or have a strong preference for a project name. Please note that some fields are optional and are only used to help us understand more about the project.
-</thinking>
-
 # marketing_naming_form - Help Guide
 ## Purpose
 This form is designed to help the marketing team propose new project names according to our internal naming conventions. It guides you in selecting the most suitable name based on the project category, subcategory, and other relevant details.

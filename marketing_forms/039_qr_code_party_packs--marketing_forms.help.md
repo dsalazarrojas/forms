@@ -1,5 +1,3 @@
-<thinking> This form is meant to be used to create, configure, and maintain QR code party packs for marketing campaigns. It collects information about the QR code packs, including the name of the pack, category, description, output file format, assigned tool, and form IDs. This form is designed for marketing professionals who need to create and manage QR code packs for various campaigns. Before starting, ensure you are authorized to create QR code packs and that you have all necessary permissions. Also, review the form fields carefully to avoid duplication of efforts. </thinking>
-
 # qr_code_party_packs - Help Guide
 ## Purpose
 The "qr_code_party_packs" form is used to create and manage QR code packs for marketing campaigns. This form helps you to configure and customize QR code packs according to your marketing needs.

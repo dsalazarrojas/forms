@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from students who wish to become members of the Student Union. This form is used to gather data for student union membership registration, including contact details, membership status, and payment information.
-
-Before filling out this form, please ensure that you are a valid student and that you have not filled out this form before. If you have any issues with your current status or payment, please make sure to mention them in the "comment" field so that we can assist you accordingly.
-
-</thinking>
-
 # Student Union Membership Form - Help Guide
 ## Purpose
 The Student Union Membership Form is used to register students as members of the Student Union. It collects data for membership registration, which is essential for student union administration and management.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess a candidate's marketing role and provide a comprehensive evaluation of their skills, experience, and job history. The form is used to collect data for marketing role assessments, which are essential for making informed decisions about candidates' suitability for marketing positions.
-
-The form consists of 24 fields, each of which collects specific information relevant to the candidate's marketing role. Some fields are required, while others are optional.
-
-This form is not intended to be a substitute for human evaluation or a definitive assessment of a candidate's skills. It is meant to be used as a starting point for further evaluation and discussion.
-
-To avoid duplication of effort, please ensure that this form is used consistently and that all relevant information is provided.
-
-</thinking>
-
 # Marketing Role Assessment - Help Guide
 ## Purpose
 This form is used to assess a candidate's marketing role and provide a comprehensive evaluation of their skills, experience, and job history.

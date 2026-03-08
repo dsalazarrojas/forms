@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pilots who wish to join a membership organization. The form is used to gather data about the pilot's experience, qualifications, and personal details.
-</thinking>
-
 # Pilot Membership Form - Help Guide
 ## Purpose
 The Pilot Membership Form is a document used to collect information from pilots who wish to join a membership organization. This form helps us to understand your qualifications, experience, and other relevant details.

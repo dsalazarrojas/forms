@@ -1,13 +1,3 @@
-<thinking>
-To ensure this form is properly used and that users understand what is expected of them, let's review the purpose and requirements of the "Counseling Method Preferences Survey" form. This form is designed to gather information about the user's preferred counseling methods, communication styles, session frequency, language preference, preferred time of day, contact method, additional comments, and follow-up contact information. The primary goal of this form is to collect data on user preferences for counseling sessions. 
-
-The form has a few required fields, including "What kind of counseling methods do you enjoy?", "Preferred communication style", "How often do you prefer sessions?", "Preferred language", "Preferred time of day", "How do you want to be contacted?", and "Follow up frequency". This form does not require users to provide their personal contact information as emergency contact or follow-up contact.
-
-The form will be used to create a profile of user preferences for counseling sessions. This information will help counselors provide more tailored services to meet the users' needs and preferences. 
-
-Please note that users can only select from provided options in the select_one and select_multiple fields. The form is designed to be user-friendly and straightforward, with clear labels and minimal confusion.
-</thinking>
-
 # Counseling Method Preferences Survey - Help Guide
 ## Purpose
 The "Counseling Method Preferences Survey" form is designed to collect data on your preferences for counseling sessions. This information will help counselors provide you with more tailored services to meet your needs and preferences.

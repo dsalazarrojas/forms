@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to provide information about a company's membership access for software premium services. This form is used to gather details about the company's needs and preferences for upgrading or accessing premium services. 
-The form is designed to be completed by a company representative, providing information about the company's profile, contact details, and requirements for premium services. 
-Before completing this form, please ensure that you are authorized to do so on behalf of your company. If you are unsure, please contact our support team to clarify your role and permissions.
-
-This form will not be duplicated or reused for any other purpose. All information provided will be used solely for the purpose of assessing and upgrading your company's premium membership.
-
-</thinking>
-
 # Software Premium Membership Access Form - Help Guide
 ## Purpose
 The Software Premium Membership Access Form is designed to help us understand your company's requirements and preferences for accessing our premium software services. This information will help us tailor our support and services to best meet your needs.

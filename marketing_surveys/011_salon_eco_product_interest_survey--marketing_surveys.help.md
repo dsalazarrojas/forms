@@ -1,12 +1,3 @@
-<thinking>
-  This form is used to gather information from users about their interest in salon-related products, with a focus on eco-friendly options. 
-  The form is designed to be user-friendly and should take no more than 5-7 minutes to complete. 
-  Please ensure that the form is not filled out if you have already completed it in the past 30 days. 
-  If you are filling out the form for someone else, please provide their name in the "notes" field at the end of the form. 
-  Please answer all questions honestly as it will help us to improve our salon products. 
-  We value your input and would like to hear about your interest in our products. 
-</thinking>
-
 # Salon Eco Product Interest Survey - Help Guide
 
 ## Purpose

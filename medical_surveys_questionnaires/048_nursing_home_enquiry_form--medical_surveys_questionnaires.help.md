@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the Nursing Home Enquiry Form to users so they understand its purpose and how to complete it correctly, preventing duplicate and irrelevant submissions.
-</thinking>
-
 # Nursing Home Enquiry Form - Help Guide
 
 ## Purpose

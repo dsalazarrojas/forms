@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about an ICO (Initial Coin Offering) and its presale. The purpose of this form is to gather data on the token's overview, such as its presale information, token details, and marketing strategy. This form is used internally to track and analyze ICO presales. It is a crucial tool for our team to get a clear picture of the ICO's status and make informed decisions.
-</thinking>
-
 # ic_o_and_presale_overview_survey - Help Guide
 ## Purpose
 This form is designed to collect information about an ICO and its presale. It is used to gather data on the token's overview, including presale information, token details, and marketing strategy.

@@ -1,9 +1,3 @@
-<thinking>...the form designer in the room is thinking about the user's needs and requirements to design a user-friendly and intuitive form...
-
-To confirm, this form is for a Painting Project Scope Survey, which is used to gather information and requirements for a painting project. The form includes sections for project details, customer information, scope of work, painting services, location, estimate details, budget, contact person, email, phone number, and a message. The form is designed to be completed by customers or clients to provide their input on the project scope and requirements.
-
-</thinking>
-
 # Painting Project Scope Survey - Help Guide
 ## Purpose
 This form is designed to gather information and requirements for a painting project. Please provide your input on the project scope, details, and other necessary information to help us better understand your needs.

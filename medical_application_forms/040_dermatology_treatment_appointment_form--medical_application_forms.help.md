@@ -1,10 +1,3 @@
-<thinking>
-The "Dermatology Treatment Appointment Form" is designed to be used in a dermatology clinic to collect patient information and schedule appointments for various dermatological treatments. This form helps to streamline the scheduling process and ensures that patients' needs are met in a timely and efficient manner. Before proceeding, please ensure that this form is relevant to your specific use case and that you are not duplicating a similar form already in use.
-
-The form is divided into two pages, although only one page is actually visible in this example. The form requires the following information from the patient: name, contact number, email, preferred contact method, appointment date, appointment time, treatment type, appointment length, and additional notes.
-
-</thinking>
-
 # Dermatology Treatment Appointment Form - Help Guide
 
 ## Purpose

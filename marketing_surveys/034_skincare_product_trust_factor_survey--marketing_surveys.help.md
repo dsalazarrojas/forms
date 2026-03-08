@@ -1,12 +1,3 @@
-<thinking>
-We need to create a help guide for a form that is used to collect data on skincare products. The form is meant to help us understand how much trust users have in skincare products and what factors influence their trust. We will go through each field in the form and explain what each one means and how to complete it.
-
-The form is divided into several sections, each with its own set of questions. We will go through each section and explain what it is meant to capture.
-
-We should also make sure to check for any potential duplication or overlap in the questions. For example, the "product_info" and "brand_info" fields might be similar, so we should make sure to differentiate between them.
-
-</thinking>
-
 # Skincare Product Trust Factor Survey - Help Guide
 ## Purpose
 The Skincare Product Trust Factor Survey is a tool used to understand how much trust users have in skincare products. It is meant to gather information on various factors that influence user trust, such as product features, brand reputation, and skin type.

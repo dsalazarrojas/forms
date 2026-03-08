@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to help users understand the purpose and requirements of the Event Invitation Form Template, a marketing-oriented form used to gather information from event attendees. This form is designed to be used for events where RSVPs and dietary preferences are crucial for organizers. By following this guide, users will be able to complete the form with confidence and ensure that all necessary information is gathered accurately.
-</thinking>
-
 # Event Invitation Form Template - Help Guide
 ## Purpose
 The Event Invitation Form Template is a form used to gather information from event attendees, including their RSVP status, dietary preferences, and contact details. This form is essential for event organizers to plan and prepare for the event according to attendees' needs and expectations.

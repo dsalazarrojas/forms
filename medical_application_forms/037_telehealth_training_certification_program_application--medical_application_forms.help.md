@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accuracy, I'd like to understand the context and purpose of the "Telehealth Training Certification Program Application" form. From the provided YAML, it appears to be a form used for individuals to apply for a telehealth training certification program. The form is likely used for training providers, coordinators, trainers, and administrators to apply for certification. The form requires various information, including program name, contact details, training provider name, training type, start and end dates, address, and other relevant details. I'd like to clarify that the form is used for certification purposes only and not for other purposes such as general inquiries or registration.
-
-</thinking>
 # Telehealth Training Certification Program Application - Help Guide
 ## Purpose
 The Telehealth Training Certification Program Application form is used to apply for a telehealth training certification program. This form is intended for individuals who are interested in becoming certified in telehealth and want to demonstrate their knowledge, skills, and experience in this field.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will be used to assist users in completing the reseller application form, which is used to apply for a reseller account with the organization. This form is intended for individuals or businesses that wish to become resellers of the organization's products or services. The form is divided into multiple pages, each with a specific set of questions or fields that need to be completed. The form is designed to be user-friendly and easy to navigate, with clear and concise labels and hints to guide the user through the application process.
-
-</thinking>
-
 # reseller_application_form - Help Guide
 ## Purpose
 This guide is intended to assist users in completing the reseller application form, which is used to apply for a reseller account with the organization.

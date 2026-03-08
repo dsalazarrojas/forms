@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is designed to collect member complaints and appeals, providing a structured process for members to report issues and their resolutions. The form ensures that all necessary information is collected, including the member's contact details, the nature of the complaint, and the resolution process. The form is used by members to report any issues they encounter, and it helps in tracking and resolving these complaints in a systematic way.</thinking>
-
 # Member Complaint And Appeal Form - Help Guide
 ## Purpose
 This form is used to collect and track member complaints and appeals. It helps members to report any issues they encounter, and it aids in the resolution process.

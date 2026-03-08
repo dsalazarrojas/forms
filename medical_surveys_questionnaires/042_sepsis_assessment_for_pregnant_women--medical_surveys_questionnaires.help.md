@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess sepsis in pregnant women. Sepsis is a severe and potentially life-threatening condition that occurs when the body's response to infection becomes uncontrolled and causes widespread inflammation. This form is intended to help healthcare providers gather essential information about a pregnant woman's condition. The purpose of this form is to identify potential risk factors and signs of sepsis in pregnant women.
-
-Before filling out this form, please ensure that the patient's condition meets the inclusion criteria for sepsis. Sepsis assessment in pregnant women is crucial for timely and appropriate care.
-
-</thinking>
-
 # sepsis_assessment_for_pregnant_women - Help Guide
 ## Purpose
 This form is designed to assess sepsis in pregnant women, a severe and potentially life-threatening condition that requires immediate attention. It is intended to gather essential information about a pregnant woman's condition to identify potential risk factors and signs of sepsis.

@@ -1,15 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Website Onboarding Form", we first need to understand its purpose and the intended use case. This form is likely used for marketing or onboarding purposes, where users need to provide information about their company and website. The form collects various details such as company name, website URL, email, company size, industry, company type, description, domain, phone number, address, country, region, city, zip code, and website type. 
-
-To determine the relevance and duplication of this form, it's essential to consider the following:
-- Whether there are existing forms that serve a similar purpose in our organization.
-- If the form is part of a larger process or workflow that needs to be standardized.
-- If there are specific requirements or regulations that dictate the collection of certain information.
-
-After careful consideration, we can proceed with creating the help guide to ensure end-users understand the form's purpose and how to complete it.
-
-</thinking>
-
 # Website Onboarding Form - Help Guide
 ## Purpose
 The "Website Onboarding Form" is designed to collect information about your company and website for marketing or onboarding purposes. Please fill out this form to help us better understand your business.

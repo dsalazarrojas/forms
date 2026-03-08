@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help mental health counselors renew their services for the duration of the contract with the client. Please note that this form is for informational purposes only and should not be used for actual service renewals. To use this form, you will need to have a legitimate relationship with the client. 
-</thinking>
-
 # mental_health_counseling_renewal_form - Help Guide
 ## Purpose
 This form is a tool used to document and communicate client information for mental health service renewal purposes. It gathers essential details about the client and service provided. Please note that this form is meant for internal use only and should not be considered a contract for services.

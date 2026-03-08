@@ -1,7 +1,3 @@
-<thinking>
-This form is for new members who want to join a membership program. To ensure you're using the right form for your needs, please verify that you're in the correct program and not duplicating your application.
-</thinking>
-
 # new-member-questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information from new members, including personal details, contact information, and payment methods. It's essential to fill out this form accurately and completely to ensure smooth processing of your membership application.

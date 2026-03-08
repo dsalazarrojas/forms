@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals applying to a healthcare process optimization fellowship program. The form asks for basic contact information, a brief description of the applicant's motivations for applying, and attachments of their CV and Resume. The purpose of this form is to streamline the application process for the fellowship, and the data collected will be used to review and assess each applicant's qualifications.
-</thinking>
-
 # healthcare_process_optimization_fellowship_application - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for the healthcare process optimization fellowship program.

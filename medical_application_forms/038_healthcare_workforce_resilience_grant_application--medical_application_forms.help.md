@@ -1,19 +1,3 @@
-<thinking>
-This form is meant to be a tool for healthcare organizations to assess their resilience and receive funding to support their recovery and growth. The purpose of this form is to gather information from applicants about their project details, leadership, and funding requests. It's essential to ensure that each project meets the required criteria and that no duplicate applications are submitted. If an application is deemed non-duplicitous, the form will be rejected and the applicant will be notified.
-
-To complete this form, please follow these steps:
-
-1.  Enter your project details, including a brief description of the project and its objectives.
-2.  Provide the contact information of the project lead, including their name, phone number, and email address.
-3.  Confirm the job title and name of the organization for the project lead.
-4.  Enter the name of the organization or institution where the project is located.
-5.  Describe the funding request, including the specific amount of funding required.
-6.  Enter the amount of funding requested.
-
-Please note that the form has several fields that are optional, but it's crucial to fill out all the required fields to ensure a complete and accurate application.
-
-</thinking>
-
 # Healthcare Workforce Resilience Grant Application - Help Guide
 ## Purpose
 The Healthcare Workforce Resilience Grant Application form is designed to gather information from healthcare organizations to support their recovery and growth. This form helps applicants to present their project details, leadership, and funding requests in a structured and clear manner.

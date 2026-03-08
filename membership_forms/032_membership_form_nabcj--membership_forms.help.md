@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for creating or updating membership records for individuals or organizations. It captures crucial information such as name, contact details, and address to maintain accurate and up-to-date membership information. The form ensures consistency with the provided fields and their respective types, eliminating the possibility of redundant fields.
-</thinking>
-
 # membership_form_nabcj - Help Guide
 ## Purpose
 This form is used to create or update membership records for individuals or organizations, capturing essential details such as name, contact information, and address.

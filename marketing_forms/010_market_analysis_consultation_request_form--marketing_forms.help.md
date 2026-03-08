@@ -1,13 +1,3 @@
-<thinking>
-This form is used by Marketing teams to request a consultation with potential customers to discuss their business needs and provide personalized marketing solutions. It is essential to ensure that only relevant and non-duplicitous requests are made to avoid unnecessary work and maintain a healthy workload for the team.
-
-Before filling this form, please make sure you have not already requested a consultation for the same topic or business need. This will help our team focus on providing high-quality services and avoid duplicate work.
-
-This form is designed to gather information about the contact person, their business, and their marketing needs, as well as any relevant documents or additional comments. The consultation request will be reviewed and responded to by our marketing team, and we will be in touch to schedule a meeting or provide further guidance.
-
-If you have any questions or concerns, please don't hesitate to reach out to us.
-</thinking>
-
 # Market Analysis Consultation Request Form - Help Guide
 ## Purpose
 The Market Analysis Consultation Request Form is used by Marketing teams to request a consultation with potential customers to discuss their business needs and provide personalized marketing solutions.

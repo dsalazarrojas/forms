@@ -1,10 +1,3 @@
-<thinking>
-We need to check if the form purpose and fields are well-defined to avoid duplication and redundancy. 
-The form appears to be designed for collecting feedback on the operating room's design, specifically on its layout, equipment, space, and team involvement. It seems to be intended for healthcare professionals to provide feedback on the operating room's usability and functionality.
-However, some fields may be redundant or not clearly defined. For example, "Medical Team Involvement" and "Or Team Involvement" seem to be duplicate fields. Additionally, "Additional Comments" and "Additional Comments 2" could be merged or rephrased for clarity.
-We should verify these observations with a domain expert to ensure the form's purpose and structure are well-defined and logical.
-</thinking>
-
 # Operating Room Design Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the operating room's design, layout, equipment, space, and team involvement. It helps healthcare professionals to provide their opinions and suggestions on how to improve the operating room's usability and functionality.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or individuals before their appointment with a medical professional. The form aims to gather essential details that will aid the healthcare provider in providing personalized care and treatment. Before proceeding, please ensure that this form is relevant to your specific appointment and that you have not already completed it. Completing this form multiple times may lead to unnecessary duplication of effort and potential data redundancy.</thinking>
-
 # Pre Appointment Declaration Form - Help Guide
 ## Purpose
 This form is a pre-appointment declaration form designed to collect essential information from patients or individuals before their appointment with a healthcare provider. It helps the healthcare provider understand the patient's medical history, social contacts, and current symptoms to provide personalized care and treatment.

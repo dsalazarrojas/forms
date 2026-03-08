@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information on individuals' knowledge, attitudes, and intentions regarding COVID-19 vaccines. The survey aims to understand respondents' perception of vaccine safety, efficacy, and trust, as well as their concerns and motivations for or against vaccination. The form will help to identify areas of improvement for public health initiatives and vaccination policies. 
-
-The form is a series of questions that cover various aspects of COVID-19 vaccines, including awareness, trust, safety, and efficacy beliefs. It also inquires about respondents' intentions to get vaccinated and their concerns, as well as their exposure risk and underlying health conditions. 
-
-Please note that the form is anonymous and does not collect any identifiable personal data. However, some questions may imply that they do, which is not the case. 
-
-Before completing this form, please ensure that you have not completed it before. Duplicate responses will not be accepted. 
-
-After completing the form, please click on the submit button to finalize your response. 
-
-Please ensure that you have filled in all required fields, denoted by a asterisk (*) symbol. 
-
-</thinking>
-
 # COVID 19 Vaccine Survey - Help Guide
 ## Purpose
 This guide will walk you through the COVID-19 Vaccine Survey, a questionnaire designed to understand your knowledge, attitudes, and intentions regarding COVID-19 vaccines.

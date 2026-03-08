@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance Claim Form - Help Guide
 
 ## Purpose

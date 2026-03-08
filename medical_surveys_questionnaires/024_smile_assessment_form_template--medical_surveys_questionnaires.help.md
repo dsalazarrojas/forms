@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smile Assessment Form Template - Help Guide
 ## Purpose
 The Smile Assessment Form Template is designed to collect information about a patient's smile and overall oral health. This form is intended for use in dental and orthodontic clinics to assess the patient's smile aesthetics, functionality, and satisfaction. It is not a medical diagnostic tool and should not be used to diagnose any conditions.

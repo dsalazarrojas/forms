@@ -1,10 +1,3 @@
-<thinking>
-The form is designed for users to submit information about upcoming rodeos. The purpose of this form is to collect details such as event name, start and end dates, event location, attendees, ticket price, ticket quantity, and contact information. This form aims to gather essential data that will help event organizers plan and promote their events. It is crucial to ensure that the information provided is accurate and relevant to avoid confusion or miscommunication.
-
-To prevent duplication, please ensure that you are not submitting the same event name multiple times. If you need to update existing event information, contact the system administrator to request changes.
-
-</thinking>
-
 # San Antonio Rodeo - Help Guide
 ## Purpose
 This form is designed to collect information about upcoming rodeo events.

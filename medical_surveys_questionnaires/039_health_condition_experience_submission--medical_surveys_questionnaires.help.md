@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to report their experiences with specific health conditions. The purpose of this form is to collect information about the user's personal data, condition-related details, and consent preferences. This form will likely be used by researchers and support organizations to better understand health conditions and their effects on individuals. **Please note that this form is intended for individuals who have a personal experience with a health condition, not for healthcare professionals or organizations.**
-
-Before filling out the form, please ensure that you are not submitting a duplicate report. If you have already submitted a report with the same email address, your previous report will be linked to this new submission.
-</thinking>
-
 # health-condition-experience-submission - Help Guide
 ## Purpose
 The purpose of this form is to collect user experiences with specific health conditions. This information will help researchers and support organizations better understand health conditions and provide valuable insights for improvement.

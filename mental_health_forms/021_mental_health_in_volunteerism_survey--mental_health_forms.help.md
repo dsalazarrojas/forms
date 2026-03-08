@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect data on an individual's involvement in volunteerism activities, their frequency of volunteering, and their mental health status. The purpose of this form is to gather information on the relationship between volunteerism and mental health outcomes. The questions on this form are designed to be simple and easy to understand, and no question is required to be answered. This form does not collect any sensitive or personal identifiable information, making it safe for anyone to complete.
-
-To ensure the accuracy and completeness of the data collected, please answer the questions truthfully and thoroughly. If you have any questions or concerns, please don't hesitate to contact us.
-
-Please note that this form is intended to be completed by individuals who have participated in volunteerism activities in the past or plan to participate in the future. If you are unsure about any question, please answer based on your best understanding of the question.
-
-Before starting, please make sure you have answered all questions truthfully and thoroughly. If you need to take a break, you can save your progress and come back later.
-
-Please answer the questions as they appear, and do not skip any questions. If you need help or have any concerns, please don't hesitate to contact us.
-
-When answering the questions, please use the options provided for the questions that are multiple choice. For questions that are open-ended, please provide as much detail as you need to answer the question truthfully and thoroughly.
-
-</thinking>
-
 # Mental Health In Volunteerism Survey - Help Guide
 ## Purpose
 The Mental Health In Volunteerism Survey is a form designed to collect data on an individual's involvement in volunteerism activities, their frequency of volunteering, and their mental health status. The purpose of this form is to gather information on the relationship between volunteerism and mental health outcomes.

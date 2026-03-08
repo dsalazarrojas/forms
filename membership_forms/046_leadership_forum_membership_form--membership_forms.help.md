@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by individuals interested in joining the leadership forum, a platform for sharing knowledge and best practices among professionals in the field of leadership. The form is designed to collect basic information about the individual, including their name, contact details, and professional background. The purpose of this form is to enable easy and efficient management of membership requests, ensuring that all relevant information is collected in a structured manner.
-
-</thinking>
-
 # Leadership Forum Membership Form - Help Guide
 
 ## Purpose

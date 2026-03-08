@@ -1,10 +1,3 @@
-<thinking>
-This is a sample guide to help end-users understand the "Patient Centered Design Awareness Survey". Before we proceed, let's consider the form's purpose and ensure it's relevant and not a duplicate.
-
-The "Patient Centered Design Awareness Survey" is a form designed to assess users' awareness and application of patient-centered design principles in healthcare. The survey aims to gauge respondents' knowledge and practices regarding the principles, components, and goals of patient-centered design.
-
-</thinking>
-
 # Patient Centered Design Awareness Survey - Help Guide
 ## Purpose
 The form is designed to test users' understanding of patient-centered design principles, including its definition, components, goals, and application in daily work.

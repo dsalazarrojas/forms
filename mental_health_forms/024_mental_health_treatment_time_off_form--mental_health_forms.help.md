@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to gather information from employees requesting mental health treatment time off. It's essential to fill this form accurately and completely to ensure that the HR department can process your request efficiently and effectively. Please note that this form is for internal use only, and the information provided will be kept confidential. You must fill out this form for each instance of requested mental health treatment time off. If you've filled out this form previously, you do not need to fill it out again unless there are changes to your information or you're requesting additional time off.
-</thinking>
-
 # Mental Health Treatment Time Off Form - Help Guide
 ## Purpose
 The Mental Health Treatment Time Off Form is a required form for employees to request mental health treatment time off. This form helps the HR department track and process your time off requests, ensuring that your needs are met and that you can focus on your mental well-being.

@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for individuals who are interested in Seint's Artist Program. The purpose of this form is to collect contact information and gather information on how the individual heard about the program and what interests them within the program. This form is used by the Seint team to understand the interest and demographics of potential participants in the program.
-
-Before proceeding, please note that:
-
-* All fields marked as 'required' are required to complete the form.
-* If a field is marked 'optional', you can skip it if you do not have the information available.
-* Please select 'Other' when choosing 'How did you hear about Seint's Artist Program?' if you heard about the program through a source that is not listed.
-
-This form has been designed for users who are new to Seint's Artist Program and would like to get in touch with us. If you are looking for more information on our program, please visit our website or social media channels instead.
-</thinking>
-
 # Seints-Artist-Program-Positively-Gorgeous - Help Guide
 ## Purpose
 This form is for individuals who are interested in Seint's Artist Program. It is used to collect contact information and gather information on how you heard about the program and what interests you within the program.

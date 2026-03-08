@@ -1,16 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form's purpose and fields to ensure clarity and relevance. The form is called "tea_basket_giveaway_entry", which implies it's a form for participants in a tea giveaway. The fields included are mostly for gathering personal and delivery information, agreement, and preference for a gift card. To confirm, the form is for participants in a giveaway event related to tea.
-
-Form fields seem to be for:
-- Gathering basic participant information (name, email, phone, address)
-- Capturing participant details (delivery details, participant details)
-- Gathering participant information for the gift card (agreement, brand, gift card option, value, email)
-- Collecting messages for the participant
-Form fields appear to be mostly self-explanatory, except for the "participant_details" and "participant_info" fields, which might be unclear without context. The "participant_details" field might be intended for capturing additional information about the participant, such as their role or involvement in the event. The "participant_info" field is likely for any other information the participant wants to provide.
-
-To clarify, we'll make sure to include explanations for these fields in the help guide.
-
-The form doesn't seem to be for internal use only. The fact that some fields are required or optional hints at it being for external participants. This form might be for people to fill out as part of a promotion or campaign. If this is correct, the form's purpose should be explained accordingly.</thinking>
-
 # tea_basket_giveaway_entry - Help Guide
 ## Purpose
 The "tea_basket_giveaway_entry" form is for participants in a tea giveaway event to provide their information and preferences for the gift card. This form is used to collect necessary details for the gift card and any other relevant information for the participant. The form is designed to be completed by external participants, such as customers or potential customers.

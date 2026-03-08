@@ -1,13 +1,3 @@
-<thinking>
-
-The New Flavor Concept Review Request Form is designed to collect and track information about new flavor concepts submitted by users for review. This form helps to ensure that all submissions meet the necessary criteria for review and approval. Before filling out this form, please note that:
-
-* This form is intended for new flavor concept submissions that are not already in the review process. If you are looking to review an existing flavor concept, please use the existing review form.
-* Duplicate submissions will not be accepted. Please ensure that you are not submitting the same flavor concept multiple times.
-* The form is only for flavor concepts that are ready for review. If you are submitting a flavor concept for the first time, please fill out this form completely.
-
-</thinking>
-
 # New Flavor Concept Review Request Form - Help Guide
 ## Purpose
 This form is used to submit new flavor concepts for review and approval. Please fill out this form completely and accurately to ensure that your submission meets the necessary criteria.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information on the marketing strategy for real estate properties. It is crucial to understand the purpose of this form is to help the marketing team to gather data on how to best reach the target audience and create an effective marketing plan. This form should only be filled out by authorized personnel and not duplicated. 
-</thinking>
-
 # real_estate_marketing_strategy_questionnaire - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from potential community members for the purpose of processing their membership applications. This form should not be used for any other purpose. 
-Please ensure that you are filling out this form with the intention of becoming a legitimate member of the community. 
-Please do not repeat this process if you have already submitted an application, as this may lead to duplicate entries in the system.
-</thinking>
-
 # Community Membership Application Form - Help Guide
 ## Purpose
 The Community Membership Application Form is designed to collect information from potential community members for the purpose of processing their membership applications. This form is intended for individuals who wish to become members of the community and participate in its activities.

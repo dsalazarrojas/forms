@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for submitting dental claims. It is essential to ensure that the claim is complete and accurate to avoid errors and delays in the processing. Before starting, ensure that you are submitting a claim that has not already been submitted or processed. Please refer to the relevant section in our documentation for more information on how to handle duplicate submissions.
-
-</thinking>
-
 # Dental Claim Form - Help Guide
 ## Purpose
 The dental claim form is a tool used to submit claims for reimbursement of dental services provided to patients. It is an essential part of the medical application process.

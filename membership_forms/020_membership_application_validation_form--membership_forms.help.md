@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect membership application information in a structured and standardized way, ensuring consistency and accuracy in data collection. The form will be used to validate membership applications, and its fields will be reviewed and updated based on business needs. Before filling out this form, ensure that the information is accurate and up-to-date, and that you have the necessary permissions to submit it. If you're unsure about any field or process, please reach out to our support team.
-</thinking>
-
 # Membership Application Validation Form - Help Guide
 ## Purpose
 This form is used to validate membership applications, ensuring that the information provided is accurate and up-to-date.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to capture patient information, which is a critical part of the medical process. This form is designed to be completed by male patients, and it includes sections to gather demographic, contact, medical, and consent information. This form should not be duplicated, as it contains sensitive patient data. Before proceeding, please ensure you have the necessary permissions to collect this information. 
-</thinking>
-
 # Male Medical Questionnaire - Help Guide
 ## Purpose
 The Male Medical Questionnaire is a form designed to collect patient information for medical purposes. It is intended for male patients and is a crucial part of the medical process.

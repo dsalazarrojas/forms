@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for merchants to create a template for streetwear orders, making it easy to process and manage orders with a structured format. To avoid duplication and ensure accurate data collection, please ensure that each order is unique and not a copy-paste of a previous order. It's also recommended to review the form fields carefully before submitting to avoid errors. The form is composed of the following fields, each with its own purpose and requirements.
-</thinking>
-
 # Streetwear Order Form Template - Help Guide
 ## Purpose
 The Streetwear Order Form Template is a structured form designed for merchants to process streetwear orders efficiently. This template collects essential customer and order information, including customer details, order date and time, order items, payment method, and more.

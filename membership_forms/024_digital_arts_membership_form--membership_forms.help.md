@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals and organizations interested in joining the Digital Arts community. The form is intended to gather basic contact information, member category, and other relevant details to facilitate the membership application process. The purpose of this form is to provide a structured and organized way to collect this information. This form does not appear to be a part of a larger process that would require a more in-depth or complex form, so it should be straightforward to complete. The fields are generally self-explanatory, but I will ensure that each field is described clearly in this help guide.
-</thinking>
-
 # Digital Arts Membership Form - Help Guide
 ## Purpose
 

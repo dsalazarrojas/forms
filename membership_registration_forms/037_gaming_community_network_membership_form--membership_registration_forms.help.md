@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in joining the Gaming Community Network. It is designed to gather details about the applicant's personal and gaming-related information, such as name, email, phone number, username, password, membership status, gaming experience, favorite game, favorite game genre, role in the community, and join date.
-</thinking>
-
 # Gaming Community Network Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in joining the Gaming Community Network. It is used to gather details about the applicant's personal and gaming-related information, which will be used to evaluate their suitability for membership and facilitate communication within the community.

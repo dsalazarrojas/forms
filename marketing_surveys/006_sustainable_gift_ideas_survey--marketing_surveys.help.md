@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users to better understand their preferences and behaviors related to sustainable gifts. The goal is to gather data on what type of gifts users prefer, what motivates them to give sustainable gifts, and other demographic information. The form will help identify trends and patterns in gift-giving habits and preferences, which can be used to inform marketing strategies and product development. Before starting, please ensure that you haven't filled out this form before, as it may be a duplicate submission.</thinking>
-
 # Sustainable Gift Ideas Survey - Help Guide
 ## Purpose
 This survey aims to understand your preferences and behaviors related to sustainable gifts. Your input will help us identify trends and patterns in gift-giving habits and inform our marketing strategies and product development.

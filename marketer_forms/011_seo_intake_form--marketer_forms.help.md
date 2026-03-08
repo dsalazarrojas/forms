@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data for search engine optimization (SEO) projects. It is meant to be completed by clients or customers who are seeking SEO services. The form helps to gather essential information from the client, such as their name, website URL, contact details, and specific requirements for the SEO project. This form ensures that the SEO team has a clear understanding of the client's needs and expectations.
-
-Before completing this form, please ensure that you have read and understood the instructions carefully. If you have any questions or need clarification on any of the fields, please do not hesitate to reach out to the SEO team.
-
-</thinking>
-
 # SEO Intake Form - Help Guide
 ## Purpose
 The SEO Intake Form is designed to collect essential information from clients or customers seeking search engine optimization services. This form helps the SEO team to understand the client's needs and expectations, allowing us to provide tailored solutions for their SEO projects.

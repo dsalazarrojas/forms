@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals and families to register for membership at the local zoo. The purpose of this form is to collect information necessary to process membership applications, which includes selecting the desired membership package, providing contact information, and providing additional details about the household members. This form is the standard method for zoo members to apply for membership renewal or new membership.
-</thinking>
-
 # Zoo Family Membership Application - Help Guide
 ## Purpose
 This form is designed for individuals and families to register for membership at the local zoo. It collects necessary information for membership application processing.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for individuals to submit their membership applications to the youth forum. The purpose of this form is to collect basic contact information from users. This is a straightforward, one-page form with fields for first name, last name, address, and city. The form does not require any optional fields. The form is designed to be completed by individuals interested in joining the youth forum.
-
-</thinking>
-
 # youth_forum_membership_form - Help Guide
 ## Purpose
 This form is used to collect contact information from individuals interested in joining the youth forum.

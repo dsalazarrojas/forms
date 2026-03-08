@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information about a website from users. It is intended to be used by marketing teams to gather insights and data about website user behavior and preferences. The form is not meant to be used for any other purpose.
-Please ensure that this form is used only for its intended purpose and not for any other use that may be considered misuse or duplication.
-</thinking>
-
 # website_survey - Help Guide
 ## Purpose
 The "Website Survey" form is used to collect feedback and information about a website from users. This data will help marketing teams gather insights and data about website user behavior and preferences.

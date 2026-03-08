@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cricket_club_member_registration_form - Help Guide
 ## Purpose
 The Cricket Club Member Registration Form is designed to collect information from interested individuals who want to become members of the Cricket Club. This form is intended for people who are willing to provide their personal details to be considered for membership.

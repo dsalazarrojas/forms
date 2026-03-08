@@ -1,8 +1,3 @@
-<thinking>
-This form is used to audit and review patient billing procedures. The purpose of this form is to ensure that all patient billing procedures are accurate and up-to-date. The form should be completed by authorized personnel to verify that the procedures have been performed correctly and that all necessary information is recorded. This form should not be used for duplicate entries or to audit procedures that have already been reviewed. 
-
-</thinking>
-
 # Patient Billing Procedures Audit Form - Help Guide
 ## Purpose
 The Patient Billing Procedures Audit Form is used to audit and review patient billing procedures to ensure accuracy and completeness.

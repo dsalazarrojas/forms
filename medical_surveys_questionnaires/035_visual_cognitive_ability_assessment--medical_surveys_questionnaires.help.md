@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visual Cognitive Ability Assessment - Help Guide
 ## Purpose
 The Visual Cognitive Ability Assessment form is designed to evaluate an individual's visual cognitive abilities, including visual processing, memory, learning, attention, and other related aspects. This form is intended to help assessors or clinicians understand a person's visual cognitive strengths and weaknesses.

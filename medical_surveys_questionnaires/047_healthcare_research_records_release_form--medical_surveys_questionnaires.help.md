@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Research Records Release Form - Help Guide
 ## Purpose
 The "Healthcare Research Records Release Form" is designed to facilitate the release of patient records for healthcare research purposes. This form helps researchers obtain necessary permissions from patients to access their medical records and conduct research without any legal or moral implications.

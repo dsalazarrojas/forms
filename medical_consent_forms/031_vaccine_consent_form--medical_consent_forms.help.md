@@ -1,5 +1,3 @@
-<thinking>**Internal Note:** This form is intended to gather vaccine consent from patients and providers for vaccine administration. It is a crucial document that ensures both parties understand and agree to the terms of the vaccination process. The form is designed to be completed in a few pages, with clear and concise fields that ensure understanding. Before proceeding, review the form carefully to understand the importance of providing accurate and clear consent. Please ensure that this form is only used for vaccine-related consents. If you have any questions or need clarification, contact the relevant medical authority.</thinking>
-
 # Vaccine Consent Form - Help Guide
 ## Purpose
 The Vaccine Consent Form is a document used to gather information and obtain consent from patients and providers for vaccine administration. It is a crucial step in the vaccination process to ensure that both parties understand and agree to the terms.

@@ -1,11 +1,3 @@
-<thinking>
-To ensure we're on the same page, let's break down the purpose and requirements of the Medical Information Form.
-The form aims to collect basic medical information from patients or individuals to help medical professionals understand their background, medical history, and current condition. This information can be used for various purposes such as insurance claims, medical research, or health assessments.
-To create this form, I've used public metadata from existing survey topics and adapted it to create a new, unique, and non-proprietary form. This ensures that the content is original and doesn't infringe on any rights from existing form platforms.
-The Medical Information Form has 8 fields, which are further broken down into 8 pages. Each page contains fields of varying types, including text, date, and multiple select options. The form doesn't ask for any additional information not explicitly stated in the inputSchema.
-With this foundation in mind, I'll now create a user-facing help guide for the form.
-</thinking>
-
 # Medical Information Form - Help Guide
 ## Purpose
 The Medical Information Form collects basic medical information from patients or individuals to help medical professionals understand their background, medical history, and current condition.

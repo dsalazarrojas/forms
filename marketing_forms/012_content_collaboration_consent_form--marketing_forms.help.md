@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: The Content Collaboration Consent Form is used for establishing a clear understanding between parties involved in content creation and co-ownership, ensuring all parties are aware of their roles, responsibilities, and expectations.
-This form serves to prevent any potential misunderstandings or disputes that may arise from content creation, ensuring that all collaborating parties have a shared understanding of the content type, ownership, usage rights, and other terms.
-Non-duplication check: Ensure that this form is not completed for a content piece that already has a valid collaboration agreement in place or for content not relevant to the collaboration (e.g., pre-existing content, internal only).
-
-</thinking>
-
 # Content Collaboration Consent Form - Help Guide
 
 ## Purpose

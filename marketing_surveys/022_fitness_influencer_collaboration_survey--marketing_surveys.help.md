@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'd like to clarify the purpose of the "Fitness Influencer Collaboration Survey" form. This form appears to be a tool for collecting information from fitness influencers to gauge their willingness to collaborate with a brand. It likely aims to assess their audience demographics, engagement rates, and collaboration preferences. To ensure this guide is relevant and accurate, could you please confirm that this is correct? Additionally, I'd like to inquire about the form's intended outcome. Is it used to identify potential collaborators for the brand or to understand the market landscape for a specific fitness-related project?</thinking>
-
 # Fitness Influencer Collaboration Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from fitness influencers who may be interested in collaborating with a brand. Please take a few minutes to complete this form, and we'll use your input to understand your collaboration preferences and potential as a partner.

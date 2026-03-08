@@ -1,10 +1,3 @@
-<thinking>
-The form "pre-competition-anxiety-assessment" is used to assess a user's anxiety levels before a competition or challenging event. This form is designed to help users rate their current emotional state, thoughts, and feelings. It is likely used in scenarios where the user is about to participate in a potentially high-pressure situation such as a sports event, public speaking, or presentation. This form may be used by individuals or groups to gather data on their anxiety levels, which can inform strategies for managing anxiety and improving performance in such situations.
-
-Before filling out this form, ensure that you have not already completed it, to avoid data duplication. It is recommended to complete this form just before the competition or event, so that your anxiety levels are accurately reflected.
-
-This guide will walk you through each section of the form and provide explanations for each field.</thinking>
-
 # pre-competition-anxiety-assessment - Help Guide
 ## Purpose
 The "pre-competition-anxiety-assessment" form is used to assess a user's anxiety levels before a competition or challenging event.

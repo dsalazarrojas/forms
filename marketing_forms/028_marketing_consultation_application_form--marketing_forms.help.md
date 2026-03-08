@@ -1,5 +1,3 @@
-<thinking>Marketing Consultation Application Form is designed to gather information from clients about their marketing needs and preferences. This form is intended to be used for initial consultations to understand the client's requirements and objectives. Before starting, please ensure you have not submitted a similar form in the past 30 days. This form is not meant to be a replacement for other forms like the "Client Onboarding Form". The goal of this form is to facilitate effective marketing strategies and communication. The form should be completed by the client or their representative, and it's recommended to review the filled form with the client before the consultation.</thinking>
-
 # Marketing Consultation Application Form - Help Guide
 ## Purpose
 The Marketing Consultation Application Form is used to gather information from clients about their marketing needs and preferences for an effective consultation.

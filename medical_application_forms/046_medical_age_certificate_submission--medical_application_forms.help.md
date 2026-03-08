@@ -1,9 +1,3 @@
-<thinking>
-This guide is to prevent duplication and ensure accurate submissions of medical age certifications for the applicant. To submit, the applicant should be at least 18 years old and the submission must be made by a healthcare provider. This form is intended to collect relevant demographic information and other required details for the applicant's medical age certification process.
-
-The form has 25 fields in total.
-</thinking>
-
 # medical_age_certificate_submission - Help Guide
 ## Purpose
 The medical age certificate submission form is designed to collect demographic information and other necessary details for the applicant's medical age certification process.

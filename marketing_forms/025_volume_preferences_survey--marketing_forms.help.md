@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture information about the customer's volume preferences, specifically about the type of customer volume data they have, how often they update this data, and other related information. This is to help us better understand the customer's needs and provide tailored solutions.
-We aim to collect this information from customers who have already interacted with our company, and we want to ensure that we are not duplicating efforts or wasting resources on customers who do not have the desired data. This form is part of a broader effort to improve customer relationships and provide more value to our customers.
-To ensure accuracy, we will review and follow up with customers to verify the information collected and provide clarification or corrections as needed.
-Please answer this form carefully and honestly, and let us know if you have any questions or need further clarification.
-</thinking>
-
 # Volume Preferences Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your volume preferences and provide more value to our customers. Please answer this form carefully and honestly.

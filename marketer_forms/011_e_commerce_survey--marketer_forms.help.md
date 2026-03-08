@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data about online shopping behavior and preferences of individuals.
-It's crucial to ensure that the form is not used to collect duplicate or irrelevant data.
-</thinking>
-
 # E Commerce Survey - Help Guide
 ## Purpose
 

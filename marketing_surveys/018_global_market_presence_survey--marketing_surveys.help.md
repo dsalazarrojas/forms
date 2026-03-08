@@ -1,7 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's consider the purpose of this form and whether it's a one-time or ongoing process. Based on the provided YAML, it appears to be a survey designed to collect information about a company's presence in the market. The form seems to be targeting customers or companies, and the questions cover various aspects such as company size, market presence, brand recognition, product availability, and customer satisfaction. The questions also touch on competitor analysis, market growth expectations, customer expectations, communication levels, and customer experience.
-
-To confirm, please let me know if this is a one-time survey for a specific campaign or a part of an ongoing process for regular feedback and analysis.</thinking>
-
 # Global Market Presence Survey - Help Guide
 
 ## Purpose

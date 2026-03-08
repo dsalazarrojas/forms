@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about consumer preferences and behavior related to flavored beverages. The purpose of this form is to understand what factors influence consumer decisions when purchasing flavored beverages, including demographics, flavor preferences, and purchase behavior. This form is intended for use by market researchers or product developers to inform the development of new products or marketing strategies.
-</thinking>
-
 # Beverage Consumer Flavor Inquiry Form - Help Guide
 ## Purpose
 The Beverage Consumer Flavor Inquiry Form is designed to gather information about consumer preferences and behavior related to flavored beverages. The form will help you understand your demographics, flavor preferences, and purchase behavior, providing valuable insights for market researchers and product developers.

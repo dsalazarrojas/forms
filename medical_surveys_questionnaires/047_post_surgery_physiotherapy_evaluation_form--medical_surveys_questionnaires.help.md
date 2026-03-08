@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect feedback and evaluation data from patients after they have visited a physiotherapist following a surgery. The purpose of the form is to assess the patient's mobility and pain levels, overall status, and any specific notes regarding their visit. This information will help physiotherapists to track the progress of patients and make informed decisions about their treatment plans.
-</thinking>
-
 # Post Surgery Physiotherapy Evaluation Form - Help Guide
 
 ## Purpose

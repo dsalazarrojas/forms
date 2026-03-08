@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nurses Direct Home Visit E Slip - Help Guide
 
 ## Purpose

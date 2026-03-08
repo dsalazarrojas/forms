@@ -1,15 +1,3 @@
-<thinking> This form is intended to gather information from users on what they would like to know or achieve in a specific context. The form has several fields to collect multiple categories of input. It seems to be a generic form for collecting user feedback or survey responses. The purpose of this form is likely to be used for internal data collection and analysis.
-
-Please note that the form appears to have a large number of fields, all of which are text fields. This could be because the form is designed to be highly customizable or adaptable to various use cases.
-
-Before completing this form, make sure you are aware of the context and purpose behind it. If you have any confusion, it would be best to contact the form creators or the relevant department for clarification.
-
-Also, note that this form does not have any validation rules or restrictions on input, so you can fill it in as needed and according to your understanding of the context.
-
-To avoid duplication of effort, please ensure that you don't submit the same information multiple times.
-
-</thinking>
-
 # what_would_you_like_to_know - Help Guide
 ## Purpose
 This form is designed to gather information from users on what they would like to know or achieve in a specific context.

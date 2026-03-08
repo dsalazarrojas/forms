@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect a patient's medical history information, which is essential for healthcare professionals to understand the patient's overall health status. This form is designed to be completed by patients or their representatives and should only be used for non-medical purposes. 
-The form's fields cover various aspects of a patient's health, including personal information, medical history, and lifestyle habits. 
-It is crucial to ensure that this form is completed accurately and honestly to provide valuable information for medical professionals. 
-Please note that if you're a healthcare provider or organization, you may need to modify or customize this form to suit your specific needs. 
-Also, be aware that the form's fields are not exhaustive, and additional information may be required in your specific context.
-</thinking>
-
 # Patient Medical History Form - Help Guide
 ## Purpose
 The Patient Medical History Form is designed to collect a patient's medical history information for non-medical purposes.

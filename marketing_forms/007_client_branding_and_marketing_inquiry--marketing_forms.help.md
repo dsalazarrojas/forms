@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to help clients provide detailed information about their branding and marketing requirements. The goal is to understand their needs and goals, and provide a tailored approach to meet their specific needs. This form is used by the marketing team to assess the project's scope, timeline, budget, and overall requirements.
-
-When filling out this form, please note that:
-
-*   Some fields are marked as "required" (marked with <code>), which means that this information is essential for the marketing team to understand your needs and provide accurate quotes.
-*   Some fields are optional, but providing additional information can help us tailor our approach and provide more precise services.
-*   For fields that have multiple options, please select all relevant choices to ensure we understand your needs accurately.
-*   If you have any questions or need clarification on any field, please do not hesitate to contact us.
-
-Please fill out the form below to provide your marketing requirements and goals.</thinking>
-
 # Client Branding And Marketing Inquiry - Help Guide
 ## Purpose
 This form is designed to help us understand your branding and marketing requirements so we can provide you with tailored services and solutions.

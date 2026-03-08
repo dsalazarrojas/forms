@@ -1,8 +1,3 @@
-<thinking> 
-To be eligible for approval, a mental health program must be accurately and thoroughly described. This form is meant to be used to gather information about your mental health program, including the program's name, description, and key details.
-This form is not meant for emergency situations or general inquiries. It is recommended to be used only when you have a mental health program ready for approval.
-Please make sure to fill out as much information as you can, and double-check everything to avoid any mistakes.</thinking>
-
 # mental_health_program_approval_form - Help Guide
 ## Purpose
 This form is used to gather information about mental health programs to be approved by the relevant authorities.

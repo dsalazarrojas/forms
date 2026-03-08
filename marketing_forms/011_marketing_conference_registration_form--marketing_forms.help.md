@@ -1,13 +1,3 @@
-<thinking>
-To confirm that the form is being used for its intended purpose and to ensure that the form is not being duplicated or used in an incorrect context, please review the following:
-
-*   The form is intended for marketing conference registration purposes only.
-*   This form is not intended for use in any other context, such as event registration for other types of events or conferences.
-*   If you are not a marketing conference attendee or staff member, please do not use this form.
-*   If you are unsure about the purpose of this form, please reach out to the marketing department for clarification.
-
-</thinking>
-
 # Marketing Conference Registration Form - Help Guide
 ## Purpose
 This form is for registering attendees for a marketing conference. It gathers necessary information for conference organizers and staff to manage conference attendees, including contact information, registration and payment information, and other relevant details.

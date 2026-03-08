@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that users understand its purpose and usage. This form is intended for ordering materials, and it's essential to fill it out accurately to ensure timely and efficient delivery. To prevent duplication, we'll only allow users to fill out this form once. It's also crucial that users complete all required fields, and if they have any special requests or instructions, they should be entered in the "special_requests" field. Lastly, users should enter their contact information accurately, as this will help us communicate with them efficiently.
-</thinking>
-
 # Material Order Form - Help Guide
 ## Purpose
 The Material Order Form is a tool used to order materials from our inventory. It's essential to fill out this form accurately to ensure that we can process your order correctly and deliver the materials as soon as possible.

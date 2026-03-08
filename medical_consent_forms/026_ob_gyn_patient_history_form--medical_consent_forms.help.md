@@ -1,17 +1,4 @@
-> <thinking>...
-  This form is intended to collect patient history information for obstetric care purposes. 
-  It appears to be a comprehensive form for collecting various aspects of a patient's medical history, 
-  including general information, medical history, family medical history, pregnancy information, 
-  obstetric history, medical allergies, medications, surgical history, medical conditions, 
-  patient consent, and contact information. 
-  The form's purpose is to gather essential details for healthcare professionals to provide 
-  proper care and treatment to the patient. 
-  However, please note that this form might not be relevant to the specific context or purpose 
-  of your organization or practice. It is essential to ensure that the form is completed accurately 
-  and not duplicated, as it may be part of a larger workflow or system.
-  ...</thinking>
-
-# Ob Gyn Patient History Form - Help Guide
+> # Ob Gyn Patient History Form - Help Guide
 ## Purpose
 The Ob Gyn Patient History Form is a comprehensive form designed to collect essential information about a patient's medical history, including obstetric care-related details.
 

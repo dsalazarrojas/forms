@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from athletes and coaches about their COVID-19 status, including vaccination history, contact with confirmed cases, symptoms, travel history, medical attention, and other relevant details. This form is designed to help in the assessment and management of COVID-19 cases.
-Before filling out this form, please ensure that you have not filled it out previously and that you are not duplicating your information. If you have already filled out this form, you can review your answers to ensure that they are up-to-date and accurate.
-</thinking>
-
 # IHUK COVID 19 Athlete/Coach Questionnaire - Help Guide
 ## Purpose
 The form is designed to collect information about your COVID-19 status, including vaccination history, contact with confirmed cases, symptoms, travel history, medical attention, and other relevant details. This information is essential for the assessment and management of COVID-19 cases.

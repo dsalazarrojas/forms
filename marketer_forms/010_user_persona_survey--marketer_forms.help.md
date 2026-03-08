@@ -1,18 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a marketer's role, experience, and preferences when using marketing automation tools. The purpose of this form is to help us better understand the needs and pain points of marketers like you, so we can provide more relevant and effective solutions for your business needs.
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created using public survey topic metadata as inspiration. You are free to use, modify, and even sell forms derived from it, just give credit.
-
-To ensure a smooth completion of this form, please make sure to:
-
-* Answer all the required questions (indicated by an asterisk *)
-* Select one or multiple options for the corresponding select questions
-* Provide a brief answer for text fields
-* Be honest and accurate in your responses
-
-</thinking>
-
 # User Persona Survey - Help Guide
 ## Purpose
 This form is designed to gather information about you as a marketer, so we can better understand your needs and preferences when using marketing automation tools.

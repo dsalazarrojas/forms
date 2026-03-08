@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from patients before an appointment, ensuring they provide necessary medical history, current symptoms, exposure risks, and travel history. The form's goal is to collect relevant data that healthcare professionals can use to make informed decisions about the patient's care.
-
-This form should not be used for patients who are already hospitalized or have a severe medical condition requiring immediate attention. It is intended for patients with stable conditions who can fill out the form independently.
-</thinking>
-
 # Pre Appointment Wellness Form - Help Guide
 ## Purpose
 This form is designed to gather medical information from patients before an appointment, helping healthcare professionals make informed decisions about their care.

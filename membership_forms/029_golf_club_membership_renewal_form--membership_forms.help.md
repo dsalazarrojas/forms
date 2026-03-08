@@ -1,15 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the purpose and functionality of the Golf Club Membership Renewal Form. This form is designed to allow golf club members to renew their membership, providing necessary information for the club's administration and management. The form should only be used by active golf club members to renew their membership. 
-
-It's assumed that the form will be filled out by members who are familiar with the club's policies and procedures, and that they will be able to provide accurate and relevant information.
-
-To prevent duplication, it's suggested that the form be completed only once a year, during the renewal period, and that members will receive a notification when the renewal form is available for completion.
-
-This guide is designed to provide clear and concise instructions on how to complete the form, as well as explanations of each field's purpose and requirements.
-
-</thinking>
-
 # Golf Club Membership Renewal Form - Help Guide
 ## Purpose
 The Golf Club Membership Renewal Form is a tool for active golf club members to renew their membership with the club. This form is used to collect necessary information for the club's administration and management, ensuring that members' data is up-to-date and accurate.

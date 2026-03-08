@@ -1,14 +1,3 @@
-<thinking>
-The Material Requisition Form is designed to help employees or authorized personnel submit material requests for equipment, supplies, or other resources that are required for their work tasks. This form ensures that material requisitions are submitted in a systematic and trackable manner, allowing for efficient resource management and procurement processes.
-
-The form is used to create and manage requisitions for materials and equipment, which will help ensure that the right resources are available when needed. By filling out this form, you'll be able to request materials, equipment, and resources that are necessary for your work tasks, and provide essential details for procurement and delivery.
-
-To complete this form, ensure that all required fields are filled in accurately and truthfully. If a field is not required, fill it in if you have additional information to provide. If you're unsure about any field, use your best judgment or consult with someone in charge of material procurement for guidance.
-
-Please fill out the form carefully, as it will help in making informed procurement decisions.
-
-</thinking>
-
 # Material Requisition Form - Help Guide
 
 ## Purpose

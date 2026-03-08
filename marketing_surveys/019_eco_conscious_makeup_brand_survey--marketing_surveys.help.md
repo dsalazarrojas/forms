@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather data about users' perceptions and concerns regarding eco-conscious makeup brands. It is designed to collect information on whether users identify as eco-conscious, their product usage habits, and their concerns about environmental issues related to the beauty industry. The form also asks about their favorite eco-friendly brand and allows for open-ended comments in the "Notes" field.
 
 # Eco Conscious Makeup Brand Survey - Help Guide

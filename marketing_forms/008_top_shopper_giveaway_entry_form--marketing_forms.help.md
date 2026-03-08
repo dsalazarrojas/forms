@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-This form is designed to gather information from participants who want to take part in the "Top Shopper Giveaway" event. The form is divided into sections, each focusing on different aspects of participant details, address, company, confirmations, and additional information. Each field is meant to be filled out by the participant themselves. The fields are designed to ensure accuracy and clarity in the information provided. This form checks for non-duplication to prevent multiple submissions from the same participant. The form's purpose is to collect accurate and relevant data for further processing and decision-making. The form fields are not mandatory, so participants can choose to provide only the necessary information. 
-
-</thinking>
-
 # Top Shopper Giveaway Entry Form - Help Guide
 ## Purpose
 This form is designed to gather information from participants who want to take part in the "Top Shopper Giveaway" event.

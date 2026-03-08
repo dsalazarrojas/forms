@@ -1,16 +1,3 @@
-<thinking>
-A Financial Consent Form is a document that captures the required information to obtain a patient's consent for medical services and procedures. This form aims to gather essential details that help medical practitioners and facilities ensure they have the patient's approval and agreement on the fee structure and payment terms. By using this form, patients can make informed decisions about their care and payment, promoting a transparent and collaborative relationship between the healthcare provider and patient.
-
-The Financial Consent Form is intended to be filled out by a medical practitioner and signed by the patient, and the form is not meant to be a comprehensive or exhaustive document. It serves as an agreement between the patient and the healthcare provider on the financial terms and conditions of the medical services.
-
-Before filling out the form, ensure that you have all the required information and documents, such as the medical practitioner's license number, the patient's address and name, and any relevant medical details.
-
-The Financial Consent Form is an adaptation of an AI-generated form, designed to be used as a starting point for your organization's specific needs. While it is free to use, modify, and share, please give proper credit to the form's creators.
-
-This guide will walk you through each field of the form, explaining its purpose, required information, and any relevant hints or tips.
-
-</thinking>
-
 # Financial Consent Form - Help Guide
 ## Purpose
 The Financial Consent Form is a document that captures the required information to obtain a patient's consent for medical services and procedures.

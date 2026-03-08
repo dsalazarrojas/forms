@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Research Data Declaration Form - Help Guide
 ## Purpose
 The Medical Research Data Declaration Form is a tool used to collect medical information from participants in a research study. This form helps researchers gather essential data about the participant's medical history, contact details, medical conditions, medical specialties, medications, allergies, emergency contacts, health insurance, and medical record number. This information is crucial for the researchers to understand the participant's health status and ensure accurate data collection.

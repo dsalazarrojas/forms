@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in becoming members of the IMA PANP Association. The form is intended to collect personal and professional information from applicants, including their contact details, professional credentials, and membership preferences. The data collected will be used to facilitate the membership application process, verify credentials, and provide benefits to members. 
-</thinking>
-
 # 2020 IMA PANP Association Membership Application - Help Guide
 ## Purpose
 

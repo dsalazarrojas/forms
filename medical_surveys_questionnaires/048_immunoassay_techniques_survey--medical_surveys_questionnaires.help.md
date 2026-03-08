@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about immunoassay techniques, which are used in medical research and testing. The form will ask you to select methods, indicate their frequency of use, and provide details on their applications and challenges. This form will also collect contact information, such as email and phone number, and provide an optional section for additional notes.
-
-This form seems to be a survey designed to gather data on the immunoassay techniques used in various contexts, possibly for research or educational purposes. To avoid duplication of data, please only respond once.
-
-</thinking>
-
 # Immunoassay Techniques Survey - Help Guide
 ## Purpose
 ## How To Complete This Form

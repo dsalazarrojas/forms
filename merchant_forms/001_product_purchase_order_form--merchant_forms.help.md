@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Purchase Order Form - Help Guide
 
 ## Purpose

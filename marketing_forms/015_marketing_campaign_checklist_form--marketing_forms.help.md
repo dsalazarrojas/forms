@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to create a comprehensive marketing campaign checklist for a specific marketing campaign. This form allows users to define the campaign's details, such as its name, start and end dates, list of tasks, review status, and deadline. Each field is designed to provide necessary information for a campaign manager to oversee and track the campaign's progress.
-</thinking>
-
 # Marketing Campaign Checklist Form - Help Guide
 ## Purpose
 The Marketing Campaign Checklist Form is a tool used to create and manage marketing campaign information. This form helps campaign managers keep track of key details such as campaign name, start and end dates, tasks, and review status to ensure the campaign stays on track.

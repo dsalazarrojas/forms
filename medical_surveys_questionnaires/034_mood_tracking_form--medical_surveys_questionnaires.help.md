@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to track and monitor a patient's mood, energy level, motivation, anxiety, sleep quality, appetite, social interaction, and other health-related information. This information can be used by healthcare professionals to gain insights into the patient's mental and physical well-being. 
-The form is typically filled out by patients or their caregivers, and the data collected will help healthcare providers tailor their treatment plans to meet the patient's specific needs. This form is a standard tool used in various healthcare settings, and its completion is a routine part of patient care.
-
-The form's fields are designed to be straightforward and easy to understand, with each field providing valuable information that can help healthcare professionals make informed decisions. 
-
-Before completing the form, please ensure you have the necessary permissions and understand the purpose of each field. If you're unsure about any field, feel free to ask for clarification.
-</thinking>
-
 # Mood Tracking Form - Help Guide
 ## Purpose
 The Mood Tracking Form is a tool used to monitor and track patients' mental and physical health. By filling out this form, patients can help healthcare professionals understand their current well-being, which can inform treatment plans and improve patient care.

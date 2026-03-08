@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "innovation_membership_club" form, I'll follow the provided instructions and use the form's YAML configuration to inform the content.
-
-This form is part of the "membership_registration_forms" category, likely used for registering members in an innovation-focused club or community. The form is designed to collect information from individuals interested in joining the club. The purpose of this guide is to walk users through the form's completion process and explain each field in detail.
-
-</thinking>
-
 # innovation_membership_club - Help Guide
 ## Purpose
 The "innovation_membership_club" form is used to register individuals interested in joining an innovation-focused club or community. This form collects basic information to facilitate membership registration.

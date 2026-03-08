@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about users who wish to participate in the discount wheel, a marketing promotion. The form should only be filled out by users who have been invited to participate in the campaign. The purpose of the form is to collect the necessary information to process their participation and reward them accordingly. To prevent duplicate entries, the form will only be accessible to users who have received a unique invitation code.
-</thinking>
-
 # discount_wheel_participation_form - Help Guide
 ## Purpose
 The "discount wheel participation form" is a marketing promotion that allows users to participate in a reward program. To be eligible, users must have received a unique invitation code. This form is used to collect information about the user, including their contact details and campaign specifics.

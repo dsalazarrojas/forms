@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form's purpose, relevance, and non-duplication, let's analyze the provided YAML fields and identify any potential issues or areas that require clarification.
-</thinking>
-
 # Medical Equipment Authorization Form - Help Guide
 ## Purpose
 This form is designed to collect information about medical equipment authorization. It is intended for individuals who need to authorize medical equipment for use or access.

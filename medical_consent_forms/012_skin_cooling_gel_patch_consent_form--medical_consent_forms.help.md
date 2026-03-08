@@ -1,5 +1,3 @@
-<thinking>...This form is used for obtaining skin cooling gel patch related consent from users. This form is a critical component of the medical process and helps ensure that users understand the risks, benefits, and procedures involved in using the skin cooling gel patch. Before filling out this form, please ensure that you have read and understood the information provided and that you are aware of your medical conditions and current medications. This form is used to collect contact information, medical conditions, and other relevant details from users. Please fill out this form accurately and completely to ensure that your data is recorded correctly. If you have any questions or concerns, please reach out to the assigned tool administrator for assistance.</thinking>
-
 # Skin Cooling Gel Patch Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from users for the use of skin cooling gel patches. It collects contact information, medical conditions, and other relevant details from users.

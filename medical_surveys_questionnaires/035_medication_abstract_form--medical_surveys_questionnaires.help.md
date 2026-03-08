@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users about medication shipments and purchase information. It's likely used in the medical or pharmaceutical industry to gather data on medication abstracts, which are summaries or abstracts of medication information. This form is an AI-generated adaptation of a form, not affiliated with or endorsed by any specific platform, and is released under a Creative Commons license.
-
-Before proceeding, please note that this form is for general information purposes only and should not be used for any sensitive or confidential data collection. If you are unsure about the form's purpose or have concerns, please verify with your organization or the form's administrator.
-
-</thinking>
-
 # medication_abstract_form - Help Guide
 ## Purpose
 The medication abstract form is designed to collect information from users about medication shipments and purchase information. This form is useful for medical or pharmaceutical professionals to gather data on medication abstracts, which are summaries or abstracts of medication information.

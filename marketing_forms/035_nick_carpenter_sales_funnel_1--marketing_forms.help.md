@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect sales-related information for lead tracking and analysis. It appears to be a generic sales funnel form, likely used for sales teams to capture relevant details about potential customers or leads. The form has a mix of text fields for general information like user, home, and contact info, as well as select multiple fields for categorizing users by user type and lead type. However, upon closer inspection, it seems that some fields may not be strictly necessary for the form's intended purpose, such as the phone and email fields. To avoid duplication of effort, it's essential to carefully evaluate the form's requirements and ensure it's filled out correctly.
-</thinking>
-
 # Nick_Carpenter_Sales_Funnel_1 - Help Guide
 ## Purpose
 This form is used to collect sales-related information for lead tracking and analysis.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for enrolling students into a school sports clinic program. The purpose of this form is to gather information from parents or guardians to ensure proper enrollment and payment processing. This form should only be used for students who are interested in participating in one of the school sports offered. 
-</thinking>
-
 # School Sports Clinic Enrollment Form - Help Guide
 
 ## Purpose

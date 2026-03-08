@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "website_suggestion_form_template" form. The form purpose is to collect suggestions and feedback from users, which will help the website owner to improve and enhance the user experience. This guide will explain how to complete the form, what each field means, and provide some additional tips for the users.</thinking>
-
 # website_suggestion_form_template - Help Guide
 ## Purpose
 The website suggestion form is designed to collect suggestions and feedback from users about the website. This form will help the website owner to understand what users like or dislike about the website, identify areas for improvement, and make data-driven decisions to enhance the user experience.

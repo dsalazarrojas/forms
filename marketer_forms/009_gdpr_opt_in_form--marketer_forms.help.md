@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect opt-in information from users on how they would like to be contacted and communicated with, specifically regarding GDPR-related matters. This form will help us understand their preferences and tailor our communication to their needs. Please make sure to complete the form only once, as repeating this process is unnecessary and may lead to duplicate entries in our database.
-</thinking>
-
 # GDPR Opt In Form - Help Guide
 ## Purpose
 This form is used to collect your consent and preferences on how we should contact and communicate with you, specifically regarding GDPR-related matters. We want to make sure we respect your boundaries and preferences.

@@ -1,15 +1,3 @@
-<thinking>
-
-The Factory Soundproof Panel Order Form is used to collect information necessary for the production and installation of soundproof panels for a client. This form is used to gather details about the client's delivery address, installation date and time, panel type, size, color, and other relevant information that will aid in the creation of the panels. 
-
-The form is designed to be completed by the client or their representative to ensure accurate and clear communication with the factory.
-
-To determine if this form is relevant to your situation, consider whether you need to order soundproof panels for installation in a building or room. If so, this form will help guide you through the necessary information collection process.
-
-Please ensure this form has not been completed before, especially if you have provided similar information to us in the past. Duplicate information may lead to errors and delays in production and installation.
-
-</thinking>
-
 # Factory Soundproof Panel Order Form - Help Guide
 ## Purpose
 

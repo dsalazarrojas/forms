@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, this form is only accessible to authorized marketing team members. The form is designed for project managers to submit marketing services order requests to the marketing team. The form is used to gather essential information about the project, including the customer's name, project details, start and end dates, project lead information, and other relevant details. Marketing team members will use this information to prioritize and manage their workload efficiently. To fill out this form, please follow the instructions below.
-</thinking>
-
 # Marketing Service Order Form - Help Guide
 ## Purpose
 The Marketing Service Order Form is used for project managers to submit requests for marketing services to the marketing team. This form gathers essential information about the project, which is then used to prioritize and manage tasks efficiently.

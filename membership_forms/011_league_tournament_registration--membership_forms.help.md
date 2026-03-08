@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # League Tournament Registration - Help Guide
 ## Purpose
 This form is designed to collect information from users to register for a league tournament. The purpose of this form is to gather details about the team and tournament settings for the league.

@@ -1,20 +1,3 @@
-<thinking>
-The form "trade_association_membership_form" is used to collect information from users about their interest in becoming a member of a trade association. The purpose of this form is to gather essential details about the user's identity, contact information, and membership interest. The form is likely used by the association to understand who is interested in joining and tailor their services and communication accordingly.
-
-To complete this form, the user will be presented with several fields that need to be filled in. The form is divided into the following sections: 
-
-* First Name
-* Last Name
-* Address
-* Email
-* Phone
-* Membership Interest
-* Comments
-
-Each field is optional, but providing accurate and complete information will help the association to better serve the user's needs.
-
-</thinking>
-
 # trade_associiation_membership_form - Help Guide
 ## Purpose
 The trade_associiation_membership_form is used to collect information from users about their interest in becoming a member of a trade association.

@@ -1,7 +1,3 @@
-<thinking>
-The Digital Advertising Appointment Form is used to schedule appointments for marketing activities. The form is designed to collect information from potential clients, including their contact details, appointment preferences, and other relevant information. Before filling out this form, ensure you have the necessary permissions and approvals to book an appointment.
-</thinking>
-
 # Digital Advertising Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential clients for the purpose of scheduling marketing activities such as meetings, phone calls, or demos. The information collected will help us determine the best time and date for the appointment, and assign the booking manager to ensure a smooth and successful appointment.

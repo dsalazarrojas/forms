@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, I will analyze the provided YAML fields. The form appears to be designed for medical professionals to collect information about patients, specifically regarding their nutritional protocols and medical conditions. The form has multiple fields for medical surveys, questionnaires, and patient information, which suggests that it is used to gather data for clinical or research purposes. The presence of fields such as "Medical Specialty", "Medical Condition", and "Medication Use" implies that the form is used to assess the patient's medical history and health status. The field "Nutrition Protocol" also suggests that the form is related to nutritional recommendations for patients.
-
-To ensure non-duplication, I will check for similar forms or processes within the organization. However, without further information, it is difficult to determine whether there are similar forms or processes.
-
-The form seems to be designed for both clinical and research purposes, possibly for a healthcare organization or a medical research institution.
-</thinking>
-
 # Nutritional Protocol Recommendations Form - Help Guide
 ## Purpose
 The Nutritional Protocol Recommendations Form is designed to collect information about patients' medical conditions, nutritional protocols, and other relevant health status details. This form is used by medical professionals to gather data for clinical or research purposes.

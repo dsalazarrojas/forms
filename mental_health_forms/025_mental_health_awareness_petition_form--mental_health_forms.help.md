@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Awareness Petition Form - Help Guide
 ## Purpose
 The Mental Health Awareness Petition Form is used to collect information and signatures from individuals or organizations in support of mental health awareness. This form is designed to gather essential details, including names, contact information, and a personal message, to help raise awareness and promote mental health initiatives.

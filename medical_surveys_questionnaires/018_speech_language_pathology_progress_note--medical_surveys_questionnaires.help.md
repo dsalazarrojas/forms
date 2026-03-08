@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document progress and notes from speech and language pathology sessions. It will help speech-language pathologists (SLPs) track and record important information about their clients' progress. This form should only be completed by SLPs or authorized personnel. To avoid confusion, please ensure that each form is completed accurately and thoroughly. Note that some fields may be optional but are still important for maintaining consistency and clarity in the progress notes. This form does not duplicate any other forms in the system.
-</thinking>
-
 # Speech/Language Pathology Progress Note - Help Guide
 ## Purpose
 This form is used to document progress and notes from speech and language pathology sessions.

@@ -1,9 +1,3 @@
-<thinking>**Internal reasoning:**
-
-This form is used to track and manage therapy session liabilities, payment terms, and refund policies. The goal is to gather information from clients about their payment methods, session details, and refund requests. This form ensures that all relevant client and payment information is captured, helping to prevent errors and improve the overall user experience. To avoid duplication, ensure that each field is only filled out for each unique session or client interaction.
-
-</thinking>
-
 # Therapy Liability And Payment Form - Help Guide
 
 ## Purpose

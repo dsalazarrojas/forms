@@ -1,8 +1,3 @@
-<thinking> 
-This form seems to be a comprehensive Wellness Form with multiple fields and options designed for various input and selection tasks. It appears to be used to gather information about users, their wellness, and preferences. There are fields for user input, email, phone number, select one and multiple options, text, integer, decimal, date, time, notes, form ID, assigned tools, and category selections. It also seems to be used for duplicate purposes, possibly for backup or comparison. The form is designed for a specific group of users, likely those in charge of wellness and user management. It's essential to understand the specific business logic and requirements of this form to determine if all fields are necessary and relevant.
-
-To confirm this interpretation, I would recommend checking with your team and stakeholders to ensure that all fields are properly explained, and the form's purpose is well-defined.</thinking>
-
 # Wellness Form BTS - Help Guide
 ## Purpose
 This form is used to collect information about users, their wellness, and preferences. It seems to be a duplicate or backup form to gather additional data.

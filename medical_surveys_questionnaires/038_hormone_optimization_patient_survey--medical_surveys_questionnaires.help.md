@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information from patients regarding their hormone optimization needs. The purpose is to gather data on patient demographics, medical history, medication use, and health status to better understand the effectiveness of hormone optimization treatments. This form will help healthcare professionals assess the patient's overall health and provide personalized recommendations for hormone optimization. 
-
-Before starting to complete this form, please ensure that you have all necessary information and documents required to fill out this form accurately. If you have any questions or need clarification on any of the fields, please don't hesitate to ask your healthcare provider. 
-
-This form should not be used for commercial purposes or to gather information on multiple patients at once. It's meant for individual patients and their specific needs.
-
-This form is part of the "medical_surveys_questionnaires" category, which focuses on collecting patient data for better patient care. The form's structure ensures that all required information is captured, and the questions are designed to be straightforward and easy to understand.
-
-Before proceeding to fill out the form, review the fields below carefully to ensure that you're ready to provide accurate information. This will help you and your healthcare provider have a better understanding of your hormone optimization needs.
-
-If you need help or clarification on any of the form fields, please don't hesitate to ask your healthcare provider.
-</thinking>
-
 # Hormone Optimization Patient Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from patients regarding their hormone optimization needs. This information will help healthcare professionals assess the patient's overall health and provide personalized recommendations for hormone optimization.

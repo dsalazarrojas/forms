@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used within an organization to gather information from potential beta testers of a medical app. The purpose of this form is to collect their consent to participate in the beta testing process and obtain their details for communication and follow-up purposes. It is not clear if this form is for internal use or if it will be shared with external parties, such as app developers or other medical professionals. 
-</thinking>
-
 # Medical App Development Beta Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to collect the necessary information and consent from individuals interested in participating in the beta testing of the medical app. This includes their details for contact, medical background, and participation information.

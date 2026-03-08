@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health_anxiety_awareness_survey - Help Guide
 ## Purpose
 This form is designed to assess your health anxiety level, identify your coping strategies, and provide insight into your mental health experiences and resources. It is intended to be a comprehensive tool for individuals seeking to better understand their mental well-being and identify areas for improvement.

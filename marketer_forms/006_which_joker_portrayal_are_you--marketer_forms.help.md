@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their preferences and characteristics related to the Joker. It is likely used for market research or analysis, possibly to gauge audience engagement or sentiment towards the character. The form asks a series of questions about the user's relationship with the Joker, ranging from basic information like favorite characters to more subjective opinions on joke style and personality types. It's worth noting that some fields seem to be duplicated or have similar questions, which might be a result of the form being in development or refinement stage. However, the current state of the form provides a good starting point for understanding the user's perspective on the Joker character.
-</thinking>
-
 # Which_Joker_Portrayal_Are_You - Help Guide
 ## Purpose
 This form is designed to collect information from users about their preferences and characteristics related to the Joker.

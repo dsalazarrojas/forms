@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect website content requests from users. It is intended to gather specific information about the website and the user's requirements. Before filling out this form, ensure that the request is not a repeat or duplicate, and that the information provided is accurate and up-to-date.</thinking>
-
 # Website Content Request Form - Help Guide
 ## Purpose
 This form is used to collect website content requests from users. It is intended to gather specific information about the website and the user's requirements.

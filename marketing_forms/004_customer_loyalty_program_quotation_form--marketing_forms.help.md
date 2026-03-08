@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers regarding their participation in a customer loyalty program. This form helps to create a quotation for the customer's loyalty program, which may include details such as the program type, quoted price, terms and conditions, and other relevant information. This form is designed to be completed by customers to provide their personal details and preferences, as well as business information such as the sales person responsible and any additional business notes.
-
-This form is a critical component of the customer loyalty program process, and it is essential to ensure that all required fields are completed accurately to avoid any errors or miscommunication. This guide will walk you through the form step by step to help customers complete it efficiently and effectively.
-
-</thinking>
-
 # Customer Loyalty Program Quotation Form - Help Guide
 
 ## Purpose

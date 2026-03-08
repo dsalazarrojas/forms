@@ -1,16 +1,3 @@
-<thinking>
-This form is used for users to subscribe to a cruise line membership. The form is designed to collect user and contact information, payment details, and membership preferences. 
-
-The form includes two main categories: user info and contact information, which are optional but can be useful for the membership team to get in touch with the user in case of any issues or promotions.
-
-The payment info category includes fields for payment method, date, amount, and email. The payment method field is a dropdown list with 'Yes' or 'No', which means the user can choose whether they want to be charged or not. The payment date field is a date field where the user can select a date when they want to be charged. The payment amount field is a numeric field where the user can input the amount they want to pay. The email field is a field where the user can input their email address.
-
-The membership preferences category includes fields for membership level, cruise line, ship, cabin, membership status, and membership start and end dates. The membership level field is a dropdown list with 'High' or 'Low', which means the user can choose the level of membership they want. The cruise line field is a dropdown list with 'Yes' or 'No', which means the user can choose whether they want to be part of a cruise line or not. The ship field is a dropdown list with 'Yes' or 'No', which means the user can choose whether they want to be part of a specific ship or not. The cabin field is a dropdown list with 'Yes' or 'No', which means the user can choose whether they want to be part of a specific cabin or not. The membership status field is a dropdown list with 'Active' or 'Inactive', which means the user can choose whether they want to be active or inactive. The membership start and end dates are date fields where the user can select the start and end dates of their membership.
-
-The form also includes two fields for note, which are optional. The notes field is a field where the user can input any notes they want to provide.
-
-</thinking>
-
 # cruise_line_membership_subscription_form - Help Guide
 ## Purpose
 This form is used to help users subscribe to a cruise line membership. It collects user and contact information, payment details, and membership preferences.

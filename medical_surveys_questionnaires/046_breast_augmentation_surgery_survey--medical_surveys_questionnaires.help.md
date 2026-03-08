@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Breast Augmentation Surgery Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from patients who have undergone breast augmentation surgery. Your input will help us better understand the outcomes of this type of procedure and identify areas for improvement.

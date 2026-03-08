@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the IVF Cost Assessment Survey form. This form is designed to help users assess the costs associated with in-vitro fertilization (IVF) treatments. The form is likely used by individuals or couples who are considering IVF as an option for fertility treatment. It's essential to make sure this form is completed accurately and effectively to help users understand their financial situation and potential costs involved. We should ensure that the form is easy to understand and complete, and that each field is clearly explained. We should also consider that users may not be familiar with medical terminology, so explanations should be straightforward and concise. Before we start, let's confirm that this form is not a duplicate or unnecessary, and that it serves a specific purpose within the medical surveys and questionnaires category.</thinking>
-
 # IVF Cost Assessment Survey - Help Guide
 ## Purpose
 The IVF Cost Assessment Survey is designed to help individuals or couples assess the costs associated with in-vitro fertilization (IVF) treatments. This form will guide you through a series of questions to help you understand your financial situation and potential costs involved in IVF treatments.

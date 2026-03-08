@@ -1,25 +1,3 @@
-<thinking>
-Internal reasoning block to ensure the form purpose and fields are understood correctly:
-- The form is intended to collect requests for marketing materials printing, which includes various options like materials, colors, sizes, quantities, and artwork upload. The form is designed to be completed by end-users to provide the necessary details for printing requests.
-- The form fields are divided into several categories, including:
-  - **Marketing Material Printing Request Form**: This is the main title of the form.
-  - **Print Specs**: This field allows end-users to specify the print specs for the marketing material.
-  - **Quantities**: This field is for entering the quantity of the marketing material needed.
-  - **Deadline**: This field is for entering the deadline for the printing request.
-  - **Artwork Upload**: This field is not used in this form and may be considered for removal.
-  - **Select Material**: This field allows end-users to choose the material to be printed.
-  - **Select Color**: This field allows end-users to choose the color for the printed material.
-  - **Select Finish**: This field allows end-users to choose the finish type for the printed material.
-  - **Select Size**: This field allows end-users to choose the size of the printed material.
-  - **Select Quantity**: This field allows end-users to choose the quantity of the printed material.
-  - **Select Unit**: This field allows end-users to choose the unit for the printed material.
-  - **Select Shape**: This field allows end-users to choose the shape of the printed material.
-  - **Select Material Type**: This field allows end-users to choose the material type for the printed material.
-  - **Notes**: This field is for entering additional notes or comments for the printing request.
-  - **Email**: This field is for entering the end-user's email address.
-  - **Phone**: This field is for entering the end-user's phone number.
-</thinking>
-
 # Marketing Material Printing Request Form - Help Guide
 ## Purpose
 This form is designed to collect requests for marketing material printing. Fill out this form to provide us with the necessary details for printing your marketing materials.

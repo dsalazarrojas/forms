@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect mental health progress notes for patients, providing a standardized way to document sessions and progress over time. This guide is for end-users who will be completing the form to provide accurate and comprehensive notes. 
-
-To ensure consistency and accuracy, please ensure you have completed the form for the same patient previously. If this is your first time completing the form, please refer to your organization's policies for proper procedure.
-
-Before proceeding, please review the fields below and ensure you understand the purpose and requirements for each.
-</thinking>
-
 # mental_health_progress_notes_form - Help Guide
 ## Purpose
 The mental health progress notes form is used to track and document the mental health progress and sessions of a patient. This form helps providers to maintain accurate and up-to-date records of patient information, including session dates, patient status, and medications.

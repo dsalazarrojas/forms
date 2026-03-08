@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by patients who will be completing the form for the purpose of providing medical consent. The form is meant to be used in a medical setting to document the patient's signature and other relevant information related to medical care. It is not intended for public use and should only be used by authorized medical providers.
-</thinking>
-
 # Patient Signature Form - Help Guide
 ## Purpose
 This form is used for patients to provide their medical consent and signature for their medical treatment. It captures important information about the patient, their medical provider, and contact details for follow-up.

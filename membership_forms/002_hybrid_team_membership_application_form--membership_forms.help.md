@@ -1,13 +1,3 @@
-<thinking> 
-
-The form appears to be a comprehensive application form for hybrid team membership. It seems to be designed for individuals seeking membership in a team or organization. The form requires personal details such as name, contact information, and other relevant details like experience, skills, and referee information. This form may be used for team registration, membership application, or other related purposes.
-
-After reviewing the form's layout and fields, it's likely that the form is intended for people to provide accurate information about themselves, their experience, and their referee information. However, the form does not appear to have any specific validation rules or checks for duplicate submissions, which could potentially lead to errors or inconsistencies in the data.
-
-To provide a comprehensive help guide, the following sections will cover the form's purpose, the step-by-step process for completing the form, and a field-by-field explanation of each field's purpose and requirements.
-
-</thinking>
-
 # Hybrid Team Membership Application Form - Help Guide
 
 ## Purpose

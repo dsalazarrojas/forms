@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a referral form for a graphic designer, likely used by the marketing department to collect information from clients, colleagues, or friends about a specific graphic designer. It seems to be used to evaluate the designer's performance, skills, and work quality. The fields suggest a focus on collecting detailed information about the designer's past projects and work quality.
-</thinking>
-
 # Graphic Designer Referral Form - Help Guide
 ## Purpose
 This form is used to collect information about a graphic designer from clients, colleagues, or friends. It helps evaluate the designer's performance, skills, and work quality.

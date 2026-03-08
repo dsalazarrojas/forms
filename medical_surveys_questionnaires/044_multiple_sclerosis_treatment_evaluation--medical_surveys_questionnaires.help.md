@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients about their experience with multiple sclerosis (MS) treatment. The goal is to gather feedback and insights from patients to help healthcare professionals evaluate the effectiveness of different treatments for MS. This form is meant to be completed by patients who have undergone treatment for MS, and the information collected will help healthcare providers understand how patients respond to various treatments.
-
-</thinking>
-
 # Multiple Sclerosis Treatment Evaluation - Help Guide
 
 ## Purpose

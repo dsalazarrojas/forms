@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to send a message to a contact or support team. It is meant to be used in a web or mobile application, and is not intended to be a replacement for more complex or official contact forms used in other contexts. This explanation will assume the form is being used in a business or personal website or mobile application.
-</thinking>
-
 # get_in_touch_form - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to get in touch with your contact or support team. Fill it out to send a message with your name, email address, subject, and any additional comments or questions you have.

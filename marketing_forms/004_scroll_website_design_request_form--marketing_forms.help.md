@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to request a website design from our team. The purpose of this form is to gather essential details about the user's needs and preferences to create a tailored website design. To ensure that we can provide the best possible service, please make sure to fill out the form accurately and thoroughly.
-
-The form has several fields to collect relevant information, and we'll guide you through each field to help you complete it smoothly. Please note that some fields are marked as "required," which means you need to fill out those fields to submit the form successfully.
-
-Before filling out the form, please make sure that you have all the necessary information ready, as some fields might require specific details (e.g., email and phone numbers).
-
-Also, please be aware that some fields might have specific formats or constraints (e.g., date and time fields might require a specific format). If you're unsure about any field, don't hesitate to ask.
-
-This form is designed to be completed by users who are interested in requesting a website design. If you're not sure about the purpose of the form or have any questions, feel free to reach out to us for clarification.
-</thinking>
-
 # Scroll Website Design Request Form - Help Guide
 ## Purpose
 The Scroll Website Design Request Form is designed to collect information from users who need a website design created. This form helps our team understand your requirements and preferences to create a tailored website design that meets your needs.

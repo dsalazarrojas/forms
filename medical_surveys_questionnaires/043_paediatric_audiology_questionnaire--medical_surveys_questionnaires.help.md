@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Paediatric Audiology Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about the hearing problems and medical conditions affecting children. It is used to collect data for further evaluation and treatment of the patients.

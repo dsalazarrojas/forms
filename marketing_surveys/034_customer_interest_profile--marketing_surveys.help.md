@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 # Customer Interest Profile - Help Guide
 ## Purpose
 The Customer Interest Profile form is used to collect relevant information from customers about their demographic and contact details. This data helps us better understand our customers' needs and preferences.

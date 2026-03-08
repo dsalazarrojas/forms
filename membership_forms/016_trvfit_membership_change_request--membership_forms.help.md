@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be used by TRVFIT members who need to request changes to their membership status. This form will guide users through the process of requesting a membership change, ensuring that all necessary information is collected and submitted accurately. To avoid duplicates, users must ensure that they have not submitted a membership change request previously. Before filling out this form, review the fields carefully and ensure that you have all the required information ready.</thinking>
-
 # TRVFIT Membership Change Request - Help Guide
 ## Purpose
 The TRVFIT Membership Change Request form is used to submit a request to change your membership status. This form is typically used by members who need to update their membership details, such as membership type or status.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for creating and managing image advertisements. It allows users to upload images, select image and video options, set description, tags, start and end dates, budget, budget type, priority, status, and comments. The form is likely used by marketing teams to create and manage advertisements for various products or services.
-</thinking>
-
 # Image Advertisement Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form appears to be designed for canceling a fitness membership, likely used by fitness centers or gyms to manage membership cancellations. This form's purpose seems to be for administrative use, helping gym staff to track and process membership cancellations. To confirm, please ensure you are not already using a similar form or process within your gym's system.
-</thinking>
-
 # Fitness Membership Cancellation Form - Help Guide
 ## Purpose
 This form is used by fitness center staff to process membership cancellations. Members can be cancelled for various reasons, which are tracked and documented through this form.

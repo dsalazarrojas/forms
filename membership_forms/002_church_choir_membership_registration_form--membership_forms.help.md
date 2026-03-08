@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accuracy, we will only create a single help guide that explains the form purpose and how to complete it, including each field explanation.
-</thinking>
-
 # Church Choir Membership Registration Form - Help Guide
 
 ## Purpose

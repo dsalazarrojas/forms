@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the user's understanding of the Marketing Mix, a fundamental concept in marketing management that consists of four key components: Product, Price, Place, and Promotion. The Marketing Mix Quiz is designed to evaluate the user's knowledge of these components and their relationships.
-</thinking>
-
 # Marketing Mix Quiz - Help Guide
 ## Purpose
 The Marketing Mix Quiz is designed to test your understanding of the Marketing Mix, a crucial concept in marketing management.

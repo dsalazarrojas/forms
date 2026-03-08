@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pediatric Health Assessment Form - Help Guide
 ## Purpose
 The Pediatric Health Assessment Form is designed to collect essential information about a child's health and medical history. This form is used to gather details about the child's personal and medical information, as well as their educational and healthcare needs. The data collected will be used to create a comprehensive profile for the child's medical and educational records.

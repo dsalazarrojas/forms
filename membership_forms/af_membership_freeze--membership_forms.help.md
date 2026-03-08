@@ -1,7 +1,3 @@
-<thinking>
-AF Membership Freeze form is used to freeze a member's account for a specific period. The purpose of this form is to provide members with the option to temporarily pause their membership, which can be due to various reasons such as injury, health issues, financial hardship, or personal reasons. This form is used to collect information from members to freeze their account and provide them with a clear understanding of the freeze period. It is essential to complete this form accurately and thoroughly to ensure that your membership is correctly frozen and any necessary adjustments are made.
-</thinking>
-
 # AF Membership Freeze - Help Guide
 ## Purpose
 The AF Membership Freeze form is used to freeze a member's account for a specific period due to various reasons such as injury, health issues, financial hardship, or personal reasons.

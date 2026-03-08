@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a post creation guidelines submission, which is a crucial aspect of the marketing process. It's essential to ensure that the post creation guidelines submission is accurate, complete, and submitted by the right person.
-Please use this form only for submissions related to post creation guidelines. Duplicate submissions will be discarded.
-Before filling out this form, make sure that you have all the necessary information and attachments required for a complete submission.
-</thinking>
-
 # Post Creation Guidelines Submission - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to become members of the Wabc organization. This form is used to capture essential details such as name, contact information, and membership preferences. It's crucial to ensure that all required fields are completed accurately to process the membership application efficiently.
-Before proceeding, please review the following fields to understand what is expected:
-* Membership type: Select the type of membership that best suits your needs. This will determine your access to certain benefits and activities within the organization.
-* Membership duration: Choose the duration of your membership. This will impact your membership fees and benefits.
-* Address: While not required, providing your address will help us contact you with any updates or news about Wabc events.
-* Membership type: Ensure you select the correct membership type to avoid any confusion during the application process.
-</thinking>
-
 # Wabc Membership Form 2020 2021 - Help Guide
 ## Purpose
 The Wabc Membership Form 2020 2021 is designed to collect information from individuals who wish to become members of the Wabc organization. This form is used to capture essential details about the applicant, including their contact information and membership preferences.

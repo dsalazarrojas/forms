@@ -1,11 +1,3 @@
-<thinking>
-
-To provide the best help guide for the "Seasonal Product Launch Analysis Report" form, I will assume that the form is used to analyze and report on the seasonal product launches in an organization. The purpose of this form is to gather relevant information on product launch events, including the marketing team responsible for the launch, the date of the launch, the channels used for the launch, the product category and name, the target audience, and other relevant details. This form will help analysts to quickly access the key information about each seasonal product launch event and make informed decisions about future launches. 
-
-This help guide will cover the form's purpose, how to complete it, and a detailed explanation of each field. 
-
-</thinking>
-
 # Seasonal Product Launch Analysis Report - Help Guide
 ## Purpose
 This form is used to gather information about seasonal product launches. It helps analysts to analyze and report on product launch events, including marketing team, launch date, channels, product category, name, target audience, and other relevant details.

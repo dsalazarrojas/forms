@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Children's Mood Assessment Questionnaire - Help Guide
 
 ## Purpose

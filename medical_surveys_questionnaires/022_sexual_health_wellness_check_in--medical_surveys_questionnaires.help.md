@@ -1,5 +1,3 @@
-<thinking>As a medical survey form, the Sexual Health Wellness Check In form is designed to collect information on individuals' sexual health and wellness. This form will help healthcare providers understand an individual's sexual identity, activity levels, pain management, mental health, substance use, relationship status, and follow-up appointment preferences. Please note that all fields are optional, as this form is intended to be a comprehensive assessment tool for healthcare providers. This form should not be used for self-assessment without professional medical guidance.</thinking>
-
 # Sexual Health Wellness Check In - Help Guide
 
 ## Purpose

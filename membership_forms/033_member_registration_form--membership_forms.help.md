@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for member registration. It is designed to collect personal details, address, contact information, and interest areas of a member. The form is used to create or update a member's profile, and it should only be completed by members or authorized staff. It is crucial to ensure that the data is accurate and up-to-date to avoid any potential issues. Please ensure that you are filling out the form for the correct purpose and that the information provided is accurate.
-
-Before completing this form, please ensure that you are not duplicating any existing member's information. If you are unsure about any field, please consult with the member or staff for clarification.
-</thinking>
-
 # member_registration_form - Help Guide
 ## Purpose
 The member registration form is designed to collect personal details, address, contact information, and interest areas of a member. This form is used to create or update a member's profile, and it should only be completed by members or authorized staff.

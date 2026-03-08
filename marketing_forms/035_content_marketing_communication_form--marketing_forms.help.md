@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Content Marketing Communication Form, taking into account the provided YAML fields. This guide will cover the form's purpose, how to complete it, and provide field-by-field explanations for each section. I will also ensure that the explanations are concrete, concise, and practical, and will not invent unsupported business logic.</thinking>
-
 # Content Marketing Communication Form - Help Guide
 ## Purpose
 The Content Marketing Communication Form is a tool used to streamline communication between team members, stakeholders, and clients about content marketing projects, campaigns, and feedback. It ensures that all necessary information is captured and recorded for reference and follow-up.

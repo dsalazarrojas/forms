@@ -1,21 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about social influence, likely for marketing or survey purposes. However, I will need to clarify that the actual intent and usage of the form might be different and specific to the company or organization using it. To determine the actual purpose and usage, we would need more information about the context and the company's goals. 
-
-The form appears to be collecting demographic information (name, age, birth date), contact information (email, phone), and preferences and habits related to social media and leisure activities. 
-
-Let's assume the form will be used for marketing surveys to understand the target audience's behavior, interests, and demographic characteristics. 
-
-Please note that some fields might be redundant or not clearly defined. For example, "What do you do most often?" and "What do you usually do?" seem to overlap, but might be used to gauge different aspects of the subject's behavior. 
-
-Also, "Watching", "Reading", "Listening", "Playing", and "Traveling" seem to be used in multiple fields as options, which might be due to a lack of clear definition or intention. 
-
-To improve the form, it could be beneficial to add clear and consistent labels, instructions, and validation rules. 
-
-After verifying that there are no duplication or unclear fields, we can proceed to create the user-facing help guide.
-
-</thinking>
-
 # Social Influence Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your social influence, habits, and behavior to better understand your interests and preferences.

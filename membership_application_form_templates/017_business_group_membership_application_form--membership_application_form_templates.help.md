@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a membership application for businesses or individuals to join a business group. The form collects information about the applicant's profile, industry, experience, and intentions for joining the group. The primary goal of this form is to facilitate the evaluation of the applicant's eligibility and suitability for membership in the business group. This form will help us assess whether the applicant is a good fit for our community and ensure that all necessary information is collected to make an informed decision.
-
-Please note that this form is designed to be completed by the business or individual applying for membership in the group. It is crucial to provide accurate and honest information to ensure a smooth and efficient evaluation process.
-
-Also, please ensure that you have reviewed the Membership Terms and Code of Conduct before submitting your application.
-</thinking>
-
 # Business Group Membership Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from businesses or individuals applying for membership in our business group. The purpose of this form is to facilitate the evaluation of your eligibility and suitability for membership.

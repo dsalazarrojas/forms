@@ -1,22 +1,3 @@
-<thinking>
-This form is for collecting contact information and company details from potential customers or partners. It is used to gather data for marketing purposes, and it is essential to ensure that the information provided is accurate and up-to-date. 
-Please use this form to provide your first name, last name, email address, phone number, company name, job title, department, company website, company size, and revenue. 
-The form is divided into 8 sections: 
-- First Name 
-- Last Name 
-- Email 
-- Phone 
-- Company 
-- Position 
-- Job Title 
-- Department 
-- Company Website 
-- Company Size 
-- Revenue 
-Each field is a text or number field, with no options or dropdowns. 
-The form is not required, but it's recommended that you fill it out completely to ensure that your information is accurate. 
-</thinking>
-
 # pre_sales_questionnaire_form - Help Guide
 ## Purpose
 The pre-sales questionnaire form is designed to collect contact information and company details from potential customers or partners for marketing purposes.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback on the orthopaedic surgery experience at a healthcare facility. The form aims to evaluate various aspects of the patient's experience, including overall satisfaction, communication with staff, pain management, and other related factors. To avoid duplication, please do not complete this form if you have already done so in the past.
-
-</thinking>
-
 # orthopaedic_surgery_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on a patient's experience with orthopaedic surgery, allowing healthcare providers to evaluate and improve the quality of care.

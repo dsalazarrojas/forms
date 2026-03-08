@@ -1,5 +1,3 @@
-<thinking>...We need to ensure that the user has a clear understanding of the form's purpose, so let's start by explaining what this form is for...</thinking>
-
 # Gym Membership Verification Request Form - Help Guide
 ## Purpose
 The Gym Membership Verification Request Form is used to verify the membership of a gym member. This form is required for certain administrative or legal purposes, such as updating member records or verifying member identity. Please complete this form carefully to ensure accurate and efficient processing of your request.

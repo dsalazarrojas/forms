@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about public awareness of preventive medicine, likely for the purposes of research or data collection in the field of medicine or public health. The form asks a series of questions that cover various aspects of preventive medicine, including demographic information, health habits, and medical history. The goal is to gather comprehensive and accurate information to better understand the public's perception and practices regarding preventive medicine. Please ensure that this form is completed by people who are relevant to the study and not by individuals who have already completed this form to avoid duplication of data.
-</thinking>
-
 # Public Awareness Of Preventive Medicine Survey - Help Guide
 ## Purpose
 

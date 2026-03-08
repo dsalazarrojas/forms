@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # store_promotion_collaboration_request_form - Help Guide
 
 ## Purpose

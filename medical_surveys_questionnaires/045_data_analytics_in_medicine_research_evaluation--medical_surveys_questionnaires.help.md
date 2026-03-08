@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for medical professionals and researchers to evaluate and provide feedback on the use of data analytics in medicine research. It is intended to gather information on various aspects of data analytics in medicine research, including the outcomes of medical studies, challenges faced by researchers, and potential suggestions for improvement. The form is meant to be a quick and easy way to gather opinions and insights from experts in the field. Please ensure that you complete the form accurately and truthfully, as it will contribute to the development of more effective and relevant data analytics solutions for medical research.
-
-</thinking>
-
 # data_analytics_in_medicine_research_evaluation - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback and opinions from medical professionals and researchers on the use of data analytics in medicine research. Its main objective is to collect information on the outcomes of medical studies, the challenges faced by researchers, and suggestions for improvement.

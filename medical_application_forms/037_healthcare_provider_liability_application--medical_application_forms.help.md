@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a healthcare provider's liability application. It is likely used for internal administrative purposes, such as tracking provider information and policy details. To ensure accuracy and avoid duplication, please verify that the provider is not already listed in our system before completing this form. 
-</thinking>
-
 # Healthcare Provider Liability Application - Help Guide
 ## Purpose
 This form is used to collect and track liability information for healthcare providers.

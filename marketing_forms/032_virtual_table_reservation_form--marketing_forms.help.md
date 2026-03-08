@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for virtual table reservations. It's meant for users to input details about their reservations, such as reservation date, start time, and number of guests. The form is likely used in a restaurant or event setting where virtual tables are reserved for clients or customers.
-
-To confirm that this form is correctly used, we check that it's not a duplicate form with similar fields.
-
-</thinking>
-
 # virtual_table_reservation_form - Help Guide
 ## Purpose
 The virtual table reservation form is used to collect details about reservations for virtual tables. This form helps to gather necessary information to confirm and process the reservation.

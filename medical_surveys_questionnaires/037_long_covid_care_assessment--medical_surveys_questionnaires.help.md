@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to assess the needs and care requirements of individuals who have experienced long COVID. The form is designed to gather information about the individual's symptoms, care needs, and preferences for care providers. The form may be used by healthcare professionals to identify potential care gaps and provide targeted interventions.
-
-To avoid duplication of effort, please note that this form is intended for use by authorized healthcare providers only. If you are not an authorized healthcare provider, please do not complete this form.
-
-</thinking>
-
 # long_covid_care_assessment - Help Guide
 ## Purpose
 This form is designed to help healthcare providers assess the needs and care requirements of individuals who have experienced long COVID.

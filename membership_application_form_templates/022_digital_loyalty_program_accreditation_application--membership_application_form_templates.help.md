@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from organizations seeking accreditation for the digital loyalty program. The form is meant to ensure that all necessary details are provided to assess the organization's eligibility for accreditation. Please note that this form will only be used for organizations that have not previously applied for or been accredited through this process. If you have already applied or been accredited, please contact our support team to inquire about the status of your previous application.
-
-Form Purpose:
-This form is intended for organizations that want to join the digital loyalty program and have not previously applied. Please ensure that you provide accurate and truthful information to ensure a smooth and efficient application process.
-
-Field-by-Field Explanation:
-
-</thinking>
-
 # Digital Loyalty Program Accreditation Application - Help Guide
 ## Purpose
 This form is intended for organizations that want to join the digital loyalty program and have not previously applied.

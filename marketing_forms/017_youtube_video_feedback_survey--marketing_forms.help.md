@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block will help ensure that the help guide is relevant to the specific form and its purpose.
 
 # youtube_video_feedback_survey - Help Guide

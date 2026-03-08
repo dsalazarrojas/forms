@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a survey aimed at understanding mental health stigma in healthcare settings. It's essential to understand that stigma can have a significant impact on healthcare professionals' well-being and job satisfaction. By collecting data, this form helps healthcare institutions gather insights to address this issue effectively.
-
-Before proceeding, please make sure you're not duplicating your responses or skipping any questions that might be relevant to your experience. This form should take approximately 15-20 minutes to complete.
-
-</thinking>
-
 # mental_health_stigma_in_healthcare_settings_survey - Help Guide
 ## Purpose
 

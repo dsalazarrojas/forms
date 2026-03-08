@@ -1,13 +1,3 @@
-<thinking>
-
-The "Win A Getaway Contest Entry Form" is designed to collect information from customers who participate in the contest to win a getaway. This form is intended to gather essential details about the customer, their relationship with the store, and their preferences and interests. The purpose of this form is to create a more personal connection with the customer and to understand their behavior and preferences in order to provide better services and offers.
-
-When completing this form, the customer will be asked for their personal details, such as their name, contact information, and job title. They will also be asked about their relationship with the store, including how often they visit and how long they have been a customer. Additionally, the customer will be asked to provide details about their preferences and interests, such as how they spend their free time and why they want to win a getaway.
-
-The form will also ask the customer to confirm their email and agree to the entry terms and conditions. The entry details section will allow the customer to provide any additional comments or information they think is relevant to their entry.
-
-</thinking>
-
 # Win A Getaway Contest Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who participate in the contest to win a getaway.

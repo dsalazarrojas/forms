@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Airline Alliance Membership Application - Help Guide
 ## Purpose
 This guide is designed to assist airlines in completing the membership application form for the airline alliance of their choice. The purpose of this form is to gather essential information about your airline's current status and goals, ensuring a smooth membership application process.

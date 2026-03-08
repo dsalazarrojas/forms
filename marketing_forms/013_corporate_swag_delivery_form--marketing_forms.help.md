@@ -1,19 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "corporate_swag_delivery_form" form, we need to understand the form's purpose and each field's intent. Upon examining the form schema, it appears that the form is designed to collect information from customers or clients for corporate swag delivery purposes. The form is likely used for marketing and sales-related activities within a company.
-
-The form has the following fields: 
-
-*   Request Items: This field is used to select multiple request items for corporate swag delivery.
-*   Shipping Details: This field is used to choose whether the items will be shipped or not.
-*   Email: This field is used to collect the customer's email address.
-*   Name: This field is used to collect the customer's name.
-*   Phone: This field is used to collect the customer's phone number.
-*   Date of Birth: This field is used to collect the customer's date of birth.
-*   Time: This field is used to collect the customer's time.
-*   Note: This field is used to collect any additional notes about the customer's order.
-
-</thinking>
-
 # corporate_swag_delivery_form - Help Guide
 ## Purpose
 This form is used to collect information from customers or clients for corporate swag delivery purposes.

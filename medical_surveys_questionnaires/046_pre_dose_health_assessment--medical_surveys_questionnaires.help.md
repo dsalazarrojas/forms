@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note:** This form is designed to collect vital information about a patient's health status before administering a dose of a specific medication. This form is intended to be used by medical professionals to assess the patient's current health condition, allergies, and any recent symptoms. It also captures information about the patient's medical condition, medications, and dosing consent. The form is structured to gather information about the follow-up details, such as date, time, location, and instrument of follow-up, as well as the consent details. This form is a crucial tool for medical professionals to make informed decisions about patient care.
-</thinking>
-
 # pre_dose_health_assessment - Help Guide
 
 ## Purpose

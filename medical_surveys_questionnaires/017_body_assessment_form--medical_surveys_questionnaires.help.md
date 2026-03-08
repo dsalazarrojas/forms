@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Body Assessment Form - Help Guide
 
 ## Purpose

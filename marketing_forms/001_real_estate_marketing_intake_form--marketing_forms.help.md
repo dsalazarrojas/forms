@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect marketing information for real estate marketing initiatives. Its purpose is to gather data from users who want to get help with marketing strategies and goals for their real estate businesses. This form will likely be used by real estate agents, owners, or managers who need guidance on marketing their properties or businesses.
-
-To ensure consistency, we should check if there are similar forms used in our organization to handle marketing intakes for real estate, and avoid duplication of effort. If there are, we should consider merging the content and fields of this form with the existing ones to create a more comprehensive solution.
-
-</thinking>
-
 # real_estate_marketing_intake_form - Help Guide
 ## Purpose
 The real_estate_marketing_intake_form is designed to collect marketing information for real estate businesses, helping them to get guidance on marketing strategies and goals.

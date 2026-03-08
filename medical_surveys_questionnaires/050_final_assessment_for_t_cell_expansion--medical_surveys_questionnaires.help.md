@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information related to the T Cell Expansion Assessment, which is an essential process in immunology and cell biology research. The assessment involves evaluating the efficiency and viability of T cells in various contexts. 
-- This form is intended for medical professionals or scientists working with T Cell Expansion.
-- This form may be used in a research setting to track T Cell Expansion experiments and observations.
-- This form is not intended for use by non-experts.
-- Please ensure this form is not used in any other context other than its specified purpose.
-</thinking>
-
 # Final Assessment For T Cell Expansion - Help Guide
 ## Purpose
 The Final Assessment For T Cell Expansion form is designed to collect information from medical professionals or scientists regarding T Cell Expansion assessments.

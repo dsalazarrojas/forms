@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's discharge from an oncology department, typically after they have completed cancer treatment. This form is essential for healthcare professionals to document the patient's discharge details, including their treatment, medication, and follow-up appointments. To ensure accurate completion, please review the form carefully and ensure you've gathered all necessary information before submitting.
-</thinking>
-
 # Oncology Discharge Form - Help Guide
 ## Purpose
 The Oncology Discharge Form is designed to collect essential information about a patient's cancer treatment, medication, and follow-up appointments after discharge.

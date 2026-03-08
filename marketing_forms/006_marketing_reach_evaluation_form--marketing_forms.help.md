@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to help users understand the purpose and use of the "Marketing Reach Evaluation Form." The form's purpose is to evaluate the marketing performance of various channels. It is likely used in a business or marketing context to assess the effectiveness of different marketing channels.
 
 To avoid duplication, this guide should be reviewed carefully before using the form, and ensure that all necessary steps are taken to complete it accurately and thoroughly.

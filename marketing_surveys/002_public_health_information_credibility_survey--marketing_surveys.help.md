@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users about the credibility of public health information. The primary goal is to assess the trustworthiness and reliability of public health sources. This form will help to gather data on the first name, last name, email, phone number, date and time of publication, and other relevant details. This form is likely to be used by healthcare professionals, researchers, or administrators who need to evaluate the credibility of public health information.
-
-Before filling out this form, please ensure you haven't already completed it for the same purpose and have the necessary information ready.
-
-Please note that the fields may have specific requirements for completion. Ensure you fill out all required fields to ensure your submission is processed correctly.
-
-</thinking>
-
 # Public Health Information Credibility Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information on the credibility of public health information.

@@ -1,9 +1,3 @@
-<thinking>
-We're creating a help guide for a Reel Details Submission Form designed by AI using public survey topic metadata. The form is intended to help users capture relevant information from a marketing perspective.
-We'll need to ensure that users understand the purpose, completion process, and each field's significance. 
-This form is meant to gather insights on marketing-related topics and is not affiliated with, endorsed by, or derived from any specific form platforms. It is an original adaptation of public survey topic metadata and released under CC BY 4.0. 
-</thinking>
-
 # Reel Details Submission Form - Help Guide
 ## Purpose
 The Reel Details Submission Form is designed to collect information related to marketing campaigns, forms, or other relevant marketing-related topics. This form will help us better understand the context and details of the marketing efforts.

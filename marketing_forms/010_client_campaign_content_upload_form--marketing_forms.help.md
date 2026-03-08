@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the information provided is accurate and relevant. This form is designed to gather essential details about client campaigns, including their name, contact information, and campaign specifics. We will use this form to collect data on each campaign, which will help us manage and track their progress effectively. Please fill out all required fields to ensure a comprehensive record.
-</thinking>
-
 # Client Campaign Content Upload Form - Help Guide
 ## Purpose
 

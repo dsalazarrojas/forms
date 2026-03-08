@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from clients for their therapy sessions. It ensures that clients understand what information will be shared with their practitioners, and that they are aware of their consent status. This form is not intended for clients who are under 18 years old or who are unable to provide consent due to cognitive or mental health reasons. Please ensure that this form is only used in situations where the client is legally and ethically capable of providing consent. Additionally, ensure that this form is not duplicated for the same client without a valid reason.
-</thinking>
-
 # Therapy Collaboration Consent Form - Help Guide
 ## Purpose
 The Therapy Collaboration Consent Form is a document that helps clients understand and agree to the sharing of their information with their practitioners. This form ensures that clients are aware of what information will be shared and with whom it will be shared.

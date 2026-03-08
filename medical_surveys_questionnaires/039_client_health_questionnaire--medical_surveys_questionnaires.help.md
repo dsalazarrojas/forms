@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from clients, specifically their health and medical history. The purpose of this form is to gather accurate and comprehensive medical information to help healthcare providers make informed decisions. 
-
-The form is divided into several sections, including patient demographics, medical history, and lifestyle information. Each section is designed to collect specific information that is relevant to the client's health and well-being.
-
-To avoid duplication of effort, please ensure that this information is not collected through any other means, such as medical records or phone interviews. This form should only be used as a single point of truth for the client's medical history.
-
-Please note that this form is not intended to be a comprehensive medical evaluation, but rather a snapshot of the client's current health status at the time of completion.
-</thinking>
-
 # Client Health Questionnaire - Help Guide
 ## Purpose
 The Client Health Questionnaire is designed to collect comprehensive medical information from clients, including their demographics, medical history, and lifestyle habits. This information will be used to help healthcare providers make informed decisions and provide the best possible care.

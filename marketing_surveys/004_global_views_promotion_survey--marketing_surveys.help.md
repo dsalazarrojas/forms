@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # global_views_promotion_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from users about global views and promotions. It aims to understand their perceptions, impressions, and suggestions for future campaigns.

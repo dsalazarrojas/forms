@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Market Insights Survey Form - Help Guide
 ## Purpose
 This form is designed to collect demographic and market insights information from users. The purpose of this form is to gather data on respondents' demographic characteristics, such as age, income, occupation, education level, and other relevant factors that can provide valuable insights into market trends and consumer behavior.

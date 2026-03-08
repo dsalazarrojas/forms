@@ -1,5 +1,3 @@
-<thinking>... This form is used to gather information from individuals about their experiences and perceptions regarding the COVID-19 pandemic. This form will help understand how people view the pandemic in terms of its severity, impact on their lives, and effectiveness of government responses. This information will be helpful to inform public health policies and interventions...</thinking>
-
 # COVID 19 Viewer Survey - Help Guide
 
 ## Purpose

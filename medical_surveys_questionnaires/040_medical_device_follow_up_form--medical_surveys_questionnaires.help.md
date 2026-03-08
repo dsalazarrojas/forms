@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and follow-up information from patients who have used medical devices. The primary goal is to gather detailed feedback on the medical device, including any issues or concerns the patient experienced while using it. This form should only be filled out by patients who have used medical devices and are providing feedback on their experiences.
-Please ensure that you have used a medical device and are providing genuine feedback before filling out this form.
-</thinking>
-
 # Medical Device Follow Up Form - Help Guide
 ## Purpose
 This form is used to collect feedback and follow-up information from patients who have used medical devices. The collected data will be used to improve the design, functionality, and safety of medical devices.

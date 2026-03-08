@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather user preferences and characteristics of a handmade product, likely to aid in market research or product development. It's essential to ensure that the respondents understand the intended use of the form data and provide accurate answers.
-Each field is designed to elicit specific information from users about their preferences and characteristics for a handmade product, such as material, colorway, texture, and customer preferences.
-Before proceeding with the survey, double-check that the fields and their options are clear and relevant to the intended use of the form data.
-</thinking>
-
 # Handmade Product Style Survey - Help Guide
 ## Purpose
 This form is designed to gather information from users about their preferences and characteristics for a handmade product, which can aid in market research or product development.

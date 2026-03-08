@@ -1,11 +1,3 @@
-<thinking> 
-**Form Purpose and Relevance Check**
-This form is designed to gather information about a user's well-being and fitness goals to create a personalized wellness coaching plan. It includes questions about their current fitness level, health and fitness goals, medical history, and habits such as diet, exercise, and sleep schedule. The form also captures information about their occupation, medical conditions, supplements, and medications. The goal is to create a comprehensive understanding of the user's health status, habits, and medical situation to provide tailored coaching recommendations. 
-
-- No duplicate fields: All fields are unique and do not have any duplicates.
-- Form purpose: Gathering information for a wellness coaching plan.
-</thinking>
-
 # wellness_coaching_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a user's well-being and fitness goals to create a personalized wellness coaching plan.

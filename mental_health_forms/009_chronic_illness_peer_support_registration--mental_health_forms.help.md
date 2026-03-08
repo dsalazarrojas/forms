@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chronic Illness Peer Support Registration - Help Guide
 ## Purpose
 This form is designed to help individuals register for a Chronic Illness Peer Support program. It collects contact information, health context, and preferences for peer matching and support. The data collected will be used to create a safe and supportive environment for participants to share experiences, emotions, and coping strategies related to their chronic illness.

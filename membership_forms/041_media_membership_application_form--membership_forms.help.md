@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for users to apply for membership in a media-related group or organization. The form collects personal information such as name, contact details, and address for the purpose of verifying the user's identity and eligibility for membership. This form should only be filled out by users who are interested in joining the media group and do not have an existing membership.
-
-To ensure that the form is completed correctly, please note that:
-
-* This form is a one-time application for membership, and users should only fill it out once.
-* All fields marked as "required" are mandatory and need to be filled out correctly.
-* The "Date of Birth" field is optional and only required for users who want to provide this information for verification purposes.
-* The "State" field is a selection field with two options, "Yes" and "No", indicating whether the user is eligible for membership based on their location.
-</thinking>
-
 # media_membership_application_form - Help Guide
 ## Purpose
 This form is used to apply for membership in a media-related group or organization. It collects personal information and contact details to verify the user's identity and eligibility for membership.

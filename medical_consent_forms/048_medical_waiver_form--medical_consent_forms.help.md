@@ -1,16 +1,3 @@
-<thinking> 
-  This form is designed to gather medical-related information from patients or clients for the purpose of documenting and tracking medical history and conditions. It is essential to understand the context and purpose behind this form before proceeding with completion. 
-
-  Please review the provided fields and ensure that your responses accurately reflect the requested information. 
-
-  Some fields may be redundant or have similar purposes; please be aware of the following:
-  - The "Medical Supervision" field is meant to identify the level of medical supervision required for the patient's condition. This may help determine the level of medical staff involved in the treatment process.
-  - The "Doctor Supervising" field is meant to identify the primary healthcare professional overseeing the patient's care.
-  - The "Relationship To Emergency Contact" field is meant to identify the relationship between the patient and the emergency contact.
-  - The "Medical Procedure" field is meant to identify the specific medical procedure or treatment being performed.
-
-</thinking>
-
 # Medical Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect medical-related information from patients or clients for documentation and tracking purposes.

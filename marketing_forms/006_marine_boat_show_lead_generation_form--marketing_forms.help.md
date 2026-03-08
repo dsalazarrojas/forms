@@ -1,12 +1,3 @@
-<thinking>
-This form is a lead generation form for the Marine Boat Show. It collects information from users to generate leads for potential customers who are interested in boats. The form is used to capture contact information, sales representative details, and follow-up preferences for the leads.
-
-The purpose of this form is to collect data from users who are attending the Marine Boat Show, and to follow up with them after the event. The form is used by the sales team to identify potential customers, and to personalize their follow-up communication accordingly.
-
-Before filling out this form, please note that it is a single-page form and all the fields are required unless specified otherwise. Please ensure that you fill out all the required fields accurately to ensure that your information is captured correctly.
-
-</thinking>
-
 # Marine Boat Show Lead Generation Form - Help Guide
 ## Purpose
 This form collects information from attendees of the Marine Boat Show to generate leads for potential customers.

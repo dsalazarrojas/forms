@@ -1,7 +1,3 @@
-<thinking>
-The form "Stress Recovery in Rehabilitation Settings Survey" is designed to help healthcare professionals and researchers collect data on stress recovery in rehabilitation settings. This form is used to collect information on rehabilitation teams, structured data collection, form submission tracking, and other relevant factors that can aid in the understanding and improvement of rehabilitation settings. Before proceeding, please ensure that you have not filled out this form previously and that your responses are accurate and honest.
-</thinking>
-
 # stress_recovery_in_rehabilitation_settings_survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rotary Membership Form - Help Guide
 
 ## Purpose

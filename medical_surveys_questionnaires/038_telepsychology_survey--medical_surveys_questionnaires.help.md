@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey related to telepsychology services. The purpose of this form is to gather information and feedback from users regarding their experience with telepsychology services, including their title, about telepsychology, services offered, fees, benefits, uses, and possibly other related topics. This form may be used by telepsychology service providers to improve their services based on user feedback. The form is likely designed for users who have had experience with telepsychology services or are interested in learning more about them. Before proceeding, please note that this form is not affiliated with any form platform and is an original adaptation based on public survey topic metadata.
-</thinking>
-
 # Telepsychology Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information and feedback from users regarding their experience with telepsychology services.

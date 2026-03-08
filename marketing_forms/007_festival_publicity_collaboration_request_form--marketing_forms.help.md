@@ -1,7 +1,3 @@
-<thinking>
-This form is a request form for festival publicity collaboration, used to collect information from external entities (e.g. artists, sponsors) who wish to collaborate with a festival. The purpose of this form is to collect details such as media type, contact information, and publicity request status. This form is intended to be filled out by external entities that are interested in collaborating with the festival, and is not meant to be filled out by internal staff. Before starting, ensure that you are filling out this form for a valid collaboration opportunity and that you have the necessary authority to represent the collaborating entity. Please be thorough in your responses, as this information will be used to track and follow up on the collaboration opportunity.
-</thinking>
-
 # festival_publicity_collaboration_request_form - Help Guide
 ## Purpose
 The festival publicity collaboration request form is a tool used to collect information from external entities interested in collaborating with the festival. It is used to track and follow up on collaboration opportunities.

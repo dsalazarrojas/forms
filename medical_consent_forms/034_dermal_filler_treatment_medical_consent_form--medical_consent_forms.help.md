@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for patients to provide medical consent for dermal filler treatments. Dermal filler treatments are a non-invasive and temporary solution for facial rejuvenation, but as with any medical procedure, there are risks and considerations involved. This form is meant to inform and educate the patient about these risks and ensure that they understand what to expect before proceeding with the treatment.
-
-Please note that this form does not aim to be a substitute for a comprehensive medical consultation. It is not intended to be used as a substitute for a professional medical opinion or advice. 
-
-The form has been designed to collect relevant information and ensure that the patient is well-informed about the treatment and its associated risks.
-
-</thinking>
-
 # dermal_filler_treatment_medical_consent_form - Help Guide
 ## Purpose
 This form is a medical consent form for dermal filler treatments. It is designed to educate and inform patients about the risks and considerations involved in the treatment.

@@ -1,10 +1,3 @@
-<thinking>
-The Family Event Registration Form is a form used to gather information about an upcoming family event. This form is designed to capture essential details about the event, including event details, ticket information, registrant information, contact information, event date, and event time.
-The form is used to streamline the registration process for event organizers and ensure that all necessary information is collected accurately and efficiently.
-The form should only be used for events that are open to the public or internal teams, and not for confidential or internal events.
-This guide is intended to help users understand how to use the form correctly.
-</thinking>
-
 # Family Event Registration Form - Help Guide
 ## Purpose
 The Family Event Registration Form is used to collect information about an upcoming family event, including details such as event date, time, location, and ticket information.

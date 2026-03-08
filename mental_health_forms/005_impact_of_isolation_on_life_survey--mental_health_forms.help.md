@@ -1,5 +1,3 @@
-<thinking>Is the form purpose to assess the impact of isolation on life, gathering information about relationships, emotional states, coping mechanisms, and overall well-being.</thinking>
-
 # Impact Of Isolation On Life Survey - Help Guide
 ## Purpose
 The Impact of Isolation On Life Survey is a collection of questions designed to help us understand how isolation is affecting your life. The survey will help us better understand your relationships, emotional states, coping mechanisms, and overall well-being during this time.

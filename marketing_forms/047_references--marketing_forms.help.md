@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # References - Help Guide
 
 ## Purpose

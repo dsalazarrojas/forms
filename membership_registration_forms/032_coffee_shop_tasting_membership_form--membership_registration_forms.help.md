@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential members of a coffee shop tasting membership program. The purpose of this form is to collect demographic and personal preferences of the individual interested in joining the program. The form is divided into several sections to ensure that the user can easily navigate and provide the required information. The user will be asked to provide their contact information, select a membership tier and duration, indicate their coffee experience level and flavor preferences, and provide any allergies or health considerations. This form will help us tailor the experience to the user's needs and interests. This form is a required form for membership registration and will not be duplicated for the same individual.
-</thinking>
-
 # Coffee Shop Tasting Membership Form - Help Guide
 
 ## Purpose

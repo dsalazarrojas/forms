@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, let's first check if a similar form with the same name already exists. If it does, we should verify the purpose and structure of the form to ensure it matches what we have here. This form is called "ADHD Informant Questionnaire" and is designed to gather information about a child's behavior in a structured and standardized way. The form aims to collect data on the child's informant (the person filling out the form) and the child's demographic information, observational settings, behavioral observations, and additional context.
-
-</thinking>
-
 # ADHD Informant Questionnaire - Help Guide
 ## Purpose
 The ADHD Informant Questionnaire is a form designed to gather standardized and structured information about a child's behavior and development. It is intended for use by professionals in the field of psychology, education, or healthcare who require data about a child's condition. The form provides a framework to collect data from the informant (such as a parent, teacher, or guardian) to help in the assessment and diagnosis of Attention Deficit Hyperactivity Disorder (ADHD).

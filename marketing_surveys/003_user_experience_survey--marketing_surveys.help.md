@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are filling out the User Experience Survey form. The form is designed to collect feedback on the user's experience with a website, gathering information on various aspects such as website accessibility, content relevance, presentation, navigation, usability, and contact information. This guide will walk users through the process of completing the form, explaining each field and its purpose.
-
-This form is part of the "marketing_surveys" category, and its title is "User Experience Survey". The guide is structured to provide clear and concise information on how to complete the form, including a field-by-field explanation of each question.
-
-Before filling out the form, it's essential to note that some fields are required, while others are optional. This guide will highlight which fields are required and which ones are not.
-
-</thinking>
-
 # User Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the user's experience with a website, helping us to improve the user experience and provide better services in the future.

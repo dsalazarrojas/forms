@@ -1,12 +1,3 @@
-<thinking>
-We are going to assume that the "Tap Fundamentals Registration Form" is used to collect registration information from customers or students for a course called "Tap Fundamentals" or its variants. This form is used to gather details about the registrant, including name, contact information, course type, and other relevant details. The form is likely used to track the progress and management of students enrolled in this course.
-
-We will also assume that some fields are marked "required" to ensure that all necessary information is captured before proceeding with the registration process. This form is not intended to be used for duplicate registrations, so the "Form ID" field is likely used to track unique registrations.
-
-Please follow the instructions to fill out this form carefully to ensure that your registration is accurate and complete.
-
-</thinking>
-
 # Tap Fundamentals Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information from students or customers for the Tap Fundamentals course.

@@ -1,10 +1,3 @@
-<thinking>
-The "Website Testimonial Collection Form" is used to collect feedback and testimonials from users about their experience with the website. This form is essential for understanding user needs, preferences, and pain points, which can inform product development and improvement decisions.
-
-To ensure accurate and relevant feedback, please do not submit multiple testimonials for the same experience. This form is designed to capture a range of information, from testimonial type (e.g., Testimonial, Review, Suggestion) and content to ratings and contact information. The goal is to gather as much context and detail as possible to help us better serve our users and improve the website.
-
-</thinking>
-
 # Website Testimonial Collection Form - Help Guide
 ## Purpose
 The "Website Testimonial Collection Form" is a crucial tool for gathering user feedback and testimonials, which are used to inform product development and improvement decisions.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for patients to provide information about their hearing loss and their motivation for undergoing a cochlear implant consultation. This form will gather information about the patient's hearing history, medical background, and lifestyle, as well as their expectations and motivations for seeking a cochlear implant. It is crucial to ensure that the form is filled out accurately and thoroughly to help the medical professional assess the patient's suitability for a cochlear implant. Please note that this form is for general information purposes only and should not be used as a substitute for a comprehensive medical evaluation. 
-
-Please ensure that you have read and understood the purpose and requirements of this form before proceeding.
-</thinking>
-
 # Cochlear Implant Consultation Form - Help Guide
 ## Purpose
 The Cochlear Implant Consultation Form is designed to gather information from patients about their hearing loss, medical background, and lifestyle in order to determine their suitability for a cochlear implant.

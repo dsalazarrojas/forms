@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Marketing Campaign ROI Evaluation Form" is to assess the return on investment (ROI) of a marketing campaign. This form helps to evaluate the performance of a campaign by collecting information about its objectives, duration, budget, target audience, channels, and performance metrics. This evaluation is crucial to determine if a campaign was successful in meeting its objectives and if it was worth the investment.
-
-When filling out this form, it's essential to ensure that the fields are filled out accurately and completely. This guide will walk you through each field and its purpose to help you complete the form correctly.
-
-Please note that some fields are not required, but it's still essential to fill them out if you want to get a complete picture of your campaign's performance.
-
-</thinking>
-
 # Marketing Campaign ROI Evaluation Form - Help Guide
 ## Purpose
 The Marketing Campaign ROI Evaluation Form is designed to evaluate the performance of a marketing campaign by collecting relevant information about its objectives, duration, budget, target audience, channels, and performance metrics.

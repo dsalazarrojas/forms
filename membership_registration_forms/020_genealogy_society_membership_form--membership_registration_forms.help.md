@@ -1,7 +1,3 @@
-<thinking>
-The Genealogy Society Membership Form is used to collect information from individuals interested in joining the Genealogy Society. This form is meant to be a general-purpose registration form, allowing for various types of members to be registered. The main goal is to gather relevant information about the applicant without overburdening them with unnecessary questions. It's essential to note that the form is divided into two pages for better readability and user experience. This form will be used by the Genealogy Society to understand its community and provide tailored services and resources to its members.
-</thinking>
-
 # Genealogy Society Membership Form - Help Guide
 
 ## Purpose

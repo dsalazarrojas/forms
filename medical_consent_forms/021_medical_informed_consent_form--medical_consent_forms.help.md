@@ -1,13 +1,3 @@
-<thinking> 
-
-**Form purpose:**
-This form is designed to capture medical information and consent from patients for medical procedures or treatments. It includes sections for patient and doctor information, medical history, allergies, and emergency contact details. Additionally, it includes fields for the medical professional's information, including their license number, state, and signature. The form also includes fields for the date, time, and medical institution or department.
-
-**Checking for relevance and non-duplication:**
-No duplication is detected.
-
-</thinking>
-
 # Medical Informed Consent Form - Help Guide
 ## Purpose
 

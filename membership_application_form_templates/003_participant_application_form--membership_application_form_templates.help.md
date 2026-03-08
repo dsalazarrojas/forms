@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a participant application form, designed to collect information from individuals applying to participate in a seminar or program. The form is likely to be used in an educational or training setting, where participants need to provide basic contact and demographic information, as well as details about their interests and qualifications. 
-
-Before starting the form, check if you have already filled out this form, in case you need to make any changes or updates to your previous application. 
-
-</thinking>
-
 # Participant Application Form - Help Guide
 ## Purpose
 The Participant Application Form is designed to gather information from individuals who want to participate in a seminar or program. This form helps the organizers of the seminar or program to get to know you better and ensure that you are a good fit for the event.

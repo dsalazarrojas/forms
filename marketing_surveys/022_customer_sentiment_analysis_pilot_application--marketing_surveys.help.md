@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Sentiment Analysis Pilot Application - Help Guide
 ## Purpose
 This form is designed to collect customer contact information and sentiment data for the Customer Sentiment Analysis Pilot Application. This data will help us understand customer opinions and feelings about our products or services. Please fill out the form carefully and thoroughly to provide accurate information.

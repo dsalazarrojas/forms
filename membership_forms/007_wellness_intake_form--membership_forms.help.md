@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from the user to create a comprehensive profile for their wellness journey. This form collects general information, medical information, contact information, allergies, medications, medical history, and emergency contact information to ensure the user receives the best possible care. Please ensure that the information provided is accurate and up-to-date to avoid any miscommunication or errors.
-</thinking>
-
 # Wellness Intake Form - Help Guide
 ## Purpose
 The Wellness Intake Form is designed to gather essential information from the user to create a comprehensive profile for their wellness journey. This form ensures that the user receives the best possible care by collecting general information, medical information, contact information, allergies, medications, medical history, and emergency contact information.

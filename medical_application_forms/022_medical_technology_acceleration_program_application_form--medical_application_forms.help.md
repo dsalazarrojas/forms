@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Technology Acceleration Program Application Form - Help Guide
 
 ## Purpose

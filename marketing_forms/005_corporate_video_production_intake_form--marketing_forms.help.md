@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for corporate video production intake. Its purpose is to collect project details, team information, production requirements, and contact information. This form is intended for internal use by company representatives to gather essential data for video production projects.
-
-To ensure relevance and avoid duplication, users must confirm that they are completing this form for a valid reason and that the project does not already exist in the system.
-
-</thinking>
-
 # corporate_video_production_intake_form - Help Guide
 ## Purpose
 

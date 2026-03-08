@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for collecting information about a labor union membership intake. The purpose of this form is to gather essential details from new members, including their personal information, work history, employment status, benefits, dues status, savings status, and savings amount. The form also collects notes and agreements related to their membership. 
-</thinking>
-
 # labor_union_membership_intake_form - Help Guide
 ## Purpose
 This form is intended for new members to provide their personal details and information about their labor union membership status.

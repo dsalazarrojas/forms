@@ -1,12 +1,3 @@
-<thinking>
-We have a need to gather feedback from customers on our current customer acquisition strategy to identify areas of improvement and make data-driven decisions. To ensure we're capturing relevant and accurate feedback, we want to minimize duplicate responses and make sure each feedback form is filled out by a unique user. This form will serve as a starting point for further communication and follow-up actions.
-
-Please note that the fields marked as "optional" might not be required, but they are meant to gather more specific and concrete information from the users.
-
-The following document will help guide users through the form completion process and provide a clear understanding of each field.
-
-</thinking>
-
 # Customer Acquisition Strategy Feedback Form - Help Guide
 ## Purpose
 The Customer Acquisition Strategy Feedback Form is designed to collect your feedback and suggestions on our current customer acquisition strategy. Your input will help us improve our approach and better serve you and our other customers.

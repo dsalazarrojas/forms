@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from Crossfit members regarding their membership status, type, and payment details. It's essential to ensure that the data collected is accurate and up-to-date to maintain the membership records properly. Before filling out this form, please check if you've already submitted a similar survey in the past to avoid duplication. If you've previously completed a membership survey, please do not attempt to fill this form again.
-</thinking>
-
 # Crossfit Membership Survey - Help Guide
 ## Purpose
 This form is used to collect membership information from Crossfit members, including their name, contact details, membership status, type, and payment details.

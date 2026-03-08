@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a menu redesign project, including menu information, material type, quantity, unit price, total price, order date, order time, notes, email, phone number, and address. This form will likely be used by stakeholders to provide input on menu redesigns for a company's menu, and the collected data can be used to inform future menu redesigns.
-</thinking>
-
 # Menu Redesign Material Order Form - Help Guide
 
 ## Purpose

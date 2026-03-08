@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from massage therapists regarding their potential exposure to and experiences with the coronavirus. It's a crucial tool for health authorities to track and manage the spread of the virus within the massage therapy industry. By using this form, massage therapists can provide detailed and accurate information about their medical history, exposure risk factors, and any relevant health measures they've taken. This form is intended for use by massage therapists who want to report their status and follow local health guidelines. It's essential to fill out this form carefully and honestly, as the information collected will help public health officials understand the impact of the virus on the industry and develop targeted responses to contain its spread.
-
-</thinking>
-
 # Coronavirus Intake Form For Massage Therapists - Help Guide
 ## Purpose
 This form collects information from massage therapists about their medical history, potential exposure risks, and adherence to public health measures.

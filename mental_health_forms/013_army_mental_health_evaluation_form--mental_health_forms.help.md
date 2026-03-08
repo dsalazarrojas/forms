@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess a soldier's mental health and well-being, specifically focusing on symptoms of anxiety, depression, and PTSD, as well as their overall risk level for duty. The form is intended to be used by military personnel or mental health professionals to quickly and efficiently evaluate a soldier's mental health status.
-</thinking>
-
 # Army Mental Health Evaluation Form - Help Guide
 ## Purpose
 The Army Mental Health Evaluation Form is designed to provide a quick and efficient way to assess a soldier's mental health and well-being. The form is divided into several sections, each focusing on different aspects of mental health, such as symptoms, risk level, and recommended treatment.

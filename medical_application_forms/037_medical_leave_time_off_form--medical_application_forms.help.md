@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to provide a framework for employees to request medical leave. It captures information such as the employee's name, job title, reason for leave, and medical details (including doctor's name, doctor's office, and medical record number). The form also includes fields for the employee's signature, manager's signature, and date submitted. This form is likely used to process internal HR-related requests for medical leave.
-The form seems to be a comprehensive one, covering various aspects of medical leave, including the type of leave, duration, and medical provider information. The fields appear to be well-structured and relevant to the purpose of the form.
-Before creating this guide, I've checked the form fields for any potential duplication or redundancy. Based on the provided YAML, there are no apparent issues.
-</thinking>
-
 # Medical Leave Time Off Form - Help Guide
 
 ## Purpose

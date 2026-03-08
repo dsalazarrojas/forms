@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting Black Friday promotional signage for marketing purposes. The form should only be filled out for Black Friday promotions, and should not be used for other types of signage requests. Please ensure that you have checked the internal Black Friday promotions calendar before submitting this form to avoid duplicating work. This form is intended for marketing contacts to request and coordinate signage for their promotional activities. Please fill out this form carefully and completely to ensure accurate and timely fulfillment of your signage needs.
-</thinking>
-
 # Black Friday Promotional Signage Request Form - Help Guide
 ## Purpose
 This form is used to request and coordinate Black Friday promotional signage for marketing purposes.

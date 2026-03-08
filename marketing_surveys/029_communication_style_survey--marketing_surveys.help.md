@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess an individual's communication style, which refers to the way they express themselves, interact with others, and approach conversations. The survey aims to gather information on various aspects of communication, including directness, emotional expression, listening style, conflict resolution, feedback, preferred communication mediums, response time, message length, social comfort, small talk, networking, communication strengths, and challenges. The survey is intended to be completed by participants who are interested in understanding their own communication style and identifying areas for improvement.
-
-Before filling out this form, please ensure that you are not duplicating your response, as the survey is designed to be a one-time assessment. If you have already completed a similar survey, please do not submit this form again.
-
-</thinking>
-
 # Communication Style Survey - Help Guide
 ## Purpose
 The Communication Style Survey is designed to help you understand your communication style, identify your strengths and weaknesses, and provide you with insights for improvement.

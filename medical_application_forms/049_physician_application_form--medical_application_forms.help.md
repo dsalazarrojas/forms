@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information from physicians applying for a position or membership in a medical organization. The form's purpose is to gather basic contact information, medical license number, specialty, and work experience. The form is designed to be user-friendly and easy to complete, with clear labels and instructions. It is essential to ensure that the form is completed accurately and thoroughly to avoid any issues with the application process.
-
-Before starting the form, ensure that you are using it for its intended purpose and that you have all the necessary information to complete it. If you have any doubts or questions, please contact the relevant authorities for clarification.
-
-This form should not be used for any other purpose other than the intended one.
-
-Note: Please do not hesitate to ask if you have any questions or need further clarification.
-</thinking>
-
 # Physician Application Form - Help Guide
 
 ## Purpose

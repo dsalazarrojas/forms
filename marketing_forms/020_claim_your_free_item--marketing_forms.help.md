@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Claim Your Free Item - Help Guide
 
 ## Purpose

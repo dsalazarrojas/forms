@@ -1,10 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the "Autism Survey" form that explains its purpose, how to complete it, and each field's meaning. The form aims to gather information about community attitudes towards individuals with autism, understanding their comfort levels interacting with them, and awareness of support services. This guide will help end-users provide accurate and meaningful responses.
-
-This guide is relevant as it directly relates to the "medical_surveys_questionnaires" category. To avoid duplication, we will ensure that the information provided is clear and concise.
-
-</thinking>
-
 # Autism Survey - Help Guide
 ## Purpose
 The Autism Survey is a collection of questions designed to gather information about community attitudes towards individuals with autism. This form aims to understand how often people interact with someone with autism, how comfortable they are in social settings, and their awareness of support services for autism. Your responses will contribute to improving social inclusion and accessibility for individuals with autism.

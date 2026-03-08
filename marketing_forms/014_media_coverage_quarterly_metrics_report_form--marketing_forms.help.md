@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Media Coverage Quarterly Metrics Report Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals share their recovery journey, which is an essential part of the process of overcoming mental health challenges. It is intended to be a personal and reflective exercise that allows users to document their experiences, insights, and feelings related to their recovery. Before starting, please ensure that you have not already submitted this form, as this will help us avoid duplication of effort and ensure that your data is accurately recorded.
-</thinking>
-
 # share_your_recovery_journey - Help Guide
 ## Purpose
 The "share_your_recovery_journey" form is designed to be a personal and reflective exercise to help individuals share their recovery experiences, insights, and feelings related to overcoming mental health challenges.

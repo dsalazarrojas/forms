@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_health_technology_innovation_application_form - Help Guide
 
 ## Purpose

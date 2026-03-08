@@ -1,27 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in a Black Friday giveaway. The form is divided into several sections, each with its own set of fields that require specific types of information. The form is intended to be completed by individuals who want to enter the giveaway. To avoid duplication, participants must not submit multiple entries.
-
-To ensure that participants are eligible to win, the form requires the following information:
-- First name
-- Last name
-- Email address
-- Phone number
-- Date of birth (must be 18 or older)
-- Address (street address)
-- City
-- State
-- ZIP code
-- Preference for a specific prize
-- Whether they follow us on social media
-- Whether they have shared this giveaway with friends
-- Whether they want to join our newsletter
-- Source of information about the giveaway
-
-The form also provides an option for participants to provide additional entry notes if they have any bonus entry codes or notes.
-
-Before filling out the form, participants must agree to the terms and conditions of the giveaway.
-</thinking>
-
 # Black Friday Giveaway Form - Help Guide
 ## Purpose
 The Black Friday Giveaway Form is designed to collect information from participants in a Black Friday giveaway. The form is divided into several sections, each with its own set of fields that require specific types of information.

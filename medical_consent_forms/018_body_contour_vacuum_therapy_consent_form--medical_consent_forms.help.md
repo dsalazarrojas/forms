@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Body Contour Vacuum Therapy Consent Form - Help Guide
 
 ## Purpose

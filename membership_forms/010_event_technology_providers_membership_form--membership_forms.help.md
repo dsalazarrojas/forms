@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for individuals or organizations that provide event technology solutions, such as software, hardware, or services, to events. The purpose of this form is to collect information from these providers to facilitate their membership in our community and to track their status. The information collected will be used to manage and communicate with these providers effectively.
-
-To avoid duplication, please ensure that you are not already a member of our community before filling out this form.
-
-</thinking>
-
 # Event Technology Providers Membership Form - Help Guide
 ## Purpose
 The Event Technology Providers Membership Form is a tool to help us gather information from individuals or organizations that provide event technology solutions. This information will be used to manage and communicate with these providers effectively.

@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will create a help guide for the "Ear Infection Risk Assessment Form" that explains its purpose, how to complete it, and each field in a clear and concise manner.</thinking>
-
 # Ear Infection Risk Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the risk of ear infection in patients. It collects general information, symptoms, risk factors, medical history, ear infection history, and next steps to be taken by the healthcare provider. By completing this form, healthcare providers can quickly and accurately assess the risk of ear infection and provide appropriate care to patients.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is used to register new members for the Akp Member Register, a membership system for the Akp - KSSC organization. The purpose of this form is to collect essential information from individuals who want to join the organization. This form is designed to gather personal details, membership information, and emergency contact data from new members. 
-
-The form is divided into two sections: 'Member Personal Details' and 'Membership Information'. The personal details section includes fields for the member's name, date of birth, gender, contact number, email address, and residential address. The membership information section includes fields for membership category, registration date, previous membership ID (if renewal), and primary interest or activity. 
-
-The form also includes an emergency contact section where the member can provide information about an emergency contact person, including their name and phone number. Finally, the form includes a data consent field where the member must agree to the organization storing their data for membership purposes.
-
-</thinking>
-
 # Akp Member Register - Help Guide
 ## Purpose
 

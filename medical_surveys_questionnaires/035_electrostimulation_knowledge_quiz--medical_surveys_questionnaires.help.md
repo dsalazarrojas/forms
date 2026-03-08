@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge of electrostimulation, a medical treatment option. It is crucial to understand the safety concerns, usage guidelines, and methods of assessment for this treatment. This form is used to collect data from medical professionals and patients to improve the knowledge and practices in the field of electrostimulation.
-
-Before proceeding, please ensure that you are filling this form for the right purpose and not duplicating any previous efforts. If you are unsure, please consult with your supervisor or a relevant authority.</thinking>
-
 # Electrostimulation Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge of electrostimulation, a medical treatment option. It will help us understand your level of understanding of the safety concerns, usage guidelines, and methods of assessment for electrostimulation.

@@ -1,12 +1,3 @@
-<thinking>
-To ensure that the "Virtual City Hall Meeting Registration Form" is completed correctly, we should first confirm that the form is relevant to the intended user. This form is designed to be filled out by individuals interested in attending a virtual meeting held at the city hall. The form is not intended for general public use. Therefore, only registered participants, employees, or authorized users should be able to access and fill out the form.
-
-The purpose of this form is to collect information about attendees, their company and job title, as well as other relevant details to facilitate the meeting process. This includes selecting which meeting to attend, providing contact information, and indicating which roles they will play in the meeting.
-
-To ensure data consistency, it's crucial that users do not reuse the same information across multiple forms.
-
-</thinking>
-
 # Virtual City Hall Meeting Registration Form - Help Guide
 ## Purpose
 This form is designed for registered participants, employees, or authorized users to register for a virtual meeting at the city hall. It helps to gather essential information about attendees, their company, job titles, and other relevant details to facilitate the meeting process.

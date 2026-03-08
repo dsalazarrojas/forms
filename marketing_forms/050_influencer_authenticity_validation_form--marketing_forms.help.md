@@ -1,10 +1,3 @@
-<thinking>
-The Influencer Authenticity Validation Form is a crucial tool for marketing teams to validate the authenticity of an influencer's audience demographics, engagement metrics, diversity, content types, brand awareness, and favorability. This form aims to gather information on the audience's age group, geographic location, engagement metrics, and other relevant details to help brands understand the authenticity of their partnerships. The form is designed to ensure that the provided information is accurate and authentic, reducing the risk of fake or manipulated data. By filling out this form, you will be able to provide accurate and trustworthy data for your brand's marketing efforts.
-
-To fill out this form, please follow the instructions below.
-
-</thinking>
-
 # Influencer Authenticity Validation Form - Help Guide
 ## Purpose
 The Influencer Authenticity Validation Form is a tool to validate the authenticity of an influencer's audience demographics, engagement metrics, diversity, content types, brand awareness, and favorability. This information helps brands understand their partnerships and make data-driven decisions.

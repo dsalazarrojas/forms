@@ -1,9 +1,3 @@
-<thinking>
-This guide assumes that the "User Testing Survey" form is used to collect user feedback and ratings on products or services. The purpose of this form is to gather information about users' experiences and opinions on specific products, helping the development team understand their strengths and weaknesses. This information will be used to improve the product and enhance the overall user experience. The form will be filled out by users who have tested a product or service and are willing to provide their feedback.
-
-Before starting the survey, please note that the form is divided into several pages, each with its own set of questions or fields. You will need to complete each page in order to submit your feedback.
-</thinking>
-
 # User Testing Survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback and ratings on products or services that you have tested. Your input is valuable in helping us understand what works and what can be improved.

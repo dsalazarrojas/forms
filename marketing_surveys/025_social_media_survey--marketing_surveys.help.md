@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the company's social media presence and usage. The form is likely used to inform marketing strategies and assess the company's social media performance. It's essential to complete this form accurately to ensure that the data collected is reliable and useful for making informed decisions. Before starting, check if there are any existing forms that serve the same purpose to avoid duplication of effort.</thinking>
-
 # Social Media Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the company's social media presence and usage. It helps us understand how we are doing on different social media platforms, and what we need to improve.

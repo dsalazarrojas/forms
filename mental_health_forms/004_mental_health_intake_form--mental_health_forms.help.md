@@ -1,5 +1,3 @@
-<thinking>This form is meant to collect mental health intake information, typically used by healthcare professionals to assess and treat patients' mental health conditions. It's crucial to ensure that you're using this form in the correct context and not duplicating effort. Please review the provided documentation and understand that this form may not cover all mental health aspects, so it's vital to consult with healthcare professionals before using it as the sole basis for assessment or treatment decisions.</thinking>
-
 # Mental Health Intake Form - Help Guide
 ## Purpose
 The Mental Health Intake Form is a collection of information used by healthcare professionals to assess and understand a patient's mental health history, current status, and needs.

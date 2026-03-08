@@ -1,8 +1,3 @@
-<thinking>
-This guide assumes that the form is being used in a clinical or healthcare setting to gather information about a patient's health and medical history. The form is likely to be filled out by a medical professional, such as a doctor or nurse, as part of a patient's examination or consultation.
-To avoid duplication of effort, ensure you have the necessary permissions and approvals from the patient or their guardian before completing this form. Additionally, ensure the patient's information is up-to-date and accurate to provide the best possible care.
-</thinking>
-
 # health_examination_form - Help Guide
 ## Purpose
 

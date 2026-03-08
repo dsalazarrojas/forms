@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for referral partners to sign up to partner with the organization. The purpose of the form is to collect information from referral partners, which will be used to communicate with them and facilitate partnerships. This guide will walk you through the process of filling out the form, explaining each field and what information it captures.
-
-</thinking>
-
 # Referral Partner Signup Form - Help Guide
 ## Purpose
 The Referral Partner Signup Form is designed to collect information from referral partners to facilitate effective communication and collaboration.

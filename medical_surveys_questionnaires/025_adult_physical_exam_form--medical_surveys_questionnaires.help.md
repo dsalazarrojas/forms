@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adult Physical Exam Form - Help Guide
 
 ## Purpose

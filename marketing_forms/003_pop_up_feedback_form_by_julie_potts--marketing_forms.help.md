@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers after a marketing event. It's a simple 5-page form that gathers information from users about their experience at the event.
-The form is not affiliated with any form platforms and is released under CC BY 4.0 license, allowing for free use, modification, and distribution.
-To ensure the form's relevance and non-duplication, we've carefully crafted it using only public survey topic metadata.
-</thinking>
-
 # pop_up_feedback_form_by_julie_potts - Help Guide
 ## Purpose
 This form is used to collect feedback from customers after a marketing event.

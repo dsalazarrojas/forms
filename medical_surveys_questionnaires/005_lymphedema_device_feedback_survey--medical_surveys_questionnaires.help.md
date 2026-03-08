@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to provide feedback on their experience with a lymphedema device. The goal is to gather information about the effectiveness, usability, and areas for improvement of the device. This feedback will help the manufacturer and healthcare professionals to better understand patient needs and make informed decisions for future device development and optimization.
-</thinking>
-
 # lymphedema_device_feedback_survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather your feedback and experience with your lymphedema device. Your input will help us understand how the device meets your needs and identify areas for improvement.

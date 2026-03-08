@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a candidate's experience and preferences in digital marketing. The form asks about the candidate's title, description, category, and experience in specific digital marketing areas. It also inquires about how the candidate would fit the position, organize the form, collect data, and submit it. The form asks if they would automate form collection and submission, as well as their preferred method of communication with clients.
-
-The form's purpose is to provide a comprehensive overview of the candidate's skills and experience in digital marketing, making it easier for the hiring team to evaluate and make informed decisions.
-
-Before filling out the form, please ensure that the information provided is accurate and relevant to the position applied for. Duplicate or irrelevant information may be removed or disregarded in the evaluation process.
-
-</thinking>
-
 # Digital Marketing SEO Interview Form - Help Guide
 
 ## Purpose

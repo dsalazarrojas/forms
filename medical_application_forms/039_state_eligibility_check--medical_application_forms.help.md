@@ -1,7 +1,3 @@
-<thinking>
-The State Eligibility Check form is a crucial component of the healthcare system, allowing users to determine whether a patient is eligible for medical services within a specific state. To ensure that this form is filled out accurately and effectively, we need to ensure that it is completed by the right individuals in the healthcare team. To prevent duplication of effort and maintain data accuracy, we should only allow users with relevant roles to access and submit this form. This form will likely be used by healthcare professionals, such as medical directors, to assess whether a patient is eligible for services in their state.
-</thinking>
-
 # State Eligibility Check - Help Guide
 
 ## Purpose

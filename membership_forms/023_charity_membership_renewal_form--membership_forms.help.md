@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML fields, I notice that this form is designed for members to renew their membership with a charity organization. The form aims to collect information about the member's personal details, membership level, and payment preferences. It also includes fields for selecting benefits and providing feedback on the member's satisfaction. I'll use this understanding to create a clear and concise user-facing help guide for this form.</thinking>
-
 # Charity Membership Renewal Form - Help Guide
 ## Purpose
 The Charity Membership Renewal Form is used to collect information from members who wish to renew their membership with our organization. This form will help us keep your membership status up-to-date and ensure you receive the benefits you're entitled to.

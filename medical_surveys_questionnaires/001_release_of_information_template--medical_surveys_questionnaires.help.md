@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Release Of Information Template is to collect information and data for release of information purposes, likely for medical or health-related documentation. This form is used to gather detailed information about an individual's medical condition, survey responses, and contact information for release of information purposes. It's essential to ensure that the form is completed accurately and in its entirety to provide the required information for release.
-
-To complete this form, follow the instructions below:</thinking>
-
 # Release Of Information Template - Help Guide
 ## Purpose
 The Release Of Information Template is a comprehensive form used to collect information and data for release of information purposes, typically for medical or health-related documentation. This form is designed to gather detailed information about an individual's medical condition, survey responses, and contact information for release of information purposes.

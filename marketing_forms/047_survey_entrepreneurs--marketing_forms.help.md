@@ -1,11 +1,3 @@
-<thinking>**Internal Reasoning Block**
-
-This form is intended to collect information from entrepreneurs and business owners for marketing purposes. It is used to gather data on their business, including contact information, company details, and demographics. The form will help us understand their needs, preferences, and pain points, allowing us to tailor our marketing efforts more effectively.
-
-To avoid duplication, we've added a unique id for each field. This ensures that we can accurately identify and filter responses.
-
-</thinking>
-
 # Survey Entrepreneurs - Help Guide
 ## Purpose
 The Survey Entrepreneurs form is designed to collect information from entrepreneurs and business owners for marketing purposes. This guide will help you complete the form accurately and efficiently.

@@ -1,12 +1,3 @@
-<thinking>
-We are creating a form to evaluate the success of digital marketing campaigns. This form should capture the key information about the campaign, such as name, objectives, budget, duration, results, and channels used. We want to ensure that the campaign meets its intended goals, and this form will help in making that assessment.
-
-Before proceeding, please review your campaign and ensure that you have all the necessary information to fill out this form. If the campaign has already ended, try to gather as much data as possible to provide a comprehensive assessment. If the campaign is still ongoing, try to update this form regularly as you gather more data.
-
-This form should not be filled out for campaigns that have already been evaluated using this form. If you have filled out this form for a campaign in the past, please do not fill it out again.
-
-</thinking>
-
 # Digital Marketing Campaign Success Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate the success of digital marketing campaigns. It captures key information about the campaign, including its name, objectives, budget, duration, results, and channels used.

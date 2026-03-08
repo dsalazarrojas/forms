@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following is a brief internal reasoning block:
 This form is designed to assess users' knowledge about Parkinson's disease, a neurodegenerative disorder affecting movement. The form will likely be used in various settings, such as patient education programs or awareness campaigns. Before proceeding, please ensure that you're not already using this form elsewhere, and confirm that the content is relevant to your context.
 

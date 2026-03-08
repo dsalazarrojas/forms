@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's experience with dissociation, which is a complex psychological phenomenon that can be triggered by various types of trauma. The form aims to collect information about the individual's trauma experiences, dissociative features, emotional regulation, and coping strategies. It is essential to complete this form carefully and honestly, as the information collected will help healthcare professionals understand the individual's mental health situation better. Before starting to fill out this form, please ensure that you have not filled it out previously, as this will help prevent duplicate assessments. If you are unsure about any question or feel uncomfortable answering, please do not hesitate to seek guidance from a healthcare professional.
-</thinking>
-
 # Dissociation Screening Assessment Form - Help Guide
 ## Purpose
 The Dissociation Screening Assessment Form is designed to assess an individual's experience with dissociation, a complex psychological phenomenon that can be triggered by various types of trauma. This form helps healthcare professionals understand the individual's mental health situation better.

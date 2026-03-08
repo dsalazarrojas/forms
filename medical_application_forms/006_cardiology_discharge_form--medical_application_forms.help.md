@@ -1,8 +1,3 @@
-<thinking>
-This guide should provide a clear, concise explanation of the Cardiology Discharge Form's purpose and usage. It should be easy to read and understand for end-users, covering the form's intent, how to fill it out, and what each field means. Since the form is used for tracking patient discharges from a cardiology department, its primary purpose is to gather necessary information for successful patient recovery and follow-up. Before proceeding, ensure this form is being used for its intended purpose and not duplicating existing documentation.
-
-</thinking>
-
 # Cardiology Discharge Form - Help Guide
 
 ## Purpose

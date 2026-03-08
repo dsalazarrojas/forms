@@ -1,13 +1,3 @@
-<thinking>
-
-**Form purpose:**
-This form is designed for medical professionals to verify patient insurance information. It collects essential data about the patient, their insurance details, and relevant medical claims.
-
-**Relevance and Duplication Check:**
-Before proceeding, make sure you're using this form for its intended purpose: verifying patient insurance information. If you're unsure, review your internal guidelines to ensure you're not duplicating efforts or using this form for a different purpose.
-
-</thinking>
-
 # Medical Insurance Verification Form Template - Help Guide
 ## Purpose
 This form is used by medical professionals to collect and verify patient insurance information, ensuring accurate and complete data for efficient claims processing and patient care.

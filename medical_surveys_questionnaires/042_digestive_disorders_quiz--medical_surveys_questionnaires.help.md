@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess a person's knowledge about digestive disorders, specifically Crohn's disease, and gather information about their symptoms, treatment, and medical history. The form is not affiliated with any medical platform and is an original adaptation of public survey topic metadata.
-
-</thinking>
-
 # Digestive Disorders Quiz - Help Guide
 ## Purpose
 The Digestive Disorders Quiz is a questionnaire designed to gather information about your knowledge of digestive disorders, specifically Crohn's disease, and gather data about your symptoms, treatment, and medical history. This form is not affiliated with any medical platform and is an original adaptation of public survey topic metadata.

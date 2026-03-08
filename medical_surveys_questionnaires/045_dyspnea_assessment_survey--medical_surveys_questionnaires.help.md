@@ -1,7 +1,3 @@
-<thinking>
-The "dyspnea-assessment-survey" form is designed to assess the symptoms and medical history of patients, particularly those with respiratory conditions such as COPD and cardiovascular issues. This form is intended for healthcare professionals to collect relevant information to better understand the patient's condition and provide accurate care. Before starting, ensure that you're not duplicating efforts or assessing the same patient's data. If you need to access this form for the first time, make sure you have the necessary permissions to do so.
-</thinking>
-
 # dyspnea-assessment-survey - Help Guide
 ## Purpose
 The "dyspnea-assessment-survey" form is designed to collect information on patients' symptoms, medical conditions, and medical history to help healthcare professionals better understand their condition.

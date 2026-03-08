@@ -1,10 +1,3 @@
-<thinking>
-This help guide is to ensure that end users understand the purpose and functionality of the "Healthcare Knowledge Sharing Culture Survey" form. This guide will outline the form's purpose, how to complete it, and a field-by-field explanation of each question. The form's purpose is to measure the healthcare professionals' attitudes and perceptions towards knowledge sharing culture in their workplace. The survey will help identify areas of strengths and weaknesses in the healthcare team's knowledge sharing culture, which can be used to improve communication, collaboration, and patient care.
-
-Before proceeding, please ensure that you have a good understanding of the survey's purpose and the context in which it will be used. If you have any questions or concerns, please contact the form administrator.
-
-</thinking>
-
 # Healthcare Knowledge Sharing Culture Survey - Help Guide
 ## Purpose
 The "Healthcare Knowledge Sharing Culture Survey" is a tool used to measure healthcare professionals' attitudes and perceptions towards knowledge sharing culture in their workplace. The survey is designed to help identify areas of strengths and weaknesses in the team's knowledge sharing culture, which can be used to improve communication, collaboration, and patient care.

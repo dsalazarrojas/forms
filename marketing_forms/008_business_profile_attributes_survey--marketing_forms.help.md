@@ -1,8 +1,4 @@
-# <thinking>
-This form is intended to gather information on client business profiles for marketing purposes. The goal of this form is to collect data on various aspects of the client's business, including their name, industry type, size, revenue, years in operation, target market, key products or services, unique selling proposition, primary sales channels, digital presence, social media activity, marketing budget, main challenges, growth plans, preferred contact method, and the date the survey was completed. This information is crucial in understanding the client's business landscape and creating targeted marketing strategies. It's essential to ensure that all the required fields are filled out accurately to get a comprehensive understanding of the client's business profile.
-</thinking>
-
-# Business Profile Attributes Survey - Help Guide
+# # Business Profile Attributes Survey - Help Guide
 ## Purpose
 This form is designed to collect data on your client's business profile, including their contact information, industry type, size, revenue, target market, key products or services, unique selling proposition, primary sales channels, digital presence, social media activity, marketing budget, main challenges, growth plans, preferred contact method, and the date the survey was completed.
 

@@ -1,7 +1,3 @@
-<thinking>
-Internal reason for this form is to assess the civic participation readiness of citizens. The questions aim to identify the level of knowledge, motivation, and barriers that may affect the respondent's engagement in civic activities. The purpose is to inform strategies for increasing participation and engagement. This form should not be used to duplicate other existing surveys or forms that ask similar questions.
-</thinking>
-
 # Civic Participation Readiness Survey - Help Guide
 ## Purpose
 The Civic Participation Readiness Survey is a tool designed to measure the willingness and ability of citizens to participate in civic activities such as voting, community involvement, and social advocacy. It assesses the respondent's level of knowledge, motivation, and perceived barriers to participation, providing valuable insights to inform strategies for increasing civic engagement.

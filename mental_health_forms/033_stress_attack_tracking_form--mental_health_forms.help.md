@@ -1,11 +1,3 @@
-<thinking>
-The form purpose and relevance check:
-- The purpose of this form is to help individuals track and record their stress attacks, including the date, time, type, and severity of the attack. This form can be used by individuals who experience frequent or severe stress attacks, such as those with anxiety disorders, post-traumatic stress disorder (PTSD), or other mental health conditions.
-- This form is intended to be a personal and private record, not a replacement for professional medical advice or treatment.
-- To complete this form, please make sure you have a clear understanding of what constitutes a "stress attack" and how to accurately categorize its type and severity.
-
-</thinking>
-
 # Stress Attack Tracking Form - Help Guide
 
 ## Purpose

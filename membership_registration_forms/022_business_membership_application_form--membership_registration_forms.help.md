@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for businesses seeking membership to the chamber of commerce. It collects information on business details, membership preferences, and payment method. This guide is provided to ensure that end-users understand the purpose and requirements of the form.
-
-To complete this form, users must provide accurate and complete information about their business and interests. The form will ask for contact information, business details, and preferences for membership. It's essential to fill out the form carefully to ensure that the membership application process goes smoothly.
-
-</thinking>
-
 # Business Membership Application Form - Help Guide
 ## Purpose
 This form is designed to collect information for businesses applying for membership to the chamber of commerce. It will help us understand your business needs and preferences.

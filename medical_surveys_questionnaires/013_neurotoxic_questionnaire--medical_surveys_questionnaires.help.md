@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the <strong>neurotoxic_questionnaire</strong> form is to collect information from users about their medical history and contact details. This form is designed to be completed by individuals who are concerned about the potential risks of neurotoxic substances or who have a medical condition that may be related to exposure to neurotoxic substances. The information collected will be used to provide guidance and support for the individual's specific situation.
 
 Before starting this form, please ensure you have not completed it recently. If you have any questions or concerns, please contact our support team.

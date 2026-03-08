@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to elicit information about an event or party's details such as style, theme, size, date, time, location, and other relevant attributes. The form should be completed by the party organizer or someone familiar with the event. This guide will cover each field's purpose, expected input, and any additional guidance to ensure the information submitted is accurate and complete.
-</thinking>
-
 # Personal Styling Questionaire - Help Guide
 ## Purpose
 The Personal Styling Questionaire is designed to collect information about an event or party's style, theme, size, date, time, location, and other relevant attributes.

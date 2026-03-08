@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the effectiveness of the Art Therapy Program. It is intended to gather information from participants about their experiences, goals, and improvements in mental health, emotional regulation, self-expression, and social skills after participating in the program. The form is designed to be completed by individuals who have participated in the art therapy program and aims to gather feedback on the program's structure, materials, and overall effectiveness.
-</thinking>
-
 # Art Therapy Program Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of the Art Therapy Program. It is intended to gather information from participants about their experiences, goals, and improvements in mental health, emotional regulation, self-expression, and social skills after participating in the program.

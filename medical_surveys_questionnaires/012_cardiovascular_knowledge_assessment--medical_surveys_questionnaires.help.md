@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess the cardiovascular knowledge of individuals, specifically their understanding of various aspects of heart health, such as normal blood pressure ranges, common heart attack symptoms, benefits of regular aerobic exercise, risk factors for atherosclerosis, and self-assessed knowledge level. This form aims to educate respondents on their current knowledge and preferences for learning about heart health. It is essential to ensure that the form is filled out by an individual who has a genuine interest in heart health and can provide accurate and reliable information. To avoid duplication and relevance, it is recommended that this form be filled out by individuals who are not already healthcare professionals or those who have filled out the form previously.
-
-</thinking>
-
 # Cardiovascular Knowledge Assessment - Help Guide
 ## Purpose
 The Cardiovascular Knowledge Assessment form is designed to evaluate an individual's understanding of various aspects of heart health, including normal blood pressure ranges, common heart attack symptoms, and benefits of regular aerobic exercise. This form aims to educate respondents on their current knowledge and preferences for learning about heart health.

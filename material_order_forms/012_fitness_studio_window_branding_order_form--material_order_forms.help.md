@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used for the purpose of creating a new branding order for a Fitness Studio's window branding. The form allows users to input necessary information such as name, contact details, and preferences for the branding order. It's meant to be completed by a representative of the Fitness Studio who would be ordering the branding for their windows. The information gathered from this form will be used to create the branding order which will be applied to the Fitness Studio's windows.
-It's essential to complete the form accurately and thoroughly as any missing or incorrect information might lead to miscommunication and errors in the branding process.
-This form is not meant to be completed by customers or end-users of the Fitness Studio. It's a internal order form used by the Fitness Studio's representatives to order the branding for their own windows.
-</thinking>
-
 # Fitness Studio Window Branding Order Form - Help Guide
 ## Purpose
 The purpose of this form is to provide information for creating a new branding order for a Fitness Studio's window branding.

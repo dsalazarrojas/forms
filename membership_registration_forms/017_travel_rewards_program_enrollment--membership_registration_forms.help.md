@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from users who are interested in enrolling in the Travel Rewards Program. This form will help users provide their contact information, travel preferences, and other relevant details that will help the program administrators tailor the rewards and services offered to them.
-The purpose of this form is to collect data from potential program members and store it for future reference. The form will be used by program administrators to verify the information provided by users and onboard them into the program.
-This form should not be used for non-mission-related activities or for gathering information from existing program members.
-</thinking>
-
 # Travel Rewards Program Enrollment - Help Guide
 ## Purpose
 The Travel Rewards Program is designed to provide exclusive benefits and discounts to its members. By enrolling in this program, you will be able to access special offers, discounts, and rewards tailored to your travel preferences and needs.

@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be a multi-page survey or questionnaire for a "Sparkle Experience Giveaway Entry" with a mix of text, email, select, and date/time fields. The purpose of this form is to collect information from users who want to participate in a giveaway or contest related to the "Sparkle Experience". It's likely used for marketing purposes to gather contact information and preferences of potential participants. To ensure non-duplication, the form should check for existing entries with the same email address. 
-</thinking>
 # Sparkle Experience Giveaway Entry - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to participate in the Sparkle Experience Giveaway. Please fill out the form accurately to be considered for the giveaway.

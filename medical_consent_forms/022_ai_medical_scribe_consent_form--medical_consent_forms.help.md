@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for patients to provide consent for the use of an AI medical scribe in taking notes during medical visits. The form ensures that patients understand how their medical information will be captured and stored, and that they are aware of their rights regarding data retention and privacy.
-
-The AI medical scribe consent form is an original adaptation created by AI, and not derived from any form platform. It's released under the CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as proper credit is given.
-
-To ensure that patients understand and agree to the terms of the AI scribe's data collection and storage, this form is designed to be clear and concise. Each field is carefully crafted to provide essential information and options for patients to make informed decisions.
-
-</thinking>
-
 # AI Medical Scribe Consent Form - Help Guide
 ## Purpose
 The AI Medical Scribe Consent Form is a tool designed to obtain patient consent for the use of an AI medical scribe in taking notes during medical visits. The form aims to ensure that patients are informed and agree to the terms of data collection and storage.

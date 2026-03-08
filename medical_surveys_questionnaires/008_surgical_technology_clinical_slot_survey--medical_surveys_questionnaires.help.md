@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect data from students about their preferences and availability for clinical rotations. This form is designed for students to provide information about their preferred clinical settings, rotations, and other relevant details. Please ensure that you are completing this form for the purpose it was designed for and that you have not already completed it in the past. If you have any concerns or questions, please reach out to the relevant personnel.
-
-</thinking>
-
 # surgical_technology_clinical_slot_survey - Help Guide
 ## Purpose
 The surgical technology clinical slot survey is a form designed to collect information from students about their preferences and availability for clinical rotations.

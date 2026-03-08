@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive evaluation checklist for medical equipment, used to track and maintain information about the equipment's name, type, manufacturer, purchase date, purchase price, location, condition, maintenance status, safety standards met, user evaluation, and notes or comments. The form is designed to be completed by healthcare professionals to ensure that the equipment is properly maintained and meets safety standards.
-</thinking>
-
 # Medical Equipment Evaluation Checklist - Help Guide
 ## Purpose
 This form is used to collect and record information about the medical equipment, its condition, and its maintenance status. It helps healthcare professionals evaluate and monitor the equipment's compliance with safety standards.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Recently Contacted List - Help Guide
 ### Purpose
 This form is designed to gather information about patients who have recently been in contact with your organization. It helps healthcare professionals keep track of patients' contact history and maintain accurate records. This form is intended for medical professionals to use as a reference tool for their practice.

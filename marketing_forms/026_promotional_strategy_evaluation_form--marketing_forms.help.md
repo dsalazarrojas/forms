@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to evaluate a promotional strategy. It gathers information about the campaign's performance and effectiveness across various channels. It's essential to fill this form to get insights and improve future marketing efforts. Before filling out this form, ensure you have a clear understanding of the campaign's goals and objectives.
-
-</thinking>
-
 # promotional_strategy_evaluation_form - Help Guide
 ## Purpose
 This form is used to evaluate a promotional strategy by gathering information about campaign performance and effectiveness across various channels. It helps in understanding what worked well and what didn't, providing valuable insights to improve future marketing efforts.

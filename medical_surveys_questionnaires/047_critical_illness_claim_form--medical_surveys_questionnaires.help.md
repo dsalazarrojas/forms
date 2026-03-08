@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to be used for critical illness claims, which are typically medical events that require significant treatment or recovery time. The form will help users to report such incidents and gather relevant information for potential claims. To complete this form, please ensure you have all necessary medical records and contact information before starting.
-
-</thinking>
-
 # Critical Illness Claim Form - Help Guide
 
 ## Purpose

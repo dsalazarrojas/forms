@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information for a doctor's visit appointment. The fields are divided into sections that cover the patient's identification, appointment details, and medical information. The form is intended to be completed by patients and doctors alike, with some fields being mandatory and others optional. This guide will help users understand the purpose and requirements of each field to ensure accurate and complete information is collected.
-
-Before filling out this form, please make sure you have the necessary information and authorization to complete it. This form is not intended to be used as a replacement for medical professionals' expertise, but rather as a tool to aid in the preparation for a doctor's visit.
-
-</thinking>
-
 # Doctor Visit Appointment Form - Help Guide
 ## Purpose
 This form is designed to gather information for a doctor's visit appointment, ensuring that both patients and doctors have the necessary details before the visit.

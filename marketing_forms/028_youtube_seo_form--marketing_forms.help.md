@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users optimize their YouTube video titles and descriptions for better search engine optimization (SEO). It's a collection of various fields that gather information about the video, such as its title, URL, social media links, image license, and music license. The form also includes fields for posting on social media platforms, creating a blog post, and connecting to external services like Airtable and Zapier. By filling out this form, users can ensure their YouTube videos are properly configured for visibility and engagement.
-To fill out this form, the user will need to provide information about their video and the options they would like to use for social media posting, blog creation, and external service connections.
-The form is not meant to be a one-size-fits-all solution and users should be cautious in providing accurate and relevant information to avoid errors and misconfigurations.
-This form's purpose is to provide a structured and organized way to collect and store information about YouTube videos and their related settings.
-</thinking>
-
 # YouTube SEO Form - Help Guide
 ## Purpose
 This form is designed to help users optimize their YouTube video titles and descriptions for better search engine optimization (SEO). It's a collection of various fields that gather information about the video, such as its title, URL, social media links, image license, and music license. The form also includes fields for posting on social media platforms, creating a blog post, and connecting to external services like Airtable and Zapier. By filling out this form, users can ensure their YouTube videos are properly configured for visibility and engagement.

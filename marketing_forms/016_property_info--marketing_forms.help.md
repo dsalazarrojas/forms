@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Info - Help Guide
 ## Purpose
 The "Property Info" form is designed to collect property-related information from users. This form is used to gather details about a specific property, including its address, type, price, number of bedrooms and bathrooms, square footage, and location. This information will be used for internal purposes only and will not be shared publicly.

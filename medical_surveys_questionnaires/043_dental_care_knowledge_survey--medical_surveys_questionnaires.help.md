@@ -2,10 +2,6 @@
 
 ## Purpose
 
-<thinking>
-This survey is designed to collect information about the dental care industry professional's background, experiences, and current status. It aims to gather accurate and thorough data to improve the overall dental care ecosystem. Before proceeding, please ensure this is not a duplicate survey for you and that your responses are honest and accurate.
-</thinking>
-
 ## How To Complete This Form
 
 1. Select the correct answer option for each question from the provided options.

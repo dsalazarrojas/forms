@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering information about skincare habits and preferences from customers to help us better understand their skincare needs and tailor our products and services accordingly. We are looking to understand the types of skin, products used, and problems faced by customers, as well as their frequency of use and satisfaction with current products. This form should not be filled out by our employees or internal stakeholders, as it is intended for external customers. 
-</thinking>
-
 # Skincare Questionnaire - Help Guide
 
 ## Purpose

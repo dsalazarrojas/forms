@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to help users plan and structure their digital marketing campaign by providing a template with key fields to fill in. This form is likely used by marketing teams or individuals to outline their campaign goals, target audience, channels, budget, and performance indicators. It's possible that this form is a part of a larger marketing planning process, and users may be required to fill it out as part of a larger campaign planning process.
-
-To ensure that the form is filled out correctly, it's crucial that users understand what each field represents and how it contributes to the overall campaign planning process. This guide will walk users through each field, explaining its purpose and how to fill it out accurately.
-
-The fields in this form likely represent different aspects of a digital marketing campaign, and users should fill them out accordingly. For example, the 'Campaign Name' field should be a descriptive title for the campaign, while the 'Target Audience' field should include specific details about who the campaign is targeting. The 'Budget' field should be a realistic estimate of the campaign's financial resources.
-
-This form may be used in conjunction with other tools or software, such as project management or CRM systems, to track progress and results. Users should ensure that the information filled out in this form is accurate and up-to-date to ensure that the campaign is executed correctly.
-
-It's also worth noting that the form may have been created to help users identify potential issues or areas for improvement in their campaign planning process. If so, users should pay attention to any errors or inconsistencies that arise during the filling out of the form.
-
-In any case, the purpose of this form is to guide users through the process of creating a well-structured and effective digital marketing campaign. By following this guide, users should be able to fill out the form accurately and efficiently, and use it as a starting point for their campaign planning process.
-</thinking>
-
 # digital_marketing_campaign_planning_template - Help Guide
 ## Purpose
 This guide provides an overview of the digital marketing campaign planning template, including its purpose, how to complete it, and a field-by-field explanation of each section.

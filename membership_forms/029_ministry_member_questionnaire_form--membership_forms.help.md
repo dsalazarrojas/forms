@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a clear and concise help guide for the Ministry Member Questionnaire Form. The form is designed to collect information from ministry members about their contact details, communication preferences, and experiences. It will help the ministry team understand their members better and tailor their services accordingly.</thinking>
-
 # Ministry Member Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect information from ministry members about their contact details, communication preferences, and experiences. This will help the ministry team understand their members better and tailor their services accordingly.

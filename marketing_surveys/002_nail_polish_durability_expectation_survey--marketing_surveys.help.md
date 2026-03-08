@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from users about their experiences with nail polish, specifically their expectations and satisfaction with the durability of the polish. This form is intended to help the development team understand user expectations and preferences regarding the performance of nail polishes, such as how long they last, how well they hold up against chipping and fading, and overall satisfaction with the quality and finish of the polish. This form is part of the "marketing_surveys" category and its purpose is to collect data that can inform product development and improvement.
-
-</thinking>
 # Nail Polish Durability Expectation Survey - Help Guide
 ## Purpose
 

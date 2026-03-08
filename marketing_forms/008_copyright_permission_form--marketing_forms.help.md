@@ -1,5 +1,3 @@
-<thinking>Before generating the user-facing help guide, I'll review the form's purpose and fields to ensure I provide accurate and relevant information.</thinking>
-
 # Copyright Permission Form - Help Guide
 ## Purpose
 This form is designed to obtain copyright permission from users for the use of copyrighted materials. It collects essential information about the user, including their name, email address, company name (if applicable), and contact number (if applicable). The form also captures details about the copyrighted material, such as the title, year, and owner. Additionally, it includes fields for the user to agree to the terms and conditions of the agreement and provide their signature date. The form is an original adaptation created by AI, and it is not affiliated with or endorsed by any other form platform.

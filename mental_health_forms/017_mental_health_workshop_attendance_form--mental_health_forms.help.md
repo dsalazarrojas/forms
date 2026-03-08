@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Workshop Attendance Form - Help Guide
 
 ## Purpose

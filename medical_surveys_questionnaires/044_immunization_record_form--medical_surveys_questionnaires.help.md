@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect and record immunization information for patients. The form is intended to be used for medical professionals to gather and track vaccination details for their patients. It is crucial to ensure that the form is completed accurately and consistently to maintain reliable and up-to-date patient records.
-
-Before proceeding, please check that you are using this form for its intended purpose and that you have not already completed this form for the same patient. If you are unsure, please consult with your supervisor or healthcare team to clarify the requirements and avoid duplication of efforts.
-
-This form is designed to be simple and user-friendly, with clear labels and concise explanations. If you have any difficulties or questions while completing the form, please refer to the field-by-field explanations below for guidance.</thinking>
-
 # immunization_record_form - Help Guide
 ## Purpose
 The immunization record form is used to collect and record immunization information for patients in a healthcare setting.

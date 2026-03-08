@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by healthcare providers to request Medicare coverage for a patient's medical procedures. The form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata. This form is released under CC BY 4.0 and can be used, modified, and even sold with proper credit given. The purpose of this form is to guide healthcare providers in requesting Medicare coverage for their patients' procedures in a clear and concise manner.
-</thinking>
-
 # medicare_prior_authorization_form - Help Guide
 ## Purpose
 The Medicare Prior Authorization Form is designed to collect information from healthcare providers to request Medicare coverage for their patients' medical procedures. This form is intended to be a simple and straightforward guide for healthcare providers to follow in order to ensure accurate and efficient submission of prior authorization requests to Medicare.

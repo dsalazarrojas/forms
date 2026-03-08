@@ -1,7 +1,3 @@
-<thinking>
-We'll use this form to collect information about customers for market analysis purposes. This data will help us better understand customer demographics, contact information, preferences, market trends, product interests, customer experience, purchase history, and customer service feedback. This form will likely be used by sales, marketing, and product teams to inform their strategies. We should ensure that only relevant and up-to-date information is collected to avoid duplication and maintain customer trust.
-</thinking>
-
 # Market Analysis Survey - Help Guide
 ## Purpose
 The Market Analysis Survey is designed to collect information about customers for market analysis purposes. This data will be used to inform sales, marketing, and product teams' strategies.

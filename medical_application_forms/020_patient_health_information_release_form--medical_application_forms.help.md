@@ -1,9 +1,3 @@
-<thinking>
-This form is a medical records release form, used to grant access to patient health information. The form is divided into different sections, each covering various aspects of the patient's medical records. 
-
-This form is used in conjunction with medical providers. It is intended for healthcare providers, patients, and their authorized representatives to sign and release medical records. 
-</thinking>
-
 # patient-health-information-release-form - Help Guide
 ## Purpose
 This form is a medical records release form, used to grant access to patient health information.

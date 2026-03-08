@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is intended for users to provide health coverage qualification information. It appears to be related to medical history, health insurance, and medical provider information. To ensure the form is completed accurately, we first need to confirm that the user has all the necessary information to complete it. We should avoid duplication of questions and focus on providing clear explanations to help users understand each field's purpose.</thinking>
-
 # health_coverage_qualification_survey - Help Guide
 ## Purpose
 This form is designed to collect information about the user's health coverage qualification. It includes questions about their medical condition, family history, health insurance status, and medical provider information.

@@ -1,11 +1,3 @@
-<thinking>
-This form is for ordering rebranding posters. It's intended for marketing purposes, such as promoting a new brand or rebranding a company. The form is designed to collect information from the user, including their input, poster specifications, branding assets, payment details, and other relevant information. This form is likely to be used by marketing teams, designers, or other stakeholders involved in the rebranding process.
-
-To ensure that the form is completed correctly, please check that all the required fields are filled in, and that the information provided is accurate and complete. It's also a good idea to review the form before submitting it to double-check that everything is correct.
-
-The fields should not be duplicated or misinterpreted, as this could lead to errors in processing the order or rebranding process.
-</thinking>
-
 # rebranding_poster_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for rebranding posters, including user input, poster specifications, and payment details. It's intended for marketing or design teams involved in the rebranding process.

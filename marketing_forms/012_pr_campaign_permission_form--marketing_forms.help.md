@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals to participate in a PR (Public Relations) campaign. The primary objective is to collect contact details and consent from the participants. The form will be used to store the data in a database for further reference and communication.
-</thinking>
-
 # PR Campaign Permission Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and consent for a PR campaign. It includes fields for basic contact details and a checkbox for consent to participate.

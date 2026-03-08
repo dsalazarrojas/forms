@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a tool for auditing a brand's visual and messaging consistency across various touchpoints, such as logo, messaging, and packaging. The form is used to assess the overall consistency of a brand's elements and identify potential compliance issues. It also provides a space for auditors to suggest remediation actions and prioritize them based on urgency. This form is designed to be used by brand owners, marketing teams, or auditors to evaluate and improve brand integrity. The form is not affiliated with any specific platform and is released under CC BY 4.0 license, allowing for free use, modification, and distribution.
-</thinking>
-
 # Brand Integrity Audit Form - Help Guide
 ## Purpose
 The Brand Integrity Audit Form is designed to evaluate the consistency and compliance of a brand's visual and messaging elements. It helps auditors assess the brand's overall consistency and identify potential issues that require attention.

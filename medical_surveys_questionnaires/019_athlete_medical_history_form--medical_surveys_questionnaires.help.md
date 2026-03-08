@@ -3,8 +3,6 @@
 
 The Athlete Medical History Form is a comprehensive document that collects essential information about an athlete's medical history. This form is designed to ensure the athlete's safety and well-being during participation in sports activities. It covers various aspects of the athlete's medical history, including personal information, medical history, injury history, family medical history, and declaration of accuracy. Please note that this form is a confidential and legally binding document.
 
-<thinking>Before proceeding, please ensure this form is relevant to your situation and you understand that the information provided will be used for medical and administrative purposes only. If you have any concerns or questions, please contact the relevant authority or medical professional.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

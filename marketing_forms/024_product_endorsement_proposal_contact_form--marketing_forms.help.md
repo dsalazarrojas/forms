@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise overview of the "Product Endorsement Proposal Contact Form" so that end users can understand its purpose, fill it out correctly, and get the best results possible. This form is used to collect contact information from potential customers or clients who are interested in collaborating with the company. It is essential to provide clear guidance on how to fill out the form accurately, including the purpose of each field, to avoid any misunderstanding or duplication of efforts. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section. Before proceeding with filling out the form, please ensure that you are not duplicating efforts and that your proposal is relevant to the company's current initiatives.
-
-</thinking>
 # Product Endorsement Proposal Contact Form - Help Guide
 ## Purpose
 The "Product Endorsement Proposal Contact Form" is a tool used to collect contact information and proposals from potential customers or clients interested in collaborating with the company. It helps facilitate communication and collaboration by providing a clear and structured approach to sharing ideas and proposals.

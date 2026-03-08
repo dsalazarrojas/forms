@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cruelty Free Brand Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gauge the effectiveness of our marketing strategies regarding cruelty-free branding. It aims to gather information about your perception of cruelty-free brands, awareness of our marketing efforts, and your opinions on our product development and consumer engagement strategies.

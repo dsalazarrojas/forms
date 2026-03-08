@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a follow-up survey designed to collect feedback and information from customers. The form aims to gather details about a customer's experience, rating, and comments, as well as their contact information and the assigned person responsible for follow-up. The form is intended to be completed after an interaction or service has been provided to the customer, to gauge their satisfaction and gather valuable insights for improvement.
-
-This form is not meant to be used for any other purpose than its specified use case. Please ensure that only relevant and necessary information is collected, and do not duplicate efforts by not sending the form unnecessarily.
-
-</thinking>
-
 # Follow Up Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from customers after an interaction or service has been provided. It helps us understand their satisfaction and experiences.

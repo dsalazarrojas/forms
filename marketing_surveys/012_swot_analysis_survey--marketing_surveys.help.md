@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by business owners or managers to conduct a SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis, a strategic planning tool used to identify internal and external factors that may affect a company's performance. 
-The purpose of the SWOT analysis is to help businesses develop strategies to leverage their strengths, address their weaknesses, capitalize on opportunities, and mitigate threats. 
-Please ensure that you are using this form for its intended purpose and do not duplicate efforts by using it to gather unrelated data. 
-</thinking>
-
 # SWOT Analysis Survey - Help Guide
 ## Purpose
 The SWOT Analysis Survey is a tool used to identify and analyze a company's internal and external factors that may affect its performance. It helps businesses develop strategies to leverage their strengths, address their weaknesses, capitalize on opportunities, and mitigate threats.

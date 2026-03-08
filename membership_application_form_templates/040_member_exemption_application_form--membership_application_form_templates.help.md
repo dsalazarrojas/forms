@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective help guide for the Member Exemption Application Form, we need to ensure that the instructions are clear, concise, and easy to understand for end users. 
-
-The form purpose is to collect information from members of an organization who wish to apply for an exemption, likely due to a specific reason such as being a student, faculty, or member. The form requires detailed information about the applicant, their organization, and the exemption application details. 
-
-Before starting to fill out this form, it is essential to note that all fields marked as required must be completed. The applicant should not submit a duplicate application, and any incomplete or invalid submissions will be rejected. 
-
-</thinking>
-
 # Member Exemption Application Form - Help Guide
 ## Purpose
 The Member Exemption Application Form is designed to gather information from members of an organization who need to apply for an exemption. This form helps ensure that all required information is collected accurately, and it is used to evaluate and process exemption requests.

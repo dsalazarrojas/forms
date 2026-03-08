@@ -1,16 +1,3 @@
-<thinking>
-This form appears to be a template for a needs assessment program, likely used to gather information about a specific program or initiative. The form has five fields: "Program Description", "Program Image", "Price Card Image", "Program Title", and "Alternate Program Title". The purpose of this form is to collect descriptive information about a program, including its description, images, and title. However, upon closer inspection, it seems that the fields are mostly redundant, with "Program Description", "Program Image", and "Program Title" being similar in nature, and "Program Title" and "Alternate Program Title" being nearly identical in purpose. This redundancy may indicate that the form requires some reorganization or merging of fields to improve user experience.
-
-To determine whether this form is relevant to the user's needs, one should consider the following:
-- Is the user seeking to create a program that requires a detailed description?
-- Do they need to upload images to showcase their program?
-- Are they looking to provide a title for their program?
-
-Non-duplication checks:
-- Is the user already using a similar form for a different purpose?
-- Have they previously filled out a similar form for a similar program?
-</thinking>
-
 # saor_needs_assessment_program_cf_example - Help Guide
 ## Purpose
 The "saor_needs_assessment_program_cf_example" form is a template designed to collect descriptive information about a program or initiative.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for applicants to the Clinical Innovation Accelerator program. It collects information to assess the applicant's project proposal, including contact information, project details, expected impact, required resources, and other relevant details. Before filling out this form, please ensure that your proposal meets the program's eligibility criteria and that you haven't submitted a proposal for the same project already. If you're unsure, feel free to reach out to the program team for guidance.
-
-</thinking>
-
 # Clinical Innovation Accelerator Application Form - Help Guide
 
 ## Purpose

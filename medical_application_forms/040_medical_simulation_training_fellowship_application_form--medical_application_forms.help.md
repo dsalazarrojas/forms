@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to support the Medical Simulation Training Fellowship application process. It gathers information from applicants about their background, qualifications, and experience. To ensure accuracy, please ensure that each field is filled in with the most up-to-date and relevant information.
-</thinking>
-
 # Medical Simulation Training Fellowship Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for the Medical Simulation Training Fellowship program. It includes details about the applicant's background, experience, and qualifications.

@@ -1,6 +1,3 @@
-<thinking> 
-To confirm, this form is intended for patients to report their medical history, health status, and other relevant information for medical professionals to assess and provide care. This form is not to be taken as a substitute for a comprehensive medical consultation. All fields are optional, and answers will be kept confidential. This form should not be filled out if you have already done so in the past month. If you have any questions or concerns, please ask your healthcare provider for guidance.</thinking>
-
 # medicare wellness checkup form - Help Guide
 ## Purpose
 The Medicare Wellness Checkup Form is designed to gather information about your medical history, health status, and other relevant factors to help your healthcare provider assess your overall well-being. This form is a helpful tool for you to provide accurate and comprehensive information to inform your care.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a membership registration form for the Nigeria Longrich membership program. This form is intended to collect basic information from users interested in joining the program. The form will be used to create a new member account, allowing them to access exclusive benefits and resources. This guide will walk you through each step of filling out the form to ensure a seamless experience for users.
-</thinking>
-
 # nigeria_longrich_membership_form - Help Guide
 ## Purpose
 The Nigeria Longrich membership program is a platform that offers exclusive benefits and resources to its members. To join, you will need to complete this form, providing us with your basic information.

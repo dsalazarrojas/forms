@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a Market Potential Survey, which is designed to assess the potential of a particular market or product. The survey is likely used to gather information about the customer base, market share, target market, market trends, customer needs, customer pain points, challenges, competitor analysis, and target customer segments. This survey is likely used by marketing or business development teams to inform strategic decisions.
-
-I'll assume that this form is used to collect information from various stakeholders or customers. To ensure that the form is being completed correctly and to avoid duplication, it's essential to understand its purpose and how it should be filled out.
-
-The form consists of 11 fields, each with its own specific type and purpose. I'll explain each field below to help guide the user through the completion process.
-</thinking>
-
 # Market Potential Survey - Help Guide
 ## Purpose
 The Market Potential Survey is designed to gather information about the market potential of a product or service. It helps the marketing or business development teams to make informed decisions about the product or service.

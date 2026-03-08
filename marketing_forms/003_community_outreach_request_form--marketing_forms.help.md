@@ -1,7 +1,3 @@
-<thinking>
-The Community Outreach Request Form is intended to gather information from requesting organizations about their event or project that requires support from the community. This form ensures that the organization's needs are accurately communicated to the community, reducing misunderstandings and misallocations. To prevent duplication of effort, please do not submit multiple requests for the same event or project. Ensure that the information provided is accurate and complete to facilitate a smooth and efficient response from the community.
-</thinking>
-
 # Community Outreach Request Form - Help Guide
 ## Purpose
 The Community Outreach Request Form is designed to collect relevant information from organizations requiring support for their events or projects. By providing a comprehensive understanding of the requested support, the community can effectively assist these organizations, ensuring a positive experience for all parties involved.

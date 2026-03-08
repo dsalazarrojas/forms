@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hair_loss_treatment_awareness_survey - Help Guide
 ## Purpose
 The hair loss treatment awareness survey aims to gather information about individuals' experiences, perceptions, and intentions regarding hair loss treatment. This survey will help to:

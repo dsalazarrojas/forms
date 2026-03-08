@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow volunteers to register themselves for mental health support. This ensures that the organization has accurate information about the volunteer's availability and experience. The form will not be duplicated if a user has already registered with the same information. 
-</thinking>
-
 # mental_health_support_volunteer_registration_form - Help Guide
 ## Purpose
 This form is intended for volunteers to register themselves for mental health support.

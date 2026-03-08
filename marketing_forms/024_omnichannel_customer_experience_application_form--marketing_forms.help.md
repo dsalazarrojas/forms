@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather customer experience data across various channels for analysis and improvement. It is designed to be used by customers to provide feedback on their interactions with our company. The form fields cover basic contact information, email and phone number, and specific details such as date and time of interaction. The customer can select relevant categories, vendors, and projects, providing a comprehensive view of their experience. This form is meant to be filled out once per submission, and the customer can fill it out at their convenience.
-</thinking>
-
 # Omnichannel Customer Experience Application Form - Help Guide
 ## Purpose
 The Omnichannel Customer Experience Application Form is a tool used to gather customer feedback and provide insights for improvement across various interaction channels.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created to assist users in understanding and completing the Home Healthcare Report Form. This form is designed to collect essential information regarding patient visits, including patient demographics, medical history, and visit details. To ensure the form is completed accurately and efficiently, it's essential to review each section carefully and enter the required information correctly. Please note that some fields are required, while others are optional.
-</thinking>
-
 # Home Healthcare Report Form - Help Guide
 ## Purpose
 The Home Healthcare Report Form is a tool for healthcare professionals to document essential information about patient visits, enabling them to track and analyze patient data for better care.

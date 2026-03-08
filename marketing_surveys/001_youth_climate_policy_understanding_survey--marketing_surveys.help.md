@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an individual's understanding and opinions on climate policy, specifically for youth. The purpose of this form is to gather data on their awareness, attitudes, knowledge, and potential actions related to climate policy. This form is intended to be completed by youth and young adults who are interested in climate policy and want to share their thoughts and experiences. The form is not affiliated with any specific organization or platform, and the data collected will be used for research purposes.
-
-To the best of my knowledge, this form does not duplicate any existing form, and it is an original adaptation of a public survey topic. The form is released under CC BY 4.0 license, which means you are free to use, modify, and even sell forms derived from it, just giving credit.
-
-Before completing this form, please ensure that you are familiar with the purpose and content of the survey, as it is designed to gather specific information on climate policy.
-
-</thinking>
-
 # youth_climate_policy_understanding_survey - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's understanding and opinions on climate policy, specifically for youth. The form aims to gather data on their awareness, attitudes, knowledge, and potential actions related to climate policy.

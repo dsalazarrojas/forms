@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is for customers to submit their marker order and layout approval requests. The form is used to gather information about a customer's needs and preferences for marker production. This form will be used by production staff to process and fulfill the customer's order. 
-
-Before completing this form, please ensure that you have not already submitted a similar request for the same marker order. Duplicate requests can cause confusion and delays in processing.
-
-</thinking>
-
 # Marker Order And Layout Approval Form - Help Guide
 ## Purpose
 The Marker Order And Layout Approval Form is a submission form used by customers to request markers with specific layout and order requirements. This form is designed to gather information necessary for production staff to accurately process and fulfill the customer's order.

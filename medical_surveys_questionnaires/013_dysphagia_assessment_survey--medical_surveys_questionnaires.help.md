@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect data for the assessment of dysphagia, which is a condition characterized by difficulty swallowing or a swallowing disorder. This form helps healthcare professionals gather information from patients about their swallowing symptoms, medical history, and other related aspects. The form is designed to identify potential issues with swallowing and provide a basis for further evaluation or treatment.
-
-To ensure accuracy and relevance, please ensure that you complete this form for the intended purpose only. This form should not be used for other purposes, and if you are unsure about any of the questions or answers, please consult a healthcare professional.
-
-</thinking>
-
 # Dysphagia Assessment Survey - Help Guide
 ## Purpose
 The purpose of this survey is to assess a patient's swallowing difficulties and collect information on their medical history, symptoms, and experiences related to swallowing.

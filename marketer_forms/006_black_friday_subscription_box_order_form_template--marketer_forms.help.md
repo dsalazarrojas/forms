@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect order information from customers for Black Friday subscription box orders. 
-It's crucial that the form is filled out accurately to ensure proper customer data collection and to process orders efficiently. 
-Each field is crucial in providing a complete order picture and ensuring that customers receive their correct subscription boxes. 
-Please ensure that the form is filled out by a customer service representative or end-user with clear understanding of its purpose. 
-
-</thinking>
-
 # Black Friday Subscription Box Order Form Template - Help Guide
 ## Purpose
 This form is used to collect order information from customers for Black Friday subscription boxes. It's essential to complete this form accurately to ensure that customers receive their correct subscription boxes and that customer data is collected correctly.

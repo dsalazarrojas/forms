@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information about a campaign's details, including the campaign's name, type, goal, target audience, and budget. It is designed to be completed by marketing staff or campaign organizers who are working on a specific campaign. The form ensures that all necessary information is collected to help with the campaign's planning and execution.
-
-The form is divided into several sections, each with its own set of fields. The purpose of this form is to gather accurate and comprehensive information about the campaign, which will help in making informed decisions and taking necessary actions.
-
-The form will only be visible to authorized personnel, and the information gathered will be used for internal purposes only.
-
-</thinking>
-
 # Campaign Details Form - Help Guide
 ## Purpose
 This form is used to collect information about a campaign's details, including the campaign's name, type, goal, target audience, and budget.

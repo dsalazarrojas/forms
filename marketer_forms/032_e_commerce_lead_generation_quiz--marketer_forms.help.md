@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **E Commerce Lead Generation Quiz - Help Guide**
 
 ### Purpose

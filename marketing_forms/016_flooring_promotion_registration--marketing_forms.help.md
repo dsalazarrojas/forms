@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flooring Promotion Registration - Help Guide
 ## Purpose
 This form is designed to gather information from customers interested in learning more about our flooring promotions. We will use the data collected to provide relevant offers and services tailored to their preferences. 

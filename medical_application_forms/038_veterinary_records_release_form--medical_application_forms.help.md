@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML, I can see that this form is designed to collect information for transferring veterinary records between clinics. The form is meant to capture details about the pet owner, the pet, the veterinary clinic, and the transfer process. It seems to be a comprehensive form that covers various aspects of the transfer, including contact information, dates, and signatures. I will ensure that the help guide accurately reflects the form's purpose and requirements.</thinking>
-
 # Veterinary Records Release Form - Help Guide
 ## Purpose
 The Veterinary Records Release Form is designed to facilitate the transfer of veterinary records between clinics. This form helps ensure that all relevant information is collected and documented during the transfer process, ensuring a smooth transition for the pet owner and the new clinic.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Emergency Medical Form", I'll first review the provided YAML file to understand its structure and purpose.
-
-The form seems to be designed to collect information about a patient's medical condition and treatment needs in emergency situations. The form has six fields, including patient information, name, date of birth, gender, medical condition, and treatment needed. All fields are optional except for "Patient Information", which is a catch-all field for general patient details.
-
-The form will likely be used by medical professionals to quickly assess a patient's condition and provide necessary treatment. The form's structure and fields suggest that it's designed to be completed by someone with limited medical knowledge, making it essential to have clear and concise explanations for each field.
-
-</thinking>
-
 # Emergency Medical Form - Help Guide
 
 ## Purpose

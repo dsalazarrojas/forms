@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for submission of crew lists. Crew lists are used to manage and track crew members, their job titles, and other relevant information. This form will help in capturing accurate and comprehensive crew list submissions, reducing duplication of effort and errors. 
-
-When submitting a crew list, please ensure that you are not duplicating an existing submission. If you are unsure or need help, please contact your supervisor or support team for guidance.
-
-</thinking>
-
 # Crew List Submission Form - Help Guide
 
 ## Purpose

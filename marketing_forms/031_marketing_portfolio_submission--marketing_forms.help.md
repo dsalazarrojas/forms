@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Portfolio Submission - Help Guide
 
 ## Purpose

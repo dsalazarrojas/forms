@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for collecting information from clients before performing microdermabrasion treatment. The fields are designed to gather medical history, contact information, and other relevant details to ensure a safe and effective treatment process. Before starting this form, make sure you have not filled out this form for the same client before, as this form is designed for new clients. This form is not intended for routine follow-up consultations, so please fill it out for new clients only.
-</thinking>
-
 # Microdermabrasion Consultation Form - Help Guide
 
 ## Purpose

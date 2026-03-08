@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for users who want to register as a member of the Dragons Den Investment Trust D DIT. Please ensure you are eligible to register before filling out this form. To be eligible, you should be either an individual or a company/partnership interested in joining the DIT. If you are a representative of a company or partnership, you may register yourself as a representative. However, please note that company/partnership membership is subject to additional verification processes. 
-
-Before proceeding, please review the form instructions and ensure you have all required information ready for accurate and efficient completion. If you need help or clarification, contact our support team.
-</thinking>
-
 # Membership Form For Dragons Den Investment Trust D DIT - Help Guide
 ## Purpose
 This form is for registering as a member of the Dragons Den Investment Trust D DIT. It helps us gather necessary information for your membership application.

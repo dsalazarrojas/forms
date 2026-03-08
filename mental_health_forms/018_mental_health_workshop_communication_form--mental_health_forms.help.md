@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_workshop_communication_form - Help Guide
 
 ## Purpose

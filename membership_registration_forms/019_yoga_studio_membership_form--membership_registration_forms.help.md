@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # yoga_studio_membership_form - Help Guide
 ## Purpose
 The yoga studio membership form is designed to collect information from prospective members to create a new membership account. This form is used to gather essential details such as name, contact information, payment method, and billing address to facilitate the membership process.

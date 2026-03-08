@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the Planetarium Friends Membership Form, which is used to collect information from members about their membership status and details. This form helps us understand how much members value our planetarium's offerings and what we can do to improve their experience.
-This form must be completed by all members of Planetarium Friends, including those with active, inactive, and pending membership statuses. It is essential to accurately fill in all required fields to ensure accurate membership tracking and correct payment processing. Please review each field carefully to understand its purpose and how to complete it correctly.
-</thinking>
 # Planetarium Friends Membership Form - Help Guide
 
 ## Purpose

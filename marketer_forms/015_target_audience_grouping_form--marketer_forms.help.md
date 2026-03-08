@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used for grouping and categorizing target audiences for various marketing campaigns. It is used by marketers to create groups based on demographic values, target audience preferences, and other relevant factors. This form is a crucial tool for segmenting audiences and tailoring marketing strategies to specific groups.
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in participating in the mentoring program. This form is designed to gather personal and educational background information from applicants. It is essential to provide accurate and complete information to ensure a successful and meaningful mentoring experience. Please note that each field is optional, and you are not required to fill out every section. However, providing as much information as possible will help us better understand your needs and provide a more suitable mentoring experience.
-</thinking>
-
 # Mentoring Program Application Form - Help Guide
 ## Purpose
 The Mentoring Program Application Form is designed to collect information from individuals interested in participating in the mentoring program. This form helps us understand your personal and educational background to provide a suitable mentoring experience.

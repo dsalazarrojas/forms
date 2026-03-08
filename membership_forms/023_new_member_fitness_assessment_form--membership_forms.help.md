@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Member Fitness Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a new member's fitness level, medical history, and lifestyle habits. This data will be used to create a personalized fitness plan tailored to the member's needs and goals.

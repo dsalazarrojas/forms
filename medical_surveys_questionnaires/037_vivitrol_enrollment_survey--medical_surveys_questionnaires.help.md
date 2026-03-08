@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from patients who are about to enroll in the Vivitrol program. The purpose of this form is to gather essential details that will help the healthcare provider understand the patient's medical history, consent status, and treatment plan requirements. This information will be used to ensure that the patient receives the best possible care and treatment.
-
-To confirm, the form is intended for patients who are:
-
-* Enrolling in the Vivitrol program
-* Providing medical history and treatment plan details
-* Agreeing to follow-up care and treatment
-
-Please fill out this form carefully and accurately to ensure that your information is up-to-date and correct.
-
-</thinking>
-
 # Vivitrol Enrollment Survey - Help Guide
 ## Purpose
 The Vivitrol Enrollment Survey is designed to collect essential information from patients enrolling in the Vivitrol program.

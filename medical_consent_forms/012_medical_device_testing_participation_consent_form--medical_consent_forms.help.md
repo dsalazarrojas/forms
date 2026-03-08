@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended for patients to provide consent for medical device testing. The form collects various information related to the testing participation, including patient contact details, testing device information, and testing procedures. The form is a crucial document that ensures the participant's understanding and consent for the testing process. The form's purpose is to obtain informed consent from patients, ensure they understand the testing process, and provide essential information for the testing team.
-</thinking>
-
 # Medical Device Testing Participation Consent Form - Help Guide
 ## Purpose
 This form is a crucial document that helps ensure patients understand and provide informed consent for medical device testing. It collects information related to testing participation, including patient contact details, testing device information, and testing procedures.

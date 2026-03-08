@@ -1,15 +1,3 @@
-<thinking>
-The KOL Review Form is used to collect feedback and evaluation on the performance and communication style of Key Opinion Leaders (KOLs) in the business. The form is designed to assess the strengths and weaknesses of each KOL, providing valuable insights for the business to make informed decisions. This form should only be completed when a KOL has been selected for a specific business opportunity. If a duplicate KOL review form is submitted for the same business opportunity, it will be ignored.
-
-The form should be completed in its entirety, with each field providing specific and objective feedback on the KOL's performance. The form should not be used for personal opinions or biased feedback.
-
-Please note that the form is divided into different sections, each with its own specific purpose. The "KOL Rating", "KOL Performance", "Engagement Level", and "Overall Rating" sections assess the KOL's performance on their business opportunity. The "Communication Style" and "Performance Score" sections evaluate the KOL's communication style and performance, respectively. The "Key Opinion Leaders" and "Review Notes" sections allow the user to provide feedback on the KOL's strengths and weaknesses. The "Business Owner Notes" and "Follow-up Actions" sections provide space for the business owner to add any additional comments or actions.
-
-Each field has a specific purpose, and the user should provide feedback that aligns with that purpose. For example, the "KOL Rating" field should be used to rate the KOL's performance on their business opportunity, while the "Communication Style" field should be used to evaluate the KOL's communication style. The user should not duplicate effort or provide unnecessary information in each field.
-
-By following this guide, the user will be able to provide accurate and comprehensive feedback on the KOL's performance and communication style.
-</thinking>
-
 # KOL Review Form - Help Guide
 ## Purpose
 

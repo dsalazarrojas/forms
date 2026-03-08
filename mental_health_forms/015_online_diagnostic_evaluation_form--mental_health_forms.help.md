@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for an online diagnostic evaluation. It appears to be related to mental health assessment, but the provided YAML does not explicitly state its purpose. To verify its relevance and authenticity, I'll assume it's a generic form for collecting general information about a person's health and well-being, similar to a doctor's intake form. Please note that this form might not be suitable for actual medical use without further validation. The form has multiple pages with various fields labeled with seemingly generic categories like "General Information", "Contact Information", "Medical History", and "Mental Health History". There are fields for "Substance Use" and "Meds", which may indicate a focus on substance-related or medication-related health. The form is likely used for a broad assessment, not specific to any particular mental health condition or organization. I'll create the guide based on this understanding, but if the purpose of the form differs, please correct me.
-
-</thinking>
-
 # online_diagnostic_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect general information for an online diagnostic evaluation, covering various aspects of a person's health and well-being.

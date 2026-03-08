@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by medical professionals to apply for membership in a medical association. The association is likely a professional organization that represents medical practitioners in a specific region or field. The form is used to collect information about the applicant's medical degree, years of practice, license, and other relevant details. This form is typically used by applicants who are interested in becoming members of the association and accessing its benefits, which may include networking opportunities, continuing education resources, and advocacy for the medical community.
-To ensure accurate and relevant data is collected, the form should not be used for any other purpose than medical association membership applications. If you are not applying for membership, please do not fill out this form. Please note that this form is not intended for public disclosure, and the association's membership information is only shared among members.
-The form has 16 fields, but not all are required. The association will review and verify the submitted information before accepting or rejecting the application.
-</thinking>
-
 # Medical Association Membership Application Form - Help Guide
 ## Purpose
 This form is for medical professionals to apply for membership in a medical association. It collects information about the applicant's medical degree, years of practice, license, and other relevant details.

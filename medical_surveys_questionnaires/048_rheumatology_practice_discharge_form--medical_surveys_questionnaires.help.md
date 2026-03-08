@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Rheumatology Practice Discharge Form, designed to collect relevant information from a healthcare professional when discharging a patient from rheumatology care. To ensure the form is filled out correctly, please verify the patient's status and goals before proceeding. This form does not create new patient data or modify existing data in the practice's database. 
-
-</thinking>
-
 # Rheumatology Practice Discharge Form - Help Guide
 ## Purpose
 The Rheumatology Practice Discharge Form is used to document the details of a patient's discharge from rheumatology care, ensuring a smooth transition and accurate records.

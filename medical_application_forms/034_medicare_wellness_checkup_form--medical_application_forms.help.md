@@ -1,8 +1,3 @@
-<thinking>
-The Medicare Wellness Checkup Form is designed to gather information about a patient's health and medical history for the purpose of providing personalized health guidance and support. This form is intended for patients who are seeking a thorough review of their medical status and potential risks, with the goal of identifying areas for improvement and preventing future health issues. It is not intended for patients who are currently experiencing a medical emergency or crisis.
-
-To determine if a patient's medical history is suitable for this form, please ensure that the patient has a stable medical history and is not in need of immediate medical attention. If the patient has a complex medical history or is experiencing an urgent medical issue, please contact a medical professional or health care provider for assistance.</thinking>
-
 # medicare_wellness_checkup_form - Help Guide
 ## Purpose
 The Medicare Wellness Checkup Form is a comprehensive form designed to gather information about a patient's health and medical history. This form is used to identify potential health risks and provide personalized guidance for patients to improve their overall health and well-being.

@@ -1,11 +1,3 @@
-<thinking>
-This form, "dialysis_patient_discharge_form", is designed to collect information from patients undergoing dialysis treatment. The form aims to gather essential details about the patient's health status, medical history, and treatment requirements for discharge. This includes their name, contact number, medical history, vital signs such as blood pressure and temperature, medications, allergies, and next of contact information. The form also includes fields for discharge date and time, follow-up visit details, discharge instructions, and patient comments. This form is crucial for healthcare professionals to record and document patient information accurately, ensuring a smooth transition during the discharge process.
-
-Before filling out this form, please review the fields carefully to ensure you have all the necessary information.
-
-Please note that some of the fields may not be mandatory, but providing accurate and complete information will help healthcare professionals to better care for you.
-</thinking>
-
 # dialysis_patient_discharge_form - Help Guide
 ## Purpose
 This form is used to gather essential information about patients undergoing dialysis treatment for discharge purposes.

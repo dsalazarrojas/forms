@@ -1,8 +1,3 @@
-<thinking>
-This form is a Market Driver Analysis Survey used to gather information on the impact of market drivers on business operations. It is designed to collect data that will help identify the factors that drive market performance and inform strategic decisions. The survey should be filled out by people with a good understanding of the market and its dynamics. It is essential to fill out this survey only once for each market segment to avoid duplication of effort and ensure accurate data collection. The survey is intended to gather data on the impact of market drivers such as market segment, impact description, priority, impact score, drivers, impact description 2, priority ranking, and priority description.
-
-</thinking>
-
 # Market Driver Analysis Survey - Help Guide
 ## Purpose
 The Market Driver Analysis Survey is used to collect data on the factors that drive market performance and inform strategic decisions.

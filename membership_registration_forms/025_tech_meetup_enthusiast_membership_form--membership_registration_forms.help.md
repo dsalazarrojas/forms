@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential members about their personal details, interests, and preferences for joining the tech meetup. This form is designed to be completed by enthusiasts who are interested in attending tech meetups. We want to ensure that our meetup community has a diverse range of members with varying interests and skills, so we need to collect this information to better understand who our attendees are and what they can bring to the community. This form is not meant for existing members or people who have already registered for meetups, so please do not fill out this form if you have already joined our community.
-</thinking>
-
 # tech_meetup_enthusiast_membership_form - Help Guide
 ## Purpose
 

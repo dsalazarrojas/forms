@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from individuals interested in joining the athletic fitness club, with the aim of creating a personalized membership plan and ensuring a safe and effective training experience. This form is divided into sections that cover contact and personal information, fitness profile and background, lifestyle and health, membership and commitment, and electronic signature. The form is designed to be completed by the individual themselves, and the information collected will be used to tailor the training program and services offered by the club to their needs. 
-
-Please ensure that all required fields are completed accurately, as they will be used to create a suitable membership plan. Some fields may have multiple options or descriptions, so carefully review each section to ensure the information provided is correct. If you are unsure about any field or require further clarification, please contact the fitness club staff.
-
-</thinking>
-
 # Athletic Fitness Membership Form - Help Guide
 
 ## Purpose

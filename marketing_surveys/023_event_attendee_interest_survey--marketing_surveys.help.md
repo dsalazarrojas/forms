@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Attendee Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect information about attendees interested in an upcoming event. It will help event organizers understand who's coming and what they're interested in, allowing them to tailor their event experience accordingly.

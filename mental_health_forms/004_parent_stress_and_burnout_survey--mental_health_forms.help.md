@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Stress And Burnout Survey - Help Guide
 
 ## Purpose

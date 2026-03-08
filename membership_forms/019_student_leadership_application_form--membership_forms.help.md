@@ -1,5 +1,3 @@
-<thinking>This form is used to capture information about students who are applying for leadership positions in their school. The form will help the school's leadership team determine who to select for these positions based on the applicants' backgrounds, experiences, and expectations. The form should only be completed by students who are genuinely interested in taking on leadership roles and meeting the expectations and responsibilities that come with them. The student's background and contact information will be used by the leadership team to contact the student for further information or for follow-up discussions. The form will also help the student demonstrate their skills, experiences, and qualifications for the leadership position. Please make sure that you have the necessary permissions and approvals before filling out this form.</thinking>
-
 # Student Leadership Application Form - Help Guide
 ## Purpose
 This form is used to capture information about students who are applying for leadership positions in their school. The form is used by the school's leadership team to evaluate student applications and select candidates for leadership roles.

@@ -1,5 +1,3 @@
-<thinking>As the form designer, I'll create a user-facing help guide that explains the purpose of the form, how to complete it, and what each field means. This guide will be concise and practical, making it easy for end-users to understand the form and its requirements.</thinking>
-
 # Therapy Program Admission Form - Help Guide
 
 ## Purpose

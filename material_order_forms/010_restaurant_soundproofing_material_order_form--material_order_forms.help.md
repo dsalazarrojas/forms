@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and not duplicated. This form is designed to collect information from customers for soundproofing material orders. The fields are intended to gather essential details such as customer information, order specifics, and delivery options. The form should only be used once a customer has been properly assigned to a sales representative and has agreed to place an order. Please review the form carefully before proceeding.
-</thinking>
-
 # restaurant_soundproofing_material_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers for soundproofing material orders. It is intended for customers who have been properly assigned to a sales representative and have agreed to place an order.

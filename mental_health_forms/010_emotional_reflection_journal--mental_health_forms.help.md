@@ -1,7 +1,3 @@
-<thinking>
-This form is for mental health professionals to use as a tool for patients/clients to record and reflect on their emotional experiences. The form is meant to be a non-judgmental space for patients to express themselves without fear of repercussions or fear of what others might think. The form is a private and secure platform for mental health professionals to gain deeper insight into a patient's emotional state, track changes over time, and provide informed care.
-</thinking>
-
 # Emotional Reflection Journal - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by a soccer organization or team for ordering t-shirts for their players, staff, or supporters. The purpose of this form is to collect information from individuals who want to order a t-shirt with their name, contact details, and jersey number (if applicable). This form is probably used internally or within the team, so the fields may vary depending on the team's specific needs. I'll make sure to keep the explanations concise and practical for the end users.
-</thinking>
-
 # Soccer Team T Shirt Order Form - Help Guide
 ## Purpose
 The Soccer Team T Shirt Order Form is a form used for ordering t-shirts with personalization options. It collects contact information and jersey number to ensure correct t-shirt production and distribution.

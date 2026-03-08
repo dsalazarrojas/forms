@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nasal Flu Vaccine Consent Form - Help Guide
 
 ## Purpose

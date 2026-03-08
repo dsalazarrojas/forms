@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from influencers. The purpose of the form is to validate the influencer's demographic profile, ensuring that the information provided matches the criteria required by our marketing campaigns. This form will be used to identify potential influencers who fit the specific demographics we are looking for.
-
-To complete this form, follow these steps:
-
-1. Click on the form title to begin.
-2. Select the relevant demographic information from the dropdown menus.
-3. Enter your age range, location, contact number, email, and timezone as required.
-4. Submit the form to validate your demographic profile.
-
-</thinking>
-
 # influencer_demographic_validation_form - Help Guide
 ## Purpose
 The influencer_demographic_validation_form is designed to collect and validate demographic information from influencers for marketing campaigns.

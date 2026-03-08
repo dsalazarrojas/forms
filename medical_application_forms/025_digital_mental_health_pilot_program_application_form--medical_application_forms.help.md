@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Mental Health Pilot Program Application Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a medical assessment form, likely used for patients or clients to provide information about their health status, medical history, and treatment history. The form includes questions about symptom history, pain locations, pain duration, medication history, health context, wellness check, client informed, healthcare provider, allergies, medical conditions, and supplements. This form could be used by healthcare professionals to assess the patient's condition and provide guidance. Before filling out this form, please ensure you have not already completed a similar assessment for the same purpose, as this may help in avoiding duplication of effort and ensuring accurate data collection.
-</thinking>
-
 # inflammatory_response_assessment - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals assess the client's health status, medical history, and treatment history.

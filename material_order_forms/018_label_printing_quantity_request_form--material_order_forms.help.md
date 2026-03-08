@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used for requesting label printing services, where the customer or user is submitting a request for specific labels with various quantities and deadline specifications. The form is not likely to be filled out multiple times for the same purpose, as each submission would likely represent a specific request for labels with unique specifications. This guide should help the user understand the purpose and usage of each field in the form.
-
-</thinking>
-
 # Label Printing Quantity Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sleep Deprivation Survey - Help Guide
 
 ## Purpose

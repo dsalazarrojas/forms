@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from artists who want to participate in the Christmas Card Design Contest. The form will collect details such as the artist's name, contact email, and medium used in the design, as well as additional details about the artwork, such as the title and any relevant medium or techniques used. It's a simple form with a clear and concise design to ensure that artists can easily provide the necessary information to join the contest. To prevent non-duplication of work, we have a unique title field that allows us to easily identify and verify unique entries.
-
-</thinking>
-
 # Christmas Card Design Contest Form - Help Guide
 ## Purpose
 This form is designed for artists to submit their entries for the Christmas Card Design Contest. It's a quick and easy way for artists to provide their details, and for the organizers to verify and review their entries.

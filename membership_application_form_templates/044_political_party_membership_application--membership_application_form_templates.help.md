@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who wish to join or maintain their membership status with the political party. The form is designed to collect basic contact information (name, email, phone) and membership details (membership type, membership status). The form will be reviewed and processed internally to ensure accurate and complete information is collected. Please ensure all required fields are completed accurately and thoroughly.
-</thinking>
-
 # Political Party Membership Application - Help Guide
 ## Purpose
 The Political Party Membership Application form is used to gather information from individuals who wish to join or maintain their membership status with the political party. This form is essential for processing membership applications and ensuring accurate and up-to-date member information.

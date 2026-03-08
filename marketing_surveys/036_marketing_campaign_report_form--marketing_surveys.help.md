@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect marketing campaign report data from users. The purpose of the form is to gather information about marketing campaigns, allowing users to report on their performance, progress, and results. To ensure that the form is used correctly, it's essential to understand its purpose and how to complete it accurately. Before proceeding, please review the form's fields and ensure that you have the necessary information to provide accurate responses.
-
-This form has multiple pages, each with various fields requiring different types of input. Some fields may seem similar, but they serve distinct purposes. 
-
-</thinking>
-
 # Marketing Campaign Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about marketing campaigns, enabling users to report on their performance, progress, and results.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Aesthetic Procedures Delegation Form - Help Guide
 ## Purpose
 This form is designed to document and track aesthetic procedures performed by delegated providers. It captures key details about the procedure, including the provider's information, procedure specifics, and submission details. Fill out this form to accurately record and report on medical aesthetic procedures.

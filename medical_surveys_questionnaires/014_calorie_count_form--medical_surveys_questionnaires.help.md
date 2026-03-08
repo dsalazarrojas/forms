@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on a patient's daily calorie and nutrient intake, as well as their physical activity and sleep patterns. This information is likely used to track and monitor the patient's health and progress over time. The form is designed to be completed by the patient themselves, and the data collected will help healthcare professionals make informed decisions about their care. The form is likely used in a clinical or medical setting, and the data will be used to support patient health outcomes.
-</thinking>
-
 # Calorie Count Form - Help Guide
 ## Purpose
 The Calorie Count Form is a tool used to track a patient's daily nutrition and physical activity data. This form collects information on calorie intake, macronutrient intake, physical activity, and sleep patterns.

@@ -1,12 +1,3 @@
-<thinking>
-To begin with, the form "Virtual Principal Coffee Chats" seems to be a data collection form used in marketing and communication efforts, possibly for educational or information purposes. Its purpose might be to gather information or feedback from participants in virtual events or meetings. However, I'd like to verify this assumption. Please confirm or correct my understanding.
-
-The form's pages are designed to collect various types of data: principal coffee chats, categories, descriptions, tools, form IDs, output files, file extensions, and form descriptions. This form appears to be used for data export and analysis, possibly for further processing or storage in data repositories. 
-
-Before proceeding, let's confirm if this is the correct interpretation and if there are any specific requirements or constraints for this form.
-
-</thinking>
-
 # Virtual Principal Coffee Chats - Help Guide
 ## Purpose
 

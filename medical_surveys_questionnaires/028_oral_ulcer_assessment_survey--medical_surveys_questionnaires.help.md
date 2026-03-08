@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Oral Ulcer Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals assess and manage oral ulcers in patients. The form gathers information on patient details, symptoms, pain level, duration, location, frequency, treatment options, follow-up frequency, and other relevant medical history and allergies. The information collected will aid in providing personalized care and treatment plans for patients with oral ulcers.

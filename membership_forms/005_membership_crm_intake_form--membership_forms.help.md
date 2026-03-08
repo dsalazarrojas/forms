@@ -1,8 +1,3 @@
-<thinking>
-We are creating a membership CRM intake form for an organization. This form is designed to collect essential details about a member's profile, contact information, membership status, payment, uploaded documents, membership type, and membership period. The purpose of this form is to streamline the process of creating or updating a member's profile in the organization's CRM system. To ensure accuracy and consistency, we will not accept duplicate submissions for the same member.
-
-</thinking>
-
 # Membership CRM Intake Form - Help Guide
 ## Purpose
 The Membership CRM Intake Form is designed to collect and store important details about each member's profile, contact information, and membership status. This form is used to create or update a member's record in the organization's CRM system.

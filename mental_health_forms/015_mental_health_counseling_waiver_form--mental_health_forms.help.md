@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that the form is only accessed by individuals who are actually seeking mental health services, as it's a legal and potentially sensitive form. Please do not fill out this form if you are not a client or if you're trying to circumvent our intake process. We're here to help and support you, not to duplicate effort or create unnecessary work for our team.
-
-</thinking>
-
 # mental_health_counseling_waiver_form - Help Guide
 ## Purpose
 

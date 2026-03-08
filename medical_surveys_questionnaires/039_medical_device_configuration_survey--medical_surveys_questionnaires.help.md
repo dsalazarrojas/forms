@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about medical devices, including their types, configurations, and usability ratings. It also asks for user contact information, follow-up details, and manufacturer information. The goal is to gather data that can help identify trends and patterns in medical device usage and configuration.
-The form appears to be designed for medical professionals, such as medical device manufacturers, researchers, or healthcare providers, who need to collect data on various aspects of medical devices. The form's fields suggest it may be part of a larger study or analysis on medical device configurations, usability, and user experiences.
-Please note that this form does not appear to be a high-stakes or sensitive data collection form, such as those used for patient medical records or billing purposes. However, it's essential to review the form's purpose and fields to ensure it aligns with your organization's data management policies and regulations.
-To confirm, I will review the form's fields to ensure they align with the provided YAML data.
-After reviewing the form, I will create a user-friendly help guide that explains the form's purpose, fields, and instructions for completion.
-</thinking>
-
 # Medical Device Configuration Survey - Help Guide
 ## Purpose
 This form is designed to collect information about medical devices, their configurations, and user experiences. It will help identify trends and patterns in medical device usage and configuration.

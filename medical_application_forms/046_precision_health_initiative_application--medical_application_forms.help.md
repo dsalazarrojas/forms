@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Precision Health Initiative Application - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>...This form is a survey designed to collect information about a patient's neurological serology indications. The purpose of this form is to gather data on the patient's symptoms, history, and other relevant medical information. This form is intended for healthcare providers to use in assessing a patient's condition and determining the appropriate course of treatment. It is not intended to be used for diagnostic purposes, but rather as a tool to aid in the decision-making process...
-
-</thinking>
-
 # Neurological Serology Indications Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect information about a patient's neurological serology indications.

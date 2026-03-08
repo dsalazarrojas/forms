@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Form Treehouse Theme - Help Guide
 
 ## Purpose

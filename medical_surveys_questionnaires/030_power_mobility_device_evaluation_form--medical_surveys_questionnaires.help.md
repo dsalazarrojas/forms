@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about Power Mobility Devices. Power Mobility Devices are assistive technologies that enable individuals with mobility impairments to perform daily activities with greater ease and independence. This form will help gather data on the effectiveness and usability of such devices in real-world scenarios. It's essential to fill out this form accurately to ensure that the data collected is reliable and useful for further research and development. Please note that this form is not intended to be used for official medical diagnosis or treatment purposes.
-</thinking>
-
 # Power Mobility Device Evaluation Form - Help Guide
 
 ## Purpose

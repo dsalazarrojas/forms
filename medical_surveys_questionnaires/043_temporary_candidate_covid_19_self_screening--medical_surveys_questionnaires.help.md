@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Temporary Candidate COVID 19 Self Screening - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical part of the patient's healthcare journey, and it's essential that the information is accurate and complete. Before creating this guide, I've reviewed the form's purpose and ensured that it's not duplicated in any other form. The health_check_up_appointment_form is designed to collect essential information for patient appointments, and its fields are carefully crafted to provide a comprehensive overview of the patient's needs.
-</thinking>
-
 # health_check_up_appointment_form - Help Guide
 ## Purpose
 The health_check_up_appointment_form is a critical form used to schedule and manage patient appointments. It collects essential information about the patient, their appointment preferences, and medical history.

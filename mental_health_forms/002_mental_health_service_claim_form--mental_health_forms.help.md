@@ -1,11 +1,3 @@
-<thinking> 
-
-The mental health service claim form is used to document the mental health services provided to a patient. This form helps in tracking and verifying the mental health services rendered to the patient. It is a crucial document for insurance claims and reimbursement purposes. 
-
-To ensure that the form is filled out correctly, please check that all required fields are completed before submitting the form. If a field is not required, it is optional and can be left blank. 
-
-</thinking>
-
 # mental_health_service_claim_form - Help Guide
 ## Purpose
 The mental health service claim form is used to document the mental health services provided to a patient, facilitating insurance claims and reimbursement processes.

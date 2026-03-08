@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in filling out the Writers Guild Membership Form. The form is a crucial document that allows writers to apply for membership in the Writers Guild, which is a professional organization that aims to promote the interests of writers in various industries such as publishing, film, and television.
 
 The form is used to collect relevant information about the applicant's background, experience, and contact details. It helps the Writers Guild to assess the applicant's qualifications and make informed decisions about their membership.

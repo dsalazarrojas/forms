@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fan Data Information Collection Form - Help Guide
 
 ## Purpose

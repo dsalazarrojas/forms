@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users to create a factory insulation material order. The purpose of this form is to gather essential details such as user ID, material ID, quantity ordered, order date, delivery date, contact name, contact phone, and contact email. It is used to facilitate the order process and ensure accurate communication between the factory and the customer. This form should not be used to request non-material related information, such as general contact information or sales inquiries.
-</thinking>
-
 # Factory Insulation Material Order Form - Help Guide
 ## Purpose
 The Factory Insulation Material Order Form is a form used to collect necessary information for the material order process. Please complete the form accurately to enable efficient processing of your request.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to join a Toastmasters club, which is a group of people who meet regularly to practice public speaking and leadership skills. This form is used to gather details about the individual, such as their name, contact information, and preferences for club activities. The information collected will be used to facilitate communication and organization within the club. Before proceeding, please ensure that you are filling out this form for yourself or someone else's membership, and that you are not duplicating an existing entry. If you are not sure if you are eligible or have any questions, please reach out to the club administrators.
-</thinking>
-
 # Toastmasters Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to join a Toastmasters club. It is used to gather details about the individual, such as their name, contact information, and preferences for club activities.

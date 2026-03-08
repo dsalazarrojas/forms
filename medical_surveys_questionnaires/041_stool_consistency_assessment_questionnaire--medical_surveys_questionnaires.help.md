@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stool Consistency Assessment Questionnaire - Help Guide
 
 ## Purpose

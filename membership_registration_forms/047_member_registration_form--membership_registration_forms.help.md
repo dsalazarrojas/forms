@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide, I will first analyze the provided YAML form structure and extract the relevant information to explain the form's purpose, how to complete it, and what each field means.
-
-The form purpose is to collect information from members who are interested in registering for a program, event, or organization. The fields collected will likely be used for identification, contact, and interest area categorization.
-
-</thinking>
-
 # Member Registration Form - Help Guide
 ## Purpose
 The Member Registration Form is designed to collect information from individuals interested in registering for a program, event, or organization. This form helps us understand who you are, how to contact you, and what areas you are interested in.

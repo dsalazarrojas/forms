@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from marketing professionals who are interested in applying for opportunities within the organization. The form is used to gather personal and professional information, such as contact details, skills, and experience, to help us assess their qualifications and suitability for potential roles.
-
-Before filling out this form, please note that it is intended for marketing professionals with experience in one or more of the fields listed below. If you are not a marketing professional or do not have the necessary experience, please do not submit this form.
-
-</thinking>
-
 # Marketing Professional Application Form - Help Guide
 ## Purpose
 This form is intended for marketing professionals to apply for opportunities within the organization. Please provide accurate and detailed information to help us assess your qualifications.

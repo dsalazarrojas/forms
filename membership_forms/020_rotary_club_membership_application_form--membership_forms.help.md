@@ -1,7 +1,3 @@
-<thinking>
-This help guide will assist end-users in understanding the Rotary Club Membership Application Form, ensuring they complete it correctly and effectively. 
-</thinking>
-
 # Rotary Club Membership Application Form - Help Guide
 ## Purpose
 The Rotary Club Membership Application Form is used by individuals interested in joining a Rotary Club to express their interest and provide necessary contact and membership information.

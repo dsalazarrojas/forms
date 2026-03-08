@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying for membership in a club or organization. It is intended to be a simple and straightforward form that captures the necessary details without being too intrusive. The form will be used to verify the accuracy of the applicant's information, and ensure that they meet the necessary criteria for membership.
-</thinking>
-
 # Membership Application Validation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals applying for membership in a club or organization. It is a crucial step in the membership application process, and it helps us understand who you are and how we can contact you.

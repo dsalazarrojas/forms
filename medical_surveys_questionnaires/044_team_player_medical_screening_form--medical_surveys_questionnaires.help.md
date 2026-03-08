@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning block:**
-The purpose of this form is to collect medical information from team players, which is essential for their health and safety while participating in team activities. This form helps identify potential health risks, ensures that players have a valid medical insurance, and provides an emergency contact information in case of an incident. The form is designed to be completed by the team player themselves or by an authorized representative. It is a mandatory form to ensure that all team players have up-to-date medical information on file.
-</thinking>
-
 # Team Player Medical Screening Form - Help Guide
 ## Purpose
 The Team Player Medical Screening Form is a crucial tool used to collect essential medical information from team players to ensure their health and safety while participating in team activities.

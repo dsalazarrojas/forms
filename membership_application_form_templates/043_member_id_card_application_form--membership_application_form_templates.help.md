@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is being used correctly and to prevent duplication, the "member_id_card_application_form" should be used to collect information from new members who are applying for a membership ID card. This form should not be used to update or edit existing member information. Each field should be completed with accurate and valid information. This form is not intended for use in other contexts, such as renewals or cancellations.
-</thinking>
-
 # member_id_card_application_form - Help Guide
 ## Purpose
 The member_id_card_application_form is used to collect information from new members who are applying for a membership ID card. This form helps to ensure that the provided data is accurate and up-to-date.

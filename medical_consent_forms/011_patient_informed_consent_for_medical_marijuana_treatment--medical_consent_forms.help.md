@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used in medical settings where patients need to provide informed consent for medical marijuana treatment. This form aims to ensure that patients understand the potential risks and benefits associated with medical marijuana use and agree to its use in their treatment. This guide will explain each section of the form and provide a clear understanding of each field's purpose and requirements.
-</thinking>
-
 # Patient Informed Consent For Medical Marijuana Treatment - Help Guide
 ## Purpose
 

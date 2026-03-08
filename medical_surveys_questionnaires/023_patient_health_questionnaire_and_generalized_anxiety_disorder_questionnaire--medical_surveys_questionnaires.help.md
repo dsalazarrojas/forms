@@ -1,5 +1,3 @@
-<thinking>... (Internal reasoning block: This form is designed for healthcare professionals or researchers to collect patient health information and assess generalized anxiety disorder (GAD) symptoms. The form has two main sections: the Patient Health Questionnaire and the Generalized Anxiety Disorder Questionnaire. The form is intended to be completed by patients who are being evaluated or treated for anxiety disorders. The form's purpose is to help healthcare providers gather comprehensive health information and identify potential anxiety symptoms. It is not a medical diagnosis tool, but rather a supporting document for further evaluation and treatment. Please ensure you are eligible to complete this form before proceeding.) ...</thinking>
-
 # Patient Health Questionnaire And Generalized Anxiety Disorder Questionnaire - Help Guide
 
 ## Purpose

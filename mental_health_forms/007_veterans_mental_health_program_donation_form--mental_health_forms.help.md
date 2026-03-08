@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect donations for the Veterans Mental Health Program, which likely supports mental health initiatives for veterans. This form should be used by donors to provide their information and specify their donation amount and other details. To avoid duplication, ensure that you are not already registered in our system or have previously submitted a donation form. Non-veterans should not use this form, as the program is intended specifically for veterans.
-</thinking>
-
 # Veterans Mental Health Program Donation Form - Help Guide
 ## Purpose
 The Veterans Mental Health Program Donation Form is used to collect donations for the mental health initiatives of veteran communities. This form helps us to better serve these individuals and families.

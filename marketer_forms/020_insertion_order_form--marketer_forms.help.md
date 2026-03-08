@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information related to insertion orders. It's likely used by a marketing team to track and manage orders for advertising materials. The form likely has different types of fields to collect various details about the order, such as the type of ad, size, color, media, and status. There's no explicit indication that this form is used for internal only or not. It's possible that this form could be used by both internal and external users. I'll assume it's publicly accessible based on the available options.
-</thinking>
-
 # Insertion Order Form - Help Guide
 ## Purpose
 The Insertion Order Form is used to collect and track information about insertion orders for marketing materials. This form helps ensure accurate and efficient processing of orders.

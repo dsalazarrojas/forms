@@ -1,7 +1,3 @@
-<thinking>
-To ensure we only collect relevant and necessary information, please note that this form is intended for the publication of medical studies. It is essential to complete this form accurately and thoroughly to maintain the integrity of the study's publication process. This form is not a duplicate of any other form in our system. Please answer all fields truthfully and to the best of your ability.
-</thinking>
-
 # Medical Study Publication Release Form - Help Guide
 ## Purpose
 This form is used to collect information about the publication of medical studies, including the research team, study title, and publication details.

@@ -1,7 +1,3 @@
-<thinking>
-A membership application form is used by non-profit organizations (NPO) to collect information from applicants interested in joining the organization. This form is designed to be completed by the applicant, and its purpose is to streamline the membership application process. The form is not meant to be a duplicate of other forms used within the NPO, but rather a centralized template for gathering relevant information from applicants. This form is intended for use by Wabc, a specific NPO, and is tailored to their specific needs. Please ensure that you only use this form for membership applications and not for any other purpose.
-</thinking>
-
 # Wabc | Membership Form 2020 2021 - Help Guide
 ## Purpose
 The Wabc | Membership Form 2020 2021 is a template used by Wabc to collect information from applicants interested in joining their non-profit organization. This form is designed to gather relevant information from applicants and streamline the membership application process.

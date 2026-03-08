@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate and document the reality therapy sessions, providing a structured format for recording session dates, therapist's name, session duration, session notes, session goals, session outcomes, follow-up plans, next session dates, goals, notes, and outcomes. This form ensures that all relevant information is recorded in a consistent manner, facilitating easy reference and review for both the therapist and the client. To ensure accuracy, please note that this form should only be completed after the session has taken place.
-</thinking>
-
 # reality-therapy-evaluation-form - Help Guide
 ## Purpose
 This form is designed to document and evaluate reality therapy sessions, ensuring that all relevant information is recorded consistently.

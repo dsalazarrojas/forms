@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for this Consumer Spending Survey form, I'll first need to consider the form's internal purpose and potential overlap with existing documentation or similar forms. This form appears to be designed to collect demographic information, spending habits, and online shopping behavior, likely for marketing or research purposes. It's likely that this form will be used to gather insights for consumer behavior analysis, market research, or product development. To avoid duplication, it's essential to ensure that the form's questions are clear, concise, and not redundant. 
-
-Given the form's complexity and numerous fields, it's crucial to create a help guide that breaks down the form into sections for easier understanding. 
-
-</thinking>
-
 # Consumer Spending Survey - Help Guide
 ## Purpose
 This guide will help you complete the Consumer Spending Survey, a form designed to collect information about your demographic details, spending habits, and online shopping behavior. Your feedback and responses will help us understand consumer behavior and inform future product development.

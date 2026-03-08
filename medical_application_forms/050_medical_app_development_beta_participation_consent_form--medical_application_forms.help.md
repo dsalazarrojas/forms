@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture participant information, contact details, and other relevant data for beta testing of a medical app. The form is intended to ensure that participants understand the terms and conditions of the beta testing process and provide informed consent to participate. The form includes fields for participant information, contact details, app version, operating system, device model, device type, beta tester status, feedback, comments, and agreement sections. It is essential to fill out the form accurately and honestly to ensure a smooth and successful beta testing process.
-
-</thinking>
-
 # Medical App Development Beta Participation Consent Form - Help Guide
 ## Purpose
 The Medical App Development Beta Participation Consent Form is designed to obtain informed consent from participants before they start the beta testing process of the medical app. This form is essential to ensure that participants understand the terms and conditions of the beta testing process and agree to participate.

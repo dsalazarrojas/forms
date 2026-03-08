@@ -1,8 +1,3 @@
-<thinking>
-We're creating a help guide for the Gym Membership Form. This form is designed to help potential gym members sign up for a membership, providing information necessary for the gym staff to understand their preferences, emergency contacts, and other relevant details. The form aims to gather information on the member's first name, last name, email, phone number, and emergency contact information. It also allows members to specify their membership type (e.g., Gym, Monthly, Quarterly, Yearly) and provide details for their emergency contact, such as their name, relationship, address, and phone number.
-To ensure this guide is helpful and relevant, let's review the form structure and content to ensure there's no duplication or unnecessary information.
-</thinking>
-
 # Gym Membership Form - Help Guide
 ## Purpose
 This guide helps you complete the Gym Membership Form, ensuring you provide all necessary information for your membership.

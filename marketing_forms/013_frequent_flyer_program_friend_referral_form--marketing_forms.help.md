@@ -1,7 +1,3 @@
-<thinking>
-The Frequent Flyer Program Friend Referral Form is used to capture information from customers who are referring friends to our program. This form is used to gather details about the referrer and their friend, as well as the friend's company and date of referral. The form is designed to be completed by the customer who is referring their friend, and should not be filled out by the friend being referred. To ensure that the form is filled out correctly, please make sure to only fill out the form once, and that the friend's information is accurate and up to date. If you are unsure about any of the information, please contact us directly for assistance.
-</thinking>
-
 # Frequent Flyer Program Friend Referral Form - Help Guide
 ## Purpose
 The Frequent Flyer Program Friend Referral Form is used to capture information from customers who are referring friends to our program. This information is used to track referrals and reward customers for bringing in new members.

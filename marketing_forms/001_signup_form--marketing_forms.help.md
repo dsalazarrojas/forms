@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning block is used to confirm that the form purpose is for users to sign up for a service, likely to create a new account, and that it's not a duplicate sign-up form. The form consists of four fields: Email, Name, Password, and Agree, which are all required. The email field is expected to be a valid email address, while the Name field is a simple text input. The Password field is also a text input, and the Agree field is a select one option field where the user must agree to terms and conditions. This form is not a duplicate sign-up form as it does not have any duplicate fields.</thinking>
 
 # Signup Form - Help Guide

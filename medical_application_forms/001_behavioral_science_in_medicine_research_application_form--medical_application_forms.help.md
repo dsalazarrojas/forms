@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Behavioral Science In Medicine Research Application Form - Help Guide
 ## Purpose
 The Behavioral Science In Medicine Research Application Form is a comprehensive form designed to gather information from applicants for research projects related to behavioral science in medicine. This form helps us understand your research objectives, methodologies, and qualifications, ultimately aiding us in evaluating your application for funding and research collaboration opportunities.

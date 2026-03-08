@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Colorways Knowledge Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose and field-by-field explanations of this form, I need to analyze the YAML schema provided. The form appears to be related to evaluating or scoring slides, likely for a design or marketing context. This form has 15 fields, each representing a different aspect of the slide evaluation, such as image and content attributes. To avoid duplication, I will focus on providing concrete and concise explanations for each field.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to help evaluate and score slides based on various criteria, such as image and content attributes. The goal is to provide a structured assessment of each slide's quality and effectiveness.

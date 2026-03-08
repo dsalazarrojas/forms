@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report a mental health leave. A mental health leave is a type of leave that allows employees to take time off from work due to mental health reasons. This form is used to request a mental health leave. To ensure that this form is used correctly, please make sure you have permission from your manager before submitting it. Also, please note that this form is for reporting a mental health leave, not for other types of leave. If you are unsure about the type of leave you need, please contact your HR department.
-
-</thinking>
-
 # mental_health_leave_form - Help Guide
 ## Purpose
 This form is used to report a mental health leave. A mental health leave is a type of leave that allows employees to take time off from work due to mental health reasons.

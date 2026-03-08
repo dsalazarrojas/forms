@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide for the referral partner signup form, we need to ensure that we understand the form's purpose and the expected user behavior. This form is likely used to register a referral partner with a company, providing essential contact and profile information. The user needs to fill in the required fields accurately to create a new partner record. We should also check if there's any duplication or overlap in the form's purpose with other forms within the system to prevent redundant data entry or potential errors. 
-</thinking>
-
 # Referral Partner Signup Form - Help Guide
 ## Purpose
 The referral partner signup form is used to register a referral partner with a company. Fill in the required fields accurately to create a new partner record.

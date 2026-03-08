@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a marketing tool designed to collect information from users about their experiences and interests. It is likely created to gauge user preferences, habits, and motivations. The form consists of multiple pages, each containing text fields and select multiple options, indicating that users are asked to provide both descriptive answers and select multiple answers. I will assume that the form is meant to be filled out by users who have some experience or interest in the topic "Sister, Soldier Writing Through Storms". Given the large number of "more" fields, it seems that this form is meant to be filled out in a series of sessions, with each session adding more information or selecting more options. I will focus on creating a clear and concise help guide that covers the purpose, completion process, and field explanations for this form.</thinking>
-
 # Sister, Soldier Writing Through Storms - Help Guide
 ## Purpose
 This form is designed to collect information from users about their experiences and interests related to "Sister, Soldier Writing Through Storms". It aims to understand user preferences, habits, and motivations.

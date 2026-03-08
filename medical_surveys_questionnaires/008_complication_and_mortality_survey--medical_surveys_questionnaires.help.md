@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that this form is used correctly and consistently to gather accurate and reliable data for medical research and analysis. To avoid duplication, this form should only be filled out for new cases, and not for cases that have already been reviewed or have a similar outcome. The form should also be filled out in a way that ensures the patient's identity and personal information are protected. This guide is intended to help users complete the form accurately and efficiently.
-</thinking>
-
 # Complication And Mortality Survey - Help Guide
 ## Purpose
 The Complication And Mortality Survey is a tool used to record and analyze data on complications and mortality events in a healthcare facility. The data collected through this form is used to identify patterns and trends in patient outcomes and improve care and services.

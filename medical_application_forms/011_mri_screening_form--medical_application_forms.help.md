@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's medical condition and history for Magnetic Resonance Imaging (MRI) screening purposes. The form aims to collect essential details about the patient's health status, contact information, and medical history. This information will be used to prepare the patient for the MRI procedure and ensure their safety during the examination. 
-Please fill out this form carefully and accurately to avoid any issues during the MRI screening. Ensure that you have the patient's consent and authorization before submitting the form.
-</thinking>
-
 # mri_screening_form - Help Guide
 ## Purpose
 This form is used to gather information about a patient's medical condition and history for MRI screening purposes.

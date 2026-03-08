@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from applicants for the Global Preventive Medicine Fellowship application process. The purpose of this form is to gather essential details about the applicant's background, medical licensure, research experience, and other relevant qualifications. This information will be reviewed by the fellowship committee to assess the applicant's fit for the program.
-
-Before starting the application process, please ensure that you have all the required documents and information ready. It is also recommended that you review the fellowship program requirements carefully to ensure you meet all the eligibility criteria.
-
-Please note that some of the fields in this form are mandatory and need to be completed for a successful submission. If you are unsure about any of the fields, please consult the fellowship program's requirements or contact the program administration for clarification.
-
-</thinking>
-
 # global_preventive_medicine_fellowship_application_form - Help Guide
 ## Purpose
 The Global Preventive Medicine Fellowship application form is designed to collect information from applicants for the fellowship program. This form is used to assess the applicant's qualifications and ensure they meet the program's eligibility criteria.

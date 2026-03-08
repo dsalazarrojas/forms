@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide an overview of the Copywriter Intake Form, including its purpose, completion instructions, and field-by-field explanations.
-The form is designed to collect information from businesses and individuals about their copywriting needs. It is likely used by marketing teams or agencies to understand client requirements and tailor their services accordingly.
-</thinking>
-
 # Copywriter Intake Form - Help Guide
 ## Purpose
 The Copywriter Intake Form is a tool for businesses and individuals to provide information about their copywriting needs. It helps marketing teams and agencies understand client requirements and tailor their services accordingly.

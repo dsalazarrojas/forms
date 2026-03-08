@@ -1,8 +1,3 @@
-<thinking>
-This form's primary purpose is to gather information and understanding about cell origin concepts from respondents. The form is part of a broader research effort to explore and assess the current state of knowledge on this topic.
-The form's questions cover various aspects of cell origin, including abiogenesis, theories, and evidence supporting the origin of cells. The survey aims to gauge respondent's confidence in their understanding and identify areas that may require further education.
-</thinking>
-
 # Cell Origin Understanding Survey - Help Guide
 ## Purpose
 This form is designed to gather your opinions and knowledge about cell origin concepts. Your input will help improve the understanding of this topic.

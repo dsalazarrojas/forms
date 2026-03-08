@@ -1,10 +1,3 @@
-<thinking>
-You are about to view a help guide for a medical application form. This form is used for collecting and maintaining medical information of students. The purpose of this form is to gather essential details about the student's medical history, including any previous illnesses, treatments, or hospitalizations. It's crucial that the information collected through this form is used to ensure the student's health and well-being.
-
-Before proceeding, please note that this guide is provided to ensure you understand the form's purpose and how to complete it accurately. Please review the form carefully and only complete it if you have the necessary information and consent.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect and maintain medical information of students. It's essential to have accurate and up-to-date medical records to ensure the student's health and well-being.

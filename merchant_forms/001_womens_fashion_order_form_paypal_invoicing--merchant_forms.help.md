@@ -1,22 +1,3 @@
-<thinking>
-
-This form is designed for a merchant to collect information from customers for a womens fashion order with PayPal invoicing. The form will guide the user through several sections, including order details, customer details, payment information, shipping information, order summary, special instructions, and merchant notes. The purpose of this form is to gather necessary data for processing the order and facilitating payment through PayPal. 
-
-The form is divided into the following sections:
-
-*   Order Details: This section is for providing information about the ordered item.
-*   Customer Details: This section is for customer's contact and shipping information.
-*   Payment Info: This section is for customer's payment method and amount.
-*   Shipping Info: This section is for customer's shipping address.
-*   Order Summary: This section is for summarizing the order details.
-*   Special Instructions: This section is for any additional instructions or comments from the merchant.
-*   Merchant Notes: This section is for the merchant to add any additional notes.
-*   Order Confirmation: This section is for the customer to confirm their order and details.
-*   Customer Confirmation: This section is for the customer to confirm their details and order.
-*   Submit: This section is for submitting the order form.
-
-</thinking>
-
 # Womens Fashion Order Form Paypal Invoicing - Help Guide
 ## Purpose
 This form is for processing women's fashion orders with PayPal invoicing.

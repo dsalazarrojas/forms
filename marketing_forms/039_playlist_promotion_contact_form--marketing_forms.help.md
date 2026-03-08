@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect contact information and details about a playlist promotion campaign. The purpose of this form is to provide a way for artists, promoters, or other users to submit their promotional materials, such as artwork and release information, to be shared on playlists. The form is designed to be easy to use and requires minimal information, making it accessible to a wide range of users. To ensure a successful submission, please review the fields carefully and complete all required fields. This form should only be used for genuine promotional purposes and not for spamming or other malicious activities.
-
-</thinking>
-
 # Playlist Promotion Contact Form - Help Guide
 ## Purpose
 The Playlist Promotion Contact Form is a simple form designed to gather information from artists and promoters to help promote their music on our playlists. It's meant to be an easy and quick way for them to share their music and connect with our audience.

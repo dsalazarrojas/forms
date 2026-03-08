@@ -1,12 +1,5 @@
 >
 
-<thinking>
-This form is designed to collect data about bloggers' experiences, habits, and challenges in the blogging world. It's intended for research purposes to gain insights into the blogging community's trends, pain points, and goals. This form is NOT affiliated with, endorsed by, or derived from any form platform, but rather a public adaptation created using AI.
-
-Before you start, please ensure you're completing this form for the first time. If you've already filled it out, your responses will not be recorded.
-
-</thinking>
-
 # Blogger Lifestyle Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Giveaway Survey - Help Guide
 
 ## Purpose

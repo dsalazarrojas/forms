@@ -1,10 +1,3 @@
-<thinking>
-The form "Market Survey" is designed to collect information about market research surveys. It is meant to be completed by market surveyors who need to gather data about market surveys for their work. This form will likely be used by internal stakeholders who already have a good understanding of the context and purpose. The goal of this help guide is to ensure that users understand how to complete the form correctly and what information is being requested in each field.
-
-To avoid duplication, this help guide will only cover the required fields.
-
-</thinking>
-
 # Market Survey - Help Guide
 ## Purpose
 The Market Survey form is a tool used to collect information about market surveys. It helps market surveyors gather data about market surveys for their work.

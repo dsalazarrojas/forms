@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general membership information from users. It's likely used for marketing purposes, such as collecting contact details and other relevant data from potential or existing members. I assume the form is used in conjunction with other marketing tools to track and follow up on leads. The form's fields should be self-explanatory, but I'll double-check the field-by-field explanation to ensure clarity. The form does not seem to have any specific requirements or restrictions that would warrant special attention, so this should be a straightforward guide to help users understand the form's purpose and how to complete it.
-</thinking>
-
 # General Membership Form - Help Guide
 ## Purpose
 The General Membership Form is a simple form designed to collect basic information from individuals who want to join or express interest in a particular group or community. This form is typically used for marketing purposes to gather contact details and other relevant data from potential or existing members.

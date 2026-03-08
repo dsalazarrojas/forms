@@ -1,7 +1,3 @@
-<thinking>
-This form is used for patient education and animation purposes, likely for medical or health-related activities. Its primary goal is to collect information about the patient, the animation or educational material, and the consent process. This form might be used for various types of patient education, such as animations for surgical procedures or animations for patient education on specific medical conditions. 
-</thinking>
-
 # Patient Education Animation Voiceover Consent Form - Help Guide
 
 ## Purpose

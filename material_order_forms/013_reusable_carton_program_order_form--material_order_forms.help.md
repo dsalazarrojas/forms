@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reusable Carton Program Order Form - Help Guide
 ## Purpose
 The Reusable Carton Program Order Form is used to collect information for the Reusable Carton program. This form is meant to gather essential details from customers who wish to participate in the program, including their personal and contact information, and the specific reusable carton they are interested in ordering. This form is an essential part of the ordering process.

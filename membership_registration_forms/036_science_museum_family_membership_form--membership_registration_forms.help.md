@@ -1,10 +1,3 @@
-<thinking>
-# Purpose: This form is to gather information from family members who wish to become Science Museum members. 
-- It helps the museum to understand the applicant's household demographics and interests. 
-- This information will be used to tailor museum events and offers to the family's needs.
-- This form will be reviewed by museum staff before approval.
-</thinking>
-
 # Science Museum Family Membership Form - Help Guide
 ## Purpose
 The Science Museum Family Membership Form is designed to gather information from family members who wish to become Science Museum members.

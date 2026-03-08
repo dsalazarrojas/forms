@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to document the administration of medications to patients, ensuring accurate and standardized reporting of medication administration data. The primary goal is to collect relevant details about the patient, medication, and administration process to maintain accurate medical records and facilitate future reference. This form should only be used for medication administration purposes and not for other medical documentation.
 
 </thinking>

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Medical Physical Exam Form is to collect relevant information from patients or individuals for medical evaluation and treatment. This form is typically used in medical settings, such as doctor's offices, hospitals, or clinics. 
-
-We need to ensure that this form is used appropriately and efficiently. To confirm, please let me know if the form purpose and design aligns with your medical needs.
-
-</thinking>
-
 # Medical Physical Exam Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information from patients or individuals for medical evaluation and treatment.

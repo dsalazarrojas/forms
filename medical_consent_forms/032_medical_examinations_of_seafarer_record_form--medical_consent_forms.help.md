@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to record medical examinations for individuals who work at sea or are otherwise engaged in activities that pose a risk of injury or illness. The purpose of this form is to gather information about the seafarer's medical history, medical examination results, and signatures from both the physician and the patient. This form is used to ensure that the seafarer is fit for duty and to provide medical documentation for future reference.
-
-Before proceeding, please verify that you are not duplicating this effort elsewhere, and that you are using this form in accordance with your organization's policies and procedures.
-
-</thinking>
-
 # medical_examinations_of_seafarer_record_form - Help Guide
 ## Purpose
 The medical_examinations_of_seafarer_record_form is designed to record medical examinations for seafarers, ensuring they are fit for duty and providing medical documentation for future reference.

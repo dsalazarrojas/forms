@@ -1,12 +1,3 @@
-<thinking>
-To ensure the Orthopedic Surgery Patient Summary form is completed correctly and consistently, please consider the following internal reasoning block:
-
-This form is intended to gather essential information about a patient's details, medical history, and surgical procedure specifics. The purpose of this form is to provide a comprehensive overview of the patient's condition and requirements for orthopedic surgery. It is essential to complete this form accurately to ensure the surgical team has the necessary information to perform the procedure safely and effectively.
-
-Please note that the form's fields are divided into the following sections: patient details, medical history, and surgical specifics. Each section is designed to capture specific information that is relevant to the patient's care. The fields are labeled to guide the user in providing the necessary details.
-
-</thinking>
-
 # Orthopedic Surgery Patient Summary - Help Guide
 ## Purpose
 The Orthopedic Surgery Patient Summary form is a collection of fields that gather essential information about a patient's details, medical history, and surgical procedure specifics. It is intended to provide a comprehensive overview of the patient's condition and requirements for orthopedic surgery.

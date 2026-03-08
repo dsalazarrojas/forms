@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the echeck_net_t_shirt_order_form. The form is designed to collect information for an online order form, specifically for ECheck.Net. The purpose of this form is to gather details about an order, including payment and merchant information. This form has 5 fields, which will be explained in detail below.
-</thinking>
-
 # echeck_net_t_shirt_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for an online order form, specifically for ECheck.Net.

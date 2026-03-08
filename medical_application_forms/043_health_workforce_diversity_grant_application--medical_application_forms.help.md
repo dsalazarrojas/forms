@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help applicants provide information for a health workforce diversity grant application. This guide will ensure that each applicant understands the required fields and how to complete each section accurately. The form will be evaluated for duplicates and relevance before proceeding to the next step, eliminating any unnecessary submissions.
-</thinking>
-
 # Health Workforce Diversity Grant Application - Help Guide
 ## Purpose
 The Health Workforce Diversity Grant Application is designed to support initiatives that promote diversity in the health workforce. This guide will walk you through the process of completing the application form.

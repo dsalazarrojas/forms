@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from users who want to join a waitlist for marketing updates. It's likely used for businesses or organizations that offer products or services and want to keep their customers informed about new developments, promotions, or other important announcements. Before filling this form, please ensure you're not already on the waitlist by checking your email or contact information.
-
-This form has 7 pages with 10 fields. Each page is for a different section of the form.
-</thinking>
-
 # Join The Waitlist - Help Guide
 ## Purpose
 This form allows users to join a waitlist to receive marketing updates from the organization.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for healthcare professionals to collect patient information related to their asthma control and management. The Asthma Control Questionnaire is a comprehensive tool that gathers data on various aspects of asthma, including patient demographics, symptoms, medication adherence, and overall asthma control. This information will help healthcare providers assess the patient's asthma status and tailor their treatment plans accordingly.
-
-To ensure accurate and complete data collection, it is essential to follow the guidelines provided in this help guide.
-
-</thinking>
-
 # Asthma Control Questionnaire - Help Guide
 ## Purpose
 The Asthma Control Questionnaire is a comprehensive tool for healthcare professionals to collect patient information related to their asthma control and management.

@@ -1,17 +1,3 @@
-<thinking>
-
-The form purpose is to collect data for market research on influencer collaboration opportunities. This form is intended for gathering information from potential collaborators on various platforms (e.g. Instagram, TikTok, YouTube, etc.) about their brand preferences, communication preferences (e.g. collaboration methods, time spent on collaboration), and other relevant details. 
-
-We are aiming to use this form to gather accurate and relevant information from potential collaborators, and to minimize duplication of requests for collaboration, which could be considered spammy or annoying to the potential collaborator.
-
-To ensure that we are not spamming potential collaborators, we will only be sending one request for collaboration to each potential collaborator, and we will only be requesting information for one specific opportunity at a time.
-
-We will also be using this form to track the response rate and the quality of the collaboration requests, and to identify patterns and trends in the responses, which will help us to improve our collaboration strategy.
-
-It is essential that we are not over-asking questions, so we will only be collecting the necessary information to fulfill our research goals, and we will be keeping our questions clear and concise.
-
-</thinking>
-
 # Influencer Collaboration Market Research - Help Guide
 ## Purpose
 This form is intended to collect information about potential collaborators for market research purposes. The goal is to gather accurate and relevant data about potential collaborators on various platforms, minimize duplication of requests, and improve our collaboration strategy.

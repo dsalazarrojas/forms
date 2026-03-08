@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Personalization Readiness Survey" form, I first need to understand its purpose and the fields it contains. The form seems to be designed to assess the readiness of a company or organization for personalization, which likely involves evaluating their ability to tailor experiences, products, or services to individual customers' needs.
-
-The form consists of 12 fields, each representing a different type of question or input. Some fields are text inputs (e.g., form_section_1, form_section_2, form_section_10, form_section_11, form_section_12), which might require users to provide descriptive or numerical answers. Others are more specific, such as form_section_4 (select_one) and form_section_5 (select_multiple), which seem to be yes/no or yes/no/maybe questions. form_section_6 (date) and form_section_7 (time) likely ask for specific date and time inputs, respectively. form_section_9 (email) is a text input for an email address, and form_section_8 (note) is a free-form text area for additional comments or notes.
-
-Given the variety of field types, it's essential to ensure that the help guide clearly explains each field's purpose and requirements. This guide should also emphasize the importance of accurately and thoroughly completing the form.
-
-</thinking>
-
 # Personalization Readiness Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the readiness of your company or organization for personalization. Personalization involves tailoring experiences, products, or services to individual customers' needs and preferences. By completing this survey, you will help us assess your organization's current state and provide insights for potential improvements.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for individuals to register for a mental health workshop. It gathers participant information, workshop preferences, and registration details. The purpose of this form is to collect necessary data to accommodate participants' needs and ensure a smooth registration process.
-
-To prevent duplication, please check the existing participant lists before filling out this form.
-
-</thinking>
-
 # Mental Health Workshop Registration Form - Help Guide
 ## Purpose
 The Mental Health Workshop Registration Form is a tool to collect participant information and preferences for a mental health workshop. It is essential to complete this form accurately to ensure a smooth and personalized experience.

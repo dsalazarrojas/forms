@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Respiratory Infection Screening Form - Help Guide
 ## Purpose
 This form is designed to screen for respiratory infections in patients. It gathers information on patient demographics, symptoms, medical history, test results, and potential respiratory infection indicators. This form helps healthcare professionals to quickly and accurately assess patients' conditions and provide timely interventions.

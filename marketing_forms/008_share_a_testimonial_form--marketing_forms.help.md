@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Share A Testimonial Form - Help Guide
 ## Purpose
 The Share A Testimonial Form is designed to collect feedback and testimonials from customers, partners, or users about their experiences with our company. This form helps us understand your satisfaction and opinions, which we use to improve our services and products.

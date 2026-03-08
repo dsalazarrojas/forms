@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential members who want to join the Technology Club. The form's purpose is to gather the necessary details for the membership process. To ensure the form is being used correctly, please check that the form is only being used for its intended purpose and not for any other unrelated activities. This form should not be used to collect unnecessary or sensitive information. The data collected will be used to create a membership profile and may be shared with club administrators and members. Please ensure that all the fields are filled in correctly and honestly, and that you do not share any sensitive information without the consent of the Technology Club. The form can be used by any member of the public who wants to join the Technology Club, including students, professionals, and hobbyists. The form is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Technology Club Membership Form - Help Guide
 ## Purpose
 The Technology Club Membership Form is designed to collect information from potential members to create a membership profile. This form helps the club administrators to verify the membership application and ensure that the member's details are correct.

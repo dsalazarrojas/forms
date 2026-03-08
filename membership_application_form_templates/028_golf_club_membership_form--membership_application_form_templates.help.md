@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Membership Application Form - Help Guide
 ## Purpose
 This form is designed to collect membership information from individuals who want to become part of an organization. It includes fields for personal details, membership type, and contact information.

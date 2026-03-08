@@ -1,10 +1,3 @@
-<thinking> 
-This guide will cover the purpose and usage instructions for the nexus_device_performance_report_form form. This form is part of the marketing category and its primary purpose is to collect information from users regarding the performance of a specific device. Before proceeding, ensure that you are aware of the following:
-- This form is intended for reporting on device performance.
-- The information gathered through this form will be used to track and monitor device performance.
-- If you've already submitted a performance report for the same device, please do not submit this form again.
-</thinking>
-
 # nexus_device_performance_report_form - Help Guide
 ## Purpose
 The nexus_device_performance_report_form is a form used to report on the performance of a specific device. This form is designed to collect relevant information about the device's performance, including device selection, start and end dates, comments, and other details.

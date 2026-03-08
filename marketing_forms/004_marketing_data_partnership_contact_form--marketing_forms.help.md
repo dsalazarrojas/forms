@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture contact information and partnership interest from potential marketing data partners. It is intended for individuals who wish to discuss potential partnership opportunities with the marketing team. The form is not meant for general inquiries or sales pitches. Please fill out the form only if you have a genuine interest in partnering with our company. If you're not sure if this is the right form for you, please reach out to us directly to clarify.
-</thinking>
-
 # Marketing Data Partnership Contact Form - Help Guide
 ## Purpose
 This form is for potential marketing data partners to provide contact information and indicate their partnership interest. It is not for general inquiries or sales pitches.

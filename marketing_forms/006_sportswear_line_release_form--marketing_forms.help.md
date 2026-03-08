@@ -1,9 +1,3 @@
-<thinking>
-
-This form seems to be for planning and coordinating the launch of a new sportswear line. The form might be used by marketing teams to gather information and prepare for the launch. I assume it's used for both internal and external purposes. I did not find any information that suggests this form is part of a specific workflow or has any specific business logic tied to it. It's likely that the answers to this form are used to create a comprehensive overview of the launch.
-
-</thinking>
-
 # Sportswear Line Release Form - Help Guide
 ## Purpose
 

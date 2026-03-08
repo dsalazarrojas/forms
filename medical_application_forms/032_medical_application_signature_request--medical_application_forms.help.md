@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information for medical applications, including patient signatures, date of birth, and medical histories. It is likely used in medical facilities or practices to gather data for medical records. Please ensure this form is only used for legitimate medical purposes and that all information is collected in accordance with patient confidentiality and data protection regulations.
-</thinking>
-
 # Medical Application Signature Request - Help Guide
 ## Purpose
 The Medical Application Signature Request form is designed to collect medical information for applications, including patient signatures, date of birth, and medical histories.

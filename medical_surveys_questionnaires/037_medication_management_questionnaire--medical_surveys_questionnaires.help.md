@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's medication management, including their medical history, allergies, and medical conditions. It is intended to be completed by patients or their medical staff. The purpose of this form is to create a comprehensive record of the patient's medical information to help healthcare providers manage their care effectively.
-
-Before continuing, please note that this form is for general guidance and does not cover specific medical conditions or emergencies. If you have a medical emergency, please call 911 or your local emergency services.
-
-</thinking>
-
 # Medication Management Questionnaire - Help Guide
 ## Purpose
 

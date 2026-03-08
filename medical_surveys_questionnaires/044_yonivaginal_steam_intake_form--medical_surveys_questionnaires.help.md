@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for patients visiting the Yoni Steam Therapy Center. It is intended for patients who are new to the center or are returning for follow-up visits. The form should only be completed by the patient or their authorized representative. 
-</thinking>
-
 # yonivaginal_steam_intake_form - Help Guide
 ## Purpose
 The yonivaginal_steam_intake_form is a patient intake form used to collect information for new or follow-up visits to the Yoni Steam Therapy Center.

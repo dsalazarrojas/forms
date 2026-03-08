@@ -1,8 +1,3 @@
-<thinking> 
-This guide is intended for users who will be filling out the Pediatric Neuropsychological Assessment Intake Questionnaire form. Please ensure this guide is relevant to your needs and not a duplicate of existing documentation. This form is designed to gather information for the assessment of children's cognitive and emotional development. If you're reading this guide, you're likely filling out the form for a specific child or client. 
-
-</thinking>
-
 # Pediatric Neuropsychological Assessment Intake Questionnaire - Help Guide
 ## Purpose
 The Pediatric Neuropsychological Assessment Intake Questionnaire is designed to collect information about a child's cognitive, emotional, and behavioral development. This form is typically completed by a child's caregivers or parents to provide detailed insights into the child's condition, aiding in the identification of potential neuropsychological issues.

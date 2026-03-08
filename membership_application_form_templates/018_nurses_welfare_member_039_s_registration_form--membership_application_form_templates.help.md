@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for new members to register and provide their contact information, emergency contact details, and medical license information. It is essential to fill in all required fields accurately. Please review the form carefully before submitting. Ensure you fill in all required fields, which are marked as `true`. Before completing this form, please ensure that you don't already have an existing membership in the system. If you're unsure about any of the fields or have any questions, please contact us.
-</thinking>
-
 # Nurses Welfare Member's Registration Form - Help Guide
 ## Purpose
 This form is a registration form for new members to join the Nurses Welfare organization. It collects essential information for membership purposes.

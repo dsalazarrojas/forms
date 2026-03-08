@@ -1,7 +1,3 @@
-<thinking>
-The Learning And Development Society Membership Form is used for individuals to sign up for membership in the society. This form is designed to collect information from new members, including their name, contact details, and preferences for membership level and tool assignment. The form should only be filled out by individuals who are interested in joining the society and do not already have an account with us.
-</thinking>
-
 # Learning And Development Society Membership Form - Help Guide
 ## Purpose
 This form is for individuals to join the Learning And Development Society. Please fill out the form to become a member and receive access to exclusive resources and events.

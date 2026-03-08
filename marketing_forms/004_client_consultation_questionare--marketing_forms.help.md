@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential clients about their marketing challenges and interests. This includes gathering contact information (Full Name and Business Name), website URL, and specific areas of marketing interest (SEO, Social Media Management, Content Marketing, PPC Advertising, and Email Marketing). The form also asks about the client's current marketing challenges, target audience, desired success metrics, and a rough estimate of their monthly marketing budget. This helps to identify potential leads and tailor services to their specific needs.
-</thinking>
-
 # Client Consultation Questionare - Help Guide
 ## Purpose
 This form is designed to collect information from potential clients to understand their marketing challenges and interests.

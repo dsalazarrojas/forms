@@ -1,7 +1,3 @@
-<thinking>
-This form is used to generate leads for potential retail sale events, such as in-store events, pop-up sales, and seasonal sales. The purpose of this form is to collect information about the event details, which will help the sales team to better understand the needs of the customers and non-customers interested in these events. It is crucial that users complete this form only for the specific purpose of generating leads for a particular event and not for other reasons. To avoid duplicating efforts, please check the event calendar and the sales team's current lead generation projects before filling out this form.
-</thinking>
-
 # Retail Sale Event Lead Generation Form - Help Guide
 
 ## Purpose

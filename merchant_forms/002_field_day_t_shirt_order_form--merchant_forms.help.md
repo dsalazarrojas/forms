@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for customers to order Field Day T-Shirts. 
-The form is required for the following reasons:
-The form is used to collect relevant customer information for each order.
-Each field has a specific purpose and the form has been designed to guide the user through the process.
-</thinking>
-
 # Field Day T Shirt Order Form - Help Guide
 ## Purpose
 The Field Day T Shirt Order Form is a form designed to collect customer information for orders. This form is used to gather essential details about the customer, including their name, contact information, t-shirt preferences, and order details. 

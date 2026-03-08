@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect basic information about a new patient's medical history. It is intended to be used in a medical setting, such as a doctor's office or clinic, to gather relevant information about the patient's medical history. The form is not meant to be used for any other purpose, including but not limited to insurance claims, medical billing, or research studies. Please ensure that you are using this form in the correct context and that you are collecting the information for its intended purpose.
-
-</thinking>
-
 # new_patient_medical_history_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a social worker, your goal is to collect relevant information from clients to provide the necessary support and services. Before starting, please verify that this form is relevant to your case and that you have not already collected this information. Ensure that the client understands the purpose of this form and is comfortable with the information being collected. If you have previously collected this information, please do not repeat the questions to avoid unnecessary duplication of effort. The form is designed to gather information about the client's medical history, social support system, medical conditions, and other relevant details to provide effective support. Please complete the form thoroughly and accurately, and if you have any questions, do not hesitate to ask for clarification. This form is used for assessment and planning purposes only, and the information collected will be kept confidential. Please review the form carefully before submitting it to ensure that all required fields are completed correctly.</thinking>
-
 # Social Worker Intake Form - Help Guide
 
 ## Purpose

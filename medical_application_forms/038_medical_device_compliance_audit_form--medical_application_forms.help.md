@@ -1,7 +1,3 @@
-<thinking>
-This form is used by medical device manufacturers and users to ensure that their devices comply with relevant regulations and standards. The form aims to gather information on the compliance status of medical devices, which is crucial for regulatory purposes. To avoid duplication, it's essential to fill out this form for each unique medical device. This form is designed to be completed by one person per medical device, and it's not intended for general use. Therefore, please ensure that the form is completed accurately and honestly to prevent any potential risks or penalties associated with non-compliance.
-</thinking>
-
 # Medical Device Compliance Audit Form - Help Guide
 ## Purpose
 This form is used to gather information on the compliance status of medical devices to ensure regulatory compliance.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Fashion Society Membership Form - Help Guide
 ## Purpose
 This form is intended to collect information from potential members of the Fashion Society, a community of fashion enthusiasts. The form is used to gather demographic data, including name, contact information, and specific details about the individual's interest in fashion.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from merchants for a sample request. The form is not strictly required for any urgent or critical business process, so there might be instances where it's not necessary to fill it out. However, filling it out will help us better understand the merchant's needs and preferences. Please ensure that the form is not duplicated for the same business and time period, as this might lead to unnecessary data duplication.
-</thinking>
-
 # sample_request_form - Help Guide
 
 ## Purpose

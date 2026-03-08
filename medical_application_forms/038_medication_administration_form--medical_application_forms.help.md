@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record information about medication administration, including patient details, medication details, and administration details. This form is likely used in a healthcare setting to document medication administration events. The purpose of this form is to ensure accurate and complete recording of medication administration data.
-</thinking>
-
 # medication_administration_form - Help Guide
 ## Purpose
 This form is used to record information about medication administration, including patient details, medication details, and administration details.

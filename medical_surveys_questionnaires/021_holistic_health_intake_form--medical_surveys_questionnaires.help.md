@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect patient information for a holistic health intake. As a user, you will be providing your personal and medical information to help healthcare professionals understand your health status and provide you with optimal care. Please note that this form is not meant to be a substitute for a professional medical evaluation but rather a comprehensive collection of your medical history and current health concerns. If you have any doubts or concerns, please review and confirm your answers before submitting.
-
-</thinking>
-
 # Holistic Health Intake Form - Help Guide
 ## Purpose
 

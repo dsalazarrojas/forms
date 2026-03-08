@@ -1,13 +1,3 @@
-<thinking>
-This form is for individuals who wish to apply for a nursing home or long-term care facility. The purpose of this form is to gather information from the applicant regarding their personal details, contact information, medical history, and any relevant medical details that may be required for their care. 
-
-The form is designed to be completed by the applicant, who must provide accurate and truthful information. 
-
-Please note that the form has multiple pages, each containing one field. 
-
-To complete this form, please follow the instructions below.
-</thinking>
-
 # Nursing Home Application Form - Help Guide
 ## Purpose
 The nursing home application form is a tool used to collect information from individuals who wish to apply for a nursing home or long-term care facility.

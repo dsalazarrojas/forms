@@ -1,11 +1,3 @@
-<thinking>
-
-To begin with, let's consider the purpose of this emotional distance assessment form. It appears to be designed for evaluating the emotional distance or intensity between the respondent and their partner(s). The form is used to collect information on how the respondent feels about their partners, which partners they have relationships with, and the frequency and duration of these relationships. This form is likely used in research studies or surveys to gather data on social relationships.
-
-We should confirm that the form's structure and content align with its intended use. Let's review the fields and provide a clear, step-by-step guide to help users understand what they need to do.
-
-</thinking>
-
 # emotional_distance_assessment - Help Guide
 ## Purpose
 This emotional distance assessment form is designed to collect information on relationships between individuals, focusing on emotional connections and intensity.

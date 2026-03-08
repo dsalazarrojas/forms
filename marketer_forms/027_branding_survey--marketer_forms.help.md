@@ -1,13 +1,3 @@
-<thinking>... 
-
-The purpose of this form is to collect feedback on the brand's image, reputation, and overall impression. It is designed to help the brand understand how customers perceive it and identify areas for improvement. The form is part of a comprehensive survey that aims to gather insights from customers to inform branding strategies and decision-making.
-
-This form is likely to be filled out by customers who have interacted with the brand in the past or are considering purchasing from it. The goal is to gather honest and constructive feedback that will help the brand strengthen its image and reputation.
-
-Before filling out this form, please ensure you have not submitted similar feedback to the brand before.
-
-</thinking>
-
 # Branding Survey - Help Guide
 ## Purpose
 The Branding Survey is designed to gather feedback on the brand's image, reputation, and overall impression from customers. Your input will help the brand understand how it is perceived and identify areas for improvement.

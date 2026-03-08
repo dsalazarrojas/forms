@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist individuals with hemophilia or bleeding disorders in understanding their treatment regimen, experiences, and preferences. The form is designed to gather information on their current treatment, symptoms, and medical history. It is essential to fill out the form accurately and thoroughly, as the information collected will help healthcare providers better understand their needs and develop effective treatment plans. Please ensure that the information provided is up-to-date and reflects your current situation.
-
-</thinking>
-
 # Hemophilia Treatment Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about your current treatment regimen, experiences, and medical history related to hemophilia or bleeding disorders. This information will help healthcare providers better understand your needs and develop effective treatment plans tailored to your individual needs.

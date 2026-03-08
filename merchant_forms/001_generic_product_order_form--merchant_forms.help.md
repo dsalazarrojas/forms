@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect basic information about a product order from a customer. The purpose of this form is to gather essential details such as the product name, price, quantity, description, customer name, email, phone number, and order date. This information will be used to process the order and facilitate communication with the customer.
 
 # Generic Product Order Form - Help Guide

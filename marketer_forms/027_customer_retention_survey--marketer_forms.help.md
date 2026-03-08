@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us understand customer satisfaction and feedback. The goal is to gather data about our customers' experiences with our company. This form will collect information about contact details, satisfaction levels, and open-ended questions to get a better understanding of our customers' thoughts. We will not use this form for any other purpose, and the data collected will be used to improve our services. Please ensure you fill out this form carefully and accurately.
-</thinking>
-
 # Customer Retention Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experiences with our company.

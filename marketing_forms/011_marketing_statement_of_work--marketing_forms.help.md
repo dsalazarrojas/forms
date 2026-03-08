@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and track marketing projects, gathering essential information about project scope, budget, timeline, team members, and client details. It's crucial to ensure that all required fields are completed accurately to ensure data consistency and prevent duplication of efforts. Please note that this form is designed for internal use only and should not be shared with clients or external parties.
-</thinking>
-
 # Marketing Statement Of Work - Help Guide
 ## Purpose
 This form is used to document and track marketing projects, providing a centralized platform for capturing essential information about project scope, budget, timeline, team members, and client details.

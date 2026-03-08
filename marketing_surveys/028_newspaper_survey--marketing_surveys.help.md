@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form's purpose and structure are well-understood by end-users. This guide will help users comprehend the form's intent and requirements for completion.
-</thinking>
-
 # Newspaper Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with newspapers, focusing on specific aspects such as local papers, news sites, small businesses, listening to feedback, and contact details.

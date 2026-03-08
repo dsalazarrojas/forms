@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to be a diagnostic tool for evaluating a patient's potential risk of myocardial infarction (MI), also known as a heart attack. It gathers information from the patient's past medical history, symptoms, medications, laboratory results, electrocardiogram (ECG) results, imaging studies, and cardiac risk factors. This form can be used by healthcare professionals to assess the patient's risk level and provide guidance for further evaluation or treatment. 
-
-To avoid duplication, we recommend that healthcare providers fill out this form for new patients only, and update the information as needed for follow-up visits.
-
-</thinking>
-
 # myocardial_infarction_diagnostic_evaluation - Help Guide
 ## Purpose
 The myocardial infarction diagnostic evaluation form is a tool used by healthcare providers to assess a patient's risk of myocardial infarction (heart attack) based on their medical history, symptoms, and test results.

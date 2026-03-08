@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about customers' preferences regarding skincare products and their skin type and preferences. The form will help us to better understand what our customers want and need from a fragrance-free skincare product. We will use this data to improve our product offerings and provide better customer service. Please make sure that the answers are accurate and honest to help us create a better experience for all customers.
-
-</thinking>
-
 # Skincare Fragrance Free Preference Survey - Help Guide
 ## Purpose
 This form is designed to gather information about customers' preferences regarding skincare products and their skin type and preferences.

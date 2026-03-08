@@ -1,13 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information from professionals in the biotechnology industry to assess their proficiency levels in various areas, identify challenges they face, and determine their interests in future collaboration opportunities. This data will help to create targeted training programs and resources for the biotech community. It's essential that you answer honestly and thoroughly to provide accurate feedback.
-
-To ensure that you provide a complete and accurate assessment, please make sure that:
-- You are a professional in the biotechnology industry.
-- You are familiar with the areas mentioned in the form.
-- You answer each question based on your real-world experience.
-
-Please review the form and ensure that you answer all the questions that apply to you. If you're unsure about any question, feel free to reach out to the form administrators for clarification.</thinking>
-
 # Advanced Biotechnology Assessment - Help Guide
 
 ## Purpose

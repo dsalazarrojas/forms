@@ -1,12 +1,3 @@
-<thinking>
-We are providing a form to collect feedback and input from our valued members. This form will help us understand their needs and experiences with our membership offerings. The information collected will aid us in improving and refining our services to better serve our members' needs and expectations. 
-
-Please ensure that the questions are accurate and up-to-date. If you have any issues or concerns, do not hesitate to let us know. 
-
-This help guide will guide you through the form and each section, ensuring you can complete it efficiently and accurately.
-
-</thinking>
-
 # Annual Membership Survey - Help Guide
 ## Purpose
 This survey aims to gather valuable feedback from our members to help us improve our membership services. Your input will enable us to understand your experiences and preferences, allowing us to make informed decisions to better serve you.

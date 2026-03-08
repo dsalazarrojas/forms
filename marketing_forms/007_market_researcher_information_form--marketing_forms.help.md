@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about market researchers, their contact details, and company information for marketing purposes. The form is designed to be completed by market researchers and their representatives to provide a snapshot of their contact and company details. This form will help us understand the landscape of market researchers and their companies, which will be used to inform marketing strategies and outreach efforts.
-
-Before filling out this form, please ensure that you haven't already submitted a similar form. If you have, you can skip this one.
-</thinking>
-
 # Market Researcher Information Form - Help Guide
 ## Purpose
 The form is used to collect contact and company details of market researchers for marketing purposes.

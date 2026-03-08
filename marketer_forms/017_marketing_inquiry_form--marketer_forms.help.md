@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect marketing inquiries from customers or prospects who want to inquire about our marketing services. It is meant to be filled out by those who need marketing assistance, advice, or information. Please note that the form is not designed for general marketing purposes or sales pitches.
 
 To use this form, simply fill in the required and optional fields as instructed. Ensure that all fields are filled according to your inquiry or interest.

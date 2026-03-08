@@ -1,5 +1,3 @@
-<thinking>...We need to create a user-facing help guide for this form that clearly communicates its purpose, instructions, and field explanations. The form, "Product Launch Feedback Questionnaire," is likely used to gather information from users about their experience with a product launch. To confirm, we should check with the product manager or product team to see if there's any internal context or specific requirements we need to follow...</thinking>
-
 # Product Launch Feedback Questionnaire - Help Guide
 ## Purpose
 The Product Launch Feedback Questionnaire is designed to collect valuable insights and feedback from users about their experience with the product launch. This information helps us understand how users perceive the product, identify areas of improvement, and make data-driven decisions for future developments.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form was generated using AI to create a comprehensive Physical Therapy Evaluation Form. The purpose of this form is to gather information about a patient's medical history, current status, and various bodily systems. The form can be completed by a healthcare professional or a patient, and it is intended to help with the assessment and diagnosis of medical conditions. This form is not affiliated with any form platform and is an original adaptation. It does not copy or use proprietary content from other platforms.
-
-</thinking>
-
 # Physical Therapy Evaluation Form - Help Guide
 ## Purpose
 The Physical Therapy Evaluation Form is designed to collect detailed information about a patient's medical history, current status, and various bodily systems. This form is intended for healthcare professionals to use for assessment and diagnosis.

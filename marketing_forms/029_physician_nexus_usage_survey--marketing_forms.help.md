@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from physicians about their usage of our services. It appears that the form is intended for a specific demographic, likely current or past patients, and aims to gather data on their interactions with our organization. The form has multiple pages, each with various fields to capture different types of information. This guide will walk the user through the process of completing the form, field by field.
-
-Please note that some fields may be optional, and the user is not required to provide information for every field.
-
-</thinking>
-
 # Physician nexus usage survey - Help Guide
 ## Purpose
 

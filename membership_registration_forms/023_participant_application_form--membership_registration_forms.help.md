@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for participants to apply for membership in an organization or community. The form is meant to collect information from potential members, including contact details, registration information, event details, participant details, emergency contact information, medical information, and payment information. To prevent duplications, this form will only be used for original applications and not for re-submissions or updates.
-
-The form has 8 fields that need to be filled out, and most of them are optional.
-
-</thinking>
-
 # Participant Application Form - Help Guide
 ## Purpose
 The Participant Application Form is a comprehensive form designed to collect information from potential members of an organization or community. The form is meant to be used for original applications and not for re-submissions or updates.

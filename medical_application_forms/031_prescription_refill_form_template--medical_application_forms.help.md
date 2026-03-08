@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for patients to request a refill on a prescription. To ensure accuracy and efficiency in the refill process, please ensure that all relevant information is provided. To avoid duplication, please do not submit this form if you have already submitted a refill request for the same medication recently.
-</thinking>
-
 # Prescription Refill Form Template - Help Guide
 ## Purpose
 This form is designed to facilitate the refill process for your prescriptions. Please fill out the form accurately and thoroughly to ensure a smooth and efficient process.

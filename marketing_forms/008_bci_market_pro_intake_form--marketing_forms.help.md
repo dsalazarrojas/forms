@@ -1,9 +1,3 @@
-<thinking>
-This form is for BCI Market Pro, a marketing consulting and services company. The form aims to gather essential information about the company, contact, and marketing goals to better understand their marketing needs and provide tailored services. It's essential to fill out this form accurately to ensure that the BCI team can effectively serve the customer.
-
-This form is a one-time form, so there's no need to fill it out multiple times. If you're unsure about any of the questions, please ask your point of contact for clarification.
-</thinking>
-
 # BCI Market Pro Intake Form - Help Guide
 ## Purpose
 The BCI Market Pro Intake Form is a crucial tool used to gather information about your company and marketing goals. This form helps our team understand your business needs and provide you with the best possible marketing services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Marketing Outreach Survey - Help Guide
 ## Purpose
 This form is designed to collect information from the veterinary industry about their marketing preferences and outreach channels. It will help us understand how to best reach and communicate with the industry members.

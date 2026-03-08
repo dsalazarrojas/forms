@@ -1,13 +1,3 @@
-<thinking>
-A patient progress report form is a medical document used to track and monitor a patient's condition over time. This form collects various information about the patient's medical chart, medication, diagnosis, medical notes, and other relevant details. It is used by healthcare professionals to assess the patient's progress and make informed decisions about their treatment. The form typically includes fields such as patient name, medical chart, diagnosis, medication, medical notes, and other relevant details. The information collected in this form can be used to identify trends and patterns in the patient's condition, and to adjust treatment plans accordingly.
-
-When filling out this form, healthcare professionals should ensure that all required fields are completed accurately and thoroughly. The form is not intended to be a substitute for a full medical evaluation, but rather a tool to help track and monitor patient progress.
-
-Before filling out this form, healthcare professionals should have a clear understanding of the patient's medical history and current condition. They should also be aware of the specific requirements and guidelines governing the use of this form in their institution or facility.
-
-When in doubt about any field or requirement, healthcare professionals should consult with their supervisor or a designated medical expert.
-</thinking>
-
 # patient_progress_report - Help Guide
 ## Purpose
 The patient progress report form is used to track and monitor a patient's medical condition over time.

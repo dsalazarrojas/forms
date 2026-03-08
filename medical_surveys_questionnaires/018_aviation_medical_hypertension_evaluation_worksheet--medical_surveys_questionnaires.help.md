@@ -1,7 +1,3 @@
-<thinking>
-This form is likely created for medical professionals to evaluate and manage hypertension cases. The form collects personal and medical information about patients, including their birth date, medical history, medications, and diagnostic studies. The purpose of this form is to gather data for the assessment of hypertension and determine the FAA disposition recommendation for aviation medical certification. This form may be used by pilots, flight attendants, or others seeking medical evaluation for flight certification.
-</thinking>
-
 # Aviation Medical Hypertension Evaluation Worksheet - Help Guide
 ## Purpose
 The Aviation Medical Hypertension Evaluation Worksheet is designed to collect patient information and data for the evaluation and management of hypertension. This form helps healthcare professionals assess the patient's medical history, current medications, and diagnostic studies to make an informed decision for FAA certification.

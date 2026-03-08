@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form is correctly configured and the purpose is clear to end-users. This form seems to be a membership registration form for travel agents association. It appears to have a mix of basic contact information (first name, last name, contact number, email, address), professional details (professional years, professional title), and association membership information (agency name, membership type, membership status, etc.). The form is divided into two pages, which suggests that the user will need to navigate between them to complete the form. We also need to double-check that each field is correctly labeled and that users understand what is expected from them. I will assume this form is used for travel agents association registration and focus on making it user-friendly.</thinking>
-
 # Travel Agents Association Membership Form - Help Guide
 ## Purpose
 This form is for travel agents association membership registration. It is used to collect contact and professional details of the travel agent, as well as membership status and other association details.

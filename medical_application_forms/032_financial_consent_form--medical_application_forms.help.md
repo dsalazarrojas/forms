@@ -1,9 +1,3 @@
-<thinking>
-This form is used for obtaining financial consent from patients for medical services. It is a critical component in the billing and payment process of medical practices. This form is not intended for duplicate entries, please ensure that the form is completed correctly before submission to avoid errors.
-The form will guide the user in collecting necessary information about the patient and practitioner, including the fee amount, payment terms, and signatures.
-
-</thinking>
-
 # Financial Consent Form - Help Guide
 ## Purpose
 The Financial Consent Form is a document used to obtain financial consent from patients for medical services. It serves as a critical component in the billing and payment process of medical practices.

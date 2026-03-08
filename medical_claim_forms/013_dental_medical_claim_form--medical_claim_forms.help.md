@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for medical claims related to dental care. It is used to collect details about the patient's information, medical history, dental clinic information, treatment details, billing information, insurance information, doctor's information, and signatures. This form aims to provide a structured and organized way to collect all necessary details for processing medical claims. 
-</thinking>
-
 # Dental Medical Claim Form - Help Guide
 ## Purpose
 This form is used to gather information for medical claims related to dental care. It is designed to collect all necessary details for processing claims efficiently.

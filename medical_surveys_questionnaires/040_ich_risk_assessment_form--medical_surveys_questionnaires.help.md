@@ -1,11 +1,3 @@
-<thinking>
-This form is used to assess the risk associated with a patient's condition, likely for the purpose of identifying potential health risks and determining the appropriate level of care. To ensure that this form is being used correctly, please review the following instructions and help guide.
-
-The form appears to be designed to gather various types of information from the patient, including medical history, Ictus characteristics, neuroimaging findings, laboratory findings, clinical evaluation, Ictus outcomes, follow-up information, and patient status. The form also includes a risk score and risk category field, which suggests that it may be used to evaluate and categorize the patient's risk level. 
-
-Please review the provided YAML schema to confirm the form's purpose and intended use in your specific context.
-</thinking>
-
 # ICH Risk Assessment Form - Help Guide
 ## Purpose
 The ICH Risk Assessment Form is designed to help healthcare professionals assess the risk associated with a patient's condition. This form collects various types of information about the patient's medical history, symptoms, and outcomes to evaluate and categorize their risk level.

@@ -1,9 +1,3 @@
-<thinking>
-
-**Before we proceed, let's ensure this form meets your requirements**. As per your instructions, I'll create a user-facing help guide for the "Brand Loyalty Campaign Effectiveness Evaluation Form" under the category "marketing_surveys". The form is used to collect feedback on the effectiveness of brand loyalty campaigns, allowing you to understand customer perceptions and experiences with your campaign efforts. To avoid duplication, let's assume you have existing customers who participated in the campaign and you're now gathering feedback to refine future campaigns.
-
-</thinking>
-
 # Brand Loyalty Campaign Effectiveness Evaluation Form - Help Guide
 ## Purpose
 

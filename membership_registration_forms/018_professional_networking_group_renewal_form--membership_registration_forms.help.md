@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Professional Networking Group Renewal Form - Help Guide
 
 ## Purpose

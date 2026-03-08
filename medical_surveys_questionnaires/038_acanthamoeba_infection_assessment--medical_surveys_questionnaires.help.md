@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about Acanthamoeba keratitis, a rare but serious eye infection that can be caused by contaminated contact lenses. The form is intended to help healthcare professionals assess the severity of the condition and provide appropriate treatment. The form is divided into several sections, including contact lens history and current symptoms. 
-
-The form will help determine if the patient has worn contact lenses, how they clean their lenses, if they have exposed their lenses to water, and if they have any symptoms such as eye pain, redness, and blurred vision. The form will also ask about prior treatment and medical history. 
-
-This form should be completed by a patient who has been referred to the clinic for evaluation of possible Acanthamoeba keratitis. The form is meant to be a comprehensive assessment of the patient's condition and should not be used to diagnose the condition without a medical professional's review. 
-
-The form will be reviewed by a healthcare professional to determine the best course of action for treatment. 
-
-Please make sure to answer all questions accurately and thoroughly to ensure a proper evaluation. 
-</thinking>
-
 # Acanthamoeba Infection Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about Acanthamoeba keratitis, a rare but serious eye infection. The form is intended to help healthcare professionals assess the severity of the condition and provide appropriate treatment.

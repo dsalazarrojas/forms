@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a patient's nutrition and general health status. This form is designed to collect data on the patient's onboarding process, health history, eating habits, health risks, medical conditions, care plans, medical tests, medications, and allergies. To ensure accuracy and relevance, please note that this form is not intended for use in emergency situations or for patients with severe or life-threatening conditions. It is recommended that patients complete this form with the assistance of a healthcare professional, if possible.
-</thinking>
-
 # Nutrition And General Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's nutrition and general health status.

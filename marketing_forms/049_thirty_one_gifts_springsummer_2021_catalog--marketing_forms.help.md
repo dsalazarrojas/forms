@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for customers to request access to our Spring Summer 2021 catalog. We use this form to collect contact information and other relevant details from customers who are interested in receiving the catalog. This form is not intended for sales or transactions, but rather for informational and promotional purposes. The fields within this form are designed to be completed in a way that allows us to easily identify the customer and their preferences. Please ensure that the information provided is accurate and up-to-date, as we use it to tailor our marketing efforts to meet your specific needs.</thinking>
-
 # thirty_one_gifts_springsummer_2021_catalog - Help Guide
 ## Purpose
 The Spring Summer 2021 catalog request form is designed to allow customers to request access to our Spring Summer 2021 catalog. This form is intended for informational and promotional purposes, and all fields are optional.

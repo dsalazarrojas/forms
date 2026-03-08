@@ -1,5 +1,3 @@
-<thinking>... This form is used to gather information from users about their economic indicators, such as current sentiment, future outlook, and marketing efforts. This form is likely used by marketing teams to understand user behavior and preferences for better marketing strategies. To avoid duplication, users should only fill out this form once per month. Please ensure you have not recently completed this form before proceeding. ...</thinking>
-
 # Economic Indicators Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your economic indicators, allowing us to better understand your current and future market conditions.

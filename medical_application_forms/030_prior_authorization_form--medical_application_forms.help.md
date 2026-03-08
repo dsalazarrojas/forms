@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, this form is only to be used for new requests. Any existing authorization requests should be processed through the regular channel. Please make sure that the patient's information is accurate and up-to-date. The form should be completed by the patient or their authorized representative.
-</thinking>
-
 # Prior Authorization Form - Help Guide
 ## Purpose
 The Prior Authorization Form is used to request prior authorization for medical treatment or services not covered by your insurance provider. This form requires accurate and up-to-date information about the patient.

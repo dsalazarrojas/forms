@@ -1,11 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for an Interactive Media Engagement Survey that is part of the "marketing_surveys" category. This guide aims to help end-users understand the purpose and completion process of the form, which is a series of questions related to their engagement with various types of media, such as video, podcast, blog, social media, email newsletters, and more. The guide will also explain each field in detail to ensure users can fill out the form correctly and provide valuable feedback. 
-
-The main goal of the survey is to gather information about the types of media that users interact with most frequently, how often they engage with these media, how much time they spend on them, and their opinions about the quality and relevance of the content. This feedback will help the organization better understand their audience's preferences and improve their media content strategy.
-
-Before starting the survey, please ensure that you have not previously submitted this form. If you have any questions or need assistance, please contact your supervisor or support team.
-</thinking>
-
 # Interactive Media Engagement Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your media engagement habits and preferences to help us better understand our audience's interests and preferences.

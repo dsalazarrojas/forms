@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information on consumer spending habits and preferences. The form collects data on demographics, purchasing frequency, average spend per purchase, preferred purchase channels, brand loyalty, factors that influence purchase decisions, and open-ended feedback. The purpose of this form is to gather insights that can be used to inform business decisions related to marketing strategies and product development.
-
-Before we dive into the explanation of each field, let's ensure that the form is clear and concise in its purpose and content. This form is meant to be used by consumers to share their personal experiences and preferences related to their purchasing habits. It's essential to complete the form carefully and truthfully to provide valuable insights.
-
-This form has a total of 11 fields, each designed to gather specific information. Please take a moment to review each field carefully before proceeding.
-
-</thinking>
-
 # Consumer Spending Survey - Help Guide
 ## Purpose
 The Consumer Spending Survey is designed to gather insights on consumer spending habits and preferences. This survey aims to understand how often consumers purchase products or services, their average spend per purchase, and their preferred purchase channels. The survey will also help us understand factors that influence purchase decisions and gather feedback on our current offerings.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to approve or disapprove a customer engagement strategy. The form is designed to collect information from the customer, such as their name, email, and department, as well as the date and time of approval. The form also allows the approver to select from a list of options to approve or disapprove the strategy, and to add any comments or notes about the decision. This form should only be filled out by authorized personnel, and any duplicates or submissions without proper approval should be rejected. It's best to fill out the form for each customer engagement strategy separately, rather than submitting multiple strategies at once.
-</thinking>
-
 # Customer Engagement Strategy Approval Form - Help Guide
 ## Purpose
 This form is used to approve or disapprove customer engagement strategies. It collects information about the customer and the engagement strategy, and allows the approver to make a decision and add comments or notes.

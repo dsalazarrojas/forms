@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Teacher Student Meeting Sign Up Form - Help Guide
 
 ## Purpose

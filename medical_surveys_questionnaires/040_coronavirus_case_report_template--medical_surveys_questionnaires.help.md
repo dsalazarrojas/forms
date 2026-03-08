@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about reported cases of the coronavirus in various locations. This template is designed to guide users through the reporting process, ensuring accuracy and completeness of data collection. 
-
-To the best of my knowledge, there is no internal duplicate or conflicting data collection process, and this template should be used in isolation or as part of a larger process. 
-</thinking>
-
 # Coronavirus Case Report Template - Help Guide
 ## Purpose
 This form is used to report cases of the coronavirus, gathering essential information to aid in tracking and managing the spread of the virus.

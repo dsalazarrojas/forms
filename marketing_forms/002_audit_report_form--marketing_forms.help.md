@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for the audit report, which is a document that provides an objective and unbiased assessment of a business's performance and market position. This form helps the auditor gather relevant information from the business being audited, including details about its market, customers, competitors, and financials. The form is used to identify areas of strength and weakness, as well as potential growth opportunities and challenges.
-The form is designed to be filled out by the business being audited, and it's essential to ensure that all required fields are completed accurately and thoroughly. This guide will walk you through the form's purpose, how to complete it, and what each field means to ensure a smooth and successful audit process.
-
-</thinking>
-
 # Audit Report Form - Help Guide
 ## Purpose
 This form is designed to collect data for the audit report, which is a document that provides an objective and unbiased assessment of a business's performance and market position.

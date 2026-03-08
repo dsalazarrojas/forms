@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to support startups seeking guidance on mental health and wellness initiatives for their business growth. We aim to provide tailored advice and resources to help them overcome challenges and make informed decisions. Before proceeding, please ensure that you are a genuine startup representative and have not submitted this form previously. Your responses will be reviewed to prevent duplication and ensure accuracy.
-
-</thinking>
-
 # mental_health_startup_accelerator_application_form - Help Guide
 ## Purpose
 The mental health startup accelerator application form is designed to help startups seeking guidance on mental health and wellness initiatives for their business growth. By completing this form, you will provide the required information to our team, who will review your submission and offer tailored advice and resources to support your startup's growth.

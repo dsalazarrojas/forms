@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather membership information from individuals who wish to join the Wellness Community, a platform focused on promoting physical and mental well-being. This form collects contact information, membership details, and payment methods to facilitate the registration process.
-To ensure that each member's information is accurately captured, please follow the steps outlined below. Ensure that the required fields are completed as they are marked as mandatory.
-</thinking>
-
 # Wellness Community Membership Registration Form - Help Guide
 ## Purpose
 The Wellness Community Membership Registration Form is designed to gather essential information from prospective members who wish to join our community. This form ensures that we have accurate and up-to-date details about you, allowing us to provide the best possible experience and services.

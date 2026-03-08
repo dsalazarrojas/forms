@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the relevance of advertisements they have seen. The purpose of this form is to help us better understand how our ad campaigns are performing and identify areas for improvement. This form will not collect any personally identifiable information. All fields are optional, except where noted. We may not be able to process duplicate submissions. Please provide as much detail as possible to help us improve our ad experience for you.
-</thinking>
-
 # Ad Relevance Feedback Form - Help Guide
 ## Purpose
 

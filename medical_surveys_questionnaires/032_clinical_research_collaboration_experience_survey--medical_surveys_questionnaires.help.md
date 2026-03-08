@@ -1,5 +1,3 @@
-<thinking>... This form is intended to gather feedback from clinical research collaborators, capturing their experiences and perceptions of a specific collaboration. This form aims to assess the quality of the collaboration, covering aspects such as communication, goal alignment, data sharing, and overall satisfaction... </thinking>
-
 # Clinical Research Collaboration Experience Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback from clinical research collaborators on their experiences with a specific collaboration. It assesses various aspects of the collaboration, such as communication, goal alignment, data sharing, and overall satisfaction, to help improve future collaborations.

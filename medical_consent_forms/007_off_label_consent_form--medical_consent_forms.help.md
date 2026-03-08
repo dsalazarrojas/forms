@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from patients regarding off-label use of medication. Off-label use refers to using a medication for a purpose or in a manner that is not specifically approved by the manufacturer or regulatory agencies. This form is intended to help healthcare professionals gather informed consent from patients for such use. 
-
-This form should not be used for patients who have already provided informed consent for off-label medication use previously. Please ensure that the patient's current information is not duplicated in their existing medical records.
-
-Please fill out the form completely and accurately to ensure that the patient's off-label medication use is documented correctly.
-</thinking>
-
 # off_label_consent_form - Help Guide
 ## Purpose
 The off-label_consent_form is a document used to gather information from patients regarding off-label use of medication. It is essential to ensure that the patient has been informed and consented to the use of medication for a purpose not specifically approved by the manufacturer or regulatory agencies.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect comprehensive information about a patient's health history and medical conditions. The purpose of this form is to provide a thorough understanding of a patient's medical condition, allergies, and previous medical procedures. It aims to gather accurate information to ensure that medical staff have the necessary details to provide optimal care and treatment for the patient. Please note that some fields are not marked as required, indicating that while they may be useful for further medical analysis, they are not strictly necessary for immediate treatment. To complete this form, follow the instructions below.
-</thinking>
-
 # Patient Extensive Intake Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about a patient's health history and medical conditions.

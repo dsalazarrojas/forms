@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect basic information from clients for a quick estimate of a housekeeping project. This form likely serves as an entry point for a larger project management system or a pre-requisites for further detailed consultations and proposals.
- 
-Considering the fields provided, it seems that the form will be used for residential cleaning or housekeeping services. The fields suggest that the form will collect general information about the client, the scope of the work, and the project's details.
- 
-Please ensure this form is not a duplicate and that the information is relevant to the project's scope and purpose. If unsure, review the project requirements and consult with the project manager or team lead.
- 
-</thinking>
-
 # Housekeeping Quick Estimate Template - Help Guide
 
 ## Purpose

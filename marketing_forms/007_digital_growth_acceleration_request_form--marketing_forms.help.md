@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Growth Acceleration Request Form - Help Guide
 ## Purpose
 The Digital Growth Acceleration Request Form is used to collect information from customers who are interested in accelerating their digital growth. This form helps our team understand the customer's needs and provide them with relevant solutions and resources to achieve their goals.

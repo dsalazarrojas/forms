@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect and store metadata details for SEO optimization of website content. The purpose of this form is to provide users with a structured way to input and manage SEO meta data, such as title, description, keywords, and images, for various social media platforms.
-The form will guide users through a series of fields to input specific details for each platform, helping to streamline the SEO process and reduce duplication of efforts.
-</thinking>
-
 # seo_content_details_form - Help Guide
 ## Purpose
 This form is used to collect and store metadata details for SEO optimization of website content.

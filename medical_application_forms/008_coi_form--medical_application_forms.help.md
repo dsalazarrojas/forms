@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form purpose and potential duplicates. This COI Form is a Conflict of Interest Disclosure Form, designed to collect relevant information about an individual's financial interests, employment, and other activities that may pose a conflict of interest. The form is meant to ensure that individuals disclose their interests accurately and completely, and it's a crucial process for maintaining transparency and integrity in various industries. As this form is AI-generated, it's essential to confirm that it's an original adaptation and not a copy or derivative of any other form. This guide will walk you through each section and field, helping you complete the form correctly and accurately.</thinking>
-
 # COI Form - Help Guide
 ## Purpose
 The COI Form is a Conflict of Interest Disclosure Form designed to collect information about an individual's financial interests, employment, and other activities that may pose a conflict of interest. This form ensures accurate and complete disclosure to maintain transparency and integrity in various industries.

@@ -1,10 +1,3 @@
-<thinking>
-The "Call To Action Review Form" is designed to gather feedback from customers or users who have interacted with a call to action on our website. This form is meant to help our team understand how effective our calls to action are at encouraging users to take a specific action, and identify areas for improvement. By completing this form, you'll be helping us refine our marketing strategies and make our website more user-friendly.
-
-**Internal Reasoning:**
-Before proceeding, please check that you have not already submitted feedback on this specific call to action. Your input is invaluable, but duplicate feedback can be misleading when analyzed. Ensure that you have not previously filled out this form for the same call to action, and if you have, please do not fill it out again. Your unique perspective is essential to our improvement process, so we appreciate your contribution and want to make sure it's as accurate as possible.
-</thinking>
-
 # Call To Action Review Form - Help Guide
 ## Purpose
 The "Call To Action Review Form" is a crucial tool for our team to evaluate and improve the effectiveness of our calls to action on our website. Your feedback will help us better understand what works and what doesn't, allowing us to make data-driven decisions to enhance user experience and conversion rates.

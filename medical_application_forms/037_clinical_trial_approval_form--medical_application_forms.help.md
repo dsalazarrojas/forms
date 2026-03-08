@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the approval process for clinical trials within an institutional setting, ensuring that all necessary information and documentation are properly gathered and reviewed before proceeding with the trial. This form should only be used for clinical trials that have not already been approved, to prevent duplication of effort and ensure accurate and efficient processing. The form should not be used for trials that have already been approved or are currently in progress.
-</thinking>
-
 # Clinical Trial Approval Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for clinical trials, providing a structured and organized approach to ensure that all required details are collected and reviewed. It helps to streamline the approval process, reducing errors and ensuring that necessary documentation is in place before proceeding with the trial.

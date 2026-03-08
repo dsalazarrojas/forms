@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess the mental health of patients. This guide will cover how to complete the form, explaining each field's purpose and required/optional status. Please note that this form may be used in conjunction with other assessments or evaluations to gather comprehensive mental health information. If you have already completed a similar form, please review the content carefully to avoid duplication.
-
-</thinking>
-
 # Mental Health Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's mental health, including their mental state, anxiety and depression levels, substance use, suicidal tendencies, medical conditions, and mental health provider information. The collected data will be used to provide personalized mental health evaluations and recommendations.

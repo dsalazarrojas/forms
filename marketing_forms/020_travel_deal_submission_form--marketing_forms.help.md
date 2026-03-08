@@ -1,10 +1,3 @@
-<thinking>
-This guide will walk you through the purpose and completion of the Travel Deal Submission Form. The form is used for travel agencies to submit information about travel deals they want to offer to customers. To ensure the form is filled out correctly, please follow these steps:
-
-  1.  Make sure you're submitting a travel deal that's relevant to our marketing efforts. We're looking for high-quality travel experiences that will interest our customers.
-  2.  Be sure to check that you're not duplicating a travel deal that's already been submitted. This ensures we don't end up with duplicate content and waste resources.
-</thinking>
-
 # Travel Deal Submission Form - Help Guide
 ## Purpose
 The Travel Deal Submission Form is used by travel agencies to submit information about travel experiences they want to offer to customers.

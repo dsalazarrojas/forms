@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information for medical assessments. It appears to be a comprehensive form for patient intake, covering various aspects of patient health and contact information. The form includes fields for demographics, medical history, contact details, and medical specialties. To avoid duplication, please ensure you only fill out this form once. If you have already filled out this form, please do not repeat the process.
-</thinking>
-
 # Patient Intake Assessment - Help Guide
 ## Purpose
 This form is used to collect patient information for medical assessments.

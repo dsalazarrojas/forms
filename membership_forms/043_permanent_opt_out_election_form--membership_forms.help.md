@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to allow users to permanently opt out of certain services, communications, and subscriptions provided by the organization. This form is typically used by users who no longer wish to receive certain services, communications, or subscriptions and do not want to be reinstated in the future. It is essential to carefully review and understand the implications of opting out before submitting the form.
-
-Before proceeding, please ensure that you are not duplicating an existing opt-out request, as this can lead to errors or unnecessary processing. If you are unsure, please contact the relevant team or department for clarification.
-
-Please note that this form is a formal and permanent opt-out request, meaning once submitted, you will not receive the selected services, communications, or subscriptions.
-</thinking>
-
 # Permanent Opt Out Election Form - Help Guide
 ## Purpose
 The purpose of this form is to allow users to permanently opt out of certain services, communications, and subscriptions provided by the organization.

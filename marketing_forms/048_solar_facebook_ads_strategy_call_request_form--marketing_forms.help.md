@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users for a solar Facebook ads strategy call request. It seems to be a form meant for sales or business development activities. To ensure you're using this form correctly, please check that the form is relevant to your needs and that you haven't already submitted a request with the same information.
-
-</thinking>
-
 # Solar Facebook Ads Strategy Call Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a solar Facebook ads strategy call request. It's meant for sales or business development activities.

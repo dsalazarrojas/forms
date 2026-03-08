@@ -1,9 +1,3 @@
-<thinking>As a medical professional, the purpose of this form is to record the Mini-Mental State Examination (MMSE) score, which is a widely used test to assess cognitive function in patients. The form is designed to collect specific information regarding the patient's goals, attention, orientation, time, date, time of day, language, calculation, and certain scores. Each field is essential for evaluating the patient's mental state.
-
-The form aims to provide a comprehensive evaluation of the patient's mental state, covering various aspects such as attention, orientation, and language. The form will help clinicians to quickly and efficiently assess patients' mental state.
-
-To fill out this form correctly, it's essential to provide accurate and honest information about the patient. Each field should be filled out based on the patient's actual condition. If you're unsure about any field, please consult with your supervisor or the patient's records for guidance.</thinking>
-
 # Mini-Mental State Examination (MMSE) Score Recording - Help Guide
 ## Purpose
 The Mini-Mental State Examination (MMSE) Score Recording form is used to evaluate a patient's mental state by assessing various cognitive functions. The form is essential for clinicians to quickly and efficiently assess patients' mental state.

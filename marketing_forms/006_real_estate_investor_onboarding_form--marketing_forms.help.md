@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from real estate investors for onboarding purposes. The form is part of the "marketing_forms" category and is meant to collect details about the investor's company and investment preferences. This form should only be filled out by legitimate real estate investors and not by duplicate or unrelated submissions. Please ensure you are filling out this form with accurate and relevant information to avoid duplication of efforts and maintain data quality.
-</thinking>
-
 # real_estate_investor_onboarding_form - Help Guide
 ## Purpose
 This form is used to collect information from real estate investors for onboarding purposes.

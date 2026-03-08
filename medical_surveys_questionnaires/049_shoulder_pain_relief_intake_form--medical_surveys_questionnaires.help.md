@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shoulder Pain Relief Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients about their shoulder pain, medical history, and current treatment plan. This data will be used to create a personalized treatment plan to help alleviate their shoulder pain.

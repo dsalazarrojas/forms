@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to guide users in understanding and treating pituitary adenoma, a type of tumor that affects the pituitary gland. This form ensures that users have a comprehensive understanding of the disease, its symptoms, treatment options, and follow-up care. It's crucial to fill out this form accurately to ensure that users are well-equipped to make informed decisions regarding their treatment.
-
-</thinking>
-
 # pituitary_adenoma_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to help users understand and treat pituitary adenoma, a type of tumor that affects the pituitary gland.

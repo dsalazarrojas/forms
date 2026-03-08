@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture personal and vehicle-related information from potential members of the Automobile Enthusiasts club. The form will collect details such as name, contact information, address, and vehicle preferences, as well as membership preferences like membership level and duration. The purpose of this form is to help the club understand its members' interests and demographics, and to facilitate communication and interaction within the club community. 
-
-The form will guide the user through various sections, including Personal Information, Address Information, Membership Preferences, Interests and Preferences, Your Vehicles, and Activities and Participation. Each section is designed to capture specific details that will help the club tailor its events and activities to the members' needs and interests. 
-
-This form will not collect any sensitive or unnecessary information, and all required fields are marked as such. The user can select all that apply from the multiple-choice options, which will allow them to express their full range of interests. 
-
-The club will use this information to better serve its members and to provide them with a personalized experience. Please ensure that all fields are filled correctly and completely, as this information will be used to create a member profile and to send relevant information and invitations. 
-</thinking>
-
 # Automobile Enthusiasts Membership Form - Help Guide
 ## Purpose
 The Automobile Enthusiasts membership form is designed to collect information from potential members to better understand their interests and demographics. This information will be used to tailor events and activities to the club's members' needs and interests.

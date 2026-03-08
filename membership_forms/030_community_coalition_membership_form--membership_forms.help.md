@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication, this form is intended for new membership applications from organizations or individuals interested in joining the coalition. This form is the primary entry point for expressing interest and providing necessary information for the membership process. 
-Before filling out this form, ensure you are not already a member of the coalition. If you are unsure, please contact the coalition representative for verification. 
-
-Please note that this form collects sensitive information and will be reviewed by coalition administrators for membership evaluation. 
-</thinking>
-
 # Coalition Membership Form - Help Guide
 ## Purpose
 The Coalition Membership Form is designed for new membership applications from organizations or individuals interested in joining the coalition. The purpose of this form is to gather necessary information for the membership process, including contact details, membership type, and areas of interest. 

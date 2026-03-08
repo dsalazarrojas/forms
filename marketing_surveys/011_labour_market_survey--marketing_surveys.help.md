@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather information about a respondent's experience and perception of their current or expected job situation. It is used to collect data for marketing purposes, specifically to understand the labour market and job satisfaction among various aspects of one's work. 
-
-This form is likely to be used in a context where the respondents are employees or job seekers, and the goal is to gather data on their demographics, employment status, occupation, industry satisfaction, and job satisfaction with different aspects of their job.
-
-The questions asked in this form cover a range of topics including demographic information, employment status, occupation, job search methods, job satisfaction with various aspects of work, and industry satisfaction. The form likely aims to understand the differences in job satisfaction and industry satisfaction based on demographic and employment status information.
-
-Before proceeding with this form, ensure that the questions and answers are accurate and relevant to your situation. If you are unsure about any question, please feel free to ask for clarification.
-
-</thinking>
-
 # labour_market_survey - Help Guide
 ## Purpose
 The labour_market_survey form is used to collect information about a respondent's experience and perception of their current or expected job situation. It is used to understand the labour market and job satisfaction among various aspects of one's work.

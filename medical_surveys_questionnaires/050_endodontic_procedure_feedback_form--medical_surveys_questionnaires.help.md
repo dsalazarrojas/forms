@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from patients about their experience with the endodontic procedure. This form is used to gather information about the patient's satisfaction with the procedure, any medical conditions they may have, and any additional comments or concerns they may have. Before completing this form, please ensure that you have filled out the entire form and that your responses are as accurate and detailed as possible. This will help us better understand your experience and provide you with the best possible care in the future.
-</thinking>
-
 # Endodontic Procedure Feedback Form - Help Guide
 
 ## Purpose

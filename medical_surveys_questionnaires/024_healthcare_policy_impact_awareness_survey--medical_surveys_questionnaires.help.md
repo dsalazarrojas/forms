@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gauge the level of awareness and impact of healthcare policy changes on individuals. The goal is to collect data on how people perceive and interact with healthcare policy updates. The survey is intended to be completed by individuals from various backgrounds and professions. By providing insights on their awareness, concerns, and interactions with healthcare professionals and community resources, this form will help assess the awareness and impact of healthcare policy changes. 
-
-Please fill out this form carefully and honestly, and you may be asked to provide more details about your answers in some questions.
-
-This form is not affiliated with any survey platform and is an original creation based on publicly available information.
-</thinking>
-
 # Healthcare Policy Impact Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gauge the level of awareness and impact of healthcare policy changes on individuals.

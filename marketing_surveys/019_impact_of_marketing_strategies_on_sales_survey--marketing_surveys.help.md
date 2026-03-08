@@ -1,17 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Impact Of Marketing Strategies On Sales Survey", I would consider the following steps:
-
-1.  Define the purpose of the form: This form is designed to gather information about the impact of marketing strategies on sales performance. It is likely used by sales or marketing teams to assess the effectiveness of their marketing efforts and identify areas for improvement.
-2.  Identify the target audience: The target audience is likely sales or marketing professionals who are familiar with marketing strategies and sales performance metrics.
-3.  Determine the key fields and their purpose: The form contains a mix of text, number, email, select_one, and select_multiple fields, which suggest that it is used to gather both quantitative and qualitative data.
-4.  Consider the required fields: Only a few fields are marked as required, which suggests that the form is optional or exploratory in nature.
-5.  Review the available options for each field: The options for each field are likely pre-defined and tailored to the specific marketing strategies and sales performance metrics used by the organization.
-
-Given these considerations, the form is likely used to gather feedback on marketing strategies and sales performance from users, and to identify areas for improvement.
-
-</thinking>
-
 # Impact Of Marketing Strategies On Sales Survey - Help Guide
 ## Purpose
 

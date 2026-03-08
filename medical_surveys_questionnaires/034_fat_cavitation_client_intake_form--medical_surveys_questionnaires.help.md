@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect client intake information for fat cavitation procedures. It is crucial to ensure that the client information is accurate and complete to facilitate proper treatment and ensure client satisfaction. Before proceeding, please review the form carefully and ensure that you have provided all necessary information. This form is designed to be completed by a single client or multiple clients with their consent. Each field is mandatory to ensure that the necessary information is collected.
-</thinking>
-
 # Fat Cavitation Client Intake Form - Help Guide
 ## Purpose
 The Fat Cavitation Client Intake Form is a comprehensive form designed to collect client information for fat cavitation procedures. The form is intended to provide a complete and accurate picture of the client's condition, medical history, and contact information to ensure proper treatment and client satisfaction.

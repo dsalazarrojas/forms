@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for individuals to register for a dance class, course, or other events related to dance instruction or performance. It is meant to collect information about the registrant's personal details, dance experience, and preferences. The form is likely used by the dance studio or organization hosting the event. 
-
-Please check that this form does not duplicate existing registration processes and that the information collected is necessary and relevant for the intended purpose. 
-
-This form is intended for use with a variety of populations, including dance enthusiasts, students, and instructors.
-
-</thinking>
-
 # 2020 2021 Registration Form - Help Guide
 ## Purpose
 The 2020 2021 Registration Form is designed for individuals to register for dance classes, courses, or other events. This form collects information about the registrant's personal details, dance experience, and preferences.

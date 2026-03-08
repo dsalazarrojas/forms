@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a Brand Personality Quiz designed to help individuals understand their brand personality and preferences. The quiz asks a series of questions that assess various aspects of a person's personality, including their color palette, weekend activities, car style, social media usage, fashion sense, ideal vacation spot, communication style, decision-making approach, party role, life motto, favorite season, and superpower choice. 
-
-The purpose of this quiz is to generate results that will provide insight into an individual's unique brand personality. This can be useful for personal or professional development, such as creating marketing materials or improving communication with clients/customers.
-
-Please note that the questions are not designed to diagnose psychological disorders or provide scientific assessments, but rather to create a fun and engaging personality quiz that can help individuals better understand themselves and others.
-
-</thinking>
-
 # Brand Personality Quiz - Help Guide
 
 ## Purpose

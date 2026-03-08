@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the NPS Survey form, designed to gauge customer satisfaction and gather valuable feedback. The purpose of this form is to collect data on customer experience, identify areas of improvement, and inform future product development and service enhancement decisions. This guide is for end-users who are completing the form, and it's essential to note that this form is optional and not required for participation in the survey.
-</thinking>
-
 # NPS Survey - Help Guide
 ## Purpose
 The NPS Survey is designed to gauge customer satisfaction and gather feedback on your experience with our products or services. Your responses will help us understand what we're doing well and where we need to improve.

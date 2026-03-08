@@ -1,7 +1,3 @@
-<thinking>
-This is a form for verifying a patient's medical history, which is crucial for healthcare providers to gather accurate and comprehensive information about a patient's health status. By completing this form, patients can provide a detailed overview of their medical history, including any allergies, medical conditions, medications, and previous medical histories. This information will help healthcare providers to make informed decisions about their care and treatment. It is not a substitute for a thorough medical examination by a healthcare professional.
-</thinking>
-
 # Medical History Verification Form - Help Guide
 ## Purpose
 This form is designed to help healthcare providers gather accurate and comprehensive information about a patient's medical history. Please answer all questions carefully and honestly to ensure the best possible care.

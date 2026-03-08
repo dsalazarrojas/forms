@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to calculate the Body Mass Index (BMI) of a patient, providing a quick and easy way to track their weight status. It is intended for use in healthcare settings to assess patient health and potential risks related to weight. This form will guide the user through a series of fields to collect relevant information, including patient demographics, medical history, and lifestyle factors.
-</thinking>
 # BMI Calculator - Help Guide
 
 ## Purpose

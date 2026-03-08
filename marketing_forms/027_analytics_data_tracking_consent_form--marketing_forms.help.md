@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track visitor data for analytics and marketing purposes. It is intended to be filled out by visitors who consent to be tracked. This form should only be filled out by visitors who are aware of our data tracking practices and wish to provide their data. If you're unsure about this form or have any concerns, please contact the relevant department.
-
-</thinking>
 # Analytics Data Tracking Consent Form - Help Guide
 ## Purpose
 This form is used to collect visitor data for analytics and marketing purposes, such as website usage, behavior tracking, and targeted advertising. It is essential to understand that this form is for visitors who have given their explicit consent to be tracked.

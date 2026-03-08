@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended for medical professionals to collect information from patients about their medical conditions, treatment, and other relevant details. The purpose of this form is to ensure that patients provide accurate and comprehensive information about their health status, which can help healthcare providers make informed decisions about their care. 
-
-When using this form, please note that it is a generic template and might not cover all possible scenarios or medical conditions. It is essential to use your professional judgment and expertise to evaluate the information provided by the patient. 
-
-If you are unsure about any field or information, you can always ask the patient to clarify or provide additional details. 
-
-This form is not intended to replace professional medical advice or diagnosis. Healthcare providers should always use their professional judgment when making decisions about patient care.
-
-</thinking>
-
 # Medical Necessity Form - Help Guide
 ## Purpose
 The Medical Necessity Form is designed to collect relevant information from patients about their medical conditions, treatments, and other healthcare-related details.

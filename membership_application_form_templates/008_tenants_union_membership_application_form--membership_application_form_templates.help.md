@@ -1,14 +1,3 @@
-<thinking>
-This form will be used by potential tenants who wish to join the Tenants Union. The goal is to collect their contact information, personal details, and preferences. This will help the union's management team get to know the applicant and make informed decisions about their membership.
-
-To ensure that this form is used correctly, I'll assume that the form's purpose is to gather information from potential members about their interest in joining the Tenants Union. This form should only be completed by people who are genuinely interested in joining the union and want to provide their details for consideration.
-
-By completing this form, applicants will demonstrate their commitment to the union's values and principles. However, it's essential to note that this form should not be used to solicit or collect sensitive or confidential information from applicants.
-
-The form will be reviewed and processed by the union's management team. They will assess each application based on the provided information and may contact the applicant for further discussions or clarification.
-
-</thinking>
-
 # Tenants Union Membership Application Form - Help Guide
 ## Purpose
 This form is designed to help potential members of the Tenants Union to provide their information and apply for membership. It is intended to gather contact and personal details, as well as preferences and consent.

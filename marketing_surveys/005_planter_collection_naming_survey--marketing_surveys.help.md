@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on the planter collection naming process. The form is designed to gather input on the current planters' names, suggestions for new names, preferred communication methods, and any other comments or suggestions that users may have. This information will help the marketing team to better understand the user's preferences and make informed decisions about the planters' naming process.
-This form should only be filled out by users who have a clear opinion on the topic and are willing to provide their contact information. Please do not fill out this form if you are unsure or do not have any feedback to provide.
-</thinking>
-
 # Planter Collection Naming Survey - Help Guide
 ## Purpose
 This form is used to gather feedback on the planter collection naming process. We are looking for users to provide their thoughts on the current names of planters and suggest new names that they like. This feedback will help us to better understand your preferences and make informed decisions about the planters' naming process.

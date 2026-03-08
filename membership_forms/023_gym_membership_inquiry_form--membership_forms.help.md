@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from potential gym members who are interested in joining the gym. The purpose of this form is to gather basic contact information and preferences to better understand their needs and provide them with personalized services. This form should be completed by those who are interested in becoming a gym member. It's best to fill it out only once, so if you're interested in multiple types of membership or services, please provide all relevant information in one single submission.
-</thinking>
-
 # Gym Membership Inquiry Form - Help Guide
 ## Purpose
 The Gym Membership Inquiry Form is a tool used to gather information from potential gym members, allowing us to understand their needs and provide them with personalized services.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Patient Rehabilitation Progress Assessment" is designed to track the progress of patients undergoing physical therapy. This form is used to collect information on various aspects of the patient's rehabilitation, including their name, visit date, therapist's name, assessment type, and other relevant details. The purpose of this form is to provide a comprehensive overview of the patient's recovery status, allowing healthcare professionals to make informed decisions on their treatment plans. This form is likely to be used by physical therapists, occupational therapists, or other healthcare professionals working with patients in a rehabilitation setting.
-</thinking>
-
 # Patient Rehabilitation Progress Assessment - Help Guide
 ## Purpose
 The Patient Rehabilitation Progress Assessment form is a tool used to track the progress of patients undergoing physical therapy. It helps healthcare professionals to monitor the patient's recovery status, identify areas of improvement, and make informed decisions on their treatment plans.

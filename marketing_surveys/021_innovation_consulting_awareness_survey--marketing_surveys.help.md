@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block ...
-
-The purpose of this form is to gather information about the end-user's familiarity with innovation consulting services. The form should only be filled out by individuals who are familiar with this topic or are interested in learning more about innovation consulting. To avoid duplication, the form should not be completed by the same user multiple times.
-
-</thinking>
-
 # Innovation Consulting Awareness Survey - Help Guide
 
 ## Purpose

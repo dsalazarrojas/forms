@@ -1,19 +1,3 @@
-<thinking>
-Form purpose: This form is designed to help users quickly and effectively create an elevator pitch, a short and concise summary of their project or pitch, by providing a structured and guided experience. This will allow end-users to easily fill out the necessary information, resulting in a well-crafted pitch that effectively communicates their value proposition. The form aims to be user-friendly and intuitive, with a focus on simplicity and clarity.
-The form does not aim to replace or duplicate existing forms, nor does it have any affiliation with or endorsement from any form platform. It is a unique, public domain adaptation created using AI-driven tools.
-By completing this form, users will be able to:
-
-* Provide a clear and concise value proposition
-* Identify team members and their roles
-* Determine the pitch length and tone
-* Create a memorable elevator pitch
-* Outline follow-up steps after meeting
-* Record meeting details
-
-The form's design ensures that users can easily navigate through the required and optional fields, allowing them to focus on creating a strong pitch without feeling overwhelmed.
-
-</thinking>
-
 # elevator_pitch_generator_form - Help Guide
 ## Purpose
 This form is designed to help you create a clear and concise elevator pitch for your project or pitch.

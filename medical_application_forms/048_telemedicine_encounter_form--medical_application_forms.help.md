@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information about a patient's telemedicine encounter, including their contact information, medical condition, and treatment plans. This form is likely used by healthcare professionals to document and review patient data in a telemedicine setting. It's essential to ensure that the patient's information is accurate and up-to-date to provide the best possible care. Please note that some fields may be optional or have specific formats, so be sure to check the field labels for further guidance. Before filling out the form, ensure that the required fields are completed, and the optional fields are accurate and relevant to the patient's situation.</thinking>
-
 # Telemedicine Encounter Form - Help Guide
 ## Purpose
 The Telemedicine Encounter Form is designed to collect relevant information about a patient's telemedicine encounter. This includes their contact information, medical condition, and treatment plans to ensure accurate and efficient care.

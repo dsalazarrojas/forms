@@ -1,12 +1,3 @@
-<thinking> 
-This help guide will explain the NPS (Net Promoter Score) survey form's purpose, how to complete it, and each field's meaning in a concrete and concise way. To get the most out of this form, it's essential to understand its purpose and how the information gathered will be used. 
-
-The NPS survey form is designed to measure how likely customers are to recommend your company, products or services, and gather feedback on areas of improvement. It's a customer satisfaction tool that helps you understand your customers' perspectives and opinions. 
-
-Please note that this form does not collect sensitive or personal information, and all answers are anonymous. The information provided will be used to improve your company's products, services, and overall customer experience.
-
-</thinking>
-
 # NPS Survey - Help Guide
 
 ## Purpose

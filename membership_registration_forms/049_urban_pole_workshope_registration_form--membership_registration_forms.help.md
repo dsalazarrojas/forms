@@ -1,6 +1,3 @@
-<thinking> 
-This form seems to be for registering a workshop or class in an urban setting, likely for a group or team activity. It appears to gather information about the workshop title, description, category, time, participants, tools, and other relevant details. Given the form's structure and field labels, it seems to be designed for internal use within an organization or community. The form's purpose is likely to create a record for future reference and organization. I'll assume that the form is not intended for public or general use, as some fields (e.g., "Form ID") suggest it might be used for internal tracking and management purposes. I'll focus on explaining the form's purpose and usage in a clear and concise manner.</thinking>
-
 # urban_pole_workshope_registration_form - Help Guide
 
 ## Purpose

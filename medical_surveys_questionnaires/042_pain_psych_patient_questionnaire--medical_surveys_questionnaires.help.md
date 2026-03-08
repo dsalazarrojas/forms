@@ -1,6 +1,3 @@
-<thinking>
-We should check if the form is relevant for the current user and if it's not a duplicate form to be filled out. If it's both, we will output the help guide below. 
-</thinking>
 # pain-psych-patient-questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's pain and psychological symptoms. It is intended for patients who are experiencing chronic or acute pain and are interested in discussing their symptoms with a healthcare professional. Completing this form will help healthcare providers understand the patient's experiences and develop a treatment plan tailored to their needs.

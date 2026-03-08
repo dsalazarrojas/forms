@@ -1,14 +1,3 @@
-<thinking>Before creating this help guide, let's analyze the form's purpose and the fields it contains. This form is for applying to join a clan, and it appears to be focused on gathering information about the applicant's personal and gaming-related details. The fields are divided into several sections: personal information, gaming profile, availability and commitment, communication and conduct.
-
-To confirm, let's review each field to ensure it aligns with this interpretation and provide a clear explanation for each field:
-
-1. **Personal Information**: This section seems to aim at collecting basic details about the applicant, such as their name, age, and contact information (email and phone number).
-2. **Gaming Profile**: This section is about the applicant's gaming habits and preferences, including their gaming platform, favorite games, years of gaming experience, skill level, and any previous clan or team experience.
-3. **Availability and Commitment**: This section is concerned with the applicant's availability for gaming and commitment to the clan. This includes the average hours they can dedicate to gaming per week, their timezone, and their availability times.
-4. **Communication and Conduct**: This section covers the applicant's comfort with voice chat communications, their agreement to follow the clan's code of conduct and sportsmanship rules, and their motivation for joining the clan.
-
-Now that we've confirmed the form's purpose, let's create the help guide. Please see below for the final output in Markdown:</thinking>
-
 # Clan Membership Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about your personal and gaming details to help us get to know you better and see if you're a good fit for our clan. Please answer all required fields to ensure a successful submission.

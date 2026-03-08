@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to participate in a Black Friday shopping quiz. The form is a 12-field questionnaire that covers various aspects of Black Friday shopping, including the date of Black Friday, the best time to shop, popular items, online shopping tips, and return policies. The form is not affiliated with or endorsed by any form platform and is an original adaptation created using public survey topic metadata. The form is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell derived forms, as long as credit is given.
-</thinking>
-
 # Black Friday Quiz - Help Guide
 ## Purpose
 The Black Friday Quiz is a 12-field questionnaire designed to test your knowledge and shopping habits on Black Friday. By completing this quiz, you'll receive results and be entered into a newsletter for future deals. The form is intended for users of all ages and experience levels.

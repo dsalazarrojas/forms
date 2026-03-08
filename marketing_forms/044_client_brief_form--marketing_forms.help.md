@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather essential information from clients to define the scope and vision for their next project. This form is used to collect data on the client's company or organization, primary project contact, project overview, and project details such as name, description, target audience, category of work, success criteria, budget, deadline, and any specific requirements. It is crucial that the client understands the purpose and importance of this form to provide accurate and comprehensive information that will aid in the development of their project.
-
-This form will be used internally to guide the project's scope, timeline, and budget. Ensuring that each field is filled correctly will help the project team create an effective and accurate project plan. 
-
-Please note that some fields are marked as optional, but they can still be crucial for a successful project execution. 
-
-Please ensure that the information provided is accurate and up-to-date to avoid any miscommunication or project misunderstandings.
-</thinking>
-
 # Client Brief Form - Help Guide
 ## Purpose
 The Client Brief Form is a crucial document that helps us define the scope and vision for your next project. Please fill in this form to provide us with essential information about your project, and we will use it to guide the project's development.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the decision-making processes and priorities of healthcare professionals in making ethically sound decisions. It will help us understand their perception of patient autonomy, the influence of patient family, the level of support from their institution, and other relevant factors. Please note that this form is not a diagnostic tool, but rather a tool to collect data on healthcare professionals' perceptions and experiences. Ensure that you answer honestly and based on your actual practice. You may answer "Not applicable" if the question does not apply to your situation. If you are unsure or have questions, please ask your supervisor or colleague for guidance. This form has multiple pages, and you will need to answer every question on each page. You can skip no more than one question on each page.
-</thinking>
-
 # Healthcare Ethics Decision Making Survey - Help Guide
 ## Purpose
 This form is designed to assess the decision-making processes and priorities of healthcare professionals in making ethically sound decisions.

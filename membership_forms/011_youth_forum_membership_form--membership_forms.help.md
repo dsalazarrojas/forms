@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to gather basic information from youth users or their parents/guardians to create or modify membership profiles in the system. The purpose of this form is to collect contact details and other identifying information required for membership management. To ensure accuracy and completeness, please review the form carefully before submitting.
 
 # Youth Forum Membership Form - Help Guide

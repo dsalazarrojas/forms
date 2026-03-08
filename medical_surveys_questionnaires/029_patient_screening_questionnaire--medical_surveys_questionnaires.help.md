@@ -1,7 +1,3 @@
-<thinking>
-This form is for screening patients and gathering information about their medical history and conditions. It is designed to be completed by patients or their caregivers, and it helps healthcare professionals understand the patient's needs and medical status. To complete this form, the patient or caregiver should select all relevant medical conditions, allergies, and medical histories that apply to the patient. Each field should be carefully filled out to ensure accurate and comprehensive information is provided. If a field is not applicable, the user can choose "None" or leave it blank. This form is intended to be a comprehensive tool for healthcare professionals to quickly understand the patient's medical status, but it is not a substitute for a thorough medical examination or consultation with a healthcare professional.
-</thinking>
-
 # Patient Screening Questionnaire - Help Guide
 ## Purpose
 This form is for screening patients and gathering information about their medical history and conditions.

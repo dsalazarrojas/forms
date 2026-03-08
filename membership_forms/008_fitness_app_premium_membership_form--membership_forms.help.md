@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to collect information from potential premium members of the fitness app, including their personal details, preferred membership plan, payment details, and any additional onboarding requirements.
-
-To complete this form, follow these steps:
-
-1.  Fill out the **Member Details** page with your name and contact information.
-2.  Select your preferred **Membership Plan** from the given options.
-3.  Provide your **Payment Details**, including any relevant information such as card details or other payment methods.
-4.  If necessary, add any **Onboarding Details** to help the fitness app team understand your specific needs.
-5.  Use the **Additional Information** field to add any relevant comments or notes to support your application.
-
-</thinking>
-
 # Fitness App Premium Membership Form - Help Guide
 ## Purpose
 The Fitness App Premium Membership Form is designed to collect information from potential premium members of the fitness app. This form helps the fitness app team assess your suitability for a premium membership and tailor the onboarding process to your specific needs.

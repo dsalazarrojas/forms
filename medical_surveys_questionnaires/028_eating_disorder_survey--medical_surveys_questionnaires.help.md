@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Eating Disorder Survey - Help Guide
 
 ## Purpose

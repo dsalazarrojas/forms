@@ -1,13 +1,3 @@
-<thinking>
-
-We need to ensure that the form's purpose is clearly understood by the end-users. The Promotional Giveaway Design Order Form is designed to collect information from businesses for promotional giveaway design services. It's a crucial tool for our business operations, and it's essential that we get it right.
-
-To avoid duplication, we should check that we're not creating a new form for the same purpose. If we have a similar form, we should consider merging the new form into the existing one or updating the existing form to include the new requirements.
-
-Before proceeding, let's double-check that the form's design aligns with our business goals and objectives.
-
-</thinking>
-
 # Promotional Giveaway Design Order Form - Help Guide
 ## Purpose
 The Promotional Giveaway Design Order Form is designed to collect information from businesses for promotional giveaway design services. This form is used to gather essential details such as business name, design ID, product name, and other relevant information.

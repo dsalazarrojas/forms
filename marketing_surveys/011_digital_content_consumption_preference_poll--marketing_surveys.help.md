@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on users' preferences for digital content consumption. This form will likely be used to gather information on users' viewing habits, such as the types of content they prefer, how often they engage with digital content, and their preferred formats. It's essential to ensure that this form is being used correctly and not being duplicated. If there are similar forms within the organization, this form should be reviewed for overlap and potential consolidation of efforts.
-</thinking>
-
 # Digital Content Consumption Preference Poll - Help Guide
 ## Purpose
 This guide will walk you through the Digital Content Consumption Preference Poll form, explaining each field's purpose and how to complete it.

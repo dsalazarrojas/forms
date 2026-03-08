@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic form with various fields for input from users, likely for marketing purposes. It collects information from users, including contact person, date and time of visit, phone number, email address, selection choices, and checkboxes. The form also has fields with placeholder options, which might be used for testing or demonstration purposes. The form does not appear to be specific to a particular product or service, making it a general-purpose form. I'll create the user-facing help guide based on this information.
-</thinking>
-
 # mario_form_2026_wedrive4u - Help Guide
 
 ## Purpose

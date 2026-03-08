@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about the safety of milk being consumed. It appears to be a simple and straightforward form with a focus on detection and identification of potential adulterations in milk. The form has eight fields, each with a label that suggests its purpose. The form does not seem to be collecting any sensitive or personal information, and the fields are mostly focused on detection and identification of milk adulterations. The form's purpose is likely to ensure that the milk being consumed is safe for consumption. The form is likely to be used in a laboratory or food safety setting.
-
-However, there are a few fields that are unclear or weakly labeled. For example, the "video_url" field is not well-labeled, and it's not clear what type of video it is related to. Additionally, the "reference_source" field is also not well-labeled, and it's not clear what type of reference it is related to.
-
-The form does not seem to have any complex logic or conditional logic, and each field can be filled out independently. The form does not have any duplicate fields, and each field has a unique name and label.
-
-Overall, the form appears to be a simple and practical tool for collecting information about milk safety.
-</thinking>
-
 # Is The Milk You Are Having Safe!!! - Help Guide
 ## Purpose
 This form is designed to collect information about the safety of milk being consumed. It helps ensure that the milk is free from adulterations and is safe for consumption.

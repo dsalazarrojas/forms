@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # member_satisfaction_survey_template - Help Guide
 
 ## Purpose

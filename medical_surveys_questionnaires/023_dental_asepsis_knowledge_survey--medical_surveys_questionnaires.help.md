@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dental_asepsis_knowledge_survey - Help Guide
 ## Purpose
 The dental_asepsis_knowledge_survey form is designed to assess knowledge and practices of dental office asepsis protocols. It is intended to ensure that dental professionals have a good understanding of aseptic techniques and procedures in their practice.

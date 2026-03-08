@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## pre_visit_planning_form - Help Guide
 ## Purpose
 The **Pre-Visit Planning Form** is designed to collect essential information from patients before their scheduled visit. This form helps healthcare professionals gather necessary details to ensure a smooth and efficient visit experience. By completing this form, patients can provide their medical history, contact information, and other relevant details that will aid the healthcare team in preparing for their visit.

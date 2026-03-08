@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first explain the internal reasoning behind its purpose and potential issues.
-
-This form, the "Lighting Specialists Guild Membership Form," is designed to collect general information from individuals interested in joining the Lighting Specialists Guild. The primary purpose of this form is to gather necessary contact and professional details for membership consideration. 
-
-The form might be used as a first step in the membership process, providing an initial point of contact and allowing the guild to initiate further communication and potential follow-up actions. 
-
-Internal considerations might include ensuring that the form is not too intrusive or overwhelming, while still collecting enough information to assess a potential member's fit for the guild. To avoid duplication, the form should ideally be linked to existing user accounts, allowing users to submit their membership information only once and have it linked to their profile for future reference.
-
-</thinking>
-
 # Lighting Specialists Guild Membership Form - Help Guide
 ## Purpose
 This form is designed to collect general information from individuals interested in joining the Lighting Specialists Guild. It will be used to initiate further communication and potential follow-up actions for membership consideration.

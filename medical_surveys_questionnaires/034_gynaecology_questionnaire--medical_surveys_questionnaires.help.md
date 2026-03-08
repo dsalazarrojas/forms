@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect medical information about patients related to gynaecology. It's likely used by healthcare professionals to gather data for research, treatment planning, or patient follow-up. This form is probably not meant for general use, as it contains specialized fields related to gynaecology and medical procedures.
-</thinking>
-
 # gynaecology_questionnaire - Help Guide
 ## Purpose
 The gynaecology questionnaire is a form designed to collect information about patients related to gynaecology. It's intended to be used by healthcare professionals for research, treatment planning, or patient follow-up.

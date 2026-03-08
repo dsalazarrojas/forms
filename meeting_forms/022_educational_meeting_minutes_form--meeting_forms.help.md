@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Meeting Minutes Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Client Health Questionnaire - Help Guide
 ## Purpose
 This form collects information about a patient's health status, medical history, and contact information for COVID-19 assessment and treatment. It helps healthcare professionals gather essential data for patient care and risk assessment.

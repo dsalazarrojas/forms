@@ -1,7 +1,3 @@
-<thinking>
-We're designing this form to help users easily design flyers in a few simple steps. This form will allow users to input their flyer's title, color scheme, background, text style, font size, font family, font weight, font type, content area, and specific colors. Please make sure this form is only used for designing flyers and not for other purposes, as it's specifically tailored to meet those needs.
-</thinking>
-
 # Flyer Design Form - Help Guide
 ## Purpose
 The Flyer Design Form is a tool designed to guide users through the process of creating a visually appealing and functional flyer. This form will help users input various parameters to create a well-designed flyer that effectively communicates their message.

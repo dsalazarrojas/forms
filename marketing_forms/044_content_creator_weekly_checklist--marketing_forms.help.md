@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Content Creator Weekly Checklist - Help Guide
 ## Purpose
 This form is designed to help content creators keep track of their weekly content planning and creation activities. It's a tool to ensure that all necessary information is up-to-date and accurate, and to facilitate collaboration among team members.

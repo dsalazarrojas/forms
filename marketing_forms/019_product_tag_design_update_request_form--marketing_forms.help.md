@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to request updates to product tags, which are used for marketing purposes. This form is used by marketing teams to gather information about the changes to be made to product tags, ensuring that the updates are accurate and timely. To avoid duplication of effort, please make sure to only submit one request per product tag update.
-</thinking>
-
 # Product Tag Design Update Request Form - Help Guide
 ## Purpose
 The form is used to request changes to product tags, ensuring that the updates are accurate and timely.

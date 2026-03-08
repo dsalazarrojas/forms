@@ -1,11 +1,3 @@
-<thinking>
-This form was created to gather information for a tubal ligation procedure. It is designed to be completed by the patient to provide details about their medical history, the procedure, and their consent for the surgery.
-The form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation using public survey topic metadata.
-The form is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it - just give credit.
-Contact: form@gic.mx
-
-</thinking>
-
 # Tubal Ligation Consent Form - Help Guide
 ## Purpose
 This form is used to obtain patient consent and gather relevant information about the patient's medical history, the tubal ligation procedure, and other important details.

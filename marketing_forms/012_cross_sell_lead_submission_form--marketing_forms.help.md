@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cross_sell_lead_submission_form - Help Guide
 
 ## Purpose

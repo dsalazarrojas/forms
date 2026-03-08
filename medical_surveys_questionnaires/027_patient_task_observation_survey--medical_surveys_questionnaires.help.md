@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to collect information about patient tasks, observations, or assessments. The primary goal is to gather data on patient performance, frequency, and duration of tasks, as well as any relevant notes or contact information. This form will help healthcare providers track and monitor patient progress, identify potential issues, and provide targeted interventions.
-</thinking>
-
 # patient_task_observation_survey - Help Guide
 ## Purpose
 This form is used to collect information about patient tasks, observations, or assessments. It helps healthcare providers track and monitor patient progress, identify potential issues, and provide targeted interventions.

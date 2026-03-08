@@ -1,7 +1,3 @@
-<thinking>
-To confirm whether the user is a medical professional, we need to ensure the form is filled out correctly. This form is intended for medical professionals to self-identify their characteristics, preferences, and skills. Please fill out the form carefully, and only submit if you have read and understood the instructions below.
-</thinking>
-
 # Locate Medical Professionals Form - Help Guide
 ## Purpose
 The "Locate Medical Professionals Form" is designed to help us identify and categorize medical professionals based on their preferences and characteristics. This information is used for internal purposes to better understand our user base and improve services accordingly.

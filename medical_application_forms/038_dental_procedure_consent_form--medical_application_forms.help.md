@@ -1,20 +1,3 @@
-<thinking>
-To create a help guide for the "dental procedure consent form," we first need to understand the purpose of this form. This form is used to collect patient information and consent for a dental procedure. It is meant to ensure that the patient understands the nature of the procedure, its risks, and their responsibilities before proceeding. The form should only be used for dental procedures that require patient consent, such as extractions, implants, and other invasive procedures.
-
-To confirm, this form is used for procedures like:
-
-- Dental Implant
-- Dental Bridge
-- Root Canal
-- Crown and Bridge
-- Extractions
-
-This form is meant to be used for patients of all ages, and the information collected will be used to schedule follow-up appointments and ensure that the patient understands their treatment status.
-
-Please note that not all fields are required, and some are optional. Ensure that you have filled in all the required fields before proceeding.
-
-</thinking>
-
 # dental procedure consent form - Help Guide
 
 ## Purpose

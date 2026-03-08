@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that explains the purpose and process of the Minor Interaction Suitability Assessment form. To ensure that the guide is helpful and not redundant, I will focus on clarifying each field's purpose and requirements. I will also check for any duplicate or unclear fields and provide alternative explanations where necessary.</thinking>
-
 # Minor Interaction Suitability Assessment - Help Guide
 ## Purpose
 The Minor Interaction Suitability Assessment form is designed to evaluate and assess the suitability of interactions between adults and minors. This form is used to gather information about planned interactions, participant details, and safety considerations.

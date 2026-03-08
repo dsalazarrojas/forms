@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess an individual's awareness and understanding of genetic data privacy concerns, including how they learn about genetic data privacy, share their genetic data, and protect it. The form is used to gather information on an individual's comfort level with sharing their genetic data, their understanding of genetic data privacy laws, and their feelings of security and privacy regarding their genetic data. This form is likely used in a healthcare or research setting where genetic data collection and handling is involved.
-
-To prevent non-duplication of the form, it's recommended that individuals complete the survey only once. If you've already completed the survey, please do not proceed further.
-
-This guide is designed to help you complete the "Genetic Data Privacy Awareness Survey" form efficiently and accurately.
-
-Please note that the form is not meant to be a replacement for professional advice or guidance. If you're unsure about any aspect of genetic data privacy, consult a healthcare professional or a qualified expert.
-
-</thinking>
-
 # Genetic Data Privacy Awareness Survey - Help Guide
 ## Purpose
 This form is designed to assess your understanding and awareness of genetic data privacy concerns. It includes questions about how you learn about genetic data privacy, share your genetic data, and protect it.

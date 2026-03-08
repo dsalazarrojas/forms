@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals seeking to register as members of a library. The form is designed to collect basic member information, contact details, and other relevant data. Its purpose is to facilitate the membership registration process, ensuring that the library has accurate and up-to-date information about its members. This form does not collect sensitive or confidential information. The form's design assumes that the member has the authority to register themselves or on behalf of others, such as a parent or guardian for minors. 
-</thinking>
-
 # Library Membership Form - Help Guide
 ## Purpose
 This form is used to register members of the library. It is a basic form designed to collect member information and contact details.

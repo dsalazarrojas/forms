@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Health Assessment Form - Help Guide
 
 ## Purpose

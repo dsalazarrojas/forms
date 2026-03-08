@@ -1,13 +1,3 @@
-<thinking>
-
-To check for relevance and non-duplication before creating the help guide:
-
-* The form is for "medical_consent_forms" category, indicating it's related to medical procedures and consent.
-* The form is called "Acupuncture Informed Consent Form", suggesting it's for acupuncturists or healthcare professionals to collect informed consent from patients before administering acupuncture treatment.
-* Each field is well-defined, with clear labels and hints, indicating that the form is designed for collecting patient information and consent for acupuncture treatment.
-
-</thinking>
-
 # Acupuncture Informed Consent Form - Help Guide
 ## Purpose
 This form is used to collect informed consent from patients before undergoing acupuncture treatment. It's essential to fill out this form to ensure that you understand the risks and benefits of the treatment and provide your consent to proceed.

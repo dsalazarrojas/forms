@@ -1,23 +1,3 @@
-<thinking>
-We need to create a help guide for a form called "Member Data Import And Export". This form is used to import and export member data, allowing users to manage member information. The form is designed to be simple and user-friendly, with multiple fields for various options. Before filling out this form, ensure you have a clear understanding of the purpose of each field to avoid errors or confusion.
-
-The form is divided into several pages, each with its own set of fields. The first page, "Member Data Import", allows users to import member data from a specified data source. The "Data Source" field is used to select the source of the data, and the "Export Format" field allows users to choose the format of the exported data.
-
-The second page, "Member Data Export", enables users to export member data in various formats. Again, the "Data Source" field is used to select the source of the data, and the "Export Format" field is used to choose the desired format for the exported data.
-
-This form also has a "Member Data Fields" page, where users can view and manage the member data fields. This page provides information on the various fields available for import and export, including field descriptions and formatting options.
-
-The final page, "Import Confirmation", confirms the import process, allowing users to review and confirm their selections.
-
-To complete this form, follow these steps:
-
-* Ensure you have a clear understanding of the purpose and options of each field.
-* Complete the "Member Data Import" page with the required information, including selecting the data source and export format.
-* Move to the "Member Data Export" page and select the desired export format.
-* View and manage the member data fields on the "Member Data Fields" page.
-* Review and confirm your selections on the "Import Confirmation" page.
-</thinking>
-
 # Member Data Import And Export - Help Guide
 ## Purpose
 This form is used to import and export member data. Users can select the data source, export format, and review and confirm their selections before proceeding with the import or export process.

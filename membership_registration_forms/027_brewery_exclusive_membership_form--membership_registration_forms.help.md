@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brewery Exclusive Membership Form - Help Guide
 ## Purpose
 The Brewery Exclusive Membership Form is designed to gather information from potential members to facilitate a personalized experience tailored to their interests and preferences. By filling out this form, you'll be able to join our exclusive membership program and enjoy benefits such as exclusive beer releases, member discounts, and early access to events.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is for users to document and track their medication usage, side effects, and other related information. This form likely aims to aid healthcare professionals in monitoring and assessing treatment efficacy and potential risks. Before filling out this form, please ensure you have a valid reason to record this information, and that you have not already recorded it elsewhere. This guide will walk you through the form's sections and fields to ensure you complete it accurately and efficiently.
-</thinking>
-
 # medication_log - Help Guide
 ## Purpose
 This form is for tracking medication usage and related information for healthcare professionals to monitor treatment efficacy and potential risks.

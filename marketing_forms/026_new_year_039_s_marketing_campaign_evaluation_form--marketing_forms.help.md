@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of a marketing campaign, focusing on its primary objective, target audience, marketing channels used, budget, results, evaluation criteria, evaluation scale, start and end dates, duration, and any additional comments. This form helps to gather data on the campaign's performance, identify areas for improvement, and measure its overall impact. To ensure accurate and meaningful evaluation, please provide honest and detailed answers to each question.
-</thinking>
-
 # New Year's Marketing Campaign Evaluation Form - Help Guide
 ## Purpose
 The primary purpose of this form is to assess the performance of a marketing campaign, gathering data on its objective, target audience, budget, results, and evaluation criteria.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect entries for a free lunch giveaway contest, likely to be held on campus. The purpose of this form is to gather relevant information from participants, including their name, contact email, preferred lunch time, preferred lunch location, phone number, whether they want to win, how they heard about the contest, and any additional notes they might have. 
-This form is intended for internal use within the campus, and it is expected that participants will be selected randomly. There is no duplication of entries, each unique participant can submit only once. 
-</thinking>
-
 # free_lunch_giveaway_entry_form - Help Guide
 ## Purpose
 This form collects entries for a free lunch giveaway contest on campus. Participants can submit their name, email, preferred lunch time, preferred lunch location, phone number, whether they want to win, how they heard about the contest, and any additional notes.

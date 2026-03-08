@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users understand the various steps involved in creating a digital business growth strategy, specifically for cariyar growth. It consists of 8 steps, each covering a crucial aspect of building a strong foundation, selecting a suitable topic framework, designing a curriculum, marketing an online course, evolving as an expert, creating an automated learning ecosystem, and defining a freedom business model. Users will be asked to provide input on each of these steps, and their responses will be used to generate a customized growth strategy. This form is not affiliated with any specific platform and is released under CC BY 4.0 license.
-</thinking>
-
 # commitment_form_digital_cariyar_growth_ilh - Help Guide
 ## Purpose
 This form is designed to help users create a customized digital business growth strategy for cariyar growth by guiding them through 8 steps to build a strong foundation, select a suitable topic framework, design a curriculum, market an online course, evolve as an expert, create an automated learning ecosystem, and define a freedom business model.

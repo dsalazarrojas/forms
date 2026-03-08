@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from patients for an Intravenous Vitamin C Assessment. This form aims to collect medical history, preferences, and other relevant health-related information to provide personalized care. 
-
-This form is intended for patients undergoing intravenous vitamin C therapy and is not applicable for general public use. Before filling out this form, please ensure you have the necessary medical clearance to do so.
-
-Before filling out this form, please check that you are not completing the same form for the same purpose multiple times.
-
-</thinking>
-
 # Intravenous Vitamin C Assessment - Help Guide
 ## Purpose
 This form is designed to collect relevant medical information for patients undergoing intravenous vitamin C therapy.

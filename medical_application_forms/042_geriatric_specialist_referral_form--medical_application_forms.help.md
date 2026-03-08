@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information for referral to a geriatric specialist. The purpose of the form is to provide a structured way for healthcare providers to share patient information with specialists who can provide expert care. Referrals can be made for patients who are Geriatric, Non Geriatric, or Not Applicable for the specialist's services. This form will be submitted by healthcare providers and will be reviewed by a medical team before being sent to the specialist. Please ensure that the patient information is accurate and up-to-date before submitting the form.
 
 # Geriatric Specialist Referral Form - Help Guide

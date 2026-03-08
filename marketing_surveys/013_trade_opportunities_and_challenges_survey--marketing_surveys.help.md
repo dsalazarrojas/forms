@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Opportunities And Challenges Survey - Help Guide
 
 ## Purpose

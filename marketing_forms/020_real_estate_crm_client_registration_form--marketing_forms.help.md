@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect client registration information for real estate CRM (Customer Relationship Management) system. This form likely serves to onboard clients in the real estate industry, such as property investors, agents, or agencies. Before starting, let's quickly check if this form is not a duplicate effort or if it's meant to be used for a specific subset of clients. If there's any confusion, please consult with the relevant teams or the project lead for further clarification.
-</thinking>
-
 # real_estate_crm_client_registration_form - Help Guide
 ## Purpose
 This form is designed to collect client registration information for real estate CRM system. It's intended to onboard new clients in the real estate industry, including property investors, agents, or agencies.

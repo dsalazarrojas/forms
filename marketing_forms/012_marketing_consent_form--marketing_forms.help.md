@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is likely to collect marketing-related information from users, such as their contact details, marketing preferences, and consent for marketing materials. This form might be used in marketing campaigns or events to gather information about the audience, and the fields within it may need to be clear and concise for the users to fill out accurately and effectively. Ensure that the form is being used appropriately and not duplicating other forms or functionalities.
-</thinking>
-
 # Marketing Consent Form - Help Guide
 ## Purpose
 This form is used to collect marketing-related information from users, such as contact details, marketing preferences, and consent for marketing materials.

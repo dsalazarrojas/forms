@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to help users identify potential safety concerns and provide a plan for mental health crises, including emergency contact information and crisis support resources. By filling out this form, users can ensure they are prepared in case of a mental health crisis and can get the support they need.
-
-This form can be filled out by anyone who wants to take a proactive approach to mental health safety, including individuals with a history of mental health issues, those who are taking medication, or those who are experiencing a mental health emergency. 
-
-To prevent duplication, the form should only be filled out once. If the user has already completed this form, they should not fill it out again unless there are significant changes to their mental health status.
-
-</thinking>
-
 # Mental Health Safety Plan - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the necessary steps for users to complete the "COVID 19 Rapid Test Appointment And Consent Form". The form is designed to gather information from patients for COVID-19 testing and to obtain their consent for the testing process. It is essential that users understand the purpose and requirements of this form before proceeding.
-</thinking>
-
 # COVID 19 Rapid Test Appointment And Consent Form - Help Guide
 ## Purpose
 The "COVID 19 Rapid Test Appointment And Consent Form" is a crucial document that requires patients to provide their demographic information, select an appointment date and time, and provide consent for the testing process. This form is used to ensure that patients are aware of the test's purpose, the collection of their specimens, and the sharing of their results with public health authorities if necessary.

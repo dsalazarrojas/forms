@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on consumer behavior and preferences related to Black Friday shopping. The primary purpose of this form is to gather insights on how individuals plan, shop, and participate in Black Friday sales. This form will help identify trends, preferences, and areas of improvement to enhance the shopping experience.
-</thinking>
-
 # Black Friday Survey - Help Guide
 ## Purpose
 The Black Friday Survey is a research form designed to collect data on consumer behavior and preferences related to Black Friday shopping. It aims to gather insights on how individuals plan, shop, and participate in Black Friday sales.

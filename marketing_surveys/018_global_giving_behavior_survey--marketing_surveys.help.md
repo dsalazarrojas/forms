@@ -1,9 +1,3 @@
-<thinking>Before creating this help guide, I will briefly review the form's purpose and potential issues to ensure relevance and non-duplication.
-
-The Global Giving Behavior Survey form is used to collect information about an individual's or organization's giving behavior, including their contact information, donation frequency, and amount given. This form appears to be designed for data collection and analysis, likely for research or marketing purposes within a marketing_surveys category.
-
-Upon reviewing the fields, there are a few fields that may require further clarification or explanation to ensure users understand their purpose and how to complete them correctly. For example, the "Amount Given" fields may require a clear explanation of the units of measurement used, such as "dollars" or "percentage". Additionally, the "Frequency Given" fields may require an example or clarification on how to select the correct frequency. Lastly, the "Average Gift Amount" and "Average Donation Frequency" fields may require context on what is expected from the respondent regarding the unit of measurement and what is being averaged.</thinking>
-
 # Global Giving Behavior Survey - Help Guide
 ## Purpose
 The Global Giving Behavior Survey is a form used to collect information about an individual's or organization's giving behavior, including contact information, donation frequency, and amount given. This form is designed to help research or marketing teams understand giving patterns and behaviors.

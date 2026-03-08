@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from patients about their mental health, medical history, and personal details. Its purpose is to collect relevant data for mental health professionals to assess and treat patients effectively.
-
-This template is meant for patients to provide their own information, and it is not a substitute for a medical professional's evaluation. Please ensure that you are using this form in the context of a real medical setting, and do not use it to self-diagnose or self-treat.
-
-To fill out this form, follow the instructions below.
-
-</thinking>
-
 # Psychology Questionnaire Template - Help Guide
 ## Purpose
 This form is used to gather information about a patient's mental health, medical history, and personal details.

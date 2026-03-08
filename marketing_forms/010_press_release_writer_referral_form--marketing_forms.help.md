@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about job openings at companies in the marketing and press release writing fields. The form is used to refer potential candidates for job openings that the company is trying to fill. The form collects general contact information, specific job details, and employment information. The form should only be filled out when a job opening exists and the company is actively recruiting for the position. Please note that some fields can be left blank if they do not apply to the job opening.
-</thinking>
-
 # press_release_writer_referral_form - Help Guide
 ## Purpose
 This form is used to refer potential candidates for job openings at companies in the marketing and press release writing fields.

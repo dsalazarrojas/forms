@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kidney Health Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess the health of kidney function and potential risks associated with kidney disease. It gathers information about the patient's medical condition, family history, lifestyle habits, and medical procedures. The survey helps healthcare professionals evaluate the patient's overall kidney health and identify potential risks or complications.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect relevant medical information from patients to assess their overall health status. To ensure that this form is properly completed, please verify that you have not previously filled it out or have not been directed to do so by a medical professional. If you are not a patient, please do not submit this form.
-</thinking>
-
 # Health Screening Check Out Form - Help Guide
 ## Purpose
 This form is designed to gather essential medical information from patients to facilitate a quick and accurate health assessment. It is meant for patients who are being discharged from a medical facility or for general health screening purposes.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the symptoms of various mental health conditions, including depression, anxiety, and other mood-related issues. It is intended for use by healthcare professionals to evaluate the severity of symptoms in patients. The form is based on the DSM 5 Level 1 Cross-Cutting Symptom Measure (CCSM), which is a standardized tool used to assess the severity of mental health symptoms.
-
-Before using this form, please ensure that you have the necessary permissions and training to administer it to patients. The form should not be used for self-assessment or diagnosis without proper medical supervision.
-
-This guide will help you understand the purpose and usage of each field in the form.
-</thinking>
-
 # DSM 5 Level 1 Cross Cutting Symptom Measure Assessment Form - Help Guide
 ## Purpose
 The DSM 5 Level 1 Cross-Cutting Symptom Measure Assessment Form is a standardized tool used to evaluate the severity of symptoms related to mental health conditions such as depression, anxiety, and other mood-related issues. This form is designed for use by healthcare professionals to assess the severity of symptoms in patients.

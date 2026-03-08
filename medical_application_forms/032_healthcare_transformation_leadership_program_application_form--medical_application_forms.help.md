@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that this form is used correctly and to prevent duplication, please note that this form is for applicants who are interested in participating in the Healthcare Transformation Leadership Program. Before starting to fill out the form, make sure you have the necessary information ready, especially for fields that require specific details such as medical licenses, education background, and professional certifications. Please review your answers carefully to ensure accuracy and completeness.
-
-Additionally, please note that some fields may require additional steps or documentation to be attached, such as medical certifications or licenses. If you are unsure about any part of the form, please reach out to the program administrators for clarification.
-
-</thinking>
-
 # Healthcare Transformation Leadership Program Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from applicants who are interested in participating in the Healthcare Transformation Leadership Program. The program aims to support healthcare professionals in their leadership development and transformation journey.

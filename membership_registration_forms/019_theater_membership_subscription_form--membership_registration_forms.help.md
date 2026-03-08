@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "theater_membership_subscription_form" form, we need to consider the following:
-
-* The form is designed for users to subscribe to a membership program at a theater.
-* The form has several fields that require input from the user.
-* The form is likely used by people interested in joining a theater membership program.
-
-The form appears to be designed for users to provide some basic information about themselves and their payment preferences. The fields include options for email, password, membership type, payment method, payment amount, payment frequency, membership start date, expiration date, and phone number.
-
-It's essential to ensure that the form is clear and concise, with each field explained in an easy-to-understand format.
-
-The form is likely used by a specific audience (theater members) and the goal is to make it easy for them to provide their information and subscribe to the membership program.
-
-</thinking>
-
 # theater_membership_subscription_form - Help Guide
 ## Purpose
 This form is designed for users to subscribe to the theater membership program. It is essential to provide the required information to complete the membership process.

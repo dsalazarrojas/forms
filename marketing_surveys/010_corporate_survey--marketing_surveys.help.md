@@ -1,8 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze its properties. The form is titled "Corporate Survey" and has a mix of text, select, date, time, and note fields. It seems to be designed to collect information from corporate employees or customers, likely for marketing or research purposes. The form asks for contact information (name, email, and phone), company and department details, and questions that can be answered with select, date, time, or note types. The form also appears to have a submit button.
-The form does not have any duplicate fields, so no need to worry about that.
-</thinking>
-
 # Corporate Survey - Help Guide
 ## Purpose
 This form is designed to collect information from corporate employees or customers for marketing or research purposes.

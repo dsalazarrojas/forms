@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in or have experience with sperm donation. The form is likely used in a medical or fertility-related context, such as a fertility clinic or sperm bank.
-The form is designed to be completed by a person who is either donating sperm or has a connection to sperm donation. This form may be part of a larger process for donors or individuals seeking information on sperm donation.
-</thinking>
-
 # Sperm Donor Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are interested in or have experience with sperm donation. The form is used to gather details about the donor's medical history, contact information, and medical clearances, as well as any additional medical certifications or qualifications they may have.

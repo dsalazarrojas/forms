@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Palliative Care Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information about patients' palliative care needs and circumstances. The purpose of this form is to assess the level of care required for patients who are nearing the end of their life or have a serious illness. The form collects data on various aspects of the patient's health, medical team, and care requirements.

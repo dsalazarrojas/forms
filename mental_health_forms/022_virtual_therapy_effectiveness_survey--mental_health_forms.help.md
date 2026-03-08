@@ -1,12 +1,3 @@
-<thinking>
-You're designing a help guide for the Virtual Therapy Effectiveness Survey form. This form aims to gauge the effectiveness of virtual therapy sessions, capturing users' experiences and opinions on various aspects of their treatment. To ensure that this form is completed accurately and honestly, it's essential to clearly outline each field and its purpose. This guide will break down the form into sections to help users understand what's being asked and how to provide useful feedback.
-
-Before beginning this form, take a moment to review each field carefully, and answer the questions based on your genuine experiences with the virtual therapy sessions. Your feedback will help us refine and improve the program to better support you and other users.
-
-This guide will walk you through each field, providing clear explanations and examples to help you complete the form confidently.
-
-</thinking>
-
 # Virtual Therapy Effectiveness Survey - Help Guide
 
 ## Purpose

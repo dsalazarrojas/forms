@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for mental health therapy reimbursement claims. It is used to collect data from clients and therapists to aid in the reimbursement process. To ensure the form's integrity, it is essential to complete it carefully and accurately, as the information collected will be used to make decisions related to reimbursement. Please note that this form is not affiliated with any specific platform and is generated using only public metadata. It is recommended that clients and therapists carefully review the form's purpose and guidelines before completion.
-</thinking>
-
 # Mental Health Therapy Reimbursement Claim Form - Help Guide
 ## Purpose
 

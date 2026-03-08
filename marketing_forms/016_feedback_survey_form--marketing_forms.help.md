@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on how to improve the product or service offered. It is meant to be a non-intrusive and brief way to gather user's opinions, thoughts, and suggestions. Before you start filling out this form, please ensure that your feedback is genuine and not a duplicate. This form should only be filled out once per user. If you have already submitted feedback, please do not resubmit. Your feedback will help us understand our customers' needs and improve the product or service accordingly.
-</thinking>
-
 # Feedback Survey Form - Help Guide
 ## Purpose
 The Feedback Survey Form is designed to collect customer feedback on how to improve the product or service offered. It is a brief and non-intrusive way to gather user's opinions, thoughts, and suggestions.

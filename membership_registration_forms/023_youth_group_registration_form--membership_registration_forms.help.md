@@ -1,25 +1,3 @@
-<thinking>
-
-This form is used for the registration of youth groups. The purpose of this form is to collect information from the registrant about their personal details, contact information, and program preferences. The form is divided into several pages, each with its own set of questions. 
-
-The form is not meant to be filled out by the youth themselves but rather by a parent or guardian on their behalf. The form is used to register a youth for a program and to collect any relevant information that the program administrators need to have in order to provide the best possible service. 
-
-The form will be reviewed before being accepted by the program administrators to ensure that the information is accurate and complete. 
-
-The form can be filled out in several languages, but the language of the form is English. 
-
-The form can be completed by a parent or guardian, who should provide their own contact information and a valid email address. 
-
-The form should be completed in one session, without saving or leaving the page. 
-
-Before submitting the form, please read and agree to the terms of service. 
-
-Please note that some fields are optional, but please provide as much information as possible. 
-
-Also, please be aware that providing incomplete or incorrect information can lead to delays or disqualification. 
-
-</thinking>
-
 # Youth Group Registration Form - Help Guide
 ## Purpose
 The Youth Group Registration Form is a form used for the registration of youth groups into a program. It is to be filled out by a parent or guardian on their behalf.

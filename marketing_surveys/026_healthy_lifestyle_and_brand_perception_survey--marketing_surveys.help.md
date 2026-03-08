@@ -1,13 +1,3 @@
-<thinking>
-The "Healthy Lifestyle And Brand Perception Survey" form is designed to collect information about users' healthy lifestyle habits and their perception of a brand. This form is intended to gather insights on how users perceive the brand's health-related offerings, products, or services. The form is likely used by marketing teams to gauge the effectiveness of their health and wellness marketing strategies.
-
-The form's fields are a mix of single-value text inputs, email and phone fields, date and time inputs, select_one and select_multiple options, and a text area for additional comments. The required fields are marked as "Required Field" (id: 9), but it is likely a testing or placeholder field. Most fields are optional, indicating that users can provide their personal information voluntarily.
-
-Before completing this form, please ensure that you are filling out the correct form. If you have filled out this form before, you might notice that some fields are not marked as required. Please do not skip any section or field without attempting to answer it. Your feedback is crucial to providing valuable insights to the brand.
-
-Please review each field carefully to ensure you understand what is expected of you.
-</thinking>
-
 # Healthy Lifestyle And Brand Perception Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect your thoughts and opinions about your healthy lifestyle habits and your perception of our brand.

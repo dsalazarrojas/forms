@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently. The High Heels Market Survey form is designed to collect customer feedback and data for marketing purposes. To prevent errors, please ensure that the form is used only for its intended purpose and that you're not submitting duplicate surveys.
-</thinking>
-
 # High Heels Market Survey - Help Guide
 ## Purpose
 This form is used to collect customer feedback and data for marketing purposes. It helps us understand the market sentiment about our products and services.

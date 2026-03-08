@@ -1,5 +1,3 @@
-<thinking>As a comprehensive form designer and technical writer, I will create a user-facing help guide for the Ob Gyn Patient History Form. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section.</thinking>
-
 # Ob Gyn Patient History Form - Help Guide
 ## Purpose
 The Ob Gyn Patient History Form is designed to gather comprehensive medical information about a patient's reproductive history, medical history, and other relevant details to support healthcare providers in delivering effective and personalized care.

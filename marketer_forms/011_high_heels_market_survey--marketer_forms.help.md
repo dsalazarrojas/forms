@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers about their purchasing habits and preferences regarding high heels. The purpose of this form is to gather feedback from customers, understand their demographics, and identify areas of improvement for our products. This form should only be filled out by customers who have purchased high heels in the past.
-
-The form will be filled out by customers through an online interface. They will be presented with several fields, each with its own label and options. The form's layout will be divided into several sections, each representing a different area of interest. The goal is to make the form as user-friendly as possible, while also collecting as much relevant information as possible.
-
-Each field will be clearly labeled, and the customer will be able to select from a variety of options that fit their preferences. Some fields will be required, while others will be optional, depending on the type of information being collected.
-
-The form will be displayed in a way that makes it easy for the customer to navigate and understand. The customer will be able to fill out the form at their own pace, and will be able to save their progress if they need to take a break or come back later.
-
-The fields on this form are designed to be as intuitive as possible, making it easy for customers to understand what information is being asked for and why. Below is a detailed explanation of each field, to help customers complete the form with confidence.
-
-</thinking>
-
 # High Heels Market Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The form "Street Sheet" is intended to capture information about a street or location. This form is likely used in conjunction with other forms, such as event or activity registration, to provide relevant details about a street or street-based activity. This form's fields are designed to be completed by a user who has direct knowledge about the street or activity, such as a city official or event organizer.
-Please ensure you are only filling out this form when it is relevant to your work. If you have already completed a form with the same purpose, it is not necessary to complete this form again.
-To confirm, the form will ask for information about a street address, the type of data related to the street, the start and end dates of the activity, and the start time of the activity.
-</thinking>
-
 # Street Sheet - Help Guide
 ## Purpose
 The Street Sheet form is used to collect information about a street or location.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their familiarity with our product or service. The purpose of this form is to gain insights into how well our customers are familiar with our product or service, how they perceive it, and what improvements we can make to better serve them. This form is not intended to be a comprehensive review, but rather a quick and easy way for customers to provide feedback on their experiences.
-
-Before filling out this form, please ensure that you have not already submitted similar feedback. If you have submitted feedback recently, your responses will likely be similar, and it will be more beneficial for you to provide updated feedback if needed.
-
-This form is designed to be easy to use and should only take a few minutes to complete. Please answer all the questions honestly, and do not worry about writing a long or formal response. Your feedback is greatly appreciated and will help us make our product or service better.
-
-</thinking>
-
 # Familiarity Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their familiarity with our product or service. It's a quick and easy way for customers to provide insights into how well they know our product or service and what we can improve.

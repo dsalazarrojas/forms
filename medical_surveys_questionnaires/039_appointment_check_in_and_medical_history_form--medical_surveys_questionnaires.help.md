@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to gather information about a patient's appointment check-in and medical history. It appears to be used for medical professionals to collect data for patient registration, appointment scheduling, and medical record-keeping. The form asks for patient contact information, appointment details, medical history, and lifestyle habits. It's likely used in a healthcare setting to ensure accurate and thorough patient records.
-</thinking>
-
 # Appointment Check In And Medical History Form - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's appointment check-in and medical history. It is used to collect data for patient registration, appointment scheduling, and medical record-keeping in a healthcare setting.

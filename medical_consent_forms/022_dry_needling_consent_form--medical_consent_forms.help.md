@@ -1,18 +1,3 @@
-<thinking>
-This is a consent form for dry needling, a non-invasive, minimally painful treatment used for myofascial pain. The purpose of this form is to gather information about the patient's medical history, contact information, and consent for the treatment.
-
-The form is divided into several sections, including:
-- Patient information (name, contact information)
-- Medical history (any conditions that may affect the treatment)
-- Allergies and medications
-- Consent for the treatment
-- Date of treatment
-- Signature and doctor's name
-- Clinic information (address, license, etc.)
-- Emergency contact information
-
-</thinking>
-
 # Dry Needling Consent Form - Help Guide
 ## Purpose
 This form is used to gather information about the patient's medical history, contact information, and consent for the dry needling treatment. It is essential to provide accurate and complete information to ensure a safe and effective treatment.

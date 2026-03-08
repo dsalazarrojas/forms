@@ -1,10 +1,3 @@
-<thinking>
-The Custom T Shirt Order Form Template is designed to help you collect information from customers for custom t-shirt orders. 
-This form is intended to be used for customers who want to order custom t-shirts with their preferred design, size, color, and style. 
-To ensure accuracy, please fill out the form carefully. 
-Note: The required fields are <name>, <type>, and <hint> fields. 
-</thinking>
-
 # Custom T Shirt Order Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from customers for custom t-shirt orders.

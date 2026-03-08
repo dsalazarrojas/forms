@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a veterinary electronic medical record (EMR). The purpose of this form is to gather data about a client's visit to a veterinary clinic. The form will collect information on the client's and pet's details, appointment time, physical exam findings, treatment sheet findings, medical history, allergies, medications, medical conditions, client contact information, and the veterinarian's information.
-This form will be completed by clients or their representatives, typically at the veterinary clinic, and will be used to update the EMR system.
-To avoid duplication of work and ensure accuracy, please use this form to ensure that the required fields are completed as accurately and completely as possible.
-</thinking>
-
 # Veterinary EMR - Help Guide
 ## Purpose
 The Veterinary EMR form is designed to collect information about a client's visit to a veterinary clinic.

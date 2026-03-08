@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to release their medical device records. The primary goal is to ensure that patients understand what their records contain and are comfortable sharing them. The form is meant to be completed by patients who are requesting to release their records to a medical provider. This form ensures that patients have given their consent, which is recorded on the form. It also asks for the release date and time, which might be useful for follow-up. This form does not duplicate any other forms used to request medical records, as it is designed for patient-initiated releases. 
-</thinking>
-
 # Medical Device Records Release Form - Help Guide
 ## Purpose
 The Medical Device Records Release Form is a document that allows patients to release their medical device records. This form is used to obtain the patient's consent to share their medical device records with a medical provider.

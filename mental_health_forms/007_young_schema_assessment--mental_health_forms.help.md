@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess an individual's mental health and well-being, specifically focusing on various aspects such as anxiety, depression, relationships, self-awareness, and emotional regulation. This form is designed to help identify areas where an individual may need support or guidance.
-
-Before filling out this form, please ensure that you have not previously completed it, as this may affect the accuracy of the assessment.
-
-</thinking>
-
 # Young Schema Assessment - Help Guide
 ## Purpose
 The Young Schema Assessment is a mental health assessment tool designed to help identify potential issues and areas for improvement in a person's mental well-being. It evaluates several aspects of mental health, including anxiety, depression, relationships, self-awareness, and emotional regulation.

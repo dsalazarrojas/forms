@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for affiliate signups, allowing users to create an affiliate account with our platform. To be eligible to use this form, the user should have a business or individual entity that can participate in affiliate marketing activities. 
-
-This form will guide users through the process of providing necessary information for their affiliate account, including personal and business details, marketing channels, performance metrics, and payment information.
-
-The form is split into multiple sections, and some fields are optional. Users will be asked to provide their full name, email address, phone number, and website URL. They will also be asked about their marketing channels, traffic, audience demographics, and previous affiliate experience. Additionally, users will be required to agree to our terms and conditions, disclosure compliance, brand guidelines, and prohibited practices.
-
-After completing the form, users will be able to review their information and submit it for approval. Once approved, they will receive access to our affiliate program.
-
-Please review the form carefully and ensure you are eligible to use our affiliate program before submitting. This form should only be used by individuals or businesses interested in participating in affiliate marketing activities with our platform.
-</thinking>
-
 # Affiliate Signup Form - Help Guide
 ## Purpose
 This form is designed for affiliates to create an account and access our affiliate program. It collects necessary information for your account setup, marketing activities, and payment information.

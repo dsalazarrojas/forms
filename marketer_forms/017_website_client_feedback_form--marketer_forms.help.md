@@ -1,7 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "website_client_feedback_form" form, we need to understand its purpose and how it should be completed. The form appears to be a feedback form used by website clients to provide input on their overall experience with the website. The purpose of this form is to gather information about the client's experience, what they liked or disliked, and any suggestions for improvement. We will guide users through how to complete the form, explaining each field, and providing tips for a successful submission.
-
-</thinking>
 # website_client_feedback_form - Help Guide
 ## Purpose
 The "website_client_feedback_form" is a form designed to gather feedback from clients about their overall experience with the website. This feedback helps us understand areas of improvement and make data-driven decisions to enhance the user experience.

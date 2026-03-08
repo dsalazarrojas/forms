@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to help medical practices develop a marketing plan tailored to their specific needs and objectives. The form is designed to guide the user in collecting and organizing information about the practice's marketing strategy, channels, target audience, budget, and other important details. Before completing this form, it's essential to ensure that you understand the following:
-  - This form is meant to be a comprehensive guide for medical practices to create a marketing strategy that addresses their unique goals and objectives.
-  - Each section is designed to collect specific information that is essential to creating an effective marketing plan.
-  - You will need to answer all the questions thoroughly to get an accurate picture of your marketing strategy.
-</thinking>
-
 # Medical Practice Marketing Plan Template - Help Guide
 ## Purpose
 

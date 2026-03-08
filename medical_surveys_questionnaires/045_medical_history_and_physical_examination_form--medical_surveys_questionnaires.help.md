@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure this help guide is accurate, I will review the provided YAML fields and create a clear and concise guide for end-users.
 
 </thinking>

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data on end-user preferences regarding holistic pain management strategies. The survey asks users about their current pain levels, current treatments, interest in various therapies, pain management strategies, whether pain has a significant impact on their daily life, and any medical concerns they may have. This survey aims to help healthcare professionals understand patient preferences for managing pain effectively.
-
-Before completing this form, please check that you have not already provided similar information to healthcare professionals in the past. This ensures that your input is not duplicated and that you receive more tailored care.
-
-</thinking>
-
 # Holistic Pain Management Preferences Survey - Help Guide
 ## Purpose
 This form collects information about your preferences for managing pain. The survey consists of six questions, which are divided into sections for easier completion.

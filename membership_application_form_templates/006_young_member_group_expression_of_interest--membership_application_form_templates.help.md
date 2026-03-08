@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # young-member-group-expression-of-interest - Help Guide
 ## Purpose
 

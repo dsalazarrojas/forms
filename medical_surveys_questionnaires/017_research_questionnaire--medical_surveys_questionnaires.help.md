@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from users about medical surveys and questionnaires related to research, student health, and physical inactivity. This form likely serves as a tool for collecting data on a research study or project involving medical surveys and questionnaires.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information from users about medical surveys and questionnaires related to research, student health, and physical inactivity.

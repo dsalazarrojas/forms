@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed to gather information about the respondents' consumption habits, preferences, and demographics regarding powdered juice. The purpose of this survey is to understand the market trends and behavior of the target audience. This form will collect data on the frequency of purchases, preferred flavors, reasons for purchasing, and overall satisfaction level with powdered juice. 
-
-  Note: To avoid duplication, please do not fill out this form if you have already participated in a similar survey in the past 6 months. 
-
-</thinking>
 # Powdered Juice Consumption Survey - Help Guide
 
 ## Purpose

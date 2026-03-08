@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a new website project from a client or internal team member. The form is designed to be simple and easy to fill out. Please review the form carefully and ensure you are submitting accurate and relevant information to help us better understand the project requirements.
-</thinking>
-
 # Website Intake Form - Help Guide
 ## Purpose
 The Website Intake Form is used to gather essential details about a new website project. This form helps us to understand the project's scope, requirements, and expectations from the client or internal team member.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of a marketing plan. It's a checklist to help assess various aspects of a marketing strategy, including marketing plan name, target market, marketing strategy, marketing milestones, strategy quality, marketing objectives, marketing strategy score, customer satisfaction, data quality, and feedback. This form is meant to be used by marketing professionals to gauge the success of their marketing efforts and identify areas for improvement.
-
-To avoid duplication, this form is based on general best practices and publicly available information in the marketing industry. The AI-generated form is not affiliated with, endorsed by, or derived from any form platform and is released under CC BY 4.0. You are free to use, modify, and share this form as needed.
-</thinking>
-
 # Marketing Plan Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of a marketing plan by assessing various aspects of the strategy. It's a helpful tool for marketing professionals to identify strengths and weaknesses of their marketing plan and make data-driven decisions.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for collecting information about patients. The purpose of this form is to capture essential details about a patient's demographics, medical history, and contact information. This form should not be used for other purposes such as taking payments, scheduling appointments, or other activities outside the scope of a patient's medical history collection.
-
-</thinking>
-
 # Patient Information - Help Guide
 ## Purpose
 The Patient Information form is designed to collect relevant data for patients' medical records. 

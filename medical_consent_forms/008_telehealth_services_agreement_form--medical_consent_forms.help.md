@@ -1,9 +1,3 @@
-<thinking> 
-  This form is designed to gather necessary information from patients who are going to receive telehealth services. This includes demographic and medical information to ensure that we have all the required details to provide proper care and services. Please note that this form is a one-time submission and does not need to be filled out again once completed.
-
-  Before filling out this form, ensure that you have not already completed a similar form for the same purpose. Completing multiple forms with the same or similar information can lead to data duplication and inconsistencies in your medical records.
-</thinking>
-
 # Telehealth Services Agreement Form - Help Guide
 ## Purpose
 The Telehealth Services Agreement Form is designed to gather essential information from patients who are going to receive telehealth services. This form ensures that we have all the necessary details to provide proper care and services.

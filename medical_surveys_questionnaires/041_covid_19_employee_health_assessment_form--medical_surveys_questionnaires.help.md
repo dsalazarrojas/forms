@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a tool used to assess employee health status and potential exposure to COVID-19, helping to identify any potential risks or concerns that need to be addressed by the employee's management or HR department. This form should not be used as a diagnosis tool but rather as a means to gather information and provide a basic assessment of an employee's overall health status and potential exposure to COVID-19. The information collected will help to ensure the workplace remains a safe and healthy environment for everyone.
-
-</thinking>
-
 # COVID 19 Employee Health Assessment Form - Help Guide
 
 ## Purpose

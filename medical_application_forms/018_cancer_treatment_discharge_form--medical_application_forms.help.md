@@ -1,29 +1,3 @@
-<thinking>
-We need to ensure that the end-users understand the purpose and importance of this form and that it's not a duplicate task for them to fill. This guide will help them navigate the form efficiently and effectively.
-
-This form is for patients to record their discharge information after receiving cancer treatment. The goal is to gather essential details about their treatment, medical records, and follow-up care instructions. It's crucial that patients fill out this form accurately to ensure a smooth transition to their post-treatment care. If they have already filled out this form, please review the guide to confirm the required information and updates.
-
-To complete this form, please follow these steps:
-
-1.  Enter your full name and medical record number (MRN) accurately as registered in the facility.
-2.  Provide your date of birth and discharge date as recorded in your treatment records.
-3.  Select the discharging department as it appears on your treatment records.
-4.  Describe your treatment summary, including all the procedures you received.
-5.  Choose all the treatments you completed during your visit.
-6.  Provide an assessment of your response to treatment, as guided by your healthcare provider.
-7.  Describe post-treatment care instructions provided by your healthcare team.
-8.  List any medications you've been prescribed and their schedules.
-9.  Provide the name and location of your preferred pharmacy for medication pickup.
-10.  Specify any dietary restrictions or activity limitations as advised by your healthcare team.
-11.  Choose how you will follow up with your healthcare team, including emergency contact information.
-12.  Select any symptoms you should report immediately to the clinic or emergency services.
-13.  Confirm that you understand the post-treatment care instructions.
-14.  Finally, date and submit the form, marking the date of completion.
-
-Each field in this guide will walk you through each part of the form.
-
-</thinking>
-
 # Cancer Treatment Discharge Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to display the current inventory status of a product in Color Street. This information is crucial for account managers or stylists to keep track of stock levels, plan restocking, and ensure that products are available for sale. The form should only be filled out for products that are currently being stocked and sold. Please ensure that you have a valid login session to access this form.
-</thinking>
-
 # Color Street Current Inventory - Help Guide
 ## Purpose
 The Color Street Current Inventory form is used to display the current stock status of a product. It provides an overview of the product's details, including the owner name, internal identifier (SKU or product code), product name, quantity on hand, reorder threshold, storage location, last restock date, supplier, and notes.

@@ -1,9 +1,3 @@
-<thinking>
-This guide is for the "mental_health_clinic_patient_intake_questionnaire" form, a tool designed to aid mental health clinics in gathering essential patient information for diagnosis and treatment planning. This form helps clinics efficiently capture critical data from patients, streamlining the intake process and enhancing patient care. 
-
-To ensure accurate patient data, please note that this form is not a substitute for a comprehensive medical evaluation, and patients should seek in-person consultations with licensed professionals for personalized treatment. 
-</thinking>
-
 # mental_health_clinic_patient_intake_questionnaire - Help Guide
 ## Purpose
 This form is used by mental health clinics to gather essential patient information for diagnosis and treatment planning purposes.

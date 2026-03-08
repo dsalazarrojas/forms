@@ -1,5 +1,3 @@
-<thinking>As this form is designed to be used by marketing teams to request and manage Salesforce campaigns, it's essential to ensure that the form is completed accurately and thoroughly. Before starting, please check if you're eligible to use this form. If a campaign is already in progress, please do not fill out this form again. If you're unsure, reach out to your marketing team for clarification.</thinking>
-
 # sfdc_campaign_request_form - Help Guide
 ## Purpose
 This form is designed to be used by marketing teams to request and manage Salesforce campaigns. It captures essential information about the campaign, including title, client details, and expected return on investment.

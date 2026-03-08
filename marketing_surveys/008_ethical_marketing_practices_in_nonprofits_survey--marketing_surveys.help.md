@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to help nonprofit organizations assess their marketing practices and identify areas for improvement. It's designed to be a starting point for organizations to reflect on their current marketing efforts and goals, and to gather data that can inform future marketing decisions. This form should not be used as a standalone assessment, but rather as a tool to stimulate discussion and review of marketing practices within the organization.
-Before completing this form, please ensure that you are not duplicating effort or answering questions that are not relevant to your organization's marketing practices.
-</thinking>
-
 # Ethical Marketing Practices In Nonprofits Survey - Help Guide
 ## Purpose
 The purpose of this survey is to help nonprofit organizations assess their marketing practices and identify areas for improvement. It is designed to be a starting point for organizations to reflect on their current marketing efforts and goals.

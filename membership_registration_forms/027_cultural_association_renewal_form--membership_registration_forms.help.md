@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to facilitate the renewal process of cultural associations. The association's internal reasoning checks for relevance and non-duplication of membership data to ensure accurate and efficient renewal process.
-
-The form is designed to gather member information, membership details, and payment information. Each field is essential in ensuring that the association's database is up-to-date and accurate. The form is not intended to be a comprehensive membership application form, but rather a renewal process for existing members.
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation of a public survey topic metadata.
-
-The association's internal reasoning checks for:
-
-- Relevance: ensuring that the member's information and details are accurate and up-to-date.
-- Non-duplication: preventing duplicate submissions to avoid data inconsistency.
-</thinking>
-
 # Cultural Association Renewal Form - Help Guide
 
 ## Purpose

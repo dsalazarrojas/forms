@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to collect user feedback and insights on their experience with a product or service. The purpose of this form is to help the business understand customer perceptions, preferences, and behaviors. It may be used to identify areas of improvement, measure customer satisfaction, and inform marketing strategies.
-
-The form is designed to be completed by customers who have visited a particular store or location. It is not intended for employees or other stakeholders of the business.
-
-The form is not meant to be a transactional form, but rather a collection of open-ended questions that aim to gather in-depth information from customers. The questions are meant to be completed by the customer themselves, and the responses will be reviewed and analyzed by the business to inform future improvements.
-
-Please ensure that you are completing this form in the context of your actual experience and not as an exercise in hypotheticals.
-
-Please note that if you've already completed this form, you do not need to do so again. If you have any questions or concerns, please reach out to us directly.
-
-</thinking>
-
 # market_segmentation_questionnaire - Help Guide
 ## Purpose
 The **Market Segmentation Questionnaire** is designed to gather in-depth insights from customers about their experiences and perceptions of our products and services. This information helps us better understand our customers and inform our marketing strategies.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information related to human respiration assessment, including various factors that could impact respiratory health. The purpose of this form is to collect data on symptoms, risk factors, medical history, and other relevant factors to help healthcare professionals assess the overall respiratory health of an individual. Before proceeding, ensure that this form is relevant to your situation and not a duplicate of another form. If you're unsure, please consult with a healthcare professional for guidance.
-</thinking>
-
 # Human Respiration Assessment - Help Guide
 
 ## Purpose

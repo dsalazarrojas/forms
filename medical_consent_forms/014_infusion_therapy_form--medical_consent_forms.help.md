@@ -25,6 +25,3 @@ To complete this form, follow these steps:
 * Make sure to double-check all fields for accuracy before submitting the form.
 * If you have any questions or concerns, please ask your healthcare provider.
 * This form is for informational purposes only and is not a substitute for medical care.
-<thinking>
-This form is designed to capture relevant information from patients undergoing infusion therapy treatment. It is not intended to be a duplicate of existing medical records, but rather a complementary tool to aid in treatment planning and coordination. Before filling out this form, please review your official medical records to ensure the information is accurate and up-to-date.
-</thinking>

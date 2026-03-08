@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's heart health risk factors and habits. This form is used to collect data on various aspects of a person's medical history, lifestyle, and habits that can impact their heart health. The form will help in identifying potential risks and provide valuable information for healthcare professionals to make informed decisions.
-
-This form should not be used for clinical diagnosis or treatment purposes. It is meant for general assessment and education.
-
-This form is not meant to replace professional medical advice, and any results or recommendations obtained from this form should not be used as a substitute for professional medical attention.
-
-</thinking>
-
 # Heart Health Assessment - Help Guide
 ## Purpose
 The purpose of this Heart Health Assessment form is to gather information about an individual's heart health risk factors and habits. This data will help healthcare professionals understand the individual's risk level for heart disease and provide personalized recommendations for improving heart health.

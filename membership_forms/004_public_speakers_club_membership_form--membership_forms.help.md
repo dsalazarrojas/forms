@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_speakers_club_membership_form - Help Guide
 
 ## Purpose

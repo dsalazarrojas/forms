@@ -1,7 +1,3 @@
-<thinking>
-The "Declaration Of Compliance Covid 19 Form" is a medical survey designed to collect information from individuals who have received the COVID-19 vaccine. The form is intended to gather data on vaccine administration, including the number of doses received, vaccination location, and proof of vaccination. This form will help healthcare providers and authorities to track the vaccination progress and ensure compliance with vaccination protocols. **Please note that this form is a required documentation for individuals who have undergone COVID-19 vaccination.**
-</thinking>
-
 # Declaration Of Compliance Covid 19 Form - Help Guide
 ## Purpose
 This form is a crucial document that provides a record of COVID-19 vaccination. It ensures that healthcare providers and authorities have accurate and up-to-date information on vaccine administration.

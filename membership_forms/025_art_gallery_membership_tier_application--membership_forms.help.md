@@ -1,15 +1,3 @@
-<thinking>
-
-This form is likely to be used to collect information from potential members who are interested in becoming a member of an art gallery. The form asks for various details about the applicant, including their contact information, membership tier, and payment method. The form also asks about the applicant's interests and preferences, such as whether they would like to receive the gallery's newsletter, event invitations, or be involved in volunteering.
-
-Before filling out this form, please make sure you are aware of the following:
-
-* The form is meant for individuals who are interested in becoming a member of the art gallery.
-* The form is not intended for non-members or non-art gallery related purposes.
-* The form is not a substitute for a formal application or membership request.
-
-</thinking>
-
 # Art Gallery Membership Tier Application - Help Guide
 ## Purpose
 The Art Gallery Membership Tier Application form is designed to collect information from potential members who are interested in becoming a member of the art gallery. This form helps us understand your interests and preferences, and allows us to tailor our services to your needs.

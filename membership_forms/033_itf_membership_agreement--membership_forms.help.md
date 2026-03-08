@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about new membership applicants. The purpose of this form is to collect demographic data, emergency contact information, and medical history to ensure that the membership process is completed correctly and safely for all parties involved. This form is a critical part of the membership application process and should only be submitted once the applicant has been properly vetted and cleared for membership.
-
-</thinking>
-
 # itf_membership_agreement - Help Guide
 ## Purpose
 This form is used to collect information about new membership applicants, including demographic data, emergency contact information, and medical history.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's experiences and symptoms of anxiety. The goal is to gather information on various aspects of anxiety, including symptoms, severity, impact on daily life, and coping strategies. This information will help us better understand anxiety and its effects on individuals.
-
-To ensure that you are completing this form accurately, please note that:
-
-* You should answer honestly and truthfully based on your personal experiences with anxiety.
-* You can refer to any relevant information or resources provided in the form to help guide your responses.
-* If you have any questions or concerns, please feel free to ask for clarification or guidance.
-
-</thinking>
-
 # Anxiety Questionnaire - Help Guide
 ## Purpose
 The anxiety questionnaire is a tool to help us better understand anxiety and its effects on individuals. It will help us gather information on various aspects of anxiety, including symptoms, severity, impact on daily life, and coping strategies.

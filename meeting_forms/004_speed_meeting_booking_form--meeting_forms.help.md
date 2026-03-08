@@ -1,9 +1,3 @@
-<thinking>Internal reasoning:
-
-*   This form is used for booking speed meetings with attendees. It's designed to collect details about the meeting start and end times, meeting types, venues, attendees, and other relevant information. 
-*   Before using this form, please ensure that you have the necessary permissions and approvals to book a meeting. 
-*   This form will help you to create meeting bookings efficiently and effectively. Please note that the form does not allow for the duplication of meetings with the same attendees.</thinking>
-
 # Speed Meeting Booking Form - Help Guide
 ## Purpose
 The Speed Meeting Booking Form is a tool used to create meeting bookings with attendees. It allows you to collect meeting details, attendees, and other relevant information in a structured and organized way.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # High Dose IV Therapy Assessment - Help Guide
 ## Purpose
 The High Dose IV Therapy Assessment form is used to collect information about patients undergoing high dose IV therapy. This form helps gather crucial details about the patient's medical history, current treatment, and medical device information to ensure safe and effective treatment.

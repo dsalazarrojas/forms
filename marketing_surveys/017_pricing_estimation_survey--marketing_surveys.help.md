@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I'll follow the provided instructions and guidelines.
-
-</thinking>
-
 # pricing_estimation_survey - Help Guide
 ## Purpose
 The pricing_estimation_survey form is used to gather estimates for pricing-related surveys. This form is designed to collect information from end-users to help the business make informed decisions about pricing.

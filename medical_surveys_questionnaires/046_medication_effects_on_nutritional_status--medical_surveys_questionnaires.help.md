@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medication_effects_on_nutritional_status - Help Guide
 ## Purpose
 The purpose of this form is to collect information on how medications may affect a patient's nutritional status. This includes gathering data on the patient's medical condition, list of medications, dietary restrictions, and other related factors. The collected data will help in better understanding the effects of medications on a patient's nutritional status.

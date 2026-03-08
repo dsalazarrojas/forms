@@ -1,5 +1,3 @@
-<thinking>...The purpose of this Denture Consent Form is to gather necessary information from patients or individuals interested in getting dentures, ensuring they understand the process, risks, and benefits associated with the treatment. This form helps the dentist or medical professional gather consent, contact information, and other relevant details... </thinking>
-
 # Denture Consent Form - Help Guide
 ## Purpose
 The Denture Consent Form is a document that patients or individuals seeking denture services use to provide necessary information and consent for the treatment.

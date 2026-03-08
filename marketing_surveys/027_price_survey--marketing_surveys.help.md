@@ -1,5 +1,3 @@
-<thinking>As a designer of user interfaces, I'm considering the purpose and structure of this form for the "price_survey" form in the "marketing_surveys" category. This form appears to be a survey for gathering information about products, their prices, and related details. The form has a total of 8 fields, with a mix of text, select, date, time, note, and email fields. To ensure clarity and usability, I'll provide a concise and practical help guide to assist end-users in completing this form correctly.</thinking>
-
 # price_survey - Help Guide
 ## Purpose
 The price_survey form is used to collect information about products, including their names, types, price ranges, and other relevant details.

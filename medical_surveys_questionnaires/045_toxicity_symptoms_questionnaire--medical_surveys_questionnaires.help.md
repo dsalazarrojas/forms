@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's symptoms related to toxicity exposure. The purpose of this form is to gather details about the exposure location, symptom duration, frequency, and severity, as well as the individual's medical treatment and follow-up information. This form is typically used in medical settings to track and monitor the progression of symptoms and treatment outcomes.
-To ensure accurate and relevant data collection, please only complete this form if you have been exposed to a toxic substance or suspect that you may have been exposed. If you have any concerns about your exposure or symptoms, please seek medical attention immediately.
-</thinking>
-
 # Toxicity Symptoms Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's symptoms related to toxicity exposure.

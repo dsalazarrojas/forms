@@ -1,18 +1,3 @@
-<thinking>
-This form is for customers to clarify details about a seasonal promotion. The purpose of this form is to gather information from customers about their seasonal promotion needs and preferences. 
-
-The form is designed to be completed by customers who are interested in learning more about a seasonal promotion. It's a one-time contact form, so customers will only fill it out once. 
-
-Please note that some fields are marked as "required", this means that the customer must fill out those fields to submit the form successfully. Other fields are not required, which means the customer can choose to fill them out or leave them blank. 
-
-Before filling out the form, the customer will likely have some prior knowledge about the seasonal promotion they are interested in. They should be aware of their name, email, phone number, question, seasonal promotion, location, date, and other details relevant to the promotion.
-
-When filling out the form, the customer should be able to provide accurate information about their name, email, phone number, question, seasonal promotion, location, date, and time. They should also be able to describe the seasonal promotion they are interested in, including its description, status, notes, and any other relevant details.
-
-The customer's input will be used to clarify their seasonal promotion needs and preferences, and to provide them with the relevant information they need.
-
-</thinking>
-
 # Seasonal Offer Clarification Contact Form - Help Guide
 ## Purpose
 This form is for customers to clarify details about a seasonal promotion and gather information about their needs and preferences.

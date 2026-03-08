@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is for members to nominating their graduation ceremony, which can help the administration team to better plan and organize the event. 
-
-Before filling out this form, please make sure you are not duplicating the graduation of a member that has already been nominated. To ensure accuracy, you can check the current graduation list by contacting the membership department.
-
-Please note that some fields are optional, but filling them out will provide the membership team with more information to make the graduation ceremony more personalized and memorable for the graduate.
-
-</thinking>
-
 # Membership Nomination Form - Help Guide
 ## Purpose
 The Membership Nomination Form is used by members to nominate their graduation ceremony.

@@ -1,10 +1,3 @@
-<thinking>
-The Acute Care Billing Form is designed to collect information necessary for billing purposes after an acute care visit. This form ensures that patients' personal and insurance details are accurately captured, allowing for seamless billing and payment processing. 
-
-The form is intended to be completed by patients or their authorized representatives. It is crucial to fill it out accurately and thoroughly to avoid any discrepancies or delays in billing and payment processing.
-
-To prevent duplication or incorrect filling out of the form, patients or authorized representatives can only access the form once they have logged in. The form can be accessed through a secure and dedicated platform, ensuring all necessary security measures are in place.</thinking>
-
 # Acute Care Billing Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information necessary for accurate and efficient billing and payment processing after an acute care visit.

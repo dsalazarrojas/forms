@@ -1,8 +1,3 @@
-<thinking>
-The form appears to be a survey intended to gather information about the target audience's media consumption habits. The form is designed to capture a wide range of data, including the target audience's preferences for different types of media (e.g., radio, TV, movies, online video, podcasts, etc.), as well as their time spent consuming media per week. Additionally, the form collects demographic information such as age group, gender, income, occupation, region, city, country, postal code, IP, MAC, browser, device, OS, platform, and language. The survey also asks for the survey date.
-It's possible that the form is designed for market research or marketing purposes, but further details about the specific goals of the survey are not available.
-</thinking>
-
 # Media Consumption Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the target audience's media consumption habits and demographics to help with market research or marketing efforts.

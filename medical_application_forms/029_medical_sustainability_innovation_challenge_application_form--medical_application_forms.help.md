@@ -1,5 +1,3 @@
-<thinking>...This form is designed for applicants to Medical Sustainability Innovation Challenge, a competition focused on innovative ideas that promote medical sustainability. This guide will help you understand the form's purpose, how to complete it, and each field's explanation. Ensure you've reviewed the form's purpose and fit before proceeding. Note that this form is AI-generated and not affiliated with any specific platform. It's an original adaptation of public survey metadata, and you're free to use, modify, or sell it, giving credit where due. Please contact <form@gic.mx> for more information.</thinking>
-
 # Medical Sustainability Innovation Challenge Application Form - Help Guide
 ## Purpose
 The Medical Sustainability Innovation Challenge Application Form is for applicants to submit their innovative ideas that promote medical sustainability. This form will guide you through the application process.

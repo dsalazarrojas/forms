@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients undergoing hydrogen peroxide treatment. The purpose of this form is to gather information about the patient's medical history, contact information, and consent for the treatment. This form should be completed by the patient or their authorized representative. 
-</thinking>
-
 # Hydrogen Peroxide Treatment Agreement - Help Guide
 ## Purpose
 This form is a medical consent form for patients undergoing hydrogen peroxide treatment. It is intended to gather information about the patient's medical history, contact information, and consent for the treatment.

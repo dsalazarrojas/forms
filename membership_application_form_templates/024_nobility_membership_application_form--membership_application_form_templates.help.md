@@ -1,8 +1,4 @@
 >
-<thinking>
-This form is used for applicants seeking membership in a nobility order. The purpose of this form is to gather information about the applicant and their motivation for joining the order. The form collects various details such as user contact information, noble order affiliation, and declarations. This form should only be filled out by individuals who have not previously submitted an application for membership in this order. If an individual has already submitted an application, please do not resubmit. This form serves as the primary means of communication between the applicant and the nobility order, so please ensure all fields are filled out accurately and completely.
-</thinking>
-
 # Nobility Membership Application Form - Help Guide
 ## Purpose
 This form is used for applicants seeking membership in a nobility order. The purpose of this form is to gather information about the applicant and their motivation for joining the order.

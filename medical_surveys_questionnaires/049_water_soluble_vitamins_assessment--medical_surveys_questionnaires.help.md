@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Water Soluble Vitamins Assessment - Help Guide
 ## Purpose
 The Water Soluble Vitamins Assessment is a form designed to evaluate an individual's intake and experience with water-soluble vitamins, including their frequency of use, dosage, and potential side effects. This form is intended to gather information on the use and effects of water-soluble vitamins, which can help medical professionals make informed decisions about treatment and care.

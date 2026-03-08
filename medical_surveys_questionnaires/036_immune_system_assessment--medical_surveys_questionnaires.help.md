@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect and assess the immune system status of patients. The form is used to gather medical history, symptoms, lab results, medications, immunizations, allergies, medical conditions, immune system status, and contact information for both the doctor and patient. This form should only be completed by medical professionals or authorized personnel. Please ensure that you are authorized to access and use this form before proceeding.
-
-</thinking>
-
 # immune_system_assessment - Help Guide
 ## Purpose
 The immune_system_assessment form is a tool used to collect and assess the immune system status of patients. It is used by medical professionals to gather vital information about a patient's medical history, symptoms, lab results, and other relevant health information.

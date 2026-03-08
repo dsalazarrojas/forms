@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Enablement Insight Survey - Help Guide
 ## Purpose
 The Enablement Insight Survey is a tool to gather information about enablement programs within your organization. It helps to understand the goals, targets, and frequency of enablement programs, as well as their impact on your team's productivity. This survey is designed to be completed by the person responsible for the enablement program.

@@ -1,7 +1,3 @@
-<thinking>
-The "Virtual Doula Consent Form" is a crucial document that outlines the terms of consent for clients to share their personal information and medical consents with their designated healthcare providers. This form must be completed accurately and truthfully, and its primary purpose is to provide a clear and comprehensive understanding of the client's wishes regarding the sharing of their information and medical consents. Before proceeding, ensure this form is being used for its intended purpose and not for any other use, such as creating a fake or test account. Please note that the form's fields and options are designed to be used for this specific use case and should not be modified without proper understanding and authorization from the form designers.
-</thinking>
-
 # Virtual Doula Consent Form - Help Guide
 ## Purpose
 The Virtual Doula Consent Form is a document that outlines the terms of consent for clients to share their personal information and medical consents with their designated healthcare providers.

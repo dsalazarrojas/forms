@@ -1,10 +1,3 @@
-<thinking>
-This form is a gateway for patients to access the Medical Consultation Portal. The form will help to filter and categorize the patients based on their medical needs. The fields in this form are designed to collect relevant information to ensure that the patient gets the right medical consultation or assistance. This form will be used by patients who have already been registered on the portal.
-
-Before filling this form, please ensure that you have an active account on the Medical Consultation Portal and you have already agreed to the terms of use. If you are already a registered user, you may be able to log in directly to the portal instead of filling this form.
-
-Please fill in the form accurately and completely to ensure that you get the right medical consultation or assistance.</thinking>
-
 # Medical Consultation Portal Access Form - Help Guide
 ## Purpose
 The Medical Consultation Portal Access Form is a gateway for patients to access the Medical Consultation Portal. This form will help to filter and categorize the patients based on their medical needs.

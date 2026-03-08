@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers after a purchase has been made. It will help us understand their experience and opinions on the products they've purchased. To avoid duplicating efforts, please complete the form only once for each purchase.
-
-To ensure that your input is collected correctly, please follow these steps:
-
-1. Review your purchase history to ensure you're only completing the form for the correct purchase.
-2. Select the product you purchased from the options provided.
-3. Rate your experience with the product, using the number field.
-4. Share any comments or feedback you have about your experience.
-5. Provide your contact information, including email and phone number.
-6. Choose your preferred method of contact for future communication.
-7. Provide any additional comments or feedback.
-8. Add a digital signature, if required.
-
-</thinking>
-
 # Post Purchase Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers after a purchase has been made.

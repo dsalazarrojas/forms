@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of the form, let's analyze the input YAML schema. The form is named "online_diagnostic_evaluation_form" and has multiple pages with various fields, including text inputs, select options, and checkboxes. This suggests that the form is designed for gathering information about a patient's medical history, medications, mental health, and other relevant factors. The form might be used for diagnostic purposes, such as assessing the patient's health status or identifying potential risks or conditions. To confirm this, we need to review the content of each field.
-</thinking>
-
 # online_diagnostic_evaluation_form - Help Guide
 ## Purpose
 The online diagnostic evaluation form is designed to gather information about a patient's medical history, medications, and other relevant factors for diagnostic purposes.

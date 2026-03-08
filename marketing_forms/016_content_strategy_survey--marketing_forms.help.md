@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather information from respondents about their content consumption habits, job roles, and preferences. The form will help the content team create targeted and effective content strategies.
-
-This form will help the content team:
-- Get insights on respondents' job roles and industries
-- Understand their content consumption habits and preferences
-- Gather feedback on current content performance
-- Identify areas for improvement and missing topics
-
-Please ensure that you are filling out the form based on your personal experience and not on behalf of your organization. This form is intended to be a one-time survey and will take approximately 5-10 minutes to complete.
-
-Please note that the form has 12 fields in total, and all required fields are marked as "true" in the form definition.
-</thinking>
-
 # Content Strategy Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your content consumption habits, job roles, and preferences. The collected data will help our content team create targeted and effective content strategies.

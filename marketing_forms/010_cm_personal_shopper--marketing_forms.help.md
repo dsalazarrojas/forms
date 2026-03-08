@@ -1,7 +1,3 @@
-<thinking>
-This form is used for CM Personal Shopper, a service that helps clients find the perfect outfit for their needs. This form is used to gather information from clients about their preferences, style, and needs. This information is used to tailor the shopping experience and provide the best possible results. The form should only be filled out by clients, and not by employees or administrators who are trying to create new clients.
-</thinking>
-
 # CM Personal Shopper - Help Guide
 ## Purpose
 The CM Personal Shopper form is used to gather information from clients about their preferences, style, and needs to provide the best possible shopping experience.

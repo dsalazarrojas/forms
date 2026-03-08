@@ -1,17 +1,3 @@
-<thinking>
-We will create a help guide for the "prescriber_survey_substance_use_disorder" form. This form is designed to collect information about the substance use disorder survey from a prescriber. It will be used to gather data on the prescriber's experience and perceptions related to substance use disorder.
-
-This form is not meant to be filled out by people with substance use disorder directly. Instead, it's designed for healthcare providers to report their experiences and observations about patients they have interacted with who may have a substance use disorder.
-
-The form should not be filled out by anyone who has a substance use disorder themselves. If you're a patient or a person with a substance use disorder, please do not fill out this form. This form is for healthcare providers only.
-
-Please fill out this form if you are a healthcare provider who has interacted with a patient who may have a substance use disorder. You will need to answer questions about your experiences and observations about this patient's use of substances and your care and treatment plans for this patient.
-
-The form has multiple pages. You will fill out each page separately, answering questions about your interactions with the patient and your assessments of their substance use disorder.
-
-The following are explanations of each field:
-</thinking>
-
 # prescriber_survey_substance_use_disorder - Help Guide
 
 ## Purpose

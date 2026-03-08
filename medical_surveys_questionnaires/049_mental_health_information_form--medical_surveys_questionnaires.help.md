@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect mental health information from individuals or organizations. 
-Please note that this form is intended for informational purposes only, and the collected data will be used to provide guidance and support services. 
-If you are seeking immediate help or support, please reach out to a mental health professional or a crisis hotline.
-
-Before starting, ensure you have not completed this form previously. 
-
-</thinking>
-
 # mental_health_information_form - Help Guide
 ## Purpose
 This form is designed to collect mental health information from individuals or organizations for guidance and support services.

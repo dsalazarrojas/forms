@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect personal and contact information from users wishing to register for membership with the Judo Club. The purpose of this form is to gather the necessary details to facilitate a smooth and secure membership experience for the individual. This form is not meant to replace any existing member information or replace the club's administrative processes. By using this form, the individual will be able to register their details accurately and efficiently, ensuring they are well-prepared for their membership journey with the Judo Club.
-</thinking>
-
 # Judo Club Membership Registration Form - Help Guide
 ## Purpose
 The Judo Club Membership Registration Form is designed to collect essential information from individuals interested in joining the Judo Club. This form helps the club's administrative staff to efficiently process membership applications and provide a secure and enjoyable experience for all members.

@@ -1,10 +1,3 @@
-<thinking>
-The "Patient Extensive Intake Form" is a comprehensive form designed to gather detailed information about a patient's medical condition, contact details, and personal history. Before starting to fill out the form, please make sure that:
-- You have the patient's consent to fill out this form.
-- You are filling out the correct form for the intended patient.
-This form is designed to be completed by the patient themselves, or with the patient's assistance, to ensure accurate and comprehensive information is provided.
-</thinking>
-
 # Patient Extensive Intake Form - Help Guide
 
 ## Purpose

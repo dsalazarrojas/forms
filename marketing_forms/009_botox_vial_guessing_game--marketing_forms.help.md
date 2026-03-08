@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic and preference information from participants in a Botox Vial Guessing Game contest. The form is designed to capture personal details such as name, contact information, and demographic data (age, date of birth, and patient status), as well as gather information about their participation experience, interest in Botox treatment, and preferences for marketing communications.
-This form is intended to be completed by individuals who wish to participate in the contest, and the collected data will be used for winner announcement, marketing, and promotional purposes.
-We want to ensure that each participant completes the form correctly, so we will provide a clear and concise guide on how to fill out the form.
-</thinking>
-
 # Botox Vial Guessing Game - Help Guide
 ## Purpose
 The Botox Vial Guessing Game form is a contest where participants try to guess the number of vials of Botox in a display. This guide will walk you through the required steps to complete the form correctly.

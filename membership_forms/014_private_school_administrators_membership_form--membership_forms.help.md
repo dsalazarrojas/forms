@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from private school administrators, aiming to understand their background, experience, and reasons for joining a network. The form gathers contact details, school information, and administrative roles, which will be used to create a network for private school administrators. This form does not contain sensitive or personal identifiable information and is intended for data collection and analysis.
-</thinking>
-
 # Private School Administrators Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from private school administrators, aiming to create a network of school administrators. Please help us by filling out this form accurately and completely.

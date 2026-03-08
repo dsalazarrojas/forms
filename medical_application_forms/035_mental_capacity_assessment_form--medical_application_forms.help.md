@@ -1,9 +1,3 @@
-<thinking> 
-The Mental Capacity Assessment Form is used to evaluate a patient's mental capacity, which is their ability to understand, make decisions, and manage their medical condition. This form is designed to assess a patient's capacity in various aspects, such as understanding medical information, making healthcare decisions, and managing daily living activities. 
-It is essential to fill out this form accurately, as the results will help healthcare providers understand the patient's mental capacity and provide appropriate care and support. 
-Please note that the answers to this form are crucial in determining the level of support and care the patient requires. 
-</thinking>
-
 # Mental Capacity Assessment Form - Help Guide
 ## Purpose
 The Mental Capacity Assessment Form is used to evaluate a patient's mental capacity, which is their ability to understand, make decisions, and manage their medical condition.

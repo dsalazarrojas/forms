@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to document the discharge process for patients who require special dietary counseling. It is intended to be completed by medical staff to gather information on the patient's medical condition, allergies, medications, and discharge plan. This form is usually filled out at the time of discharge to ensure that the patient receives the necessary information to maintain their health and well-being outside of the hospital. It is also used to inform the next steps in the patient's care, such as scheduling follow-up appointments.
-
-Before filling out this form, ensure that you have the necessary information and permissions to do so. If you are unsure about any section, please seek guidance from the patient's healthcare provider. 
-
-The form should only be filled out once per patient, and not for multiple patients.
-
-</thinking>
-
 # special_diet_counseling_discharge_form - Help Guide
 ## Purpose
 This form is used to gather information about a patient's medical condition, discharge plans, and other relevant details to ensure a smooth discharge process.

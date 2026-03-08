@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from doctors about a new medication. The form has 8 fields that ask for information about the medication's name, dosage, patient outcomes, patient side effects, clinician comments, overall satisfaction with the medication, and comparative satisfaction with other medications.
-
-To ensure that this form is filled out correctly and accurately, it's essential to understand the purpose and context of each field. Therefore, we'll review each field in detail to avoid duplication and confusion.
-
-</thinking>
-
 # Doctor Feedback: New Medication Questionnaire - Help Guide
 
 ## Purpose

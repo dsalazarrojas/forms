@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for medical purposes, such as medical history, symptoms, treatment plans, and contact details. It is intended to be filled out by patients or their representatives, and is likely to be used by healthcare professionals for diagnosis, treatment, and record-keeping purposes. This form is likely to be used in a medical setting, such as a hospital, clinic, or doctor's office.
-Before proceeding, ensure that you are authorized to access this form and have the necessary permissions and consents to collect and use the information it contains.
-Note that some fields are marked as required, which means that the form will not be able to be submitted until a value is entered into them.
-</thinking>
-
 # Medical Symptoms Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information from patients for medical purposes. It is intended to be filled out by patients or their representatives.

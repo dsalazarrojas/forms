@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect self-reported health assessment data from users. It is intended to be completed by individuals for their own personal health tracking and assessment purposes. Please ensure that you are completing this form in a way that is accurate and honest, as the information collected will be used for your personal benefit. If you have completed this form before, it is recommended that you review and update your previous responses to reflect any changes in your health status. This form is not intended for use in medical diagnoses or treatment planning; if you have concerns about your health, please consult a qualified healthcare professional for personalized advice.
-</thinking>
-
 # self-health-assessment-form - Help Guide
 ## Purpose
 This form is a self-reported health assessment tool designed to collect information about your health concerns and status.

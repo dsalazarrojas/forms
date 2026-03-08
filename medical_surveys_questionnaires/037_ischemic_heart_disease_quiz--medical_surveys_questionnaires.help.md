@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess individuals' awareness and understanding of ischemic heart disease. Ischemic heart disease is a condition where the heart muscle becomes damaged due to a lack of blood flow, which can lead to angina, myocardial infarction, or other heart-related disorders. The form is not intended to diagnose or provide a comprehensive medical evaluation, but rather to educate individuals about the signs, symptoms, and risk factors associated with ischemic heart disease. This form will ask about various aspects of heart disease, including symptoms, risk factors, treatments, and medical procedures. 
-
-</thinking>
-
 # Ischemic Heart Disease Quiz - Help Guide
 ## Purpose
 This form is designed to educate individuals about ischemic heart disease, its symptoms, risk factors, and associated medical procedures.

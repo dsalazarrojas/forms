@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Reality Therapy Research Evaluation Form - Help Guide
 
 ## Purpose

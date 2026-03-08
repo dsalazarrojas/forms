@@ -1,11 +1,3 @@
-<thinking>
-This form is used to document and process hospitalization claims. It captures key information related to the claimant's hospitalization, including details about the hospitalization event, the admitting doctor and their specialty, the reason for hospitalization, and the claim status. The form is intended for internal use within the organization, and it is not intended to be used as a template for external communication. 
-
-Please ensure that you have all necessary information before filling out this form, as some fields may not be required but are crucial in processing the claim.
-
-To avoid duplication, ensure that you are not filling this form for a claim that has already been processed.
-</thinking>
-
 # Hospitalization Claim Form - Help Guide
 ## Purpose
 This form is used to document and process hospitalization claims.

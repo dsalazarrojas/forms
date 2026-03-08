@@ -1,9 +1,3 @@
-<thinking>
-To determine the purpose of the form, we need to analyze the provided YAML fields. The form title is "IFT_PAC_Meeting_Notice", which suggests that it is related to meetings or events. The fields included are date, time, location, organizer, purpose, attendees, reminders, and email. These fields seem to cover the essential details of a meeting notice, such as when and where it will take place, who is organizing it, what the purpose is, who is attending, and whether reminders are needed. It's likely that this form is designed for meeting organizers to create and manage meeting notices.
-Looking at the fields, we can see that most fields are optional, and some fields like "attendees" and "reminders" are select_multiple, which suggests that they might be asking about multiple attendees or reminder options. The form does not seem to have any specific restrictions or validations, so it might be a basic template for collecting meeting information.
-Upon further analysis, it seems that this form is intended for general meeting purposes and is probably used by meeting organizers to collect and store meeting details. It might be used for internal or external communication, such as sending out meeting invites or reminders to attendees.
-</thinking>
-
 # IFT_PAC_Meeting_Notice - Help Guide
 
 ## Purpose

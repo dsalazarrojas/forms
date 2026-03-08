@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gentle Men's League Gml - Help Guide
 ## Purpose
 The Gentle Men's League Gml form is designed to collect information from users about themselves, including their first name, last name, address, email, phone number, date of birth, member type, category, and any additional description or details. The form helps the Gentle Men's League organization to better understand its members and their characteristics, and to provide personalized services or benefits to its members.

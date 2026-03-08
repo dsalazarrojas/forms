@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sustainable_steel_raw_material_order_form - Help Guide
 ## Purpose
 This form is used to place orders for sustainable steel raw materials. It captures essential details related to the delivery and customer information to ensure accurate and efficient processing of the order.

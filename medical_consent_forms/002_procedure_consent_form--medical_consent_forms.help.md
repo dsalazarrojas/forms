@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain informed consent from patients for medical procedures. The form asks the patient to provide their personal information, medical condition, description of the procedure, and other relevant details. The form also requires signatures from both the patient and the provider to confirm consent. The form's purpose is to ensure that patients are aware of the risks and benefits of the procedure and to provide a legal record of their consent.
-</thinking>
-
 # procedure_consent_form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for medical procedures. It is essential to complete this form to ensure that patients are aware of the risks and benefits of the procedure and to provide a legal record of their consent.

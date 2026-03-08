@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for capturing membership information from users. It is likely used to manage or onboard new members within a club, organization, or community. The form's purpose is to collect relevant data about the member, including personal details such as name, contact information, and membership status.
-
-Before filling out this form, ensure you are aware of the following:
-
-- The form is not intended for general public access; it's likely used internally within the organization or club.
-- There are 14 fields in total, and most are optional except for [First name, Last name].
-
-</thinking>
-
 # Wabc | Membership Form 2020 2021 - Help Guide
 ## Purpose
 This form is designed to capture membership information for users.

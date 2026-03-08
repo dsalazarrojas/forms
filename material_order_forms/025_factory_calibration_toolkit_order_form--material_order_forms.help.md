@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Factory Calibration Toolkit Order Form is to enable employees of the factory to place orders for calibration tools, allowing them to manage and record their tool inventory. This form should only be used by authorized personnel to place orders for tools that are necessary for quality control and maintenance purposes.
-
-When filling out this form, users should be aware that all fields are optional, but the more detailed information provided, the more accurate the order will be.
-
-The form is designed to be straightforward and easy to use. Below is a field-by-field explanation of each section to help guide users through the process.
-
-</thinking>
-
 # Factory Calibration Toolkit Order Form - Help Guide
 ## Purpose
 The Factory Calibration Toolkit Order Form is a tool used to place orders for calibration tools. It is designed to be simple and easy to use.

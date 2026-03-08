@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_program_intake_form - Help Guide
 ## Purpose
 This form is used to collect information from clients about their mental health programs. Please fill out this form accurately and completely to ensure a thorough understanding of the client's needs and goals.

@@ -1,6 +1,4 @@
-> <thinking>... This form is a crucial component in the Medicare prescription claim process. As a user-facing help guide, it is essential that the end-users understand the purpose and usage of the form to ensure accurate and efficient completion. This guide will cover the purpose of the form, how to complete it, and explain each field to help users navigate the form with ease. The purpose of this form is to submit a claim for reimbursement for a medical service provided to a claimant. It is used to report services to Medicare and obtain payment for these services. This guide will walk the user through the required and optional fields that need to be completed, and explain each field's purpose to ensure accurate completion. ...</thinking>
-
-# Medicare Prescription Claim Form - Help Guide
+> # Medicare Prescription Claim Form - Help Guide
 ## Purpose
 The Medicare Prescription Claim Form is used to submit a claim for reimbursement for a medical service provided to a claimant. This form is used to report services to Medicare and obtain payment for these services.
 

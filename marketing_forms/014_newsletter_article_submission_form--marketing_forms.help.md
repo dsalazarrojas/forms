@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed for users to submit a newsletter article to be featured in a publication or newsletter. Before proceeding, please note that this form is an AI-generated adaptation and does not collect or use proprietary content from any other form platforms. 
-  Before submitting, ensure that the article you submit has not been previously published or submitted through this form. This will help maintain the integrity and diversity of the newsletter content. 
-</thinking>
-
 # Newsletter Article Submission Form - Help Guide
 ## Purpose
 The Newsletter Article Submission Form is a tool for users to submit articles for consideration to be featured in a publication or newsletter.

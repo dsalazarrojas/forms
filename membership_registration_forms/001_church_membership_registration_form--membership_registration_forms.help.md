@@ -1,9 +1,3 @@
-<thinking>
-This form is a Church Membership Registration Form, designed for new members or visitors to provide their personal and spiritual background information to the church. Its primary purpose is to gather essential details for the church's administrative records and to get to know the individuals better. By completing this form, users can ensure that the church has accurate and up-to-date information about them.
-
-To avoid duplication, this form is typically filled out once for each new member or visitor.
-
-</thinking>
 # Church Membership Registration Form - Help Guide
 ## Purpose
 The Church Membership Registration Form is designed for new members or visitors to provide their personal and spiritual background information to the church. This form helps the church gather accurate and up-to-date information about them and ensures that each member or visitor has a smooth and personalized experience with the church.

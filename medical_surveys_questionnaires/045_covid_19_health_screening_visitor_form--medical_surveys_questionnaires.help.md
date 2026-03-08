@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for medical professionals to quickly assess visitors for potential COVID-19 risks. The form is likely used to identify visitors who may have been exposed to or infected with COVID-19, and to track their medical history, symptoms, and travel history. The form may be used as a screening tool to reduce the risk of COVID-19 transmission within a healthcare setting.
-</thinking>
-
 # Covid 19 Health Screening Visitor Form - Help Guide
 
 ## Purpose

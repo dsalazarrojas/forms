@@ -1,5 +1,3 @@
-<thinking>...We're designing a help guide for a user-facing form called "tv_commercial_feedback_survey". To ensure this form is useful and clear for users, let's confirm its purpose and review the form fields to prevent duplication and ensure relevance. The purpose of this form is to gather feedback from viewers on their experience with TV commercials, including their effectiveness, future marketing strategies, and demographics. Each field has been carefully designed to collect specific information, and the form is divided into several sections to make it easy to navigate... </thinking>
-
 # tv_commercial_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from viewers on their experience with TV commercials, including their effectiveness, future marketing strategies, and demographics.

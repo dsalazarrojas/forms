@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for a "Gold Membership" program. The goal is to gather member information for billing and payment purposes. It includes various fields such as member details, membership levels, billing information, and additional comments. It's recommended to review each field carefully to ensure accuracy and completeness before submitting. Ensure that all required fields have values, and that non-essential information is included where applicable. Please be aware that some fields may not be applicable to your specific situation, so review the instructions for each field carefully.
-</thinking>
-
 # Gold Membership Registration - Help Guide
 ## Purpose
 The purpose of this form is to register for a "Gold Membership" program, which is a premium subscription service offering exclusive benefits and perks. This guide will walk you through the process of completing the form accurately and completely.

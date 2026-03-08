@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seasonal Promotion Catalog Upload Form - Help Guide
 ## Purpose
 The Seasonal Promotion Catalog Upload Form is used to upload a new seasonal promotion catalog. It allows users to upload a catalog of seasonal promotions that can be used to provide offers and discounts to customers.

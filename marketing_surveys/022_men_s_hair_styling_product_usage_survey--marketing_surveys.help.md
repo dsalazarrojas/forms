@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information about men's hair styling product usage and preferences. The purpose of this form is to collect data on how often men use hair styling products, their grooming preferences, hair type, and other demographic information. This data will help us to better understand men's hair styling habits and preferences, which will inform our marketing strategies.
-
-To avoid duplication, please note that this form is designed to gather new and unique information. If you have already provided the same information through a previous survey, please do not fill out this form again.
-
-Please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Men's Hair Styling Product Usage Survey - Help Guide
 
 ## Purpose

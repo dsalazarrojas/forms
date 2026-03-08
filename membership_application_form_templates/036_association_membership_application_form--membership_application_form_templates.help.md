@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in joining the Association, including their personal details, professional background, interests, and payment method. It is recommended that you complete this form if you wish to become a member of the Association. Please ensure that you do not duplicate your membership application if you have already submitted an application. 
-</thinking>
-
 # Association Membership Application Form - Help Guide
 ## Purpose
 The Association Membership Application Form is a tool used to collect information from individuals interested in joining the Association. This guide will walk you through the process of completing the form and provide explanations for each field.

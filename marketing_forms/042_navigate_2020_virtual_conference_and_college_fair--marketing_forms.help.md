@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # navigate_2020_virtual_conference_and_college_fair - Help Guide
 ## Purpose
 

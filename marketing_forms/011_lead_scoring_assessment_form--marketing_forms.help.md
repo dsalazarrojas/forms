@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help assess and score leads based on their source, priority, engagement, score, and status. It appears to be used in a sales or marketing context, possibly for lead qualification and prioritization. The form is not explicitly stated to be for a specific product or service, so it may be a generic template. The form has multiple pages with different fields, each representing a different aspect of the lead assessment. The fields are mostly selection-based, with some allowing for numerical input. 
-
-Given the fields, the purpose of this form can be inferred as follows:
-- Assess the lead source (e.g., where did the lead come from?)
-- Determine the lead priority (e.g., how urgent is the lead?)
-- Measure lead engagement (e.g., how interested is the lead?)
-- Calculate the lead score (e.g., what is the lead's value or potential?)
-- Evaluate the lead status (e.g., is the lead still open or has it been converted/lost?)
-
-The form is likely used by sales or marketing teams to evaluate and manage leads in a structured manner.
-
-Please note that the exact context and requirements for this form may vary depending on the specific use case or product/service being sold.
-</thinking>
-
 # lead_scoring_assessment_form - Help Guide
 ## Purpose
 This form is designed to assess and score leads based on their source, priority, engagement, score, and status.

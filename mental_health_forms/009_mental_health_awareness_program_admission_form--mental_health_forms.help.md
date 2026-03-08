@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants in a mental health awareness program to assess their eligibility for the program. This guide will walk you through the steps to complete the mental health awareness program admission form, explaining each field to ensure a smooth and accurate submission process.
-</thinking>
-
 # mental-health-awareness-program-admission-form - Help Guide
 ## Purpose
 The mental health awareness program admission form is designed to collect essential information from participants to determine their eligibility for the program. This information includes program preferences, participant details, and consent.

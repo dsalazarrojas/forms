@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for individuals interested in joining a guild within the platform. It's meant to be a one-time use case to ensure users understand the process and requirements. Please do not fill this form if you have already submitted an application to the same guild.
-</thinking>
-
 # Guild Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about your interest in joining a guild on our platform. It helps us understand your background, motivations, and availability.

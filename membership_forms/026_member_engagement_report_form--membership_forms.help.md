@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my goal is to create a clear and concise user-facing help guide for the Member Engagement Report Form. I will carefully review the provided YAML fields and create a comprehensive help guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each form component.</thinking>
-
 # Member Engagement Report Form - Help Guide
 ## Purpose
 The Member Engagement Report Form is designed to gather information about our members, including their member names, contact details, and engagement status. This form will help us to track and analyze our member engagement and provide insights for future improvements.

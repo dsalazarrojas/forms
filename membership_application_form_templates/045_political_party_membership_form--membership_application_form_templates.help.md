@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Political Party Membership Form is designed to collect general information from individuals interested in joining or learning more about a political party. This form is not affiliated with any specific political platform or party, and its purpose is to gather basic details for potential members or interested parties to get in touch with the political organization. To ensure you complete the form accurately, please make sure you are using the correct contact information and that your answers are honest and up-to-date.
 
 ## Purpose

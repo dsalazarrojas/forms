@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form's purpose and fields to ensure I understand its functionality and any potential issues or concerns that users might encounter.</thinking>
-
 # mental_wellness_program_registration_form - Help Guide
 
 ## Purpose

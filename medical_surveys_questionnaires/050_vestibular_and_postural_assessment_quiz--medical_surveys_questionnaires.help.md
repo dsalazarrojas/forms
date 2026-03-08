@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vestibular_and_postural_assessment_quiz - Help Guide
 ## Purpose
 This guide explains how to complete the Vestibular and Postural Assessment Quiz, a form designed to help clinicians evaluate patients' vestibular and postural systems.

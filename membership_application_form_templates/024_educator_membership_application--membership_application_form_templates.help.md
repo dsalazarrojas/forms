@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to collect accurate and relevant information from potential members. This form is designed to be user-friendly and easy to navigate, with clear labels and a logical structure. The purpose of this form is to collect basic information about the applicant, including their contact details, educational background, and membership status. This information will be used to evaluate the applicant's eligibility for membership. We should check that all fields are filled in correctly and that the applicant has uploaded all required documents before proceeding with the evaluation process. This form should not be used for other purposes, such as collecting general feedback or selling products. We should also ensure that the form is accessible and usable by people with disabilities. By following these guidelines, we can maintain the integrity and credibility of the membership application process.
-</thinking>
-
 # Educator Membership Application - Help Guide
 ## Purpose
 The Educator Membership Application form is designed to collect basic information from educators who wish to join the organization's membership program. This form will be used to evaluate the applicant's eligibility for membership and gather necessary contact details for communication and follow-up.

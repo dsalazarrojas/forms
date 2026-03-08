@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to determine the eligibility for credit union membership. This form will collect personal and employment information from the applicant to assess their suitability for membership. Please ensure that the information provided is accurate and complete to ensure proper evaluation.
 
 # Credit Union Membership Eligibility Questionnaire - Help Guide

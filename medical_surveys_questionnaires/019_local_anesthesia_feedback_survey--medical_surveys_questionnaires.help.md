@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from patients who have undergone local anesthesia procedures. The form is intended to gather information about the patient's comfort level with the procedure, any side effects experienced, and their overall satisfaction with the clinic or practice. This guide will help you complete the form accurately and provide valuable feedback.
-
-This form is not affiliated with or endorsed by any specific form platform, and it is an original adaptation created using public survey topic metadata.
-
-Before proceeding, please note that this form is released under the Creative Commons BY 4.0 license, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-
-Please make sure to answer the questions honestly and provide detailed feedback to help us improve the services offered.
-
-</thinking>
-
 # Local Anesthesia Feedback Survey - Help Guide
 ## How To Complete This Form
 To complete this form, follow these steps:

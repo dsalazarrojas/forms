@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Board Discharge Form - Help Guide
 ## Purpose
 The Medical Board Discharge Form is used to document the discharge process for patients after their hospitalization or treatment. This form is essential for capturing relevant information about the patient's condition, medical treatment, and follow-up instructions for continued care.

@@ -1,7 +1,3 @@
-<thinking>
-The Marketing Role Assessment form is designed to collect information about an individual's marketing role, experience, and skills. This form is likely used to gather data for marketing personnel, such as identifying potential candidates for marketing positions or assessing the skills and experience of existing marketing team members. The form should not be filled out if the user is an administrator or has already filled out the form previously.
-</thinking>
-
 # Marketing Role Assessment - Help Guide
 ## Purpose
 The Marketing Role Assessment form is a tool to collect information about an individual's marketing role, experience, and skills.

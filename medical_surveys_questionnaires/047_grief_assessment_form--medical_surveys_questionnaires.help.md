@@ -1,6 +1,4 @@
-# <thinking>...this form was created to assess an individual's reactions to a loss, specifically their physical, cognitive, emotional, and behavioral reactions. This form is used to gather information about the individual's experiences and perceptions of their loss. The form is composed of several sections that ask about different aspects of their reactions. To avoid duplication of effort, please ensure that the user has not recently filled out a similar form for this purpose. Please also note that the user's responses will be used for research purposes and will not be used for personal benefit. Please answer the questions honestly and thoroughly for the best results.</thinking>
-
-# Grief Assessment Form - Help Guide
+# # Grief Assessment Form - Help Guide
 
 ## Purpose
 This form is designed to help individuals assess their reactions to a loss. It is used to gather information about their experiences and perceptions of their loss, and to help researchers better understand the effects of loss on individuals.

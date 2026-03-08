@@ -1,5 +1,3 @@
-<thinking>As a marketer, it's essential to ensure that customers understand the purpose and process of submitting a rebate claim for Black Friday purchases. This form is designed to collect relevant information for rebate processing. Ensure that the form is filled out accurately and completely to avoid any issues with the rebate claim. The form fields are carefully selected to capture the necessary details for efficient processing. Make sure that all required fields are filled out correctly, and optional fields are filled out only if necessary. Review the form fields carefully before proceeding.</thinking>
-
 # Black Friday Rebate Form Template - Help Guide
 ## Purpose
 This form is for customers to submit a rebate claim for purchases made on Black Friday. It's crucial to provide accurate and complete information to ensure a successful rebate claim.

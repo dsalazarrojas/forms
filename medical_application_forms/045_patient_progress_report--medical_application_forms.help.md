@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Patient Progress Report - Help Guide
 ## Purpose
 The Patient Progress Report is a form used to track the progress of patients undergoing medical treatment. It is designed to be completed by healthcare professionals to gather information on a patient's condition, treatment, and progress. This form helps to identify areas of improvement and to monitor the patient's response to treatment.

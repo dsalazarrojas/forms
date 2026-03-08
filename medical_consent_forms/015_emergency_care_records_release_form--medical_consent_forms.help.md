@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Care Records Release Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking> 
-
-The form is designed to collect information about a person's sleep patterns, symptoms, and medical history to aid in the diagnosis and treatment of sleep disorders. This form will help clinicians assess the severity of the sleep disorder and provide recommendations for treatment.
-
-The form is divided into several sections to ensure that all relevant information is gathered in a concise and efficient manner. 
-
-The form will be useful for healthcare professionals to quickly and accurately diagnose sleep disorders. 
-
-</thinking>
-
 # Sleep Disorder Diagnosis Form - Help Guide
 
 ## Purpose

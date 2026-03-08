@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "market_survey" form, I need to understand the form's purpose and requirements. The form appears to be for gathering information about a market survey, including details about the survey itself (title, category, description, target market, survey date, survey time, survey location), contact information for the person submitting the survey, and contact information for the results of the survey. The form also includes fields for follow-up information, such as follow-up frequency and method. I will now create a user-facing help guide based on this understanding.
-
-</thinking>
-
 # market_survey - Help Guide
 
 ## Purpose

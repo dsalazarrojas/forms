@@ -1,13 +1,3 @@
-<thinking>
-
-We're creating a user-facing help guide for the Brand Registration Form to ensure end-users understand the form's purpose and how to complete it. 
-
-This form is used for brand registration, which involves collecting essential information about a brand to create a comprehensive brand profile. The goal is to gather detailed and accurate information about the brand, including its name, tagline, industry, and target market, among other key aspects. This data will be used to create a brand directory, making it easier for customers to find and connect with brands.
-
-To avoid duplication, we'll check for existing brand registrations before accepting new submissions.
-
-</thinking>
-
 # Brand Registration Form - Help Guide
 ## Purpose
 The Brand Registration Form is used to create a comprehensive brand profile, which will be used to populate a brand directory for easier customer discovery and connection.

@@ -1,16 +1,3 @@
-<thinking>
-The Visual Production Assistance Request Form is designed to facilitate collaboration between internal stakeholders and production teams to ensure successful project delivery. This form gathers essential project details for visual production, including production requirements, deadlines, and resource allocation.
-
-Before submitting a request, please ensure the following:
-
-* The project details are accurate and up-to-date.
-* You have permission to request production support on behalf of the project manager or team lead.
-* You're not submitting a duplicate request.
-
-Please note that all fields are optional, and providing as much information as possible will help the production team to efficiently process your request.
-
-</thinking>
-
 # Visual Production Assistance Request Form - Help Guide
 ## Purpose
 The Visual Production Assistance Request Form is used to gather project details for visual production, facilitating effective communication between stakeholders and production teams.

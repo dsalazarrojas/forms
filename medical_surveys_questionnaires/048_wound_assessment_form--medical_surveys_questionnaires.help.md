@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the Wound Assessment Form is a medical survey designed to collect detailed information about a patient's wound. The form is intended to be used by healthcare professionals to assess the location, type, and characteristics of a wound, as well as the patient's medical history, treatment, and current status. This form is likely to be used in a clinical or hospital setting, and it is essential to ensure that the information collected is accurate and comprehensive to provide effective care for the patient. Before proceeding, ensure that you are completing this form for the intended purpose and that you have reviewed and understood the relevant sections and fields. If you have any questions or concerns, please consult the relevant medical staff or documentation.
-</thinking>
-
 # Wound Assessment Form - Help Guide
 ## Purpose
 

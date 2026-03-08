@@ -1,7 +1,3 @@
-<thinking>
-This form is a meeting sign-in form, likely used for conferences, seminars, or workshops, to collect attendee information, meeting details, and description. The purpose of this form is to streamline the meeting registration process, ensuring attendees provide necessary information for event organizers. To avoid duplication and ensure accurate data collection, users are advised to complete the form carefully and accurately.
-</thinking>
-
 # Meeting Sign In Form - Help Guide
 ## Purpose
 The Meeting Sign In Form is designed to gather essential information from attendees to ensure a smooth and efficient meeting experience. This guide will walk you through each field, explaining what you need to provide for a successful meeting registration.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help parents or guardians apply their child to a hockey program's waitlist. The form should only be filled out by a parent or guardian, not the child. The fields in this form ask for personal details that will be used to verify the child's application and contact the parent/guardian if necessary. The form is part of the program's recruitment process and helps to gauge interest in the program. To avoid duplication, please fill out this form only if you haven't already applied for the hockey program.
-</thinking>
-
 # Hockey Youth Waitlist Application Form - Help Guide
 
 ## Purpose

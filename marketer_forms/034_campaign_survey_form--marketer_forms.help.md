@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from respondents about their demographics, political affiliation, awareness of our campaign, and potential involvement in the campaign. It aims to collect data on their top issues, how they feel about our candidate, and their willingness to volunteer or donate. The form is not intended for internal use only, but also for campaign strategists to inform their decision-making. Please make sure to fill this form only if you have the necessary permissions to do so.
-</thinking>
-
 # Campaign Survey Form - Help Guide
 ## Purpose
 

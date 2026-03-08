@@ -1,7 +1,3 @@
-<thinking>
-This form is a Simple Contact Form Nova Theme, which is designed to provide a straightforward way for users to submit contact information and other relevant details. The form is intended for general use, and it is not specific to any particular business or organization. It is likely used for gathering contact details from customers, clients, or users in a business setting. 
-</thinking>
-
 # Simple Contact Form Nova Theme - Help Guide
 ## Purpose
 This form is a basic contact form designed to collect information from users. It is intended for general use and can be used in various contexts such as customer support, feedback, or sales inquiries.

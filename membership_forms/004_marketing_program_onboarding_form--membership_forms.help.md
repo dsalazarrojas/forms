@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to onboard participants to a marketing program. It is used to collect information from users about their agency details, team details, and participant details. This form likely serves as an initial intake process for users to provide essential information about themselves and their teams before participating in a marketing program. Ensuring accurate and complete data in this form is crucial for successful program execution. 
-This form is a simple, multi-page form with text input fields for agency details, team details, and participant details.
-Each field should be filled out carefully, and required fields are marked as such.
-Please note that some fields might be optional; however, filling out all fields will provide a comprehensive overview of the participant.
-</thinking>
-
 # marketing_program_onboarding_form - Help Guide
 ## Purpose
 This form is for onboarding participants to a marketing program.

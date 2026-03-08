@@ -1,16 +1,3 @@
-<thinking>
-The Philanthropists Guild Membership Form is designed to collect information from potential members who wish to join the guild. This form is intended for individuals who want to support the guild's mission and contribute to its activities. The form is divided into two parts: personal information and membership preferences. 
-
-The personal information section collects the member's first name, last name, email, phone number, address, and date of birth. This information is necessary to verify the member's identity and to facilitate communication. 
-
-The membership preferences section includes details about the member's desired level of engagement, such as how much they want to donate, how often they want to pay dues, their preferred payment method, how long they've been supporting the organization, and what they value most about the organization. 
-
-This form is designed to ensure that the guild has accurate and up-to-date information about its members, which enables effective communication and tailored support. By providing this information, members will receive targeted updates, promotions, and opportunities to participate in guild activities. 
-
-Please ensure that you fill out this form carefully and accurately, as any errors may cause delays or incorrect processing. 
-
-</thinking>
-
 # Philanthropists Guild Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential members who wish to join the Philanthropists Guild. It is used to collect personal and membership preferences information.

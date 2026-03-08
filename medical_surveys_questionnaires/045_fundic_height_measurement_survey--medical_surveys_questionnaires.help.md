@@ -1,9 +1,3 @@
-<thinking>
-This form will be used to collect medical information from patients to track their height measurements. It will be used to store this data for later reference. Before proceeding, ensure you have obtained the necessary permissions and consents from the patient or their guardian. 
-This form is designed to be completed by one person at a time, so ensure each field is filled out for the correct individual.
-Please note that the form is not intended to replace a comprehensive medical evaluation, and any diagnosis or treatment should only be made by a qualified medical professional.
-</thinking>
-
 # Fundic Height Measurement Survey - Help Guide
 ## Purpose
 The Fundic Height Measurement Survey is designed to collect height measurements from patients for future reference and tracking purposes.

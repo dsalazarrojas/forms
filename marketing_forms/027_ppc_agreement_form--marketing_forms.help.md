@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PPC Agreement Form - Help Guide
 ## Purpose
 The PPC Agreement Form is a document that outlines the terms and conditions for a specific campaign scope, including reporting expectations, timeline, and approval details. It is used to ensure that both the client and the agency are on the same page regarding the campaign's objectives, deliverables, and communication plan.

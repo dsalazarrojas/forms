@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for referring a patient for a lab test. The purpose of this form is to provide essential information about the patient and the test request to the lab or medical provider. The form should not be used for non-medical purposes.
-</thinking>
-
 # lab_test_referral_form - Help Guide
 ## Purpose
 The lab test referral form is used to collect information about a patient and a lab test request, which is then sent to the lab or medical provider for processing.

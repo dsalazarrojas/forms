@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by customers or external partners to request packaging samples from a company. It's used to collect shipping details, material order information, and other relevant contact information. It may be used by sales, logistics, or customer service teams to process and fulfill orders. To ensure that this form is completed correctly and efficiently, we should confirm that the fields are accurately labeled and easy to understand. I will review the form fields below to provide clear guidance for users.
-</thinking>
-
 # Packaging Texture Sample Request Form - Help Guide
 ## Purpose
 The Packaging Texture Sample Request Form is used by customers or external partners to request packaging samples from a company.

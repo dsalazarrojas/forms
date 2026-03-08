@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the purpose of this form is well-understood by the end users, and that the form is not duplicated in our systems. This form is intended to gather information from customers about their advocacy program application. It collects various details such as name, email, company, job title, years of experience, industry, role, priorities, and how they heard about us. This form will help us to identify potential advocates and tailor our program accordingly.
-</thinking>
-
 # Customer Advocacy Program Application Form - Help Guide
 
 ## Purpose

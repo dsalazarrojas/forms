@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure perceptions of mental health stigma, both within oneself and among others in the community, schools, and workplaces. It aims to understand how respondents feel about mental health issues and how these perceptions can impact their lives and interactions.
-</thinking>
-
 # Mental Health Stigma Poll - Help Guide
 ## Purpose
 This guide explains the Mental Health Stigma Poll form, which is designed to measure perceptions of mental health stigma. It includes questions about how stigmatizing respondents think mental health issues are, how they perceive their community's attitude towards mental health, and how their personal and professional lives are impacted by these perceptions.

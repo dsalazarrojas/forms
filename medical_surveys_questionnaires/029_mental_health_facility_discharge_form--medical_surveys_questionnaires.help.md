@@ -1,24 +1,3 @@
-<thinking> 
-We need to determine the purpose of the Mental Health Facility Discharge Form. Based on the provided YAML, it appears to be a form used to document a patient's discharge from a mental health facility. This form likely contains demographic information, discharge plans, and other relevant details about the patient's care and treatment. It's possible that this form is used to facilitate communication between the facility and the patient, family members, or other healthcare providers. 
-
-Before we dive into the form's explanation, let's ensure that this is the correct form for the user's needs. Please confirm that this form is indeed the one you are looking for.
-
-Assuming this is the correct form, let's break down its purpose and usage.
-
-The form contains 25 fields, which can be categorized into several sections:
-
-1. Patient Information (6 fields: patient_name, patient_dob, patient_gender, patient_phone, patient_email, patient_medical_conditions)
-2. Facility Information (7 fields: facility_address, facility_phone, facility_email, facility_staff_contact, facility_comments, mental_health_facility, mental_health_provider)
-3. Discharge Information (5 fields: discharge_plans, mental_health_summary, discharge_disposition, discharge_date, discharge_time)
-4. Follow-up Information (2 fields: follow_up_appointment, next_appointment)
-5. Signatures (2 fields: facility_signature, patient_signature)
-
-The user will need to provide information in each of these sections to complete the form.
-
-Now, let's create a user-facing help guide.
-
-</thinking>
-
 # Mental Health Facility Discharge Form - Help Guide
 
 ## Purpose

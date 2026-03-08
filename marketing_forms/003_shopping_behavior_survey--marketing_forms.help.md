@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture information about a customer's shopping behavior, likely for marketing purposes. It asks for basic contact information and some details about the customer's shopping habits. It's essential that the customer is aware of the form's purpose to provide accurate and relevant information. Please make sure this form is not filled out by customers who have already filled it out before, to maintain the integrity of the data.
-</thinking>
-
 # Shopping Behavior Survey - Help Guide
 ## Purpose
 The Shopping Behavior Survey is a form designed to collect information about your shopping habits and preferences. This information will help us better understand your needs and provide you with more relevant offers and services. Your participation is voluntary, and we will not share your data with anyone without your consent.

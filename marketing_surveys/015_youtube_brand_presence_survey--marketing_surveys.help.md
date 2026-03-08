@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "YouTube Brand Presence Survey" form, which is a critical component of our marketing efforts to better understand the brand's online presence. This guide is intended to provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means, ensuring that users understand how to fill out the form accurately and effectively.
-</thinking>
-
 # YouTube Brand Presence Survey - Help Guide
 
 ## Purpose

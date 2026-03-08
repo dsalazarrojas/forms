@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I want to make sure I understand the purpose and context of this form. It appears to be a "Psychological Assessment Form" used for gathering information about a person's mental health history, medical conditions, and other relevant details. This form seems to be used for assessment and treatment purposes, possibly in a clinical or therapeutic setting.</thinking>
-
 # Psychological Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your mental health history, medical conditions, and other relevant details for assessment and treatment purposes.

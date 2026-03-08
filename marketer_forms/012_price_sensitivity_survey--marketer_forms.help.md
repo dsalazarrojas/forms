@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to gather data on price sensitivity, which is essential for understanding how different demographics respond to varying prices. This form should only be filled out if it is relevant to a specific product or service being priced, as the purpose of this form is to collect data on price sensitivity for a particular product or service, not to collect general information. This form will only be completed by individuals who have a genuine interest in providing honest answers to the questions asked. We will not allow users to fill out this form multiple times as we want to avoid duplication of data.
-</thinking>
-
 # Price Sensitivity Survey - Help Guide
 ## Purpose
 This form is designed to collect information about how different demographics respond to varying prices. Please answer the questions as honestly as possible, and make sure you are answering in relation to a specific product or service being priced.

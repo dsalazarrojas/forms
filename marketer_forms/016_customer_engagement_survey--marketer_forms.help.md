@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and engagement metrics from customers. It appears to be designed to gauge the level of satisfaction and willingness to share experiences with the company's services or products among customers. This form is likely used for customer relationship management, customer satisfaction analysis, and potential marketing or social media engagement strategies. Before proceeding, let us ensure that the form is not being used for other purposes or if the provided fields are not up-to-date or complete. Please note that some fields may be subject to change or addition as per business needs.
-</thinking>
-
 # Customer Engagement Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and engagement metrics from customers, aiming to measure the level of satisfaction and willingness to share experiences with the company's services or products.

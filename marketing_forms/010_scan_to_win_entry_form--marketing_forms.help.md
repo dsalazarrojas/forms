@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants in a competition or sweepstakes, where they can submit their entries and confirm their participation. It is intended to be used by the organizers of such events to gather necessary details from participants, including their entry information, confirmation of profits or participation, and winners' lists. This form should only be used for internal purposes, and all fields are optional.
-
-</thinking>
-
 # Scan To Win Entry Form - Help Guide
 ## Purpose
 

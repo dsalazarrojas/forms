@@ -1,9 +1,3 @@
-<thinking>
-The Gentle_Mens_League_Gml form is used for new member registration in the Gentle Men's League. This form allows individuals to provide their personal details and contact information so that we can verify their membership eligibility and process their application.
-This form should only be completed if you are a new member interested in joining the Gentle Men's League. If you are already a member, please do not complete this form as it will not be processed.
-Please ensure that you have not previously submitted this form, as duplicate submissions can lead to unnecessary processing and potential delays.
-</thinking>
-
 # Gentle_Mens_League_Gml - Help Guide
 ## Purpose
 The Gentle_Mens_League_Gml form is used for new member registration to provide personal details and contact information for processing membership eligibility and application.

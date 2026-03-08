@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly and that users are not entering duplicate data. This form is intended to gauge how people perceive and respond to art that may or may not have a bias or prejudice. It's crucial that users answer honestly and thoughtfully, providing as much detail as possible. Please take your time and answer the questions carefully.
-</thinking>
-
 # Art Based Prejudice Evaluation - Help Guide
 ## Purpose
 This form is designed to collect responses to a given artwork that may or may not convey bias or prejudice. It will help us understand how people perceive and respond to such art.

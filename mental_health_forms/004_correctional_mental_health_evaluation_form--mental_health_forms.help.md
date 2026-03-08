@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to evaluate the mental health of individuals in correctional facilities. This form is used to gather information on an inmate's mental health concerns, care team, goals, objectives, treatment plans, and outcomes. It also captures data on internal coordination, facility, location, date of evaluation, date of next evaluation, evaluator information, and revision history.
 
 This form is used to provide a comprehensive assessment of an individual's mental health in a correctional setting. It helps identify areas of concern, develop targeted interventions, and track progress over time. By completing this form, evaluators can ensure that the mental health needs of individuals in custody are accurately documented and addressed.

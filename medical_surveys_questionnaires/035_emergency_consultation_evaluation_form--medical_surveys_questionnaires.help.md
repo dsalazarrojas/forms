@@ -1,9 +1,3 @@
-<thinking>
-The emergency consultation evaluation form is used to gather information and evaluate the needs of patients in emergency situations. This form helps clinicians to quickly and effectively assess and manage patients' emergencies. The form should only be used in emergency situations where a clinician needs to quickly evaluate and assess patient information.
-
-This form is not intended for routine check-ups or non-emergency situations. Please ensure that you are using this form in the correct context to avoid duplication of efforts and unnecessary paperwork.
-</thinking>
-
 # emergency consultation evaluation form - Help Guide
 ## Purpose
 The emergency consultation evaluation form is used to gather information and evaluate the needs of patients in emergency situations, enabling clinicians to quickly and effectively assess and manage patients' emergencies.

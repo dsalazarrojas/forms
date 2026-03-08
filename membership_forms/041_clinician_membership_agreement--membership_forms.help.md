@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from clinicians who want to apply for membership with the healthcare organization. It includes various fields to collect details such as personal contact information, professional credentials, medical specialties, and membership preferences. The form requires the applicant to confirm that they can perform essential functions and agree to abide by the organization's bylaws. By completing this form, the applicant will be able to submit their membership application and begin the membership process.
-
-Before completing this form, the applicant should ensure that they have all the necessary information and documents required for membership. The applicant should also be aware that providing false or incomplete information may lead to the rejection of their membership application.
-
-The form consists of 33 fields, divided into various pages. Each field is described below to help the applicant understand what information is required and how to complete it.
-
-</thinking>
-
 # Clinician Membership Agreement - Help Guide
 ## Purpose
 This form is designed to gather information from clinicians who want to apply for membership with our healthcare organization.

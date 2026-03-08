@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to gauge the willingness to buy from potential customers. It is intended for customers who have shown interest in a product or service but have not yet purchased it. The goal is to understand their level of awareness, interest, and purchase intent, as well as gather their contact information for follow-up. This form is used internally within the organization to guide sales and marketing efforts.
-</thinking>
-
 # Willingness To Buy Survey - Help Guide
 ## Purpose
 

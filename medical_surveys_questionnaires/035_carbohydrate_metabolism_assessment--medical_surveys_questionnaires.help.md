@@ -1,10 +1,3 @@
-<thinking>
-To prevent duplication of effort and ensure that this form serves its purpose effectively, let's review the form's purpose and potential use cases. This Carbohydrate Metabolism Assessment form is designed to collect relevant health information from clients, specifically focusing on carbohydrate intake and metabolism. The form aims to gather data on client's daily carb intake, sources of carbs, exercise frequency and duration, sleep quality, and potential symptoms related to blood sugar levels. This data can be used to identify potential areas of concern and provide personalized recommendations for improvement.
-
-Before proceeding, we'll review the form's content and provide a concise and practical user guide, addressing each field's purpose and requirements.
-
-</thinking>
-
 # Carbohydrate Metabolism Assessment - Help Guide
 ## Purpose
 The Carbohydrate Metabolism Assessment form is designed to collect data on clients' carbohydrate intake and metabolism to help identify potential areas of concern and provide personalized recommendations for improvement.

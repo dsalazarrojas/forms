@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for requesting medical supplies, equipment, or medications. It is likely used in a clinical or hospital setting where medical professionals need to requisition items for patient care. The form is designed to be completed by medical professionals, such as doctors or nurses, to request medical supplies or equipment for patients. This form should only be used by authorized medical professionals and not by patients or their representatives.
-</thinking>
-
 # Medical Requisition Form - Help Guide
 ## Purpose
 The Medical Requisition Form is a tool used by medical professionals to request medical supplies, equipment, or medications for patient care.

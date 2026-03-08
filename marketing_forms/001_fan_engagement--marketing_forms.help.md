@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Purpose
 The Fan Engagement form is designed to collect information about a customer or fan's engagement with a brand or product. This form helps to gather relevant details such as their interest in the product or service, their availability for communication, and any additional comments or notes they may have.
 

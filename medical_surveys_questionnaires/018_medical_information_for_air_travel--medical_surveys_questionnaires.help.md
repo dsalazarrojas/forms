@@ -1,10 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Medical Information For Air Travel" form, which is designed to gather medical information from passengers for air travel purposes. This form is intended to collect personal and medical details from passengers to ensure their safety and well-being during flights. It is crucial to fill out this form accurately and honestly to provide the necessary medical information required by airlines.
-
-Before proceeding, please note that this form is not a duplicate of any other medical form within the system, and the information collected will be used solely for air travel purposes. Please fill out the form carefully, and if you need any clarification, do not hesitate to reach out to the support team.
-
-</thinking>
-
 # Medical Information For Air Travel - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is a "Social Media Profile Enhancement" form designed to gather information about a social media profile, including client details, goals, branding preferences, and contact information. The form is likely used in a marketing or business development context to create or update social media profiles for clients or agencies. The purpose of this form is to ensure that the social media profiles are accurately and consistently presented across different platforms, and that the client's online presence is properly represented. Before proceeding, please note that this form is meant for internal use only, and any information submitted here may be subject to internal review and approval processes.</thinking>
-
 # Social Media Profile Enhancement - Help Guide
 ## Purpose
 The "Social Media Profile Enhancement" form is designed to collect information about social media profiles for clients or agencies. This form is meant to ensure accurate and consistent representation of the client's online presence across different platforms.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about website call-to-action polls. The purpose of this form is to gather insights from users about their interest in participating in a poll about website call-to-actions. The form is divided into multiple pages, each with different types of questions that aim to understand user preferences and behavior. This form is likely used for marketing research and analysis.
-</thinking>
-
 # website_call_to_action_poll - Help Guide
 ## Purpose
 The website_call_to_action_poll form is designed to gather information from users about their interest in participating in a poll about website call-to-actions. This form is used for marketing research and analysis.

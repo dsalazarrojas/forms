@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information for the Performance Arts Club renewal process. It's intended for existing members to renew their membership by providing necessary details such as name, contact information, and payment preferences. Please ensure you're completing this form if you're an existing member seeking to continue your membership. Note that all fields marked as "required" are necessary for the renewal process, although some fields like "phone" and "payment_amount" can be left blank if not applicable to your situation.
 
 # Performance Arts Club Renewal Form - Help Guide

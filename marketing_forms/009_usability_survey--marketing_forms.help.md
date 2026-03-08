@@ -1,5 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and usability insights on our product, which is a critical component of our ongoing effort to improve user experience. The form is divided into several sections, each with a specific set of questions related to different aspects of the product. Please note that this form is a comprehensive collection of feedback, and it's expected that users will answer all questions, although some sections are optional. If you're unsure about any question, please answer it as accurately as possible, and we'll take your feedback into consideration.</thinking>
 # Usability Survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback and usability insights on our product. Your input is crucial in helping us understand how to improve the user experience.

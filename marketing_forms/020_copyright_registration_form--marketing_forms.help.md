@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the registration of a copyright for a specific work. It is intended for use by individuals or organizations that need to register their work for copyright purposes. Please note that this form is not meant to be used for other purposes, such as trademark registration or other types of intellectual property registration. If you are unsure about the purpose of this form, please consult the relevant authorities or guidelines for more information.
-</thinking>
-
 # Copyright Registration Form - Help Guide
 ## Purpose
 The Copyright Registration Form is used to collect information about the registration of a copyright for a specific work. This form is intended for use by individuals or organizations that need to register their work for copyright purposes.

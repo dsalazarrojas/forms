@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Memory Assessment Questionnaire - Help Guide
 
 ## Purpose

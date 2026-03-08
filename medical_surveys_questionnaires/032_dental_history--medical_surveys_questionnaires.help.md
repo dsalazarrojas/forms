@@ -1,10 +1,3 @@
-<thinking>
-This guide is for users who will be completing the "Dental History" form. The form is designed to gather medical information about patients, including their name, contact details, and medical history. This form should only be filled out by authorized personnel, such as medical professionals.
-This guide is intended for those who may be filling out this form for the first time or need a refresher on its use.
-This guide will be relevant to medical professionals and individuals involved in patient care.
-Please ensure this form is not used to duplicate efforts or to fill out information already documented elsewhere.
-</thinking>
-
 # Dental History - Help Guide
 ## Purpose
 The "Dental History" form is designed to collect information about a patient's medical history. This information will be used for the patient's medical care.

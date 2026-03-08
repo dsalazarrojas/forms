@@ -1,10 +1,3 @@
-<thinking>
-This help guide will provide a clear and concise explanation of the Pet Product Packaging Preference Survey form to the end-user. The form is designed to collect data on customers' preferences regarding pet product packaging, specifically the material used for packaging, the factors that influence their decisions, and their level of satisfaction with the current packaging. This information will help the company make informed decisions about future product packaging.
-
-To ensure the accuracy of the collected data, I will be using the provided YAML field definitions to create the help guide.
-
-</thinking>
-
 # Pet Product Packaging Preference Survey - Help Guide
 
 ## Purpose

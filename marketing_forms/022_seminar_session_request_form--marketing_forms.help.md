@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for seminar session requests. It is intended for internal use and should not be used to request multiple sessions at once or for recurring sessions. If you need to request multiple sessions, please submit separate forms. If you're unsure about the purpose or requirements of this form, please review the provided instructions carefully before proceeding.
-</thinking>
-
 # Seminar Session Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for seminar session requests. Please ensure that your request is accurate and complete to help us serve your needs better.

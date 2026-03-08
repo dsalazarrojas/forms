@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to guide users in providing information related to material orders, specifically industrial cutting fluids, ensuring accurate and complete data entry. This form serves to collect and process orders efficiently, reducing errors, and improving the overall order fulfillment experience. 
-To prevent duplication and ensure consistency, it is essential to check that the correct form is being used for its intended purpose and to review the fields carefully before proceeding.
-</thinking>
-
 # Industrial Cutting Fluid Order Form - Help Guide
 ## Purpose
 The Industrial Cutting Fluid Order Form is a tool used to collect information related to industrial cutting fluid orders. This form aims to gather all necessary details to process orders accurately and efficiently.

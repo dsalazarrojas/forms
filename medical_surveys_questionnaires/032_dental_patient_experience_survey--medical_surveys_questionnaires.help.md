@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about patients' experiences with a dental practice, gathering feedback on their overall satisfaction, convenience, and interaction with staff. The form is designed to be completed by patients after visiting the practice, providing valuable insights for the practice to improve its services. Before proceeding, please ensure that you have reviewed the existing feedback collection process and that this form is not redundant or unnecessary.
-</thinking>
-
 # Dental Patient Experience Survey - Help Guide
 ## Purpose
 

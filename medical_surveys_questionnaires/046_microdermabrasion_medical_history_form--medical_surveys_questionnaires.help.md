@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their medical history, including medication allergies and other relevant medical history information. The form is intended to be used in a medical setting, such as a doctor's office or clinic, to gather important information from patients before performing a microdermabrasion procedure.
-
-Before starting, please ensure that you have reviewed and discussed the purpose and content of this form with the patient. Additionally, please be aware that this form may contain sensitive information, so be sure to handle it securely and confidentially.
-
-Please note that the form is designed to be completed by the patient themselves, but medical professionals may also need to review and input additional information.
-
-This form has 22 fields, each designed to gather specific information about the patient's medical history.
-</thinking>
-
 # Microdermabrasion Medical History Form - Help Guide
 ## Purpose
 The Microdermabrasion Medical History Form is used to collect information from patients about their medical history before undergoing a microdermabrasion procedure.

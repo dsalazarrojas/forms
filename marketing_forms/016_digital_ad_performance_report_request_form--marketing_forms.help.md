@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to request a report on the performance of digital ads, specifically for campaigns that have been run on platforms such as Facebook, Google, and Instagram. This form is used to collect information about the campaigns, including details about the campaign, the date range it was run, and the performance metrics. 
-
-The form will be reviewed internally to ensure that it is not a duplicate request and that it is relevant to the team's workload. If it is a duplicate request, the team will inform the user and ask them to resubmit. If it is not relevant to the team's workload, the team will inform the user and suggest alternative forms or resources that can help with the request.
-
-</thinking>
-
 # Digital Ad Performance Report Request Form - Help Guide
 ## Purpose
 This form is used to request a report on the performance of digital ads.

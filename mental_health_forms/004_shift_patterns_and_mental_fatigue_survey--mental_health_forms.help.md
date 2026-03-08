@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a tool for tracking and analyzing work patterns and their impact on mental fatigue. It aims to gather data on how often and for how long employees work, in order to provide insights that can help reduce mental fatigue and improve work-life balance.
-
-</thinking>
-
 # shift_patterns_and_mental_fatigue_survey - Help Guide
 ## Purpose
 This form is designed to help employees track their work patterns and identify potential factors that may contribute to mental fatigue. By providing detailed information on their work schedule and duration, employees can help their organization better understand their work habits and provide resources to support their well-being.

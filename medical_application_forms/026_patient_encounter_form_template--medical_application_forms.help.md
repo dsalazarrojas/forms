@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to capture relevant details about a patient's medical encounter, including the form title, date, time, provider, purpose, charges, insurance information, address, city, state, and zip code. The form is meant to be used for medical applications, such as patient visits, procedures, or billing purposes. 
-
-This form should only be completed when a patient encounter has occurred or is scheduled to occur.
-
-Each field in the form has a specific purpose and should be filled out accordingly. Please ensure that all required fields are filled out before submitting the form.
-
-This form is not intended for general use. Only authorized personnel should have access to this form.</thinking>
-
 # Patient Encounter Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical encounter. It's meant to be used for medical applications, such as patient visits, procedures, or billing purposes.

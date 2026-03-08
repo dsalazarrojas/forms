@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is designed to collect data about potential users of a mobile app, specifically regarding their interest in the app, how they found out about it, and their willingness to get updates and information about the app. The form aims to gather leads for the app launch, allowing the development team to better understand their target audience's preferences and behaviors. By analyzing this data, the team can improve the app's features, user experience, and marketing strategies.
-</thinking>
-
 # Mobile App Launch Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to collect information about your interests and preferences regarding the mobile app launch. Please answer the questions as accurately as possible to help us better understand our audience.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain the purpose and usage of the "Electrolyte Imbalances Knowledge Quiz" form to ensure that end-users understand its intended use and how to complete it correctly.
-</thinking>
-
 # Electrolyte Imbalances Knowledge Quiz - Help Guide
 ## Purpose
 The Electrolyte Imbalances Knowledge Quiz is a form designed to assess knowledge and understanding of electrolyte imbalances. It is intended for individuals who want to test their knowledge on this specific topic. 

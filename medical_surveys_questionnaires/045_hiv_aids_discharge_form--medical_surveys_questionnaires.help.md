@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HIV/AIDS Discharge Form - Help Guide
 
 ## Purpose

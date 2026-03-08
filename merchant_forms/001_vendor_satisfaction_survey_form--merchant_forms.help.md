@@ -1,5 +1,3 @@
-<thinking>This form, "vendor_satisfaction_survey_form", is designed to collect feedback from vendors about their experience with the platform. This form will help us understand how well we're meeting their needs and identify areas for improvement. Please fill out the form completely and honestly, and we'll review your input to make data-driven decisions. This guide is for end-users, so we'll explain each field in simple and concrete terms. If you're a vendor, thank you for your participation!</thinking>
-
 # vendor_satisfaction_survey_form - Help Guide
 ## Purpose
 The "vendor_satisfaction_survey_form" is a tool for us to gather feedback from vendors about their experience with our platform.

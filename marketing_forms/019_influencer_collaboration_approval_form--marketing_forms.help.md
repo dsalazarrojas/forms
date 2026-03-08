@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and store information about potential collaborators for marketing purposes. The form is designed to be completed by team members, who will review and approve the collaboration requests. It is essential to ensure that the provided information is accurate and up-to-date to avoid confusion and miscommunication.
-</thinking>
-
 # Influencer Collaboration Approval Form - Help Guide
 ## Purpose
 The Influencer Collaboration Approval Form is used to collect and store information about potential collaborators for marketing purposes. This form is filled out by team members who review and approve collaboration requests.

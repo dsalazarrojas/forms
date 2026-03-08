@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide for the J Pouch Survey form, we need to understand the purpose of this form, its intended users, and the fields included in the form. 
-The form "J Pouch Survey" appears to be related to the medical condition of pouchitis, which is an inflammatory bowel disease. Given the presence of questions about symptoms, treatment plans, medical history, and medication, it is likely that this form is used to gather information about the condition of patients or survey participants. 
-
-The form includes various fields that can be divided into several categories, including:
-- Symptoms and experiences: This section includes questions about the duration and frequency of symptoms, as well as the treatment plan and medical history.
-- Personal information: This section includes questions about age, gender, and location.
-- Contact information: This section includes questions about how the participant would like to contact the surveyor.
-- Survey metadata: This section includes questions about the survey date and time, as well as agreement to the terms of the survey.
-
-Given the fields and their labels, it is likely that this form is used for surveying individuals about their experiences and conditions related to pouchitis, and possibly other medical conditions.
-
-We should ensure that the guide is clear, concise, and easy to understand for the end-user. We can use a step-by-step approach to guide the user through the form, and provide explanations for each field to minimize confusion and increase accuracy.
-
-We will also want to check if similar forms already exist within the organization to avoid duplication, and ensure that the form's purpose aligns with the organization's goals and objectives.
-</thinking>
-
 # J Pouch Survey - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from customers and prospects about a specific brand. The purpose of this form is to gather information about the respondent's relationship with the brand, their level of familiarity with the brand, how they discovered the brand, and their overall satisfaction with the brand's products and services. This form is intended for the brand's marketing and customer service teams to better understand their audience's perceptions and preferences.
-
-The form has 15 questions, ranging from questions about the respondent's relationship with the brand to their opinions on product and service quality. The questions are designed to be clear and concise, with options provided for respondents to choose from.
-
-To complete this form, respondents will be asked to select their relationship with the brand, their level of familiarity with the brand, how they discovered the brand, and their opinions on various aspects of the brand. Respondents will also have the opportunity to provide additional comments or suggestions on what the brand could improve.
-
-Each question is designed to elicit a specific type of response, ranging from select_one (single choice) to select_multiple (multiple choices) and text fields for open-ended comments. The required fields are indicated with a asterisk \*.
-
-</thinking>
-
 # Brand Survey - Help Guide
 ## Purpose
 

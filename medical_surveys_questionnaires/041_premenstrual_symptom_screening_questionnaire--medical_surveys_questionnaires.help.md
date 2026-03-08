@@ -1,7 +1,3 @@
-<thinking>
-The Premenstrual Symptom Screening Questionnaire is a tool used to assess the severity of premenstrual symptoms experienced by women of reproductive age. This form helps identify the physical, emotional, and psychological symptoms that women may experience in the days leading up to menstruation. By completing this form, you will be able to screen for the severity of your symptoms and potentially identify any issues that may require medical attention. Please note that this is not a substitute for a medical professional's diagnosis.
-</thinking>
-
 # Premenstrual Symptom Screening Questionnaire - Help Guide
 ## Purpose
 The Premenstrual Symptom Screening Questionnaire is a self-administered questionnaire designed to assess the severity of physical, emotional, and psychological symptoms experienced by women of reproductive age during the premenstrual phase.

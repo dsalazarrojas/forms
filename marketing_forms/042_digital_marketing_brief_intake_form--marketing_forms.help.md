@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Digital Marketing Brief Intake Form" form that explains its purpose, how to complete it, and what each field means.
-
-The purpose of this form is to gather information about marketing briefs from users. Marketing briefs are documents that outline the goals, objectives, and requirements for a marketing campaign or project. This form helps us understand the scope of the project, identify potential challenges, and allocate resources effectively.
-
-Before starting, please make sure that you have all the necessary information and that this form is relevant to your project. If you have already created a marketing brief, please do not fill this form again.
-
-</thinking>
-
 # Digital Marketing Brief Intake Form - Help Guide
 ## Purpose
 The Digital Marketing Brief Intake Form is designed to gather information about marketing briefs for your project. It helps us understand the scope of the project, identify potential challenges, and allocate resources effectively.

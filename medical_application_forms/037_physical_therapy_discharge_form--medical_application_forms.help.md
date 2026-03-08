@@ -1,12 +1,3 @@
-<thinking>
-A Physical Therapy Discharge Form is a document that a medical professional uses to document the treatment and progress of a patient's physical therapy sessions. The form is used to gather information about the patient's condition, goals, and treatment plan, as well as to track their progress and outcomes. This form is essential for maintaining accurate and comprehensive patient records and for ensuring that the patient receives the best possible care.
-
-Before starting, please note that this form is intended for physical therapy patients. If you are not a physical therapy patient, please do not fill out this form.
-
-Also, please ensure that you have completed the relevant sections before moving on to the next one. If you are unsure about any section, please ask your healthcare provider for guidance.
-
-</thinking>
-
 # Physical Therapy Discharge Form - Help Guide
 ## Purpose
 The Physical Therapy Discharge Form is designed to document the patient's physical therapy journey, from initial consultation to discharge. It helps healthcare providers track progress, set goals, and ensure a smooth transition to the next stage of care.

@@ -1,14 +1,3 @@
-<thinking>
-
-To create this public awareness material request form, I will consider the following:
-
-* The form is intended for requesting public awareness materials, such as brochures, posters, and digital assets.
-* The form will likely be used by internal staff to collect requests from various departments or external stakeholders.
-* I will assume that the form is used to capture specific details about the request, including the type of material requested, the priority of the request, and other relevant information.
-* I will also assume that the form will be used by various users with different levels of technical expertise, so I will aim to write clear and concise instructions.
-
-</thinking>
-
 # public_awareness_material_request_form - Help Guide
 ## Purpose
 This form is used to request public awareness materials such as brochures, posters, and digital assets. It is designed to help internal staff or external stakeholders provide detailed information about their requests.

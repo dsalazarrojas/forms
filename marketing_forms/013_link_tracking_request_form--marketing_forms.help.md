@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning: This form is used for tracking links for marketing and analytics purposes. It's essential to ensure that the form is filled out correctly to provide accurate tracking data. To avoid duplication, please ensure that you're not submitting multiple requests for the same link.
-
-Form fields should be filled out with accurate information. The "request_type" field should match the type of link being tracked (text, image, email, or phone). The "stakeholder" field should include all relevant personnel who should be able to access the link. The "user_name," "user_email," "user_phone," "user_company," "user_position," "user_department," "user_job_title," and "user_address" fields are used to identify the user submitting the request.
-</thinking>
-
 # Link Tracking Request Form - Help Guide
 ## Purpose
 The Link Tracking Request Form is used to track links for marketing and analytics purposes. To ensure accurate tracking, please fill out the form completely and correctly.

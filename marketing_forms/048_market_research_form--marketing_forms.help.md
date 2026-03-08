@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about market research projects. It's essential to understand the purpose and scope of each project. The form is a template for project managers to provide detailed descriptions of their research projects, including the contact person, research objective, and budget allocation. The fields are designed to be as concise and informative as possible, ensuring that project managers and team members have all the necessary information to move forward with the project.
-
-
-</thinking>
-
 # Market Research Form - Help Guide
 
 ## Purpose

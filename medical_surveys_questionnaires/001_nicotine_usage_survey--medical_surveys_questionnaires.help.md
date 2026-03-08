@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's nicotine usage habits, survey questions, and relevant details about their smoking history. The purpose of this form is to collect data on users' experiences with nicotine use, including their smoking habits, reasons for quitting, and any relapse experiences. This form is intended for individuals who have used nicotine and is not designed for those who have never used it.
-
-Before filling out this form, please ensure that you are eligible to complete it. If you have already filled out this form in the past, your responses will be updated accordingly.
-</thinking>
-
 # Nicotine Usage Survey - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's nicotine usage habits, survey questions, and relevant details about their smoking history.

@@ -1,11 +1,3 @@
-<thinking>
-This form is a survey designed to gather information from subscribers about their preferences and characteristics. The purpose of this form is to collect data about subscribers' subscription habits, reasons for subscription, and demographic information such as job title, company size, and industry. The form is divided into several sections, each with a specific set of questions. 
-
-The form is likely to be used by marketing teams to gather insights on their target audience and tailor their marketing strategies accordingly.
-
-Before filling out this form, please ensure that the information you provide is accurate and up-to-date.
-</thinking>
-
 # subscriber_survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information from subscribers about their preferences and characteristics.

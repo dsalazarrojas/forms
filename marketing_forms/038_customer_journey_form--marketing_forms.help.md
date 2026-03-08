@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather user feedback about their customer journey, understanding how users found the business, navigated the process, and felt about the experience. It appears that this form is crucial for business improvement and decision-making. The form seems to cover various aspects of the customer journey, including initial contact, navigation, and post-visit experiences. It is likely to be a valuable tool for the business to understand customer behavior and make informed decisions.
-
-</thinking>
-
 # customer_journey_form - Help Guide
 ## Purpose
 The customer journey form is designed to collect feedback about your experience with our business. This form helps us understand how you found us, navigated our process, and felt about your experience.

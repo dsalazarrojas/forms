@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect data on patient experiences and outcomes related to Vitamin B12 treatment. It aims to gather information on the efficacy and side effects of the treatment, as well as the patient's medical conditions and professional qualifications of the administering healthcare professionals. This form will help to assess the quality of care provided to patients receiving Vitamin B12 treatment.
-
-</thinking>
-
 # Vitamin B12 Treatment Survey - Help Guide
 ## Purpose
 This form is used to collect data on patient experiences and outcomes related to Vitamin B12 treatment.

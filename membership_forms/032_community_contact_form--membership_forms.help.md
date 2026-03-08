@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow community members to contact the organization for various reasons. This form is designed to gather information from the community about their inquiries, concerns, or requests. The form fields are intentionally designed to be as minimal as possible to ensure that the information is collected efficiently and effectively.
-Before filling out this form, ensure that:
-* You have not contacted the organization through other channels (e.g., email, phone, social media)
-* The issue or concern you are reaching out about is not already addressed or being worked on by the organization
-
-</thinking>
-
 # Community Contact Form - Help Guide
 ## Purpose
 The Community Contact Form is a tool for community members to reach out to the organization with inquiries, concerns, or requests. Fill out this form to get help, provide feedback, or ask questions.

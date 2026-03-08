@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user-submitted data for marketing purposes, specifically to gather information on users who wish to subscribe or unsubscribe from a newsletter. This form ensures that users understand their subscription status and provides a clear way to confirm or deny their subscription. To prevent duplicate submissions, this form should only be filled out once and not repeatedly.
-</thinking>
-
 # Square Email Subscription Form - Help Guide
 ## Purpose
 The Square Email Subscription Form is designed to collect user-submitted data for marketing purposes. It allows users to choose whether they want to subscribe or unsubscribe from a newsletter and provides a clear way to confirm or deny their subscription status.

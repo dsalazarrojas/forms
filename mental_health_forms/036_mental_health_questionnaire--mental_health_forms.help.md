@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect mental health information from patients. This information will be used to help healthcare providers better understand the patient's mental health status. Please ensure that you are not already filling out this form if you have already completed one previously. This information will not be used for diagnosis or treatment purposes only.
-</thinking>
-
 # mental_health_questionnaire - Help Guide
 ## Purpose
 This form is a mental health questionnaire designed to gather information about your mental health status. The purpose of this form is to help healthcare providers understand your mental health needs and provide you with accurate and effective care.

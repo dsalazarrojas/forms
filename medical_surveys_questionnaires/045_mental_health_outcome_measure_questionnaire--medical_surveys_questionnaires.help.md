@@ -1,8 +1,3 @@
-<thinking>
-This form is a mental health outcome measure questionnaire designed to help healthcare professionals assess an individual's mental health status across various conditions. This form should only be used to collect data for mental health assessments and not for personal or recreational purposes. Please ensure you are accessing this form within a clinical setting and only for the purpose of gathering information for mental health evaluations. If you are a patient, this form is intended for healthcare professionals to use during your appointments, and not for personal use.
-
-</thinking>
-
 # Mental Health Outcome Measure Questionnaire - Help Guide
 ## Purpose
 This form is a mental health outcome measure questionnaire used to assess an individual's mental health status across various conditions. It is designed to help healthcare professionals gather information for mental health evaluations.

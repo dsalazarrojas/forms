@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Healthcare Communication Survey - Help Guide
 ## Purpose
 This form, "Pet Healthcare Communication Survey", is a tool to collect information about the pet's healthcare situation from the pet owner. It gathers data to facilitate effective communication between the pet owner and the veterinary team.

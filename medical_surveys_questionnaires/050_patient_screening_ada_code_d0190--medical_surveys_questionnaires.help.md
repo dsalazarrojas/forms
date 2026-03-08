@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from patients, focusing on their screening and medical history. The purpose of this form is to gather data that will help healthcare providers assess the patient's risk factors and provide personalized care.
-To prevent duplication of effort, please note that this form is intended for use in patient screening processes. Make sure to review the patient's previous screenings and medical history before filling this form.
-</thinking>
-
 # patient_screening_ada_code_d0190 - Help Guide
 ## Purpose
 The patient_screening_ada_code_d0190 form is designed to collect essential information from patients for medical screening and assessment purposes.

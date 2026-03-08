@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for content generation planning purposes. It helps content creators and teams plan and execute content projects efficiently. The form will help users gather essential details about the content piece, such as its type, target audience, primary goal, and distribution channels. These details will aid in creating relevant and effective content that meets the project requirements. To ensure accurate data collection, please fill out this form carefully. This form should only be filled out once per project.
-</thinking>
-
 # Content Generation Planning Form - Help Guide
 
 ## Purpose

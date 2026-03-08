@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "Mental Health Quiz" is to gather information about the user's mental health concerns and provide a platform for them to express their feelings and thoughts. This form is designed to be a non-intrusive and non-judgmental way for users to assess their mental well-being.
 
 </thinking>

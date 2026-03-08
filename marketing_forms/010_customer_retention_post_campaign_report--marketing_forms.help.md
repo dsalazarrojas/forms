@@ -1,15 +1,3 @@
-<thinking>
-
-We're creating a form for tracking customer retention post-campaign metrics. This form helps to evaluate the effectiveness of marketing campaigns by gathering feedback from sales teams on the customer's retention status. 
-
-The form collects both quantitative and qualitative data points, allowing us to track whether a customer was retained or not, and the reasons behind the outcome. It also includes fields for sharing the results with stakeholders and scheduling when to share them.
-
-The form will likely be completed by sales teams, who will provide feedback on a per-customer basis. The data collected will help to inform future marketing campaigns and improve customer retention.
-
-We'll aim to keep the form as concise as possible while still gathering the necessary information. 
-
-</thinking>
-
 # Customer Retention Post Campaign Report - Help Guide
 ## Purpose
 This form is designed to collect information on the effectiveness of marketing campaigns in retaining customers. Sales teams will fill out this form for each customer to provide feedback on their retention status and the reasons behind it.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Sequencing Application Form Help Guide
 =====================================
 

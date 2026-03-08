@@ -1,12 +1,3 @@
-<thinking>
-This form is a quiz form designed to gather information from users, specifically for marketing purposes. The form has multiple pages, but we will focus on the fields and how they contribute to the overall goal of the quiz. We want to ensure that each field is explained clearly and concisely, and that users understand the purpose and requirements of each field.
-
-Let's review the form structure and identify the required fields for completion. The form has a mix of single-select fields (quiz and submit), multiple-select fields (quiz), text fields (name, email, comments, and feedback), and number fields (score).
-
-The form is divided into pages, but for the sake of this guide, we will treat each field as a separate entity to be explained.
-
-</thinking>
-
 # Jotform Quiz - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users through a series of questions and gather their feedback and comments.

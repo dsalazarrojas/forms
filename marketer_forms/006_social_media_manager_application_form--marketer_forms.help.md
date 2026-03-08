@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for a Social Media Manager position. This form is likely used for internal or external hiring processes, and the goal is to gather relevant details about the applicant's personal and professional background. It's essential to ensure that each field is filled out accurately and completely to increase the chances of being considered for the position. This guide will walk you through each field and help you understand what information is being requested and why.
-
-</thinking>
-
 # social_media_manager_application_form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for a Social Media Manager position. Please fill out each field accurately and completely to increase your chances of being considered for the position.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect basic medical history information from patients. It is intended to be used by medical professionals to gather data for diagnosis and treatment purposes. Please note that this form is not meant to be a comprehensive medical history form but rather a starting point for further examination. 
 
 The form is divided into several sections that ask for:

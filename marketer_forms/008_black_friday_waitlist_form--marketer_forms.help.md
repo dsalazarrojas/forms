@@ -1,7 +1,3 @@
-<thinking>
-The Black Friday Waitlist Form is designed for customers to register their interest in purchasing specific items during the Black Friday sale. This form aims to collect relevant information from customers about the items they wish to purchase, their preferred pickup location, and their willingness to receive notifications. By using this form, we can gauge customer demand and ensure that customers who are most interested in a particular item are notified first when it goes on sale. It's essential to complete this form accurately to increase the chances of receiving notifications for the desired item.
-</thinking>
-
 # Black Friday Waitlist Form - Help Guide
 ## Purpose
 This form is designed for customers to register their interest in purchasing specific items during the Black Friday sale. By filling out this form, customers can express their interest in a particular item and provide their contact information to receive notifications when it becomes available.

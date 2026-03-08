@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to gather essential information from clients visiting the beauty salon, specifically related to their health status regarding COVID-19. It is designed to ensure that clients understand the risks associated with COVID-19 in salon settings and acknowledge their acceptance of these risks. This form should not be used for any other purpose or as a substitute for medical consultation. Ensure to review and update it regularly to maintain its relevance and accuracy.
-</thinking>
-
 # Beauty Salon COVID 19 Liability Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect client information and ensure that they understand the risks associated with COVID-19 in salon settings.

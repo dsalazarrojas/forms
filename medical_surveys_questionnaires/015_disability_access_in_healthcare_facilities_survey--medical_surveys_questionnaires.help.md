@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and data from patients about their experiences with accessibility in healthcare facilities. The purpose of this form is to identify areas where healthcare facilities can improve their accessibility for patients with disabilities. This information will be used to inform decisions on how to enhance the overall accessibility of healthcare facilities. This form should only be completed by patients or their representatives who have experienced or visited a healthcare facility in the past 6 months.
-
-Please ensure that you are completing this form only once for each healthcare facility you have visited.
-
-The information collected through this form will be kept confidential and will not be shared without your consent.
-
-</thinking>
-
 # Disability Access In Healthcare Facilities Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences with accessibility in healthcare facilities. Your feedback is essential to help us improve the accessibility of healthcare facilities and ensure that all patients, regardless of their abilities, can have equal access to healthcare.

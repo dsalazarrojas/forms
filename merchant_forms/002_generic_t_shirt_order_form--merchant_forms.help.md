@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and data for a generic T-Shirt order. This form is intended for customers or users to provide details about their order, including customer information, T-shirt size and color, order details, and payment methods. The form is likely used by an e-commerce platform or an online store to manage and track orders.
-
-Before starting, ensure you understand the form's purpose and ensure you are not already filling out a similar form.
-</thinking>
-
 # Generic T Shirt Order Form - Help Guide
 ## Purpose
 The Generic T Shirt Order Form is used to collect and manage information for T-Shirt orders.

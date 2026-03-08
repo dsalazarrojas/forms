@@ -1,7 +1,3 @@
-<thinking>
-This form is for processing "signed paperbacks" orders. It's a straightforward form that captures basic information about the order's submitter and payment details. Before proceeding, ensure you're familiar with the product or service being ordered and have all necessary information ready. This form is only intended for signed paperbacks; if you're looking to order other types of products or services, please use the relevant forms.
-</thinking>
-
 # signed_paperback_order_form - Help Guide
 ## Purpose
 

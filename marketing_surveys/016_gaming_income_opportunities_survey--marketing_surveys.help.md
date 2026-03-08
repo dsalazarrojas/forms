@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a user's gaming income opportunities, including their current income level, how they earn money through gaming, and what motivates them to play games. This form will help to gather data to identify potential areas of interest for the community, and will be used to tailor future content and services to meet the needs of community members.
-
-To ensure the relevance and accuracy of this data, please note that we will not ask redundant questions or duplicate data collection efforts. This form has 20 questions and each question will only be presented once.
-</thinking>
-
 # Gaming Income Opportunities Survey - Help Guide
 ## Purpose
 The Gaming Income Opportunities Survey is designed to collect information about your income opportunities through gaming. This survey will help us tailor our content and services to better serve the community's needs.

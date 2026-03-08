@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from advertisers who are interested in advertising on our platform. It captures the campaign goals, duration, and submission status which are crucial for our team to review and approve the ad campaigns. Advertisers will fill out the form with relevant details and submit it to our team for review. The form is designed to be as simple and straightforward as possible to minimize any confusion.
-</thinking>
-
 # Marketplace Advertising Inquiry Contact Form - Help Guide
 
 ## Purpose

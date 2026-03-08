@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals assess their mental well-being and guilt feelings. It is meant to be a self-reporting tool for tracking personal experiences and emotional states. This form is typically used in mental health settings, such as therapy or counseling sessions. The purpose of this form is to gather information about an individual's feelings and well-being scores, which can be used to identify areas of concern and track progress over time. Please note that this form is for personal and internal use only. If you are using this form for external purposes, such as research, please ensure that you have obtained necessary permissions and approvals.
-</thinking>
-
 # Guilt And Well Being Survey - Help Guide
 ## Purpose
 This survey is designed to help you assess your mental well-being and guilt feelings. It is a self-reporting tool used to gather information about your feelings and well-being scores.

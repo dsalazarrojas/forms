@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the "Fitness Chain Multi Location Membership Form". The form is designed to collect information for new membership registrations, allowing users to provide their details and preferences for membership at various locations of the "Fitness Chain" organization. The guide will cover the form's purpose, how to complete it, and a detailed explanation of each field.
-
-</thinking>
-
 # Fitness Chain Multi Location Membership Form - Help Guide
 ## Purpose
 The "Fitness Chain Multi Location Membership Form" is a registration form designed for new members to provide their details and preferences for membership at various locations of the "Fitness Chain" organization. This form is used to collect information for membership registration, ensuring that all necessary details are captured for a seamless membership experience.

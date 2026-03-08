@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users to create an order for industrial pressure valves. It's crucial that users understand the form's purpose to ensure accurate and complete submissions. Please review the form carefully to ensure you are providing the correct information. If you're unsure, you can ask for clarification or support.
-</thinking>
-
 # Industrial Pressure Valve Order Form - Help Guide
 ## Purpose
 This form is used to collect information to create an order for industrial pressure valves. To ensure accurate and timely processing of your order, please fill out the form completely and accurately.

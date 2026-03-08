@@ -1,10 +1,3 @@
-<thinking>
-The Psychology Checklist form is a comprehensive tool designed to gather information from individuals seeking mental health support. This form is not affiliated with or endorsed by any specific form platform, but rather an original creation generated using AI-powered form design. It is intended to help individuals identify potential mental health concerns and provide guidance on next steps. Please note that this form should not be used as a substitute for professional medical advice.
-
-The form is divided into multiple pages, each addressing a different aspect of mental health. This guide will walk you through each page and field to help you complete the form effectively.
-
-</thinking>
-
 # Psychology Checklist - Help Guide
 ## Purpose
 The Psychology Checklist is a form designed to help individuals assess their mental health status, identify potential concerns, and guide them on the next steps to take.

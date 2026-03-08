@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Engagement Lead Generation Form - Help Guide
 ## Purpose
 The Community Engagement Lead Generation Form is a form used to collect contact information and preferences from individuals interested in engaging with our organization. This form helps us understand your interests, availability, and contact preferences, allowing us to tailor our communication and outreach efforts.

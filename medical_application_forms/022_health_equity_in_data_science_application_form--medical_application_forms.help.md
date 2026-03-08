@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <em>Health Equity In Data Science Application Form</em> - <em>Help Guide</em>
 
 # Purpose

@@ -1,20 +1,3 @@
-<thinking>
-This form is intended to collect membership information from applicants for the Counselors Guild. Each field has a specific purpose and requiredness status, which will be explained in detail below.
-
-To ensure that each form submission is correctly filled out and submitted, it's essential to review each field carefully to understand its purpose and required status.
-
-Please note that some fields, like address1 through address4, are designed to collect multiple lines of text for addresses. They should be filled in with the relevant information in the format required (e.g., Address 1, Address 2, Address 3, Address 4).
-
-The Membership Status field is a critical part of the form as it determines the status of the membership. Please make sure to select the correct status from the provided options.
-
-The Certification field also requires careful attention as it affects the overall membership status. Make sure to select either Certified or Not Certified accordingly.
-
-Additionally, ensure that the Membership Date and Last Updated fields are filled in with the correct dates.
-
-Finally, please note that the Notes field is optional and can be used to provide additional comments or information.
-
-</thinking>
-
 # Counselors Guild Membership Form - Help Guide
 ## Purpose
 This form is used to collect membership information from applicants for the Counselors Guild.

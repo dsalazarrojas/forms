@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the patient's medical history, allergies, medications, and other relevant medical conditions. The goal is to gather comprehensive details about the patient's health status, which will help healthcare providers make informed decisions about their care.
-
-Before completing this form, please ensure that you have not previously completed it for the same purpose or reason. Duplicate forms can lead to confusion and incorrect information.
-
-</thinking>
-
 # Patient History Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the patient's medical history, allergies, medications, and other relevant medical conditions.

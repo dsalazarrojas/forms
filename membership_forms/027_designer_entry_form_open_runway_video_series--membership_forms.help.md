@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from fashion designers for the Open Runway Video Series. The form collects data on the designer's target audience, collaboration history, and other relevant details. The form is intended for fashion designers to provide insights into their work and experiences. Please check that you are not duplicating this form or submitting irrelevant information.
-
-</thinking>
-
 # designer_entry_form_open_runway_video_series - Help Guide
 ## Purpose
 The designer_entry_form_open_runway_video_series form is designed to collect information from fashion designers for the Open Runway Video Series. This form will help us understand your work and experiences as a designer.

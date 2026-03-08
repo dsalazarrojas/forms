@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information on health behavior and awareness of health benefits. The goal is to understand individual habits and factors influencing overall health. It's essential to provide honest and accurate answers to ensure the data collected is reliable and useful for analysis. Please note that this form was generated based on public survey metadata and may not reflect the actual content of existing forms.
-
-To avoid duplication and ensure accuracy, users should only fill this form once. If you need to resubmit the form, please make sure to review your previous responses before submitting new answers.
-
-Please answer all questions honestly and accurately. Select options that best describe your habits and awareness.
-
-This guide is a step-by-step walkthrough of the form's fields and explanations.
-
-</thinking>
-
 # Health Behavior Analytics Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information on health behavior and awareness of health benefits. The goal is to understand individual habits and factors influencing overall health.

@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended to gather information from potential members of the Best Sellers Club, a membership program designed to support businesses and individuals in the retail industry. 
-  The purpose of this form is to gather demographic and business information from applicants, including their contact details, business profile, and preferences for membership benefits. 
-  This information will be used to determine the applicant's suitability for membership and to provide personalized support and services. 
-  Note that the required fields are essential for the membership application process, and missing or incomplete information may delay or prevent membership approval.
-  </thinking>
-
 # Best Sellers Club Membership Form - Help Guide
 ## Purpose
 The Best Sellers Club Membership Form is a required application form for businesses and individuals interested in joining the membership program. The information collected will be used to evaluate your membership application and tailor the benefits and services to your specific needs.

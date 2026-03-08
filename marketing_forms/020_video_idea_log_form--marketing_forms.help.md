@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect and log video ideas submitted by team members. The purpose of this form is to help project managers and team leaders track and manage video ideas in a structured and organized manner. This will help ensure that all team members are on the same page and that no duplicate ideas are submitted. 
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created by AI using public survey topic metadata as inspiration.
-
-Before filling out this form, please make sure to check if a similar idea has already been submitted. You can check the form regularly to see if a similar idea has been added and avoid duplicating efforts. 
-
-</thinking>
-
 # Video Idea Log Form - Help Guide
 ## Purpose
 The Video Idea Log Form is designed to collect and track video ideas submitted by team members. The form helps project managers and team leaders to stay organized and ensure that all team members are on the same page.

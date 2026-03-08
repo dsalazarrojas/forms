@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate the marketing reach of a team or organization. It seems to be used to assess how well a team is performing in terms of its marketing efforts. This form is likely used in a marketing strategy planning or evaluation context, perhaps to assess the effectiveness of marketing campaigns or to identify areas for improvement. It's possible that this form is part of a larger marketing performance management system. However, without further context, it's difficult to say for certain. To avoid duplication, it's essential to check if the form already exists in the system or if there are similar forms that serve a similar purpose.
-</thinking>
-
 # Marketing Reach Evaluation Form - Help Guide
 ## Purpose
 The Marketing Reach Evaluation Form is designed to assess the marketing reach of a team or organization. This form helps evaluate how well a team is performing in terms of its marketing efforts, identifying areas for improvement and opportunities for growth.

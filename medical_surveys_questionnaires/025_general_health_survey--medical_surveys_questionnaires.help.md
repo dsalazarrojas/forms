@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a general health survey used to collect patient information and medical history. The purpose of this form is likely to gather data on patients' health habits, medical conditions, medications, allergies, and medical test results. It also seems to be used to track medical procedures, including their outcome and follow-up information. Before proceeding, please note that this form might not be applicable to all medical settings or purposes, and it's essential to review the fields carefully to ensure you're not duplicating any existing data or forms. Additionally, please ensure that you're not collecting unnecessary or sensitive information that might be protected by laws or regulations such as HIPAA.
-
-</thinking>
-
 # general_health_survey - Help Guide
 ## Purpose
 The general_health_survey form is designed to collect general patient information and medical history data.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users to register as members of a club. It collects information about the applicant's personal details, chapter preferences, and membership terms. The form will be used to create a new club member account and track their status as they participate in club activities. 
-
-To avoid errors, it is assumed that the user has not completed this form before. If you have already registered, please do not attempt to re-register. 
-
-</thinking>
-
 # Club Registration - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in joining the club. Please fill out this form to register as a new member and provide necessary details for club administration.

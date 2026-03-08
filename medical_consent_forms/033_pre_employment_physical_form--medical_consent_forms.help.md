@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a pre-employment physical form for medical screening purposes. The form is intended to be used by employers to collect medical information from job applicants before employment decisions are made. The form is not intended for clinical or medical diagnosis, but rather for general pre-employment screening. The form's purpose is to gather information about an individual's medical history, allergies, and any medical clearances they may have.
-</thinking>
-
 # pre_employment_physical_form - Help Guide
 ## Purpose
 The pre-employment physical form is used by employers to collect medical information from job applicants before employment decisions are made. This form is for general pre-employment screening purposes and is not intended for clinical or medical diagnosis.

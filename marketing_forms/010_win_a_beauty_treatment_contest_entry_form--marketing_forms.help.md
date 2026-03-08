@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are interested in entering a beauty treatment contest. The contest could be for a product launch, a promotion, or any other marketing-related activity. This form should only be used for new entrants and not for existing customers or employees of the company. To ensure accurate and relevant responses, please fill out the form carefully, and make sure you are not a robot or a duplicate entry.
-</thinking>
-
 # Win A Beauty Treatment Contest Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who are interested in entering a beauty treatment contest.

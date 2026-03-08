@@ -1,15 +1,3 @@
-<thinking> 
-
-To ensure that the "Market Feasibility Research Request Form" is used effectively, please note the following:
-
-1. The form should only be filled out for market research purposes, i.e., when requesting market research services.
-2. The form is a one-time request, do not submit multiple forms for the same research brief.
-3. Fill out the form only after the research brief has been reviewed and approved.
-4. Ensure that the research brief status is accurately reflected as it changes over time.
-5. Research requester information should be accurate and up-to-date.
-
-</thinking>
-
 # Market Feasibility Research Request Form - Help Guide
 ## Purpose
 This form is used to request market research services for your project. It helps us understand your project's requirements and feasibility.

@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for patients who are scheduled for or have already visited a dental office. The purpose of this form is to screen patients for potential COVID-19 exposure or symptoms before their appointment. This form asks questions about recent travel, contact with confirmed COVID-19 cases, and symptoms that may indicate COVID-19 infection. The answers will be used to assess the patient's risk level and ensure their safety during the visit.
-This form is designed to be filled out by patients or their guardians. Patients who are unsure about any of the questions should inform their healthcare provider.
-</thinking>
-
 # COVID 19 Screening Questionnaire For Dental Patients - Help Guide
 ## Purpose
 This screening form is used to evaluate patients for potential COVID-19 exposure or symptoms before their dental visit. Patients must answer all questions to the best of their ability, as their answers will help the healthcare provider determine the best course of action for their safety during the visit.

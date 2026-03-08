@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Aesthetic Treatment Plan Form - Help Guide
 
 ## Purpose

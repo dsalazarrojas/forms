@@ -1,11 +1,7 @@
 # Covid 19 Customer Check In Form - Help Guide
 ## Purpose
 
-> <thinking>This form is used to collect relevant information about patients who are being vaccinated against Covid-19. This includes identifying patient details, vaccination history, and medical information. By providing accurate and detailed responses, healthcare providers can better understand and cater to the needs of their patients. This form helps ensure that patients receive the best possible care and attention from healthcare professionals.
-
-</thinking>
-
-## How To Complete This Form
+> ## How To Complete This Form
 
 To complete this form, please follow these steps:
 

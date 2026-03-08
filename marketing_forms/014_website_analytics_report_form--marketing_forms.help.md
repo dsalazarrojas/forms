@@ -1,13 +1,3 @@
-<thinking>
-This is a help guide for the marketing form with the given YAML structure. 
-
-The purpose of this form is to gather information for website analytics reports. This form is likely used by marketing teams to collect data from users for their website analytics needs. This form likely serves as a starting point for data collection and will guide users through a series of questions to capture the necessary information.
-
-Before proceeding, please ensure that this form is relevant to your needs. If you're not looking to gather data for website analytics, you may not need to complete this form.
-
-Please make sure you have all necessary information before starting this form. If you're unsure about any of the fields, you can always ask for help or clarification.
-
-</thinking>
 # Website Analytics Report Form - Help Guide
 ## Purpose
 This form is designed to collect information for website analytics reports.

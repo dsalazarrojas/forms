@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wellness Product Collaboration Application Form - Help Guide
 ## Purpose
 This form is designed to help wellness industry professionals collaborate on new product ideas, share resources, and build relationships. It collects contact and partner information, product details, pricing, and submission workflow preferences.

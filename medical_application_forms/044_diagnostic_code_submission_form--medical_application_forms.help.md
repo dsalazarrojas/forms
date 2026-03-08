@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect diagnostic codes and related information for submission. 
-The form is likely used in a medical context, possibly for reporting or tracking purposes. 
-Please ensure that you are filling out this form only once for each unique diagnosis. 
-</thinking>
-
 # Diagnostic Code Submission Form - Help Guide
 ## Purpose
 This form is designed to collect diagnostic codes and related information for submission. 

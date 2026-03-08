@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect marketing materials requests from customers or potential customers. 
-The purpose of this form is to gather information about the user's needs and preferences for marketing materials, such as the type of materials they are interested in, their contact information, and any specific time constraints they may have. 
-To avoid duplicates, please ensure that you are not resubmitting a request for the same materials.
-
-</thinking>
-
 # Marketing Materials Request Form - Help Guide
 ## Purpose
 This form is used to collect marketing materials requests from customers or potential customers.

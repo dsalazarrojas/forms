@@ -1,5 +1,3 @@
-<thinking>As a market sizing template, this form is designed to help you gather information about your target market. It's meant for companies that want to assess their market potential, growth rate, and competitive position. The form is divided into several sections, each addressing a specific aspect of market analysis. By filling out this form, you'll be able to get a comprehensive picture of your market and identify areas for growth and improvement.</thinking>
-
 # Market Sizing Template - Help Guide
 ## Purpose
 The Market Sizing Template is a tool for companies to assess their market potential, growth rate, and competitive position. It's designed to help you understand your target market and identify areas for growth and improvement.

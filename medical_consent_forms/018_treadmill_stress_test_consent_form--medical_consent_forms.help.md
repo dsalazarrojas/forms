@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from patients for a treadmill stress test, a medical diagnostic tool that assesses cardiovascular health by simulating real-life walking or running activities on a treadmill. 
-</thinking>
-
 # Treadmill Stress Test Consent Form - Help Guide
 ## Purpose
 This form is intended for patients who are undergoing a treadmill stress test to confirm that they understand the nature of the test and have provided necessary information about themselves and emergency contact details. Please review the form carefully and sign where indicated.

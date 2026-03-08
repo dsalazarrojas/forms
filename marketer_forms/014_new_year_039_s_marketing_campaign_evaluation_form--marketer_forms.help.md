@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data on the marketing campaign launched during the New Year's period. Marketing campaigns are a crucial part of any business strategy as they help in increasing brand awareness, generating leads, and driving sales. This form aims to evaluate the performance of the campaign and gather insights for future campaign optimization. It is essential to fill out the form accurately and thoroughly to ensure that the data collected is reliable and actionable. Please ensure that you are filling out the form for the correct campaign and not a duplicate.
-
-</thinking>
-
 # New Year's Marketing Campaign Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of the New Year's marketing campaign. It will help in collecting data on the campaign's goals, budget, target audience, marketing channels, start and end dates, status, and feedback. The information gathered through this form will be used to improve future marketing campaigns.

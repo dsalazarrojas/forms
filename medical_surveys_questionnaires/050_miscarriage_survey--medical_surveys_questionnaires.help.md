@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Miscarriage Survey - Help Guide
 
 ## Purpose

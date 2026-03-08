@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and track mental health billing information for clients. This form allows users to input client contact details, billing dates and amounts, payment information, and other relevant details for administrative and financial purposes.
-
-Before proceeding, please ensure that you have the necessary permissions and access to complete this form. Additionally, check that this form does not already exist in your system to avoid duplication of effort.
-
-</thinking>
-
 # Mental Health Billing Form - Help Guide
 ## Purpose
 The Mental Health Billing Form is designed to collect and track essential information for mental health billing purposes. This includes client contact details, billing dates and amounts, payment information, and other relevant details.

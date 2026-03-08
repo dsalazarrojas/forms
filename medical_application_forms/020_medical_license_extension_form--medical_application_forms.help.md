@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be a medical license extension form, which means it is intended to gather information from medical professionals or institutions to extend their licenses or certifications. This form is likely used for professionals such as doctors, dentists, or pharmacists who need to renew their licenses after a certain period of time. The purpose of this form is to collect necessary information for the renewal process, including selecting one or multiple options, providing additional details, and inputting numerical values or dates.
-
-The following pages and fields are part of this form, including select one and multiple options, text fields, date, time, note, email, and text areas. Some fields are required while others are not.
-
-The form's structure and layout are designed to be easy to understand and complete, but it is essential to review each field carefully to ensure accurate and thorough completion.
-
-Please note that some fields may have been omitted or modified based on business requirements or regulations.
-</thinking>
-
 # Medical License Extension Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students applying for leadership positions within the organization. The form will help us understand each student's background, contact information, and agreement with our expectations. To ensure we get the most accurate and complete applications, please review the form carefully before filling it out. Please note that this form will be used to evaluate each applicant based on their qualifications. If you have any questions, feel free to contact us.
-</thinking>
-
 # Student Leadership Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from students applying for leadership positions within the organization.

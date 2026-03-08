@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from individuals regarding their thyroid health. It's essential to understand that this form is specifically designed for this purpose and should only be used for this reason. Please ensure that any responses submitted through this form are accurate and relevant to the topic at hand. 
-</thinking>
-
 # thyroid_health_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from individuals regarding their thyroid health. It is essential to understand that this form is intended for this specific purpose and should only be used for collecting thyroid health feedback.

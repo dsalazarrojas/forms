@@ -1,10 +1,3 @@
-<thinking>
-The goal of the Physical Therapy Triage Assessment form is to gather essential information to help healthcare professionals assess patients' physical therapy needs. The form is designed to be a quick and efficient way to collect relevant information that informs the development of a physical therapy plan. It is intended for use by healthcare professionals in a clinical setting.
-
-Before proceeding, ensure that you have the necessary information and authorization to access the patient's medical history. If you are unsure, please refer to your organization's policies and procedures.
-
-</thinking>
-
 # Physical Therapy Triage Assessment - Help Guide
 ## Purpose
 The Physical Therapy Triage Assessment form is a tool used to gather essential information to help healthcare professionals assess patients' physical therapy needs.

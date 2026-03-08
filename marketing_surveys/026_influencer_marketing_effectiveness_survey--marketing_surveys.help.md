@@ -1,7 +1,3 @@
-<thinking>
-The form "Influencer Marketing Effectiveness Survey" appears to be designed to gather data on the performance of marketing campaigns, specifically those using influencer marketing. 
-</thinking>
-
 # Influencer Marketing Effectiveness Survey - Help Guide
 ## Purpose
 This form is used to collect information about the effectiveness of influencer marketing campaigns. It is intended to gather data that can be used to evaluate and improve the success of these campaigns.

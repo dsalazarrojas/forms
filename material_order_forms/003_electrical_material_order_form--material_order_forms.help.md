@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers and suppliers for electrical material orders. The purpose of this form is to gather details about the customer and supplier, as well as the products being ordered. This form is intended for internal use within a business or organization, and is not affiliated with any external form platforms. The form is created using AI-generated code and is released under a Creative Commons license, allowing for free use, modification, and distribution.
-</thinking>
-
 # electrical material order form - Help Guide
 ## Purpose
 The electrical material order form is a tool used to collect information from customers and suppliers for electrical material orders. It's designed to provide a structured way to gather details about the customer, supplier, and products being ordered, making it easier to manage and process orders efficiently.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to help individuals assess their return to work anxiety, a common concern after a period of absence from work. This form will guide users through a series of questions to identify their anxiety levels, support needs, and work environment factors that may influence their return to work anxiety. Please answer the questions to the best of your ability and without any influence of external factors. This form is for information purposes only and does not constitute professional advice. By completing this form, you acknowledge that the results are not guaranteed to be entirely accurate and that you may need additional support or consultation from a healthcare professional.</thinking>
-
 # Return To Work Anxiety Self Assessment - Help Guide
 ## Purpose
 

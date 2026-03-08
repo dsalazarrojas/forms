@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Premature Ejaculation Training Questionnaire - Help Guide
 
 ## Purpose

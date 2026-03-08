@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The goal of this guide is to walk a non-technical user through the Client Registration form, explaining each field and its purpose. This guide will cover the form's purpose, how to complete it, and provide explanations for each field.
 
 # Client Registration - Help Guide

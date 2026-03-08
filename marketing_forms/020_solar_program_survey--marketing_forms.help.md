@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Solar Program Survey - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their experience with our solar program. The collected data will help us understand customer preferences, needs, and concerns, which will be used to improve our services. Please ensure that you have filled out the form honestly and accurately to provide valuable insights.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to evaluate the success of a digital marketing campaign by gathering information on various aspects of the campaign. This form is likely used by marketing teams or campaign managers to assess the effectiveness of their campaigns and identify areas for improvement. To prevent duplication of effort, ensure that this form is filled out for each new campaign separately and that the results are stored accordingly.
-</thinking>
-
 # Digital Marketing Campaign Success Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # World Cup 2026 Viewing Survey - Help Guide
 
 ## Purpose

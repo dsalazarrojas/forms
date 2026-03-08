@@ -1,16 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for a form titled "customer_profile_survey" that falls under the category "marketing_surveys". This form aims to collect customer profile information, likely for marketing purposes. The guide will cover the form's purpose, how to complete it, and a detailed explanation of each field.
-
-To start, let's consider why this form might be relevant for users. Is this form being filled out by customers, or is it an internal tool for gathering customer data for marketing purposes? Are there any specific requirements or deadlines for completing this form? Is it essential for users to have a thorough understanding of each field's purpose and relevance?
-
-Assuming this form is for customers to fill out, let's consider how it might be used. Will the data collected be used for targeted marketing campaigns, customer segmentation, or something else entirely?
-
-Let's also consider whether there's a risk of data duplication or overlap with other forms. Are customers expected to fill out this form multiple times? 
-
-With these considerations in mind, let's create the guide.
-
-</thinking>
-
 # customer_profile_survey - Help Guide
 ## Purpose
 The "customer_profile_survey" form is designed to collect customer profile information, which will help us tailor our marketing efforts to better serve your needs and interests.

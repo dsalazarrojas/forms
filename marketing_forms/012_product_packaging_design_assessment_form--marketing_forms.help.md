@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form purpose is clear, let's start by explaining the reason behind creating this form: the Product Packaging Design Assessment Form is designed to help designers, manufacturers, and packaging experts assess and evaluate the various aspects of product packaging design, including its size, shape, material, sustainability, and overall value. This form aims to provide a comprehensive overview of the product packaging design, allowing users to make informed decisions and identify areas for improvement. Before proceeding, ensure that the form is being used for its intended purpose and not for any other reason to avoid duplication of effort.
-</thinking>
-
 # Product Packaging Design Assessment Form - Help Guide
 
 ## Purpose

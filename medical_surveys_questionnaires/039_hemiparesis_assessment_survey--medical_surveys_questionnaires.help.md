@@ -1,5 +1,3 @@
-<thinking>Is this form intended to collect data from patients about their hemiparesis condition, specifically assessing their functional impact, mobility needs, and various symptoms and activities affected by the condition? Is this form meant for healthcare professionals to collect data for diagnosis or treatment planning? Is there any specific requirement for patients to answer this form without guidance or support? Is this form part of a larger survey with multiple questionnaires or a standalone form?</thinking>
-
 # Hemiparesis Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect data from patients about their hemiparesis condition. It aims to assess the functional impact, mobility needs, and various symptoms and activities affected by the condition. This form is intended for patients to provide information about their personal experiences and conditions.

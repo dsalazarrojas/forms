@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the dental treatment plan of a patient. This form should only be completed by authorized dental professionals for the purpose of creating and updating a patient's treatment plan. Please do not submit this form if you are a patient.
-</thinking>
-
 # Dental Treatment Plan Form - Help Guide
 ## Purpose
 The Dental Treatment Plan Form is used by authorized dental professionals to gather and document the necessary information for a patient's treatment plan. This form helps ensure that the patient receives comprehensive and effective care.

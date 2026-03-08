@@ -1,7 +1,3 @@
-<thinking>
-We are developing a Female BioTe Questionnaire to collect sensitive health information from female patients. This form is essential for healthcare professionals to gather comprehensive data about the patient's medical history, health status, and personal details. Before filling out this form, please ensure you have the patient's consent to access their medical information. This form should not be filled out by patients with duplicate information. Please ensure the information provided is accurate and up-to-date.
-</thinking>
-
 # Female BioTe Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential health information from female patients, including their medical history, current health status, and other personal details.

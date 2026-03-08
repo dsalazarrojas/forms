@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the symptoms of neuropathy, a condition that affects the nervous system. The goal is to gather detailed history about pain, burning sensations, numbness, weakness, and giddiness experienced by the individual. This data will be used to understand the severity of neuropathy symptoms and inform treatment or further diagnosis.
-The form is not meant to be a diagnostic tool, but rather a questionnaire to gather subjective experiences of symptoms.
-It is recommended that this form is not to be filled out more than once a day, as this may cause redundancy in the data collected.
-</thinking>
-
 # Neuropathy Symptom Score Questionnaire - Help Guide
 
 ## Purpose

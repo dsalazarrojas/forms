@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback and opinions from customers who have purchased or are interested in purchasing a product or service. The goal is to gather information about their experiences and preferences, which can be used to improve the overall customer experience and inform business decisions.
 
 Before starting, please ensure that you have not already completed this form, as it may help prevent duplicate submissions.

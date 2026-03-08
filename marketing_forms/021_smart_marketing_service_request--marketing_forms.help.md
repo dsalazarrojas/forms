@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for marketing service requests, where customers can provide information about their marketing needs and preferences. The form likely serves as a means for marketing teams to collect necessary information to tailor their services to individual customers' needs. It seems that the form might be part of a larger marketing process, possibly as an entry point for further communication or project planning. To ensure consistency in form completion, it would be beneficial to avoid completing the form multiple times for the same or very similar projects. It's essential to review and understand the fields before proceeding, as some fields might be redundant or have specific requirements.</thinking>
-
 # Smart Marketing Service Request - Help Guide
 
 ## Purpose

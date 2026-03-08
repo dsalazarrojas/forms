@@ -1,5 +1,3 @@
-<thinking>...this form is used to create and manage offers in the marketing department. This form will guide you through the process of building offers from start to finish. Before proceeding, ensure that you're familiar with the company's internal policies and procedures regarding offer creation and sharing. Also, review the existing offers to avoid duplicates or conflicts... </thinking>
-
 # Offer Building Form - Help Guide
 ## Purpose
 The Offer Building Form is designed to help marketing teams create and manage offers, such as discounts, promotions, or other types of offers, within the company's internal system.

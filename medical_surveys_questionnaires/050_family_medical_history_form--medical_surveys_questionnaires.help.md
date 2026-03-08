@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's family medical history, including details about their relationships, medical history, and any diseases they may have been diagnosed with. This form is intended to be completed by a patient or their representative, and the information collected will be used to inform medical decisions and treatment options. 
-
-This form does not collect sensitive or identifying information, and all responses will be treated confidentially. Please ensure that you have the patient's consent before completing this form. 
-
-Before filling out this form, please ensure you have the necessary information and consent from the patient to collect this data. 
-
-</thinking>
-
 # Family Medical History Form - Help Guide
 ## Purpose
 The Family Medical History Form is designed to collect detailed information about a patient's medical history, relationships, and other relevant health conditions.

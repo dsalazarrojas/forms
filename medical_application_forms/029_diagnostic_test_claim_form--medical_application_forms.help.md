@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for a diagnostic test claim form, likely used in a medical context to collect information related to patient care and treatment. This form may be used by healthcare providers to submit claims for medical tests, procedures, or other services to insurance companies or other payers. Each field is designed to collect relevant information about the claim, including patient demographics, test results, payment details, and claim status. It's essential to ensure that each field is filled out accurately and completely to avoid delays or rejections in the claim process.
-</thinking>
-
 # Diagnostic Test Claim Form - Help Guide
 ## Purpose
 This form is used to submit claims for diagnostic tests, procedures, or services to insurance companies or other payers.

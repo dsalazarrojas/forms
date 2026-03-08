@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Collateral ROI Assessment Form - Help Guide
 ## Purpose
 The Collateral ROI Assessment Form is designed to help evaluate the effectiveness of marketing campaigns or projects. It provides a way to measure the return on investment (ROI) of marketing collateral, such as brochures, flyers, business cards, and digital ads, by tracking various metrics like impressions, engagements, conversions, and revenue generated.

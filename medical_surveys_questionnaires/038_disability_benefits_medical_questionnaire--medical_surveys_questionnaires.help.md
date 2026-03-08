@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a disability benefits application. The purpose of this form is to gather necessary details about the claimant's medical condition, history, and benefits claim. Please ensure you are filling this form for the correct purpose and not duplicating an existing application. This form must be filled out accurately and completely to ensure the proper processing of the claim.
-</thinking>
-
 # Disability Benefits Medical Questionnaire - Help Guide
 
 ## Purpose

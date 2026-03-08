@@ -1,7 +1,3 @@
-<thinking>
-The form "fashion_survey" was created to collect information from customers, likely for marketing or customer service purposes. To prevent duplication, we'll assume this form is not already filled out by the user, and the user has not previously submitted this form. If the form is a follow-up survey, please make note of it in the "Feedback" field. 
-</thinking>
-
 # fashion_survey - Help Guide
 ## Purpose
 This form is designed to collect information from customers on their fashion preferences and feedback. It is intended for marketing or customer service use cases.

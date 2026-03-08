@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stroke Rehabilitation Assessment Quiz - Help Guide
 ## Purpose
 The Stroke Rehabilitation Assessment Quiz is a form used to collect information about a patient's progress and status during the rehabilitation process following a stroke. This form helps healthcare professionals assess the patient's condition, identify areas for improvement, and create a personalized rehabilitation plan.

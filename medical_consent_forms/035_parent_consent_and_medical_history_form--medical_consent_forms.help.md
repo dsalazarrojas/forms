@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Consent And Medical History Form - Help Guide
 
 ## Purpose

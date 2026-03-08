@@ -1,5 +1,3 @@
-<thinking>As this is a user-facing form, it's essential to provide clear and concise information to help users understand the form's purpose and requirements. The Robotics Calibration Stand Order Form is a crucial tool for ordering and managing the calibration of robots. Its primary function is to collect and process orders for robot calibration, ensuring that the required materials and specifications are accurately documented. This form is a critical component of the calibration process, as it helps streamline communication between the user and the production team, reducing errors and promoting efficiency.</thinking>
-
 # Robotics Calibration Stand Order Form - Help Guide
 ## Purpose
 The Robotics Calibration Stand Order Form is a form designed to collect and manage orders for robot calibration. It helps ensure that the required materials and specifications are accurately documented, making it an essential tool for streamlining communication between users and the production team.

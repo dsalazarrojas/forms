@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to help users request a webinar attendance benchmark report, which is a report that compares the attendance of different webinars. The form will ask users to confirm whether they want to receive a benchmark report, provide details for the report, and specify which types of events the report should cover.
-</thinking>
-
 # Webinar Attendance Benchmark Report Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to receive a webinar attendance benchmark report. The report will help analyze and compare the attendance of different webinars, allowing users to gain insights and improve their future webinars.

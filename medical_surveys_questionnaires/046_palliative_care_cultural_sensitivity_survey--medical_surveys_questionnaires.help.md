@@ -1,5 +1,3 @@
-<thinking>As I analyze the form, I understand that it's for assessing cultural sensitivity in palliative care settings. This form aims to collect information about patients' backgrounds, the care team involved in their care, challenges they face, and suggestions or comments from the care team. The form seems to be designed for medical settings where cultural sensitivity is crucial. Given the fields available, it appears to be a comprehensive survey that captures various aspects of patient care. I will now create the help guide.</thinking>
-
 # Palliative Care Cultural Sensitivity Survey - Help Guide
 ## Purpose
 The Palliative Care Cultural Sensitivity Survey is designed to help care teams understand the cultural needs and preferences of patients receiving palliative care. This survey aims to collect information about patients' backgrounds, care teams, challenges, and suggestions to improve cultural sensitivity in care settings.

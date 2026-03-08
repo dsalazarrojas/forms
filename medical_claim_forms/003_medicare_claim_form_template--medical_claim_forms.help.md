@@ -1,10 +1,3 @@
-<thinking>
-This form is for creating a Medicare Claim Form Template, which is a crucial document for submitting medical claims to the Medicare program. The form is used to provide detailed information about the claimant, the healthcare provider, and the claim details. This template ensures that all necessary information is accurately and consistently collected, making it easier for healthcare providers to submit claims and for the Medicare program to process them efficiently.
-
-Before proceeding, please verify that you have the necessary information and permissions to submit a claim. Also, ensure that this form is not a duplicate of an already submitted claim.
-
-</thinking>
-
 # Medicare Claim Form Template - Help Guide
 
 ## Purpose

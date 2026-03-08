@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to assess the mental capacity of a patient, which refers to their ability to understand and respond to their environment. This form helps healthcare professionals evaluate the patient's cognitive and mental state, including their ability to concentrate, make decisions, and perform daily activities. To avoid duplication, this form should only be used in conjunction with other forms that assess the patient's medical history, physical health, and medications.
-
-This guide will walk you through completing the form and explain each field in detail.
-
-The form is divided into several sections, each with specific questions or assessments. Be sure to answer each question accurately and consistently to the best of your ability.
-
-Please note that some fields may seem repetitive, but they are designed to capture different aspects of the patient's mental capacity. Each field is essential in its own right, and answers should be provided for all fields unless otherwise specified.
-
-</thinking>
-
 # Mental Capacity Assessment Form - Help Guide
 ## Purpose
 The Mental Capacity Assessment Form is designed to evaluate the mental capacity of a patient, including their cognitive state, ability to concentrate, and overall mental status. This form helps healthcare professionals understand the patient's mental capacity and make informed decisions.

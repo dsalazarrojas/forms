@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Shipping Quote Form" is to provide a standardized and structured way for merchants to request shipping quotes for their orders. This form is designed to collect necessary information from both the shipper and the ship-to address, allowing for accurate shipping rate calculations and quotes. 
-
-To avoid duplicate forms, ensure that this form is only used for shipping quote requests and not for actual order placement. 
-
-Before proceeding with this guide, please note that the form has some optional fields and some required fields. Optional fields will be marked with a "(Not required)" note, indicating that filling them in will provide additional information for the shipping quote but are not necessary for the calculation.
-
-</thinking>
-
 # Shipping Quote Form - Help Guide
 ## Purpose
 The "Shipping Quote Form" is used to request shipping quotes for orders, providing merchants with a structured way to collect necessary information from both the shipper and the ship-to address.

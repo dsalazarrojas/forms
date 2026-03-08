@@ -1,9 +1,3 @@
-<thinking>
-To create this help guide, I'll first need to determine the purpose and intent of the form. The form is called "Patient Appointment Communication Form". Based on the provided YAML, it appears to be designed for patients to schedule appointments with doctors. It includes fields for patient personal details (First Name, Last Name, Appointment Date, Start Time, End Time), doctor information (Doctor Name), and communication preferences (Phone, Email, Patient Preferences, and Doctor Instructions). There's also a field for communication channels, where patients can choose how they'd like to be contacted (Email, Phone, Text Message, In-Person).
-
-To ensure the form doesn't get duplicated for other patients, it's crucial to understand the internal logic of the system using this form. Let's assume this form is part of a larger system for managing patient appointments and communications, and it's designed to be filled out by patients before or after scheduling an appointment.
-</thinking>
-
 # Patient Appointment Communication Form - Help Guide
 ## Purpose
 This form is designed to collect and communicate important information for patient appointments. It includes fields for patient personal details, doctor information, and communication preferences.

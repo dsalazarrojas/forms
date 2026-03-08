@@ -1,10 +1,3 @@
-<thinking>
-**Internal Note:**
-This form is for customers interested in subscribing to the Square Newsletter. 
-The purpose of this form is to collect subscriber information (name, email, and subscription preferences) for marketing purposes. 
-The form is designed to collect the minimum required information while providing options for subscription formats and types to cater to different customer preferences.
-</thinking>
-
 # Square Newsletter Subscription Form - Help Guide
 ## Purpose
 This form is for customers interested in subscribing to the Square Newsletter. The goal is to collect their information and subscription preferences for marketing purposes.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a member data filter form, designed to collect relevant information from members of an organization. The purpose of this form is to provide a structured way to gather data from members, ensuring consistency and accuracy in the collected data. This form is likely used in a membership registration process, where members can input their personal and relevant data. The form is divided into multiple pages, each with its own set of fields.
-
-Before proceeding, please ensure that you have checked if you've completed this form before. Duplicates may lead to errors in data collection and processing. Please review and fill out the form carefully, ensuring all required and optional fields are filled in accurately and completely.</thinking>
-
 # Member Data Filter Form - Help Guide
 
 ## Purpose

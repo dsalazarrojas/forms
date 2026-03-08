@@ -1,5 +1,3 @@
-<thinking>Form purpose is to assess an individual's mental health, their mental status and their needs. This form should only be filled by mental health professionals or authorized users. Before filling the form, ensure you understand the questions and the context in which they are being asked. The form's purpose is to gather information about the client's mental health status, treatment goals, service history, service type, and assessment frequency and duration. This form should not be used to diagnose or treat mental health conditions. If you are not authorized, please do not fill this form.</thinking>
-
 # mental_health_service_assessment_form - Help Guide
 ## Purpose
 The mental_health_service_assessment_form is a tool to assess an individual's mental health, their mental status and their needs. This form should only be filled by mental health professionals or authorized users.

@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to facilitate the evaluation and review of company meetings, gathering feedback from employees to identify areas of improvement and ensure that meetings are effective and productive. To ensure that the form is completed accurately and comprehensively, please ensure that you have attended the meeting you are reviewing. This form should not be filled out for a meeting you have not attended.
-
-Before proceeding, consider the following guidelines:
-
-*   Ensure that you have not already submitted a review for this meeting.
-*   Review the meeting's objectives, agenda, and any action items discussed during the meeting.
-*   Be honest in your assessment of the meeting's effectiveness and identify specific areas for improvement.
-
-</thinking>
-
 # Company Meeting Review Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on the effectiveness and quality of company meetings.

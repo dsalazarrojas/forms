@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Logo Creation Onboarding Form - Help Guide
 ## Purpose
 The Logo Creation Onboarding Form is a comprehensive form designed to help you create a professional logo for your company. This form guides you through the process of specifying the essential elements of your logo, including the company name, tagline, primary and secondary branding colors, font, font color, and logo placement.

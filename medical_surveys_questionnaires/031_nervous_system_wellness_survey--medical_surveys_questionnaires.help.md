@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess an individual's nervous system wellness, focusing on stress management, physical and mental symptoms, social interactions, stress frequency, self-care practices, emotional support, and coping mechanisms. 
-The form is intended to be a comprehensive tool for healthcare professionals to evaluate a patient's overall nervous system wellness and provide personalized recommendations for improvement. 
-Please ensure you have not filled out this form previously to avoid duplication of effort and ensure accurate results.
-</thinking>
-
 # Nervous System Wellness Survey - Help Guide
 
 ## Purpose

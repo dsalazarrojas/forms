@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a Screening Checklist For Visitors And Employees, intended to gather information about visitors and employees' health status and medical conditions. The purpose of this form is to ensure that visitors and employees are screened for potential health risks and take necessary precautions to prevent the spread of infectious diseases. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata. It has been released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-Before using this form, ensure that the context and purpose align with your specific needs. Review the form carefully to avoid duplication and unnecessary repetition.
-
-</thinking>
-
 # Screening Checklist For Visitors And Employees - Help Guide
 ## Purpose
 This form is designed to screen visitors and employees for potential health risks and take necessary precautions to prevent the spread of infectious diseases.

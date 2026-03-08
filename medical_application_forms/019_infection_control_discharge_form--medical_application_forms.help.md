@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record the status of infection control measures taken for a patient upon discharge from a healthcare facility. It's essential to ensure that all relevant fields are completed accurately to maintain the patient's safety and prevent potential complications. Please review the form carefully to ensure you're completing it correctly. 
-
-</thinking>
-
 # Infection Control Discharge Form - Help Guide
 ## Purpose
 The Infection Control Discharge Form is used to document the status of infection control measures taken for a patient upon discharge from a healthcare facility. This form helps ensure that the patient's safety is maintained and potential complications are prevented.

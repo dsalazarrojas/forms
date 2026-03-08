@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for voting on meeting agendas. It allows users to provide their opinion or decision on each agenda item. The form is meant to be simple and easy to understand, with a minimal number of fields, and does not require extensive user information. The goal is to gather user opinions on each agenda item without any specific requirements or constraints. The form is not meant to collect sensitive or personal data, and responses are intended to be anonymous. This form was generated using public metadata and does not use any proprietary content from other form platforms. You are free to use, modify, and even sell forms derived from it, just giving credit.
-</thinking>
-
 # General Meeting Voting Form - Help Guide
 ## Purpose
 This form is designed to gather user opinions on meeting agenda items.

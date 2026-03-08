@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in online training and development programs. The purpose of this form is to gather essential details about the customer, their contact information, health and lifestyle, expectations, customer experience, additional comments, preferred date and time, and other relevant details. This information will be used to assign the right training tool for the customer's needs.
-
-Before completing this form, please ensure that you are not duplicating your existing account with us. If you have any issues or questions, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # online_training_enquiry_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who are interested in online training and development programs. The collected information will be used to assign the right training tool for the customer's needs.

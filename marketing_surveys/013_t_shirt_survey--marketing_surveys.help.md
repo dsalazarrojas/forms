@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their preferences and opinions on T-Shirts. The purpose of this form is to collect data on customer interests, favorite designers, pricing, and other relevant information. This form is meant to be used by marketing teams to understand customer behavior and preferences.
-</thinking>
-
 # T Shirt Survey - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their preferences and opinions on T-Shirts. The collected data will help marketing teams understand customer behavior and preferences.

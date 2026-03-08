@@ -1,9 +1,3 @@
-<thinking>
-This form is used for customers to pre-order a specific product for November, which is expected to be released in the near future. The form is designed to collect contact information and preferences from customers who are interested in pre-ordering the product.
-The form has 9 fields, all of which are optional. This means that customers can fill out any or all of the fields depending on their preference.
-To avoid duplication of effort, we recommend that customers only fill out the fields that are relevant to their needs.
-</thinking>
-
 # November Warmer of the Month Pre-Order Form - Help Guide
 
 ## Purpose

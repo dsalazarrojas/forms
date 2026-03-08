@@ -1,7 +1,3 @@
-<thinking>
-This form is a marketing material printing request form, likely used by the marketing team to request for printing of marketing materials such as brochures, flyers, or posters. The form is designed to gather necessary information for the production process, including print specs, quantities, deadline, artwork uploads, production notes, agency contact information, client contact information, and order summary. This form may be used to streamline the printing process and ensure accuracy in communication between the marketing team and the production team. Before completing this form, please ensure that you have all the necessary information and approval from the relevant parties. Duplicate submissions may cause confusion and lead to errors in the production process.
-</thinking>
-
 # marketing-material-printing-request-form - Help Guide
 ## Purpose
 This form is used to request for printing of marketing materials such as brochures, flyers, and posters. It gathers necessary information for the production process, ensuring accuracy in communication between the marketing team and the production team.

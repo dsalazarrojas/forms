@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's clarify the purpose of the form and check for relevance and non-duplication. The form is for evaluating hepatobiliary tumors, a type of liver and gallbladder cancer. It likely requires information about the patient's medical history, contact information, and other relevant details. This guide will explain each field in a clear and concise manner, ensuring that end users understand the form's purpose and how to complete it accurately.</thinking>
-
 # Hepatobiliary Tumor Evaluation Survey - Help Guide
 
 ## Purpose

@@ -1,17 +1,3 @@
-<thinking>
-Internal reasoning block: This form is intended to collect relevant details for a custom proof that can be used in marketing materials. The form has five fields, each with a specific purpose: 
-- Artwork Proof: A multiple-choice field to confirm if a custom artwork proof is required or not. 
-- Company Slogan: A text field for the company's slogan. 
-- Company Mission Statement: A text field for the company's mission statement. 
-- Proof Size: A number field for specifying the size of the proof. 
-- Company Values: A text field for the company's values.
-
-The form should only be completed for marketing materials that require a custom proof. 
-No field is marked as required, making it optional to fill out any of the fields if not relevant. 
-The form will be used for internal purposes and will not be publicly accessible.
-
-</thinking>
-
 # Custom Proof - Help Guide
 ## Purpose
 The Custom Proof form is designed to collect relevant details for a custom proof to be used in marketing materials. This form is intended for internal use and should only be completed when a custom proof is required.

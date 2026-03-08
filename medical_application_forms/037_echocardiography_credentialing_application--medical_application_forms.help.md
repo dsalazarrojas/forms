@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for credentialing applications for echocardiography professionals. The form is likely used by hospitals or medical institutions to verify the qualifications and training of echocardiography professionals. The purpose of this form is to gather information about the professional's training, experience, and qualifications in the field of echocardiography. The form is probably used to evaluate whether the professional meets the standards required for credentialing. The fields in this form may include personal contact information, training and certification status, and other relevant details.
-
-The fields on this form are designed to be completed by an echocardiography professional, and the information they provide will help the credentialing team assess their qualifications. This form is an essential part of the credentialing process, and accurate completion of the form is crucial for a successful evaluation.
-
-To avoid duplication of effort and ensure accurate completion of the form, it is recommended to review the form carefully and ensure that all required information is provided before submitting the form. The credentialing team will appreciate the professional's attention to detail and accuracy in completing the form.
-
-</thinking>
-
 # echocardiography_credentialing_application - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information for the medical professionals to understand the patient's background and needs. This form is typically used in the initial consultation or intake process. The form will only collect basic demographic information about the patient. The fields included are for patient identification, contact information, and medical record number. Please ensure you only fill in the relevant fields and do not duplicate information from existing records. 
-
-</thinking>
-
 # Patient Intake Form - Help Guide
 ## Purpose
 The Patient Intake Form is used to collect essential information about a patient during the initial consultation or intake process.

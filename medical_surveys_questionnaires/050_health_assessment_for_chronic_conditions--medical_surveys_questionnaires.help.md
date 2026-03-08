@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to assess the health conditions of patients, particularly those with chronic conditions. The assessment is intended to capture information about the patient's current medical status, symptoms, medications, medical history, lifestyle, and interaction with medical professionals. This form is likely to be used in a healthcare setting to gather data for further analysis or to provide personalized care recommendations.
-
-To prevent duplication, we can assume that this form is used in a scenario where the patient has already been diagnosed with a chronic condition, and this form is part of their ongoing care plan.
-
-Before starting, please make sure you have the necessary permissions to access and complete this form.
-
-</thinking>
-
 # prophets_health_assessment_for_chronic_conditions_form - Help Guide
 ## Purpose
 The **Prophets Health Assessment for Chronic Conditions Form** is a tool used to gather information about patients with chronic conditions. This form helps healthcare professionals understand the patient's medical status, symptoms, medications, medical history, lifestyle, and interactions with medical professionals.

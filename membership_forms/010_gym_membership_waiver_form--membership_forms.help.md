@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gym Membership Waiver Form - Help Guide
 
 ## Purpose

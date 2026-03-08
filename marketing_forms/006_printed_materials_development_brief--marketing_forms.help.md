@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for Printed Materials Development (PMD) projects. It is used by project stakeholders to provide details about ongoing or upcoming PMD projects. This form helps ensure consistency and accuracy in project reporting, which is crucial for project management and team coordination. The form should only be used for new or existing projects that require printed materials development. If you have already submitted a similar project, please do not duplicate the effort. The form is designed to be completed by project managers or owners and should be filled out in their own words, without any external assistance. Please be as thorough as possible to ensure accurate project information.
-</thinking>
-
 # Printed Materials Development Brief - Help Guide
 ## Purpose
 The Printed Materials Development Brief form is designed to collect project information for Printed Materials Development (PMD) projects. This form is used to create a standardized and comprehensive record of each project, which helps project managers and stakeholders track and communicate project details accurately.

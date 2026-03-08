@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a medical opinion form used to collect opinions and feedback from medical professionals, researchers, or patients. It is designed to be a simple and concise way to gather information about medical topics. Before filling out this form, please ensure you have a good understanding of the medical context and have the necessary permissions to provide your opinions.
-
-Please note that this form is a machine-generated adaptation of a public survey topic and is not affiliated with any form platform. The form has been released under CC BY 4.0, allowing for free use, modification, and even commercialization of the form, as long as credit is given to the creators.
-
-</thinking>
-
 # medicalOpinionForm - Help Guide
 ## Purpose
 The medicalOpinionForm is a tool designed to collect opinions and feedback from medical professionals, researchers, or patients on various medical topics.

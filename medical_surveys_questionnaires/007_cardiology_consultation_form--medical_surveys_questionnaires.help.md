@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect patient information for cardiology consultations. It should be filled out by patients who are seeking medical attention for their heart-related conditions. Before filling out this form, please make sure you are not duplicating an existing consultation and that you are not filling out this form for a family member or friend.
-</thinking>
-
 # Cardiology Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect patient information for cardiology consultations. It is intended for patients who are seeking medical attention for their heart-related conditions. Please fill out this form carefully, as the information collected will be reviewed by a medical professional to determine the best course of action for your care.

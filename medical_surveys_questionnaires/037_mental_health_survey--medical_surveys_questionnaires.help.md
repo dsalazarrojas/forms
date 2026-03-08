@@ -1,11 +1,3 @@
-<thinking>Before creating this help guide, I'd like to clarify the purpose and requirements for completing the "Mental Health Survey" form. 
-
-The purpose of this form is to gather information about an individual's mental health status, including their mood assessment, mental health history, concerns, goals, symptoms, support system, self-care plan, mental health assessment, plan, outcome, and recommendations.
-
-This form appears to be a comprehensive mental health assessment tool, likely used to identify areas that require attention and support. It covers various aspects of mental well-being, including mood, health history, concerns, goals, symptoms, and support systems.
-
-To avoid duplication, I will only output the final help guide in Markdown format, focusing on the explanations for each field as per the provided YAML fields.</thinking>
-
 # Mental Health Survey - Help Guide
 ## Purpose
 The Mental Health Survey is a comprehensive tool used to gather information about an individual's mental health status. This form helps identify areas that require attention and support, enabling the development of a tailored mental health plan.

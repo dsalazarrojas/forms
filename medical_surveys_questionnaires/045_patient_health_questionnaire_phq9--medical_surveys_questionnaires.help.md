@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm the purpose and relevance of this form, let's review the form's metadata.
 
 The form is called "Patient Health Questionnaire PHQ9" and belongs to the category "medical_surveys_questionnaires." This suggests that the form is designed to gather patient health information.

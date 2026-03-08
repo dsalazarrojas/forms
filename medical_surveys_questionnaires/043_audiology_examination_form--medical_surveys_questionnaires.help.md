@@ -1,8 +1,3 @@
-<thinking> 
-
-This form is designed to collect information for an audiology examination. It is a comprehensive form that covers patient information, medical complaint, and examination results. This form is intended to be used for audiology examinations and may not be suitable for other medical fields. If you are unsure, please refer to your medical professional for guidance. Additionally, please ensure that the form is not being duplicated or repurposed for any other use without proper authorization or credit given to the form creators.
-
-</thinking>
 # Audiology Examination Form - Help Guide
 
 ## Purpose

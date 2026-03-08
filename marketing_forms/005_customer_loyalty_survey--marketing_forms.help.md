@@ -1,11 +1,3 @@
-<thinking>
-This form is a Customer Loyalty Survey designed to gather information from customers about their satisfaction level, contact information, and purchase history. The purpose of this form is to collect data that can be used to improve customer loyalty programs and overall customer experience. 
-
-The survey is divided into several sections, including customer satisfaction level, contact information, and purchase history. Each section is designed to gather specific information from customers.
-
-This form is not intended for non-duplication and should only be filled out once per customer. Please make sure to fill it out correctly and accurately to ensure the best results.
-</thinking>
-
 # Customer Loyalty Survey - Help Guide
 
 ## Purpose

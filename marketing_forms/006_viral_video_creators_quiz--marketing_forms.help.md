@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to help viral video creators identify their target audience and plan how to use viral video content effectively. The form has 25 fields, each designed to elicit specific information from the user. Before proceeding, please ensure that you are a viral video creator looking to optimize your content strategy.
-
-This form is intended to be completed by viral video creators who want to assess their current practices and identify areas for improvement. The form will guide you through various questions to help you determine your target audience, plan how to use viral video content, and gather relevant information about your current content strategy.
-
-To ensure you get the most out of this form, please provide accurate and thoughtful responses to each question. If you're unsure about any of the questions, please try to answer based on your best understanding of the situation.
-
-Before starting, please note that this form is not intended to be a comprehensive assessment, but rather a helpful guide to get you started on improving your content strategy.
-
-This form will cover the following topics:
-
-* Identifying your target audience
-* Planning how to use viral video content
-* Assessing your current content strategy
-
-Please be honest and thorough in your responses, and feel free to ask if you have any questions or need clarification on any of the questions.
-</thinking>
-
 # viral-video-creators-quiz - Help Guide
 ## Purpose
 This form is designed to help viral video creators identify their target audience and plan how to use viral video content effectively.

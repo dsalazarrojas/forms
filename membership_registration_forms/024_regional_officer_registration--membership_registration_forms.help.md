@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block (Not for Public Consumption)**
-This form is part of the membership registration process for regional officers. Its purpose is to collect contact information and agreements from potential regional officers. The form should only be filled out once by each individual who wishes to become a regional officer.
-</thinking>
-
 # Regional Officer Registration - Help Guide
 ## Purpose
 This form is designed to register regional officers for [Your Organization's] regional teams. It collects necessary contact information and agreements from individuals interested in becoming a regional officer.

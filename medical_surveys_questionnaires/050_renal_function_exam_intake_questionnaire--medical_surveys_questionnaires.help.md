@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for a renal function exam. The purpose of this form is to gather relevant patient data, medical history, and other essential information that will aid in conducting a thorough renal function exam. This form is meant to be completed by patients before their scheduled appointment with a healthcare professional.
-
-Before proceeding, please ensure that you are completing this form for the intended purpose and that you have not previously submitted a similar form.
-
-Please note that this form is divided into sections, each with specific fields that require completion. Ensure that you have filled out all required fields and provided accurate information. If you have any questions or concerns about this form, please do not hesitate to reach out to your healthcare provider.
-
-</thinking>
-
 # Renal Function Exam Intake Questionnaire - Help Guide
 
 ## Purpose

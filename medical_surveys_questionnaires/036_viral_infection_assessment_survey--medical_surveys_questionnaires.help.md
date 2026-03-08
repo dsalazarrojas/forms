@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to help assess the severity of a viral infection. This form is designed to gather information about a patient's symptoms, exposure history, and medical history, as well as their treatment and follow-up care. This information will be used to determine the next steps to be taken by the healthcare provider.
-The form is part of the "medical_surveys_questionnaires" category.
-Please make sure to complete the form in a quiet and private space, without interruptions or distractions.
-Before proceeding, please ensure that you have filled out the form for the correct patient.
-</thinking>
-
 # viral-infection-assessment-survey - Help Guide
 ## Purpose
 This form is used to assess the severity of a viral infection and gather information about the patient's symptoms, exposure history, medical history, treatment, and follow-up care.

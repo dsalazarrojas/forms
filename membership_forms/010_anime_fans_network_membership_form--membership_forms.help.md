@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect membership information from users who want to join the Anime Fans Network. The purpose of this form is to gather basic contact information, membership tier, and preferences for network communications. The form is divided into several sections, each asking for specific details that will help the Anime Fans Network team manage and communicate with its members effectively. Before filling out this form, make sure you haven't filled it out before, and that you are joining for the correct reasons.
-
-</thinking>
-
 # Anime Fans Network Membership Form - Help Guide
 ## Purpose
 The Anime Fans Network Membership Form is designed to collect basic information from users who want to join the Anime Fans Network. This information will be used to manage network communications and interactions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect marketing requests from users, allowing them to specify the date and time they need assistance with, which agent they'd like to be assigned to, and the type of request they're making. It's a relatively simple form with no required fields, so users can fill it out at their convenience. This form should be used to capture marketing requests in a way that allows for easy tracking and assignment of tasks to agents.
-</thinking>
-
 # marketing_request - Help Guide
 ## Purpose
 This form is intended to capture marketing requests from users, allowing you to track and respond to these requests efficiently.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to be completed by individuals who are interested in joining a fitness program or seeking guidance on their fitness journey. The purpose of this form is to collect relevant information about the individual, including their personal details, fitness background, and health insurance status. This information will be used to create a personalized fitness plan that caters to their specific needs and goals.
-
-Before completing this form, please ensure that you have read and understood the following:
-
-* You are registering for a fitness program.
-* The information you provide will be used to create a tailored fitness plan.
-* The form is not intended for emergency or medical use.
-
-Please ensure that you do not submit duplicate forms or incomplete registrations.
-
-</thinking>
-
 # Fitness Registration Form - Help Guide
 ## Purpose
 The Fitness Registration Form is designed to gather information from individuals who are interested in joining a fitness program or seeking guidance on their fitness journey.

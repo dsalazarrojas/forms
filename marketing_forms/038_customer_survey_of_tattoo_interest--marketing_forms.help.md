@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather opinions and preferences from customers about tattoos, specifically their interests, likes, and dislikes related to tattoos. This information will help the business understand customer perceptions and tailor their services or products accordingly.
-
-Before filling out this form, please make sure you have not already provided similar information in the past, as it may duplicate your efforts or waste your time. The form is intended for individuals who are interested in or have experience with tattoos, so if you don't have any tattoos or are not interested in getting one, this form may not be relevant to you.
-
-</thinking>
-
 # Customer Survey Of Tattoo Interest - Help Guide
 ## Purpose
 This form gathers information about your opinions and preferences related to tattoos to help us better understand your interests, likes, and dislikes. Your input will help us tailor our services or products to meet your needs.

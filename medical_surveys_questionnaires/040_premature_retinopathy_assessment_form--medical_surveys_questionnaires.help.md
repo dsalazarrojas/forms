@@ -1,12 +1,3 @@
-<thinking>
-This form is used to assess and document a patient's premature retinopathy condition, which is a condition where the retina of the eye has not developed properly in the womb. The purpose of this form is to gather information about the patient's medical history, maternal data, infant data, eye exam results, retinopathy assessment, treatment plan, consent, and submission information. 
-
-This form is meant to be completed by healthcare professionals in a clinical setting, and the information gathered will be used to determine the best course of action for the patient's care. It is essential to fill out the form accurately and thoroughly to ensure that the patient receives the best possible treatment.
-
-To prevent duplication or errors, this form should only be filled out once per patient. If the patient's data needs to be updated or changed, please refer back to the original form and fill it out again in its entirety.
-
-</thinking>
-
 # Premature Retinopathy Assessment Form - Help Guide
 ## Purpose
 This form is used to assess and document a patient's premature retinopathy condition.

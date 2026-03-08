@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm thinking... The purpose of this form is to collect feedback from users about a podcast episode. The goal is to gather information on what users liked or disliked about the episode, suggestions for improvement, and demographic information such as email and phone number (though these are likely not actually used for anything). This form seems to be intended for general feedback and not for any specific research or study purpose. I'm also assuming that the 'Select one', 'Select multiple', and 'Select all' fields are meant to gauge user preferences or opinions, but the labels are a bit unclear, so I'll do my best to provide explanations in the help guide.</thinking>
-
 # Podcast Episode Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about a podcast episode. Please take a few minutes to provide your honest feedback to help us improve future episodes.

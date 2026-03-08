@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from patients or individuals about their safety compliance for MRI (Magnetic Resonance Imaging) scans. This form helps healthcare professionals assess potential risks and identify patients who may need special precautions or accompaniment during the scan. The form is usually completed by patients before undergoing an MRI scan. To ensure accuracy and relevance, it is recommended that patients complete this form only once they have been informed and scheduled for the scan. This form does not need to be completed multiple times. Please review the questions carefully and answer them accurately. If you have any doubts or concerns, please ask your healthcare provider for clarification.</thinking>
-
 # mri_safety_compliance_survey - Help Guide
 
 ## Purpose

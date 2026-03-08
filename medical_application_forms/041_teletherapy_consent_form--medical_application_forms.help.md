@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to collect information from patients to inform and protect them about their therapy sessions, including their personal data and consent. The form should only be used for legitimate purposes and not for spamming or data collection.
-
-To avoid duplication and ensure that the form is completed correctly, make sure you're not already collecting the same information from the patient. Also, ensure that you have the necessary permissions to collect this information and that it's being used according to your organization's data protection policies.
-
-Please refer to your organization's guidelines and regulations for further guidance on this matter.
-
-</thinking>
-
 # teletherapy_consent_form - Help Guide
 ## Purpose
 This form is designed to collect patient information and consent for teletherapy sessions. It ensures that patients are aware of their personal data and provide their consent for the collection and use of such data.

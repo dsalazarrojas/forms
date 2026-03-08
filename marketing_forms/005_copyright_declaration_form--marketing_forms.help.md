@@ -1,14 +1,3 @@
-<thinking>
-The "Copyright Declaration Form" is designed to collect information about the copyright holder's identity, contact details, and agreement to specific terms and conditions. This form is intended for internal use within an organization, and the data collected will be used for administrative purposes only. 
-
-Before filling out this form, please ensure that you are not duplicating your existing entries, as this may cause errors in the data management system. If you are a new user, please fill out the form completely to ensure that your data is accurately recorded.
-
-Please note that this form has multiple sections, and each section should be filled out according to the guidelines below.
-
-Before proceeding, please ensure you have reviewed and understood the purpose and instructions of this form.
-
-</thinking>
-
 # Copyright Declaration Form - Help Guide
 ## Purpose
 The "Copyright Declaration Form" is designed to collect information about the copyright holder's identity, contact details, and agreement to specific terms and conditions.

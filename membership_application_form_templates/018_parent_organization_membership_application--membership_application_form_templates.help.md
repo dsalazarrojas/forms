@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Organization Membership Application - Help Guide
 
 ## Purpose

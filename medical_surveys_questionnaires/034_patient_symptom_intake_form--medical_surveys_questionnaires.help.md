@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for this form, "Patient Symptom Intake Form", which is part of the "medical_surveys_questionnaires" category. The form's purpose is to collect information about a patient's symptoms, which will likely be used for diagnostic purposes. To ensure the form is completed accurately and effectively, it's essential to provide clear guidance on how to complete it and what each field means. I will review the form's schema to create a help guide that is concrete, concise, and practical.</thinking>
-
 # Patient Symptom Intake Form - Help Guide
 ## Purpose
 The Patient Symptom Intake Form is designed to collect information about a patient's symptoms, which will help healthcare professionals diagnose and treat medical conditions. This form is a crucial tool for healthcare providers to gather essential data about a patient's health status.

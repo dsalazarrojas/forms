@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals assess their overall health and wellness. It's intended to be used by individuals who want to identify areas where they can improve their health and make informed decisions about their medical care. This form is not meant to be a comprehensive medical evaluation, but rather a tool to encourage users to think about their health and wellness in a structured way. Please fill out this form only if it's relevant to your current health situation.
-</thinking>
-
 # Health Prevention Checklist - Help Guide
 ## Purpose
 This form is designed to help individuals assess their overall health and wellness. It's intended to be used by individuals who want to identify areas where they can improve their health and make informed decisions about their medical care.

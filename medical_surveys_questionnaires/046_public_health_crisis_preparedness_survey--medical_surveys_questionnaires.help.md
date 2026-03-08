@@ -1,9 +1,3 @@
-<thinking>This form is designed to collect information from individuals or organizations regarding their crisis preparedness and response plans during public health emergencies. The form is intended to gather data on various aspects of emergency situations, including communication plans, response teams, and location information. This form is not affiliated with any specific survey platform and is an original adaptation of a public health crisis preparedness survey.
-
-To complete this form, users will need to provide text-based answers to the following questions, which are organized into sections for clarity.
-
-</thinking>
-
 # public_health_crisis_preparedness_survey - Help Guide
 
 ## Purpose

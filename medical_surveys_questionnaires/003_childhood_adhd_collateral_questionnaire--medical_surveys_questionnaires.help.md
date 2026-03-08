@@ -1,15 +1,3 @@
-<thinking>
-This guide will help you create a user-facing help document for the "Childhood ADHD Collateral Questionnaire" form. The form is used to gather information about a child's behavior and symptoms related to Attention Deficit Hyperactivity Disorder (ADHD). 
-
-The form is divided into several sections, each focusing on different aspects of the child's behavior and symptoms. The sections include:
-- Respondent Information: This section asks for basic contact information and relationship to the child.
-- Child Information: This section requires the child's name and age.
-- Attention and Concentration: This section assesses the child's ability to sustain attention and complete tasks.
-- Hyperactivity and Impulsivity: This section evaluates the child's tendency to exhibit impulsive behaviors such as fidgeting, interrupting, and excessive talking.
-- Overall Impression: This section is for overall observations and concerns about the child's behavior and symptoms.
-The purpose of this form is to collect data about the child's behavior and symptoms related to ADHD, which will be used to support a diagnosis and treatment plan.
-</thinking>
-
 # Childhood ADHD Collateral Questionnaire - Help Guide
 ## Purpose
 The Childhood ADHD Collateral Questionnaire is a form used to gather information about a child's behavior and symptoms related to Attention Deficit Hyperactivity Disorder (ADHD). The form is used to support a diagnosis and treatment plan for the child.

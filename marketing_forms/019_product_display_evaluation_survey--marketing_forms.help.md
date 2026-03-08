@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the effectiveness and appeal of a product display in a store, gathering information on customer satisfaction, shopping frequency, and demographics. The form should not be filled out by customers who have not visited the store in the past month, as their feedback may not be relevant to the store's current display.
-
-This form will help us understand how well the store's product display meets the needs and expectations of its customers, and identify areas for improvement. It will also help us to determine the effectiveness of our marketing and advertising efforts.
-
-Before filling out this form, please ensure that you have visited the store in the past month and have interacted with its product display.
-
-</thinking>
-
 # Product Display Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather your feedback and opinions on the product display in our store. Your input will help us to improve and refine our product display to better meet your needs and expectations.

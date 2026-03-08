@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information on a patient's sleep patterns, habits, and medical conditions. The purpose of this form is to gather data on the patient's sleep quality, duration, and stages, as well as their medical conditions, medication status, and sleep schedule. Please note that this form is for patients who are currently experiencing sleep disorders or have a medical condition that affects their sleep. If you have completed this form previously, you may not need to do so again unless your doctor has instructed you to do so.
-
-</thinking>
-
 # sleep_study_questionnaire - Help Guide
 ## Purpose
 The Sleep Study Questionnaire is designed to collect information on patients' sleep patterns, habits, and medical conditions to help healthcare providers better understand and treat sleep-related issues.

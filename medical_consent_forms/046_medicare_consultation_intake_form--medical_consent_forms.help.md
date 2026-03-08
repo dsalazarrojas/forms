@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for patients to provide their medical information for a consultation with a healthcare provider. It is not meant to be a comprehensive medical evaluation or diagnosis. The form is designed to gather basic information about the patient, their medical history, and their family history. The goal is to streamline the consultation process and help the provider understand the patient's medical context.
-
-To avoid duplication of effort, please fill out this form only once, and make sure to have all necessary information ready before submitting it.
-
-</thinking>
-
 # Medicare Consultation Intake Form - Help Guide
 ## Purpose
 This form is designed to gather basic medical information from patients to facilitate a consultation with a healthcare provider.

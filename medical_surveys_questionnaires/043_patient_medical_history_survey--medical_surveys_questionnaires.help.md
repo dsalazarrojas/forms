@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather patient medical history information for a healthcare setting. The purpose of this form is to collect data on a patient's current medical conditions, medications, allergies, and family medical history. This information can help healthcare providers make informed decisions about patient care.
-
-To ensure this form is being used correctly, it's essential to review the patient's medical history and verify that the form is not being duplicated or reused for other purposes. If you're unsure about the form's purpose or have concerns about its use, please reach out to the contact email: form@gic.mx.
-
-The patient medical history form has four sections, each with different fields that require specific information. Please review the following instructions and explanations for each field to complete the form accurately and efficiently.
-</thinking>
-
 # Patient Medical History Survey - Help Guide
 ## Purpose
 The Patient Medical History Survey is a form designed to gather information about a patient's medical history, including current medical conditions, medications, allergies, and family medical history. This data can help healthcare providers make informed decisions about patient care.

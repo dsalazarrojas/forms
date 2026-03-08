@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Marketing New Member Application Form - Help Guide
 
 ## Purpose

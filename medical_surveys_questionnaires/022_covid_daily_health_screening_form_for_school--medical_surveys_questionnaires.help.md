@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "COVID Daily Health Screening Form For School" is designed to be used for the daily health screening of students in a school setting. This form is intended to help identify potential health risks and ensure a safe environment for all students and staff. The form is typically completed by students or authorized school personnel and is usually filled out at the start of each school day.
 
 Before completing this form, please ensure that you have not filled it out previously for the current day. If you have already completed the form, you do not need to fill it out again. However, if you have experienced any new or worsening symptoms since the last screening, please update your responses accordingly.

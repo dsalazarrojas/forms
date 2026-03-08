@@ -1,5 +1,3 @@
-<thinking>As a form expert and technical writer, I understand the purpose of the form is to gather information from individuals who want to join an AA meeting. The form is designed to collect personal and meeting attendance preferences, emergency contact information, and consent to the meeting guidelines and confidentiality policy. This information will be used to facilitate the meeting process and ensure a safe and supportive environment for all attendees. Before proceeding, please review the form carefully to ensure you understand each field's purpose and requirements.</thinking>
-
 # AA Meeting Registration Form - Help Guide
 ## Purpose
 The AA Meeting Registration Form is designed to collect information from individuals who wish to join an AA meeting. This form helps meeting organizers understand attendees' preferences, needs, and circumstances, ensuring a comfortable and supportive environment for all.

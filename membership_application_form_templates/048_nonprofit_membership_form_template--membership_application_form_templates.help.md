@@ -1,9 +1,3 @@
-<thinking>
-This form is a nonprofit membership form template designed to collect information from individuals interested in joining a nonprofit organization. The form is intended to be completed by prospective members, and its purpose is to capture their contact and membership details. The form is not affiliated with, endorsed by, or derived from any form platform, and its originality is guaranteed under the terms of the Creative Commons Attribution 4.0 (CC BY 4.0) license. Please note that this form is a public adaptation of metadata from public surveys, and its content is intended for nonprofit membership purposes only.
-
-Before filling out this form, please ensure that you have not filled it out before. If you are unsure about the form or need more information, feel free to contact us at form@gic.mx.
-</thinking>
-
 # Nonprofit Membership Form Template - Help Guide
 ## Purpose
 The Nonprofit Membership Form Template is designed to collect membership information from individuals interested in joining a nonprofit organization. The form gathers contact and membership details to facilitate the process of becoming a member.

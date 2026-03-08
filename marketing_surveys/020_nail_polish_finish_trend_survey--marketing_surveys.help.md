@@ -1,13 +1,3 @@
-<thinking>
-To check for relevance and non-duplication, we would need to review the form purpose and fields to determine if they align with the goal of understanding nail polish finish trends. The provided fields appear to cover a range of questions related to finish preferences, habits, and trends, which could be relevant to understanding nail polish finish trends. To ensure non-duplication, we would need to examine each field closely and consider if there are any redundant or similar questions that could be combined or removed. Upon reviewing the fields, it seems that some questions, such as "finish_preferences_1" to "finish_preferences_10", are asking similar questions related to finish preferences, which could be reduced to one or two fields. Additionally, some fields, like "brand_preferences" and "other_brands", seem to be asking about favorite brands, which is similar to "finish_preferences" fields, but without specifying the context of finish preferences. It's recommended to either combine or reword these fields to make the form more concise and less duplicative.
-
-After reviewing the form, the suggested changes would be to:
-- Combine "finish_preferences_1" to "finish_preferences_10" into one field that asks for the user's top finish preferences.
-- Rebrand "brand_preferences" and "other_brands" as "favorite_brands" and ask for the user's favorite brands without specifying finish preferences.
-- Remove "finish_trends" field as it's a note field without any specific question.
-- Reorganize the questions to make it clear that "finish_preferences" fields are asking about current finish preferences and "survey_questions" fields are asking about future or upcoming finish trends.
-</thinking>
-
 # Nail Polish Finish Trend Survey - Help Guide
 ## Purpose
 The Nail Polish Finish Trend Survey aims to gather information about users' preferences, habits, and trends related to nail polish finish, helping us to understand current and future trends.

@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed to follow up on the status of patients who have undergone stem cell treatment, gathering information on their health, treatment dates, and potential side effects. It is intended for medical professionals to collect data for research, treatment evaluation, or patient monitoring purposes. 
-
-Before proceeding, please confirm that:
-- You are a medical professional or authorized to complete this form.
-- The patient has given their consent to participate in the follow-up survey.
-- This form is not a substitute for a comprehensive medical examination or diagnosis.
-
-</thinking>
-
 # Stem Cell Follow Up Survey - Help Guide
 ## Purpose
 This form is designed to gather information on the status of patients who have undergone stem cell treatment, providing medical professionals with data for research, treatment evaluation, or patient monitoring purposes.

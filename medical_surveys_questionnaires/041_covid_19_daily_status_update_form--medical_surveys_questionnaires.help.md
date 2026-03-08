@@ -1,9 +1,3 @@
-<thinking>
-This form will help track the status of patients who are part of a Covid 19 vaccination program. To fill out this form, please make sure you have all the necessary information about the patient in front of you. 
-Before you start, take a moment to review the form and make sure you are only filling it out for the relevant patient. 
-The following fields require specific information that will help track the patient's Covid 19 status. This is crucial for making timely interventions and preventing the spread of the virus. 
-</thinking>
-
 # Covid 19 Daily Status Update Form - Help Guide
 ## Purpose
 

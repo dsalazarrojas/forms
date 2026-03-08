@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "paranormal_giveaway_entry_form" is intended to collect information from users for a giveaway entry. It is likely used in a marketing context, such as a contest or sweepstakes, to gather details from participants. This form is designed to be completed by users with ease, making sure that each field has a clear explanation for its purpose. However, it is essential to double-check the form's purpose and ensure that it is not already completed by the user to avoid duplicates. A brief internal validation process should be implemented to verify the form's intent and prevent duplicates.
 
 </thinking>

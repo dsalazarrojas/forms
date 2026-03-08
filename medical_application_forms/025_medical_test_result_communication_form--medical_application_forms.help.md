@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medical_test_result_communication_form - Help Guide
 
 ## Purpose

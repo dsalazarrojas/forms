@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Oncology Nursing Innovation Survey form, we must first ensure that the form's purpose is clearly understood by checking if it's being used for the intended purpose (in this case, to gather feedback on oncology nursing innovation practices) and that it's not duplicating efforts. The form appears to be designed for gathering data on nursing practices, technologies, and barriers in the oncology field. To avoid duplication of efforts, it's essential to check if similar surveys or forms already exist in the organization or industry. If not, then we can proceed with creating the help guide.
-</thinking>
-
 # Oncology Nursing Innovation Survey - Help Guide
 ## Purpose
 This guide is for users who need to complete the Oncology Nursing Innovation Survey to provide feedback on oncology nursing innovation practices.

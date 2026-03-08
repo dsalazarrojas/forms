@@ -1,16 +1,3 @@
-<thinking> 
-This guide is intended to assist users in understanding the purpose of the Counseling Center Client Check In Form and how to fill it out correctly. 
-
-The form is designed to be used for checking clients in at the Counseling Center for sessions, and it captures various details to ensure accurate record-keeping and to communicate effectively. This guide will cover the purpose, steps to follow, and explanations for each field to ensure a smooth and successful completion of the form. 
-
-The form is a simple check-in system that collects essential information about the client's session. 
-
-Before filling out the form, ensure that you have all the necessary information with you. If you have any doubts or uncertainties, contact the relevant authorities or colleagues for clarification. 
-
-To confirm that this guide covers all the fields in the form and that it is accurate, I have reviewed the form's YAML schema provided in the input schema.
-
-</thinking>
-
 # Counseling Center Client Check In Form - Help Guide
 
 ## Purpose

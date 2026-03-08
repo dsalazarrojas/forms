@@ -1,7 +1,3 @@
-<thinking>
-This guide will explain the Client Satisfaction Form to help end users understand its purpose, how to complete it, and what each field means. The form is a tool to help us improve our services by gathering feedback from our valued customers. We will collect feedback on various aspects of our services, including the quality of our product or service, customer service, value for money, and overall satisfaction. This form will take approximately 5 minutes to complete, and we appreciate your honest responses to help us make positive changes.
-</thinking>
-
 # Client Satisfaction Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from our customers on their experience with our product or service. It will help us understand what we are doing well and what we can improve on.

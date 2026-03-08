@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Student Publicity Form", we need to understand the purpose and functionality of the form. This form likely serves as a means to collect information from students for publicity purposes, such as promoting student events or achievements. 
 
 Let's start by breaking down the form into sections and explaining each field:

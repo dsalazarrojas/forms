@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose of the Sports Club Membership Form and how to complete it successfully. The form is designed to collect relevant information from users to manage their membership status and preferences within the sports club. The form includes fields for personal information, membership details, payment methods, and other relevant aspects of a sports club member. To ensure accurate completion, carefully review each field and its corresponding label below. Ensure you understand the required and optional fields, as this will affect how you fill out the form. 
-
-Please note that some fields are optional, but providing complete and accurate information will help the club administrators serve you better. This guide will break down the form into its components, making it easier to navigate. If you're unsure about any field, please don't hesitate to ask the club administrators for assistance.
-</thinking>
-
 # Sports Club Membership Form - Help Guide
 ## Purpose
 The Sports Club Membership Form is designed to collect necessary information from users to manage their membership status and preferences within the sports club. This form helps the club administrators track and update member details accurately.

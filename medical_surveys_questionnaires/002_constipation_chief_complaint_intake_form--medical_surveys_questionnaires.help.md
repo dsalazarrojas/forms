@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a patient's constipation-related complaints. It's crucial to ensure that the information entered is accurate and relevant to the patient's condition. Please note that this form should only be filled out by the patient or their authorized representative, and the information collected will be kept confidential and secure.
 
 Before filling out this form, please make sure you have not already submitted it. If you have previously filled out this form, please do not resubmit it. If you need to make changes, please contact our office to inquire about the process.

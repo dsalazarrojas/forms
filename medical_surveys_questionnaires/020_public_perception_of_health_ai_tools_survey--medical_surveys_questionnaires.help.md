@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture the public perception of health AI tools, which is a crucial aspect of understanding how people perceive and interact with health-related AI systems. This information can help healthcare professionals and researchers better design and implement AI tools that cater to the needs and expectations of the public. The form is designed to be completed by anyone who has interacted with or has an opinion on health AI tools, including healthcare professionals, patients, or the general public. 
-This guide will help ensure that the form is completed accurately and thoroughly, providing valuable insights for the development of health AI tools. The form is designed to be completed by providing information on the tool's purpose, category, description, and other relevant details.
-</thinking>
-
 # Public Perception Of Health AI Tools Survey - Help Guide
 ## Purpose
 This form is used to gather information on the public perception of health AI tools.

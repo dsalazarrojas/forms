@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is designed to gather information from individuals interested in recovery programs, specifically those related to mental health, addiction, and substance use. The form will collect demographic information, recovery history, and support systems to help assess the individual's readiness and needs for recovery programs. This form should only be filled out by individuals seeking recovery programs, not by healthcare providers or other staff members. To ensure accuracy, please fill out the form completely and honestly, and only select the options that apply to you. If you have any concerns or questions, please reach out to our support team.
-</thinking>
-
 # Introduction To Recovery Programs - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in recovery programs related to mental health, addiction, and substance use. This information will help our team assess your readiness and needs for recovery programs.

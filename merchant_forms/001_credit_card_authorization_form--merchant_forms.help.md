@@ -1,11 +1,3 @@
-<thinking>
-A form is designed to collect user information for the purpose of credit card authorization or verification. This form is likely used for online transactions or other financial activities requiring credit card information.
-The main goal of this form is to gather the necessary details for secure and accurate processing of credit card transactions. The information collected includes personal details such as name, email, phone, and address, as well as credit card-specific details such as card type, card number, security code, expiration date, and expiration month and year.
-This form is likely used in e-commerce, online marketplaces, or financial services.
-
-To avoid duplication and ensure accurate information is collected, please review the form carefully before submitting.
-</thinking>
-
 # credit_card_authorization_form - Help Guide
 ## Purpose
 The credit_card_authorization_form is designed to collect user information for the purpose of credit card authorization or verification.

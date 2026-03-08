@@ -1,13 +1,3 @@
-<thinking>
-This form is a digital awareness survey designed to collect information about an individual's digital habits and preferences. The purpose of this form is to gather data that can be used to improve our digital services and better serve our customers. Please make sure to answer all the questions truthfully and accurately, as this information will help us create a more personalized experience for you.
-
-Before filling out this form, please make sure you haven't already submitted it. If you have any previous versions of this form, please clear your local browser storage or cache to avoid any confusion.
-
-Please note that this form contains 25 pages with various questions that require different types of responses. Make sure to complete all the questions on each page before moving on to the next one. If you encounter any issues or have any doubts about a particular question, don't hesitate to reach out to us for assistance.
-
-Also, be aware that some questions have multiple options to choose from, while others are simple text fields. Take your time and answer each question carefully to ensure you provide the most accurate information.
-</thinking>
-
 # digital_awareness_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your digital habits and preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_event_registration - Help Guide
 
 ## Purpose

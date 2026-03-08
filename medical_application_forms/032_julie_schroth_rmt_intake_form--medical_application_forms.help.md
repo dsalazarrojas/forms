@@ -1,6 +1,3 @@
-<thinking>
-Form purpose: This form is designed for collecting contact and medical information from individuals. It has 2 required fields for contact numbers and 2 optional fields for medical history and medical information. The form is suitable for medical applications, such as collecting patient contact and medical history data.
-</thinking>
 # Medical Application Form - Help Guide
 ## Purpose
 The Medical Application Form is designed for collecting contact and medical information from individuals in a medical application setting.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect membership information from users, which is a crucial aspect of managing memberships for an organization or group. This form will help to gather details such as full name, email address, phone number, membership level, membership start date, billing information, emergency contact information, interests, and additional notes. Ensuring the fields are correctly filled will allow for efficient processing of membership applications and proper communication with members. It is essential to complete this form accurately to avoid any potential issues or discrepancies in the membership process.
-
-</thinking>
-
 # Add Member Form - Help Guide
 ## Purpose
 The Add Member Form is a crucial tool to collect membership information from individuals or groups, ensuring a smooth and efficient membership process.

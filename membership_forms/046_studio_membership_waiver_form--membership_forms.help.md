@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # studio_membership_waiver_form - Help Guide
 
 ## Purpose

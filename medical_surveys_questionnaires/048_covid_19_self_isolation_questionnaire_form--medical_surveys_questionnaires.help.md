@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to help assess the health and safety of individuals during the COVID-19 pandemic. It is crucial to ensure that all users understand its purpose and how to complete it accurately. Before proceeding, please note that this form is designed for individuals who are self-isolating due to suspected or confirmed COVID-19 infection. Ensure that you have not completed this form previously, as it may contain sensitive information that has changed since your last submission.
-
-</thinking>
-
 # COVID 19 Self Isolation Questionnaire Form - Help Guide
 ## Purpose
 The COVID-19 Self Isolation Questionnaire Form is designed to collect critical information about your health, living situation, and contact preferences during the COVID-19 pandemic. Please answer the questions accurately and honestly to help us provide the best possible care and support.

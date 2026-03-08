@@ -1,9 +1,3 @@
-<thinking>
-This form is used for members to request cancellation of their fitness training sessions. The purpose of this form is to collect information from the member about the reason for cancellation and to provide further instructions or actions to be taken by the gym management. 
-This form is only to be used for cancelling membership sessions, therefore ensure that the selected category is set to "Membership Forms" to ensure accurate processing of the cancellation request. 
-If the member has selected "Other" as the category, please verify that the request is a genuine membership cancellation and not a general inquiry or support request.
-</thinking>
-
 # fitness_training_cancellation_form - Help Guide
 ## Purpose
 The Fitness Training Cancellation Form is designed to be used by gym members to request cancellation of their fitness training sessions. This form is intended to be used for legitimate membership cancellations and should be used when a member has a valid reason for cancellation. 

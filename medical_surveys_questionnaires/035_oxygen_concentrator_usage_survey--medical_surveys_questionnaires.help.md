@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for a form used to collect information about oxygen concentrator usage. The purpose of this form is to gather data about the user's experience with oxygen concentrators, including their maintenance habits, any issues they've encountered, and their overall satisfaction with the device. This form is designed to be completed by healthcare professionals, patients, or other stakeholders who use or interact with oxygen concentrators. Before completing this form, please ensure that you have a valid reason to do so and that you're not duplicating existing data. If you're unsure, please contact us for clarification.
-</thinking>
-
 # Oxygen Concentrator Usage Survey - Help Guide
 
 ## Purpose

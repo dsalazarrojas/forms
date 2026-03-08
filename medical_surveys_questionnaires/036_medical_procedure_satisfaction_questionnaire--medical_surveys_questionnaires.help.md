@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experience with a medical procedure. It is intended to be completed by patients after the procedure is completed. The purpose of this form is to gather information on the patient's satisfaction with the pain management, staff support, facility, patient communication, overall satisfaction, and other aspects of their experience. This form will help healthcare providers to identify areas of improvement and provide better care to their patients in the future.
-
-Before completing this form, please ensure that you have received any necessary medical treatment and are not experiencing any severe physical or emotional distress. The information collected through this form will be used to improve the quality of care provided by healthcare providers. If you have any concerns or questions, please do not hesitate to reach out to your healthcare provider.
-
-This form has multiple pages, but all pages should be completed in one session. Please make sure to review all pages carefully before submitting the form.
-
-</thinking>
-
 # Medical Procedure Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experience with a medical procedure.

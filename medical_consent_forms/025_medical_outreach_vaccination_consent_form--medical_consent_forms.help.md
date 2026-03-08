@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Outreach Vaccination Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...This form is designed to track and record mental health information. It's intended to be a comprehensive tool for mental health professionals to monitor and analyze patient data. It's not a replacement for professional medical judgment, but rather a supplementary aid to ensure accurate and consistent monitoring... </thinking>
-
 # mental_health_monitoring_form - Help Guide
 ## Purpose
 This form is a tool for mental health professionals to track and record mental health information, providing a comprehensive overview of patients' mental states, symptoms, and treatment plans. It's designed to help professionals make informed decisions and provide targeted care.

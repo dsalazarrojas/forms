@@ -1,5 +1,3 @@
-<thinking>As I review the YAML file, I understand that this form is for material handling crane component orders. The purpose of this form is to collect information from customers regarding their order details, including the type of crane model, quantity, order date, order time, list of crane parts, customer contact information, and delivery details. I'll make sure to cover all required fields for the form to be valid.</thinking>
-
 # Material Handling Crane Component Order Form - Help Guide
 ## Purpose
 This form is used to collect order details from customers for material handling crane components.

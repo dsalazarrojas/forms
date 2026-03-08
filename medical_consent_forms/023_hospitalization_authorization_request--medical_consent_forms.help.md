@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to request authorization for hospitalization, which is a crucial process for patients who require medical attention. This form is designed to gather essential information from the patient, their family or representatives, and the medical staff to ensure a smooth hospitalization process. It's essential to complete this form accurately and thoroughly to avoid any delays or complications.
-
-To ensure relevance and non-duplication, this form will only be used for patients who have not been admitted to the hospital before, or for those who need to update their previous hospitalization information. If you've already submitted a hospitalization request for this patient, please do not resubmit.
-
-</thinking>
-
 # Hospitalization Authorization Request - Help Guide
 
 ## Purpose

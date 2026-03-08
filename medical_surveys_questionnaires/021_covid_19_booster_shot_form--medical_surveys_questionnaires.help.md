@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for patients to input information related to their COVID-19 vaccination status and medical history. The form aims to gather data to help healthcare providers administer the booster shot safely and effectively. This form is intended for patients who have already received their primary COVID-19 vaccination series and are now seeking a booster shot. The form will help the healthcare provider assess the patient's eligibility for the booster shot, their current health status, and any potential risks or allergies.
-
-Please note that this form is a crucial document that requires accurate and honest input from the patient. Completing this form is a prerequisite for receiving the booster shot.
-
-Before we dive into the form details, please ensure that you are eligible to receive the booster shot. This form is not a substitute for medical advice, and your healthcare provider will review your answers to ensure that the booster shot is safe for you.
-
-Please take your time to complete this form carefully and accurately. Your healthcare provider will use the information you provide to administer the booster shot safely and effectively.
-</thinking>
-
 # COVID 19 Booster Shot Form - Help Guide
 ## Purpose
 This form is designed for patients to input information related to their COVID-19 vaccination status and medical history to help healthcare providers administer the booster shot safely and effectively.

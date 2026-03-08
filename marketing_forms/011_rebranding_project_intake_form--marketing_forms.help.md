@@ -1,13 +1,3 @@
-<thinking>
-
-This form is part of a larger process for collecting and managing information for rebranding projects. The form is used to gather project details from clients and stakeholders, ensuring that all relevant data is captured in a structured and organized manner. The purpose of this form is to streamline the intake process, reduce errors, and enhance collaboration between different teams. 
-
-This form is intended to be completed by clients or stakeholders who are involved in rebranding projects. It is not intended for internal employees to fill out on behalf of clients. 
-
-Please ensure that the information provided is accurate and comprehensive, as it will be used to guide the rebranding project's scope, timeline, and budget.
-
-</thinking>
-
 # rebranding_project_intake_form - Help Guide
 ## Purpose
 This form is used to collect information for rebranding projects, ensuring accurate and efficient project management.

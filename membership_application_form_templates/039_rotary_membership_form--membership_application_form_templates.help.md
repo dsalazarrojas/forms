@@ -1,6 +1,3 @@
-<thinking>
-We should ensure that the user understands the purpose of this form and what they should expect from it. This form is designed for individuals interested in joining the Rotary Club, and it's meant to collect relevant information about them. The goal is to determine whether or not they would like to become a member, and if so, what type of membership plan they would like to pursue. The form will ask for basic contact information (name, email, and phone), a date of interest, and questions about their membership type and plans. This will help the Rotary Club administrators get a better understanding of the candidate's preferences and interests.</thinking>
-
 # Rotary Membership Form - Help Guide
 ## Purpose
 The Rotary Membership Form is designed to collect information from individuals interested in joining the Rotary Club. It helps the club administrators understand the candidate's preferences and interests, ensuring a more informed decision-making process.

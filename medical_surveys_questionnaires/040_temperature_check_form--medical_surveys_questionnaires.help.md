@@ -1,17 +1,3 @@
-<thinking>
-
-This form is intended to collect information about a patient's temperature and related exposure data. The form is part of a larger system for tracking and managing patient data in a medical setting. This form should only be used for collecting information about patients who have been exposed to a possible illness or infection, and should not be used as a general temperature check for patients not meeting this specific criteria.
-
-The form is composed of five fields: 
-
-*   Patient's current temperature
-*   Duration of exposure
-*   Location of exposure
-*   Symptoms experienced by the patient
-*   Temperature during exposure
-
-</thinking>
-
 # Temperature Check Form - Help Guide
 ## Purpose
 The Temperature Check Form is used to gather information about a patient's current temperature and exposure to a possible illness or infection. This form helps track and manage patient data in a medical setting.

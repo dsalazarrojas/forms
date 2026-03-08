@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals who are part of a specific group or committee, such as officers and committee members. The purpose of this form is to record their agreement on certain matters, with the goal of ensuring that all members are on the same page and can work towards common goals. This form will serve as a reference point for any future decisions or discussions that need to take place within the group.
-</thinking>
-
 # SOPW Officer & Committee Member Agreement - Help Guide
 
 ## Purpose

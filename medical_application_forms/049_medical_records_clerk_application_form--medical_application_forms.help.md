@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to collect information from applicants who wish to be considered for a Medical Records Clerk position. The form will help the application committee assess the candidate's qualifications, experience, and background to determine their suitability for the role. 
-
-The form is not intended to be a comprehensive or exhaustive list, and applicants are free to provide any additional information they deem relevant to their application. This form should only be completed by applicants who are interested in being considered for the Medical Records Clerk position.
-
-To ensure that we can fairly compare and evaluate applicants, please refrain from duplicating your application or submitting multiple applications for the same position. Each application will be reviewed on a first-come, first-served basis, and only those who complete all required fields will be considered for an interview.
-
-</thinking>
-
 # Medical Records Clerk Application Form - Help Guide
 
 ## Purpose

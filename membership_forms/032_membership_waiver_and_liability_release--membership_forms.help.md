@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from membership applicants or existing members who need to sign a waiver and liability release form. The form is likely used by organizations, such as gyms, sports teams, or schools, to protect themselves from potential legal liabilities in case of accidents or injuries that may occur during membership activities. The form's purpose is to inform the signer of the risks involved and have them acknowledge and sign off on the waiver. It's essential to ensure that the signer understands the implications of signing this form before proceeding. It's also crucial to verify that this form is not duplicating any other existing processes or forms within the organization, and that it's not a one-time use form but rather a recurring process for every membership applicant or member.
-</thinking>
-
 # Membership Waiver And Liability Release - Help Guide
 
 ## Purpose

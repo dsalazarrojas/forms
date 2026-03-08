@@ -1,7 +1,3 @@
-<thinking>As a medical professional, it is essential to collect accurate and complete information from new patients to ensure they receive the best possible care. This form is designed to gather essential details about the patient's medical history, contact information, and other relevant data. By understanding the purpose and requirements of this form, you can ensure that you are collecting the right information to provide optimal care and treatment.
-
-Please note that this form is not a medical questionnaire in the classical sense. It is a general form to collect patient information and consent. If you need to conduct a medical survey or assessment, please use a separate and relevant form designed for that purpose.</thinking>
-
 # new_patient_medical_history_form - Help Guide
 ## Purpose
 The new_patient_medical_history_form is a comprehensive form to collect essential information about new patients, including their contact details, medical history, and consent. This form is crucial in ensuring that you have a complete understanding of the patient's situation, which will help you provide personalized care.

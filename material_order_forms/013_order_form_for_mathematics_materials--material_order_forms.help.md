@@ -1,21 +1,3 @@
-<thinking>
-
-To provide an accurate and user-friendly help guide, I need to understand the form's purpose and the fields' labels. The form is for ordering mathematics materials, likely for educational or research purposes. It seems the form should gather information about the customer, their contact details, and the specific mathematics materials they want to order. 
-
-The form has seven fields in total:
-
-1. First Name (text, optional)
-2. Last Name (text, optional)
-3. Email (email address, optional)
-4. Phone Number (text, optional)
-5. Math Materials (select one from options, optional)
-6. Quantity (number, optional)
-7. Shipping Details (note, optional)
-
-Considering the fields, it appears the form allows customers to provide their contact information and specify what mathematics materials they want to order. 
-
-</thinking>
-
 # Order Form For Mathematics Materials - Help Guide
 
 ## Purpose

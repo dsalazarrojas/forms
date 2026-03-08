@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about client therapy sessions. It's a crucial tool for mental health professionals to document their sessions, track client progress, and maintain accurate records. Before starting, please ensure that you have the authority to access and complete this form, and that it is not a duplicate entry. If you're unsure about any of the fields or have questions, please consult with your supervisor or the mental health team.
-</thinking>
-
 # Client Therapy Session Notes - Help Guide
 
 ## Purpose

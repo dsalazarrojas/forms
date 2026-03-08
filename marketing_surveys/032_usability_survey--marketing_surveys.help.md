@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather usability feedback and satisfaction ratings from users. The purpose of this form is to provide a simple and structured way to collect feedback and insights from users, which will help the organization to identify areas of improvement and optimize the user experience.
-</thinking>
-
 # Usability Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback and satisfaction ratings regarding your experience with our service. Your input will help us improve and enhance our service to better meet your needs.

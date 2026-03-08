@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to subscribe to a cultural program, providing information about the organization, the program type, and other relevant details. The purpose of this form is to gather necessary information for the subscription process. It is essential to complete this form accurately to ensure that the subscription process is successful. Please make sure to review the form carefully and provide correct information. If you have any doubts or concerns, contact the relevant authorities.
-</thinking>
-
 # Cultural Program Membership Subscription Form - Help Guide
 ## Purpose
 The cultural program membership subscription form is designed to collect information from users who want to subscribe to a cultural program. This form is used to gather organizational information, program type, and other relevant details necessary for the subscription process.

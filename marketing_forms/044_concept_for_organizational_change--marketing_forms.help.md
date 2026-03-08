@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Concept For Organizational Change - Help Guide
 ## Purpose
 The "Concept for Organizational Change" form is used to document and propose new ideas or changes within the organization. It helps to gather essential information about the proposed change, including project details, expected outcomes, and key stakeholders involved. This form is used to facilitate the formal approval process and ensure that all necessary information is captured and considered before proceeding with the change.

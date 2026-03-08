@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are interested in collaborating on an eco product project. The form will be reviewed internally to ensure that it meets the company's needs and requirements. This guide will only be available for users who have been invited to the collaboration.
-</thinking>
-
 # Eco Product Collaboration Contact Form - Help Guide
 ## Purpose
 

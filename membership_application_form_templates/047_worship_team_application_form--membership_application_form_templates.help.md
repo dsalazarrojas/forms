@@ -1,7 +1,3 @@
-<thinking>
-The Worship Team Application Form is a tool used to collect information from individuals interested in joining the worship team at a church. This form is designed to gather personal and professional details from applicants, including contact information, music experience, and spiritual background. It is essential to fill out this form accurately and thoroughly to ensure that the church's worship team is well-equipped to lead worship and serve the community effectively.
-</thinking>
-
 # Worship Team Application Form - Help Guide
 ## Purpose
 The Worship Team Application Form is a crucial tool for the church's worship team selection process. It helps the team leaders to evaluate potential team members' qualifications, experience, and fit for the team.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a radiology order form. This form is intended to gather information for radiology tests and exams. The form should be completed with accurate and relevant information to ensure proper care for the patient. Before proceeding, ensure that the form is not a duplicate or unnecessary by checking with the patient's chart and other relevant systems. This form will help healthcare providers gather the necessary information to perform imaging procedures and exams.
-</thinking>
-
 # Radiology Order Form - Help Guide
 ## Purpose
 The radiology order form is a medical form used to gather information for radiology tests and exams. The form is essential for healthcare providers to collect accurate and complete information about patients before proceeding with imaging procedures.

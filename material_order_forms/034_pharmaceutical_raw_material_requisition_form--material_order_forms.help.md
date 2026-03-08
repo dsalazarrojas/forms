@@ -1,39 +1,3 @@
-<thinking>Before we start, let's confirm that the form is for pharmaceutical raw material requisition and is used to gather information about the materials requested, their quantities, unit prices, total prices, and other relevant details. This form will help the team ensure that the materials are properly requisitioned and tracked throughout the process.
-
-The form consists of multiple pages with various fields that require user input. The fields include:
-
-* Material Request (text)
-* Material Type (select one from options)
-* Quantity (number)
-* Unit Price (number)
-* Total Price (number)
-* Material Vendor (select one from options)
-* Material Note (note)
-* Route To (select multiple from options)
-* Date Requested (date)
-* Date Completed (date)
-* Time Completed (time)
-* Material Note (note)
-* Submitted By (select one from options)
-* Submitted Date (date)
-* Submitted Time (time)
-* Approved By (select one from options)
-* Approved Date (date)
-* Approved Time (time)
-* Rejected By (select one from options)
-* Rejected Date (date)
-* Rejected Time (time)
-* Submitted To (select one from options)
-* Material Category (select one from options)
-* Material Status (select one from options)
-* Remarks (note)
-
-Each field has a specific purpose and requirement level (required or optional), which is crucial for the form's overall accuracy and efficiency.
-
-Let's break down each field in detail to ensure that the user understands its purpose and usage.
-
-</thinking>
-
 # Pharmaceutical Raw Material Requisition Form - Help Guide
 ## Purpose
 This form is used to gather information about the pharmaceutical raw materials requisitioned by the team, including their quantities, unit prices, and other relevant details.

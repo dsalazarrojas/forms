@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a patient's medical history and condition for assessment and treatment purposes. This form is likely used by medical professionals to gather data for diagnosis and treatment plans. 
-</thinking>
-
 # Medical And Nursing Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical history, allergies, and condition to provide a thorough assessment and treatment plan.

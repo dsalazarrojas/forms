@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's risk factors for ovarian cancer, including their menstrual history, family history, medical history, and other relevant factors. The form is intended for use by healthcare professionals to help identify patients who are at risk for ovarian cancer and to inform further evaluation and treatment decisions.
-
-To ensure that the form is being used appropriately and that patient data is collected effectively, please review the form fields and instructions carefully before completing the form.
-
-The form consists of 25 fields, each with its own specific purpose and requirements. The fields can be grouped into several categories, including:
-
-* Risk factors: These fields are used to collect information about the patient's risk factors for ovarian cancer, such as their menstrual history, family history, and medical history.
-* Medical history: These fields are used to collect information about the patient's medical history, including previous cancers, medical conditions, and cancer screening.
-* Personal characteristics: These fields are used to collect information about the patient's personal characteristics, such as their age, height, weight, and ethnicity.
-* Treatment and staging: These fields are used to collect information about the patient's cancer treatment and staging.
-
-Please review each field carefully to ensure that you are providing accurate and complete information. If you have any questions or concerns, please don't hesitate to reach out to a healthcare professional.
-</thinking>
-
 # Ovarian Cancer Risk Assessment - Help Guide
 ## Purpose
 The Ovarian Cancer Risk Assessment form is designed to collect information about a patient's risk factors for ovarian cancer, including their menstrual history, family history, medical history, and other relevant factors.

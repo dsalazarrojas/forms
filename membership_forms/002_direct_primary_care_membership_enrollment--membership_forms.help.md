@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals who wish to enroll in Direct Primary Care (DPC) membership. The primary purpose of this form is to gather essential details about the enroller, their plan selection, member information, address, contact information, and email and phone number. The form is not intended to be a contract or legal document, but rather a way to capture necessary details for DPC management and communication purposes.
-
-To avoid duplication, this form should only be filled out once per enroller. If you have already enrolled, you should not submit this form again. Please note that submitting false or incomplete information may result in delays or issues with your membership.
-
-</thinking>
-
 # Direct Primary Care Membership Enrollment - Help Guide
 ## Purpose
 The Direct Primary Care Membership Enrollment form is designed to collect necessary information from individuals enrolling in Direct Primary Care (DPC) membership. This form is not a contract or legal document and should only be filled out once.

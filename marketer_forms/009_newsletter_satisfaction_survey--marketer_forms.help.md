@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather feedback from users about their experience with our newsletter. We want to know about their level of satisfaction with the content, design, and overall experience. We'll use this information to improve our newsletter and ensure it continues to meet the needs of our audience.
-It is essential to fill out this form accurately and comprehensively, as your feedback will directly influence the improvements we make to our newsletter.
-</thinking>
-
 # newsletter_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with our newsletter. The goal is to gather information on what we're doing well and what we can improve to better serve our audience.

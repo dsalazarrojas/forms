@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to obtain the patient's consent for complementary medicine treatment. The purpose of this form is to ensure that the patient understands the proposed treatment, its potential benefits and risks, and their rights and responsibilities. It is a legal requirement for healthcare providers to obtain informed consent from patients before administering any form of treatment. 
-
-The form will be reviewed internally to prevent duplication and ensure that the patient's consent is properly documented. 
-
-The form will be reviewed to prevent any duplication of effort or unnecessary treatment. 
-</thinking>
-
 # Complementary Medicine Treatment Consent - Help Guide
 
 ## Purpose

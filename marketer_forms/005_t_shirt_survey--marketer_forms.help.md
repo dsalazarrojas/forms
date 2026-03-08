@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to provide input on their preferred T Shirt options, including customer type, age group, preferred shirt sizes, colors, designs, and other specifications. The form is intended to gather data that can be used to better cater to the needs of diverse customers and provide a personalized experience. Please ensure this guide is accurate and relevant to your specific use case, as the form fields and options may need to be tailored to your specific business needs.
-</thinking>
-
 # T Shirt Survey - Help Guide
 ## Purpose
 The T Shirt Survey is a form designed to gather information about customers' preferences and specifications for T Shirts.

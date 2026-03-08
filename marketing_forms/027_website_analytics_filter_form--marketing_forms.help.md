@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for filtering website analytics data, allowing users to select specific parameters such as date ranges, time zones, and other criteria to narrow down or explore website usage metrics. This form is designed to provide a quick and easy way to get insights into website performance. It is possible that this form is part of a larger analytics platform or reporting tool.
-</thinking>
-
 # Website Analytics Filter Form - Help Guide
 ## Purpose
 The Website Analytics Filter Form is used to filter website analytics data based on various criteria such as date range, time zone, and analytics type. This form helps users to extract specific insights from the vast amount of data collected by the website.

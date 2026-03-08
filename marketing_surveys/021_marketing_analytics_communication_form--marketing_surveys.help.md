@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about marketing analytics communication from users. It is intended to help the user's team understand their marketing efforts, campaign goals, and target audience.
-The form will collect data on the marketing channel(s) being used, the status of the campaign, the expected outcome, primary objective, target audience, expected duration, and whether the campaign is part of a series.
-Please ensure you fill out the form accurately and completely.
-</thinking>
-
 # Marketing Analytics Communication Form - Help Guide
 ## Purpose
 This form is designed to gather information about your marketing analytics communication. It will help our team understand your marketing efforts, campaign goals, and target audience.

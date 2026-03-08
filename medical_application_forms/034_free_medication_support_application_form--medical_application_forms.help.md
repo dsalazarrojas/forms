@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Free Medication Support Application Form - Help Guide
 ## Purpose
 This form is designed to help patients submit a request for free medication support. It gathers relevant information from patients, which will be reviewed by our medical team to assess eligibility for support. This form is intended for patients who cannot afford their medications or need assistance with their medication regimen. 

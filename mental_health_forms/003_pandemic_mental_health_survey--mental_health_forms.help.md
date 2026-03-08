@@ -1,9 +1,3 @@
-<thinking>
-The form is a self-assessment instrument designed to gauge the mental health and wellness of individuals, particularly in the context of the COVID-19 pandemic. It is likely intended to be used by healthcare professionals or researchers to monitor the psychological impact of the pandemic on individuals and identify areas where interventions or support may be needed. The form should not be completed by individuals who are experiencing a severe mental health crisis or emergency; if this is the case, please seek immediate support from a mental health professional.
-
-Before starting the survey, please ensure you are not completing this form more than once. Duplicate submissions may lead to unnecessary data duplication and skew the results.
-</thinking>
-
 # Pandemic Mental Health Survey - Help Guide
 ## Purpose
 This survey is designed to evaluate your mental health and wellness status during the COVID-19 pandemic. Your responses will help us better understand how people are coping with the pandemic and identify areas where support is needed.

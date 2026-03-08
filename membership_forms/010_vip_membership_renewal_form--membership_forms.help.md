@@ -1,12 +1,3 @@
-<thinking>
-This form is for renewing a Vip membership. The purpose of this form is to collect relevant information about the membership being renewed, including the membership number, name, address, contact number, membership status, renewal date, and renewal fee. The form is used for internal administrative purposes and is essential for maintaining accurate membership records. 
-
-The form will only display when a user has the necessary permissions to access the membership system. The form will not be available for non-authorized users. 
-
-The form has been designed to ensure that all required fields are completed correctly and that any additional comments or notes can be included for reference.
-
-</thinking>
-
 # vip_membership_renewal_form - Help Guide
 ## Purpose
 The Vip membership renewal form is used for renewing a Vip membership. It is a crucial part of maintaining accurate and up-to-date information about members' statuses.

@@ -1,11 +1,3 @@
-<thinking>
-
-The Agency Request Form is designed to help us understand your business needs and preferences for agency support. Please make sure to fill out this form carefully and truthfully, as the information provided will help us tailor our support to your specific requirements. If you've worked with a marketing agency before, you may find that this form is similar to previous experiences you've had.
-
-Before submitting the form, take a moment to review your answers and ensure that they accurately reflect your business situation. We'll use this information to provide you with the best possible support and results.
-
-</thinking>
-
 # Agency Request Form - Help Guide
 ## Purpose
 The Agency Request Form is designed to help our team understand your business needs and preferences for agency support. This form will help us tailor our support to your specific requirements.

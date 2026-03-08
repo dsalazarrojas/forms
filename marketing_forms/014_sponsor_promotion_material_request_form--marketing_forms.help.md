@@ -1,6 +1,4 @@
-## <thinking>... </thinking>
-
-The purpose of this form is to collect information from sponsors to request materials for promotion. Sponsors may request materials such as banners, logos, or other visual elements to be used in marketing activities. This form helps to centralize and organize such requests, ensuring that all relevant information is captured and communicated effectively to the design team. By submitting this form, sponsors can specify their category, provide a description of the materials they need, and upload supporting files. The form also collects contact information to facilitate communication.
+## The purpose of this form is to collect information from sponsors to request materials for promotion. Sponsors may request materials such as banners, logos, or other visual elements to be used in marketing activities. This form helps to centralize and organize such requests, ensuring that all relevant information is captured and communicated effectively to the design team. By submitting this form, sponsors can specify their category, provide a description of the materials they need, and upload supporting files. The form also collects contact information to facilitate communication.
 
 Before filling out this form, please ensure that:
 

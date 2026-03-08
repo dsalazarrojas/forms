@@ -1,7 +1,3 @@
-<thinking>
-This form is a knowledge quiz designed to test the user's understanding of walking aids, which are assistive devices used by individuals with mobility impairments or injuries to aid in walking. The form will cover various types of walking aids, their characteristics, and the staff's knowledge and confidence in providing care for patients using these devices. It is essential to complete this form accurately to ensure that healthcare professionals have the necessary knowledge to provide proper care and guidance to patients. Please ensure that you are answering the questions based on your actual knowledge and not guessing. 
-</thinking>
-
 # Walking Aids Knowledge Quiz - Help Guide
 ## Purpose
 This form is a knowledge quiz to test your understanding of walking aids, their characteristics, and how healthcare professionals should provide care for patients using these devices.

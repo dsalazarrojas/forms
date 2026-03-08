@@ -1,8 +1,3 @@
-<thinking>
-This form is used to upload marketing campaign assets, such as text, images, and videos. It is intended to collect metadata for each asset, including its description, URL, and other relevant details. Before completing the form, please ensure that you have all the required information and that the assets you are uploading are properly sized and formatted. Additionally, please note that each page of the form is designed to collect a different type of information, so be sure to fill in each page according to the specific instructions below.
-
-</thinking>
-
 # Marketing Campaign Asset Upload Form - Help Guide
 ## Purpose
 The Marketing Campaign Asset Upload Form is used to upload and collect metadata for marketing campaign assets.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid Contact Tracing Form Template - Help Guide
 ## Purpose
 

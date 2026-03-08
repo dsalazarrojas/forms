@@ -1,14 +1,3 @@
-<thinking>
-This form is a Brand Guideline Compliance Checklist designed to help project managers and reviewers ensure that marketing materials and content align with the brand guidelines set by the company. The purpose of this form is to evaluate the compliance of a specific project with the brand guidelines in terms of logo usage, color accuracy, typography, tone of voice, imagery, messaging consistency, legal disclaimers, accessibility, and overall compliance status.
-
-The form is used to collect information on 13 fields, including project name, project manager's name, department, review date, material type, logo usage, logo spacing, color accuracy, typography compliance, tone of voice, imagery style, messaging consistency, legal disclaimers, and overall compliance status. The reviewer can select one of three options for each field: compliant, non-compliant, or not applicable. Additionally, the form includes fields for issues description and reviewer's name and signature.
-
-The form is designed to be user-friendly and easy to understand, with hints and explanations provided for each field to guide the reviewer through the process. The information collected through this form will help project managers and reviewers make informed decisions about the compliance of marketing materials and content with the brand guidelines.
-
-This form has been AI-generated and is an original adaptation of a public survey topic, not affiliated with or copied from any form platform. It is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, with proper credit given.
-
-</thinking>
-
 # Brand Guideline Compliance Checklist - Help Guide
 ## Purpose
 This form is a Brand Guideline Compliance Checklist designed to help project managers and reviewers evaluate the compliance of marketing materials and content with the brand guidelines.

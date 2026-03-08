@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to onboard new members into the art collective. It gathers personal information, artistic background, and preferences for membership. The form is divided into sections for easier navigation. 
-
-This form is a one-time submission, and all fields are required for membership consideration. 
-
-</thinking>
-
 # Art Collective Member Onboarding Form - Help Guide
 ## Purpose
 This form is designed to help us get to know you better and understand your artistic background, interests, and preferences for membership in our art collective. Please fill out this form to provide us with the necessary information for consideration and a smooth onboarding process.

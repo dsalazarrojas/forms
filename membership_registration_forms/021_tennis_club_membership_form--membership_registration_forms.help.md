@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from individuals interested in joining the tennis club membership program. The form will help us understand their contact and personal details, enabling us to process their membership application. This form has been designed to be user-friendly, ensuring that the required information is captured efficiently. Please ensure that you have the necessary information and approval to proceed with filling out this form.
-</thinking>
-
 # Tennis Club Membership Form - Help Guide
 ## Purpose
 The Tennis Club Membership Form is designed to collect contact and personal details from individuals interested in joining the tennis club membership program.

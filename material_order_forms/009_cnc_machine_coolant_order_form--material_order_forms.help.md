@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CNC Machine Coolant Order Form - Help Guide
 ## Purpose
 

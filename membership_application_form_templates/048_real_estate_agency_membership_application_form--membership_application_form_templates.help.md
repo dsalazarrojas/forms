@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be completed by real estate agents or agencies to apply for membership with our association. The form collects information necessary to verify the identity of the applicant, their real estate license information, and agency details. To ensure a smooth application process, please review each field carefully and provide accurate information.
-
-</thinking>
-
 # real_estate_agency_membership_application_form - Help Guide
 ## Purpose
 The purpose of this form is to provide real estate agencies with a membership application process. Please fill out this form to start the membership application process.

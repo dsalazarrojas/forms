@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a template for collecting internet usage survey data from users. This data can be used to better understand user behavior and preferences in the context of internet usage. The form includes questions about the user's frequency of internet usage, the types of internet services they use, and their age. It also includes fields for users to provide additional comments or feedback and to indicate their consent to data collection. It is essential that the user completes all fields marked as "required".
-
-</thinking>
-
 # internet_usage_survey_template - Help Guide
 ## Purpose
 This form is designed to collect user data about their internet usage habits and preferences.

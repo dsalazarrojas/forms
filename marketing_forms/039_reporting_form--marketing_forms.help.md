@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from various departments or entities for reporting purposes. It's essential to ensure that the form is filled out correctly and consistently to maintain accurate and up-to-date records. Before starting, please review this guide to understand the form's purpose, how to complete it, and what each field represents.
-
-</thinking>
-
 # Reporting Form - Help Guide
 ## Purpose
 The Reporting Form is a tool used to gather data from different departments or entities for reporting and tracking purposes. It helps to collect specific information related to marketing, doctor, and reporting fields, enabling the organization to stay organized and informed.

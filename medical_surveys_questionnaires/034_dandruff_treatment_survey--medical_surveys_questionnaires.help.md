@@ -1,11 +1,3 @@
-<thinking>...this form is designed to collect information about a patient's dandruff symptoms, treatment history, and treatment effectiveness. It is intended to be used by healthcare professionals to assess the patient's condition and tailor their treatment plan accordingly. The form includes questions about the frequency and severity of dandruff symptoms, as well as options for the patient to describe their treatment history, current symptoms, and medication use. The form also collects demographic information for follow-up purposes.
-
-Please note that this form is not intended to diagnose or treat medical conditions. If you have any questions or concerns about your dandruff symptoms, please consult a medical professional.
-
-Please make sure to answer the questions as accurately as possible, and do not repeat answers that have already been provided in the form. If you have any questions or need further clarification, please contact our support team.
-
-</thinking>
-
 # Dandruff Treatment Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's dandruff symptoms, treatment history, and treatment effectiveness. It will help healthcare professionals understand the patient's condition and tailor their treatment plan accordingly.

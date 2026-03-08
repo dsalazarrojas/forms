@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for gathering valuable insights from customers about their experience with our product. It is designed to collect feedback and opinions on various aspects of our customer service, from satisfaction with our service to concerns about our product. The form is used to identify areas where we can improve and make data-driven decisions to better serve our customers. Please ensure you understand the purpose and content of this form before completing it.
-</thinking>
-
 # Customer Survey - Help Guide
 
 ## Purpose

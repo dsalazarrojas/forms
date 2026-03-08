@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential members who want to join the Scentsy Sample Mail And Birthday Club. The form likely aims to gather data on how to contact the members and what interests they have that align with the club's goals. It's possible that the form is designed for internal use within Scentsy to track and manage member data.
-</thinking>
-
 # Scentsy Sample Mail And Birthday Club - Help Guide
 ## Purpose
 This form is for potential members to join the Scentsy Sample Mail And Birthday Club. By filling out this form, you will be able to sign up for the club's services and be part of a community that shares similar interests.

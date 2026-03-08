@@ -1,5 +1,3 @@
-<thinking> This is a medical application form. It's used to collect information about a patient's medical history. This form is used to gather information from patients to help healthcare providers better understand their medical history. This form will ask questions about the patient's contact details, medical symptoms, medications, allergies, family medical history, medical condition, date of birth, contact information, medical record number, emergency contact, emergency contact relationship, emergency contact name, medical history, medical history details, medical insurance, medical insurance purpose, medical provider, medical provider address, medical provider phone, medical provider fax, medical provider website, medical provider license, and patient signature. </thinking>
-
 # hipaa_medical_history_form - Help Guide
 ## Purpose
 The hipaa_medical_history_form is a medical application form used to collect information about a patient's medical history.

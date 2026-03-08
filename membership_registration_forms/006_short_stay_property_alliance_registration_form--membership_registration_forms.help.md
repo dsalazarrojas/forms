@@ -1,7 +1,3 @@
-<thinking>
-This is a critical section to ensure the form is used as intended and not for malicious or unintended purposes.
-</thinking>
-
 # Short Stay Property Alliance Registration Form - Help Guide
 ## Purpose
 The Short Stay Property Alliance Registration Form is a tool used for property registration. It is used by hosts to provide their contact information, property details, and other relevant details for short stay properties. This form is essential in ensuring accurate and up-to-date information for potential short stay guests.

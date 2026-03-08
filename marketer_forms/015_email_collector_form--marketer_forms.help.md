@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # email_collector_form - Help Guide
 ## Purpose
 The `email_collector_form` is used to collect email addresses and other relevant contact information from users. This form is typically used for email marketing, customer communication, and other marketing purposes.

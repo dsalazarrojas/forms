@@ -1,9 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information from users interested in joining the WILL (Willingness to Lead) membership program. The form is meant to be completed by individuals who want to become a member of the WILL program. The form's purpose is not explicitly stated, so it's assumed that the purpose is to gather relevant user data to facilitate the membership application process. 
-This form does not appear to be a part of a larger workflow or process, so it does not need to be connected to any existing system, and its submission data will be stored independently. 
-Before filling out the form, please review the following information to ensure you are not duplicating your application.
-
-</thinking>
 # WILL Membership Application Form - Help Guide
 ## Purpose
 The WILL Membership Application Form is designed to collect information from individuals interested in joining the WILL membership program. This form helps the organization to understand user preferences and requirements for the membership program.

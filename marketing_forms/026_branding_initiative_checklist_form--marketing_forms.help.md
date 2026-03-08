@@ -1,8 +1,4 @@
-><thinking>
-This form is designed to be used in a marketing context, likely for internal company or organization use. It's intended to collect information about branding initiatives, including project names, owners, objectives, and related assets. The form might be used by marketing or communications teams to document and track progress on branding-related projects. 
-</thinking>
-
-# Branding Initiative Checklist Form - Help Guide
+># Branding Initiative Checklist Form - Help Guide
 
 ## Purpose
 The Branding Initiative Checklist Form is a tool used to document and track progress on branding-related projects. This form helps project owners and team members to gather information about their projects, set clear objectives, and coordinate with stakeholders.

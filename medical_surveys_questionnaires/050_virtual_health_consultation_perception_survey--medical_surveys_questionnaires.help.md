@@ -1,7 +1,3 @@
-<thinking>
-This form is a Virtual Health Consultation Perception Survey, designed to gauge the user's experience and perception of the telehealth services provided by the health organization. This survey is intended to collect feedback and suggestions from users on their interactions with the health services, including the ease of scheduling appointments, navigation of the health portal, response times, and overall satisfaction. This form is a critical tool for the health organization to understand their strengths and weaknesses in providing efficient and effective telehealth services. Before completing this form, please ensure that you have not already provided feedback on this survey, as this will help the health organization avoid duplication of efforts and provide more effective feedback collection.
-</thinking>
-
 # Virtual Health Consultation Perception Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback and suggestions from users on their experience with our telehealth services. Your input will help us understand what we do well and where we can improve.

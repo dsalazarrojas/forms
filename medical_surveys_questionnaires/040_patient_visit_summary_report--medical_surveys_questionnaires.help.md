@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Patient Visit Summary Report - Help Guide
 
 ## Purpose

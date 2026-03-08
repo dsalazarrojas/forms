@@ -1,9 +1,3 @@
-<thinking> 
-- The purpose of this form is for claimants (individuals or their representatives) to provide information regarding a critical illness they have experienced. This includes personal details such as name, address, and contact information, as well as medical information like date of admission, discharge, diagnosis, and healthcare provider details.
-- The form is designed to gather essential information about the claimant's critical illness, which will be used to process their claim.
-- To prevent duplication of work, this form should only be filled out once by the claimant or their representative.
-</thinking>
-
 # Critical Illness Claim Form - Help Guide
 ## Purpose
 This form is designed for claimants (individuals or their representatives) to provide critical illness claim information.

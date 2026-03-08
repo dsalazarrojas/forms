@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # At Home Vaccination Outreach Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Fitness Member Information Form", we need to consider the following: 
-
-*   The form is designed to collect member information, which includes details about the member, their emergency contact, and their membership preferences.
-*   The form will be used to create or update member records in the database.
-*   This form will be used by both members and administrators to manage member information.
-*   We want to ensure that the form is filled out accurately to prevent any errors in member records.
-
-</thinking>
-
 # Fitness Member Information Form - Help Guide
 
 ## Purpose

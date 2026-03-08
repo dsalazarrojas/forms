@@ -1,13 +1,3 @@
-<thinking>
-The "T Shirt Order Form" is designed to collect customer information for a t-shirt order. This form is likely used for e-commerce or retail settings to capture order details from customers. To ensure relevance, the form is structured to collect essential customer and order-related information such as name, t-shirt color, size, shipping address, and payment method. By completing this form, customers can accurately provide their preferences, and the merchant can process the order accordingly.
-
-Before filling the form, please make sure you are in the correct context and have all the necessary information ready. This form is typically used for new customers, and you might need to fill it out only once. 
-
-Note that some fields are optional, and you can leave them blank if not applicable. However, filling out all fields will help the merchant process your order more efficiently.
-
-Please make sure to review the information entered carefully before submitting the form, as it will be used to process your order directly.
-</thinking>
-
 # T Shirt Order Form - Help Guide
 ## Purpose
 The "T Shirt Order Form" is a collection of fields used to gather information for processing a t-shirt order. 

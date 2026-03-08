@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to help individuals track their symptoms and progress during alcohol withdrawal. It is intended for use by individuals experiencing or having experienced alcohol withdrawal and seeking support from healthcare professionals. This form will help track the severity of symptoms, medication compliance, and other important factors that can inform treatment and support plans. This form should only be used by individuals who are experiencing or have experienced alcohol withdrawal; it is not intended for general health tracking or monitoring. If you're unsure about the purpose or application of this form, please consult with a healthcare professional before using it.</thinking>
-
 # Alcohol Withdrawal Symptom Tracker - Help Guide
 ## Purpose
 

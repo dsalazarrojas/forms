@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that users understand that this form is intended to help us find the best candidate for the Digital Marketing Manager position. This form is designed to collect relevant information from applicants, such as their current role and job responsibilities, what motivates them to apply for this position, and their relevant experience and skills. The form is also used to gather contact information and availability, as well as any additional details they may have about themselves. Please answer these questions truthfully and completely, and make sure you have the necessary permissions to provide any references or share your portfolio. We are looking for the best candidate to join our team, and this form is one way for us to assess your qualifications. Make sure to answer each question truthfully and thoroughly, as it will help us determine your fit for the role.
-</thinking>
-
 # Digital Marketing Manager Job Application Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Research Transparency Perception Survey - Help Guide
 ## Purpose
 This form is a survey designed to understand individuals' perception of transparency in medical research. The survey aims to collect information on respondents' experience and expectations regarding transparency in medical research, including their participation in research, areas of medical interest, and the level of transparency they expect from medical institutions.

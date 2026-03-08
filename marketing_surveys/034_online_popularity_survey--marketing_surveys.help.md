@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 The form purpose is to gather user feedback and insights on the online popularity of a particular product or service. This form is likely used to measure user engagement and gather data on user demographics and behavior.
 
 The form is designed to be completed by users who have interacted with the product or service online, and the data collected will help the development team to understand user needs and preferences.

@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is intended to gauge the attitudes and concerns of youth about climate change. It is not a mandatory form, and responses will be used to inform marketing efforts. We need to ensure that we are not duplicating similar efforts, and that the form is accessible and clear for users to complete. We aim to gather data on youth climate action attitudes to better understand their perceptions and inform our marketing strategies. Please review the following guide to ensure you are completing the form as intended.</thinking>
-
 # Youth Climate Action Attitudes Survey - Help Guide
 ## Purpose
 This survey is designed to gather your thoughts and feelings about climate change, its impact, and your level of concern. Your responses will help us understand the attitudes and concerns of youth like you and inform our marketing efforts to address these issues.

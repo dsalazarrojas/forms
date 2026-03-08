@@ -1,8 +1,3 @@
-<thinking>
-This help guide will explain the purpose and usage of the marketing campaign release form, ensuring that end users understand its relevance and requirements. It will cover the form's purpose, step-by-step instructions on how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # marketing_campaign_release_form - Help Guide
 ## Purpose
 The marketing campaign release form is a tool used to collect and document essential details about marketing campaigns. It is essential to fill out this form accurately and comprehensively to ensure that marketing campaigns are well-planned, executed, and recorded for future reference.

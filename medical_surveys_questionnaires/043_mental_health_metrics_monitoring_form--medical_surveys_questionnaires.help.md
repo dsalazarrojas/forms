@@ -1,7 +1,3 @@
-<thinking>
-This guide will explain how to fill out the Mental Health Metrics Monitoring Form to track mental health status and progress over time.
-</thinking>
-
 # Mental Health Metrics Monitoring Form - Help Guide
 ## Purpose
 The Mental Health Metrics Monitoring Form is designed to monitor and track mental health progress over time. It's a tool for healthcare professionals to gather information on patients' mental health metrics, including their current mental health status, treatment goals, symptoms, and follow-up details. This form aims to provide a comprehensive snapshot of a patient's mental health situation, enabling healthcare professionals to better understand the patient's needs and provide tailored care.

@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed to screen students for potential COVID-19 symptoms or exposure risks. It is essential for parents or guardians to provide accurate and up-to-date information about the student's health and travel history to ensure the student's safety and the safety of others in the school community. This form should be completed by parents or guardians on behalf of the student.
-
-Non-duplication check: Please ensure that you are not completing this form for multiple students at the same time. If you need to complete this form for multiple students, please create a new instance of the form for each student.
-</thinking>
-
 # COVID 19 Student Online Health Screening Form - Help Guide
 ## Purpose
 The COVID 19 Student Online Health Screening Form is designed to collect information about a student's health status and travel history to ensure their safety and the safety of others in the school community.

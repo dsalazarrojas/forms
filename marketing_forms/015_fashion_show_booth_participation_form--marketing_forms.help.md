@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from participants of the fashion show, including their personal details, booth information, and contact details. The form should not be filled out by people who are not participating in the fashion show.
-</thinking>
-
 # Fashion Show Booth Participation Form - Help Guide
 ## Purpose
 This form is used to collect information from participants of the fashion show, including their personal details, booth information, and contact details. Please only fill out this form if you are participating in the fashion show.

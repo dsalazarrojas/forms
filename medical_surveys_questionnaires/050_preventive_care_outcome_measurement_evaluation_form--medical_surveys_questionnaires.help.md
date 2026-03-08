@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the outcomes of preventive care, which is a type of care that aims to prevent health problems from occurring or worsening. This form is used to collect information about the patient's medical history, health status, and other relevant details. To ensure that this form is completed accurately and effectively, we need to make sure that the end user understands its purpose and how to complete it.
-</thinking>
-
 # Preventive Care Outcome Measurement Evaluation Form - Help Guide
 ## Purpose
 The Preventive Care Outcome Measurement Evaluation Form is designed to collect information about the patient's medical history, health status, and other relevant details in order to evaluate the outcomes of preventive care. This form is used to assess the patient's overall health and make data-driven decisions for better care.

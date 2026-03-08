@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by healthcare providers to document a patient's declination of flu vaccination. The goal of this form is to ensure that the patient understands the importance of vaccination and is aware of the reasons why they are declining. This form will be used to track and store the patient's information, as well as the healthcare provider's information, to ensure that the patient's declination is documented accurately and efficiently. This form should not be used for any other purpose than tracking flu vaccine declination.
-
-</thinking>
-
 # Flu Vaccine Declination Form - Help Guide
 ## Purpose
 This form is used to document a patient's declination of flu vaccination.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals or groups to register as members of a Football Club. The form captures general information, player details, emergency contact, contact information, payment methods, membership status, membership type, and notes from the user. The form is intended to be completed by prospective members to streamline the membership registration process.
-</thinking>
-
 # Football Club Membership Form Template - Help Guide
 ## Purpose
 This form is used to collect information from prospective members of the Football Club. Please fill out the form accurately and completely to ensure smooth processing of your membership application.

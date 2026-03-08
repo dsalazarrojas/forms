@@ -1,7 +1,3 @@
-<thinking>
-The Metabolic Assessment Form is used to collect information about a client's physical characteristics and activity level to estimate their resting metabolic rate (RMR) and daily energy expenditure. This form is used to help healthcare professionals and researchers understand the client's energy needs and make informed decisions about their treatment or care plan. It is essential to complete this form accurately to ensure that the information is reliable and useful for the client's benefit.
-</thinking>
-
 # Metabolic Assessment Form - Help Guide
 ## Purpose
 The Metabolic Assessment Form is a tool used to gather data about a client's physical characteristics and activity level. This information helps healthcare professionals and researchers estimate the client's resting metabolic rate (RMR) and daily energy expenditure.

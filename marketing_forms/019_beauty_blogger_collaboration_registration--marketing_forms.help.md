@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from beauty bloggers and influencers about their social media presence, content, and collaboration interests. This form will help us determine which collaboration opportunities are the best fit for our brand. Before filling out this form, please ensure that you're a legitimate beauty blogger or influencer and that you haven't previously registered with us. This form will take approximately 10-15 minutes to complete and will help us get to know you better.
-</thinking>
-
 # Beauty Blogger Collaboration Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from beauty bloggers and influencers who are interested in collaborating with our brand. This information will help us understand your social media presence, content focus, and collaboration interests, allowing us to determine the best collaboration opportunities for you.

@@ -1,15 +1,3 @@
-<thinking>This form, "Creative Planning Survey", is likely designed to gather insights on the creative planning process, project management, and collaboration for a marketing team or an organization. The purpose of this form is to understand the team's habits, preferences, and methods when it comes to planning, communication, and collaboration. This information can help in identifying areas for improvement, streamlining processes, and making data-driven decisions for future projects.
-
-To ensure this form is used correctly, please note that the form is not a comprehensive project management tool. The answers provided should reflect the team's actual habits and preferences rather than idealized or hypothetical scenarios.
-
-Before filling out the form, consider the following:
-
-* The form is not intended to be a time-consuming exercise. Answer the questions based on your actual experiences and current practices.
-* Be honest and provide accurate information to help in creating a more accurate picture of your team's habits and preferences.
-* If you're unsure about any question, please answer based on your best understanding or consult with your team members.
-
-Please fill out the form with the following fields:</thinking>
-
 # Creative Planning Survey - Help Guide
 ## Purpose
 The "Creative Planning Survey" is a form designed to gather information about your team's habits, preferences, and methods when it comes to planning, communication, and collaboration.

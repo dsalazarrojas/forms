@@ -1,7 +1,3 @@
-<thinking>
-The remote-patient-monitoring-form is designed to collect information about patients who are being monitored remotely. The form is likely used in clinical settings where healthcare professionals need to quickly and accurately document patient data to facilitate remote monitoring and care. Before proceeding, ensure this form is not already being used for the same purpose in your organization to avoid duplication of effort.
-</thinking>
-
 # remote-patient-monitoring-form - Help Guide
 ## Purpose
 The remote-patient-monitoring-form is used to collect patient information for remote monitoring. This includes demographic data, medical conditions, device settings, notification preferences, vital signs, patient status, and any additional notes.

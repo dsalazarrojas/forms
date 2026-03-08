@@ -1,12 +1,3 @@
-<thinking> 
-We're going to create a form that collects user input for a carnival ticket order, which involves gathering various personal and event-related information. This form will ensure that the user provides accurate and required details for a smooth ticketing process. 
-
-The goal is to minimize errors and maximize the accuracy of user input for a seamless ticket purchasing experience. This form will likely be accessed by individuals interested in purchasing tickets for an event. 
-
-It's worth noting that some fields may be optional depending on the user's preference. The form will also include sections to gather payment and confirmation details from the user. The user's personal data will be used to manage their ticket order and any additional preferences they may have. The main focus here is on collecting relevant and necessary information for a hassle-free ticket purchasing experience. 
-
-</thinking>
-
 # Carnival Ticket Form - Help Guide
 ## Purpose
 The Carnival Ticket Form is designed to collect information from users who are interested in purchasing tickets for an event. This form helps the user to provide accurate and required details for a smooth ticket purchasing experience.

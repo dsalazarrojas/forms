@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for new members to register for membership in a club or organization. The form will collect information such as the member's name, contact details, date of birth, address, and interests, as well as membership details like membership type, duration, and payment method. The form also includes a field to agree to the terms and conditions of the club's membership.
-The form is divided into two main sections: member information and membership details. The member information section collects personal details such as name, email, phone number, and address, while the membership details section collects information on the type of membership, duration, and payment method. The form also asks the user to select all areas of interest and how they heard about the club.
-The form's fields are designed to be user-friendly and intuitive, with clear labels and instructions to guide the user through the registration process.
-</thinking>
-
 # Club Membership Order Form - Help Guide
 ## Purpose
 This form is designed for new members to register for membership in a club or organization. It collects personal and membership details to provide the best experience for our members.

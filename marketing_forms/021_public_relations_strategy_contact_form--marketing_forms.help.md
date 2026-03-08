@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information and details about the company's public relations strategy. This form will help the user to provide information about the company they represent, the campaign they are interested in, and their personal contact details. The form will also allow the user to specify the type of campaign they are interested in and provide a brief message about their inquiry.
-
-To ensure that the form is filled out correctly and relevantly, please review the provided fields and consider the following:
-
-* Only fill out this form if you are looking for public relations information or services.
-* Make sure to provide accurate and up-to-date information about your company and campaign.
-* Be clear and concise when filling out the 'Message' field.
-
-Please ensure that your answers are accurate and relevant to the information you are looking for.
-
-If you have filled out this form in the past and have a similar inquiry, please do not fill out this form again as it may be considered spammy and our team will not respond.
-
-</thinking>
-
 # public_relations_strategy_contact_form - Help Guide
 ## Purpose
 This form is designed to collect contact information and details about the company's public relations strategy. The information collected will help us to provide you with the most relevant and up-to-date information about our public relations services.

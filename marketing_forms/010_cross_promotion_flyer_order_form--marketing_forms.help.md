@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients for cross-promotion flyer and marketing materials orders. It will help users provide details about themselves, their company, and the marketing materials they wish to order. The form will only appear on specific pages of the website, making sure that users are directed to it at the right time in their customer journey. This form should only be filled out once per user.
-
-</thinking>
-
 # cross_promotion_flyer_order_form - Help Guide
 ## Purpose
 The cross-promotion flyer order form is used to collect information from clients for marketing materials orders. 

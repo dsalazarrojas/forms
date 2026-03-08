@@ -1,6 +1,3 @@
-<thinking>
-This form will help existing members of the organization to renew their membership. The user is expected to provide their personal details, membership information, and other relevant fields to complete the membership renewal process. The form fields are designed to gather accurate and up-to-date information from the users. Before proceeding, please ensure that you have already submitted the form for your membership before, and that the membership ID is correct.</thinking>
-
 # Membership Renewal Form - Help Guide
 ## Purpose
 The Membership Renewal Form is designed to collect essential information from existing members of the organization to process their membership renewal. This form will help the administration to update the member's details and ensure their membership status is up-to-date.

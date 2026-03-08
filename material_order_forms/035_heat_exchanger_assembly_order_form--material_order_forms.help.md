@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a heat exchanger assembly order from customers. It is designed to capture relevant details such as customer contact information, order details, and material selection. This form is intended for internal use within the organization, and its completion is required for fulfilling heat exchanger assembly orders. Please ensure that you complete this form accurately and thoroughly, as it will help us better understand your needs and process your order efficiently.
-</thinking>
-
 # Heat Exchanger Assembly Order Form - Help Guide
 ## Purpose
 The form is for customers to provide necessary information about their heat exchanger assembly orders. Please complete it carefully to ensure your order is processed correctly.

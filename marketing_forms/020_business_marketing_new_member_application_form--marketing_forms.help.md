@@ -1,9 +1,3 @@
-<thinking>
-This form is a business marketing new member application form designed to collect information from businesses interested in joining the organization. The form is used to assess the applicant's company profile, marketing goals, and interests in order to provide tailored support and services.
-To ensure that this form serves its purpose effectively, we should check for relevance and non-duplication by verifying that the form fields are not redundant and that the required fields are clearly defined to avoid confusion. For instance, we should confirm that "industry" and "marketing_channels" fields are not overlapping, and that "marketing_budget" field is not required for all types of businesses.
-The form should also be reviewed to ensure that the labels are clear and concise, and that the hints provide sufficient guidance to the applicant.
-</thinking>
-
 # Business Marketing New Member Application Form - Help Guide
 
 ## Purpose

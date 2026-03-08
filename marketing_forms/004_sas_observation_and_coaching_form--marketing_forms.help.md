@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture data related to sales performance and coaching for sales managers. It is used to gather information on the sales performance of a sales representative, including their sales performance, coaching areas, observations, and coaching notes. The form is intended to help sales managers track and evaluate the progress of their sales team, provide coaching and guidance, and identify areas for improvement. This form is likely used in a sales enablement or sales effectiveness program, where managers need to assess the impact of coaching on sales performance.
-The form should only be completed by authorized sales managers or users with the necessary permissions.
-</thinking>
-
 # SAS Observation And Coaching Form - Help Guide
 ## Purpose
 The SAS Observation And Coaching Form is designed to collect data on sales performance and coaching. It helps sales managers track and evaluate the progress of their sales team and identify areas for improvement.

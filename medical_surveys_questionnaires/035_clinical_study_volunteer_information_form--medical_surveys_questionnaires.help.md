@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information about potential clinical study volunteers. It is crucial to understand that the purpose of this form is to ensure that volunteers provide accurate and up-to-date information about themselves, which is essential for their safety and participation in the study. Before filling out this form, please take a moment to review the sections carefully to avoid any duplication of information.
-
-To avoid any confusion, please note that this form is not a substitute for a thorough medical evaluation. If you have any concerns or questions, please reach out to the study team before proceeding.
-
-Additionally, please be aware that some sections of this form may seem repetitive or sensitive, but they are designed to ensure that we have a comprehensive understanding of your needs and preferences. Your cooperation and honesty are greatly appreciated, and we will handle your information with the utmost confidentiality.
-
-Please fill out the form carefully, and if you need any clarification or assistance, do not hesitate to contact us.
-</thinking>
-
 # Clinical Study Volunteer Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about potential clinical study volunteers. Please take a moment to review the form carefully to ensure you provide accurate and up-to-date information about yourself.

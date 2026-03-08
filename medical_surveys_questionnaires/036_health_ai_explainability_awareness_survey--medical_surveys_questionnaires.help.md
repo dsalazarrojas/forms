@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gauge respondents' awareness and attitudes towards AI explainability in the context of health services. It aims to understand how effectively respondents can grasp AI's decision-making processes, their expectations from healthcare providers regarding explainability, and their willingness to recommend AI-powered health services after being informed about their explainability. The form consists of 11 questions, ranging from respondents' self-assessment of their awareness of AI explainability, to their expectations from healthcare providers, and finally, their willingness to recommend AI-powered health services after understanding its explainability. 
-
-This form is intended to gather information on various aspects of AI explainability, including its impact on respondents' trust and confidence in AI-powered health services. By analyzing the results, it is possible to identify areas where more education or communication is needed to increase transparency and improve the adoption of AI-powered health services.
-
-Please review the following help guide to complete the form accurately:
-</thinking>
-
 # Health AI Explainability Awareness Survey - Help Guide
 
 ## Purpose

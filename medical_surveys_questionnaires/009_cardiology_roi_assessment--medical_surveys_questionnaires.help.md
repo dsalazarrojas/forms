@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cardiology ROI Assessment - Help Guide
 ## Purpose
 The Cardiology ROI Assessment form is designed to evaluate the return on investment (ROI) of a cardiology department or institution. This form helps in identifying the financial benefits and quality improvements achieved through various procedures and metrics.

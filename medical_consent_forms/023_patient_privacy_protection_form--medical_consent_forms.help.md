@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information, including their identification details, medical history, and medical records, while also capturing the doctor's signature, date, and other relevant information. This form should not be used for any other purpose, as its primary intention is to ensure patient privacy protection and provide accurate medical data. 
-</thinking>
-
 # Patient Privacy Protection Form - Help Guide
 ## Purpose
 The Patient Privacy Protection Form is a critical document that helps healthcare professionals and patients maintain confidentiality and respect for patient privacy. This form collects essential information to ensure accurate medical records and facilitate smooth patient care.

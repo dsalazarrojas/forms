@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Clinical Trial Participant Application Form - Help Guide
 
 ## Purpose

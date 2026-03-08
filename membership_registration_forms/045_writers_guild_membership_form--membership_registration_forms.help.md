@@ -1,7 +1,3 @@
-<thinking>
-We'll first check if a Writers' Guild Membership Form is necessary for the specific situation. If it is, we'll make sure it's not already filled out, as it's a repetitive process. Then, we'll break down the form into its main components: the writer's information, contact details, writing experience, interests, resume, workshop, and membership type. Finally, we'll clarify each field's purpose and expected input to make the process easier for the user.
-</thinking>
-
 # Writers' Guild Membership Form - Help Guide
 ## Purpose
 The Writers' Guild Membership Form is used to register writers for membership in the Writers' Guild. It's a necessary step for writers to become part of the Guild and access its benefits and resources.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's potential exposure to COVID-19, their health status, and agreement to follow guidelines for monitoring and reporting symptoms. The purpose of this form is to ensure that individuals who may have been exposed to COVID-19 understand their risks, responsibilities, and obligations to their healthcare providers. Completing this form indicates that you have read, understood, and agree to the terms outlined in this document.
-
-Before beginning this guide, please ensure that you have read and understand the form's terms and conditions.
-
-</thinking>
-
 # COVID 19 Exposure Agreement Form - Help Guide
 ## Purpose
 This form is designed to help you understand and acknowledge your potential exposure to COVID-19 and your responsibilities in monitoring and reporting symptoms.

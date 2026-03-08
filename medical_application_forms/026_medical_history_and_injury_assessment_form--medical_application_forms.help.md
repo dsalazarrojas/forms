@@ -1,7 +1,3 @@
-<thinking> 
-This form is a Medical History And Injury Assessment Form used to collect information about a patient's medical history and current injury. It is meant to be filled out by patients to provide healthcare providers with a comprehensive overview of their medical background and current condition. This form is not meant for emergency situations, but rather for regular check-ups and assessments. 
-</thinking>
-
 # Medical History And Injury Assessment Form - Help Guide
 
 ## Purpose

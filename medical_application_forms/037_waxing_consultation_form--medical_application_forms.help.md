@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide information about their medical history and medical conditions that may affect their waxing experience. The purpose of this form is to ensure the customer's safety and the success of the waxing treatment. By completing this form, customers can inform the technician about their medical history, any medical conditions they may have, and provide any relevant medical notes. This information will be used to assess the customer's risk level for waxing and to provide personalized recommendations for their treatment.
-</thinking>
-
 # Waxing Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information about your medical history and medical conditions that may affect your waxing experience. Please fill out this form accurately and thoroughly to ensure a safe and successful treatment.

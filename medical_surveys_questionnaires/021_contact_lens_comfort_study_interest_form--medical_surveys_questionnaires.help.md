@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form help guide, I'd like to clarify that the purpose of this form is to collect information from potential participants for a contact lens comfort study. The form is meant to gather demographic data, eye health and lens wear habits, and availability for study visits. Please ensure you have the necessary permissions and approvals to collect and use this data. Also, note that some fields are marked as optional, so you don't need to fill them in if they don't apply to you. If you're unsure about any of the questions, you can always reach out to the study team for guidance. Now, let's get started with the help guide.</thinking>
-
 # Contact Lens Comfort Study Interest Form - Help Guide
 ## Purpose
 

@@ -1,16 +1,3 @@
-<thinking>
-
-To determine whether this form is relevant to your needs, consider the following:
-
-* The form is called "Clinician Survey - Diabetes And Hearing Loss".
-* The form is related to the medical survey questionnaires category.
-* The form is designed to collect information from clinicians about their awareness and practices regarding hearing loss in patients with diabetes.
-* The form is intended for use by clinicians, such as medical professionals who interact with patients and are knowledgeable about healthcare practices.
-* The form does not appear to be redundant or overlapping with other forms in the medical survey questionnaires category.
-* Based on the information provided, the form appears to be a survey or questionnaire designed to gather data from clinicians on various aspects of hearing loss in patients with diabetes.
-
-</thinking>
-
 # Clinician Survey - Diabetes And Hearing Loss - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for gym members to request an extension on their membership. The purpose of this form is to collect information from the member to process their extension request. The form will guide the member through a series of fields to provide relevant information about their membership status, desired extension period, and payment details.
-</thinking>
-
 # Gym Membership Extension Form - Help Guide
 ## Purpose
 This form is used to request a membership extension for active, suspended, or cancelled/ expired gym memberships.

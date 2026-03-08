@@ -1,14 +1,3 @@
-<thinking>
-  This form is designed for individuals to apply for a fitness membership card, allowing them to access exclusive gym facilities. 
-  - **Check if this form is for you**: 
-  - Ensure you are applying for a membership for your own use and not for someone else. 
-  - Make sure you have not applied for membership in the past, as this form is to apply for new membership.
-  - The purpose of this form is to create a new membership application for a specific period. 
-  - The form will help you to apply for a membership card with a choice of membership period and type. 
-  - Membership card number, start and end date will be used to keep track of your membership. 
-  - Membership status can be active, inactive or expired which can be changed in the future. 
-  </thinking>
-
 # Fitness Membership Card Application Form - Help Guide
 
 ## Purpose

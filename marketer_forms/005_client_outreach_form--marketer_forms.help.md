@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us understand your needs and preferences for marketing services. It is intended for clients who are considering working with our agency and are looking for guidance and solutions to their marketing challenges. Please note that the form fields are a mix of required and optional questions, and some may require additional information. This form is not intended for internal or technical uses, but rather for external users. To prevent duplication, we recommend that users fill out this form only once.
-</thinking>
-
 # Client Outreach Form - Help Guide
 ## Purpose
 The Client Outreach Form is a questionnaire designed to gather essential information about your business needs and preferences. This information will help us understand your marketing goals, challenges, and interests, enabling us to provide personalized guidance and solutions tailored to your business needs.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to capture information for screen printing orders. The purpose of this form is to collect order details such as customer information, order specifics, shipping details, t-shirt information, and payment information. The form includes fields for various types of t-shirt information, such as color, design, size, and status. The form also includes fields for payment and review notes. All of these fields are optional, and some fields have select options, which are listed in the corresponding field-by-field explanations below.
-
-Please note that this form is intended to gather information for screen printing orders, and it is assumed that the user is already familiar with the basics of screen printing orders. If you have any specific questions or need further clarification, please don't hesitate to ask.
-
-</thinking>
-
 # Screen Printing Order Form - Help Guide
 ## Purpose
 The Screen Printing Order Form is used to collect and store information for screen printing orders.

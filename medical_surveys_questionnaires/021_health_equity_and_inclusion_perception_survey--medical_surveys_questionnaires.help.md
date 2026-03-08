@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Health Equity And Inclusion Perception Survey" form, let's start by understanding the purpose and requirements of the form. This form appears to be designed to collect feedback from patients on their experiences with healthcare services, specifically on various aspects of equity and inclusion such as clinic experience, provider interaction, staff diversity, facility environment, communication effectiveness, staff training, patient involvement, patient care, and provider culture. Each field is labeled with a specific name that reflects a specific concept or dimension of equity and inclusion. To complete the form, users will need to fill out the form by providing their thoughts and opinions on each of these aspects.
-
-</thinking>
-
 # Health Equity And Inclusion Perception Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register new members for the Wellness Community membership. It gathers information from the user regarding their identification, contact details, membership preferences, and payment preferences. The form should be completed with the user's accurate and up-to-date information. Please ensure the email and phone fields are accurate, and the user is aware of the membership end date.
-</thinking>
-
 # Wellness Community Membership Registration Form - Help Guide
 ## Purpose
 This form is designed to help us understand your needs and preferences for your membership with the Wellness Community. Please fill out the form with accurate and up-to-date information to ensure a smooth membership process.

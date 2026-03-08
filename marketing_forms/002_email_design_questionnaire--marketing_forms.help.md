@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about customers' preferences and details for email marketing purposes. The goal is to understand their design preferences, such as whether they prefer plain text, plain text and images, HTML, or HTML and images in their email content. Additionally, we want to collect customer name, email, phone number, company name, and any personal details they would like to share. This information will help us create more tailored and effective email content for our marketing campaigns.
-</thinking>
-
 # Email Design Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about customers' preferences and details for email marketing purposes.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to document the discharge of a patient from a mental health facility. The purpose of this form is to ensure that accurate and comprehensive information is recorded about the patient's discharge, including the facility name, patient name, date and time of discharge, medical record number, discharge status, discharge diagnosis, follow-up care instructions, next care setting, and next provider information.
-
-The form is designed to be completed by facility staff, typically after a patient has been discharged from the facility. The form helps to maintain a paper trail and ensures that all necessary information is conveyed to the patient and their family or caregivers.
-
-Please note that the form is not intended to be a comprehensive medical record, but rather a summary of the key details related to the patient's discharge.
-
-</thinking>
-
 # mental health facility discharge form - Help Guide
 ## Purpose
 The mental health facility discharge form is used to document the discharge of a patient from a mental health facility, ensuring accurate and comprehensive information is recorded about the patient's discharge.

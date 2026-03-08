@@ -1,10 +1,3 @@
-<thinking>
-We need to verify that you're not overwriting the existing membership information of other local food co-ops.
-Please fill out the following form to register your membership with Local Food Co Op.
-This form is intended for individuals or households interested in becoming a member of Local Food Co Op.
-Please ensure you are not already a member of Local Food Co Op before completing this form.
-</thinking>
-
 # Local Food Co Op Membership Signup - Help Guide
 ## Purpose
 This form is for individuals or households to join Local Food Co Op and become a member.

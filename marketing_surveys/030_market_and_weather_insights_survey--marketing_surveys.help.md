@@ -1,9 +1,3 @@
-<thinking>
-Internal note: This form is designed to collect feedback and data from end-users regarding market trends and weather impacts. 
-It's essential to note that this form is meant to be user-friendly, and the questions are crafted to gather valuable insights from end-users. Please ensure that you've reviewed the purpose of this form before proceeding. 
-Please ensure that the responses to each question are not repetitive. 
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect feedback and data from end-users regarding market trends and weather impacts.

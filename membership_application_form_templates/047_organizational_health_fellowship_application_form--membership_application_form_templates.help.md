@@ -1,28 +1,3 @@
-<thinking> 
-The form "Organizational Health Fellowship Application Form" is designed to collect information about an organization's health fellowship application. This form is intended to be completed by organizations applying for a health fellowship, and it is used to gather relevant details about the organization and its goals. 
-
-This form should not be used for other purposes. 
-
-Before starting this form, please ensure that you have all the necessary information required to complete it accurately and thoroughly. 
-
-Please fill out this form completely and honestly, and do not leave any fields blank. 
-
-The form is divided into two pages, each with its own set of questions. 
-
-Please refer to each page's title for guidance on which specific questions are being asked. 
-
-The form requires a combination of text, date, time, and email fields. 
-
-Ensure that you enter the correct format for each type of field. 
-
-If you are unsure about any of the fields, please ask for clarification before proceeding. 
-
-After filling out this form, review it carefully to ensure that all required fields are completed and that the information provided is accurate. 
-
-Please do not submit the form until you are satisfied that it is complete and accurate. 
-
-</thinking>
-
 # Organizational Health Fellowship Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from organizations applying for a health fellowship. It is used to gather relevant details about the organization and its goals.

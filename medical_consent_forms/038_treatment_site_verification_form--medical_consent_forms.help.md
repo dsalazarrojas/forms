@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to verify the treatment site for a patient, ensuring that the necessary information is accurately documented and meets the required standards. This form is used to collect data on the patient's name, ID, site name, date of service, provider name, patient condition, site location, and any additional comments. The form's data will help healthcare professionals ensure that the treatment site is correctly verified, which is crucial for maintaining accurate patient records and facilitating effective care. To avoid duplication, please ensure that the data is accurate and up-to-date. Ensure that you have all the necessary information before starting the form...</thinking>
-
 # treatment_site_verification_form - Help Guide
 ## Purpose
 The treatment site verification form is a crucial document used to confirm the details of a patient's treatment site. This form helps healthcare professionals ensure that the necessary information is accurately documented, which is essential for maintaining accurate patient records and facilitating effective care.

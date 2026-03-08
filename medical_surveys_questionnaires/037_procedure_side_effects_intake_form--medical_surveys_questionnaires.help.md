@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # procedure_side_effects_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information about side effects experienced during a medical procedure. It will help healthcare professionals to identify potential issues and provide better care for patients. If you've already completed this form or a similar form, you may not need to do so again.

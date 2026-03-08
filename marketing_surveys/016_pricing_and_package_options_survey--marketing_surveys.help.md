@@ -1,7 +1,3 @@
-<thinking>
-The Pricing and Package Options Survey form is designed to gather data about the user's preferences for pricing and package options for a particular product or service. The form should only be filled out by users who have previously taken other forms in the "marketing_surveys" category. This form is not intended for users who do not have previous form completion history in the category or who are taking the form for the first time, as this would be considered a duplication. 
-</thinking>
-
 # Pricing And Package Options Survey - Help Guide
 ## Purpose
 This form is used to collect information about your pricing and package options preferences. Please answer the questions honestly to help us provide you with the best possible experience.

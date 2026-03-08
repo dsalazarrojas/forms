@@ -1,18 +1,3 @@
-<thinking>
-The goal of this form is to provide a structured way for organizations to apply for a trust certification. This form will help the certifying body assess the applicant's level of trustworthiness.
-
-To ensure that each application is unique and not a duplicate, we are requiring the following information:
-- Organization name and contact email (Pages 1 & 2)
-- A brief summary of the trust practices and policies the organization has in place (Page 3)
-- List of supporting documents provided with the application (Page 4, if applicable)
-- Desired level of certification (Page 5)
-- Name and contact information of the primary person responsible for the application (Page 6)
-- Declaration of the accuracy of the provided information (Page 7)
-- Any additional comments or notes the certifying body may find useful (Page 8)
-
-The form is designed to be simple and easy to navigate, with clear labels and hints for each field. By providing this information, the certifying body can quickly and accurately assess each application and make informed decisions.
-</thinking>
-
 # Brand Trust Certification Application Form - Help Guide
 ## Purpose
 The Brand Trust Certification Application Form is used by organizations to apply for a trust certification. This certification is a way for organizations to demonstrate their commitment to trustworthiness and good business practices.

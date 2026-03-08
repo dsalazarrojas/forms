@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect data on the shopping behavior of users, specifically their frequency and preferences related to shopping, stores, and purchasing habits. This form is designed to help analyze the shopping behavior of users and identify patterns and trends related to shopping frequency, store preferences, and purchase habits.
-
-Before completing this form, ensure that you have a clear understanding of the questions and options provided. This form does not collect sensitive information, and responses will be kept anonymous to ensure user confidentiality.
-
-</thinking>
-
 # shopping_behavior_survey - Help Guide
 ## Purpose
 

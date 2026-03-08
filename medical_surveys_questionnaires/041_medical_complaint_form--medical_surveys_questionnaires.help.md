@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Medical Complaint Form" effectively. The form is designed to collect medical information from patients, which will be reviewed and processed by medical professionals. Please ensure you provide accurate and relevant information for a better understanding of your medical condition.
-</thinking>
-
 # Medical Complaint Form - Help Guide
 ## Purpose
 The Medical Complaint Form is a tool for patients to report their medical complaints or concerns to healthcare professionals. It is a crucial step in the medical process, as it helps healthcare providers understand the patient's symptoms, medical history, and current conditions. This form should only be completed by the patient or their authorized representative.

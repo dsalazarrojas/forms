@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about a specialist doctor, which will likely be used for internal purposes such as creating a database or sending notifications. This form may be part of a more extensive system used to manage doctor information and interactions with them. 
-
-The form will be filled out by a specialist doctor, who should enter their relevant details to ensure their information is accurate and up-to-date. 
-
-</thinking>
-
 # Specialist Doctor Information Form - Help Guide
 ## Purpose
 This form is designed to collect personal and professional information from specialist doctors, which will be used for internal purposes such as database management and notifications.

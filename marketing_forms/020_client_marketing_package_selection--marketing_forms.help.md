@@ -1,7 +1,3 @@
-<thinking>
-The form titled "Client Marketing Package Selection" seems to be aimed at collecting marketing package preferences from clients. This is a crucial step in the onboarding process for any new client. The form likely serves as a guide to help clients choose the best-suited marketing package for their needs. To ensure that clients complete the form correctly and make informed decisions, it's essential to provide clear and concise explanations of each field. I'll review the form's fields and provide a user-facing help guide that covers the form's purpose, how to complete it, and field-by-field explanations.
-</thinking>
-
 # Client Marketing Package Selection - Help Guide
 ## Purpose
 The Client Marketing Package Selection form is used to gather information about your marketing needs and preferences. This information will help us tailor the best-suited marketing package for your business. Please take a few minutes to complete this form accurately, and we'll be in touch soon.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "Team Meeting Application Form" used for team members to apply for a meeting with their team. The form is designed to gather basic information from team members to determine if a meeting is necessary and to schedule a convenient time.
-The team leader or meeting organizer will review the submissions to approve or reject the meeting request. This form should not be used for non-team related matters or to request meetings with non-team members. 
-If you need to discuss a non-team related topic, please do not fill out this form.
-</thinking>
-
 # Team Meeting Application Form - Help Guide
 
 ## Purpose

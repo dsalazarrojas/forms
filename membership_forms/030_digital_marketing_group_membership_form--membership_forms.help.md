@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from potential members of the Digital Marketing Group. It is meant to be a simple and straightforward form that allows new members to input their personal and professional details. It is crucial that this form is not duplicated or filled out by anyone who is not eligible to join the group. Please ensure that you are filling this form for the correct purpose and that the information you provide is accurate.
-</thinking>
-
 # Digital Marketing Group Membership Form - Help Guide
 ## Purpose
 The Digital Marketing Group Membership Form is designed to collect information from potential members who want to join the group. This form is a straightforward way to gather essential details about the member, such as their name, contact email, and membership type. By filling out this form, you will be able to join the Digital Marketing Group and become a part of our community.

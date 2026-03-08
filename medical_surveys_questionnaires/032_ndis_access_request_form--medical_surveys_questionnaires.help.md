@@ -1,12 +1,3 @@
-<thinking>
-This form is used for users to request access to NDIS (National Disability Insurance) services. It is an internal form and not intended for external use. Ensure that you have the necessary permissions and access rights before submitting this form. Please ensure that you do not submit duplicate requests for the same service.
-
-To avoid duplication, you can check the "Check for existing requests" feature in our system before filling out this form.
-
-This form is designed to collect user information and service information for NDIS access requests. Please fill out the form accurately and thoroughly.
-
-Please note that this form is subject to change, and some fields may be removed or modified without notice.</thinking>
-
 # NDIS Access Request Form - Help Guide
 ## Purpose
 The NDIS Access Request Form is used by eligible individuals to request access to National Disability Insurance services.

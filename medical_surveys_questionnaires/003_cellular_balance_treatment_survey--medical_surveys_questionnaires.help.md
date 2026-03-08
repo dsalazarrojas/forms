@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cellular Balance Treatment Survey - Help Guide
 
 ## Purpose

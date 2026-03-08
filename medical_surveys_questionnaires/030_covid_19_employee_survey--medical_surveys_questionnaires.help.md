@@ -1,13 +1,3 @@
-<thinking>As a neutral, AI-generated form, this "COVID 19 Employee Survey" is designed to gather information from employees about their experiences, concerns, and perceptions regarding the COVID-19 pandemic in the workplace. The purpose of this form is to help management and HR teams better understand the needs and well-being of employees during this challenging time.
-
-Before starting, please note that this form is created based on publicly available data and may not reflect specific policies or guidelines of your organization.
-
-To ensure the integrity and consistency of the survey responses, please make sure to fill out this form without sharing or copying any content from other similar forms.
-
-Also, this form is released under CC BY 4.0, allowing you to use, modify, and even sell derived forms - just give credit.
-
-Lastly, please contact form@gic.mx for any questions, concerns, or collaborations.</thinking>
-
 # COVID 19 Employee Survey - Help Guide
 ## Purpose
 The COVID 19 Employee Survey is designed to collect information about employees' experiences, concerns, and perceptions during the COVID-19 pandemic in the workplace. This survey aims to help management and HR teams understand the needs and well-being of employees during this challenging time.

@@ -1,18 +1,3 @@
-<thinking>
-
-This form is designed to help customers choose the most suitable writing services for their needs. The purpose of this form is to gather information about the customer's requirements, such as the deadline, budget, and specific needs, to provide an accurate match with the right writing service provider. 
-
-The form consists of 6 fields, each with a specific purpose:
-
-1. **writing_needs**: This field is used to describe the type of writing service needed.
-2. **deadline**: The field where you need to select the deadline for the writing service.
-3. **budget**: The field where you need to select your budget for the writing service.
-4. **provider_requirements**: This field allows you to choose multiple services you require from the writing service provider.
-5. **writing_services_needed**: This field is used to select one or more specific writing services needed.
-6. **additional_info**: This field is used to provide any additional information that may be helpful for the writing service provider.
-
-</thinking>
-
 # Guide To Choosing Writing Services - Help Guide
 ## Purpose
 This form is designed to help you find the best writing services for your needs. Please fill out the form accurately to get the most suitable results.

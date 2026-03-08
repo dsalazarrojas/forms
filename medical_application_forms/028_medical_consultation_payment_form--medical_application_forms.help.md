@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form seems to be designed for patients to provide payment information for a medical consultation. It includes fields for patient information, payment method, payment amount, billing provider details, and payment status.
-
-The form's structure suggests that it's meant to be used by patients to make payment for their medical consultations, which implies that the form is primarily used for billing and payment purposes.
-
-To ensure this form is used correctly, it's essential to confirm that each field is filled out accurately and consistently. For example, the "Payment Method" field should only have one of the three options selected, and the "Payment Amount" field should be a numerical value representing the amount paid.
-
-To prevent duplication of medical consultation payments, it's crucial to ensure that each submission of this form is unique and not repeated. This could be achieved by implementing a system that checks for duplicate payments or by using a unique identifier for each payment transaction.
-
-The following is a possible way to explain the purpose and usage of this form in a concrete and practical way:
-
-</thinking>
-
 # Medical Consultation Payment Form - Help Guide
 ## Purpose
 The Medical Consultation Payment Form is designed for patients to provide payment information for their medical consultations. It helps healthcare providers to track and manage payments efficiently.

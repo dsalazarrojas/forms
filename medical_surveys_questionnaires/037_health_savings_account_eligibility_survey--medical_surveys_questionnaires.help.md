@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's eligibility for a Health Savings Account (HSA). The purpose of this form is to determine if an individual meets the necessary criteria to open an HSA account. This form must be completed by an individual who is interested in opening an HSA account.
-
-The form is divided into several sections, each collecting information about a specific aspect of the individual's eligibility. The sections include General Information, HSA Eligibility, Age Group, HSA Type, Income Range, Coverage, Spouse Status, Family Status, HSA Contributions, HSA Benefits, Tax Filing Status, Income Verification, Medical Status, Employer Sponsored, Number of Dependents, HSA Investment, HSA Contribution, HSA Deduction, HSA Coverage, Notes, Signature, Date, Email, Phone, and Medical Group.
-
-Before starting the form, please review the required fields to ensure you have all necessary information. Some fields may be optional, but are still important for providing detailed and accurate information.
-
-Note: This form is designed for individual completion, and some sections may require collaboration between the individual and their spouse (if applicable).
-
-Please answer all questions thoroughly and honestly to ensure accurate eligibility determination.
-
-</thinking>
-
 # health_savings_account_eligibility_survey - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's eligibility for a Health Savings Account (HSA). The purpose of this form is to determine if an individual meets the necessary criteria to open an HSA account.

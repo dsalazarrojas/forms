@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # social_media_profile_sharing_consent_form - Help Guide
 ## Purpose
 This form is used to request a user's consent for sharing their social media profile information. It is an optional form and is used to collect user input on their social media profiles.

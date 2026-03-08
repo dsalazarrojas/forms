@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the "Domestic Violence Survivor Story Consent Form". The form is designed for individuals who have experienced domestic violence and are seeking support or services. The form will help gather relevant information from the survivor, which will be used to provide them with the necessary assistance and resources.
-
-Before proceeding, please note that this form is not intended to be a substitute for professional medical or legal advice. If you have experienced domestic violence, please seek help from a trusted authority figure or organization.
-
-To complete this form, please review the instructions below.
-
-</thinking>
-
 # Domestic Violence Survivor Story Consent Form - Help Guide
 ## Purpose
 This form is designed to help survivors of domestic violence share their story and receive support and resources.

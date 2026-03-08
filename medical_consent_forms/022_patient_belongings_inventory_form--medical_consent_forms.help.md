@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's belongings, which can include personal items, personal care items, or other items that are related to the patient's care. This form is not intended to be used for medical records, medical history, or medical billing purposes. Please ensure that the information gathered through this form is not duplicated or unnecessary, as it may lead to confusion or inaccuracies in patient care. Ensure that the form is used consistently and correctly to achieve the desired outcome. Note that the form can be filled out by anyone who has access to the necessary information, including nurses, doctors, and family members. It is recommended to have the patient or their authorized representative sign and date the form to confirm their consent.
-</thinking>
 # Patient Belongings Inventory Form - Help Guide
 ## Purpose
 The Patient Belongings Inventory Form is used to gather information about a patient's personal items, such as clothing, jewelry, or other items that are related to their care.

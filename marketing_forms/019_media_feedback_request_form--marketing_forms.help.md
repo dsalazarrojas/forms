@@ -1,12 +1,3 @@
-<thinking>
-The Media Feedback Request Form is a tool used to collect feedback from users about media content, such as videos, images, or documents. This form is designed to gather information about the user's experience and opinions about the media content, helping our team to refine and improve future content creation. 
-
-When using this form, please ensure you're providing feedback on the specific media content you're referring to, and not on other unrelated topics. 
-
-Please note that filling out this form is not required, and your participation is voluntary. However, your feedback is valuable to us, and we would appreciate it.
-
-</thinking>
-
 # Media Feedback Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users about media content.

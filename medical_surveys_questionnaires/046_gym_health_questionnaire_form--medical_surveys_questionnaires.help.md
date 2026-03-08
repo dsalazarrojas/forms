@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a person's health and medical history for the purposes of evaluating their suitability for a gym membership or participation in a fitness program. This form is intended to ensure that individuals have the necessary medical clearance and information to safely engage in physical activities. Please note that this form is not meant to be a comprehensive medical evaluation, but rather a brief questionnaire to gather relevant information. If you are unsure about any of the questions or have concerns about your health, please do not hesitate to contact the relevant medical professionals.
-</thinking>
-
 # Gym Health Questionnaire Form - Help Guide
 ## Purpose
 The Gym Health Questionnaire Form is designed to collect information about a person's health and medical history for the purposes of evaluating their suitability for a gym membership or participation in a fitness program.

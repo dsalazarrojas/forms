@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Analysis Template - Help Guide
 ## Purpose
 This form is designed to collect market analysis data for various market analysis templates.

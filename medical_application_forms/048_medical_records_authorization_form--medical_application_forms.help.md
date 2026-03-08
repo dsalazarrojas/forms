@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect necessary information for medical records authorization, ensuring that healthcare providers can access a patient's medical records when needed. This form is designed to gather basic details about the patient and the healthcare provider, along with the dates for authorization and duration of access.
-
-Before proceeding, ensure that you have the necessary permissions and approvals to complete this form. This form may be a duplicate of an existing one in your organization, so be aware that submitting multiple forms for the same purpose might result in duplicate effort and data entry.
-
-The following help guide will walk you through each field of the form to ensure you understand what information is required and how to complete it accurately.</thinking>
-
 # Medical Records Authorization Form - Help Guide
 
 ## Purpose

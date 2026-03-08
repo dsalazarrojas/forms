@@ -1,8 +1,3 @@
-<thinking>
-We are creating this form to gather feedback from users who are canceling their subscriptions. This is a crucial step to help us understand their reasons and identify areas for improvement. By collecting data, we can refine our services to better meet the needs and expectations of our users. Please ensure that you only fill out this form if you have genuinely canceled your subscription. If you're still an active subscriber, please do not complete this form. Please be honest and detailed in your responses, as the information you provide will help us make informed decisions.
-
-</thinking>
-
 # Subscription Cancellation Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who have canceled their subscription. Your input will help us identify areas for improvement and enhance our services.

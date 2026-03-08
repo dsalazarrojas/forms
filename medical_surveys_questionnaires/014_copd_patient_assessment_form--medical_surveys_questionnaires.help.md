@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COPD Patient Assessment Form - Help Guide
 
 ## Purpose

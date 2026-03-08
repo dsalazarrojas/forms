@@ -1,5 +1,3 @@
-<thinking>Before we dive into the detailed explanation of the 2025 FASXA Surgery Report Form, let's ensure that you're in the right context. This form is designed for reporting on surgical procedures performed on animals, specifically focusing on the key details and observations during and after the surgery. It's crucial to understand that this form is intended for medical professionals and researchers in the field of animal surgery. If you're not familiar with these topics, please ensure that you have a basic understanding of veterinary medicine and animal surgery before proceeding.</thinking>
-
 # 2025 FASXA Surgery Report Form - Help Guide
 ## Purpose
 The 2025 FASXA Surgery Report Form is designed to collect comprehensive information about a surgical procedure performed on an animal. This form helps medical professionals and researchers document key details of the surgery, including owner and patient information, surgical and anesthesia details, and postoperative status.

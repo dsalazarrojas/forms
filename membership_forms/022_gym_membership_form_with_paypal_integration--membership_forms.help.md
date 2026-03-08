@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to sign up for a gym membership. This form will guide users through the membership process, from providing their personal details to confirming payment information. The form is divided into several sections, each focusing on a specific aspect of the membership application. The purpose of this form is to ensure that users have a clear understanding of the membership plans and payment options available to them. This form will not be used for other purposes, such as membership renewal or cancellation. The fields in this form are designed to be straightforward and easy to understand. However, if a user has any questions or concerns, they can contact the gym's support team for assistance.
-</thinking>
-
 # Gym Membership Form With PayPal Integration - Help Guide
 ## Purpose
 The Gym Membership Form With PayPal Integration is designed to guide you through the process of signing up for a gym membership. This form collects the necessary information from you, including your details, payment information, and membership plan selection. Please follow the instructions below to complete the form correctly.

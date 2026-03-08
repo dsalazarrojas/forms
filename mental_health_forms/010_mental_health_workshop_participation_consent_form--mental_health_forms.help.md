@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants about their participation in a mental health workshop. The form is meant to be filled out by workshop participants to provide necessary details about their participation, such as their personal information, workshop details, and consent. It's essential to ensure that each field is filled out accurately to get a complete understanding of the participant's experience and needs. This form should not be filled out by non-participants or people without the necessary permission to do so. Please note that some fields may be optional, but filling them out is still crucial for providing a comprehensive understanding of the participant's needs and experience.
-</thinking>
-
 # mental_health_workshop_participation_consent_form - Help Guide
 ## Purpose
 The mental health workshop participation consent form is designed to capture essential information from workshop participants, ensuring a smooth and safe experience for everyone involved.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experiences with the hospital staff, clinics, and overall satisfaction. The purpose of this form is to gather data that can be used to improve patient satisfaction and identify areas for improvement in the hospital's services. This form will likely be completed by patients who have recently visited the hospital and are willing to share their opinions and ratings.
-Before creating this guide, let's check if there are any similar guides already in place to avoid duplication of effort.
-</thinking>
-
 # Hospital Satisfaction Survey - Help Guide
 ## Purpose
 This guide provides a step-by-step explanation on how to fill the Hospital Satisfaction Survey form, which is used to gather feedback from patients about their experiences with the hospital staff, clinics, and overall satisfaction.

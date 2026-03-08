@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose of the form and the fields it contains. The form is called "Marketing Mix (4Ps) Survey Questionnaire" and seems to be related to marketing strategies.
-
-To determine the form's purpose, let's assume that the 4Ps represent the four key aspects of the marketing mix: product, price, place, and promotion. This form might be used to gather information about these aspects of marketing strategies.
-
-For the fields, let's break down each field:
-
-*   The first four fields (product, price, place, and promotion) seem to be basic text inputs, possibly for respondents to describe their product, pricing strategy, distribution channels, and promotional activities.
-*   The next four fields (customer perception, marketing mix, product breakdown, price breakdown, place breakdown, and promotion breakdown) appear to be text inputs for more detailed descriptions or breakdowns of these marketing aspects.
-*   The last three fields (4Ps, 4Ps Score, and marketing mix 4p score) seem to be related to selecting an option or providing a score for the marketing mix.
-</thinking>
-
 # Marketing Mix (4Ps) Survey Questionnaire - Help Guide
 ## Purpose
 The Marketing Mix (4Ps) Survey Questionnaire is a form designed to gather information about the key aspects of marketing strategies: product, price, place, and promotion.

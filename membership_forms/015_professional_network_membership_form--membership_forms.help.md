@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for users to create a professional network membership profile, providing a comprehensive overview of the individual or company. The purpose of this form is to collect information that will be displayed on the platform to facilitate networking and collaborations between members. The form is designed to collect a variety of fields, including contact information, background, skills, and interests, to create a thorough and accurate representation of the member.
-
-To ensure accuracy and consistency, please fill out the form carefully and thoroughly.
-
-Before completing the form, please note the following:
-- Make sure to only fill out required fields.
-- Use the correct formatting for date, time, and email fields.
-- If you're unsure about any field, please ask for clarification.
-</thinking>
-
 # Professional Network Membership Form - Help Guide
 ## Purpose
 The purpose of this form is to create a comprehensive membership profile for individuals and companies in the professional network.

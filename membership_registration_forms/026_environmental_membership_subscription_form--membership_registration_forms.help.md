@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or groups seeking membership in an environmental organization. The purpose of this form is to capture essential details about the applicant, including their organization details, contact information, subscription preferences, and payment details. This form will be used by the organization's administration team to process membership applications and ensure accurate data for internal records. 
-Please ensure that the provided information is accurate and up-to-date to avoid delays in processing your membership application. You may need to revisit this guide if you are unsure about any specific field.
-</thinking>
-
 # Environmental Membership Subscription Form - Help Guide
 ## Purpose
 The environmental membership subscription form is designed to collect essential information from individuals or groups applying for membership in an environmental organization. The gathered data will be used for processing membership applications and maintaining accurate internal records.

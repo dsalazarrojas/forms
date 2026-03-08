@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting feedback from patients or medical staff regarding the hypertension communication practices of a healthcare provider. It is essential to ensure that the information is accurate and up-to-date. Please ensure this form is completed by those who have actually received hypertension communication from the provider.
-</thinking>
-
 # Hypertension Communication Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on how healthcare providers communicate about hypertension to their patients. Completing this form will help us understand how effectively you receive information about your condition.

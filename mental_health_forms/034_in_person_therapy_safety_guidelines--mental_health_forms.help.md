@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the client's symptoms, exposure, and safety plan to ensure their safety and well-being during in-person therapy sessions. This form is intended to be used by mental health professionals to assess the client's current state and identify potential risks. The form is typically completed by the client before the start of each in-person therapy session and is a mandatory requirement for session participation.
-
-To complete this form, follow these steps:
-
-1. Review the form carefully and answer all questions honestly.
-2. Select the correct options for each field, considering the current state of your mental health and well-being.
-3. Enter any necessary information in the text fields.
-
-This form is designed to be completed by the client, and the answers will be used by the mental health professional to assess the client's safety and provide personalized care.</thinking>
-
 # In Person Therapy Safety Guidelines - Help Guide
 ## Purpose
 The In Person Therapy Safety Guidelines form is used to collect information about the client's symptoms, exposure, and safety plan to ensure their safety and well-being during in-person therapy sessions.

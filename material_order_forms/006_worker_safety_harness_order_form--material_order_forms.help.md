@@ -1,5 +1,3 @@
-<thinking>This form was generated using AI to create an original order form for worker safety harnesses. It's essential to understand that this form is designed to collect information for a specific industry or use case, and some of its fields might not be directly applicable to your situation. Please review the form carefully before using it.</thinking>
-
 # Worker Safety Harness Order Form - Help Guide
 ## Purpose
 This form is designed to gather information for the worker safety harnesses, which is a crucial item for ensuring worker safety in various industries. The form's purpose is to collect details about the harnesses ordered, including the type, quantity, and other relevant specifications.

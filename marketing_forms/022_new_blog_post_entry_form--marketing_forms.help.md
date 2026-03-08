@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to ensure that users understand the purpose and requirements of the New Blog Post Entry Form. The form is designed to collect information about new blog posts, and it's essential to fill it out accurately to create a valid entry. The form's fields should only be filled out once per new blog post. This guide will help users understand what each field is intended for and how to complete it correctly.
-</thinking>
-
 # New Blog Post Entry Form - Help Guide
 ## Purpose
 The New Blog Post Entry Form is used to create new blog posts. It captures essential information about the post, including its title, description, tags, author, status, date, time, and image.

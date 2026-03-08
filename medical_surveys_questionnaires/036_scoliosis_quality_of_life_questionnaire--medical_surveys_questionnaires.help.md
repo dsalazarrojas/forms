@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the quality of life of individuals affected by scoliosis, a condition characterized by an abnormal curvature of the spine that can cause pain and discomfort. This form is intended to be completed by individuals who have been diagnosed with scoliosis and are seeking to assess their functional ability and report on their symptoms. The form is not affiliated with or endorsed by any medical platform and is not a substitute for professional medical advice.
-
-Please note that this form is an original adaptation of a publicly available form metadata and does not contain any proprietary content from other forms or platforms. It is released under CC BY 4.0.
-
-Before proceeding, ensure that the form is relevant and applicable to your specific situation.
-</thinking>
-
 # scoliosis_quality_of_life_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about the quality of life of individuals with scoliosis, a condition that can cause pain and discomfort. It will help you assess your functional ability and report on your symptoms.

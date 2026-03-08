@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Book Launch Crew Registration - Help Guide
 ## Purpose
 The Book Launch Crew Registration form is a tool for authors and publishers to collaborate with book enthusiasts, like book bloggers and reviewers, to promote books and increase their online presence. By filling out this form, you'll be able to express your interest in joining the Book Launch Crew and participating in the book launch process.

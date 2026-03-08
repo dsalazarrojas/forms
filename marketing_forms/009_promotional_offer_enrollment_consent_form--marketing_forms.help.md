@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect consent from users for promotional offers. The form is designed to be a simple, one-page enrollment form that captures basic contact information and promotional preferences. There is no affiliation with any specific form platforms, and the form is created using AI and open-source metadata. It's meant to be a template that can be used as a starting point and modified for specific business needs.
-</thinking>
-
 # promotional_offer_enrollment_consent_form - Help Guide
 ## Purpose
 This form is designed to collect consent from users for promotional offers. It is a one-page form that captures basic contact information and promotional preferences.

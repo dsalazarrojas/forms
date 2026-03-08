@@ -1,18 +1,3 @@
-<thinking>
-This form is used to collect information from users who are interested in participating in a subscription giveaway. The form is designed to gather contact and subscription details from potential participants. It's essential to ensure that each entry is unique and meets the required criteria to be eligible for the giveaway. Please note that this form is intended for users who have expressed interest in participating in the giveaway, and their entries should not be submitted by individuals who are not interested in participating or have already submitted an entry.
-
-When filling out this form, users will be prompted to provide details such as name, email address, phone number, subscription plan, social media channel, entry date and time, and a note about their entry. Each field is designed to gather specific information that will help us verify the authenticity of each entry and ensure that the giveaway remains fair for all participants.
-
-To ensure the integrity of the giveaway process, please note the following:
-
-* Only one entry per user is allowed.
-* Each entry must meet the required criteria (e.g., correct format for date and time fields).
-* Entries that do not meet the requirements will be discarded.
-
-Please review the field explanations below to understand the purpose and requirements for each field.
-
-</thinking>
-
 # Subscription Giveaway Entry - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in participating in a subscription giveaway. The purpose of this form is to gather contact and subscription details from potential participants, ensuring their entry meets the required criteria to be eligible for the giveaway.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users gauge their price sensitivity, which is crucial for effective marketing and sales strategies. The form is used to collect demographic information and price sensitivity data from customers to inform product pricing and marketing decisions. This form should not be duplicated, as each user should only fill out the form once. 
-</thinking>
-
 # price_sensitivity_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers about their demographic background and price sensitivity. The data collected will help businesses inform product pricing and marketing strategies to better meet customer needs.

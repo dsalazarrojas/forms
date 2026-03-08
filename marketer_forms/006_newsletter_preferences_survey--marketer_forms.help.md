@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for marketers to gather preferences from potential customers regarding newsletters, likely to tailor their content or services to the customers' interests. The form has 3 pages, and users will be asked to input information on each page. Each field has a specific purpose, and the form is intended to collect data to improve the newsletter's relevance and effectiveness. Before proceeding, ensure that you have not filled out this form before, as it may lead to duplicate responses.
-</thinking>
-
 # Newsletter Preferences Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect information about your preferences regarding newsletters. It aims to gather your interests and expectations to help us better tailor our content and services to your needs.

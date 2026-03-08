@@ -1,9 +1,3 @@
-<thinking>... internal reasoning and checks for relevance and non-duplication ...
-
-The Marketing Agency Communication Form is designed to collect valuable information from marketing teams, agencies, and other stakeholders to facilitate effective communication and feedback within the organization. This form is intended to help teams provide and receive updates, comments, and feedback on upcoming requests, projects, and tasks. It is a versatile and user-friendly tool that allows stakeholders to share their thoughts and opinions in a clear and concise manner.
-
-</thinking>
-
 # Marketing Agency Communication Form - Help Guide
 ## Purpose
 This form is used to collect information on upcoming requests, comments, and feedback within a marketing agency setting. It serves as a platform for stakeholders to share and receive updates on ongoing and upcoming projects, tasks, and initiatives.

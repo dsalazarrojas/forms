@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users to understand the purpose and requirements of the Alumni Registration Form. It is essential to review this form carefully before proceeding. Please ensure you meet the minimum requirements for membership, which are: Basic Membership, Premium Membership, Lifetime Membership, Student Alumni Membership, or one of the specified degree levels. Note that the required fields are marked as required/true and are essential for processing your registration.
-</thinking>
-
 # Alumni Registration Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is for gathering feedback from participants in the gym's social media campaign. It should only be used for those who have engaged with our social media post and are willing to provide feedback. Please use the provided form YAML to create a user-friendly and concise help guide that explains the purpose and usage of this form.
-
-The form is designed to collect data about the participant's impression of our social media campaign, their engagement level, and their feelings towards the ad and post. It's essential to ensure that the guide is easy to understand and follow, with clear explanations for each field.
-</thinking>
-
 # Gym Social Media Campaign Feedback Survey - Help Guide
 ## Purpose
 This form is for participants who have engaged with our latest social media campaign. We want to hear about your experience and gather feedback to improve our future campaigns.

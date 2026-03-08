@@ -1,13 +1,3 @@
-<thinking>
-
-The Equestrian Club Membership Form Template is a tool used to collect information from potential new members interested in joining the club. This form helps the club's administration to gather essential details about the applicant's personal and riding experiences, ensuring they meet the required standards to become a club member. 
-
-The main goal of this form is to provide a structured way to collect data that will be reviewed by the membership committee for the approval process. This process will prevent duplicate memberships and ensure that the club's member list is up-to-date.
-
-Please note that some fields are not strictly required, but filling them in will help the applicant get a better standing in the evaluation process.
-
-</thinking>
-
 # Equestrian Club Membership Form Template - Help Guide
 ## Purpose
 The Equestrian Club Membership Form Template is used to collect essential information from potential new members for the approval process of joining the club.

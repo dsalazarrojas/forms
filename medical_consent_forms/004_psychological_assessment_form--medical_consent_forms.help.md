@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll provide a clear and concise help guide for the Psychological Assessment Form. This guide will cover the form's purpose, how to complete it, and an in-depth explanation of each field. The form is intended for gathering general information, contact details, medical history, and other relevant information from clients or patients. It's essential to complete this form accurately and thoroughly to ensure the best possible outcome for the client. Please note that some fields are not required, but it's crucial to fill them out if you have the necessary information.</thinking>
-
 # Psychological Assessment Form - Help Guide
 ## Purpose
 The Psychological Assessment Form is designed to collect essential information from clients or patients to provide a comprehensive picture of their mental health and medical history. This information will help professionals in the field make informed decisions about their care and treatment.

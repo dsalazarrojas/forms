@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from individuals seeking to join a noble organization. The form is used to gather data on a prospective member's identity, relationship to the noble society, and application status. This form should only be filled out by those who have a genuine interest in joining the noble society, and not by individuals attempting to solicit or spam the organization.
 
 This form is designed to be completed by one person per submission, and not for mass submissions. 

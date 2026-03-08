@@ -1,12 +1,4 @@
-## <thinking>
-
-The Sales Cycle Awareness Survey is intended to gauge the sales team's understanding of the sales cycle, identify potential challenges, and gather feedback on the sales process. This form should be completed by sales team members to ensure that everyone is on the same page regarding the sales cycle's various stages and tasks. The survey is not a comprehensive assessment, but rather a tool to facilitate self-reflection and awareness.
-
-Before starting, please ensure that you haven't completed this survey previously. If you've already filled out this form, your answers will be reflected in this survey.
-
-</thinking>
-
-# Sales Cycle Awareness Survey - Help Guide
+## # Sales Cycle Awareness Survey - Help Guide
 ## Purpose
 This form is designed to help the sales team understand and navigate the sales cycle effectively. It's a tool for self-reflection and awareness, and its completion is required for sales team members to ensure they have a clear understanding of the sales cycle's stages and tasks.
 

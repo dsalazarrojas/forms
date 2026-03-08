@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # promotion_partnership_application_form - Help Guide
 
 ## Purpose

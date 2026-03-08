@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information on a website's readiness and optimization status for voice search. It is likely used by web developers, digital marketing teams, or search engine optimization (SEO) professionals to assess a site's performance in voice search engines such as Google and Amazon Alexa.
-To avoid duplication, we can assume that this form is designed to be used by individuals within the same company or organization, and the form's purpose may be to identify areas of improvement and provide recommendations for voice search optimization.
-</thinking>
-
 # Voice Search Optimization Audit Form - Help Guide
 ## Purpose
 This form is designed to gather information about a website's readiness and optimization status for voice search engines.

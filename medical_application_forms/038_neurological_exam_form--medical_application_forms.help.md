@@ -1,9 +1,3 @@
-<thinking> 
-
-The Neurological Exam Form is a comprehensive tool used to assess a patient's neurological status. It is designed to gather information about various aspects of a patient's neurological system, including examination findings, cranial calcification, cranial meninges, and other related parameters. Before filling out this form, ensure that you have reviewed the patient's medical history and have conducted a thorough physical examination. If you have any questions or concerns, please refer to the relevant medical literature or consult with a medical professional.
-
-</thinking>
-
 # Neurological Exam Form - Help Guide
 ## Purpose
 The Neurological Exam Form is a tool used to assess a patient's neurological status. It is designed to gather information about various aspects of a patient's neurological system, including examination findings, cranial calcification, cranial meninges, and other related parameters.

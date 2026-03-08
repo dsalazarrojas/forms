@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for individuals to register as library members. It's an internal form used by library staff to collect information about new members. The form will help staff understand the member's identity, contact information, and membership details.
-The fields provided are intended to cover the most basic information about the individual: name, contact, and location. The membership category and agreement to terms of service are also included to ensure we have a clear understanding of the member's status and commitment.
-Please make sure to complete all required fields for accurate registration. Some fields are optional but may be necessary for further communication or processing.
-</thinking>
-
 # Library Membership Registration Form - Help Guide
 ## Purpose
 The Library Membership Registration Form is designed for individuals to register as library members. This form is used by library staff to collect information about new members.

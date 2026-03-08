@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Member Interest Survey - Help Guide
 ## Purpose
 This form is used to collect information about your interests and preferences as a member of our community. The data collected will help us better understand your needs and tailor our services to suit your requirements.

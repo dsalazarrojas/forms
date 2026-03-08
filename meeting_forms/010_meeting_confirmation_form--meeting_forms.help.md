@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed for capturing data related to meetings, likely for tracking or administrative purposes. The form is structured in a way that allows users to input participant information, meeting details, and other relevant data. The presence of "Participant Type" and "Participant Status" fields suggests that the form may be used to categorize or filter participants in different ways. The required fields, such as "Participant", "First Name", "Last Name", and "Participant Type", imply that the form aims to collect essential information about the participant. The optional fields, like "Notes", suggest that the form may also be used for capturing additional comments or observations. Overall, the form seems to be a general-purpose tool for meeting management, and its purpose may vary depending on the specific context in which it is used.
-
-To confirm, please let me know if you'd like me to add any specific fields or information to the form.
-
-</thinking>
-
 # Meeting Confirmation Form - Help Guide
 ## Purpose
 This form is designed to collect information about participants and meeting details for meeting management and administration.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Medical Insurance Application form, used to gather information from individuals seeking medical insurance. This form is likely to be used by healthcare providers, insurance companies, or other organizations offering medical services. Ensure that the form is completed by the correct individual, as it may contain sensitive information. To the best of my knowledge, there is no duplication of this form, and it should only be used for legitimate medical insurance purposes.
 
 # Medical Insurance Application - Help Guide

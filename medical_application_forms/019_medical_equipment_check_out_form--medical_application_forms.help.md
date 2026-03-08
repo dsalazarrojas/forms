@@ -1,7 +1,3 @@
-<thinking>
-The Medical Equipment Check Out Form is used by medical staff to request a loan of medical equipment for a specified period. This form helps ensure that the equipment is checked out correctly, and its status is updated accurately. Before filling out this form, please ensure that you have reviewed the relevant policies and procedures related to equipment loans in your organization.
-</thinking>
-
 # Medical Equipment Check Out Form - Help Guide
 
 ## Purpose

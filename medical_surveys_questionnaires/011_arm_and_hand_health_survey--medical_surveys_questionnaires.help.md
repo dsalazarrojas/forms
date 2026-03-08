@@ -3,10 +3,6 @@
 ## Purpose
 The Arm and Hand Health Survey is a tool used to assess the health and functional abilities of patients with arm or hand-related conditions. This survey helps gather information about patient demographics, symptoms, and medical history to understand their condition better.
 
-<thinking>
-This form is not a substitute for a medical professional's evaluation, but rather a tool to aid healthcare professionals in assessing patient health. Please ensure that the information provided is accurate and up-to-date before proceeding.
-</thinking>
-
 ## How To Complete This Form
 
 1. Start by filling out the patient information section, providing your full name and date of birth.

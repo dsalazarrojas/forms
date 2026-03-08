@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is used to obtain consent from participants for medical research collaboration. It is crucial to ensure that participants understand the purpose and scope of the research and agree to participate voluntarily. The purpose of this form is to collect participant information, medical history, allergies, emergency contact details, and research collaboration information. Please note that this form is a critical part of the research process and must be filled out accurately and completely. Before filling out this form, please review the purpose and scope of the research carefully to ensure you are eligible to participate. If you have any doubts or concerns, please ask your research collaborator or contact the research institution for guidance. 
-
-</thinking>
-
 # health_research_collaboration_case_consent_form - Help Guide
 ## Purpose
 The Health Research Collaboration Case Consent Form is used to obtain consent from participants in a medical research collaboration. It is a critical document that outlines the terms and conditions of participation, including the study's purpose, scope, and potential risks and benefits.

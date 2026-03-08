@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for business users to submit their Black Friday deals for potential featured listing on our platform. Before filling out this form, please ensure you are submitting a new deal that is not already listed on our platform. Duplicate submissions will not be processed. The form is divided into two pages, but only the first page is visible for submission. The first page includes fields for basic business information (company name, contact person, email, phone number, and website URL), while the second page includes deal-specific details (product category, deal title, description, discount type, discount value, original price, sale price, deal start and end dates, deal start and end times, available stock quantity, product image URL, terms and conditions, and interested in featured listing).
-</thinking>
-
 # Black Friday Deal Submission Form - Help Guide
 ## Purpose
 The Black Friday Deal Submission Form is designed for business users to submit their Black Friday deals for potential featured listing on our platform.

@@ -3,8 +3,6 @@
 ## Purpose
 The Mobile Therapy Acceptance Survey is designed to gather information about your opinions and experiences with mobile therapy apps. Your input will help us understand how people interact with these apps and inform the development of better services. Please answer the questions honestly, and if you have any questions or concerns, don't hesitate to contact us at form@gic.mx.
 
-<thinking>Internal note: The purpose of this form is to collect data for research on mobile therapy acceptance, likely to inform the development of more effective mobile therapy platforms. This form does not collect sensitive medical information or sensitive personal data, so we don't need to include disclaimers or warnings about that. It's a survey, and the goal is to gather opinions and usage patterns. The "Mobile Therapy Acceptance Survey" title is a direct translation of the input schema's "Mobile Therapy Acceptance Survey" title, which likely comes from the "Mobile Therapy" category and "Acceptance" keyword from the "industry/category" field. The survey's focus on mobile apps suggests it might be targeting users who access mental health resources through digital channels, which is a growing trend in the industry. We should be mindful of this when writing the help guide to ensure it's clear and concise for the intended audience.</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 

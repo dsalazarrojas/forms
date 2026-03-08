@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain telemedicine consent from patients, which is an essential part of providing remote medical services. Telemedicine involves the use of electronic communication technologies, such as video conferencing or phone calls, to provide medical care from a distance. This form helps patients acknowledge and agree to the terms of their telemedicine care, including the use of technology, sharing of medical information, and the responsibilities of both the patient and the healthcare provider. 
-
-This form should only be used for telemedicine consultations, not for in-person medical care. Ensure that you are using the correct form for your specific use case. Please review the fields below to understand how to complete the form correctly.
-
-</thinking>
-
 # Sample Telemedicine Consent Form - Help Guide
 ## Purpose
 The Sample Telemedicine Consent Form is designed to obtain informed consent from patients before starting telemedicine consultations. This form ensures that patients understand and agree to the terms of their care, which includes the use of technology, sharing of medical information, and the responsibilities of both the patient and the healthcare provider.

@@ -1,11 +1,3 @@
-<thinking>
-
-To design a help guide for the Cardiologists Event Log Survey form, let's consider the form's purpose and how users will interact with it. This form is intended to collect feedback and suggestions from cardiologists regarding events they have attended. The main objectives of this form are to evaluate the quality of session content, the relevancy of the event to their clinical practice, and to gather suggestions for future events. This form is likely to be completed by cardiologists who have attended a session, and the feedback will be used to improve future events.
-
-To avoid duplication, users should not fill out this form if they have already completed a similar survey.
-
-</thinking>
-
 # Cardiologists Event Log Survey - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking> 
-This form is designed to gather essential information for medical consent purposes. It is typically used in healthcare settings where medical professionals need to ensure patients understand the risks and benefits associated with a treatment or procedure. The purpose of this form is to collect the patient's name, date of birth, description of the treatment, and other relevant details that enable healthcare providers to obtain informed consent. This form is crucial in ensuring that patients make informed decisions about their care.
-
-To determine the relevance and non-duplication of this form, please note that this form should only be completed when there is a need for a patient to provide informed consent for a specific treatment or procedure. The form should not be completed for patients who are unable to provide informed consent or when the treatment is not significant enough to require such consent.
-
-</thinking>
 # Adult Medical Consent Form - Help Guide
 ## Purpose
 This form is used to collect informed consent from adult patients for medical treatments or procedures. It gathers essential information to ensure patients understand the risks and benefits associated with a particular treatment or procedure.

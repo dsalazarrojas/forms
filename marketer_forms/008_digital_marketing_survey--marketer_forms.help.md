@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the user's preferences and behavior related to digital marketing, including their preferred communication channels, frequency of engagement, and topics of interest. This information will be used to improve the user experience and tailor marketing efforts to their needs.
-
-Before proceeding, please note that this form is designed to be filled out once for each user, and it's recommended to review each field carefully to ensure accurate completion. If you're unsure about any of the fields, feel free to ask for clarification.
-
-This form will ask for both personal and marketing-related information, but please be assured that all data collected will be treated confidentially and in accordance with our company's data protection policies. Please also note that some fields are marked as "required" for specific sections, while others are optional.
-
-Now, let's get started! Here's how to complete this form:
-
-</thinking>
-
 # Digital Marketing Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your preferences and behavior related to digital marketing, which will help us improve your experience and tailor our marketing efforts to your needs.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for collecting information from patients about their experiences with laser treatments. It is likely used in a medical setting to gather data on the side effects and reactions people have after undergoing laser treatment. This form is probably part of a larger process to monitor patient outcomes and improve treatment effectiveness. The purpose of this form is not specified in the provided YAML, so let's assume it's for general data collection and analysis. Please note that this form does not appear to be affiliated with or derived from any specific form platform, so there might be some minor adjustments needed to fit the actual use case. 
-
-The form collects information in 9 fields: patient information, contact details, treatment information, symptoms, medications, side effects, follow-up, additional comments, email confirmation, phone confirmation, and submission confirmation.
-</thinking>
-
 # Laser Treatment Side Effects Survey - Help Guide
 ## Purpose
 

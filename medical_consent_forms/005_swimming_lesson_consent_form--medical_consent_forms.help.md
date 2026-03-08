@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information from a parent or guardian for a child to participate in swimming lessons. This includes the child's personal details, medical history, emergency contact information, and other relevant details for the swim lesson program. Before completing this form, please ensure that you have not already submitted this information, and that it is accurate and up-to-date.
 
 Please note that all fields marked as "required" are necessary for the swim lesson program to proceed.

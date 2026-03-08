@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the Factory Air Filter Cartridge Order Form. The purpose of this form is to gather essential information for a factory air filter cartridge order. This form is designed to be filled out by customers or their representatives who wish to place an order for air filter cartridges.
-
-This form has been designed to be comprehensive, yet not overly complex, with fields that cater to different aspects of the order process. To ensure accurate and complete information, please review each field carefully before proceeding.
-
-Before filling out the form, please confirm that all required fields have been identified as necessary by the sales team or are marked as "required" in the form.
-
-</thinking>
-
 # Factory Air Filter Cartridge Order Form - Help Guide
 ## Purpose
 The Factory Air Filter Cartridge Order Form is designed to collect information from customers or their representatives for a factory air filter cartridge order. This form includes fields for personal details, order specifics, payment method, and order status.

@@ -1,9 +1,3 @@
-<thinking>
-This form is a "Fitness Membership Payment Form" for users to join a fitness program.
-The form collects information from users about their membership enrollment, including their name, contact details, payment method, and payment information. This form is likely to be used by a fitness club or gym to track member payments and manage their memberships.
-It appears there is no duplication of this form in the provided context, so we will proceed with creating the help guide.
-</thinking>
-
 # Fitness Membership Payment Form - Help Guide
 ## Purpose
 

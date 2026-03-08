@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential members of the Gentle Men's League Gml, a community or organization that values certain qualities. This form likely aims to register new members, gathering personal details such as names, contact information, and other relevant data. To ensure accurate completion, please check that you're not duplicating an existing member's record and that you have the necessary permissions to register new members.
-</thinking>
-
 # Gentle Men's League Gml - Help Guide
 ## Purpose
 The Gentle Men's League Gml registration form is a tool for gathering information from potential members of the organization. This form allows you to collect personal details, contact information, and other relevant data to create or update a member's record.

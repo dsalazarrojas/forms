@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about Temporomandibular Joint (TMJ) awareness, symptoms, and experiences. It is not affiliated with, endorsed by, or derived from any form platform. The form is meant to be used for educational or informational purposes only.
-
-</thinking>
-
 # TMJ Awareness Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess your level of awareness about Temporomandibular Joint (TMJ) related issues, including symptoms and experiences.

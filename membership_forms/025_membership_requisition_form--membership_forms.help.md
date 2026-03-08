@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for membership requisitions, which involve requesting membership to a certain group or organization. To ensure accuracy and completeness, it's essential to review the form carefully before submission. Please note that some fields are optional, so only include information if it's relevant. This guide will help you understand each field's purpose.
-</thinking>
-
 # Membership Requisition Form - Help Guide
 ## Purpose
 The Membership Requisition Form is designed to collect information for membership requests. It's essential to fill out this form accurately and completely to ensure your membership request is processed correctly.

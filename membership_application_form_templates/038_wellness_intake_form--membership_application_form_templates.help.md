@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's well-being and health status. It appears to be a comprehensive form covering various aspects of a person's life, including contact information, personal details, medical history, and health-related habits such as exercise, nutrition, and stress levels. It may be used for health professionals, fitness coaches, or wellness experts to assess an individual's well-being and provide guidance or support.
-The form does not seem to duplicate any existing forms, and its purpose appears to be unique.
-The form's fields are mostly text-based, suggesting that it is meant to collect free-formatted responses rather than selecting from predefined options.
-The form's layout is not overly complex, with two pages and multiple fields per page.
-The form does not seem to have any conditional logic or dependencies between fields.
-</thinking>
-
 # Wellness Intake Form - Help Guide
 ## Purpose
 The Wellness Intake Form is designed to gather comprehensive information about an individual's well-being and health status. This form is meant to be used by health professionals, fitness coaches, or wellness experts to assess an individual's overall health and provide guidance or support.

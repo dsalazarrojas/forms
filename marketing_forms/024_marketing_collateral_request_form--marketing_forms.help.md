@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used by marketing teams within an organization to request various marketing materials, such as brochures, videos, or social media campaigns, for different marketing goals, channels, and frequencies. It's designed to gather information from the requestor, such as company name, contact information, and specific marketing requirements. The form might be used to ensure that marketing materials are created and distributed according to the organization's guidelines and standards. However, I'll need to analyze the form fields to confirm the purpose and ensure that the form is not used for duplicate requests or purposes other than its intended use. I'll also double-check that the form fields are clear and relevant.</thinking>
-
 # Marketing Collateral Request Form - Help Guide
 ## Purpose
 This form is used to request marketing collateral for various purposes. It collects information about the requester, their marketing goals, and requirements for the marketing materials.

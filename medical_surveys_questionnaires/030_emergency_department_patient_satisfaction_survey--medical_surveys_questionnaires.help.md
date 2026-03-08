@@ -1,14 +1,3 @@
-<thinking>
-The emergency department patient satisfaction survey is designed to gather feedback from patients and their families about their experiences in the emergency department of a hospital. The goal is to collect data on various aspects of care, such as staff attitude, quality of care, wait time, pain management, cleanliness, communication, and overall experience. This feedback will help the hospital administration to identify areas of improvement and make necessary changes to provide better patient care.
-
-This guide is intended for patients and their families who have visited the emergency department and are willing to provide feedback on their experience. It's crucial that the information provided is accurate and honest to ensure the hospital can make data-driven decisions to improve care.
-
-Please note that completing this survey is voluntary, and your responses will remain anonymous. However, the information collected will be kept confidential and will only be used to improve patient experience and care.
-
-Before proceeding, please make sure to review the information carefully and respond based on your genuine experience.
-
-</thinking>
-
 # Emergency Department Patient Satisfaction Survey - Help Guide
 ## Purpose
 The emergency department patient satisfaction survey is designed to collect feedback from patients and their families about their experiences in the emergency department. The information gathered will help the hospital administration identify areas of improvement and make necessary changes to provide better patient care.

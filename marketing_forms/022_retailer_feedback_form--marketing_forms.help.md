@@ -1,13 +1,3 @@
-<thinking>...thinking>
-
-The purpose of the Retailer Feedback Form is to allow customers to submit feedback about their experience with our retail partners. This form will help us understand how our retail partners are performing, identify areas for improvement, and provide valuable insights to enhance our customer's experience.
-
-This form is intended to be used by customers to provide feedback on a specific retail partner, and it will help us gauge the quality of service provided by the retailer. It's essential that we receive accurate and honest feedback to make data-driven decisions that benefit both our customers and retail partners.
-
-To ensure that we receive relevant feedback, we recommend that customers fill out this form once for each retail partner they are providing feedback on.
-
-</thinking>
-
 # Retailer Feedback Form - Help Guide
 ## Purpose
 The Retailer Feedback Form is designed to collect feedback from customers about their experience with our retail partners.

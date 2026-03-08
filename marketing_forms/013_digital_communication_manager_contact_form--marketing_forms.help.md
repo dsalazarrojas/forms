@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect contact information and details from customers or prospects who are interested in our digital communication services. The form will help us understand their preferences and provide a better experience for them. It's essential to fill in all the required fields accurately, as they will be used to tailor our communication approach accordingly. 
-
-Please note that the "How did you find us" and "How did you hear about us" fields are optional, so you can skip them if you're not sure about the answer.
-
-The form is intended to be simple and quick to fill out, so take a few minutes to review the fields below and fill them in as accurately as possible.
-
-</thinking>
-
 # Digital Communication Manager Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and details from customers or prospects interested in our digital communication services. It helps us understand their preferences and provide a better experience for them.

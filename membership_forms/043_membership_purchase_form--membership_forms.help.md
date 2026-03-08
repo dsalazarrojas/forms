@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users who are purchasing membership. The form is part of the membership process and is likely used by a business or organization to track and validate membership purchases. It may be used internally or by customers. The form is not explicitly designed for public use, so it is likely meant for a specific audience. There is no indication that this form is a public-facing form meant for general registration. However, this form does contain sensitive information (payment methods, card numbers, etc.), so it's crucial that users understand how to complete it correctly to avoid any issues.
-</thinking>
-
 # Membership Purchase Form - Help Guide
 ## Purpose
 This form is used to collect information from users who are purchasing membership from your organization. It is a private form for tracking and validating membership purchases.

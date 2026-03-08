@@ -1,7 +1,3 @@
-<thinking>
-To ensure the Embedded Opt In Form Template is used correctly, it's essential to understand its purpose and how it should be filled out by users. This form is meant to collect essential information from customers or website visitors for marketing and promotional purposes. The form should not be used for internal purposes or to gather information that is not relevant to the marketing department. Before filling out this form, please ensure you have the authority to collect and utilize the information gathered. Additionally, do not fill out this form if you've already provided the same information in the past.
-</thinking>
-
 # Embedded Opt In Form Template - Help Guide
 ## Purpose
 This form is designed to help us better understand our customers' preferences and demographics to tailor our marketing efforts to their needs. Your responses will help us create more relevant and targeted promotional materials.

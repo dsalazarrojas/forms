@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be filled out by members who wish to withdraw from the organization. The form's purpose is to collect information for internal record-keeping and communication with the member. This information will be used to update the member's status and ensure a smooth transition of responsibilities. To avoid duplication, please ensure that this form is only filled out once per member, as multiple submissions may result in unnecessary processing time and confusion. Before proceeding, confirm that the member has given consent for their withdrawal and that all relevant information is accurate and up-to-date.
-</thinking>
-
 # Membership Withdrawal Form - Help Guide
 
 ## Purpose

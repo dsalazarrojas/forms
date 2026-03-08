@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the Email Capture Form is to collect contact information from users, specifically their email addresses and phone numbers. This form is designed to capture both the primary email address and a confirmed email address, which helps in verifying the accuracy of the provided information. The form can be completed online, and the user can provide their email address and phone number to be contacted or to receive further information.
-
-This form is likely to be used for marketing or communication purposes, where the goal is to capture a way to contact the user for follow-up communications, promotions, or other relevant information.
-
-Please ensure that you are completing this form to accurately provide your contact information, as it will help us understand your interest in our services.
-</thinking>
-
 # Email Capture Form - Help Guide
 ## Purpose
 The Email Capture Form is used to collect your contact information, including your email address and phone number, so we can get in touch with you for marketing, promotions, or other relevant communications.

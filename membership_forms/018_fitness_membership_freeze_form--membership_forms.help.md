@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Membership Freeze Form - Help Guide
 ## Purpose
 The Fitness Membership Freeze Form is used to freeze a membership. This form helps fitness center administrators to freeze a membership for a specific date and assign it to a particular user for review. The form is used to provide a clear reason for freezing the membership and to keep track of the frozen membership details.

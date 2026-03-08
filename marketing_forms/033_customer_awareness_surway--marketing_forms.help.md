@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer data for marketing purposes. The purpose of this form is to gather essential information about customers, including their lead generation, awareness, and contact details. This form is not a duplicate of any other form within the organization, and it's not a part of any other process.
-</thinking>
-
 # Customer Awareness Surway - Help Guide
 ## Purpose
 This form is used to collect customer data for marketing purposes, including customer awareness and lead generation information.

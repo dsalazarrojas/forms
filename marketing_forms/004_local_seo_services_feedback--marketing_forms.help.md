@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # local_seo_services_feedback - Help Guide
 ## Purpose
 The Local SEO Services Feedback form is designed to gather information about our local SEO services from our customers. This form is intended for customers to provide feedback, rate their experience, and share their opinions about our services. It's essential to complete this form to help us improve our services and better understand our customers' needs.

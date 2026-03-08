@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used to collect relevant and accurate information for contact tracing purposes. To avoid duplication of effort, we should only collect information on patients who have not been previously surveyed. This form is intended for patients who have tested positive or negative for a certain disease and need to report their contact history to prevent the spread of the disease. The information collected will be used by health authorities to track and prevent the spread of the disease.
-</thinking>
-
 # Contact Tracing Form - Help Guide
 ## Purpose
 This form is for patients to report their contact history to help health authorities track and prevent the spread of a disease. It is intended for patients who have tested positive or negative for the disease.

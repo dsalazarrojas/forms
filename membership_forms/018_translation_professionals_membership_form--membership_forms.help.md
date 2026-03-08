@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from translation professionals for membership purposes. It is likely used in a context where translation services are offered, and professionals are required to create an account or register for services. The form should only be used for its intended purpose and not for general inquiries or other types of registration. This guide is designed to help the end user understand the form's purpose and requirements.
-
-Please note that some fields are not required, and their presence or absence should not affect the form's validity.
-
-The form is likely used by translation services providers, and it's assumed that end-users are translation professionals. If this is not the case, the form's purpose might be misused, and it's recommended to double-check the target audience.
-
-This form's structure is based on a standard form schema. Each field is explained below.
-</thinking>
-
 # translation_professionals_membership_form - Help Guide
 ## Purpose
 This form is designed to collect information from translation professionals for membership purposes.

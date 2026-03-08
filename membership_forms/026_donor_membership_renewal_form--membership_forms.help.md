@@ -1,31 +1,3 @@
-<thinking>
-The Donor Membership Renewal Form is a critical part of our organization's membership program, as it allows existing donors to update their membership information and renew their support. This form is essential for ensuring that our members are able to continue participating in our programs and receiving exclusive benefits.
-
-To confirm the relevance and non-duplication, let's break down the form's sections and fields:
-
-- **General Information**: This section is designed to collect the donor's basic information, such as their name and contact details.
-- **Contact Information**: This section is used to capture the donor's contact information, which is vital for future communication and updates.
-- **Payment Information**: This section is crucial for processing payments and tracking donations.
-- **Membership Details**: This section is used to update the member's membership status, including their membership level and type.
-- **Membership Plan**: This section allows members to choose between different membership plans, which dictate the benefits and privileges they receive.
-- **Membership Status**: This section is used to track the member's current membership status.
-- **Notes**: This field is a free-text section for members to provide additional comments or notes about their membership.
-- **Membership Renewal Date**: This field is used to track when the member's membership was renewed.
-- **Membership Expiration Date**: This field is used to track when the member's membership is set to expire.
-- **Membership Start Date**: This field is used to track when the member's membership started.
-- **Membership End Date**: This field is used to track when the member's membership is set to end.
-- **Member Relationship**: This section is designed to capture the member's relationship with the organization (individual or organization).
-- **Email**: This field is used to capture the member's email address.
-- **Phone**: This field is used to capture the member's phone number.
-- **Address**: This field is used to capture the member's address.
-- **City**: This field is used to capture the member's city.
-- **State**: This field is used to capture the member's state.
-- **Zip**: This field is used to capture the member's zip code.
-- **Country**: This field is used to capture the member's country.
-- **Payment Date**: This field is used to track when the member's payment was made.
-
-</thinking>
-
 # Donor Membership Renewal Form - Help Guide
 ## Purpose
 The Donor Membership Renewal Form is a form designed to help existing donors update their membership information and renew their support. It is crucial for maintaining accurate records and ensuring that members can continue participating in our programs and receiving exclusive benefits.

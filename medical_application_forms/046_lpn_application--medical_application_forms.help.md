@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from LPNs (Licensed Practical Nurses) for medical professional licensure, certification, or registration purposes. To ensure that you have the correct information and understand how to complete this form, please review this help guide carefully.
-
-Before starting, please note that this form is intended for LPNs who are currently practicing or are interested in practicing as Licensed Practical/Vocational Nurses. This form is not a substitute for actual licensure, certification, or registration processes. If you have any questions or concerns, contact your local medical board or regulatory agency for guidance.
-
-This form is an original adaptation of publicly available survey metadata and is not affiliated with any proprietary form platforms or companies. Released under CC BY 4.0, you are free to use, modify, and distribute this form as needed.
-</thinking>
-
 # LPN Application - Help Guide
 ## Purpose
 

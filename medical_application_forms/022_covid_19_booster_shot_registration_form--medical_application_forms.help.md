@@ -1,6 +1,3 @@
-<thinking>Form purpose: 
-This form is intended to collect information from patients who are eligible for the COVID-19 booster shot. It includes fields for personal identification (patient name, date of birth, email, phone number, and address), insurance information, medical history, vaccination details (initial vaccine type, date of initial vaccination, booster eligibility status, and number of previous boosters), and appointment preferences. The form aims to ensure that patients provide accurate and comprehensive information, which will be used to assess their eligibility for the booster shot and schedule their appointment accordingly.</thinking>
-
 # COVID 19 Booster Shot Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients who are eligible for the COVID-19 booster shot. Please fill in the required fields to register for a booster shot.

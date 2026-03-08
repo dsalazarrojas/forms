@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals register themselves as members of the Nalez Empire. The purpose of this form is to gather information from users to create a profile for them in the Nalez Empire database. This form is not intended to be used for any other purpose. Please make sure to fill out the form accurately and thoroughly to ensure a smooth registration process. Note that some fields are required while others are optional. Please fill out all the required fields before submitting the form. 
-</thinking>
-
 # Nalez Empire Membership Registration Form - Help Guide
 ## Purpose
 The Nalez Empire Membership Registration Form is a form designed to gather information for registration as a member of the Nalez Empire.

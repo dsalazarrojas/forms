@@ -1,6 +1,4 @@
-<figure><thinking>
-This form is intended for users who want to register as members on our digital platform. The form is not for general public access, and users should only attempt to fill it out if they have been invited or have a legitimate reason to join our exclusive platform. Before proceeding, please make sure you have been properly invited or have a valid reason to join. If you're not sure, please do not attempt to fill out this form. This guide is for users who are familiar with our platform's exclusive nature.
-</thinking></figure>
+<figure></figure>
 # Digital Platform Exclusive Membership Form - Help Guide
 ## Purpose
 The Digital Platform Exclusive Membership Form is for registering new members on our digital platform. Only invited users or those with a valid reason to join should fill out this form.

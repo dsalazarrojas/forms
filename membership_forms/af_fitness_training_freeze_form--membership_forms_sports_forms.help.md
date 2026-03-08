@@ -1,12 +1,3 @@
-<thinking>
-The AF Fitness Training Freeze Form is used to freeze a member's training program for a specified period of time due to various reasons such as vacation, medical issues, or other reasons. This form is required to be completed by members who need to pause their fitness program for a certain duration.
-
-The purpose of this form is to gather information from the member regarding their personal and membership details, the duration and reason for the freeze, and any specific requirements or requests they may have upon their return. This information will be reviewed and assessed by the fitness center management team to ensure a smooth transition and adjustment to their fitness program upon their return.
-
-To avoid duplication and ensure accurate data, it is recommended that members fill out this form only once for each freeze period.
-
-</thinking>
-
 # AF Fitness Training Freeze Form - Help Guide
 ## Purpose
 The AF Fitness Training Freeze Form is a necessary document for members to fill out when they need to pause their fitness program due to various reasons. This form helps the fitness center management team to understand the member's needs and make necessary adjustments to their membership upon their return.

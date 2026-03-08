@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shingles Vaccination Assessment Form - Help Guide
 
 ## Purpose

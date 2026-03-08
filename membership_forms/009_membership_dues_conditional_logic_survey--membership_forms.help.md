@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about membership dues from users. The purpose of this form is to determine the frequency and type of membership dues a user is eligible for. This form is likely used by organizations or clubs to collect information from their members. It's possible that this form is used to automate the process of sending reminders or notifications to members based on their dues frequency and type.
-
-This form is likely used by members to input their membership information. The form asks for a range of information including premium type, premium frequency, email, phone number, and other details. 
-
-Please note that some fields are not required, indicating that these may not be necessary for every user.
-
-</thinking>
 # Membership Dues Conditional Logic Survey - Help Guide
 ## Purpose
 This form is used to collect information about membership dues from users, allowing organizations or clubs to determine the frequency and type of dues a user is eligible for.

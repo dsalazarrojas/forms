@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to be used by end-users to provide more information about their qualifications, experience, and availability for a Marketing Lead Generation Specialist position.
-The main purpose of this form is to gather essential information about the candidate's job title, experience, and availability to help the employer assess their fit for the role.
-The form is designed to be easy to complete, and each field is labeled and described clearly to help candidates provide accurate and complete information.
-
-</thinking>
-
 # Marketing Lead Generation Specialist Application Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about your qualifications, experience, and availability to help us assess your fit for the Marketing Lead Generation Specialist role. Please fill out the form accurately and completely to provide a thorough understanding of your background and qualifications.

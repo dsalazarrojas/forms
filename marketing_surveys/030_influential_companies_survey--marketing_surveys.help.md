@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about users' opinions and experiences with various companies. It's intended to help companies gauge their reputation, customer service, and products/services quality. The form is likely to be used for market research purposes.
-</thinking>
-
 # Influential Companies Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback and opinions from users about their experiences with different companies in various industries. Your input will help these companies improve their services and products.

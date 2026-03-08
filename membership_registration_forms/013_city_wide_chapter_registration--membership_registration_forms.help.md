@@ -1,5 +1,4 @@
-> <thinking>...</thinking>
-  # City Wide Chapter Registration - Help Guide
+> # City Wide Chapter Registration - Help Guide
 ## Purpose
 ## How To Complete This Form
 ## Field-by-Field Explanation

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive user-facing help guide for the Skin Care Assessment Form, I will follow the provided structure and guidelines. Here is the final help document in Markdown:
 
 # Skin Care Assessment Form - Help Guide

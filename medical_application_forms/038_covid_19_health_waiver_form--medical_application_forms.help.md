@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for patients to provide information required for medical waiver purposes. It is intended for individuals who need to make informed decisions regarding their health care, particularly in the context of the COVID-19 pandemic. 
-
-Before proceeding, please note that this form is specific to the context of COVID-19 and should not be used for other medical purposes without proper adaptation and approval. 
-
-This form is a self-reporting tool and is not intended to replace professional medical advice or assessments. If you are unsure or have questions about any section, please consult with your healthcare provider before continuing. 
-
-Please ensure that the information provided is accurate and up-to-date, as it will be used to guide medical decisions.
-
-</thinking>
-
 # COVID 19 Health Waiver Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information from patients for informed decision-making regarding their health care, particularly in relation to COVID-19.

@@ -1,12 +1,3 @@
-<thinking>
-To provide a comprehensive user-facing help guide for the "Child Medical Care Authorization Form", the purpose of this form should be clearly established to prevent misinterpretation and duplication. 
-
-This form is intended for use in medical settings, such as hospitals, clinics, and other healthcare institutions, to collect necessary information from parents or guardians about a minor's medical history, current medical conditions, and insurance details. This form is crucial for ensuring that minors receive proper medical care while also protecting the rights of parents or guardians. 
-
-The form should only be completed by authorized individuals, such as parents or guardians, who can provide accurate and up-to-date information about the minor. To prevent duplication, the form should not be used for other purposes, such as general patient registration or medical billing. 
-
-</thinking>
-
 # Child Medical Care Authorization Form - Help Guide
 ## Purpose
 The "Child Medical Care Authorization Form" is a crucial document that allows parents or guardians to provide necessary medical information about their child, enabling healthcare providers to provide safe and effective medical care.

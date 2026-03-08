@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Singles Membership Registration Form - Help Guide
 ## Purpose
 This form is designed to help individuals register as a single member of our community. It collects personal details and information to facilitate a smooth registration process.

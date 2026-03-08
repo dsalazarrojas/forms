@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # spider_web_day_1_template - Help Guide
 
 ## Purpose

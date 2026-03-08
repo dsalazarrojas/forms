@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help individuals who have experienced betrayal, such as infidelity, emotional abuse, or trauma, to provide a safe and supportive space to express their thoughts, feelings, and needs. The form is meant to be completed by individuals who are willing to share their experiences and receive support from others. The purpose of this form is to gather information about the individual's feelings, support needs, and recovery goals, which can help inform the development of tailored support strategies.
-
-</thinking>
-
 # Post Betrayal Support Survey - Help Guide
 ## Purpose
 The Post Betrayal Support Survey is a tool designed to help individuals who have experienced betrayal to access support and resources tailored to their specific needs.

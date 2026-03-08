@@ -1,7 +1,3 @@
-<thinking>
-  The "tell_a_friend_form" is a form designed to facilitate the process of suggesting a product to a friend or acquaintance. This form collects information about the suggested product, the friend's email address, name, and any message or suggestion. The form is intended to be user-friendly and easy to complete, with options for selecting a product and providing personal details. When using this form, please ensure that you have your friend's consent to share their email address and that you're not sharing sensitive or personal information without their knowledge.
-</thinking>
-
 # tell_a_friend_form - Help Guide
 ## Purpose
 The "tell_a_friend_form" is a form designed to help you suggest a product to a friend or acquaintance. It allows you to provide your friend's email address, name, and a message or suggestion, making it easy to share your thoughts with them.

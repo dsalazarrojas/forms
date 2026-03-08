@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the "Customer Development Survey" form, which is a tool to gather feedback and information from customers. It is not intended for sales or marketing purposes, but rather to understand customer needs and preferences. Before filling out this form, please ensure that you have not completed it before, as duplicate submissions will not be processed.
-
-</thinking>
-
 # Customer Development Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from customers about our services or products. Your responses will help us understand your needs and preferences, enabling us to improve our offerings and better serve you.

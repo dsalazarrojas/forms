@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for medical institutions or organizations to apply for telehealth technology research grants. It is used to collect information about applicants, projects, funding, and other relevant details. Before filling out this form, ensure that your institution or organization has not already submitted an application. If you're unsure, please contact the relevant authorities to confirm.
-</thinking>
-
 # telehealth-technology-research-grant-application - Help Guide
 ## Purpose
 This form is for medical institutions or organizations to apply for telehealth technology research grants. It gathers information about applicants, projects, funding, and other relevant details.

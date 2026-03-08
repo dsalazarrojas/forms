@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from existing members to renew their membership with the organization. The purpose of this form is to collect necessary details for the renewal process, including membership information, address, renewal information, next meeting, payment information, contact, member since, and comments. This form is meant to be used by members who want to maintain their current status. The form will be used by the organization to assess the member's eligibility for membership and to update their records.
-
-</thinking>
-
 # Membership Renewal Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from existing members to renew their membership with the organization. 

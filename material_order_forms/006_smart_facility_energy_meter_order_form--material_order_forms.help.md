@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Facility Energy Meter Order Form - Help Guide
 
 ## Purpose

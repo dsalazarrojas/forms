@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML for the "Doctor Referral Form", I see that it's designed to collect information about patients and doctors. The form appears to be used for referrals between medical professionals. Each section of the form seems to be related to patient demographics, doctor details, and referral information. I don't see any specific rules for form completion, so I will focus on explaining each field in a clear and concise way. I will also make sure to cover each page of the form separately to make it easier to read.</thinking>
-
 # Doctor Referral Form - Help Guide
 ## Purpose
 The Doctor Referral Form is used to collect information about patients and doctors for medical referrals between healthcare professionals.

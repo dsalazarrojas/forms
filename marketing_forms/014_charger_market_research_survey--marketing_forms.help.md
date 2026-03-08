@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Charger Market Research Survey - Help Guide
 
 ## Purpose

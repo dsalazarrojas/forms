@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is for the "postoperative_discharge_form" designed to aid healthcare professionals in gathering necessary information and providing a smooth transition for patients post-surgery.
-
-The purpose of this form is to ensure that patients receive accurate and comprehensive postoperative care, including instructions, medication details, and follow-up appointments. This form helps healthcare providers collect vital information on a patient's postoperative status, ensuring they can focus on recovery and rehabilitation.
-
-Before starting, please note that this form is a generic template, so you may need to adapt it according to your medical facility's specific policies and procedures. Additionally, if you're unsure about any information, please verify it with your supervisor or medical expert.
-
-</thinking>
-
 # postoperative_discharge_form - Help Guide
 ## Purpose
 The postoperative discharge form is designed to facilitate a patient's recovery process after surgery. It ensures that patients receive the necessary information and care for a smooth transition from the hospital to their home.

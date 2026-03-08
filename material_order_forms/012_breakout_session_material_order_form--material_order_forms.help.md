@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information from session organizers and facilitators about the materials needed for breakout sessions at events. The form helps the event organizers prepare the necessary materials for a successful and engaging experience for attendees. 
-</thinking> 
-
 # Breakout Session Material Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the materials needed for breakout sessions at events. This includes printed handouts, audio visual equipment, and other supplies required for the session. 

@@ -1,7 +1,4 @@
-## <thinking>
-This form is designed to collect information from applicants to the Medical Fellowship program. It is not intended for patients or medical professionals seeking medical treatment. The form is divided into several sections: Application Form, Applicant Information, Medical History, Medical Fellowship Information, Application Documents, and Submit Application. This guide will walk you through each section to ensure you understand what is required.
-</thinking>
-## Medical Fellowship Admission Form - Help Guide
+## ## Medical Fellowship Admission Form - Help Guide
 
 ## Purpose
 This form is designed to collect information from applicants to the Medical Fellowship program. It is not intended for patients or medical professionals seeking medical treatment.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used for screening purposes to identify potential cases of sarcopenia, a condition characterized by muscle weakness and wasting, particularly in older adults. Sarcopenia can make everyday activities more challenging, and early detection is essential for proper care and management.
-The goal is to collect information on the subject's physical activity level, preferred contact time, and symptoms they may experience.
-Please ensure that you have not completed this form previously to avoid duplication of data.
-
-</thinking>
-
 # SARC F Sarcopenia Screening Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information on potential symptoms of sarcopenia to aid in early detection and proper care.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will walk you through the process of collecting partner information using the "Dynamic Partner Leads Collection" form. The purpose of this form is to collect partner information from various sources and store it in a centralized system. This form should only be used to collect information from new partners or update existing partner information in the system. Please ensure that you are not duplicating efforts by checking the partner's information before submitting this form.
-</thinking>
-
 # Dynamic Partner Leads Collection - Help Guide
 
 ## Purpose

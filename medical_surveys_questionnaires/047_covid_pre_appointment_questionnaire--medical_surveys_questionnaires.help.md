@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from patients before their appointment with a doctor. The purpose of this form is to ensure that the doctor has all necessary information about the patient's visit, including contact details, medical history, and other relevant information. This form is meant to be completed by the patient before their appointment, and will help the doctor understand their needs and prepare for the visit.
-</thinking>
-
 # Covid Pre Appointment Questionnaire - Help Guide
 ## Purpose
 

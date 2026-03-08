@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect marketing client campaign information, ensuring that all necessary details are captured for a thorough understanding and execution of the campaign. This includes the campaign name, client name, marketing agency, project budget, campaign timeline, marketing objectives, target audience, marketing channels, marketing budget, campaign sponsors, marketing objectives, marketing strategy, marketing tactics, evaluation metrics, campaign status, campaign notes, marketing media types, marketing mediums, target location, project goals, project outcomes, marketing teams, campaign start and end dates, and campaign duration. All these fields are essential for a successful marketing campaign and should be filled out accurately to avoid any potential miscommunication or errors. To ensure consistency, this form is divided into multiple pages, and each page is designed to capture specific information. Please ensure that all fields are filled out thoroughly and accurately to avoid any discrepancies.
-
-Before proceeding, make sure you have all the necessary information and that you are filling out the form for the correct campaign.
-
-</thinking>
-
 # Marketing Client Campaign Information Collection - Help Guide
 ## Purpose
 This form is designed to collect all necessary information about a marketing client campaign. It is essential to fill out this form accurately and thoroughly to ensure the successful execution and evaluation of the campaign.

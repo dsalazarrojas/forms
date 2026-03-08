@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect exclusive sale information from users, likely for marketing purposes or to gather data on specific sales events. To avoid duplication, users should only submit the form once per sale event. The form fields are designed to collect basic contact information, email and phone numbers, and options for specific events or conditions. Each field has a specific purpose and should be filled in accordingly.
-</thinking>
-
 # exclusive_sale_signup_form - Help Guide
 ## Purpose
 This form is designed to collect information on exclusive sales events. It is intended for users to provide their details, including contact information, and options for specific events or conditions.

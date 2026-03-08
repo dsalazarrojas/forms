@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for users who want to complete the "Personalized Medicine Quiz" form. The form is designed to collect demographic and medical information from individuals to better understand their medical needs and preferences. However, please note that this form may not be suitable for all users, and it's essential to ensure you have permission from your healthcare provider before completing this form.
 
 </thinking>

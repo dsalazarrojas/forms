@@ -1,7 +1,3 @@
-<thinking>
-This form is used for website content creators to collect information about the website's homepage. This form helps ensure that the homepage content is up-to-date, relevant, and accurate. It's essential to fill out this form correctly to maintain a consistent and high-quality user experience. Please note that this form is part of an internal process, so the data collected here will not be publicly visible.
-</thinking>
-
 # Website Homepage Copy Questionnaire - Help Guide
 ## Purpose
 

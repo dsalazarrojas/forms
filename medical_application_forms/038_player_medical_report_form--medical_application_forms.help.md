@@ -1,7 +1,3 @@
-<thinking>
-The player medical report form is used to collect information from players about their medical history, allergies, and medical contact information. This form is typically used for player registration, medical clearance, or as a reference during medical emergencies. It is crucial that the form is completed accurately and truthfully, as the information collected will be used to ensure player safety and well-being. It is also important to note that this form should not be used as a substitute for a comprehensive medical evaluation by a qualified professional.
-</thinking>
-
 # player_medical_report_form - Help Guide
 ## Purpose
 The Player Medical Report Form is used to collect player medical history, allergies, and contact information. This information is essential for ensuring player safety and well-being, particularly during medical emergencies.

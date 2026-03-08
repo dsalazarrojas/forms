@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide details about themselves for membership into the Sustainable Living Group. The form will collect information on whether or not a user wishes to be a member, their contact information, sustainable practices they follow, member groups they belong to, membership level (high or low), and signup date and time. This form does not seem to be duplicating any other form in the system, as the fields are unique.
-</thinking>
-
 # Sustainable Living Group Membership Form - Help Guide
 ## Purpose
 This form is used to register users as members of the Sustainable Living Group. It collects information that will help the group's administrators know who is a member and their level of involvement with the group.

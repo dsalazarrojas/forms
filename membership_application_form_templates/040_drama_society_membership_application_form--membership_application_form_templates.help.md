@@ -1,9 +1,3 @@
-<thinking>...
-
-This form is intended for individuals to apply for membership in the Drama Society. The application process involves filling out a series of fields to provide basic contact and interest information. The form is not intended for any other purpose.
-
-</thinking>
-
 # Drama Society Membership Application Form - Help Guide
 ## Purpose
 The Drama Society Membership Application Form is designed for individuals to apply for membership in the Drama Society. To be eligible, applicants must complete all required fields and submit the form for review.

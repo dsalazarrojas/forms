@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by businesses and grantors to request authorization for content distribution. It should only be used for legitimate and authorized content sharing purposes. Before completing this form, please ensure that you have a genuine reason for requesting content distribution and that the details provided are accurate. This form is designed to gather necessary information from businesses and grantors for content distribution purposes, so please ensure that all relevant fields are filled out accurately and completely. Please do not reuse this form for non-legitimate purposes or for duplication of effort.
-</thinking>
-
 # Content Distribution Authorization Form - Help Guide
 
 ## Purpose

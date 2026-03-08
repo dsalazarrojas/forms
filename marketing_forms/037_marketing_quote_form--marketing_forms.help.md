@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect marketing quote information from clients. This form is meant to be used for internal purposes only. Please ensure that the form is not shared with anyone outside of the organization without proper approval and security clearance.
-</thinking>
-
 # Marketing Quote Form - Help Guide
 ## Purpose
 The Marketing Quote Form is a tool used to collect essential information from clients about their marketing needs. This information helps our team to understand their requirements, provide an accurate quote, and deliver exceptional service.

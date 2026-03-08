@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Drug Delivery Research Update Signup - Help Guide
 
 ## Purpose

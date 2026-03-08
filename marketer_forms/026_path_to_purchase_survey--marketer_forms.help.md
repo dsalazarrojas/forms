@@ -1,7 +1,3 @@
-<thinking>
-The Path To Purchase Survey form is designed to collect information from customers to help us understand their purchase journey and preferences. This form is intended to capture demographic data, such as age, gender, location, and answers to various questions related to our products or services. The purpose of this form is to gather valuable insights that can be used to improve our marketing strategies and product offerings. Please note that this form is not intended for real-time transactional data collection, but rather for feedback and understanding of customer behavior.
-</thinking>
-
 # Path To Purchase Survey - Help Guide
 ## Purpose
 The Path To Purchase Survey form is designed to collect information from customers to help us understand their purchase journey and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-The Brow Lift Retouch Consent Form is a crucial document that requires careful consideration to ensure accurate and complete completion. Before starting, please review the form carefully to avoid duplication of work and ensure that all necessary information is captured. This form is intended for clients seeking a retouch procedure, a follow-up treatment that enhances the effects of a previous brow lift. Ensure that you have reviewed the client's previous medical history and any relevant allergies or sensitivities before proceeding. This form should only be used for clients who have undergone a previous brow lift procedure.
-</thinking>
-
 # Brow Lift Retouch Consent Form - Help Guide
 
 ## Purpose

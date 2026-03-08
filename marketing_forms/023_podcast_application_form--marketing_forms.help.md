@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect information for a podcast application, likely for a marketing or broadcasting purpose. It seems to be a comprehensive form gathering details about the podcast, its creators, and other relevant information. The form is divided into several sections, including personal details, podcast specifics, and submission information.
-
-This form is intended for users to submit their podcast applications, which might be for a radio broadcasting platform or a marketing campaign. The form fields cover various aspects of the podcast, such as title, category, description, and audio file information. The submission fields include the form's status, submission time, and other metadata.
-
-Before proceeding, ensure that you have all the necessary information ready and that the form is filled out correctly to avoid any issues with submission.
-
-</thinking>
-
 # podcast_application_form - Help Guide
 ## Purpose
 The podcast application form is designed to collect comprehensive information about your podcast for a marketing or broadcasting purpose. This form is used to submit your podcast for consideration on a specific platform or campaign.

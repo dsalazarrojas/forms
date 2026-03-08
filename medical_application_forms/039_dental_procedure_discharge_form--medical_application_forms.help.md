@@ -1,7 +1,3 @@
-<thinking>
-This form is for patients who have undergone a dental procedure. The purpose of this form is to gather information about the patient's recovery and contact details for follow-up care. The form should only be filled out once the procedure is complete and the patient is being discharged from care.
-</thinking>
-
 # Dental Procedure Discharge Form - Help Guide
 ## Purpose
 The Dental Procedure Discharge Form is a form designed to collect information about a patient's recovery and contact details for follow-up care after a completed dental procedure.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about agencies, specifically their overview, contact details, services offered, address, phone number, email, website, license, rating, status, and notes. This form might be used for various purposes such as onboarding new agencies, updating existing agency information, or for regular assessments.
-</thinking>
-
 # FHD Agency Overview Assessment - Help Guide
 ## Purpose
 The FHD Agency Overview Assessment form is designed to collect essential information about agencies. This form helps gather details such as contact information, services offered, and other relevant data required for agency management.

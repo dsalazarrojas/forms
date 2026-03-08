@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed to gather data on the prevalence of canine heartworms within a particular region, and to collect information on the number of tests conducted, number of positive cases, and diagnostic methods used. This data can be useful for public health professionals and veterinarians to track and manage heartworm infections in dogs. 
-</thinking>
-
 # Canine Heartworm Prevalence Survey - Help Guide
 ## Purpose
 The Canine Heartworm Prevalence Survey is a tool designed to gather data on the prevalence of canine heartworm infections. The data collected will help public health professionals and veterinarians track and manage heartworm infections in dogs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact I Reviews - Help Guide
 
 ## Purpose

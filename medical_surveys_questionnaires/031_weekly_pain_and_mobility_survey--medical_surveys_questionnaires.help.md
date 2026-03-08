@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to provide users with clear guidance on completing the `weekly_pain_and_mobility_survey` form.
-The form is meant to capture information on pain and mobility levels over the course of four weeks, including treatments and mobility impact duration for each week. To ensure accuracy, users should complete the form in the correct order and follow the instructions for each field carefully.
-</thinking>
-
 # weekly_pain_and_mobility_survey - Help Guide
 ## Purpose
 This form is designed to collect information on weekly pain and mobility levels, treatments, and mobility impact duration for patients. The goal is to track changes over the course of four weeks.

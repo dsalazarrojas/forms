@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to gather information on men's skincare adoption and preferences, aiming to understand their routines, product usage, and discovery channels. The collected data will help inform marketing strategies for skincare products targeting men. It's essential to fill out this form accurately to provide valuable insights. If you've already completed a similar form, please note that this form is a different iteration of the same survey, so your answers will be considered as an additional input.
-
-This form will take about 5-7 minutes to complete. Please answer the questions honestly, and feel free to ask if you have any questions or concerns.
-
-The form has 17 questions, divided into several sections, each focusing on a specific aspect of men's skincare.
-
-Please ensure that you've completed the form entirely before submitting it. If you need to skip a question or leave it blank, you can do so, but be aware that incomplete answers might affect the accuracy of the collected data.
-
-This form is designed to be completed by men aged 18 and above who are interested in skincare and have purchased skincare products within the past 6 months.
-
-If you have any concerns or doubts, please feel free to ask. You can also contact us for more information about this survey.
-
-Please proceed to the next page to start answering the questions. 
-
-</thinking>
-
 # Men's Skincare Adoption Survey - Help Guide
 ## Purpose
 This form is designed to gather information on men's skincare adoption and preferences, aiming to understand their routines, product usage, and discovery channels.

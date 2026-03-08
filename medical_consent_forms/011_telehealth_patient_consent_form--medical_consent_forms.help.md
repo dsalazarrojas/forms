@@ -1,12 +1,4 @@
-# <thinking>...thinking>
-
-This form is a Telehealth Patient Consent Form, which is used to obtain a patient's consent for telehealth services. Telehealth services are provided remotely, and this form is designed to ensure that patients understand the terms and conditions of these services. The form is used to collect essential information from patients, including their name, contact information, medical history, and consent to treatment.
-
-The form is divided into several sections, each with its own set of questions and fields. To complete the form, follow the instructions below.
-
-</thinking>
-
-# Telehealth Patient Consent Form - Help Guide
+# # Telehealth Patient Consent Form - Help Guide
 ## Purpose
 The Telehealth Patient Consent Form is used to obtain a patient's consent for telehealth services. This form is essential for establishing a patient-provider relationship, ensuring that both parties are aware of the terms and conditions of the services.
 

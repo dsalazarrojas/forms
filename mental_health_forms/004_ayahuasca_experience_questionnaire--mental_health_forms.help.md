@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about participants' experiences with Ayahuasca, a plant medicine commonly used in shamanic rituals. The purpose of this form is to gather feedback and insights from users who have undergone this experience, which can help refine the understanding of the effects and benefits of Ayahuasca.
-
-The form is designed to be comprehensive yet non-intrusive, ensuring that participants provide honest and thorough feedback without feeling overwhelmed or uncomfortable. The questions are carefully crafted to elicit a wide range of responses, from physical and emotional experiences to personal insights and changes in behavior or well-being.
-
-Before starting this form, please note that your answers will be treated with confidentiality and respect. Your participation is voluntary, and you can stop at any time if you feel uncomfortable or unsure about any question.
-
-</thinking>
-
 # Ayahuasca Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about participants' experiences with Ayahuasca, a plant medicine commonly used in shamanic rituals.

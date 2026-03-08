@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the Video Idea Log Form, I'll analyze the provided YAML structure. This form is intended to log video ideas, likely for marketing or development purposes. It's crucial to understand the form's purpose and ensure that users complete it accurately. The form has 10 fields, ranging from a title and description to specific video details, tags, and a note section. To determine the form's purpose, I'll review the label and hint fields. The form requires users to specify a video name, type, length, release date, show type, and story. These fields are likely used to categorize and analyze video ideas for marketing or development projects.
-
-</thinking>
-
 # Video Idea Log Form - Help Guide
 ## Purpose
 The Video Idea Log Form is designed to collect and record video ideas for marketing or development purposes. This form helps to categorize and analyze video ideas for better organization and project planning.

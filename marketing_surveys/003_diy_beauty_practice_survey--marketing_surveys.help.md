@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their at-home beauty practices. It aims to collect data on their skincare routines, motivations, satisfaction levels, challenges, and purchasing behaviors. This form will help us understand how users manage their skin care, what drives their decisions, and how they interact with our products.
-</thinking>
 # DIY Beauty Practice Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your at-home beauty practices. We want to understand your skincare routine, what motivates you, and how you purchase products. Your feedback will help us create better products for you!

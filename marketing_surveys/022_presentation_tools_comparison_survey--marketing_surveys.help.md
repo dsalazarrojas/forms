@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a survey for comparing presentation tools. The purpose of this form is to collect information about the presentation tools used in a specific context. It seems that the form is designed to gather opinions and preferences on various presentation tools. Before filling out this form, please ensure that you have reviewed the form carefully and that the information you provide is accurate and relevant to the topic at hand. Also, be aware that some questions may be required or optional, and make sure to fill out the required fields accordingly.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information about your opinions and preferences on presentation tools.

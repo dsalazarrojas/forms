@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the onboarding progress of developers onboarding into a new system or project. It is likely being used in an enterprise or business setting where tracking onboarding progress is crucial for smooth project execution and team collaboration. This form is part of a larger set of membership forms in the "membership_forms" category. It is meant to be filled out by developers who are in the process of onboarding into the system or project, and will help track their progress and provide additional information for project managers and team members to review.
-</thinking>
-
 # dev_onboarding_survey_instant_scripts - Help Guide
 ## Purpose
 This form is used to track the onboarding progress of developers onboarding into a new system or project.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from alumni about their personal details, academic background, and membership preferences. This information will be used to manage their membership status and provide them with relevant updates and services. 
-This form is intended for individuals who have graduated and want to join the alumni association. It is recommended to complete the form only once per person. 
-Please ensure that you are using this form for the correct purpose and not for any other reason.
-</thinking>
-
 # Alumni Association Membership Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from alumni to manage their membership status and provide them with relevant updates and services.

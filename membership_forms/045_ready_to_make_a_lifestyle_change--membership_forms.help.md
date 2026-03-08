@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will help create a user-facing help guide for the "ready_to_make_a_lifestyle_change" form. This form is designed to help users assess their readiness to make a lifestyle change by collecting information on their health goals, exercise frequency, available time, motivation, goal duration, current level, goal priority, available money, and other available money sources. The form will be used to gather data for internal purposes and will not be shared with external parties.</thinking>
-
 # ready_to_make_a_lifestyle_change - Help Guide
 ## Purpose
 The purpose of this form is to help users assess their readiness to make a lifestyle change. It collects information on various factors that influence a person's decision to make a change, such as health goals, exercise frequency, available time, motivation, goal duration, current level, goal priority, available money, and other available money sources.

@@ -1,6 +1,3 @@
-<thinking>
-The form "skin_moisture_infusion_treatment_consent_form" is designed to obtain a client's consent for a skin moisture infusion treatment. This form aims to collect basic client details, health information, and consent for the treatment. The form is intended for use in a medical setting, and the purpose of this form is to ensure that the client understands and consents to the treatment before it begins. Before proceeding, let's ensure that this form is relevant and not duplicating existing forms within your organization. If you have any existing forms for skin moisture infusion treatments, please refrain from using this form. If not, please use this form to guide your clients through the consent process.</thinking>
-
 # skin_moisture_infusion_treatment_consent_form - Help Guide
 ## Purpose
 This form is designed to obtain a client's consent for a skin moisture infusion treatment.

@@ -1,9 +1,3 @@
-<thinking> 
-
-The Videography Membership Subscription Form is a crucial tool for capturing essential information from users interested in subscribing to a videography service. This form is designed to collect contact and payment details from subscribers, ensuring a smooth and efficient subscription process. Before proceeding, ensure this form is relevant and not duplicated by checking for any existing membership subscriptions or similar forms.
-
-</thinking>
-
 # Videography Membership Subscription Form - Help Guide
 ## Purpose
 This form is designed for users to subscribe to a videography service, providing an easy and streamlined way to capture their contact and payment details.

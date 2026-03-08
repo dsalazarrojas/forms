@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be a comprehensive survey designed to assess an individual's stress levels, symptoms, and coping mechanisms. The purpose of this form is to gather information about an individual's subjective experience with stress, including their perceived stress levels, symptoms, and sources of support. The form seems to be designed to be completed by individuals who are experiencing stress and want to gain insights into their own stress levels and coping strategies. However, upon reviewing the form, I notice that there are multiple fields with similar labels and options, which may cause confusion for end-users. It would be helpful to simplify the form and remove redundant fields to improve its usability and clarity.
-
-</thinking>
-
 # Stress Survey - Help Guide
 ## Purpose
 This form is designed to help you assess your stress levels, symptoms, and coping mechanisms. It will ask you to rate your stress levels, identify any physical, emotional, and cognitive symptoms, and explore your sources of support and self-care practices.

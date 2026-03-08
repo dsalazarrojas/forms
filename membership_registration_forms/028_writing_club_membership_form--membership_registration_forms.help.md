@@ -1,20 +1,3 @@
-<thinking>
-# Membership Registration Form for Writers
-This form is part of the Writing Club's membership process. It helps us understand who you are and what kind of writer you are. The purpose of this form is not only to collect your membership information but also to understand your writing interests, so we can tailor our support and resources to your needs.
-
-## How To Complete This Form
-To complete the membership registration form, follow these steps:
-
-- Start by filling in your First Name, Last Name, and Email.
-- If you have a birth date, you can also fill in your birth date.
-- If you have a phone number, please fill it in.
-- Choose your writing interests. You can select one or more options from the list.
-- Select the type of membership you are interested in.
-- If you want to, please share a short bio about yourself.
-- You don't need to fill out the "About Us" section, but if you want to know more about the Writing Club, feel free to do so.
-- Finally, take a moment to read our Terms and Conditions and agree to them by submitting the form.
-</thinking>
-
 # writing_club_membership_form - Help Guide
 ## Purpose
 The Writing Club membership form is a crucial step in joining our community of writers. It helps us understand who you are, what kind of writer you are, and tailor our support and resources to your needs.

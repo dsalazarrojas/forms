@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Postnatal Assessment Form. This form is used to collect information about the health and well-being of a mother and her newborn baby. The purpose of this form is to gather essential data to ensure the mother and baby receive optimal care and support during the postnatal period. It's likely that healthcare professionals will use this form to monitor progress, identify potential issues, and provide personalized guidance for new mothers and their babies. Before we dive into the form's specifics, let's verify that this form is suitable for its intended purpose and not already covered by other forms. After confirming, we will proceed with the guide.</thinking>
-
 # Postnatal Assessment Form - Help Guide
 ## Purpose
 The Postnatal Assessment Form is designed to collect information about the health and well-being of a mother and her newborn baby during the postnatal period. This data will be used by healthcare professionals to monitor progress, identify potential issues, and provide personalized guidance for new mothers and their babies.

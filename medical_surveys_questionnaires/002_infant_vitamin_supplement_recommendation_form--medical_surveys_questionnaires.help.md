@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or caregivers about their infant's medical history, medical conditions, and vitamin supplement needs. It is intended to be used by medical professionals to provide personalized recommendations for vitamin supplements. This form is part of a larger set of tools used to assess and manage infant health.
-
-Before filling out this form, please ensure that you have reviewed any relevant medical history and conditions of the infant. Some sections of this form may not apply to every infant, and you should only answer questions that are relevant to your child's specific needs.
-
-To avoid data duplication, please do not complete this form if the infant's medical history and condition have not been assessed recently.</thinking>
-
 # Infant Vitamin Supplement Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents or caregivers about their infant's medical history, medical conditions, and vitamin supplement needs. This information is used by medical professionals to provide personalized recommendations for vitamin supplements.

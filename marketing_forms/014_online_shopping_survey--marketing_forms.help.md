@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from users to improve the online shopping experience. 
-The survey aims to gather information on the type of store users prefer to shop from, their rating of the current service, and suggestions for improvement. This form is part of an ongoing effort to understand customer needs and provide better services.
-
-Before starting, please make sure to fill out the form only once per person. If you're unsure about any field or have any issues, don't hesitate to reach out to us.
-
-We'll use this information to better understand your needs and improve our services. Please answer all fields honestly, as your input is greatly appreciated.
-
-</thinking>
-
 # Online Shopping Survey - Help Guide
 ## Purpose
 The online shopping survey is designed to collect your feedback and ratings to help us improve your online shopping experience.

@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to ensure that users understand the purpose and requirements of the Church Membership Registration Form. To start, let's clarify the purpose of this form: the Church Membership Registration Form is designed to collect essential information from individuals who wish to become members of the church. This form is used to gather personal details, membership type, and emergency contact information, which will be stored in the church's database for record-keeping and communication purposes.
-
-To confirm, this form is intended for individuals who are interested in joining the church, and it is not meant for existing members or visitors. Additionally, the form is a one-time registration process, so users are not expected to fill it out multiple times.
-
-Before filling out the form, please make sure you have a valid email address and a working phone number, as these will be used for further contact and communication.
-
-Now, let's move on to the step-by-step guide on how to complete this form.
-
-</thinking>
-
 # Church Membership Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from individuals who wish to become members of the church. Please fill out the form accurately and thoroughly to ensure that your membership application is processed efficiently.

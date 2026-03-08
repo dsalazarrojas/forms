@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about content issues they have encountered on a platform or website. The purpose of this form is to provide a structured way for users to report problems with content, allowing the platform's content team to efficiently identify and address these issues. This form is intended for use by users who have experienced problems with content and wish to report them to the platform's content team.
-
-</thinking>
-
 # Content Report Form - Help Guide
 ## Purpose
 The Content Report Form is a tool for users to report content issues they have encountered on a platform or website. This form helps the content team to identify and resolve problems efficiently.

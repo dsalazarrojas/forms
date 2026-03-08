@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that this form is only used for genuine face wash product submissions, and not for other purposes or to submit duplicate entries. Before filling out this form, make sure you have all the necessary information ready, including product details, ingredient lists, pricing, and any relevant images, videos, or files. This form is designed to collect comprehensive data about face wash products, so please provide accurate and detailed information in each field.
-</thinking>
-
 # Face Wash Product Submission - Help Guide
 ## Purpose
 This form is designed to collect comprehensive data about face wash products. It is intended for genuine submissions from face wash product manufacturers or representatives.

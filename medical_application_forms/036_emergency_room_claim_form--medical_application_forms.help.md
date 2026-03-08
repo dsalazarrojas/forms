@@ -1,11 +1,3 @@
-<thinking>
-This form is a medical application form used to gather information from claimants, likely for insurance claims or medical billing purposes. 
-The form is meant to collect personal and medical information from claimants, including details about their claimant relationship, medical insurance information, and other relevant details that may impact their claim. 
-
-This form is designed to guide users through the necessary information collection for an emergency room claim. 
-
-</thinking>
-
 # emergency_room_claim_form - Help Guide
 ## Purpose
 This guide is designed to walk you through the process of filling out the emergency room claim form. This form is used to collect information from claimants for insurance claims or billing purposes in the medical industry.

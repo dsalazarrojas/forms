@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to refer patients to a physical rehabilitation specialist for further care and rehabilitation services. 
-The form collects essential information about the patient, including their contact and medical details, as well as referral and rehabilitation information. 
-It also includes spaces for the patient and the healthcare provider to sign and date the form, indicating their agreement and endorsement. 
-This form is intended for use in clinical settings, such as hospitals, clinics, or private practices. 
-Before filling out this form, please ensure that you are authorized to do so and that the patient has provided their consent. 
-Please note that this form is not intended for personal use and should only be used for legitimate healthcare purposes.
-</thinking>
-
 # Physical Rehabilitation Specialist Referral Form - Help Guide
 ## Purpose
 This form is designed to facilitate referrals to physical rehabilitation specialists, ensuring that patients receive the necessary care and support for their recovery and rehabilitation needs.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather market research data to better understand consumer behavior and preferences for chocolate. It's intended to collect information about consumers' demographics, purchasing habits, and preferences regarding chocolate. The form will help us identify trends and patterns in consumer behavior, which can be used to inform marketing strategies.
-
-Before proceeding, it's worth noting that this form is not intended for internal use by employees, but rather for external users. Therefore, it's essential to ensure that the form is clear, concise, and easy to understand to maximize the quality of the responses.
-
-To create an accurate and helpful guide, let's analyze the form's fields and provide explanations for each section.
-
-</thinking>
-
 # Market Research Survey For Chocolate - Help Guide
 ## Purpose
 This form is designed to gather market research data about consumer behavior and preferences for chocolate.

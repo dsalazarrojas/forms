@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to review market alignment for a product or service. It's used to assess whether a product or service aligns with the market's needs and trends. This form helps in evaluating various aspects of market alignment, such as customer segments, target audience, market growth estimates, financial investments, and competitor insights.
-
-To avoid duplication and ensure accurate data, this form should only be filled out once a year, and by the same person who filled it out the previous year if possible. This will help track changes and trends over time.
-</thinking>
-
 # Market Alignment Review Form - Help Guide
 ## Purpose
 The Market Alignment Review Form is used to evaluate the alignment of a product or service with the market, taking into account various factors such as customer segments, target audience, market growth estimates, financial investments, and competitor insights.

@@ -1,5 +1,3 @@
-<thinking>As the form is designed to gather insights on consumer brand loyalty, it's essential to understand that the form is a tool for businesses to gauge their customers' perceptions and behaviors towards their brand. This form will help brands identify areas of strength and weakness, inform marketing strategies, and create a more customer-centric approach. To ensure the accuracy of the data collected, it's crucial that users understand the purpose and context of each field correctly.</thinking>
-
 # Consumer Brand Loyalty Poll - Help Guide
 ## Purpose
 This form is designed to gather information about your relationship with a brand. Please answer the questions honestly to help us understand your experiences and perceptions.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about their experience with a novel they have recently read. The form is used to gauge their level of satisfaction with the novel and to gather insights on the challenges they faced while reading it. This information will be used to improve the reading experience for future users.
-</thinking>
-
 # Novel Search Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with a novel they have recently read. It aims to measure their satisfaction level with the novel and to gather insights on the challenges they faced while reading it.

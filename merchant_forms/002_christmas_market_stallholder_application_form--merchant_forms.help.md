@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to allow merchants to apply to be a stallholder at a Christmas market event. The form is divided into several sections, each corresponding to a different piece of information that the organizers need to know in order to evaluate the application. The purpose of this form is to gather all necessary details from the merchant before making a decision on their application. 
-
-To prevent duplicate applications, the form includes fields to identify the merchant's business name, contact name, and email address, which are all required fields. 
-
-This form will help the organizers to assess the merchant's requirements and provide them with a suitable stall size, and determine if they will need access to electricity. 
-
-This guide will explain each field in detail to ensure that the merchant completes the form accurately and efficiently. 
-
-</thinking>
-
 # Christmas Market Stallholder Application Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's fitness needs assessment. The form includes fields for personal information, contact details, health status, fitness goals, physical characteristics (height and weight), and medical history (conditions, allergies, surgeries, and implants). The purpose of this form is to provide a comprehensive assessment of an individual's needs for a fitness program.
-
-Before completing this form, please ensure that you are filling it out for the correct purpose and that you are not duplicating effort. This form is intended for individuals who are new to our fitness program and are seeking a personalized assessment of their needs.
-
-</thinking>
-
 # Fitness Needs Assessment Form - Help Guide
 ## Purpose
 

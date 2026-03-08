@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's sports medicine practice, including their background and preferences for training. This form is intended for medical professionals to assess the patient's condition and provide personalized advice. Please ensure that you have reviewed and understood the form's purpose before proceeding. Additionally, please note that the form is not intended to be completed multiple times by the same individual. Each completion of this form by the same individual may lead to unnecessary data duplication and potential errors in analysis.
-</thinking>
-
 # sports_medicine_practice_quiz - Help Guide
 ## Purpose
 The sports medicine practice quiz is a questionnaire designed for medical professionals to collect information about an individual's background and preferences for training. This form helps healthcare providers assess the patient's condition and provide personalized advice.

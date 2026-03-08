@@ -1,10 +1,3 @@
-<thinking>
-
-Internal reasoning block:
-The Medical Procedure Feedback Form is a tool used to collect feedback from patients or healthcare providers about their experiences with medical procedures. This form is designed to help improve the quality of care and services provided by the medical team. It's crucial to fill this form out accurately and thoroughly to provide valuable insights that can help shape future medical practices. Please ensure you're familiar with the purpose of this form and only complete it if you have relevant feedback to share. If you've already completed this form, please do not fill it out again.
-
-</thinking>
-
 # Medical Procedure Feedback Form - Help Guide
 ## Purpose
 The Medical Procedure Feedback Form is a tool used to collect feedback from patients or healthcare providers about their experiences with medical procedures. This feedback helps us improve the quality of care and services provided by the medical team.

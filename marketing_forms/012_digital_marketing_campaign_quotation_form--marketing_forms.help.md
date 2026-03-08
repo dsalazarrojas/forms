@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from clients for a digital marketing campaign quotation. The form is designed to collect client details, project requirements, and other relevant information to create a quotation for the campaign. The form is meant to be filled out by clients to provide accurate and complete information for the quotation process. Please ensure that the information provided is accurate and complete before submitting the form. 
-
-To avoid duplication of efforts, please do not fill out this form if you have already submitted a quote request for the same project.
-</thinking>
-
 # Digital Marketing Campaign Quotation Form - Help Guide
 ## Purpose
 This form is used to gather information from clients for a digital marketing campaign quotation. 

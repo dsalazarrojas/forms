@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form is complete and not duplicated, I'll review the YAML file and extract the relevant information to create a user-facing help guide.
-</thinking>
-
 # EMDR Session Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients after an EMDR (Eye Movement Desensitization and Reprocessing) session. It aims to help therapists understand the client's experience, identify areas for improvement, and provide valuable insights for future sessions.

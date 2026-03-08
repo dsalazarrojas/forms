@@ -1,10 +1,3 @@
-<thinking>
-This guide will explain the Cultural Exchange Members Club Membership Form in a step-by-step manner to ensure that end users understand its purpose, how to complete it, and what each field means.
-
-The form is designed for new members of the Cultural Exchange Members Club to sign up, and it gathers basic information about the applicant, such as name, contact details, and membership status. The form also requires the applicant to agree to the club's terms and conditions. Upon completing the form, the user will have the option to submit or save and continue, or save and exit without submitting.
-
-</thinking>
-
 # Cultural Exchange Members Club Membership Form - Help Guide
 ## Purpose
 The Cultural Exchange Members Club Membership Form is a registration form for new members to sign up with the club. It collects essential information about the member, including name, contact details, and membership status.

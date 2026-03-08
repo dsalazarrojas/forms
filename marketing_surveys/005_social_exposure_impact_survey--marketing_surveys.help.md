@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to be a tool for evaluating the impact of social media on users. Specifically, it is designed to assess the degree to which social media has influenced users' behavior, attitudes, and time spent on the platform. This form is meant to be used as an internal tool to help the marketing team understand how effective our social media campaigns are. This form should only be filled out after a survey has been completed.
-
-</thinking>
-
 # Social Exposure Impact Survey - Help Guide
 ## Purpose
 

@@ -1,17 +1,3 @@
-<thinking>
-To create an effective help guide for the "Factory Ventilation Grille Order Form", I'll need to understand the form's purpose and the fields included. 
-
-Upon analyzing the YAML, I see that this form seems to be for ordering ventilation grilles, which is a type of product commonly used in industrial settings. The form appears to be collecting various details such as grille specifications, quantity, color, materials, and delivery information. 
-
-The form has multiple fields with different types (select_multiple, number, text, date, time, email, etc.), which indicates that it's designed to be flexible and adaptable to different types of orders. The presence of fields like "delivery_details" and "delivery_date" suggests that the form also handles logistics and delivery information. 
-
-Before writing the help guide, I need to confirm that the form is being used for internal purposes only, and there's no external documentation or user interface available. I also need to clarify the form's purpose and the expected outcomes of completing this form. 
-
-Based on the form fields, the form is likely used by employees or administrators to create, manage, or track orders for ventilation grilles. This form might be used to ensure accurate information is collected, and order details are properly recorded. 
-
-Please let me know if this understanding is correct, and I'll create the help guide accordingly.
-</thinking>
-
 # Factory Ventilation Grille Order Form - Help Guide
 ## Purpose
 The "Factory Ventilation Grille Order Form" is used to collect and record order details for ventilation grilles. It ensures that accurate information is gathered and stored for internal purposes.

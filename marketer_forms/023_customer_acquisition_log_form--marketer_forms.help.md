@@ -1,9 +1,3 @@
-<thinking>
-This form is used to log customer acquisitions, which are the actions taken by customers to bring in new customers. It's a crucial aspect of customer acquisition and retention. 
-The form is not meant to be used for other purposes, such as tracking sales or customer support interactions. 
-This guide will walk you through how to complete the form and each field in it.
-</thinking>
-
 # Customer Acquisition Log Form - Help Guide
 ## Purpose
 This form is used to record information about how customers were acquired. This helps us track the effectiveness of our marketing efforts and identify areas for improvement.

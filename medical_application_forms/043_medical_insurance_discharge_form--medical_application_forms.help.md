@@ -1,11 +1,3 @@
-<thinking>
-The Medical Insurance Discharge Form is used to record information about a patient's insurance details and medical discharge status. This form helps healthcare providers to document the patient's insurance information, discharge date, and status. The form is designed to be completed by a medical professional or authorized staff member.
-
-Before proceeding, ensure that you have the necessary authority and permissions to complete this form. This form should not be duplicated for each new patient. Instead, it is meant to be completed once for each patient's discharge.
-
-When completing this form, please note that some fields are optional and may not be required for every patient.
-</thinking>
-
 # Medical Insurance Discharge Form - Help Guide
 ## Purpose
 The Medical Insurance Discharge Form is used to document a patient's insurance information and discharge status.

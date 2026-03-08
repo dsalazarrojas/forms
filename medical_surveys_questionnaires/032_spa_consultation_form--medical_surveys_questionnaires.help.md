@@ -1,7 +1,3 @@
-<thinking>
-The Spa Consultation Form is designed to collect information from patients for a thorough understanding of their needs and medical history. Before starting the consultation process, the form helps us gather essential details to ensure we can tailor our services to your specific requirements. Please note that this form is not a substitute for a comprehensive medical evaluation, and a consultation with a medical professional is always recommended.
-</thinking>
-
 # Spa Consultation Form - Help Guide
 ## Purpose
 The Spa Consultation Form is designed to collect information from patients for a thorough understanding of their needs and medical history. This form is used to gather essential details to ensure we can tailor our services to your specific requirements.

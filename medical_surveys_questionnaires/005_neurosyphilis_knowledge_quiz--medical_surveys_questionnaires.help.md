@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and understanding of neurosyphilis among healthcare professionals or individuals interested in medical knowledge. The form is not affiliated with or endorsed by any form platform and is an original adaptation created using AI. It is an educational tool aimed at improving knowledge, not a tool for data collection or research. The form is designed to be easy to complete and provide a structured format for understanding neurosyphilis.
-
-Before completing this form, please ensure you have not taken the Neurosyphilis Knowledge Quiz previously. This form is designed to be completed once per individual. If you have any concerns or questions, contact form@gic.mx.
-
-</thinking>
-
 # Neurosyphilis Knowledge Quiz - Help Guide
 ## Purpose
 The Neurosyphilis Knowledge Quiz is designed to assess your understanding of neurosyphilis, a condition caused by the bacterium Treponema pallidum that affects the nervous system.

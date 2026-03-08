@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect patient information for the medical department. It's intended to be used for patient reviews and assessments. To ensure accuracy and relevance, please only fill out this form for patients who have been referred to the medical department. 
-Please note that this form should not be used for other purposes, such as creating new patient records or updating existing ones.
-</thinking>
-
 # Patient Review Form - Help Guide
 
 ## Purpose

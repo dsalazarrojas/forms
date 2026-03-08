@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # GAD 7 Anxiety Assessment Form - Help Guide
 
 ## Purpose

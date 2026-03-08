@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering new or updating existing voter information. It's crucial to ensure the data is accurate and complete to prevent any issues with voter verification and eligibility. The form should only be filled out by individuals who are either citizens or non-citizens of the area. If a user has already registered, they should not be required to fill out the form again unless they need to update their information.
-</thinking>
-
 # Voter Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect voter registration information from citizens and non-citizens of the area. This form is used to create a new voter registration or update an existing one.

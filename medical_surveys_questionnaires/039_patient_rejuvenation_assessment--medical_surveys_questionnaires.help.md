@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Rejuvenation Assessment - Help Guide
 ## Purpose
 The Patient Rejuvenation Assessment form is a tool used to collect information about a patient's rejuvenation needs and status. This form helps healthcare providers understand the patient's goals, history, and concerns to provide effective rejuvenation services.

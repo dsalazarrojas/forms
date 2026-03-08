@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information from potential clients who are looking to work with a brand strategist to develop their brand's identity and strategy. The form is divided into sections that cover various aspects of the client's business, including their contact information, company details, challenges, goals, and target audience. The goal is to gather a comprehensive understanding of the client's needs and preferences to provide effective branding services. Please ensure that you only submit this form if you have a clear understanding of what you're looking for in a brand strategist and what your current branding status is... </thinking>
-
 # Brand Strategist Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential clients who are looking to work with a brand strategist to develop their brand's identity and strategy.

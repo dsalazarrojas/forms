@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture event lead generation data from individuals involved in farming technology. The purpose of this form is to gather information about upcoming events, such as conferences, trade shows, and workshops, that are relevant to the farming technology industry. The form aims to collect data on event leads, including the source of the lead, event details, and follow-up contact information. This data will be used to generate new leads and opportunities for the sales team.
-
-Before filling out this form, please ensure that you are not duplicating information that already exists in the system. If you are unsure about the purpose or requirements of this form, please consult with your team lead or administrator.
-
-</thinking>
-
 # Farming Technology Event Lead Generation Form - Help Guide
 ## Purpose
 The Farming Technology Event Lead Generation Form is designed to capture event lead generation data from individuals involved in farming technology.

@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the "debt_freedom_grant_application" form. This form is used to collect information from applicants seeking debt freedom grants. The form gathers details such as the applicant's name, email, debt type, loan amount, phone number, and submission date and time. The form also includes fields for a note, form category, agent, submission date, and submission time. The fields are required to be filled out to ensure accurate and complete application information. Please note that the form ID and output file fields are not required and are optional fields that can be filled out if needed.
-</thinking>
-
 # debt_freedom_grant_application - Help Guide
 ## Purpose
 This form is used to collect information from applicants seeking debt freedom grants.

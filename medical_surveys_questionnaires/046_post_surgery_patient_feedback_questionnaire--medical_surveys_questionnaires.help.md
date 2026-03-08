@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # post_surgery_patient_feedback_questionnaire - Help Guide
 
 ## Purpose

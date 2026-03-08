@@ -1,15 +1,3 @@
-<thinking>
-The AOB Membership Form is a crucial part of our organization's membership registration process. The form collects essential information from potential members, which helps us assess their suitability for membership. This guide will walk you through each field of the form and explain the purpose behind it.
-
-When filling out this form, please note that some fields are required and must be completed in order to proceed. If you're unsure about your answers or need clarification, please don't hesitate to contact us.
-
-To avoid confusion, let's review the form structure:
-
-*   The first page collects general information like your full name, email address, and phone number.
-*   The second page is for artist-specific information, including your artistic medium, styles, and experience level.
-*   The third page covers membership type, marketing interests, event participation, volunteer opportunities, and payment method.
-</thinking>
-
 # AOB Membership Form - Help Guide
 ## Purpose
 The purpose of the AOB Membership Form is to collect necessary information from potential members to assess their suitability for membership in our organization. This form helps us understand your artistic background, interests, and payment preferences.

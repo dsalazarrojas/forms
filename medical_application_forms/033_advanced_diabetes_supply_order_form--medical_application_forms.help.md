@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by medical organizations to order supplies related to diabetes management. The fields are designed to provide essential information for the delivery of these supplies. 
-
-The purpose of this form is to collect detailed information about the order, including the facility or clinic name, contact person, contact phone number, list of requested supplies and quantities, preferred supplier, delivery priority, billing account or code, and additional notes. This form is likely to be used by administrators or procurement teams within medical organizations to manage their supplies effectively.
-
-</thinking>
-
 # Advanced Diabetes Supply Order Form - Help Guide
 
 ## Purpose

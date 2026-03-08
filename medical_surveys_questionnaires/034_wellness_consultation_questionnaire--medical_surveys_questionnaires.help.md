@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients about their medical history, lifestyle, and other relevant factors. The purpose of this form is to gather data that can be used by healthcare professionals to assess a patient's overall well-being and provide personalized recommendations for improvement. This form does not collect sensitive or personal identifiable information, and any data collected will be kept confidential and secure.
-
-Please note that this form is an AI-generated adaptation of a public survey topic, and its content is based on general industry knowledge and categories. It is not affiliated with, endorsed by, or derived from any specific form platform or proprietary content.
-
-Before filling out this form, please ensure that you have not already completed a similar form for the same purpose, and that you are providing accurate and honest information.
-
-</thinking>
-
 # wellness_consultation_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your medical history, lifestyle, and other relevant factors to help healthcare professionals assess your overall well-being and provide personalized recommendations for improvement.

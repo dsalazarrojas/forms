@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to assess the design influence of a product or service on the perception of the user. The goal is to understand how the design elements of the product affect the user's opinion and decision-making process. This form is part of a larger effort to gather user feedback and insights to inform product development and improvement.
-
-This form is designed to be completed by users who have interacted with the product or service in some way, such as customers, prospects, or end-users. The form is not intended for internal team members or stakeholders who have not used the product or service.
-
-Before completing this form, please ensure that you have not already submitted a similar survey or assessment for this product or service. Duplicate submissions can cause confusion and skew the data.
-
-</thinking>
-
 # Design Influence Assessment - Help Guide
 ## Purpose
 The Design Influence Assessment is a user feedback form designed to gather information on how the design elements of a product or service impact the user's perception and decision-making process.

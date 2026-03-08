@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a membership-related form, likely used for storing information about members of an organization or community. The form includes various fields for collecting user input such as name, email, phone number, category, status, date of birth, and time of birth, as well as a notes field for additional information. The form seems to be designed for data entry and possibly for generating reports or analytics. I am assuming that this form is intended for internal use within an organization or community and is not a public-facing form. I will now create the help guide based on this understanding.
-</thinking>
-
 # parq - Help Guide
 ## Purpose
 The parq form is a data entry form used to store information about members of an organization or community. This form is intended for internal use and helps with data collection and reporting.

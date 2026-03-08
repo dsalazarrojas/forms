@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to allow users to submit information about their favorite channels, including personal details like their name and email. The form is designed to gather information about the user's preferences and interests, which can be useful for marketing and research purposes...</thinking>
-
 # Favorite Channel Submission Form - Help Guide
 ## Purpose
 This form is designed to gather information about users' favorite channels, which can be used for marketing and research purposes. Users can choose from a list of channels and provide any additional notes they'd like to share.

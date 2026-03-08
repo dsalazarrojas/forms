@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Infinity Marketing Onboarding Questionnaire - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from patients for orthodontic procedures. It collects data on patient demographics, medical history, medications, medical procedures, insurance coverage, emergency contacts, phone numbers, and medical history 2. The purpose of this form is to ensure accurate and efficient information collection, reducing the risk of data entry errors or missing information.
-</thinking>
-
 # orthodontic_intake_form_template - Help Guide
 ## Purpose
 The **orthodontic_intake_form_template** is a form designed to gather necessary patient information for orthodontic procedures. It is essential for ensuring accurate data collection and efficient patient care.

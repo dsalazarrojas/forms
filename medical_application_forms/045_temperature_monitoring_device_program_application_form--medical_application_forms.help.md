@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to collect information about a temperature monitoring device program application. The purpose of this form is to gather details about the facility, contact person, and device-related information. The form will ask for the facility's address, phone number, contact person, facility type, device serial number, device description, start date, end date, and a temperature range value.
-
-To complete this form correctly and avoid errors, make sure to:
-
-* Provide all required information for each field.
-* Ensure that you are applying for a temperature monitoring device program as a representative of the facility.
-* Answer questions accurately and truthfully.
-* Review your answers carefully before submitting the form.
-
-This form will be reviewed and processed internally.
-
-</thinking>
-
 # temperature_monitoring_device_program_application_form - Help Guide
 ## Purpose
 The temperature monitoring device program application form is designed to collect relevant information about a temperature monitoring device program application.

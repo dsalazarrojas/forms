@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to collect information for a grocery ordering request. It seems like the form is asking for various details related to the customer's order, including personal information, delivery preferences, and store information. This form might be used by a business or organization to gather data from customers about their grocery orders. It's essential to ensure that the form is clear, concise, and easy to understand to avoid confusion and mistakes. We should double-check that the form doesn't have any redundant fields or questions that might cause unnecessary complexity. Let's break down the form into sections and explain each field in a straightforward way to help users understand its purpose and how to fill it out correctly.
-</thinking>
-
 # grocery_ordering_request_psss - Help Guide
 ## Purpose
 This form is designed to collect information for a grocery ordering request. It's used to gather details about the customer's order, such as personal information, delivery preferences, and store selection.

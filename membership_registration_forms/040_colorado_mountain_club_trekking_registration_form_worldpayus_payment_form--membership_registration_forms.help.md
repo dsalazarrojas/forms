@@ -1,7 +1,3 @@
-<thinking>
-  The form purpose is to collect registration information from participants for the Colorado Mountain Club trekking events. Each field is a crucial part of the registration process that helps the club organizers to confirm and follow up on participant details, ensure participant safety, and provide event information. This form is part of the registration process for the Colorado Mountain Club trekking events, and it's essential to fill it out accurately and completely.
-</thinking>
-
 # Colorado Mountain Club Trekking Registration Form WorldPayUS Payment Form - Help Guide
 ## Purpose
 The Colorado Mountain Club trekking registration form is designed to collect necessary information from participants for the trekking events. This form ensures that participants provide accurate and complete information, which the club organizers use to confirm and follow up on participant details and provide event information.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect participant information for a competition related to a cooler bag. The primary purpose of this form is to gather essential details from participants, including their consent to terms of service, delivery information, and personal contact details. This form is intended for individuals who want to participate in the competition.
-
-Before submitting the form, please ensure you have filled out all required fields. The form is split into several sections: Participant Details, Delivery Information, and Contact Information. Please note that the State field is a select_one field, meaning you can only choose one state from the provided options.
-
-</thinking>
-
 # Cooler Bag Competition Entry - Help Guide
 
 ## Purpose

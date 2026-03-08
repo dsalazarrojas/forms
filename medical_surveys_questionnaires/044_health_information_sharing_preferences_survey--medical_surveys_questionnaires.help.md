@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect health information sharing preferences from patients, which is crucial for healthcare providers to understand their preferences for sharing personal health information. This information is essential for ensuring that patients' privacy and confidentiality are respected while also facilitating effective treatment and care. 
-The form will be used to gather the following information:
-- General preferences for sharing health information
-- With whom to share health information (e.g., healthcare providers, family, insurance companies)
-- Preferences for data collection and usage
-- Consent for sharing health information
-- Contact preferences and methods
-- Sharing preferences with others (e.g., hospitals, emergency services)
-
-This form is designed to be completed by patients to ensure their health information is shared with the right people and for the right purposes. The information collected will be used to improve patient care and treatment while respecting patients' privacy and confidentiality.
-
-Before starting, ensure you have understood the purpose and relevance of this form. If you have already completed a similar form, you may not need to complete this one again.
-</thinking>
-
 # Health Information Sharing Preferences Survey - Help Guide
 ## Purpose
 The Health Information Sharing Preferences Survey is designed to collect your health information sharing preferences to ensure that your healthcare provider has a clear understanding of your preferences for sharing your personal health information.

@@ -1,14 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to gather information from users for a software product demonstration. This form will be used to collect details about the company, software, and other relevant information to schedule a successful demo. The fields on this form are designed to guide the user through the process of requesting a demo, ensuring that all necessary information is collected for the demo to be effective.
-
-Before filling out this form, please note that some fields are required and must be completed in order to submit. If you are unsure about any field, please contact your assigned agent or the demo coordinator for clarification.
-
-This form is divided into several sections, each with its own specific purpose. Please review each field carefully to ensure you provide accurate and complete information.
-
-Below is a detailed guide on how to complete this form.
-
-</thinking>
-
 # software_product_demo_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a software product demonstration.

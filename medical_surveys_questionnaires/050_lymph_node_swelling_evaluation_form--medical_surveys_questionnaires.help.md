@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lymph Node Swelling Evaluation Form - Help Guide
 
 ## Purpose

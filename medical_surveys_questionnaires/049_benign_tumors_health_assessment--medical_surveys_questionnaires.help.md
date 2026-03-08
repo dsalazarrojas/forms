@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for healthcare professionals to assess patients with benign tumors. The purpose of this form is to gather information about the patient's medical history, symptoms, and physical examination findings to guide clinical decision-making. This form should not be used for self-reporting or diagnosis by untrained individuals. Ensure that this form is used in conjunction with professional medical expertise.
-
-Please note that this form is designed to gather information for a specific type of assessment. If you are not a healthcare professional or if you are not assessing a patient with a benign tumor, do not use this form.
-
-Before starting, ensure that the patient's information is accurate and up-to-date.
-
-</thinking>
-
 # Benign Tumors Health Assessment - Help Guide
 ## Purpose
 The Benign Tumors Health Assessment form is used to gather information about patients with benign tumors. It is a clinical tool designed to guide healthcare professionals in assessing and managing patients with this condition.

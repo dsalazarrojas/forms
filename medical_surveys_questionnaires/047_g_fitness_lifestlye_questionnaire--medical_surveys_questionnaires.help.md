@@ -1,22 +1,3 @@
-<thinking>
-To provide a user-facing help guide that clearly explains the purpose and usage of the "G Fitness Lifestyle Questionnaire", I'll first need to clarify the purpose and requirements of this form. This form appears to be designed to collect information about a person's fitness level, medical history, and habits related to exercise, nutrition, and sleep. 
-
-The form is likely meant to be completed by individuals interested in assessing their overall fitness level and identifying areas for improvement. 
-
-Before proceeding, I'll review the form's sections and fields to ensure I understand their intended use and potential relevance to the form's purpose.
-
-Based on the provided YAML, the form contains several sections:
-
-* Medical History: This section appears to ask about the individual's medical history, including any past medical conditions or procedures.
-* Fitness Level: This section likely assesses the individual's current level of physical fitness.
-* Exercise Habits: This section inquires about the individual's exercise frequency, type, and duration.
-* Nutrition: This section explores the individual's dietary habits and goals.
-* Sleep: This section examines the individual's sleep patterns and quality.
-* Stress and Anxiety: This section investigates the individual's levels of stress and anxiety.
-* Additional Habits: This section seems to ask about additional habits related to exercise and nutrition.
-
-I will proceed with creating the user-facing help guide based on the form's structure and fields.</thinking>
-
 # G Fitness Lifestlye Questionnaire - Help Guide
 ## Purpose
 The G Fitness Lifestlye Questionnaire is a self-assessment tool designed to help you evaluate your overall fitness level and identify areas for improvement. This form will guide you through a series of questions about your medical history, exercise habits, nutrition, and sleep patterns to provide a comprehensive picture of your health and wellness.

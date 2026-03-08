@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information related to peptide therapy, which involves the administration of specific peptides to patients for various medical conditions. The purpose of this form is to obtain informed consent from patients before commencing treatment, as well as gather other relevant information about the patient and the treatment. Please ensure that the information collected is accurate and up-to-date to avoid duplication and miscommunication.
-
-</thinking>
-
 # Peptide Therapy Consent Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients before undergoing peptide therapy. Please take the time to read and understand each field to ensure accurate completion.

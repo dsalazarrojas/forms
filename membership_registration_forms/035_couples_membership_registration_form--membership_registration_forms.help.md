@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from couples who are interested in joining a membership program. The purpose of this form is to gather essential details about each couple, including their names, email addresses, and address. The form is not affiliated with or endorsed by any form platform, and it is an original adaptation created using public survey topic metadata. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-To ensure relevance and non-duplication, consider the following:
-* This form is intended for a specific membership registration purpose.
-* Review the form carefully to ensure you are not duplicating information already provided.
-* If you are unsure about any field, please ask your administrator or contact form@gic.mx.
-</thinking>
-
 # Couples Membership Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from couples interested in joining a membership program.

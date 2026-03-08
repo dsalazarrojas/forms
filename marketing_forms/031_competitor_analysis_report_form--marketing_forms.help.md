@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is designed to gather information about competitors in the market, providing valuable insights for our company's strategy and competitive analysis. The form asks for data on report date, analyst details, industry focus, competitor details, and analysis results. Ensure the end user fills in the form correctly to provide a comprehensive analysis report. Review and revise the form regularly to adapt to changing market conditions and ensure it is not duplicated for similar reports.</thinking>
-
 # Competitor Analysis Report Form - Help Guide
 ## Purpose
 This form is used to gather and document analysis on competitors in the market, providing insights for strategic decision-making.

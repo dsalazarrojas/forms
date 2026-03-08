@@ -1,5 +1,3 @@
-<thinking>Form purpose: This membership form is designed for users to sign up for membership with Sofort. It collects various information such as membership plans, payment methods, and other relevant details.</thinking>
-
 # Membership Form With Sofort - Help Guide
 ## Purpose
 This membership form is designed for users to sign up for membership with Sofort. It collects various information such as membership plans, payment methods, and other relevant details.

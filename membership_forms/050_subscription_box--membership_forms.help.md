@@ -1,9 +1,3 @@
-<thinking>
-This form is used to manage subscription boxes, which are a crucial component of the membership program. The purpose of this form is to collect information from members about their subscription preferences, including their subscription box ID, name, email, subscription plan, and shipping address. To ensure that members can easily find and access their preferred subscription boxes, the form also includes fields for category and assigned tool.
-
-Before completing this form, please make sure that you have checked that you are not duplicating a previously created subscription box.
-</thinking>
-
 # Subscription Box - Help Guide
 ## Purpose
 The Subscription Box form is used to collect information from members about their subscription preferences, including their subscription box ID, name, email, subscription plan, and shipping address.

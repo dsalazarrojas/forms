@@ -1,21 +1,3 @@
-<thinking>
-
-This form is designed to capture marketing and public relations requests from companies. It's intended for organizations looking to promote their brand, products, or services. The form should only be completed once per company, and any duplicate requests from the same company will be rejected. The purpose of the form is to streamline the process of receiving and reviewing marketing and public relations requests from various companies.
-
-The form consists of the following fields:
-
-*   **Company Name**: This field is for the name of the company submitting the request.
-*   **Email**: A valid email address for the company's point of contact.
-*   **Phone Number**: A phone number for the company.
-*   **Type Of Company**: A select one field to categorize the type of company (e.g., Option 1, Option 2, Option 3).
-*   **Contact Person**: The person within the company responsible for the request.
-*   **Company Address**: An optional field for the company's address.
-*   **Request**: A field for the company's marketing and public relations request.
-*   **Additional Info**: A field for any additional information related to the request.
-*   **Submit**: A submit button to finalize the request.
-
-</thinking>
-
 # Marketing And Public Relations Request Form - Help Guide
 ## Purpose
 This form is designed to capture marketing and public relations requests from companies. It's intended for organizations looking to promote their brand, products, or services. The form should only be completed once per company, and any duplicate requests from the same company will be rejected.

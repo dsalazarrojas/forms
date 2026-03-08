@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient feedback on their experience with chemotherapy treatment. It asks for demographic information, treatment specifics, and various aspects of the patient's health and care satisfaction. Before filling out this form, please ensure you are in the correct context and not duplicating efforts. If you have already completed this form, please don't submit it again. If you're unsure about any field, please ask for clarification or guidance from your healthcare provider.
-</thinking>
-
 # Chemotherapy Patient Outcome Survey - Help Guide
 ## Purpose
 The Chemotherapy Patient Outcome Survey is designed to help healthcare providers understand the effectiveness of treatment and identify areas for improvement in patient care. By providing your feedback, you contribute to better patient outcomes and care.

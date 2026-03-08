@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information about an individual's trauma and oppression experiences. It is designed to help identify individuals who may need support or services related to trauma and oppression. 
-The survey includes questions about physical, emotional, psychological, and sexual trauma, as well as experiences of oppression related to race, socioeconomic status, and other areas. 
-This form is used to gather demographic information such as age, relationship status, education level, employment status, health insurance, mental health services, trauma services, and oppression services. 
-The purpose of this form is to help identify individuals who are in need of support or services related to trauma and oppression. 
-</thinking>
-
 # Trauma And Oppression Survey - Help Guide
 ## Purpose
 The Trauma And Oppression Survey is designed to gather information about an individual's experiences with trauma and oppression. This information is used to help identify individuals who may be in need of support or services related to trauma and oppression.

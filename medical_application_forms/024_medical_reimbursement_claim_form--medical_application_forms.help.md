@@ -2,8 +2,6 @@
 ## Purpose
 This form is intended to be used for medical reimbursement claims. It provides a structured format for applicants to submit their claims.
 
-<thinking>...</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 1. Select the correct answer for "Is this a valid claim?" in question 1.

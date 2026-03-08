@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from customers after a post-promotion activity. It aims to assess the effectiveness of the promotion and gather input from customers. This form is intended for customers who have participated in a post-promotion. The data collected will be used to refine future post-promotional activities and improve customer experience. It is essential to fill out the form accurately and honestly to provide valuable feedback. Please ensure that you have participated in the post-promotion before completing this form.
-</thinking>
-
 # Post Promotion Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from customers after a post-promotion activity. It is essential for us to understand your experience and gather information to improve future post-promotional activities.

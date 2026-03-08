@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll review the provided YAML fields to understand the form's purpose, structure, and requirements. This form appears to be a user feedback and experience survey for a digital care service. The form has multiple pages with various types of questions, including text, number, select_one, select_multiple, date, time, and note fields. The purpose of this form is to gather information about users' experiences, satisfaction, and preferences regarding the digital care services. I'll make sure to cover all the fields and pages in the help guide, ensuring that users understand their relevance and importance.</thinking>
-
 # Digital Care Communication Experience Survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback and experience with our digital care services. Your input will help us improve and refine our services to better meet your needs.

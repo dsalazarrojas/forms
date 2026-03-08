@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Post Surgical Care Checklist Form" that explains its purpose, how to complete it, and what each field means, based on the provided YAML fields. The form is used to track post-surgical care information for patients, and it is essential to ensure that the user understands its purpose and how to complete it correctly. The form includes multiple fields that require specific answers, and the user needs to know what each field represents and what information is expected from them.</thinking>
-
 # Post Surgical Care Checklist Form - Help Guide
 ## Purpose
 The Post Surgical Care Checklist Form is designed to collect important information about a patient's post-surgical care. This form helps healthcare professionals track and record the patient's status, care provider, date, time, and other relevant details after surgery. It is crucial to fill out this form accurately and completely to ensure the patient receives proper post-surgical care.

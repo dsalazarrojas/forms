@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Materials Reorder Form - Help Guide
 
 ## Purpose

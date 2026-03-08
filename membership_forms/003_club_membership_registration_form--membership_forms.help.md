@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Club Membership Registration Form - Help Guide
 ## Purpose
 The Club Membership Registration Form is designed to collect information from potential members to process their membership application. The form is used to gather personal details, membership preferences, and other relevant information to ensure a smooth and efficient membership experience.

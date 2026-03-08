@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare providers to document a patient's medical necessity and provide a clear explanation of their current condition, treatment, and any relevant medical history. The form is intended to be completed by healthcare professionals and is meant to be used for administrative purposes only. It is not a substitute for a detailed medical diagnosis or treatment plan. 
-</thinking>
-
 # Letter of Medical Necessity Form - Help Guide
 ## Purpose
 This form is used by healthcare providers to document a patient's medical necessity, providing a clear explanation of their current condition, treatment, and medical history. It is essential for administrative purposes, such as insurance claims, billing, and patient communication.

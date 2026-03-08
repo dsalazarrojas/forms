@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the purpose of the form: the Elderly Mental Wellness Study Participation Form is designed to gather information on the mental wellbeing of elderly individuals. It's crucial to ensure that this form is filled out accurately, without duplication, and for the intended purpose. We want to make it easy for users to understand the form's purpose and fill it out correctly. Let's create a clear and concise help guide that addresses their needs.</thinking>
-
 # Elderly Mental Wellness Study Participation Form - Help Guide
 ## Purpose
 The Elderly Mental Wellness Study Participation Form is designed to collect data on the mental wellbeing of elderly individuals. This form helps researchers gather essential information that can contribute to better understanding and care for this vulnerable population. Please take a few minutes to complete the form accurately to support this vital study.

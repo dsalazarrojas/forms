@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect business information for inclusion in a directory. The purpose of this form is to gather details about a merchant, including their name, registration number, category, description, contact details, location, and other relevant information. This form will help us understand the business better and provide a comprehensive directory for customers to find what they are looking for.
-
-Before we begin, please note that you should only fill out this form once for your business. If you need to make changes or updates, please contact us and we'll be happy to assist you.
-
-To ensure that the directory remains accurate and up-to-date, we'll be regularly reviewing and updating the information provided. Your cooperation in maintaining the accuracy of your business information is greatly appreciated.
-
-This form is divided into several sections, each with a specific purpose. Please take a few minutes to complete the form carefully, and we'll do our best to ensure that your business information is accurate and easily discoverable by our customers.
-
-</thinking>
-
 # Business Directory Form - Jaleshwar - Help Guide
 ## Purpose
 This form is designed to collect business information for inclusion in a directory. The goal is to gather details about a merchant, including their name, registration number, category, description, contact details, location, and other relevant information.

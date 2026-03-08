@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for users to participate in a Valentine's Day promotion or giveaway, likely to win prizes or gifts. The form likely has no specific business logic that restricts its use by a particular audience or group of users, so I assume it's for general end-users to participate in the promotion. This form's structure and fields suggest a simple registration process for interested individuals to claim a prize or be entered into a drawing. The purpose of this form is to gather necessary contact and demographic information from participants, including name, email, phone number, favorite items, and other details.
-</thinking>
-
 # valentine_giveaway_form - Help Guide
 ## Purpose
 This form is for participating in a Valentine's Day promotion or giveaway. Enter your details to be entered into a drawing or claim a prize.

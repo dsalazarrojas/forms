@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients for a salon membership payment. The form is likely used in a business or service industry setting, where clients can choose to pay for a membership, such as a gym or a club. The form is designed to collect details about the client, their payment method, and the membership type. The form is likely used by a business to streamline the payment process and ensure accurate and efficient record-keeping. This form may be used in conjunction with other forms or systems to collect payment and track membership status.
-</thinking>
-
 # Salon Membership Payment Form - Help Guide
 ## Purpose
 The Salon Membership Payment Form is used to collect information from clients for a salon membership payment. This form helps the salon staff to efficiently collect payment details and process memberships for clients.

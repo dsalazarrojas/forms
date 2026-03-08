@@ -1,10 +1,3 @@
-<thinking>
-To confirm, this form is for users to register for membership in a birdwatching group excursion. The form collects personal information (name, email, phone, address), membership type and renewal status, birdwatching experience, availability for excursions, interests, and emergency contact information. The form is designed to be completed by users to provide the club with the necessary information to accommodate their needs and preferences for group excursions. 
-
-Please ensure you have read and understood the form purpose before proceeding.
-
-</thinking>
-
 # Birdwatching Group Excursion Membership Form - Help Guide
 ## Purpose
 This form helps us understand your preferences and needs for birdwatching group excursions. By filling it out, you'll help us tailor excursions that fit your interests and abilities. Please answer all questions honestly, and if you're unsure about any field, don't hesitate to reach out to us.

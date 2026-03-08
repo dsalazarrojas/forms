@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure the form is clear and accessible for end-users. This form is for requesting management of contact tags, allowing users to add, modify, or remove tags. It's essential to understand the purpose and requirements to complete it correctly. Let's break down the form's purpose and requirements:
-The purpose of this form is to request the management of contact tags, including adding new tags, modifying existing tags, removing tags, and performing bulk updates. Users need to provide accurate information to ensure the correct management of tags.
-
-Now, let's check if this form duplicates any other forms. While there might be forms related to contact management, none of them seem to be directly related to tag management. Therefore, this form appears to be unique.
-</thinking>
-
 # Contact Tag Management Form - Help Guide
 ## Purpose
 The Contact Tag Management Form is a request for the management of contact tags, allowing users to add, modify, or remove tags.

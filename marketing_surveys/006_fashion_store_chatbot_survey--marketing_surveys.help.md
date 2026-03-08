@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers to help us understand their preferences and interests. This form is part of our marketing efforts to improve our fashion store's customer experience. The form is not required to be completed in one sitting, and you can fill it out at your convenience. Please note that the form is for internal use only, and the information gathered will be used to improve our services.
-</thinking>
-
 # Fashion Store Chatbot Survey - Help Guide
 ## Purpose
 This form is designed to gather information from customers to help us understand their preferences and interests.

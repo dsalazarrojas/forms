@@ -1,11 +1,3 @@
-<thinking>
-This form is a "Product Pricing Overview" form, designed to help marketers and product managers capture key information about a product, including its description, title, price, and competitive positioning. The purpose of this form is to gather necessary data to create a comprehensive product profile, which can be used to inform marketing strategies, product development, and sales decisions.
-
-The form is divided into multiple sections, each focusing on a specific aspect of the product. The goal is to fill out the form accurately and thoroughly, providing relevant details about the product to ensure its success in the market.
-
-Before starting, ensure that the form is relevant to the current product and that the information being collected is not already available in the form's database.
-</thinking>
-
 # Product Pricing Overview - Help Guide
 ## Purpose
 The "Product Pricing Overview" form is a tool to gather essential information about a product, enabling informed marketing, product development, and sales decisions.

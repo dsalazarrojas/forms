@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to assess the level of practice, patient care, and safety protocols in place for infection control. It is meant to help healthcare providers evaluate their current practice level, identify areas for improvement, and develop strategies for better patient outcomes. It is not intended for commercial or personal use, and it's recommended to use it only for internal purposes.
-</thinking>
-
 # Infection Control Assessment Form - Help Guide
 ## Purpose
 This form is designed to help healthcare providers assess their practice level and identify areas for improvement in infection control. It includes questions about practice level, patient care, staff care, patient outcomes, infection control measures, procedures, safety protocols, patient care continuity, and evaluation and improvement.

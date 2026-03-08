@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Treatment Claim Form - Help Guide
 
 ## Purpose

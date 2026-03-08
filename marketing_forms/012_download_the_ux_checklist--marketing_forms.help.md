@@ -1,15 +1,3 @@
-<thinking>
-This form is likely designed for gathering information from users who are downloading some type of document or file from an agency or organization. The form asks for personal details such as first name, email, and phone number, as well as professional details like agency name, address, and phone number. It also asks for information about the document or file being downloaded, such as file type and size, and the time it took to download. This form is probably used for data collection and tracking purposes.
-
-The purpose of this form is to collect data for the agency or organization to track who is downloading the document, how they are using it, and when they are downloading it.
-
-Before filling this form, make sure you have permission to download the document or file. This form should only be filled out for the purpose of downloading a document or file from the agency or organization.
-
-Please fill out this form accurately and thoroughly to ensure that the agency or organization has the correct information.
-
-Note: This form may only be used for official business purposes, and the information collected will be used only for the purpose of tracking downloads and providing customer support.
-</thinking>
-
 # Download The UX Checklist - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users who are downloading a document or file from an agency or organization for data collection and tracking purposes.

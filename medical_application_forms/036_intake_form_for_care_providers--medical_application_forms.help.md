@@ -1,13 +1,3 @@
-<thinking>
-Please note that the purpose of this form is to gather information from care providers about their patients, including demographic details, medical histories, and billing information. This form is designed to help care providers complete a comprehensive intake form for their patients, ensuring that all necessary information is collected and documented accurately. This form may be used in a variety of settings, such as healthcare clinics, hospitals, or private practices.
-
-The form consists of 25 questions, each with a specific type and options. Some questions are multiple-choice, while others are text or date fields. Please review each question carefully and answer according to your knowledge or documentation.
-
-This help guide is intended to support care providers in completing the form accurately and efficiently. If you have any doubts or concerns, please refer to your supervisor or the form's guidelines.
-
-Please ensure that you have reviewed and understand the form's purpose and the required information before proceeding.
-</thinking>
-
 # Intake Form For Care Providers - Help Guide
 ## Purpose
 The Intake Form For Care Providers is a comprehensive form designed to gather essential information from care providers about their patients. This form helps ensure that all necessary details are collected and documented accurately.

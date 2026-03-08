@@ -1,9 +1,3 @@
-<thinking>
-This is a form for students and parents to provide medical information for a trip. 
-This form should not be used for students under 18 as they will need to have a parental consent form signed by a parent/guardian before attending the trip. 
-This form should only be filled out once per student. 
-</thinking>
-
 # trip_medical_form - Help Guide
 ## Purpose
 The trip_medical_form is used to capture the necessary medical information for students to travel on school trips. This information includes medical history, medications, and emergency contact details.

@@ -1,20 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Pregnancy Therapies Consultation Form". This form is designed to collect information from pregnant clients, including their personal details, medical history, and consent to treatment. 
-
-This form is typically used by healthcare professionals to gather relevant information from pregnant clients, which will help them make informed decisions regarding their treatment and care. 
-
-Before filling out this form, please ensure that you have the client's consent to do so, and that the information you collect is accurate and up-to-date. 
-
-Additionally, please note that some fields in this form may be required to ensure the accuracy and effectiveness of the treatment, and therefore may not be optional. 
-
-If you have any questions or concerns while filling out this form, please do not hesitate to reach out to the healthcare team for assistance. 
-
-Please ensure that this form is not duplicated or used for any other purpose without proper authorization. 
-
-This guide is intended to assist you in completing the form accurately and efficiently. 
-
-</thinking>
-
 # Pregnancy Therapies Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information from pregnant clients to make informed decisions regarding their treatment and care.

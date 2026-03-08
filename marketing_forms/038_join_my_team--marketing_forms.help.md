@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about potential team members who are interested in joining your team. This form will collect their personal and contact information to facilitate the joining process. It is essential to ensure that the form is completed accurately and thoroughly, so please take your time to fill it out.
-
-Before proceeding, please check if you have already submitted a similar form. If you've filled out a "Join My Team" form before, it's possible that your information might have already been collected and processed. To avoid duplication, review your recent communications or contact us if you're unsure.
-
-</thinking>
-
 # Join My Team - Help Guide
 ## Purpose
 The "Join My Team" form is designed to collect personal and contact information from individuals interested in joining your team. Please use this guide to ensure you complete the form correctly.

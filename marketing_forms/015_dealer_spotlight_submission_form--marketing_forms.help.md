@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from dealers, highlighting their expertise, and creating a profile for them in the marketing department. It's used to feature dealers in various marketing campaigns and events. Please make sure to fill out this form only if you have not already been featured in a Dealer Spotlight in the past year. Also, please note that this form is meant for one-time submissions only.
-</thinking>
-
 # Dealer Spotlight Submission Form - Help Guide
 ## Purpose
 The Dealer Spotlight Submission Form is used to gather information about dealers and their expertise for marketing campaigns and events.

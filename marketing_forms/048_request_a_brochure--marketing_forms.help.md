@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Request A Brochure - Help Guide
 ## Purpose
 The "Request A Brochure" form is designed to allow customers to request a brochure from our marketing team. This form is used to collect information about the customer's brochure preferences and requirements.

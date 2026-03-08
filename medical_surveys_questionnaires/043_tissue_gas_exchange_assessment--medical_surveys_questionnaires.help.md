@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: The Tissue Gas Exchange Assessment form is a medical survey designed to collect information from patients regarding their respiratory health. This form is not intended for emergency situations, and users should not fill it out in urgent or life-threatening situations. If the form is being filled out as part of an existing survey series, please ensure that all relevant sections are filled out accurately and completely to provide a comprehensive understanding of the patient's medical history and current status. To avoid duplication, please do not fill out this form if you have already provided this information in a previous survey. Please fill out the form carefully, and if you have any doubts or concerns, please ask for clarification from the medical team.</thinking>
-
 # Tissue Gas Exchange Assessment - Help Guide
 ## Purpose
 The Tissue Gas Exchange Assessment form is used to collect information on a patient's respiratory health. This includes gathering information on their patient history, medical history, allergies, medication, oxygen therapy, and other relevant medical conditions.

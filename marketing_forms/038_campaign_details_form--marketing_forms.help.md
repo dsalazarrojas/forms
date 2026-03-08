@@ -1,12 +1,3 @@
-<thinking>
-This form is likely a part of a larger marketing or project management system. Its purpose is to gather information about a campaign, which could be a promotional effort, a project, or any other endeavor that requires planning and tracking. The form is designed to be completed by the person responsible for the campaign or project. It's likely used to plan and organize the campaign's details before it starts.
-
-The form's design follows best practices for usability and accessibility. It's structured into sections with clear labels and hints to help the user understand what information is required and why.
-
-To avoid duplication, the form should only be filled out for each new campaign. If you're updating an existing campaign, make sure to review the guide and adjust your answers accordingly.
-
-</thinking>
-
 # Campaign Details Form - Help Guide
 ## Purpose
 The Campaign Details Form is used to plan and track campaign details. This information helps the marketing team to prepare for the campaign launch and measure its success.

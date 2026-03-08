@@ -1,11 +1,3 @@
-<thinking> 
-  The purpose of this form is to gather marketing and design requests from end-users. It is used to collect information about marketing and design needs to help with the creation of marketing and design assets for an entity.
-  
-  To complete this form, simply fill out the fields with the required information.
-  
-  This form is meant to be used in a marketing context, and the fields are explained below.
-  </thinking>
-
 # marketing_and_design_request_form - Help Guide
 ## Purpose
 This form is used to collect marketing and design requests from end-users.

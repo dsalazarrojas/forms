@@ -1,20 +1,3 @@
-<thinking>
-This help guide will cover the Mental Health Counselor Information Form, a tool used to collect essential details about mental health counselors. This form serves as a reference point for both the counselor and the administrators reviewing their information. 
-
-Before filling out this form, please ensure that the information is accurate and up-to-date. It is recommended to review the form carefully and make sure all required fields are completed. This form is not intended to be used for any other purpose than for collecting information about mental health counselors. Please note that this form is a one-time information collection tool and does not require completion on a regular basis unless specified otherwise. 
-
-If you are a mental health counselor looking to get listed on our platform, please ensure you have all necessary credentials and certifications as required by law and professional standards. 
-
-If you are a new mental health counselor, please do not submit this form until you have all necessary credentials and certifications in place. 
-
-Before submitting your information, ensure that you have reviewed and understood this form's purpose and use. 
-
-Please do not fill out this form for any other reason or individual other than a mental health counselor. 
-
-If you are unsure about any part of this form, please contact us before proceeding.
-
-</thinking>
-
 # Mental Health Counselor Information Form - Help Guide
 ## Purpose
 This form is designed to collect and maintain accurate and up-to-date information about mental health counselors who wish to get listed on our platform. It is essential to ensure that the information provided is accurate, comprehensive, and meets the required standards for listing.

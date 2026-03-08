@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <del>
 
 # Healthcare Communication Research Application Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Physician Work Setting Assessment" form. This form is designed to assess the work environment and experiences of physicians, focusing on various aspects of their work setting, workload, communication, team size, and burnout factors. The form will help identify areas of improvement for physician well-being and work environment.
-</thinking>
-
 # Physician Work Setting Assessment - Help Guide
 ## Purpose
 The "Physician Work Setting Assessment" form is designed to gather information about your work setting and experiences as a physician. This assessment will help us understand your work environment and identify areas where improvements can be made to support your well-being and work performance.

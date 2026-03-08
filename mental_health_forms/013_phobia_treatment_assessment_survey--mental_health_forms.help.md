@@ -1,5 +1,3 @@
-<thinking>... this form is designed to help mental health professionals assess the severity of phobias in patients and create a treatment plan tailored to their specific needs... the form should only be filled out by mental health professionals for diagnostic purposes... please ensure you are authorized to access and complete this form... also, be aware that this form is not a substitute for a professional evaluation or diagnosis... if you are a patient, please do not complete this form without consulting a mental health professional first... now, let's dive into the form guide!</thinking>
-
 # Phobia Treatment Assessment Survey - Help Guide
 ## Purpose
 The Phobia Treatment Assessment Survey is a tool designed to help mental health professionals evaluate the severity of phobias and create a personalized treatment plan for patients. This form is not a substitute for a professional evaluation or diagnosis, and it is recommended that it be completed by a licensed mental health professional only.

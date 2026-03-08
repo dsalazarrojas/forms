@@ -1,5 +1,3 @@
-<thinking>Injection Therapy Intake Form is used for patients to provide necessary information about their injection therapy treatment. This form helps healthcare providers collect vital data about the patient's medical history, allergies, and treatment preferences. To avoid duplication, please ensure you have not already completed this form for this patient. If you have any questions or concerns, reach out to the healthcare provider.</thinking>
-
 # Injection Therapy Intake Form - Help Guide
 ## Purpose
 The Injection Therapy Intake Form is used to collect information about a patient's medical history, allergies, and injection therapy treatment preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing notes from sessions with clients, providing a structured way to document key events, actions, and next steps. Before proceeding, ensure you've reviewed the client's profile and case details to ensure this form is relevant and doesn't duplicate existing information. This form should be completed for each session with the client.
-</thinking>
-
 # Daily Case Notes Form - Help Guide
 
 ## Purpose

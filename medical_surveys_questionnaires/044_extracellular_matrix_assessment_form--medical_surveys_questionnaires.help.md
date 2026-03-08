@@ -1,7 +1,3 @@
-<thinking>
-To create a helpful guide for this form, I need to understand its purpose and requirements. The form seems to be related to the assessment of extracellular matrix factors, likely in a medical context. Given the fields, the form likely aims to collect patient information, symptoms, and other factors related to this assessment. I will make sure to cover each field in a clear and concise way, without inventing unsupported business logic.
-</thinking>
-
 # extracellular_matrix_assessment_form - Help Guide
 ## Purpose
 This form is designed to gather information related to the assessment of extracellular matrix factors in a medical context. It is intended to collect patient information, symptoms, and other relevant factors to aid in the evaluation and diagnosis process.

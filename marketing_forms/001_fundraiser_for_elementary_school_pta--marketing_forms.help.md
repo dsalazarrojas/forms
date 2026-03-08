@@ -1,7 +1,3 @@
-<thinking>
-To prevent non-duplication of effort and maintain accuracy, we should first clarify the purpose and target audience of this form. The "Fundraiser for Elementary School PTA" form is designed to gather information from elementary school PTAs to help them organize and promote fundraising activities. This form will likely be used by PTA/PTO administrators, teachers, or other school staff members. The form's purpose is to collect details about the fundraiser, such as the type, target amount, and sharing preferences. By completing this form, users will be able to create a comprehensive plan for their fundraising event.
-</thinking>
-
 # Fundraiser for Elementary School PTA - Help Guide
 ## Purpose
 This form is designed to help elementary school PTAs organize and promote fundraising activities.

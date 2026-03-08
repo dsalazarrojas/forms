@@ -1,15 +1,3 @@
-<thinking>
-This guide will help you understand what the Trauma Exposure And Impact Survey is and how to complete it effectively.
-The purpose of this survey is to collect information about your experiences of being exposed to trauma. This guide is for users who are taking the survey themselves, not for reference or administrative staff who may need to review answers on behalf of others.
-To ensure that all responses are accurate and meaningful, please note that:
-
-* This form is for personal use only. If you're filling this form on behalf of another person, please do not complete it. Instead, please have them fill it themselves.
-* Please fill the form in a quiet, private space where you can take your time and think clearly.
-* If you have trouble understanding any question or section, please refer to the field-by-field explanation below.
-
-If you've already completed a similar survey, please don't repeat your previous answers. Each time you take the survey, you'll be answering questions about your current experiences and feelings.
-</thinking>
-
 # Trauma Exposure And Impact Survey - Help Guide
 ## Purpose
 The Trauma Exposure And Impact Survey is a tool designed to help you understand and document your experiences of being exposed to trauma. It's a self-reporting tool, so please complete it on your own and don't fill it out on behalf of someone else.

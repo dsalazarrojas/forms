@@ -1,8 +1,3 @@
-<thinking>
-Form "visual_preference_survey" is a tool for evaluating the visual preferences of a building or design project. The form collects information on various aspects of a building, including its type, orientation, size, height, color, material, site characteristics, view angle, location, and environment. The data collected will help designers, architects, or project managers to better understand the client's visual preferences and make informed decisions about the building's design. This form is designed to be user-friendly and straightforward, requiring minimal effort to complete. It is not affiliated with any form platform and is an original creation.
-
-</thinking>
-
 # visual_preference_survey - Help Guide
 ## Purpose
 The visual_preference_survey form is a tool for collecting information on the visual preferences of a building or design project. It is designed to help designers, architects, or project managers understand the client's visual preferences and make informed decisions about the building's design.

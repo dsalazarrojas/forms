@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Eye And Ear Infection Quiz - Help Guide
 ## Purpose
 This form is designed to help identify potential ear and ear related issues you are experiencing. Please answer the questions thoroughly and honestly to help us better understand your situation.

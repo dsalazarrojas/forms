@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect comprehensive information from patients regarding their medical history, habits, and preferences to provide alternative medicine treatment. It's essential to ensure that the patients understand the nature of alternative medicine, which might not be covered by conventional medical insurance. This form is not a replacement for conventional medical treatment but rather a supplement to it. Please make sure to fill it out accurately to ensure the best possible outcome. If you have any questions or concerns, feel free to ask your healthcare provider.
-</thinking>
-
 # Alternative Medicine Patient Intake Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about your medical history, habits, and preferences to provide alternative medicine treatment. It's essential to understand that alternative medicine might not be covered by conventional medical insurance, and you should be aware of that before proceeding.

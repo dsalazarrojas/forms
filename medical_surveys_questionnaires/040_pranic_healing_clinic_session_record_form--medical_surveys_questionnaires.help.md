@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to record information about pranic healing clinic sessions, including session details, client information, and practitioner information. This form helps to track and record data for each session, ensuring accurate and efficient maintenance of records. Please ensure that this form is not used for other purposes or for duplicate sessions.
-</thinking>
-
 # Pranic Healing Clinic Session Record Form - Help Guide
 ## Purpose
 This form is designed to record detailed information about pranic healing clinic sessions, including session specifics, client data, and practitioner data. The form helps to streamline the process of recording and maintaining accurate session records.

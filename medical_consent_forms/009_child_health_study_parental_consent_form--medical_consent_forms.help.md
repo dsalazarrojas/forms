@@ -1,5 +1,3 @@
-<thinking>As a researcher, you want to ensure that parents or guardians of participants in a health study understand the process and implications of their child's participation. This form, "Child Health Study Parental Consent Form," is designed to inform and obtain consent from parents or guardians before their child can participate in a study. It's crucial to ensure that each parent or guardian understands the study's purpose, procedures, risks, and benefits, as well as their own rights and responsibilities. Before proceeding, please review the form carefully and ask the research team if you have any questions or concerns. This guide will walk you through each section of the form, explaining what information is required and why.</thinking>
-
 # Child Health Study Parental Consent Form - Help Guide
 ## Purpose
 The "Child Health Study Parental Consent Form" is a critical document that ensures parents or guardians of participants in a health study understand the process and implications of their child's participation. It helps inform them about the study's purpose, procedures, and risks, and obtain their consent before the child can participate.

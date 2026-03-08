@@ -1,8 +1,3 @@
-<thinking>
-The form seems to be designed for research grant applications in the context of animal nutrition. The purpose of this form is to collect information from lead researchers about their proposed research projects, including details about the project's title, abstract, specific nutrients or diets under study, study duration, total budget requested, budget breakdown, IACUC or ethical approval status, recent publications, and contact email. This form likely serves to streamline the process of submitting research grant applications, ensuring that all necessary information is provided in a clear and concise manner. Before proceeding, please ensure that you have reviewed the form's requirements and have all necessary information ready to be inputted. It is recommended to review the form carefully to avoid any potential errors or omissions. If you are unsure about any of the fields, please refer to the explanations provided below.
-
-</thinking>
-
 # Animal Nutrition Research Grant Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from lead researchers about their proposed research projects in the field of animal nutrition.

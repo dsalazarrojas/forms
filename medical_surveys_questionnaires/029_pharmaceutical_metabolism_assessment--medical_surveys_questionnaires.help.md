@@ -1,7 +1,3 @@
-<thinking>
-This form is used for assessing the pharmaceutical metabolism of a patient. It's likely a medical professional's tool for gathering information about a patient's treatment and health status. To determine if this form should be filled out by a specific user, we would check if the user is a medical professional, such as a doctor, nurse, or pharmacist, and if they are interacting with the form within a medical setting, such as a hospital or clinic. If it's not a medical professional or not in a medical setting, it's not likely the correct form for the user.
-</thinking>
-
 # Pharmaceutical Metabolism Assessment - Help Guide
 ## Purpose
 The Pharmaceutical Metabolism Assessment form is used to collect information about a patient's medical history, current treatment, and health status to help medical professionals assess their pharmaceutical metabolism.

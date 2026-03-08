@@ -1,5 +1,3 @@
-<thinking>This form is designed for customers who want to enroll in a fitness program at your facility. It gathers information about the customer's basic demographic information, fitness goals, and membership preferences. This form should be used by customers who have not previously registered or have not been a member of the facility within the last 12 months. Please ensure that each field is accurate and up-to-date to facilitate effective communication and planning for your services. If you are an existing member, do not fill out this form as it will not allow you to register for services. </thinking>
-
 # Fitness Flyer Form - Help Guide
 
 ## Purpose

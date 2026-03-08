@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Treatment Plan Development Form - Help Guide
 
 ## Purpose

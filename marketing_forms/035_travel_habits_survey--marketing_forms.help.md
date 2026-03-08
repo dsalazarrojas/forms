@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my primary goal is to create a clear and concise help guide that assists end-users in filling out the "Travel Habits Survey" form. I will carefully analyze the form's YAML structure to ensure that each field's label, type, and options are explained in a way that makes sense to the user. Before creating the help guide, I will review the form's purpose, structure, and content to identify any potential issues or areas that require further explanation. I will also consider the user's experience level, ensuring that the guide is accessible to users with varying levels of technical knowledge and familiarity with the form's content.</thinking>
-
 # Travel Habits Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about your travel habits, preferences, and restrictions. This will help us better understand your travel behaviors and improve our travel-related services.

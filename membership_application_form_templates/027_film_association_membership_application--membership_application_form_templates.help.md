@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in joining or already member of the Film Association. The goal is to gather basic contact information and membership status.
-The fields are designed to be straightforward and easy to fill out. The form consists of eight sections.
-Each field should only be filled out once and accurately.
-</thinking>
-
 # Film Association Membership Application - Help Guide
 ## Purpose
 This form is used to apply for or update membership status in the Film Association.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cancellation Survey - Help Guide
 ## Purpose
 

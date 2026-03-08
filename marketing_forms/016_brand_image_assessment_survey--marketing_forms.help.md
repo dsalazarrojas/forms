@@ -1,8 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata as inspiration, without any affiliation or derivation from any form platform.
-The form is designed to assess the brand image of a company, allowing respondents to provide their perspective on how well the brand is perceived. The purpose of this form is to gather feedback from customers, employees, partners, or stakeholders who have interacted with the brand.
-</thinking>
-
 # Brand Image Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gauge the brand image of a company, gathering feedback on its perceived value, trust level, and overall reputation. It's meant to help the brand improve its perception among various groups, including customers, employees, partners, and stakeholders.

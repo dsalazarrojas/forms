@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Awareness Of Sustainable Tourism Survey - Help Guide
 ## Purpose
 This form aims to assess public awareness and attitudes towards sustainable tourism. The goal is to gather information on the public's understanding and feelings about sustainable tourism practices.

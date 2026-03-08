@@ -1,7 +1,3 @@
-<thinking>
-To be honest, this form's purpose seems straightforward - it's a survey to assess the quality of end-of-life care communication between patients and healthcare staff. It appears to be a part of a larger effort to improve patient experience and staff performance in this specific aspect of care. Given the form's structure, it's likely intended for caregivers to evaluate the frequency and quality of communication with patients who are nearing the end of their lives. The questions cover various aspects of care, including emotional support, pain management, and staff professionalism.
-</thinking>
-
 # End Of Life Care Communication Survey - Help Guide
 ## Purpose
 This form is designed to assess the quality of end-of-life care communication between patients and healthcare staff. It helps to understand the effectiveness of communication, staff performance, and areas of improvement.

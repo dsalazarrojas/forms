@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # create_your_account_and_playlist - Help Guide
 ## Purpose
 This form is designed to collect information about your account and playlist details for marketing purposes. Please fill out this form to create your account and provide necessary details about your playlist.

@@ -1,9 +1,3 @@
-<thinking>... This form appears to be a survey about the impact of COVID-19 on e-commerce businesses. It seems to be a self-reporting tool, designed to gather information about how businesses were affected by the pandemic and how they responded to its effects. The form asks questions about sales, customer behavior, and business operations during and after the pandemic. The questions cover various aspects, such as revenue, investor relations, supply chain, and future plans.
-
-I'll assume that the form is meant for businesses that have been affected by the pandemic and are trying to adapt to the new circumstances. I will not output any YAML code as per your instructions, but instead, create a concise and practical user guide in Markdown format.
-
-</thinking>
-
 # impact_of_coronavirus_on_e_commerce_survey - Help Guide
 ## Purpose
 This form is a self-reporting tool designed to gather information about how businesses were affected by the COVID-19 pandemic and how they responded to its effects.

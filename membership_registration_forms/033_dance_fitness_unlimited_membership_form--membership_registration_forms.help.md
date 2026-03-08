@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users sign up for a membership at Dance Fitness Unlimited. The purpose of this form is to collect necessary information from potential members, including their plan selection, name, contact details, payment method, and agreement to terms and conditions. This guide will walk you through how to complete the form step-by-step.
-</thinking>
-
 # Dance Fitness Unlimited Membership Form - Help Guide
 ## Purpose
 This form is for signing up for a membership at Dance Fitness Unlimited. Please complete the form with accurate information to ensure a smooth onboarding process.

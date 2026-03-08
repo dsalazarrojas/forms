@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assist mental health professionals in collecting and recording communication and medical history from patients. The form's primary purpose is to ensure accurate and thorough documentation of the patient's mental health status, medical history, and any prescribed medication. This form will help mental health professionals communicate effectively with their patients and provide personalized care.
-Before filling out this form, please ensure you have a clear understanding of its purpose and relevance. This form should not be duplicated in your organization or used for purposes other than its intended use in mental health communication.
-</thinking>
-
 # mental_health_communication_form - Help Guide
 ## Purpose
 This form is designed to aid mental health professionals in collecting and recording vital information about a patient's mental health status, medical history, and medication. It serves as a communication tool between the practitioner and the patient, ensuring accurate and thorough documentation for personalized care.

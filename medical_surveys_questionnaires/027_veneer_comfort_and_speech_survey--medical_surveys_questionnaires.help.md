@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veneer Comfort And Speech Survey - Help Guide
 
 ## Purpose

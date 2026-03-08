@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be for collecting registration information from snack brands that are interested in collaborating with a particular platform or program. It seems that the form is for a snack brand to provide their details and preferences for collaboration. The form asks questions such as what collaboration requests the brand has, what submission status they expect, and more details about the submission. The purpose of the form is likely for the platform administrators to review and manage snack brand submissions. It is not clear if the form is for internal use within a company or for external use by a third-party organization.
-
-Given the structure of the form, it appears that some of the fields are for follow-up questions or additional comments. The form does not seem to be for a general survey or public registration, but rather for specific collaboration requests.
-
-Before proceeding, ensure that this form is not a duplicate of an existing form and that it is not affiliated with any other form platform. This form is a generated form, created using AI and public survey metadata.
-</thinking>
-
 # Snack Brand Collaboration Registration Form - Help Guide
 ## Purpose
 The Snack Brand Collaboration Registration Form is designed for snack brands to provide information and preferences for collaboration with a particular platform or program. This form is intended for review and management by platform administrators.

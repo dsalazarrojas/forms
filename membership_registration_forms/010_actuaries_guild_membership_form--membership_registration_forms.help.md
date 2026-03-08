@@ -1,13 +1,3 @@
-<thinking>
-
-The Actuaries Guild Membership Form is designed to allow potential members to register themselves and provide necessary information to be considered for membership. This form is meant for actuaries who are interested in joining the Guild and becoming part of a community that promotes the highest standards of professionalism and expertise. To avoid duplication of efforts, we encourage users to review the form carefully and ensure that they are providing accurate and complete information.
-
-The form is divided into two sections: "Personal Details" and "Professional Background". The first section collects contact and personal information, while the second section requires more specific details about the applicant's professional experience and background.
-
-To ensure accurate and efficient processing of applications, it is essential to fill out the form completely and correctly. Please take the time to review each field and provide the necessary information.
-
-</thinking>
-
 # Actuaries Guild Membership Form - Help Guide
 ## Purpose
 

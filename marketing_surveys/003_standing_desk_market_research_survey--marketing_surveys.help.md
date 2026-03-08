@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather data on standing desk usage and market research in the context of office furniture sales. It is likely used to collect information on the frequency and intent of purchasing standing desks, as well as the company size and department of the respondents. 
-The form appears to be a mix of single and multiple select questions, with some fields marked as required while others are not. This suggests that the form is intended to capture both demographic and attitudinal data. It is possible that the form is used to inform product development, sales, and marketing strategies for standing desks. However, without further information, it is difficult to determine the exact purpose and usage of this form.
-Before creating the help guide, I will review the form structure and fields to ensure that the explanation is accurate and clear. 
-</thinking>
-
 # standing_desk_market_research_survey - Help Guide
 ## Purpose
 This form is designed to gather data on standing desk usage and market research to inform office furniture sales and product development strategies.

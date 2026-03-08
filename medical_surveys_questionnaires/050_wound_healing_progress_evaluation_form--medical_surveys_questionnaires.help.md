@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Wound Healing Progress Evaluation Form is a tool used to assess the progress of a patient's wound healing process. It is used to track the patient's condition, expected recovery time, and other relevant information. 
 
 The form is designed to be completed by healthcare professionals to provide a comprehensive evaluation of the patient's wound healing progress.

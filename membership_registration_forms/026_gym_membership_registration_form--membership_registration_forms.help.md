@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and that users don't get confused or mislead other users by using it for something else. This form is specifically designed for gym membership registration, and we want to make sure users understand how to complete it properly.
-</thinking>
-
 # Gym Membership Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals to register for a gym membership. It collects information about the registrant, including their name, contact details, and membership preferences.

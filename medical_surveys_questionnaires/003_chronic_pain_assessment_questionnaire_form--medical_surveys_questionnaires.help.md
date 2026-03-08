@@ -1,10 +1,3 @@
-<thinking>
-Checking for relevance and non-duplication: 
-
-This guide will cover the Chronic Pain Assessment Questionnaire Form. This form is used to collect information about a patient's chronic pain experience, including demographics, pain location and onset, pain intensity and characteristics, impact on daily life, and current treatments and medications. This guide will walk you through each section and field of the form, explaining its purpose and how to complete it correctly.
-
-</thinking>
-
 # Chronic Pain Assessment Questionnaire Form - Help Guide
 ## Purpose
 The Chronic Pain Assessment Questionnaire Form is a tool used to gather information about a patient's chronic pain experience. This form helps healthcare providers understand the patient's pain, its severity, and its impact on daily life. The collected data will aid in developing a comprehensive treatment plan to alleviate the patient's pain.

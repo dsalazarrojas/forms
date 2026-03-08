@@ -1,8 +1,3 @@
-<thinking>
-The Reiki Intake Form is a document used to gather information about a client's Reiki experience, preferences, and contact details. This form is designed to be completed by the client or their representative in preparation for a Reiki session or consultation. 
-The form is divided into several sections, each with its own purpose and requirements. The main purpose of this form is to ensure that the client's needs and expectations are met during the session, and to provide the practitioner with necessary information to tailor the treatment to the client's specific needs. 
-</thinking>
-
 # Reiki Intake Form - Help Guide
 ## Purpose
 The Reiki Intake Form is a document used to gather information about a client's Reiki experience, preferences, and contact details. This form is designed to be completed by the client or their representative in preparation for a Reiki session or consultation.

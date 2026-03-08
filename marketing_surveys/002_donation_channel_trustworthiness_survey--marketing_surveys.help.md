@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the trustworthiness of different donation channels and gather contact information of the participants. The purpose of this form is to help us understand the level of trust people have in various donation channels and to gather contact information for follow-up purposes. It is not intended to be used for any other purpose. Please fill out this form only if you have participated in a donation channel and have some level of experience with it. This form is designed to collect information about your experience with different donation channels, so please answer the questions accordingly. If you are not sure about the answer to any question, please answer based on your best judgment. We appreciate your honesty and accuracy in filling out this form.
-</thinking>
-
 # Donation Channel Trustworthiness Survey - Help Guide
 ## Purpose
 The Donation Channel Trustworthiness Survey is designed to collect information about your experience with different donation channels. The survey will ask you to rate your trust in various donation channels and provide your contact information for follow-up purposes.

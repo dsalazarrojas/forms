@@ -1,20 +1,3 @@
-<thinking>
-
-This form is intended to be a mental health check-in survey to monitor and assess an individual's mental well-being. It appears to be designed to capture various aspects of mental health, including anxiety, stress, burnout, depression, and other related factors. The form likely aims to provide a comprehensive understanding of an individual's mental health state, possibly for tracking purposes or to guide further assistance.
-
-To avoid duplication, it's crucial to note that this form is not intended to be a diagnostic tool or a substitute for professional medical advice. The information collected through this form should not be used as the sole basis for making medical decisions or providing treatment recommendations.
-
-Before proceeding, consider the following:
-
-* Is the form being used in a clinical setting where professional medical expertise is available?
-* Are the questions aligned with established mental health frameworks or scales (e.g., GAF, DSM-5)?
-* Are the questions sensitive to an individual's mental state and potentially distressing?
-* Are there any concerns about the form's cultural or language limitations?
-
-If the form is being used in a context where it may cause distress or is not aligned with professional standards, please reevaluate its deployment.
-
-</thinking>
-
 # mental_health_check_in_survey - Help Guide
 ## Purpose
 The mental health check-in survey is designed to assess an individual's mental wellbeing by asking a series of questions regarding their mental state.

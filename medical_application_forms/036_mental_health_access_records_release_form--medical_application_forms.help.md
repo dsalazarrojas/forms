@@ -1,8 +1,3 @@
-<thinking>
-The Mental Health Access Records Release Form is used to collect information from patients about their mental health treatment and release preferences. This form is intended for medical professionals to gather necessary data for patient care and ensure that the patient's rights and preferences are respected. **Please ensure that this form is only filled out by patients or their authorized representatives.** 
-
-</thinking>
-
 # Mental Health Access Records Release Form - Help Guide
 ## Purpose
 The Mental Health Access Records Release Form is designed to collect patient-specific information for mental health treatment and care. It helps medical professionals understand a patient's medical history, treatment preferences, and consent status.

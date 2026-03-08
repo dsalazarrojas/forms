@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in learning more about our company and its services. The form is intended to gather contact information, roles, and any additional comments that may be relevant for further communication. It is crucial to fill out this form accurately to ensure that our team can follow up with you effectively. Please note that filling this form multiple times with different information will be considered redundant and not processed.
-</thinking>
-
 # Register Your Interest Form - Help Guide
 
 ## Purpose

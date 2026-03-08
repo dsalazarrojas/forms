@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Report Form - Help Guide
 ## Purpose
 

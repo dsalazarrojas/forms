@@ -1,9 +1,3 @@
-<thinking>
-This form is for gathering information from end users to better understand their shopping habits and preferences in the retail market. The goal is to gather data on their demographics, shopping frequency, and contact method preferences. This form is intended to be completed by end users who are part of the retail market. The data collected will be used to inform future marketing strategies and improve customer experience. There should be no duplication of this form as the information gathered will be used to create a comprehensive and accurate picture of the retail market.
-
-Please note that some fields in this form are optional and only required information will be used for analysis. Also, the "Other" option is provided in some select_one fields to give users the flexibility to choose an answer that is not explicitly listed.
-</thinking>
-
 # Retail Market Research Survey - Help Guide
 ## Purpose
 This Retail Market Research Survey is designed to gather information from end users about their shopping habits and preferences in the retail market. The data collected will be used to inform future marketing strategies and improve customer experience.

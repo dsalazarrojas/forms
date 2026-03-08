@@ -1,8 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's consider the context and content. This form appears to be designed for healthcare professionals to gather information from suspected patients of COVID-19. The form likely serves as an intake tool for medical professionals to collect relevant patient data, including symptoms, medical history, and contact information, to facilitate proper assessment and treatment.
-Before proceeding, ensure that you are using this form correctly and that the information is not duplicate or redundant. For instance, ensure that the contact information provided is not already known to the medical facility or healthcare professional.
-</thinking>
-
 # Coronavirus Suspected Patient Intake Form - Help Guide
 
 ## Purpose

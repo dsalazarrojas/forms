@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Rewards Redemption Log Form is to log and record rewards redemptions for customers, helping the business track and manage redemptions efficiently. This form is part of the company's reward program, allowing customers to provide feedback and insight into their reward redemptions, which can help improve the program's quality and customer experience. It's essential to complete this form accurately and thoroughly to provide valuable feedback.
-
-Before filling out this form, make sure you haven't already submitted a similar entry, as duplicate entries can lead to unnecessary data duplication and potential errors in analysis.
-
-To complete this form correctly, follow the instructions below.</thinking>
-
 # Rewards Redemption Log Form - Help Guide
 ## Purpose
 The Rewards Redemption Log Form is used to record and track rewards redemptions for customers, providing valuable feedback and insight to improve the reward program.

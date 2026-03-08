@@ -1,17 +1,3 @@
-<thinking>
-
-This form is a medical survey questionnaire designed to gather information about the implementation of Parent-Child behavioral systems. The purpose of this form is to collect data on the parent and child implementation of behavioral systems, with a focus on various aspects of parent and child implementation. The form is intended to be completed by individuals who have knowledge or experience with these systems.
-
-Before proceeding, please ensure that you have a solid understanding of the topic and are familiar with the context of parent and child implementation in behavioral systems. This form is not designed to be a comprehensive resource for beginners, but rather a tool for gathering specific data from individuals with experience in the field.
-
-To use this form effectively, please ensure that you have answered every field accurately and thoroughly. If a field is not applicable to your situation, please provide a clear explanation or note that it is not applicable. If you are unsure about any field, please seek guidance from a relevant expert or professional.
-
-The form has 25 fields, divided into multiple sections. Each field is labeled with its corresponding name and has a specific type and requirement status. Please review each field carefully and provide the requested information.
-
-Please note that this form is a public domain adaptation of a form created using AI, and it is not affiliated with any form platform. The information collected through this form will be used for research and educational purposes only.
-
-</thinking>
-
 # Example_PBS_Form - Help Guide
 ## Purpose
 The Example_PBS_Form is a medical survey questionnaire designed to gather information about the implementation of Parent-Child behavioral systems. The form is intended to collect data on various aspects of parent and child implementation.

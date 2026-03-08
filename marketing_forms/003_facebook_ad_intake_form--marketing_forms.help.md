@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to provide a clear understanding of the Facebook Ad Intake Form. Before filling out this form, please ensure that you are a relevant stakeholder and that you are not duplicating an existing process. The form is used to gather crucial information about a Facebook ad campaign. It collects details such as page title, page link, ad description, client name, client email, ad image URL, target audience, ad budget, ad spend, start date, and end date.
 
 # Facebook Ad Intake Form - Help Guide

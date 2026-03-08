@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by clients, prospects, and partners to express their needs, concerns, or inquiries related to their business relationship with your company. It's meant to be completed in conjunction with sales meetings, service delivery, or follow-up interactions. 
-
-The form will help you gather information about the client's needs, expectations, and current state of their relationship with your company, allowing your team to better understand and cater to their needs, strengthen relationships, and build trust. 
-
-Please ensure the form is filled out in its entirety and that all required fields are completed. 
-
-</thinking>
-
 # Client Relationship Optimization Contact Form - Help Guide
 
 ## Purpose

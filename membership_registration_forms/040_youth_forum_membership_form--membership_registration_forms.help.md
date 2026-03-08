@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow individuals to register themselves or their children/wards as members of a youth forum. The form is intended for parents or legal guardians to provide information about themselves and their child. The form is used to capture the necessary details such as name, contact information and date of birth to verify membership eligibility. This form is not intended to be used for other purposes.
-</thinking>
-
 # youth_forum_membership_form - Help Guide
 ## Purpose
 The youth forum membership form is used to register members of a youth forum. To register, a parent or legal guardian must provide accurate and up-to-date information about themselves and their child.

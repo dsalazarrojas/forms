@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for this form to ensure end-users understand its purpose, how to complete it, and what each field means. The form is called the "Emergency Medical Consent Form" and it seems to be related to medical emergency situations. Upon reviewing the YAML, I notice that it includes fields for patient information, medical event details, contact information, and other relevant fields. I will make sure to cover each field and provide clear explanations to ensure users complete the form accurately and correctly. I will also add a "Tips" section to provide additional guidance.</thinking>
-
 # Emergency Medical Consent Form - Help Guide
 ## Purpose
 The Emergency Medical Consent Form is used to provide critical information about a patient's medical emergency situation. This includes details about the patient's medical event, contact information, and other relevant medical history. The form is intended to be used by medical professionals to quickly gather necessary information in emergency situations.

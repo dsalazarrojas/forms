@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used for scheduling appointments with healthcare providers. The form captures information about the patient's details, appointment schedule, and other relevant details. 
-
-Before proceeding, please ensure you have the necessary permissions to access this form and that you have read and understood the purpose of this form. The form is designed to be filled out by patients, but also has fields that may be relevant to healthcare providers.
-
-</thinking>
-
 # Online Doctor Appointment Form - Help Guide
 ## Purpose
 The online doctor appointment form is designed to collect information from patients to schedule appointments with healthcare providers. This form helps healthcare providers manage their schedules and patient interactions.

@@ -1,22 +1,3 @@
-<thinking>
-This form is intended to gather information about why customers are cancelling their subscriptions. This data will help our team understand customer needs and preferences, making it possible to improve our services. Please note that this survey is a one-time opportunity to provide feedback, so be as detailed as possible in your responses. This form will not affect your subscription status.
-
-To ensure accurate data, please do not complete this form if you are currently in the process of renewing or reactivating your subscription. If you have already submitted feedback, you can disregard this request.
-
-Before proceeding, please review the following fields:
-
-* Customer Cancelled: A text field for you to type in your cancellation reason.
-* Reason for Cancellation: A dropdown menu of possible reasons for cancellation, choose the one that best describes your situation.
-* Service Improvement Area: A multi-select menu of ways that our service can be improved.
-* Customer Recommendation: A text field for any suggestions or ideas you might have.
-* Cancellation Details: A text field for any additional comments or details about your cancellation.
-* Satisfaction Level: A dropdown menu to rate your overall satisfaction with our service.
-* Cancellation Date: The date you are cancelling your subscription.
-* Cancellation Time: The time you are cancelling your subscription.
-
-Please make sure to fill out all the required fields and choose at least one reason for cancellation.
-</thinking>
-
 # Subscription Cancellation Survey Form - Help Guide
 ## Purpose
 This form is intended to gather information about why customers are cancelling their subscriptions. This data will help our team understand customer needs and preferences, making it possible to improve our services.

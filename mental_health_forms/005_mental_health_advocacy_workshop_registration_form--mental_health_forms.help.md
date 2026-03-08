@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in attending a mental health advocacy workshop. The form is not intended to be used for official registration or payment purposes, but rather to collect contact information and workshop preferences from potential attendees. Before proceeding, please ensure you are not already registered for this workshop as duplicate submissions will be discarded. This form is an AI-generated template, and its content is not affiliated with or endorsed by any specific form platform.
-</thinking>
-
 # mental_health_advocacy_workshop_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in attending a mental health advocacy workshop. Please fill out the form to express your interest and preferences.

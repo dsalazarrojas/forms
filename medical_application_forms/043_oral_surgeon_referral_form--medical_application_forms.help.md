@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Oral Surgeon Referral Form - Help Guide
 ## Purpose
 The Oral Surgeon Referral Form is designed for referring healthcare professionals to provide medical information about their patients to the Oral Surgery department at the hospital. This form is used to facilitate the evaluation and treatment of patients by the oral surgery team.

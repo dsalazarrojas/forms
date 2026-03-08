@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I'll carefully craft a user-friendly help guide for the "Volunteers Hub Liberia New Volunteer SignUp Form". To ensure the guide is comprehensive and easy to follow, I'll first consider the form's purpose, which is likely to gather essential information from potential volunteers for the "Volunteers Hub Liberia" organization. I'll review the form's fields to understand their requirements and create a detailed guide that explains each field's intent and expected input. This thought process will help me provide a clear and concise guide that meets the needs of end-users.</thinking>
-
 # Volunteers Hub Liberia New Volunteer SignUp Form - Help Guide
 ## Purpose
 The "Volunteers Hub Liberia New Volunteer SignUp Form" is designed to collect information from potential volunteers who are interested in joining the organization. By filling out this form, you'll help us get to know you better and ensure that you're a good fit for our volunteer opportunities.

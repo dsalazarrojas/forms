@@ -1,7 +1,3 @@
-<thinking>
-The form is used to request a banner for various marketing purposes. Before filling out this form, please ensure you have a clear idea of what type of banner you need, its purpose, and when it's required. Also, make sure to fill out all required fields to ensure your request is processed smoothly.
-</thinking>
-
 # Banner Request Form - Help Guide
 ## Purpose
 The Banner Request Form is designed to capture all the necessary information for creating or procuring a banner for marketing purposes. This form ensures that the required details are provided to ensure timely and correct banner creation.

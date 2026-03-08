@@ -1,6 +1,3 @@
-<thinking>
-This form is used by marketing teams to document and strategize the creation and distribution of video content. It is a crucial part of their workflow, and it's essential to understand how to complete it accurately. Before proceeding, please ensure you've reviewed this form's purpose and the fields it contains to avoid duplication of effort. This form is meant to help you think critically about the target audience, content type, marketing channel, and other key aspects of your video content marketing strategy.</thinking>
-
 # Video Content Marketing Strategy Form - Help Guide
 ## Purpose
 This form is used by marketing teams to document and strategize the creation and distribution of video content. It helps you think critically about the target audience, content type, marketing channel, and other key aspects of your video content marketing strategy.

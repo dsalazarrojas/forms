@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Medical Laboratory Technician Application Form - Help Guide**
 
 **Purpose**

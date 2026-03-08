@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_health_policy_initiative_application_form - Help Guide
 ## Purpose
 

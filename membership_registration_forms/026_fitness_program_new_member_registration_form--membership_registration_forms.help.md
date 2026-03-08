@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Fitness Program New Member Registration Form - Help Guide
 ## Purpose
 This form is for new members to register for our fitness program. The purpose of this form is to collect the necessary information to identify the member, understand their membership type, and establish emergency contact information.

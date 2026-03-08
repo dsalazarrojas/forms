@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the olfactory (smell-related) characteristics of an individual's sense of smell, preferences, and any related issues they may be experiencing. This form was created to support medical surveys and questionnaires, and its structure is designed to gather detailed insights into the user's olfactory history, symptoms, preferences, and experiences. Before proceeding, please ensure that you are completing this form for a relevant purpose and that the information provided is not already available through other means.
-</thinking>
-
 # toulouse_olfactory_assessment_questionnaire - Help Guide
 ## Purpose
 The Toulouse Olfactory Assessment Questionnaire is designed to assess an individual's sense of smell, including their preferences, experiences, and related issues. This form is intended for medical professionals or researchers conducting surveys or questionnaires related to olfactory characteristics.

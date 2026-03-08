@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for this "Cosmetic Surgery Waiver Form" based on the provided YAML fields. The form appears to be designed to gather information from patients undergoing cosmetic surgery, including consent, medical history, procedure details, surgeon information, and emergency contact details. I'll ensure the guide is clear, concise, and practical, explaining each field in a way that's easy to understand for end-users.</thinking>
-
 # Cosmetic Surgery Waiver Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Cosmetic Surgery Waiver Form, which is required for patients undergoing cosmetic surgery. The form collects essential information about the patient, including consent, medical history, procedure details, and emergency contact information.

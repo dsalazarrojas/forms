@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for the Collagen Induction Facial treatment, a non-surgical, non-invasive skin rejuvenation treatment that aims to improve the appearance of fine lines, wrinkles, and skin texture. The form is used to collect information from clients about their medical history, treatment preferences, and post-treatment care expectations.
-
-Before completing the form, please ensure that you have not filled out this form in the past 6 months. If you have any concerns or questions, please feel free to ask your provider for clarification.
-
-This form must be filled out by the client before the treatment begins. The information collected will be used for medical records and to ensure that you are aware of the risks and benefits associated with the treatment.
-
-Please complete the form accurately and thoroughly. If you are unable to complete the form, please inform your provider before the treatment starts.
-
-</thinking>
-
 # Collagen Induction Facial Consent Form - Help Guide
 ## Purpose
 The Collagen Induction Facial Consent Form is used to gather information about your medical history, treatment preferences, and post-treatment care expectations. This form is necessary to ensure that you are aware of the risks and benefits associated with the Collagen Induction Facial treatment and to provide your provider with accurate and complete information.

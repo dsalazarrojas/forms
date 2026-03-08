@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # social_media_insights_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their social media analytics needs. The purpose of this form is to gather specific details about the type of analytics they are looking for, how often they want to receive them, and how they want to be contacted.

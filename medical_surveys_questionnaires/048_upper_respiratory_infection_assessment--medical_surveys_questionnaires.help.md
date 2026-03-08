@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's risk of having an upper respiratory infection, based on their travel history, recent contacts, and other relevant factors. This form is used to gather information that can help healthcare professionals determine the likelihood of transmission and provide guidance on how to mitigate the risk.
-</thinking>
-
 # Upper Respiratory Infection Assessment - Help Guide
 ## Purpose
 The Upper Respiratory Infection Assessment form is used to evaluate an individual's risk of having an upper respiratory infection, based on their travel history, recent contacts, and other relevant factors. This form helps healthcare professionals gather essential information to determine the likelihood of transmission and provide guidance on how to mitigate the risk.

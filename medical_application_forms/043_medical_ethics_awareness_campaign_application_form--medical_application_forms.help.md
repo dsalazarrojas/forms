@@ -1,14 +1,3 @@
-<thinking>...
-This form is for collecting information from participants to assess their motivations, consent, and details for a medical ethics awareness campaign. The form is designed to gather data to understand participants' attitudes and behaviors regarding medical ethics.
-
-This guide will help you navigate and understand the form's purpose and fields.
-
-Please note that the form may ask for redundant or sensitive information, but it is necessary for the campaign's goals.
-
-Before filling out the form, ensure that you haven't filled it out before and that the information you provide is accurate and up-to-date.
-
-</thinking>
-
 # Medical Ethics Awareness Campaign Application Form - Help Guide
 ## Purpose
 The Medical Ethics Awareness Campaign Application Form is designed to gather information from participants on their motivations, consent, and details for the campaign. This form will help us understand participants' attitudes and behaviors regarding medical ethics.

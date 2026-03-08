@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this Membership Application Form is to collect necessary information from applicants wishing to become a member of the organization. This form is designed to gather contact details, membership preferences, and emergency contact information to ensure a smooth and safe membership experience. Please note that this form is intended for individuals, not organizations. If you are applying on behalf of an organization, please use the "Membership Application Form for Organizations" which has additional fields tailored to your needs.
-
-This form should only be completed once per applicant. If you have already submitted a membership application, please do not reapply unless you have changed your membership status or need to correct any previous errors.
-
-Before starting the form, make sure you have all necessary information ready. This includes your contact details, membership preferences, and emergency contact information. If you have any questions or need assistance, please don't hesitate to reach out to our membership team.
-
-Please fill out the form carefully, and if you encounter any issues, contact our support team for help.
-</thinking>
-
 # Membership Application Form - Help Guide
 
 ## Purpose

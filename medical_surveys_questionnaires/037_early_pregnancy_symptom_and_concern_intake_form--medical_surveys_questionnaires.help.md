@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect information from patients about their early pregnancy symptoms and concerns. It is designed to be completed by patients before their doctor's appointment. The form should only be filled out once, and any further updates should be communicated to the medical provider.
-</thinking>
-
 # Early Pregnancy Symptom And Concern Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about your early pregnancy symptoms and concerns. Please complete this form to help your medical provider understand your current health status.

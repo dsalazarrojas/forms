@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to gather information from users about their goals, motivations, and health considerations for an online training consultation. The purpose of this form is to assess a user's readiness and suitability for the training, helping the trainers to provide tailored guidance and support. To ensure accuracy and relevance, please note that you must be 100% sure to fill out every question. If you're unsure about any question or have any concerns, please reach out to us before proceeding. Please fill out this form carefully and completely, as your information will be used to create an individualized training plan. If you're not filling out this form for personal training, please do not fill it out. If you're unsure or have questions about the form, please don't hesitate to ask.
-
-</thinking>
 # Online Training Consultation Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your goals, motivations, and health considerations for the online training consultation. This information will be used to create an individualized training plan tailored to your needs.

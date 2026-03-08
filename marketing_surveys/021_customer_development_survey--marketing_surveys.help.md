@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect valuable information about customers' contact with the company, including their contact details, means of discovery, frequency of purchases, time of last contact, product purchasing experience, and overall satisfaction with the service or product. The form aims to gauge customer engagement, identify areas for improvement, and foster better relationships with customers. 
-</thinking>
-
 # Customer Development Survey - Help Guide
 ## Purpose
 This form is meant to gather information about your interactions with our company, helping us understand your needs and preferences to better serve you.

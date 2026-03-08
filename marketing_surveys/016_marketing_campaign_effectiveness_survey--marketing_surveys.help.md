@@ -1,9 +1,3 @@
-<thinking>
-This form is for evaluating the effectiveness of marketing campaigns. It assesses various aspects of a campaign, including its impact on sales, customer engagement, and budget utilization. Please note that this form is not intended for creating or managing marketing campaigns. It is meant to help stakeholders evaluate and improve existing campaigns.
-This form collects data from different stakeholders within the organization, such as sales teams, customer support, and finance. Ensure that you have the necessary permissions and approvals before filling out this form.
-Before starting, please ensure that you have not filled out this form previously and that you have the most up-to-date information.
-</thinking>
-
 # marketing_campaign_effectiveness_survey - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of marketing campaigns. It gathers information on the campaign's performance, customer engagement, and budget utilization. The data collected will help stakeholders identify areas of improvement and optimize future campaigns.

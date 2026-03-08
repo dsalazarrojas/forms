@@ -1,8 +1,3 @@
-<thinking>
-We will create a help guide for the "STRENGTH EMPIRE Consult Form" form, which collects information from clients regarding their fitness goals and training frequency. The form is designed to be completed by users who have multiple goals and want to provide additional details about each goal. The form is divided into multiple pages, each with its own set of questions, and is intended to be easy to complete and understand.
-Before starting the form, please note that all fields are required unless otherwise specified. Please complete each section thoroughly to ensure accurate information is collected.
-</thinking>
-
 # STRENGTH EMPIRE Consult Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients regarding their fitness goals and training frequency. This form is designed to be completed by users who have multiple goals and want to provide additional details about each goal.

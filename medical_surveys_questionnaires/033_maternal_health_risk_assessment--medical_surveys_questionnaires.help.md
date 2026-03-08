@@ -1,7 +1,3 @@
-<thinking>
-This form is used for assessing the risk level of a pregnant or postpartum patient's health. It gathers general information, maternal experience, medical conditions, risk factors, health provider information, maternal care plan, risk score, next follow-up date, provider feedback, patient feedback, provider name, provider title, and provider contact details. This form should only be filled out by health care providers or authorized personnel, and should not be duplicated for duplicate entries. The risk assessment is essential for identifying potential health risks and ensuring the patient receives appropriate care.
-</thinking>
-
 # Maternal Health Risk Assessment - Help Guide
 ## Purpose
 This form is used to assess the risk level of a pregnant or postpartum patient's health. It gathers essential information from the patient and the healthcare provider to identify potential health risks and ensure the patient receives appropriate care.

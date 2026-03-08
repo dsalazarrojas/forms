@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assess the quality of website traffic, likely for marketing, analytics, or business intelligence purposes. It's intended to collect information about users' demographics, behavior on the website, and conversion rates. The form likely aims to measure the effectiveness of a website in engaging and converting its audience. This form might be used by marketers, analysts, or product managers to track user engagement, identify areas for improvement, and inform data-driven decision-making. To avoid duplication, this form should be completed only once per user, with each field designed to provide relevant and actionable insights.</thinking>
-
 # Website Traffic Quality Assessment Form - Help Guide
 ## Purpose
 The Website Traffic Quality Assessment Form is used to collect data about users' demographics, behavior on the website, and conversion rates to assess the website's quality and effectiveness.

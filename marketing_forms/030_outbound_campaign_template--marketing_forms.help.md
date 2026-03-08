@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information for an Outbound Campaign Template, likely used for marketing and sales purposes. The purpose of this form is to gather contact and campaign data for further reference and analysis. This form should only be used for genuine campaigns, not for general contact purposes. Please ensure you've checked the campaign's authenticity before using this form, and that you're not duplicating efforts.
-
-</thinking>
-
 # Outbound Campaign Template - Help Guide
 ## Purpose
 The Outbound Campaign Template form is designed to collect contact and campaign information for marketing and sales purposes. This form helps in organizing and tracking campaign data for future reference and analysis.

@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and consistently across all users. Before filling out this form, please take a moment to review the following information:
-* This form is for the collection of data related to patient interactions with a psychiatrist.
-* The form is designed to gather information about the patient's medical history, symptoms, and treatment plans.
-* The form should not be used for other purposes or as a substitute for a medical diagnosis.
-* Each field should be filled out accurately and completely.
-</thinking>
-
 # Psychiatrist Interview Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's interaction with a psychiatrist, including medical history, symptoms, and treatment plans.

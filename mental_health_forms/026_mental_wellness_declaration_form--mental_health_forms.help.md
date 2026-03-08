@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Wellness Declaration Form - Help Guide
 ## Purpose
 The Mental Wellness Declaration Form is a tool for individuals to assess and declare their current mental wellness status. It is used to gather information about a person's mental health, emotional wellness level, and support systems in place. This form is not a clinical assessment, but rather a self-reporting tool to help individuals identify areas of concern and potential areas for improvement.

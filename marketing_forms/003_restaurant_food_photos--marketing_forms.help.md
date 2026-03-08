@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # restaurant_food_photos - Help Guide
 ## Purpose
 The restaurant_food_photos form is used to collect information about food photos from restaurant menus. It is designed to gather data for marketing and research purposes. Please fill out this form to provide accurate and relevant information about your food photos.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Waiting List - Help Guide
 ## Purpose
 The Patient Waiting List form is used to track patients' information and appointments. This form helps medical professionals to keep track of patients' names, contact numbers, appointment dates, examination results, notes, and email addresses.

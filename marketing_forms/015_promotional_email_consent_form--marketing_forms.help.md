@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect email addresses and preferences from customers for marketing purposes. The form is designed to ask customers about their email address, how they would like to receive emails (marketing or non-marketing purposes), and their contact method (email, phone, or mail). The customer must provide their email address, select their email preferences, contact method, and provide their consent. The email frequency field is not required, but customers must choose an email frequency option if they select a contact method. Notes are optional. The form is designed to ensure customers understand and agree to receive emails from the company.
-</thinking>
-
 # promotional_email_consent_form - Help Guide
 ## Purpose
 This form is used to collect email addresses and preferences from customers for marketing purposes.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's medical history and current health status, specifically in relation to their use of a respirator. The form will help healthcare professionals assess the user's medical condition and make informed decisions about their treatment. It is essential to fill out the form accurately and completely to ensure that the user's medical needs are properly understood.
-
-To prevent duplication of effort and ensure accurate data entry, please only fill out this form once.
-
-</thinking>
-
 # Respirator Medical Evaluation Questionnaire - Help Guide
 
 ## Purpose

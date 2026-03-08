@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients prior to a lab test. It is meant to be used in a medical setting to gather relevant details about the patient's medical history, test ordering information, and other relevant data. Before filling out this form, please ensure that you have the patient's consent to collect and use their data. Please note that this form is not intended for clinical trials or research purposes. If you are unsure about the purpose or use of this form, please reach out to your medical professional for clarification.
-</thinking>
-
 # pre_lab_test_intake_form - Help Guide
 ## Purpose
 This form is used to collect information from patients before a lab test is conducted.

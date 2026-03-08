@@ -1,7 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for a form called "Medical Details Form" that aims to collect medical-related information from users. The form is designed to be a simple and straightforward tool that gathers essential details about a patient's medical history and allergies. The form has multiple pages with various fields that require user input. It's crucial that the user understands the purpose and functionality of each field to provide accurate and complete information. To avoid duplication of effort and ensure consistency, it's essential to review and validate the form responses carefully.
-</thinking>
-
 # Medical Details Form - Help Guide
 ## Purpose
 The Medical Details Form is designed to collect essential medical information from users, including their medical history and allergies. This form will help healthcare professionals gather accurate and complete data to provide optimal care.

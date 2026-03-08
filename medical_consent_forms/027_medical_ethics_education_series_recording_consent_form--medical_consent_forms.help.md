@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Ethics Education Series Recording Consent Form - Help Guide
 ## Purpose
 The Medical Ethics Education Series Recording Consent Form is used to obtain the informed consent of participants in educational programs related to medical ethics. This form helps ensure that participants understand their roles and responsibilities in the program, as well as the expectations and guidelines of the session.

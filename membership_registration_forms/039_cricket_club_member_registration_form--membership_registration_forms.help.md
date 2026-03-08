@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow individuals to register as members of the Cricket Club, providing a structured way for them to share their contact and membership information. The form should not be duplicated, as each submission will be used to create a unique member profile. The form's internal logic may not be entirely clear, but it appears to be designed for general membership registration, including different types of membership, payment methods, and status updates.
-</thinking>
-
 # Cricket Club Member Registration Form - Help Guide
 ## Purpose
 The Cricket Club Member Registration Form is designed to collect information from individuals who wish to become members of the Cricket Club. This form helps to gather essential details about each prospective member, including their name, contact information, membership type, and status.

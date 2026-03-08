@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from individuals who have transferred to a different region for their medical care or services. This form aims to gauge their satisfaction with the region transfer process, their expectations and actual outcomes, and any improvement opportunities for the process. Before filling out this form, please ensure that you have not completed it previously. If you are unsure or have concerns, please reach out to the relevant authorities for clarification.
-</thinking>
-
 # Health Region Change Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information on pregnancy and child development data. It is intended for healthcare professionals to collect data on a patient's pregnancy status, gestational age, prenatal care habits, and other relevant information. This form should only be filled out for patients who are currently pregnant or have recently given birth, as it may not be relevant for patients who are not pregnant or who have not undergone a pregnancy-related event. Please ensure that you have obtained the necessary permissions and informed consent from the patient before filling out this form. ...</thinking>
-
 # Pregnancy And Development Survey - Help Guide
 
 ## Purpose

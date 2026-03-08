@@ -1,7 +1,3 @@
-<thinking>
-This form is for article submission. It gathers information about the submitted article. Please ensure the article you submit is not a duplicate. If you're unsure about the form or the article, contact us at form@gic.mx. This form is intended to be a general template, and you may need to adjust it for your specific use case or industry.
-</thinking>
-
 # submit_your_article_form - Help Guide
 ## Purpose
 This form is used to submit articles for review, publication, or other purposes. Please fill it out carefully, ensuring you provide accurate information about your article.

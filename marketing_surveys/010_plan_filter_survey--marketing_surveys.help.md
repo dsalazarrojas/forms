@@ -1,7 +1,3 @@
-<thinking>
-The "Plan Filter Survey" form is designed to collect information from users about their plans and preferences in a specific context. This form is likely used to gather insights that can inform marketing strategies or product development decisions within the organization. Before proceeding, please ensure that you are familiar with the purpose of this form and that you have not completed it previously, as this may cause duplicate data entry.
-</thinking>
-
 # Plan Filter Survey - Help Guide
 ## Purpose
 The "Plan Filter Survey" form is a tool used to collect information from users about their plans and preferences. This information will help the organization make informed decisions about marketing strategies or product development.

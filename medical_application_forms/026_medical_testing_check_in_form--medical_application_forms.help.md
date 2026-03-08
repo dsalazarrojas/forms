@@ -1,8 +1,3 @@
-<thinking>
-This form is a Medical Testing Check In Form, and its purpose is to gather general information and test results from patients before and after medical tests. This form is not affiliated with any form platform and is an original adaptation using public survey topic metadata. The form is released under CC BY 4.0, allowing users to modify, sell, and use derived forms, while giving credit. The form's structure and fields will be explained in the following guide.
-
-</thinking>
-
 # Medical Testing Check In Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients before and after medical tests, enabling healthcare professionals to monitor patient conditions and test results.

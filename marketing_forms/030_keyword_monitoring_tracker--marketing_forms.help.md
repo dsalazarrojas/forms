@@ -1,15 +1,3 @@
-<thinking>
-
-We will design a user-facing help guide for the Keyword Monitoring Tracker form. This form is used to monitor and track keywords related to marketing campaigns. It will help users to understand the current state of their marketing strategy and identify areas for improvement.
-
-To avoid duplication of efforts, let's review the form to determine its purpose and ensure that it's not redundant with other existing forms.
-
-Based on the form design, it seems that it's meant to collect information about keywords, their status, preferences, and tracking details. It appears to be a comprehensive form that covers multiple aspects of keyword monitoring.
-
-Upon further inspection, I couldn't find any overlapping forms or forms with similar purposes. This form seems to be a unique tool for keyword monitoring and tracking.
-
-</thinking>
-
 # Keyword Monitoring Tracker - Help Guide
 
 ## Purpose

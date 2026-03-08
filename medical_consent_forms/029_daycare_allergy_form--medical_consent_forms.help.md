@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the Daycare Allergy Form, used to collect information about a child's allergies. Please ensure you have access to the relevant information before completing this form. It's essential to fill out the form accurately and thoroughly.
-</thinking>
-
 # Daycare Allergy Form - Help Guide
 ## Purpose
 The Daycare Allergy Form is designed to gather information about a child's allergies. This form helps the daycare staff and caregivers to understand the child's allergy types, potential reactions, and any necessary treatment or medication.

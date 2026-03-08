@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dietitian Patient Questionnaire - Help Guide
 
 ## Purpose

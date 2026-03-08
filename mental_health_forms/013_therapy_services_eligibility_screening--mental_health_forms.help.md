@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for screening eligibility for therapy services. The purpose of this form is to collect relevant information from users to assess their suitability for therapy services. The form is likely intended for individuals seeking mental health support, and the information collected will be used to determine their eligibility for these services.
-
-Before proceeding, please ensure that you have not previously completed this form, as duplicate submissions may cause unnecessary processing and confusion. If you have already completed this form, please do not submit it again.
-
-</thinking>
-
 # Therapy Services Eligibility Screening - Help Guide
 
 ## Purpose

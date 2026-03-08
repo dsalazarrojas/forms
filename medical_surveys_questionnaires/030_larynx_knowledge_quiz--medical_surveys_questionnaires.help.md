@@ -1,9 +1,3 @@
-<thinking>
-
-The form "Larynx Knowledge Quiz" aims to test the user's knowledge about the larynx. As a healthcare professional, understanding the larynx is crucial for various medical practices, such as diagnosing and treating laryngeal disorders. To ensure that the form is filled out correctly and efficiently, the following guide will walk the user through each section.
-
-</thinking>
-
 # Larynx Knowledge Quiz - Help Guide
 ## Purpose
 The Larynx Knowledge Quiz form is designed to evaluate the user's knowledge about the larynx's main function, key features, and other relevant aspects.

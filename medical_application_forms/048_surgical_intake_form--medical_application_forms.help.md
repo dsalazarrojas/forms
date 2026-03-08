@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information and medical history relevant to surgical procedures. Its purpose is to gather critical data that will help medical professionals make informed decisions and provide optimal care. This form should only be used in medical settings, and the data collected will be used solely for medical purposes. Please ensure that this form is not used for any other purpose or shared with unauthorized parties.
-</thinking>
-
 # Surgical Intake Form - Help Guide
 ## Purpose
 The Surgical Intake Form is a medical form designed to collect relevant patient information and medical history prior to surgical procedures. It helps medical professionals make informed decisions and provide optimal care.

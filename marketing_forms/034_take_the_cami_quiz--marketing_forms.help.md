@@ -1,20 +1,3 @@
-<thinking>
-This form appears to be a survey or quiz related to the style, size, length, color, attachment, and finish of a "Cami" product, which might be a type of clothing or fabric. However, without further information, it's difficult to determine the specific product or context in which this form is being used. The form seems to have a repetitive structure with a large number of fields, which could be related to different aspects or variations of the Cami product.
-Given the provided YAML schema, the form has 25 fields, including a mix of select_one, select_multiple, and text fields. The fields can be grouped into several categories:
-- Style (Cami Style): This field is a select_one field with options like New Orleans Style, Sweat, and Ruffled.
-- Size (Cami Size): This field is a select_multiple field with options like X-Small, Small, Medium, Large, and X-Large.
-- Length (Cami Length): This field is a select_one field with options like Short, Long, and Cami.
-- Color (Cami Color): This field is a select_multiple field with options like Pink, Purple, Red, Blue, and Green.
-- Attachment (Cami Attachment): This field is a select_one field with options like No Attachment, Attachment with Ruffles, and Attachment with Lace.
-- Attachment Type: This field is a select_one field with options like No Attachment, Ruffles, and Lace.
-- Finish (Cami Finish): This field is a select_multiple field with options like None, Ruffles, and Ruffles and Lace.
-- Warnings (Cami Warnings): This field is a select_multiple field with options like Warning 1, Warning 2, and Warning 3.
-- Multiple Attachments: This group of fields (Cami Attachment 1, Cami Attachment 2, etc.) are select_multiple fields with options like Attachment 1, Attachment 2, and Attachment 3.
-- Finish Attachment: This group of fields (Cami Finish Attachment 1, Cami Finish Attachment 2, etc.) are select_one fields with options like No Attachment, Ruffles, and Lace.
-
-To complete this form, users will need to select options for each of the above-mentioned fields, following the required and optional indications for each field.
-</thinking>
-
 # take-the-cami-quiz - Help Guide
 ## Purpose
 This is a quiz to help you determine the characteristics of a Cami product based on your preferences. Please answer the questions to the best of your ability.

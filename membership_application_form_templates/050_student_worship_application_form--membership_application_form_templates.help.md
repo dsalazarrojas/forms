@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from students and their guardians for the purpose of enrolling the student in a worship program. The form includes fields for student contact information, grade level, school attendance, and guardian contact information. Please make sure to fill out all required fields. If you are a student, please fill out your own information. If you are a guardian, please fill out your own information as the parent/guardian of the student. The student will need to sign a covenant before being enrolled in the program.</thinking>
-
 # Student Worship Application Form - Help Guide
 ## Purpose
 The Student Worship Application Form is used to collect information from students and their guardians for the purpose of enrolling the student in a worship program.

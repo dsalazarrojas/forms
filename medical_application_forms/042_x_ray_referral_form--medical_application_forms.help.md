@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # X Ray Referral Form - Help Guide
 ## Purpose
 The X Ray Referral Form is used to refer patients for X Ray examinations. This form collects the necessary information from the patient and the doctor to facilitate the X Ray examination process.

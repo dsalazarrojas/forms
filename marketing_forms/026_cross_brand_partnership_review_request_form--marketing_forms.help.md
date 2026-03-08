@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## cross_brand_partnership_review_request_form - Help Guide
 ## Purpose
 The **cross-brand partnership review request form** is used for partners to request a review of their cross-brand partnership. This form is meant to be completed by the partner themselves, and it will be used by our team to evaluate and review their partnership status. This form is not meant to be used for other purposes, such as requesting access to new features or reporting technical issues. If you are experiencing any issues with our platform, please use the [report issue] [link to issue report form] instead.

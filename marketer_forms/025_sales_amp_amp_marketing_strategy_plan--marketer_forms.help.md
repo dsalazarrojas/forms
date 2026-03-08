@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help marketers and sales teams develop a comprehensive sales and marketing strategy plan. It's meant to be filled out by team members who want to create a plan that aligns with their business goals and objectives. This form is not meant to be a one-time activity, but rather an ongoing process that should be revisited and updated regularly to reflect changing market conditions and customer needs.
-
-The form is designed to collect information on various aspects of the sales and marketing strategy, including marketing goals, target audience, sales channels, marketing and sales budgets, and timeline. The purpose is to ensure that all team members are on the same page and that the strategy is actionable and measurable.
-
-The form is divided into several sections, each focusing on a specific aspect of the sales and marketing strategy. The sections include marketing goals, sales goals, marketing channels, target audience, sales channels, marketing and sales budgets, and timeline.
-
-It's essential to fill out this form carefully and completely, as the information collected will help inform decisions and actions that will drive business growth. If you're unsure about any field or section, refer to this guide for clarification.
-
-</thinking>
-
 # Sales & Marketing Strategy Plan - Help Guide
 ## Purpose
 This form is designed to help marketers and sales teams develop a comprehensive sales and marketing strategy plan that aligns with business goals and objectives.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for medical professionals to document the physical examination of a patient who has sustained an insect bite. The purpose of this form is to gather relevant information about the patient's general information, bite description, symptoms, location of the bite, medical history, examination findings, and patient findings.
-The form is intended to be used in clinical settings, such as emergency departments, outpatient clinics, or private medical offices.
-Before proceeding, ensure that the form is not being used to duplicate an existing assessment or examination. If the form is being used to document a follow-up or review of an existing case, please consult with the patient's medical record and relevant medical staff before proceeding.
-</thinking>
 # Insect Bite Physical Exam Documentation Form - Help Guide
 ## Purpose
 This form is designed for medical professionals to document the physical examination of a patient who has sustained an insect bite. It is intended to gather relevant information about the patient's general information, bite description, symptoms, location of the bite, medical history, examination findings, and patient findings.

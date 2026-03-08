@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is understood by the users before proceeding with the guide. This form is used for obtaining consent from individuals for the annotation and use of their medical data for AI research purposes. The form is crucial for ensuring that the individuals understand what data they are consenting to share and for how long. It's essential that the form is completed accurately and honestly to maintain transparency and trust in the research process.
-
-The form has several fields that require specific information from the individual, including their full name, date of birth, age, contact information, medical record number, types of medical data they consent to share, the primary research purpose, and their consent to share data with external research partners. Some fields, such as medical record number and date of birth, are essential for identifying the individual's medical history and demographic information. Others, like types of data and research purpose, are critical for ensuring that the data is used in an ethical and responsible manner.
-
-Let's move on to the help guide.
-</thinking>
-
 # AI Medical Data Annotation Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain your consent for the annotation and use of your medical data for AI research purposes. We will use your information to understand your medical history, improve AI-powered diagnosis, and advance medical research.

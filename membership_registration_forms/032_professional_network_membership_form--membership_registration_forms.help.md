@@ -1,7 +1,3 @@
-<thinking>
-We are checking the form's purpose and fields to ensure that this documentation is clear and concise. This form is for membership registration. It asks for personal and professional information such as names, contact details, and professional data. Each section explains a field's purpose and requirements. This documentation will be organized in a user-friendly format to guide the users through the form.
-</thinking>
-
 # Professional Network Membership Form - Help Guide
 ## Purpose
 This form is for professional network membership registration. It is a collection of fields that gather personal and professional data for membership purposes.

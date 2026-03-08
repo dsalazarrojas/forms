@@ -1,7 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their skin types, concerns, and products used in the dermatological products market. The form is likely intended for users who want to assess their knowledge on dermatological products and identify areas for improvement. This form may be used by skincare experts or professionals to provide guidance to users seeking advice on skincare products or concerns. To avoid duplicate or unrelated submissions, ensure you have not previously submitted this form and that the information is accurate and relevant to your skin type or concern.</thinking>
-
 # Dermatological Products Knowledge Quiz - Help Guide
 ## Purpose
 This form aims to evaluate your knowledge on dermatological products, skin types, and concerns.

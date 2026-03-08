@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from product managers to facilitate their membership registration in the organization. This form is likely used for HR or membership management purposes.
-
-Before completing this form, please ensure you have not already submitted a membership registration form for a similar purpose in the organization.
-
-This form is intended to be a one-time registration process, so please provide accurate and up-to-date information to ensure proper membership management.
-
-Please note that some fields may be optional, but providing accurate and complete information will help the organization's HR or membership management team better understand your role and position within the company.
-
-</thinking>
-
 # Product Managers Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from product managers to register their membership in the organization.

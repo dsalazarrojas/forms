@@ -1,8 +1,3 @@
-<thinking>
-To create a user-friendly and informative help guide for the Affiliate Dashboard Access Request form, we need to consider the purpose of the form and the fields it contains. This form appears to be designed for affiliates to request access to the dashboard, providing necessary information for their access to be approved. It's essential to ensure that the form is completed accurately and thoroughly to avoid any issues with the request. To avoid duplication of work, we should also check if the affiliate already exists in the system before submitting the request. This guide will walk the user through the form, explaining each field's purpose and how to complete it correctly. Let's start by breaking down the form into its components.
-
-</thinking>
-
 # Affiliate Dashboard Access Request - Help Guide
 ## Purpose
 This form is for requesting access to the affiliate dashboard, which provides valuable information and tools to manage and optimize your affiliate marketing activities.

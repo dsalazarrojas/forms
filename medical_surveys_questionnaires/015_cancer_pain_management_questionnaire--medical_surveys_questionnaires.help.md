@@ -1,7 +1,3 @@
-<thinking>
-This form is used to help healthcare professionals assess and manage cancer patients' pain experiences. It is designed to gather crucial information about the patient's medical history, pain level, and its impact on daily life. The information gathered will help clinicians provide targeted pain management and tailor their treatment plans accordingly.
-</thinking>
-
 # Cancer Pain Management Questionnaire - Help Guide
 ## Purpose
 

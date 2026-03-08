@@ -1,7 +1,3 @@
-<thinking>
-This form is used for dental clinics to obtain a license to practice in a particular region. The form is used to provide necessary information about the clinic and its staff, including the clinic's address, phone number, and email. It also requires information about the clinic's license status and type, as well as the license expiration date. Additionally, the form requires the name of the supervising dentist and their license information.
-</thinking>
-
 # Dental Clinic Licensing Form - Help Guide
 ## Purpose
 This form is used for dental clinics to obtain a license to practice in a particular region.

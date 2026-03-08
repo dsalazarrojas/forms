@@ -1,11 +1,3 @@
-<thinking>
-The "safe_sleep_post_survey" form is a crucial tool for healthcare professionals to collect information about patients' sleep patterns, environment, and behaviors. This form helps clinicians gather valuable insights into their sleep habits, which is essential for providing personalized and effective treatment plans.
-
-To ensure relevance, this form is typically used after a patient has completed the "sleep_questionnaire" form and is now looking for advice and guidance on sleep-safe practices.
-
-Please note that before using this form, patients must have already answered the "sleep_questionnaire" form. If not, please direct them to complete that form first.
-</thinking>
-
 # safe_sleep_post_survey - Help Guide
 ## Purpose
 

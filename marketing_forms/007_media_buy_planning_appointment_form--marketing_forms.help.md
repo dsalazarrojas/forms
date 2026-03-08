@@ -1,8 +1,3 @@
-<thinking>
-This form is used to plan media buys, including TV, Radio, Print, and Online media channels. It is used to schedule appointments with clients and media buyers. The form requires the following information: client name, email, phone number, client media spend, media buyer, media channels, appointment date, appointment time, appointment location, appointment details, client notes, user email, user phone, user name, assigned user, assigned tool, form ID, created by, form description, form category, created at, updated at, and deleted at. This form is not required, but it is recommended that all fields be filled in for accurate and efficient planning.
-
-</thinking>
-
 # Media Buy Planning Appointment Form - Help Guide
 ## Purpose
 This form is used to plan media buys for TV, Radio, Print, and Online channels by scheduling appointments with clients and media buyers.

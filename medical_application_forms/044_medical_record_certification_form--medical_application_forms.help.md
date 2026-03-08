@@ -1,10 +1,3 @@
-<thinking>
-The Medical Record Certification Form is used to collect information from patients for certification purposes. This form is typically used in medical settings to verify the accuracy of patient medical records. The form is composed of multiple pages and fields that require specific information from patients. The purpose of this form is to ensure that the patient's medical history and current condition are accurately documented. This form is used to prevent medical errors and ensure continuity of care.
-
-When completing this form, please note that some fields are mandatory, denoted by the 'required' tag, and others are optional. Please ensure that you have provided accurate and truthful information.
-
-</thinking>
-
 # Medical Record Certification Form - Help Guide
 ## Purpose
 The purpose of this form is to collect accurate and detailed information from patients for certification purposes in medical settings.

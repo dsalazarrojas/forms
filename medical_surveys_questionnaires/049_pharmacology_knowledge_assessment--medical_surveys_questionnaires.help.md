@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmacology Knowledge Assessment - Help Guide
 ## Purpose
 The Pharmacology Knowledge Assessment form is designed to evaluate the knowledge and understanding of learners in pharmacology. This form aims to gather responses from learners about their pharmacology knowledge, whether it's yes or no. It also includes sections for learner details, review responses, educator comments, and additional text fields for further information.

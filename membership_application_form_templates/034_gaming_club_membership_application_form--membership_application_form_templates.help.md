@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential members about themselves, including their gaming interests, contact details, availability, and any additional notes they may want to share. This form is designed to be completed by individuals who are interested in joining the Gaming Club, and the collected data will be used to facilitate their membership application process.
-</thinking>
-
 # Gaming Club Membership Application Form - Help Guide
 ## Purpose
 The Gaming Club Membership Application Form is a tool used to collect information from potential members about themselves and their availability for club events. This information is used to facilitate the membership application process and ensure that members are aware of their responsibilities and commitments.

@@ -1,35 +1,3 @@
-<thinking>
-
-This form appears to be for a "Podcast Production Survey" aimed at gathering information about a podcast show's characteristics, target audience, format, and other related details. The purpose of this form is likely to help production teams understand the needs and requirements of podcast creators in order to provide tailored services such as content development, editing, or distribution.
-
-The form is structured into several sections:
-
-*   Show Details: This section might be asking for general information about the podcast show such as the title, format, and duration.
-*   Show Target Audience: This section likely asks about the intended audience for the podcast and whether it targets a specific group or demographic.
-*   Show Status: This section might be inquiring about the status of the podcast, whether it is active or inactive.
-*   Contact Info: This section would allow the creators to specify how they would like to be contacted.
-*   Service Needs: This section would be used to identify what services the creators are seeking from the production team.
-*   Show Description: This section requires a brief description of the podcast show.
-*   Target Audience Size: This section asks about the estimated size of the target audience.
-*   Episodes Per Month: This section inquires about the frequency of the podcast episodes.
-*   Engagement Strategy: This section would assess the current level of engagement with the audience.
-*   Production Level: This section asks about the level of production required for the podcast.
-*   Recording Platform: This section inquires about the platform used for recording.
-*   Desired Outcome: This section would specify the expected outcome or goal of the podcast.
-*   Show Budget: This section asks about the budget for the podcast production.
-*   Contact Method: This section would allow the creators to specify their preferred method of contact.
-*   Preferred Communication: This section would allow them to specify their preferred way of communication.
-*   Additional Notes: This section would be used to include any additional information about the podcast.
-*   Show Genre: This section asks about the genre of the podcast.
-*   Show Style: This section asks about the style of the podcast.
-*   Show Niche: This section asks about the specific topic or niche of the podcast.
-*   Show Format: This section asks about the format of the podcast.
-*   Show Status: This section (same as above, but repeated).
-
-The form seems to be collecting data that would help the production team understand the podcast show's needs and provide tailored support. The sections can be divided into general show details, show specifics (target audience, format, status), production specifics (engagement strategy, production level, recording platform), and contact information.
-
-</thinking>
-
 # Podcast Production Survey - Help Guide
 ## Purpose
 The purpose of this survey is to help our production team understand the needs and requirements of your podcast show in order to provide tailored services. This information will enable us to better assist you with content development, editing, distribution, and other related services.

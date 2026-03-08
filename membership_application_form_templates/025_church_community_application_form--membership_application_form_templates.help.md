@@ -1,11 +1,3 @@
-<thinking>**Internal Reasoning Block**
-
-This form is designed for individuals interested in joining a church community to provide a structured application process. The form collects personal details, spiritual history, and membership intentions to help the church leadership understand the applicant's background and fit within the community. The purpose of this form is to ensure a thorough understanding of the applicant's identity, faith journey, and potential contributions to the church. 
-
-**Required fields are marked as such, and applicants are expected to complete all required fields for their application to be considered.**
-
-</thinking>
-
 # Church Community Application Form - Help Guide
 ## Purpose
 The Church Community Application Form is designed to collect information from individuals who are interested in joining the church community. This form ensures that the applicant's personal details, spiritual history, and membership intentions are well-understood by the church leadership.

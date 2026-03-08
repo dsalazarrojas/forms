@@ -1,5 +1,3 @@
-<thinking>...to verify that this form's purpose is to collect information related to race sponsor booth material orders. This form has multiple pages and fields to collect event details, materials to be ordered, and delivery information. To create this help guide, I'll carefully review each field and provide clear explanations for end users. I'll also check for any potential duplication and non-redundancy in fields, and remove or merge redundant fields to ensure the guide is concise and accurate... </thinking>
-
 # Race Sponsor Booth Material Order Form - Help Guide
 ## Purpose
 The Race Sponsor Booth Material Order Form is designed to collect information related to material orders for sponsors' booths at race events. This form helps gather essential details about events, materials to be ordered, and delivery information.

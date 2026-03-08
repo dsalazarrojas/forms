@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is only used by genuine Canoe Club members and not by spammers or automated scripts. This is why we're requiring a valid email address and other relevant information to confirm the member's identity. Additionally, this form is designed to collect information that will help us understand the member's paddling experience and skills, so we can provide them with suitable services and ensure their safety on and off the water.
-</thinking>
-
 # Canoe Club Registration Form - Help Guide
 ## Purpose
 The Canoe Club Registration Form is designed to collect information from individuals who want to become members of our Canoe Club. This form helps us understand your paddling experience, skills, and interests to provide you with suitable services and ensure your safety on and off the water.

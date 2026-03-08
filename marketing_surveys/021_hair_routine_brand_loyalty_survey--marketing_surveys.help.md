@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and loyalty information from users about their hair routine, specifically their favorite brands and products. The purpose of this form is to gather data that can be used to improve the company's marketing strategies and product offerings. To ensure that you are providing the most accurate and relevant information, please make sure that you are responding to the survey questions based on your actual experiences with the brand and its products.
-</thinking>
-
 # Hair Routine Brand Loyalty Survey - Help Guide
 ## Purpose
 The Hair Routine Brand Loyalty Survey is designed to gather information about your experiences and preferences regarding our hair care brand. Your responses will help us understand how we can improve our products and services to better meet your needs.

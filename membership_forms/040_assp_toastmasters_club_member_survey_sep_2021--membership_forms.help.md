@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from club members on their experiences and perceptions of the ASSP Toastmasters Club. The purpose of this survey is to gather information on various aspects of the club, such as meeting attendance, leadership opportunities, educational value, and overall atmosphere. This feedback will help the club leadership to identify areas of improvement and make informed decisions to enhance the club experience for its members.
-
-The survey is divided into several sections, each focusing on a different aspect of the club. The questions are designed to be clear and concise, and the response options are carefully crafted to allow for nuanced and specific feedback.
-
-Before starting the survey, please ensure that you have reviewed the form and understand the questions being asked. If you have any difficulty or need assistance, please don't hesitate to reach out to the club leadership.
-
-</thinking>
-
 # ASSP Toastmasters Club Member Survey Sep 2021 - Help Guide
 ## Purpose
 The ASSP Toastmasters Club Member Survey Sep 2021 is designed to gather feedback from club members on their experiences and perceptions of the club. This survey will help the club leadership to understand areas of improvement and make informed decisions to enhance the club experience.

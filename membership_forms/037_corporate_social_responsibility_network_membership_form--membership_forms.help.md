@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # corporate_social_responsibility_network_membership_form - Help Guide
 ## Purpose
 The corporate Social Responsibility Network Membership Form is designed to collect information about individuals interested in joining the corporate social responsibility network. This form is part of our efforts to build a community of individuals committed to making a positive impact in our industry and beyond. To ensure that you are eligible to join this network, please review the requirements carefully and complete the form accurately. If you have already submitted your membership application, you will be notified of any issues or updates via email.

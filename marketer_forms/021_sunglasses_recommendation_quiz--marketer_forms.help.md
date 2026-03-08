@@ -1,11 +1,3 @@
-<thinking>
-The Sunglasses Recommendation Quiz form is intended to help users find their perfect sunglass match by asking a series of questions about their current style, face shape, preferred delivery method, color, price range, frame color, and preferred sunglass type. This information will be used to provide a personalized recommendation for the user.
-
-Upon completion, the user will be presented with a customized recommendation based on their input. 
-
-This form is not intended for users who already have a clear preference or have made a purchase recently. It is meant for new users or those looking for a change.
-</thinking>
-
 # Sunglasses Recommendation Quiz - Help Guide
 ## Purpose
 This form is designed to help you find your perfect sunglass match by asking a series of questions about your style, face shape, and preferences. The information you provide will be used to give you a customized recommendation.

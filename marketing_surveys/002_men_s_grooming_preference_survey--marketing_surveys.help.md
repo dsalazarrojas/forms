@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on men's grooming preferences, habits, and experiences. This form is likely to be used in marketing research to gather insights on men's grooming habits, product preferences, and demographic information such as age and income. The form will help to understand men's grooming frequency, duration, and habits, including shaving, haircare, and other grooming activities. The form will also collect information on men's facial hair, hair color, and other grooming aspects.
-It's essential to ensure that the form is completed correctly to gather accurate and reliable data. Please review each field carefully and answer all questions to the best of your ability.
-</thinking>
-
 # Men's Grooming Preference Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on men's grooming habits, preferences, and experiences. Your responses will help us better understand men's grooming habits and improve our products and services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for promotional content release, likely for marketing or advertising purposes. It is not intended for urgent or time-sensitive situations, given that most fields are optional. Before filling out this form, please make sure you are not duplicating a similar release already submitted. This form is intended for general promotional content and might be used in conjunction with other similar forms for varying releases.
-</thinking>
-
 # Promotional Content Release Form - Help Guide
 ## Purpose
 This form is used to collect information for promotional content releases. Please provide the necessary details for the content you wish to release.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect key information about a campaign project. The purpose of this form is to gather essential data from the project manager to ensure that projects are well-planned and executed. This information will be used to track and monitor project progress.
-</thinking>
 # Campaign Project Plan Form - Help Guide
 
 ## Purpose

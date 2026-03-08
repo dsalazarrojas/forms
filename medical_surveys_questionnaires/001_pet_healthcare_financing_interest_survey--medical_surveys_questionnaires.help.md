@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about pet owners' current methods of paying for pet healthcare services and their interest in exploring new payment options. The purpose of this form is to gather data that can be used to inform the development of more effective and appealing payment plans for pet healthcare services.
-
-Before proceeding, please note that this form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created by AI using public survey topic metadata. You are free to use, modify, and even sell forms derived from it, just give credit.
-
-To ensure that your feedback is not duplicated, please fill out the form only once.
-
-</thinking>
-
 # Pet Healthcare Financing Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect information about pet owners' current methods of paying for pet healthcare services and their interest in exploring new payment options.

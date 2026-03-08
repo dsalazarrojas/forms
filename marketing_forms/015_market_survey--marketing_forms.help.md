@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Survey - Help Guide
 
 ## Purpose

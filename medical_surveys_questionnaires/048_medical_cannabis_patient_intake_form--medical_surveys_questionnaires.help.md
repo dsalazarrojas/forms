@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for patients to share their medical details, contact information, medical history, and consents for medical cannabis treatment. The form will help the patient intake process be more efficient and accurate.
-
-Please ensure that this form is not filled out by individuals who are not patients, as the information collected is sensitive and personal. Additionally, please do not fill out this form if you have already filled out a similar form from our organization in the past.
-
-Before proceeding, please review the following pages and fill out the required information accurately and completely.
-
-</thinking>
-
 # Medical Cannabis Patient Intake Form - Help Guide
 ## Purpose
 This form is designed for patients to share their medical details, contact information, medical history, and consents for medical cannabis treatment.

@@ -1,6 +1,3 @@
-<thinking>
-As a form expert, I understand that the Fitness Membership Payment Form is intended to collect information from users for membership registration and payment purposes. This form likely serves as a crucial step in the membership registration process, ensuring that users provide necessary details such as contact information, payment method and amount, and membership status. The purpose of this form is to streamline the membership registration process and ensure that users understand their payment obligations. Upon reviewing the form schema, I notice that it has several fields that might be unclear or confusing to end-users, such as "payment_terms" and "membership_notes". To provide a helpful guide, I will focus on explaining each field clearly and concisely, avoiding unnecessary business logic.</thinking>
-
 # Fitness Membership Payment Form - Help Guide
 ## Purpose
 This form is designed to facilitate the membership registration process and payment details collection. It requires you to provide necessary information for your membership registration, including contact details, payment method and amount, and membership status.

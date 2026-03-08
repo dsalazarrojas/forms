@@ -1,7 +1,3 @@
-<thinking>
-This form is used to define items for market analysis. It helps users to create a new item by providing its basic details such as title, type, description, status, and any competitors. The purpose of this form is to gather information about products or services in the market for analysis and comparison. Before proceeding, ensure that the item being defined does not already exist in the system, to avoid duplication.
-</thinking>
-
 # Item Definition For Market Analysis - Help Guide
 ## Purpose
 This form is used to define items for market analysis, providing details such as title, type, description, status, and competitors.

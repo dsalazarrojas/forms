@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a company's interest in technology, specifically to gauge their market interest in various technological areas. This form is designed to be filled out by decision-makers or representatives from companies that are interested in learning more about our technology offerings.
-The form will only be visible to authorized personnel within the company, ensuring that sensitive information is not shared outside of the organization.
-The form is not intended for general inquiry, but rather for specific companies that have shown interest in our technology. If you are not a authorized representative of a company interested in our technology, please do not fill out this form.
-Please note that some fields are optional, and it's not required to fill out every field. However, providing accurate information will help us better understand your company's needs and provide more relevant information and resources.
-</thinking>
-
 # Tech Market Interest Inquiry Form - Help Guide
 ## Purpose
 The Tech Market Interest Inquiry Form is designed to help us understand your company's interest in our technology offerings. Please take a few minutes to fill out this form and help us provide more relevant information and resources tailored to your company's needs.

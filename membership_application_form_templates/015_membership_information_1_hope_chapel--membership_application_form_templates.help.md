@@ -1,8 +1,3 @@
-<thinking>
-This form is part of the membership application process for Hope Chapel. Its purpose is to collect information about the applicant, including their name, contact details, and date of birth. This form is designed to be completed by the applicant themselves, and the information collected will be used to process their membership application.
-To ensure the form is completed correctly, we will check for duplicate applications and ensure that the information provided is accurate and complete.
-</thinking>
-
 # Membership Information 1 Hope Chapel - Help Guide
 ## Purpose
 This form is part of the membership application process for Hope Chapel. It collects information about the applicant, including their name, contact details, and date of birth.

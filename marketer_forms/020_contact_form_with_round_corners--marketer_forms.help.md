@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for marketing inquiries and partnerships. It is a contact form designed to gather essential information from users to facilitate communication and potential collaborations between the marketing team and the user.
-</thinking>
-
 # Contact Form With Round Corners - Help Guide
 
 ## Purpose

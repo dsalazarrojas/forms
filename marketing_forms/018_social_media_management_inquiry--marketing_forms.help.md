@@ -1,8 +1,3 @@
-<thinking>
-This form was created to help gather information from users about their social media management needs and preferences. The purpose of this form is to understand what features and services would be most useful to potential customers. By completing this form, you'll be able to provide valuable feedback that will help shape the development of social media management tools.
-We'll be checking if you've already submitted this form before to avoid duplicating efforts and ensure your feedback is heard.
-</thinking>
-
 # Social Media Management Inquiry - Help Guide
 ## Purpose
 This form is designed to help us understand your social media management needs and preferences.

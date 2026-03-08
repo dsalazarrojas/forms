@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for individuals who wish to become members of a fishing club. To become a member, an individual must provide their personal details and preferred membership type. The form will guide users through this process, and the required fields are First name and Last name.
 
 The form is divided into sections. Users should fill out the form in order, one section per page.

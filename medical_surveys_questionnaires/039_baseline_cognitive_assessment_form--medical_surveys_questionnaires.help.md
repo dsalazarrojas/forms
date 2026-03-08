@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baseline Cognitive Assessment Form - Help Guide
 
 ## Purpose

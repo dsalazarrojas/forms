@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's sleep patterns and habits, including their difficulty falling asleep, sleep disorder, anxiety/fear, stress levels, physical discomfort, medication usage, medical conditions, smoking status, and recent doctor visits. This data will help healthcare professionals understand the user's overall sleep health and potential risks or conditions that may be impacting it. 
-
-To prevent duplicates, users are not allowed to save or submit this form more than once.
-
-Please ensure that all fields are filled out accurately and completely. Some fields may be optional, but providing accurate answers will help with the analysis of your sleep health. 
-
-Before proceeding, please note that this form has 12 sections, each with a specific question or question group. 
-
-</thinking>
-
 # Insomnia Questionnaire - Help Guide
 ## Purpose
 The Insomnia Questionnaire is designed to gather information about a user's sleep patterns and habits. 

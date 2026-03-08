@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in joining the Music Club. The purpose of this form is to gather contact and demographic information, musical interests, and emergency contact details from potential members. This form will help the club's administrators understand who is interested in joining and what type of information they are looking for in a music club. The form should not be used for any other purpose other than collecting membership information.
-</thinking>
-
 # Music Club Members Registration Form - Help Guide
 ## Purpose
 This form is intended for individuals interested in joining the Music Club to provide their contact and demographic information, musical interests, and emergency contact details.

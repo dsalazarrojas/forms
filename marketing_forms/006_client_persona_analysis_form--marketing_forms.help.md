@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to help business owners and marketers create a comprehensive understanding of their target audience, also known as "client personas." A client persona is a fictional representation of a specific group of people who share similar characteristics, behaviors, and needs. By filling out this form, users will be able to gather and analyze data about their target audience, which will assist in tailoring marketing strategies to effectively communicate with and serve their needs.
-
-Before filling out this form, make sure you have a clear understanding of your target audience and the specific goals of your marketing efforts. It is also essential to be as specific as possible and not duplicate information that may already be available. You can skip questions that do not apply to your case or that you cannot find information on.
-
-</thinking>
-
 # Client Persona Analysis Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clinical Trial Early Termination Report Form - Help Guide
 
 ## Purpose

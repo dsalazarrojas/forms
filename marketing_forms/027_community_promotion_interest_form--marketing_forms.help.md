@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential partners about their interest in promoting their business or organization to our community. We're looking for individuals or companies that are interested in collaborating with us to promote their products or services through various channels. This form will help us understand their needs, goals, and expectations from the partnership, making it easier to tailor our collaboration to their needs.
-To ensure we don't receive duplicate or irrelevant submissions, we'll use this form to filter out non-matching requests. Please only submit this form if you're a legitimate partner looking to collaborate with us.
-</thinking>
-
 # Community Promotion Interest Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential partners about their interest in promoting their business or organization to our community. Please fill out this form to help us understand your needs and tailor our collaboration accordingly.

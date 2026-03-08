@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Studio Floor Repair Material Order Form - Help Guide
 
 ## Purpose

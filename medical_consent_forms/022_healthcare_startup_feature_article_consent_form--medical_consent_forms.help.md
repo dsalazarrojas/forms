@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to obtain consent for publishing a healthcare startup feature article, which may feature information about a specific individual. This form ensures that individuals whose features are being showcased have provided their consent, and it's essential to have this consent documented for transparency and compliance.
-</thinking>
-
 # HealthCare Startup Feature Article Consent Form - Help Guide
 
 ## Purpose

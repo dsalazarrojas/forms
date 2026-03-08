@@ -1,7 +1,3 @@
-<thinking>
-We need to check if the form has been duplicated in our system, and if it's still relevant.
-The purpose of this form is to allow users to join the Bold Leaders Community, providing personal and professional information to connect with like-minded individuals. We should review the form fields to ensure they're still applicable and up-to-date.
-</thinking>
 # Join The Bold Leaders Community - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that explains this form's purpose, how to complete it, and what each field means. The form is called "Patient Participation In Decision Making Survey" and it seems to be related to medical surveys or questionnaires. I will follow the provided YAML fields to provide a comprehensive guide.
-
-</thinking>
-
 # Patient Participation In Decision Making Survey - Help Guide
 ## Purpose
 This form is designed to gather information from patients about their participation in medical decision-making processes. The survey aims to understand patients' preferences, medical conditions, treatment plans, and other relevant details to improve their healthcare experience.

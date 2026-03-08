@@ -1,7 +1,3 @@
-<thinking>
-This form is a Lead Qualification Form designed to gather information about potential leads. It is used to capture various details about leads, including their status, category, priority, description, contact person, company, email, phone number, address, date and time of lead creation, priority date, next action, sales person assigned, status update, lead assigned tool, assigned user, lead ID, and lead source. The form is designed to be completed by the sales team to provide a comprehensive view of each lead.
-</thinking>
-
 # Lead Qualification Form - Help Guide
 ## Purpose
 The Lead Qualification Form is used to gather essential information about potential leads, enabling the sales team to effectively evaluate and manage their progress.

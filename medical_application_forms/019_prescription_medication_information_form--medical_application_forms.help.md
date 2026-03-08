@@ -1,5 +1,3 @@
-<thinking>Prescription Medication Information Form is designed to collect important information about a patient's medical treatment, including their demographics, medication details, and prescriber information. This form is typically used in medical settings to gather data for patient care and record-keeping purposes. To ensure accurate and efficient completion, please review each section carefully.</thinking>
-
 # Prescription Medication Information Form - Help Guide
 ## Purpose
 This form collects information about a patient's medical treatment, including their demographics, medication details, and prescriber information.

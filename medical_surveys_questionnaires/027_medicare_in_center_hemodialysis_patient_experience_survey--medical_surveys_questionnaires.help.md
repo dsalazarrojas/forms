@@ -1,21 +1,3 @@
-<thinking>... internal reasoning block to check for form relevance and non-duplication ...
-
-The purpose of this form is to collect feedback from patients about their experience with hemodialysis services at the hospital. This form is designed to gather information on various aspects of the services, including the quality of care, staff interaction, and overall satisfaction.
-
-Upon reviewing the form, it appears to be a comprehensive survey that covers multiple aspects of hemodialysis services. The form has several sections, including:
-
-* Hemodialysis services: This section asks about the patient's experiences with the services, including any complications that may have occurred.
-* Staff interaction: This section asks about the patient's rating of their interaction with the hospital staff.
-* Hemodialysis environment: This section asks about the patient's perception of the environment where they received hemodialysis services.
-
-The form also has several fields that ask patients to provide free-form text responses, such as "What were your experiences with our dialysis services?" and "Are there any other issues you experience with our hospital?"
-
-Upon checking for non-duplication, it appears that some fields may be similar in nature, but they serve different purposes. For example, "How likely are you to recommend our hospital for dialysis services?" and "Are there any other issues you experience with our hospital?" both ask about the patient's perception of the hospital, but they focus on different aspects.
-
-Upon further review, it seems that this form is comprehensive and covers various aspects of hemodialysis services, including staff interaction, environment, and patient experience. The form appears to be well-structured and easy to complete.
-
-</thinking>
-
 # medicare_in_center_hemodialysis_patient_experience_survey - Help Guide
 
 ## Purpose

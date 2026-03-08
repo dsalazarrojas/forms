@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Awareness Initiative Claim Form - Help Guide
 ## Purpose
 The Mental Health Awareness Initiative Claim Form is used to report mental health claims and concerns to the organization. This form is intended to gather information about claimants and their experiences with mental health issues. The information collected will be used to better understand mental health trends and provide support and resources to claimants.

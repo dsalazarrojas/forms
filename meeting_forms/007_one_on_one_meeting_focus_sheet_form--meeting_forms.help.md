@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # one_on_one_meeting_focus_sheet_form - Help Guide
 ## Purpose
 The One-on-One Meeting Focus Sheet is used to document and track important details about individual meetings, such as the name and email of the person meeting with, the date of the meeting, and any relevant notes or discussions. This form is designed to help ensure that all necessary information is captured and stored for future reference.

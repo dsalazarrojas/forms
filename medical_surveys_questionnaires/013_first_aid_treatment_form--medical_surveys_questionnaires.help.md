@@ -1,9 +1,3 @@
-<thinking>Here is the internal reasoning behind this help guide:
-
-This form is designed to collect information about patients who have received first aid treatment. It is intended for medical professionals to gather data on the medical conditions of patients, the treatment provided, and other relevant details. The form should only be used for patients who have received first aid treatment. There should be no duplication of patients in the form.
-
-</thinking>
-
 # First Aid Treatment Form - Help Guide
 ## Purpose
 This form is used to collect information about patients who have received first aid treatment. It is intended for medical professionals to gather data on the medical conditions of patients, the treatment provided, and other relevant details.

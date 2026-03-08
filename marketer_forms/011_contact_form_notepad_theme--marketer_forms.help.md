@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Form Notepad Theme - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-The Dance Club Membership Form is a user-facing form designed for potential members of a dance club to register their interest in joining the club. The form gathers basic information about the individual, such as their name, email, phone number, and preferred membership details. By completing this form, the club's administrators can keep track of interested members and contact them about club events and updates.
-
-To ensure that the form is used correctly, it is essential to follow the required instructions and guidelines below.
-
-Please note that the form is currently designed to be non-strict, but the club may modify it in the future, so it's crucial to stay up-to-date with the latest version.
-
-</thinking>
-
 # Dance Club Membership Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about potential members interested in joining the dance club.

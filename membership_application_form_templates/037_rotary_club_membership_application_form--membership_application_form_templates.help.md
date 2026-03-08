@@ -1,8 +1,3 @@
-<thinking>
-The Rotary Club Membership Application Form is designed for individuals interested in joining the Rotary Club to complete a membership application. This form is typically used for initial membership applications, and the information collected will be reviewed by club administrators to determine eligibility for membership. The form is not intended for renewing or updating membership information.
-To ensure accurate and complete applications, please review the form carefully and provide clear, accurate information about yourself. This guide will help you understand what each field is for and how to complete it properly.
-</thinking>
-
 # Rotary Club Membership Application Form - Help Guide
 ## Purpose
 The Rotary Club Membership Application Form is a tool for individuals to apply for membership in the Rotary Club. This form helps club administrators review and assess your application.

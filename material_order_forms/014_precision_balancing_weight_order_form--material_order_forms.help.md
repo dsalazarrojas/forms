@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Precision Balancing Weight Order Form", I'll review the provided YAML fields and provide a clear and concise explanation.
 
 # Precision Balancing Weight Order Form - Help Guide

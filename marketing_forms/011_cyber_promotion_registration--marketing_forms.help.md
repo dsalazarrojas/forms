@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cyber_promotion_registration - Help Guide
 
 ## Purpose

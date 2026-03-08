@@ -1,6 +1,3 @@
-<thinking>
-To ensure that the user understands the form's purpose, we need to verify that the correct context is applied and that this isn't a duplicate form. This form is designed for marketing teams to collect insights on social media presence, engagement, and content. The form will help gather information about the brand's social media strategy, highlighting areas where they can improve and provide new ideas and solutions to enhance their online presence.
-</thinking>
 # Social Media Brand Insights - Help Guide
 ## Purpose
 This form is designed to help marketing teams gather insights on social media presence, engagement, and content. It will provide valuable information about the brand's social media strategy, highlighting areas where they can improve and offer new ideas and solutions to enhance their online presence.

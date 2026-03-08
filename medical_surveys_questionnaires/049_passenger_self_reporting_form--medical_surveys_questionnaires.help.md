@@ -1,8 +1,3 @@
-<thinking>
-We need to create a help guide for the "Passenger Self Reporting Form" that explains the form's purpose, how to complete it, and what each field means. This form is used for passengers to report their health symptoms, which will help healthcare professionals assess their condition and provide appropriate care.
-
-</thinking>
-
 # Passenger Self Reporting Form - Help Guide
 ## Purpose
 The Passenger Self Reporting Form is a tool designed to help passengers report their health symptoms in a quick and efficient manner. This form collects information on the frequency and severity of various symptoms, allowing healthcare professionals to make informed decisions about the passenger's treatment and care.

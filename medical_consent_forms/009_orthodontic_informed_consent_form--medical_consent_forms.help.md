@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose:**
-The purpose of this form is to collect information and consent from patients undergoing orthodontic treatment. The form ensures that the patient understands the treatment process, risks involved, and benefits expected, which is essential for both the patient's safety and the practitioner's liability. This form serves as a legal document that protects both parties involved in the treatment.
-
-**Non-Duplication Check:**
-Please ensure you're not using this form for any other purpose or treatment type, as it is specifically designed for orthodontic treatment. If you have any other forms for different purposes or treatments, please refer to the relevant ones.
-
-</thinking>
-
 # Orthodontic Informed Consent Form - Help Guide
 ## Purpose
 The Orthodontic Informed Consent Form is a document that ensures patients understand and agree to the terms of their orthodontic treatment, providing informed consent for the process. This form must be filled out by the patient before commencing any orthodontic treatment.

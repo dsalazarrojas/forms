@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hearing Results Notification Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a standardized way of communicating hearing test results to patients. It is designed to be filled out by healthcare professionals after conducting a hearing test, and it helps in ensuring that the patient is informed and scheduled for follow-up appointments as necessary.

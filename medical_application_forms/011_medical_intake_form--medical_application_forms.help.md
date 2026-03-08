@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect basic personal and medical information from patients. The purpose of this form is to gather relevant data that will aid in the diagnosis and treatment of medical conditions. The form is not intended for emergency use and should not be used for urgent medical matters. It is recommended to review the form carefully to ensure all required fields are completed accurately and thoroughly.
-
-</thinking>
-
 # medical_intake_form - Help Guide
 ## Purpose
 The medical_intake_form is a form designed to collect basic personal and medical information from patients. It is intended to aid in the diagnosis and treatment of medical conditions.

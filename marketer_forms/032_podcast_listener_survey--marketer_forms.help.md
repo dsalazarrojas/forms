@@ -1,9 +1,3 @@
-<thinking>
-This form is a survey for podcast listeners to share their thoughts and opinions about the podcast. The form is designed to gather information about how listeners discovered the podcast, their ratings and preferences, and demographic information such as age and location.
-The form will be used to gain insights into the audience and improve the podcast's content and engagement strategy. It will be completed by individuals who have listened to the podcast and want to provide feedback.
-Please ensure that this form is only accessed by authorized users and that sensitive information such as phone numbers and email addresses are handled securely.
-</thinking>
-
 # Podcast Listener Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information from podcast listeners to improve the podcast's content and engagement strategy.

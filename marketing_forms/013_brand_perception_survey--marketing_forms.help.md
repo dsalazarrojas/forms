@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the respondent's perception of a brand. It is designed to collect data on various aspects of the brand, including customer status, first impression, brand descriptors, quality perception, price perception, customer service experience, brand uniqueness, emotional connection, social status, loyalty level, repurchase intention, recommendation to others, brand strengths, brand weaknesses, and overall opinion. This form is intended for internal use and not for public distribution. It is assumed that the respondent is familiar with the brand and is answering based on their personal experience. The form is designed to be completed by one person at a time.
-</thinking>
-
 # Brand Perception Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the respondent's perception of a brand.

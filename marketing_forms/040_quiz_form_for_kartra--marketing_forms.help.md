@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect information from users for marketing purposes. The form is intended to gather data that will help us understand our audience's preferences and interests. This information will be used to improve our marketing strategies and better tailor our content to our audience's needs. Please make sure to complete this form only once, as duplicate submissions will not be accepted.
-</thinking>
-
 # Quiz Form For Kartra - Help Guide
 
 ## Purpose

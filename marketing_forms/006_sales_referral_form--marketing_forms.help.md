@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for sales referrals, which are typically used to track leads or potential customers that have been referred by an internal sales person or a customer. This form likely serves as a means to record this information in a structured manner for future reference or follow-up. It is also likely used in a business-to-business or business-to-consumer sales context.
-
-This form does not appear to be used in any other context besides sales referrals, and there doesn't seem to be any overlap with other forms within the organization. This form appears to be self-contained and its purpose is clear within this specific context.
-</thinking>
-
 # Sales Referral Form - Help Guide
 ## Purpose
 The Sales Referral Form is used to collect information for sales referrals.

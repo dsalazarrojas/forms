@@ -1,17 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's consider the form's purpose and the context in which it will be used. This form is likely intended to gauge the quality of medical data, specifically regarding the perception of its accuracy, completeness, and consistency. It's possible that this form will be used in a medical setting to evaluate the quality of data collected or used in patient care. 
-
-The form consists of a mix of rating and text fields, indicating that users will be evaluating data quality across various dimensions (e.g., accuracy, completeness, consistency, and ownership). The fields are mostly select_one fields, which suggests that users will be selecting one option from a list of choices (e.g., Excellent, Good, Fair, Poor).
-
-To create an effective user-facing help guide, we should focus on explaining the form's purpose, how to complete it, and the meaning behind each field. We should also highlight any specific requirements or constraints for the user. 
-
-Before proceeding, let's review the form's fields and identify any areas that may require clarification. 
-
-Upon reviewing the form, it appears that most fields are select_one fields with similar options, which may cause confusion. To avoid confusion, we can group related fields together in the help guide.
-
-The form also asks for text fields for patient care, staff care, and medical history, which may require specific instructions or guidelines for users. These fields may need additional explanation to ensure users provide the correct information.
-
-In the following help guide, we'll aim to provide a clear and concise explanation of the form's purpose, how to complete it, and the meaning behind each field. We'll group related fields together and provide additional guidance where necessary.</thinking>
-
 # Medical Data Quality Perception Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the quality of medical data. You will be asked to rate your perception of the data's accuracy, completeness, and consistency across various aspects, such as data ownership and security. Your feedback will help us understand the effectiveness of our data collection and usage processes.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to register customers for the nutrition program. It is intended for individuals or businesses interested in receiving nutrition advice, attending cooking classes, or purchasing healthy food products. The form is meant to be completed by customers who are not already registered in the system.
-
-Before filling out the form, please ensure that the customer is not already registered. If they are, please use the existing registration form to update their information.
-
-The purpose of this form is to collect the customer's basic contact information and preferences for the nutrition program. It will be used to communicate with the customer and provide personalized services.
-
-Each field in this form is designed to collect specific information that will help the nutrition program team tailor their services to the customer's needs.
-
-</thinking>
-
 # Nutrition Program Customer Registration Form - Help Guide
 ## Purpose
 This form is used to register customers for the nutrition program, allowing them to access personalized services such as nutrition advice, cooking classes, and healthy food products.

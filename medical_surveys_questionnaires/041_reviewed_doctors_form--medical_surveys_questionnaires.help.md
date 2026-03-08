@@ -1,6 +1,3 @@
-<thinking> 
-The "Reviewed Doctors Form" is designed to collect information about doctors and their associated contact information, specialties, and review details. The form is used to update a doctor's status in the system. It is recommended that users complete this form only once for each doctor, and do not submit duplicates. If a doctor's information has already been reviewed, the user will not be able to submit the form. The form should be completed in full, with all fields filled out as accurately as possible, to ensure accurate tracking of doctor information and reviews. </thinking>
-
 # reviewed_doctors_form - Help Guide
 ## Purpose
 

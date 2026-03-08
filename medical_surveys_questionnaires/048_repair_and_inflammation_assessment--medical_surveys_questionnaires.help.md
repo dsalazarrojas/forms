@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a patient's current condition, including pain level, inflammatory symptoms, healing progress, and other relevant details. This form is designed to help healthcare professionals assess the patient's situation accurately and make informed decisions. Please ensure that you are filling out this form for the correct purpose and that you have the necessary authorization to do so.
-</thinking>
-
 # Repair And Inflammation Assessment - Help Guide
 ## Purpose
 This form is intended for healthcare professionals to assess a patient's current condition and make informed decisions. It is not intended for personal or non-medical use.

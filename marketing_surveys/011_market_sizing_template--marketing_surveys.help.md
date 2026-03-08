@@ -1,8 +1,4 @@
-> <thinking> 
-This help guide is intended for end-users who will be interacting with the 'Market Sizing Template' form, which is designed to capture market size and growth potential information from clients. This form is a crucial tool for businesses to understand the scope and potential of a specific market. Before proceeding, please ensure that this form is not being filled out for a market that has already been sized or assessed previously to avoid duplication of effort. 
-</thinking>
-
-# Market Sizing Template - Help Guide
+> # Market Sizing Template - Help Guide
 
 ## Purpose
 The purpose of this form is to gather market size and growth potential information from clients for businesses to make informed decisions.

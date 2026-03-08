@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect sales order information from customers, allowing them to input details such as customer information, order dates, product list, and order status. The purpose of this form is to streamline the sales process by providing a centralized platform for customers to submit their orders. It also allows the sales team to easily review and update order status.
-
-This form is used to collect sales orders, and it is essential that the customer understands the purpose and the fields required to be filled in correctly to avoid duplication and miscommunication.
-
-</thinking>
-
 # sales_order_form - Help Guide
 ## Purpose
 The sales order form is designed to collect sales order information from customers, allowing the sales team to easily review and update order status.

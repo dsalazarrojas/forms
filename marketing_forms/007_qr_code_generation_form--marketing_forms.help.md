@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to guide the user in generating a QR code for events that they are hosting or will host. The purpose of this form is to help the user input the necessary information to generate a QR code for events such as event details, product information, customer information, etc. This form is used by users who want to create a QR code for an event they are hosting, and need to provide details such as event name, event start and end dates, event time, event location, event registration link, etc. This form is not a required form and users can skip it if they do not need to generate a QR code for an event. 
-</thinking>
-
 # QR Code Generation Form - Help Guide
 ## Purpose
 The QR Code Generation Form is a tool used to create a QR code for events that you are hosting or will host. This form will guide you through the process of generating a QR code that you can use for promotional purposes.

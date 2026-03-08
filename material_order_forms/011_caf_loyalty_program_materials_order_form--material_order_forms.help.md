@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that we're on the same page. This form seems to be for ordering materials for a café's loyalty program. We'll be creating a comprehensive help guide to walk end-users through the form, explaining each field's purpose and required information. Let's review the form structure and field explanations to ensure we cover all the necessary information.</thinking>
-
 # Café Loyalty Program Materials Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for ordering loyalty program materials (e.g., loyalty cards, brochures, flyers, posters, banners) for a café. Fill out the form to request materials that meet your specific needs.

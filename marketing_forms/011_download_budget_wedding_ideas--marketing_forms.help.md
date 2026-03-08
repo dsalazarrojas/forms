@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from potential wedding clients about their budget and planning preferences for a special event, likely a wedding. The form appears to be designed to gather details that will help vendors or event planners understand the client's requirements and make informed proposals to meet their needs.
-
-To complete this form, a potential client should fill out the following sections:
-
-The form has multiple pages, but they are all displayed in a single input. Each page has a specific label and type. This guide will cover the fields on each page.
-
-</thinking>
-
 # Download Budget Wedding Ideas - Help Guide
 ## Purpose
 

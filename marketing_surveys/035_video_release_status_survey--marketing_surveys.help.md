@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the status of a video release, including its title, release status, release date and time, platform, and contact details. This form is likely used by marketing teams to track and update video releases across various platforms.
-
-Before filling out this form, ensure that you have all the necessary information at hand. If you have filled out this form previously, double-checking your previous responses is unnecessary unless there have been changes to the video release status.
-
-</thinking>
-
 # Video Release Status Survey - Help Guide
 ## Purpose
 This form is used to collect information about the status of a video release.

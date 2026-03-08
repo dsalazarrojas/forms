@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Campaign Approval Form - Help Guide
 
 ## Purpose

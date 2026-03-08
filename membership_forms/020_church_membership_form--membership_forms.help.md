@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals interested in becoming members of the church. It collects personal, contact, family, faith background, and membership details from the user. The form is used to assess the user's commitment to the church's doctrine and values and to determine their areas of interest in ministry work.
-</thinking>
-
 # Church Membership Form - Help Guide
 ## Purpose
 The Church Membership Form is designed to collect information from individuals interested in becoming members of the church. This form will guide you through the necessary steps and fields to provide your personal, contact, family, and faith background information. It also assesses your commitment to the church's doctrine and values.

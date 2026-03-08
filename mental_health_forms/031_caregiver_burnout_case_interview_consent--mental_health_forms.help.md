@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Burnout Case Interview Consent - Help Guide
 
 ## Purpose

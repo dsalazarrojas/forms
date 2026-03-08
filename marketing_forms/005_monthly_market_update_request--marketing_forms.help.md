@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to submit their monthly market updates request, helping the marketing team to better understand user preferences and tailor the content accordingly. This form should not be filled out by people who are not interested in market updates or have already subscribed to the marketing insights. Please ensure that you only fill out the form if you're genuinely interested in receiving market information and updates.
-</thinking>
-
 # monthly_market_update_request - Help Guide
 ## Purpose
 The monthly_market_update_request form is designed to help the marketing team gather user preferences and interests for market updates. It's meant to be filled out by users who are interested in learning more about market trends, product updates, promotions, and other related topics.

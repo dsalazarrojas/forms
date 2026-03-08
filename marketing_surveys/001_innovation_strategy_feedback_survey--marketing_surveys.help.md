@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and suggestions from various departments (Sales, Marketing, Product Development) on their current innovation strategy. The form is intended to help the company understand what works well and what areas need improvement in their innovation strategy. This is a one-time feedback opportunity for each department to share their thoughts. Please note that responses will be kept confidential and will only be used to improve the company's innovation strategy. 
-
-</thinking>
-
 # Innovation Strategy Feedback Survey - Help Guide
 
 ## Purpose

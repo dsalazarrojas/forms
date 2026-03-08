@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to guide users in selecting the correct sales period for their business needs. This form is likely used by sales teams to configure and customize sales periods for their sales activities, such as setting up sales campaigns or reporting periods. The form should not be used for other purposes, such as general data entry or configuration of unrelated business activities.
-
-Before proceeding, please confirm that you are a sales team member or have authority to configure sales periods.
-
-Please note that some fields are optional, and users can choose to leave them blank. However, if left blank, certain fields may affect the validity or relevance of the form data.
-
-Please refer to the form's field descriptions below for more detailed information on how to complete it correctly.
-</thinking>
-
 # Sales Period Selection Form - Help Guide
 ## Purpose
 The Sales Period Selection Form is used to configure sales periods for sales activities, such as sales campaigns, reporting, and other sales-related settings.

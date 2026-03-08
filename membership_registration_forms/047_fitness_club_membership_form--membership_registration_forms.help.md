@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help potential members of a fitness club join the club and sign up for membership. The form will guide the user through three pages: the main registration page, a page for payment information, and a final page for payment confirmation. The form's purpose is to collect necessary details from the user, including payment information, to complete the registration process.
-
-
-</thinking>
-
 # Fitness Club Membership Form - Help Guide
 ## Purpose
 This form is for joining the fitness club. It consists of three pages: the main registration page, a page for payment information, and a final page for payment confirmation.

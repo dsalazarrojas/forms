@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information for tracking pixel setup. Tracking pixels, also known as "pixels," are small code snippets used for tracking events on a website. This form is likely used by marketing teams to collect data on the status of their tracking pixel setup for various platforms like Google and Facebook. The form may be used to track the implementation progress of these pixels and any errors that occur during their setup.</thinking>
-
 # tracking_pixel_setup_survey - Help Guide
 ## Purpose
 This form is used to collect information for tracking pixel setup, including status and error messages.

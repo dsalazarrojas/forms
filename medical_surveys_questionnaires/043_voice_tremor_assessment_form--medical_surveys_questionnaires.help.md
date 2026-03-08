@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voice Tremor Assessment Form - Help Guide
 ## Purpose
 The Voice Tremor Assessment Form is designed to gather information about a patient's symptoms and medical history related to tremors. This form is intended to be used by healthcare professionals to assess the severity and impact of tremors on a patient's daily life. Please ensure that you are completing this form for the correct purpose and do not use it for other medical assessments.

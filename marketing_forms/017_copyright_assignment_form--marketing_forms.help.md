@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Copyright Assignment Form is to gather information about a copyright assignment. This form is likely used to assign ownership of a work to a specific individual or entity. This form should only be used when the work is intended to be assigned, and not for other purposes such as general contact or feedback forms. To prevent duplication, ensure that the form is only used for a new copyright assignment and not for revisions or updates to existing assignments.
-</thinking>
-
 # Copyright Assignment Form - Help Guide
 
 ## Purpose

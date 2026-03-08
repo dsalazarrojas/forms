@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect information from patients about their neurological care needs, symptoms, and medical history. This form will be used by healthcare professionals to assess the patient's neurological condition and develop an appropriate treatment plan. The form includes fields that cover a range of topics, including the patient's main complaint, symptoms, medication information, and medical conditions. 
-
-The form is part of a larger clinical assessment process and will be reviewed by healthcare professionals who will use the information to inform their diagnosis and treatment recommendations.
-
-This guide will help patients understand how to complete the form accurately and efficiently. Please note that this form is not a diagnostic tool and should not be used to self-diagnose or self-treat any medical conditions.
-</thinking>
-
 # Neurological Care Assessment Form - Help Guide
 ## Purpose
 The Neurological Care Assessment Form is designed to gather information from patients about their neurological health and medical history to help healthcare professionals assess their condition and develop an appropriate treatment plan.

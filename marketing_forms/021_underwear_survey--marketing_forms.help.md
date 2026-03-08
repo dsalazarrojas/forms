@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather data from users about their preferences and habits related to underwear. The purpose of the form is to collect information on the user's demographic characteristics (gender, age, income), preferences (type, size, color), and potentially sensitive topics like underwear material. 
-
-The form is not a formal, required field, and users are encouraged to provide their honest responses without feeling compelled to provide unnecessary information.
-
-The form fields should not be filled out multiple times, as they are meant to be used to gather unique, single responses from each individual. 
-
-The form has several fields that are select_one and select_multiple, which means the user can only choose one option for select_one fields and multiple options for select_multiple fields.
-
-This form does not seem to collect any sensitive or personal identifiable information. 
-</thinking>
-
 # Underwear Survey - Help Guide
 ## Purpose
 The Underwear Survey is designed to gather your preferences and habits related to underwear. Your participation will help us better understand our customers' needs.

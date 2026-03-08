@@ -1,12 +1,3 @@
-<thinking>
-We're creating a membership application form for the Best Sellers Club, which aims to onboard successful sellers onto our platform. The purpose of this form is to gather essential information about sellers, their business operations, and their sales strategies. This form ensures that only sellers with high-quality, well-managed businesses can join the Best Sellers Club and benefit from its resources and networking opportunities.
-
-Please note that the information collected will be verified and reviewed by our team before approval, to prevent duplication or misrepresentation.
-
-This form is divided into several sections to guide you through the application process. Please make sure to complete each section accurately and comprehensively.
-
-</thinking>
-
 # Best Sellers Club Membership Form - Help Guide
 ## Purpose
 The Best Sellers Club Membership Form is designed to help the Best Sellers Club onboard successful sellers onto our platform. This form collects essential information about sellers, their business operations, and sales strategies to ensure that only high-quality businesses can join the club.

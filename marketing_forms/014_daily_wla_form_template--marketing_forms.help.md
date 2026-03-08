@@ -1,11 +1,3 @@
-<thinking>
-
-The Daily WLA Form Template is a form designed to collect information about resource allocation and management. The form is used to track the availability and utilization of resources, including their location, type, and status. It also captures information about the assigned tools and costs associated with each resource. The form is meant to be completed by resource managers or administrators to provide a snapshot of the current state of resources within the organization. 
-
-Before filling out the form, ensure that the information is accurate and up-to-date to reflect the current state of resources.
-
-</thinking>
-
 # Daily WLA Form Template - Help Guide
 ## Purpose
 The Daily WLA Form Template is a tool used to track and analyze resource allocation and management within the organization. It is used to monitor the availability and utilization of resources, including their location, type, and status.

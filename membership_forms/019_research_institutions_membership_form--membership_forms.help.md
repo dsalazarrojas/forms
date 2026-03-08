@@ -1,9 +1,3 @@
-<thinking>
-
-The "research_institutions_membership_form" form is designed to collect information from users about their research experience and institutional membership. This form is likely used for a research-related membership application or survey. The form has several sections that gather details about the user's research areas, interests, roles, contact information, and other relevant data. Before proceeding, ensure that this form is not being completed multiple times by the same individual, and review the fields carefully to ensure all required information is provided.
-
-</thinking>
-
 # research_institutions_membership_form - Help Guide
 ## Purpose
 The "research_institutions_membership_form" gathers information from users about their research experience and institutional membership to facilitate membership applications, surveys, or other research-related purposes.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect market research tool requisitions from various departments within the company. The purpose of this form is to centralize the process of requesting and tracking market research tools. When filling out this form, please ensure that the information provided is accurate and up-to-date to avoid duplication of efforts.
-
-Before filling out this form, it is recommended to check if a similar requisition has already been submitted. If you are unsure, please contact the relevant department to confirm.
-
-Please note that some fields in this form have specific constraints or requirements. The fields that are marked as 'required' must be filled out in order to proceed.
-
-This form will be reviewed and processed by the relevant department upon submission.
-</thinking>
-
 # Market Research Tool Requisition Form - Help Guide
 ## Purpose
 The Market Research Tool Requisition Form is used to collect market research tool requisitions from various departments within the company. It helps to centralize the process of requesting and tracking market research tools.

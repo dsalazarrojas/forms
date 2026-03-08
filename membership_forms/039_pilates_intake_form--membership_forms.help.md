@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who are interested in or already participating in pilates classes. It is intended to be used by studios, gyms, or other fitness establishments to collect relevant data for their clients. It is crucial to review the form's content to ensure it suits your specific needs. Please verify that the form does not contain any sensitive or redundant fields. Review the form's fields and questions to guarantee that they align with your business practices and local regulations.
-</thinking>
-
 # Pilates Intake Form - Help Guide
 ## Purpose
 The Pilates Intake Form is designed to collect essential information from clients who are new to or currently practicing pilates. This form helps pilates studios, gyms, or fitness establishments gather the necessary data to create a safe and effective workout environment for their clients.

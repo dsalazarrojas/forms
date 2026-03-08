@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for analyzing and evaluating the effectiveness of mail campaigns or marketing efforts. It seems to be used to collect data on various aspects of the mail campaign, including mailing strategy, frequency, and results. This form likely aims to help users track and improve their mail marketing activities. Before proceeding, please ensure that the form is not being used in conjunction with other forms that may cover similar topics or have overlapping fields. It is also essential to review the form's purpose and fields to ensure they align with the actual goals and needs of the users.</thinking>
-
 # Mail Analysis Checklist - Help Guide
 ## Purpose
 The Mail Analysis Checklist is a form designed to help users analyze and evaluate the effectiveness of mail campaigns or marketing efforts. It collects data on various aspects of the mail campaign, including mailing strategy, frequency, results, and target audience.

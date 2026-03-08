@@ -1,5 +1,3 @@
-<thinking>As a Behavior Observation Form is used by teachers and educators to document and report on student behaviors observed during lessons or activities. This form helps gather data on student behavior, identify areas of concern, and provide strategies for improvement. It is essential to ensure that the form is completed accurately and consistently to maintain reliability and validity of the data.</thinking>
-
 # Behavior Observation Form - Help Guide
 ## Purpose
 The Behavior Observation Form is a tool used to document and report on student behaviors observed during lessons or activities. It helps teachers and educators identify behaviors that require support, provide recommendations for improvement, and maintain accurate records.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect and track content ideas submitted by contributors. This form ensures that all ideas are thoroughly vetted and reviewed to prevent duplication and ensure alignment with our marketing strategy.
-Before filling out this form, ensure that your submission is original and hasn't been suggested before. The form will help you provide necessary information to help our team evaluate and potentially create a content piece.
-</thinking>
-
 # Content Idea Submission Form - Help Guide
 
 ## Purpose

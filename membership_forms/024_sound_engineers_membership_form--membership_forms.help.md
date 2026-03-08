@@ -1,9 +1,3 @@
-<thinking>
-Please note that the form is intended for collecting membership information from sound engineers, which may include freelancers, studio engineers, or other music professionals. 
-The form aims to gather relevant details about the applicant, such as their name, contact information, and professional experience. The goal is to ensure the applicant has a clear understanding of what they are signing up for and what to expect as a member. 
-Before proceeding, ensure that this form is relevant to your needs and does not exist in your system already. 
-</thinking>
-
 # Sound Engineers Membership Form - Help Guide
 ## Purpose
 The Sound Engineers Membership Form is designed to collect information from sound engineers who wish to become members of your organization. This form is essential for our internal records and helps us understand your professional background and interests.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "cts_cb" form, which is likely used for capturing information related to callbacks, call-to-sets, notes, contact details, and tool assignments. The purpose of this form is to gather relevant data from users, possibly for marketing or sales purposes. This form may be used in sales meetings or other business settings. It's possible that this form is part of a larger system or workflow, so ensure that the information provided is accurate and up-to-date. Ensure that the form is not duplicated or submitted with incorrect information.
-</thinking>
-
 # cts_cb - Help Guide
 ## Purpose
 The "cts_cb" form is used to capture information related to callbacks, call-to-sets, notes, contact details, and tool assignments. This form is likely used for sales or marketing purposes, such as capturing follow-up information after a meeting or interaction with a customer.

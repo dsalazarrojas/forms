@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to allow companies or organizations to inquire about potential sponsorship opportunities with the company. This form is used to collect contact information and details about the partnership or collaboration they are interested in, which will help the company to better understand their needs and tailor their proposal accordingly.
-
-To ensure that the form is used correctly, please review the following instructions and explanations of each field:
-
-</thinking>
-
 # Sponsorship Collaboration Inquiry Form - Help Guide
 
 ## Purpose

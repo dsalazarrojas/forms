@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive evaluation tool designed to gather feedback about the effectiveness of medical simulation training sessions. It captures information about the session's purpose, the type and location of the training, the results of the medical survey, and the participants' evaluation of the session. The form may be used to monitor the efficacy of the training and identify areas for improvement. This form is likely to be used by trainers, assessors, or administrators to collect data on the outcomes of medical simulation training sessions. It seems that the form is not designed for personal medical survey results, but rather for general training evaluation. The form does not appear to be a duplicate of any other form in the system, but it's essential to double-check this information to avoid any confusion. The form's purpose and structure are clear, making it easy to use and navigate.
-</thinking>
-
 # Medical Simulation Training Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback about the effectiveness of medical simulation training sessions. It captures information about the session's purpose, location, and participants' evaluations to monitor and improve the training program.

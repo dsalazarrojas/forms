@@ -1,7 +1,3 @@
-<thinking>
-Patient Empowerment In Digital Health Survey is a digital survey aimed at understanding how patients interact with digital health tools and services. The survey is designed to gather information on various aspects of digital health, including the patient's experience with digital tools, their confidence levels in these tools, and any barriers they may encounter. This knowledge will help healthcare providers better understand the needs and concerns of their patients, enabling them to improve patient care and support.
-</thinking>
-
 # Patient Empowerment In Digital Health Survey - Help Guide
 
 ## Purpose

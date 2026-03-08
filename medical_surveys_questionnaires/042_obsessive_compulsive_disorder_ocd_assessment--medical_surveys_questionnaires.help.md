@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to assess the severity of symptoms and impact on daily life of individuals with Obsessive Compulsive Disorder (OCD). This form is not intended for diagnosis, but rather as a tool for healthcare providers to gather information about the symptoms and effects of OCD on a person's life. This form should only be completed by healthcare professionals or individuals with access to medical records. 
-
-</thinking>
-
 # Obsessive Compulsive Disorder (OCD) Assessment - Help Guide
 ## Purpose
 This form is designed to help healthcare providers assess the severity of symptoms and impact on daily life of individuals with Obsessive Compulsive Disorder (OCD).

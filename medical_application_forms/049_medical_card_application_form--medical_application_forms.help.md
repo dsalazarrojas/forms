@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate the collection of medical information for patients. It will likely be used by healthcare professionals to gather details about a patient's medical history, medical card, or other relevant medical information. This form should not be used to collect duplicate or unnecessary information, and should only be filled out by authorized personnel. 
-</thinking>
-
 # Medical Card Application Form - Help Guide
 ## Purpose
 The Medical Card Application Form is a crucial document used to gather essential information about a patient's medical history, medical card, and other relevant details. This form is designed to provide a comprehensive overview of the patient's medical situation, enabling healthcare professionals to make informed decisions.

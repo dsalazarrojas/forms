@@ -1,17 +1,3 @@
-<thinking>
-
-This form, named "Donor Data Protection Awareness Survey," aims to gauge the awareness and comfort levels of donors regarding how their data is protected and handled by the organization. This form should only be completed by individuals who are familiar with the organization's data protection practices and policies. The purpose of this survey is to:
-
-*   Gather feedback from donors on their perception of how their data is protected
-*   Identify areas where the organization can improve its data protection practices
-*   Inform the development of policies and procedures that address donor concerns
-
-It is essential to ensure that the survey is completed by individuals who are knowledgeable about the organization's data protection practices to avoid misinterpretation of the questions and to ensure the accuracy of the feedback received.
-
-Before proceeding, please review the survey carefully to ensure that you are familiar with the questions and options provided.
-
-</thinking>
-
 # Donor Data Protection Awareness Survey - Help Guide
 
 ## Purpose

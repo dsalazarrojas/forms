@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for obstetric fellowship applications. It gathers personal details, contact information, educational background, work experience, skills, references, and attachments from applicants. Please ensure that the form is completed accurately and thoroughly, as it is used to assess qualifications for the fellowship. Before starting, review the form carefully to ensure that you are providing all required information and that it is up-to-date. If you are unsure about any field, you can contact our support team for clarification.
-</thinking>
-
 # ObstetricFellowshipApplication - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the obstetric fellowship application form.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather demographic information from donors and potential donors to help organizations better understand their audience. It is not intended to be a substitute for other forms that gather more in-depth information or sensitive data. This form should not be used to collect sensitive or confidential information such as financial data or personal identification numbers. Please ensure that all data collected is used in accordance with relevant data protection regulations and that the data is not shared with third-party organizations without consent.
-</thinking>
-
 # Donor Demographic Research Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect application information from individuals applying for the Medical Device Innovation Fellowship. The purpose of this form is to help the review committee assess the applicant's qualifications, research area, and fellowship goals. To ensure accurate and complete submissions, please make sure to provide all required information and attachments. Please note that this form is not a comprehensive list of all required fields, and additional information may be requested during the review process.
-</thinking>
-
 # Medical Device Innovation Fellowship Application - Help Guide
 ## Purpose
 This form is used to collect application information from individuals applying for the Medical Device Innovation Fellowship.

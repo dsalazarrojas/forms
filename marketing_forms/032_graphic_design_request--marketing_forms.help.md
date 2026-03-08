@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect requests for graphic design services from clients or customers. It is intended to gather information about the specific design requirements and timeline of the project. The form should only be used to submit new requests and not to resubmit existing ones.
-</thinking>
-
 # Graphic Design Request - Help Guide
 ## Purpose
 The Graphic Design Request form is a tool to collect and process design requests from clients or customers. It helps to gather essential information about the project, including the title, description, deadline, and contact details.

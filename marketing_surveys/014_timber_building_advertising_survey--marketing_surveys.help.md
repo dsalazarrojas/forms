@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from users about their experience with Timber Building, a construction company. The purpose of this form is to understand what users think is important about Timber Building's features and services, and to identify areas for improvement. It's essential to complete this form accurately, as the feedback will help us refine our marketing strategies and better understand our target audience's needs.
-
-Before proceeding, ensure you have not filled this form before, as duplicate responses are not allowed. Please take a few minutes to thoroughly answer each question, and remember that your feedback is valuable to us.
-
-</thinking>
-
 # Timber Building Advertising Survey - Help Guide
 ## Purpose
 

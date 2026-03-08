@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's demographics and medical history. The purpose of this form is to gather data that can be used to improve the patient-centered medical home experience. This form is not intended for use as a diagnostic tool or to replace professional medical advice. It is meant for general information gathering and survey purposes only.
-
-Before proceeding, please ensure that this form is relevant to your specific use case. If you are unsure, please consult with a medical professional or the form owner.
-</thinking>
-
 # Patient Centered Medical Home Survey - Help Guide
 ## Purpose
 The Patient Centered Medical Home Survey is a form designed to collect demographic and medical history information from patients. This information can be used to improve the patient-centered medical home experience and provide better care for patients.

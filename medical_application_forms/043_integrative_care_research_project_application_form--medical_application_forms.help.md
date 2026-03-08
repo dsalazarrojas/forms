@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect project-related information from applicants. This form should only be used by those who are eligible to submit a project proposal for the Integrative Care Research Project. 
-The form does not appear to have any fields that indicate duplication checks, so it is the responsibility of the form's administrator to ensure that applicants do not submit duplicate projects. 
-This form is designed to collect information about the project, its team members, and other relevant details. 
-Please use this form carefully and only submit your genuine project proposal.
-</thinking>
-
 # Integrative Care Research Project Application Form - Help Guide
 ## Purpose
 The Integrative Care Research Project Application Form is designed to collect project-related information from applicants. It is intended for those who are eligible to submit a project proposal for the Integrative Care Research Project.

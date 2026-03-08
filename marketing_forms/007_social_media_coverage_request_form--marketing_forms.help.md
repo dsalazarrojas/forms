@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting requests related to social media coverage. The purpose of this form is to allow users to request coverage on a specific social media platform. This could be for promotional purposes or other marketing-related activities. Before filling out this form, please ensure that you have not already submitted a similar request for the same purpose. If you are unsure, you can check the internal database to see if a similar request has been made recently.
-</thinking>
-
 # social_media_coverage_request_form - Help Guide
 ## Purpose
 The social media coverage request form is designed to collect information from users about their social media coverage requests. This form helps the marketing team to track and prioritize these requests.

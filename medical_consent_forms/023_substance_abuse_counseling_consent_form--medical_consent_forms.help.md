@@ -1,14 +1,3 @@
-<thinking>
-This guide is designed to help users understand the purpose and usage of the substance abuse counseling consent form. The form is used to gather information from clients regarding their consent to counseling, understanding of confidentiality, and other relevant details. The form is typically used in a medical setting and is intended to ensure that clients understand their rights and responsibilities regarding treatment and disclosure of information.
-
-Before proceeding, please ensure that you have reviewed the form carefully and understand the questions and their implications.
-
-This form is not intended to be duplicated or used for multiple purposes. Each section is designed to gather specific information and should be filled out accurately and completely.
-
-If you have any questions or concerns, please do not hesitate to reach out to the relevant authorities or staff members.
-
-</thinking>
-
 # substance_abuse_counseling_consent_form - Help Guide
 ## Purpose
 The substance abuse counseling consent form is a crucial document that helps ensure clients understand their rights and responsibilities regarding treatment and disclosure of information. It is used to gather information about the client's consent to counseling, understanding of confidentiality, and other relevant details.

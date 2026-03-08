@@ -1,13 +1,3 @@
-<thinking>
-We are designing a help guide for a form called "email_communication_survey" with the purpose of assessing email communication. This form collects ratings and trends for various aspects of email communication. To ensure relevance, we will check if the form is being used for its intended purpose and not for duplicate or unnecessary tasks. We will also review the form's fields to ensure that each field is clearly explained and understood by the end user.
-
-The form has 25 fields, with 8 of them being required and 17 optional. The form is divided into two main sections: ratings and trends. The ratings section includes fields for evaluating different aspects of email communication, such as open rate, engagement rate, relevance rate, importance rate, clarity, and satisfaction. The trends section includes fields for analyzing the trends of these ratings over time.
-
-To complete this form, the end user will select a rating or trend for each question, using a scale of 1-5. For example, they will rate how relevant they find an email to be, or how the open rate of emails has trended over time.
-
-The form is intended to be used by marketing professionals to gather data and insights on email communication. This data will help them make informed decisions on email marketing strategies and improve overall communication effectiveness.
-</thinking>
-
 # email_communication_survey - Help Guide
 ## Purpose
 This form is designed to assess and analyze email communication by rating and trending various aspects of email performance. It helps marketing professionals gather data and insights to improve email marketing strategies.

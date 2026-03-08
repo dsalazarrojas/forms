@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact and employment information from job applicants. The form is likely used in a medical setting to gather data for employment screening purposes. It is not a duplicate of other forms, as its unique set of fields allows it to collect specific information that may not be covered in other forms. It is also unlikely that this form will be used in other contexts where the same questions would be relevant, such as in a different department or division within the company or in a non-medical setting. 
-</thinking>
-
 # Pre Screening Form - Help Guide
 ## Purpose
 The Pre Screening Form is designed to gather employment information from applicants for medical screening purposes.

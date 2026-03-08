@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users outline and define their go-to-market strategy for a product or service. The form captures essential information about the product definition, strategic goals, market identification, market strategy, target audience, and other key aspects of the go-to-market process. This form is intended to be a starting point for businesses and product teams to document their strategy and make informed decisions. Please note that this form is a public domain adaptation of a form created using AI, and you are free to use, modify, and distribute it as you see fit. 
-</thinking>
-
 # Go To Market Strategy - Help Guide
 ## Purpose
 This form is designed to help businesses and product teams develop a comprehensive go-to-market strategy for their product or service.

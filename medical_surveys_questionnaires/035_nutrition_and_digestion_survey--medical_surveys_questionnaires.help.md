@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's eating habits, digestive health, and overall well-being. This data will be used to provide personalized insights and recommendations for improving nutrition and digestion. The form collects data on the frequency and type of food consumed, hydration levels, exercise habits, medication use, allergies, medical conditions, nutrition needs, and symptoms experienced. It is essential to provide accurate and detailed answers to help us understand your unique situation.
-</thinking>
-
 # Nutrition and Digestion Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your eating habits, digestive health, and overall well-being. Your input will help us understand your needs and provide personalized recommendations for improving your nutrition and digestion.

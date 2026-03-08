@@ -1,7 +1,3 @@
-<thinking>
-We are creating the Market Research Assessment Form to gather information from customers regarding their experiences with our product. This form will help us understand their overall satisfaction, identify areas of improvement, and make informed decisions for future product development. It's essential that we don't send this form to customers who have not provided feedback before or to customers who have already filled out this form. This ensures we get accurate and relevant information from customers who have a genuine interest in sharing their experiences.
-</thinking>
-
 # Market Research Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect market research information from customers to help us improve our product and services.

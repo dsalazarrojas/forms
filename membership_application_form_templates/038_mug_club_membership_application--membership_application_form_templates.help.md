@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the purpose of this form is clear and non-duplicitous. The form is meant for users to apply for membership in the Mug Club, which likely involves agreeing to certain rules and providing some basic contact information. It's possible that this form will be used by existing members to update their member details or agree to new rules. To ensure we're not duplicating effort, let's confirm that this form won't be used for other purposes, like event registration or survey responses.</thinking>
-
 # Mug Club Membership Application - Help Guide
 ## Purpose
 The Mug Club Membership Application form is intended for users who want to become members of the Mug Club. This includes new applicants and existing members looking to update their membership information or agree to new rules.

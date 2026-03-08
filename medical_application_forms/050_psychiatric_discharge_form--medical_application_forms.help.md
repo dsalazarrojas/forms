@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for use in the psychiatric field, specifically for the discharge process of patients who have undergone treatment. The purpose of this form is to collect information from patients and their contacts (if applicable) to facilitate a smooth transition and follow-up care. This form is not intended to collect sensitive or confidential information, and all fields are designed to be completed by patients or their authorized representatives.
-</thinking>
-
 # psychiatric_discharge_form - Help Guide
 ## Purpose
 The Psychiatric Discharge Form is a document used to collect essential information from patients and their contacts during the discharge process. This form helps ensure a smooth transition for the patient, facilitates follow-up care, and provides necessary details for future reference.

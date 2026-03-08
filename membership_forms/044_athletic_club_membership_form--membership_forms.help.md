@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for individuals who wish to become members of the athletic club, providing essential information for club administrators to process membership applications. The form collects demographic data, membership details, and emergency contact information to ensure a smooth onboarding process. This guide will walk users through each page of the form, explaining each field's purpose and requirements.
-</thinking>
 # Athletic Club Membership Form - Help Guide
 ## Purpose
 This guide will help you fill out the Athletic Club Membership Form accurately and efficiently. Please review each page and field carefully to ensure you provide the required information.

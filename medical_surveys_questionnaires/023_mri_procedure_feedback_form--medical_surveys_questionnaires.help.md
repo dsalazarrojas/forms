@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from patients after an MRI procedure. It is used to evaluate the satisfaction and quality of service provided by the medical department. The form will be used to identify areas of improvement and to provide valuable insights to the medical staff. It is recommended to fill out this form after each MRI procedure to ensure that the feedback is specific and relevant. Please ensure that the form is filled out completely and accurately to provide valuable feedback.
-</thinking>
-
 # MRI Procedure Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients after an MRI procedure. It helps us understand your experience and satisfaction with our service. Your feedback is crucial in helping us improve our procedures and better serve you in the future.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmaceutical Drug Release Form - Help Guide
 
 ## Purpose

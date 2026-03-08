@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a simple, one-page membership application form for the Startup Hub. The form collects basic information from applicants, including their application details, membership preferences, contact information, address, and uploadable files. This form is intended for internal use within the Startup Hub community, and it is not affiliated with or endorsed by any external form platforms. The form's fields are designed to be straightforward and easy to understand, with clear labels and instructions to guide users through the application process.
-</thinking>
-
 # Startup Hub Membership Form - Help Guide
 ## Purpose
 The Startup Hub Membership Form is a one-page form designed to collect basic information from applicants for membership in the Startup Hub community. The form is intended to be simple and easy to use, with clear labels and instructions to guide users through the application process.

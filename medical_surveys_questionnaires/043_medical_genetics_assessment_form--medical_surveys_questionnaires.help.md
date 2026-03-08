@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a medical genetics assessment. It is intended for use in a clinical or research setting, where healthcare professionals can collect data from patients or families about their genetic history, test results, and other relevant information. The form should not be used for commercial purposes or to solicit sensitive or personal identifiable information. Please ensure that any information gathered using this form is treated with the necessary confidentiality and consent procedures.
-</thinking>
-
 # Medical Genetics Assessment Form - Help Guide
 ## Purpose
 The Medical Genetics Assessment Form is a tool for healthcare professionals to collect information from patients or families about their genetic history, test results, and other relevant data. This form is designed to aid in the assessment and management of genetic conditions and traits.

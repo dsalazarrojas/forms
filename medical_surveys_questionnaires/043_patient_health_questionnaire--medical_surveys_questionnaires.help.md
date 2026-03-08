@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from patients about their personal details, medical history, family history, lifestyle habits, presenting complaints, additional information, allergies, medications, and medical conditions. This form will help healthcare professionals gather essential data to provide personalized care and treatment to each patient. It is essential to complete this form accurately and thoroughly to ensure that the patient's information is recorded correctly. Before starting, please ensure that you have not already completed this form for this patient, as duplicate submissions may lead to confusion and inaccuracies in the patient's medical record.
-</thinking>
-
 # Patient Health Questionnaire - Help Guide
 ## Purpose
 The Patient Health Questionnaire is a form used by healthcare professionals to collect information about a patient's personal details, medical history, family history, lifestyle habits, presenting complaints, additional information, allergies, medications, and medical conditions. This information is used to provide personalized care and treatment to each patient.

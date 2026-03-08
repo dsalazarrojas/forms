@@ -1,6 +1,3 @@
-<thinking>
-We are creating a form to collect feedback on the packaging design of our product. This form will help us understand what our customers think about the visual aspects of our packaging and gather their opinions on specific design elements. The goal is to identify areas that need improvement and gather inspiration for future design changes. Please answer the following questions to provide us with valuable feedback on our packaging design.
-</thinking>
 # Packaging Design Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on the overall design of our product packaging. It will help us understand how customers perceive our packaging's visual aspects, such as its overall impression, color scheme, and logo design.

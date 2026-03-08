@@ -1,19 +1,3 @@
-<thinking>
-This help guide will cover the "Retail Promotional Campaign Opinion Survey" form, which is used to gather feedback from customers on a retail promotional campaign. The purpose of the form is to collect opinions on the campaign's attributes, such as awareness, engaging, interesting, and informative content, as well as the customer's overall attitude towards the campaign. This form will help the marketing team to better understand the campaign's effectiveness and make improvements for future campaigns.
-
-The form is divided into several pages, each with its own set of questions. Here's a brief overview of each page:
-
-*   Introduction: This page provides a brief introduction to the campaign and its purpose.
-*   Awareness: This page asks respondents about their level of awareness of the campaign.
-*   Performance: This page asks about the attributes that made the campaign noticeable.
-*   Attitude: This page inquires about the respondent's overall attitude towards the campaign.
-*   Attitude 2: This page is similar to the previous one, asking about the likelihood of remembering the campaign.
-*   Preference: This page asks about the type of campaign the respondents think the campaign should be.
-*   Contact Information: This page requests contact information for follow-up.
-*   Additional Questions: This page offers space for additional comments or feedback.
-
-</thinking>
-
 # Retail Promotional Campaign Opinion Survey - Help Guide
 
 ## Purpose

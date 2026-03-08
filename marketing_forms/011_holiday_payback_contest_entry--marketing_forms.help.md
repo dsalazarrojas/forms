@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback or information about a holiday payback contest entry. This could be used to gather data on who is participating in the contest, what they think about the holiday, and what they would like to receive as a payback. It may also collect information on their preferred contact method, which could be used for follow-up communication.
-Before filling out this form, please check if you have already submitted your entry. If you've already submitted a form for this holiday, you may not need to fill this out again.
-</thinking>
-
 # Holiday Payback Contest Entry - Help Guide
 
 ## Purpose

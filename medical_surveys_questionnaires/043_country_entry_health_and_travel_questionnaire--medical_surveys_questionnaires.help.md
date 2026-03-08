@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about a person's country of origin, travel history, and contact information. It is designed to be completed by the individual themselves, and is intended to gather relevant data for medical purposes. This form should only be completed if you are a medical professional or have been instructed to do so by a medical professional. Completing this form more than once may result in duplicate data being collected, which could lead to unnecessary medical procedures or unnecessary medical interventions.
 
 </thinking>

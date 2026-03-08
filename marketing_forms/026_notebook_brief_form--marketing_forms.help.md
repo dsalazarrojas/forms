@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document and track the creation of notebooks for a business. This form captures information about the notebook type, order details, and custom order options. The form is typically used for internal purposes, such as inventory management and order tracking. It is intended for use by authorized personnel in the company's operations department. 
-The form has multiple sections for each page of the notebook, including first page, second page, third page, and fourth page, each with its own label, color, and label text fields. The form also includes fields for selecting the notebook type, custom order options, and notes.
-</thinking>
-
 # notebook_brief_form - Help Guide
 ## Purpose
 The notebook_brief_form is a form used for documenting and tracking notebooks. It helps in maintaining a record of the notebook type, order details, and custom order options.

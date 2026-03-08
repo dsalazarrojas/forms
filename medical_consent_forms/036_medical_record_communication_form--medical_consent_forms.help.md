@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting and documenting patient information for medical records. It's crucial to ensure that the form is filled out correctly to maintain accurate and up-to-date patient records. Before proceeding, please verify that this form is not a duplicate or a copy of another existing form. This will help prevent unnecessary data duplication and ensure that the information is consistent across all medical records.
-</thinking>
-
 # Medical Record Communication Form - Help Guide
 ## Purpose
 This form is designed to collect and document patient information for medical records.

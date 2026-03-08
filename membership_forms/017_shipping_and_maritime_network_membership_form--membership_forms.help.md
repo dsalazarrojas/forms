@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users who want to join the Shipping and Maritime Network. It's essential to complete this form accurately and truthfully to ensure a smooth onboarding process. Please do not duplicate this form; each submission is a standalone application. If you have previously submitted this form, do not resubmit.
-</thinking>
-
 # Shipping And Maritime Network Membership Form - Help Guide
 ## Purpose
 The Shipping and Maritime Network Membership Form is designed for individuals or entities interested in joining the Shipping and Maritime Network. This form will help us gather necessary information about you or your entity to facilitate a smooth onboarding process.

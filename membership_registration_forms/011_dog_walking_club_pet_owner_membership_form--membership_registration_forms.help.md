@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners who want to join the Dog Walking Club. The form aims to gather essential details about the owner and their pet to ensure a safe and enjoyable dog walking experience. Before proceeding, ensure that the owner has not already submitted this form by checking the membership registration database. This guide will walk you through each field to help the owner complete the form accurately.
-</thinking>
-
 # Dog Walking Club Pet Owner Membership Form - Help Guide
 ## Purpose
 The Dog Walking Club Pet Owner Membership Form is designed to collect information from pet owners who want to join the club. This form helps us understand the owner's and pet's details to provide a safe and enjoyable dog walking experience.

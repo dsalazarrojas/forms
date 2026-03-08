@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Radiofrequency Treatment Consent Form - Help Guide
 
 ## Purpose

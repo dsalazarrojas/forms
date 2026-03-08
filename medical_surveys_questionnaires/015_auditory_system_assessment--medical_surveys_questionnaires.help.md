@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Auditory System Assessment - Help Guide
 ## Purpose
 The Auditory System Assessment form is designed to gather information about your auditory system. This form will help the audiology team better understand your hearing concerns and create a personalized plan for your evaluation and treatment.

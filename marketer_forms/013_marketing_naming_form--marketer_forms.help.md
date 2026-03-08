@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect marketing-related information for a specific product or project. It's crucial to fill it out accurately and completely to ensure that the collected data is reliable. Please ensure that the form is filled out only once per project/product to prevent duplicate entries. 
-</thinking>
-
 # marketing_naming_form - Help Guide
 ## Purpose
 This form is for collecting marketing-related data for a product or project.

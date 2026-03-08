@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended for users to request a promotional prize. The purpose of this form is to gather information from users who wish to receive a prize that is being promoted for a limited time. This form collects personal and demographic information from users to verify their identity and eligibility for the promotional prize. The form is not intended for general information collection, but rather for users who are specifically interested in receiving a promotional prize. It's essential to ensure that users fill out the form accurately and honestly, as the information collected will be used to verify their eligibility and contact them in case they are chosen as a winner.
 
 # promotional_prize_delivery_request - Help Guide

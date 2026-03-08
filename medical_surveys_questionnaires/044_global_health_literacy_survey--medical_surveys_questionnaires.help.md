@@ -1,12 +1,3 @@
-<thinking>
-The "global_health_literacy_survey" form is designed to collect information about a user's general health information, demographics, health literacy level, and ability to navigate health systems. The form is used to assess a user's health literacy level, which is a measure of an individual's ability to obtain, process, and understand basic health information and services needed to make informed decisions about their own health. This form is part of a broader effort to improve health outcomes and reduce health disparities. The data collected will be used to inform health education and outreach programs, as well as policy decisions.
-
-**Note:** This form is not designed to collect medical records or personal health information, and responses are anonymous. All answers are confidential and will only be used for research and program development purposes.
-
-Before proceeding, please ensure that you have reviewed the form carefully and understand what is being asked. This guide is provided to help you complete the form accurately and efficiently.
-
-</thinking>
-
 # global_health_literacy_survey - Help Guide
 ## Purpose
 The "global_health_literacy_survey" form is designed to assess your health literacy level and help us better understand how to improve health outcomes and reduce health disparities.

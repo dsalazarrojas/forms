@@ -1,10 +1,3 @@
-<thinking> 
-This form is a CE Meeting registration form designed for users to provide their personal and professional information, meeting details, and preferences. Before proceeding, please ensure you are not duplicating this form submission. If you have already registered for a CE Meeting, please do not submit again as it will be treated as a new registration.
-
-The purpose of this form is for CE Meeting registration, allowing users to provide their attendee information, meeting preferences, and additional details. It's essential to fill out the form accurately to ensure proper processing of your registration.
-
-</thinking>
-
 # CE Meeting - Help Guide
 ## Purpose
 The CE Meeting form is designed for users to register for Continuing Education meetings, providing essential information for attendees and meeting organizers.

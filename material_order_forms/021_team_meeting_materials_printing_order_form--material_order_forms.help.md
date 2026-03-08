@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Team Meeting Materials Printing Order Form", I need to understand that the form is used to collect information about team meeting materials printing orders. The form likely collects meeting details, such as title, date, time, location, files needed, quantities of files, and delivery details. It seems to be a simple form with no complex logic or conditional fields. The main purpose of the form is to gather the necessary information to print team meeting materials. The form might be used by meeting coordinators, event planners, or other personnel responsible for preparing materials for team meetings.
-
-Before I start working on the guide, I would like to confirm that the form is intended to be used for a specific group of people (team members or event staff) and that the form is meant to be filled out once per meeting, not for recurring events. Additionally, I would like to ensure that the form is not intended to be used for other purposes, such as creating new meetings or events.
-
-</thinking>
-
 # Team Meeting Materials Printing Order Form - Help Guide
 ## Purpose
 The Team Meeting Materials Printing Order Form is used to collect information about team meeting materials printing orders. It is meant to be filled out by meeting coordinators or event planners to gather the necessary details for printing team meeting materials.

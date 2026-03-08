@@ -1,7 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I need to create a user-facing help guide for the Skincare SPF Usage Survey form. The form seems to be designed to collect information about users' habits and preferences when it comes to using sunscreen, including how often they use it, what type of sunscreen they use, and when they apply it. It's likely that this form is intended for marketing research or analysis, possibly to inform product development or customer insights. Before creating the help guide, I'll review the form fields to ensure I cover all the necessary information and avoid duplication.
-</thinking>
-
 # Skincare SPF Usage Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your sunscreen usage habits. Please answer the questions honestly to help us understand your preferences and behaviors related to sunscreen use.

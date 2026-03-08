@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering or updating membership information for International Business Professionals. The purpose of this form is to collect data about the member's organization, job title, contact details, membership type, and other relevant information. This form should not be used for non-members to register or update their information. Only existing or potential members of International Business Professionals should fill out this form.
-</thinking>
-
 # International Business Professionals Membership Form - Help Guide
 ## Purpose
 The International Business Professionals Membership Form is a tool for collecting and managing membership information for International Business Professionals. This form helps to update and maintain accurate records of member details.

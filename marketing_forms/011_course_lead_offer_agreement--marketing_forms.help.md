@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a structured way to capture and manage course lead offer agreements. This form is likely used by sales teams or marketing departments to track and manage offers made to potential customers for courses, courses lead information, and other relevant details. It's essential to ensure that the form is filled out correctly to avoid any confusion or errors in the sales process. Please review each field carefully to understand its purpose and ensure that you are providing accurate information.
-</thinking>
-
 # Course Lead Offer Agreement - Help Guide
 ## Purpose
 This form is used to capture and manage course lead offer agreements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gym Membership Form - Help Guide
 
 ## Purpose

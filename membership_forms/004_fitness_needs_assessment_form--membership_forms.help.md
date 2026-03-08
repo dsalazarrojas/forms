@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of the Fitness Needs Assessment Form is to gather relevant information about a submitter's fitness needs and medical history to create an accurate fitness plan tailored to their requirements. This form is not intended to be a medical examination or diagnosis, but rather a way to assess and provide recommendations for a submitter's fitness journey. It is essential to complete this form accurately to ensure the best possible outcome. Please ensure that you fill out each field honestly and thoroughly to get the most out of this form. If you have any doubts or concerns, please do not hesitate to reach out to us. 
-</thinking>
-
 # Fitness Needs Assessment Form - Help Guide
 ## Purpose
 The Fitness Needs Assessment Form is designed to gather information about a submitter's fitness needs and medical history to create an accurate fitness plan tailored to their requirements.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used by marketing teams to request a quote from an influencer for a specific campaign. The goal of this form is to collect information about the campaign and the services needed, and to ensure that the correct person is submitting the request and that it is up-to-date. 
-
-Before filling out this form, please make sure you have not already submitted a similar request. This form is designed for marketing teams to work with our team to create a quote for an influencer campaign.
-
-Please note that some fields are optional, but required fields are marked with an asterisk (\*). 
-
-Please ensure you have all necessary information to fill out the required fields accurately and completely.
-</thinking>
-
 # Influencer Campaign Quote Request - Help Guide
 ## Purpose
 This form is used to request a quote from an influencer for a marketing campaign.

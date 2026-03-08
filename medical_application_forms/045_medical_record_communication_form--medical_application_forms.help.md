@@ -1,10 +1,3 @@
-<thinking>
-The "medical_record_communication_form" is used for patients to communicate their medical information to healthcare professionals. This form is designed to gather essential details such as patient information, medical history, medications, allergies, and contact preferences in a single document. This form aims to streamline communication between patients and healthcare providers, ensuring that critical medical information is accurately recorded and easily accessible.
-
-Before proceeding, ensure that the form you're about to complete is relevant to your medical context and does not duplicate any existing form or template in your organization. If in doubt, refer to your healthcare institution's guidelines on medical record communication.
-
-</thinking>
-
 # medical_record_communication_form - Help Guide
 ## Purpose
 The "medical_record_communication_form" is a tool for patients to effectively communicate their medical information with healthcare providers. It helps ensure accurate recording and accessibility of critical medical details.

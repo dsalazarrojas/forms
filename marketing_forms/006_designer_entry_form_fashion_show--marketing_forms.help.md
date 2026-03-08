@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed for fashion designers to submit their collections, availability, and contact information for the purpose of participating in a fashion show. This form is used to collect data on designers, teams, and their relevant contact details. 
 
 Please ensure that you have filled out this form accurately and completely before submitting it, and make sure to proofread for any errors. You can also use this guide to help you fill out the form efficiently. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record patient weight and height measurements, along with additional details such as date, weight unit, height unit, and date of birth. This form will help healthcare providers and patients track and document these essential health metrics, ensuring accurate and up-to-date information for better patient care. Please ensure that you only need to access this form to record patient weight and height data. If you need to access other patient information, please refer to the corresponding section or form.
-</thinking>
-
 # Patient Weight And Height Log - Help Guide
 
 ## Purpose

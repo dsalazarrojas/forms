@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their pregnancy status and the purpose of their visit. The form will likely be used in a medical setting to gather data on patients' pregnancy status and the reasons behind their visit. This form does not collect any sensitive or protected health information. To ensure the form is not being used in a way that is not compliant with relevant medical regulations, please review the form's purpose and the information being collected to determine if it aligns with your organization's policies and procedures.
-</thinking>
-
 # Pregnancy Waiver Form - Help Guide
 
 ## Purpose

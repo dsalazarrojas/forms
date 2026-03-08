@@ -1,14 +1,3 @@
-<thinking>
-The Marketing Permit Request Form is used to collect information from users who are requesting marketing permits from the company. This form is designed to be filled out by users who are interested in obtaining permits for marketing activities such as radio, TV, or digital marketing.
-
-Before filling out this form, please make sure that you have a valid reason for requesting a marketing permit and that you are not duplicating a request for the same permit. If you are unsure, please contact the relevant department for clarification.
-
-When filling out this form, please note that some fields are required and some are optional. Required fields are marked with an asterisk (*) and must be filled out in order to submit the form. Optional fields are not marked with an asterisk and can be left blank if not applicable.
-
-This guide is intended to assist users in filling out the form accurately and efficiently.
-
-</thinking>
-
 # Marketing Permit Request Form - Help Guide
 ## Purpose
 

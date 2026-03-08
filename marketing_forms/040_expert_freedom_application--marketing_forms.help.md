@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll analyze the provided YAML fields. The form is an "Expert Freedom Application" which suggests that it is used to collect information from experts applying for some sort of freedom or access. I'll check for any internal reasoning or context that may help me understand the form's purpose.
-
-Upon reviewing the fields, I notice that the form collects basic contact information (First Name, Last Name, Email, and Phone), which suggests that it is an application or registration form. The "Company" field is optional, indicating that experts may not be affiliated with a company, but it's not a required field. The "Role" field is a select_one type field with only two options, "Yes" and "No", which could be indicating whether the expert has a specific role or status. The "Date" field is a date type field, which might be used to track when the application was submitted or processed.
-
-Based on this analysis, I'll create a help guide that explains the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Expert Freedom Application - Help Guide
 ## Purpose
 This form is used for experts to apply for freedom or access to a specific resource, opportunity, or program. To be eligible, you must provide accurate and complete information in the following fields.

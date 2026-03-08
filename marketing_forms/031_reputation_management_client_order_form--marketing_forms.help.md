@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## reputation-management-client-order-form - Help Guide
 
 ## Purpose

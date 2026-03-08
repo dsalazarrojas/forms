@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Responsible Person Questionnaire - Help Guide
 ## Purpose
 

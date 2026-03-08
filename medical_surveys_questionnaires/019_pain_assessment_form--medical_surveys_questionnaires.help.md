@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pain Assessment Form - Help Guide
 
 ## Purpose

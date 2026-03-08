@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from current members to renew their membership dues. This form helps the organization to keep track of the member's membership type, status, terms, and other relevant details. The form is designed to be filled out by the member themselves, ensuring accuracy and consistency in the information collected. The form should only be used for membership dues renewal and not for new membership applications or other purposes.
-</thinking>
-
 # Membership Dues Renewal - Help Guide
 
 ## Purpose

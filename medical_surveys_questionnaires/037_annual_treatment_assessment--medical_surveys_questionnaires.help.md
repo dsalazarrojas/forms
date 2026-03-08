@@ -1,10 +1,3 @@
-<thinking>
-The form "Annual Treatment Assessment" is used to evaluate a patient's progress and effectiveness of their treatment over time. This form helps healthcare providers assess the patient's condition, treatment outcomes, and potential need for adjustments to the treatment plan. It's essential to fill out this form accurately and thoroughly to ensure that patients receive optimal care.
-
-To determine if this form is relevant to a patient's case, check if the patient is scheduled for an annual treatment evaluation. If the patient has not been assessed recently or has significant changes in their treatment, this form is likely relevant.
-
-To avoid duplication of effort, verify that a similar form (Annual Treatment Assessment) has not been completed for this patient in the past year or has not been completed in the past 30 days for patients with a history of frequent assessments.</thinking>
-
 # Annual Treatment Assessment - Help Guide
 ## Purpose
 

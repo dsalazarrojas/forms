@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information from individuals interested in joining a hunting club. It captures essential details such as name, contact information, and membership preferences. The form has 16 fields that cover various aspects of membership, including name, email, phone number, date of birth, date of death (for deceased members), hunting license information, membership status, and club preferences. The required fields ensure that users provide necessary information for membership enrollment. This form is meant to be filled out by potential members or their representatives. </thinking>
-
 # Hunting Club Membership Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in joining a hunting club. It helps the club's administrators to verify the identity and membership status of potential members.

@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "mental_health_referral_form" form, I will first need to understand the purpose and functionality of the form. Based on the provided YAML fields, it appears that the form is used for collecting information related to mental health referrals. The form likely serves as a tool for healthcare professionals or administrators to gather relevant details for referring clients to mental health services. This guide will aim to provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means.
-
-The form has 10 fields, each with a specific label, type, and optional status. I will ensure that the explanation for each field is concrete, concise, and practical, and that any unclear labels are explained in a best-effort manner without inventing unsupported business logic.
-
-After this internal reasoning block, the final help guide in Markdown will follow the required structure.
-</thinking>
-
 # mental_health_referral_form - Help Guide
 ## Purpose
 The mental health referral form is designed to collect information related to mental health referrals. This form helps healthcare professionals or administrators gather relevant details for referring clients to mental health services.

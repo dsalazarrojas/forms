@@ -1,8 +1,3 @@
-<thinking>
-To create a helpful and user-friendly guide for this meeting feedback form, I'll consider the provided YAML fields and provide a clear explanation of each section and field. This form is intended to gather feedback from attendees after a meeting, likely to improve future meetings or events. To ensure the form is used correctly, I'll focus on explaining each field's purpose and how it contributes to the overall goal of collecting valuable feedback.
-
-</thinking>
-
 # Meeting Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from meeting attendees, helping organizers understand their experience, suggestions, and areas for improvement. Your input will contribute to making future meetings more engaging, productive, and enjoyable.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Meeting Attendance Record Form - Help Guide
 
 ## Purpose

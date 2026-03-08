@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey-style form for gathering customer information and preferences for product recommendations. The form likely collects data on customer preferences and interests to provide personalized product suggestions. To ensure that the form is being used correctly, I'll make sure to explain each field clearly and concisely.
-</thinking>
-
 # Product Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect customer information and preferences to provide personalized product recommendations.

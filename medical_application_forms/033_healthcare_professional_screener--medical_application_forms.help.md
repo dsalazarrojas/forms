@@ -1,11 +1,3 @@
-<thinking>
-
-The Healthcare Professional Screener form is designed to capture essential information from healthcare professionals to facilitate efficient and accurate screening processes. This form should only be completed by healthcare professionals who have been certified or licensed to practice in their respective fields. It is crucial to ensure the accuracy and reliability of the information provided, as this data will be used for internal purposes.
-
-Before proceeding, please review the guidelines below to ensure you understand the form's purpose and requirements.
-
-</thinking>
-
 # Healthcare Professional Screener - Help Guide
 ## Purpose
 The Healthcare Professional Screener form is designed to collect information about healthcare professionals, including their role, specialty, experience, work location, credentials, and work status. This information is used to facilitate efficient and accurate screening processes within our organization.

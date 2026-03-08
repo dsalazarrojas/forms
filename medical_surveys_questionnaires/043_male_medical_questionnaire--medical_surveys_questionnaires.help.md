@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather essential medical information from male patients. The form has 8 pages and is primarily focused on collecting demographic data, medical history, and other relevant health-related information. To ensure the form's purpose is clear, this guide will break down each section and its required fields.
 
 # Male Medical Questionnaire - Help Guide

@@ -1,5 +1,3 @@
-<thinking>As a Diversity Council Membership Application Form, this form is designed to collect information from individuals interested in becoming a member of the Diversity Council. The purpose of this form is to ensure that applicants have the right qualifications and interests to be considered for membership. We encourage all interested individuals to apply, but please make sure you have not already submitted an application or have been previously accepted as a member of the Diversity Council. To be eligible for membership, you must answer all required fields accurately and thoroughly. This form is intended for internal use only and will not be shared publicly, so you can feel comfortable submitting your personal information with confidence.</thinking>
-
 # Diversity Council Membership Application Form - Help Guide
 ## Purpose
 The Diversity Council Membership Application Form is designed to collect information from individuals interested in becoming a member of the Diversity Council. This form helps us understand your qualifications and interests and ensures that applicants have the right information to be considered for membership.

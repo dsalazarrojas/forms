@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to be a tool for customers to provide feedback on various aspects of the brand, including their overall satisfaction, perception of the brand, and experience with customer service, products, and website. This feedback is crucial for the brand to identify areas for improvement, enhance customer experience, and develop strategies to meet customer expectations. The form collects information on customer satisfaction with product quality, customer service, value for money, and likelihood to recommend. Additionally, customers are given the opportunity to provide suggestions on areas they believe the brand could improve in and their favorite products or services.
-To prevent duplication or misinterpretation, it is recommended that customers submit feedback only once per person.
-</thinking>
-
 # Brand Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experiences with the brand, which will be used to improve the quality and customer experience.

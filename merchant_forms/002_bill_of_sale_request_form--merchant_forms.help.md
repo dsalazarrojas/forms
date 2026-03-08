@@ -1,16 +1,3 @@
-<thinking>
-The "Bill Of Sale Request Form" is used for sellers to provide a detailed description of the goods being sold and the terms of the transaction. The form is essential for establishing a clear understanding between the seller and buyer, ensuring a smooth and secure transaction. This form should only be used for transactions where a detailed description of the goods is required. If the transaction is straightforward and only requires basic information (e.g., price and quantity), a standard invoice or receipt may be sufficient.
-
-To determine if this form is necessary, consider the following:
-
-*   The sale involves a significant or custom-made item that requires a detailed description.
-*   The seller needs to provide a warranty or guarantee for the item.
-*   The sale involves a high-value or sensitive item that requires additional documentation.
-
-If the transaction does not meet these criteria, a standard invoice or receipt may be sufficient.
-
-</thinking>
-
 # Bill Of Sale Request Form - Help Guide
 ## Purpose
 This form is used to provide a detailed description of the goods being sold and the terms of the transaction. It is essential for establishing a clear understanding between the seller and buyer, ensuring a smooth and secure transaction.

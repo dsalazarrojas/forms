@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather customer feedback and sentiment data for the Net Promoter Score (NPS) calculation. The NPS is a widely adopted metric to measure customer loyalty and satisfaction. By completing this form, customers will be asked to share their experiences with the brand, provide a score of how likely they are to recommend the brand, and answer questions about their intentions to return to the brand, suggest the brand to others, and other aspects that can help us understand their perceptions and behaviors. It's essential to complete this form accurately to help us improve our services and offerings.
-</thinking>
-
 # Net Promoter Score Form - Help Guide
 
 ## Purpose

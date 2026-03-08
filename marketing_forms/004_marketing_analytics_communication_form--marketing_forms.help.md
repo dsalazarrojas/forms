@@ -1,7 +1,3 @@
-<thinking>
-This form is used to provide feedback and insights on marketing analytics data. The form is likely used by marketing teams to analyze and improve marketing campaigns. The purpose of this form is to gather information about marketing campaigns, such as campaign IDs and feedback from users. This form is probably used by marketing managers or analytics teams to track and analyze marketing performance.
-</thinking>
-
 # marketing_analytics_communication_form - Help Guide
 ## Purpose
 The marketing analytics communication form is used to provide feedback and insights on marketing analytics data to marketing teams for analysis and improvement of marketing campaigns.

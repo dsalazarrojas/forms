@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a client's Covid-19 experience, including their medical history, symptoms, test results, and treatment plans. This data will help healthcare professionals assess and respond to the client's situation effectively.
-</thinking>
-
 # POCKET_PA_EXAMPLE_Covid_19_Salon_Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a client's Covid-19 experience, including their medical history, symptoms, test results, and treatment plans. This data will help healthcare professionals assess and respond to the client's situation effectively.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be a pre-screening tool for patients to provide contact information, their status as a new or current patient, and some general health information. This form is not intended to replace a comprehensive medical consultation, but rather to gather essential details for the office to assess the patient's risk level and determine the next steps for their appointment. It is essential to ensure that each form submission is accurate and complete as it will be used to inform the office's decisions on patient care.
-
-</thinking>
-
 # Dental Office Covid 19 Prescreening Form - Help Guide
 ## Purpose
 This form is a pre-screening tool to help our office assess the risk level of patients and determine the next steps for their appointment.

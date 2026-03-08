@@ -1,14 +1,3 @@
-<thinking> 
-The Physiotherapy Assessment Form is a tool designed to gather information about patients' experiences and perceptions related to their physiotherapy treatment. The form is intended for patients to provide feedback on their satisfaction with services and report any issues they are experiencing. 
-
-This form should only be used by authorized personnel in the physiotherapy department. The information collected will be used to improve services and better serve patients.
-
-The questions in this form are designed to be answered by patients, and the answers will be reviewed by authorized personnel to ensure accurate and meaningful use of the data.
-
-Before filling out this form, please ensure you have permission from the patient to collect and review this information.
-
-</thinking>
-
 # Physiotherapy Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and information from patients about their experiences with physiotherapy services.

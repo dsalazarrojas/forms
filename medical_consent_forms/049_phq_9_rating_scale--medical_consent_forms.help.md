@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to self-report their experiences with various health-related questions. The form is not intended to be used in high-stakes clinical settings. This form is meant to be a general tool for tracking progress or assessing the quality of life for general population or research purposes. 
-The form has multiple pages with a mix of select_multiple, select_one, and text fields. This form does not appear to be using any conditional logic or dependencies between questions.
-</thinking>
-
 # PHQ 9 Rating Scale - Help Guide
 ## Purpose
 The PHQ 9 Rating Scale is a form designed to help you track your experiences with various health-related questions. This form is not intended for high-stakes clinical settings but can be used for general population or research purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide assumes that the Medication Review Checklist form is used by healthcare professionals to gather information about a patient's medication history, potential side effects, and other relevant details for a comprehensive medication review. This form aims to reduce errors and improve patient safety by ensuring that patients receive the best possible care. 
 
 # Medication Review Checklist - Help Guide

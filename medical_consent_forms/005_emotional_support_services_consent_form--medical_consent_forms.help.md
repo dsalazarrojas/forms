@@ -1,8 +1,3 @@
-<thinking>
-To provide emotional support services, we need to ensure that the client understands and consents to receive these services. This form is a crucial step in the process, as it captures the client's consent and provides an opportunity for them to choose which services they'd like to receive. It's essential to fill out this form carefully and accurately, ensuring that the client's consent and contact information are up-to-date. Before proceeding, please make sure that this form is not a duplicate and that the client's situation hasn't changed.
-
-</thinking>
-
 # Emotional Support Services Consent Form - Help Guide
 ## Purpose
 This form is for collecting emotional support services consent from clients, ensuring they understand and agree to receive these services. It captures essential information, including client contact details, consent choices, and signature fields for both the client and service provider. 

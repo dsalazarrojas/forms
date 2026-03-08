@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect annual patient care statistics from healthcare facilities. The purpose of this form is to gather data on various metrics related to patient care, including the number of patient visits, emergency department visits, inpatient admissions, average patient age, age distribution, gender distribution, patient outcomes, 30-day readmission rate, patient satisfaction score, hospital-acquired infections, adverse events, total staff members, number of physicians, nursing staff, support staff, staff turnover rate, open positions, and annual operating expenses and revenue. This data will be used to assess the quality of care provided by healthcare facilities and identify areas for improvement.
-
-This guide will cover the fields that are actually present on the form, as some fields are optional and may not be relevant to all facilities. Please review the form carefully to ensure you are providing accurate and complete information.
-
-</thinking>
-
 # Annual Patient Care Statistics Report - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the branding strategy of an event. The form is called "Event Brand Strategy Survey" and is intended for use within the "marketing_surveys" category. The form will likely be used to collect data on how well an event's brand is performing and how to improve it.
-This form will likely be filled out by event staff or brand managers to provide insight into the event's brand image and how it is perceived by attendees. The form might be part of a larger process to evaluate and improve the event's brand strategy.
-There is no indication that this form should be filled out multiple times, so it's likely a one-time survey.
-</thinking>
-
 # Event Brand Strategy Survey - Help Guide
 
 ## Purpose

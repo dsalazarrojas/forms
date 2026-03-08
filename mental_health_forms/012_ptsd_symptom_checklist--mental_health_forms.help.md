@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about a user's symptoms related to Post-Traumatic Stress Disorder (PTSD). The form asks the user to report on their experiences with various emotional, cognitive, and social symptoms associated with PTSD. The goal of this form is to help gather data on the frequency and severity of these symptoms in order to better understand the impact of PTSD on individuals. 
-Please note that this form is not a diagnostic tool, but rather a questionnaire designed to help gather information. It is not a substitute for professional medical advice. Users are encouraged to consult a healthcare professional if they are experiencing symptoms that may be related to PTSD.
-</thinking>
-
 # PTSD Symptom Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a user's symptoms related to Post-Traumatic Stress Disorder (PTSD). This form is designed to help gather data on the frequency and severity of various symptoms associated with PTSD.

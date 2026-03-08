@@ -1,9 +1,3 @@
-<thinking>Before creating this help guide, let's review the form's purpose and ensure it's not a duplicate or irrelevant. In this case, the form's title is "Specimen Collection Form", which suggests it's used for collecting and storing biological specimens such as blood, urine, or tissue samples. The fields include patient information, specimen details, collection methods, and other relevant data.
-
-The form appears to be a comprehensive form for medical professionals to collect and store specimens for further analysis or research. It's essential to ensure this form is not a duplicate or unnecessary, and it's indeed relevant to the medical field.
-
-Assuming it's relevant and not a duplicate, let's create the user-facing help guide.</thinking>
-
 # Specimen Collection Form - Help Guide
 ## Purpose
 This form is designed for medical professionals to collect and store biological specimens such as blood, urine, or tissue samples. The purpose of this form is to gather essential information about the specimen, patient, and collection process.

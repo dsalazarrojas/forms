@@ -1,8 +1,3 @@
-<thinking>**Form Purpose:** 
-This form is designed for members to renew their membership dues. This form is meant for members who are interested in renewing their membership status. Please note that membership status will only be updated after successfully completing the form. 
-Ensure that you have already created a membership ID before starting this form as it is required. 
-You should not submit this form if you are already in the process of renewing your membership. If you are unsure, please contact the membership department.</thinking>
-
 # Membership Dues Renewal - Help Guide
 ## Purpose
 The Membership Dues Renewal form is used to update the status of existing members to ensure they are current with their membership. This form should only be used for members who wish to renew their membership and have not already done so.

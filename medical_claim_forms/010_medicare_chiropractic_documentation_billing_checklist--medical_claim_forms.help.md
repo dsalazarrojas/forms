@@ -1,15 +1,3 @@
-<thinking>
-This form is likely used to document and bill for chiropractic services received by a patient. The form is designed to help chiropractors collect the necessary information to accurately report chiropractic visits and any related billing information. The fields should cover the essential details of the visit, including date of service, patient contact information, and billing specifics.
-To complete this form, follow these steps:
-1. Ensure you have a clear understanding of the chiropractic visit details.
-2. Enter the patient's name and contact information in the corresponding fields.
-3. Select the date of service for the visit.
-4. Enter the chiropractor's name.
-5. Provide a detailed diagnosis for the visit.
-6. Describe the treatment plan for the patient.
-7. Enter any relevant billing information.
-</thinking>
-
 # Medicare Chiropractic Documentation and Billing Checklist - Help Guide
 ## Purpose
 This form is used to document and bill for chiropractic services received by a patient.

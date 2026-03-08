@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for patients over 18 years of age to register themselves for medical services. It's crucial to ensure that the patient is eligible to complete this form and to prevent duplication of efforts. Before proceeding, please confirm that the patient meets the age requirement and that this is their first time registering.
-
-This form is intended for patients who wish to provide their personal information, medical history, and consent for treatment. The fields are designed to collect essential details about the patient's identity, contact information, medical conditions, and treatment preferences.
-
-To complete this form, the patient will be guided through a series of questions and checks to ensure that all necessary information is provided. Please note that some fields are mandatory and will be marked as such. The form will be reviewed and verified by a medical professional before processing.
-
-</thinking>
-
 # New Patient Registration Form (Over 18 Only) - Help Guide
 ## Purpose
 This form is designed to collect personal and medical information from patients over 18 years of age for medical registration purposes.

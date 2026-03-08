@@ -1,12 +1,3 @@
-<thinking>
-To ensure that users understand the purpose and requirements of the Global Health Resilience Project Application Form, it is crucial to provide clear guidance on how to complete the form and what each field entails.
-
-The purpose of this form is to collect project details and information from applicants to assess their eligibility for the Global Health Resilience Project. This project aims to support global health resilience by providing funding to projects that align with its objectives. By filling out this form, applicants can demonstrate their project's alignment with the project's goals and provide necessary contact information for follow-up communication.
-
-Before proceeding, please verify that you are eligible to apply for the project and that your project is not a duplicate or similar to another project already approved. If you have any questions or concerns, please don't hesitate to reach out to us for clarification.
-
-</thinking>
-
 # Global Health Resilience Project Application Form - Help Guide
 ## Purpose
 The Global Health Resilience Project Application Form is designed to gather project details and information from applicants to assess their eligibility for the project. Please ensure that you are eligible to apply and that your project is not a duplicate or similar to another project already approved.

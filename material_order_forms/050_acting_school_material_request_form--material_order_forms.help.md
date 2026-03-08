@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Acting School Material Request Form, we need to understand its purpose and the reasoning behind its fields. This form is designed to help students and teachers request materials for their classes, performances, or projects. The form is intended to be a quick and easy way to submit requests for materials that are essential to their work. 
-
-Before starting this form, ensure that you have a legitimate need for materials and that you have not submitted a similar request previously. This will save time and resources for both the requestor and the department head.
-
-</thinking>
-
 # Acting School Material Request Form - Help Guide
 ## Purpose
 The Acting School Material Request Form is designed to help students and teachers request materials for their classes, performances, or projects. It's a quick and easy way to submit requests for essential materials.

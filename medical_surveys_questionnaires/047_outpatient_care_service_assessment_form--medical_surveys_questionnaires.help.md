@@ -1,5 +1,3 @@
-<thinking> This form is used to assess the quality of service provided by the care team, gather feedback from both the patient and the staff, and identify areas for improvement. This form helps to measure the overall satisfaction and quality of service, as well as the communication effectiveness between the patient and the care team. It is crucial to fill out this form to ensure that the care team receives feedback that can help them provide better services in the future. Please ensure that this form is filled out for every patient visit. </thinking>
-
 # Outpatient Care Service Assessment Form - Help Guide
 ## Purpose
 The Outpatient Care Service Assessment Form is used to evaluate the quality of service provided by the care team and gather feedback from both the patient and the staff to identify areas for improvement.

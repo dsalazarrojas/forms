@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide will walk users through the Medical Support Coordinator Survey, which aims to gauge their experience and perceptions of our Medical Support Team. This survey serves to gather feedback on various aspects of our team's performance, ensuring that we continuously improve our services to better meet the needs of our patients and families. The survey is designed to be completed by patients and their families who have interacted with our Medical Support Team.
-
-</thinking>
-
 # Medical Support Coordinator Survey - Help Guide
 ## Purpose
 The Medical Support Coordinator Survey is designed to collect feedback from patients and their families who have interacted with our Medical Support Team. The survey aims to gauge their experience and perceptions of our team's performance, helping us to identify areas for improvement and provide better services.

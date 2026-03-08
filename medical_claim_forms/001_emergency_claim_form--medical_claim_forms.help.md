@@ -1,7 +1,3 @@
-<thinking>... Internal reasoning block: The Emergency Claim Form is designed to collect information from individuals who need to report an emergency medical claim. This form will help ensure that all necessary details are captured to facilitate the processing of the claim. It is essential that each field is filled out accurately to ensure the claim is processed efficiently and effectively. The fields included in this form are designed to gather information about the contact information, claim details, date and time of the injury, and any supporting medical documentation.
-
-</thinking>
-
 # Emergency Claim Form - Help Guide
 
 ## Purpose

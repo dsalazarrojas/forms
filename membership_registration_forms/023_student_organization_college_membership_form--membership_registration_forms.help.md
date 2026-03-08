@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from students who wish to join a college organization. The purpose of the form is to gather data on the students' contact details, relationship with the organization, and membership status. This information will be used by the organization to verify the students' membership and facilitate communication. This form should only be used for this specific purpose and should not be used for any other purpose without proper authorization.
-
-This form is an AI-generated adaptation of a public survey topic metadata and is not affiliated with, endorsed by, or derived from any form platform. It is released under CC BY 4.0 and can be used, modified, and even sold freely, as long as the origin is credited.
-
-Before filling out this form, please ensure that you have the necessary permissions and approvals from your organization or authority to join the college organization.
-
-</thinking>
-
 # Student Organization College Membership Form - Help Guide
 ## Purpose
 The Student Organization College Membership Form is designed to collect information from students who wish to join the college organization. This form helps the organization to verify the students' membership and facilitate communication.

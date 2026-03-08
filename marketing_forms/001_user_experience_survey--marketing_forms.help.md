@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gauge the user experience of visitors on your website. It collects feedback on various aspects of the website, including its navigation, frequency of visits, accessibility, information availability, presentation, and overall satisfaction. The form is meant to be user-friendly and easy to complete, with clear options for each question. Please ensure that you only complete this form once you have had sufficient experience with the website to provide reliable feedback.
-
-This form is intended to collect feedback from users who have a good understanding of the website and its features. If you are not familiar with the website or do not have an opinion on certain aspects, please do not feel obligated to answer all questions.
-
-Before providing feedback, consider the following:
-
-* Be honest and objective in your answers.
-* Provide specific examples or reasons for your answers where possible.
-* Keep your comments clear and concise.
-
-Note that this form is not meant to be a comprehensive survey, but rather a snapshot of your experience at this point in time.
-
-Please answer the questions according to your genuine experience and perceptions.
-
-</thinking>
 # User Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience with the website.

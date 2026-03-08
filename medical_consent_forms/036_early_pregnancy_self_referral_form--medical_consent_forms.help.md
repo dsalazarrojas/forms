@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect medical information from patients. It is intended to gather sensitive personal data that will be used for medical purposes only. To complete this form, ensure that you are accessing it through a secure and trusted source. If you have any concerns about the form's purpose or your personal data, please reach out to your healthcare provider or contact the form's administrators.
-</thinking>
 # **<string> - Help Guide**
 ## **Purpose**
 This form is used to collect medical information from patients, including demographic details, contact information, medical history, and health insurance details.

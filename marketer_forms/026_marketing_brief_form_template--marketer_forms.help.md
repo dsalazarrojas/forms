@@ -1,13 +1,3 @@
-<thinking>
-This form template is designed for marketing teams to create a comprehensive marketing brief. Marketing briefs are documents that outline the scope, goals, and strategies of a marketing campaign. They help ensure that all team members are on the same page and that the campaign is well-planned and executed. This template provides a structured framework for marketers to gather and organize relevant information about their campaign, making it easier to collaborate and measure progress.
-
-This template is not affiliated with or endorsed by any form platform, but rather a original adaptation created using AI and public survey topic metadata. It is released under a Creative Commons license, allowing users to use, modify, and even sell forms derived from it, while giving credit.
-
-Before starting, make sure you have all the necessary information about your campaign, including the name, target audience, marketing channels, and objectives. This will help you complete the form accurately and effectively.
-
-The form has several pages, each focusing on a specific aspect of the marketing campaign. This guide will walk you through each field, providing explanations to help you complete the form correctly.
-</thinking>
-
 # Marketing Brief Form Template - Help Guide
 
 ## Purpose

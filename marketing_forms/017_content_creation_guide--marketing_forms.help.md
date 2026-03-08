@@ -1,11 +1,3 @@
-<thinking>
-This form is a Content Creation Guide, designed to help teams and individuals create high-quality content for various marketing purposes. It's an original adaptation, created using public survey topic metadata, and released under CC BY 4.0. This form is intended to provide a structured approach to content creation, ensuring that all necessary information is gathered to produce well-informed and effective content.
-
-Before filling out this form, please ensure you have a clear understanding of the content project's requirements and goals. If you're not sure about any of the fields or questions, please refer to the provided explanations and instructions below.
-
-This form should not be used for duplicate or redundant submissions. Each submission is a unique content creation project.
-</thinking>
-
 # Content Creation Guide - Help Guide
 ## Purpose
 This form helps teams and individuals create high-quality content for various marketing purposes. It ensures that all necessary information is gathered to produce well-informed and effective content.

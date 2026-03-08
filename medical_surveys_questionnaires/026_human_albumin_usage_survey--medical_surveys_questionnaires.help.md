@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about human albumin usage from various departments, clinics, and labs. Albumin is a substance that is often used in medical treatments and procedures. This form will help collect data on how albumin is being used across different locations, the frequency of use, and any staff feedback or comments related to its usage. This data will be used to improve the management and utilization of albumin in the medical field.
-The form is part of the "Medical Surveys & Questionnaires" category.
-Before starting, check that you are in the correct category, "Medical Surveys & Questionnaires", to ensure you are using the correct form.
-</thinking>
-
 # Human Albumin Usage Survey - Help Guide
 
 ## Purpose

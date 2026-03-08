@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure the form is completed correctly and reduces errors.
-</thinking>
-
 # promotional_offer_feedback_questionnaire - Help Guide
 ## Purpose
 The promotional offer feedback questionnaire is used to collect feedback from customers after an offer. This form allows customers to provide details about the promotional offer they received, including any customer details, their feedback, and other relevant information such as email address and phone number.

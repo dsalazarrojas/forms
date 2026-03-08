@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to collect information from customers who want to purchase a t-shirt. The form is designed to collect contact information (first name, last name, and email), payment method and total amount, and shipping and billing addresses. The form also allows customers to select their preferred t-shirt size and color. 
-
-The form consists of multiple pages, and each page contains different fields that customers need to fill out. 
-
-This form is designed to be used for e-commerce transactions, and it's essential to understand how to fill it out correctly to ensure smooth and secure transactions.
-</thinking>
-
 # PayJunction T Shirt Order Form - Help Guide
 ## Purpose
 The PayJunction T Shirt Order Form is designed to collect information from customers who want to purchase a t-shirt. It's essential to fill out this form correctly to ensure smooth and secure transactions.

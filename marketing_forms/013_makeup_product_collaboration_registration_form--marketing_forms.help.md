@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register and collaborate on makeup products. This form will collect information about the product, including its submission date and time, location, and contact details of the collaborators. The form will help in organizing and tracking collaborations, ensuring that all necessary information is gathered and stored. It's essential to fill out this form accurately and completely to ensure that the collaboration process runs smoothly. Please note that this form is intended for collaboration and not for other purposes. Before submitting the form, make sure that you're not duplicating any existing collaboration or submitting information already registered.
-</thinking>
-
 # Makeup Product Collaboration Registration Form - Help Guide
 ## Purpose
 This form is used to register and collaborate on makeup products. It gathers information about the product, submission date and time, location, and contact details of the collaborators.

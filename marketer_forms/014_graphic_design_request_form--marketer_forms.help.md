@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to collect information from graphic designers about projects they would like to take on. The purpose of this form is to gather relevant details from designers about each project, making it easier for us to find and assign the right projects to the right designers.
-
-The form is designed to be simple and easy to fill out, and it's divided into separate sections that correspond to different aspects of a project.
-
-This form is only meant to be filled out by graphic designers. Non-designers will not be able to access this form.
-
-Before filling out this form, please ensure that you have not already submitted a project of this type. If you have, please do not fill out this form again.
-
-</thinking>
-
 # graphic_design_request_form - Help Guide
 ## Purpose
 The graphic design request form is used to collect information from graphic designers about projects they would like to take on.

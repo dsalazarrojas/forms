@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for evaluating a patient's cardiac health before a potential transplant surgery. The purpose of this form is to gather information about the patient's cardiac health and function in order to determine their eligibility for transplant surgery. It's essential to complete this form accurately and thoroughly to ensure that the patient's cardiac needs are properly assessed.
-
-Before starting, please note that this form is designed to guide you through the evaluation process. Each question is important for determining the patient's cardiac function and suitability for transplant surgery. Ensure you answer all questions honestly and provide as much information as possible to ensure an accurate evaluation.
-
-</thinking>
-
 # Pre Transplant Cardiac Evaluation Form - Help Guide
 ## Purpose
 The Pre Transplant Cardiac Evaluation Form is used to assess a patient's cardiac health before transplant surgery. This form will guide you through the necessary questions to determine the patient's cardiac function and suitability for transplant.

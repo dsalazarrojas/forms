@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request a CT scan referral for a patient. The form gathers information about the patient, the clinical history and indications for the scan, and the referring practitioner's details. The form is used to ensure that all necessary information is provided before the scan is scheduled. This form is a requirement for all CT scan referrals and should not be completed if the patient is not being referred for a CT scan.
-
-Note: The form fields are designed to be completed by the referring practitioner, and the information collected will be reviewed by the radiologist before the scan is performed.
-
-Form fields should not be duplicated or unnecessary. Each field has a specific purpose and should only be completed if necessary.
-</thinking>
-
 # CT Scan Referral Form - Help Guide
 ## Purpose
 The CT Scan Referral Form is used to request a CT scan for a patient. It collects information about the patient, the clinical history and indications for the scan, and the referring practitioner's details.

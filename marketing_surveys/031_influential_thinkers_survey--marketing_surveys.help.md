@@ -1,17 +1,3 @@
-<thinking>
-
-The Influential Thinkers Survey is a form designed to help users assess their opinions and experiences with leaders and inspirers in the workplace. It is intended to be completed by employees who have worked with or under the influence of leaders and inspirers in their professional lives. 
-
-This form is meant to collect information that can inform HR processes and leadership development. 
-
-Before completing the survey, please review the questions carefully and respond truthfully to provide meaningful input. 
-
-Please note that the survey is not intended for general feedback, but rather as a structured assessment of the impact of leaders and inspirers in the workplace. 
-
-Also, please ensure that you only answer questions that you are familiar with and have first-hand experience with. 
-
-</thinking>
-
 # Influential Thinkers Survey - Help Guide
 ## Purpose
 The Influential Thinkers Survey is designed to collect information about the influence of leaders and inspirers in the workplace. The survey consists of multiple-choice and text-based questions that help assess the impact of these individuals on employees.

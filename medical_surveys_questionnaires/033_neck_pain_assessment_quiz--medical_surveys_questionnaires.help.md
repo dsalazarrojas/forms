@@ -1,15 +1,3 @@
-<thinking>
-This form design involves creating a comprehensive user-facing help guide for the "Neck Pain Assessment Quiz" form. This form is designed to assess the level of neck pain in patients, taking into account the duration, location, activities causing pain, symptoms, treatment options, medical conditions, and additional patient information such as email, phone number, and the date and time of submission. The goal is to ensure that end-users understand the form's purpose, how to complete it, and what each field represents.
-
-Before creating the help guide, it is essential to review the form's structure and content to ensure that the explanations are accurate and clear. Each field's label, type, and options will be examined to provide the most effective and concise guidance. The form's required and optional fields will be noted, ensuring that users understand what is essential and what can be skipped.
-
-The guide will cover the following sections:
-- **Purpose**: A brief introduction to the form's objective and significance.
-- **How To Complete This Form**: Step-by-step instructions on filling out the form.
-- **Field-by-Field Explanation**: Detailed explanations of each field, including labels, types, and options.
-- **Tips**: Additional guidance or advice for users.
-
-</thinking>
 # Neck Pain Assessment Quiz - Help Guide
 ## Purpose
 The Neck Pain Assessment Quiz is a comprehensive form designed to assess the level of neck pain in patients. This quiz is used to gather information about the patient's neck pain experience, including the duration, location, activities causing pain, symptoms, and treatment options. The collected data will help healthcare professionals make informed decisions about patient care and treatment.

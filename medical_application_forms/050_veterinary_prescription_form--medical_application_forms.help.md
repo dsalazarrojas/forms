@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to capture essential information from pet owners for veterinary care. It is not meant to be used for any other purpose, such as medical billing or insurance purposes.
-The form will be used for general veterinary prescriptions and not for specific medical conditions requiring specialized forms.
-The form will be reviewed by veterinary staff before any treatment is administered.
-This form will not be duplicated or used for any other purpose other than veterinary prescription.
-</thinking>
-
 # Veterinary Prescription Form - Help Guide
 ## Purpose
 The Veterinary Prescription Form is designed to collect essential information from pet owners for veterinary care and treatment. It is a general-purpose form, not intended for specific medical conditions that require specialized forms.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help you schedule virtual meetings with colleagues or clients. Meeting planners, managers, and administrators use this form to gather information about upcoming meetings. The form is used to collect data on meeting details such as title, start and end dates and times, duration, location, and attendees. This form is typically used to schedule meetings across different time zones, hence the inclusion of UTC (Coordinated Universal Time) fields. The form is not intended for scheduling events that do not require a virtual meeting, such as in-person meetings or phone calls. 
-</thinking>
-
 # Schedule A Virtual Meeting Form - Help Guide
 ## Purpose
 The Schedule A Virtual Meeting Form is designed to gather information about virtual meetings, allowing you to easily organize and coordinate with colleagues or clients across different time zones.

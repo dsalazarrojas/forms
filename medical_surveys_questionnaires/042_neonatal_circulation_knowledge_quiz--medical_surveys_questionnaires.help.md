@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, let's first understand the form's purpose and relevance. The form, titled "Neonatal Circulation Knowledge Quiz", is likely designed to assess knowledge and understanding of neonatal circulation, which is a crucial aspect of neonatal care. The form's purpose is to provide a series of questions that test the user's knowledge in this area. 
-
-Before proceeding with the guide, let's check if the form has been duplicated or if there's any redundancy in its design. The form consists of 25 fields, each with a unique ID. However, upon closer inspection, it appears there is some redundancy in the labels and names of certain fields. For instance, fields with names like `neonatal_circulation_5` and `neonatal_circulation_6` might be considered redundant as they are similar in nature and purpose. This could be an opportunity to reorganize and reduce the number of fields.
-
-Let's assume the form is a one-time assessment of knowledge and understanding of neonatal circulation, and the goal is to ensure users complete the form accurately and efficiently. With this in mind, here's the user-facing help guide for the form.
-
-</thinking>
-
 # Neonatal Circulation Knowledge Quiz - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking> 
-This form is intended to gather demographic and medical information from patients. It is used to collect data on first name, last name, date of birth, address, phone number, email, medical history, family history, mental health history, and treatment plans. The form is designed to be completed by patients themselves or by healthcare professionals on their behalf. It is not intended for use as a medical diagnosis tool, but rather as a data collection tool to support patient care and treatment.
-
-To ensure that the form is not duplicated or filled out inappropriately, please ensure that the patient's identity is verified and that the form is completed in a secure and private setting.
-
-Please ensure that the completed form is reviewed and signed by the patient or their representative before submission.
-
-</thinking>
-
 # Developmental Counseling Form - Help Guide
 
 ## Purpose

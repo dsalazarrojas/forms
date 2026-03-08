@@ -1,13 +1,3 @@
-<thinking>
-**Form Purpose:** 
-This form is used by medical professionals to document the treatment plan and history for a patient. The form is intended to provide a clear and concise record of the patient's medical information, including allergies, medical history, current medications, and treatment outcomes. By completing this form, the medical professional can ensure that all necessary information is accurately documented and easily accessible for future reference. 
-
-This form should only be used for patients who have already been seen by a medical professional and are receiving treatment. 
-
-It is essential to fill out this form accurately and completely to ensure the best possible care and outcomes for the patient. 
-
-</thinking>
-
 # Patient Treatment Documentation Form - Help Guide
 ## Purpose
 The Patient Treatment Documentation Form is used to gather and document information about a patient's treatment plan, medical history, and current status.

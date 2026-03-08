@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Marketing Strategies Effectiveness Questionnaire - Help Guide
 
 ## Purpose

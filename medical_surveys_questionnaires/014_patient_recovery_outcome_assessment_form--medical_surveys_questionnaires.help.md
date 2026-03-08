@@ -1,8 +1,3 @@
-<thinking>
-The form is a crucial tool for healthcare professionals to assess a patient's recovery outcome. This form helps in monitoring the progress of patients after a medical treatment or surgery. It is essential to fill out this form to provide a detailed account of the patient's condition, pain levels, recovery progress, recovery expectation, follow-up frequency, and any additional comments or concerns. This form is designed to be completed by the patient or a designated person, and its completion will aid healthcare professionals in understanding the patient's current condition and making informed decisions for their care.
-
-</thinking>
-
 # Patient Recovery Outcome Assessment Form - Help Guide
 ## Purpose
 This form is designed to provide healthcare professionals with a comprehensive assessment of a patient's recovery outcome after a medical treatment or surgery. It helps in understanding the patient's current condition, recovery progress, and expectations, and informs decisions for their care.

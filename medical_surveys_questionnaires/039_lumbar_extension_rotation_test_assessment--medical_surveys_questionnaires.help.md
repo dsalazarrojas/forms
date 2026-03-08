@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect patient information and assess various medical aspects of the patient's lumbar region.
-This form will ask for basic patient data, medical history, clinical findings, lumbar range of motion, and a treatment plan.
-The purpose of this form is to aid healthcare professionals in performing the lumbar extension rotation test, a series of tests used to evaluate the flexibility and stability of a patient's lumbar spine.
-Before filling out this form, please ensure that you have a good understanding of the tests and their implications.
-If you are unsure about any aspect of this form or the lumbar extension rotation test, please seek medical guidance from a qualified healthcare professional.
-</thinking>
-
 # Lumbar Extension Rotation Test Assessment - Help Guide
 ## Purpose
 This form is designed to aid healthcare professionals in assessing a patient's lumbar extension rotation test results.

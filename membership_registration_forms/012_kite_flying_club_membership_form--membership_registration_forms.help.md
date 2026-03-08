@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Kite Flying Club Membership Form. This form is intended for individuals to register as members of the Kite Flying Club, providing personal information, membership type preferences, and other relevant details. The purpose of this form is to collect necessary data for club administrators to process membership applications and assign suitable roles and responsibilities within the club.
-To complete the form, users will navigate through the different pages of the form, filling in each field with their corresponding information. Each field is designed to capture specific details about the individual applying for membership.
-</thinking>
-
 # Kite Flying Club Membership Form - Help Guide
 ## Purpose
 The Kite Flying Club Membership Form is a registration form designed for individuals who wish to become members of the Kite Flying Club. This form helps the club administer membership applications and assign suitable roles and responsibilities within the club.

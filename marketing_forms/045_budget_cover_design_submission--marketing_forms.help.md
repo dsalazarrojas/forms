@@ -1,8 +1,3 @@
-<thinking>
-This guide is designed to help end-users understand the purpose and requirements of the "Budget Cover Design Submission" form. The form is intended to collect information and design submissions from artists and designers for a specific project. Before filling out the form, please make sure you have all the necessary information and design files ready. This form will be used to gather details about the designer, the project, and the submission, including the design files, format specifications, and licensing terms. Please review the required fields carefully and ensure you have all the necessary permissions and rights before submitting your work.
-
-</thinking>
-
 # Budget Cover Design Submission - Help Guide
 ## Purpose
 The "Budget Cover Design Submission" form is designed to collect submissions for a specific project requiring cover design work. Please ensure that all required fields are filled out to facilitate efficient processing and review of your submission.

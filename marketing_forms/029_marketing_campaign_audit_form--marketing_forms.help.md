@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 To determine if this form is relevant, I assume the purpose of the Marketing Campaign Audit Form is to gather feedback or information on past marketing campaigns. The form likely aims to evaluate or review the performance of these campaigns in order to identify areas of improvement.
 
 Considering the YAML structure, the form appears to collect various aspects of marketing campaigns, such as strategy, channel, objective, tactics, and results. This could be useful for auditing or evaluating the success and effectiveness of marketing efforts.

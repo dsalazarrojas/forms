@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 **Marketing Campaign Audit Form - Help Guide**
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather data on customers' behaviors, purchase frequencies, preferences, and satisfaction levels. Its purpose is to analyze customer habits and preferences to help businesses better understand their target audience. This form should only be used for customers who have expressed interest in a product or service. Please ensure that customers who have not shown interest are not targeted with this survey.
-</thinking>
-
 # Customer Analysis Survey - Help Guide
 ## Purpose
 The Customer Analysis Survey is designed to gather data on customers' behaviors, purchase frequencies, preferences, and satisfaction levels. By completing this survey, you will help us better understand your habits and preferences, which will enable us to improve our products and services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to join the membership of our organization. It is essential to fill out this form to become a member. Please note that this form is only meant for new members and not for existing members.
-</thinking>
-
 # members_joining_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to join our membership program. It helps us to understand their details and provide a smooth onboarding experience.

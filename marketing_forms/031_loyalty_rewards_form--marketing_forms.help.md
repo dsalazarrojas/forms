@@ -1,17 +1,3 @@
-<thinking>...internal reasoning for form purpose and relevance...
-
-This form appears to be designed to track customer loyalty program rewards, collecting data on customer interactions and balances. The form likely aims to provide a centralized system for managing loyalty rewards, allowing administrators to efficiently keep track of customers' visit history, reward status, and balances. It might also aid in making data-driven decisions to improve customer experience and retention.
-
-Given the fields present, it seems the form is part of a more extensive customer relationship management (CRM) or customer engagement system, focusing on the rewards aspect of loyalty programs.
-
-The form collects customer information such as name, email, phone number, visit count, address, and other relevant data points. It also includes fields for tracking rewards status, expiration dates, and balances. This suggests the form is used for both customer interaction and reward tracking.
-
-The form appears to be designed for both administrative and possibly automated processing, given the structured nature of the fields. This form might be part of a broader customer loyalty management system, used to calculate, award, and manage loyalty rewards.
-
-The form also includes fields for tracking customer's total visits, last visit date, first visit date, reward expiration date, and other metrics. This implies a focus on analyzing customer behavior and loyalty program performance over time.
-
-... </thinking>
-
 # Loyalty Rewards Form - Help Guide
 ## Purpose
 The Loyalty Rewards Form is used to track and manage customer loyalty program rewards. It captures data on customer interactions, rewards status, and balances to provide a comprehensive view of customer engagement and program performance.

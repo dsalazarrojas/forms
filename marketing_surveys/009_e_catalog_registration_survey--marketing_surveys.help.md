@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their registration in a virtual catalog or e-catalog. The purpose is to gather demographic and contact details, as well as preferences for communication and follow-up. This data will be used to personalize and tailor marketing efforts. To ensure relevance and avoid duplication, the form should only be filled out once per individual.
-
-</thinking>
-
 # e_catalog_registration_survey - Help Guide
 ## Purpose
 The e_catalog_registration_survey form is designed to collect essential information from users for marketing purposes. This includes demographic details, contact preferences, and interests in products/services offered by the e-catalog.

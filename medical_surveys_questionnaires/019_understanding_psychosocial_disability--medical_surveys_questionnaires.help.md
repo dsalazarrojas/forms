@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # understanding-psychosocial-disability - Help Guide
 ## Purpose
 This form aims to collect information about the psychosocial disability from a mental health professional, specifically to identify the research area, objectives, methodology, and objectives of a study. This form will help to assess the understanding of psychosocial disability by providing the necessary details about the study design.

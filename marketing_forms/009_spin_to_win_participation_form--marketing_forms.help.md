@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of filling out the "Spin To Win Participation Form". To start, let's clarify that the Spin To Win Participation Form is a tool used to capture data about spin events, such as online and offline events, and gather information about participants and their engagement in these events. This form is not designed to be filled out by participants, but rather by event organizers to report on the events and provide details about the participants. The form is not intended to be filled out multiple times for the same event.
-
-The form is split into several sections, each capturing different aspects of the spin event. The first section is about the participant, including their name, email, company, and contact information. The second section is about the event itself, including the event type, date, time, and location. The third section is about the spin event, including the spin date and time, the spin status, and the spin winner(s). The last section is about reporting the spin status and any relevant notes.
-
-</thinking>
-
 # Spin To Win Participation Form - Help Guide
 ## Purpose
 The Spin To Win Participation Form is a tool used by event organizers to report on spin events and gather information about participants.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 
 # surgical_specialist_referral_form - Help Guide

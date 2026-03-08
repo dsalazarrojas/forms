@@ -1,7 +1,3 @@
-<thinking>
-This form is used for companies to order custom packaging prototypes for their products. It's a crucial part of the product development process, as it allows companies to test and refine their packaging before mass production. The form should only be completed by authorized personnel within the company, as sensitive information such as contact details and budget estimates are collected. The purpose of this form is to gather all necessary information to create a custom packaging design that meets the company's requirements. Please ensure you have permission to complete this form and that all required fields are filled out accurately.
-</thinking>
-
 # Brand Packaging Prototype Order Form - Help Guide
 ## Purpose
 This form is used to order custom packaging prototypes for your product.

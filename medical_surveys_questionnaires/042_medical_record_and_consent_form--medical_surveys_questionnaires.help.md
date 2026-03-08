@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a comprehensive medical record and consent form designed to gather essential information about a patient's medical history, medical conditions, and test results. It is intended to be completed by healthcare providers or patients themselves, and the information collected will be used for medical purposes. This form has been created using public survey topic metadata and is not affiliated with any specific form platform. The form consists of 14 fields, each designed to capture specific information.
-
-</thinking>
-
 # medical_record_and_consent_form - Help Guide
 ## Purpose
 The medical record and consent form is a comprehensive form designed to gather medical information from patients. It is intended to be completed by healthcare providers or patients themselves, and the information collected will be used for medical purposes.

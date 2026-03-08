@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather essential information from patients before they receive acupuncture treatment. The purpose of this form is to collect demographic and medical history data to ensure that the patient's needs are met and risks are managed. This form will help the acupuncturist assess the patient's condition and develop an effective treatment plan. It is essential to provide accurate and complete information to ensure the best possible outcomes.
-
-</thinking>
-
 # Acupuncture Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from patients before they receive acupuncture treatment.

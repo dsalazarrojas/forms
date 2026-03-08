@@ -1,10 +1,3 @@
-<thinking>
-  This form, "membership_club_join_form", is intended for users to join a membership club. 
-  The form collects information from the user to process their membership application.
-  This form will be used to store the user's data for future reference.
-  We should check if the form is being duplicated, if so, we will redirect the user to the first form submission.
-</thinking>
-
 # membership_club_join_form - Help Guide
 ## Purpose
 This form is used to join a membership club. Users will be required to fill in their details to process their membership application.

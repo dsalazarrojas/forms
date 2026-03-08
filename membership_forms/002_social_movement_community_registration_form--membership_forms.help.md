@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for individuals to register for a social movement community. It is a registration form for people who want to join the community and become part of its activities and discussions. This form is used to collect personal and demographic information from the registrants, such as their name, email address, phone number, occupation, main motivation for joining, address, notes, interests, and agreement to follow community rules.
-To avoid duplication, please make sure you haven't already registered for this community before submitting this form.
-</thinking>
-
 # Social Movement Community Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals to register for a social movement community. It is a registration form for people who want to join the community and become part of its activities and discussions.

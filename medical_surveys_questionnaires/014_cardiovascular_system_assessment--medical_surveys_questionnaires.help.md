@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cardiovascular System Assessment - Help Guide
 ## Purpose
 The Cardiovascular System Assessment form is designed to gather information about a patient's cardiovascular system. This form helps healthcare providers assess the patient's heart and circulatory system, including symptoms, physical examination findings, and clinical recommendations.

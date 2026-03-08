@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals seeking recovery coaching for eating disorders, such as bulimia, anorexia, and binge eating, to request coaching services. The form aims to collect essential information for the coach to provide personalized support and guidance. Please ensure you are submitting this form for yourself or a loved one who is seeking recovery coaching. If you are a coach looking to provide services, please contact us separately. This form should not be used for duplicate requests. If you have already requested coaching and have not started sessions, please do not submit another form.
-</thinking>
-
 # Eating Disorders Recovery Coaching Request - Help Guide
 ## Purpose
 This form is designed to help individuals seeking recovery coaching for eating disorders, such as bulimia, anorexia, and binge eating, to request coaching services from a licensed recovery coach. The form will help us understand your needs and preferences to provide personalized support and guidance.

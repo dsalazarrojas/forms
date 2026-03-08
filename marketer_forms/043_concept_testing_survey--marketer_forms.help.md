@@ -1,5 +1,3 @@
-<thinking>As a marketer, understanding how well a concept resonates with your target audience is crucial. This survey is designed to help you gauge the effectiveness of a new concept by gathering feedback from potential customers. It's essential to gather input from various demographics and psychographics to ensure your concept is appealing, unique, and relevant to your target audience. Before filling out this survey, consider whether you've participated in similar surveys in the past or if this one aligns with your current needs and interests.</thinking>
-
 # Concept Testing Survey - Help Guide
 
 ## Purpose

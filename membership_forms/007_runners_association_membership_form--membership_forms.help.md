@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to sign up as a member of the Runners Association. The association provides a platform for runners to connect, share experiences, and participate in events related to running. Users can select their membership level, payment method, and provide personal details such as name, email, phone number, and other specific information to be associated with their membership. This form is designed to gather essential data for membership purposes.
-
-Before proceeding with this guide, ensure that you have not gone through it previously, and it is not a duplicate effort. This guide will walk you through each field in the form to help you fill it out correctly.
-
-</thinking>
-
 # Runners Association Membership Form - Help Guide
 ## Purpose
 

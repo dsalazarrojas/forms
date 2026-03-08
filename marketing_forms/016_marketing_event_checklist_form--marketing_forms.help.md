@@ -1,6 +1,3 @@
-<thinking> 
-This form is a generic, AI-generated template designed to collect information about marketing events. It's not affiliated with or endorsed by any form platform, and its purpose is to serve as a basic structure for recording event details, participants, and outcomes. The form is created using public survey topic metadata and is released under CC BY 4.0. It's meant to be adapted and used according to your needs, and you're free to share or sell it as long as you give credit.</thinking>
-
 # Marketing Event Checklist Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about marketing events, including event details, participants, and outcomes.

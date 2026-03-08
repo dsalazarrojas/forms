@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information for promotion material requests from internal stakeholders. The form will help ensure that all relevant details are captured for the request, including the customer's information, event details, and specific requirements. This form should be used to request materials for various events and purposes, ensuring that the right materials are created according to the customer's needs. To avoid duplication, please check if a similar request has been made recently before filling out this form.</thinking>
-
 # Promotion Material Request Form - Help Guide
 ## Purpose
 This form is used to collect information for promotion material requests from customers. It helps to ensure that all relevant details are captured for the request, including customer information, event details, and specific requirements.

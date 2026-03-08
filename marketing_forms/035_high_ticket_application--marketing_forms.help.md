@@ -1,7 +1,3 @@
-<thinking>
-The high-ticket application form is designed for end-users to submit applications for high-value services, such as consulting or expert advice. To ensure accurate and efficient processing, users should only submit their applications through this form and not duplicate their efforts. Before proceeding, please confirm that you have not already submitted an application for the same service.
-</thinking>
-
 # high_ticket_application - Help Guide
 ## Purpose
 This form is for submitting applications for high-value services.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is designed to help patients understand their role in reactivating their care. The purpose of this form is to collect information about the patient's reasons for leaving care, their last contact with a clinician, and any additional notes or recommendations from the clinician. This form is meant to be completed by the patient themselves, and the information collected will be used by the healthcare team to better understand how to reengage the patient in their care.
-
-Before proceeding, please note that this form is a public adaptation of a survey designed for healthcare professionals. While it is created with the best intentions, its accuracy and relevance should be reviewed internally to ensure it meets your specific needs and requirements.
-
-</thinking>
-
 # Patient Reactivation Survey - Help Guide
 ## Purpose
 The purpose of this survey is to help patients reengage with their care after leaving. It aims to collect information about the reasons for leaving care, last contact with a clinician, and clinician notes, to improve patient engagement and care continuity.

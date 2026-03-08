@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the user's preferences and demographics for the purpose of providing personalized word and phrase generation services. The goal is to understand what type of word and phrase generation the user is interested in learning, how they prefer their output, and what their characteristics are as a user. This information will be used to tailor the generation process to their needs and interests.
-</thinking>
-
 # Word And Phrase Generation Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your preferences and demographics for the purpose of providing you with tailored word and phrase generation services.

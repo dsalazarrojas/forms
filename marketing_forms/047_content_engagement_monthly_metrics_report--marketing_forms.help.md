@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, the purpose of this form is to collect monthly metrics report for content engagement. This form appears to be used to report on content engagement metrics for various channels, such as social media, email, website, and SEO, for a specific month and year. It seems to be a comprehensive report that covers multiple aspects of content engagement, including traffic, engagement metrics, and primary performing channel. The form also includes a section for key insights and lessons learned for the month, as well as a confirmation and reporting section to ensure the accuracy of the reported data. This form is likely used by content teams or analysts to report on content performance on a regular basis.</thinking>
-
 # Content Engagement Monthly Metrics Report - Help Guide
 ## Purpose
 This form is used to collect and report on content engagement metrics for a specific month and year. It provides a comprehensive overview of the performance of various content channels, including social media, email, website, and SEO.

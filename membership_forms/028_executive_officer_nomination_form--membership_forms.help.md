@@ -1,9 +1,3 @@
-<thinking>
-The Executive Officer Nomination Form is used to collect information about potential executive officer nominees. This form is typically used for nominating individuals for executive positions within an organization, such as a company or association. The form collects basic contact information about the nominee and the person nominating them. The form is not meant to be a comprehensive nomination process, but rather a simple way to start the process.
-To avoid duplication of effort, please ensure that you only submit one form per nominee. 
-If you're unsure whether to submit a nomination or need further information, please reach out to the relevant contacts or authorities.
-</thinking>
-
 # Executive Officer Nomination Form - Help Guide
 ## Purpose
 The Executive Officer Nomination Form is used to collect information from individuals who would like to be considered for executive officer positions within an organization. This form helps to gather basic contact information about the nominee and the person nominating them, facilitating the nomination process.

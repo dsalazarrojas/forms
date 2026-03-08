@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to enable users to order promotional materials from the company. The form will be used by customers or potential customers to provide information about the promotional materials they need. The form should not be completed by employees or internal staff unless they are acting as a customer representative or for internal testing purposes. The form is intended for external customers and should not be filled out for test runs or internal use. It's essential to ensure that the form is completed correctly and in the correct format to ensure that the order is processed accurately and efficiently.
-</thinking>
-
 # promotional_material_order_form - Help Guide
 ## Purpose
 The promotional material order form is a form used to order promotional materials from the company. This form should be used by customers or potential customers to provide information about the promotional materials they need.

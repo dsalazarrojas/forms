@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from brand influencers for the launch event. The purpose of this form is to gather essential details about the influencer, such as their name, contact information, social media presence, content creation interests, and more. This data will be used to personalize the event experience for each influencer and ensure they receive relevant information and opportunities.
-
-Before filling out the form, please check if you have already submitted it. Duplicate submissions will not be processed.
-
-</thinking>
-
 # Brand Influencer Launch RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect information from brand influencers for the launch event.

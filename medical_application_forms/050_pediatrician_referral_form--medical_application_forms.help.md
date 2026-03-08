@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pediatrician Referral Form - Help Guide
 
 ## Purpose

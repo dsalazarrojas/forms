@@ -1,5 +1,3 @@
-<thinking>Form fields are populated based on patient safety observations in a hospital setting. This form helps gather information regarding patient handling, observation methods, physical exams, vital signs, medication administration, and patient condition. Please review the fields and determine whether any information is redundant or non-applicable, and if you're unsure, use the best judgment based on the context of the patient's care. If you're unsure about the form's purpose or have any doubts, please consult your supervisor or the original designer.</thinking>
-
 # Safety Observation Checklist - Help Guide
 ## Purpose
 

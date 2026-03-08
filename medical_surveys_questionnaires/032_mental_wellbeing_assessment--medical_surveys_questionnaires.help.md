@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the mental wellbeing of individuals, which is an essential aspect of overall health. The purpose of this form is to gather information about a person's mental state, emotional state, and wellbeing assessment. This form is designed to be completed by individuals who want to gauge their mental health and wellbeing. Please note that the answers to some questions are not strictly required, but it is necessary to answer them for the form to be considered valid. Before proceeding, make sure to read the field explanations and instructions carefully to ensure accuracy and completeness.
-
-</thinking>
-
 # Mental Wellbeing Assessment - Help Guide
 ## Purpose
 The Mental Wellbeing Assessment form is designed to assess the current state of your mental wellbeing. This form is to be completed by individuals to help them understand their own mental wellbeing and identify areas for improvement.

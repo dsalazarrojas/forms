@@ -1,8 +1,3 @@
-<thinking> 
-This form is for patients to declinate (declare) their Hepatitis B vaccination status, which is a crucial medical information for healthcare providers to take preventive measures. This form ensures that patients can accurately declare their vaccination status and provide necessary documentation for healthcare providers to review. To avoid duplication, please only complete this form if you have not already submitted a similar form for the same purpose or have been instructed to do so by your healthcare provider.
-
-</thinking>
-
 # Hepatitis B Declination Form - Help Guide
 ## Purpose
 The Hepatitis B Declination Form is designed to collect essential medical information from patients, allowing healthcare providers to determine their Hepatitis B vaccination status and take necessary measures for patient care.

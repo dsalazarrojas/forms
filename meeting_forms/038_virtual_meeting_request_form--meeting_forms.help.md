@@ -1,6 +1,3 @@
-<thinking>
-This form is used to create a virtual meeting request. It captures information for a meeting such as date, time, duration, location, attendees, meeting type, and meeting purpose. The form is likely used by team members to request meetings with clients or colleagues for various purposes. It's possible that the form is used in conjunction with other tools or systems to track and manage meeting requests. However, without further information, it's difficult to determine the exact use case and integration points. It's essential to ensure that this form is not duplicated in other areas of the system, and the information captured is consistent with other relevant forms and data sources.</thinking>
-
 # Virtual Meeting Request Form - Help Guide
 ## Purpose
 This form is designed to gather information for virtual meetings, allowing team members to request meetings with clients or colleagues for various purposes.

@@ -1,9 +1,3 @@
-<thinking>
-We've generated a survey form for collecting consumer insights on a brand's perception. This form is designed to gauge how consumers perceive a brand, their awareness, associations, and likelihood of purchasing from it. The survey aims to understand the target audience's demographics, preferences, and opinions on the brand's quality, value, and trustworthiness.
-Before proceeding, please note that this form is a public adaptation and does not contain any proprietary content. If you are an existing customer, please ensure that you are not duplicating a previous survey or providing the same answers.
-This form has been designed to be user-friendly, and each field is carefully crafted to gather valuable information. Please read the following help guide to better understand the purpose and requirements of each field.
-</thinking>
-
 # Brand Perception and Consumer Insights Survey - Help Guide
 ## Purpose
 This survey aims to collect data on consumer perception of a brand, focusing on awareness, associations, purchase likelihood, and preferences.

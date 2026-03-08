@@ -1,6 +1,3 @@
-<thinking> 
-This form seems to be assessing various aspects of intonation patterns in sentences, such as sentence structure, rhythm, stress, pitch, volume, timing, and intonation features. It appears to be a tool for analyzing and evaluating the intonation patterns in sentences. The form is designed to collect data from the end-user, and the questions are likely to be used for research or educational purposes. Before proceeding, please ensure that you are familiar with the concepts and terminology used in the form. If you are unsure about any of the questions or options, please ask your supervisor or a relevant expert for guidance. </thinking>
-
 # Intonation Patterns Assessment - Help Guide
 ## Purpose
 This form is designed to assess and analyze the intonation patterns in sentences. It is intended to collect data on various aspects of intonation, such as sentence structure, rhythm, stress, pitch, volume, timing, and intonation features.

@@ -1,12 +1,3 @@
-<thinking>
-As a marketing professional, you're likely familiar with the importance of having a well-defined brand identity. A strong brand can be the difference between success and stagnation, so it's essential to get it just right. This Branding Questionnaire is designed to help us understand your business needs and preferences, so we can create a brand identity that truly represents your company.
-
-Before we begin, please note that this form is a critical part of our discovery process, and it's crucial that you answer these questions thoroughly and accurately. Any missing or incomplete information may lead to delays or misunderstandings down the line.
-
-This guide will walk you through each section of the form, so you'll know exactly what to expect and how to provide valuable information to help us create your brand identity.
-
-</thinking>
-
 # Branding Questionnaire - Help Guide
 ## Purpose
 This questionnaire is a crucial step in the branding process, designed to help us understand your business needs, preferences, and goals. The information gathered here will be used to create a brand identity that accurately reflects your company and resonates with your target audience.

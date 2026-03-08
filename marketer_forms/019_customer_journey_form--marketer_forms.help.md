@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback and insights from customers at various stages of their journey with our company, helping us to identify areas of improvement and provide personalized experiences in the future. The form is used in conjunction with other tools and data sources to understand our customers' needs and preferences, ultimately informing business decisions and strategies. This form is typically filled out by customers after interacting with our brand, and its data is used to refine our services and products. This form will not be shared with anyone outside our company, ensuring customer confidentiality. Please note that the form is not a duplicate of other forms in our system, and the purpose of each field is explained below.</thinking>
-
 # Customer Journey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights from customers at various stages of their journey with our company, helping us to identify areas of improvement and provide personalized experiences in the future.

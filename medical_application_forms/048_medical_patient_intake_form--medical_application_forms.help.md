@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the form's purpose, we need to examine the input schema's properties. The form appears to be a comprehensive medical patient intake form, gathering essential information about the patient's medical history, allergies, medications, and emergency contacts. It also includes fields for contact information, signature, and medical test results. The purpose of this form is to collect accurate and detailed medical information from patients, which can be used for future medical reference and diagnosis.
-
-To ensure non-duplication, we need to check if similar forms exist. After reviewing the schema, it's unlikely that there are any identical forms. However, it's possible that there are other forms that share similar fields or purposes.
-
-</thinking>
-
 # Medical Patient Intake Form - Help Guide
 ## Purpose
 The Medical Patient Intake Form is a comprehensive form designed to collect detailed medical information from patients, including their medical history, allergies, medications, and emergency contacts. This information will be used for future medical reference and diagnosis.

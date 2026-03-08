@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Audiology Patient Intake Form" is to collect personal and medical history information from patients, which will be used to provide effective diagnosis and treatment of hearing-related issues. This form is intended for new patients and should only be filled out once. Completing this form will help healthcare professionals assess the patient's condition and create a comprehensive treatment plan. Please ensure that the information provided is accurate and up-to-date to avoid duplication of effort and ensure continuity of care.
-
-The form is divided into several sections: Patient Personal Details, Insurance Information, Hearing and Health History, and Consent for Evaluation. Each section contains relevant fields that require completion. The fields are categorized based on the type of information they collect, and the required fields are marked as such.
-
-</thinking>
-
 # Audiology Patient Intake Form - Help Guide
 ## Purpose
 The Audiology Patient Intake Form is a comprehensive document used to collect information from patients to aid in the diagnosis and treatment of hearing-related issues.

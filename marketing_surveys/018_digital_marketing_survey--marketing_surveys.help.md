@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to support end-users who are filling out the "Digital Marketing Survey" form. The purpose of this form is to collect data about individual preferences and behaviors related to digital marketing, social media, and communication channels. The form has eight sections, each asking a specific question about an individual's online habits, job role, and demographics. 
-This guide is meant to be a reference tool for users who are unsure about any of the fields or have questions about how to fill out the form correctly. 
-Note that all fields except "Which social media platform do you use most frequently" are required. The "Which social media platform do you use most frequently" field is optional, but users are encouraged to provide an answer if they have a specific platform they use most often.
-</thinking>
-
 # Digital Marketing Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data about individual preferences and behaviors related to digital marketing, social media, and communication channels.

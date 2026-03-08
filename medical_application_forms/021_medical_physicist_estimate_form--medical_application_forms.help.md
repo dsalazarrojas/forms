@@ -1,5 +1,3 @@
-<thinking>...checking if form purpose and fields are relevant and not duplicated... Form is intended to be used by medical physicists to estimate costs and time for various tasks and projects. The form appears to be a simple estimation tool with fields for different types of costs and estimated time. No obvious duplication or redundancy in fields... Form purpose seems clear: gather information for cost and time estimation...</thinking>
-
 # Medical Physicist Estimate Form - Help Guide
 ## Purpose
 This form is designed to help medical physicists estimate costs and time for various tasks and projects. It collects information on the type of estimate, cost types, total labor, material, and other costs, estimated time, comments, and assigned personnel.

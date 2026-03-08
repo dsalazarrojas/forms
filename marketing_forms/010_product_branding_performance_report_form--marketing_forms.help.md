@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a product's branding performance. It appears to be used for marketing purposes, possibly for evaluating or analyzing a product's brand identity, value proposition, and customer satisfaction. The fields seem to be focused on product and brand details, customer feedback, and performance metrics. I'll make sure to provide a clear and concise help guide to assist end-users in filling out this form.
-
-</thinking>
-
 # Product Branding Performance Report Form - Help Guide
 ## Purpose
 This form is used to collect information about a product's branding performance. It's meant to help analyze and evaluate the product's brand identity, customer satisfaction, and performance metrics.

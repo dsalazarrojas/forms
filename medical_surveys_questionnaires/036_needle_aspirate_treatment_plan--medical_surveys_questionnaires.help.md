@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used in a medical context to gather information for treatment plans related to needle aspiration, which is a medical procedure used to remove fluid, tissue, or gas from a cavity, abscess, or cyst. This form is likely part of a medical workflow and should be completed by a healthcare professional or someone knowledgeable in medical practices.
-</thinking>
-
 # Needle Aspirate Treatment Plan - Help Guide
 ## Purpose
 The Needle Aspirate Treatment Plan form is a tool used to collect information about patients undergoing needle aspiration procedures. The form helps healthcare professionals gather crucial data for effective treatment planning.

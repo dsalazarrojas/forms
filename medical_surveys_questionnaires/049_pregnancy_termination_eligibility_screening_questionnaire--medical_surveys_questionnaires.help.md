@@ -1,10 +1,3 @@
-<thinking>
-This form, "Pregnancy Termination Eligibility Screening Questionnaire," is intended for individuals who are seeking medical care, particularly those with specific medical conditions or histories that may impact their health or pregnancy termination eligibility. This form is meant to gather information about the individual's medical history, social determinants, current medications, medical providers, and medical conditions to determine their eligibility for certain medical treatments or procedures.
-The form is not intended to be used for other purposes, and responses are subject to review and validation by medical professionals. 
-
-Form fields may appear in a different order or layout due to technical considerations. This guide is based on the provided form layout and content.
-</thinking>
-
 # Pregnancy Termination Eligibility Screening Questionnaire - Help Guide
 
 ## Purpose

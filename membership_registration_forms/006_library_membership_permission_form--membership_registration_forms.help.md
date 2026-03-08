@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Library Membership Permission Form" is to gather essential information from users to grant them permission to join or maintain membership in a library. This form is used to verify users' intentions, gather contact information, and record their permission status for library access. Before starting, ensure that this is the correct form to be filled out, and you have not already completed it. This form is typically used for new or renewing members.
-</thinking>
-
 # Library Membership Permission Form - Help Guide
 ## Purpose
 The "Library Membership Permission Form" is a document used to grant library membership to users. It is essential to complete this form accurately to ensure correct and smooth library access.

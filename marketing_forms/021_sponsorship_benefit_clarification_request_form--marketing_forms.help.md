@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for sponsors to request a benefit clarification for their sponsorship. It is crucial that the person filling out the form provides accurate and clear information to facilitate the process. To ensure that we can provide the best possible assistance, please note that this form should only be filled out once for each sponsorship, and it's essential to provide the required information to avoid any delay in the benefit clarification process.
-</thinking>
-
 # Sponsorship Benefit Clarification Request Form - Help Guide
 ## Purpose
 The Sponsorship Benefit Clarification Request Form is designed to help sponsors obtain clarification on their sponsorship benefits. This form is intended to be used by sponsors who need more information on the benefits they are entitled to.

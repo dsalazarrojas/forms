@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals share their experiences of performing acts of kindness, which can be a powerful way to improve one's mental health and well-being. Acts of kindness have been shown to have positive effects on both the giver and receiver, and can even have a ripple effect in creating a more compassionate community. This form is meant to gather stories and insights about the different forms of kindness that people have experienced or would like to experience. To ensure that each story is unique, we'll be checking for duplication before accepting new submissions. Please note that the form is not affiliated with any specific form platform and is an original adaptation generated using AI.
-</thinking>
-
 # The Act Of Kindness - Help Guide
 ## Purpose
 This form is designed to collect stories and insights about acts of kindness that people have experienced or would like to experience. It aims to gather diverse perspectives on how kindness can positively impact mental health and well-being.

@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to log user activity related to ad viewing. The purpose of the form is to track when and where users view ads, allowing for better understanding of ad performance and optimization. The form will be used by individuals within an organization to record their own ad viewing experiences, ensuring that each entry is accurate and relevant. To avoid duplication of effort, users should only log their own ad viewing activity.
-
-</thinking>
-
 # Ad Viewing Activity Log Form - Help Guide
 ## Purpose
 The Ad Viewing Activity Log Form is used to track and record user activity when viewing ads. This form helps to gather valuable insights into ad performance and optimize ad campaigns for better results.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist patients in understanding the purpose and functionality of the Occupational Therapy Appointment Reservation Form. The form is designed to gather necessary information for scheduling an appointment with an occupational therapist. The form fields are divided into sections that correspond to different aspects of the appointment.
-
-Before starting, please ensure that you have all necessary information ready. This guide will walk you through each field and its purpose, helping you complete the form efficiently.
-
-Please note that some fields are optional, and you can skip them if not applicable to your situation. If you have any doubts or questions, feel free to reach out to the relevant personnel for assistance.
-
-</thinking>
-
 # Occupational Therapy Appointment Reservation Form - Help Guide
 ## Purpose
 This form is used to schedule an appointment with an occupational therapist for personal or professional needs.

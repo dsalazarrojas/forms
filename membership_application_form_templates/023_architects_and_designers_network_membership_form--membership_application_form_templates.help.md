@@ -1,7 +1,3 @@
-<thinking>Before creating a help guide, let's first consider the purpose of this membership application form. The Architects And Designers Network Membership Form is designed to collect personal and professional information from architects and designers who wish to join the network. The form is used to verify the credentials and eligibility of applicants for membership, ensuring that only qualified individuals and firms are admitted into the network. The goal is to gather accurate and relevant information to facilitate effective communication, collaboration, and networking within the community. To ensure a smooth and efficient application process, it is essential to fill out the form accurately and thoroughly.
-
-The following help guide will explain each step of the application process.</thinking>
-
 # Architects And Designers Network Membership Form - Help Guide
 ## Purpose
 The purpose of this form is to provide the Architects And Designers Network with information about you and your firm to help us verify your credentials and determine your membership level.

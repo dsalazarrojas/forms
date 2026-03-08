@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internet Usage Survey Template - Help Guide
 
 ## Purpose

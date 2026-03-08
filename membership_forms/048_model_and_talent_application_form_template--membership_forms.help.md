@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a template for individuals to submit their applications for modeling work. The form is designed to collect personal details, contact information, portfolio images, and other relevant details required for modeling work. This form should not be used as a substitute for human judgment in hiring decisions. Ensure that you understand the purpose of the form and do not use it to make judgments based solely on the information provided. Also, make sure that the form is not used for any other purpose other than the intended one to avoid duplication and confusion.
-
-</thinking>
-
 # Model And Talent Application Form Template - Help Guide
 ## Purpose
 

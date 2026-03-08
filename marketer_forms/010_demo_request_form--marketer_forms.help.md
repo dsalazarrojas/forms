@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect demo requests from users who are interested in learning more about a product or service. The purpose of this form is to gather basic contact information and preferences to facilitate a demo request.
-The form is not intended for commercial use or any other purpose other than as an example of a well-structured form for internal use within an organization.
-</thinking>
-
 # Demo Request Form - Help Guide
 ## Purpose
 The Demo Request Form is a simple form used to collect contact information and demo requests from users.

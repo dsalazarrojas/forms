@@ -1,16 +1,3 @@
-<thinking>
-The form is designed to collect and document a patient's health history and medical information in a comprehensive manner. This form helps to gather relevant data on a patient's overall health condition, medical history, family history, and other important information that can aid medical professionals in providing proper care and treatment.
-
-This guide is intended to explain the form's purpose and requirements clearly, ensuring users understand each field's significance in contributing to the comprehensive health evaluation process.
-
-To use this guide effectively:
-
-1.  Review the form's fields and options carefully, ensuring you understand each field's purpose.
-2.  Complete the form accurately and truthfully, providing detailed information for each field.
-3.  Refer to this guide as needed to clarify any questions or doubts you may have.
-
-</thinking>
-
 # Health History Form - Help Guide
 ## Purpose
 The Health History Form is designed to collect comprehensive information about a patient's health condition, medical history, and other relevant details. This information will help healthcare professionals assess and manage your health effectively.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Surgery Recovery Assessment - Help Guide
 ## Purpose
 This form is used to assess the recovery status of patients after undergoing surgery. It collects information on their pain level, medication side effects, vital signs, and surgical site. This data is used to monitor their progress and provide better care.

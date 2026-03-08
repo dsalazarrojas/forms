@@ -1,16 +1,3 @@
-<thinking>
-...The form purpose and context should be well-established to ensure the correct information is captured and the form is completed effectively. This should be done to prevent data duplication and ensure that all relevant information is captured.
-
-The form should also be reviewed to ensure it is not being used inappropriately or for the same purpose. This will prevent unnecessary data collection and potential misuse.
-
-This form is a "Meeting Report Template" and should be used for reporting on meetings. It is designed to be completed by meeting attendees, and the information collected will be used for reference and follow-up purposes.
-
-The form fields should be completed accurately and thoroughly to ensure that the information captured is reliable and useful.
-
-This form is not intended for any other purpose and should not be used for other types of reporting or data collection.
-
-</thinking>
-
 # Meeting Report Template - Help Guide
 ## Purpose
 The Meeting Report Template is a form used for reporting on meetings. It is designed to capture relevant information about the meeting, including the meeting summary, date, location, attendees, meeting objectives, and discussion.

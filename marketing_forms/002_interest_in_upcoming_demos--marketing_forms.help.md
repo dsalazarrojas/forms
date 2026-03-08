@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Interest In Upcoming Demos - Help Guide**
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Leadership Exchange Program Application Form - Help Guide
 ## Purpose
 The Hospital Leadership Exchange Program Application Form is designed to collect information from hospital employees who wish to participate in a leadership exchange program. This program allows employees to gain leadership experience and skills by working in different hospital settings, broadening their perspectives and expertise. To ensure the integrity and effectiveness of the program, this form serves as a tool for evaluating applicants' suitability, work experience, and motivation.

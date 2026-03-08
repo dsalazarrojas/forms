@@ -1,7 +1,3 @@
-<thinking>
-The Stage Performers Network Membership Form is intended for performers who want to become part of the network. This form is not for general inquiries or other purposes. Before filling out this form, please ensure that you have all necessary information and that you're filling it out for the correct reason. If you're unsure, it's best to reach out to the administrators first.
-</thinking>
-
 # Stage Performers Network Membership Form - Help Guide
 ## Purpose
 

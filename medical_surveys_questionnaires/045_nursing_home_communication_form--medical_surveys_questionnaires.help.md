@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect communication information between healthcare providers and the nursing home staff. The form is intended for use during a patient's stay in a nursing home and is used to document the patient's health status, care plan, and any changes to their care. It is essential to complete this form accurately and thoroughly to ensure that the patient receives the best possible care.
-
-This form should only be completed by authorized staff members of the nursing home. If you are unsure about the purpose of this form or have any concerns, please contact the healthcare provider for guidance.
-
-Please ensure that you are not duplicating information already collected on the patient's record. Double-check that the information you are providing is up-to-date and accurate.
-
-Before starting the form, it's a good idea to have the patient's chart or medical record readily available for reference.
-</thinking>
-
 # nursing_home_communication_form - Help Guide
 ## Purpose
 The nursing_home_communication_form is used to document the patient's health status, care plan, and any changes to their care during a stay in a nursing home.

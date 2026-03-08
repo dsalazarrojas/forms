@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users who want to join your mailing list, allowing them to provide their email address and other relevant details such as their preferred email marketing software. This form will help you to efficiently manage and process new subscribers' data.
 
 Form submission is a one-time action, and users can only submit the form once. To avoid duplication of entries, we have implemented a mechanism to detect and prevent users from submitting the form multiple times.

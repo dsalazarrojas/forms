@@ -1,11 +1,3 @@
-<thinking>
-This form is used to assess the presence and severity of hernia and varicose veins in patients. It is crucial to accurately complete this form to provide the medical professional with a comprehensive understanding of the patient's condition. 
-Please ensure that you have reviewed the patient's medical history and any relevant documentation before proceeding. 
-
-This form is designed to collect detailed information about the patient's symptoms, medical history, treatment goals, and other relevant factors. Ensure that you provide accurate and complete information to help the patient receive the best possible care.
-
-</thinking>
-
 # Hernia And Varicose Vein Assessment - Help Guide
 ## Purpose
 The Hernia And Varicose Vein Assessment form is used to gather crucial information about a patient's hernia and varicose vein condition. This information is essential for medical professionals to assess the severity of the condition and provide the best possible treatment.

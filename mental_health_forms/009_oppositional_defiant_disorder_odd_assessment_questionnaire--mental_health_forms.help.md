@@ -1,14 +1,3 @@
-<thinking>
-This guide will walk you through the purpose and completion process of the oppositional_defiant_disorder_odd_assessment_questionnaire form. It will be helpful for users to understand the form's goals and how to navigate through it efficiently.
-
-Before proceeding, please ensure you are in the right context for filling out this form. This form is typically used for assessments related to Oppositional Defiant Disorder (ODD), which is a type of behavioral disorder characterized by a pattern of angry, aggressive, or defiant behavior.
-
-To fill out this form correctly, make sure you are in a calm and stable mental state. Take your time to go through each question carefully, and don't hesitate to ask for help if you need clarification or support.
-
-This guide will walk you through the form's structure and purpose, helping you complete it accurately and efficiently.
-
-</thinking>
-
 # oppositional_defiant_disorder_odd_assessment_questionnaire - Help Guide
 ## Purpose
 

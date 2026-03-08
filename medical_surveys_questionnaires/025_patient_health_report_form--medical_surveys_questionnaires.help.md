@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect comprehensive information about a patient's health report, including their identification details, medical history, current medical conditions, and family medical history. The form is used to gather essential data that healthcare professionals can use to better understand the patient's overall health status and make informed decisions.
-</thinking>
-
 # Patient Health Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed information about a patient's health report from their healthcare provider.

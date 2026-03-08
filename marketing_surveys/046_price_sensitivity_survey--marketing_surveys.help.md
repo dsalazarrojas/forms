@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Price Sensitivity Survey - Help Guide
 
 ## Purpose

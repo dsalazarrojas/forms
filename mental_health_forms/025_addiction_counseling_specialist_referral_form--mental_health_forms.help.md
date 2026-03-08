@@ -1,8 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Addiction Counseling Specialist Referral Form", we must first understand the form's purpose. This form appears to be designed for mental health professionals to gather information about a client being referred to an addiction counseling specialist. It's likely used to facilitate a smooth transfer of care between healthcare providers, ensuring the specialist is well-informed about the client's situation before their appointment.
-We should check if the form is being used in the right context, i.e., not for duplicate referrals or in situations where a referral is not necessary. This might involve verifying the client's consent for treatment and ensuring the specialist is the right fit for the client's needs.
-</thinking>
-
 # Addiction Counseling Specialist Referral Form - Help Guide
 ## Purpose
 This form is designed to help addiction counseling specialists receive essential information about clients being referred for treatment, ensuring they are well-prepared for the client's appointment.

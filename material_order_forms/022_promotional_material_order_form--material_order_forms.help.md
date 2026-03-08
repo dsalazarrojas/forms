@@ -1,19 +1,3 @@
-<thinking>
-
-The form is used to order promotional materials, such as brochures, posters, t-shirts, hats, pins, stickers, water bottles, and mugs. This form is likely used by marketing or events teams to collect information about customers and their promotional material requests, which can be used for internal purposes such as inventory tracking, order fulfillment, and customer relations. 
-
-This form is probably not used for payment processing or other sensitive transactions, given that some fields are optional and there's no mention of financial information. 
-
-It's possible that this form is used to gather orders for events or campaigns, and the information collected here will be used to contact the customer and arrange for delivery or shipping of the ordered materials. 
-
-The purpose of this form can be understood by looking at the fields: customer information, contact information, material type, quantity, special instructions, shipping instructions, and comments. 
-
-No field appears to be required, but some fields like "material-type" and "quantity" are likely to be relevant for the form's purpose, even if they're not marked as required. 
-
-This form doesn't appear to be redundant, as it seems to collect specific and relevant information for a specific use case. 
-
-</thinking>
-
 # promotional-material-order-form - Help Guide
 ## Purpose
 

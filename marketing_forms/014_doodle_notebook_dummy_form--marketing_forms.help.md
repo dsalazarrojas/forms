@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # doodle_notebook_dummy_form - Help Guide
 ## Purpose
 The "doodle_notebook_dummy_form" form is a tool used for customizing and purchasing doodle notebooks. It allows users to provide input on whether they want to customize their notebook or order one. The form is primarily used for internal purposes within the organization, and its completion helps the team in better understanding customer preferences and needs.

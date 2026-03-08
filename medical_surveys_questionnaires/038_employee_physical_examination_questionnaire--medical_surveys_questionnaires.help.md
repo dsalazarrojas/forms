@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an Employee Physical Examination, which is a health assessment conducted by the organization to monitor and maintain the health and wellbeing of its employees. The form is intended to be completed by employees, typically during the onboarding process or as part of the company's health and wellness program. The goal is to gather essential data on employees' medical history, physical condition, and any allergies they may have, ensuring the organization can provide appropriate support and accommodations if needed.
-</thinking>
-
 # Employee Physical Examination Questionnaire - Help Guide
 ## Purpose
 The Employee Physical Examination Questionnaire is a form used to collect personal and medical information about employees. This information is necessary for the organization to ensure a safe and healthy work environment and to provide necessary support and accommodations.

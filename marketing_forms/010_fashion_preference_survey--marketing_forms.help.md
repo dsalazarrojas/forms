@@ -1,9 +1,3 @@
-<thinking>
-This form was generated using AI and is not affiliated with, endorsed by, or derived from any form platform.
-The purpose of this form is to gather information about customers' fashion preferences, shopping habits, and satisfaction with products.
-Please ensure that the form is relevant to your business needs and that you have the necessary permissions to collect this data.
-</thinking>
-
 # Fashion Preference Survey - Help Guide
 ## Purpose
 The Fashion Preference Survey is a form designed to gather information about customers' fashion preferences, shopping habits, and satisfaction with products. This form aims to understand customers' interests, habits, and needs to improve business strategies and product development.

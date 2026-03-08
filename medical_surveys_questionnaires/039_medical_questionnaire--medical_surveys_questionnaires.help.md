@@ -1,7 +1,3 @@
-<thinking>
-This is a form for a medical survey or questionnaire. It appears to be a generic form for collecting medical information from patients or individuals. To avoid duplication, ensure this form is used for its intended purpose and not for other types of data collection. 
-</thinking>
-
 # Medical Questionnaire - Help Guide
 ## Purpose
 The Medical Questionnaire form is designed to collect medical information from patients or individuals. This form is used to gather details about a person's health, medical history, and other relevant medical information.

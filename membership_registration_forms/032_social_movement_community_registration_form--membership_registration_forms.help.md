@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect personal and contact information from individuals interested in joining a social movement community. The form is designed to be user-friendly and efficient, allowing individuals to easily provide the necessary information to join the community. This form was created using AI-generated metadata from public sources, ensuring that it is an original adaptation without any affiliation or endorsement from other form platforms.
-</thinking>
-
 # social_movement_community_registration_form - Help Guide
 ## Purpose
 This form is designed to collect personal and contact information from individuals interested in joining a social movement community. The information collected will be used to facilitate communication and community interactions within the community.

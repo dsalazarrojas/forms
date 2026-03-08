@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to generate leads for tech product releases. The purpose of this form is to allow users to express their interest in a product release and provide relevant information to help our team better understand their needs and preferences. We'll be looking for users who are interested in new product releases and want to stay up-to-date with the latest products and updates.
-
-To ensure the quality of our lead generation efforts, we'll be checking for relevance and non-duplication of user input. If a user has already submitted a lead on a similar product or topic, we'll ask them to confirm or provide additional information to validate their interest. We'll only contact users who have shown genuine interest and are eligible to receive updates.
-
-</thinking>
-
 # Tech Product Release Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to generate leads for tech product releases, allowing us to better understand your interest and preferences for new products and updates.

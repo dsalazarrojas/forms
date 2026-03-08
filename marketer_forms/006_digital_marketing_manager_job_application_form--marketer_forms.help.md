@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect application information from potential candidates for a Digital Marketing Manager position. The purpose of this form is to gather relevant details about the candidate's background, experience, and job expectations. This form aims to ensure that we receive accurate and complete information to assess the candidates' suitability for the role.
-
-Before proceeding, please ensure that you have not submitted an application for this position through any other means, as duplicate applications may result in processing delays or misallocation of resources.
-
-If you have any issues or concerns, please reach out to our recruitment team for assistance.
-
-</thinking>
-
 # digital-marketing-manager-job-application-form - Help Guide
 ## Purpose
 This form is designed for individuals interested in applying for a Digital Marketing Manager role within our organization. Please provide accurate and detailed information to increase your chances of being considered for the position.

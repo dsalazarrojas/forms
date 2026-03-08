@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a copyright application. A copyright application form is used to apply for a copyright for a work, such as a book, music, art, or film. Before proceeding, make sure you have read and understood the purpose of this form and that you are not duplicating an existing application. Please fill out the form carefully and accurately to ensure your application is processed smoothly.
-</thinking>
-
 # Copyright Application Form - Help Guide
 ## Purpose
 This form is used to collect information for a copyright application. 

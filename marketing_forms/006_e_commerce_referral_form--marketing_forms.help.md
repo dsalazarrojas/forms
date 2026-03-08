@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be used for e-commerce referrals, where a user can submit information about a referred customer. The form includes fields for customer details, referral information, and reward details. 
 
 The form is likely to be used by businesses or individuals to track and manage referrals and reward their customers or partners for referring others. 

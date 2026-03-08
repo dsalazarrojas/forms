@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or users who want to create text-only advertisements with our company. The form helps in capturing necessary details such as name, contact information (company name and email), and specific requests (message, date, time, and select/deselect options). The form fields have been designed with a mix of required and non-required fields, ensuring that users can provide the minimum necessary information for our team to process their requests.
-This form is designed to be completed by one user at a time to prevent duplication of efforts and ensure that each request is processed individually.
-Please note that some fields may require additional guidance or clarification for accurate completion.
-</thinking>
-
 # Text Only Advertisement Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for creating text-only advertisements with our company.

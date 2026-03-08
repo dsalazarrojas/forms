@@ -1,8 +1,3 @@
-<thinking> 
-This form is likely used to collect contact information and feedback from Facebook users. It has a mix of text fields for names, emails, and messages, select and select multiple fields for categorical choices, and date and time fields for scheduling purposes. The form is not explicitly linked to a specific Facebook account or campaign, so it might be a generic contact form or a feedback form. To ensure that the form is not filled out unnecessarily, it would be good to add a unique identifier or a timestamp to the form so that duplicate submissions can be identified and filtered out.
-
-</thinking>
-
 # Facebook Contact Form - Help Guide
 ## Purpose
 This form is used to collect contact information and feedback from users. Please fill out this form to send a message to us.

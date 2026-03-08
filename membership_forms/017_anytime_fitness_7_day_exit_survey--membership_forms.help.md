@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support users who are completing the "Anytime Fitness 7 Day Exit Survey". The purpose of this form is to collect feedback from departing members about their experience with Anytime Fitness, and to help the management understand what they can do better. This guide assumes the user is familiar with the basics of the form's layout and functionality. Please review the fields carefully and complete the form as honestly as possible.
-</thinking>
-
 # Anytime Fitness 7 Day Exit Survey - Help Guide
 ## Purpose
 The Anytime Fitness 7 Day Exit Survey is a form designed to gather feedback from members about their experience with our fitness facilities. Your input will help us understand what we do well and what we can improve on to better serve our members in the future.

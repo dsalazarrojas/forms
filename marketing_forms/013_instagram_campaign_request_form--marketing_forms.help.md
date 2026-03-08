@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for requesting an Instagram campaign for a business. The purpose of this form is to gather information from the business owner about their business details, account information, and contact information. This data will be used to assess whether the business qualifies for an Instagram campaign. Please ensure that the submitted form is accurate and complete. Before submitting, verify that this is a one-time request and not a repetitive inquiry. If you have already submitted a request within the last 30 days, please do not re-submit. 
-</thinking>
-
 # Instagram Campaign Request Form - Help Guide
 ## Purpose
 This form helps us assess your business's eligibility for an Instagram campaign. Please fill out the form accurately and completely with your business information, campaign requirements, and contact details.

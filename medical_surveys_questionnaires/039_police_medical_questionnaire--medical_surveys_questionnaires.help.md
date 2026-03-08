@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a medical survey or questionnaire for law enforcement agencies to gather information about an individual's medical history and health. The purpose of this form is to collect sensitive personal and medical information about the individual being questioned. This information is crucial for the proper treatment, custody, or care of the individual. To ensure accuracy, each question should be filled out carefully and honestly.
-</thinking>
-
 # Police Medical Questionnaire - Help Guide
 
 ## Purpose

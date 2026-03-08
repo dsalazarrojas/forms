@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect marketing requests from customers or internal stakeholders.
-It is crucial to ensure that the form is not completed by the same user multiple times, so the "required" fields are marked as such to prevent duplication.
-</thinking>
-
 # Dahua Marketing Request - Help Guide
 ## Purpose
 The Dahua Marketing Request form is used to collect marketing requests from customers or internal stakeholders. Please fill out this form to submit your marketing request and our team will review and follow up on your submission.

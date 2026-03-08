@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for obtaining consent from patients before administering vaccinations. It's likely used in medical settings, such as hospitals, clinics, or private practices. Ensure that this form is only used for its intended purpose and is not duplicated or used for other purposes, as the information gathered may be sensitive in nature.
-</thinking>
-
 # Vaccination Consent Form - Help Guide
 ## Purpose
 The Vaccination Consent Form is designed to obtain consent from patients before administering vaccinations. This form ensures that patients are aware of the vaccination process, potential risks and benefits, and are willing to receive the vaccination.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect membership information from users who want to join the Fashion Society. 
-The form is divided into several sections, but since this is a simple form, we'll just be explaining each field individually.
-The form is not intended for duplicate submissions, and users should only fill it out once.
-</thinking>
-
 # Fashion Society Membership Form - Help Guide
 ## Purpose
 This form is used to collect membership information from users who want to join the Fashion Society. Please fill out this form to become a part of our community.

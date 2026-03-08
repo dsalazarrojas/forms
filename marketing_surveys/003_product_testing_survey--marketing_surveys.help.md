@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback and insights from customers on a product testing process. It's a crucial part of understanding customer needs and expectations, and it's meant for both internal teams and external customers. It should be used to collect information from customers who have participated in product testing. To ensure relevance, it's best to use this form for customers who have recent testing experience with the product. Please do not use this form for other purposes or duplicate it in other surveys.
-</thinking>
-
 # Product Testing Survey - Help Guide
 ## Purpose
 The Product Testing Survey is designed to gather feedback and insights from customers on their experience with our product testing process. This information will help us understand customer needs and expectations, which will help us improve our product and services.

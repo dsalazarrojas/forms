@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users to complete the "healthcare_design_accessibility_survey" form. The form is used to collect information on healthcare design accessibility features, including medical surveys, accessibility features, healthcare facilities, and feedback. This guide is designed to help users understand the purpose of the form and how to complete each field accurately.
-
-Before proceeding, please note that this form is not intended for medical professionals. If you are a medical professional, please do not complete this form. If you have completed this form previously, please do not complete it again. This guide is intended to be used by individuals who are not medical professionals and have not completed this form previously.
-
-The form is divided into multiple sections, each with its own set of questions. This guide will cover each section separately, explaining the purpose and requirements of each field in detail.
-
-</thinking>
-
 # healthcare_design_accessibility_survey - Help Guide
 ## Purpose
 The healthcare_design_accessibility_survey form is used to collect information on healthcare design accessibility features. This form is intended to be completed by individuals who are not medical professionals and have not completed this form previously.

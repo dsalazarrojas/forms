@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from Frequent Flyer program members for the purpose of processing their redemption. The form will be used by customers to provide details about their flights, including passenger information, flight specifics, and redemption status. The form is intended to be filled out by Frequent Flyer program members, who must select their airline of choice from a list of options, indicating if they have flown with the airline in the past, and provide details about their recent flight, including date, time, class, frequency, and status. The form is designed to be as straightforward and user-friendly as possible, with clear and concise labels and instructions to guide the user through the completion process.
-
-</thinking>
-
 # Frequent Flyer Redemption Form - Help Guide
 
 ## Purpose

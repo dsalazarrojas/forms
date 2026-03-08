@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information from HR professionals to create or update their membership records in the database. This form should only be used by HR professionals who are interested in or already have a relationship with our organization. To ensure data accuracy and efficiency, please ensure that you're filling out this form correctly and not duplicating entries.
-</thinking>
-
 # HR Professionals Membership Form - Help Guide
 ## Purpose
 This form is intended for HR professionals to register or edit their membership details.

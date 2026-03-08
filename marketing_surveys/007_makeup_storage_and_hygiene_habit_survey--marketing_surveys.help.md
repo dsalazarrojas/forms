@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's habits and practices related to storing and maintaining their make-up, including how much time is spent on make-up, where it is stored, and how it is cleaned. The form should only be filled out by individuals who have experience with make-up and understand the context of the questions. This form should not be filled out by individuals who have never used make-up or have little experience with make-up.
-
-The form is likely to be used in a marketing or product development context to understand consumer behavior and preferences related to make-up storage and hygiene. 
-
-This guide should only be filled out by individuals who fit the target audience of the form and have experience with make-up.
-</thinking>
-
 # Makeup Storage And Hygiene Habit Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your habits and practices related to storing and maintaining your make-up. The information collected will help us understand how people handle their make-up, what tools and methods they use, and how often they clean and check for expirations.

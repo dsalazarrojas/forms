@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mucosal Knowledge Assessment Survey - Help Guide
 ## Purpose
 

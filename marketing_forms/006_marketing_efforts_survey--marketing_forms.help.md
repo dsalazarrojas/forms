@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Efforts Survey - Help Guide
 
 ## Purpose

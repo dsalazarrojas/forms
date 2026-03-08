@@ -1,21 +1,3 @@
-<thinking>
-This form is a crucial tool for tracking and recording daily activities of promoters. It is meant to be completed by promoters, and its purpose is to capture essential information about their daily work. The form should only be used by authorized personnel who have been assigned to a specific tool for promotion. 
-
-The form's fields are categorized into several sections: 
-- User ID: Identifies the promoter who is filling out the form. 
-- Date: Records the date when the form is being completed. 
-- Activities: Tracks the promoter's activities for the day. This could be 'Yes' or 'No' based on whether they were actively promoting or not. 
-- Notes: A field for any additional information or comments. 
-- Email: Records the promoter's contact information. 
-- Phone: Promoter's contact number. 
-- Status: A field to track if the promoter is Active or Inactive. 
-- Assigned User: Tracks whether the promoter has been assigned to a specific user. 
-- Assigned Tool: Records the tool used for promotion. 
-- Assigned Tool Id: Additional information about the tool used for promotion.
-
-The form does not have any specific validation rules or requirements, so it's essential to ensure that all necessary information is filled out accurately. 
-</thinking>
-
 # Promoter Daily Activity Report - Help Guide
 ## Purpose
 The Promoter Daily Activity Report is a form used to track and record daily activities of promoters. It is meant to be completed by promoters and is a crucial tool for tracking their progress.

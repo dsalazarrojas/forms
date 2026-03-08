@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the purpose and usage of the Sustainable Living Group Membership Form, which is used for individuals to sign up as members, non-members, volunteers, or leaders in a sustainable living group. This form aims to collect information about the applicant's name, contact details, and group membership status.
-</thinking>
-
 # Sustainable Living Group Membership Form - Help Guide
 ## Purpose
 This form is used to register individuals as members, non-members, volunteers, or leaders in the sustainable living group. The form collects information such as first name, email, phone number, and address for each applicant. The membership type (e.g., Member, Non-Member, Volunteer, Leader) and other relevant details are also collected through this form.

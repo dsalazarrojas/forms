@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll analyze the form fields and provide some internal reasoning for why this form is being used. This form appears to be a comprehensive consent form for blood donors, covering various aspects of the donation process, including donor information, consent to donate, procedure understanding, risks, benefits, and data usage. The form is likely to be used in a medical or blood donation setting. The form fields seem to be well-designed, but some field labels are quite specific, such as "Infectious disease screening etc" which might not be immediately clear to non-experts. I assume that the "testing_consent" and "test_types" fields are related to the blood testing process, and "data_usage_consent" is about the use of donated data. I will provide a detailed explanation of each field below.</thinking>
-
 # Blood Donor Consent Form - Help Guide
 
 ## Purpose

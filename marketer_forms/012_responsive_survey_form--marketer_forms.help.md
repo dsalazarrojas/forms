@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Responsive Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and opinions from users to improve the quality of our website.

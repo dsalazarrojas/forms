@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist users in completing the "Mental Health First Aid Training Enrollment Form" correctly and efficiently. Before proceeding, it is essential to understand the form's purpose and ensure it is relevant to your situation. This form is designed to collect information from individuals interested in participating in mental health first aid training. Please review each section carefully to ensure you're providing accurate and complete data.</thinking>
-
 # Mental Health First Aid Training Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect essential details from individuals interested in participating in mental health first aid training. It is used to register participants in the training session.

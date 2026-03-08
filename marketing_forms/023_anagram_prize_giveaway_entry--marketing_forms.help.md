@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect entrant information for a prize giveaway contest, specifically the answer to an anagram puzzle. The purpose of this form is to gather necessary contact and entry information from potential winners. To be eligible for the prize, entrants must provide a valid email address and submit their answer to the anagram puzzle. The "How did you hear about the giveaway" field is optional, and the "Opt in to marketing" field allows entrants to choose if they want to receive promotional emails. The form does not require entrants to answer this question or opt-in to marketing to be eligible for the prize. However, if they choose not to provide this information, they will not receive any further notifications or promotional materials from us.
-
-</thinking>
-
 # Anagram Prize Giveaway Entry - Help Guide
 ## Purpose
 This guide is intended to assist you in filling out the Anagram Prize Giveaway Entry form. 

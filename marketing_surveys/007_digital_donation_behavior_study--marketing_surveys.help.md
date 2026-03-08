@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather information from donors about their digital donation behavior, aiming to better understand their preferences and habits. This data will help us improve our online donation platform and provide a more engaging experience for our donors. To ensure that the collected data is accurate and reliable, it's essential to follow the instructions in this help guide carefully. Please note that this form is for research purposes only, and the data collected will not be used for any direct marketing or promotional activities. To avoid duplication of information, please fill out the form only once.
-</thinking>
-
 # Digital Donation Behavior Study - Help Guide
 ## Purpose
 The Digital Donation Behavior Study is a research project designed to gather information from donors about their online donation habits and preferences. By participating in this study, you will help us understand how donors interact with our online donation platform and provide valuable insights to improve our services.

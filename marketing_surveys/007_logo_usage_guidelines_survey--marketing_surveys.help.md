@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a 25-question, 25-page "Logo Usage Guidelines Survey". The purpose of this survey is to collect feedback from users about their logo usage and guidelines. The survey is designed to be completed by individuals with knowledge about logo usage and guidelines, and it may not be suitable for general public consumption.
-
-This guide should provide a clear and concise explanation of each page and field, but it's worth noting that the form structure and content may not be optimal for end-users who are not familiar with logo usage and guidelines. It's recommended that users review the form and its explanations carefully before proceeding.
-
-The form does not appear to be highly complex, but its long length may make it overwhelming for some users. The form's structure and content should be reviewed to ensure that it's clear and logical.
-
-Before proceeding, it's essential to note that the form was created using an AI tool and may not be perfectly adapted to the specific needs and requirements of the target audience.
-
-</thinking>
-
 # Logo Usage Guidelines Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect feedback from users about their logo usage and guidelines.

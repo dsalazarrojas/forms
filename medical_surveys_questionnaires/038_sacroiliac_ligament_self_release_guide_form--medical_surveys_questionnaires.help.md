@@ -1,17 +1,3 @@
-<thinking>... The form is designed to guide individuals in releasing their sacroiliac ligament, providing a structured approach to the self-release technique. This form includes fields for the participant's demographic information, practitioner's feedback, and other relevant details.
-
-The form has 29 fields, including text input fields for participant and practitioner information, select one options for category and follow-up, and date and email input fields for date and email. The participant's feedback and practitioner's feedback are also included in text input fields.
-
-This form is intended for medical professionals or individuals seeking to guide participants through the sacroiliac ligament self-release technique. It is essential to fill out this form carefully and accurately to ensure the participant is adequately informed and prepared for the procedure.
-
-Please ensure that you have read and understood the instructions and procedures outlined in this guide before completing this form. If you are unable to perform the self-release technique, please select "I am not able to perform the self-release technique" in the acknowledgement field.
-
-Before you begin, please note that some fields may be required or optional, as indicated in the form. Ensure that you fill out all required fields to complete the form.
-
-Also, remember that some fields may be sensitive or personal in nature. Please respect the participant's privacy and confidentiality by handling their information with care and professionalism.
-
-</thinking>
-
 # sacroiliac_ligament_self_release_guide_form - Help Guide
 ## Purpose
 The sacroiliac ligament self-release guide form is designed to guide individuals through the self-release technique for the sacroiliac ligament, a common issue in medical practices.

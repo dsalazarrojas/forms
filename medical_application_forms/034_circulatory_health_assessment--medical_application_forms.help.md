@@ -1,10 +1,3 @@
-<thinking>
-**Form Purpose:**
-The Circulatory Health Assessment Form is designed to collect information about a patient's circulatory system health, including vital signs, medical history, and lifestyle factors that may impact cardiac health. This form is intended for healthcare professionals to use for clinical assessments and evaluations.
-**Relevance:** This form is relevant to any healthcare setting where patients are being evaluated for circulatory system health, such as primary care clinics, cardiology clinics, or emergency departments.
-**Non-Duplication:** This form should not be used for patients with known cardiovascular conditions that are not relevant to the circulatory system.
-</thinking>
-
 # Circulatory Health Assessment - Help Guide
 ## Purpose
 The Circulatory Health Assessment Form is designed to collect information about a patient's circulatory system health.

@@ -1,13 +1,3 @@
-<thinking>
-  To determine whether a form is relevant and not duplicative, I consider the following questions:
-  - What is the purpose of the form?
-  - Is the form already being used in our system?
-  - Is the form similar to any other forms already being used?
-  - Is there a clear distinction between required and optional fields?
-  The form appears to be for collecting patient information for dental procedures, including costs and insurance information. This is a common form in the medical field. However, it's essential to confirm that the form is not already being used by another department or team within the organization.
-  In this case, I'll proceed with creating the user-facing help guide for the "Dental Estimate Form" form.
-</thinking>
-
 # Dental Estimate Form - Help Guide
 ## Purpose
 The Dental Estimate Form is designed to collect patient information, procedure details, and billing details for dental procedures. This form is intended to aid in providing estimates for patients and ensuring accurate billing information is collected.

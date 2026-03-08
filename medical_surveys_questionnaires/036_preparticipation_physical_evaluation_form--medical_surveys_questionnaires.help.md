@@ -1,5 +1,3 @@
-<thinking>Preparticipation Physical Evaluation Form is used by athletic teams, schools, and other organizations to assess the health and fitness of athletes before they begin practicing or competing. This form helps to identify potential health risks and ensure that athletes are ready for physical activity. It is essential to complete this form accurately and thoroughly to avoid any health-related issues during practice or competition. Please ensure that the information you provide is up-to-date and accurate to help the athletic team or organization make informed decisions about your participation. If you have any medical questions or concerns, please consult with a healthcare professional before completing this form.</thinking>
-
 # Preparticipation Physical Evaluation Form - Help Guide
 ## Purpose
 The Preparticipation Physical Evaluation Form is a crucial document used by athletic teams, schools, and other organizations to assess the health and fitness of athletes before they begin practicing or competing. This form helps to identify potential health risks and ensure that athletes are ready for physical activity.

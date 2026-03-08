@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather medical history information from patients. It collects various aspects of a patient's health, including medical conditions, tests, allergies, family history, and medical procedures. The form aims to provide a comprehensive view of a patient's medical history, which is crucial for healthcare providers to make informed decisions and offer appropriate care. To ensure the form's effectiveness, it's essential to complete it accurately and thoroughly.
-</thinking>
-
 # Medical History Information Form - Help Guide
 ## Purpose
 This form is designed to collect detailed medical history information from patients to aid healthcare providers in making informed decisions and offering proper care.

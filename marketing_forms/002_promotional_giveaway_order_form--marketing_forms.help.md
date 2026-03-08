@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # promotional_giveaway_order_form - Help Guide
 ## Purpose
 The promotional giveaway order form is used to place orders for promotional giveaways, contests, or promotions. Fill out this form to place your order and provide necessary information for fulfillment.

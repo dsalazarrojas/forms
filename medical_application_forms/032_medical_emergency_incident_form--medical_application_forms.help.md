@@ -1,11 +1,3 @@
-<thinking>
-The medical emergency incident form is used to report and document incidents that have occurred during medical procedures or treatments. This form is designed to gather necessary information for patient safety and incident response. It's essential to ensure the form is filled out accurately and thoroughly to facilitate effective incident response and risk management.
-
-This form should only be filled out by authorized personnel, such as medical staff or incident responders. If you're not sure about the form's purpose or your role in filling it out, please consult with your supervisor or relevant personnel.
-
-Please review the following instructions carefully to ensure you're using the form correctly. If you have any questions or concerns, don't hesitate to reach out to your supervisor or relevant personnel for assistance.
-</thinking>
-
 # medical_emergency_incident_form - Help Guide
 ## Purpose
 The medical emergency incident form is used to report and document incidents that have occurred during medical procedures or treatments.

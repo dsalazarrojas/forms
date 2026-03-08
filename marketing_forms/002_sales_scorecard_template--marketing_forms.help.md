@@ -1,5 +1,3 @@
-<thinking>...The "Sales Scorecard Template" is a form designed to track sales performance across various aspects, such as sales score, target, status, and sales channels. This form aims to provide a unified view of sales progress and help teams assess their sales strategy. It is crucial to fill this form accurately to get a comprehensive picture of sales performance and make data-driven decisions. Ensure that you only fill out the fields relevant to your sales activities and avoid duplication of information. This form is not meant to be a one-time fill-up, but rather a continuous update of sales performance...</thinking>
-
 # Sales Scorecard Template - Help Guide
 ## Purpose
 The Sales Scorecard Template is designed to provide a unified view of sales performance across various aspects, including sales score, target, status, and sales channels.

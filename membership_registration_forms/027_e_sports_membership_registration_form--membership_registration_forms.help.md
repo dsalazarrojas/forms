@@ -1,11 +1,3 @@
-<thinking>
-This form is part of the membership registration process for sports teams. Its purpose is to collect information from potential team members about their first name, last name, team affiliation, team leader's name (if applicable), email, and phone number. This form helps the team to get in touch with the individual for further communication.
-
-Before proceeding, please ensure this form is not duplicated or unnecessary. For instance, if the team has already collected this information from you through another form or method, there's no need to fill it out again.
-
-After reviewing this form, if you're still unsure about the form's purpose or any fields, please reach out to your team for clarification.
-</thinking>
-
 # e_sports_membership_registration_form - Help Guide
 ## Purpose
 This form is designed to register potential members for sports teams, gathering essential information such as names, contact details, and team affiliation.

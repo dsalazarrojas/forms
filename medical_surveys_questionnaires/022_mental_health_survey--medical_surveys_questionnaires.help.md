@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the mental health status of an individual, and it is crucial that users understand its purpose to provide accurate and meaningful results. Before proceeding, let's ensure this form is completed correctly to avoid duplication of effort or misinterpretation of results.
-</thinking>
-
 # Mental Health Survey - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's mental health status. It includes questions about their feeling scale, sleep quality, energy level, stress level, anxiety level, mood, and mental health provider. The purpose of this form is to gather data that can be used to understand the mental health of an individual and provide support where necessary.

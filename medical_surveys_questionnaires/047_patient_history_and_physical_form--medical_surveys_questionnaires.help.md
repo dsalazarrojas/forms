@@ -1,7 +1,3 @@
-<thinking>
-The "Patient History and Physical Form" is a medical form used for gathering comprehensive information about a patient's medical history and current status. This form is designed to collect essential details from patients and healthcare providers, ensuring that each patient receives consistent and high-quality care. Before beginning, it's essential to confirm that this form isn't being used for duplicate entries or redundant purposes within your organization. Review your policies and procedures to guarantee that this form serves its intended purpose without redundancy.
-</thinking>
-
 # Patient History And Physical Form - Help Guide
 ## Purpose
 The Patient History and Physical Form is a medical form used for gathering comprehensive information about a patient's medical history and current status.

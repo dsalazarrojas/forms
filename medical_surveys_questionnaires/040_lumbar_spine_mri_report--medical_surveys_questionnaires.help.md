@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a Lumbar Spine MRI Report. It's intended for use in a medical setting to gather details about a patient's medical history, radiology information, and clinical findings. This form is likely to be used by healthcare professionals to document a patient's condition and treatment plan. Please note that this form is a generic adaptation of a public survey topic and has not been affiliated with or endorsed by any specific form platform. It's released under a Creative Commons BY 4.0 license, allowing users to modify and use it for their purposes. If you're looking to use this form for commercial purposes, please give credit to the original creators.
-
-</thinking>
-
 # Lumbar Spine MRI Report - Help Guide
 ## Purpose
 This form is used to collect information for a Lumbar Spine MRI Report in a medical setting.

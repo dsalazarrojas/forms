@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from prospective members of a sailing club, gathering details about their contact information, sailing experience, frequency of sailing, membership type, emergency contact, payment method, payment details, additional information, and terms and conditions. This form aims to create a comprehensive profile of the member, allowing the sailing club to better understand their needs and preferences. However, please note that the form was created using only public metadata and is not affiliated with any specific form platform or survey.
-
-</thinking>
-
 # Sailing Club Membership Admission Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from prospective members of the sailing club, enabling the club to tailor its services and activities to meet the needs of its members.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PMDD Screening Survey - Help Guide
 ## Purpose
 The PMDD Screening Survey is a tool used to assess an individual's symptoms and health information related to Postpartum Depression and Anxiety Disorder (PMDD). This survey aims to gather demographic information, medical history, and mental health status to provide a comprehensive understanding of the respondent's well-being. The information collected will be used to guide medical professionals in making informed decisions.

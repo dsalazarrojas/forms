@@ -1,14 +1,3 @@
-<thinking>
-This form is a medical survey or questionnaire designed to test the knowledge of healthcare professionals, students, or individuals interested in the field of ventilation and perfusion. It is a comprehensive tool to assess the understanding of various topics related to ventilation and perfusion, including general knowledge, anatomy, clinical scenarios, medical conditions, physiology, and more.
-
-The form is structured in a way that guides the respondent through a series of questions that cover different aspects of ventilation and perfusion, allowing them to demonstrate their understanding of the subject matter.
-
-Before proceeding, ensure that you have a good understanding of the topics covered in the form, and that you are aware of any necessary resources or references that may be required to complete the form accurately. 
-
-Please review the following instructions carefully to ensure that you complete the form correctly.
-
-</thinking>
-
 # Ventilation Perfusion Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of ventilation and perfusion, covering various topics such as general knowledge, anatomy, clinical scenarios, medical conditions, physiology, and more.

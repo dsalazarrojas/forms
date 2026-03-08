@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a business's health and performance. It's designed to be completed by business owners or administrators to assess their business's strengths, weaknesses, and areas for improvement. This form will help identify key performance metrics, customer satisfaction, employee retention, and innovation capabilities, providing a comprehensive overview of the business's current state and potential areas for growth. Before proceeding, please check that this form is relevant to your business needs and that you have not already completed a similar form to avoid duplication of effort.
-
-Please note that the following fields are required and must be completed in order to get an accurate assessment:
-- Business Name (label: Business Name)
-- Industry Sector (label: Industry Sector)
-- Financial Health Rating (label: Financial Health Rating)
-- Market Position Rating (label: Market Position Rating)
-- Innovation Capability (label: Innovation Capability)
-- Customer Satisfaction Level (label: Customer Satisfaction Level)
-- Employee Retention Rate (label: Employee Retention Rate)
-- Next Review Date (label: Next Review Date)
-- Identified Top Strength (label: Identified Top Strength)
-- Identified Top Weakness (label: Identified Top Weakness)
-</thinking>
-
 # Business Health Check Up Questionnaire - Help Guide
 
 ## Purpose

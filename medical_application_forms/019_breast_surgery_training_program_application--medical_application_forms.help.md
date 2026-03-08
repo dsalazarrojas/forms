@@ -1,9 +1,3 @@
-<thinking>As a medical professional seeking to join a prestigious breast surgery training program, it is essential to understand the importance of filling out this application form accurately and comprehensively. The purpose of this form is to assess your qualifications, experience, and motivation for participating in the program. Ensure that you answer each question truthfully and provide supporting documentation where necessary. This will ensure a smooth review process and a successful application submission.
-
-To begin, carefully review the form's pages and sections, and ensure that you have all necessary information readily available. You may need to provide documentation, such as your CV, references, and additional supporting documents. Please make sure to proofread your answers to avoid any errors or inaccuracies.
-
-Below is a detailed explanation of each field in the form:</thinking>
-
 # Breast Surgery Training Program Application - Help Guide
 ## Purpose
 This form is designed to collect your background information, professional experience, and motivation for participating in the breast surgery training program. It is crucial to answer all questions accurately and truthfully to ensure a successful application process.

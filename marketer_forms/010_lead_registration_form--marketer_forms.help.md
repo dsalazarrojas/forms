@@ -1,11 +1,3 @@
-<thinking>
-
-This form's purpose is to capture contact and personal details from individuals who are interested in registering as leads for some kind of service or offering. The form is structured as a series of 10 text input pages, which may seem unusual. This might seem confusing, but each page is designed to gather relevant and specific information from the user, likely for further processing and analysis in a backend system.
-
-Before we proceed, let's assume that each of the 10 pages is meant to capture unique aspects of the contact or personal details.
-
-</thinking>
-
 # lead_registration_form - Help Guide
 ## Purpose
 The `lead_registration_form` is designed to collect contact and personal information from individuals who are interested in registering as leads for a particular service or offering.

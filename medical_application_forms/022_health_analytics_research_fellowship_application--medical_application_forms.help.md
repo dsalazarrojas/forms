@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from candidates applying for a health analytics research fellowship. The purpose of this form is to gather contact details, research interests, and other relevant information to assess each candidate's qualifications. To ensure accurate and complete data, please ensure that the form is filled out in its entirety and without duplication or redundancy. This form is designed to be completed once per candidate.
-</thinking>
-
 # Health Analytics Research Fellowship Application - Help Guide
 ## Purpose
 This form is used to collect contact and research-related information from candidates applying for a Health Analytics Research Fellowship. It is essential to fill this form accurately and comprehensively to ensure a thorough review of your application.

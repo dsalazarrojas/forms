@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from existing members for the purpose of renewing their membership. The form is designed to be completed by current members who are due for renewal and want to continue their membership. This guide is provided to ensure that the user understands the form's purpose and how to complete it accurately. The form will be reviewed internally to ensure that there are no duplicate entries and that the information provided is accurate.
-</thinking>
-
 # Membership Renewal Form - Help Guide
 ## Purpose
 The Membership Renewal Form is a form for existing members to provide updated information to continue their membership. This form is used to collect personal details and membership specifics to facilitate the renewal process.

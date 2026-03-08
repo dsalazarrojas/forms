@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information about a potential member's membership status, plan, and payment details within the Recruitment Specialists Guild. Before starting, please ensure you are not duplicating any existing membership information. If you are unsure about any of the fields, please contact the guild administrators for assistance.
-
-</thinking>
-
 # Recruitment Specialists Guild Membership Form - Help Guide
 ## Purpose
 The Recruitment Specialists Guild Membership Form is used to collect and store data about potential and existing members of the guild. The form is designed to be comprehensive and help the members and administrators manage the membership status, plan, and payment details.

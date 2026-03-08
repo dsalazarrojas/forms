@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for individuals interested in participating in a focus group, which is a small, diverse group of people brought together to provide feedback and insights on a product, service, or concept. The form is meant to gather demographic information and interests to help identify a suitable candidate for the focus group. By completing this form, you will be helping the organization to build a more diverse and representative group, and potentially gaining valuable insights on the topic of interest.
-
-Before filling out this form, please ensure that you are eligible to participate in a focus group and that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Focus Group Application Form - Help Guide
 ## Purpose
 This form is used to collect demographic and interest information from individuals interested in participating in a focus group.

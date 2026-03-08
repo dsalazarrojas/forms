@@ -1,8 +1,3 @@
-<thinking>
-To ensure the form's internal consistency and accuracy, let's briefly outline its purpose and review the fields to avoid duplication. The form appears to be designed for farmers or agricultural businesses seeking membership in an agriculture cooperative. The form's main goal is to collect essential information about the member, their farm's details, and their interests in cooperative services. We will review each field carefully to provide a clear and concise help guide.
-
-</thinking>
-
 # Agriculture Cooperative Member Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from farmers or agricultural businesses interested in joining the agriculture cooperative. It is essential to fill out this form accurately to provide the cooperative with the necessary details to manage your membership effectively.

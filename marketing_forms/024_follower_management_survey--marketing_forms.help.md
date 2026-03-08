@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic information about followers, including their demographics, engagement level, and preferences. This form is designed to help the marketing team better understand the characteristics of the followers and tailor their marketing strategies accordingly. The form includes questions about follower demographics, such as age group, education level, and occupation, as well as their average time spent, engagement level, and important dates. The information collected will be used to improve the marketing team's understanding of the followers and inform future marketing efforts.
-
-To avoid duplication, this form should only be filled out once for each follower.
-
-</thinking>
-
 # Follower Management Survey - Help Guide
 ## Purpose
 The Follower Management Survey is designed to collect information about followers, including demographics, engagement level, and preferences. This data will help the marketing team understand the followers and tailor their marketing strategies accordingly.

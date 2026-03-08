@@ -1,11 +1,3 @@
-<thinking>
-# This form is designed to collect information from art professionals about their sales strategies. 
-It's intended to be used for marketing research purposes only. 
-No personally identifiable information will be collected. 
-This guide will help you understand how to complete the form and what each field means.
-
-</thinking>
-
 # Art Sales Strategy Survey - Help Guide
 
 ## Purpose

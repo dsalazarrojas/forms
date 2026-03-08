@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help Elementary School administrators gather information from students, parents, or staff members who want to order school T-shirts. The form is intended to be used for internal purposes, and the collected data will be used to streamline the process of fulfilling T-shirt orders. Please note that this form is not affiliated with any form creation platform and is an original adaptation created using AI.
-
-Before proceeding, ensure that you have not filled out this form previously, as it may lead to duplicate orders. If you're still unsure, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # Elementary School T Shirt Order Form - Help Guide
 ## Purpose
 The Elementary School T Shirt Order Form is designed to collect order information from Elementary School students, parents, or staff members.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect registration information from individuals who wish to participate in the Community Dads Initiative. The form is intended to be filled out by individuals who are interested in engaging in various activities such as parenting workshops, mentorship programs, and community events. 
-
-To ensure that only relevant and eligible individuals are registered, this form will collect information such as name, email, contact phone number, home address, and emergency contact name and phone. This is to enable the program coordinators to effectively communicate with the registrants and ensure their safety and well-being. 
-
-The form will also collect information on the registrants' areas of interest, availability for meetings or events, and their consent to participate in the program. This information will enable the program coordinators to create a schedule that suits the registrants' needs and ensure that they are aware of the program's terms and conditions.
-
-Before proceeding, make sure to have the relevant information and consent to participate in the program.</thinking>
-
 # Community Dads Initiative Registration - Help Guide
 ## Purpose
 The Community Dads Initiative Registration form is designed to collect information from individuals who wish to participate in the program's activities such as parenting workshops, mentorship programs, and community events.

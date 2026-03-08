@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document medication interventions, including changes to medications, medical specialties, and other relevant information. It is intended for use by healthcare professionals to gather data for patient records and treatment planning. This form will help ensure that all necessary information is collected and accurately recorded. To avoid duplication of effort, please verify that this form is not already completed for this patient.
-
-</thinking>
-
 # Medication Intervention Assessment - Help Guide
 ## Purpose
 This form is used to document medication interventions, including changes to medications, medical specialties, and other relevant information.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to document the emergency medical case, capture patient details, and obtain consent for treatment. It appears to be a medical consent form that is used in emergency situations, such as obtaining permission for emergency care, treatment, or procedures from a patient or their authorized representative. The form aims to provide transparency and clarity on the patient's situation, medical interventions, and outcomes. The fields provided are meant to cover essential information for medical professionals.
-
-Please note that the field labels and descriptions are quite generic, which may require some interpretation. This guide is meant to help users understand the form's intent and usage.
-
-</thinking>
-
 # emergency_medicine_case_documentation_consent_form - Help Guide
 
 ## Purpose

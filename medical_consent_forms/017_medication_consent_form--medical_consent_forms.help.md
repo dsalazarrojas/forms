@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for obtaining medication consent from patients. The purpose of this form is to collect patient information, consent, and contact details for medical facilities. To ensure accurate and efficient completion, please ensure that all required fields are filled out completely and correctly. This form should not be duplicated or reused for other purposes.
-
-</thinking>
-
 # medication_consent_form - Help Guide
 ## Purpose
 The medication consent form is a document used to obtain a patient's consent for medical treatment or procedures. It ensures that the patient is aware of their medical history, the treatment they will receive, and their rights as a patient.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees interested in securing early bird membership for a tech conference. The purpose of this form is to gather relevant details such as event name, attendee's personal details, payment method, and contact information. The form is intended for attendees who want to get early bird discounts or offers. 
-
-</thinking>
-
 # Tech Conference Early Bird Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees interested in securing early bird membership for a tech conference. The form will be used to gather relevant details such as event name, attendee's personal details, payment method, and contact information.

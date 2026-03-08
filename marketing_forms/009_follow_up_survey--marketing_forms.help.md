@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to follow up with customers after they've interacted with your product or service. Its primary goal is to gather feedback and measure customer satisfaction. This form is designed to be completed by customers, not employees. Please ensure that you've reviewed your customer interactions before filling out this form to ensure it's a genuine follow-up. You should only fill out this form if you've previously interacted with the company in some way.
-</thinking>
-
 # Follow Up Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your experience with our product or service. Your input will help us improve our services and ensure we meet your needs.

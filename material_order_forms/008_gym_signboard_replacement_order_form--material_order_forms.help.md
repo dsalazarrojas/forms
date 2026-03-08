@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gather information for gym signboard replacement orders. It's essential to ensure that the order type is correctly selected (new or replacement) to provide accurate information to the relevant teams for order fulfillment. Please note that some fields may not be required for the order to proceed.
-
-</thinking>
-
 # Gym Signboard Replacement Order Form - Help Guide
 
 ## Purpose

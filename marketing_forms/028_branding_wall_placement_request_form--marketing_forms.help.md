@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Branding Wall Placement Request Form - Help Guide
 ## Purpose
 This form is designed to gather information for a branding wall placement request. It will help us understand your needs and preferences for a successful installation.

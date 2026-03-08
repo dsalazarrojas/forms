@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to record the attendance status of individuals at school meetings. 
-This form will be used to track whether students, teachers, or staff members are present, absent, or late to meetings. 
-It's designed to be completed by the individual who attended the meeting, or their representative. 
-This form ensures accurate and timely recording of attendance, which is essential for administrative, academic, and logistical purposes. 
-</thinking>
-
 # School Meeting Attendance Form - Help Guide
 ## Purpose
 The School Meeting Attendance Form is used to record the attendance status of individuals at school meetings, ensuring accurate and timely tracking for administrative, academic, and logistical purposes.

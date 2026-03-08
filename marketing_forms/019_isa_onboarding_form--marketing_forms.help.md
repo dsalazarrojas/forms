@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from employees who are going through the onboarding process. It's essential to complete this form accurately to ensure a smooth transition. To avoid duplication of efforts, please make sure to check if your information has been previously captured before filling out this form. This form is used to collect personal details, job specifics, and other relevant information for onboarding purposes. Before filling out this form, please ensure you have all the necessary details ready to provide accurate information. This form is not for new employee onboarding, but rather for existing employees who need to update their information.
-</thinking>
-
 # ISA Onboarding Form - Help Guide
 ## Purpose
 The ISA Onboarding Form is used to capture employee information and preferences for the onboarding process.

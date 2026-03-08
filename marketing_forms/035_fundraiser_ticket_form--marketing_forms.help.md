@@ -1,16 +1,3 @@
-<thinking>...
-The purpose of this form is to gather information about a fundraising event, including the event name, date, and location. This form is designed to collect essential details to facilitate the organization and promotion of the event. To ensure the form is filled out correctly, the following guidelines apply:
-
-* Ensure the event name clearly identifies the event being promoted or held.
-* Input the correct date for the event in the format mm/dd/yyyy or dd/mm/yyyy.
-* Choose the correct start and end time for the event.
-* Enter the exact address of the event location.
-* Provide the price of the event ticket, if applicable.
-
-This form is part of a larger system for managing fundraising events, and it's essential to fill it out accurately to avoid confusion and miscommunication.
-
-</thinking>
-
 # Fundraiser Ticket Form - Help Guide
 ## Purpose
 

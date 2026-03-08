@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect detailed information about SEO content for a website or article. The purpose of this form is to provide a structured format for users to input relevant details about their content, which will be used for search engine optimization (SEO) purposes. This form is not meant to be a substitute for other forms or processes, but rather a complement to ensure that essential information about the content is accurately and consistently captured.
-
-</thinking>
-
 # SEO Content Details Form - Help Guide
 ## Purpose
 The SEO Content Details Form is a tool used to gather relevant information about website content for search engine optimization (SEO) purposes. This form helps ensure that your content is properly indexed and displayed in search results.

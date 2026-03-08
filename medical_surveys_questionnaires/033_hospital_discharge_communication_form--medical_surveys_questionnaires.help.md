@@ -1,12 +1,3 @@
-<thinking>...
-This form is designed to facilitate smooth communication between hospitals and patients upon discharge. It ensures that all essential information is collected and recorded accurately, helping reduce misunderstandings and errors. 
-
-The form is intended to be a comprehensive guide for patients to provide their details and contact information, as well as their current medical condition and any ongoing medication. It is also a tool for healthcare providers to update vital signs and other relevant medical information.
-
-Please note that this form is not intended to replace medical expertise or professional judgment, and its completion should not be considered as a substitute for medical advice.
-
-</thinking>
-
 # Hospital Discharge Communication Form - Help Guide
 ## Purpose
 The Hospital Discharge Communication Form is designed to ensure accurate and clear communication between healthcare providers and patients when discharging a patient. It helps in capturing essential details, contact information, and medical status.

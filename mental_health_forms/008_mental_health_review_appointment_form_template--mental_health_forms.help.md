@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for reviewing and documenting mental health appointments. It is meant to gather information from the patient or individual being reviewed, such as their mental health issues, medical history, and any medication allergies or medical conditions. The form is also used to document the appointment details, including date, time, and location. The provider and reviewer are also able to input their information, including their name and license number.
-</thinking>
-
 # mental_health_review_appointment_form_template - Help Guide
 ## Purpose
 The mental health review appointment form template is designed to standardize the process of reviewing and documenting mental health appointments. This form is intended to be filled out by the patient or individual being reviewed, as well as the provider and reviewer, to ensure that all necessary information is collected and documented.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from applicants for the Healthcare Human Factors Fellowship. This form is designed to gather relevant details about the applicant's background, experience, education, and qualifications, which will be evaluated for consideration for the fellowship program.
-
-Before proceeding with this form, please ensure that you have a clear understanding of the fellowship program and the requirements specified in the application guidelines. This form is not intended to be used for other purposes, and any incomplete or duplicate submissions may be rejected. By proceeding with this form, you acknowledge that you understand the fellowship program requirements and have carefully reviewed the guidelines.
-
-</thinking>
-
 # Healthcare Human Factors Fellowship Application - Help Guide
 ## Purpose
 

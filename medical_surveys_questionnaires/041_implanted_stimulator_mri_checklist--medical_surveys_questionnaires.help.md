@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information from patients regarding their implanted stimulator devices, specifically to collect data for MRI scans. It is crucial that each section of the form is filled out accurately and completely for proper evaluation and treatment. Please ensure that you fill out the form only once for each relevant implanted stimulator device, and not duplicate entries. If a section does not apply to you, simply leave it blank.
-
-</thinking>
-
 # Implanted Stimulator MRI Checklist - Help Guide
 ## Purpose
 This guide is designed to walk you through the Implanted Stimulator MRI Checklist form. This form is used to gather information regarding your implanted stimulator devices, which will be used to help in the evaluation and treatment of your condition.

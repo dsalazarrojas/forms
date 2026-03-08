@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Weight Loss Program Participant Intake Form - Help Guide
 
 ## Purpose

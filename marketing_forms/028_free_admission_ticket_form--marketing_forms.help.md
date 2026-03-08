@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # free_admission_ticket_form - Help Guide
 ## Purpose
 The "free_admission_ticket_form" is a form used to collect information for event tickets. It's designed to be completed by attendees to register for free admission to events. The purpose of this form is to gather essential details about the event and the attendee, which will be used for event management and record-keeping.

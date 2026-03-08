@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crew List Submission Form - Help Guide
 ## Purpose
 This form is used to submit crew information for a particular crew. This form is designed to gather essential details about the crew, including their name, contact information, and any additional notes.

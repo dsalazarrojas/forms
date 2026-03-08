@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about patients' physiological and pathological assessments. The purpose of this form is to gather data on a patient's medical history, symptoms, medical records, and other relevant information. This form is intended for use by healthcare professionals to conduct thorough assessments and make informed decisions. Before proceeding, ensure that you are using this form for its intended purpose and that you have the necessary permissions and clearances to access this information.
-</thinking>
-
 # Physiology And Pathology Assessment - Help Guide
 ## Purpose
 This form is used to collect and document information about a patient's physiological and pathological assessments, which is crucial for healthcare professionals to make informed decisions about patient care.

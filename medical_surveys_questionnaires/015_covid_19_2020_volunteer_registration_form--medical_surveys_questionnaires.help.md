@@ -1,7 +1,3 @@
-<thinking>COVID 19 2020 Volunteer Registration Form - Help Guide
-## Purpose
-This form is for individuals who wish to register as volunteers for the COVID-19 2020 response efforts. By filling out this form, you will be providing valuable information that helps us assess your eligibility and suitability to participate in various volunteer opportunities.</thinking>
-
 # COVID 19 2020 Volunteer Registration Form - Help Guide
 ## How To Complete This Form
 

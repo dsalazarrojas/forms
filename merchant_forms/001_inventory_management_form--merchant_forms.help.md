@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to manage inventory for a store. Its purpose is to record and track the inventory of different products in the store, including their store location, product details, and sales history. The form is intended to be used by store employees to update the inventory in real-time, ensuring that the inventory data is up-to-date and accurate. The form should not be used to create new customers or manage customer data.
-
-</thinking>
-
 # Inventory Management Form - Help Guide
 ## Purpose
 This form is designed to help store employees manage the store's inventory. It allows them to update and record product details, including store location, product id, quantity, price, and sales history.

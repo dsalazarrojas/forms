@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for users to submit their entries for a contest or competition. It is intended for participants who are interested in estimating the results of a certain event or activity. The form is not intended for non-participants to provide their guesses, and it is not designed to be used for other purposes such as general feedback or contact requests. To ensure the form is used for its intended purpose, please ensure you are a participating in the contest or activity before submitting your entry.</thinking>
-
 # Estimation Contest Entry Form - Help Guide
 ## Purpose
 This form is designed for participants to submit their estimates or guesses for a contest or competition. It is a way for you to provide your predictions and participate in the event.

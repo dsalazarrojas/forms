@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to provide a comprehensive set of information for the discharge process after a transplant surgery. The form is used to capture essential details about the patient's post-surgery status, including follow-up appointments, medications, and discharge instructions. This form is intended for use by medical professionals who will be interacting with the patient after the surgery.
-
-This form is a critical part of the care continuum, as it helps ensure that the patient receives adequate care and attention post-surgery. The information captured on this form will be used to inform subsequent care and treatment decisions.
-
-Before starting, please ensure that you have the necessary permissions and access to complete this form.
-
-</thinking>
-
 # transplant_surgery_discharge_form - Help Guide
 ## Purpose
 The transplant_surgery_discharge_form is used to document the details of a patient's discharge after a transplant surgery. It captures essential information about the patient's post-surgery status, allowing healthcare professionals to provide effective care and treatment.

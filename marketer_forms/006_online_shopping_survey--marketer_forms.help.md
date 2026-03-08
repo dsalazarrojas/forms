@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Online Shopping Survey" form, we need to identify the form's purpose and ensure that it's a good fit for the given YAML fields. This guide will help users understand how to complete the form and what each field means, making it easier for them to provide accurate and relevant information. We will cover the form's purpose, how to complete it, and each field's meaning.
-
-The form appears to be designed to collect a wide range of information related to online shopping habits, experiences, and demographics. The fields include a mix of text, email, date, time, select_one, select_multiple, note, and number fields, indicating that it's designed to gather both personal details and specific data about the user's online shopping history.
-
-Before we proceed with creating the guide, let's review the provided YAML fields to ensure that we cover all the essential aspects of the form.
-
-</thinking>
-
 # Online Shopping Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about your online shopping habits, experiences, and demographics to help us understand your preferences and behaviors in the online shopping environment.

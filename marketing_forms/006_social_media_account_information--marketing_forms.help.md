@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect social media account information from users. The purpose of this form is to gather the following details: social media type, social media URL, username, and any other relevant account information. This form may be used in conjunction with other marketing efforts, such as social media advertising campaigns or social media management tools.
-</thinking>
-
 # Social Media Account Information - Help Guide
 ## Purpose
 The Social Media Account Information form is used to collect essential details about your social media presence, helping us to better understand your online identity.

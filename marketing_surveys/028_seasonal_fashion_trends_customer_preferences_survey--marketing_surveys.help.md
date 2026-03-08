@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect customer preferences and opinions on seasonal fashion trends, customer preferences, and customer service experience. The goal is to gather data on what customers like and dislike about fashion items, colors, and customer service, which will help the company improve its offerings and services.
-
-The form is divided into several sections, including:
-
-* Seasonal Fashion Trends: This section asks customers to select their preferred season for fashion trends.
-* Fashion Style: This section asks customers to select one or more fashion styles that appeal to them.
-* Preferred Fashion Item: This section asks customers to select their preferred type of fashion item.
-* Preferred Color: This section asks customers to select their preferred color.
-* Price Range: This section is optional, but allows customers to input a price range.
-* Fashion Interest: This section is a text input field where customers can describe their fashion interests.
-* Customer Preferences: This section is a multi-select question where customers can select their preferences for new arrivals, discounts, quality, style, price, service, and sustainability.
-* Customer Service Experience: This section asks customers to rate their experience with customer service.
-* Contact Info: This section is a single-select question where customers can select how they would like to be contacted.
-
-Each section is designed to be self-explanatory and easy to complete. The form is meant to be completed by customers to provide their opinions and preferences, which will be used to improve the company's fashion offerings and services.
-
-Please review the form to ensure that it accurately represents the company's goals and requirements.</thinking>
-
 # Seasonal Fashion Trends Customer Preferences Survey - Help Guide
 ## Purpose
 This form is designed to collect customer opinions and preferences on seasonal fashion trends, customer preferences, and customer service experience.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to help users identify their core emotional pain, which is a crucial step in maintaining good mental health. By answering the questions in this form, users will be able to understand their current emotional state and identify areas where they may need to focus their self-care efforts. This form is not a diagnostic tool and is not intended to replace professional help, but rather as a self-assessment tool to aid in personal growth and development.
-
-To ensure accurate results, please answer these questions based on your current emotional state. If you have any pre-existing mental health conditions, please answer these questions honestly, but do not let the results be used as a definitive diagnostic tool.
-</thinking>
-
 # Identify Your Core Emotional Pain - Help Guide
 ## Purpose
 This form is designed to help you understand your current emotional state and identify areas where you may need to focus your self-care efforts.

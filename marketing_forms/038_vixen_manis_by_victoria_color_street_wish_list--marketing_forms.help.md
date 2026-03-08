@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from customers about their wishes for Vixen Monis by Victoria, a street art project. The form will be used to gather details about the customers' wishes for a specific street location, such as whether they want the artwork to be installed on the street, their name, email, phone number, address, a specific item they wish to see featured on the street, and the desired date and time for the artwork to be installed. The form will not be used to collect sensitive or personal identifiable information, and all fields are optional. 
-
-The goal of this form is to collect feedback and wishes from the community and use it to inform the direction of the street art project. 
-
-Please note that the form is not intended to be used for commercial purposes or to collect any sensitive or personal identifiable information. All data collected through this form will be used solely for the purpose of the Vixen Monis by Victoria street art project.
-
-</thinking>
-
 # Vixen_Monis_by_victoria_color_street_wish_list - Help Guide
 ## Purpose
 This form collects information from customers about their wishes for Vixen Monis by Victoria, a street art project.

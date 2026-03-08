@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the assessment of pediatric croup, a condition that affects the larynx and trachea in children. The purpose of this form is to gather relevant medical history, physical examination findings, and other relevant data to aid in the diagnosis and treatment of pediatric croup. Please ensure that you fill out this form accurately and thoroughly to provide the necessary information for the healthcare provider.
-</thinking>
-
 # pediatric_croup_assessment_form - Help Guide
 ## Purpose
 The pediatric croup assessment form is a tool for collecting information for the diagnosis and treatment of pediatric croup. This form is designed to gather relevant data on patient medical history, respiratory findings, and other related factors.

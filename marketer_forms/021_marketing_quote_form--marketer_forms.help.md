@@ -1,11 +1,3 @@
-<thinking>
-
-This guide will cover the purpose and usage of the Marketing Quote Form. The form is designed to help gather information from clients for marketing services, including quotes for potential projects. The purpose of this form is to ensure that all necessary information is collected from clients before proceeding with any project.
-
-Please make sure to review the form carefully and fill out all required fields to ensure accurate and complete information for the quote.
-
-</thinking>
-
 # Marketing Quote Form - Help Guide
 ## Purpose
 The Marketing Quote Form is used to collect information from clients for marketing services, including quotes for potential projects.

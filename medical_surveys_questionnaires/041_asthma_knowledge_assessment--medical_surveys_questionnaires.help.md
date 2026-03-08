@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Asthma Knowledge Assessment - Help Guide
 ## Purpose
 This form aims to evaluate the participant's knowledge and understanding of asthma, a chronic respiratory disease characterized by inflammation and constriction of the airways. The assessment covers various aspects of asthma, including its definition, triggers, symptoms, management, and prevention strategies. The form is designed to gauge the participant's confidence in their knowledge and identify areas where they may need more information.

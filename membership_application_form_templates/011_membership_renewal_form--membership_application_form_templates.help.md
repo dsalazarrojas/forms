@@ -1,7 +1,3 @@
-<thinking>Before we get into the details of the form, let's first understand the purpose of the Membership Renewal Form. This form is designed to help members renew their membership status with the organization. It's an important step in maintaining an up-to-date member database and ensuring that members have access to exclusive benefits and opportunities. To ensure accuracy, please review each field carefully and fill in the information as accurately as possible.
-
-</thinking>
-
 # Membership Renewal Form - Help Guide
 ## Purpose
 The Membership Renewal Form is a tool for members to update their membership information, including their name, contact details, and membership status. This form helps the organization to maintain accurate records and ensure members have access to the latest benefits and opportunities.

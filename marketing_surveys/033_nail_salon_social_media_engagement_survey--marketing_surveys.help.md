@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Nail Salon Social Media Engagement Survey - Help Guide
 ==============================================
 

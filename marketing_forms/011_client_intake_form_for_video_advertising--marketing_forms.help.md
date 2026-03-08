@@ -1,7 +1,3 @@
-<thinking>...To create a comprehensive guide for the client intake form for video advertising, let's consider the following: This form is meant to gather essential information about the client's video advertising needs. The form is divided into several sections, each focused on a specific aspect of the video campaign. The purpose of this form is to ensure a thorough understanding of the client's objectives, target audience, and technical requirements, making it easier for the video production team to create an effective and engaging video.
-
-</thinking>
-
 # Client Intake Form For Video Advertising - Help Guide
 ## Purpose
 This form is designed to collect information about your video advertising campaign, including its objective, target audience, and technical requirements. Please complete this form to ensure that we have a clear understanding of your needs and can create a high-quality video that meets your expectations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback and data from potential users to test and validate a new concept. This helps us understand how appealing the concept is to different types of users, their willingness to pay for it, and any potential barriers to adoption. By analyzing this data, we can refine and improve the concept to make it more appealing and accessible to a wider audience. 
 
 To ensure the quality of the feedback, it's essential to complete this form carefully and truthfully. Please do not submit the same response multiple times. 

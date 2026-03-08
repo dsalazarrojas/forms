@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect medical history information from patients, specifically regarding their hearing and eye care. This form is intended for internal use within the medical facility, and is meant to provide a standardized way of collecting data from patients. It is crucial that this form is filled out correctly, as the information gathered will be used to inform treatment and care plans. Ensure that you are filling out this form for the correct purpose and not duplicating efforts. This form should not be used as a substitute for a thorough medical evaluation by a licensed healthcare professional.
-</thinking>
-
 # Hearing And Eyecare Assessment Form - Help Guide
 ## Purpose
 The Hearing and Eyecare Assessment Form is designed to collect medical history information from patients regarding their hearing and eye care.

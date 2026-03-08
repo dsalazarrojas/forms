@@ -1,14 +1,3 @@
-<thinking>
-To ensure that end users understand the purpose and relevance of the Anticoagulation Discussion Survey, let's clarify its context and potential implications.
-
-The Anticoagulation Discussion Survey is a medical survey designed to gauge the effectiveness of anticoagulation care and services provided to patients undergoing anticoagulation therapy. This survey is typically used to evaluate the quality of care and communication between healthcare providers and patients. By collecting data on various aspects of anticoagulation care, healthcare providers can identify areas for improvement and optimize their services to improve patient outcomes.
-
-The survey is usually completed by patients or their family members/caregivers, and it helps healthcare providers assess their performance in several key areas, including the quality of discussions, patient understanding, and satisfaction with care. The data collected will help healthcare providers refine their approach to anticoagulation care, ultimately benefiting patients who receive more effective and patient-centered services.
-
-To prevent duplication of efforts, we should ensure that this survey is only used as a one-time assessment tool and not as an ongoing monitoring mechanism. The survey questions are designed to be comprehensive and cover essential aspects of anticoagulation care, ensuring that patients' concerns and expectations are thoroughly addressed.
-
-</thinking>
-
 # Anticoagulation Discussion Survey - Help Guide
 ## Purpose
 The Anticoagulation Discussion Survey is a medical survey designed to evaluate the quality of anticoagulation care and communication between healthcare providers and patients. The survey aims to assess patient satisfaction, understanding, and concerns, ultimately helping healthcare providers refine their approach to anticoagulation care.

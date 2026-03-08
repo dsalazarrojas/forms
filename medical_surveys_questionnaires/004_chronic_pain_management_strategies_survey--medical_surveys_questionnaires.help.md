@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from individuals who experience chronic pain to understand their pain management strategies, experiences, and challenges. The purpose of this survey is to gather information that can help inform the development of effective pain management programs and services.
-</thinking>
-
 # Chronic Pain Management Strategies Survey - Help Guide
 ## Purpose
 This survey is designed to collect data from individuals who experience chronic pain to understand their pain management strategies, experiences, and challenges. The purpose of this survey is to gather information that can help inform the development of effective pain management programs and services.

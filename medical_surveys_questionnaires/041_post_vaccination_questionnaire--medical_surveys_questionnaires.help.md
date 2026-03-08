@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients after they have received a vaccine. The purpose of this form is to gather details about the vaccination process, including the type of vaccine administered, the date and time of vaccination, any common side effects experienced, and other relevant medical information. This form is intended for use by healthcare professionals to record and review patient data. Please ensure that you have permission from patients to collect and store this information.
-</thinking>
-
 # Post-Vaccination Questionnaire - Help Guide
 ## Purpose
 The Post-Vaccination Questionnaire is a form used to collect information from patients after they have received a vaccine. This information helps healthcare professionals to assess the effectiveness and safety of the vaccination process.

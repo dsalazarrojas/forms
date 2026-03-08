@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from summer camp attendees about their food allergies. The form will help us ensure that we can provide a safe environment for everyone at the camp. Before we can proceed, please note that this form has been reviewed by a medical professional to ensure it adheres to all necessary regulations and guidelines for data collection and protection. 
-
-Please review this form carefully to ensure you understand what is being asked of you. If you have any concerns or questions, please don't hesitate to reach out to us before submitting the form.
-
-This form should take approximately 10-15 minutes to complete. It includes several sections to gather information about your food allergies, medical conditions, and emergency contacts. Please fill in all required fields to ensure we have all necessary information. You can always come back later to complete the form if you need more time or want to double-check any information.
-
-Please note that this form is not a medical diagnosis tool. If you have any concerns about your food allergies or any other medical conditions, please consult a medical professional before attending the summer camp.
-</thinking>
-
 # Food Allergy Form - Help Guide
 ## Purpose
 This form is designed to gather information from summer camp attendees about their food allergies and medical conditions to ensure a safe environment for everyone at the camp.

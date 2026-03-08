@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tagline Contact Form Noise Theme - Help Guide
 ## Purpose
 This form is designed to collect contact information and messages from customers or visitors interested in the "Noise Theme" product or service. It is intended to be used for general inquiries, feedback, and support requests.

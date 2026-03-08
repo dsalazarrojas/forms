@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Product Marketing Effectiveness Survey - Help Guide
 
 ## Purpose

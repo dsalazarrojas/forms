@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and opinions on the online popularity of various products or services. The form is meant to be a comprehensive survey that gathers information on a range of topics, including email and phone contact information, dates and times, and select options. The purpose of this form is to gather user data for further analysis and improvement. The form has 25 fields in total, each with its own set of options or input types.
-
-Before filling out this form, please make sure you are familiar with the fields and their corresponding options. 
-
-The form has been designed to be user-friendly, with clear labels and instructions for each field.
-
-This guide will walk you through the form step by step, explaining each field in detail.
-
-</thinking>
-
 # Online Popularity Survey - Help Guide
 ## Purpose
 The Online Popularity Survey is a tool designed to collect user feedback and opinions on the online popularity of various products or services.

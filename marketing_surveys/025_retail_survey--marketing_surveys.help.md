@@ -1,12 +1,3 @@
-<thinking>
-This form, "Retail Survey," is used to gather feedback and information from customers about their visits to a retail store. It is meant to understand customer behavior and preferences, such as how often they visit the store, what they like and dislike about it, and how they contact the store. This form is likely used by the store management to improve customer experience and tailor their services according to customer needs. 
-
-Please note that the form may be used for internal purposes only, such as analytics or customer relationship management. 
-
-This document is intended to provide a clear guide on how to fill out this form correctly and understand the meaning and purpose behind each field. 
-
-</thinking>
-
 # Retail Survey - Help Guide
 ## Purpose
 The Retail Survey form is designed to collect data about customer visits to our store. It includes questions about the frequency of visits, customer preferences, and contact methods.

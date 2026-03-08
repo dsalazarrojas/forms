@@ -1,8 +1,3 @@
-<thinking>
-Are you sure this form is just a collection of unrelated questions about a client referral program? I'd like to suggest that we first check if this form is indeed meant to be used as a standalone survey or if it's part of a larger survey or workflow. Additionally, it would be helpful to understand how this form will be used within the organization (e.g., is it for marketing, sales, customer support, etc.)? 
-However, assuming this form is meant to be used as a client referral program awareness survey, I'll create a user-facing help guide based on the provided YAML fields.
-</thinking>
-
 # Client Referral Program Awareness Survey - Help Guide
 ## Purpose
 This survey aims to gauge the awareness and understanding of our client referral program among our current clients. Your feedback will help us improve and refine our program to better serve you and our community.

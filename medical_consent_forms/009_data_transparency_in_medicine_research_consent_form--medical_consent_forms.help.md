@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect consent from participants in medical research studies. This form gathers essential information about the participant, their contact details, and their consent for the research study. The participant is asked to select one or multiple options for their consent, and provide their signature. This form is designed to be completed by participants, and it is used to ensure transparency in medicine research. The form is also designed to be adaptable and reusable, with the possibility of customizing it for different research studies. The original version of this form was created using AI and is available under CC BY 4.0 license, allowing for modifications and distribution.
-</thinking>
-
 # Data Transparency In Medicine Research Consent Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from participants in medical research studies, ensuring transparency and obtaining necessary consent.

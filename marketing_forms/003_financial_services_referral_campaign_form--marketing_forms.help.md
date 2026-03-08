@@ -1,13 +1,3 @@
-<thinking>
-
-We are going to create a user-facing help guide for the "Financial Services Referral Campaign Form". This form is designed to help users refer someone to our financial services, and it will help us understand their needs and provide relevant information to assist them.
-
-The purpose of this form is to gather information about the person being referred and the business they represent. This will enable us to tailor our services and communication to meet their specific needs and provide them with valuable information.
-
-Before proceeding, please note that we do not require any sensitive or unnecessary information. You can fill out only the required fields and provide the most relevant details you have about the referral.
-
-</thinking>
-
 # Financial Services Referral Campaign Form - Help Guide
 ## Purpose
 This form is designed to gather information from the people you are referring to our financial services, so we can provide them with relevant information and services.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gauge the customer's personality and preferences, helping us better understand their behavior and tailor our marketing efforts accordingly. This form is not required, but completing it will provide valuable insights for us to improve our services.
-</thinking>
-
 # marketing_personality_quiz - Help Guide
 ## Purpose
 The marketing_personality_quiz form is designed to help us understand your preferences and behavior, enabling us to tailor our marketing efforts to better meet your needs. Please take a few minutes to complete this form to help us improve our services.

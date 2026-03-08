@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from real estate agencies for membership purposes. The form should not be used for other types of agencies or non-real estate related purposes.
-</thinking>
-
 # real_estate_agency_membership_application_form - Help Guide
 ## Purpose
 The real estate agency membership application form is used to collect information from real estate agencies for membership purposes. This form ensures that the agency meets the necessary requirements to become a member of our organization.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for special offers. The purpose of this form is to allow users to sign up for various special offers. The information collected will be used to contact the user and provide them with information related to the special offer they have chosen. The form is not intended to collect duplicate or redundant information, so please fill it out carefully and only select the relevant options that apply to you.
-
-</thinking>
-
 # Special Offers Sign Up Form - Help Guide
 ## Purpose
 The Special Offers Sign Up Form is designed to collect information from users to provide them with relevant special offers. Please fill out the form carefully, and only select the options that apply to you.

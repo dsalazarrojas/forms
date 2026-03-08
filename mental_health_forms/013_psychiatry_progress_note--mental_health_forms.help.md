@@ -1,15 +1,3 @@
-<thinking>
-To ensure that the "psychiatry_progress_note" form is filled out correctly and efficiently, please review the following guide.
-
-The purpose of this form is to collect information about a patient's psychiatric session, including details about the session itself, the patient's chief complaint or reason for visit, and their medical and mental status. This form is intended to be used by healthcare providers to document the progress and treatment of patients with psychiatric conditions.
-
-Before filling out this form, please note that it is designed to be completed by healthcare providers, not patients. If you are a patient, you should not fill out this form.
-
-Also, please ensure that you are not duplicating information that is already available in the patient's medical record. If you have access to the patient's existing medical record, please use that information to populate this form as much as possible.
-
-After reviewing the form, you are ready to start filling it out.
-</thinking>
-
 # psychiatry_progress_note - Help Guide
 ## Purpose
 The "psychiatry_progress_note" form is used to document the progress and treatment of patients with psychiatric conditions. It collects information about the patient's session details, chief complaint, diagnosis, medications, allergies, medical history, vital signs, mental status, and follow-up appointments.

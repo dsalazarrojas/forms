@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the CB Apex Information Sheet form, which is used to collect valuable feedback and testimonials from clients. This form is crucial for understanding client experiences and achievements with CB Apex's services, which can be used in marketing materials such as website, brochures, and social media. To avoid duplication, please ensure that you have not already submitted this form previously.
-
-</thinking>
-
 # CB Apex Information Sheet - Help Guide
 ## Purpose
 The CB Apex Information Sheet is a form designed to collect feedback, testimonials, and information about your experience with CB Apex. This form will help us understand your satisfaction level and areas where we can improve our services. Your feedback will be used to share your success story in our marketing materials.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for vaccine exemptions. The purpose of this form is to gather details about a person's medical exemption from vaccination. This information will be used to process and store the exemption records. Please ensure that you are completing this form for the correct purpose and not for any other reason.
-</thinking>
-
 # Vaccine Exemption Form - Help Guide
 ## Purpose
 The Vaccine Exemption Form is used to collect information for vaccine exemptions. You will need to provide details about the person exempting from vaccination and the exemption itself.

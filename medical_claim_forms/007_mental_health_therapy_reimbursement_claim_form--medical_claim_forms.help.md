@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for medical professionals or authorized personnel to submit claims for reimbursement for mental health therapy sessions. The form is used to provide detailed information about the patient, therapist, treatment, and session specifics, as well as claim totals and dates. This form is not intended for general users, only those who are authorized to access and complete it for official purposes. Please confirm that you are authorized to access this form before proceeding. 
-</thinking>
-
 # Mental Health Therapy Reimbursement Claim Form - Help Guide
 ## Purpose
 The Mental Health Therapy Reimbursement Claim Form is a document used to submit claims for reimbursement of mental health therapy sessions. It is essential to complete this form accurately and thoroughly to ensure that your claim is processed correctly.

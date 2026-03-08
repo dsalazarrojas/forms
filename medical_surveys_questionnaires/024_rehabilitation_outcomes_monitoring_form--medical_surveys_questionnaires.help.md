@@ -1,9 +1,3 @@
-<thinking>
-
-The Rehabilitation Outcomes Monitoring Form is designed to collect information about patient rehabilitation outcomes, medical information, medication adherence, and follow-up schedules. To ensure that the form is completed accurately and efficiently, please follow the guidelines below.
-
-</thinking>
-
 # Rehabilitation Outcomes Monitoring Form - Help Guide
 
 ## Purpose

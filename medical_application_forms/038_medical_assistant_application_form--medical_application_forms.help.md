@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the medical-assistant-application-form. This form is likely used by medical professionals or individuals seeking to apply for a position as a medical assistant, which could be a support role for medical professionals in various settings such as hospitals, clinics, or private practices. The form may be submitted to hiring managers or HR personnel who review applications to determine suitability for the position. 
-
-Before proceeding, please ensure this form is relevant to your context and not a duplicate of another form, such as an employment application form for another position.
-
-</thinking>
-
 # medical-assistant-application-form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants interested in working as a medical assistant. It will be reviewed by hiring managers or HR personnel to assess the applicant's qualifications and suitability for the position.

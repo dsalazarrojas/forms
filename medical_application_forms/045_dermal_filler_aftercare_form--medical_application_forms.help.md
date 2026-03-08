@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Dermal Filler Aftercare Form", we need to understand the purpose and context of this form. This form is likely used for patients who have received dermal filler injections, such as botulinum toxin or hyaluronic acid fillers, for aesthetic or medical purposes. The form aims to collect information about the patient's dermal filler aftercare, including the injection date, site, and any adverse effects experienced after the treatment. The form might be used by healthcare professionals to track and record this information for future reference and to monitor the patient's recovery.
-
-Before we begin, let's ensure that this form is not a duplication or redundancy. We should verify that the form is not part of a larger, more comprehensive form or application, and that it's not possible to extract this information from other sources. If it's not, then we can proceed with creating the user-facing help guide.
-
-</thinking>
-
 # Dermal Filler Aftercare Form - Help Guide
 
 ## Purpose

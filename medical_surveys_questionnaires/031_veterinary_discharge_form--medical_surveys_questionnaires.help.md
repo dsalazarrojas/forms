@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Discharge Form - Help Guide
 ## Purpose
 The Veterinary Discharge Form is used to document the details of a pet's discharge from a veterinary facility. This form ensures that all necessary information is recorded for the pet's owner and for the veterinary staff's reference.

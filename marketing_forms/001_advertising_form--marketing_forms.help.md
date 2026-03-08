@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from potential advertisers for marketing campaigns. The form is intended for use by marketing teams to gather relevant details from potential clients. The form is a crucial tool for understanding the goals, target audience, and campaign strategies of potential advertisers. 
-To avoid duplication, ensure that you have not completed this form previously. If you have already submitted an advertising request, please do not resubmit.
-</thinking>
-
 # Advertising Form - Help Guide
 ## Purpose
 This form is used for collecting information from potential advertisers for marketing campaigns. It helps our team understand your goals, target audience, and campaign strategies.

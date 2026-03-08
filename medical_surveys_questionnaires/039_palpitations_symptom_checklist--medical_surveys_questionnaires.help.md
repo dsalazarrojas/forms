@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze its structure and content. The form appears to be a symptom checklist for palpitations, a type of irregular heart rhythm or feeling of heart racing or pounding in the chest. The form asks for information about the frequency, duration, timing, and triggers of palpitations, as well as the severity of the symptoms. This suggests that the form is designed to gather information from patients or individuals experiencing palpitations to aid in medical diagnosis or assessment.
-
-This form is likely used in a medical context, possibly in a clinic or hospital setting, to gather detailed information from patients experiencing palpitations. The presence of fields such as "Did you experience any palpitations over the past 2 weeks?" and "How many palpitations did you experience over the past 2 weeks?" suggests that the form is meant to track frequency and duration of symptoms. The fields related to triggers, such as "Did you experience any palpitations when under stress or anxiety?" and "Did you experience any palpitations when eating?", imply that the form is trying to identify potential causes or contributing factors of the symptoms.
-
-The required fields, such as "Did you experience any palpitations over the past 2 weeks?" and "Did you experience any palpitations when under stress or anxiety?", indicate that these questions are crucial in gathering reliable data for medical assessment.
-
-</thinking>
-
 # Palpitations Symptom Checklist - Help Guide
 ## Purpose
 This form is designed to gather information from patients or individuals experiencing palpitations, a type of irregular heart rhythm or feeling of heart racing or pounding in the chest. The purpose of this form is to aid in medical diagnosis or assessment by tracking frequency, duration, timing, and triggers of palpitations.

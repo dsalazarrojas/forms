@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to track and document the outcome of a marketing project. The project outcome report provides a summary of the project's success or failure, including its marketing outcome, performance insights, client feedback, project status, and outcome date. The report is essential for project managers to evaluate the project's performance and provide feedback to the client. 
-
-The form is likely to be used by project managers to report on multiple projects at once. It is also possible that it will be used by other stakeholders such as marketing managers or business analysts to track and analyze project outcomes.
-
-Before filling out this form, please ensure that it is for a valid marketing project that has a corresponding project ID. This form should not be used to report on non-existent or duplicate projects.
-
-</thinking>
-
 # Marketing Client Project Outcome Report - Help Guide
 ## Purpose
 This form is used to report on the outcome of a marketing project, providing a summary of its success or failure, and its performance and client feedback.

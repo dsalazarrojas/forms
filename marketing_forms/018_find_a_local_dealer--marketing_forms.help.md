@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Find A Local Dealer - Help Guide
 
 ## Purpose

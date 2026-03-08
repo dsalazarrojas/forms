@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a screening tool for assessing symptoms of Pre-Menstrual Dysphoric Disorder (PMDD), a condition characterized by symptoms of depression, anxiety, and irritability in response to the menstrual cycle. The form is meant to be completed by individuals who are concerned about their symptoms or are seeking guidance from a medical professional. 
-
-This form does not collect sensitive information, and the purpose is not to diagnose or treat any medical condition. It is intended to be a starting point for further evaluation and consultation with a healthcare provider. Please note that this form is not a substitute for professional medical advice.
-
-Please review the following form to ensure it is relevant to your needs and not a duplicate. If you have any questions or concerns about the form, its purpose, or its content, feel free to reach out to form@gic.mx.
-</thinking>
-
 # PMDD Screening Survey - Help Guide
 ## Purpose
 The PMDD Screening Survey is a questionnaire designed to assess symptoms associated with Pre-Menstrual Dysphoric Disorder (PMDD). It is intended to be completed by individuals who are concerned about their symptoms or are seeking guidance from a medical professional.

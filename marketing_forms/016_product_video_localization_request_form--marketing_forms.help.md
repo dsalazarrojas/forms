@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand that this form is for requesting product video localization, which is the process of adapting a product's video content to suit a specific language or cultural target market. This form should only be filled out when a product video needs to be translated or adapted, and it's best to fill it out once per video. Please note that this form will only be used internally to process and manage the requests. It's not a public form and should not be shared or filled out by non-stakeholders. 
-</thinking>
-
 # Product Video Localization Request Form - Help Guide
 ## Purpose
 The Product Video Localization Request Form is used to request product video localization for adaptation to a specific language or target market. This form should be filled out once for each product video that needs to be translated or adapted.

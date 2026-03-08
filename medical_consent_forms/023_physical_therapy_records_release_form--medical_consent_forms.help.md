@@ -1,8 +1,3 @@
-<thinking>
-**This form is designed to capture medical records release information from patients, ensuring that healthcare providers have a clear understanding of the patient's medical history and authorization details. This form is typically used in physical therapy and other healthcare settings to manage patient data access and sharing. Before filling out this form, please ensure that you have not already completed it for this purpose.**
-
-</thinking>
-
 # physical_therapy_records_release_form - Help Guide
 ## Purpose
 

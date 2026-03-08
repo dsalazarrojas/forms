@@ -1,10 +1,3 @@
-<thinking>
-  The goal of this form is to collect information related to COVID-19 screening and waiver, which will help healthcare providers make informed decisions about patient care. This form will guide users through a series of questions that cover patient information, medical history, vaccination status, and other relevant details.
-  This form does not need to be completed by patients with a known medical history. However, if a patient has been treated with COVID-19, they are required to fill out the form. 
-  Please note that the following questions are optional and do not affect the overall completion of the form. They are included for completeness, but will be ignored if left blank.
-  Before starting the form, please ensure that you have read and understand the questions below.
-</thinking>
-
 # Covid 19 Screening Survey And Waiver - Help Guide
 ## Purpose
 The Covid 19 Screening Survey And Waiver form is designed to collect information related to COVID-19 screening and waiver, which will help healthcare providers make informed decisions about patient care.

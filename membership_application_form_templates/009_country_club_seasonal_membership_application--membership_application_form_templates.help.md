@@ -1,5 +1,3 @@
-<thinking>This form, "Country Club Seasonal Membership Application," is a comprehensive form designed for individuals or entities interested in applying for seasonal membership at a country club. The form is meant to collect essential information from applicants, ensuring that they are aware of and agree to the necessary terms and conditions. This guide will help applicants fill out the form accurately and efficiently.</thinking>
-
 # Country Club Seasonal Membership Application - Help Guide
 ## Purpose
 The Country Club Seasonal Membership Application is a form used to collect information from applicants for seasonal membership at a country club. To complete this form, please follow the steps below.

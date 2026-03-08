@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register their membership information for a PayPal-related membership program. It gathers various fields such as name, email, phone number, address, occupational affiliations, special skills, and professional or student association. These details can be completed at the user's discretion and are optional unless marked as "required" in the form. It is crucial that users understand the purpose and usage of each field to ensure accurate and complete registration. 
-</thinking>
-
 # Membership Registration Form PayPal - Help Guide
 
 ## Purpose

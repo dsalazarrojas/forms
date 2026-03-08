@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect details about marketing tasks, specifically their status, priority, and description. The form is not affiliated with any form creation platform, but rather an AI-generated form based on public survey data. It is intended to be used as is, or modified to suit specific needs.
-</thinking>
-
 # marketing_task_details_form - Help Guide
 ## Purpose
 The marketing_task_details_form is used to collect information about marketing tasks, helping to track and manage their progress.

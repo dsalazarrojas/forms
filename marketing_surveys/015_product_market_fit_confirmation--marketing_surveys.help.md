@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to help the team confirm the product market fit of a product or service. The form is divided into various pages, each with a specific type of question or field to gather information about the market and customer needs. The form is meant to be filled out by a team member or product owner to ensure that the product meets the market requirements and customer needs.
-
-Before filling out this form, please review the following pages to ensure that you have all the necessary information.
-
-</thinking>
-
 # Product Market Fit Confirmation - Help Guide
 ## Purpose
 This form is used to confirm that the product or service meets the market requirements and customer needs. It helps the team ensure that the product is aligned with the market fit and customer requirements.

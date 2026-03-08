@@ -1,16 +1,3 @@
-<thinking>
-Internal note: This form is designed to collect information about stimulants knowledge quizzes. The purpose of this form is to gather data about the participants' responses to stimulants-related questions. The form consists of 23 questions, each with a unique label and type. The questions are likely designed to assess the participant's knowledge about stimulants.
-
-To complete this form, users will need to answer all questions. The form is likely meant for participants who are familiar with stimulants and have some level of expertise in the subject matter.
-
-Each question is a numerical input field, indicating that users will need to enter a number as their response.
-
-Checking the form schema, I do not see any hint or description for the questions, which suggests that the questions are meant to be self-explanatory. I assume that the questions are related to assessing the participant's knowledge about stimulants.
-
-Before completing this form, users should ensure they have a clear understanding of the stimulants-related topics being covered in the questions. 
-
-</thinking>
-
 # stimulants_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to collect information about stimulants knowledge quizzes to assess the participant's knowledge about stimulants-related topics.

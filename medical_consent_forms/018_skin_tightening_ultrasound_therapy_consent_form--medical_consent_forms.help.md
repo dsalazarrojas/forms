@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by healthcare professionals to obtain informed consent from clients before undergoing skin tightening ultrasound therapy. The form should be completed by the client, and the treatment provider should sign off on it to confirm that the client has given their consent. The form is likely to be used in a clinical setting, such as a dermatology clinic or a medical spa.
-</thinking>
-
 # Skin Tightening Ultrasound Therapy Consent Form - Help Guide
 ## Purpose
 The Skin Tightening Ultrasound Therapy Consent Form is a document that needs to be completed by clients before undergoing skin tightening ultrasound therapy. It is a legal requirement that ensures the client understands the treatment and its risks, benefits, and alternatives.

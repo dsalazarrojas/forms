@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a company's retail digital marketing strategy, customer base, and performance metrics. It is designed for internal use within an organization to conduct a thorough audit of their digital marketing efforts. This form should not be used for external purposes.
-</thinking>
-
 # Retail Digital Marketing Audit Form - Help Guide
 ## Purpose
 The Retail Digital Marketing Audit Form is designed to help us evaluate and improve our digital marketing strategy, customer base, and performance metrics. This form collects information about your marketing strategy, customer base, and performance metrics to help us identify areas for improvement and provide recommendations for growth.

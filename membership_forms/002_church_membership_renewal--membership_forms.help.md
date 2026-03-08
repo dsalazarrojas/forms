@@ -1,9 +1,3 @@
-<thinking>
-
-This is a step-by-step guide to completing the Church Membership Renewal form. The form is designed to help members of the church renew their membership and recommit to the church's mission. The purpose of this form is to gather information about the member's spiritual journey, their areas of service, and any changes in their contact information. This information will help the church understand their members' needs and provide targeted support and resources.
-
-</thinking>
-
 # Church Membership Renewal - Help Guide
 ## Purpose
 This form is used to renew your membership and recommit to the mission of the church. Please complete it to help us better understand your spiritual journey and needs.

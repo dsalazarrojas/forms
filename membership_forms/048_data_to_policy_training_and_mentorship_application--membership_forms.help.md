@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended for users who are filling out the "Data to Policy Training and Mentorship Application" form. This form is designed to collect information about the user's interest in participating in the data science policy training and mentorship program. The goal of this form is to gather relevant details about the user's preferences, availability, and expectations from the program. 
-
-To avoid confusion and ensure accurate completion of the form, we will review the form fields and provide clear explanations for each field.
-
-</thinking>
-
 # data_to_policy_training_and_mentorship_application - Help Guide
 ## Purpose
 The "Data to Policy Training and Mentorship Application" form is designed to collect information from users who are interested in participating in the data science policy training and mentorship program. This form helps us understand your preferences, availability, and expectations from the program.

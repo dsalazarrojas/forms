@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Herbalife Questionnaire - Help Guide
 
 ## Purpose

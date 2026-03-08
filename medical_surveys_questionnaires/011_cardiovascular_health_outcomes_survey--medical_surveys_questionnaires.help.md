@@ -1,5 +1,3 @@
-<thinking>As a designer and technical writer, my goal is to create user-facing documentation that helps end-users understand the form's purpose, how to complete it, and each field's meaning. This guide is for the "Cardiovascular Health Outcomes Survey" form, which is designed to collect data on participants' cardiovascular health outcomes. The form aims to gather information on participant demographics, health history, lifestyle habits, and symptoms experienced over the past 30 days. This guide will help users understand the form's purpose and each field's significance in a clear and concise manner.</thinking>
-
 # Cardiovascular Health Outcomes Survey - Help Guide
 ## Purpose
 The Cardiovascular Health Outcomes Survey is a form designed to collect data on participants' cardiovascular health outcomes. The survey aims to gather information on participant demographics, health history, lifestyle habits, and symptoms experienced over the past 30 days.

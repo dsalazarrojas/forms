@@ -1,21 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll need to understand the form's purpose and structure. Based on the provided YAML, the "Candy Survey" form is designed to gather information about users' candy preferences and habits.
-
-The purpose of this form is to collect data about respondents' candy consumption frequency, favorite types of candies, preferred flavors, and purchasing habits. The form asks about various aspects of candy consumption, such as how often they eat candy, their favorite types of candy, and their willingness to try new flavors. It also inquires about their purchasing habits, such as where they buy candy and how much they spend on it. Additionally, the form asks about their interest in sugar-free and organic options, dietary restrictions, and brand loyalty.
-
-The form consists of 26 questions, which can be grouped into several categories:
-1. Demographics (respondent name, email, and age)
-2. Candy consumption habits (consumption frequency, favorite type of candy, and favorite chocolate type)
-3. Purchasing habits (purchase location, monthly spending, and occasion for purchase)
-4. Preferences (favorite flavors, least favorite flavors, and preferred brands)
-5. Dietary restrictions and interests (sugar-free, organic, and dietary restrictions)
-6. Packaging and sharing habits (importance of packaging and sharing behavior)
-7. Seasonal preferences (favorite seasonal candy)
-8. New flavors and kids (interest in trying new flavors and buying candy for children)
-9. Brand loyalty and memories (brand loyalty and favorite candy-related memory)
-
-To avoid duplicate or contradictory questions, I'll make sure to address each field's purpose and explanation in the user-facing help guide.</thinking>
-
 # Candy Survey - Help Guide
 ## Purpose
 The "Candy Survey" form is designed to gather information about your candy preferences and habits. This survey aims to collect data about your consumption frequency, favorite types of candies, purchasing habits, and other related aspects. Your responses will help us better understand your needs and improve our products.

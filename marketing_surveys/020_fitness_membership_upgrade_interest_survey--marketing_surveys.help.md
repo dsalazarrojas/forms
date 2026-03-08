@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gauge the interest of current fitness membership holders in upgrading their membership, allowing us to better understand what motivates them to upgrade and what classes they are interested in. This information will help us tailor our services to meet their needs and preferences. Before filling out this form, please ensure you have not already responded to this survey, as your responses will not be duplicated.
-</thinking>
-
 # Fitness Membership Upgrade Interest Survey - Help Guide
 ## Purpose
 This guide will walk you through the Fitness Membership Upgrade Interest Survey, a tool designed to help us understand your interests and preferences for upgrading your membership.

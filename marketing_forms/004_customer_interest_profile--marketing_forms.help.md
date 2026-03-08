@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect customer information, categorize their interests, and provide optional fields for notes and contact details. This form is likely used for marketing purposes, such as lead generation or customer segmentation. The purpose of this form may vary depending on the specific business use case.
-</thinking>
-
 # Customer Interest Profile - Help Guide
 ## Purpose
 This form is used to collect customer information and categorize their interests for marketing purposes.

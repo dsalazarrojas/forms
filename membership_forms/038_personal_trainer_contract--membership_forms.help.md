@@ -1,16 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "personal_trainer_contract" form, which is used to collect information for a personal trainer contract. The form appears to be used for collecting demographic information, medical information, and emergency contact details for a personal trainer. However, some fields are labeled with unclear names, and there is no clear indication of the purpose or context of the form. Let's assume it's for a fitness or wellness center, and the form is used to onboard a personal trainer. 
-
-We will need to clarify the fields and create clear explanations for each section. We may need to remove redundant fields and focus on the required information. 
-
-For example, "contract_signed" seems to be a redundant field as it's likely a checkbox or a dropdown with "yes/no" options. "emergency_phone" and "emergency_address" might be combined into a single field "emergency_contact_info". "emergency_contact_relationship" and "relationship" might be merged into a single field "emergency_contact_relationship". "health_insurance" and "emergency_medical_insurance" might be combined into "medical_insurance". 
-
-This form seems to have some overlapping fields. We will need to review it carefully and create a clear and concise help guide. 
-
-We will focus on creating a clear and concise guide for the end-users to understand the purpose and requirements of the form.
-
-</thinking>
-
 # personal_trainer_contract - Help Guide
 ## Purpose
 The "personal_trainer_contract" form is used to onboard a personal trainer. This form collects demographic, medical, and emergency contact information for the trainer. Please fill in all required fields accurately and thoroughly.

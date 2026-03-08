@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the influence of social media on a hair salon's marketing efforts. The purpose of this form is to collect data on how hair salons use social media to attract and retain clients, as well as how they measure the effectiveness of their social media marketing efforts.
-
-Internal reasoning: This form was generated based on the title "hair_salon_social_media_influence_survey" and the category "marketing_surveys". It is not affiliated with, endorsed by, or derived from any form platform. 
-
-</thinking>
-
 # hair_salon_social_media_influence_survey - Help Guide
 ## Purpose
 The purpose of this form is to help hair salons understand and measure the influence of social media on their marketing efforts.

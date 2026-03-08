@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on patients' health status, medical conditions, allergies, and other relevant details. It is not intended for diagnostic purposes but rather for general health assessment and patient engagement. Please ensure that you are completing this form accurately and truthfully. Before proceeding, review the form to ensure that you have not previously completed it to avoid duplication of effort.
-</thinking>
-
 # Health Questionnaire - Help Guide
 
 ## Purpose

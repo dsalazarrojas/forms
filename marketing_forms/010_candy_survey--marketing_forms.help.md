@@ -1,8 +1,3 @@
-<thinking>
-To be honest, I'm not sure why I'm generating a form help guide for a Candy Survey, but here's a neutral and helpful response based on the provided YAML. I'll follow the specified Markdown structure and try to explain the form's purpose and fields in a clear and concise manner.
-
-</thinking>
-
 # Candy Survey - Help Guide
 ## Purpose
 The Candy Survey is designed to gather information about your preferences, consumption habits, and purchasing behavior related to candy. This form aims to collect data on your demographics, candy preferences, consumption habits, and purchasing habits to better understand the candy market.

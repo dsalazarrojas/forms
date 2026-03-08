@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect customer segmentation data from customers for marketing purposes. The form is divided into several sections that gather demographic information, customer preferences, and other relevant details. The purpose of this form is to help us better understand our customers' needs and preferences, which will enable us to provide more personalized experiences and services.
-
-Before filling out the form, please make sure you have not already provided this information to us. This will help us avoid duplicate data collection and ensure that your information is up-to-date.
-
-To complete the form, please select the relevant options for each question and provide any additional comments or notes as needed.
-
-Please note that some fields are mandatory and some are optional, so be sure to fill out all required fields before submitting the form.
-
-</thinking>
-
 # Customer Segmentation Data Collection Form - Help Guide
 ## Purpose
 The Customer Segmentation Data Collection Form is designed to gather demographic information, customer preferences, and other relevant details about our customers. This data will help us provide more personalized experiences and services.

@@ -1,9 +1,3 @@
-<thinking>...to create a comprehensive help guide for the Content Calendar Tool Requisition Form...
-
-The form is used to request the implementation of a new content calendar tool. It captures essential information from the requester, including their contact details, the type of tool they are requesting, its purpose, and the timeline for implementation. This form helps the IT department to evaluate and process the request efficiently.
-
-</thinking>
-
 # Content Calendar Tool Requisition Form - Help Guide
 ## Purpose
 This form is used to request the implementation of a new content calendar tool. It helps the IT department to capture essential information about the tool and its requirements, making it easier to evaluate and process the request.

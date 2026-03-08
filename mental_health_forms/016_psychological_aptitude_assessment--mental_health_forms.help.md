@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to be used for the administration and assessment of Psychological Aptitude, which is a process to evaluate the mental capacities and abilities of individuals or groups. This assessment can be conducted for various purposes such as coaching, education, or hiring.
-
-The following assumptions will be made about the target population: the target population will not have been previously administered the Psychological Aptitude Assessment.
-
-The form will not be duplicated in the assessment process.
-
-</thinking>
-
 # Psychological Aptitude Assessment - Help Guide
 ## Purpose
 

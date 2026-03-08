@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Shopping Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your online shopping habits and preferences. Your input will help us understand your shopping behavior and provide valuable insights to improve our online services. Please note that this form is intended for customers or users who have online shopping experiences with us, and your participation is completely voluntary.

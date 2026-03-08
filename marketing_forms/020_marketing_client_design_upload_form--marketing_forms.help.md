@@ -1,8 +1,3 @@
-<thinking>
-This form is for marketing clients to provide design upload information. The goal is to collect project details, client information, and uploaded designs from marketing clients. This form is not affiliated with or endorsed by any form platform, and its purpose is to collect data for marketing-related projects. It's essential to fill out the form correctly to ensure that the provided information is accurate and complete.
-
-</thinking>
-
 # Marketing Client Design Upload Form - Help Guide
 ## Purpose
 This form is intended for marketing clients to submit project details, client information, and uploaded designs for review and processing.

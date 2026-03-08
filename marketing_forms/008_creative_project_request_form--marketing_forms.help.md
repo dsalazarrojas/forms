@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to initiate a creative project within the organization. The form will help to gather details about the project, including contact information, project manager's details, project type, description, budget, and deadline. The form will be used to understand the project requirements and to facilitate a smooth project management process. Please ensure that you fill in the form accurately and completely, so that we can better understand your project needs. Please do not submit duplicate form entries, as this will cause confusion and delay the project process.</thinking>
-
 # Creative Project Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about creative projects, including contact details, project manager information, project type, description, budget, and deadline. It will be used to initiate a new project and to facilitate communication between the project team and the client.
