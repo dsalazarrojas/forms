@@ -1,0 +1,88 @@
+<thinking>
+The purpose of this form is to create a lesson plan for educational purposes. It is used to outline the details of a lesson, including the title, date, subject, teacher, topic, objectives, materials, procedures, assessment, attachments, comments, contact information, and other relevant details.
+To complete this form, the user will need to input relevant information for each field, following the instructions and constraints of each field type. The form is designed to be flexible and adaptable to different types of lessons and classes.
+</thinking>
+
+# Lesson Plan Form - Help Guide
+## Purpose
+The Lesson Plan Form is a tool used to create a detailed plan for a lesson, including the title, date, subject, teacher, topic, objectives, materials, procedures, assessment, attachments, comments, contact information, and other relevant details.
+
+## How To Complete This Form
+- Start by filling in the **Form Title** field, which is used to describe the title of the lesson.
+- Select the **Date** for the lesson, if applicable.
+- Enter the **Subject**, which should be a brief description of the topic or subject matter being covered.
+- Enter the **Teacher**, which is the name or initials of the teacher leading the lesson.
+- Provide a brief description of the **Topic**, which is the main subject or theme of the lesson.
+- Enter the **Objectives**, which should be a clear statement of what the students will be able to do or understand after the lesson.
+- Describe the **Materials**, which are any resources or materials that will be used during the lesson.
+- Outline the **Procedures**, which should be a step-by-step guide on how to conduct the lesson.
+- Enter the **Assessment**, which is how the lesson will be evaluated or assessed.
+- Upload any relevant **Attachments**, such as images, videos, or documents.
+- Add any additional **Comments** about the lesson.
+- Enter the teacher's contact information, including **Email** and **Phone**.
+- Take note of any **Notes**, which can be additional information or reminders about the lesson.
+- Select one or multiple **Topics** from the list, as relevant to the lesson.
+- Choose one or multiple **Procedures** from the list, as relevant to the lesson.
+- Select one or multiple **Lessons** from the list, as relevant to the lesson.
+
+## Field-by-Field Explanation
+- **Form Title**: A brief description of the lesson title. (Text, Optional)
+  - A clear and concise title of the lesson, which should be a single line of text.
+- **Date**: The date of the lesson, if applicable. (Date, Optional)
+  - Select the date on which the lesson is scheduled to take place.
+- **Subject**: A brief description of the topic or subject matter. (Text, Optional)
+  - A short paragraph describing the main subject or theme of the lesson.
+- **Teacher**: The name or initials of the teacher leading the lesson. (Text, Optional)
+  - Enter the name or initials of the teacher who will be leading the lesson.
+- **Topic**: A brief description of the main subject or theme. (Text, Optional)
+  - A short paragraph describing the main subject or theme of the lesson.
+- **Objectives**: A clear statement of what the students will be able to do or understand. (Text, Optional)
+  - A brief description of what the students will be able to do or understand after the lesson.
+- **Materials**: A list of resources or materials used during the lesson. (Text, Optional)
+  - A list of any resources or materials that will be used during the lesson.
+- **Procedures**: A step-by-step guide on how to conduct the lesson. (Text, Optional)
+  - A brief description of the steps to be taken during the lesson.
+- **Assessment**: How the lesson will be evaluated or assessed. (Text, Optional)
+  - A description of how the lesson will be evaluated or assessed.
+- **Attachments**: Any relevant images, videos, or documents. (Text, Optional)
+  - Upload any relevant images, videos, or documents that support the lesson.
+- **Comments**: Additional information or reminders about the lesson. (Text, Optional)
+  - Add any additional comments or reminders about the lesson.
+- **Email**: The teacher's email address. (Email, Optional)
+  - Enter the teacher's email address for contact purposes.
+- **Phone**: The teacher's phone number. (Text, Optional)
+  - Enter the teacher's phone number for contact purposes.
+- **Notes**: Additional information or reminders. (Text, Optional)
+  - Enter any additional information or reminders about the lesson.
+- **Topics**: Select one or multiple topics from the list. (Select One/Select Multiple, Optional)
+  - Choose one or multiple topics that are relevant to the lesson.
+- **Procedures**: Select one or multiple procedures from the list. (Select One/Select Multiple, Optional)
+  - Choose one or multiple procedures that are relevant to the lesson.
+- **Lessons**: Select one or multiple lessons from the list. (Select One/Select Multiple, Optional)
+  - Choose one or multiple lessons that are relevant to the lesson.
+- **Date/Time**: The date and time of the lesson, if applicable. (Time, Optional)
+  - Select the date and time of the lesson, if applicable.
+- **Date Range**: A range of dates, if applicable. (Date, Optional)
+  - Select a range of dates, if applicable.
+- **Decimal**: A decimal value, if applicable. (Number, Optional)
+  - Enter a decimal value, if applicable.
+- **Integer**: An integer value, if applicable. (Number, Optional)
+  - Enter an integer value, if applicable.
+- **Date Integer**: A date as an integer value, if applicable. (Date, Optional)
+  - Enter a date as an integer value, if applicable.
+- **Lesson**: Select one or multiple lessons from the list. (Select One/Select Multiple, Optional)
+  - Choose one or multiple lessons that are relevant to the lesson.
+- **Yes/No/Other**: Select one or multiple options from the list. (Select One/Select Multiple, Optional)
+  - Choose one or multiple options from the list, as relevant to the lesson.
+- **Select One Topic**: Select one topic from the list. (Select One, Optional)
+  - Choose one topic that is relevant to the lesson.
+- **Select Multiple Topics**: Select multiple topics from the list. (Select Multiple, Optional)
+  - Choose multiple topics that are relevant to the lesson.
+- **Select One Procedure**: Select one procedure from the list. (Select One, Optional)
+  - Choose one procedure that is relevant to the lesson.
+- **Select Multiple Procedures**: Select multiple procedures from the list. (Select Multiple, Optional)
+  - Choose multiple procedures that are relevant to the lesson.
+- **Select One Lesson**: Select one lesson from the list. (Select One, Optional)
+  - Choose one lesson that is relevant to the lesson.
+- **Select Multiple Lessons**: Select multiple lessons from the list. (Select Multiple, Optional)
+  - Choose multiple lessons that are relevant to the lesson.

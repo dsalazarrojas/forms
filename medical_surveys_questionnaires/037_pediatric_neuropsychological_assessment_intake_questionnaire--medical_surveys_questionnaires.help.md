@@ -1,0 +1,44 @@
+<thinking> 
+This guide is intended for users who will be filling out the Pediatric Neuropsychological Assessment Intake Questionnaire form. Please ensure this guide is relevant to your needs and not a duplicate of existing documentation. This form is designed to gather information for the assessment of children's cognitive and emotional development. If you're reading this guide, you're likely filling out the form for a specific child or client. 
+
+</thinking>
+
+# Pediatric Neuropsychological Assessment Intake Questionnaire - Help Guide
+## Purpose
+The Pediatric Neuropsychological Assessment Intake Questionnaire is designed to collect information about a child's cognitive, emotional, and behavioral development. This form is typically completed by a child's caregivers or parents to provide detailed insights into the child's condition, aiding in the identification of potential neuropsychological issues.
+
+## How To Complete This Form
+To complete this form, please follow these steps:
+1. Carefully read each question and answer them as accurately and honestly as possible.
+2. Please note that some questions may be optional, and you're only required to answer those that are marked as such.
+3. If you're unsure about any question or option, please consult with the person or organization responsible for your child's care.
+
+## Field-by-Field Explanation
+
+* **Pediatric Neuropsychological Assessment Intake Questionnaire 1** (id: 1, name: pediatric_neuropsychological_assessment_intake_questionnaire_1, label: pediatric_neuropsychological_assessment_intake_questionnaire_1, hint: null, type: text, required: false): This is a brief open-ended question where you can provide any relevant information about the child's condition or concerns.
+* **Medical Surveys Questionnaires 1** (id: 2, name: medical_surveys_questionnaires_1, label: medical_surveys_questionnaires_1, hint: null, type: select_one, options: Option 1, Option 2, Option 3, required: false): Please select one of the provided options that best describes the child's condition or situation.
+* **Medical Surveys Questionnaires 2** (id: 3, name: medical_surveys_questionnaires_2, label: medical_surveys_questionnaires_2, hint: null, type: select_multiple, options: Option 4, Option 5, required: false): Select all relevant options that describe the child's condition or situation.
+* **Medical Surveys Questionnaires 3** (id: 4, name: medical_surveys_questionnaires_3, label: medical_surveys_questionnaires_3, hint: null, type: number, options: [], required: false): Enter a specific number that describes the child's situation.
+* **Medical Surveys Questionnaires 4** (id: 5, name: medical_surveys_questionnaires_4, label: medical_surveys_questionnaires_4, hint: null, type: number, options: [], required: false): Enter a specific number that describes the child's situation.
+* **Medical Surveys Questionnaires 5** (id: 6, name: medical_surveys_questionnaires_5, label: medical_surveys_questionnaires_5, hint: null, type: time, options: [], required: false): Enter a specific time that describes the child's situation.
+* **Medical Surveys Questionnaires 6** (id: 7, name: medical_surveys_questionnaires_6, label: medical_surveys_questionnaires_6, hint: null, type: date, options: [], required: false): Enter a specific date that describes the child's situation.
+* **Medical Surveys Questionnaires 7** (id: 8, name: medical_surveys_questionnaires_7, label: medical_surveys_questionnaires_7, hint: null, type: note, options: [], required: false): Enter any additional notes or comments you'd like to add about the child's situation.
+* **Medical Surveys Questionnaires 8** (id: 9, name: medical_surveys_questionnaires_8, label: medical_surveys_questionnaires_8, hint: null, type: email, options: [], required: false): Enter the contact email of the caregiver or parent.
+* **Medical Surveys Questionnaires 9** (id: 10, name: medical_surveys_questionnaires_9, label: medical_surveys_questionnaires_9, hint: null, type: text, options: [], required: false): This is a brief open-ended question where you can provide any relevant information about the child's condition or concerns.
+* **Medical Surveys Questionnaires 10** (id: 11, name: medical_surveys_questionnaires_10, label: medical_surveys_questionnaires_10, hint: null, type: select_one, options: Option 4, Option 5, Option 6, required: false): Please select one of the provided options that best describes the child's condition or situation.
+* **Medical Surveys Questionnaires 11** (id: 12, name: medical_surveys_questionnaires_11, label: medical_surveys_questionnaires_11, hint: null, type: select_multiple, options: Option 7, Option 8, required: false): Select all relevant options that describe the child's condition or situation.
+* **Medical Surveys Questionnaires 12** (id: 13, name: medical_surveys_questionnaires_12, label: medical_surveys_questionnaires_12, hint: null, type: number, options: [], required: false): Enter a specific number that describes the child's situation.
+* **Medical Surveys Questionnaires 13** (id: 14, name: medical_surveys_questionnaires_13, label: medical_surveys_questionnaires_13, hint: null, type: number, options: [], required: false): Enter a specific number that describes the child's situation.
+* **Medical Surveys Questionnaires 14** (id: 15, name: medical_surveys_questionnaires_14, label: medical_surveys_questionnaires_14, hint: null, type: time, options: [], required: false): Enter a specific time that describes the child's situation.
+* **Medical Surveys Questionnaires 15** (id: 16, name: medical_surveys_questionnaires_15, label: medical_surveys_questionnaires_15, hint: null, type: date, options: [], required: false): Enter a specific date that describes the child's situation.
+* **Medical Surveys Questionnaires 16** (id: 17, name: medical_surveys_questionnaires_16, label: medical_surveys_questionnaires_16, hint: null, type: note, options: [], required: false): Enter any additional notes or comments you'd like to add about the child's situation.
+* **Medical Surveys Questionnaires 17** (id: 18, name: medical_surveys_questionnaires_17, label: medical_surveys_questionnaires_17, hint: null, type: email, options: [], required: false): Enter the contact email of the caregiver or parent.
+* **Medical Surveys Questionnaires 18** (id: 19, name: medical_surveys_questionnaires_18, label: medical_surveys_questionnaires_18, hint: null, type: text, options: [], required: false): This is a brief open-ended question where you can provide any relevant information about the child's condition or concerns.
+* **Medical Surveys Questionnaires 19** (id: 20, name: medical_surveys_questionnaires_19, label: medical_surveys_questionnaires_19, hint: null, type: select_one, options: Option 9, Option 10, required: false): Please select one of the provided options that best describes the child's condition or situation.
+* **Medical Surveys Questionnaires 20** (id: 21, name: medical_surveys_questionnaires_20, label: medical_surveys_questionnaires_20, hint: null, type: select_multiple, options: Option 11, Option 12, required: false): Select all relevant options that describe the child's condition or situation.
+* **Medical Surveys Questionnaires 21** (id: 22, name: medical_surveys_questionnaires_21, label: medical_surveys_questionnaires_21, hint: null, type: number, options: [], required: false): Enter a specific number that describes the child's situation.
+* **Medical Surveys Questionnaires 22** (id: 23, name: medical_surveys_questionnaires_22, label: medical_surveys_questionnaires_22, hint: null, type: number, options: [], required: false): Enter a specific number that describes the child's situation.
+* **Medical Surveys Questionnaires 23** (id: 24, name: medical_surveys_questionnaires_23, label: medical_surveys_questionnaires_23, hint: null, type: time, options: [], required: false): Enter a specific time that describes the child's situation.
+* **Medical Surveys Questionnaires 24** (id: 25, name: medical_surveys_questionnaires_24, label: medical_surveys_questionnaires_24, hint: null, type: date, options: [], required: false): Enter a specific date that describes the child's situation.
+
+Note: This guide covers all 25 questions on the form. Please ensure you answer all questions accurately and honestly. If you need assistance or clarification on any question, please reach out to the relevant authority.

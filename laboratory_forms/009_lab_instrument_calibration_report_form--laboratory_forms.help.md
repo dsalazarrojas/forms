@@ -1,0 +1,43 @@
+<thinking>
+
+The "Lab Instrument Calibration Report Form" seems to be related to documenting the status of laboratory equipment used for various scientific experiments. The form likely serves as a record of calibration, maintenance, and quality control for lab instruments. Its purpose is to ensure that the equipment is properly maintained, calibrated, and safe for use. The form could be used by lab technicians, scientists, or supervisors to track instrument history, perform regular checks, and schedule maintenance tasks.
+
+Upon reviewing the form fields, it appears that the form is designed for collecting information about a specific instrument, including its ID, serial number, calibration dates, and type. The "Calibration Type" field has three options: "Calibration", "Re-calibration", and "Adjustment", suggesting that the form is used to track different types of maintenance activities. The "Calibration Performed By" field indicates that the person who performed the calibration task is recorded, but it's not marked as required, so it's likely optional. The "Notes" field is also optional, but it could be used for additional comments or explanations.
+
+There's no indication that this form is part of a larger, more complex process, so it seems like a self-contained form for a specific task. The fields suggest that it's a one-time or occasional report, rather than a continuous monitoring form.
+
+</thinking>
+
+# Lab Instrument Calibration Report Form - Help Guide
+## Purpose
+This form is used to document the calibration, maintenance, and quality control of laboratory equipment.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+1. Fill in the "User Information" section with your name and any other relevant details.
+2. Enter the "Instrument ID" number, which should be unique to each instrument.
+3. Type in the "Serial Number" of the instrument being calibrated.
+4. Enter the "Calibration Date" when the instrument was last calibrated.
+5. If applicable, enter the "Calibration Due Date" for the next scheduled calibration.
+6. Choose the type of maintenance performed in the "Calibration Type" field.
+7. If you performed the calibration, enter your name and title in the "Calibration Performed By" field.
+8. Add any additional comments or explanations in the "Notes" field, if necessary.
+
+## Field-by-Field Explanation
+* **User Information** (`user_info`, text, optional): Enter your name and any other relevant details.
+* **Instrument ID** (`instrument_id`, number, optional): Enter the unique ID number of the instrument.
+* **Serial Number** (`serial_number`, text, optional): Type in the serial number of the instrument being calibrated.
+* **Calibration Date** (`cal_date`, date, optional): Enter the date when the instrument was last calibrated.
+* **Calibration Due Date** (`cal_due_date`, date, optional): Enter the date when the next calibration is due.
+* **Calibration Type** (`calibration_type`, select_one, required): Choose the type of maintenance performed:
+	+ Calibration
+	+ Re-calibration
+	+ Adjustment
+* **Calibration Performed By** (`cal_performed_by`, text, optional): Enter your name and title if you performed the calibration.
+* **Notes** (`notes`, note, optional): Add any comments or explanations about the calibration.
+
+## Tips
+- Make sure to enter accurate information to ensure that the form is up-to-date and helpful.
+- If you're unsure about the form fields, refer to your supervisor or lab manual.
+- Double-check that you've completed all required fields to ensure the form is correctly submitted.

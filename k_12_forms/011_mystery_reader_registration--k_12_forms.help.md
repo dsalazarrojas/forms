@@ -1,0 +1,48 @@
+<thinking>
+This form is designed to collect information from volunteers who wish to register for the Mystery Reader program. The form is intended to gather details about the volunteer's availability, reading preferences, and other relevant information to match them with suitable reading sessions.
+
+Before proceeding, please note that this form is intended for new volunteers. If you have already registered or are an existing volunteer, please do not fill out this form again. The form will guide you through various sections to collect the necessary information efficiently.
+
+To ensure a smooth experience, please fill out the form in order, from top to bottom. This order is as follows:
+
+1. Volunteer Details: This section collects basic information about the volunteer, including their name, contact phone number, and preferred email address.
+2. Availability Details: Here, you will provide information about your availability to volunteer, including preferred dates and times.
+3. Reading Preferences: You will select your preferred age groups to read with and how often you are willing to volunteer.
+4. Additional Information: Finally, you will provide any additional comments or notes about your volunteering experience and language proficiency.
+
+Please fill out the form accurately and thoroughly, as it will help us match you with suitable reading sessions.
+</thinking>
+
+# Mystery Reader Registration - Help Guide
+## Purpose
+The Mystery Reader Registration form is designed to collect information from volunteers who wish to participate in the Mystery Reader program.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+1. Fill out the "Volunteer Details" section with your basic information.
+2. Provide your availability details, including preferred dates and times.
+3. Select your preferred age groups to read with and how often you are willing to volunteer.
+4. Add any additional comments or notes about your volunteering experience and language proficiency.
+5. Finally, review your information and submit the form.
+
+## Field-by-Field Explanation
+
+* **Volunteer Name** (`Volunteer Name`, required): Enter your name as you would like it to be displayed on our records.
+* **Volunteer Phone** (`Volunteer Phone`, required): Enter your phone number so we can contact you efficiently.
+* **Volunteer Email** (`Volunteer Email`, required): Enter your email address so we can send you updates and information.
+* **Availability Date** (`Availability Date`, required): Choose your preferred date to start volunteering.
+* **Reading Time** (`Reading Time`, required): Select your preferred time to read.
+* **Volunteer Title** (`Volunteer Title`, required): Indicate your role or position in your organization.
+* **Early Bird** (`Early Bird`, required): Select your preferred time to start volunteering, between 6 AM and 7 AM.
+* **Late Night** (`Late Night`, not required): Select your preferred time to end volunteering, between 9 PM and 12 AM.
+* **Saturdays and Sundays** (`Saturdays and Sundays`, not required): Check if you are available to volunteer on weekends.
+* **Reading Preferences** (`Reading Preferences`, required): Select your preferred age group to read with.
+* **Frequency** (`Frequency`, required): Choose how often you are willing to volunteer.
+* **Status** (`Status`, required): Indicate your current status as an active or inactive volunteer.
+* **Comments** (`Comments`, not required): Add any additional comments or notes about your volunteering experience.
+* **Language** (`Language`, not required): Select the languages you are proficient in.
+* **Notes** (`Notes`, not required): Add any additional information about your volunteering experience.
+* **Additional Info** (`Additional Info`, not required): Add any other relevant information about yourself.
+
+Please ensure to fill out each field accurately and thoroughly to ensure a smooth experience.

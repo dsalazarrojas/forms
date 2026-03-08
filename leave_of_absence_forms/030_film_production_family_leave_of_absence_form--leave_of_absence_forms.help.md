@@ -1,0 +1,42 @@
+<thinking>
+
+This form, "film_production_family_leave_of_absence_form", is used to manage leave of absence requests for employees who are part of the film production team. It ensures that employees can request and track their leave effectively, allowing managers to review and approve or reject these requests.
+
+The purpose of this form is to gather necessary information about an employee's leave of absence, including start and end dates, reason for absence, and status. This information helps the management team to process and make informed decisions about leave requests.
+
+To prevent duplication and ensure accurate tracking, it's essential to understand the correct usage of this form. Please review the following guide to complete the form correctly.
+
+</thinking>
+
+# film_production_family_leave_of_absence_form - Help Guide
+## Purpose
+
+The film production family leave of absence form is used to request and track leave of absence for employees.
+
+## How To Complete This Form
+
+To complete this form, follow the steps below:
+
+1. Ensure you have all necessary information before filling out the form.
+2. Select the correct options for each field as described in the Field-by-Field Explanation section.
+
+## Field-by-Field Explanation
+
+* **Form Details**: This field is a free-text area for any additional information about your leave request. You can add any relevant details here.
+* **Employee Leave Request**: Enter a brief description of your leave request.
+* **Employee Info**: Enter your employee information, including your name and any other relevant details.
+* **Leave Start Date**: Enter the start date of your leave.
+* **Leave End Date**: Enter the end date of your leave.
+* **Reason For Absence**: Choose the reason for your absence from the list of options.
+* **Return Date**: Enter the date you plan to return to work.
+* **Leave Status**: Select the status of your leave from the options (Approved, Rejected, or Pending).
+* **Comments**: Add any additional comments about your leave request.
+* **Manager Comments**: Leave comments from your manager.
+
+## Tips
+
+* Ensure you have your manager's approval before submitting the form.
+* Double-check the dates entered for accuracy.
+* Choose the correct status of your leave to ensure it's processed correctly.
+* Use the comments field to provide more information about your leave request.
+* Review your manager's comments and adjust your leave request accordingly.
