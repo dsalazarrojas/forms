@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # mental_health_case_consultation_form - Help Guide
 
 ## Purpose

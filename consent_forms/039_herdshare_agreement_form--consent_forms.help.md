@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for a specific use case, likely within a business or organization, where users are sharing resources or assets among a group of people. The form appears to be a collection of agreements, likely for various purposes such as cooperative farming, livestock management, or other communal endeavors. The purpose of this form is to document and formalize the understanding and commitments between the parties involved. It's likely used to establish clear expectations, responsibilities, and rules for the shared resources. 
-
-Before proceeding, let's ensure this form is not a duplicate or out of date. Please review the form carefully and understand its relevance to your specific use case.
-
-</thinking>
-
 # Herdshare Agreement Form - Help Guide
 
 ## Purpose

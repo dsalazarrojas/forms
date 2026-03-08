@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request a data strategy review from a team or individual. The form captures information on the company name, review requestor, contact email, review scope, review frequency, data sources, business impact, and review due date. The purpose of this form is to facilitate the review process, ensuring that all necessary information is collected and communicated to the reviewer. This form does not duplicate any existing forms in our organization, and is designed to be used as a standalone request.
-
-Note: This form is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # data_strategy_review_request_form - Help Guide
 ## Purpose
 This form is used to request a data strategy review from a team or individual. It captures relevant information to facilitate the review process, ensuring that all necessary details are collected and communicated to the reviewer.

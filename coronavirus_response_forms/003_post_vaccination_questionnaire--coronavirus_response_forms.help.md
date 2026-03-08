@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect post-vaccination information from patients, including their medical history, side effects, and interaction with medical staff. The form should not be used for routine check-ins or general health monitoring, but rather for specific events related to vaccinations. It's essential to ensure this form is completed only for post-vaccination purposes to maintain accurate and relevant data.
-To avoid duplication, please review your organization's policies and procedures regarding vaccination follow-ups. The form should be used consistently across all patients to gather standardized information.
-</thinking>
-
 # Post Vaccination Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect post-vaccination information from patients to ensure their health and well-being after receiving the vaccine.

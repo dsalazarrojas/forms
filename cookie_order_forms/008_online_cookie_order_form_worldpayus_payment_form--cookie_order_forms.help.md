@@ -1,5 +1,3 @@
-<thinking>This form is used for customers to place orders for custom cookies. Each page is designed to guide the customer through a step-by-step process. The first page, "Cookie Order Form", allows the customer to select the type of cookie they want to order and the quantity. The "Payment Form" page asks for additional details such as email, phone number, and a specific date and time. The payment method and amount fields are designed to be filled out in a sequence, with the customer having the option to fill out multiple payment methods and amounts in case they want to pay with multiple methods. This form is designed to be filled out by customers who want to place an order for custom cookies. The form is meant to be filled out by customers who have not previously filled out this form before and may not be familiar with the payment process.</thinking>
-
 # Online Cookie Order Form WorldPayUS Payment Form - Help Guide
 ## Purpose
 The Online Cookie Order Form is designed for customers to place orders for custom cookies. It guides the customer through a step-by-step process to complete their order.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from users regarding their physical activity habits and health status. It asks for details on medical conditions, age, height, weight, blood pressure, resting heart rate, previous injuries, exercise frequency, exercise type, exercise session duration, exercise location, exercise buddy, medical equipment, and future exercise plans. This form is designed to be user-friendly, with multiple-choice options for many of its fields, to make it easier for users to provide accurate and detailed information. It is likely used in a health or fitness context, possibly for assessing user's eligibility for certain programs or activities that require medical clearance or specific physical requirements.
-</thinking>
-
 # PAR Q Fitness Form GBPT - Help Guide
 ## Purpose
 This form is used to collect information about your physical activity habits and health status for health and fitness purposes.

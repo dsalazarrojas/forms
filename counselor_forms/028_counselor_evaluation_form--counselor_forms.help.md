@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to ensure end-users understand the purpose and functionality of the "Counselor Evaluation Form". This form is intended to gather feedback on a counselor's performance from clients. Its primary goal is to measure how well the counselor met the client's needs and expectations. This form will help us identify areas of improvement and recognize strengths. Please ensure you complete the form with accurate and honest feedback. This guide will walk you through each section of the form, explaining what each field represents and how to complete it.
-</thinking>
-
 # Counselor Evaluation Form - Help Guide
 ## Purpose
 The Counselor Evaluation Form is designed to collect feedback from clients on their experiences with a counselor. This form helps identify areas for improvement and recognizes strengths in the counselor's performance.

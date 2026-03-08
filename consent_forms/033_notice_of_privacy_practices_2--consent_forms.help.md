@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Notice Of Privacy Practices 2 - Help Guide
 ## Purpose
 This form is a Notice of Privacy Practices 2 form, used to inform users about the types of personal data that are being collected, used, and disclosed by our organization, as well as their rights and responsibilities regarding their personal data. The form helps users understand how we protect their personal data and how they can contact us with questions or concerns.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants in a field trip, ensuring they provide essential details about themselves and their trip. The form serves as a waiver, requiring participants to provide their consent, details about the trip, and other relevant information. This form is likely to be used for safety and administrative purposes, such as ensuring participants have parental permission and that trip organizers have necessary contact information. 
-
-Please note that some fields are marked as required, which means they must be filled out for the form to be considered complete.
-
-</thinking>
-
 # Field Trip Waiver Form - Help Guide
 ## Purpose
 The Field Trip Waiver Form is a document that collects essential information from participants in a field trip. It is a crucial document that ensures participants are aware of and agree to the trip's terms and conditions.

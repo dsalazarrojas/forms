@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I'll create a user-facing help guide for the "pedicure_consultation_form" based on the provided YAML fields.
 
 # pedicure_consultation_form - Help Guide

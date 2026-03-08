@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used for reporting and documenting customer service incidents in a retail setting. It could be used to collect information about issues that customers have with products, orders, or in-store experiences. The form might be used by customer service officers or sales associates to record and track customer complaints, returns, or other incidents that require attention. This form could be used to gather data on incident types, dates, locations, and outcomes. It might be used to monitor and analyze customer service performance, identify trends, and improve the customer experience. The form might also help to track customer feedback and comments, and store management might use this information to make improvements to the store and its services.
-</thinking>
 # Fashion Retail Customer Service Report - Help Guide
 ## Purpose
 This form is used to report and document customer service incidents in a retail setting. It helps to collect information about issues that customers have with products, orders, or in-store experiences.

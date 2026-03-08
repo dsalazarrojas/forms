@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect liability waiver information from customers who will be undergoing a hydromassage treatment. The purpose of this form is to ensure that customers are aware of and agree to the potential risks associated with the treatment, as well as to provide necessary contact and medical information for emergency purposes. It is not necessary to fill out this form if you have already filled it out in the past, as you are still covered under the original waiver. Please only fill out this form if you are new or if there has been a change in your circumstances.
-</thinking>
-
 # Hydromassage Liability Waiver - Help Guide
 ## Purpose
 This form is a liability waiver for customers who will be undergoing a hydromassage treatment. It helps to ensure that customers are aware of and agree to the potential risks associated with the treatment, and provides necessary contact and medical information for emergency purposes.

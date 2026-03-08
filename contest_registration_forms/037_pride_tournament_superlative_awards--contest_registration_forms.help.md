@@ -1,12 +1,4 @@
-> <thinking>
-
-The Pride Tournament Superlative Awards form is intended to collect information for nominations and submissions for the awards. The form is used to gather details about the nominee, their team, and other relevant information. It is essential to ensure that each field is filled out accurately and completely to ensure that the nomination is valid.
-
-To avoid duplication and ensure that each nomination is unique, please check that the nomination title is not already registered in the system before submitting this form.
-
-</thinking>
-
-# Pride Tournament Superlative Awards - Help Guide
+> # Pride Tournament Superlative Awards - Help Guide
 ## Purpose
 The Pride Tournament Superlative Awards form is designed to collect information for nominations and submissions for the awards.
 

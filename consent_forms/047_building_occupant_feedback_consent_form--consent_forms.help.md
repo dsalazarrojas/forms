@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to collect feedback from building occupants on various aspects of the building, such as overall satisfaction, space utilization, and facility maintenance. The form is intended to gather information on how the occupants perceive the building and its services, which will be used to improve the building's operations and services. By completing this form, the building management team can better understand the needs and concerns of the building's occupants and make informed decisions to address them.
-
-This form is part of a larger feedback collection process, and the data collected will be handled and stored according to the options selected in this form.
-
-Before proceeding with this form, please ensure that you have not completed this form previously. If you are unsure about any of the questions or options, please don't hesitate to ask for clarification.
-
-</thinking>
-
 # Building Occupant Feedback Consent Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from building occupants on various aspects of the building, including overall satisfaction, space utilization, and facility maintenance. Your input will help the building management team make informed decisions to improve the building's operations and services.

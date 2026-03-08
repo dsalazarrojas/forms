@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect emergency contact information from employees or individuals in case of an emergency. The form will help gather crucial details that can be useful for emergency situations such as natural disasters, accidents, or other critical events. This form can be used by HR departments, emergency responders, or anyone who needs to collect contact information for emergency purposes. 
-</thinking>
-
 # Emergency Contact Form Template - Help Guide
 
 ## Purpose

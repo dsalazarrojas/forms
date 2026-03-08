@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from clients for the retention of their therapy data. The form captures information about the client's personal details, such as name, phone number, and email, as well as details about the form itself, including title, category, and date. This form ensures that clients are aware of how their data will be stored and used by the therapist and practice, and that they provide their consent to retain this information. This form is used for general data retention purposes, and not for any specific clinical or treatment-related activities.
-</thinking>
-
 # Therapy Data Retention Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from clients for the retention of their therapy data. It is essential to complete this form carefully and accurately to ensure that clients understand how their data will be stored and used.

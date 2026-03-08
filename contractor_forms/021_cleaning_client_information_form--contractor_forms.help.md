@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect client information for cleaning services. It is designed to gather essential details about the client, including their contact information, property details, cleaning service preferences, and any special requests or instructions.
-
-To ensure accuracy and consistency in the data collected, it is crucial to follow the guidelines below:
-
-* Ensure the client's contact information is accurate and up-to-date.
-* Be specific when describing the property type and size.
-* Clearly indicate the desired cleaning frequency and type.
-* Provide detailed access instructions if necessary.
-* Be honest about having pets or not.
-* List any special requests or instructions.
-* Specify how the client found out about the service.
-
-By following these guidelines, the form will help us better understand the client's needs and provide a more efficient and effective cleaning service.
-
-</thinking>
-
 # Cleaning Client Information Form - Help Guide
 ## Purpose
 

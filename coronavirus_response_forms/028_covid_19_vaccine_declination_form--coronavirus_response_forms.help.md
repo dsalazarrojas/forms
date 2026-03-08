@@ -1,9 +1,3 @@
-<thinking>... Internal reasoning block to check if the form purpose is relevant and non-duplication...
-
-This form is intended for employees or individuals to declare their willingness or unwillingness to receive the COVID-19 vaccine. The form is designed to gather information about the employee's name, contact information, employer details, declination reasons, acknowledgment of risks, and acceptance of vaccination policies. The form should only be used for this specific purpose and not for any other reason.
-
-</thinking>
-
 # COVID 19 Vaccine Declination Form - Help Guide
 ## Purpose
 This form is used to declare your willingness or unwillingness to receive the COVID-19 vaccine. It will gather information about your details, declination reasons, and acceptance of vaccination policies.

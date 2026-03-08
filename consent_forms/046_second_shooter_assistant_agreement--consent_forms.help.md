@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Second Shooter Assistant Agreement - Help Guide
 ## Purpose
 This form is intended to capture information from clients and photographers regarding a "Second Shooter" agreement, which is likely a contract for a photography service where one photographer works alongside another to capture a specific event or shoot. The form is designed to collect contact and other basic information from both the client and the photographer.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from users about the quality and relevance of the content provided. This form is part of the "customer_satisfaction_surveys" category, which suggests it's a tool for measuring the satisfaction of customers or readers with the organization's content. The form is called "reader_satisfaction_survey_template", implying that it's a template designed for readers to express their opinions and suggestions.
-The form has been created using AI and is based on public survey topic metadata, making it an original adaptation and not a copy of any other form. This form is released under CC BY 4.0, allowing users to use, modify, and even sell it while giving credit.
-Given this context, the form is likely to be used to gauge reader satisfaction, gather feedback on content quality and relevance, and identify areas for improvement.
-</thinking>
-
 # reader_satisfaction_survey_template - Help Guide
 ## Purpose
 This form is designed to collect feedback from readers about their overall satisfaction with the content provided. The goal is to understand what readers think about the quality and relevance of the content and use this information to improve it.

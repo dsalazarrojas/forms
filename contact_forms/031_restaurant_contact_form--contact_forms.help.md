@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect contact information from users, including their name, phone number, email, and a message. It is intended to be used by restaurant staff to communicate with customers.
 
 The form consists of several fields that require different types of information:

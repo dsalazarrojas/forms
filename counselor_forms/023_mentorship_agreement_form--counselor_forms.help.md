@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form was generated based on public data from a variety of sources. The purpose of this form is to collect information for a mentorship agreement between a mentor and a mentee. A mentorship agreement is a legally binding contract that outlines the terms and expectations of the mentoring relationship. This form will collect the necessary information to create a comprehensive agreement.
 
 The following is a step-by-step guide to complete this form:

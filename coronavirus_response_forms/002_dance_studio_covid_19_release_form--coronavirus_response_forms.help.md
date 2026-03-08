@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students in a dance studio regarding their COVID-19 status, including declarations, release statements, and permissions. This form ensures that the studio has the necessary permissions and declarations to conduct classes with students. To ensure accuracy, please check that this form is not a duplicate before proceeding. If you have already submitted this form, your information will not be updated.
-
-</thinking>
-
 # Dance Studio COVID 19 Release Form - Help Guide
 
 ## Purpose

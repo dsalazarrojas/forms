@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants before the contest, helping organizers finalize logistics and preparations for the event. It is crucial to ensure that all necessary data is collected without any duplication or redundancy. The form should only be filled out once per participant, and the information collected will be used to tailor the event experience to the individual's needs, including catering and technical support. It's essential to fill out the form accurately and completely to help the organizers provide a smooth and enjoyable experience.
-</thinking>
-
 # Contest Preparation Survey - Help Guide
 ## Purpose
 The Contest Preparation Survey is a form designed to gather information from participants before the event. This information will be used to tailor the contest experience to your needs, including logistics, catering, and technical support.

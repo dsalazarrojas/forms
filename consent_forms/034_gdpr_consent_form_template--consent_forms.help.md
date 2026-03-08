@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the General Data Protection Regulation (GDPR) compliance process, designed to obtain the necessary consents from users before processing their personal data. The form template is essential for collecting relevant information in an efficient and secure manner. Before proceeding, please note that the form is a one-time requirement for new users and can be updated or removed when the user's data processing status changes. Ensure you only complete this form once, and do not attempt to resubmit or alter existing submissions.
-</thinking>
-
 # gdpr_consent_form_template - Help Guide
 ## Purpose
 The GDPR Consent Form Template is a standardized form used to collect personal data from users, ensuring compliance with the General Data Protection Regulation (GDPR) requirements. It is designed to gather essential information for data processing purposes.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from the user about the request for a business communication phrase, including the request information, communication context, type, purpose, target audience, tone preference, and key message. This form aims to ensure that the phrase meets the required tone, length, and language standards while taking into account cultural sensitivity and specific branding guidelines.
-To prevent duplication, users must ensure that the information provided is unique and does not overlap with existing knowledge base content.
-</thinking>
-
 # Business Communication Phrase Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from you about a business communication phrase that meets your specific requirements.

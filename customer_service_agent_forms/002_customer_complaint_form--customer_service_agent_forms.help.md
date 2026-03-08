@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive customer complaint form designed to collect various types of information about customer complaints or issues. The form is likely used to gather data that can help customer service agents resolve customer complaints efficiently.
-The form seems to have a mix of single and multiple select fields, date and time fields, number fields, email fields, and text fields. 
-</thinking>
-
 # Customer Complaint Form - Help Guide
 ## Purpose
 

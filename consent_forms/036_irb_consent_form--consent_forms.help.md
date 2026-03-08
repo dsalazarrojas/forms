@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information for the IRB (Institutional Review Board) Consent Form, which is a legal document that outlines the terms of consent for participants in a research study. The IRB ensures that research studies involving human subjects are conducted according to the highest ethical standards. This form is meant to gather essential details about the study participants, the research goals, and the institution conducting the study. This information is crucial for ensuring participant safety, transparency, and compliance with regulations.
-The form is intended for researchers to provide a clear and concise record of the participant's understanding and agreement to participate in the research study. This document will serve as a reference point for both the researcher and the participant, ensuring that all parties involved are on the same page.
-Before proceeding, please review the form carefully to ensure that all required and optional fields are accurately completed. This will guarantee that the form is completed correctly and that all necessary information is included.
-</thinking>
-
 # IRB Consent Form - Help Guide
 ## Purpose
 The IRB Consent Form is a legal document that outlines the terms of consent for participants in a research study.

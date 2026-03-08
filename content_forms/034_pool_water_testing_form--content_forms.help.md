@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pool Water Testing Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-We will use this form to collect information from potential candidates for consultancy positions within our organization. This form should only be used by those applying to these positions, and not for any other purpose.
-
-Before proceeding, please ensure that you have read the form carefully and understand the information required. If you have already submitted an application for this position, please do not reapply.
-
-</thinking>
 # Consultancy Employment Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential candidates for consultancy positions within our organization. Please fill out this form carefully and thoroughly, ensuring that you provide accurate and complete information.

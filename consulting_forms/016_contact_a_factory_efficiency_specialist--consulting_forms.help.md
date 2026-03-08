@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information and efficiency challenges from manufacturing facilities, allowing our factory efficiency specialists to assess and provide guidance on improving their operations. This form is designed to be completed by contact persons from manufacturing facilities who are looking to identify and address specific efficiency challenges they are facing.
-
-Before filling out this form, please ensure that you are not duplicating efforts or submitting multiple forms for the same facility. This form is meant to be a one-time submission.
-
-This guide will walk you through each section of the form, explaining what you need to do and what information is required.
-</thinking>
-
 # Contact A Factory Efficiency Specialist - Help Guide
 ## Purpose
 

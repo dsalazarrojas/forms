@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # outdoor_access_guidelines_acknowledgement_form - Help Guide
 ## Purpose
 The purpose of this form is to record the user's acknowledgement of outdoor access guidelines. It's used to ensure that users have read and understood the guidelines for accessing outdoor areas. Please ensure that you have filled out this form correctly before submitting it. This form should only be filled out once and by the same user. If you've already filled out this form, please do not repeat it.

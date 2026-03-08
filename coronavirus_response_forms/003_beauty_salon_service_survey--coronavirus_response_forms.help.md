@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Beauty Salon Service Survey - Help Guide
 =============================
 

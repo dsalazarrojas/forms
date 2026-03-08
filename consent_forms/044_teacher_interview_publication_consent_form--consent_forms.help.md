@@ -1,6 +1,4 @@
-# <thinking>...This form was created to obtain a teacher's consent for a publication related to an interview. It captures information about the teacher, the publication, and the interview details. It also asks the teacher to confirm their agreement with the publication and includes space for their signature. The form will be used to obtain consent for a specific type and date of publication.</thinking>
-
-# Teacher Interview Publication Consent Form - Help Guide
+# # Teacher Interview Publication Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain a teacher's consent for a publication related to an interview. It is a crucial step in ensuring that the teacher's information and likeness are used correctly and with their permission.
 

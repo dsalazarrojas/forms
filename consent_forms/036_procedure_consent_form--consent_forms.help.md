@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information related to a procedure, which can include any medical or surgical intervention. The primary goal is to obtain consent from the patient before proceeding with the procedure. This form is typically used in a healthcare setting to ensure that the patient is aware of the potential risks and benefits associated with the procedure and that they understand and agree to it.
-
-The form aims to gather essential details such as the patient's name, the name of the healthcare provider, the date and time of the procedure, and the name of the facility where the procedure will take place. Additionally, it requires the patient to acknowledge potential medical risks and list them. The patient and healthcare provider must also sign the form to confirm their agreement and understanding of the procedure.
-
-This form is likely to be completed by a healthcare provider or a medical professional in a hospital or clinic setting. The form's layout and content are designed to be straightforward and easy to understand, allowing the healthcare provider to collect necessary information efficiently while ensuring patient safety and consent.
-
-Please note that this form is AI-generated and does not use proprietary content from any form platform. It's available under CC BY 4.0 license, which allows for modification and sharing.
-</thinking>
-
 # Procedure Consent Form - Help Guide
 ## Purpose
 

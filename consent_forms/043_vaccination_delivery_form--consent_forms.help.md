@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a patient's vaccination history and contact details for the purpose of delivering vaccinations. It is an optional form, and users are not required to fill it out. 
-
-Before starting, please note that the form is meant to collect general information and not to store sensitive medical data. If you need to collect sensitive medical history, please use a different form.
-
-</thinking>
-
 # Vaccination Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's vaccination history and contact details, to ensure a smooth delivery of vaccinations.

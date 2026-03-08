@@ -1,16 +1,3 @@
-<thinking>
-
-This form is used for property owners and maintenance teams to request or update maintenance information for a property. This form can be used to submit new maintenance requests, update existing requests, or close and reopen maintenance requests.
-
-Before filling out this form, please ensure that you:
-- You are submitting a new maintenance request.
-- You are updating an existing maintenance request.
-- The property in question is associated with your account.
-
-Please note that the form will be automatically generated with some fields pre-filled based on the property associated with your account. This guide will walk you through the required and optional fields to help you complete the form successfully.
-
-</thinking>
-
 # Property Maintenance Request - Help Guide
 ## Purpose
 The Property Maintenance Request form is used to submit, update, or manage maintenance requests for a property. It captures essential information about the maintenance request, including request details, requester information, and status updates.

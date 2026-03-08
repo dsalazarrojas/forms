@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to declare their travel movement to ensure public health safety measures are in place. It is a required form for users who have traveled outside. The form is part of our organization's efforts to track and monitor potential exposure risks. Please make sure you are filling out this form for the correct reason and only once for each travel event. If you have already filled this form for a travel event, please do not resubmit it.
-</thinking>
-
 # travel_movement_declaration_form - Help Guide
 ## Purpose
 The travel movement declaration form is used to declare individual travel movements to ensure public health safety measures are in place. It is essential to fill out this form when you have traveled outside.

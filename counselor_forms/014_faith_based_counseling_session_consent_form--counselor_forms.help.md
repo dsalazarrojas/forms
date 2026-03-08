@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect basic information from counselors and clients for faith-based counseling sessions. The purpose of this form is to ensure that both parties are aware of the session details and can provide necessary information for the counseling process. This includes collecting the names of the counselor and client, contact information (email and phone number), date and time of the session, and the session duration.
-
-</thinking>
-
 # Faith-Based Counseling Session Consent Form - Help Guide
 ## Purpose
 

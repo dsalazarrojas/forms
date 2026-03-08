@@ -1,10 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I need to ensure that this form is clear, concise, and easy to understand for end-users. To begin, I will review the form's purpose and relevance. This form is for COVID-19 Phase 1C Vaccination Registration, which implies that it's for individuals who are eligible for the Phase 1C vaccination program. Phase 1C typically includes people with high-risk medical conditions, essential workers, and individuals aged 40-64. This form will gather information about the applicant's eligibility, contact details, health status, and vaccination history to register them for the Phase 1C vaccination.
-
-I will ensure that the form is not duplicating any existing information and that the fields are correctly aligned with the form's purpose. Upon reviewing the form's YAML, I noticed that it includes a mix of personal information, medical history, and attestation sections. I will use this information to craft a user-friendly help guide that explains each field's purpose and how to complete the form.
-
-</thinking>
-
 # COVID 19 Phase 1C Vaccination Registration Form - Help Guide
 ## Purpose
 This form is for COVID-19 Phase 1C Vaccination Registration. It's designed to gather information about your eligibility, contact details, health status, and vaccination history to register you for the Phase 1C vaccination program.

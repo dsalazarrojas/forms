@@ -1,14 +1,3 @@
-<thinking>...
-Form purpose is to gather information about a user's inquiry for family law consultation services. This form is used to collect the user's available date and time for the consultation, as well as their preferred time for the consultation. The form does not require any other information, making it simple and straightforward.
-
-This form is designed for users to easily and quickly submit their consultation inquiry, allowing the consultant to review and prepare for the meeting.
-
-The form will not be used for any other purpose than for family law consultation services.
-
-Please do not complete this form if you have already submitted a similar inquiry.
-
-</thinking>
-
 # Family Law Consultation Inquiry Form - Help Guide
 ## Purpose
 This form is designed for users to submit their inquiry for family law consultation services.

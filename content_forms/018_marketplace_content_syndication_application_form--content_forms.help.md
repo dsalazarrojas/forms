@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is completed correctly to avoid any confusion and duplication of efforts. The form is designed to gather information from content providers who want to syndicate their content on our platform. Each field is carefully crafted to extract the essential details needed for successful content syndication. Before proceeding, please review the form carefully and ensure you understand the purpose and requirements of each field.
-</thinking>
-
 # Marketplace Content Syndication Application Form - Help Guide
 
 ## Purpose

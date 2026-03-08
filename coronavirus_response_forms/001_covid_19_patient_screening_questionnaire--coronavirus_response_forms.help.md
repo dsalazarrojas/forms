@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "COVID 19 Patient Screening Questionnaire," aims to gather vital information about patients to quickly assess and manage potential COVID-19 cases. This form is designed to be used by healthcare professionals to collect data on patient demographics, medical history, and exposure risks to help identify high-risk individuals and provide targeted care. The collected data will be used to determine the appropriate level of care and potential next steps for the patient. 
-
-To prevent duplicate or unnecessary screenings, this form should only be filled out once per patient.
-
-</thinking>
-
 # COVID 19 Patient Screening Questionnaire - Help Guide
 ## Purpose
 The COVID 19 Patient Screening Questionnaire is a tool used by healthcare professionals to quickly assess and manage potential COVID-19 cases. This form collects demographic information, medical history, and exposure risks to identify high-risk individuals and provide targeted care.

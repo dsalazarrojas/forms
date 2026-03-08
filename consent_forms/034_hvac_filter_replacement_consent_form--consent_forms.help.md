@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "hvac_filter_replacement_consent_form" form, we will follow the provided instructions to create a clear and concise guide that explains the form's purpose, how to complete it, and what each field means.
 
 # hvac_filter_replacement_consent_form - Help Guide

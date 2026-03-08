@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect users' consent to the terms and conditions of a service, product, or website. It is intended for use in a variety of contexts, such as when users sign up for a service, create an account, or download a product. The form is not affiliated with any specific platform, and its content is generated based on public survey topics and metadata. This form is released under CC BY 4.0 license, allowing users to modify, sell, or use it for their own purposes. The form has three fields, which are explained below.
-</thinking>
-
 # privacy-policy-and-conditions-agreement-form - Help Guide
 ## Purpose
 This form is designed to collect users' consent to the terms and conditions of a service, product, or website.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to obtain consent from patients for ultrasound cavitation procedures. The form is designed to collect information about the patient's medical history, allergies, and treatment plans. This form is intended for use in medical facilities and is used to ensure that patients understand and agree to the procedures and treatments they will receive. It's essential to fill out this form accurately and honestly to ensure the best possible outcome for the patient. 
-
-Please review the form carefully before completing it, ensuring that all required fields are filled out correctly. The fields may be categorized into several pages for better clarity and organization.
-
-This form is used for internal purposes only and is not intended for external sharing or publication. Therefore, the information collected will be stored internally and treated confidentially.
-
-Please fill out this form carefully, and if you have any questions or concerns, do not hesitate to reach out to the medical staff for assistance.
-
-</thinking>
-
 # Ultrasound Cavitation Consent Form - Help Guide
 ## Purpose
 The Ultrasound Cavitation Consent Form is a medical form used to obtain consent from patients for ultrasound cavitation procedures.

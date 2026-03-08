@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Inbound Contact Center Intake Form", we first need to understand its purpose and the fields included in the form. This form appears to be designed to gather information from customers, including their inquiries, details, contact information, and work schedules. The purpose of this form is to collect data that will be used to provide timely and effective customer service.
-
-Before creating this guide, we should check if the form is being used as intended and not duplicated. Let's assume that this form is the correct tool for collecting customer information and that it is being used correctly.</thinking>
-
 # Inbound Contact Center Intake Form - Help Guide
 ## Purpose
 The Inbound Contact Center Intake Form is designed to collect information from customers, helping us better understand their inquiries and provide timely and effective support.

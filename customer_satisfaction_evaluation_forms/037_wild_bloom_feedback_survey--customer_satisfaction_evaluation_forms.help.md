@@ -1,7 +1,3 @@
-<thinking>
-This is a Wild Bloom Feedback Survey, designed to gather feedback from customers about their overall satisfaction, product experience, product quality, customer service, perceived value, and communication preferences. The primary purpose of this form is to collect data that will help Wild Bloom understand the strengths and weaknesses of its products and services, ultimately informing future product development and customer experience improvements.
-</thinking>
-
 # Wild Bloom Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Wild Bloom Feedback Survey, a tool that helps us understand your experience with our products and services. Your feedback is invaluable in helping us improve, and we appreciate your time and input.

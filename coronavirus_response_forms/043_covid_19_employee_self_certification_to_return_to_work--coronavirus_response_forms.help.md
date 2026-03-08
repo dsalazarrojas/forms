@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help employees return to work after a COVID-19 related absence. To ensure accurate and complete information, please follow the instructions carefully. This form will be used to assess your health status, COVID-19 exposure, and work readiness. It is crucial that you answer these questions truthfully to the best of your knowledge.
-
-This form is a mandatory requirement for employees returning to work after a COVID-19 related absence. Please ensure that you have completed all fields accurately and truthfully before submitting the form.
-
-Please note that answers to some fields may be required to be completed in collaboration with your supervisor or HR representative.
-</thinking>
-
 # COVID 19 Employee Self Certification To Return To Work - Help Guide
 ## Purpose
 This form is designed to help employees return to work after a COVID-19 related absence. To ensure accurate and complete information, please follow the instructions carefully.

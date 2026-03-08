@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # customer_retention_strategy_evaluation_form - Help Guide
 ## Purpose
 The "Customer Retention Strategy Evaluation Form" is designed to gather data on your company's customer satisfaction and retention strategies. This form helps evaluate the effectiveness of your existing strategies and identify areas for improvement. It is typically used by customer-facing teams to assess customer satisfaction, retention rates, and strategies employed to retain customers.

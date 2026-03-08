@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help contractors gather information for potential bids on a project. It collects details about the project, such as the requester's name, email, phone number, company name, project overview, name, type, location, scope, size, desired start and completion dates, and budget range. The form also asks about the project's timeline flexibility, payment terms, licensing and insurance requirements, and bonding needs. It asks about the preferred bid format, site visit requirements, and deadlines for questions and bid submission. Finally, it includes spaces for additional documents and special notes or requirements.
-This form seems to be primarily used by project owners or managers to collect information from potential bidders. It's designed to guide contractors through the process of providing a bid, ensuring they have all the necessary details to make an informed decision.
-This form is likely to be used in construction or other industries where bids are a common process for securing work.
-</thinking>
-
 # Contractor Bid Request Form - Help Guide
 ## Purpose
 This form is a tool for project owners or managers to collect information from potential bidders. It helps guide contractors through the process of providing a bid by asking for details about the project and the requirements for the work.

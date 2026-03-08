@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic information and authorization for COVID-19 Phase 1A vaccination. It is intended to gather data on applicants who are eligible for the first priority phase of the vaccination program. This form will be used to verify that the applicant has the necessary information and is authorized to participate in the Phase 1A program.
-</thinking>
-
 # COVID Phase 1A Authorization Form - Help Guide
 ## Purpose
 

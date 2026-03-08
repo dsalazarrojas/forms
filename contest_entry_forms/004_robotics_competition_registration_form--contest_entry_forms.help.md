@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a robotics competition, allowing participants to register their teams and robots. The form's purpose is to gather essential details from contestants, including their names, contact information, and robot specifics. The fields on this form are intended to provide a comprehensive overview of each participant's entry, making it easier for organizers to review and manage registrations.
-
-To ensure the integrity of the competition, please note that:
-
-* This form is a public adaptation of publicly available information and is not affiliated with any specific form platforms.
-* The data collected will be used for the purpose of the robotics competition only.
-
-</thinking>
-
 # Robotics Competition Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for the robotics competition. Please fill out the form with your team's and robot's details to participate in the competition.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Antic Dom Kontakt - Help Guide
 ## Purpose
 The "Antic Dom Kontakt" form is a contact form designed to collect basic contact information from users. The form serves to facilitate communication and provide a convenient way for users to reach out to the relevant authorities or departments.

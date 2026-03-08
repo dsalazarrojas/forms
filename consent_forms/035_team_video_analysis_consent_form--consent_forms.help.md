@@ -1,19 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Team Video Analysis Consent Form" form, we need to consider the following factors:
-- The form's purpose and relevance to the end user.
-- Potential duplication of effort or similar forms that the end user may have filled out before.
-- The importance of explaining each field's meaning to ensure users understand what information they are providing.
-- The form's structure and how to navigate through it.
-
-Given the provided YAML schema, the "Team Video Analysis Consent Form" seems to be designed for a scenario where a team member's video analysis or recording is being conducted, and the user needs to provide their consent for the recording, sharing with coaches, or sharing with parents. The form may be used in a sports setting or similar contexts where video analysis is used for improvement.
-
-The form appears to be relatively simple and only collects basic information such as name, email, parent's name and email (if applicable), date of birth, and consent for different types of video usage. 
-
-Considering the form's purpose and fields, we'll create a concise user guide that explains each field's purpose and how the form should be completed.
-
-</thinking>
-
 # Team Video Analysis Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from team members for video analysis or recording. It is essential to fill out this form carefully to ensure you understand what information is being requested and what it will be used for.

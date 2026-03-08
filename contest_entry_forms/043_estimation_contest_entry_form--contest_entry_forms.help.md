@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Estimation Contest Entry Form - Help Guide**
 
 ### Purpose

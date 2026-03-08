@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form "Culinary Course Feedback Poll" is used correctly and that users understand its purpose. This form is designed to collect feedback from students who have completed a culinary course, providing valuable insights into the course's quality and effectiveness. The form will help us identify areas of improvement and provide feedback to instructors and course administrators. To avoid duplication of effort, we will review each submission carefully before sending it to the relevant personnel.</thinking>
-
 # Culinary Course Feedback Poll - Help Guide
 ## Purpose
 The Culinary Course Feedback Poll is a form designed to collect feedback from students who have completed a culinary course. It helps us understand the course's quality and effectiveness, providing valuable insights to improve the course and its delivery.

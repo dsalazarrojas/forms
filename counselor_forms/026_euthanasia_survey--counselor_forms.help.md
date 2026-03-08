@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Euthanasia Survey" form, I will follow the provided YAML fields to understand the form's structure and purpose. The purpose of the form seems to be a survey that gathers various types of information from users, including general information, demographic data, opinions and attitudes, habits, open-ended questions, phone numbers, email addresses, age ranges, selection questions (single and multiple), dates, times, and open-ended answers. The form appears to be comprehensive in its scope, aiming to collect a wide range of data from users.
-
-However, I do not have any additional context or information about the survey's specific goals, target audience, or any specific business logic behind the form. Therefore, I will focus on explaining each field in a concrete, concise, and practical way, based on the provided YAML fields.
-
-</thinking>
-
 # Euthanasia Survey - Help Guide
 ## Purpose
 The Euthanasia Survey is a comprehensive form designed to collect various types of information from users. It is likely used to gather feedback, opinions, and demographic data.

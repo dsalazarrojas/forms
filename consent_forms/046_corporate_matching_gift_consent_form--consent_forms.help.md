@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect employee consent for corporate matching gifts, which are funds matched by a company's matching gift program to their employee's charitable donations. The form ensures that employees understand the purpose and terms of the program, and provides an opportunity for them to confirm their participation. This form should be used by employees who wish to participate in their company's matching gift program. Please note that this form is not intended for employers or other types of donors.
-</thinking>
-
 # corporate_matching_gift_consent_form - Help Guide
 ## Purpose
 This form is used to obtain employee consent for corporate matching gifts, which are funds matched by a company's matching gift program to their charitable donations.

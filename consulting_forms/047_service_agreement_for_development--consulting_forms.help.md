@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that the form is for creating a service agreement for development projects, ensuring all necessary details are captured for project management and billing purposes. To avoid duplication, the form should be reviewed for accuracy and completeness before submission. This form will guide users through the process of filling out the agreement, ensuring they understand what each field is for and how it contributes to the project's overall documentation.</thinking>
-
 # Service Agreement For Development - Help Guide
 ## Purpose
 This form is used to capture the necessary details for service agreements on development projects. It is essential to fill out this form accurately to ensure that all project requirements and billing information are correctly recorded.

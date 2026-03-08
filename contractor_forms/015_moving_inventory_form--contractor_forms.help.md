@@ -1,6 +1,3 @@
-<thinking>...Internal reasoning check:
-This form is designed to collect information about a moving process, likely for inventory management or asset tracking purposes. It appears to be a simple form with a few fields that require user input. The fields are: location from, location to, date moved, item count, item type, item description, item condition, and moved by. This form does not seem to have any conditional or dependent fields, making it a straightforward form to fill out. The fields are mostly self-explanatory, but some might need a brief explanation to ensure clarity... </thinking>
-
 # Moving Inventory Form - Help Guide
 ## Purpose
 This form is used to document the movement of items within or between locations. It helps track the items that have been moved, their quantity, and other relevant details.

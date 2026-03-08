@@ -1,9 +1,3 @@
-<thinking>
-We're creating this form to gather information from users who are referring an employee to our consulting services. This form will help us understand their contact details, the reason for the referral, and any relevant information about the client being referred. Please ensure you fill out the form completely and accurately to help us best assist your client. 
-Before starting, please ensure you haven't already submitted a referral for this client. If you have, this form will be unnecessary. 
-
-</thinking>
-
 # ergonomics_consultant_referral_form - Help Guide
 ## Purpose
 This form is used to provide information about a client or patient referred to our consulting services. It's essential to fill it out completely and accurately to enable us to best assist your client.

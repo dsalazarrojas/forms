@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team List Submission Form - Help Guide
 
 ## Purpose

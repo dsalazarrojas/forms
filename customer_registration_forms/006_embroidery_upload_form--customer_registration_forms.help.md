@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to upload their embroidery designs for review and approval. The form should be used by customers to provide their name, email, phone number, notes (if any), and select a type for upload. This form will help us understand the customer's requirements and preferences for the upload.
-
-To avoid confusion, it's essential to note that this form is intended for customers who want to upload their embroidery designs. It's not meant for other purposes such as order management or order tracking.
-
-Before proceeding, make sure to review the form carefully and fill it out accurately to ensure a smooth review and approval process.
-
-</thinking>
-
 # Embroidery Upload Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-This form is designed to collect information about a person's wellness and potential exposure to COVID-19. The form asks questions about symptoms, travel history, and exposure to individuals or areas with a high risk of COVID-19. The form is not meant to replace medical advice or diagnosis. It is intended to gather information that may be useful for health professionals to determine potential risks or concerns. This form does not collect sensitive or protected personal data. Please note that some of the fields seem to be duplicates (e.g., exposure1, exposure2, exposure3, exposure4, exposure1_pros, exposure2_pros, etc.). It would be best to eliminate these duplicates and keep only the most relevant ones to avoid confusion. For this help guide, we will focus on the essential questions and provide explanations for the remaining fields.</thinking>
-
 # Pre Appointment Wellness Form - Help Guide
 ## Purpose
 This form is designed to collect information about your wellness and potential exposure to COVID-19.

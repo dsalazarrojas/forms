@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by a customer after a towing service has been completed. It is intended to gather information from the customer and the towing company to document the details of the incident, including the customer's vehicle condition, any services provided by the towing company, and any signatures required to confirm the customer's agreement and the company's liability.
-</thinking>
-
 # Towing Damage Waiver Form Template - Help Guide
 ## Purpose
 This form template is for collecting information and gathering signatures from customers and towing companies after a towing service has been completed.

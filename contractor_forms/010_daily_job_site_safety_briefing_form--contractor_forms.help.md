@@ -1,15 +1,3 @@
-<thinking>
-
-The form purpose is likely to document a daily job site safety briefing, which involves collecting information about a construction site or work site, including contact details, personal information, site details, safety briefings, risk control, weather conditions, emergency exit routes, emergency contacts, site inspection, and incident reports. This form likely serves as a standard template for workers, supervisors, or safety officers to ensure that important information is collected and documented consistently across different sites and locations.
-
-To determine relevance, the form seems to cover a wide range of essential topics related to site safety, including contact information, personal details, and incident reports. This suggests that it's a critical form for site managers, safety officers, or workers to report and document incidents, ensuring a safe working environment. However, it's not clear if this form will be used for general daily check-ins, incident reports, or other purposes. The form's structure and content might be more suitable for incident reporting and risk management rather than a comprehensive daily briefing.
-
-Considering the form's complexity and structure, it may be challenging to complete without clear guidance or instructions. This form might be used in conjunction with other supporting documents or checklists, such as site-specific safety protocols, emergency procedures, or risk assessments.
-
-Given these factors, it's essential to create a user-friendly guide to help users understand the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Daily Job Site Safety Briefing Form - Help Guide
 ## Purpose
 The Daily Job Site Safety Briefing Form is designed to document important information about your work site, ensuring a safe working environment for everyone. Please complete this form to report your contact details, personal information, site details, and incidents that occurred during the day.

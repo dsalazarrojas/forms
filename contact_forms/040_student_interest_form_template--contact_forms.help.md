@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a template for students to express their interests and preferences.
-It is meant to be filled out by students themselves, and the data collected will be used for internal purposes.
-This form does not collect sensitive or personally identifiable information.
-It is a general purpose survey form.
-</thinking>
-
 # Student Interest Form Template - Help Guide
 ## Purpose
 The Student Interest Form Template is a survey form designed to capture students' interests and preferences.

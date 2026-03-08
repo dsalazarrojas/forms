@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for obtaining consent from group participants to share their information and collaborate on a group project. The purpose of this form is to ensure that all participants are aware of the group's confidentiality guidelines and have given their consent to share their data. It is intended to be used in a group setting where participants may be working together on a project or sharing sensitive information. 
-</thinking>
-
 # Group Confidentiality Form - Help Guide
 ## Purpose
 This form is used to obtain consent from group participants to share their information and collaborate on a group project.

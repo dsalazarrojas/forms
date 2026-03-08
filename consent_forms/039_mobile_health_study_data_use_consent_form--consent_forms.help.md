@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mobile Health Study Data Use Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from participants to use their health data for research studies. It is essential to complete this form accurately and honestly to ensure that participants understand how their data will be used and to ensure the integrity of the research process.

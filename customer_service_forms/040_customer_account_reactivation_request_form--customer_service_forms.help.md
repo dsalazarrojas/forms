@@ -1,16 +1,3 @@
-<thinking>...
-The purpose of this form is to request the reactivation of a customer account. To revalidate customer accounts, please ensure the account has been inactive or suspended for no more than 6 months, with the exception of accounts which have been suspended due to non-payment. 
-
-The form is designed to gather information that helps us to revalidate the account status and resolve any issues that may be preventing the customer's account from being reactivated. 
-
-To be eligible for reactivation, the customer's account must meet the criteria for reactivation. 
-
-Before filling out the form, please ensure that the account meets these criteria. 
-
-The account will only be reactivated once the form has been submitted and our team has reviewed and approved the request.
-
-</thinking>
-
 # Customer Account Reactivation Request Form - Help Guide
 ## Purpose
 The "Customer Account Reactivation Request Form" is a tool used to request the reactivation of a customer account that has been inactive or suspended. 

@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to provide a comprehensive overview of the Compliance Review Experience Survey form, ensuring users understand its purpose and how to fill it out accurately. The form is designed to collect feedback on the customer service experience, focusing on specific aspects such as professionalism, clarity, and timeliness of the review process. The information gathered will help the organization improve its review process and provide better services to its customers in the future.
-
-</thinking>
-
 # Compliance Review Experience Survey - Help Guide
 ## Purpose
 The Compliance Review Experience Survey is a form designed to collect feedback on the customer service experience, allowing the organization to identify areas of improvement and enhance its review process.

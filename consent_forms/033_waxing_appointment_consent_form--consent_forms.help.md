@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for clients to provide their consent for a waxing appointment. It will be used to collect information about the client, including their name, service type, allergy information, medical information, contact details, email, emergency contact, risk information, and signature.
-Please ensure that you are submitting this form for the correct purpose and that you have not already submitted it previously. If you are unsure, please double-check your intention and the form's purpose.
-</thinking>
-
 # Waxing Appointment Consent Form - Help Guide
 ## Purpose
 This form is used to collect the necessary information for a waxing appointment from the client. Please complete this form carefully and thoroughly to ensure a smooth and successful appointment.

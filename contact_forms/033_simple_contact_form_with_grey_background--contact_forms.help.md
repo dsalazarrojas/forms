@@ -1,12 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Simple Contact Form With Grey Background" to ensure end-users understand its purpose and how to complete it. This form is designed to gather contact information and messages from users. We'll be referencing the provided YAML fields to create a concise and practical help guide.
-
-We're assuming that users are likely to fill out this form when they want to send a message or ask a question to the contactable entity. We'll be explaining each field in a way that's easy to understand, without requiring unnecessary business logic knowledge.
-
-Before starting, please note that the form has 7 fields in total. We'll explain each field in a separate section below.
-
-</thinking>
-
 # Simple Contact Form With Grey Background - Help Guide
 ## Purpose
 This form is for sending messages or asking questions to the contactable entity. Fill out the form with your details and a brief message, and we'll get back to you as soon as possible.

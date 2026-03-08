@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to serve as a contact form for users to submit inquiries or requests related to a specific theme. The form collects contact information, type of inquiry, and other relevant details to facilitate efficient communication and response. This form is designed to be filled out by users to provide a comprehensive understanding of their needs and preferences. 
-</thinking>
-
 # Contact Form Notepad Theme - Help Guide
 ## Purpose
 The purpose of this form is to gather contact information, type of inquiry, and other relevant details from users to facilitate efficient communication and response.

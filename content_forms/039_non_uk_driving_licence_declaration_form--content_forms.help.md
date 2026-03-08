@@ -1,7 +1,3 @@
-<thinking>
-To determine if this form is relevant, we need to understand that it is for non-UK driving licence declaration. This form is likely used to declare non-UK driving licence information for individuals who are not driving on UK roads. It should not be filled out by those who possess a UK driving licence. The form may be used for international travel, non-UK driving purposes, or other scenarios where a declaration is required.
-</thinking>
-
 # Non UK Driving Licence Declaration Form - Help Guide
 ## Purpose
 This form is for declaration of non-UK driving licence information. It is intended for individuals who do not possess a UK driving licence and need to declare their driving licence details for various reasons such as international travel, non-UK driving, or other purposes.

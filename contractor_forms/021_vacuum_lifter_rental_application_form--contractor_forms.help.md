@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll make sure to review the provided form fields and their requirements to ensure that I'm explaining each field accurately and effectively for end users.</thinking>
-
 # Vacuum Lifter Rental Application Form - Help Guide
 ## Purpose
 This form is used to collect information for the rental of vacuum lifters from our company. It includes contact details, rental location, equipment type, and other relevant information to facilitate the rental process.

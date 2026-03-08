@@ -1,7 +1,3 @@
-<thinking>
-The Signature Collection Challenge form is used for collecting signatures from various stakeholders. It's essential to understand that this form is only for collecting signatures and does not serve other purposes such as sending reminders or notifications. Please fill out the form only once you have read and understood the purpose and requirements. Before filling out the form, make sure you haven't filled out a similar form previously with the same purpose and name.
-</thinking>
-
 # Signature Collection Challenge - Help Guide
 ## Purpose
 The Signature Collection Challenge form is designed for collecting signatures from various stakeholders. It's a structured form for ensuring that all necessary information and agreements are captured in a clear and concise manner.

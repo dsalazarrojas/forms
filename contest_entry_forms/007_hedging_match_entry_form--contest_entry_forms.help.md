@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture data for a hedging match entry form. It appears to be a form used for capturing details about a hedging match, including the type of hedging, underlying asset, match timing, risk level, and other relevant information. It may be used for tracking and managing hedging matches.
-
-The form has multiple fields, including text, select multiple, select one, number, date, time, and other types of fields. Some of the fields are required, while others are optional.
-
-The form is likely used in a business or financial context, possibly for risk management or investment purposes.
-
-</thinking>
-
 # hedging_match_entry_form - Help Guide
 ## Purpose
 This form is used to capture details about a hedging match, including the type of hedging, underlying asset, match timing, risk level, and other relevant information.

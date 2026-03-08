@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to provide quote information for field service requests. The purpose of this form is to gather essential details from customers about their service needs, including service type, date, time, contact information, and address. This information will be used by our team to provide accurate and efficient services.
-</thinking>
-
 # Field Quote Information Form - Help Guide
 ## Purpose
 The Field Quote Information Form is used to gather essential details from customers for field service requests. Please complete this form to ensure our team has all necessary information to provide accurate and efficient services.

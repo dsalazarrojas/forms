@@ -1,9 +1,3 @@
-<thinking>
-You are about to receive a quote request for a high-rise window cleaning service. Before proceeding, please ensure that this request is relevant and has not been previously submitted.
-Please fill out this form accurately and thoroughly to ensure that the service provider can assess your project correctly.
-Please note that this form contains multiple pages, and each page has specific fields that require completion. You will need to navigate through the form carefully to provide the necessary information.
-</thinking>
-
 # High-Rise Window Cleaning Quote Request - Help Guide
 ## Purpose
 This form is a quote request for high-rise window cleaning services. Please provide detailed information to enable service providers to accurately assess your project and provide a comprehensive quote.

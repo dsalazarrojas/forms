@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals seeking in-person physical therapy services. It includes fields for general information, medical history, physical therapy goals, emergency contact, Covid-19 symptoms, medical conditions, current medications, allergies, past surgeries, medical tests, Covid-19 vaccination status, physical therapy start and end dates, physical therapy frequency, other physical therapy details, consent to treatment, consent for treatment, and emergency contact information. This form is intended to be used by healthcare professionals to gather necessary information for patient care and treatment planning. Please ensure that this form is used in accordance with relevant medical regulations and patient confidentiality guidelines.
-</thinking>
-
 # Covid 19 Informed Consent For In Person Physical Therapy Services - Help Guide
 ## Purpose
 This form is designed to collect information from individuals seeking in-person physical therapy services. It helps healthcare professionals gather necessary details for patient care and treatment planning.

@@ -1,21 +1,3 @@
-<thinking>
-This form is used to obtain user consent for social media features. The purpose of this form is to ensure that users understand and agree to the terms and conditions of the organization's social media usage. The form is not mandatory, but it is highly recommended that users complete it to ensure compliance with the organization's social media policies.
-
-To complete this form, follow these steps:
-
-1.  Fill in the **Social media feature consent form** field.
-2.  Select the **Feature content** relevant to the social media feature you are consenting to.
-3.  Choose the **Social media purposes** for which you are consenting to.
-4.  Select the **Social media channels** through which you will be using the social media feature.
-5.  Enter your **Email** address for contact purposes.
-6.  Enter your **Phone number** for contact purposes.
-7.  Enter the **Consent date** on which you are providing consent.
-8.  Enter any additional **Note** about your consent.
-9.  Select who the **Assigned to** for the social media feature is.
-10.  Enter any additional **Note**.
-
-</thinking>
-
 # Social Media Feature Consent Form - Help Guide
 
 ## Purpose

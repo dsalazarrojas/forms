@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to obtain consent from the patient for various services provided by a sugar and esthetics business. This consent form is meant to ensure that the patient is aware of and agrees to the terms and conditions of the services they are receiving. The form is likely used to protect the business and the patient from any potential legal issues that may arise from services such as sugaring and microblading. This form is likely used to obtain consent for one-time services, hence the lack of required fields for date of birth, patient email, and service date.
-</thinking>
-
 # Sugaring Consent Form - Help Guide
 
 ## Purpose

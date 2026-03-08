@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to participate in a contest, including their contact details, contest type, and terms and conditions acceptance. This information will be used to determine eligibility and facilitate the participation process.
-The form should only be filled out by users who are interested in participating in the contest. 
-</thinking>
-
 # Spin To Win Participation Form - Help Guide
 ## Purpose
 This form is used to collect information from users who want to participate in a contest, including their contact details, contest type, and terms and conditions acceptance.

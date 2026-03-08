@@ -1,10 +1,3 @@
-<thinking>
-The In Person Class Participation Waiver form is designed to gather essential information from participants in an in-person class setting. This form is intended to ensure that each participant provides accurate and up-to-date information about themselves, including their name, contact details, and any relevant medical conditions or allergies. This information will be used to ensure the participant's safety and well-being during the class. Please note that this form is a mandatory requirement for participation in the class. 
-
-To complete this form, please follow the instructions below:
-
-</thinking>
-
 # In Person Class Participation Waiver - Help Guide
 ## Purpose
 

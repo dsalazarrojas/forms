@@ -1,7 +1,3 @@
-<thinking>
-This is a form used for obtaining consent from pet owners and businesses for the publication of their pet's images and videos in various media channels. It should only be used for the purpose of publishing media related to a pet. If you are not a pet owner or business owner, please do not use this form. If you have already submitted a consent form for the same pet, please do not resubmit. 
-</thinking>
-
 # pet_spa_media_publication_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from pet owners or businesses for the publication of their pet's images and videos in various media channels. The form is required for the legitimate use and publication of media related to a pet, and should only be used for the purpose of publishing such media.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about their experience with a power supply product. The feedback will help the product development team to improve the product quality and customer satisfaction. Please ensure that this form is filled out only once per customer to avoid duplication of feedback.
-</thinking>
-
 # Power Supply Feedback Form - Help Guide
 ## Purpose
 The Power Supply Feedback Form is designed to collect your opinions and experiences about our power supply products. Your feedback will help us to improve the product quality and provide better services to our customers.

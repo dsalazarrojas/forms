@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect illustrated story submissions from users, allowing them to share their artwork and descriptions. To ensure that each submission is complete and accurate, users must provide essential information such as title, artwork, contributor's name, email, and submission details. Each field is optional, but providing the required information will help streamline the review process.
-
-This guide will help users complete the form correctly, ensuring that their submission is correctly categorized and reviewed.
-
-</thinking>
-
 # Illustrated Story Submission Form - Help Guide
 ## Purpose
 This form is used to submit illustrated stories for review and potential publication. Please fill out the form with accurate and complete information to help the review process.

@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the fields below are filled out accurately. The purpose of this form is to gather information about the participant and their medical history for the athletic training program they are enrolling in. This form is only required to be filled out once for each participant. 
-Please ensure that the form is filled out correctly before proceeding.
-</thinking>
 # Athletic Training Waiver Form - Help Guide
 ## Purpose
 This is a waiver form for participants enrolling in the athletic training program. It contains information about the participant, their medical history, and their agreement to participate in the program.

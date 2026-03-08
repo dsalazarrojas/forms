@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are claiming unemployment benefits. It is essential to complete this form accurately and thoroughly to ensure that your claim is processed correctly. 
-
-The form is divided into five sections: Personal Details, Contact Information, Work History, Unemployment Duration, and Previous Employment. Each section is meant to gather specific details about your situation.
-
-Before proceeding, ensure you have all the necessary information readily available to fill out this form accurately. You may need to refer to your employment records or other relevant documents.
-
-</thinking>
-
 # unemployment_claim_form - Help Guide
 ## Purpose
 The unemployment_claim_form is designed to collect accurate and complete information from individuals claiming unemployment benefits. Completing this form ensures that your claim is processed correctly and efficiently.

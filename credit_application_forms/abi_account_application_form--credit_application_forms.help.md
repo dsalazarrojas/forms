@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the relevance and non-duplication of this form, I've analyzed the provided YAML fields. This form is designed to collect information from applicants seeking an ABI account, likely for a financial or business application. The form includes various fields to gather personal and demographic information, account type, employment status, income, and supporting documents. The form appears to be comprehensive, covering essential details for account creation or application.
-
-</thinking>
-
 # ABI Account Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants seeking an ABI account, including personal details, employment status, income, and supporting documents.

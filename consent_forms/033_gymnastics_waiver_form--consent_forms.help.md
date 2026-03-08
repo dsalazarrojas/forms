@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to be a waiver form for participants in a gymnastics program, typically used by coaches or administrators to gather important information about each participant. The form should be filled out by the participant or their parent/guardian, and it's intended to be a one-time use form, not a recurring or ongoing registration form. 
-
-The purpose of this form is to inform and obtain consent from participants and their parents/guardians about the risks associated with gymnastics, and to get their agreement to participate in the program. 
-
-When filling out this form, please make sure to fill out all required fields. 
-
-</thinking>
-
 # Gymnastics Waiver Form - Help Guide
 ## Purpose
 The Gymnastics Waiver Form is a document that helps protect the rights and safety of participants in a gymnastics program by obtaining informed consent and agreement from them and their parents/guardians about the associated risks.

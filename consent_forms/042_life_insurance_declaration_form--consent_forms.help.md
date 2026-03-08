@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Life Insurance Declaration Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from learners to register them in a course with ESL and computer skills training. This form is not meant for instructors, but rather for learners who want to sign up for the course. The form will help the course organizers understand the learner's preferences and schedule to create a suitable course plan. This form is not meant for learners who have already been registered in the course, so they should not attempt to complete it.
-
-The form is divided into several sections, each corresponding to a specific aspect of the course. The fields are designed to be easy to understand and fill out, with clear labels and instructions.
-</thinking>
-
 # ESL And Computer Skills Registration - Help Guide
 ## Purpose
 This form is for learners who want to register for the ESL and Computer Skills course. It will help the course organizers understand your preferences and schedule to create a suitable course plan.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this Spiritual Checklist form is to collect information about the spiritual state of an individual, covering various aspects of their spiritual growth, practices, and emotional wellbeing. This form will help in identifying areas where an individual may need support or guidance to achieve spiritual balance and development.
 
 ### Spiritual Checklist - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from bridal show attendees to help vendors tailor their services to the attendees' needs. The form should not be duplicated in multiple submissions from the same attendee.
-</thinking>
-
 # Bridal Show Contact Form - Help Guide
 ## Purpose
 The Bridal Show Contact Form is designed to gather information from bridal show attendees to better understand their needs and preferences. By completing this form, you will help vendors at the show tailor their services to cater to your requirements.

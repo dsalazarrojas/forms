@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to support users in completing the iep_services_course_registration form. The purpose of this form is to collect information from participants regarding their course registration, which may include their preferences and details.
-
-The form is likely related to the Individualized Educational Plan (IEP) services, where participants can register for courses and provide their preferences for the courses they wish to attend. This form is not a duplicate or a subset of other forms, as it is a unique identifier for this specific purpose.
-
-The form has four main sections or "pages" that need to be completed, each with its own set of fields. We will break down each section and field in the following pages to ensure that users understand what is required and how to complete the form accurately.
-</thinking>
-
 # iep_services_course_registration - Help Guide
 ## Purpose
 This form is used to collect participant information and preferences for course registration in the context of Individualized Educational Plan (IEP) services.

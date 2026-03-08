@@ -1,9 +1,3 @@
-<thinking>
-This form is used to assess the suitability of a prospective student for a culinary course.
-It aims to gather information about the student's background, experience, and needs.
-Each field should be filled out in accordance with the label.
-</thinking>
-
 # Culinary Course Suitability Assessment - Help Guide
 ## Purpose
 This form is used to assess the suitability of a prospective student for a culinary course.

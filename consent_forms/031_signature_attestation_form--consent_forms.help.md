@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information related to an attestation process. The purpose of this form is to collect data for tracking and verification. The form is intended to be completed by an individual who is attesting, and it will capture relevant details about the attestee (the person being attested to). This form should only be used in situations where the attestation process is relevant, to avoid duplication of efforts.
-
-Please note that this guide is intended for the end-user to understand the purpose and usage of the form, and not to infer any specific business logic or requirements.
-</thinking>
-
 # Signature Attestation Form - Help Guide
 
 ## Purpose

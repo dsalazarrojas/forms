@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect demographic information, vaccination status, and medical history of the patient. The form is divided into several sections: Patient Identification, Vaccination Status, Medical History, and Appointment Schedule. The fields are designed to gather necessary information from the patient, including their name, contact information, medical conditions, allergies, and medical history. The form also asks the patient to confirm their vaccination status, medical conditions, and understand the benefits and risks of the vaccination. The electronic signature section is a requirement for form completion.
-</thinking>
 # COVID 19 Vaccine Registration, Consent And Appointment Form - Help Guide
 ## Purpose
 This guide is intended to help users understand the form's requirements and how to complete it accurately.

@@ -1,10 +1,4 @@
-# <thinking>
-We need to ensure the purpose of this form is clear and that we haven't duplicated effort in other parts of the system.
-The ADHD Consultation Form is a crucial tool used by clinicians to gather vital information about clients seeking attention and evaluation services. It is designed to collect comprehensive data on the client's basic information, clinical and developmental history, and primary symptoms of ADHD.
-We should verify that this form is not being used concurrently or redundantly in other forms within the system.
-</thinking>
-
-# ADHD Consultation Form - Help Guide
+# # ADHD Consultation Form - Help Guide
 ## Purpose
 The ADHD Consultation Form is used to collect detailed information about clients seeking attention and evaluation services for ADHD. The form is divided into several sections, each focusing on different aspects of the client's experience and history.
 

@@ -1,13 +1,3 @@
-<thinking>
-This help guide is being written based on the provided YAML schema for the "Fencing Permit Form". The purpose of this form is to gather information for a fencing permit application from the property owner or applicant. It is likely used to collect details required for the local government to process the permit.
-
-Before proceeding, please note that this guide is based on the assumption that the form is being used for a new application and not for an existing permit renewal or modification. It is also assumed that the form will be filled out by either the property owner or a representative of the property owner.
-
-To ensure that the form is filled out correctly, please make sure to read each field's description carefully and answer accordingly. If any section is not relevant to your application, please skip it.
-
-Before starting, it is also a good idea to have the following documents ready: a property survey, any existing permits related to the property, and proof of ownership or authorization to represent the property owner.
-</thinking>
-
 # Fencing Permit Form - Help Guide
 ## Purpose
 The Fencing Permit Form is used to collect information for a new fencing permit application. It is intended for the property owner or their representative to fill out the form accurately and completely.

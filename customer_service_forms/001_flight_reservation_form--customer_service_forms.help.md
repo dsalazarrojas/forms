@@ -1,5 +1,3 @@
-<thinking>What a comprehensive form design! It seems like this Flight Reservation Form is designed for customers to input details about their flight reservations. It appears that it's intended to be used by a customer-facing service, like a travel agency or airline, to collect information from passengers. I'll create a detailed help guide for this form, explaining each field purpose, required fields, and any additional hints or tips. The form seems to have a mix of text inputs, date and time inputs, and select-one inputs, which should be easy to understand for most users. Before I start writing the help guide, I'll just double-check the form fields to ensure I cover all the required information and no redundant fields.</thinking>
-
 # Flight Reservation Form - Help Guide
 ## Purpose
 This form is designed for customers to input their flight reservation details, which will be used to process their flight reservation requests.

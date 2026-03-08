@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Affidavit Template is to provide a structured format for individuals to declare and attest to specific facts under oath, typically in legal settings. This form is intended to be used in situations where a person (the affiant) needs to provide a sworn statement or testimony. The form is designed to be completed in the presence of a notary public, who verifies the authenticity of the statement.
-</thinking>
-
 # Affidavit Template - Help Guide
 ## Purpose
 The Affidavit Template is a document used to make sworn statements or declarations. It is intended for completion by an affiant (the person making the declaration) in the presence of a notary public.

@@ -1,15 +1,3 @@
-<thinking>
-To provide an effective help guide for the "Bridal Show Contact Form Template", we need to carefully analyze the form's purpose and the user experience.
-
-This form is designed to collect essential information from potential clients for a bridal show or wedding event. The form appears to be a comprehensive tool for vendors and wedding planners to understand the couple's preferences, details, and expectations for their special day. 
-
-Considering the various fields and their corresponding hints, it seems that the form aims to gather contact information, event details (date, time, venue, etc.), and vendor preferences. 
-
-However, it's essential to review the form's fields carefully to ensure we cover all the necessary areas and provide clear explanations for each field. 
-
-Let's break down each field and create a detailed help guide for the end-users.
-</thinking>
-
 # Bridal Show Contact Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about your wedding plans and preferences. It will help us understand your needs and provide you with the best services and support for your special day.

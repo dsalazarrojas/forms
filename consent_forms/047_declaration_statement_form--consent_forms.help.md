@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information about declarations from organizations. It is not a survey or a form for collecting sensitive data. The form's purpose is to gather statements from organizations, which may include descriptions of their activities, services, or products. This form does not collect personal identifiable information and is intended for use by organizations rather than individuals... </thinking>
-
 # Declaration Statement Form - Help Guide
 ## Purpose
 This form is designed to collect declarations from organizations, which may include descriptions of their activities, services, or products.

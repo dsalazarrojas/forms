@@ -1,7 +1,3 @@
-<thinking>
-This form, "Mental Health Counselor Information Form", is designed to collect essential information from mental health counselors, including demographic details and certifications/credentials. This form will help in creating or editing the mental health counselor's profile. Please fill it out carefully as it will be used for administrative and operational purposes only. Ensure that the form is completed only once for each mental health counselor and that no duplicates are created for the same person.
-</thinking>
-
 # Mental Health Counselor Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect accurate and up-to-date information from mental health counselors. This information will be used to create or update their profiles in the system, which is crucial for administrative and operational reasons.

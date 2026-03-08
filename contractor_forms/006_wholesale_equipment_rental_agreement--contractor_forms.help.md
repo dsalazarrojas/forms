@@ -1,12 +1,3 @@
-<thinking>
-This form was created to help businesses manage wholesale equipment rental agreements, which are contracts between a company and a customer for the use of equipment or machinery for a specific period. The form includes fields for rental details, terms and conditions, rental terms, customer signature, and renter signature.
-
-The purpose of this form is to provide a structured document that outlines the agreement between the two parties, ensuring both parties are on the same page regarding the rental terms, conditions, and responsibilities.
-
-This form should be used when a business needs to rent out equipment or machinery to a customer, and both parties need to agree on the terms of the rental.
-
-</thinking>
-
 # wholesale_equipment_rental_agreement - Help Guide
 ## Purpose
 This form is used to create a wholesale equipment rental agreement between a company and a customer for the use of equipment or machinery for a specific period. It includes fields for rental details, terms and conditions, rental terms, customer signature, and renter signature.

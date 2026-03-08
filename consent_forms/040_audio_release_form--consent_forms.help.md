@@ -1,8 +1,3 @@
-<thinking>
-The form appears to be designed for obtaining audio release forms, likely used in the music industry to transfer ownership rights and payment details between creators and assignees. I will make sure to cover all the fields in this guide without assuming any business logic beyond what's provided in the YAML.
-
-</thinking>
-
 # Audio Release Form - Help Guide
 ## Purpose
 The Audio Release Form is designed to facilitate the transfer of ownership rights and payment details between audio creators and assignees. This form helps ensure a clear and concise agreement on the terms of the audio work release.

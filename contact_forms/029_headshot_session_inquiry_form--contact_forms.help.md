@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Headshot Session Inquiry Form - Help Guide
 ## Purpose
 The Headshot Session Inquiry Form is used to collect information from users for a headshot photography session. This form helps us understand their preferences and requirements for the session, ensuring we can tailor the experience to their needs.

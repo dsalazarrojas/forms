@@ -1,8 +1,3 @@
-<thinking>
-This form is for individuals who wish to participate in a property photography contest. It captures essential information about the participant, their photo details, the property they are submitting, and their team details. The form is required for all participants, regardless of their previous experience with property photography contests. Please note that this form is an original adaptation of a public survey topic and is not affiliated with any proprietary form platforms. The form's purpose is to ensure that participants have a clear understanding of the contest's rules and guidelines, and to collect relevant information for the contest organizers. 
-
-</thinking>
-
 # Property Photography Contest Registration - Help Guide
 ## Purpose
 This form is for participants to register for a property photography contest. It is a required form that captures essential information about the participant and their entry.

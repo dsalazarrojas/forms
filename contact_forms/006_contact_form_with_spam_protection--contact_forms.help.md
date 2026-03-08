@@ -1,7 +1,3 @@
-<thinking>
-The form is used to provide a secure and spam-protected contact mechanism for end users to send inquiries, feedback, or general information. The purpose of this form is to ensure that user-submitted content is not used for spam purposes. Each field in this form is designed to be completed by the user in a way that prevents automated submissions.
-</thinking>
-
 # Contact Form With Spam Protection - Help Guide
 ## Purpose
 The contact form is used to provide a secure and spam-protected way for end users to send inquiries, feedback, or general information. This form ensures that user-submitted content is not used for spam purposes.

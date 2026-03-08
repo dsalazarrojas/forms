@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to collect relevant information from clients seeking neuromuscular massage therapy services. The purpose of this form is to gather essential details about the client's contact and medical history, which will help the therapist assess and provide effective treatment.
-
-To ensure that the form serves its purpose, the following fields are included:
-
-* Contact Info: This section asks for the client's contact information, which is a standard requirement for any medical or health-related intake form.
-* Medical History: This section is crucial in understanding the client's past medical conditions and experiences that may impact their treatment.
-* Health Info: This section is intended to gather additional health-related information that may not be included in the medical history section.
-* Medical Condition: This field is specifically designed to capture any chronic or acute medical conditions that the client may be experiencing.
-* Massage Info: This section is where the client can provide information about their massage preferences and goals.
-* Emergency Contact: This field is a crucial safety measure to ensure that the therapist has access to the client's emergency contact person in case of an emergency.
-* Medical History 1, 2, and 3: These fields are additional sections for the client to provide more detailed medical history information, which can be reviewed by the therapist before treatment.
-
-</thinking>
-
 # Neuromuscular Massage Therapy Client Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from clients seeking neuromuscular massage therapy services, ensuring a safe and effective treatment experience.

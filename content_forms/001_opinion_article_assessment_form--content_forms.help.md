@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide feedback and assessment on a given article. The form will help users rate and evaluate the article's quality, providing an opportunity for users to share their thoughts on the article's content, author, and overall impact. This form is intended to be completed by users who have read and engaged with the article. The purpose of this form is to collect valuable feedback that can be used to improve the article's content, author's writing style, and overall user experience.
-
-</thinking>
 # opinion-article-assessment-form - Help Guide
 ## Purpose
 The opinion-article-assessment-form is designed to gather feedback and assessments from users on a given article.

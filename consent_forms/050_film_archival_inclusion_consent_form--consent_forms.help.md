@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for collecting information about participants in a film archiving process, ensuring their consent to use their images, voice, or contributions in archival purposes such as archiving, online database, or both. It also gathers contact information for the participant, details about their involvement and contribution to the project, and other additional information. It is crucial to review the form carefully to ensure all required information is provided and understand that it may be used for archival purposes. Ensure you haven't filled out this form before as it may contain identical or similar questions.
-</thinking>
-
 # Film Archival Inclusion Consent Form - Help Guide
 ## Purpose
 This form is designed for film participants to provide their consent for the archiving of their images, voice, and contributions in various forms such as film archives, online databases, or both.

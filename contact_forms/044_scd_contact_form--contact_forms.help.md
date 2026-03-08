@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and comments from users. The purpose of this form is to provide a way for users to share their thoughts, feedback, or questions with the organization. This form is intended for general contact purposes and does not require any specific authentication or login credentials. It is essential to ensure that the form is filled out correctly to ensure that the user's information is collected accurately.
-</thinking>
-
 # scd_contact_form - Help Guide
 
 ## Purpose

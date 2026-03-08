@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from students who have taken a ceramics course. The form aims to gauge their overall satisfaction with the course, their instructor, and the learning experience. It is crucial to have this form filled out by students who have completed the course, as it helps us understand their perspective and identify areas for improvement.
-</thinking>
-
 # Ceramics Course Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students who have taken a ceramics course. It's essential to fill out this form to help us improve our courses and provide a better learning experience for future students.

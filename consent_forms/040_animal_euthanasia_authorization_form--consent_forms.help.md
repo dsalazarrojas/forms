@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Euthanasia Authorization Form - Help Guide
 ## Purpose
 The Animal Euthanasia Authorization Form is a document that allows pet owners to provide informed consent for the humane euthanasia of their pets. This form is a critical part of the process, as it ensures that the owner understands the procedure and agrees to it.

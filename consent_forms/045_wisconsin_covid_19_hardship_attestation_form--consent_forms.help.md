@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wisconsin COVID-19 Hardship Attestation Form - Help Guide
 ## Purpose
 This form is intended for individuals to provide a self-attestation that they are experiencing hardship due to the COVID-19 pandemic. It is used to demonstrate their understanding and agreement with specific conditions related to financial assistance programs.

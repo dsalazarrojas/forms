@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and medical information from guests. It is not affiliated with, endorsed by, or derived from any form platforms. The form is generated using public survey topic metadata and is an original creation. It is released under CC BY 4.0 and can be used, modified, and distributed freely as long as credit is given. Contact <form@gic.mx> for any questions or concerns.
-</thinking>
-
 # Guest Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect personal and medical information from guests for various medical purposes. This information helps the healthcare provider to prepare for the visit and understand the guest's needs better.

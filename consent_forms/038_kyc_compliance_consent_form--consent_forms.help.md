@@ -1,12 +1,3 @@
-<thinking>
-The form's purpose is to collect user information required for KYC (Know Your Customer) compliance, which involves verifying the identity of customers or users. This process aims to prevent money laundering, terrorist financing, and other illicit activities. KYC compliance forms are usually required by regulatory bodies or financial institutions to ensure customers' identities are genuine. The form is designed to gather essential details such as name, contact information, and location to verify users' identities.
-
-The form is not intended to be used for commercial purposes or to solicit sensitive financial information. Users should fill out the form accurately and honestly to ensure a smooth onboarding process.
-
-Please note that the form's fields are designed to collect minimal necessary information while maintaining user data privacy. Required fields are marked with <required> in the form.
-
-</thinking>
-
 # KYC Compliance Consent Form - Help Guide
 ## Purpose
 This form collects user information for Know Your Customer (KCY) compliance, a process to verify user identities to prevent illicit activities such as money laundering and terrorist financing.

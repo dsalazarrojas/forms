@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the Post Office Claim Form. To start, we need to determine the form's purpose. The form is designed to be completed by a claimant (the person submitting the claim) to report a lost or damaged parcel. The form will collect various information about the parcel, the claimant, and the postal service provider. We will need to ensure that the form is not completed by anyone else, so we will add a "Claimant Declaration" field to verify the claimant's identity. We will also need to ensure that the form is not filled out with incorrect or incomplete information, so we will add fields for proof of loss, description of loss, and other relevant details.
-</thinking>
-
 # Post Office Claim Form - Help Guide
 ## Purpose
 This form is for claimants to report lost or damaged parcels to the postal service provider.

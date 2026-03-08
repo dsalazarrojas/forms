@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect consent from individuals returning to training after a coronavirus pandemic. This form will help us ensure that all necessary precautions are taken to maintain a safe training environment. Please note that completing this form is not optional and is required for the safety and well-being of all individuals involved. It's essential to answer these questions accurately and thoroughly to help us understand your readiness to return to training.
-</thinking>
-
 # Return To Training Consent - Help Guide
 ## Purpose
 This form is designed to gather information about your willingness and ability to follow the safety guidelines and protocols in place for the training environment. Completing this form will help us assess your risk of transmitting or contracting the coronavirus and take necessary actions to maintain a safe environment.

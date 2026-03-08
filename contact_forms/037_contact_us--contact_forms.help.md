@@ -1,13 +1,3 @@
-<thinking>
-  **Internal reasoning:** This form is designed to gather information from users for contact purposes.
-  - It's a one-page form with fields for personal details, email, phone number, subject, message, department selection, priority level, and preferred contact method.
-  - The form's goal is to provide a straightforward way to reach out to the company for sales, support, billing, or general inquiries.
-  - This form is not intended for users to upload files or submit complex information.
-  - It's a simple, minimalistic design to ensure easy and efficient submission.
-  - The form's fields are designed to be filled out by the user, with some fields marked as required for proper completion.
-  - This form is intended for end-users who want to contact the company for various reasons.
-</thinking>
-
 # Contact Us - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>... this form is a tool for customers to get in touch with Woodshop. It is primarily used to facilitate communication and gather information from customers regarding custom orders. This form should only be used for customers looking to place custom orders or have general inquiries. Do not use this form for other purposes as it is not a suitable replacement for other established contact methods such as phone or email. ...</thinking>
-
 # Woodshop Contact Form - Help Guide
 
 ## Purpose

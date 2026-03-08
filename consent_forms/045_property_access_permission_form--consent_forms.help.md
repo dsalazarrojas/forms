@@ -1,13 +1,3 @@
-<thinking>
-
-The Property Access Permission Form is used to gather contact information and details of property access requests from users. This form helps us understand how to best communicate with the user about their access requests and ensure that the property is available for inspection or access. 
-
-This form is not intended for general property inquiries, but rather for specific access requests for properties. 
-
-Before completing this form, please ensure that you have not already submitted one for the same property. If you have, please do not submit a duplicate form.
-
-</thinking>
-
 # Property Access Permission Form - Help Guide
 ## Purpose
 The Property Access Permission Form is used to gather contact information and details of property access requests for properties. This helps us understand how to best communicate with users about their access requests and ensure that the property is available for inspection or access.

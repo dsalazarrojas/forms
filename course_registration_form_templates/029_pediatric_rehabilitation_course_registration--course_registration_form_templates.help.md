@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information from parents for course registrations. However, before proceeding, please ensure that this is the correct form for your use case and that no similar form exists in the system. This form may be used for various types of course registrations, such as pediatric rehabilitation courses, and the provided instructions will outline the general process.
-
-Please note that the actual form fields and their requirements may be subject to change based on the specific use case.
-</thinking>
-
 # Pediatric Rehabilitation Course Registration - Help Guide
 ## Purpose
 This form is designed for parents to register their children for pediatric rehabilitation courses.

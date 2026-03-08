@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective customer feedback tracker, we need to understand the customer's experience and feedback to improve our services or products. The form is designed to collect various types of feedback, including ratings, comments, and suggestions. This form will help us identify areas of improvement and provide a better experience for our customers.
 
 The form is intended to be used by customers to report their feedback, which will be reviewed and acted upon by our team. It's essential that customers understand the purpose and structure of the form to provide accurate and helpful feedback.

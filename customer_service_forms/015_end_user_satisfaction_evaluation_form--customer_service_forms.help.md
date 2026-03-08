@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the satisfaction of end users regarding their experience with our company's services. It's essential to fill out this form to provide feedback on our performance and help us improve our services. Please ensure you're not submitting duplicate feedback, as this will help us track and address recurring issues more efficiently. This form is designed to be completed by end users, not internal staff. It's a crucial part of our service delivery process, and your input will help us enhance the quality of our services.
-</thinking>
-
 # End User Satisfaction Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with our company's services. Your feedback will help us improve our performance and ensure that you get the best possible service in the future.

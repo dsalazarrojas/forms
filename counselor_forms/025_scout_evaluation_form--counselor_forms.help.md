@@ -1,5 +1,3 @@
-<thinking>This form, the "Scout Evaluation Form", is used by scouts to evaluate the skills and overall rating of a player. The form is designed to assess the player's athleticism and skills in a series of categories. Each section of the form is focused on evaluating a specific aspect of the player's performance, such as overall rating and specific skills. To complete this form, the scout must choose the appropriate ratings for each section. Each section has multiple fields with corresponding labels and options that must be filled out according to the scout's assessment.</thinking>
-
 # Scout Evaluation Form - Help Guide
 ## Purpose
 The Scout Evaluation Form is used by scouts to assess the skills and overall rating of a player.

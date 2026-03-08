@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect general information for official correspondence such as letters, reports, and memos. This form is typically used in internal communication and does not require sensitive or confidential information. Please ensure that you are not duplicating an existing record or collecting information already known to you. If in doubt, verify with the relevant authority.</thinking>
-
 # General Letter Format - Help Guide
 ## Purpose
 The General Letter Format form is used to collect basic contact information for official correspondence purposes.

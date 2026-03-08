@@ -1,7 +1,3 @@
-<thinking> 
-This form is a digital access system data consent form, designed to collect user consent for data collection and processing. To use this form, please ensure that you have understood the purpose and context in which it is being presented, and that you are not duplicating the collection of this information elsewhere. If you are unsure about any of the fields, please seek clarification with the relevant authority. 
-</thinking>
-
 # digital_access_system_data_consent_form - Help Guide
 ## Purpose
 This form is designed to collect user consent for the collection, processing, and storage of data. It is intended to ensure that users understand how their data will be used and that they are willing to provide their consent.

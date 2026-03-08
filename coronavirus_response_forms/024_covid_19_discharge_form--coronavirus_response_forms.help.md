@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to understand the context and purpose of this form to create an accurate user-facing help guide. The COVID-19 Discharge Form seems to be a document used to record and document a patient's discharge information after receiving medical treatment related to COVID-19. The form includes various fields related to patient information, hospitalization details, clinical status at discharge, post-discharge instructions, and discharge instructions, all of which are essential for tracking and recording important patient data. Upon reviewing the form structure and fields, I will create a clear and concise guide to help users fill out the form accurately and effectively.</thinking>
-
 # COVID 19 Discharge Form - Help Guide
 ## Purpose
 The COVID 19 Discharge Form is a document used to record and document a patient's discharge information after receiving medical treatment related to COVID-19.

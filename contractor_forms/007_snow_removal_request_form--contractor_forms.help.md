@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request snow removal services from the city or a contractor. The form is used to collect contact information, details about the snow removal request, and any other relevant information that the contractor needs to complete the service. The purpose of this form is to ensure that the contractor has all the necessary information to perform the snow removal service efficiently and effectively. Before filling out this form, please make sure that you have the necessary contact information and details about the snow removal request. Please also ensure that you are not duplicating a previous request, as this may cause confusion and delay in processing the request.
-</thinking>
-
 # Snow Removal Request Form - Help Guide
 ## Purpose
 The Snow Removal Request Form is used to request snow removal services from the city or a contractor. This form is intended to gather necessary information for the contractor to complete the snow removal service.

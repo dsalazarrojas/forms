@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for potential customers to provide information about their needs and expectations from our consulting services. The form is intended to help the consulting team understand the client's requirements, challenges, and goals, allowing for a more tailored and effective consultation. By filling out this form, clients can ensure that the consultation is focused on their specific needs and goals. Please review the following guide to complete the form accurately and thoroughly.
-</thinking>
-
 # Buyer Consultation Form - Help Guide
 ## Purpose
 The Buyer Consultation Form is a tool to help our consulting team understand your requirements, challenges, and goals, ensuring a tailored and effective consultation.

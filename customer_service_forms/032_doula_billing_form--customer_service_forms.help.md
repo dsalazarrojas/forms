@@ -1,15 +1,3 @@
-<thinking>
-This form is for billing purposes, specifically for a doula service. The purpose of the form is to collect information from clients regarding their service dates, hours, and charges. It is designed to be completed by clients to provide accurate billing information for their services rendered by the doula. 
-
-This form is intended for internal use within the doula's business and does not require any external validation or submission to a third-party system. The form is meant to be filled out by the client, not by the doula, and is therefore not intended to be a public-facing form. 
-
-The form fields should be filled out in a way that accurately reflects the client's service details, with the exception of services rendered and other services, where clients may select multiple options.
-
-This form does not contain any sensitive information, and the services rendered options are limited to a few common services provided by a doula. 
-
-There is no validation or data submission process for this form.
-</thinking>
-
 # Doula Billing Form - Help Guide
 ## Purpose
 The Doula Billing Form is a tool used to collect billing information from clients for services rendered by a doula. This form is intended to help doulas accurately track their services and charges.

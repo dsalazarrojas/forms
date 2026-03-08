@@ -1,12 +1,4 @@
-> <thinking>
-
-This form is designed to gather feedback and ratings on the quality and effectiveness of a course. It appears to be a standardized form used to collect data on various aspects of a course, including its content, teaching quality, learning experience, and overall satisfaction. This form should be filled out by students, who are likely asked to evaluate the course based on their experience.
-
-Before filling out this form, please make sure you are not duplicating your feedback. If you have already submitted a review for this course, you will not be able to submit another review for the same course.
-
-</thinking>
-
-# Course Evaluation Survey - Help Guide
+> # Course Evaluation Survey - Help Guide
 ## Purpose
 
 This form is designed to gather feedback on the quality and effectiveness of a course. It helps instructors and administrators understand what works well and what needs improvement.

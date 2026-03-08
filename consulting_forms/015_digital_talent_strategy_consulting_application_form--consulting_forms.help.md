@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in digital talent strategy consulting services. The form is meant to gauge their qualifications, work experience, and availability for potential consulting projects. The goal is to gather relevant details to match the consultant's skills and expertise with suitable clients. 
-
-This form is not intended to collect sensitive or confidential information, and all responses will be treated with discretion. 
-
-Please note that the information collected will be reviewed for relevance and non-duplication to ensure the best possible matches for the consultant and clients.
-</thinking>
-
 # Digital Talent Strategy Consulting Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in digital talent strategy consulting services. It aims to match their skills and expertise with suitable clients.

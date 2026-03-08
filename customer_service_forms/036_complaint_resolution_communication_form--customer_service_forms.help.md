@@ -1,7 +1,3 @@
-<thinking>
-This form is for recording the details of customer communication, including the date of the communication, the customer's contact information, and the outcome of the communication. It is designed to help customer service representatives track and resolve customer complaints effectively. The form helps to ensure that all necessary information is collected and documented, and that the customer's concerns are addressed in a timely and efficient manner. This form will not be used for duplicate entries or for non-relevant communications.
-</thinking>
-
 # Complaint Resolution Communication Form - Help Guide
 ## Purpose
 The Complaint Resolution Communication Form is a tool used to document and track customer communication related to complaint resolution. It is used to ensure that all necessary information is collected and that the customer's concerns are addressed in a timely and efficient manner.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # innovation-roadmap-consultation-request - Help Guide
 ## Purpose
 This form is designed to collect information for an innovation roadmap consultation request. It's meant to gather essential details from users to initiate a consultation process that suits their needs.

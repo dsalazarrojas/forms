@@ -1,7 +1,3 @@
-<thinking>
-The form "seint_beauty_color_match" is designed for customers to register their details for a color matching service. This form is part of the customer registration process and is used to collect essential information from customers. The form is designed to be simple and easy to fill out, reducing the risk of errors and making it accessible to a wide range of users. The form fields are self-explanatory, and the labels are clear and concise, making it easy for users to understand what information is being requested. 
-</thinking>
-
 # seint_beauty_color_match - Help Guide
 ## Purpose
 The "seint_beauty_color_match" form is designed to collect customer details for color matching service. It is a simple and straightforward form that helps customers provide their information for a smooth and efficient process.

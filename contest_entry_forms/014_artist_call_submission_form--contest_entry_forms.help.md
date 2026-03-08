@@ -1,5 +1,3 @@
-<thinking>...checking for form purpose and consistency with provided YAML fields...</thinking>
-
 # Artist Call Submission Form - Help Guide
 
 ## Purpose

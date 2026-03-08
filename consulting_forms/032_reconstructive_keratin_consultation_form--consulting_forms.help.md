@@ -1,6 +1,3 @@
-<thinking>
-This form is used to capture information about a client's keratin treatment goals, hair history, and personal details. The form will help the consultant to better understand the client's expectations and provide tailored advice and guidance. To avoid duplicates, please ensure that each submission is unique and reflects the current client's requirements. The form should not be used for test cases or internal use.</thinking>
-
 # Reconstructive Keratin Consultation Form - Help Guide
 ## Purpose
 This form is used to capture information about a client's keratin treatment goals, hair history, and personal details to provide tailored advice and guidance.

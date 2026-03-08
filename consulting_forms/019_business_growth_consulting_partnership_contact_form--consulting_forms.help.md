@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form is completed correctly and in the right spirit. This is not just any partnership inquiry form, but a form that seeks out potential partners for business growth consulting. To ensure relevance, we'll need to review the form fields for accuracy and completeness. The form's purpose is to identify potential partners who share similar interests and values, and can collaborate on mutually beneficial projects. We need to ensure that the fields are filled out in a way that accurately represents the potential partner's capabilities and fit. Non-duplication is also key - no repeated or redundant information should be collected. Let's focus on creating a clear and concise help guide to ensure that end-users understand the form's purpose and each field's significance.</thinking>
-
 # Business Growth Consulting Partnership Contact Form - Help Guide
 ## Purpose
 This form is for potential partners who are interested in collaborating on business growth consulting projects with us. Please complete this form to share your details and interests, so we can have an informed discussion about potential partnership opportunities.

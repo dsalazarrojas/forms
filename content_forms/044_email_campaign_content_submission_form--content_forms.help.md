@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to submit content and settings for an email campaign. This form is designed to gather information for an email campaign, which is a marketing or promotional email sent to a list of email addresses. The campaign may include a subject line, body text, and sender and recipient information. The form is likely to be used by marketing or communications teams to plan and execute a campaign.
-
-To avoid duplication, ensure that the email campaign content is not already in the system before filling out this form.
-
-</thinking>
-
 # email_campaign_content_submission_form - Help Guide
 ## Purpose
 This form is used to submit content and settings for an email campaign.

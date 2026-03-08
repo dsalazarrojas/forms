@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on their experience with real estate agents. The purpose of this form is to gather information on how the customer's needs were met, and how the agent's communication and follow-up were. This form will be used to evaluate the performance of the real estate agents and identify areas for improvement.
-</thinking>
-
 # real_estate_agent_service_experience_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience with real estate agents. The feedback collected will help us evaluate the performance of the agents and identify areas for improvement.

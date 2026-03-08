@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers about their experience with a financial service. The form collects demographic data such as name, email, and phone number, and also solicits feedback about the quality of service, staff behavior, and overall experience. This form is likely used for internal evaluation and improvement purposes, such as identifying areas of improvement and tailoring services to customer needs.
-</thinking>
-
 # Financial Service Experience Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with a financial service. The information collected will help us understand your needs and preferences, and improve our service quality.

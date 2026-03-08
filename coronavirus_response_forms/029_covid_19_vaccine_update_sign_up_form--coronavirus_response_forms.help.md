@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information from individuals who are interested in receiving updates about the COVID-19 vaccine, such as vaccine availability, eligibility, and distribution. The form is meant to be completed by those who want to stay informed about the vaccine and potentially receive notifications about vaccine availability and locations where they can get vaccinated. To ensure that users are not duplicating their information or wasting their time, we will check for non-duplication of email addresses and only send updates to those who have explicitly opted-in for them. We will also ensure that users are not automatically enrolled in any program without their explicit consent. </thinking>
-
 # COVID 19 Vaccine Update Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to stay informed about the COVID-19 vaccine, including its availability, eligibility, and distribution. By completing this form, you will be able to receive updates about the vaccine and potentially get notifications about locations where you can get vaccinated.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect video consent from individuals or entities that have a relationship with the content or subject of a video. This form is designed to be a simple and straightforward way to gather the necessary permissions and agreements for the use of a video, whether it's for free or paid purposes. By filling out this form, the producer and owner of the video can ensure that they have the necessary consent to use the video in various contexts.
-
-The form is intended to be used for non-commercial and commercial purposes, and it's crucial to fill it out carefully to avoid any potential issues with copyright or privacy concerns. Please make sure to answer these questions accurately and thoroughly.
-
-Before proceeding, please note that this form is not a substitute for the advice of a legal expert. If you're unsure about any aspect of the video's usage, please consult a lawyer or relevant authorities.
-</thinking>
-
 # Video Consent Form - Help Guide
 ## Purpose
 This form is designed to collect video consent from individuals or entities that have a relationship with the content or subject of a video. It's intended to be used for both free and paid purposes.

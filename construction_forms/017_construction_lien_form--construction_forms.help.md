@@ -1,7 +1,3 @@
-<thinking>
-A construction lien form is used to document a claim for a construction lien on a property. This form is typically filed by a claimant (the party filing the lien) to secure payment for work or materials provided on a project. The form requires information about the claimant, the property owner, and the project details. The purpose of this form is to provide a clear and concise record of the claim, which can be used to resolve payment disputes.
-</thinking>
-
 # Construction Lien Form - Help Guide
 
 ## Purpose

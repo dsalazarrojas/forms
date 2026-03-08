@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for this Lodge Reservation Form that clearly explains its purpose, the steps to complete it, and what each field means.</thinking>
-
 # Lodge Reservation Form - Help Guide
 ## Purpose
 This form is designed for guests to lodge their reservations, providing essential information about their stay. It is meant to collect details about the type of stay, arrival and departure dates, contact information, and other relevant details for the lodge's staff to efficiently process their reservation.

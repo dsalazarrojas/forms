@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Therapy Notes Release Form - Help Guide
 ## Purpose
 This form is used to collect information and obtain consent from clients for the release of their therapy notes. It is a crucial document for ensuring that clients are aware of and agree to the sharing of their personal data and therapy notes with third parties.

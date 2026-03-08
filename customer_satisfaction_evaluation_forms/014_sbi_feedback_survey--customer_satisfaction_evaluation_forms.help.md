@@ -2,11 +2,6 @@
 ## Purpose
 This form is designed to collect feedback from customers regarding their visit to our branch. Your input will help us improve our services and provide better experiences for our customers in the future.
 
-<thinking>
-Please note that this form is intended to capture your honest feedback. Your responses will be kept confidential and used to improve our branch operations. If you have visited our branch recently, we encourage you to participate and provide your feedback.
-
-</thinking>
-
 ## How To Complete This Form
 
 To complete this survey, please follow these steps:

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from teachers regarding the recording of their training case studies. The form is designed to ensure that teachers understand and agree to the recording of their sessions, which can help with training and improvement. Before filling out this form, please ensure that you have obtained the relevant permissions and approvals from your supervisors or HR department, and that you have not already filled out this form for the same session. If you have any questions or concerns, please don't hesitate to reach out to your supervisor or HR representative.
-</thinking>
-
 # Teacher Training Case Study Recording Consent - Help Guide
 ## Purpose
 This form is used to obtain consent from teachers regarding the recording of their training case studies.

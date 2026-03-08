@@ -1,7 +1,3 @@
-<thinking>
-A form to gather contact information from users, likely for Santa's elves to follow up on, or for Santa to keep in his book of naughty or nice lists. This form does not seem to have any specific validation or submission rules.
-</thinking>
-
 # Santa Claus Contact Form - Help Guide
 ## Purpose
 The Santa Claus Contact Form is a tool to collect contact information from users who want to reach out to Santa Claus or his helpers. It seems to be a simple form to gather names, emails, and messages/comments.

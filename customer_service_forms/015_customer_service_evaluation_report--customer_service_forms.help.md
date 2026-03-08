@@ -1,36 +1,3 @@
-<thinking>
-The "Customer Service Evaluation Report" is a form used to capture feedback and evaluation of customer interactions with your organization's customer service team. The form is designed to gather information about the customer's service request, the type of service provided, and their overall satisfaction with the interaction. This form helps identify areas of improvement and ensures that customer service standards are met.
-
-The form has the following fields for data collection:
-
-*   Customer Service Request: This field captures the description of the customer's service request.
-*   Service Type: This field is used to select the type of service provided to the customer.
-*   Service Rating: This field is used to rate the quality of service provided.
-*   Rating Comment: This field is used for any additional comments about the service provided.
-*   Satisfaction Level: This field is used to rate the customer's satisfaction level with the service provided.
-*   Follow-up: This field is used for any follow-up comments or actions taken.
-*   Next Steps: This field is used for any next steps or follow-up actions planned.
-*   Customer Satisfaction: This field is used to rate the customer's overall satisfaction.
-*   Date of Interaction: This field is used to capture the date of the customer service interaction.
-*   Time of Interaction: This field is used to capture the time of the customer service interaction.
-*   Customer Name: This field is used to capture the name of the customer.
-*   Customer Email: This field is used to capture the customer's email address.
-*   Customer Phone: This field is used to capture the customer's phone number.
-*   Agent Name: This field is used to capture the name of the customer service agent.
-*   Agent Email: This field is used to capture the customer service agent's email address.
-*   Agent Phone: This field is used to capture the customer service agent's phone number.
-*   Supervisor Name: This field is used to capture the name of the supervisor of the customer service team.
-*   Supervisor Email: This field is used to capture the supervisor's email address.
-*   Supervisor Phone: This field is used to capture the supervisor's phone number.
-*   Customer ID: This field is used to capture the customer ID.
-*   Customer Feedback: This field is used to capture any feedback from the customer.
-*   Agent Feedback: This field is used to capture any feedback from the agent.
-*   Supervisor Feedback: This field is used to capture any feedback from the supervisor.
-*   Manager Feedback: This field is used to capture any feedback from the manager.
-*   Notes: This field is used for any additional notes or comments.
-
-</thinking>
-
 # Customer Service Evaluation Report - Help Guide
 ## Purpose
 The "Customer Service Evaluation Report" form is used to collect feedback and evaluation of customer interactions with your organization's customer service team.

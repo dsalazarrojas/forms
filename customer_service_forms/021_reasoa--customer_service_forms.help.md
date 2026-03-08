@@ -1,7 +1,3 @@
-<thinking>
-The form "Reasoa" is likely used for customer service purposes, such as capturing customer information for support requests or inquiries. This form is designed to collect various details from the customer, including name, email, phone number, date and time of birth, and selection of options. The required fields are likely the ones that are essential for the customer service team to provide adequate assistance. The form's layout and structure suggest that it is meant to be simple and user-friendly, while still gathering enough information to address the customer's query effectively.
-</thinking>
-
 # Reasoa - Help Guide
 ## Purpose
 This form is for customers to submit their information and support requests to the customer service team. It's used to capture essential details that help the team provide better assistance.

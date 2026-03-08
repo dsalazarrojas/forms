@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with the IPTV service. The goal is to understand their satisfaction level with the service, including aspects such as channel quality, video content, and overall experience. The form also allows customers to provide improvement ideas and comments, helping the service provider to make informed decisions for future development. The form should not be completed if the customer has not used the service, as the feedback is specific to the customer's personal experience. Please ensure that each question is answered based on the customer's actual experience with the IPTV service. 
-
-</thinking>
-
 # iptv_service_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather your honest feedback about your experience with our IPTV service. Your input will help us improve and refine our service to better meet your needs.

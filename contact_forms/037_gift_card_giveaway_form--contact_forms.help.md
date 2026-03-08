@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to ensure that end-users understand the purpose and usage of the Gift Card Giveaway Form. The form is meant to gather information from users for the purpose of giving away gift cards, which might be used for internal promotional activities or other business-related purposes. This form is not intended to be used for external marketing or public-facing activities where personal data might be exposed. Before filling out the form, please make sure you have not already submitted a similar request in the past (e.g., within the last 6 months).
-
-</thinking>
-
 # Gift Card Giveaway Form - Help Guide
 
 ## Purpose

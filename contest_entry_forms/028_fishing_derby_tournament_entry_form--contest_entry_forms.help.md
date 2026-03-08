@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fishing Derby Tournament Entry Form - Help Guide
 ## Purpose
 The Fishing Derby Tournament Entry Form is used to collect information about participants in a fishing derby tournament. This form helps track and record the participant's details, species caught, and contact information.

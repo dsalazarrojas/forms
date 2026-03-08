@@ -1,8 +1,3 @@
-<thinking>
-This guide is for the "ResearchTravelAwardApplication" form, which is designed to collect information from applicants for research travel awards.
-To confirm, the form is intended for applicants seeking research travel awards. Please ensure that you are eligible to apply and that you have not already submitted an application for the same award.
-</thinking>
-
 # ResearchTravelAwardApplication - Help Guide
 ## Purpose
 The ResearchTravelAwardApplication form is used to collect information from applicants for research travel awards. This form helps the awarding committee evaluate applications and make informed decisions.

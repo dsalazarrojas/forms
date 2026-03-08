@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect contact information from users who are interested in inquiring about a company or organization's services. The form is intended to be used by people who want to learn more about the organization's offerings and possibly schedule a follow-up call to discuss further. This form will help the organization to track the number of inquiries received and the type of services users are inquiring about.
-
-This form has been designed with best practices in mind to ensure that it is easy to use and understand by the users. Each field has been carefully crafted to provide the organization with the necessary information to respond to the user's inquiry effectively.
-
-Before proceeding, please ensure that you have reviewed this guide carefully to make the most out of your experience with this form.</thinking>
-
 # Contact Form With Round Edges - Help Guide
 ## Purpose
 This form is designed to collect contact information from users who are interested in inquiring about a company or organization's services. The form is intended to be used by people who want to learn more about the organization's offerings and possibly schedule a follow-up call to discuss further.

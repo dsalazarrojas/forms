@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "PPE Assessment Form" is used to record the assessment of Personal Protective Equipment (PPE) for workers. This form is intended to ensure that PPE is properly assessed and reviewed regularly to ensure workers' safety. The form is required for all contractors and employees who work on-site.
 
 Before starting, please ensure that the form is relevant to your work and not a duplicate. If you're unsure, please consult your supervisor or the relevant authorities.

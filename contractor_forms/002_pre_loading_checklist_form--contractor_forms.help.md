@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a pre-loading checklist for various tasks and systems, aiming to ensure that all necessary steps are completed before proceeding with the loading process. This guide will walk you through each field and the expected input.
-
-</thinking>
-
 # Pre Loading Checklist Form - Help Guide
 ## Purpose
 The Pre Loading Checklist Form is used to confirm that all necessary tasks and systems have been completed before proceeding with the loading process. This form aims to provide a standardized and efficient way to ensure that all critical steps are taken into account.

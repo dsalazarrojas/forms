@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their education content distribution requests. Users will be able to provide details about their school, contact information, the type of content they are requesting, where they want to distribute it, their target audience, the type of content they want to distribute, a desired submission deadline, and additional details about their form submission and contact information.
-
-Before filling out this form, please ensure that you have not already submitted a similar request and that the information you are providing is accurate and complete.
-
-When you fill out this form, make sure to carefully follow the instructions and guidelines provided to ensure that your request is processed efficiently and accurately.
-
-</thinking>
-
 # Education Content Distribution Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their education content distribution requests.

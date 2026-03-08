@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cognitive Research EEG Study Consent Form - Help Guide
 
 ## Purpose

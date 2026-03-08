@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture essential information from parents or guardians of students participating in Vacation Bible School (VBS) activities. This guide aims to help users understand how to complete the form correctly. The form is used to collect contact information, emergency contact details, and student's personal information.
-
-Before filling out this form, please note that it is not intended to be filled out by the students themselves, but rather by their parents or guardians. This form is an essential part of the VBS program, and providing accurate information is crucial for the well-being and safety of your child.
-
-This form is divided into sections, and each section has a specific set of fields that need to be filled out. Please take a few minutes to read through each section carefully before filling out the form.
-
-This guide will walk you through each field and explain its purpose in a simple, easy-to-understand format.
-
-</thinking>
-
 # Vacation Bible School Waiver Form - Help Guide
 ## Purpose
 This form is used to collect essential information from parents or guardians of students participating in Vacation Bible School activities. This information will help us ensure the child's safety and well-being during the program.

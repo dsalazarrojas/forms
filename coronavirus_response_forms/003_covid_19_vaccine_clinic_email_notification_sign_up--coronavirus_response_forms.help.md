@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccine Clinic Email Notification Sign Up - Help Guide
 ## Purpose
 This form is designed to help individuals register for email notifications about COVID-19 vaccine availability at a specific clinic. By filling out this form, you will receive updates about vaccine availability, making it easier to plan your vaccination schedule.

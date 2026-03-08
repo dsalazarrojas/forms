@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather information from tenants for fire alarm testing purposes, specifically for scheduling and coordination with the assigned personnel. It's essential to provide the correct information to avoid any miscommunication or missed testing appointments. Please ensure that the data provided is accurate and up-to-date. This form does not have any duplicate fields or redundant information. If any questions arise while completing this form, please contact [support contact].</thinking>
-
 # Fire Alarm Testing Entry Consent Form - Help Guide
 ## Purpose
 The Fire Alarm Testing Entry Consent Form is used to gather essential information from tenants for fire alarm testing purposes. This information is required for scheduling and coordinating testing with the assigned personnel. Please provide accurate and up-to-date information to ensure a smooth testing process.

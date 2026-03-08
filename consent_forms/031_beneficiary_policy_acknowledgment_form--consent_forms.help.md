@@ -1,8 +1,3 @@
-<thinking>
-This form is used by beneficiaries to acknowledge receipt of a policy designation, including details such as the date of acknowledgment, beneficiary contact information, and policy specifics. The form is a crucial document that outlines the terms and conditions of the policy, ensuring the beneficiary understands their responsibilities and commitments. To avoid duplication of efforts, this form must be completed only once. It is essential for the beneficiary to provide accurate information and acknowledge their understanding of the policy terms to avoid any confusion or miscommunication.
-
-</thinking>
-
 # Beneficiary Policy Acknowledgment Form - Help Guide
 ## Purpose
 This form is used to acknowledge receipt of a policy designation, including details such as the date of acknowledgment, beneficiary contact information, and policy specifics. It is essential for the beneficiary to understand their responsibilities and commitments under the policy.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a help guide that effectively communicates the purpose and usage of the Hypnobirthing Course Enrollment Form. To begin with, I will analyze the provided YAML structure and identify the form's purpose, which is to gather information from students enrolling in a Hypnobirthing course. The form seems to be focused on collecting various details about the student, their guardian (if applicable), and medical information. I will assume that the form is designed for a specific educational institution or organization offering this course. Now, let's create the help guide, following the required structure.</thinking>
-
 # Hypnobirthing Course Enrollment Form - Help Guide
 
 ## Purpose

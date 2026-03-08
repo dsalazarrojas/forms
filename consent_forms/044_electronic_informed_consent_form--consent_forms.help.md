@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that this form is not duplicated, we must verify that the user has not already completed this form before. This is to prevent non-consent from being given multiple times. The form is also designed to only be completed by authorized users, so we are checking that the user's ID matches a valid authorized user.
 
 This form is meant to be completed by users who have been identified as needing to provide electronic informed consent. It is not meant for general users or to be completed for non-authorized users. The form requires the user to provide basic contact information, such as name, date of birth, and phone number.

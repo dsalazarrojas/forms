@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture the necessary information to provide senior care assistance, including contact details, service dates and hours, caregiver relationship, and approval status. It is crucial to ensure that the form is completed accurately and consistently across all users. Please ensure that you understand the purpose and requirements before completing this form. Please review each field carefully to ensure that you are providing the correct information.
-
-</thinking>
-
 # Senior Care Assistance Consent Form - Help Guide
 
 ## Purpose

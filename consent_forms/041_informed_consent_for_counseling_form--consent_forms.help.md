@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Informed Consent For Counseling Form - Help Guide
 
 ## Purpose

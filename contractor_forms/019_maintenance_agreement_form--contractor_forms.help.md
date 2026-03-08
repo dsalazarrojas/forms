@@ -1,11 +1,3 @@
-<thinking>
-This form was created for the purpose of establishing a maintenance agreement between a client and a service provider or firm. 
-It's designed to collect relevant information for such agreements, including service type, contact information, and terms of the agreement. 
-This form is meant for use by both individuals and businesses. 
-Please ensure that all fields are filled out accurately to avoid any issues with the agreement. 
-This form's fields and their labels are explained below.
-</thinking>
-
 # Maintenance Agreement Form - Help Guide
 ## Purpose
 The purpose of this form is to create a maintenance agreement between a client and a service provider or firm.

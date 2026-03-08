@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers on their experience with hair care services, including their satisfaction with the services, price, product quality, and overall experience. This form will help us understand what customers are looking for in a hair care experience and identify areas for improvement.
-</thinking>
-
 # Hair Care Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on their experience with hair care services. It's essential to provide honest and detailed responses to help us improve our services.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed to gather information for an estimate request related to house cleaning services. The form is divided into several sections. Section 1 is the "Estimate Form" where users can provide a description of the services needed. Section 2 is "Contact Information" where users can enter their contact details. Section 3 is "Services" where users can select multiple services such as cleaning, carpet cleaning, and window cleaning that they require. Section 4 is "Contact Form" where users can ask additional questions or comments. The form seems to be a simple and straightforward template for gathering basic information from users.
-
-Given the structure and fields of the form, it appears to be a basic form for users to request estimates for house cleaning services.
-</thinking>
-
 # house_cleaning_estimate_form - Help Guide
 ## Purpose
 The house_cleaning_estimate_form is designed to gather information from users who are requesting estimates for house cleaning services. This form collects contact information and details about the services needed for a cleaning estimate.

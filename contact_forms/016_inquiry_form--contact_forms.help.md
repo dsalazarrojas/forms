@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather inquiries and information from end-users for internal purposes. Please note that this form is not intended for general public use. Before proceeding, ensure that you have a valid reason to use this form and that your inquiry does not duplicate a previous request. This form is not intended for urgent matters, as it may take some time to process your request.</thinking>
-
 # Inquiry Form - Help Guide
 ## Purpose
 The Inquiry Form is designed to collect information from end-users for internal purposes, such as gathering feedback, questions, or concerns.

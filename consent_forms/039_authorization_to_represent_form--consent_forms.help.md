@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for individuals to grant authorization to a representative, allowing them to make decisions and act on their behalf in various matters. The purpose of this form is to establish a clear understanding of the scope and limitations of the representative's authority. It's essential to review this form carefully and understand each field before completion to ensure that all necessary information is provided and that the authorization is valid.
-
-When filling out this form, please note that some fields are marked as "required" or "optional," which means that those fields must be filled out or may be skipped, respectively. Ensure that you understand the meaning of each field and its implications on the authorization being granted.
-
-Please also note that some fields have specific options or types that require attention, such as date fields, email addresses, or specific select options. Make sure to fill out these fields correctly to avoid errors.
-
-Before starting, please review the entire form to ensure that you have all the necessary information and that you're aware of the scope and limitations of the authorization being granted.
-</thinking>
-
 # Authorization To Represent Form - Help Guide
 ## Purpose
 This form is designed for individuals to grant authorization to a representative, allowing them to make decisions and act on their behalf in various matters.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from patients before administering radiofrequency treatment, which is a medical procedure that uses radiofrequency waves to treat certain medical conditions. This form is typically completed by a healthcare professional, and it is essential to ensure that the patient understands the treatment, its risks, and its benefits. Before proceeding, let's make sure that this form is being used correctly and not duplicated in other contexts.
-</thinking>
-
 # Radiofrequency Treatment Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients before undergoing radiofrequency treatment. It ensures that the patient understands the treatment, its risks, and its benefits.

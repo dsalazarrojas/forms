@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from nail technicians and contractors who wish to work with your organization. The form is used to collect their contact details, services offered, and agreement to terms and conditions. This form is likely used in a salon or spa setting where nail technicians work on a contractual basis. The fields are designed to gather essential contact information, services offered, and other relevant details that can be used for future reference and payment purposes. 
-
-Please ensure that you are not already a registered nail technician with us before filling out this form. If you are unsure, please contact us to confirm. 
-
-The information collected through this form will be used to create a record of your account and will be used for our internal purposes only. 
-
-Please note that this form is not intended for emergency or urgent situations.
-</thinking>
-
 # Nail Tech Contractor Application And Agreement - Help Guide
 ## Purpose
 This form is for nail technicians and contractors who want to work with our organization. It's used to collect contact information, services offered, and terms of agreement.

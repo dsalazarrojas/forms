@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for sustainability planning appointments, likely for a company or organization. It is meant to gather contact information, preferred contact method, appointment details, and any additional notes or topics to be discussed during the appointment. This form may be used by internal staff members or external contacts. It is essential to complete this form only once for each appointment and for each contact. Please ensure that you have permission from the contact person before filling out this form.
-</thinking>
-
 # sustainability_planning_appointment_form - Help Guide
 ## Purpose
 This form is used to collect information for sustainability planning appointments.

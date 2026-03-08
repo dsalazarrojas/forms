@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from parents/guardians about their homeschooled child's experiences and feedback on a program or service. The fields in this form will help us understand the demographics, program details, and contact information of the families involved. Please note that the fields marked as "required" are essential for the form submission. This guide will help ensure you complete the form correctly and provide us with accurate and helpful feedback.
-</thinking>
-
 # Homeschooled Customer Feedback Form - Help Guide
 ## Purpose
 The Homeschooled Customer Feedback Form is designed to collect information from parents or guardians about their experience with our homeschooling program. This form will help us understand how we can improve our services to better support you and your family.

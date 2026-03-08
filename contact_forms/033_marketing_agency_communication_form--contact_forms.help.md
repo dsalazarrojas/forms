@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a general-purpose communication tool for marketing agencies to provide updates, requests, and feedback to their clients. It can be used for a variety of purposes such as sending client requests, asking for services, or providing feedback on previous work. The form is composed of multiple fields that allow users to input various information. The purpose of this form is to collect relevant data in a clear and organized manner.
-
-</thinking>
-
 # Marketing Agency Communication Form - Help Guide
 ## Purpose
 The Marketing Agency Communication Form is designed to facilitate communication between the marketing agency and its clients. It serves as a platform for clients to submit their requests, provide feedback, and share information about their upcoming services.

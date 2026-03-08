@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form purpose is to collect information from participants, likely for research or survey purposes. The form seems to be designed to gather details about the participant's willingness to share their story and the extent of their sharing, but it may be redundant or unnecessary if the participant already shares this information elsewhere. To avoid duplication of efforts, please ensure that the form is only used when necessary and that participants are not being asked to share the same information through other means. 
-</thinking>
-
 # Share Your Story Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants about their willingness to share their story and the details of their sharing preferences. It is likely used for research or survey purposes.

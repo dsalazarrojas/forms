@@ -1,16 +1,3 @@
-<thinking>
-
-We need to ensure that the form is being filled out for its intended purpose: to provide a convenient way for customers to contact our organization. We don't want duplicates or irrelevant information being submitted. Before we dive into the help guide, let's quickly review the fields:
-
-* Full Name: The person's name
-* Email: The customer's email address
-* Phone: The customer's phone number
-* Message: A description of the customer's inquiry
-
-We also need to verify that the submitted form has the required information, if any. Let's check the YAML configuration to see if any of these fields are required. (After reviewing, we see that none are required).
-
-</thinking>
-
 # Purple Contact Form - Help Guide
 ## Purpose
 The Purple Contact Form is designed to allow customers to get in touch with our organization for any reason, whether it's for feedback, support, or to inquire about our products and services.

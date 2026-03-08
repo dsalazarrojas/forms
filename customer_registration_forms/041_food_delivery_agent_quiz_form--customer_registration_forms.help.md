@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the qualities and skills of a potential food delivery agent. The purpose of the form is to determine the suitability of a candidate for the role of a food delivery agent. The form asks questions about the candidate's personal and professional characteristics, such as their first and last name, contact information, experience, attitude, company information, customer service skills, and leadership abilities.
-
-To fill out this form, please follow the instructions below.
-
-This form has 25 fields that need to be filled out. Please complete each field carefully and accurately, as they are all required fields.
-
-</thinking>
-
 # Food Delivery Agent Quiz Form - Help Guide
 
 ## Purpose

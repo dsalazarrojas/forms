@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to provide a user-friendly contact method for visitors to reach out to your software company. It collects essential contact information from the user, which can be used for various purposes such as responding to queries, providing support, or following up on sales leads. It is designed to be simple and easy to navigate, making it accessible to a wide range of users.
-</thinking>
-
 # Software Company Responsive Contact Us Form - Help Guide
 ## Purpose
 The Software Company Responsive Contact Us Form is a tool designed to allow users to submit their contact information for various purposes such as getting more information, asking a question, or requesting support.

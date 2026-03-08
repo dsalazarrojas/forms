@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist clients in completing the Emergency Medication Client Agreement form. The form is used to document important information about medication administration, such as the reason for administration, dosage instructions, and medical history. This form is a critical document that must be completed accurately to ensure the client's safety and well-being.
-
-This guide will walk you through each field of the form, explaining what information is required and how to complete each section.
-
-</thinking>
-
 # Emergency Medication Client Agreement - Help Guide
 ## Purpose
 The Emergency Medication Client Agreement form is a mandatory document that outlines the client's understanding and agreement to receive emergency medication. It is essential to complete this form accurately and truthfully to ensure that the client's rights and safety are protected.

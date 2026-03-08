@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential home buyers to understand their needs and preferences for their home buying journey. The form collects demographic information about the buyer, such as their full name, email address, and phone number. It also collects details about their current living situation, such as the type of residence they currently live in. The form inquires about their plans and preferences for buying a home, including their timeframe for purchase, budget range, and desired property type. Additionally, it asks about their must-have features, preferred location, and contact preferences.
-</thinking>
-
 # Buyer Information Form Home Buyers - Help Guide
 ## Purpose
 The Buyer Information Form Home Buyers is designed to gather essential details from potential home buyers to facilitate their home buying journey. Completing this form will help us understand your needs and preferences, allowing us to provide personalized guidance and support.

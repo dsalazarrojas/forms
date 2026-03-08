@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect health and consent information from parents or guardians of campers before the start of summer camp. This information will be used to ensure the safety and well-being of the campers. It's essential to complete this form carefully and accurately to help us provide the best possible experience for your child. Please note that if you have already submitted this form in the past, you may not need to complete it again. However, if there have been any changes to the camper's health or consent, please update the form accordingly.</thinking>
-
 # Health And Consent Form For Summer Camp - Help Guide
 ## Purpose
 

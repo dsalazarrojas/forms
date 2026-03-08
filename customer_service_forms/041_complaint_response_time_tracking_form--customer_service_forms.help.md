@@ -1,14 +1,3 @@
-<thinking>
-This form is used for tracking and measuring the time it takes to respond to customer complaints. It captures key data on how the complaint was handled, including the date and time of response, the method used, and whether the target response time (SLA) was met. 
-
-The main use case of this form is to improve customer satisfaction by reducing wait times and providing insights for future improvements.
-
-This form is used for both internal and external purposes, such as reporting and performance management. The data collected will be used to analyze response times, identify areas of improvement, and make data-driven decisions.
-
-This form is designed to be completed by the customer service team, who will fill out the form after responding to a customer complaint.
-
-</thinking>
-
 # Complaint Response Time Tracking Form - Help Guide
 ## Purpose
 This form is used to track and measure the time it takes to respond to customer complaints.

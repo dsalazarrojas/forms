@@ -1,5 +1,3 @@
-<thinking>...This guide is intended for users who need to complete the COVID-19 Pre Screen and Consent Form. It is used for initial screening and assessment of individuals for COVID-19 risk factors. The form is required to be completed by all individuals who are being screened for COVID-19. The purpose of this form is to gather accurate and truthful information from users to ensure effective risk assessment and provide necessary COVID-19 services. It is essential to fill out the form carefully and accurately. The form will be reviewed and processed internally to determine the individual's risk level for COVID-19 and provide guidance on necessary precautions and care. Please ensure that you answer all questions truthfully and accurately. The form will be kept confidential and only used for the purpose of COVID-19 screening and services...</thinking>
-
 # COVID 19 Pre Screen and Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is used for clients to provide informed consent for professional counseling services, ensuring they understand the scope of services, potential risks, and payment terms. This form is likely a prerequisite for starting therapy sessions. The fields are mostly optional, which may be intended for the client to provide additional context or information. However, some fields like "Client Signature" and "Therapist Signature" are likely required for legal purposes. Before creating this guide, double-check if this form is already covered in existing documentation or policy documents.</thinking>
-
 # Professional Counseling Informed Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients regarding their personal details, consent for counseling services, and other relevant particulars. This form ensures clients are aware of the scope of services, potential risks involved, and payment terms before starting therapy sessions.

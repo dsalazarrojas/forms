@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that users understand what the form is for and what they are supposed to fill out. This form is intended to collect information about COVID-19 symptoms in a respondent. The purpose of the form is to gather essential details about a person's exposure and potential symptoms of COVID-19. This is not a comprehensive medical evaluation, but rather a preliminary assessment to aid in the identification of potential risks. To avoid duplication, respondents should not complete this form if they have already done so in the past 14 days or if they are not experiencing any COVID-19 related symptoms. Please note that some fields are optional and are only required if they are relevant to the respondent's situation. The information collected will be used for health and safety purposes only.</thinking>
-
 # COVID 19 Symptom Questionnaire - Help Guide
 ## Purpose
 The COVID-19 Symptom Questionnaire is a form used to collect information about your symptoms, recent exposure, and test results related to COVID-19.

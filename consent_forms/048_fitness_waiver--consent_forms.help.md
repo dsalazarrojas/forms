@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain consent from new members of the fitness program, including emergency contact information for the member.
-The form should not be used for existing members, or members who have already completed this form.
-</thinking>
-
 # Fitness Waiver - Help Guide
 ## Purpose
 The purpose of this form is to collect information from new members of the fitness program, including emergency contact details, to ensure we can reach them in case of an emergency.

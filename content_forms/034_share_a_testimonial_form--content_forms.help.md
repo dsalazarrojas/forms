@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user testimonials, which will be used to showcase customer feedback and success stories on the company website. The form will only collect testimonials that are genuine and relevant to the product/service being reviewed. To avoid duplication, users are not allowed to submit multiple testimonials with the same content. This form is intended for internal use by authorized personnel only. Users should not share their testimonials without permission from the company.
-</thinking>
-
 # Share A Testimonial Form - Help Guide
 ## Purpose
 The Share A Testimonial Form is a tool used to collect customer feedback and success stories about our products and services. This form is designed to showcase the impact and effectiveness of our offerings, and to build trust and credibility with our customers.

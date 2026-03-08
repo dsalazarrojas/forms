@@ -1,7 +1,3 @@
-<thinking>... This form is designed to capture information related to a patient's COVID-19 vaccination status, including their vaccination history, appointment details, and health status. This information will be used to track and monitor the vaccination progress of patients in our system. 
-
-Before starting, please note that this form is meant for patient information only. If you are a healthcare provider, please use the "Healthcare Provider" section to input your information instead.</thinking>
-
 # COVID 19 Vaccination Status Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's COVID-19 vaccination status, including their vaccination history, appointment details, and health status.

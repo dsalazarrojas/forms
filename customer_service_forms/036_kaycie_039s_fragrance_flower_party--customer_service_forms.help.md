@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is intended for customers to provide information for the Kaycies Fragrance Flower Party event. It is likely used for RSVPs or other event-related purposes. To avoid duplication, ensure that this form is not used for internal purposes or for employees to submit their own information.</thinking>
 
 # Kaycies_Fragrance_Flower_Party - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Agent Survey - Help Guide
 
 ## Purpose

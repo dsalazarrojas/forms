@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Thermal Scanning Participation Consent Form - Help Guide
 ====================================================
 

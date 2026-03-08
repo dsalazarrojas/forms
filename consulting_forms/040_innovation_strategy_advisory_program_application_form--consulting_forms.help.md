@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by individuals or teams seeking guidance on innovation strategies. The form is used to gather information about the applicant's background, company, and project focus. The purpose of the form is to help the applicant understand their current innovation status, identify areas for improvement, and receive tailored advice on how to develop a successful innovation strategy. The form is not intended for internal use within the organization, but rather as a tool for external users to submit their application.
-</thinking>
-
 # Innovation Strategy Advisory Program Application Form - Help Guide
 
 ## Purpose

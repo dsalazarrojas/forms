@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Plan Acknowledgment Form - Help Guide
 ## Purpose
 The Safety Plan Acknowledgment Form is a document that aims to acknowledge the understanding and acceptance of a safety plan by employees. This form is used to gather information about the employee's awareness and commitment to the safety measures outlined in the plan.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for the user to provide their basic information and agreement to placenta encapsulation, which is a medical service where the placenta is stored and preserved after birth. This service helps preserve the memories of the mother's pregnancy by storing the placenta for later use or display as a keepsake. The form should be completed in order to register for this service, but it's not required for any other purpose. It's essential to complete the form accurately and correctly to ensure proper processing and to avoid any errors or discrepancies. Please double-check your information before submission.
 
 # placenta_encapsulation_agreement_form - Help Guide

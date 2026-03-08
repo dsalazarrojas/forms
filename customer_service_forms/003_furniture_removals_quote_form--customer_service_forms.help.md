@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created to assist users in understanding the purpose and functionality of the "Furniture Removals Quote Form". The form is designed to collect information from customers who are requesting a quote for furniture removal services. This form will help the customer service team to gather necessary details about the customer's move, including their contact information, move details, and any additional services required. The form should not be used for any other purpose, and users should not duplicate efforts by submitting multiple forms.
-</thinking>
-
 # Furniture Removals Quote Form - Help Guide
 ## Purpose
 The "Furniture Removals Quote Form" is a tool used to collect information from customers requesting a quote for furniture removal services. This form helps the customer service team to gather necessary details about the customer's move, including their contact information, move details, and any additional services required.

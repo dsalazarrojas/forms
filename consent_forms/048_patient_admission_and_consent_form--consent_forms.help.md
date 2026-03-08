@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is completed accurately and without duplication, we need to confirm that the end user understands the purpose and process of the "Patient Admission And Consent Form". This form is intended to gather essential information about the patient's admission, including contact details, medical history, emergency contact, allergy information, medication list, consent, and signature. The form should not be completed if the patient has already been admitted or if the form has been previously filled out for the same patient.
-</thinking>
-
 # Patient Admission And Consent Form - Help Guide
 ## Purpose
 The "Patient Admission And Consent Form" is a critical document that ensures the patient's needs are met and their safety is assured during the hospital stay. It requires the patient to provide personal and medical information, and their consent to treatment.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from clients or travelers regarding their travel plans, insurance details, and contact information. It's designed to serve as a travel disclaimer and insurance waiver, ensuring both the client and the travel agency are aware of their responsibilities and expectations. This form is intended for travel agencies to use with their clients, and the information collected will help in providing a smooth and secure travel experience. The form's fields are designed to cover all the necessary aspects of travel, including travel agency reservation, client safety, emergency contact information, contact details, terms and conditions, cancellation policy, travel insurance, travel insurer, supplier information, and supplier contact. It's essential to fill out this form accurately and completely to avoid any misunderstandings or issues during the travel process.
-</thinking>
-
 # Travel Disclaimer And Insurance Waiver - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients or travelers regarding their travel plans, insurance details, and contact information for travel agencies and suppliers.

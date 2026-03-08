@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect the necessary information for a participant and a demonstrator to demonstrate safety equipment. This information includes details about the participant, such as their name, contact number, and email, as well as information about the demonstrator, including their name, contact number, and email. The form also requires the organization's name and address. This form is intended to be filled out by a participant before a safety equipment demonstration.
-</thinking>
-
 # Safety Equipment Demonstration Consent Form - Help Guide
 ## Purpose
 This form is used to collect the necessary information for a participant and a demonstrator to demonstrate safety equipment.

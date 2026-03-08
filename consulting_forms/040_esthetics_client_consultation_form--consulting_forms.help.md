@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their esthetic needs and preferences. It will be used to understand their skin and hair concerns, medical history, and preferences for various esthetic treatments. This form will help the esthetician tailor their recommendations and services to the client's specific needs.
-
-Before filling out this form, please ensure that you are not duplicating information that has already been discussed with your esthetician. If you have any medical concerns or conditions, please provide accurate and truthful information to ensure the best possible outcome.
-
-</thinking>
-
 # Esthetics Client Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients about their esthetic needs and preferences, enabling the esthetician to provide personalized recommendations and tailor their services accordingly.

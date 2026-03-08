@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Short Story Contest Release Form - Help Guide
 
 ## Purpose

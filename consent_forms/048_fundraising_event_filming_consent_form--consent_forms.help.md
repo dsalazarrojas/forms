@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather consent from individuals participating in a fundraising event filming. The purpose of this form is to obtain permission from participants to be filmed or photographed during the event, while also collecting relevant details such as their contact information, event details, and team information (if applicable). This form ensures that the participants are aware of what to expect and provides the organization with the necessary information to communicate with them effectively. Please ensure this form is used for its intended purpose only and not for any other use that may put participants at risk or compromise their rights.
-
-</thinking>
-
 # Fundraising Event Filming Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from participants in a fundraising event filming, ensuring they are aware and comfortable with being filmed or photographed.

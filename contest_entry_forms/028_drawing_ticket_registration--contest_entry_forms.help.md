@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's analyze its name and fields. The form is called "Drawing Ticket Registration" which suggests it's related to registering for a drawing or contest. The fields included are mostly personal information (first name, last name, email, address, phone), contest-specific information (drawing type, prize ID, drawing date, entry date, entry time), and a few fields that seem to be related to administration or organization (category ID, assigned tool, note). Given this, it appears the form is for registering for a contest or drawing, providing personal and contest-specific information, and potentially for administrative purposes.
-</thinking>
-
 # Drawing Ticket Registration - Help Guide
 
 ## Purpose

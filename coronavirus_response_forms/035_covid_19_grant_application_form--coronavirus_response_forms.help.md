@@ -1,14 +1,3 @@
-<thinking>
-To prevent duplicate and irrelevant submissions, this form is designed for businesses that have been impacted by the COVID-19 pandemic and are in need of financial assistance. Please fill out this form accurately and completely to ensure your application is reviewed and considered for a grant.
-
-Before submitting, please ensure that all required fields are completed and that you have attached all necessary supporting documents. Incomplete or inaccurate information may result in delays or rejection of your application.
-
-Also, please note that the information provided will be reviewed and verified by our team, and any misrepresentation or misstatement of facts may result in penalties.
-
-If you have any questions or concerns, please contact us before submitting your application.
-
-</thinking>
-
 # COVID 19 Grant Application Form - Help Guide
 
 ## Purpose

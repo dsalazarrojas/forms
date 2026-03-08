@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # research_publication_appearance_consent_form - Help Guide
 
 ## Purpose

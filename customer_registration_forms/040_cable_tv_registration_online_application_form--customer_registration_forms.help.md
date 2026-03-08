@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that this form is for new customer registration and is not a duplicate or redundant form. Our goal is to guide users through the process of registering for cable TV services. This form aims to collect essential information from customers, including their subscription details, contact information, and billing preferences. Our target audience is individuals who want to sign up for cable TV services, and this form will help us streamline the process for them.</thinking>
-
 # Cable TV Registration Online Application Form - Help Guide
 ## Purpose
 This form is designed to help new customers register for cable TV services online. It gathers essential information about the subscriber, their contact details, and billing preferences to process their application efficiently.

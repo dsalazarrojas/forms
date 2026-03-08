@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **veterinary_learning_content_update_request - Help Guide**
 ====================================================
 

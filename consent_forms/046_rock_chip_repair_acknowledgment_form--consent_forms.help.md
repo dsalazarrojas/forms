@@ -1,5 +1,3 @@
-<thinking>...This form is intended to capture relevant information from customers for the purpose of scheduling and confirming an appointment for a rock chip repair service. This information will be used to ensure that the customer's needs and expectations are accurately met during the repair process. This form will only be used for customers who have already been contacted by a technician and are ready to schedule an appointment. Please ensure that the form is filled out accurately and completely before submitting it. If there is any discrepancy between the information submitted and the original contact, it will be brought to the customer's attention...</thinking>
-
 # Rock Chip Repair Acknowledgment Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a clear and concise way for customers to acknowledge their appointment schedule and confirm their repair details with the rock chip repair service.

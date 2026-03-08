@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inventory_management_contract_form - Help Guide
 ## Purpose
 This form is used for inventory management contract purposes. It captures essential information related to inventory contracts, including inventory details, delivery information, customer and contractor details, and contract terms. The form is designed to gather all necessary data in one place for efficient inventory management.

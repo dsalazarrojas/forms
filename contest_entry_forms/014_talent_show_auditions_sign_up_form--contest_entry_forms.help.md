@@ -1,12 +1,3 @@
-<thinking>
-Before diving into the help guide, it's essential to establish that this form is designed for users to register for a talent show auditions, providing essential details about the performer and their act. This form likely aims to collect information on performers, their acts, and contact information for follow-up purposes.
-
-To ensure the provided instructions are accurate and relevant, I'll review the form's structure and fields. Upon examination, I've identified that the form collects a mix of personal information (name, contact details), act information (type, additional notes), and demographic details (age, address).
-
-To avoid duplication of information, I'll ensure that each field has a clear and concise explanation, avoiding unnecessary complexity.
-
-</thinking>
-
 # Talent Show Auditions Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who want to sign up for a talent show. It gathers essential details about the performer, their act, and contact information for follow-up purposes.

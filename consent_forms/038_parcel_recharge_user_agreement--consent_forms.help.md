@@ -1,24 +1,3 @@
-<thinking>
-
-The form purpose is to collect user agreement and consent for parcel recharge, which is likely a process of resupplying or restocking a package or goods. This form is designed to gather essential information about the user, including their name, address, contact details, and agreement to specific terms. It's likely used in a business setting, possibly for deliveries or services.
-
-The form consists of 19 fields, which can be divided into several sections:
-
-1. Personal details (first name, last name, address, email, phone)
-2. Scheduling (date and time)
-3. Confirmations (confirm date, time, signature)
-4. Additional information (notes, confirm notes)
-5. Agreement (confirm agreement, confirm agreement note)
-6. Comments (additional comments)
-7. Terms (terms of agreement)
-8. Recharge (agree on recharge, agree on recharge note)
-
-To complete the form, users will be required to fill in their personal details, schedule their appointment, confirm their details and signature, and provide any additional information. The form also includes questions to confirm agreement on specific terms and a checkbox to indicate agreement on recharge.
-
-Before starting, note that fields with `required: true` are marked with an asterisk (\*) indicating they are mandatory.
-
-</thinking>
-
 # Parcel Recharge User Agreement - Help Guide
 ## Purpose
 The Parcel Recharge User Agreement is a form designed to collect user agreement and consent for parcel recharge services.

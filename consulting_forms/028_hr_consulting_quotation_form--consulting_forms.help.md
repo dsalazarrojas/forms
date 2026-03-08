@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and consistently to provide accurate and relevant information for our HR consulting quotations. It's essential to review this form carefully before completing it to avoid duplication of effort or unnecessary steps. Please take a moment to understand the form's purpose and required fields to ensure a smooth and efficient process.
-</thinking>
-
 # HR Consulting Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for the purpose of creating quotations for HR consulting services. It's crucial to gather the right information to provide an accurate and detailed quote.

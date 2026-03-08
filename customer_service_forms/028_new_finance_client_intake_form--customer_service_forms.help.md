@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The New Finance Client Intake Form is used to collect information from new financial clients, including their personal details, employment status, financial institution, income range, and any additional notes. This form is designed to be completed by the client to provide essential information for our team to understand their needs and provide personalized services. To ensure the form is completed accurately, please review the following instructions and guidelines carefully.
 
 # New Finance Client Intake Form - Help Guide

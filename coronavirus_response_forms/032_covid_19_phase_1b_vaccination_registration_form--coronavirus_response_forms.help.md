@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for personnel to register for the COVID-19 Phase 1B vaccination program. Before proceeding, please ensure that you have read and understood the instructions below.
-The form is designed to collect personal information and medical history from registrants to ensure a safe and effective vaccination process. Please provide accurate and truthful information to help our staff administer the vaccine correctly. The form is divided into several sections, each with a specific purpose. Please review each section carefully to ensure you have provided all required information.
-To prevent duplication of efforts, please ensure you have not previously registered for the vaccination program.
-</thinking>
-
 # COVID 19 Phase 1B Vaccination Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register for the COVID-19 Phase 1B vaccination program for personnel who are eligible. This form will help our staff understand your medical history and ensure a safe and effective vaccination process.

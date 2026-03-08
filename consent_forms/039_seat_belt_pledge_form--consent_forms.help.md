@@ -1,7 +1,3 @@
-<thinking>
-The Seat Belt Pledge Form is used to collect information from vehicle operators regarding their seat belt usage. This form aims to monitor and analyze seat belt usage patterns within the organization. By filling out this form, users can indicate their seat belt usage for themselves and any passengers they may be transporting. The information collected will help in making informed decisions regarding safety protocols and best practices. This form should only be filled out by vehicle operators, as it is not intended for passengers. Please ensure you have completed this form for the correct vehicle and not duplicate entries for the same vehicle.
-</thinking>
-
 # Seat Belt Pledge Form - Help Guide
 
 ## Purpose

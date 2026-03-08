@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help clients provide information about their consulting service expansion requests. The purpose of this form is to gather necessary details to assess and potentially approve the expansion request. It's essential to ensure that each field is correctly filled out to avoid any potential issues or rejections.
-
-</thinking>
-
 # Consulting Service Expansion Request Form - Help Guide
 ## Purpose
 This form is used to gather information about your consulting service expansion request. Please fill out this form thoroughly and accurately to ensure your request is properly reviewed and processed.

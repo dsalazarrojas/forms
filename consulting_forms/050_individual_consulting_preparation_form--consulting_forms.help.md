@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information about an individual's consulting preparation for a specific purpose (likely for an appointment or meeting). The form includes fields for client information, email, phone number, address, consulting information, service type, date and time, duration, notes, client comments, consultant comments, follow-up details, and attachments. 
-</thinking>
-
 # Individual Consulting Preparation Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals before consulting with them. 

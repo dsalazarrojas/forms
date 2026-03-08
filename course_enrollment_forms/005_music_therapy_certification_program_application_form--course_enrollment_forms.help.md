@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to ensure that the form purpose and each field's intent is clear and concise. This form, "Music Therapy Certification Program Application Form," is intended to collect information from individuals who want to apply for the music therapy certification program. The purpose of this form is to gather necessary details from applicants, which may include their personal contact information, background, and music therapy certification status. To ensure that this form is completed correctly, I will break down each field and its intended use.
-
-</thinking>
-
 # Music Therapy Certification Program Application Form - Help Guide
 ## Purpose
 The Music Therapy Certification Program Application Form is used to collect information from individuals who want to apply for the music therapy certification program. This form helps the certification committee evaluate applications and make informed decisions about admission to the program.

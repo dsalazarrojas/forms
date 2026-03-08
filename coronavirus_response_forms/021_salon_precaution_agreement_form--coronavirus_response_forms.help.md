@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will walk you through the "salon_precaution_agreement_form" form, which is used to obtain agreement and signature from the salon owner, employee, and manager to follow social distancing and precaution measures to ensure a safe salon environment during the Coronavirus pandemic.
 
 </thinking>

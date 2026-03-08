@@ -1,10 +1,3 @@
-<thinking>
-The Blue Envelope Contact Form is a contact form designed to collect information from visitors to the Blue Envelope website. It serves as a general-purpose form for sending messages, business proposals, support requests, feedback, and partnership inquiries. The form ensures that the sender's name, email address, and message are collected for follow-up and response purposes. The form also collects information about the sender's preferred contact method and priority level.
-
-To prevent duplicate messages and ensure accurate communication, please ensure that you fill out the form completely and correctly before submitting it.
-
-</thinking>
-
 # Blue Envelope Contact Form - Help Guide
 
 ## Purpose

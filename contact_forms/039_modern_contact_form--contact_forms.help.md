@@ -1,7 +1,3 @@
-<thinking>...The "Modern Contact Form" is used to gather contact information from customers and send it to the support team for further processing. The form is divided into 5 fields. The purpose of this form is to collect the most basic information required for a smooth communication process. This form will not be used for any other purposes other than what is intended here.
-
-</thinking>
-
 # Modern Contact Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to collect information from students and schools participating in the Water Conservation Challenge. The purpose of this form is to gather essential details about each participant, including their personal and school-related information. Please review the form carefully and ensure that you are only submitting relevant and accurate information. If you are unsure about any field, please contact the organizers for clarification. Note that this form is intended for registration purposes only and should not be used for any other purpose.
-</thinking>
-
-# Water Conservation Challenge Registration - Help Guide
+> # Water Conservation Challenge Registration - Help Guide
 ## Purpose
 This form is designed to collect information from students and schools participating in the Water Conservation Challenge. The information collected will be used to facilitate the challenge and track participant details.
 

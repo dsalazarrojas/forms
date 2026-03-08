@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # scentsy_sample_club - Help Guide
 
 ## Purpose

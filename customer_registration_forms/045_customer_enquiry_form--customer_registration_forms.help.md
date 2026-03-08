@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide, I will review the form schema to understand the purpose and ensure that it is not duplicated or unnecessary. Upon reviewing the schema, I see that the form is a comprehensive customer enquiry form with multiple sections and fields. It appears to be used for collecting customer information, contact details, and other relevant data. The form has various fields such as text, select multiple, date, and note fields, indicating that it is designed to be flexible and adaptable to different use cases.</thinking>
-
 # Customer Enquiry Form - Help Guide
 
 ## Purpose

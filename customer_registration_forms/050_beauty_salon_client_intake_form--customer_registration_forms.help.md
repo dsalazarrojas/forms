@@ -1,12 +1,3 @@
-<thinking>
-**Is this the right form for you?**
-
-Before you begin, please take a moment to ensure this is the correct form for your needs. This is a beauty salon client intake form, used to gather personal and hair information for salon services.
-
-If you have any existing relationships with our salon or have previously submitted this form, please note that your information will be reviewed and updated accordingly to avoid duplication.
-
-</thinking>
-
 # Beauty Salon Client Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential personal and hair information from clients before their visit to our beauty salon. It will help us better understand your needs and preferences, ensuring a more personalized experience during your visit.

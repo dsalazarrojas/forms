@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from hotels regarding their reopening procedures and safety measures during the COVID-19 pandemic. The form is designed to collect data on the hotel's implementation of social distancing, safety precautions, and employee and guest safety measures. The purpose of this form is to help hotels assess their preparedness for reopening and identify areas for improvement.
-
-The form will not be used to collect any personally identifiable information and will only be used for internal evaluation and planning purposes.
-
-To ensure that the data collected is accurate and relevant, please ensure that you are authorized to fill out this form on behalf of your hotel and that you have the necessary information and knowledge to answer the questions correctly.
-
-</thinking>
-
 # Hotel Reopening On Duty Form - Help Guide
 ## Purpose
 The Hotel Reopening On Duty Form is designed to gather information on hotels' reopening procedures and safety measures during the COVID-19 pandemic.

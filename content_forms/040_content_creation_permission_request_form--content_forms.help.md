@@ -1,13 +1,3 @@
-<thinking>
-
-The Content Creation Permission Request Form is used to request permission for the creation of content within the organization. This form is used to ensure that all necessary permissions and approvals are in place before proceeding with content creation. By filling out this form, the requestor is confirming that they have the necessary clearance level and that the content creation will be done in accordance with organizational standards and guidelines.
-
-This form is used for internal staff members or external collaborators to request permission to create content that may be published or shared with the public. It's essential to fill out this form carefully and accurately to avoid any issues with the content creation process.
-
-This form will guide you through the steps to complete a content creation permission request.
-
-</thinking>
-
 # Content Creation Permission Request Form - Help Guide
 
 ## Purpose

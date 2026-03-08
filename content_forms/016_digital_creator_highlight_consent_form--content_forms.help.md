@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users who want to create and share digital content on our platform. It's meant for creators who are willing to have their work highlighted on our platform, and in return, they'll be able to participate in studies and research initiatives. This form is essential for understanding the creator's consent and agreement to be part of our platform's community.
-The main purpose of this form is to collect information from creators about their consent and agreement to participate in studies and research initiatives. This will help us ensure that we have the necessary consents and agreements from all creators before proceeding with any research or studies.
-Before filling out this form, please ensure that you have read the instructions carefully and understood the purpose of the form.</thinking>
-
 # digital_creator_highlight_consent_form - Help Guide
 ## Purpose
 This form is designed for creators who want to share their digital content on our platform and participate in studies and research initiatives.

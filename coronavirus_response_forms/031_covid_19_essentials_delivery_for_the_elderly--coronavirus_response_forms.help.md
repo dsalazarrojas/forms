@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are in need of essential items and services during the COVID-19 pandemic, specifically targeting the elderly population. The purpose of this form is to gather necessary details from recipients, including their contact information, health status, delivery preferences, and any additional assistance they may require. 
-
-This form will help the delivery team understand the needs of the elderly and provide them with essential items such as groceries, medications, and other necessities. By filling out this form, recipients can also specify their preferred payment method, dietary restrictions, and any additional assistance they may need.
-
-Before proceeding, please check if you have already filled out this form. This will help us prevent duplication of efforts and ensure that we are able to provide the necessary support to those who are in need.
-</thinking>
-
 # COVID 19 Essentials Delivery For The Elderly - Help Guide
 ## Purpose
 This form is designed to collect information from elderly individuals who require essential items and services during the COVID-19 pandemic.

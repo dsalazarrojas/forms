@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Service Center Registration Form - Help Guide
 
 ## Purpose

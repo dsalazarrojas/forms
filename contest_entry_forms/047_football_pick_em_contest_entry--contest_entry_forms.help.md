@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data for a Football Pick'em Contest Entry. The form is used to submit an entry for a specific contest, and it requires information from both the participant and the contest organizer. The form is likely used to collect data for a prediction or betting contest where participants are asked to predict the outcome of football games.
-
-To prevent duplicate entries, the form should not be submitted multiple times by the same participant. This form is intended for single submission per participant.
-
-</thinking>
-
 # Football Pick'em Contest Entry - Help Guide
 ## Purpose
 This form is used to submit an entry for a Football Pick'em Contest. It collects information from both the participant and the contest organizer.

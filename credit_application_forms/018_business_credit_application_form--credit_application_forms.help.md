@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect business credit application information from entrepreneurs and business owners. It will help us evaluate your creditworthiness and provide you with the necessary funds to support your business growth. Please make sure to fill out the form accurately and thoroughly, as any missing or incorrect information may impact the processing of your application.
-
-</thinking>
-
 # Business Credit Application Form - Help Guide
 
 ## Purpose

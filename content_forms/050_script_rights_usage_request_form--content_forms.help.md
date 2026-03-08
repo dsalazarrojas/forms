@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request script rights for a specific script version. The purpose of this form is to gather information from users about their script usage, including their role and the script name. By filling out this form, users will be able to request script rights and provide necessary information for the relevant team to process their request.
-The form is used to ensure that users can provide accurate and complete information about their script usage, and the team can process their request efficiently.
-The form will be checked for relevance and non-duplication before processing the request.
-</thinking>
-
 # Script Rights Usage Request Form - Help Guide
 ## Purpose
 This form is used to request script rights for a specific script version. To use this form, please fill out the fields below.

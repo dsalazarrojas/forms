@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a contract for a home remodeling project. The form is intended for contractors and clients to document and agree on the details of the project, including contractor information, client information, project dates, location, and payment terms. This form is likely used to ensure that both parties have a clear understanding of the project scope and expectations.
-</thinking>
-
 # Home Remodeling Contract - Help Guide
 ## Purpose
 The purpose of this form is to create a contract for a home remodeling project, outlining the details of the work to be done, payment terms, and other important information for both the contractor and client.

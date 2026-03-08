@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from patients for COVID-19 testing at CPESN pharmacies. The form is designed to collect demographic and contact information, as well as consent for testing, results delivery, and data sharing. Completing this form allows our team to efficiently process and provide COVID-19 testing services.
-
-To ensure that our team is not duplicating efforts or collecting unnecessary information, please review the form carefully before submitting it.
-
-</thinking>
-
 # COVID 19 Testing Authorization Form CPESN Pharmacy - Help Guide
 ## Purpose
 This form is for patients to provide information and consent for COVID-19 testing at CPESN pharmacies. Please complete the form carefully to ensure accurate and efficient processing.

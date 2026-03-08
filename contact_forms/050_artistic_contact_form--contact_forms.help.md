@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for artists to gather contact information from potential clients or collaborators. It seems to be a general contact form for artistic services, allowing the artist to receive inquiries, project commissions, or even feedback. The form is structured in a way that helps the artist understand the client's needs and preferences. There are multiple sections for different types of information, such as contact details, project specifics, and communication preferences. The form seems to be designed to cater to a wide range of artistic services, from painting and sculpture to digital art and graphic design. To ensure that the form is used correctly, it would be helpful to add a brief disclaimer or warning to inform users about the purpose and intended use of the form. Additionally, it would be a good idea to include clear instructions on how to submit the form and what to expect after submission. 
-
-However, it would be best to ensure that the form's purpose and scope are clearly defined and communicated to users, so they understand its intended use case and avoid duplicating efforts or submitting incomplete information.
-</thinking>
-
 # Artistic Contact Form - Help Guide
 ## Purpose
 The Artistic Contact Form is designed to gather contact information from potential clients or collaborators for artistic services. It allows artists to receive inquiries, project commissions, or feedback while understanding the client's needs and preferences.

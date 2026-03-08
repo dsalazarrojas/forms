@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect essential information from clients or customers to create their registration records. This form is typically used for business-to-business (B2B) or business-to-consumer (B2C) settings where organizations need to collect client data for various purposes such as account management, billing, or marketing. The form asks for personal and business-related information, including contact details and address, to provide a complete profile of the client.
-
-Before creating a new form, it's essential to ensure that similar forms are not created with the same purpose and name to avoid confusion and potential duplication of efforts. It's also important to note that this form is primarily designed to collect information, and any other functionality or features might not be part of this form. 
-</thinking>
-
 # Client Registration - Help Guide
 ## Purpose
 The "Client Registration" form is used to collect essential information from clients for account management, billing, or marketing purposes.

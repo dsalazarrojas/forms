@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to obtain permission from participants and their guardians in a fundraising event. The form is designed to collect necessary information and consent from all participants before allowing them to participate. 
 
 The purpose of this form is to ensure that participants and their guardians are aware of and agree to the terms and conditions of the event, including any risks or potential issues that may arise during the event. 

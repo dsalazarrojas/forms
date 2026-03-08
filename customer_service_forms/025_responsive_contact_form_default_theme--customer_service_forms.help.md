@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a generic contact form, which customers can use to submit feedback, ask questions, or provide comments to the company. The form is divided into multiple pages to allow for a more organized and structured way of gathering information. This is a default theme form, meaning it can be customized to fit specific needs of the company or department. Before proceeding, it's essential to review the form carefully to ensure that it is suitable for the intended purpose and that it does not duplicate any existing forms.
-</thinking>
-
 # Responsive Contact Form Default Theme - Help Guide
 
 ## Purpose

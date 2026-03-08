@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information and consent from patients for COVID-19 vaccination. Its purpose is to ensure that patients understand the vaccine and its benefits, risks, and potential side effects, as well as their insurance status, appointment scheduling, and medical history. 
-
-**Note: This form is not intended for duplicate entry. It is a one-time registration and consent form.**
-
-</thinking>
-
 # COVID 19 Vaccine Registration, Consent And Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect vital information and consent from patients for COVID-19 vaccination. It covers various aspects of the patient's medical history, vaccine preferences, and appointment scheduling.

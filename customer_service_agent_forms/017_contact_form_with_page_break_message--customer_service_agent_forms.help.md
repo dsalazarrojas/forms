@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to enable customers to contact the support team with their issues or concerns. This form is designed to gather necessary information to efficiently process and respond to customer inquiries. It is essential to complete this form accurately to ensure that the support team can provide the best possible assistance. Please note that this form is not a substitute for other communication channels, such as phone or email, and it is recommended to use it only for issues that require a more detailed explanation.
-
-</thinking>
-
 # Contact Form With Page Break Message - Help Guide
 ## Purpose
 The "Contact Form With Page Break Message" is a tool designed for customers to contact the support team with their issues or concerns. This form is meant to gather essential information to efficiently process and respond to customer inquiries.

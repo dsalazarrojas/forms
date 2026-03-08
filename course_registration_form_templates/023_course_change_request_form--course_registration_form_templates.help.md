@@ -1,7 +1,3 @@
-<thinking>
-This form is used to make changes to a course in the system. It's essential to fill out this form accurately and completely, as it helps the administrative staff understand the reason behind the course change and makes the approval process smoother. Ensure that you're not submitting duplicate requests for the same course, as it may cause confusion and unnecessary processing time.
-</thinking>
-
 # Course Change Request Form - Help Guide
 ## Purpose
 The Course Change Request Form is used to submit changes to a course in the system. This form is designed to gather relevant information about the change, including the reason behind it and the person requesting the change.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to update customer contact information. This form should only be used by authorized personnel for updating customer consents. The field "Assigned To" and "Assigned Tool" may only be populated by authorized users. 
-</thinking>
-
 # customer_consent_update_contact_form - Help Guide
 ## Purpose
 The customer_consent_update_contact_form is used to update customer contact information such as First Name, Last Name, Email, Consent, and Phone Number. Additionally, it is used to record customer consent status and assign a tool to follow up with the customer. This form should be completed when a customer's consent status needs to be updated or a new tool needs to be assigned to a customer.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information about an individual's responses to the coronavirus (COVID-19) pandemic. This form is likely used by healthcare workers or administrators to track and monitor the status of individuals who may have been exposed to or affected by the virus. 
-
-To avoid duplication of effort and irrelevant responses, only fill out the relevant sections based on your current status. For example, if you don't have any recent international travel history, there is no need to answer the questions related to travel status. Similarly, if you've already been vaccinated, there's no need to report on vaccination status. 
-
-Please fill out the form carefully and accurately to ensure that your responses are up-to-date and correct.
-</thinking>
-
 # coronavirus_measures_checklist - Help Guide
 ## Purpose
 The purpose of this form is to track and monitor individual responses to the coronavirus (COVID-19) pandemic.

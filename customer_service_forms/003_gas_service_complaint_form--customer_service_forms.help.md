@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers about their complaints or issues with gas services. This form is designed to be simple and easy to fill out, and it should only be used to report genuine concerns or problems. To ensure that customers' concerns are properly documented and addressed, please only use this form to report issues that you have personally experienced or are aware of. Do not use this form to report issues that are not your own experiences or to spam or harass others.
-</thinking>
 # gas_service_complaint_form - Help Guide
 ## Purpose
 The gas service complaint form is used to collect detailed information from customers about their complaints or issues with gas services. This form is designed to be user-friendly and easy to fill out, ensuring that customers can effectively report their concerns and concerns to the gas service provider.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly and accurately, please verify that you are requesting a tutor for the right course and that your preferred language matches the course language. Also, please note that some fields might be required for internal tracking purposes only, so they might not be visible to the end user. 
-</thinking>
-
 # Tutor Request Form - Help Guide
 ## Purpose
 This form is used to request a tutor for a specific course. You will be asked to provide your name, email, phone number, course, and other relevant details. Please fill out this form accurately to help us process your request efficiently.

@@ -1,5 +1,3 @@
-<thinking>...the form purpose and checks for relevance and non-duplication...</thinking>
-
 ## Home Assessment Form - Help Guide
 
 ## Purpose

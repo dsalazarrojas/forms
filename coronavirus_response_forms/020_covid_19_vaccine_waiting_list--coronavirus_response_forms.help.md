@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect demographic information and vaccination details from individuals interested in getting vaccinated against COVID-19. This form will help healthcare providers or administrators track and manage the vaccination process, ensuring that everyone has a fair chance to get vaccinated. Before proceeding, please ensure you are completing this form for its intended purpose and not for commercial or malicious intent.
-</thinking>
-
 # Covid 19 Vaccine Waiting List - Help Guide
 
 ## Purpose

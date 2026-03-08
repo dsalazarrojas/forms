@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect medical history information from clients, typically for the purpose of creating a comprehensive profile for midwifery clients. The information collected will help midwifery practitioners understand the client's medical history, which can be useful for providing personalized care and guidance. This form should only be filled out once for each new client, and any updates or revisions should be made on a separate form to ensure that the most up-to-date information is recorded. Please do not fill out this form for any other purpose.
-</thinking>
-
 # midwifery_client_intake_medical_history_form - Help Guide
 ## Purpose
 This form is intended to collect medical history information from clients, which can help midwifery practitioners provide personalized care.

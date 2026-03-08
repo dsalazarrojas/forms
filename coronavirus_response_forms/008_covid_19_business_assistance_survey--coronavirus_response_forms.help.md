@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that end-users understand the purpose and relevance of this form to avoid duplication of efforts and to provide accurate information. The form is a COVID-19 Business Assistance Survey, designed to gather data on businesses affected by the pandemic. This data will help us understand the impact of the pandemic on businesses and provide targeted assistance. It is essential that users complete the form accurately and only once to ensure that we receive a comprehensive understanding of the business landscape.
-</thinking>
-
 # COVID 19 Business Assistance Survey - Help Guide
 
 ## Purpose

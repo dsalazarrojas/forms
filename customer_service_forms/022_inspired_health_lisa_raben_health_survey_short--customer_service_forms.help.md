@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather feedback from customers on their health and wellness. To confirm, we are not collecting sensitive medical information, but rather gathering general feedback on their experiences with our services. Please answer these questions to help us improve our services.
 
 ## inspired health lisa raben health survey short - Help Guide

@@ -1,22 +1,3 @@
-<thinking>**Form Purpose:**
-The "Stage Technician Media Release Consent Form" is designed to collect information about a stage technician's media release preferences. This form is intended to gather details about what type of media (e.g., photos, videos, audio recordings) the technician is comfortable being photographed or recorded during events and for what purposes (e.g., marketing, promotional, personal use).
-
-When filling out this form, please consider the following:
-
-* You are giving consent for your likeness or voice to be captured and potentially used in media (photos, videos, audio recordings).
-* You are specifying what type of media you are comfortable with.
-* You are indicating how you would like your media release to be handled.
-
-This form is intended to help us understand your media release preferences so we can respect your wishes and ensure we handle your media appropriately.
-
-Before filling out this form, please review the questions carefully and answer them as truthfully as possible.
-
-Please note that this form is not intended for use in emergency situations where a quick response is required. It's a regular, general-purpose form for media release.
-
-If you're unsure about any of the questions or have concerns, don't hesitate to ask your production manager or stage manager for clarification.
-
-</thinking>
-
 # Stage Technician Media Release Consent Form - Help Guide
 ## Purpose
 The Stage Technician Media Release Consent Form is a document that captures stage technicians' preferences for media release during events. This form helps to ensure that we respect their wishes and handle their media release in accordance with their consent.

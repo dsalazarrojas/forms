@@ -1,11 +1,3 @@
-<thinking>
-
-Internal reasoning block to check for relevance and non-duplication:
-
-This form is intended to collect information from end-users about their request for governance audit consulting services. The form fields are designed to gather the most essential details needed for the consulting process, such as categorizing the request, providing a description of the services required, and identifying the tools that should be used for the audit. Before completing the form, ensure that the request is not a duplicate and that you have a clear understanding of the services needed. The form is used to guide end-users through the process of requesting governance audit consulting services.
-
-</thinking>
-
 # governance_audit_consulting_request_form - Help Guide
 ## Purpose
 This form is used to collect information from end-users requesting governance audit consulting services. It is meant to categorize, describe, and specify the requirements for the audit.

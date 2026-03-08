@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals to assess their risk level for COVID-19. This form will help us understand potential symptoms, medical history, and other factors that might affect their risk level. Please answer the questions accurately to help us make an informed decision.
-
-This form is intended for general use, and your responses will be kept confidential. If you have already filled out this form, please do not re-complete it unless you have experienced changes in your condition or circumstances.
-</thinking>
-
 # DailyCovid19PreScreeningQuestionnaire - Help Guide
 ## Purpose
 The DailyCovid19PreScreeningQuestionnaire is a form designed to gather information from individuals to assess their risk level for COVID-19. It is used to determine potential symptoms, medical history, and other factors that may affect an individual's risk level.

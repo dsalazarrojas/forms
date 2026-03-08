@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants for device testing purposes. It's crucial that the form is used for this specific purpose to ensure accurate and relevant data collection. To avoid duplication of effort, please review the existing forms and ensure this one is not being used for other purposes. If you're unsure about the form's purpose or have questions, please reach out to the relevant authorities.
-</thinking>
-
 # Device Testing Permission Form - Help Guide
 ## Purpose
 This form is used to collect information from participants for device testing purposes.

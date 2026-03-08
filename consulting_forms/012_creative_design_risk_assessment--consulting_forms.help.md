@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to assess the creative design risk factors and mitigation plans for a project. The form is used to identify and document potential risks that may impact the project, along with plans to mitigate those risks. This form is meant to be completed by project managers or team members to provide a structured and thorough risk assessment for each project.
-
-</thinking>
-
 # Creative Design Risk Assessment - Help Guide
 ## Purpose
 The Creative Design Risk Assessment form is used to identify and document potential risks that may impact a project, along with plans to mitigate those risks. This form helps project managers and team members to provide a structured and thorough risk assessment for each project.

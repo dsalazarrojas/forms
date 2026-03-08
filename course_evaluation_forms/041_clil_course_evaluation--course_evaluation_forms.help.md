@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather feedback on a course provided by Clil, an online learning platform. It's designed to help Clil evaluate the effectiveness and quality of the course, with sections covering participant information, course details, satisfaction, learning and content, instruction quality, course pacing and organization, materials and resources, engagement and interactivity, feedback and improvements, and additional comments or suggestions.
-
-Before starting, please note that this form is for Clil's internal evaluation purposes only. Your responses will help Clil improve its courses and services. Ensure that you answer the questions honestly and provide constructive feedback.
-
-To avoid duplication of efforts, please do not complete this form if:
-- You've already submitted feedback on this course.
-- You're not a participant of this course.
-
-</thinking>
-
 # Clil Course Evaluation - Help Guide
 ## Purpose
 The Clil Course Evaluation form is designed to gather feedback on the course's effectiveness and quality. Your responses will help Clil improve its courses and services.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used in the context of digital co-creation projects, where multiple contributors are involved in the creation of a shared resource. The form is meant to gather information from contributors about their role in the project, their permission to contribute, and other related details. It's essential to ensure that all contributors have a clear understanding of their involvement and responsibilities. 
-Before completing the form, please make sure that you are authorized to access this form and that you are not duplicating your effort by filling out a form that already exists. This form is intended for individual contributors, not for organizational or bulk submissions.
-
-</thinking>
-
 # Digital Resource Co Creation Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from contributors about their role, permissions, and other details related to the digital co-creation project. This form ensures that all contributors have a clear understanding of their involvement and responsibilities in the project.

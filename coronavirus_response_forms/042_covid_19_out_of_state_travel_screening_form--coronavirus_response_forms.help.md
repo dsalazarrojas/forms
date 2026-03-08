@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information from travelers about their recent out-of-state travel, including their travel history, health status, and any potential exposure to COVID-19. The form is designed to help screen for individuals who may have been exposed to COVID-19 during travel. It is essential to complete the form accurately to ensure the accuracy of the screening process.
-
-Before starting, please ensure that you have not completed this form in the past 30 days, as this information will be stored in the system for 30 days. If you have any questions or concerns, please contact [support email or phone number].
-
-Please be honest and accurate when filling out the form, and do not provide any false information.
-
-</thinking>
 # COVID 19 Out Of State Travel Screening Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your recent out-of-state travel to screen for potential exposure to COVID-19.

@@ -1,17 +1,3 @@
-<thinking>
-This form is used to request an extension of a content creation contract. The form requires the contractor and client to provide information about the original contract, the reason for the extension, and the details of the extension, including the new end date, extension duration, and payment terms. The form also asks the contractor and client to approve the extension and to confirm if any contract terms have been modified. The form is designed to be completed by the contractor and client in collaboration, ensuring that both parties are in agreement with the extension.
-
-To prevent duplication, this form should only be filled out for a new extension request. If an existing extension has been granted, please do not fill out this form.
-
-Before completing this form, please ensure that you have all necessary information and approvals in place.
-
-This form is not intended to be a substitute for other documentation or communication. Please keep in mind that the information provided here will be stored and used for record-keeping purposes.
-
-Please fill out this form carefully and accurately, as the information provided will be used to make decisions about the extension.
-
-Please note that the fields in this form are required for a valid extension request. Please complete all the required fields before submitting the form.
-</thinking>
-
 # Content Creation Contract Extension Form - Help Guide
 
 ## Purpose

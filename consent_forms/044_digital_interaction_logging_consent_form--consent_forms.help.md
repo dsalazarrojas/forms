@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Interaction Logging Consent Form - Help Guide
 ## Purpose
 The Digital Interaction Logging Consent Form is used to document employee consent for digital interactions, such as monitoring or recording of work activities. This form helps ensure that employees are aware of and agree to the collection of their interaction data.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to contact the organization or service provider. It is a general contact form used to gather contact information and inquiry details. Before proceeding, please note that this form is intended for general inquiries and not for emergency situations. If you are experiencing an emergency, please contact us via a different channel.
-</thinking>
-
 # Contact Form With Light Blue Theme - Help Guide
 ## Purpose
 The contact form is used to gather contact information and inquiry details from users. It is meant for general inquiries and not for emergency situations.

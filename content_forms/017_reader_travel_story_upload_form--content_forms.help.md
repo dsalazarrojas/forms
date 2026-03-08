@@ -1,8 +1,3 @@
-<thinking>
-**Form Design Reasoning:**
-The Reader Travel Story Upload Form is designed to collect user-submitted travel stories with various details such as title, story, location, and other relevant information. The form includes a mix of text fields for title, story, location, and other details, a date field for recording the travel date, and select fields for categorizing the travel story and selecting tags. The form also includes fields for capturing social media links and other metadata. The form is designed to be easy to use and understand, with clear labels and instructions to guide the user through the submission process.
-</thinking>
-
 # Reader Travel Story Upload Form - Help Guide
 
 ## Purpose

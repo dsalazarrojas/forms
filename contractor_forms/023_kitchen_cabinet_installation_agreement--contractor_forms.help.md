@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for users who will be filling out the "Kitchen Cabinet Installation Agreement" form. The purpose of this form is to collect information from customers about their kitchen cabinet installation needs, including authorization, cabinet details, installation location, installation date and time, and contact information. This guide will walk you through each field in the form, explaining their purpose and expected input.
 
 # Kitchen Cabinet Installation Agreement - Help Guide

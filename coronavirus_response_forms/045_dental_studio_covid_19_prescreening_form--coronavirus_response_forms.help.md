@@ -1,10 +1,3 @@
-<thinking>
-To confirm, this form is designed to collect patient information and medical history for dental care services, especially in the context of COVID-19 pandemic precautions. The form aims to identify potential risks and health concerns related to COVID-19 and ensure a safe environment for both patients and staff. It's not intended to be a full medical history but rather a supplementary tool to help healthcare professionals assess risks and take necessary precautions. It's essential to complete this form accurately and honestly to help us provide the best possible care for you. 
-
-Please note that some questions might seem repetitive, but they are meant to gather comprehensive information to identify potential risks and ensure patient safety.
-
-</thinking>
-
 # Dental Studio COVID 19 Prescreening Form - Help Guide
 ## Purpose
 The Dental Studio COVID 19 Prescreening Form is designed to collect information about your medical history and current health status to ensure a safe and healthy environment for you and our staff during your dental care services.

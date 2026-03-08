@@ -1,5 +1,3 @@
-<thinking>As a customer satisfaction evaluation form, this survey is designed to gather feedback on your impression of our services or products. This form will help us understand your thoughts and feelings about our offerings, allowing us to make improvements and better serve you in the future. Please take a few minutes to complete this form, and be as honest as possible in your responses. You can skip any questions that don't apply to your experience, and you can also add any additional comments or concerns that you'd like to share with us. We value your feedback and look forward to hearing about your impression of our services or products.</thinking>
-
 # Impression Review Survey - Help Guide
 
 ## Purpose

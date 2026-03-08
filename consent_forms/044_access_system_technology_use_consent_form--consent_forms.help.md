@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information and consent for access system technology use, such as biometric scanners and mobile access apps. Its purpose is to ensure that users understand how their biometric data will be collected, stored, and used, as well as their role and responsibilities in maintaining the security of the systems. The form will cover various sections, including user identification, technology description, data collection consent, security and privacy, user responsibilities, authorization, and formal consent.
-
-The form is a legal requirement for users to confirm their consent for the use of access technologies.
-
-Before filling this form, please note that the fields are categorized into sections for easier understanding. Some sections are mandatory, while others are not.
-</thinking>
-
 # Access System Technology Use Consent Form - Help Guide
 ## Purpose
 This form is a mandatory legal requirement to confirm your consent for the use of access system technologies.

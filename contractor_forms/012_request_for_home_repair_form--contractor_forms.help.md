@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive and structured way for customers or users to submit a request for home repair services. The form will gather information about the repair service requested, including the contact information of the person making the request, the description of the service required, and other relevant details such as the requested repair date and time. This form is meant to be filled out by a customer or user who wants to initiate a repair service, and the information gathered will be used by the repair team to process and fulfill the request.
-
-The form has multiple pages, but this guide will cover the entire form as a single unit.
-
-To prevent duplication and ensure relevance, please fill out the form only for legitimate requests. If you're unsure about the purpose or usage of the form, please contact the repair service team for clarification.
-</thinking>
-
 # Request For Home Repair Form - Help Guide
 ## Purpose
 The Request For Home Repair Form is designed to gather information from customers or users who require home repair services. This form helps the repair team to efficiently process and fulfill requests in a structured and organized manner.

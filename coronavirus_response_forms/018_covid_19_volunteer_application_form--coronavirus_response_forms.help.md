@@ -1,17 +1,3 @@
-<thinking>
-
-To create a help guide for the COVID-19 Volunteer Application Form, we first need to understand the purpose and context of the form. The form is designed to collect information from individuals who want to volunteer for COVID-19 related activities. 
-
-The form's purpose is to gather necessary information about the volunteer, such as their name, contact information, availability, skills, and experience. This information will help the organization to understand the volunteer's suitability for different roles and to communicate with them effectively. 
-
-The form is not a comprehensive application form and should not be submitted to apply for a specific job. It is rather a general application for volunteering in general. 
-
-Before starting, please review the form carefully and make sure you are applying for the right role and have a clear idea of what you can offer. 
-
-Also, note that some fields are marked as "required" or "optional", and you should fill them according to the guidelines. 
-
-</thinking>
-
 # COVID 19 Volunteer Application Form - Help Guide
 ## Purpose
 The form is designed to collect information from individuals who want to volunteer for COVID-19 related activities. It will help us understand your availability, skills, and experience to place you in a suitable role.

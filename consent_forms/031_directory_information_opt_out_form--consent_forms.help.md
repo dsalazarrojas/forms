@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect consent from individuals who wish to opt-out of directory information, a practice used by some companies and organizations to collect and use personal data to identify individuals. The purpose of this form is to ensure that the individual's data is not shared or used without their consent. It is crucial to understand that this form is not a standard form and is specific to the context of directory information opt-out. This form should only be filled out by individuals who have received a request for consent and are looking to opt-out of directory information sharing. 
-
-To fill out this form, follow the steps below.
-</thinking>
-
 # Directory Information Opt Out Form - Help Guide
 ## Purpose
 The Directory Information Opt Out Form is designed to collect consent from individuals to opt-out of directory information sharing. This form ensures that their personal data is not shared or used without their explicit consent.

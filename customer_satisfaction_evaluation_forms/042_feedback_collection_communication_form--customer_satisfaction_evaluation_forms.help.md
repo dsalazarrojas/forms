@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers, providing an opportunity for them to express their opinions, suggestions, or complaints about their experiences with the company. The purpose of this form is to gather valuable insights that can be used to improve customer service, products, or services offered by the company.
-
-Before filling out this form, please ensure that you have not already provided feedback on the same topic or issue. This will help us to avoid duplication of effort and ensure that your concerns are addressed efficiently.
-
-The form consists of the following fields:
-
-</thinking>
-
 # feedback_collection_communication_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experiences with our company.

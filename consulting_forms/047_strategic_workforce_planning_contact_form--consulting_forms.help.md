@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Strategic Workforce Planning Contact Form is to gather contact information from individuals interested in the strategic workforce planning process. This form is not intended for urgent or time-sensitive inquiries, but rather for those who wish to learn more about the process or schedule a consultation. Please ensure you only use this form if you have not already contacted us or if you need to re-initiate the conversation, as this form is not meant to be a follow-up channel.
-</thinking>
-
 # Strategic Workforce Planning Contact Form - Help Guide
 ## Purpose
 The Strategic Workforce Planning Contact Form is designed to provide a way for individuals to get in touch with our team about the strategic workforce planning process. This form is best suited for those who are interested in learning more about the process or want to schedule a consultation.

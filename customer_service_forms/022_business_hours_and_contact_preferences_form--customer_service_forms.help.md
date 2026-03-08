@@ -1,12 +1,3 @@
-<thinking>
-The form is meant to capture business identity and contact preferences for a given business or organization. This includes collecting information about the business's operating hours, contact methods, and emergency contact details. It also includes an option to subscribe to a newsletter for operational updates. The form seems to be designed to provide a comprehensive overview of a business's availability and contact information.
-
-The form should only be filled out once for a new business or organization, and the data collected will be used to update the business's profile and preferences in the database.
-
-It is essential to ensure that the form is filled out correctly to avoid duplication of effort and to prevent incorrect information from being saved in the database.
-
-</thinking>
-
 # Business Hours And Contact Preferences Form - Help Guide
 ## Purpose
 This form is used to collect business identity and contact preferences for a given business or organization. It includes operating hours, contact methods, and emergency contact details.

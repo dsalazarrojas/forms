@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for collecting fan engagement metrics, potentially for customer service purposes. The form likely aims to gather specific information about the customer's engagement level with a specific team or product. It might be used to analyze customer sentiment, preferences, or behaviors related to this team/product. The purpose of this form is most likely to be used internally to gather data for decision-making or reporting. However, without more context, it's difficult to be more specific about the exact purpose of this form.
-</thinking>
-
 # fan-engagement - Help Guide
 ## Purpose
 This form is used to collect fan engagement metrics for internal analysis and reporting purposes.

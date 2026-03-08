@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from minors and their parents for travel-related purposes. The form is intended to collect contact information, travel details, and other relevant information to ensure the well-being and safety of minors during travel. To maintain data accuracy and consistency, it is essential to understand that each field is designed to gather specific information and should be filled out accordingly. Please note that the following instructions are based on the form's metadata and are intended to provide clarity and assistance in understanding the form's purpose and requirements.
-</thinking>
-
 # minor_travel_consent_form - Help Guide
 ## Purpose
 The minor travel consent form is a document that collects essential information from minors and their parents before embarking on travel. The form aims to gather details about the parent's contact information, travel details, travel destinations, and emergency contacts, ensuring a smooth and safe travel experience for the minor.

@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from students about their daily well-being, including their temperature, symptoms, and interactions with school administrators. This helps the school administration track student health and provide timely interventions when necessary. Please ensure that each student completes their own form, and only submit one form per student. If a student has already completed the form today, please do not ask them to fill it out again.
-
-This form will be used to assess the student's:
-- Daily temperature
-- Symptoms or concerns
-- Interactions with school administrators
-- Contact information (name, email, phone)
-- Location (where they are completing the form)
-
-Please ensure the student completes all required fields. The school administrators will use this information to tailor their support and interventions to each student's specific needs.
-</thinking>
-
 # Student Daily Wellness Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from students about their daily well-being, including their temperature, symptoms, and interactions with school administrators. It helps the school administration track student health and provide timely interventions when necessary.

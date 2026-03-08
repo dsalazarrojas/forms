@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information about pest control operations and procedures in a facility. It is intended for use by facility staff, pest control operators, and other relevant personnel. This form is meant to be a comprehensive guide for reporting and documenting pest control activities, and should not be used for other purposes. Please ensure that the information provided is accurate and relevant to the specific pest control event.</thinking>
-
 # pest_control_notice_form - Help Guide
 ## Purpose
 The **Pest Control Notice Form** is a tool used to record and report pest control activities, operations, and procedures within a facility. It provides a structured format for reporting and documenting incidents, methods, and outcomes related to pest control.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the remote work readiness of an individual or team. It helps evaluate how prepared they are for remote work arrangements, including working from home or off-site. The form is used to collect data on various aspects of remote work, such as equipment and software requirements, communication methods, and collaboration processes.
-
-Before starting, please ensure you haven't already completed this form. If you've answered similar questions in the past, you might not need to complete this form again. Please only submit your response if you're completing it for the first time or if your situation has changed significantly since your last response.
-
-Please answer all questions honestly and accurately, as the results will help inform decisions related to remote work arrangements.
-</thinking>
-
 # Remote Work Readiness Assessment - Help Guide
 ## Purpose
 

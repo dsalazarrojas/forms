@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from riders and their horses for the Halloween Horse Show. It is intended to be completed by the rider or their representative to ensure accurate and up-to-date information is collected for the show. This form may be used to check for duplicate entries and ensure riders are registered correctly. Please make sure to fill this form out completely and accurately, and do not create duplicate entries.
-</thinking>
-
 # Halloween Horse Show Entry Form - Help Guide
 ## Purpose
 This form is used to register for the Halloween Horse Show. Please complete it accurately to ensure your entry is accepted.

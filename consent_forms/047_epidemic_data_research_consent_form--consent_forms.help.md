@@ -1,9 +1,3 @@
-<thinking>... 
-
-The purpose of this form is to gather essential information for a specific research study on epidemics, focusing on collecting participant and contact information, as well as date of birth, email, phone number, and contact methods. This form aims to collect non-sensitive data and will be stored in accordance with the relevant data protection regulations. Please ensure that you have the necessary permissions and approvals to fill out this form.
-
-</thinking>
-
 # Epidemic Data Research Consent Form - Help Guide
 ## Purpose
 The Epidemic Data Research Consent Form is designed to collect participant and contact information for research purposes. This form is part of a study on epidemics, and the data collected will be used to support research and analysis.

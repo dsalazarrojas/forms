@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Placement Feedback Form - Help Guide
 
 ### Purpose

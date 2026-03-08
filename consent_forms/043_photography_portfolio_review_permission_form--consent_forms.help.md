@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # photography_portfolio_review_permission_form - Help Guide
 ## Purpose
 The "photography_portfolio_review_permission_form" is a form used to collect information from photographers to review their work and grant permission for it to be used in various contexts, such as exhibitions, publications, or events.

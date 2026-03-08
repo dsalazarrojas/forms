@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is intended for customers to match their team with one of the provided color options. The form is not meant for any other purpose, and it is recommended that customers only fill out this form once. The form will likely be used in conjunction with other forms, and any data collected will be used to improve the service provided by Team Maple States.
 
 # Team Maple States Color Match Form - Help Guide

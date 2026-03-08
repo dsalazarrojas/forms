@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Construction Report - Help Guide
 ## Purpose
 The Daily Construction Report is a form used to document daily progress and activities on construction sites. It is designed to help construction project managers and site supervisors track and report on the status of ongoing projects.

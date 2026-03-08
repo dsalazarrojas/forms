@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from clients for a facility inspection, which is a process to ensure the safety and well-being of clients who use the facility. This form is used to gather information about the client, their contact details, and their agreement to participate in a facility inspection. This form is likely used in a business-to-business context, such as a fitness center or gym, where clients may be required to provide consent for regular safety inspections. The form is not intended to be duplicated or used for other purposes, and its purpose is to provide a clear and concise way to obtain client consent.
-</thinking>
-
 # gym_facility_safety_inspection_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from clients for a facility inspection, which is a process to ensure the safety and well-being of clients who use the facility.

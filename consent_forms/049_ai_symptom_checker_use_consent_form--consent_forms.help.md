@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Symptom Checker Use Consent Form - Help Guide
 
 ## Purpose

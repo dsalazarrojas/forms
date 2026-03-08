@@ -1,9 +1,3 @@
-<thinking>
-This form is a part of a broader application or system used for managing security guard services. The form's purpose is to gather information from users who are seeking or providing security guard services. The form likely serves as a means to collect relevant details and confirmations from users to facilitate efficient service delivery or management. This form is likely used by security guard services providers or clients seeking services. 
-
-The following help guide will explain the form's fields in detail.
-</thinking>
-
 # Security Guard Service Contract Form - Help Guide
 ## Purpose
 This form is used to collect information and confirm details related to security guard services. Please fill out the form carefully to ensure accurate and complete submission.

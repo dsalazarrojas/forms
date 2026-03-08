@@ -1,7 +1,3 @@
-<thinking>
-This is a liability waiver form designed for sports training, likely for minors. The form aims to gather information about the individual's personal details, emergency contact information, medical history, and waiver of liability. The fields include spaces for name, email, birth date, emergency contact details, facility information, medical history, and waiver signature. The form is likely used for parents or legal guardians to provide consent and information for a minor to participate in sports training.
-</thinking>
-
 # Sports Training Liability Waiver - Help Guide
 ## Purpose
 This form is a liability waiver for sports training, used to gather necessary information and gain consent for minors participating in sports activities.

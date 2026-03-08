@@ -1,11 +1,3 @@
-<thinking>
-
-Internal reasoning block: 
-The "Reopening Attendance Confirmation Form" is a form used to record attendance of students who are being considered for readmission to our school. It is essential that the information provided on this form is accurate and thorough to ensure proper processing and evaluation of the student's case. 
-Ensure you are not duplicating any existing records, especially for students with similar names. If in doubt, please check with the relevant department or supervisor before submitting the form. 
-
-</thinking>
-
 # Reopening Attendance Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm the attendance of students who are being considered for readmission to our school. It helps us gather essential information about the student's status and circumstances.

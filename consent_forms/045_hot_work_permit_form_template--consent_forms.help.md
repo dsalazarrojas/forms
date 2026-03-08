@@ -1,12 +1,3 @@
-<thinking>
-The hot work permit form is used to obtain permission for performing hot work activities on site, such as welding, cutting, or grinding, which may pose a risk of fire and explosion. This form is required to be completed when performing work that involves hot work and is typically reviewed and approved by a supervisor. This form is not intended to be a substitute for regular safety protocols and procedures, but rather a supplement to ensure that all necessary precautions are taken when performing high-risk activities.
-
-This form should only be used on site, and the information collected here will be used to track and record hot work activities. If you are unsure about whether a task requires a hot work permit, please consult with a supervisor or refer to relevant safety protocols and procedures.
-
-Please note that fields with 'Yes' and 'No' options are not necessarily boolean fields, but rather multiple-choice questions that ask whether something is happening or not. For example, 'Location of hot work' asks if the work is being performed in an office, warehouse, or workshop.
-
-</thinking>
-
 # Hot Work Permit Form Template - Help Guide
 ## Purpose
 This guide will explain how to complete the Hot Work Permit Form Template and what each field means.

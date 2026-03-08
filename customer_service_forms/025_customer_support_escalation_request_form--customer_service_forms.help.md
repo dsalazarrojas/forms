@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate customer support escalation requests. It is used to gather information about the customer's issue or problem that requires attention from the support team. The form is designed to be easy to fill out and to capture relevant details that will help the support team efficiently address the issue. This form should only be used for genuine support requests, and not for testing or demonstration purposes.
-
-Before filling out this form, please ensure that you have not already submitted a similar issue, as it may lead to duplicate efforts and unnecessary work for both you and the support team.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # customer_support_escalation_request_form - Help Guide
 ## Purpose
 This form is designed to help customers escalate their support requests to the support team. Please use this form to report any issues or problems you are experiencing with our service or product.

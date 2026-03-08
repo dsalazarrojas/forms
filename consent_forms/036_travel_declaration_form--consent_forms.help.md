@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information on an individual's travel history and potential health risks associated with their travel. This form is designed to gather data on the individual's travel status, symptoms, temperature, and other relevant information to help assess their health risks. This form is likely used for health and safety protocols, such as assessing the risks of COVID-19 or other contagious diseases.
-
-When completing this form, please ensure that the information you provide is accurate and truthful. This form is typically filled out by individuals who are planning to travel to or from areas with high health risks.
-
-</thinking>
-
 # travel_declaration_form - Help Guide
 ## Purpose
 The travel declaration form is used to collect information on an individual's travel history and potential health risks associated with their travel. This form helps assess and manage health risks related to travel.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in consulting packages. The form asks for personal details such as name, contact information (phone number and email), and preferred date and time for the consultation. It also inquires about the services the user is interested in, any additional notes they might have, and the package they would like to consult on. This form is not designed for users who have already been assigned a specific package; instead, it is for users who are looking to inquire about available packages. The form should not be filled out by users who have already been assigned a package or have other packages that they are currently consulting on.
-</thinking>
-
 # Package Consultation Request Form - Help Guide
 ## Purpose
 This form is for users who are interested in consulting packages. Please fill out the form to inquire about available packages and schedule a consultation.

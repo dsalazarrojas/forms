@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Send Group Messages Form - Help Guide
 ## Purpose
 This form is used to send group messages. Please only submit this form for relevant and non-duplication purposes.

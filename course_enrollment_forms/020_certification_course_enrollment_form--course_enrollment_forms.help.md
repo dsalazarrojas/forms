@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Certification Course Enrollment Form - Help Guide
 
 ## Purpose

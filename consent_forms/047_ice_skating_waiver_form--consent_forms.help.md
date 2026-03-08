@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information from individuals participating in ice skating activities. It's essential to ensure that we have accurate and up-to-date contact information for emergency contacts in case of an emergency. The form is divided into several sections, including personal information, emergency contacts, medical conditions, and terms and conditions. Each section is designed to gather specific details to help us provide the best possible service and ensure the participant's safety.
-</thinking>
-
 # ice_skating_waiver_form - Help Guide
 ## Purpose
 The ice skating waiver form is a mandatory form for individuals participating in ice skating activities. It helps us gather essential information to ensure your safety and the safety of others during the event. Completing this form helps us respond effectively in case of an emergency and maintain a smooth and enjoyable experience for all participants.

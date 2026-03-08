@@ -1,9 +1,3 @@
-<thinking>
-
-The Rental Property Management Permission Form is used to gather information from tenants about their rental properties, including their details, property specifics, and consent status. This form will help the landlord and property manager to efficiently gather all necessary information from tenants to manage rental properties efficiently. 
-
-</thinking>
-
 # Rental Property Management Permission Form - Help Guide
 ## Purpose
 The form is used by landlords and property managers to gather important information from tenants about their rental properties.

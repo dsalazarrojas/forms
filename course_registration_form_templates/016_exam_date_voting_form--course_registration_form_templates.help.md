@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user input for an exam date voting process. The form is used to gather users' preferred dates for an exam to take place. Each option presented in the form is a possible date for the exam. Users can choose their preferred date from the available options. This form does not store or process any sensitive data, and all dates are displayed in a standard 'YYYY-MM-DD' format. This form is designed to be easy to use, with clear labels and minimal required information. The purpose of this form is to gather feedback from users on their preferred exam dates.
-</thinking>
-
 # exam-date-voting-form - Help Guide
 ## Purpose
 This form is designed to gather user input for an exam date voting process. Users can choose their preferred date from the available options.

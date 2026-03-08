@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form, "Divorce Survey," is to collect information from individuals regarding their divorce-related experiences and circumstances. This form is designed to gather data that can be used to inform and improve services related to divorce, including support and resource provision for those going through the process. This form was created using AI-generated code, which is an original and derivative work that does not copy or use proprietary content from other form platforms.
-
-Before proceeding, please review the form carefully to ensure that it meets your needs and does not contain any sensitive or confidential information.
-
-</thinking>
-
 # Divorce Survey - Help Guide
 ## Purpose
 The "Divorce Survey" form is designed to collect information about your divorce-related experiences and circumstances.

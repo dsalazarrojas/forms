@@ -1,10 +1,3 @@
-<thinking>
-This form is used to submit a warranty claim for a screen protector product. To avoid duplication, please ensure that you have not already submitted a warranty claim for the same product before. If you're unsure, you can check the status of your previous claims on our website or contact our customer service team.
-
-The form is divided into several sections, each with a specific purpose. This guide will walk you through each field and its meaning, helping you to complete the form accurately and effectively.
-
-</thinking>
-
 # screen_protector_warranty_claim_form - Help Guide
 ## Purpose
 The purpose of this form is to submit a warranty claim for a screen protector product. This form is used to report any issue or defect with your screen protector and to obtain a replacement or repair.

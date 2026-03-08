@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from lead medical professionals who have responded to a fire rescue situation involving aerosolized procedures. The form aims to capture details about the incident, including the lead medical person's information and any additional context that may be relevant to the response.
-
-Before proceeding, ensure that this form is relevant to your situation and not a duplicate. If you have already completed a similar form, please do not submit another instance. This will help maintain the accuracy and consistency of the data collected.
-
-</thinking>
-
 # fire_rescue_aerosolized_procedure_report_form - Help Guide
 ## Purpose
 The fire_rescue_aerosolized_procedure_report_form is a tool used to gather information from lead medical professionals who respond to fire rescue situations involving aerosolized procedures. This form helps in collecting details about the incident, the medical team involved, and any additional context relevant to the response.

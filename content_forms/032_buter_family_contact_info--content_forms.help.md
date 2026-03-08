@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Buter Family Contact Info - Help Guide
 
 ## Purpose

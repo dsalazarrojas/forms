@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of registering a patient for a massage therapy session. The form is intended to collect relevant information from the patient, including their personal details, appointment information, and preferences. This form will help the therapist understand the patient's needs and preferences, ensuring a tailored and effective massage therapy experience. Before filling out this form, ensure that you are completing it for a specific massage therapy session and not duplicating information that has already been provided in previous sessions.
-
-</thinking>
 # Massage Intake Form - Help Guide
 ## Purpose
 This form is designed to register a patient for a massage therapy session, gathering necessary information to tailor the session to the patient's needs and preferences.

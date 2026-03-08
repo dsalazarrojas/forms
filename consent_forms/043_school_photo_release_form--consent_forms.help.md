@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain consent from students or their guardians to use their photos in various school activities, such as school events, yearbooks, social media, and the school website. 
-The form is required for all students who will be taking photos for school purposes. 
-Please ensure that all fields are completed accurately and thoroughly to avoid any potential issues or delays.
-</thinking>
-
 # School Photo Release Form - Help Guide
 ## Purpose
 The School Photo Release Form is used to collect consent from students or their guardians to use their photos in various school activities. This form is a legal document that ensures that students' and guardians' permissions are obtained before their photos are used by the school.

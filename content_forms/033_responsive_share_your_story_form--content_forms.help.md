@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed for users to share their stories and experiences in a responsive and engaging way. The form consists of three sections: "Share Your Story," "About Your Business," and "Share Your Experience." 
-  The form is meant to collect information from users about their stories, business, and experiences, and it's intended to be completed by customers, clients, or other stakeholders. 
-  The fields are designed to be user-friendly and easy to understand, with optional and required fields to ensure users can provide the necessary information without feeling overwhelmed. 
-  Before you begin, please ensure you have a clear and compelling story to share, and that the information provided is accurate and up-to-date. This form is not meant to be a duplicate effort or a repetitive process, so please review your submission carefully and only provide new information if necessary.
-</thinking>
-
 # Responsive Share Your Story Form - Help Guide
 ## Purpose
 The Responsive Share Your Story Form is designed to collect information from customers, clients, or other stakeholders about their stories, business, and experiences. This form helps in providing a platform for users to share their stories and engage with others in a responsive and engaging way.

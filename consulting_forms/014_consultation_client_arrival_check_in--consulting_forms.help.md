@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to collect essential information from consultation clients upon arrival. The fields are designed to gather relevant details about the client, their appointment schedule, and any necessary context for the consultation. The form is likely to be used by the consultation team to prepare for the meeting and provide a smooth experience for the client.
-
-The form's fields cover various aspects of the client's visit, including their personal details (first and last name, email, phone number), appointment scheduling (date, time, format), and preferences (arrival time, waiting preference). Additionally, the form asks about the main topic of discussion, any special needs or accommodations, and whether the client has brought required documents. 
-
-It's essential to note that some fields are marked as "required," which means they must be filled out for the form to be complete. 
-
-Before proceeding, please make sure to review the form carefully and fill out any required fields.
-
-</thinking>
-
 # Consultation Client Arrival Check In - Help Guide
 
 ## Purpose

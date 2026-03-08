@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from students on their experiences in a college course. The purpose is to collect their opinions on various aspects of the course, including course organization, instructor effectiveness, teaching difficulty, and overall satisfaction. By providing a comprehensive list of questions, this form helps students share their thoughts and help instructors and course designers improve the quality of their courses. This form is part of a broader effort to ensure that students' voices are heard and their concerns are addressed, helping to create a more positive learning environment.
-
-</thinking>
-
 # College Course Evaluation Form - Help Guide
 ## Purpose
 The College Course Evaluation Form is designed to gather feedback from students on their experiences in a college course. The form covers various aspects of the course, including organization, instruction, and overall satisfaction.

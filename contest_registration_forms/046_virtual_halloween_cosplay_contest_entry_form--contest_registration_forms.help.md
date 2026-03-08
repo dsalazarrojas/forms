@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to submit their entries for the Virtual Halloween Cosplay Contest. It gathers information about the contestant, their cosplay name, a brief description, an image URL, and contact details for the submitter. The fields are designed to be easy to fill out and require minimal information. Please ensure to provide accurate details as required for your entry. You can choose one category (e.g., Fantasy, Horror, Science Fiction, Comedy, Action) and multiple tags (e.g., Fantasy, Horror, Science Fiction, Comedy, Action) for your entry. The submitter details will be kept confidential and used only for communication with the contest organizers.
-</thinking>
-
 # Virtual Halloween Cosplay Contest Entry Form - Help Guide
 ## Purpose
 This form is for users to submit their entries for the Virtual Halloween Cosplay Contest.

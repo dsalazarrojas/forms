@@ -1,7 +1,3 @@
-<thinking>
-This form is used for wrestlers to provide medical information for their safety and well-being. This form is designed to be filled out by the wrestler themselves, or by their emergency contact. The information provided will be used to ensure that the wrestler receives proper medical attention in case of an emergency during wrestling events or practices.
-</thinking>
-
 # Wrestling Medical Release Form - Help Guide
 ## Purpose
 The Wrestling Medical Release Form is a necessary document that requires the wrestler to provide medical information to the team. This includes their name, contact information, and medical history. The form is also used to identify their emergency contact and provide their signature.

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Nail Tip Adhesive Safety Consent Form", I will first need to understand the form's purpose and fields. The form appears to be designed to collect information about a client's nail safety consent and other related details.
-
-The form seems to be focused on collecting information about the client's nail condition, location, and safety precautions. Some fields are related to specific conditions like dermatitis and infection, while others are about the type and shape of the nail. There are also fields for medical conditions, allergies, and contraindications.
-
-To confirm, the purpose of this form is to ensure that the client understands and acknowledges potential risks and precautions associated with nail treatment or procedures.
-
-</thinking>
-
 # Nail Tip Adhesive Safety Consent Form - Help Guide
 ## Purpose
 The Nail Tip Adhesive Safety Consent Form is designed to ensure that clients understand and acknowledge potential risks and precautions associated with nail treatment or procedures.

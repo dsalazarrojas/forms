@@ -1,12 +1,3 @@
-<thinking>
-This form is for capturing lead information for a free course preview. 
-The purpose of this form is to collect relevant information from potential learners 
-about their interest in a course, such as name, email, phone number, course preference 
-options, and more. 
-The form should only be submitted once to prevent duplication. 
-Please ensure the form is completed accurately and thoroughly. 
-</thinking>
-
 # free_course_preview_lead_form - Help Guide
 ## Purpose
 This form captures lead information for a free course preview.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cyber_competition_registration_form - Help Guide
 ## Purpose
 The cyber_competition_registration_form is designed for registering participants in a cyber competition. This form collects personal and team information for registration purposes. It is a required form for all participants.

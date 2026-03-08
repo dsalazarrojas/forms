@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Drive Thru Testing Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information for drive-thru testing appointments. Please fill out this form to schedule a test and provide any necessary details.

@@ -1,10 +1,3 @@
-<thinking>
-This form will help our customer service team understand your experience with our company's installation service. Please complete this form to provide feedback on how satisfied you were with your recent installation. Your feedback is crucial in helping us improve our service and provide better experiences for our customers.
-
-Before starting this form, please make sure you have not already filled out a similar form. We value your time and do not want you to complete duplicate forms.
-
-</thinking>
-
 # post_installation_customer_feedback - Help Guide
 ## Purpose
 

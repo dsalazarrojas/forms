@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for students to register for various programs offered by the Civic Learning program in higher education. It collects information on student demographics, academic status, program preferences, and availability. The form is intended for students who wish to participate in programs such as Community Engagement Certificate, Public Policy Internship, Service Learning Course, Civic Research Project, Leadership Development Program, or Voter Education Initiative. 
-
-The form is required for registration, but the information collected will be used to facilitate the program's management and to tailor it to the students' needs.
-
-The form will not be duplicated, and all fields are mandatory. Each field is designed to be filled with specific information that will help the program's administration manage the students effectively.
-
-Please ensure that you are not duplicating a registration and fill in all the fields correctly to avoid any inconvenience or delay in the program.
-
-</thinking>
-
 # Civic Learning In Higher Education Registration Form - Help Guide
 ## Purpose
 This form is designed for students to register for various programs offered by the Civic Learning program in higher education. It collects information on student demographics, academic status, program preferences, and availability.

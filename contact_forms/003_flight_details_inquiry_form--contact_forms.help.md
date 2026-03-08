@@ -1,8 +1,3 @@
-<thinking>
-Form purpose and relevance are crucial for understanding this form. This form is designed to collect information about flights in an inquiry context, likely for travelers or travel agencies to gather details about flights. It's essential to fill out this form correctly to ensure accurate and relevant information is collected.
-
-Form duplication can happen when travelers submit the same information multiple times. To prevent this, it's essential to ensure each field is correctly filled out with the correct information.</thinking>
-
 # flight_details_inquiry_form - Help Guide
 ## Purpose
 This form is designed to gather details about flights for travelers or travel agencies. Please fill out the form correctly to ensure accurate and relevant information is collected.

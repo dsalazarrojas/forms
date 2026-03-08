@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's health status, medical history, and emergency contact details. The purpose of this form is to ensure that the salon or spa has accurate and up-to-date information about each client, which is essential for providing personalized and safe services. This form is typically used by salons and spas to collect this information from clients before starting a treatment or service. The fields in this form are designed to be completed by the client themselves, and the information collected will be used by the salon or spa staff to provide the best possible experience and care for the client. 
-
-The form has no conditional logic or branching, so it's a simple and straightforward collection of information.
-
-</thinking>
-
 # salon_client_health_check_in_form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's health status, medical history, and emergency contact details, to ensure that the salon or spa has accurate and up-to-date information to provide personalized and safe services.

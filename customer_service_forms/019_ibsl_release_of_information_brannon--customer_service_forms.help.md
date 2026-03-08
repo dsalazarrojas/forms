@@ -1,8 +1,3 @@
-<thinking>
-The form is used to capture information about the release of information related to the Brannon incident, which is an internal process to release sensitive information to the relevant stakeholders. This form is part of the customer service process and is used to determine which customer service forms need to be released and when. This form is meant to be completed by the relevant team member in charge of releasing such information. Please ensure you have the necessary permissions and approvals before completing this form. Also, please note that this form may contain sensitive information and should only be completed by authorized personnel. Before starting, ensure you have reviewed and understood the form purpose and the process involved.
-
-</thinking>
-
 # IBSL Release Of Information_Brannon - Help Guide
 ## Purpose
 This form is designed to facilitate the release of information related to the Brannon incident, enabling authorized personnel to manage and document the process.

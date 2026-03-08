@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from disaster relief beneficiaries to obtain their consent for the use of their photo and other personal data. This form will be used to ensure that beneficiaries understand and agree to the terms and conditions of sharing their information, including their photo, contact details, and other relevant data. Before filling out this form, it's essential to confirm that you are a disaster relief beneficiary and that you are aware of the purpose and implications of this form. Please review each field carefully and provide accurate information to ensure a smooth process. This form is intended to be completed by disaster relief beneficiaries, not by individuals representing the organization or disaster relief agency.
-</thinking>
-
 # Disaster Relief Beneficiary Photo Consent Form - Help Guide
 ## Purpose
 The Disaster Relief Beneficiary Photo Consent Form is a document designed to obtain consent from disaster relief beneficiaries for the use of their photo and other personal data. It is a crucial step in ensuring that their rights and privacy are respected.

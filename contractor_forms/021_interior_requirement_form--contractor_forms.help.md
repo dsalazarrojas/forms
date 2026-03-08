@@ -1,16 +1,3 @@
-<thinking>
-This form is used to gather essential information for a home interior design project. It's a straightforward form that helps us understand the client's project requirements and design style preferences. To create this form, we've considered the following fields based on common home design projects:
-
-*   Project Title: This field allows clients to provide a brief title for their project.
-*   Project Details: This field is intended for clients to describe their project in detail.
-*   Client Requirements: This field is meant for clients to list their specific requirements for the project.
-*   Design Style: This field is used to determine the design style the client prefers for their home interior.
-*   Budget: This field is where clients can provide their budget for the project.
-*   Deadline: This field allows clients to specify the deadline for the project completion.
-*   Notes: This field is a space for clients to add any additional information or comments about their project.
-
-</thinking>
-
 # Interior Requirement Form - Help Guide
 ## Purpose
 The Interior Requirement Form is used to gather essential information for a home interior design project. It's designed to be completed by clients to help our team understand their project requirements and preferences.

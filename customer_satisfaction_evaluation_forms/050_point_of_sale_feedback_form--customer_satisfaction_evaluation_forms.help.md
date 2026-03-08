@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Point Of Sale Feedback Form - Help Guide
 ## Purpose
 The Point Of Sale Feedback Form is a tool used to gather customer feedback after a purchase or interaction with our store. This form helps us understand your experience and identify areas for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a contact form with an upload feature, likely used for customers or visitors to send messages and share files with the organization or company. The form requires the user to provide their name, email, phone number (optional), and a message, as well as confirm if they have files to upload. Users can upload images, videos, documents, or other types of files. The form also asks for a file description and type. The date of submission is also recorded. This form is likely used for support, sales, or general inquiries.
-The form is not meant to be filled out multiple times, so there's no need to explain how to save and return to it.
-</thinking>
-
 # Contact Form With Upload - Help Guide
 ## Purpose
 This form is for customers or visitors to send messages and share files with the organization or company.

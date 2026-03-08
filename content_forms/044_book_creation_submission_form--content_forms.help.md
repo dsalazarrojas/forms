@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the Book Creation Submission Form. The form is designed to collect information from authors or creators of books and is used to help editorial teams evaluate and consider potential book submissions. The form is not intended for internal use within the organization, but rather for external authors who wish to submit their work for review. To ensure that the form is filled out correctly, please review the guidelines and instructions below.
-
-</thinking>
 # Book Creation Submission Form - Help Guide
 ## Purpose
 The Book Creation Submission Form is a tool for authors or creators to submit their book proposals to the editorial team. It allows users to provide detailed information about their book, including author details, book title, genre, synopsis, and other relevant information.

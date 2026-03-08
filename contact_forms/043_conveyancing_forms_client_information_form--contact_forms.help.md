@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conveyancing Forms Client Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their personal and property-related details. It is used to gather essential data for conveyancing services, such as property addresses, financial information, and contact preferences. Completing this form helps our team to assess your requirements and provide tailored services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning behind this form is to collect data for the registration of models within the organization. The form is designed to gather demographic and contact information, as well as any relevant medical history or conditions. To ensure accuracy and consistency, it's essential to double-check each field's relevance and completeness before submitting the form. Additionally, please note that some fields are not required, so be sure to fill out all necessary fields to ensure a complete registration.
 
 # Model Registration Form - Help Guide

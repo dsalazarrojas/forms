@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for collecting consent for a video recognition, likely for volunteers or employees within an organization. It might be used for internal or external recognition of volunteers' contributions or achievements. Before proceeding, ensure this form is not a duplicate or unnecessary for your specific use case. The form's purpose is to gather information from volunteers for the creation of a video recognizing their contributions or achievements. This form's content should match the needs of your organization or project.
-</thinking>
-
 # Volunteer Recognition Video Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from volunteers to be featured in a video recognition. The video will acknowledge and thank the volunteers for their contributions or achievements.

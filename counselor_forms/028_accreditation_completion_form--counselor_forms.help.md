@@ -1,9 +1,3 @@
-<thinking>
-The Accreditation Completion Form is a tool used to record the completion of accreditation requirements by an institution or organization. The form gathers information about the institution, the accrediting body, and the contact person handling correspondence. It is designed to be completed by institutions or organizations seeking accreditation, and the form's completion is a step in the accreditation process. To avoid duplication, this form should only be used for new, unique, or updated information. 
-
-After completing the form, the institution can use the collected data to track the progress of the accreditation process and communicate with the accrediting body.
-</thinking>
-
 # Accreditation Completion Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form "eyelashes_extensions" is used to collect patient information for a specific medical procedure. This form is used to gather consent, contact details, medical history, and other relevant information from patients. Please ensure that the form is only completed by the patient or their authorized representative. 
-</thinking>
-
 # eyelashes_extensions - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from patients for the eyelashes extension procedure.

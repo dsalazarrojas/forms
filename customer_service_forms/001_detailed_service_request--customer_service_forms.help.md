@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Detailed Service Request - Help Guide
+> # Detailed Service Request - Help Guide
 
 ## Purpose
 This form is designed to collect detailed information about a service request. It is meant for customers to submit their service requests, providing the necessary details for our team to effectively process and resolve their issues.

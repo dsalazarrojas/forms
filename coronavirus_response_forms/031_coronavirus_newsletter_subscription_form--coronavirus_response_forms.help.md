@@ -1,11 +1,3 @@
-<thinking>
-This form is a newsletter subscription form designed to collect contact information from individuals interested in receiving updates on the COVID-19 situation. The form is intended for people who want to stay informed about the latest news, guidelines, and resources related to the coronavirus pandemic. This form is a simple and straightforward way to collect email addresses from interested individuals.
-
-To ensure that we don't receive duplicate submissions from the same person, we will be checking for unique email addresses before adding them to our newsletter list.
-
-Before completing this form, please note that the form is not affiliated with any specific platform or organization, and all data collected will be used solely for the purpose of sending newsletters related to the COVID-19 situation.
-</thinking>
-
 # report_coronavirus_newsletter_subscription_form - Help Guide
 ## Purpose
 This form is designed to collect contact information from individuals interested in receiving updates on the COVID-19 situation.

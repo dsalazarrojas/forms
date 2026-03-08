@@ -1,6 +1,4 @@
 >
-<thinking>...The Automated Service Scheduling Consent Form is designed to capture customer information and preferences for automated scheduling of services. This form is used to ensure that customers understand how their data will be used and that they consent to the use of automation features. Customers can provide their personal details, such as name, email, phone number, and address, and agree to the terms and conditions of service. They are also asked to indicate their preferred contact methods and scheduling preferences. Additionally, customers must provide a digital signature to confirm their consent. The form is designed to be completed in multiple stages, with each stage capturing specific information. The form is intended for customers to provide their consent and preferences for automated scheduling, ensuring that they understand how their data will be used and that they are comfortable with the terms and conditions of service. The form should be reviewed carefully to avoid duplication of effort and ensure that all necessary information is captured. Please refer to the following help guide for detailed instructions on how to complete the form... </thinking>
-
 # Automated Service Scheduling Consent Form - Help Guide
 
 ## Purpose

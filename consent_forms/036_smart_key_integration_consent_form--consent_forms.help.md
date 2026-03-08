@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user information for integration with a smart device or system. The purpose of this form is to gather essential details from users, including their contact information and key-related specifics. This information will be used to facilitate the integration process and ensure seamless communication between users and the system. Before proceeding, please ensure that you have not previously completed this form for this integration, as it will help prevent duplicate entries and ensure accurate data collection.
-
-</thinking>
-
 # Smart Key Integration Consent Form - Help Guide
 ## Purpose
 

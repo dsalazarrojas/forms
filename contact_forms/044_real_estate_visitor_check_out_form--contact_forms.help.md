@@ -1,17 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form used by real estate visitors to check out of a property. This form is likely used by visitors to provide information about their visit, including their contact details, the type of visit (agent or client), and the property they are checking out of. The form might be used by property managers or administrators to track visitor information and provide a smooth check-out experience.
-
-To determine if this form is relevant, we'll assume that the organization using this form is a real estate agency or property management company that needs to track visitor information for security, maintenance, or other administrative purposes. This form likely won't be used for other purposes, such as sales or marketing activities, as it's focused on check-out information.
-
-Before we create the help guide, let's review the form fields:
-
-* contact_name, contact_email, and agent_number are personal contact information fields.
-* visitor_type and check_out_time are used to identify the type of visitor and the time of check-out, respectively.
-* property_name and property_address are fields to record the property being visited.
-* visitor_comments are optional comments provided by the visitor.
-* agent_name is the name of the agent or representative that accompanied the visitor.
-</thinking>
-
 # Real Estate Visitor Check Out Form - Help Guide
 
 ## Purpose

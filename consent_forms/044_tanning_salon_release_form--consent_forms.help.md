@@ -1,24 +1,3 @@
-<thinking>**Tanning Salon Release Form - Help Guide**
-
-This form is used to collect information from clients for the purpose of releasing their information to a third-party tanning salon. This form is not required to be completed multiple times, and its completion is optional for each individual.
-
-The form collects the following information:
-
-* First name
-* Last name
-* Email address
-* Phone number
-* Date of visit
-* Time of visit
-* Notes/agreement (for any additional comments)
-* Signature (for consent)
-
-This form is primarily used for data collection and record-keeping purposes, and the information collected will be shared with the tanning salon.
-
-Before filling out this form, please make sure you understand that the information you provide will be shared with a third-party tanning salon, and that you're giving your consent for them to use your information for their business purposes.
-
-</thinking>
-
 # Tanning Salon Release Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sworn Declaration Form - Help Guide
 
 ## Purpose

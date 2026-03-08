@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to verify and acknowledge a customer's eligibility to access hemp products. The form is designed to ensure that customers are at least 21 years old, have provided a valid government-issued ID, and acknowledge the local and state laws regarding hemp products, as well as potential health risks associated with hemp-derived products. It also includes a pledge that these products are for personal use and not for redistribution to minors, and agreement to the retailer's terms of service and privacy policy, releasing the vendor from liability related to the misuse of these products.
-
-The form is designed to be completed by customers who are interested in accessing hemp products, and will guide them through the necessary steps to ensure their age and identity verification.
-
-</thinking>
-
 # Access Protection For Hemp Products - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for new customers to provide information about themselves and their skincare goals and needs. The form should only be used for customers who are new to the skincare service. The form is part of the customer registration process and should not be used for existing customers. If a customer already has an account with the service, they should use the existing account login.
-</thinking>
-
 # Skincare New Customer Consultation Form - Help Guide
 ## Purpose
 The Skincare New Customer Consultation Form is a tool used to gather information from new customers about their skincare needs and goals. This information will be used to provide personalized skincare recommendations and create an account for the customer.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about suppliers and their business practices. It is meant to be a survey that helps the organization understand the supplier's performance, payment terms, and other relevant details.
-
-Before creating this guide, we checked that there isn't a similar form in the system.
-
-</thinking>
-
 # supplier_survey - Help Guide
 ## Purpose
 This form is used to collect data about suppliers and their business practices. It helps our organization understand their performance, payment terms, and other relevant details.

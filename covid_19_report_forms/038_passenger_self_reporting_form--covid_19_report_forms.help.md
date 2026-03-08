@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect passenger information, contact information, and health-related details to support public health measures during the COVID-19 pandemic. The form's purpose is to gather accurate and truthful answers from passengers to assess their health status, travel history, and contact history, which will help in tracking and mitigating the spread of the virus. To ensure that each passenger's data is accurate and consistent, the form includes multiple pages with identical fields but different titles, which may seem redundant. Please be aware that this form is not intended to be a medical evaluation tool but rather a public health survey. Please answer the questions truthfully to the best of your ability.</thinking>
-
 # Passenger Self Reporting Form - Help Guide
 ## Purpose
 

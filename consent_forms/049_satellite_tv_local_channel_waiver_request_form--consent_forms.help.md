@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Satellite TV Local Channel Waiver Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for a waiver for a local channel on the satellite TV system. A waiver is a written permission to temporarily waive a rule or regulation, allowing for access to a channel that would otherwise be restricted. This form is used to document and track requests for waivers.

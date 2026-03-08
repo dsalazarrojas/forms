@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students to register for a virtual course. The form is designed to gather personal and course-related details from students, ensuring that they can provide necessary information to complete their course registration process. This form should be used by students who are interested in registering for a virtual course. Please note that all fields are optional, and students can fill out as much or as little information as they need to. This form is meant to be a general registration form and does not cater to specific requirements for every student. 
-
-Before proceeding with the form, ensure that you have the required information ready and that the form is being filled out for the correct purpose. If you are unsure whether this form is the correct one for your needs or if you have questions, please contact us.
-</thinking>
-
 # Virtual Course Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students to register for a virtual course.

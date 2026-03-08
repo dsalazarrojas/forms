@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about the scope and objectives of a sprint, and determine whether the team has the required level of service for the sprint. It's likely used by project managers or team leads to ensure that the team is adequately resourced and prepared for the work. The form doesn't appear to be a mandatory form, as indicated by the lack of requirements for most fields.
 
 # sprint_service_agreement_form - Help Guide

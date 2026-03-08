@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for users to submit their entry for an online contest. The form will gather essential information about the user, including their contact details, contest preferences, and other relevant details. The form is a crucial step in the contest entry process, and it's essential that users understand its purpose and how to complete it accurately. Before proceeding, please ensure that you have all the necessary information at hand to avoid any mistakes. Also, please check that you have not already submitted an entry for this contest, as duplicate entries will not be considered valid.
-</thinking>
-
 # Online Contest Application Form - Help Guide
 ## Purpose
 The Online Contest Application Form is designed to collect information from users who wish to participate in an online contest. It helps us to assess your eligibility and preferences for the contest.

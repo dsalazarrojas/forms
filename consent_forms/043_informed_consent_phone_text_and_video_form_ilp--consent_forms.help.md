@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by individuals to provide informed consent for a phone and video conference. The form should only be used once a video conference has been scheduled and is not a duplicate request for the same individual. This ensures that the individual's consent is captured accurately and consistently. The form will be used in conjunction with other forms and data to ensure that the individual's consent is properly documented and stored.
-</thinking>
-
 # informed_consent_phone_text_and_video_form_ilp - Help Guide
 ## Purpose
 This form is used to capture informed consent from individuals for a phone and video conference. It is essential to complete this form accurately and truthfully.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture customer information and order details for Valentine's Day DIY kits. The purpose of this form is to collect data from customers to fulfill their orders and provide personalized service. The form is divided into four sections: customer information, gift details, shipping information, and payment information. This form is meant to be completed by customers who want to order Valentine's Day DIY kits, and it's essential that the information provided is accurate and complete to ensure prompt processing and delivery.
-
-This form is intended to collect data for the sole purpose of fulfilling customer orders. Please do not use this form for other purposes, such as marketing or data collection. Ensure that this form is not filled out multiple times for the same order. If you're unsure about any of the fields, please consult the field-by-field explanation below.
-
-</thinking>
-
 # valentine_diy_kits_order_form - Help Guide
 ## Purpose
 

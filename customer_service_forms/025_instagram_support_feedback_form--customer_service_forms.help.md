@@ -1,5 +1,3 @@
-<thinking>Internal Note: This form is designed to collect feedback from users on their experience with Instagram's support services. The form is meant to gather information about the user's email address, their message or issue with the product, and their satisfaction with the support provided. The form also includes fields to gather information about the product issue type, description, category, and the user's overall satisfaction. The fields that ask "Yes" or "No" are intended to gather more specific details, while the fields that allow free-text input (note or text types) are meant for users to provide more comprehensive explanations. The form is optional, but it's recommended that users fill it out to help us improve our support services.</thinking>
-
 # Instagram Support Feedback Form - Help Guide
 ## Purpose
 The Instagram Support Feedback Form is a tool designed to collect feedback from users on their experience with our support services. By filling out this form, you can share your thoughts and suggestions on how we can improve.

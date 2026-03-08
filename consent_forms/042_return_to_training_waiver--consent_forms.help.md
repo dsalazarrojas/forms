@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to elicit information from individuals who have previously received training on a specific topic, such as safety procedures or emergency response protocols. The purpose of this form is to collect data on their return to training, including details about their medical conditions, previous training experiences, and any physical limitations they may have. This information will be used to ensure that they are fit for duty and able to perform their tasks safely and effectively.
-</thinking>
-
 # return_to_training_waiver - Help Guide
 ## Purpose
 

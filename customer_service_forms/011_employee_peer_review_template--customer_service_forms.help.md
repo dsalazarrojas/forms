@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll help you create a comprehensive user-facing help guide for the "Employee Peer Review Template" form. This guide will cover the form's purpose, how to complete it, and provide field-by-field explanations for each section.</thinking>
-
 # Employee Peer Review Template - Help Guide
 
 ## Purpose

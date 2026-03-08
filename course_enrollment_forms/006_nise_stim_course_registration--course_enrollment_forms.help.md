@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect user and course information for course registration purposes. This form should not be used for other purposes. Please make sure you are using this form correctly to avoid any confusion or errors.
-</thinking>
-
 # Nise Stiim Course Registration - Help Guide
 ## Purpose
 The Nise Stiim Course Registration form is used to collect user and course information for course registration purposes. It is essential to complete this form accurately to ensure correct course enrollment.

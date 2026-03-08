@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about their experience with our services. The form is designed to be comprehensive, allowing us to gather detailed insights into their satisfaction and areas for improvement. By providing this feedback, customers can help us refine and enhance our services to better meet their needs.
-
-Before proceeding, please note that the form is not intended for anonymous feedback. If you want to provide anonymous feedback, you can leave the "Respondent name" field blank.
-
-</thinking>
-
 # Comprehensive Record Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our services. The collected data will help us improve our services to better meet their needs.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect opinions and concerns from viewers on the COVID-19 pandemic. It will help the creators understand the level of concern, impact, and opinions on various aspects of the pandemic.
-
-Before proceeding, please note that this form is not affiliated with or endorsed by any form platform. It is an AI-generated original adaptation of public survey topic metadata. The form collects data under the Creative Commons BY 4.0 license, allowing you to use, modify, and even sell forms derived from it while crediting its origin.
-
-To confirm, you are about to provide information about your opinions and concerns on COVID-19. The data collected will be used for general insights and will not be shared with anyone, ensuring your privacy.
-
-Please fill in the form responsibly, and be honest about your thoughts. This ensures that the results will be accurate and useful for understanding the pandemic.
-
-</thinking>
-
 # COVID 19 Viewer Survey - Help Guide
 ## Purpose
 

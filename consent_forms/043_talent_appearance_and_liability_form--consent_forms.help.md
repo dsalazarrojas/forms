@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about talent appearances and liabilities from users. To ensure that only relevant and non-duplicative responses are submitted, please take a moment to review the form's purpose and your answers before proceeding.
-
-The Talent Appearance And Liability Form is intended to collect information about an individual's physical appearance, contact details, and consent for their image or likeness to be used. This form is typically used in scenarios such as modeling or acting auditions, where the appearance and liability details are essential for the casting process.
-
-Before starting this form, please ensure that you have the necessary permissions and consent to share your information and likeness.
-
-</thinking>
-
 # Talent Appearance And Liability Form - Help Guide
 ## Purpose
 The Talent Appearance and Liability Form is designed to collect information about your appearance and contact details for talent casting purposes.

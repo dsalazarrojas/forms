@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "emergency_contact_sheet" form, I'll follow the provided YAML structure and provide a clear and concise guide for end-users to understand the form's purpose, how to complete it, and what each field means.
 
 # emergency_contact_sheet - Help Guide

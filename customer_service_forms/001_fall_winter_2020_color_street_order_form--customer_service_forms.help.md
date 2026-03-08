@@ -1,14 +1,3 @@
-<thinking>
-This help guide is being written for the end-users who will be filling out the "Fall/Winter 2020 Color Street Order Form". The form is designed to collect customer information and preferences for the Fall/Winter 2020 Color Street campaign. The form will be used to process orders for the Color Streeets Line product. 
-
-Before filling out the form, ensure that you have all the necessary information ready, such as the customer's name, shipping address, credit card information, and email address. 
-
-To avoid duplication of effort, please note that this form is only for Fall/Winter 2020 Color Street orders. If you need to place an order for a different season or product, please use the corresponding form.
-
-Please review each field carefully to ensure you are filling out the correct information. If you have any questions or need assistance, don't hesitate to reach out to our customer service team.
-
-</thinking>
-
 # Fall/Winter 2020 Color Street Order Form - Help Guide
 
 ## Purpose

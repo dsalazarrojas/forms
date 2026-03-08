@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fan Interview Release Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Home Buyer Experience Survey is designed to gather feedback from customers on their experiences with our real estate services. The primary purpose of this survey is to understand what customers value most when searching for a home, how satisfied they are with the overall process, and what improvements we can make to better serve them in the future. This survey should only be completed by customers who have recently purchased or interacted with our services.
-</thinking>
-
 # Home Buyer Experience Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers on their experiences with our real estate services. Your input will help us understand how we can improve our services to better meet your needs.

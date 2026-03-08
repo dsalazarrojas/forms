@@ -1,18 +1,3 @@
-<thinking>
-This form is used to document the daily inspection of a vehicle. It is used by fleet management and maintenance teams to track and record the status and conditions of company vehicles. The form is designed to be completed by a designated individual, typically a fleet manager or maintenance supervisor. 
-
-The form will be used to generate reports and summaries of vehicle conditions, which can be used to inform maintenance and repair decisions, as well as to monitor vehicle usage and performance. This form is a key part of the vehicle management process and is essential for ensuring the safety and reliability of company vehicles. 
-
-To ensure accuracy and consistency, it is recommended that this form be completed as soon as possible after each vehicle inspection, and that all relevant details be included in the fields provided.
-
-Please note that this form has been designed to be completed by a specific individual, and that any discrepancies or inconsistencies in the form will be reviewed and clarified by a senior member of the team.
-
-Please verify that you are the intended user of this form and that you are familiar with its purpose and the vehicle management process before proceeding.
-
-Please ensure that you are not completing this form for a vehicle that is not under the company's ownership or control.
-
-</thinking>
-
 # Daily Vehicle Inspection Report - Help Guide
 ## Purpose
 This form is used to document the daily inspection of a vehicle, providing a record of its condition and status.

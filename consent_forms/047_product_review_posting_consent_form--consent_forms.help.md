@@ -1,9 +1,3 @@
-<thinking>
-This form is used to capture information for product reviews that will be posted on our website. 
-The purpose of this form is to allow customers to submit their feedback on our products, which will be reviewed and potentially published on our website. 
-This form should only be used for genuine product reviews, and we kindly ask that customers fill out this form in a clear and concise manner, without duplication of effort. Please be mindful of your responses to ensure accurate and helpful information is captured. 
-</thinking>
-
 # Product Review Posting Consent Form - Help Guide
 
 ## Purpose

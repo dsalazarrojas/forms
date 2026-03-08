@@ -1,10 +1,3 @@
-<thinking>
-This form is a vehicle damage waiver form used to document and obtain consent for vehicle repairs or maintenance. The form helps vehicle owners or drivers to report and acknowledge damage or defects on their vehicles. The purpose of this form is to ensure that vehicle owners understand and agree to the necessary repairs or maintenance actions, and to provide documentation for future reference.
-
-This form is used to collect information from vehicle owners or drivers, and it should only be completed if you have a vehicle that requires repairs or maintenance. Please make sure you have not completed this form for the same vehicle before, as it will not be accepted.
-
-</thinking>
-
 # vehicle-damage-waiver-form - Help Guide
 ## Purpose
 This form is used to document and obtain consent for vehicle repairs or maintenance.

@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure this form is completed by the right people for the right reasons. Before proceeding, please confirm that:
-- You are a patient or a visitor who needs medical attention.
-- This is the correct form for your visit.
-- You have the necessary information and permissions to complete this form accurately.
-This form is not intended for duplicate submissions. If you have already submitted a form for this visit, please do not submit another.
-</thinking>
-
 # WBBP Intake Form 2021 - Help Guide
 ## Purpose
 The WBBP Intake Form 2021 is a medical intake form designed to collect essential information from patients and visitors for medical attention. This form helps our medical team to gather the required details needed for a smooth and efficient care process.

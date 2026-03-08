@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the rehab_application_form, following the required structure and guidelines.</thinking>
-
 # rehab_application_form - Help Guide
 ## Purpose
 The rehab_application_form is designed to gather information from patients, including their details, medical history, treatment plans, and contact information. This form helps healthcare professionals collect relevant data to provide effective treatment and ensure patient care.

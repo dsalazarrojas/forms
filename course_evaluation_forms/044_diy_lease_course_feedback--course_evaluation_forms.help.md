@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting feedback from students who have taken a DIY lease course. The purpose of this form is to gather information about the course's effectiveness, structure, and overall satisfaction. This form will help us understand the strengths and weaknesses of the course, which will aid us in making improvements for future course offerings. Please make sure to complete this form carefully and thoroughly, as your feedback is invaluable. Also, please be aware that duplicate submissions will not be accepted.
-</thinking>
-
 # DIY Lease Course Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from students who have taken a DIY lease course. Your responses will help us understand the course's effectiveness, structure, and overall satisfaction, which will aid us in making improvements for future course offerings.

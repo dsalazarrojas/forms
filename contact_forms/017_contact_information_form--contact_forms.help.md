@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect contact information from customers, potential customers, or partners for general contact and event registration purposes. It is likely used in a business-to-business or business-to-customer context. The form may be used to register for events, share contact details, or provide feedback. It's possible that the form is used in a multi-language or international context, given the country field. The form fields cover a wide range of information, including contact details like email, phone number, and address, as well as fields specific to events, such as event participation and name. The form may be used in scenarios where the user may need to provide additional information like dietary requirements or emergency contact details.
-
-</thinking>
-
 # Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect contact information from customers, potential customers, or partners for general contact and event registration purposes.

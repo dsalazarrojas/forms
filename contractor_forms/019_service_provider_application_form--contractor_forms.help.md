@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Provider Application Form - Help Guide
 ## Purpose
 The Service Provider Application Form is designed to collect information from service providers who want to offer their services to our organization. This form helps us assess their qualifications, experience, and services offered, allowing us to determine whether they meet our criteria for service provider partners.

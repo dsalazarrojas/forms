@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Reel Details Submission Form" used to provide additional information about a video or image reel, used for various purposes such as analysis, moderation, or processing. It is essential to ensure that each field is completed accurately and correctly to maintain the integrity of the data. Before proceeding, please review the form carefully to avoid any duplication or errors. Ensure you have all the necessary information before submitting the form, as some fields may require specific formats or constraints. If you are unsure about any field, please refer to the field-by-field explanation below.
-</thinking>
-
 # Reel Details Submission Form - Help Guide
 ## Purpose
 The Reel Details Submission Form is used to provide additional information about a video or image reel. This form helps in maintaining data accuracy and integrity by ensuring that all required details are submitted correctly.

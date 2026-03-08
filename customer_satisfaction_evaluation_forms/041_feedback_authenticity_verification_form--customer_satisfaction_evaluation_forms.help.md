@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback and satisfaction evaluations from customers, and to verify the authenticity of their feedback. The purpose of this form is to ensure that customer feedback is genuine and reliable. It's essential to complete this form carefully to provide accurate information and avoid duplication of effort. Please fill out this form completely and honestly, and only complete it once for each customer.
-</thinking>
-
 # Feedback Authenticity Verification Form - Help Guide
 ## Purpose
 The Feedback Authenticity Verification Form is used to gather feedback from customers and verify its authenticity. This form helps us understand customer satisfaction and identify any issues that need to be addressed.

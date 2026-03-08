@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a customer's visit to a store, allowing the store manager or staff to document and report on the details of the visit. This form is used for internal purposes to track customer interactions, identify potential issues, and improve store operations. Before completing this form, please ensure that you have reviewed and understood the store's policies and procedures related to customer interactions.
 
 # Store Visit Report - Help Guide

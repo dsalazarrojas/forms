@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from clients on their experience with your services. It's a crucial tool to help businesses understand their client satisfaction and improve their communication strategies.
-
-The form is divided into several sections, each covering a different aspect of communication. By completing this form, clients can provide constructive feedback on the clarity, frequency, and responsiveness of communications, as well as their overall satisfaction with the services provided.
-
-The form will help you understand how well you are meeting your client's expectations and identify areas for improvement.
-
-</thinking>
-
 # Client Satisfaction Communication Form - Help Guide
 ## Purpose
 This form is used to collect feedback from clients on their experience with the services provided, to help improve communication and services.

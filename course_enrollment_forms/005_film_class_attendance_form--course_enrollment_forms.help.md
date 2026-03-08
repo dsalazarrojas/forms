@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture attendance information for film classes. It is used to track student attendance, session details, and feedback. This form should only be filled out for sessions that have already occurred, as it is not intended for future sessions. It is essential to fill out the form accurately and comprehensively to ensure that attendance records are up-to-date and reliable. If a student has attended all sessions, please select "Attended All" in the "Attended" field. If a student has attended some sessions but not all, please select the number of sessions attended. If a student has not attended any sessions, please select "None". Similarly, if the session was completely disagreeable, select "Disagreed" in the "Session Comments" field.
-</thinking>
-
 # Film Class Attendance Form - Help Guide
 ## Purpose
 The Film Class Attendance Form is used to record and track student attendance in film classes. It helps to maintain up-to-date records of student attendance, which is crucial for instructors to assess the effectiveness of their classes and make necessary adjustments.

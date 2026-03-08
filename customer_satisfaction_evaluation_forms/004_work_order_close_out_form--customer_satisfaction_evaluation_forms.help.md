@@ -1,8 +1,3 @@
-<thinking>
-The form "Work Order Close Out Form" is used to document the completion of a work order. It is a crucial step in the process, as it ensures that all tasks associated with the work order have been completed and that the customer is satisfied with the work done. This form is typically filled out by the engineer or manager who closed out the work order.
-Before filling out the form, make sure that all tasks associated with the work order have been completed and that the customer has been satisfied with the work done. If the work order is not completed, do not fill out the form.
-</thinking>
-
 # Work Order Close Out Form - Help Guide
 ## Purpose
 The Work Order Close Out Form is used to document the completion of a work order. It ensures that all tasks associated with the work order have been completed and that the customer is satisfied with the work done.

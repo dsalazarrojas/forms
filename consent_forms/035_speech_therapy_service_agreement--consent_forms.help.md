@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and agreements related to speech therapy services. It is used to establish a contract between the client and the therapist, outlining the terms and conditions of the therapy sessions. This form is designed to gather essential information about the client, including their contact details, medical information, and emergency contact information. It also includes sections for the client and therapist to sign and date the agreement, indicating their acceptance of the terms and conditions.
-
-This form is a crucial document that ensures both parties understand their roles, responsibilities, and expectations during the therapy sessions. It is essential to complete this form accurately and thoroughly to avoid any misunderstandings or miscommunications that may arise during the therapy process.
-
-The form has multiple sections, but all fields are not required. Some fields are meant to be filled out by the client, while others are intended for the therapist to complete. The payment terms and conditions are also an essential part of this form, as they outline how and when payments are expected to be made.
-
-To complete this form, follow the instructions below:
-
-1.  Complete all fields with the required information. Some fields are required to be filled out while others are optional.
-2.  Make sure to review the payment terms and conditions carefully to understand the expectations for both the client and the therapist.
-3.  Sign and date the form in the designated fields to indicate acceptance of the terms and conditions.
-
-The following is a detailed explanation of each field:
-
-</thinking>
-
 # speech_therapy_service_agreement - Help Guide
 ## Purpose
 The speech therapy service agreement is a form used to collect information and agreements related to speech therapy services between the client and the therapist.

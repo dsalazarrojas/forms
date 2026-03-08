@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting consents for sports team promotions. It is meant for parents or guardians of athletes to grant permissions for their child to participate in sports team promotions, including the use of their name, image, and likenesses. Please fill out this form carefully and ensure that you have the necessary permissions before submitting it.
-</thinking>
-
 # sports_team_promotion_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from parents or guardians for their child to participate in sports team promotions, including the use of their name, image, and likenesses.

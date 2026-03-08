@@ -1,14 +1,3 @@
-<thinking>
-This is a form for a book club trivia tournament. It is meant to gather information from teams participating in the tournament. The form is divided into several sections, and the fields are labeled and explained below. Before starting, please ensure that your team has not already registered for the tournament to avoid duplicates.
-
-This form is designed to collect information about the team, including team members, category, and other relevant details. The provided fields are essential for the tournament organization and management. Please provide accurate information to ensure a smooth and enjoyable experience for your team and other participants.
-
-The fields are divided into several categories: team information, category selection, and preferences. Team information includes team name, captain's details, and team size. Category selection includes the type of team and preferred tournament date. Preferences include experience level, favorite book genres, and other special requests.
-
-Please ensure that all required fields are filled accurately and completely. If any field is left blank or not applicable, please make sure to include a corresponding explanation.
-
-</thinking>
-
 # Book Club Trivia Tournament Entry Form - Help Guide
 
 ## Purpose

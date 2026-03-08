@@ -1,10 +1,3 @@
-<thinking>
-This form is a partnership application for sports media content partners. It aims to capture essential information from users who want to partner with the sports media content platform. To ensure that this form is completed for the right purposes and to avoid duplicates, only applications that align with the platform's guidelines and requirements will be considered for partnership opportunities.
-
-This form will be reviewed internally to determine if the applicant meets the necessary criteria. If the application is incomplete, missing information, or doesn't meet the partnership guidelines, it will not be considered. Please review the form carefully and ensure that you provide accurate information to ensure a smooth review process.
-
-</thinking>
-
 # sports_media_content_partnership_application - Help Guide
 ## Purpose
 This form is for partnership applications for sports media content partners.

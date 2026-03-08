@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information and obtain consent from the user for a durable power of attorney, which is a legal document that grants one person the power to make decisions and act on behalf of another. This form is likely to be used in situations where the user needs to assign a representative to manage their financial or medical affairs.
-The form is intended to be completed by the individual who wants to grant power of attorney, and it will be reviewed and verified by relevant authorities to ensure the authenticity and legitimacy of the information provided.
-This guide is intended to help the user understand how to fill out the form correctly and what information is required to be filled in each section.
-</thinking>
-
 # Durable Power Of Attorney Form - Help Guide
 ## Purpose
 This form is used to grant power of attorney to a designated individual or entity to manage your financial and medical affairs. By filling out this form, you will be authorizing someone to make decisions on your behalf and act as your representative in certain situations.

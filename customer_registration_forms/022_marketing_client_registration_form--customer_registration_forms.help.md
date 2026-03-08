@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential customers or clients about their marketing preferences, contact details, and interest in various products or services. The form is used by marketing teams to track and analyze the leads generated through different marketing channels and campaigns. It is essential that the fields are completed accurately to provide valuable insights and ensure that the correct leads are assigned to the right tools. This form is typically used by sales teams to identify potential customers and follow up on their interests.
-</thinking>
-
 # Marketing Client Registration Form - Help Guide
 ## Purpose
 The Marketing Client Registration Form is used to collect information from potential customers or clients about their marketing preferences, contact details, and interest in various products or services.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is intended to gather information from customers to ensure their safety and the safety of other customers and staff during the COVID-19 pandemic. The form is required for all customers entering the salon and is designed to collect relevant health information and obtain consent for treatment. 
-
-The form is divided into several sections, each with its own set of fields. The first section collects the customer's full name and phone number. The second section asks about the type of nail service they want to receive. The third section asks for the customer's current health status, and whether they have been sick in the last 14 days. The fourth section asks the customer to confirm they will follow salon safety protocols and take on the risks associated with COVID-19. The fifth section collects the appointment time.
-
-Each field is explained in more detail below:
-
-</thinking>
-
 # COVID 19 Salon Venus Nails Bar Consent Form - Help Guide
 ## Purpose
 The COVID 19 Salon Venus Nails Bar Consent Form is a mandatory form required for all customers entering the salon during the pandemic. The form helps protect the safety of both customers and staff by gathering relevant health information and obtaining consent for treatment.

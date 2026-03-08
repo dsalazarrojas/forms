@@ -1,7 +1,3 @@
-<thinking>
-This is a form for customers to evaluate the atmosphere of a retail store. It is not a form for general feedback or complaints, but rather a specific assessment of the store environment. Please ensure that you are filling out this form for the correct store location and not duplicating your feedback for a different store. Your input will help us improve our customer experience.
-</thinking>
-
 # retail_store_atmosphere_feedback_form - Help Guide
 ## Purpose
 This form is designed to help us evaluate and improve the atmosphere of our retail store. It will help us assess the quality of our store environment, including the lighting, music, and overall experience.

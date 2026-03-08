@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data on maintenance and communication preferences from individuals or teams in a specific domain. The purpose of this form is to understand the communication protocols and logging preferences for maintenance activities. It is likely used in a professional setting, such as a construction or IT maintenance company, to streamline communication and ensure that all parties involved are on the same page.
-
-The form can be completed by anyone responsible for maintenance activities, including team leads, team members, or external contacts. It is recommended that the form be completed by all relevant individuals or teams to ensure a complete understanding of their communication and logging preferences.
-
-To avoid duplication of effort, it is best to only complete the form once. If you are unsure about any section, please consult with the relevant personnel or team.
-
-</thinking>
-
 # Maintenance Communication Logging Consent Form - Help Guide
 ## Purpose
 

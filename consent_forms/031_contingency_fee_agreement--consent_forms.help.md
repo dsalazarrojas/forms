@@ -1,12 +1,3 @@
-<thinking>
-This form is used to document a contingency fee agreement between a client and an attorney or law firm. The purpose of this form is to outline the terms and conditions of the agreement, including the contingency fee percentage, responsibility for legal expenses, and the right to accept or settle a case.
-
-Before proceeding, please ensure that the information provided is accurate and relevant to the specific situation. This form should not be used as a substitute for personalized legal advice or counsel. It is recommended to review and understand the terms of this agreement carefully before signing.
-
-Please note that this form is a general template and may need to be adapted to the specific needs and circumstances of your case. If you have any questions or concerns, please consult with a qualified attorney or legal professional.
-
-</thinking>
-
 # Contingency Fee Agreement - Help Guide
 ## Purpose
 This form is used to document a contingency fee agreement between a client and an attorney or law firm. It outlines the terms and conditions of the agreement, including the contingency fee percentage, responsibility for legal expenses, and the right to accept or settle a case.

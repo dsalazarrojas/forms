@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to record patient information and obtain their consent for the patient wellness program, including their name, contact details, and preferences regarding recordings. The form is probably intended for use by healthcare professionals or program administrators. Before proceeding, ensure that this form is not already included in the patient wellness program's existing documentation or guidelines, and review any internal policies or regulations regarding patient data collection and storage.
-</thinking>
-
 # Patient Wellness Program Recording Consent Form - Help Guide
 
 ## Purpose

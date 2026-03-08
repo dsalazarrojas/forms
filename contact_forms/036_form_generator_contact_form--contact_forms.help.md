@@ -1,8 +1,3 @@
-<thinking>
-This form is part of a larger "Form Generator" system. This system allows users to generate custom forms based on a set of predefined inputs, which in turn allow administrators to collect user contact information. 
-The Form Generator Contact Form is used to collect user contact information such as name, email, and contact preferences.
-</thinking>
-
 # Form Generator Contact Form - Help Guide
 ## Purpose
 The Form Generator Contact Form is used to collect user contact information.

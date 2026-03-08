@@ -1,5 +1,3 @@
-<thinking>COVID-19 has presented significant challenges to public health and businesses alike. To ensure a safe environment for employees and customers, businesses need to implement various measures to prevent the spread of the virus. This checklist aims to assess the overall COVID-19 safety plan of a facility. It's essential to complete this form carefully and accurately, as the information gathered will help guide future safety decisions. Before proceeding, review the facility's current safety protocols and ensure that you have all the necessary information to complete this form. Ensure that you have the authority to complete this form on behalf of the facility and that the information provided is up-to-date and accurate.</thinking>
-
 # COVID Safe Plan Checklist - Help Guide
 
 ## Purpose

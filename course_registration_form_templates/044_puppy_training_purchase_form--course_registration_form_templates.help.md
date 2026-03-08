@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for users to purchase puppy training services, including user input for their details, payment information, contact details, schedule preferences, and any additional notes they might have. It is not a survey, but rather a form to collect relevant information from customers to facilitate a transaction. This form does not require any specific technical knowledge or experience. It has been created by AI using only public survey topic metadata as inspiration and does not duplicate any existing form templates. Please ensure to fill in the form accurately and completely, as the provided fields are designed to help us understand your needs and preferences better.</thinking>
-
 # Puppy Training Purchase Form - Help Guide
 ## Purpose
 

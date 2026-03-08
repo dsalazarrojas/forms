@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain a legal release from a pet owner for photos taken of their pet. The purpose of this form is to provide proof that a photo of the pet has been taken, which is required for certain veterinary or insurance purposes. This form should only be completed once for a given pet, and is not a recurring or renewal form.
-</thinking>
-
 # Pet Photo Release Form - Help Guide
 ## Purpose
 The Pet Photo Release Form is used to obtain a legal release from a pet owner for photos taken of their pet. This form is used for veterinary or insurance purposes and provides proof that a photo of the pet has been taken.

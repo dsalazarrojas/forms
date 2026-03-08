@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the field names and labels. The form appears to be related to real estate contacts, with fields for user email, property address, property type, and other related details. The field "Contact Source" also implies that the form is used to track or document interactions with potential customers or clients.
-
-The fields in this form seem to be divided into several categories: user information (user email, user name), property details (property address, property type, property price), contact details (contact number, contact time), follow-up information (follow-up date, follow-up time, follow-up note), and real estate office information (real estate office, real estate manager, real estate broker).
-
-To determine whether this form is a duplicate, let's consider the following:
-
-* This form seems to be a comprehensive contact form for real estate interactions.
-* The fields are quite specific to real estate contacts, which makes it less likely to be a duplicate of another form.
-
-Given that this form is likely to be a unique form, we will proceed with creating the help guide.
-</thinking>
-
 # real_property_contact_form - Help Guide
 ## Purpose
 The real_property_contact_form is used to track and document interactions with potential customers or clients in the real estate industry. It captures relevant details such as user contact information, property details, and follow-up dates and times.

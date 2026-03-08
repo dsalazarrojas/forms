@@ -1,14 +1,3 @@
-<thinking>
-This help guide will cover the Panel Installation Waiver Request form, ensuring end users understand its purpose, how to complete it, and what each field means. The form is used to request a waiver for panel installation, typically for customers or employees who need to have panels installed on their premises or property.
-
-The form will be completed by providing personal information, such as first and last name, email, and phone number. The form also includes fields for acceptance of the panel installation waiver and terms and conditions, as well as emergency contact information. The waiver acceptance and terms and conditions fields are select options, where users can choose to accept or decline. The emergency contact field is for additional contact information in case of an emergency.
-
-The required fields are first name, last name, email, phone, and waiver acceptance. The waiver acceptance field is required to be filled out in order to be considered completed. The other fields are optional but recommended for completion.
-
-This guide will provide a clear and concise explanation of each field and how to complete it, ensuring end users can easily submit the form.
-
-</thinking>
-
 # Panel Installation Waiver Request - Help Guide
 ## Purpose
 This form is used to request a waiver for panel installation, which allows customers or employees to have panels installed on their premises or property. It is an important step in the panel installation process, ensuring that all necessary information is gathered before proceeding with the installation.

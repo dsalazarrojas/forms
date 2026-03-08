@@ -1,13 +1,3 @@
-<thinking>
-The Rental Service Feedback Form is designed to collect feedback from customers about their recent rental experience. This form is intended to be filled out by customers who have rented a service from our company. It is not intended for internal use within the company.
-
-The form is designed to be filled out by customers to provide their feedback on the quality of service, overall rating, and other specific aspects of their rental experience. The feedback form is intended to be a tool for us to learn from our customers and improve our services.
-
-Before filling out this form, please make sure you have not already provided feedback on this topic. Duplicate feedback may not be taken into account.
-
-Please note that this form is intended for customers to provide their genuine feedback. Any feedback that is deemed spam or irrelevant will not be taken into account.
-</thinking>
-
 # Rental Service Feedback Form - Help Guide
 ## Purpose
 

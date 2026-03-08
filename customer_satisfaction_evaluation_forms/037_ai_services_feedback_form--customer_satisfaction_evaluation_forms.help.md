@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the AI Services Feedback Form, I will first need to understand the form's purpose and requirements. The form seems to be designed to collect feedback from customers about their experience with AI services. The form has several fields that ask for different types of information, including service details, customer information, satisfaction ratings, and improvement suggestions.
 
 To determine the form's purpose, I will analyze the fields:

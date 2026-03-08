@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to contact the company with inquiries, questions, or feedback. It's essential to complete this form only if the user has a genuine reason to contact the company. Please do not use this form for spamming or self-promotion purposes.
-The "Contact Us" form is meant to gather information from users who want to initiate a conversation with the company. It's not a sales-driven form and should not be used for commercial purposes.
-</thinking>
-
 # Contact Us - Help Guide
 ## Purpose
 This form is designed for users to contact the company with inquiries, questions, or feedback. Fill out this form to send a message to our team.

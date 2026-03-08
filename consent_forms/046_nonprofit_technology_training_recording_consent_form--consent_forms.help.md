@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonprofit Technology Training Recording Consent Form - Help Guide
 
 ## Purpose

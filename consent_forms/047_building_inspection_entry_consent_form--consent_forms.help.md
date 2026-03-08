@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to gather consent from the property owner or authorized representative for a building inspection. The inspection is used to evaluate the condition of the building and ensure that it meets certain standards or requirements. This form is a crucial step in the inspection process, as it provides a record of the owner's consent for the inspection. The form should not be completed if the inspection is not scheduled or if the owner has not given consent.
-
-To prevent duplication, please ensure that this form is only submitted once for each inspection.
-
-The form is designed to collect information about the property and the inspection process. It includes fields for the property owner's contact information, the inspection date and time, and the scope of the inspection.
-
-Each field on the form has a specific purpose and should be completed according to the instructions provided.
-
-This guide will walk you through each field and explain how to complete it.
-</thinking>
-
 # Building Inspection Entry Consent Form - Help Guide
 ## Purpose
 This form is used to gather consent from the property owner or authorized representative for a building inspection.

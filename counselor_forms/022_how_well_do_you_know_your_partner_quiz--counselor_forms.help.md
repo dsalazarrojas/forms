@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be designed to assess the level of knowledge and understanding a person has about their partner. It seems to cover various aspects of a person's life, including their interests, education, job, abilities, hobbies, goals, fears, and family history. The form uses a mix of single-select and multi-select questions to gather information, which suggests it's meant to be a comprehensive survey.
-</thinking>
-
 # how_well_do_you_know_your_partner_quiz - Help Guide
 ## Purpose
 This form is a quiz designed to assess how well you know your partner. It is not intended to be a comprehensive test, but rather a fun and informative way to reflect on your relationship.

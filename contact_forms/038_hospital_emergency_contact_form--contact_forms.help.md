@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information from hospital visitors or patients in emergency situations. This form helps identify and categorize the type of contact information needed in case of an emergency. The form may be used in hospitals to gather contact details for visitors or patients who may require immediate attention or support. This form is not intended for other types of contact information collection (e.g., appointment scheduling or medical history).
-</thinking>
-
 # Hospital Emergency Contact Form - Help Guide
 
 ## Purpose

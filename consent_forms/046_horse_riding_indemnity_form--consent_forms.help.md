@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who are completing the Horse Riding Indemnity Form. This form is a legal document that ensures riders acknowledge and agree to the risks associated with horse riding. It's essential to fill out this form carefully and truthfully to ensure your safety and liability. Please do not complete this form if you're not aware of your medical condition or if you're not authorized to ride a horse. If you have any doubts, please reach out to your instructor or supervisor for clarification.
-</thinking>
-
 # Horse Riding Indemnity Form - Help Guide
 ## Purpose
 This form is a legal document that ensures riders acknowledge and agree to the risks associated with horse riding.

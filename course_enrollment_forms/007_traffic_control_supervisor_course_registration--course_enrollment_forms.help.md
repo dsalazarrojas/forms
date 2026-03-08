@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Traffic Control Supervisor course. It's intended for individuals who want to enroll in the course, and it's likely used by course administrators or registrars to manage course enrollment and track student progress.
-</thinking>
-
 # Traffic Control Supervisor Course Registration - Help Guide
 ## Purpose
 The Traffic Control Supervisor course registration form is used to collect information from individuals who want to enroll in the course. This form helps course administrators track enrollment and course progress.

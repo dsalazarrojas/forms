@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from a college counselor or school official about a student's academic and personal qualities, as well as their relationship with the student. The form is meant to be completed by the student's school counselor or academic advisor, and will be used to provide an assessment of the student's readiness for college. The form includes a range of questions that cover the student's academic performance, leadership qualities, personal strengths, and extracurricular involvement. The goal is to provide a comprehensive picture of the student's potential for college success.
-
-To ensure that the form is completed accurately and consistently, please note that:
-
-* Each field is marked as "required" or "optional" based on its significance to the form's purpose.
-* Some fields have specific options or types (e.g., select_one, email, text) to help ensure uniformity in responses.
-* Fields with text options may have specific hints or examples to guide the user.
-
-</thinking>
-
 # College Counselor Recommendation Form - Help Guide
 ## Purpose
 The College Counselor Recommendation Form is designed to collect information from a school counselor or academic advisor to assess a student's potential for college success.

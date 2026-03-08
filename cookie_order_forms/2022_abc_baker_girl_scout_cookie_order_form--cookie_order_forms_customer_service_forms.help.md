@@ -1,8 +1,3 @@
-<thinking>
-**Note: This form is designed to gather information from customers for the 2022 ABC Baker Girl Scout Cookie Order Form. The form is intended for customers to place orders for Girl Scout cookies. The following guide will walk through each step of the form to ensure a smooth and accurate experience for the customer.**
-
-</thinking>
-
 # 2022 ABC Baker Girl Scout Cookie Order Form - Help Guide
 ## Purpose
 The 2022 ABC Baker Girl Scout Cookie Order Form is designed to collect information from customers for their cookie orders. This form will help us process your order accurately and efficiently.

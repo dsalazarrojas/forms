@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Childcare Sleep Policy Acknowledgement Form - Help Guide
 ## Purpose
 This form is designed to help ensure that you, as a parent or guardian, are aware of and understand the childcare sleep policy. It will ask for information about your child's sleep habits, any sleep difficulties they may have, and your own comfort items and preferences for their sleep.

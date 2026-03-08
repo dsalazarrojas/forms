@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and usage of the "Fancy Envelope Contact Form". The form is designed to collect contact information from users and provide an envelope-like layout for the user to send their messages and queries.
-The form is not designed to be a primary point of contact for critical issues or emergency situations. It should not be used to contact the company in case of urgent matters.
-The following help guide will guide users in completing the form accurately and effectively.
-</thinking>
-
 # Fancy Envelope Contact Form - Help Guide
 ## Purpose
 This form is intended for users to send non-urgent messages, requests, and information to the company or team.

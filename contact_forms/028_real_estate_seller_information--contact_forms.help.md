@@ -1,18 +1,3 @@
-<thinking> This form, "real_estate_seller_information," is likely used for collecting and recording seller information in the real estate industry. The form probably serves as a data collection tool for agents or administrators to gather crucial information from real estate sellers, including their contact details and property status. 
-
-The form is likely to be used for the following purposes:
-- Collecting seller and property information
-- Recording property status and price
-- Gathering contact details
-
-The form might be used in a real estate agency or office setting.
-
-This form is not likely to be used for any other purpose that is not related to real estate, and it's also not likely to be used for any other industry other than real estate. 
-
-Please note that the exact purpose and usage of the form depends on the context in which it's being used, but based on the provided fields, it's likely to be related to real estate transactions.
-
-</thinking>
-
 # real_estate_seller_information - Help Guide
 ## Purpose
 This form is used for collecting seller information and property details in the real estate industry.

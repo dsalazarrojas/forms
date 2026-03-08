@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers report and document their complaints or issues related to investment services provided by the company. The form is meant to be completed by the customer and will be used by the company to gather information and take corrective action. This form should only be completed for actual complaints or issues, and not for general inquiries or feedback. Please make sure to complete the form accurately and thoroughly to ensure that the company can understand your concerns and provide the best possible resolution.
-</thinking>
-
 # Investment Service Complaint Form - Help Guide
 ## Purpose
 This form is designed to help customers report and document their complaints or issues related to investment services provided by the company. It will be used by the company to gather information and take corrective action.

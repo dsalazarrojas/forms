@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Blood Draw Consent Form - Help Guide
 ## Purpose
 This Blood Draw Consent Form is used to obtain the patient's voluntary consent for a blood draw procedure. It is required to be completed by the patient to provide information about their medical record number, date of birth, and other relevant details. The form is used to ensure that the patient is aware of the potential risks and benefits of the blood draw procedure and is able to provide informed consent.

@@ -1,11 +1,3 @@
-<thinking>
-
-The Uninsured Contractor Waiver Form Template is used to collect information from uninsured contractors. This form is intended to be completed by contractors who do not have insurance coverage for a specific job or project. The purpose of this form is to ensure that the contractor has acknowledged and agreed to the contract terms and conditions, and to obtain their contact information and payment details. This form should only be used for uninsured contractors, as it is designed to be a waiver of liability for the client.
-
-Before starting, ensure that you have not already completed a similar form for this contractor. If you have, this form will not be necessary.
-
-</thinking>
-
 # Uninsured Contractor Waiver Form Template - Help Guide
 ## Purpose
 This form is used to collect information from uninsured contractors for a specific job or project.

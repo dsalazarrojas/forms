@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scalp Treatment Herbal Blend Consent Form - Help Guide
 ## Purpose
 The Scalp Treatment Herbal Blend Consent Form is a form used to obtain consent from clients for scalp treatment herbal blends. It's intended to gather essential information about the client's medical history, potential allergies, and consent for scalp services. This form should only be filled out by clients who have been recommended for scalp treatment herbal blends by a healthcare professional.

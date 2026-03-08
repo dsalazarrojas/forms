@@ -1,7 +1,3 @@
-<thinking>
-This form is for participants to provide their information and consent for Smart Waste Bin Monitoring. The purpose of this form is to gather relevant details from participants, such as their address, contact information, and any additional notes from the researcher or participant. This form is designed to be completed by individuals participating in the Smart Waste Bin Monitoring project, and it will help project administrators and researchers to understand their needs, requirements, and any concerns they may have. Before starting, please make sure you haven't filled out this form before, and if you have any doubts, reach out to the project team for guidance.
-</thinking>
-
 # Smart Waste Bin Monitoring Consent Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from participants in the Smart Waste Bin Monitoring project. It is a consent form that requires participants to provide their contact information, address, and any additional notes for the researcher or participant.

@@ -1,5 +1,3 @@
-<thinking>...This form is used by management to authorize work to be done by employees, ensuring that the employee is aware of and agrees to the work being performed. This form helps in documenting the work authorization, which is essential for record-keeping and auditing purposes.</thinking>
-
 # Work Authorization Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather participant information and obtain their consent for various aspects of a project, including photography, recording, and sharing of project materials. This form is intended to be used in various contexts, such as educational, research, or promotional purposes.
-
-</thinking>
-
 # project_documentation_consent_form - Help Guide
 ## Purpose
 This form is designed to gather participant information and obtain their consent for various aspects of a project, including photography, recording, and sharing of project materials.

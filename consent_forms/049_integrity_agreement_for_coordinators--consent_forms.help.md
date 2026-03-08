@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Integrity Agreement For Coordinators" form. This guide will explain the purpose of the form, how to complete it, and provide field-by-field explanations to ensure end-users understand the requirements and expectations.</thinking>
-
 # Integrity Agreement For Coordinators - Help Guide
 ## Purpose
 This form is used to gather information about program coordinators, including their contact details, program information, and agreement dates. It is essential to provide accurate and up-to-date information to ensure the successful execution and management of programs.

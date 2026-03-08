@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information about a person, including their personal details and contact information. The fields included are standard and cover the basics, such as name, email, contact number, date of birth, time of birth, and notes. However, it's unclear why some fields are not required and if they might be redundant. It would be helpful to understand if this form is used for specific business processes, such as customer service, onboarding, or sales.
-</thinking>
-
 # heroes_survey - Help Guide
 ## Purpose
 The Heroes Survey form is designed to collect basic information about a person. This form is likely used in customer-facing contexts, such as customer service, onboarding, or sales.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who wish to participate in a free photo contest. The form is used to register participants and gather their contact information, photo category choice, and other relevant details for the contest. By completing this form, users are submitting their entry into the contest, which may include uploading a photo and agreeing to the terms and conditions, privacy policy, and submission guidelines.
-
-</thinking>
-
 # photo contest free entry - Help Guide
 ## Purpose
 This form is for registering participants in the free photo contest. Please fill out the form to submit your entry and have a chance to win.

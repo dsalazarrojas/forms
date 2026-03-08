@@ -1,14 +1,3 @@
-<thinking>
-Form purpose: This form is designed to help customers place orders for the Scentsy Holiday Collection. The form collects information about the customer, their shipping details, and order specifics, allowing for efficient and accurate processing of their order.
-
-Non-duplication check: To avoid duplication of efforts, the form ensures that customers provide all necessary information before submitting the form. This includes customer contact information, shipping details, and order specifics such as order type, order date and time, and order confirmation.
-
-The form is divided into two main sections: customer information and order information. The customer information section collects the customer's name, email, phone number, company, job title, and representative information. The order information section includes details about the order such as order type, order date and time, holiday message, gift message, order notes, and payment method.
-
-By using this form, customers can ensure that their orders are processed accurately and efficiently, and that they receive the correct products and services for their holiday collection needs.
-
-</thinking>
-
 # Scentsy Holiday Collection Order Form - Help Guide
 ## Purpose
 This form is used for placing orders for the Scentsy Holiday Collection. It collects customer and order information to ensure accurate and efficient processing of orders.

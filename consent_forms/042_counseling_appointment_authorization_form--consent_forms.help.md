@@ -1,29 +1,3 @@
-<thinking>
-
-This form is used to authorize a counseling appointment for a client. It is intended to be filled out by the client's authorized representative, such as a parent or guardian, to provide consent for the client to receive counseling services. The form may also include additional information that can be used to facilitate communication between the client's family and the counseling team.
-
-The form is divided into several sections, each containing a field with a specific label and type. The form fields are:
-
-*   Client Name: A text field for the client's name.
-*   Date: A date field for the date of the authorized appointment.
-*   Start Time: A time field for the start time of the authorized appointment.
-*   End Time: A time field for the end time of the authorized appointment.
-*   Location: A text field for the location of the authorized appointment.
-*   Session Length: A number field for the length of the authorized appointment.
-*   Purpose: A text field for the purpose of the authorized appointment.
-*   Consent Status: A select one field with options "Authorized" and "Not Authorized".
-*   Authorized Name: A text field for the name of the authorized representative.
-*   Authorized Signature: A note field for the authorized representative's signature.
-*   Client Signature: A note field for the client's signature.
-*   Client Notes: A text field for any additional notes from the client.
-*   Provider Notes: A text field for any additional notes from the provider.
-*   Authorized Date: A date field for the date the authorized representative's consent was given.
-*   Authorized By: A text field for the name of the authorized representative.
-*   Session Notes: A text field for any additional notes from the session.
-*   Follow Up: A date field for the date of the next follow up.
-
-</thinking>
-
 # Counseling Appointment Authorization Form - Help Guide
 ## Purpose
 

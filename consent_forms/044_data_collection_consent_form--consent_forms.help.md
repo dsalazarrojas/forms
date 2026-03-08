@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect sensitive information from users, including contact details, client information, and consent for data collection. The form is likely used in a business or organizational setting to gather data for a specific purpose. The purpose of this form is to ensure that users understand and agree to the data collection process.
-
-When filling out this form, users should carefully read each section and provide accurate information. 
-
-</thinking>
-
 # Data Collection Consent Form - Help Guide
 ## Purpose
 The Data Collection Consent Form is designed to collect sensitive information from users, including contact details, client information, and consent for data collection.

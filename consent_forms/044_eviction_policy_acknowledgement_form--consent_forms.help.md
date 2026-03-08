@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help tenants understand and acknowledge the policies and terms of their lease agreement. The form is typically used in situations where a tenant may be required to confirm that they have read, understood, and agree to the policies and terms of the lease.
-To complete this form, the tenant should read each question carefully and answer accordingly. If they have any questions or concerns, they should seek clarification from their landlord or property manager.
-The following is a step-by-step guide to completing the form:
-1. Read each question carefully and understand the implications of your answers.
-2. Answer each question truthfully.
-3. Make sure to sign and date the form once you have completed it.
-</thinking>
-
 # Eviction Policy Acknowledgement Form - Help Guide
 ## Purpose
 The Eviction Policy Acknowledgement Form is used to inform tenants of the policies and terms of their lease agreement. It is essential for tenants to understand these policies to ensure a smooth and trouble-free tenancy.

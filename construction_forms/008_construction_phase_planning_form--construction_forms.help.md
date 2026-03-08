@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture relevant information about a construction project's phase planning. It seems to be focused on collecting details related to the project's timeline, milestones, and logistical requirements. This form appears to be designed for internal use within a construction or infrastructure project, possibly for managing and coordinating the project's progression. I'll provide a user-friendly help guide to ensure end-users understand the form's intent and can fill it out accurately.
-</thinking>
-
 # Construction Phase Planning Form - Help Guide
 ## Purpose
 This form is used to record and plan the construction phase of a project, including its start and end dates, key milestones, required permits, and other logistical details.

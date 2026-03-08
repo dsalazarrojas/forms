@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hospital-safety-innovation-filming-consent-form - Help Guide
 ## Purpose
 This form is used to obtain filming consent from individuals before recording or filming activities within a hospital setting. It is essential to ensure that all participants are aware of and agree to the filming process, which may involve capturing images or video footage of them. This form is a crucial step in maintaining the safety and privacy of patients, staff, and visitors.

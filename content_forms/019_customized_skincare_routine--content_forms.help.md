@@ -1,5 +1,3 @@
-<thinking>As a skincare expert, I've designed this form to help users create a customized skincare routine that suits their specific skin type and concerns. This form will guide users through a series of questions to gather information about their skin type, concerns, and goals. By answering these questions, users will receive personalized product recommendations and a tailored routine to achieve their desired skincare results. This form is not intended for duplicate entries, so please fill it out carefully.</thinking>
-
 # customized_skincare_routine - Help Guide
 ## Purpose
 The "Customized Skincare Routine" form is designed to help users create a personalized skincare routine based on their skin type and concerns. This form will guide users through a series of questions to gather information and provide tailored product recommendations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the authorization of a press release. The form asks for general information (name, email, phone, and image release), signature, and scheduling details (press date, press time, publish date, publish time, and published by). This form is not intended for collecting sensitive or personal data. It is a public form created to aid in the authorization of press releases, and as such, it does not require any sensitive information. The information collected will be used for the sole purpose of verifying the authenticity of the press release and ensuring it is properly published. Please fill out this form with the required fields and submit it to proceed with the press release authorization process.
-</thinking>
-
 # Press Release Authorization Form - Help Guide
 ## Purpose
 This form is designed to aid in the authorization of press releases by collecting relevant information for verification and publication purposes.

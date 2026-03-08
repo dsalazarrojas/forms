@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for initial client interviews, gathering essential information about new clients or updates to client records. The form's purpose is to collect data in a structured way, reducing duplication of effort and ensuring consistency across interactions. This guide will walk you through the form's fields and instructions to help users complete it efficiently.
-
-</thinking>
-
 # Initial Client Interview Form - Help Guide
 ## Purpose
 This form is used to collect information for new clients or updates to client records, ensuring consistency and reducing duplication of effort across interactions.

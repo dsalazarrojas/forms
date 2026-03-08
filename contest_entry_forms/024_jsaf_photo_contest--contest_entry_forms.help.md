@@ -1,7 +1,3 @@
-<thinking>
-The jxaf_photo_contest form is a data collection form designed to gather information about a photo submission for a contest. The form is intended for use by photographers who want to submit their photos for consideration in the contest. The form asks for general information about the photo, such as title, description, location, and tags, as well as details about the photographer, including their name, phone number, and email. The form also includes fields for the submitter, including their name, phone number, and email, as well as a field to indicate whether they have agreed to the terms of submission. This form is likely used in a contest or competition scenario where users need to provide detailed information about their submissions in order to be considered.
-</thinking>
-
 # jxaf_photo_contest - Help Guide
 ## Purpose
 The jxaf_photo_contest form is a data collection form designed to gather information about a photo submission for a contest.

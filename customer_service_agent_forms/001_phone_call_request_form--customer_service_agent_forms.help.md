@@ -1,12 +1,3 @@
-<thinking>
-The phone call request form is a crucial tool for customer service agents to receive requests for phone calls from customers. This form is used to gather essential information from customers to process their phone call requests efficiently. 
-
-When a customer submits a form, the agent will review the provided details, which include contact information, the reason for the phone call, and the customer's preferred date and time for the call. The agent will then contact the customer at the scheduled date and time to discuss the customer's inquiry. 
-
-This form is used by customer service agents to receive requests for phone calls from customers, so it is not used for internal tasks or other purposes. Ensure that the form is only used for its intended purpose to avoid duplication of efforts and ensure accurate data collection.
-
-</thinking>
-
 # phone_call_request_form - Help Guide
 ## Purpose
 The phone call request form is designed to receive requests for phone calls from customers. The form helps customer service agents gather essential information to efficiently process the customer's request and schedule a call with them.

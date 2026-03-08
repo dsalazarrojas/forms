@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to gather information from individuals who are interested in getting vaccinated against COVID-19. It will help in organizing and planning for the vaccine distribution process. 
-Before proceeding, please ensure that you have not completed this form before and that you are interested in actually getting vaccinated. If you have already provided your interest in getting vaccinated, please do not fill out this form again. 
-Please fill out the form carefully and honestly to ensure accurate information is recorded.
-</thinking>
-
 # COVID 19 Vaccine Interest Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in getting vaccinated against COVID-19 to aid in the vaccine distribution process.

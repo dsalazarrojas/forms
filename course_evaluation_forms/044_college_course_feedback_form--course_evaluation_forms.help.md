@@ -1,12 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the College Course Feedback Form, making sure to clearly explain the form's purpose, how to complete it, and what each field means. This will ensure that end-users understand the form's intent and can provide accurate and helpful feedback.
-
-This form is designed to collect feedback from students about their college course experiences. The form aims to gather information on various aspects of the course, including content quality, organization, and instructor effectiveness. The feedback provided will help instructors and administrators improve the course and provide a better learning experience for students. The form is anonymous, and all responses will be kept confidential.
-
-To complete this form, simply follow the instructions below.
-
-</thinking>
-
 # College Course Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their college course experiences. Your input will help instructors and administrators improve the course and provide a better learning experience for students.

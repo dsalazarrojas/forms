@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students for exams. It seems that there is no information about which exam this form is associated with, nor is it clear why some fields are required or not. Please ensure that the exam type and other relevant details are filled in for each student. To avoid duplicates, ensure you are registering each student once with the correct information for the specific exam. The form fields seem to be mostly for general student information, with some fields for exam details. Please clarify the intent of each field to avoid confusion. 
-
-</thinking>
-
 # Exam Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from students for exams. It is essential to fill out the form accurately and correctly for each student.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cancellation Or Postponement Voting Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users who are seeking virtual peer mentorship support. The purpose of this form is to gather essential details from the user, such as their contact information and mentorship preferences. This form will help the support team to provide tailored guidance and support to the user. 
-
-Before filling out this form, please ensure that you have not previously submitted a similar request, as this may cause duplication of efforts. If you are unsure about your request, kindly review the provided information and ensure that it accurately represents your needs.
-
-</thinking>
-
 # Virtual Peer Mentorship Support Request Form - Help Guide
 ## Purpose
 The Virtual Peer Mentorship Support Request Form is designed to collect information from users who are seeking virtual peer mentorship support. This form helps the support team to provide tailored guidance and support to the user.

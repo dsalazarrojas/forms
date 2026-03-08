@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Laboratory Session Evaluation Form - Help Guide
 
 ## Purpose

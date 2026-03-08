@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for individuals to provide consent for a COVID-19 booster vaccine. It captures relevant information about the patient's medical history, vaccination history, and consent status.
-
-To ensure that the form is completed accurately and comprehensively, it is essential to follow the instructions below.
-
-</thinking>
-
 # COVID 19 Booster Vaccine Consent Form - Help Guide
 
 ## Purpose

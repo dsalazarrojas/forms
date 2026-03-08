@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record donor event details, including event information, donor contact information, and consent for fundraising campaigns. It's essential to fill out this form accurately and completely to ensure smooth communication and fundraising efforts. Please review the form carefully to avoid duplication of efforts and ensure consistency in recording events. This form will help event organizers and donors to communicate effectively and raise funds for a good cause.
-
-</thinking>
-
 # Donor Event Release Form - Help Guide
 ## Purpose
 This form is used to record and manage donor events, including event details, donor information, and consent for fundraising campaigns. It's a crucial tool for effective communication and successful fundraising efforts.

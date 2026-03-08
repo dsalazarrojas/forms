@@ -1,7 +1,3 @@
-<thinking>
-We have a form designed to collect information for manga submissions. The form aims to gather data from creators who wish to submit their works for review. The purpose of this form is not to collect data for a specific business or organization but rather to create a general template for manga submissions. This form has several fields that require creators to provide details about themselves and their work. We need to ensure that the correct information is entered in each field to ensure that the submission process runs smoothly. It is essential to check the form's requirements before proceeding to avoid duplication of efforts and ensure relevance. The form is designed to be user-friendly and easy to complete, with clear labels and instructions for each field. Before starting, please make sure you have all the necessary information ready.
-</thinking>
-
 # Manga Application Submission Form - Help Guide
 ## Purpose
 This form is designed for manga creators to submit their work for review. It gathers information about the creator, their contact details, and the manga submission, including title, genre, description, and images.

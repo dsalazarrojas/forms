@@ -1,7 +1,3 @@
-<thinking>
-The remote work consent form is used to document an employee's remote work arrangement. This form ensures that all parties involved are aware of the terms and conditions of the remote work agreement, including the start and end dates, hours worked, location, and other relevant details. The form also includes fields for employees to provide consent and agree to the terms of their remote work arrangement. Before filling out this form, ensure that you have discussed and agreed upon the terms of your remote work arrangement with your manager or HR representative.
-</thinking>
-
 # remote_work_consent_form - Help Guide
 ## Purpose
 The remote work consent form is used to document an employee's remote work arrangement, including the start and end dates, hours worked, location, and other relevant details.

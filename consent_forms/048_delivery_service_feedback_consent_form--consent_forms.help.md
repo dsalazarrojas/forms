@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about their delivery experiences, gather their consent for data use, and collect contact information. It should only be used when a business wants to gather both positive and negative feedback from customers. Make sure the business has a valid reason to use this form before proceeding.
-</thinking>
-
 # delivery_service_feedback_consent_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their delivery experiences and gather their consent for data use. It is used to improve the delivery service and customer experience.

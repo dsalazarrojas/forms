@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used for generating quotes for furniture removals. It is intended to be used by customers to provide information about their removals needs, and by staff to generate quotes and provide estimates. This form should not be used for other purposes, as it is not designed to handle other types of requests.
-
-The form is split into sections, each with a specific set of fields. Staff should review each field carefully to ensure they have all necessary information to generate an accurate quote.
-
-</thinking>
-
 # Furniture Removals Quote Form - Help Guide
 ## Purpose
 This form is used to provide information for a quote for furniture removals services.

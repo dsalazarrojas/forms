@@ -1,10 +1,3 @@
-<thinking>
-Is the form purpose relevant and not duplicated? The "performance_lighting_test_recording_consent_form" is a form used to collect information from participants, likely for a performance lighting test, to record consent from participants, and to gather demographic and test details. This form appears to be designed for a specific use case and purpose, and the field explanations and hints provided will help guide the user through the completion process.
-
-Before starting, please ensure that you have not already completed this form for the same participant or test. If you have, please do not submit duplicate entries.
-
-</thinking>
-
 # performance_lighting_test_recording_consent_form - Help Guide
 ## Purpose
 This form is used to collect information from participants and record their consent for a performance lighting test. The form is designed to gather demographic and test details from participants. Please ensure that you have not already completed this form for the same participant or test.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mobile Contact - Help Guide
 ## Purpose
 This form is used to collect contact information from users who want to get in touch with us about our mobile services. It is meant to be filled out by users who are interested in learning more about our mobile services or want to inquire about a specific service.

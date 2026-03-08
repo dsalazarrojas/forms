@@ -1,5 +1,3 @@
-<thinking>...The Prescription Authorization Form is used in medical settings to collect information about a patient's medical history and obtain authorization from a prescriber to dispense prescription medications. It helps ensure that the patient's medical records are up-to-date and accurate. This form typically requires information about the patient, the prescriber, and the prescriber's authorization... </thinking>
-
 # Prescription Authorization Form - Help Guide
 ## Purpose
 The Prescription Authorization Form is used in medical settings to collect information about a patient's medical history and obtain authorization from a prescriber to dispense prescription medications.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support organizations responding to the COVID-19 pandemic by providing rapid funding. This form is designed to gather information about the organization, the funding request, and the plan for implementing the funding. To ensure accuracy and non-duplication, please do not submit duplicate or incomplete applications. Each field is carefully crafted to support the review process and ensure that the application is processed efficiently and effectively. Please review each field carefully and provide as much detail as possible to support your funding request.
-</thinking>
-
 # COVID 19 Rapid Response Funding Application Form - Help Guide
 ## Purpose
 This form is designed to support organizations responding to the COVID-19 pandemic by providing rapid funding.

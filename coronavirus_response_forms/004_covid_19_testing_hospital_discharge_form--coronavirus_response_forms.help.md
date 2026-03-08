@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for use by healthcare professionals to record and track patient data during hospitalization related to COVID-19 testing. The purpose of this form is to gather necessary information for post-discharge care and follow-up. This form is not intended for use as a medical diagnostic tool, but rather as a way to document patient data for administrative and clinical purposes. Before completing this form, ensure that all necessary information has been verified and up-to-date. Please note that some fields are required and must be filled in accurately to ensure proper patient care.
-</thinking>
-
 # COVID 19 Testing Hospital Discharge Form - Help Guide
 ## Purpose
 The COVID 19 Testing Hospital Discharge Form is used to gather information about a patient's COVID-19 status, hospital stay, and post-discharge care instructions. This form is essential for ensuring that the patient receives proper care and follow-up after discharge.

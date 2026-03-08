@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather feedback from customers or stakeholders on their experience with a project. This helps the project team to improve future projects and better meet customer needs. The form should only be filled out once per project, ensuring unique and relevant feedback is collected.
-</thinking>
-
 # Project Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers or stakeholders on their experience with a project. Your input will help the project team understand what they did well and what they can improve on for future projects.

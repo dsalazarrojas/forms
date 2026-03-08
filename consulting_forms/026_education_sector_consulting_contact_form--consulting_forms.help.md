@@ -1,7 +1,3 @@
-<thinking>
-This form is a contact form for the education sector, allowing users to submit their inquiries, contact details, and other relevant information. The form is primarily used to facilitate communication between the user and the consulting team, enabling them to assign a suitable tool and schedule a follow-up action. To prevent duplicate submissions, this form will likely be designed to only accept new submissions and not allow editing of existing ones.
-</thinking>
-
 # Education Sector Consulting Contact Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-Are we checking for duplicates or non-relevant responses here? No, we're not. This form is designed to collect information from students for COVID-19 self-certification and verification purposes, which is crucial for public health and safety measures. The form will help in identifying potential COVID-19 cases and prevent the spread of the virus. We should not be worried about duplicates or non-relevant responses as they are all legitimate attempts to provide information.
-</thinking>
-
 # Student COVID 19 Self Certification And Verification Form - Help Guide
 ## Purpose
 The Student COVID 19 Self Certification And Verification Form is a self-attesting form designed to collect information from students to identify potential COVID-19 cases and prevent the spread of the virus. This form is intended to be filled out by students who have been exposed to or suspect they may have COVID-19.

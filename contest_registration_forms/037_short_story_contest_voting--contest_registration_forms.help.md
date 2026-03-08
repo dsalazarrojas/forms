@@ -1,9 +1,3 @@
-<thinking>...internal reasoning to understand the form purpose and fields... 
-
-The form "short_story_contest_voting" is used for users to participate in a short story contest. The purpose of this form is to collect user's details, their chosen story, and ratings/votes for each story in the contest. This form guides users through the voting process for a short story contest.
-
-</thinking>
-
 # short_story_contest_voting - Help Guide
 ## Purpose
 The form is used for users to participate in a short story contest by submitting their votes and ratings for each participating story.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for partners to enroll in a partnership program. The form is not designed for existing partners to update their information, but rather for new partners to submit their registration details. Please ensure that you are submitting the correct information and that you have not already been registered in the program before filling out this form. If you are unsure or have any issues, please contact the partnership team.
-</thinking>
-
 # Kaa Partership Enrollment Form - Help Guide
 
 ## Purpose

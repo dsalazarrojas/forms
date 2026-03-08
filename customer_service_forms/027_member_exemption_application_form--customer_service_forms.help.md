@@ -1,10 +1,3 @@
-<thinking>Internal reasoning block to review form purpose and relevance:
-This form is intended for customers to apply for a member exemption, which is a benefit that can be granted by the organization. The member exemption application form is used to collect information from customers about their exemption type, reason, frequency, and other relevant details. The form is likely used to process and evaluate customer exemption requests, and the submitted data is used to update customer records and provide necessary information for customer service teams.
-
-To ensure the form is filled out correctly, we need to check that the customer has selected a valid exemption type, provided a valid reason, and entered a valid exemption date. The exemption type selection should match the reason provided, and the exemption date should be a future date. Additionally, the customer should be able to select multiple exemption frequencies if required.
-
-Before filling out the form, please ensure that the exemption type selected matches the reason provided, and the exemption date is a future date. If you are unsure about any of the fields, please contact our customer service team for assistance.</thinking>
-
 # member_exemption_application_form - Help Guide
 ## Purpose
 The member exemption application form is used to apply for a member exemption, a benefit that can be granted by the organization. This form collects information about the customer's exemption type, reason, frequency, and other relevant details.

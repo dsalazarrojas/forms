@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customer service agents to document a return request from a customer. The form captures essential information regarding the return, including customer details, return information, return type, and any additional notes or requests. This form is likely used in a retail or e-commerce context where customers may need to return items they have purchased. 
-</thinking>
-
 # Return Request Form - Help Guide
 ## Purpose
 The Return Request Form is used to document return requests from customers, allowing customer service agents to quickly and efficiently gather the necessary information for handling returns.

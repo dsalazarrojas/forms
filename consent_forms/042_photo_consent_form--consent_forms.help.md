@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photo Consent Form - Help Guide
 
 ## Purpose

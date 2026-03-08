@@ -1,20 +1,3 @@
-<thinking>
-This form seems to be related to the cancellation of extended warranties for a customer. It appears to be a multi-page form with various fields to collect information and confirm cancellations.
-
-To determine if this form is relevant for you, please check the following:
-
-* Are you an authorized representative of the customer or their representative?
-* Are you acting on behalf of the customer to cancel an extended warranty?
-* Have you already received confirmation of cancellation from the customer or their representative?
-
-If you are not sure, it's possible this form is not meant for your scenario. Please contact your supervisor or HR department for clarification.
-
-If this form is relevant, please review the following pages and fields carefully to ensure you've completed the form correctly.
-
-This form is meant for customers to cancel their extended warranties, and the fields are designed to collect necessary information for this process.
-
-</thinking>
-
 # extendedWarrantyCancellationForm - Help Guide
 ## Purpose
 This form is used to cancel extended warranties for a customer.

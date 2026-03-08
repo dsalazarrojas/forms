@@ -1,12 +1,3 @@
-<thinking> 
-This help guide is for the "user-profile-settings-survey" form. The purpose of this form is to collect user data for profile settings and preferences. It is designed to provide a comprehensive overview of a user's profile, preferences, and settings. This form is typically used to capture information such as user preferences, settings, and feedback.
-
-Before starting the form, please ensure that you are in the correct context and that you have a valid reason for completing the form. This form is not a duplication of other forms, and your input is crucial in helping us better understand your user profile.
-
-Please note that some fields may be optional, and you can skip them if you feel they are not relevant to your situation.
-
-</thinking>
-
 # user-profile-settings-survey - Help Guide
 ## Purpose
 The "user-profile-settings-survey" form is designed to collect your user profile, preferences, and settings for our records.

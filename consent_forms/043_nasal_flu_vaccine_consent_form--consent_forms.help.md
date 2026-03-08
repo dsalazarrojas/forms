@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nasal Flu Vaccine Consent Form - Help Guide
 ## Purpose
 This form is designed to collect consent and other relevant information from patients and their guardians regarding the nasal flu vaccine. It is intended to ensure that all necessary permissions and details are captured before administering the vaccination.

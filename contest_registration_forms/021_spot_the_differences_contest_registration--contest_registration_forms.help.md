@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to register for the "Spot The Differences Contest" and provide their personal details, such as name, contact information, and demographic information. The form is designed to collect information that will be used to identify and verify the user's participation in the contest. Please make sure you're filling this form if you're indeed registering for the Spot The Differences Contest and you're over 18. If you're unsure, please contact us to clarify.
-</thinking>
-
 # Spot The Differences Contest Registration - Help Guide
 ## Purpose
 The Spot The Differences Contest Registration form is a simple form designed to collect personal details from users who wish to participate in the "Spot The Differences Contest". This form is meant to be filled out once by each participant.

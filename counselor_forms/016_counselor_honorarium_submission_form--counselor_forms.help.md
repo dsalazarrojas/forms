@@ -1,7 +1,3 @@
-<thinking>
-We are implementing a form to collect information for counselor honorarium submissions. The form will be used to collect data on honorariums submitted by counselors to ensure accurate and efficient tracking and reporting of payment information. Before submitting this form, please ensure that you are a counselor authorized to submit honorariums on behalf of others. Also, please note that submissions may not be duplicated if you have already submitted the same honorarium. If you're unsure about any of the information below, please seek clarification with your supervisor or HR department before proceeding.
-</thinking>
-
 # Counselor Honorarium Submission Form - Help Guide
 ## Purpose
 This form is used to submit honorariums for events and presentations. Please fill out the form below to provide necessary information for processing.

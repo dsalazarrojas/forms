@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients regarding their initial interview details. This form ensures that all necessary information is collected to facilitate a smooth and efficient interaction between the client and the service provider.
-</thinking>
-
 # Initial Client Interview Form - Help Guide
 ## Purpose
 

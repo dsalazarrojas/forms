@@ -1,7 +1,3 @@
-<thinking>...
-The purpose of this form is to collect user information for digital advertising display purposes. The form is designed to gather personal details, including name, address, contact information, and demographic data. This information will be used to display targeted advertisements on various digital platforms. Please ensure that you are providing accurate and up-to-date information to ensure the accuracy of the data collected.
-</thinking>
-
 # Digital Advertising Display Consent Form - Help Guide
 ## Purpose
 The Digital Advertising Display Consent Form is designed to collect user information for digital advertising display purposes. This form is intended to gather personal details that will be used to display targeted advertisements on various digital platforms.

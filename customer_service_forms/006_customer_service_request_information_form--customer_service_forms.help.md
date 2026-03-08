@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from customers regarding their requests for assistance. It is crucial to ensure that the form is filled out thoroughly and accurately to facilitate efficient communication and issue resolution. Before filling out this form, please ensure that you have not already submitted a request for the same issue, as this may lead to unnecessary duplication of effort and potential confusion. This form is designed to be completed by customers, and its primary goal is to provide the necessary information for the customer service team to address their concerns.
-</thinking>
-
 # customer_service_request_information_form - Help Guide
 ## Purpose
 The "customer_service_request_information_form" is a form designed to collect information from customers regarding their service requests. This form helps the customer service team to understand the customer's needs and provide the best possible solution.

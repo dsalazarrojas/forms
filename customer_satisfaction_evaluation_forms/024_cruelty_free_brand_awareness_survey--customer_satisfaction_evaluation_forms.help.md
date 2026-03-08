@@ -1,19 +1,3 @@
-<thinking>
-
-To begin with, I need to understand the context and purpose of this form. Based on the provided YAML fields, it appears that this form is designed to gather information on customer satisfaction and awareness of cruelty-free brands. 
-
-The form is likely used for market research or analysis to understand customers' attitudes and preferences towards cruelty-free brands. The fields suggest that we are looking to gather data on customers' perception of cruelty-free brands, their importance, pricing, and influence on purchasing decisions.
-
-However, I need to verify if this form is indeed designed for internal use only or if it will be shared with customers. If it's for internal use, we may not need to explain the form's purpose in detail. If it's for customer completion, we should make sure to provide clear and concise explanations for each field to ensure customers understand what is expected of them. 
-
-Assuming it's for customer completion, the next step is to review the fields and provide concrete and concise explanations for each field. Please let me know if I'm correct in assuming it's for customer completion.
-
-Also, I'll need to ensure that the explanations are concrete and concise, and based on the provided YAML fields. If a field label is weak or unclear, I'll try to provide the best-effort explanation without inventing unsupported business logic.
-
-With that in mind, I'll provide the final help document in Markdown format after this section.
-
-</thinking>
-
 # Cruelty Free Brand Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information on your perception and attitude towards cruelty-free brands. Your responses will help us understand your preferences and habits when it comes to cruelty-free products.

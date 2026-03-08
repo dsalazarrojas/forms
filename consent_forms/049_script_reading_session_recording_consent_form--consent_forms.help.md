@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Script Reading Session Recording Consent Form" is designed to obtain the consent of participants to record their script reading sessions. This form is used to ensure that participants are aware of and agree to the recording of their sessions, which is an essential aspect of maintaining transparency and trust in research and educational settings.
 
 Before proceeding with the recording, this form must be completed by the participant, and the answers should be filled out with care. 

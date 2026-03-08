@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather user information and consent for virtual visits. It is not a medical record and should not be used as such. This form will not be used to replace medical consultation or treatment. It is intended for patients who wish to participate in virtual visits, which may include video conferencing, phone, or email consultations. By using this form, patients are consenting to the collection and use of their personal and medical information for these virtual visits.
-
-Before completing this form, please ensure that you are not duplicating an existing record. If you have previously completed this form, please do not re-complete it.
-
-This form has 25 fields and is divided into several sections: User Information, Contact Information, Patient Information, Emergency Contact, Consent, and Additional Information. Each section has a specific purpose and requirements.</thinking>
-
 # DermaVirtualVisitsConsentForm - Help Guide
 
 ## Purpose

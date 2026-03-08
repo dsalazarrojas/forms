@@ -1,7 +1,3 @@
-<thinking>
-This is a form for collecting contact information and project details before an installation. The purpose of this form is to gather essential data from the user about the contact person, their contact information, project details, and other relevant installation information. This form seems to be used in a scenario where a company or organization is planning to conduct an installation, possibly for a product or a service. It's possible that this form is used to gather information for a service or a product installation in a physical location, hence the fields related to contact details and project specifics. I'll provide a detailed help guide for the end-user to complete the form accurately.
-</thinking>
-
 # pre_installation_survey - Help Guide
 ## Purpose
 This form is used to gather essential contact information and project details before an installation.

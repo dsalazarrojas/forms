@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about new uniform parts from customers. It is a simple form with various fields to gather details such as customer name, contact information, and part-related data. The form is not required, and users should only submit it when necessary to report new uniform parts.
-</thinking>
-
 # New Uniform Parts - Help Guide
 ## Purpose
 This form is used to collect information about new uniform parts from customers.

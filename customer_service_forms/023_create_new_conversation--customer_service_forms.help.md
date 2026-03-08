@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to create a new conversation for customer support purposes.
-The form is intended to guide users through a process of creating a new conversation with a customer, including assignment, subject, details, and priority level.
-It is not intended for internal or administrative purposes only, but rather for users who need to initiate a conversation with a customer in a customer-facing context.
-The form is not intended for high-volume or repetitive usage and is designed for ad-hoc or one-off conversations.
-The form does not collect sensitive or protected data and does not require any special permissions or access.
-</thinking>
-
 # Create New Conversation - Help Guide
 ## Purpose
 

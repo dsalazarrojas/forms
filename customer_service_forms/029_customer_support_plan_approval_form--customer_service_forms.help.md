@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## customer_support_plan_approval_form - Help Guide
 ## Purpose
 The customer support plan approval form is used to document and track the approval process of customer support plans. This form is designed to be completed by support teams to provide visibility and updates on the status of customer support plans within the organization.

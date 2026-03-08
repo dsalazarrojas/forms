@@ -1,12 +1,3 @@
-<thinking> 
-This help guide is intended for users who are unfamiliar with the Tell A Friend Form. The form is designed to allow users to send a message or notification to a friend, colleague, or acquaintance, with the option to include a URL and product name. This is a straightforward form for sending a personal message. 
-
-The form will not be used for mass communication or automated tasks. Each field in this form is designed to gather specific information for the intended recipient. 
-
-The following guide will walk through each field in this form to ensure users understand what is expected and why.
-
-</thinking>
-
 # Tell A Friend Form - Help Guide
 ## Purpose
 The Tell A Friend Form is designed to allow you to send a personal message or notification to a friend, colleague, or acquaintance. Fill out the form below to share information about a product or resource.

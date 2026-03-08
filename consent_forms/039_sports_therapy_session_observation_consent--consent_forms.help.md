@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for obtaining consent from participants in a sports therapy session for observation. It is meant to be completed by the sports therapy professional or observer, and should be used when observing a participant's sports therapy session. 
-When using this form, please ensure you are not duplicating or replicating any existing process, and only use it for its intended purpose.</thinking>
-
 # Sports Therapy Session Observation Consent - Help Guide
 
 ## Purpose

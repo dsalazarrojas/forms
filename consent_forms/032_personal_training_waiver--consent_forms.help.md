@@ -1,14 +1,3 @@
-<thinking>
-This guide will be a comprehensive resource for users to understand the purpose and requirements of the Personal Training Waiver form. This form is designed to gather essential information for personal training, including contact details, emergency contacts, and medical information. The goal is to ensure that users can complete the form with clarity and accuracy.
-
-Before proceeding, please note the following:
-
-*   This form is not intended to be used for commercial or professional training purposes.
-*   The form's requirements and fields are based on industry standards and best practices for personal training.
-*   The form's fields are designed to be user-friendly and easy to understand.
-
-</thinking>
-
 # Personal Training Waiver - Help Guide
 ## Purpose
 The Personal Training Waiver form is designed to gather essential information for personal training. This form is intended for individuals seeking personal training services, and it's a requirement for trainers to have this information before commencing training sessions. It's crucial to provide accurate and truthful information to ensure a safe and effective training experience.

@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "knowledge_management_consulting_contact_form" form. This form is intended to collect information from clients or potential clients about their knowledge management consulting needs. It's likely used for internal purposes within the organization to manage consultations, track progress, and assign tasks to relevant users. The form might be shared publicly or internally, depending on the context. It's essential to fill it out carefully, as it will be used for future reference and potential follow-up actions. Before starting, please ensure you haven't filled out this form previously to avoid duplicate submissions.
-</thinking>
-
 # knowledge_management_consulting_contact_form - Help Guide
 ## Purpose
 The knowledge management consulting contact form is designed to gather information about your knowledge management consulting needs. It helps us understand your requirements, preferences, and constraints to provide you with tailored advice and guidance.

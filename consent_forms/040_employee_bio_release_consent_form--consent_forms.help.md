@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Bio Release Consent Form - Help Guide
 
 ## Purpose

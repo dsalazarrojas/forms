@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Counseling Waiver Form - Help Guide
 
 ## Purpose

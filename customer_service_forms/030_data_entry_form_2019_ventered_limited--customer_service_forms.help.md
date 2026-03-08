@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # data_entry_form_2019_ventered_limited - Help Guide
 
 ## Purpose

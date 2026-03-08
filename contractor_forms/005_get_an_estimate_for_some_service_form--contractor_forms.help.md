@@ -1,10 +1,3 @@
-<thinking>
-To confirm, we're creating a user-facing help guide for a form titled "Get An Estimate For Some Service Form". This form is used to gather information from customers for an estimate on a specific service, likely for a repair, maintenance, or other job. The form will likely be used by customers to provide details about the service they require, such as the service description, estimated price, and estimated completion time and date. We need to ensure that each field is explained clearly and concisely, so customers understand what information is required and how to provide it accurately.
-
-We should also check that the form fields are not duplicated and that the information provided aligns with the form's purpose. Let's review the form YAML to confirm.
-
-</thinking>
-
 # Get An Estimate For Some Service Form - Help Guide
 ## Purpose
 This form is used to gather information from customers for an estimate on a specific service. Please provide the required details to help us better understand your service request.

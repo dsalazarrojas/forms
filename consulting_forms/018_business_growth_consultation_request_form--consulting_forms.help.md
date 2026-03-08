@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Growth Consultation Request Form - Help Guide
 
 ## Purpose

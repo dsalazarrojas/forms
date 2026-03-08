@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for participants to register for a poetry contest. The purpose of this form is to gather information about the participant and their poem. This form is not intended for non-participants or to be used for any other purpose. Please ensure that you are a genuine participant before completing this form.
-
-This form is not a duplicate of any other form in the system.
-</thinking>
-
 # Poetry Contest Registration Form - Help Guide
 ## Purpose
 The Poetry Contest Registration Form is designed to collect information from participants who wish to enter the contest. This form is used to gather details about the participant and their poem, ensuring a smooth and efficient registration process.

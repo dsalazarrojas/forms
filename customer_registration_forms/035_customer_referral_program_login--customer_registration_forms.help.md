@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Customer Referral Program Login" form. This form is used to collect information about a customer's referral to the Referral Program. It is intended for customers who wish to join or be referred to the program. To complete this form, please follow the steps below. This form is part of the "customer_registration_forms" category, which means it is used to store user information in the system.
-</thinking>
-
 # Customer Referral Program Login - Help Guide
 ## Purpose
 The "Customer Referral Program Login" form is used to collect information about a customer's referral to the Referral Program. This form is required to be filled out by customers who wish to join or be referred to the program.

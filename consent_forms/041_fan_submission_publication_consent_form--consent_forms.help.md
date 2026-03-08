@@ -1,10 +1,3 @@
-<thinking>
-This form is used for obtaining consent from fans for the publication of their submissions. It's a crucial step in the process of publishing fan work, such as art, writing, or music. The form ensures that fans understand and agree to the terms of publication, including the use of their name and work. It's essential to complete this form carefully and accurately to avoid any potential issues or misunderstandings.
-
-The form has multiple pages, each with its own set of fields. The fields are designed to collect specific information from the fan submitter, such as their consent date and time, publication name, and type. Some fields are optional, while others are required. It's crucial to review each field carefully to understand its purpose and requirements.
-
-</thinking>
-
 # Fan Submission Publication Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from fans for the publication of their submissions. It ensures that fans understand and agree to the terms of publication.

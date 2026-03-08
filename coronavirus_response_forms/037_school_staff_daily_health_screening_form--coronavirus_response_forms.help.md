@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by school staff to self-report their health status and potential exposure risks related to COVID-19. It's essential to complete this form daily to ensure a safe working environment and to report any symptoms or concerns. Please ensure that you're filling out this form for your current day. If you've already completed this form for today, you don't need to fill it out again. If you're unsure about any of the fields, please refer to this help guide for assistance.
-</thinking>
-
 # School Staff Daily Health Screening Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about your health status and potential exposure risks as a school staff member to ensure a safe and healthy working environment. Please note that this form should be completed daily and honestly, and you are required to report any symptoms or concerns.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to allow customers to make changes or updates to their existing subscriptions. The fields in this form are likely to be used for customers who need to modify their subscription details, such as changing their contact information or updating their subscription plan. It is assumed that the customer has an existing subscription and wants to make amendments to it. There is no indication that this form is for new subscription requests or other purposes. If the customer is looking to cancel or cancel their subscription, they will need to use a different form.</thinking>
-
 # Subscription Amendment Form - Help Guide
 ## Purpose
 The Subscription Amendment Form is used to make changes or updates to an existing subscription. This form is intended for customers who need to modify their subscription details, such as changing their contact information or updating their subscription plan.

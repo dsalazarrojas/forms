@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Response Content Feedback Survey - Help Guide
 ## Purpose
 The Response Content Feedback Survey is a form designed to gather feedback on the quality and relevance of responses received in a survey. This form will help us understand the effectiveness of our response content and identify areas for improvement.

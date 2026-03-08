@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect resident biometric access consent, which is used to grant or deny access to sensitive information or resources that require biometric authentication, such as fingerprint, face, or voice recognition. This form helps ensure that residents understand and agree to the terms of access, and that the necessary information is collected correctly.
-
-The form should only be filled out by residents who have been invited to complete it and should not be filled out if the resident has already completed it. If a resident has already completed the form, they should not be prompted to complete it again.
-
-To avoid any confusion, it is recommended that the form is only accessed through the authorized channels and users are aware of the form's purpose and content. 
-
-</thinking>
-
 # resident_biometric_access_consent_form - Help Guide
 ## Purpose
 This form is used to collect biometric access consent from residents, allowing them to opt-in or opt-out of biometric authentication for sensitive information or resources.

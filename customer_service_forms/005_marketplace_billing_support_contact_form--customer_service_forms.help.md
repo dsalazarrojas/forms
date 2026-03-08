@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide a user-friendly interface for customers to contact the marketplace billing support team for assistance. The form allows customers to submit their inquiries, describe the issue they're facing, and provide additional information to help the support team understand their concerns. The form's fields are divided into two main sections: Contact Information and Issue Description. This design ensures that customers can easily provide essential details about themselves and their issues, making it simpler for the support team to respond efficiently.
-</thinking>
-
 # Marketplace Billing Support Contact Form - Help Guide
 ## Purpose
 The Marketplace Billing Support Contact Form is a tool for customers to submit their billing-related inquiries, issues, or general questions to the marketplace's support team. This form is designed to gather essential information to provide timely and effective assistance.

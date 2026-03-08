@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information about an energy credit authorization for a customer's premises. The form is designed to be used by authorized personnel to quickly and accurately obtain necessary information for billing and credit purposes. This form is not intended to be used for other purposes, such as for sales or marketing activities. Please ensure that the form is being used correctly and for the intended purpose.
-
-</thinking>
-
 # Energy Credit Authorization Form - Help Guide
 
 ## Purpose

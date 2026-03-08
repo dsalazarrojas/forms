@@ -1,13 +1,3 @@
-<thinking>
-
-Laser hair removal is a relatively safe but sensitive treatment. Before undergoing laser hair removal, it is essential to ensure you understand the procedure and the potential risks involved. This waiver form is designed to capture critical information from both the client and the practitioner, including medical history, contact information, and the client's consent to proceed with the treatment.
-
-The purpose of this form is not to intimidate or cause undue anxiety. Its primary goal is to ensure a safe and effective treatment experience. Please take a few minutes to review the form carefully, and if you have any questions or concerns, please don't hesitate to reach out to us.
-
-This form is not intended to replace an in-depth consultation with a practitioner. If you have any pre-existing medical conditions or concerns, please inform your practitioner before proceeding with the treatment.
-
-</thinking>
-
 # Laser Hair Removal Waiver Form - Help Guide
 ## Purpose
 The Laser Hair Removal Waiver Form is a critical document that ensures a safe and effective treatment experience for both you and your practitioner. This form gathers essential information about your medical history, contact methods, and consent to proceed with the treatment.

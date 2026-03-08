@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website Delivery Feedback Survey Form - Help Guide
 ## Purpose
 The "Website Delivery Feedback Survey Form" is designed to gather feedback on your delivery experience with our website. This form will help us understand how we can improve our delivery process and ensure that it meets your needs and expectations.

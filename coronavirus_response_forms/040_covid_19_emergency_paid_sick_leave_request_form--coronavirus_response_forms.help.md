@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Emergency Paid Sick Leave Request Form - Help Guide
 
 ## Purpose

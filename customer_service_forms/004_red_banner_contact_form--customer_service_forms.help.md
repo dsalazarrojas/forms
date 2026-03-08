@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ### Red Banner Contact Form - Help Guide
 
 **Purpose**

@@ -1,7 +1,3 @@
-<thinking> 
-We should check if the form has been properly filled out before proceeding.
-</thinking>
-
 # Customer Wait Time Evaluation Form - Help Guide
 ## Purpose
 The Customer Wait Time Evaluation Form is designed to collect feedback from customers regarding their wait time experience. This form helps us identify areas of improvement and provide better services in the future.

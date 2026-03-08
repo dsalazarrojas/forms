@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "wish_list_full_spring" form, which is used for creating or modifying a wish list for a specific spring product or event. The form is designed to capture relevant information for the spring product or event, such as catalog items and notes. The fields on this form are intended to be filled out by end users to provide necessary details for the wish list. Before proceeding, review the form carefully to ensure you've filled out all required and optional fields as necessary. This guide will walk you through each section of the form to help you complete it accurately.
-</thinking>
-
 # Wish List Full Spring - Help Guide
 ## Purpose
 The "wish_list_full_spring" form is used to create or edit a wish list for a specific spring product or event. It helps to gather relevant information such as catalog items and notes.

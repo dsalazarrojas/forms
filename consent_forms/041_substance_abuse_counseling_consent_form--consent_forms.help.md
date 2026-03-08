@@ -1,18 +1,3 @@
-<thinking>... (internal reasoning block)
-
-The form purpose is to collect consent information from individuals who are considering or are currently receiving substance abuse counseling services. The form is designed to be completed by the individual themselves, with the goal of ensuring they understand their rights, responsibilities, and obligations related to the counseling program. This form is typically completed before beginning counseling services.
-
-To complete this form, the user will need to:
-
-1. Determine if they wish to participate in counseling services (Page 1: "page_1")
-	* Select "Yes" or "No" based on their willingness to participate in counseling.
-2. Enter their contact information (Page 2: "contact_info")
-	* Enter their name and contact details.
-3. Provide personal information (Page 3: "name" and "date_of_birth")
-	* Enter their full name and date of birth (in MM/DD/YYYY format).
-
-</thinking>
-
 # Substance Abuse Counseling Consent Form - Help Guide
 ## Purpose
 The form collects consent information from individuals who are considering or are currently receiving substance abuse counseling services.

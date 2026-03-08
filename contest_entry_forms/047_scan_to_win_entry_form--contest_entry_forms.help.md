@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to enter their information to participate in a "Scan To Win" contest, where they can scan a code to win a prize. The form will be used to collect user data, including email, name, phone number, promotion code, and any additional message they want to send with their entry. It's essential to fill out the form correctly, as any incomplete or duplicate entries might not be eligible for winning. Please review the fields below to ensure you fill out the form correctly.
-</thinking>
-
 # Scan To Win Entry Form - Help Guide
 ## Purpose
 This is the entry form for the "Scan To Win" contest. Users can fill out this form to participate in the contest by scanning a specific promotion code.

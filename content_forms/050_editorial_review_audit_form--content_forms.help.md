@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect information about the editorial review process for a manuscript. The form is designed to gather data on the manuscript's status, any editorial comments or recommendations, and the reviewer's details.
-To determine if this form is relevant to your process, consider the following questions:
-* Are you an editor or reviewer responsible for reviewing manuscripts?
-* Are you gathering information on the editorial review process for a specific project or publication?
-* Do you need to track details on manuscript status, comments, and reviewer information?
-
-If you answered yes to these questions, this form might be relevant to your process. Please review the form carefully and ensure it aligns with your specific needs.
-</thinking>
-
 # Editorial Review Audit Form - Help Guide
 ## Purpose
 The Editorial Review Audit Form is used to collect information on the editorial review process for a manuscript. It helps gather data on the manuscript's status, editorial comments, and reviewer details.

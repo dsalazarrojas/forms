@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about a service estimate, which is an estimate of the cost and details of a job or project. The form is intended to be used by service providers to collect information from clients about their job requirements and provide a detailed estimate of the services needed. This form includes fields for client information, job details, cost estimates, and payment terms.
-
-The form is divided into several sections, each with its own set of fields. The first section is for client information, including client name. The next section is for job details, including job duration, job type, and service description. The following sections are for cost estimates, including labor cost, material cost, labor hours, and material hours. The final sections are for payment terms, including payment terms, payment terms note, payment terms date, and payment terms time.
-
-This form is meant to be used by service providers to collect information from clients and provide a detailed estimate of the services needed. It is not intended for internal use within the company, but rather for external use by clients.
-
-Please review the form carefully and ensure that you understand the purpose and requirements of each field before proceeding.
-</thinking>
-
 # Service Estimate Form - Help Guide
 ## Purpose
 The Service Estimate Form is a tool used by service providers to collect information from clients about their job requirements and provide a detailed estimate of the services needed.

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Hospice Care Authorization Form - Help Guide
+> # Hospice Care Authorization Form - Help Guide
 
 ## Purpose
 The Hospice Care Authorization Form is a document used to obtain the consent of a patient or their authorized representative for hospice care. This form is used to ensure that the patient or their representative has given their consent for the provision of hospice care services. The form is typically used by healthcare providers to verify that the patient or their representative has agreed to receive hospice care.

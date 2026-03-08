@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to provide a simple contact form for users to reach out with inquiries, questions, or concerns. This form collects basic information such as name, email, subject, and message, which can be used by the form owner to respond to contacts.
-
-This form is not intended to be a comprehensive survey or complex data collection tool, but rather a straightforward contact form for users to get in touch. The AI-generated form is an original adaptation of public survey metadata and is released under CC BY 4.0 license.
-
-Before filling out this form, please note that it is not affiliated with, endorsed by, or derived from any form platform. If you have any questions or concerns regarding the form, please contact form@gic.mx.
-</thinking>
-
 # Simple Flat Contact Form - Help Guide
 ## Purpose
 This form is designed to allow users to contact the form owner with inquiries, questions, or concerns.

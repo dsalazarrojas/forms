@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for obtaining consent from participants to publish their replay footage. The form should be used when capturing or publishing esports replays, and the participant's consent is required for the publication. This form is designed to collect basic details about the participant, their consent for replay publication, and their digital signature. It is recommended to use this form in a digital format, as it allows for easy sharing and storage of the consent. It is also important to note that this form is a one-time use form and should not be duplicated or used for other purposes. This form does not require any additional authentication or validation, it is assumed that the participant's digital signature is valid.
-</thinking>
-
 # Esports Replay Publication Consent Form - Help Guide
 ## Purpose
 The Esports Replay Publication Consent Form is a document that is used to obtain consent from participants to publish their replay footage. It is designed for use when capturing or publishing esports replays and helps to establish a clear record of the participant's consent.

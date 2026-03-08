@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's skin care pre-treatment consultation. It's intended to be filled out by the client before undergoing any skin treatments. This form will help our skin care professionals understand the client's skin condition, medical history, and treatment goals, allowing us to provide personalized care and advice. Please fill out this form carefully and honestly to ensure we can provide the best possible service.
-</thinking>
-
 # Skin Care Pre Treatment Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's skin care pre-treatment consultation.

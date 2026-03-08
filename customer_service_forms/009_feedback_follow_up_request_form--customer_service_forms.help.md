@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow customers to request feedback follow up, providing essential information for customer service teams to effectively engage with customers and improve product/service experiences. To avoid duplication, this form should not be filled out if the customer has already provided feedback or if the customer has requested a follow up in the past month.
-</thinking>
-
 # Feedback Follow Up Request Form - Help Guide
 
 ## Purpose

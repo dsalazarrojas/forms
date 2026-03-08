@@ -1,7 +1,3 @@
-<thinking>
-  This form was designed to collect customer feedback and inquiries. To confirm, the form is used to gather information from customers about their concerns, requests, or suggestions regarding a product or service. Before proceeding, ensure that this form is not duplicating or redundant. Check if similar forms exist within your organization or if this form's goals overlap with other forms. 
-  </thinking>
-
 # customer_enquiry_form - Help Guide
 ## Purpose
 The customer enquiry form is a tool used to collect and process customer feedback, concerns, or questions regarding a product or service.

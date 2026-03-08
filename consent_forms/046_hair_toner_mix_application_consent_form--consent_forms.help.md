@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is intended for customers to provide consent for a hair toner mix application. It's a form that asks customers to confirm their age, provide some basic information about their appointment, and indicate their consent for the service. 
-
-Before starting, make sure you're completing this form for your actual appointment. If you've already filled out a similar form for the same appointment, it's a good idea to check if it's up-to-date and accurate, as some information may have changed. If unsure, consult with your appointment scheduler or staff member to confirm the status of your appointment. ...</thinking>
-
 # Hair Toner Mix Application Consent Form - Help Guide
 ## Purpose
 This is a form for customers to provide their consent for a hair toner mix application. It's required for your appointment, and you should fill it out carefully and accurately.

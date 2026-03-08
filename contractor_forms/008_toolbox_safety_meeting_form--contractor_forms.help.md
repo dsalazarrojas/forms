@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Toolbox Safety Meeting Form - Help Guide
+> # Toolbox Safety Meeting Form - Help Guide
 ## Purpose
 This form is used to document the contents of a toolbox safety meeting, including the tools listed, assigned tools, meeting notes, and other relevant information.
 

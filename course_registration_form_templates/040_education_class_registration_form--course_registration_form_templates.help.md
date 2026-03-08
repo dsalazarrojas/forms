@@ -1,13 +1,3 @@
-<thinking>
-This form is used for students to register for an education class. 
-It is designed to collect essential information from students 
-to ensure a smooth registration process. This form is not 
-affiliated with any form platforms, nor does it use proprietary 
-content from them. The form's original code was generated 
-using AI, and it is released under a Creative Commons 
-license for public use.
-</thinking>
-
 # Education Class Registration Form - Help Guide
 
 ## Purpose

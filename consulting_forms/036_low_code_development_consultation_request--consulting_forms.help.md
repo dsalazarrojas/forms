@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is used to collect information from customers about their projects and consultation requests. This form is likely used in a business setting, and the purpose of this form is to gather relevant project details, lead contact information, consultation scheduling, project deadline, project description, and budget information. The fields in this form include a mix of text input, time input, number input, and select input types. The form requires project type, lead status, and lead source to be selected, indicating that these fields are crucial for the consultation process. This form is intended to be completed by customers or project leads, and its output would likely be used for internal project management and consultation purposes.</thinking>
-
 # Low Code Development Consultation Request - Help Guide
 
 ## Purpose

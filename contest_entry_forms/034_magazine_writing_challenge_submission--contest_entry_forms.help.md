@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from authors submitting their manuscripts to a magazine writing challenge. The form is used to collect demographic data, manuscript information, and submission details. The purpose of this form is to ensure that all submissions are properly recorded and processed for evaluation. To avoid duplicate submissions, the form will only accept submissions from unique authors. 
-</thinking>
-
 # Magazine Writing Challenge Submission - Help Guide
 ## Purpose
 This form is designed to collect information from authors submitting their manuscripts to the magazine writing challenge. 

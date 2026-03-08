@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information and consent for the treatment of pets with medication. The form will be used by veterinary clinics or animal hospitals to collect necessary details from pet owners for the treatment and administration of medications to their pets. 
-
-Before filling out this form, please ensure that you are completing it for the intended purpose and for your pet only. If you have filled out this form previously for the same pet, please do not fill it out again as this may cause confusion and duplicate records. 
-
-</thinking>
-
 # Pharmaceuticals Consent Form For Pets - Help Guide
 ## Purpose
 This form is designed to gather essential information and consent from pet owners for the treatment of their pets with medication. It is typically used by veterinary clinics or animal hospitals to ensure that the pet owner is aware of and agrees to the treatment and administration of medications to their pet.

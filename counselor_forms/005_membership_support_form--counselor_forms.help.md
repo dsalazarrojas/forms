@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who need assistance with their membership. This form helps us understand the nature of the issue they're facing and what actions they've taken or plan to take to resolve it. By providing detailed descriptions and specific dates, we can better understand the context and prioritize our support efforts. We'll review this form for duplication to avoid unnecessary processing of similar issues. Please review the form carefully and only submit once with the most accurate and up-to-date information.
-</thinking>
-
 # Membership Support Form - Help Guide
 ## Purpose
 The Membership Support Form is designed to help us understand your concerns regarding your membership. This form allows you to provide a clear and detailed description of your issue, your contact information, and any relevant attachments.

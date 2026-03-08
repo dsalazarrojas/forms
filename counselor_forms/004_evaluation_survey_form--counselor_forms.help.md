@@ -1,11 +1,3 @@
-<thinking>
-
-We are creating a help guide for the Evaluation Survey Form, a critical component of our organization's data collection process. This form is designed to capture detailed information about an individual's educational background, including their school experience, quality of education, and graduation-related details. The form is essential for understanding the demographics and experiences of our audience, which will help us refine our services and improve overall performance.
-
-Before proceeding, ensure you have not completed this form previously. If you have already submitted this form, please do not submit it again to avoid duplication of data.
-
-</thinking>
-
 # Evaluation Survey Form - Help Guide
 ## Purpose
 

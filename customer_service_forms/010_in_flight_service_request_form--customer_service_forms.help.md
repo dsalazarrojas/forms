@@ -1,7 +1,3 @@
-<thinking>
-To create this form, we considered industry standards and best practices to ensure clarity and accessibility in the user interface and data submission process. However, we must acknowledge that without access to actual customer service context and feedback, some form elements might not be perfectly aligned with business rules or specific business needs. This form is a generated, AI-based representation of a form designed to be general and adaptable.
-</thinking>
-
 # in_flight_service_request_form - Help Guide
 ## Purpose
 The in_flight_service_request_form is a digital form used to capture customer information and feedback on in-flight services. This form aims to collect relevant data to improve the customer service experience.

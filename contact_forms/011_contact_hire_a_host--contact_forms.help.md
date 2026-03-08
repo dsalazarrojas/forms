@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from potential customers about their hosting needs, including their name, email address, preferred hosting plan, estimated monthly traffic, specific requirements, and whether they need assistance with migration. This form is used to quickly and easily contact the hosting service team for inquiries and requests.
-
-This form should not be used for existing customers to contact the team, as there are other dedicated channels for them to do so. 
-
-</thinking>
-
 # Contact Hire A Host - Help Guide
 ## Purpose
 This form is designed to provide quick and easy contact with the hosting service team for inquiries and requests about hosting services. It gathers essential information about the customer's needs, allowing the team to efficiently address their concerns and provide personalized support.

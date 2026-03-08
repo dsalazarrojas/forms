@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect general information from the tax preparation virtual client, including demographic data, income and investment information, and tax filing status. This form is intended for new clients and is meant to be a starting point for further consultation and tax preparation services. It's recommended that each field is filled in accurately and honestly to ensure a smooth tax preparation process. This information may be used to provide personalized tax services and may be stored as part of the client's file for future reference. Please ensure that all required fields are filled in correctly to avoid delays in the tax preparation process.
-
-</thinking>
-
 # Tax Preparation Virtual Client Intake Form - Help Guide
 ## Purpose
 The Tax Preparation Virtual Client Intake Form is designed to collect information from new clients to provide personalized tax preparation services.

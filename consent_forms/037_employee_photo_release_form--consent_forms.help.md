@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request employee consent for their photo to be taken and released for various purposes. This form is used to get consent from employees for their photo to be used internally or externally for the company. The form is usually completed by an employee in advance of having their photo taken. It is a required field to get the correct consent before taking the photo.
-</thinking>
-
 # Employee Photo Release Form - Help Guide
 ## Purpose
 

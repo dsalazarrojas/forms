@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow event hosts to provide acknowledgment and confirmation of their roles and responsibilities in hosting a leadership event. This form is designed to be filled out by event hosts to ensure that they understand their duties and commit to fulfilling them. It helps to streamline the process of organizing and executing leadership events by getting the host to explicitly acknowledge their responsibilities, making it easier for organizers to coordinate and promote the event. This form should only be filled out by event hosts, and not by event co-hosts or organizers. 
-</thinking>
-
 # Leadership Event Host Acknowledgment - Help Guide
 ## Purpose
 The Leadership Event Host Acknowledgment form is used to gather information from event hosts about their roles and responsibilities in hosting a leadership event. This form ensures that event hosts understand their duties and commit to fulfilling them.

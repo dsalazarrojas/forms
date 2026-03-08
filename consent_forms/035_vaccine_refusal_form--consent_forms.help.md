@@ -1,18 +1,3 @@
-<thinking>
-This form is used to document a patient's refusal to receive a vaccine. It is a medical form that captures relevant information about the patient's medical history, allergies, and other health factors that may impact their decision to get vaccinated. The form is designed to be completed by a healthcare professional or the patient themselves.
-
-To complete this form, follow these steps:
-
-1. The form is divided into sections that cover different aspects of the patient's medical history and vaccination status. Please answer the questions in each section accurately and completely.
-2. In the "Patient Information" section, enter the patient's basic contact information and demographic details.
-3. The "Medical History" sections will ask you to select any medical conditions that the patient has been diagnosed with. This is an important part of understanding the patient's overall health status.
-4. In the "Medications" and "Medical Tests" sections, you will select any medications or tests that the patient is currently undergoing or has undergone.
-5. The "Allergies" section will ask you to indicate any allergies the patient has.
-6. In the "Emergency Contact" section, please select the person who should be contacted in case of an emergency.
-7. Finally, please indicate whether the patient has signed the form by selecting "True" or "False" in the "Signature" section and entering the date of signing in the "Signature Date" section.
-
-</thinking>
-
 # Vaccine Refusal Form - Help Guide
 ## Purpose
 This form is used to document a patient's refusal to receive a vaccine, taking into account their medical history, allergies, and other health factors.

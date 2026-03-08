@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect contact information from block captains in the neighborhood. 
-The purpose of this form is to allow users to provide their contact details to the block captain, which can help the block captain to reach them more efficiently. This form is typically filled out by the user when they are in need of assistance or want to report an issue in their neighborhood.
-Before filling out this form, please ensure that you haven't already provided the information to the block captain and that you are providing accurate and up-to-date contact details.
-
-</thinking>
-
 # neighborhood_contact_form - Help Guide
 ## Purpose
 The neighborhood_contact_form is a contact form for block captains in the neighborhood. It allows users to provide their contact details, such as their name, phone number, and email, to the block captain for efficient communication.

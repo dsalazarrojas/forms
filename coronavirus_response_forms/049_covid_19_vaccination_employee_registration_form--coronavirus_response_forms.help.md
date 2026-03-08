@@ -1,14 +1,3 @@
-<thinking>
-Before we dive into the help guide, let me confirm that this form is designed for employees to register for COVID-19 vaccination and provide necessary information for vaccine administration. This form aims to collect details such as name, contact information, medical history, and vaccination preferences.
-
-To avoid duplication, this form will not ask for information already provided in other HR systems or forms. If you have already registered for the COVID-19 vaccination, you will not be able to access this form again.
-
-Please note that some fields have specific instructions or requirements, such as date formats or selection options. Ensure you follow these guidelines to provide accurate and complete information.
-
-This guide will walk you through each field in the form, explaining its purpose and requirements to help you complete it accurately and efficiently.
-
-</thinking>
-
 # COVID 19 Vaccination Employee Registration Form - Help Guide
 ## Purpose
 The COVID 19 Vaccination Employee Registration Form is designed to collect essential information from employees to register for the COVID-19 vaccination program. This form helps ensure that your vaccination information is up-to-date and accurate for administration and follow-up purposes.

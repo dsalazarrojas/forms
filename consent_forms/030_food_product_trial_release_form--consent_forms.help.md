@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants before a food product trial, ensuring that they have the necessary consents and details in place for the trial to proceed. The form should be completed by each participant before the trial begins, and it serves as a safeguard against potential issues that may arise during or after the trial. To prevent duplication, this form is intended to be filled out by each participant only once, at the start of the trial.
-
-</thinking>
-
 # Food Product Trial Release Form - Help Guide
 ## Purpose
 The Food Product Trial Release Form is a critical document that ensures participants have provided necessary consents and details before participating in a food product trial. It helps prevent potential issues and ensures a smooth trial process.

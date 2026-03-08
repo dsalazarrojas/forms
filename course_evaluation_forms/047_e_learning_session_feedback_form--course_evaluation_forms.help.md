@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from participants about the E Learning session they recently attended. The purpose of this form is to gather insights on how well the session met their expectations, what they liked or disliked about it, and suggestions for improvement. It is recommended to complete this form after every session to provide timely and actionable feedback that can help us improve the learning experience.
-
-</thinking>
-
 # E Learning Session Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback about the E Learning session, including ratings and suggestions for improvement.

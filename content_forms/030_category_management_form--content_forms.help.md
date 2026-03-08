@@ -1,8 +1,3 @@
-<thinking>
-The Category Management Form is a tool used to manage categories within an e-commerce platform, content management system (CMS), or digital library. The form allows users to create, update, or deactivate categories, as well as set up relationships between categories.
-To ensure that category management actions are accurate and consistent, it's essential to follow the correct process. The form requires users to select the type of management action they want to perform, such as creating a new category or updating an existing one. They also need to specify the target system, category name, category description, visibility status, and other relevant details. The form's fields are designed to guide users through this process, making it easier for them to manage categories effectively.
-</thinking>
-
 # Category Management Form - Help Guide
 ## Purpose
 The Category Management Form is a tool for managing categories within an e-commerce platform, CMS, or digital library. It allows users to create, update, or deactivate categories and set up relationships between them.

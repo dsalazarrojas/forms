@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students and their guardians regarding a virtual field trip. The form is likely used for school administrators to obtain necessary contact information and details about the trip in order to plan and execute the virtual field trip smoothly. The form is likely used to ensure that students have parental consent and emergency contact information in case of an emergency. The fields on this form are likely used to capture student and guardian contact information, trip details, and emergency contact information.
-</thinking>
-
 # Virtual Field Trip Permission Form - Help Guide
 ## Purpose
 This guide is intended to help you complete the Virtual Field Trip Permission Form accurately and efficiently.

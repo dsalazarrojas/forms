@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for the purpose of obtaining consent from patients for blood component administrations. The form is designed to ensure that patients have a clear understanding of the procedure, potential risks and benefits, and their rights as a patient. 
-
-Before proceeding, please ensure you are not duplicating any previously submitted forms. The form is intended to be completed by a patient and a healthcare provider, who should sign the form as a witness to confirm that the patient has provided informed consent.
-
-</thinking>
-
 # Blood Component Administration Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid Pre Appointment Questionnaire - Help Guide
 
 ## Purpose

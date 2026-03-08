@@ -1,5 +1,3 @@
-<thinking>This form is for collecting contact information from users. The form is used to gather data from users who want to reach out to the organization. This form is not a duplicate of any other form, and the purpose is to provide a simple and clear way for users to get in touch. The form is designed with a vanilla theme, which means it has a clean and minimalistic design. The form has multiple fields that are used to collect different types of information from the user, including their name, email, phone number, reason for contact, message, and subscription preferences. Each field is carefully crafted to be easy to understand and fill out. This form is intended for users who are not familiar with forms and want to submit their contact information in a simple and hassle-free way. </thinking>
-
 # Contact Form With Vanilla Theme - Help Guide
 ## Purpose
 This form is designed to collect contact information from users in a simple and clear way. It's intended for users who want to get in touch with the organization and need help or want to ask a question or provide feedback.

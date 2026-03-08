@@ -1,7 +1,3 @@
-<thinking>
-We are developing a Virtual Reality (VR) Therapy Evaluation Consent Form to help clients understand the purpose and process of our Virtual Reality Therapy (VRT) program. This form ensures that clients are aware of the therapy's benefits and risks, as well as their rights and responsibilities. By completing this form, clients can provide informed consent, which is a crucial aspect of any therapy. This form will be used to record and evaluate client consent, ensuring that we are respecting client autonomy while providing a safe and effective treatment experience.
-</thinking>
-
 # Virtual Reality Therapy Evaluation Consent Form - Help Guide
 ## Purpose
 The Virtual Reality Therapy Evaluation Consent Form is a document that clients must complete to provide informed consent before participating in our Virtual Reality Therapy (VRT) program. This form helps clients understand the benefits and risks of the therapy, as well as their rights and responsibilities.

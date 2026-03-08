@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals or organizations affected by the COVID-19 pandemic, in order to better understand their experiences and gather data on how the pandemic has impacted them. This information will help us assess the effectiveness of our response and identify areas for improvement. Please ensure that the information provided is accurate and relevant to your experiences.
-
-To complete this form, start by providing your personal contact information, including your full name, email address, and phone number. Next, select the type of complaint or feedback you are submitting, such as a complaint, compliment, suggestion, or question. Choose the category that best describes the complaint or feedback, and provide a brief summary and detailed description of the incident or observation. If applicable, also provide the date and location of the incident. Then, assess the impact on your personal and business level, and indicate whether you have evidence or documentation to support your claim. Finally, let us know if you want to be contacted for follow-up and prefer to be contacted through email, phone, or in-person.
-
-</thinking>
-
 # COVID 19 Pandemic Complaints Survey - Help Guide
 
 ## Purpose

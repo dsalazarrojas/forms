@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # promotional_email_consent_form - Help Guide
 ## Purpose
 This form is used to obtain user consent for promotional emails. It allows users to control what type of promotional emails they want to receive, including the frequency and content of those emails.

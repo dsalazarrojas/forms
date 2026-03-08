@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for consulting talent partnership contacts. The purpose of this form is to collect information from potential partners about their contact information, partnership interests, and follow-up preferences. This form will help us understand the contact's full name, organization, email address, phone number, and role in the organization. We also want to know the area of partnership interest, desired project timeline, summary of the need, and follow-up preferences to provide better support and guidance. By filling out this form, the contact will get the most relevant information to help us tailor our service to their specific requirements.
-</thinking>
-
 # Consulting Talent Partnership Contact Form - Help Guide
 
 ## Purpose

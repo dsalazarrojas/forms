@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for guests who are requesting a digital consultation with the service provider. The purpose of this form is to collect the necessary information about the guest, including their contact information, service details, and terms and conditions acknowledgement. Before filling out this form, please ensure you have the necessary information and permissions to proceed. Please be cautious not to duplicate your submission, as this will affect the service quality and provider's resources.</thinking>
-
 # New Guest Digital Consultation Form - Help Guide
 ## Purpose
 This form is for guests to request a digital consultation with the service provider. It helps the provider understand the guest's requirements and preferences, ensuring a personalized experience.

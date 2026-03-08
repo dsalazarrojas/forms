@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning:**
-
-To create a user-facing help guide for the "Hair Volume Root Boost" consent form, I'll first analyze the provided YAML structure. The form is divided into pages, with each page containing a field with a label, hint, type, and options (if applicable). The form's purpose is to collect client details, contact information, medical information, signed consent, and client signature. The form is designed to be filled out by clients or patients, likely for medical or beauty-related services.
-
-</thinking>
-
 # Hair Volume Root Boost Consent Form - Help Guide
 
 ## Purpose

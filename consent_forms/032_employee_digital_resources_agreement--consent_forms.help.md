@@ -1,5 +1,3 @@
-<thinking>...The "employee_digital_resources_agreement" form is a crucial document for tracking and managing employee digital resources. This form helps to ensure that employees have access to the necessary devices and equipment to perform their job duties efficiently. By filling out this form, employees can request devices for work-related purposes, and managers can track and verify the resources assigned to their team members. The form's sections and fields are designed to provide a clear and streamlined process for both employees and managers to access and track digital resources... </thinking>
-
 # employee_digital_resources_agreement - Help Guide
 ## Purpose
 The "employee_digital_resources_agreement" form is used to request and manage digital resources for employees.

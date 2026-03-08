@@ -1,7 +1,3 @@
-<thinking>
-To create this help guide, we'll follow the structure you provided: a brief introduction, explanation of form purpose, step-by-step instructions, and field-by-field explanations. Since the form is called "School Service Commission Form" and has six pages, I assume it's related to collecting information from students or staff in a school setting. However, without explicit information about the form's purpose, I'll keep the explanation neutral and focus on the fields provided. Please review and adjust as needed.
-</thinking>
-
 # School Service Commission Form - Help Guide
 ## Purpose
 This form is a generic form used to collect information, likely from students or staff, in a school setting. The form has six pages, each containing a text field.

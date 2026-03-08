@@ -1,13 +1,3 @@
-<thinking>
-
-We're designing a form that assesses the luxury customer experience, and we want to make sure it's clear and intuitive for our users to understand its purpose and how to fill it out. This form will help us identify areas where we excel and where we can improve our service standards, customer satisfaction, and overall luxury experience. 
-
-Our goal is to gather honest and constructive feedback from our customers, which will enable us to refine and tailor our services to better meet their needs and exceed their expectations. 
-
-Let's review the form's components to ensure we're not duplicating any effort and that each field aligns with our desired outcomes.
-
-</thinking>
-
 # Luxury Customer Experience Audit Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and assess the luxury customer experience, helping us identify areas of improvement and refinement. It's essential to provide honest and constructive insights from our customers to enhance their experience with us.

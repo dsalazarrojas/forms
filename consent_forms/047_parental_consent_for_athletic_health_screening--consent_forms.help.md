@@ -1,5 +1,3 @@
-<thinking>... checking for relevance and non-duplication of this form, the purpose of this form is to obtain parental consent for an athletic health screening. This is a standard procedure to ensure the health and safety of participating students. The form will be completed by the parents/guardians of the student. The form will not be duplicated in any other system or database, ensuring data integrity...</thinking>
-
 # Parental Consent For Athletic Health Screening - Help Guide
 ## Purpose
 This form is used to obtain parental consent for an athletic health screening, ensuring the health and safety of participating students. It is a crucial step to ensure that students with certain medical conditions or health concerns are not put at risk during athletic activities.

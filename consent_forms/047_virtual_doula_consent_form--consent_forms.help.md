@@ -1,5 +1,3 @@
-<thinking>This form is designed to capture essential information from clients about their virtual doula experience. The form is structured into different sections to ensure that clients provide the necessary details about themselves, their birth plan, and other relevant information. To ensure accurate and comprehensive data collection, each field is carefully labeled, and required fields are marked as such. This form will be used to facilitate clear communication between the client and the virtual doula, and to ensure that all necessary information is collected before the start of the virtual doula experience.</thinking>
-
 # Virtual Doula Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent and gather essential information from clients about their virtual doula experience. It is designed to ensure a smooth and safe experience for both the client and the virtual doula.

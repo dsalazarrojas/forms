@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect detailed contact information for a child, including their name, date of birth, home address, and contact details for primary and secondary points of contact. This information will be used for internal purposes, such as communication and identification. To ensure accuracy, please fill out the form completely and correctly. Note that some fields are marked as required, which means they must be filled out to submit the form.
-</thinking>
-
 # Child Contact Details Submission Form - Help Guide
 ## Purpose
 This form is used to collect and record the contact details of a child, including their name, date of birth, home address, and contact information for primary and secondary contacts. The collected information will be used for internal purposes such as communication and identification.

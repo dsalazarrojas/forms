@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help customers evaluate their experience with the staff of a fitness gym. The purpose of this form is to collect feedback on how well the staff interacted with the customer, their quality of service, and overall satisfaction with the staff's performance. This feedback will help the gym management to identify areas of improvement and make necessary changes to provide better service to its customers.
-
-Before completing this form, please ensure that you have interacted with the staff of the gym and have an honest opinion about their performance. It is essential to answer the questions based on your genuine experience and not compare it with others.
-
-Please note that the form is not a survey, and there are no right or wrong answers. The purpose is to gather your personal opinion and suggestions, which will be used to improve the gym's services.
-
-</thinking>
-
 # gym_staff_courtesy_evaluation_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on your interaction with the staff of the gym, including their quality of service, punctuality, and overall satisfaction.

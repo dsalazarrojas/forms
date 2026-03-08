@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information for a geology course. This form should only be used by users who are registering for a geology course and have not already done so in the past year. If a user has already registered for a geology course in the past year, they should not fill out this form.
-</thinking>
-
 # Geology Course Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information for a geology course.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed for supervisors to evaluate the mental health and performance of their team members. The evaluation is meant to help supervisors identify areas of concern and provide feedback that promotes personal and professional growth. Before starting the evaluation, supervisors should confirm that they have reviewed the relevant policies and procedures related to mental health and performance evaluation, and that they have not already conducted an evaluation for the same employee within the past 30 days.</thinking>
 
 # mental_health_evaluation_form_for_supervisors - Help Guide

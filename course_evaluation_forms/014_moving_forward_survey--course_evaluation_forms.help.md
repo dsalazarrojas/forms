@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Moving Forward Survey" form, we need to understand the purpose of the form and the context in which it will be used. The form is likely used for self-assessment and feedback mechanisms within a company or organization, allowing employees to reflect on their progress, set goals, and provide feedback to their managers and colleagues.
-
-This guide will aim to provide a clear and concise explanation of the form's purpose, how to complete it, and a detailed breakdown of each field. Please note that the form's purpose and fields may require adaptation based on the specific context and requirements of the organization.
-
-</thinking>
-
 # Moving Forward Survey - Help Guide
 ## Purpose
 The Moving Forward Survey is a self-assessment and feedback tool designed to help you reflect on your progress, set goals, and provide feedback to your manager and colleagues. This guide will walk you through the form's structure and explain each field in detail.

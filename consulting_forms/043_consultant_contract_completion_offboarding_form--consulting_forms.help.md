@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide for the Consultant Contract Completion Offboarding Form, I'd like to briefly discuss the form's purpose and relevance. This form appears to be a comprehensive offboarding process for consultants, covering various aspects such as identification, documentation, financials, and feedback. The form aims to ensure a smooth transition between the consultant and the company, verifying that all tasks are completed, credentials are revoked, and final submissions are made. It's crucial to understand that this form is not a one-size-fits-all solution and might require customization based on the specific consultant's needs and company policies.</thinking>
-
 # Consultant Contract Completion Offboarding Form - Help Guide
 
 ## Purpose

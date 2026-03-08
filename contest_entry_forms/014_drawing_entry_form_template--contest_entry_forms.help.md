@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about a drawing contest. The purpose of this form is to gather data on a drawing contest, including details about the contest's title, location, and rules. This form is used to create a new drawing contest entry.
-
-To avoid duplication and ensure that the form is used correctly, please note that:
-
-* This form is intended for creating a single drawing contest entry.
-* The form should not be used to create multiple entries for the same contest.
-* The form requires valid email addresses for the winner to be notified about the contest.
-
-</thinking>
-
 # Drawing Entry Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about a drawing contest, including details about the contest's title, location, and rules.

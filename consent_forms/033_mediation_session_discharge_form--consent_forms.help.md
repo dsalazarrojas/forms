@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mediation Session Discharge Form - Help Guide
 ## Purpose
 The Mediation Session Discharge Form is used to document the outcomes and feedback from a mediation session. It helps to provide a clear and concise record of the session, allowing for better communication and follow-up with participants. This form is usually completed by the participant after a mediation session.

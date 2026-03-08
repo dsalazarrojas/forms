@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect contact and agreement information from a client or subject for a portrait photography session. It is likely used by a photography studio or a photographer to ensure that all necessary details are covered before proceeding with the session.
-
-To avoid duplication, this form should not be used for other purposes than portrait photography sessions.
-
-The purpose of this form is to gather essential information and ensure that both the client and the photographer are on the same page before, during, and after the session.
-
-The form will guide the user through the necessary fields to complete the agreement and ensure that all necessary information is collected.
-</thinking>
-
 # Portrait Photography Contract Form - Help Guide
 ## Purpose
 The Portrait Photography Contract Form is designed to collect contact and agreement information from a client or subject for a portrait photography session. This form helps ensure that all necessary details are covered before, during, and after the session.

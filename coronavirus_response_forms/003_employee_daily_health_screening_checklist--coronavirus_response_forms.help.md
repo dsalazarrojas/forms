@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's confirm that we're creating a user-facing guide for the "Employee Daily Health Screening Checklist" form. This form is designed to help employees self-report their health status, particularly concerning symptoms related to COVID-19. We'll cover the form's purpose, how to complete it, and each field's explanation to ensure end-users understand its intent and can use it effectively. We'll also confirm that there's no duplication or redundancy in the fields, as the form seems to be well-structured and concise.</thinking>
-
 # Employee Daily Health Screening Checklist - Help Guide
 ## Purpose
 The purpose of this form is to quickly and easily help employees report their health status, specifically regarding symptoms related to COVID-19. This allows the organization to monitor the health of employees and take necessary precautions to maintain a safe work environment.

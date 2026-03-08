@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect new customer details for Oliana Foods, likely for internal customer relationship management (CRM) or customer service purposes. The form is designed to gather essential information from customers, including their name, contact details, and order-related information. This information will help the company maintain accurate records and provide efficient customer service. The form should not be used for duplicate or existing customer information, as this may lead to data duplication and inconsistencies in the system.
-</thinking>
-
 # New Customer Details Form Oliana Foods - Help Guide
 ## Purpose
 The New Customer Details Form is used to collect essential information from new customers. This form is designed for internal use and helps our customer service team to efficiently manage customer relationships and provide accurate information.

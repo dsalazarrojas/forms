@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to provide customers with a platform to report any issues or concerns they may have with their retail delivery. It is intended to collect relevant information about the delivery issue, including the customer's contact information and a detailed description of the problem. This form should only be used by customers who are experiencing issues with their retail delivery. 
-
-</thinking>
-
 # Retail Delivery Support Contact Form - Help Guide
 ## Purpose
 This form is for customers to report issues or concerns related to their retail delivery. Use this form to provide detailed descriptions of the problems you are experiencing and any relevant information that may help us resolve the issue.

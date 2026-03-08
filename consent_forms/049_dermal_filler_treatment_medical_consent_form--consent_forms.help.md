@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect medical consent and information from patients before dermal filler treatment. Before proceeding, ensure this form is not being duplicated or used for other purposes. This form is meant to be used for medical purposes only and should not be modified or altered in any way. Ensure that you are using the latest version of this form and that it is reviewed and approved by relevant medical personnel.
-</thinking>
-
 # Dermal Filler Treatment Medical Consent Form - Help Guide
 
 ## Purpose

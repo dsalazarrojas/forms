@@ -1,8 +1,3 @@
-<thinking>
-This is a form for customers to submit their queries or feedback to the customer service team. The form is designed to be simple and straightforward, allowing customers to provide their contact information, details of their query, and the message they want to communicate. This form is meant for customers to reach out to the service team with their issues or concerns. It is not meant for any other purpose.
-
-</thinking>
-
 # customer_service_form - Help Guide
 ## Purpose
 The customer_service_form is a tool for customers to submit their queries or feedback to the customer service team.

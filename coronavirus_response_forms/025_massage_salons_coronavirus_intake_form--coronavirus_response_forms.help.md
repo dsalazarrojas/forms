@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for collecting information from massage salons to help assess and manage the risk of coronavirus (COVID-19) transmission. The form aims to gather details about client and salon interactions, as well as any potential symptoms or exposure risks. The data collected will be used to inform public health responses and provide guidance for the massage industry. 
-
-To ensure the form is completed accurately and effectively, please review each field carefully and provide all relevant information as required. If you have any concerns or questions, please reach out to your local health authority or medical professional.
-
-</thinking>
-
 # Massage Salons Coronavirus Intake Form - Help Guide
 
 ## Purpose

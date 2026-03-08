@@ -1,12 +1,3 @@
-<thinking>
-
-To create this form, we need to consider a few things:
-- We're building a form for a contest where participants can enter a "Holiday Payback Contest" to win prizes. 
-- The form will ask for basic information about the participant such as name, email, and phone number. 
-- The form will require a participant story, a date and time entry, and will give the participant a choice of prize types to select from. 
-- We don't want to require the participant to enter this form more than once, so we will make the form non-duplicable.
-</thinking>
-
 # Holiday Payback Contest Entry - Help Guide
 ## Purpose
 The Holiday Payback Contest Entry form is for participants to submit their entry for the holiday contest. This form gathers information about the participant, their story, and their entry details.

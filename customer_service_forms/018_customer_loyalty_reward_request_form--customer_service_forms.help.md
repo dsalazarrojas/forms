@@ -1,5 +1,3 @@
-<thinking>...The form is meant to be filled out by customers to request loyalty rewards, providing necessary information such as customer preferences, contact details, and reward preferences. This form will help us understand their loyalty preferences and contact methods for communication and reward distribution. Please ensure you are only submitting this form if you have not submitted it before. If you are unsure or have submitted before, please contact customer service for assistance...</thinking>
-
 # Customer Loyalty Reward Request Form - Help Guide
 
 ## Purpose

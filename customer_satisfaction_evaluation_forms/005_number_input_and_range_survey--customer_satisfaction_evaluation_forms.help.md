@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather customer feedback on their experience with the service, specifically on the number of times they've used it, their satisfaction level, price expectation, and other relevant metrics. The form is meant to be a quick and straightforward way to collect data that can inform future service improvements.
-</thinking>
-
 # Number Input And Range Survey - Help Guide
 ## Purpose
 This form is intended to collect customer feedback on their experience with the service, including how many times they've used it, their satisfaction level, price expectation, and other related metrics.

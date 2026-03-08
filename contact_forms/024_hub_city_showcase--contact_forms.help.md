@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a person's showcase in a hub city, likely for a sports or talent management application. The form collects various details such as name, contact information, emergency contact, and team or player information. This form is likely used by a team or management staff to track and manage their team members. Please note that the form's purpose and fields are quite diverse and may not be comprehensive for a specific use case, so this guide will cover the most likely scenarios.
-</thinking>
-
 # hub_city_showcase - Help Guide
 ## Purpose
 The hub_city_showcase form is used to collect information about a person's showcase in a hub city. This form is used to gather details such as name, contact information, emergency contact, and team or player information. This information can be used by a team or management staff to track and manage their team members.

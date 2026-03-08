@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who want to enter a beer tasting tournament. The form is intended for individuals who are at least 21 years old and want to participate in one or more rounds of the tournament. The form asks for personal details like name, email, and phone number, as well as demographic information like age, date of birth, and address. It also includes fields for emergency contacts, transportation methods, and dietary restrictions. The form requires participants to acknowledge their understanding of the risks associated with alcohol consumption and agree to a liability waiver. Additionally, it asks participants to indicate their preferred event date and whether they have paid the entry fee. Lastly, the form asks how participants heard about the event and includes space for additional comments.
-It's essential to ensure that this form is used only for its intended purpose and not duplicated for other events. If you need to use this form for another purpose or event, you should carefully review and adapt it according to your specific needs to avoid any potential issues or liabilities.
-</thinking>
-
 # Beer Tasting Tournament Entry Form - Help Guide
 ## Purpose
 The Beer Tasting Tournament Entry Form is designed to collect necessary information from participants who want to enter a beer tasting tournament. This form helps the organizers ensure that participants meet the age requirement and understand the event's rules and regulations.

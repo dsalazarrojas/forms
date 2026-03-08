@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Halloween Party - Help Guide
 ## Purpose
 This form is designed to collect basic contact information from individuals who are interested in attending the Halloween Party. It is intended to capture a person's name, email, phone number, date of birth, and physical address.

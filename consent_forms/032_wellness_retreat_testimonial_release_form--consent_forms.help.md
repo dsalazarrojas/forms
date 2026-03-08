@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # wellness_retreat_testimonial_release_form - Help Guide
 
 ## Purpose

@@ -1,17 +1,3 @@
-<thinking>
-This form is used to grant or revoke access to website content for specific users or organizations. The purpose of this form is to manage access control and ensure that users and organizations have the necessary permissions to access specific content on the website. 
-
-To complete this form, follow these steps:
-
-- Determine the type of access you want to grant: "User" or "Organization".
-- Select the access level: "Low", "Medium", or "High".
-- Enter the user or organization's ID.
-- If applicable, enter the valid date and time until which the access is granted or revoked.
-- Add any additional comments or notes if necessary.
-- Select "Submit" to complete the form.
-
-</thinking>
-
 # Website Content Access Authorization Form - Help Guide
 ## Purpose
 This form is used to grant or revoke access to website content for specific users or organizations.

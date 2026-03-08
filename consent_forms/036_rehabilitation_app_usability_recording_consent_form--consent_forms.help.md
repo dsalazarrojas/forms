@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the consent and demographic information of participants in a usability testing session for a rehabilitation app. The purpose of this form is to collect relevant details about the participant, such as their contact information and recording preferences, to ensure a smooth and productive testing experience. Before proceeding, please ensure that you have not completed this form previously or have any other relevant consent form, as this will help us to avoid duplication of efforts and ensure accurate recording. This form should only be used for participants who have not previously given consent or have given consent with incomplete or inaccurate information.
-</thinking>
-
 # Rehabilitation App Usability Recording Consent Form - Help Guide
 
 ## Purpose

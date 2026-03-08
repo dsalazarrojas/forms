@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to report lost packages and provide details about the incident. It helps the shipping company to track and investigate the issue efficiently. To ensure accurate and complete submissions, we recommend that customers fill out the form only if their package is actually lost and not just delayed. If a customer has already filed a complaint, please do not submit this form multiple times.
-</thinking>
-
 # Lost Package Complaint Form - Help Guide
 
 ## Purpose

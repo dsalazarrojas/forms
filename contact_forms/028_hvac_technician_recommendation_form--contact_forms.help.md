@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from HVAC technicians about their recommendation for a customer or client. The form is not required, but it's meant to be filled out by a technician when they encounter a situation that they think would benefit from a recommendation. The purpose is to gather details about the company, the technician's involvement, their recommendation, contact information, and any additional comments or submission. This form is not part of a formal submission process but rather an informal note from the technician to the company.
-</thinking>
-
 # hvac_technician_recommendation_form - Help Guide
 ## Purpose
 The hvac_technician_recommendation_form is a voluntary form to collect feedback from HVAC technicians about their recommendation for a customer or client. It's meant to be filled out when a technician encounters a situation that they think would benefit from a recommendation.

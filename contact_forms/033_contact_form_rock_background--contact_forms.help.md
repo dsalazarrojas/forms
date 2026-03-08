@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture visitor contact information and inquiry details, allowing the website visitors to send a message or ask a question. This form is intended to be used for general contact purposes, and not for specific business transactions or technical support. Please use this form responsibly and only for its intended purpose. To avoid duplication, please do not submit multiple inquiries on the same topic.
-</thinking>
-
 # Contact Form Rock Background - Help Guide
 ## Purpose
 The purpose of this form is to provide a platform for visitors to contact the website administrators with their thoughts, questions, or messages.

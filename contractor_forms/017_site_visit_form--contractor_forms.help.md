@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect data on site visits, which are crucial for monitoring and maintaining a site's status. Site visits are a necessary process to ensure that the project is progressing as planned and to identify any potential issues or concerns. The form will help in tracking site visit details, including locations, dates, times, notes, and other relevant information. This guide will walk you through each field to help you complete the form accurately and efficiently.
-
-Before starting, please ensure that you have read and understand the purpose and scope of this form. If you are unsure about any field, please clarify with the relevant team members or the project manager.
-
-</thinking>
-
 # Site Visit Form - Help Guide
 ## Purpose
 The Site Visit Form is designed to collect site visit information, which is essential for monitoring and maintaining a site's status. This form helps in tracking site visit details, such as location, date, time, notes, and other relevant information.

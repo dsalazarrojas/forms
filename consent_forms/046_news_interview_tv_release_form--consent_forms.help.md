@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain the participant's consent for a TV interview and gather essential information for the shoot. The participant's email and phone number are required to facilitate communication and coordination. The shoot date and time are also crucial for planning and preparation. The location of the shoot is necessary for safety and logistical purposes. This form should only be used for TV interview shoots and not for other types of interviews or releases.
-</thinking>
-
 # News Interview TV Release Form - Help Guide
 ## Purpose
 This form is used to obtain the participant's consent for a TV interview and gather essential information for the shoot.

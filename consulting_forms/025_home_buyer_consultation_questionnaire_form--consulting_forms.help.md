@@ -1,5 +1,3 @@
-<thinking>... this form is intended to collect information from home buyers to provide a comprehensive understanding of their needs and preferences. This form will help us to better understand what they are looking for in a home. Each field in the form is designed to gather specific details that will be used to tailor our services to meet their needs. This guide will walk you through each field and its purpose to ensure you understand what we need from you... </thinking>
-
 # Home Buyer Consultation Questionnaire Form - Help Guide
 ## Purpose
 

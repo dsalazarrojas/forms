@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Draw Form For Gamers" seems to be related to a contest or game-related event, possibly a drawing or art contest. The fields suggest that the form is designed to collect information about users, their preferences, and entries in the contest. The fields include user name, email, Twitch channel, Discord user, entry message, entry choice, entry time, entry date, entry type, entry status, confirm entry, confirm date, confirm time, assigned tool, form ID, form version, description, title, category, output file, and assigned tool. The fields are divided into two main categories: user information (e.g., user name, email, Twitch channel, Discord user) and contest-related fields (e.g., entry message, entry choice, entry time, entry date, entry type, entry status, confirm entry, confirm date, confirm time). The form seems to be designed to allow users to submit their entries and confirm their participation in the contest.
-
-To avoid non-duplication, it's possible that this form is used to gather information from users who are entering a contest or game, and the form is used to streamline the entry process and ensure that users have the necessary information to participate.
-
-</thinking>
-
 # Draw Form For Gamers - Help Guide
 ## Purpose
 The Draw Form For Gamers is a contest entry form designed for users to submit their entries and participate in a drawing or art contest. This form collects user information, entry details, and confirmation data to streamline the entry process and ensure that users have the necessary information to participate.

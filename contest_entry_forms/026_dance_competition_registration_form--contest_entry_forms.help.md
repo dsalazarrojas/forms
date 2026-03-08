@@ -1,20 +1,3 @@
-<thinking>
-This form is designed for dancers to register for a dance competition. It is meant to collect information about the dancer, their performance details, contact information, and other relevant details such as emergency contacts and payment methods. This form will be used to create a registration record for each dancer. This form should not be used for other purposes. 
-
-The form will be used for dancers who are competing in the competition, and it will help to gather information about their performance details, such as the performance time and date. The form is required to be filled out completely, including all the fields with an asterisk (*) next to the label. 
-
-Please note that the form is not designed for non-dancers, and the information will be used to manage the competition registrations. 
-
-It seems that the form is designed to collect information from dancers who will be performing in the competition, and it will help to gather information about their performance details and contact information. 
-
-This form will be used for dancers who are competing in the competition, and it will help to gather information about their performance details, contact information, and other relevant details. 
-
-It is assumed that the competition will have a specific level of competition, and the form will help to determine which category and level of competition the dancer is registered in.
-
-The form will be used for dancers to register themselves for the competition, and it will gather information about their performance details, contact information, and other relevant details. 
-
-Please fill out the form completely and accurately to ensure that your registration is correct.</thinking>
-
 # Dance Competition Registration Form - Help Guide
 ## Purpose
 

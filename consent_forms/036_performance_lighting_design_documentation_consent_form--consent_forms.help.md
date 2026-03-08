@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to capture information related to performance lighting design documentation, likely for a company or organization. It seems to be used for managing and tracking permissions and agreements for events, productions, or educational purposes. The form's goal is to ensure that contributors provide their consent for their work to be used in these contexts. The form is likely part of a more comprehensive system for managing intellectual property and usage rights.
-
-The form appears to be a crucial tool for maintaining transparency and accountability within the organization, ensuring that contributors understand how their work will be used and shared. The form's fields suggest that it may be used for various types of events, productions, or educational activities, and that contributors can specify their permission to use their work in different capacities.
-
-It's worth noting that the form is likely used for internal purposes within the organization, as it seems to be focused on managing relationships between the organization and its contributors. This form might be used by event, production, or educational teams within the organization to collect necessary information from contributors.
-</thinking>
-
 # Performance Lighting Design Documentation Consent Form - Help Guide
 ## Purpose
 The Performance Lighting Design Documentation Consent Form is a tool used to capture information from contributors regarding their consent for their work to be used in various contexts such as events, productions, or educational purposes.

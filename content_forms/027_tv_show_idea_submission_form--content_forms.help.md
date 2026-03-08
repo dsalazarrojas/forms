@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect TV show ideas from individuals who wish to submit their ideas for potential development by a media company. The purpose of this form is to gather information about the submitted show ideas, including their title, genre, logline, synopsis, main character, target audience, and optional file upload. The form is intended for internal use within the company and is not affiliated with any other form platforms.
-</thinking>
-
 # TV Show Idea Submission Form - Help Guide
 ## Purpose
 The TV Show Idea Submission Form is a tool for submitting TV show ideas to our company. Please use this form to share your creative ideas with us.

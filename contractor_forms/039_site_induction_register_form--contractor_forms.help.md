@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # site_induction_register_form--contractor_forms - Help Guide
 ## Purpose
 The Site Induction Register Form is a tool used to collect essential information from contractors about their site induction on a given site. This form is designed to ensure that all necessary details are captured accurately and efficiently.

@@ -1,5 +1,3 @@
-<thinking>... The form purpose is to collect information from the client, including their contact details, onboarding information, service agency details, and agreement terms. This form serves as a means to gather data for the service migration process. The form is not intended for internal use only, so it's essential to ensure the information is clear and easy to understand for the end user. I will now create a user-facing help guide for this form...</thinking>
-
 # Migration Agent Agreement Form - Help Guide
 ## Purpose
 The Migration Agent Agreement Form is designed to collect information from clients for the service migration process. This form helps us gather essential details to ensure a smooth and successful migration experience.

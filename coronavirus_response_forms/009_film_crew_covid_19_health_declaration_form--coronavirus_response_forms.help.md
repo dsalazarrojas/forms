@@ -1,16 +1,3 @@
-<thinking>
-
-To provide a comprehensive help guide for this form, I need to understand the form's purpose and context. From the provided YAML data, I see that the form is related to COVID-19 health declarations, likely for film crew members. The form seems to be designed to gather general information, medical information, and travel history, among other details. The fields are mostly text inputs, but some fields like 'exposure_risk' and 'declaration_status' have specific labels and options, suggesting they might require more attention in the help guide.
-
-Before writing the help guide, I'd like to confirm the following:
-
-* Is this form primarily used for administrative purposes, such as gathering information from crew members for film production or similar contexts?
-* Are there any specific requirements or guidelines for filling out this form that should be highlighted in the help guide?
-
-Assuming the form is used for administrative purposes and there are no specific requirements or guidelines, the help guide can be written based on the provided YAML data.
-
-</thinking>
-
 # Film Crew COVID 19 Health Declaration Form - Help Guide
 ## Purpose
 This form is designed to gather information from film crew members regarding their COVID-19 health status, travel history, and other relevant details. It's essential to fill out this form accurately and honestly to ensure the well-being of the crew and the successful execution of film productions.

@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's consider the purpose of this form: "Courier Service Driver Agreement". The form seems to be a comprehensive collection of information related to a driver's details, vehicle registration, and personal contact information. It appears to be designed for new drivers or existing drivers updating their information for courier services. The form likely aims to ensure that all necessary details are captured accurately and securely for the company's records and compliance. This form's design and content seem well-structured for its intended purpose. However, some field labels could be improved for better clarity and consistency.</thinking>
-
 # Courier Service Driver Agreement - Help Guide
 ## Purpose
 The Courier Service Driver Agreement form is a collection of personal and vehicle information required for new or existing drivers working with our courier services. It ensures that all necessary details are captured accurately and securely for our records and compliance.

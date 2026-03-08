@@ -1,16 +1,3 @@
-<thinking>
-The form is used for clients to provide information about their business, including contact and company details, services required, and goals. This form is designed to gather specific information from the client to better understand their needs and preferences.
-
-It is recommended that the form is completed in a way that is clear and concise. Please make sure to fill in all the relevant fields to ensure that your application is complete and accurate.
-
-The following are some general tips to keep in mind when filling out the form:
-
-* Please ensure that you fill in your contact information accurately and completely.
-* If you have a specific service in mind, please select the correct option from the services field.
-* Please provide clear and concise information about your goals and objectives.
-
-</thinking>
-
 # Digital Business Optimization Consulting Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients about their business needs and preferences. It is used to provide a clear understanding of the client's requirements and to guide the consulting process.

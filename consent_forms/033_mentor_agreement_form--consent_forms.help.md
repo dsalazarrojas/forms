@@ -1,7 +1,3 @@
-<thinking>
-This form is used for mentors to agree to the terms and conditions of a mentorship program. It's essential to complete this form carefully to ensure you understand your responsibilities and commitments as a mentor. Please review each field carefully to provide the necessary information and make the correct selections. Ensure you answer all required fields, as they are marked as such.
-</thinking>
-
 # Mentor Agreement Form - Help Guide
 ## Purpose
 The Mentor Agreement Form is a mandatory document that outlines the terms and conditions of the mentorship program. By completing this form, you, as a mentor, agree to the program's guidelines and rules. Please read each section carefully and select the correct options to ensure a smooth and productive mentoring experience.

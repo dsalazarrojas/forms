@@ -1,5 +1,3 @@
-<thinking>...this form is used by internal stakeholders to submit a digital management proposal, including a name, email, phone number (optional), uploaded file, proposal title, proposal date, proposal details, proposal attachments, a reviewer, and a review score (yes/no) and review comments. It is required for internal stakeholders to provide feedback on proposal submissions. This form should only be used for submitting new proposals, not for reviewing or updating existing ones. Please ensure you are submitting a new proposal before filling out this form.</thinking>
-
 # digital_management_proposal_submission - Help Guide
 ## Purpose
 The digital management proposal submission form is used to submit a new digital management proposal to internal stakeholders for review.

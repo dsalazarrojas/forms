@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit questions or concerns for further inquiry and action by a support team or team member. This form is designed to collect essential information from users to provide a clear and efficient channel for communication. 
-
-When a user submits a query via this form, it ensures that the relevant support team or team member receives the necessary details to provide timely and effective support. This form is not intended to be a substitute for other forms or channels of communication, such as phone calls, emails, or live chats, but rather an additional resource for users who prefer written communication or require more structured information.
-
-This form is meant to be used for general inquiries only, and users are encouraged to use other channels for urgent or emergency matters.
-
-</thinking>
-
 # Submit Your Question For Q+A - Help Guide
 ## Purpose
 This form allows users to submit questions, concerns, or inquiries to be addressed by a support team or team member. It is designed to provide a structured and efficient way of communicating with the support team.

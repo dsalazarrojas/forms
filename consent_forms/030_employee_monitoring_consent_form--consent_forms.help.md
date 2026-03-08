@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Monitoring Consent Form - Help Guide
 
 ## Purpose

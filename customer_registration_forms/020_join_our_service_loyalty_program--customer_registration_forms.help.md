@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to register customers for our service loyalty program. This form will help us understand the customer's preferences and needs, ensuring we provide the best service experience for them. By registering, customers can enjoy exclusive benefits, priority scheduling, and personalized service.
 
 Before filling out this form, please ensure you're not already registered in our loyalty program. If you're unsure, feel free to ask our customer support for verification.

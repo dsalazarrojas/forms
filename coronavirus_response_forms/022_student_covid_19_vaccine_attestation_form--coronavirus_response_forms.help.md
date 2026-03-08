@@ -1,7 +1,3 @@
-<thinking>
-The Student COVID-19 Vaccine Attestation Form is used for students to provide their personal information and attestation status regarding their COVID-19 vaccination. This form is typically completed by students or their guardians to verify the student's vaccination status. The form requires students to submit their personal details, including their name, email, phone number, date of birth, and vaccination history. Guardians or emergency contacts may also be listed. The form must be completed by the student or their guardian, and it is crucial to ensure that all fields are filled out accurately and completely. Please verify that you are completing the correct form and that your information is up-to-date before proceeding.
-</thinking>
-
 # Student COVID 19 Vaccine Attestation Form - Help Guide
 ## Purpose
 This form is used for students to provide their personal information and attestation status regarding their COVID-19 vaccination.

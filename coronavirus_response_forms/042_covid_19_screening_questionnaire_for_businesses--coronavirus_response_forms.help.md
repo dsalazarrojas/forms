@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from businesses about their potential exposure to COVID-19. The form is used to determine if a business has had any recent symptoms, traveled, or come into contact with anyone who may be infected. This information is used to assess the risk of COVID-19 exposure in the business and provide guidance on necessary precautions. This form should only be filled out by business owners or administrators. Please note that this form is a duplicate of a previous form, and it is recommended to fill out the original form instead.
-</thinking>
-
 # Covid 19 Screening Questionnaire For Businesses - Help Guide
 ## Purpose
 This form is used to gather information from businesses about their potential exposure to COVID-19. It is used to assess the risk of exposure and provide guidance on necessary precautions.

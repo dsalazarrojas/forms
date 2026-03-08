@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mindfulness Program Video Participation Consent Form - Help Guide
 
 ## Purpose

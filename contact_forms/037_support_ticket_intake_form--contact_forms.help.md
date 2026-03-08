@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to intake information from users to create a support ticket. The form is not intended for internal use and should not be used for non-support related issues. It's recommended that users fill this form only if they need assistance with a specific problem or issue. Please ensure that you're not duplicating an existing support ticket before submitting this form.
-</thinking>
-
 # Support Ticket Intake Form - Help Guide
 ## Purpose
 The Support Ticket Intake Form is a tool used to gather information from users to create a support ticket. This form collects essential details about the user, including their name, email, issue description, and support request. The form is designed to help our support team quickly understand the issue and provide a solution.

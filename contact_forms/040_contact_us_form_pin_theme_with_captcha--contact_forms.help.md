@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Us Form Pin Theme With Captcha - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from individuals, likely for military or defense-related purposes. The form is not affiliated with any specific platform and is an original adaptation created using AI. The purpose of this form is to collect multiple contact information fields. The form is not intended for any particular use case, such as surveys or official government forms, and it is recommended to review the form's contents before proceeding. Please ensure this form is not being used for any purpose that would violate any laws or regulations.
-</thinking>
-
 # military_questionnaire_template - Help Guide
 ## Purpose
 The purpose of this form is to collect multiple contact information fields for military or defense-related purposes.

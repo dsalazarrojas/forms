@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to refer a sustainability consultant to a potential client. It is meant to be completed by an internal stakeholder within the organization, who has a relationship with a consultant. The form is used to provide relevant information about the consultant and their expertise to the potential client. When completing this form, ensure that you have the consultant's permission to share their information.
-</thinking>
-
 # Sustainability Consultant Referral Form - Help Guide
 ## Purpose
 This form is used to refer a sustainability consultant to a potential client. It provides the necessary information about the consultant and their expertise to help facilitate a potential collaboration or partnership.

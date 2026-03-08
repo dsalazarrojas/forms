@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # street_art_project_photography_consent_form - Help Guide
 ## Purpose
 This form is for obtaining consent from participants for a street art project photography project. It is intended to gather essential contact information and consent from individuals who have been photographed as part of the project.

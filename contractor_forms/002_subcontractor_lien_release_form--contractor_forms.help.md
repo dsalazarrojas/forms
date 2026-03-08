@@ -1,8 +1,3 @@
-<thinking>
-This form is for use by a subcontractor to release a lien on a project. The form is used to confirm that the subcontractor has received payment in full for the work completed on the project and is releasing their lien on the property. This form should only be completed by the subcontractor who is releasing the lien. The form does not need to be completed for all projects, only for those where the subcontractor has a lien. The subcontractor should only complete this form after they have received payment in full for the work completed. 
-
-</thinking>
-
 # Subcontractor Lien Release Form - Help Guide
 ## Purpose
 This form is used by a subcontractor to release a lien on a project, confirming that they have received payment in full for the work completed.

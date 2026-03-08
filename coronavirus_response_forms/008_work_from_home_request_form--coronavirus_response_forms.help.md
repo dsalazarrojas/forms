@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to support remote work arrangements for employees. The purpose of this form is to collect employee data and dates when they are planning to work from home. This will help management track attendance and adjust schedules accordingly. Please fill this form only if your company has explicitly allowed working from home or you've discussed it with your manager. If you're not sure, please do not submit this form.
-
-</thinking>
-
 # Work From Home Request Form - Help Guide
 ## Purpose
 This form is used to request to work from home for a specific period. Please fill it out if you need to work from home.

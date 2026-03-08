@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow hostesses to claim rewards for their hard work. The form is used for selections, catalog updates, and comments. It may help to identify the intended recipient of rewards, and could be used to determine the type of reward given, such as a gift card or other type of reward. This form may be used in a business setting, likely in a retail or hospitality industry where hostesses are employees or staff members. This form seems to be related to the "customer_service" category and "hostess" industry. There is no duplication or affiliation with other forms or platforms as this is an AI-generated form.
-</thinking>
-
 # UBAM Hostess Rewards - Help Guide
 ## Purpose
 The UBAM Hostess Rewards form is used to allow hostesses to claim rewards for their work. This form is used for selections, updates, and comments related to rewards.

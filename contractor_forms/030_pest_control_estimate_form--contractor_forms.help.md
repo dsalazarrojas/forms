@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pest Control Estimate Form - Help Guide
 ## Purpose
 The Pest Control Estimate Form is used to estimate the total cost of pest control services provided by your company. This form helps you to collect information about the services needed and their corresponding costs, making it easier to create accurate estimates for your customers.

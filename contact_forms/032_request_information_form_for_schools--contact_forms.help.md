@@ -1,7 +1,3 @@
-<thinking>
-This form is for schools to request information from a central point of contact. It is intended for school administrators to submit requests for information that will be reviewed and responded to by the central contact point. The form is not a transactional form, meaning that the user should not expect an immediate response to their request. Instead, the central contact point will review the form and respond at their earliest opportunity.
-</thinking>
-
 # Request Information Form (For Schools) - Help Guide
 ## Purpose
 This form is for schools to request information from a central point of contact. It is designed to allow administrators to submit requests for information that will be reviewed and responded to by the central contact point.

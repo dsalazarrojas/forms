@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a partnership agreement checklist, which is a crucial document for outlining the terms and conditions of a partnership. It helps ensure that both parties involved in the partnership are on the same page and understand their responsibilities and expectations. This form is not meant to be a substitute for legal advice, but rather a tool to help clarify the terms of the partnership. It's essential to review and revise this document carefully to ensure it accurately reflects the specifics of your partnership.
-</thinking>
-
 # Partnership Agreement Checklist - Help Guide
 ## Purpose
 This form is designed to be a partnership agreement checklist, which is a crucial document for outlining the terms and conditions of a partnership.

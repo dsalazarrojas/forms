@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to register for a COVID-19 vaccine event. The form will help us ensure that you have the necessary information to provide a safe and effective vaccination experience. Please note that you will only need to fill out this form once, and you will be asked to confirm the accuracy of your information at the end. 
-</thinking>
-
 # COVID 19 Vaccine Event Registration Form - Help Guide
 ## Purpose
 This form is used to collect participant information for a COVID-19 vaccine event.

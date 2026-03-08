@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for saving data related to customer interactions, such as customer feedback, complaints, or other interactions that require attention from the customer service team. It is essential to complete this form accurately to ensure that the customer service team can address the issue effectively. Please review the form carefully to provide the necessary information.
-
-</thinking>
-
 # Saving - Help Guide
 ## Purpose
 

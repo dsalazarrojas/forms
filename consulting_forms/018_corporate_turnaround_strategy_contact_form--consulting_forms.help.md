@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate_turnaround_strategy_contact_form - Help Guide
 ## Purpose
 The corporate turnaround strategy contact form is designed to gather information from companies seeking guidance on corporate turnaround strategies. The form helps us understand your needs and provides a chance to offer personalized assistance. Please ensure you are only submitting this form once to avoid duplication.

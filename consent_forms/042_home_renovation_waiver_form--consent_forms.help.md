@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the key aspects of the Home Renovation Waiver Form, including its purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Home Renovation Waiver Form - Help Guide
 ## Purpose
 

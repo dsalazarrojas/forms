@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Support Service Consultation - Help Guide
 ## Purpose
 This form is designed to gather information from individuals seeking consultation services from our Community Support Service. The goal is to provide personalized support and guidance to address various needs and challenges that individuals and families may face.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Sustainable Learning Research Feature Consent Form - Help Guide
 =============================================
 

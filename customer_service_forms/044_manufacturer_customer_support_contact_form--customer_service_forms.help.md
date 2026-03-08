@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # manufacturer_customer_support_contact_form - Help Guide
 
 ## Purpose

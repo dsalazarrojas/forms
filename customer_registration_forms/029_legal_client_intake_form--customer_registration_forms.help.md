@@ -1,25 +1,3 @@
-<thinking>
-This form is intended to collect information from a legal client about their contact method and concern. It is not intended for internal use only, but rather for clients to input their own information for their legal representation. It's essential to ensure that the form is filled out correctly to avoid any confusion or miscommunication. 
-
-Please note that this form is a critical part of the client intake process and should be reviewed carefully. Before filling out this form, please make sure that you have read and understood the instructions and the form fields. If you are unsure about any part of the process, please do not hesitate to reach out to the support team. 
-
-Also, ensure that the information provided is accurate and up-to-date. This form will be used to communicate with you and to provide the best possible representation. 
-
-The fields provided are: 
-- First name: 
-- Last name: 
-- Email: 
-- Contact method: 
-    - Yes (for a phone number and address) 
-    - No 
-    - Other (please specify) 
-    - Phone number 
-    - Address 
-- Concern: This is where you will describe your concern or issue.
-- Agreement: If you have any questions or concerns, please do not hesitate to reach out to us.
-
-</thinking>
-
 # Legal Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from legal clients about their contact method and concern for the legal representation.

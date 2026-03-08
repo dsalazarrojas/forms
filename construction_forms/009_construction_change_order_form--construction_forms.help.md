@@ -1,5 +1,3 @@
-<thinking> This form is used for construction projects to document changes in the scope, timeline, or budget of a project. It's essential to accurately track and manage these changes to maintain transparency and ensure smooth project execution. Ensure that you've completed all required fields and provided accurate information to reflect the actual project status. Review this guide carefully before filling out the form. </thinking>
-
 # Construction Change Order Form - Help Guide
 
 ## Purpose

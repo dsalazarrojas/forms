@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect consent from event data recorders to record and use their data. The form should only be completed by event data recorders who have been properly vetted and onboarded to the system. The form should not be used for general event data recording purposes. The form must be completed in a way that ensures the recorded data is accurate and up-to-date, and that the user understands the data usage and terms and conditions.
-
-Before starting, it is recommended to read the terms and conditions carefully to ensure you understand what data will be recorded and how it will be used.
-
-</thinking>
-
 # Event Data Recorder Consent Form - Help Guide
 ## Purpose
 The Event Data Recorder Consent Form is a required form for event data recorders to provide their consent to record and use their data. This form ensures that the user has been properly vetted and onboarded to the system and understands the data usage and terms and conditions.

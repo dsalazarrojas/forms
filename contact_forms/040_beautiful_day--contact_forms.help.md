@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for visitors to contact the company for various purposes, including general questions, support requests, feedback, or potential partnership opportunities. It allows users to provide their contact information, specify their preferred contact method, and indicate their inquiry type. The form's purpose is to gather information and enable efficient communication between the visitor and the company.
-</thinking>
-
 # Beautiful Day - Help Guide
 ## Purpose
 The "Beautiful Day" form is a contact form designed for visitors to reach out to the company for various reasons. It is used to collect information for general inquiries, support requests, feedback, and potential partnership opportunities.

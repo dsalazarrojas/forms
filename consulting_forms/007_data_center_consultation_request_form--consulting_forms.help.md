@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Center Consultation Request Form - Help Guide
 ## Purpose
 The Data Center Consultation Request Form is used to collect information from clients seeking consultations or advice related to data center services. This form helps our team understand your needs and preferences, allowing us to provide more personalized and effective assistance.

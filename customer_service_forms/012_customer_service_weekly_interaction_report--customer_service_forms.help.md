@@ -1,13 +1,3 @@
-<thinking>
-
-The Customer Service Weekly Interaction Report form is used to record and document customer interactions that take place during a set period of time, typically a week. This form helps to track and analyze customer interactions, which can be useful for improving customer service quality, identifying patterns or trends, and making data-driven decisions.
-
-Before filling out this form, please ensure that you have reviewed the relevant customer service records and interactions from the past week. If you are unsure about any information or have already documented it elsewhere, please clarify or skip this form.
-
-Also, please note that this form is for reporting weekly interactions, so if you need to report an incident or issue that occurred outside of this timeframe, you should use the relevant incident or issue reporting form instead.
-
-</thinking>
-
 # Customer Service Weekly Interaction Report - Help Guide
 ## Purpose
 

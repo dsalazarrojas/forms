@@ -1,7 +1,3 @@
-<thinking>
-The Voice Sample Portfolio Release Consent Form appears to be a legal form designed for voice-over artists, actors, and other talent to release their voice samples or portfolios to clients, agents, or managers. This form will likely be used to collect sensitive information such as contact details and signatures from the artist, while ensuring that they agree to the terms of the release. Before proceeding with this guide, ensure that you have reviewed the form's fields and understand their purpose. This guide should not be used as a substitute for the actual form, but rather a supplementary guide to help users understand each field's significance.
-</thinking>
-
 # Voice Sample Portfolio Release Consent Form - Help Guide
 ## Purpose
 The Voice Sample Portfolio Release Consent Form is a legal document used to release voice samples or portfolios to clients, agents, or managers. This form ensures that artists agree to the terms of the release and provides the necessary contact information for future communication.

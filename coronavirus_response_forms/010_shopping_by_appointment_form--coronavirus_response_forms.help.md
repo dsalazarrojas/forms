@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help customers or clients provide information about their shopping preferences and sessions. The purpose of this form is to gather details about the user's shopping habits, such as the category of the items they want to purchase, a brief description of their shopping, and details about the shopping session, including the date, time, and any assigned tools. This form is likely used in business or retail settings where staff need to understand customer shopping habits to improve customer experience and product offerings.
-
-Please ensure that you are familiar with your shopping habits before filling out this form. If you have already provided similar information in a previous form, please do not submit this form to avoid duplicate entries.
-</thinking>
-
 # Shopping By Appointment Form - Help Guide
 ## Purpose
 The Shopping By Appointment Form is designed to help customers provide information about their shopping preferences and sessions. This information will help our staff understand customer habits and improve the overall shopping experience.

@@ -1,12 +1,3 @@
-<thinking>
-Internal notes for the form designer and technical writer:
-* This form is designed to collect information from users about their search criteria for apartments.
-* The form has multiple fields that allow users to filter their search based on various criteria such as date, location, price range, available space, amenities, lease term, floor plan, available date, and preferred date.
-* The form has a mix of single and multiple-select fields, allowing users to choose one or multiple options for each criteria.
-* The form is not intended to collect sensitive or financial information.
-* The form's layout and design should be user-friendly and visually appealing.
-</thinking>
-
 # Margaret Cahill Engle Chenot Group Apartment Search Criteria Form - Help Guide
 ## Purpose
 This form is designed to help users search for apartments based on their specific criteria. By filling out this form, you will be able to filter your search and find the perfect apartment that suits your needs.

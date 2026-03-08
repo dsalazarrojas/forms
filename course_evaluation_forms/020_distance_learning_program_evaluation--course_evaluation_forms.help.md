@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from students and educators about the distance learning program. The form aims to evaluate the program's effectiveness, relevance, and overall satisfaction. It is designed to collect input on various aspects of the program, including its title, description, rating, recommendation, and potential areas of improvement. This form will help identify areas where the program excels and areas that need revision or expansion, ensuring that the program continues to meet the needs of its learners and educators.</thinking>
-
 # Distance Learning Program Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from students and educators about the distance learning program. The form collects input on various aspects of the program and helps identify areas where it excels and areas that need revision or expansion.

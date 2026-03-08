@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information and obtain consent for telehealth services. This form is designed to be completed by a patient, and it will guide them through a series of questions and fields to gather necessary information and obtain their consent for telehealth services. To ensure the form is completed correctly, it is essential to review the form carefully and fill in all required fields. Please note that this form is not a duplicate of any other form, and it is intended for patient consent for telehealth services.
-
-</thinking>
-
 # Telehealth Consent Form - Help Guide
 ## Purpose
 This form is designed to collect patient information and obtain consent for telehealth services.

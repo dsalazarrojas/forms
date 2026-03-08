@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect consent from patients or individuals for oxygen and enzyme treatment. The treatment is likely related to a medical condition or therapy, and the form is used to inform patients about the potential benefits and risks involved. It is essential to ensure that the form is completed accurately and honestly by the patient, as their consent is crucial for their medical treatment.
-
-To prevent duplication, ensure that this form is not filled out if the patient has already completed a similar form related to oxygen and enzyme treatment. If you are unsure, please verify with the treating physician or medical team.
-
-</thinking>
-
 # oxygen_and_enzyme_treatment_consent_form - Help Guide
 ## Purpose
 This form is used to collect consent from patients or individuals for oxygen and enzyme treatment. It informs them about the potential benefits and risks involved in the treatment and ensures that they understand their role in the treatment process.

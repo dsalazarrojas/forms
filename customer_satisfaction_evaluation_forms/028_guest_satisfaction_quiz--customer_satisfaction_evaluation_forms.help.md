@@ -1,12 +1,3 @@
-<thinking>
-This guide is used to help non-technical users fill out the "Guest Satisfaction Quiz" form. This form is designed to collect feedback from guests about their experience at a venue. The form is not required, and users can skip it if they choose.
-
-The form is used to gather information about the guests' experience, service quality, food quality, value-added services, value for money, overall satisfaction, and contact information. It is meant to be completed by guests after they have finished their visit.
-
-Please ensure you only complete the form once, as it may be used to help us improve the service and provide better experiences for our guests in the future.
-
-</thinking>
-
 # Guest Satisfaction Quiz - Help Guide
 ## Purpose
 The "Guest Satisfaction Quiz" form is used to collect feedback from guests about their experience at a venue. It is used to gather information that will help us improve our service and provide better experiences for our guests in the future.

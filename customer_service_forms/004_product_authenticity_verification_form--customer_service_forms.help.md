@@ -1,5 +1,3 @@
-<thinking>... This form appears to be for verifying the authenticity of a product. It seems to be a form designed for customers to provide information about a product they have purchased, including its details, shipping information, and proof of authenticity. I will now create a help guide for this form, assuming it is used in a customer-facing setting, such as a customer service platform. Please note that I will only be using the provided YAML fields and not inventing any business logic or additional information not present in the form. </thinking>
-
 # Product Authenticity Verification Form - Help Guide
 
 ## Purpose

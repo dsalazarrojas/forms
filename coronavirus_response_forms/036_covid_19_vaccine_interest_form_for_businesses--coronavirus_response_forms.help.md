@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather interest and information from businesses and organizations regarding their potential interest in on-site COVID-19 vaccination programs for their employees. This form will help us understand the needs and preferences of businesses in terms of vaccination logistics, program timing, and other requirements. Please note that this form is for internal use only and will not be shared publicly. 
-
-To fill out this form, please provide the necessary information for your business. If you have any questions or concerns, feel free to reach out to us.</thinking>
-
 # COVID 19 Vaccine Interest Form For Businesses - Help Guide
 ## Purpose
 This form is designed to gather information from businesses and organizations interested in on-site COVID-19 vaccination programs for their employees. We will use this information to understand the needs and preferences of businesses like yours.

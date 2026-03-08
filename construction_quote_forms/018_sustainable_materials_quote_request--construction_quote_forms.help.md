@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed for a sustainable materials quote request, where users can provide details about a project's requirements and specifications. The form is used by clients and suppliers to communicate and negotiate prices and terms of a project. To ensure accurate and relevant information is collected, please ensure that you have all necessary details before filling out this form.
-
-This form is a single-page form, and you can complete it in a few steps:
-
-1. Enter basic project information such as project name, contact name, contact email, and contact phone number.
-2. Provide project address and supplier address (if different).
-3. Specify the material type, amount, and unit of measurement.
-4. Provide supplier contact information (name, email, phone, and notes).
-5. Set up the project budget and currency.
-6. Select the project status.
-7. Optionally, add supplier and customer logos, references, and notes.
-
-</thinking>
-
 # Sustainable Materials Quote Request - Help Guide
 ## Purpose
 This form is designed to gather information for a sustainable materials quote request, facilitating communication and negotiation between clients and suppliers.

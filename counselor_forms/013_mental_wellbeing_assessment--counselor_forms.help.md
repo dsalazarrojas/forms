@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help you assess your mental wellbeing, which is a crucial aspect of your overall health and well-being. The form is used to gauge your emotional state, stress levels, and other factors that can impact your mental health. Before completing this form, please ensure that you are using it for the right purpose and not as a duplication of effort. You should only fill out this form if you need to report your mental wellbeing data, and not if you are already doing a duplicate report elsewhere.
-</thinking>
-
 # Mental Wellbeing Assessment - Help Guide
 ## Purpose
 This form is designed to help you assess your mental wellbeing, which is a crucial aspect of your overall health and well-being.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather necessary information from new clients before their first visit to the barber shop. This form helps the barbers understand the client's style preferences, hair type, scalp condition, and any allergies or medications they may be taking. It also helps clients provide advance notice if they need to cancel or reschedule an appointment, ensuring a smooth and efficient service.
-
-The form is divided into several sections, making it easy to complete and understand. Each section explains specific preferences and habits related to the client's hair and appointment schedule.
-</thinking>
-
 # Barber Shop Client Intake Form - Help Guide
 ## Purpose
 This form helps us provide you with a personalized experience by understanding your preferences, hair type, and any allergies or concerns.

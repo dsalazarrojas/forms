@@ -1,9 +1,3 @@
-<thinking>Here's a brief internal reasoning block that explains the form purpose and checks for relevance and non-duplication:
-
-This form is a crucial part of the home buying process, and it's essential to ensure that the user understands how to complete it correctly. The form collects vital information about the buyer, including their personal details, property preferences, and financial situation. This data will be used to tailor the home buying experience, provide relevant property listings, and facilitate the home buying process. To avoid duplication of effort, it's crucial to verify that the user has not already provided similar information through other means, such as a pre-existing account or a previous submission.
-
-</thinking>
-
 # Buyer Information Form Home Buyers - Help Guide
 ## Purpose
 This form is designed to collect essential information about home buyers, including their personal details, property preferences, and financial situation. This data will help us understand their needs and provide a personalized home buying experience.

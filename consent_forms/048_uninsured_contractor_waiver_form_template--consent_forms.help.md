@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Uninsured Contract Waiver Form Template - Help Guide
 ## Purpose
 This form is used to obtain a waiver from an uninsured contractor or business for a specific contract term. It collects general information about the contractor, contract terms, and contact details to ensure a smooth and secure business relationship.

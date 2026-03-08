@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic contact form intended to gather customer inquiries, feedback, or other non-sales related communications from customers. It does not seem to be designed for a specific business process or use case, making it a good candidate for a general-purpose contact form. It is likely that this form will be used to capture customer comments, questions, or suggestions.
-</thinking>
-
 # General Inquiry Contact Form - Help Guide
 ## Purpose
 This form is a general-purpose contact form designed to gather customer inquiries, feedback, or other non-sales related communications. It is intended to provide customers with a convenient way to contact the company for any reason that is not directly related to a specific business process or use case.

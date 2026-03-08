@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent for talent demo reel usage from users. This form should only be used for this specific purpose, and any other usage may lead to incorrect or incomplete data collection. Please make sure to check if a similar form already exists before creating a new one.
-</thinking>
-
 # Talent Demo Reel Usage Consent Form - Help Guide
 ## Purpose
 The "Talent Demo Reel Usage Consent Form" is a document that requires users to provide consent for the usage of their talent demo reel. This form is used to obtain legal consent for the use of a user's talent demo reel.

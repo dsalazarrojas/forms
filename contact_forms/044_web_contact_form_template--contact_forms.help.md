@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Web Contact Form Template - Help Guide**
 
 ## Purpose

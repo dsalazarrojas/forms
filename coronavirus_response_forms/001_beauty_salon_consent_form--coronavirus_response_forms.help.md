@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beauty Salon Consent Form - Help Guide
 ## Purpose
 The Beauty Salon Consent Form is designed to gather essential information from clients to ensure a safe and comfortable experience for both the client and the salon staff. This form is used to collect contact and appointment information, medical history, and other relevant details to help the salon provide personalized service and maintain a healthy environment.

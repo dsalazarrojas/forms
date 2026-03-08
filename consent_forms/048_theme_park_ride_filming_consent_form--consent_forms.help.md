@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by theme park management to obtain consent from guests to film them while they are visiting the park. The form will be used to gather information about the filming location, date, time, and duration of the filming. Additionally, it will ask about the filming team, equipment, and notes. The form will be filled out by the guest, which will include information such as their name, email, and phone number. A signature field will also be included for the guest to sign, as well as a witness signature field for an authorized park representative.
-</thinking>
-
 # Theme Park Ride Filming Consent Form - Help Guide
 
 ## Purpose

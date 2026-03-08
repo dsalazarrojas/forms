@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from businesses seeking commercial credit from the organization. This guide will walk the user through the fields and sections of the form, ensuring they understand what to expect and how to complete each field accurately. Please review the form carefully to ensure you understand its purpose and what information is required. Before proceeding, please note that each field is marked with a label that indicates its importance to the form. If you are unsure about a particular field, refer to the explanation below.
-</thinking>
-
 # Commercial Credit Application - Help Guide
 ## Purpose
 This form is designed to collect necessary information from businesses seeking commercial credit from the organization. It is essential to provide accurate and complete information to ensure the credit application process proceeds smoothly.

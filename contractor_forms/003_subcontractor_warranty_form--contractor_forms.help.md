@@ -1,7 +1,3 @@
-<thinking> 
-The Subcontractor Warranty Form is intended to collect information from subcontractors on their licensing, experience, payment terms, and other relevant details. This form aims to ensure that subcontractors are properly vetted before being hired for projects. The purpose of this form is to collect all necessary information that will be used to assess a subcontractor's credibility and reliability. This information will be used to determine whether to proceed with a project or not. Before filling out this form, make sure to have all the necessary documents and information at hand. If you are unsure about any of the fields, please reach out to the relevant authorities for clarification. 
-</thinking>
-
 # Subcontractor Warranty Form - Help Guide
 ## Purpose
 The Subcontractor Warranty Form is a crucial document that helps ensure the credibility and reliability of subcontractors before they are hired for projects. This form collects essential information about the subcontractor's licensing, experience, and payment terms.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect HTML code submissions from users, allowing them to submit their code for review and feedback. To ensure the quality and relevance of the submitted code, we require each submission to be unique and not a duplicate. Please review the instructions and fields below carefully before proceeding... </thinking>
-
 # HTML Code Submission Form - Help Guide
 ## Purpose
 

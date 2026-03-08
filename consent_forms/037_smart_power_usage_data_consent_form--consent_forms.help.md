@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a consent form for smart power usage data. It's used to obtain consent from users to collect and use their power usage data. The form is designed to be completed by users who want to participate in this program. 
 
 This form does not require a submission button, as it's assumed that once the user has filled out the form, they have given their consent and it's ready to be used. The purpose of this form is to make it clear what kind of data is being collected, how it will be used, and what the user can do with their data.

@@ -1,13 +1,3 @@
-<thinking>
-The Waxing Consultation Form is a form designed to collect information from customers who are interested in getting a waxing service. This form is intended to be used by a professional who will provide consultation services to the customer. The fields in this form are meant to gather essential information about the customer's skin condition, hair length, medical conditions, medical treatment, pain level, pain location, previous treatment, hair growth, medical history, hair color, and a report of their consultation. 
-
-The form has been created to be used in a consulting setting, where the customer can provide detailed information about their preferences and medical conditions. The form is designed to be completed by the customer, and the professional will use the information to provide personalized consultation services. 
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and it is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it, just give credit. 
-
-Please ensure that you are completing this form with the intention of receiving consultation services. If you are not a customer looking for professional consultation services, please do not complete this form.
-</thinking>
-
 # Waxing Consultation Form - Help Guide
 ## Purpose
 The Waxing Consultation Form is a tool designed to collect information from customers about their skin condition, hair length, medical conditions, and other relevant details to provide personalized consultation services.

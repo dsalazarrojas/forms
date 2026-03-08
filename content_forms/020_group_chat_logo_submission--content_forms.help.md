@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for users to submit a group chat logo. The purpose of this form is to collect information about the logo, such as its name, file location, and usage permission. It is essential to note that this form is not a required submission, meaning users are not obligated to fill it out. Additionally, this form is part of the "content_form" category, indicating that it is related to content management within a specific platform or system. Before proceeding, ensure that you have the necessary information and permissions to submit this form. If you have already submitted a similar logo or form, please do not repeat the submission.</thinking>
-
 # Group Chat Logo Submission - Help Guide
 ## Purpose
 This form is designed to collect information about a group chat logo, including its name, logo file location, contact details, and usage permission. It is intended for voluntary submission and serves as a means for users to provide their logo for inclusion in a platform or system.

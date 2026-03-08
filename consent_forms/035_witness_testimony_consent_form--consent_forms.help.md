@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Witness Testimony Consent Form - Help Guide
 ## Purpose
 This form is used to collect witness contact information and witness name, email, and phone number. The purpose of this form is to gather essential details from the witness regarding their contact information and identify them for our records. Please note that this form is for administrative purposes and is not for testimonial or testimonial-related activities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Needle Less Injections Consent Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients to obtain their consent for needle-less injections. The purpose of this form is to ensure that patients understand the risks and benefits of the procedure and provide their consent before undergoing the treatment.

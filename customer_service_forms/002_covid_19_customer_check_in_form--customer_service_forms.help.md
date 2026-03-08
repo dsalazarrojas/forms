@@ -1,5 +1,3 @@
-<thinking>... (Internal reasoning block: This form is intended to collect information from customers about their recent contact with the medical office, such as their Check In Information, Date of Birth, Email, Phone number, Medical Office status, Vaccine Type, Vaccination Date, Vaccination Time, and any notes they may have. The form is designed to be optional, allowing customers to submit as much or as little information as they feel comfortable. It's essential to review the form for duplication and relevance before proceeding, as customers may have already provided similar information elsewhere.)... </thinking>
-
 # Covid 19 Customer Check In Form - Help Guide
 ## Purpose
 The Covid 19 Customer Check In Form is designed to collect essential information from customers about their recent contact with our medical office. This form is intended to help our staff better understand your needs and provide more efficient support.

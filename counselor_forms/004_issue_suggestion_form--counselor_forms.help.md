@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect and manage issue suggestions from users. Each field in the form is designed to gather relevant information about the issue, including its title, description, and category. The form also collects contact information from the submitter, such as their name and email address. Additionally, the form allows the submitter to provide a priority level for the issue. The form is meant to be completed by users who have noticed an issue that they believe should be addressed and are willing to provide information about it.
-
-The form will be reviewed and assessed for relevance and non-duplication before being approved and entered into the system. If the form already exists in the system, the submitter will be notified that the issue has already been submitted and will not be able to resubmit it.
-
-Note: This form is meant to be used by end-users who have noticed an issue, not by administrators or users with advanced technical knowledge.
-</thinking>
-
 # issue_suggestion_form - Help Guide
 ## Purpose
 This form is used to collect and manage issue suggestions from users. It gathers information about the issue, including its title, description, category, and priority level, as well as contact information from the submitter.

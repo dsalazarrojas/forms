@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form help guide, let's briefly review the form purpose and relevance. This "seo company contact form" is likely used for collecting information from potential customers or partners about their SEO company needs. It's essential to understand that the form might not be used for internal company purposes but rather for communication with external stakeholders. Also, let's quickly confirm that the provided YAML fields are correct and complete. Everything looks good, so we can proceed with creating the help guide.</thinking>
-
 # seo company contact form - Help Guide
 ## Purpose
 The "seo company contact form" is designed to collect information from potential customers or partners about their SEO company needs and preferences.

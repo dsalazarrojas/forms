@@ -1,7 +1,3 @@
-<thinking>
-This guide is for users who want to participate in a culinary competition. It's intended to help them understand what information is needed to register for the competition. The form is likely used by competition organizers to collect participant details and preferences. It's essential to complete this form accurately to ensure that all necessary information is provided. Please fill out the form carefully to avoid missing any required fields.
-</thinking>
-
 # culinary_competition_participation_consent_form - Help Guide
 ## Purpose
 This form is for participants to register for a culinary competition. It collects information about the participant, their contact details, and their preferences for the competition.

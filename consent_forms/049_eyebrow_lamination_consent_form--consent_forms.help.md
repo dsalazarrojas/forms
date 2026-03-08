@@ -1,7 +1,3 @@
-<thinking>
-The Eyebrow Lamination Consent Form is used to gather essential details from clients, including their contact information and appointment specifics, as well as their explicit consent to proceed with the service. Before completing this form, please ensure that you have the necessary information and consent required for the service.
-</thinking>
-
 # Eyebrow Lamination Consent Form - Help Guide
 ## Purpose
 The Eyebrow Lamination Consent Form is used to collect necessary information from clients and their consent to proceed with the service. This form helps to ensure that you have the required details and consent to provide the service.

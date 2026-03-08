@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user consent for app notifications, allowing users to customize their notification preferences and opt-in or opt-out of various categories of notifications. To prevent duplication, we should ensure that users only submit this form once. This form is designed to be completed by users who want to receive notifications for specific events or updates within the app.
-</thinking>
-
 # App Notification Consent Form - Help Guide
 
 ## Purpose

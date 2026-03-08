@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to be a submission form for a storytelling contest. It is intended to collect data from participants to facilitate their entry in the contest.
-  This help guide will walk the user through each field of the form to ensure they understand its purpose and how it should be completed.
-  This guide will be presented in a concise and structured format with clear headings.
-  The fields and their types should be explained clearly to the user. If there is any uncertainty, a best-effort explanation should be provided.
-</thinking>
-
 # Storytelling-Tournament-Entry-Form - Help Guide
 ## Purpose
 This form is designed to collect data from participants to facilitate their entry in a storytelling contest.

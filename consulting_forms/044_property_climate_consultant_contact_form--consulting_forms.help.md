@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to contact a climate consultant to inquire about consulting services related to properties. It is meant to be a simple and straightforward form to facilitate communication between the customer and the consultant. This form should not be used for other purposes, and internal employees should be trained on its usage to prevent misuse or misinterpretation of the data collected from this form.
-</thinking>
-
 # property_climate_consultant_contact_form - Help Guide
 
 ## Purpose

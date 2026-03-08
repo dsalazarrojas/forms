@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Suspension Consent Form - Help Guide
 ## Purpose
 The Service Suspension Consent Form is used to obtain consent from a customer for the temporary suspension of a service. This form is used to ensure that customers understand and agree to the terms and conditions of the suspension, providing a clear record of their consent.

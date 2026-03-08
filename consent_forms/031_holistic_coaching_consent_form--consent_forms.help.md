@@ -1,6 +1,3 @@
-<thinking>
-This form is used to obtain coaching consent from clients or individuals who will be participating in the holistic coaching program. The purpose of this form is to gather information about the client's goals, consent status, and other relevant details. It's essential to review the form carefully and ensure that all required fields are completed accurately to avoid duplication and unnecessary delays in the coaching process. Please note that this form is not intended to be a substitute for in-person or telephonic communication; it's a supplementary tool to facilitate smooth communication and ensure both parties are on the same page.</thinking>
-
 # holistic_coaching_consent_form - Help Guide
 ## Purpose
 This form is used to gather information from clients or individuals participating in the holistic coaching program, ensuring both parties are aligned on the coaching goals, consent status, and other essential details.

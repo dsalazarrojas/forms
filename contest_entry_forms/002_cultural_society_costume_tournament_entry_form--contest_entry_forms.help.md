@@ -1,7 +1,3 @@
-<thinking>As a user-facing help guide for the Cultural Society Costume Tournament Entry Form, I aim to clearly explain the form's purpose, walk users through the completion process, and provide field-by-field explanations for each section. This guide should help ensure that users accurately and efficiently complete the form, minimizing errors and submission issues. By following this guide, users will be able to successfully submit their entries for the Cultural Society Costume Tournament.
-
-</thinking>
-
 # Cultural Society Costume Tournament Entry Form - Help Guide
 ## Purpose
 The Cultural Society Costume Tournament Entry Form is a submission form for users to participate in the Cultural Society Costume Tournament. This form is used to collect essential information about your costume entry, including your name, the name and description of your costume, event details, and other relevant information. Your completed form will be reviewed and considered for selection by the Cultural Society team.

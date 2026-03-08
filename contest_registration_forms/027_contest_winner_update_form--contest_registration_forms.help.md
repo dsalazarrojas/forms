@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the update of contest winner information after the contest has concluded. This form ensures that the winner's personal details are accurate and up-to-date for prize processing and public announcement purposes. To prevent duplicate entries, the form is only accessible to authorized personnel after the contest has closed.
-
-The form is divided into several sections, each with specific fields that require information to confirm the winner's identity and update their details. The form requires the winner's full name, email address, phone number, shipping address, and preferred prize delivery method. Additionally, the form includes fields for the date of the prize announcement, the winner's consent for social media announcement, and a photo link for optional use. The form also includes fields for identity verification and government ID reference for prizes over $600, and a signature acknowledgement for the accuracy of the provided information.
-
-The form will only be available to winners after the contest has closed, ensuring that only relevant and accurate information is updated. The form is critical in maintaining the integrity of the prize processing and announcement process.
-
-</thinking>
 # Contest Winner Update Form - Help Guide
 ## Purpose
 The Contest Winner Update Form is designed to collect accurate and up-to-date information from contest winners to facilitate prize processing and public announcement. This form is only accessible to winners after the contest has closed to prevent duplicate entries.

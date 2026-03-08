@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pediatrics Virtual Course Agreement Form - Help Guide
 ## Purpose
 This form is used to gather information from users interested in enrolling in the Pediatrics Virtual Course. It is meant to be completed by the individual enrolling in the course. 

@@ -1,8 +1,3 @@
-<thinking>
-The "full_stack_development_agreement_form" form is used to collect information about a project's details, payment terms, and payment status. This form is crucial for managing and tracking projects, ensuring that all relevant information is recorded accurately and consistently. Before proceeding, ensure that you have all the necessary details about the project and the payment terms ready. Please review the form carefully to avoid any errors or omissions.
-
-</thinking>
-
 # full_stack_development_agreement_form - Help Guide
 ## Purpose
 This form is used to collect and record project details, payment terms, and payment status for full-stack development projects.

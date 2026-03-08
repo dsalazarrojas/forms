@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a creative work, its creation date, and the client's and artist's signatures and contact details. It is not affiliated with any form platform, but rather an original adaptation created using AI. This form is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.
-</thinking>
-
 # creative_work_release_form - Help Guide
 ## Purpose
 This form is intended for clients to provide information about a creative work, including its title, description, and creation date. It also captures the client's and artist's signatures, as well as their contact details.

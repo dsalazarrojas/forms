@@ -1,10 +1,3 @@
-<thinking> 
-This form is used by nail technicians to gather information from clients about their nail care preferences, medical conditions, and visit history. It's meant to be filled out before the first visit to the nail technician, and possibly updated after that, to ensure the technician has a clear understanding of the client's needs and requirements.
-
-To complete the form, you will be asked to provide the following information, which will be used to tailor your nail care experience.
-
-</thinking>
-
 # Nail Technician Client Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information from you about your nail care preferences and medical conditions to ensure that the nail technician can provide you with the best possible service during your visit.

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to provide a structured process for content creation teams to track the progress of content projects. It helps in ensuring that all necessary steps are completed before finalizing and publishing content. The form should not be used for general content creation projects that do not fit into this specific process.
-
-The form's primary purpose is to serve as a checklist for content creation projects, guiding teams through the different stages of content creation, from conceptualization to publication. It helps teams stay organized and ensures that all critical aspects of content creation are covered.
-
-Before filling out this form, please confirm that you are creating a content project that fits this specific process. If you are unsure or have a project that does not fit this process, please do not use this form.
-
-This form is designed to be a living document, and its fields can be adjusted or removed as needed to accommodate specific project requirements.
-</thinking>
-
 # Content Creation Checklist Form - Help Guide
 ## Purpose
 This form is designed to track the progress of content creation projects, ensuring that all necessary steps are completed before finalizing and publishing content.

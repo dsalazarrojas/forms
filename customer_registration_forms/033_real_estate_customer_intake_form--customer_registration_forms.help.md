@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential real estate customers about their interests and preferences for a property. The form is intended to help the company understand what type of property they are looking for, what price range they are comfortable with, and other relevant details. This form will likely be used by the sales team to follow up with potential customers and provide more information about properties that match their criteria.
-</thinking>
-
 # real_estate_customer_intake_form - Help Guide
 ## Purpose
 The real_estate_customer_intake_form is designed to collect information from potential customers about their preferences and interests in buying or renting a property. This form helps the sales team understand what type of property they are looking for, what price range they are comfortable with, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # music_contention_creation_form - Help Guide
 ## Purpose
 The Music Contention Creation Form is designed to help users create content related to music. This form is used to input information about a music file, including its title, artist name, description, and music genre, as well as options for music files and artist licenses. 

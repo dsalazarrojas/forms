@@ -1,7 +1,3 @@
-<thinking>
-This form is used for client skin surgery consent, where clients are required to provide information about themselves and their medical history, as well as their consent for the procedure. The form is designed to gather necessary information for a safe and successful procedure. Please ensure that you only fill out this form for clients that are scheduled for skin surgery.
-</thinking>
-
 # skin_surgery_consent_form - Help Guide
 
 ## Purpose

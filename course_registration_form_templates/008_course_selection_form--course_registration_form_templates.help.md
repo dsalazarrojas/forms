@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to allow users to select multiple courses from a list of options. The form is composed of 25 questions, each asking the user to choose either "Yes" or "No" from a dropdown menu.
-The purpose of this form is to gather information on which courses the user is interested in or has experience with. The form is likely to be used in a context where the user needs to specify their skills or preferences related to specific courses.
-To complete this form, the user will need to select "Yes" or "No" for each of the 25 questions. The form does not have any fields that require additional input such as text or date.
-Each question is designed to be answered with a simple "Yes" or "No" answer, which will help the user quickly and efficiently provide the necessary information.
-The form is likely to be used by someone who needs to assess a user's experience or skills in specific courses, such as an instructor or a course administrator.
-</thinking>
-
 # Course Selection Form - Help Guide
 ## Purpose
 The Course Selection Form is designed to allow users to select multiple courses from a list of options.

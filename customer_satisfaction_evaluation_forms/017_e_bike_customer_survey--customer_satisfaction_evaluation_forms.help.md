@@ -1,38 +1,3 @@
-<thinking>
-This is a form to evaluate customer satisfaction with E-Bikes. The form should be used by customers who have purchased an E-Bike to provide feedback about their experience. The purpose of this form is to collect data on customer satisfaction, which will help us improve our products and services.
-
-To ensure that we are collecting relevant and useful information, this form has been designed to gather specific data points such as contact information, purchase details, and satisfaction levels. This will help us identify areas for improvement and make data-driven decisions.
-
-To complete this form, please follow these steps:
-
-1. Enter your name in the "Name" field.
-2. Enter your email address in the "Email" field.
-3. Rate your satisfaction with your E-Bike in the "Rating" field.
-4. Select the E-Bike model you purchased from the "E-Bike Purchased" field.
-5. Enter the date you purchased your E-Bike in the "Purchase Date" field.
-6. Enter the time you purchased your E-Bike in the "Purchase Time" field (optional).
-7. Select your level of satisfaction with the E-Bike from the "Satisfaction" field.
-8. Indicate if you have used your E-Bike (True/False) in the "E-Bike Used" field.
-9. Indicate if you would recommend your E-Bike to others (True/False) in the "Recommended" field.
-10. Enter any comments or suggestions you have about your E-Bike in the "Comments" field.
-11. Enter the model of your E-Bike in the "E-Bike Model" field (optional).
-12. Enter the color of your E-Bike in the "E-Bike Color" field (optional).
-13. Enter any comments about our customer service in the "Customer Service" field (optional).
-14. Enter the condition of your E-Bike (optional).
-15. Enter the channel through which you purchased your E-Bike (optional).
-16. Enter the price you paid for your E-Bike (optional).
-17. Select your overall level of satisfaction with the E-Bike from the "Overall Satisfaction" field.
-18. Indicate if you would recommend your E-Bike to others (True/False) in the "Will Recommend" field.
-19. Indicate if you would consider purchasing an E-Bike again (True/False) in the "Will Purchase" field.
-20. Indicate if you would recommend the E-Bike to others (True/False) in the "Will Recommend E-Bike" field.
-21. Enter any suggestions for improving the E-Bike in the "Rating Suggestion" field (optional).
-22. Enter any further comments or suggestions about the E-Bike in the "Suggestions" field (optional).
-23. Enter your contact number in the "Contact Number" field.
-24. Enter your email address in the "Email" field.
-25. Enter any final comments or feedback about the E-Bike in the "Comments" field.
-
-</thinking>
-
 # E Bike Customer Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from customers who have purchased an E-Bike. The goal is to collect information on customer satisfaction, which will help us improve our products and services.

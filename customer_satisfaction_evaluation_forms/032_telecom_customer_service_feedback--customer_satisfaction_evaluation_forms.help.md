@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers about their interactions with our telecom service, allowing us to understand their satisfaction levels and areas for improvement. This form will help us identify potential issues and opportunities for growth, ultimately leading to better customer experiences and service enhancements. Please ensure that all required fields are filled out accurately to provide valuable information. If a field is not applicable or not relevant, please mark it as such (e.g., select "Other" for the interaction channel if your interaction was not listed).
-</thinking>
-
 # telecom_customer_service_feedback - Help Guide
 ## Purpose
 

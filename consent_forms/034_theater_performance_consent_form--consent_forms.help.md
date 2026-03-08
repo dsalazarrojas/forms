@@ -1,8 +1,3 @@
-<thinking>
-The "Theater Performance Consent Form" is a crucial document that ensures participants in a theater performance are aware of and agree to the terms and conditions of their involvement. This form is typically used to gather essential information about the participant, including their contact details, medical information, and performance-related data. It also serves as a record of the participant's consent, which can be beneficial in emergency situations. To ensure that this form is completed correctly, follow the steps outlined below.
-
-</thinking>
-
 # Theater Performance Consent Form - Help Guide
 ## Purpose
 The Theater Performance Consent Form is a critical document that protects the rights and safety of participants in a theater performance. By completing this form, participants provide essential information about themselves and their involvement in the performance, which helps ensure their safety and well-being during the event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Induction Information Form - Help Guide
 ## Purpose
 This form is used to collect medical information from patients to ensure their safety and well-being during their stay in the facility. It's essential to fill out this form accurately and completely, as it helps medical staff provide the best possible care.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to track runners participating in events or activities. This form will collect information from runners, including their name, contact details, and activity details such as start and finish times, distance covered, and any notes or comments they may have. This information will be used to record and verify the runner's participation and performance.
-
-</thinking>
-
 # Runner Tracking Form - Help Guide
 ## Purpose
 The Runner Tracking Form is used to collect information from runners participating in events or activities. This information is used to record and verify the runner's participation and performance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Drill Participation Consent Form - Help Guide
 
 ## Purpose

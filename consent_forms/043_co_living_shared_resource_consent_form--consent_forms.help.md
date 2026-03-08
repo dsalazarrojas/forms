@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Co-Living Shared Resource Consent Form - Help Guide
 
 ## Purpose

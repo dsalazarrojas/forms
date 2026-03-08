@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've taken into account the provided YAML fields and created a help guide for the end user. I've ensured that the explanations are concise, practical, and based on the available information. I'm ready to deliver the final help guide in Markdown format.</thinking>
-
 # Spicy Food Waiver Form - Help Guide
 ## Purpose
 The Spicy Food Waiver Form is a document that requires information from individuals, likely for liability or identification purposes. The form collects general contact and demographic information from users.

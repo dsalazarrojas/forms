@@ -1,5 +1,3 @@
-<thinking>As a travel agency, it's essential to gather feedback from customers to improve services and tailor them to their needs. This form is designed to collect feedback on a customer's recent travel experience. To ensure accurate and relevant feedback, we ask that customers fill out this form only once per travel experience. Please fill out this form only if it's a new travel experience. If you've already filled out this form, there's no need to do so again.</thinking>
-
 # Travel Agency Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on a customer's recent travel experience to help us improve our services and tailor them to our customers' needs.

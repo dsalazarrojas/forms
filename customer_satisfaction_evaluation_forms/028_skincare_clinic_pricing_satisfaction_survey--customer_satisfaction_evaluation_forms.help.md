@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to collect customer feedback about the pricing experience at the Skincare Clinic. Its purpose is to gauge customer satisfaction and gather information on potential areas for improvement. The form will only appear after a customer has made a purchase or inquired about prices. The questions are designed to be straightforward and easy to understand, with a focus on gathering data for future pricing strategy and customer satisfaction improvement.
-</thinking>
 # Skincare Clinic Pricing Satisfaction Survey - Help Guide
 ## Purpose
 The Skincare Clinic Pricing Satisfaction Survey is designed to gather feedback from customers on their pricing experience. This information helps us improve our services and pricing strategy to better meet your needs.

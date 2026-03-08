@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for healthcare-related programs. The purpose of this form is to gather personal and educational background information from applicants to assess their eligibility and suitability for the program. Please ensure that all fields are accurate and complete before submitting the application. Note that some fields are required for the application process.
-</thinking>
-
 # Admission Form Healthcare - Help Guide
 ## Purpose
 The Admission Form Healthcare is designed to collect personal and educational background information from applicants to assess their eligibility and suitability for healthcare-related programs.

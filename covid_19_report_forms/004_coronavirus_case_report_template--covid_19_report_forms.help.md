@@ -1,20 +1,3 @@
-<thinking>
-
-This form is a case report template designed to document and track incidents related to COVID-19. Its purpose is to gather information about individuals who have come into contact with someone suspected of having the virus, allowing for prompt reporting and follow-up actions to be taken.
-
-To complete this form, follow these steps:
-
-1.  Enter the suspect's name in the "suspect name" field.
-2.  Provide the suspect's location in the "suspect location" field.
-3.  Record the date of contact in the "contact date" field.
-4.  Enter the time of contact in the "contact time" field.
-5.  Describe the suspect's symptoms in the "suspect symptoms" field.
-6.  Identify who reported the incident in the "reported by" field.
-7.  Specify the method of contact in the "contact method" field.
-8.  Indicate the source of the information in the "contact source" field.
-
-</thinking>
-
 # ประกวม Case Report Template - Help Guide
 ## Purpose
 The form is a case report template designed to document and track incidents related to COVID-19.

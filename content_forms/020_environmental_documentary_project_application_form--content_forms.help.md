@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the Environmental Documentary Project, which aims to gather information on environmental projects and events. This form is intended to capture relevant details about festivals, schools, non-governmental organizations (NGOs), and grants. Ensure that you're applying for a relevant category and have not duplicated your project's submission in the past.
-</thinking>
-
 # Environmental Documentary Project Application Form - Help Guide
 ## Purpose
 The Environmental Documentary Project Application Form is a collection of questions that help gather information about environmental projects, events, and grants. Please ensure that you are applying for a relevant category and have not duplicated your project's submission in the past.

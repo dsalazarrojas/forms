@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Liability Waiver For Services form. The form is designed to collect information from service providers and their emergency contact information, consent, and other relevant details. 
-</thinking>
-
 # Liability Waiver For Services - Help Guide
 ## Purpose
 The Liability Waiver For Services form is a document that requires the service provider and emergency contact information, consent, and other details from the service provider and their emergency contact. This form is essential for ensuring that both the service provider and the emergency contact are aware of and agree to the terms and conditions of the services being provided.

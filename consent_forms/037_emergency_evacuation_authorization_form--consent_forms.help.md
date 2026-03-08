@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Evacuation Authorization Form - Help Guide
 ## Purpose
 The Emergency Evacuation Authorization Form is designed to collect information from employees for emergency evacuation procedures. It is used to gather necessary details for evacuation protocols and emergency response plans in the event of a crisis or emergency situation.

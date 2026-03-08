@@ -1,17 +1,3 @@
-<thinking>
-This form is intended for participants in a medical technology innovation showcase event, where they can provide their consent and information about themselves. This form is likely being used by event organizers to gather demographic data from attendees, and ensure they have the necessary permissions for the event. This information will be used to follow up with the participants, and to understand their interests and experiences in medical technology. 
-
-Please ensure you understand the purpose of this form before completing it. This form is not intended for general use, and the information collected will not be shared beyond the event organizers and attendees. 
-
-If you've already submitted a form, please do not resubmit. Each participant can only submit one form per event. 
-
-This form is intended for participants who have attended or plan to attend a Medtech Showcases or Innovation Events. 
-
-The purpose of this form is not to collect sensitive information. However, certain fields are required for the event organizers to follow up and communicate with you effectively. 
-
-Please fill this form honestly and accurately. 
-</thinking>
-
 # Medical Technology Innovation Showcase Consent Form - Help Guide
 
 ## Purpose

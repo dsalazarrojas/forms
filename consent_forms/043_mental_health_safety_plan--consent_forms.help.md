@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's mental health safety plan, including emergency contacts, mental health provider information, and follow-up details. The purpose of this form is to ensure that individuals have a clear plan in place in case of a mental health crisis. It is essential to fill out this form carefully and accurately, as the information will be used to support the individual's mental well-being.
-</thinking>
-
 # mental_health_safety_plan - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's mental health safety plan, including emergency contacts, mental health provider information, and follow-up details.

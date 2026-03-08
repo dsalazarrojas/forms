@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on health screening agreements. The purpose of this form is to gather information on an organization's health screening needs and processes. It's likely used by organizations to standardize their health screening procedures and ensure they are easy to manage. The form is not affiliated with any form creation platform, but rather generated using AI, making it an original adaptation. 
-
-</thinking>
-
 # Health Screening Agreement - Help Guide
 ## Purpose
 The Health Screening Agreement form is designed to collect information on an organization's health screening needs and processes.

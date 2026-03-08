@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the "Future Cities Project" submission. It's meant for teams to submit their project ideas, innovations, and concepts. The form is used to collect information about the team, their submission details, and other relevant fields. It's essential to fill in this form with accurate and complete information to ensure a smooth submission process. Please ensure that you're filling out this form only once and for the correct team, as duplicate submissions can lead to confusion and delays.
-</thinking>
-
 # Future Cities Project Submission - Help Guide
 ## Purpose
 This form is designed for teams to submit their project ideas, innovations, and concepts to the Future Cities Project.

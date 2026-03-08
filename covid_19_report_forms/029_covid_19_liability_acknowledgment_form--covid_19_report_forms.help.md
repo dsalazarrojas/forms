@@ -1,8 +1,3 @@
-<thinking>
-This form is for COVID-19 liability acknowledgment. It's designed to capture information about an individual's understanding of potential risks and safety measures when interacting with a team. This form ensures that participants are aware of and agree to certain protocols and guidelines.
-
-We've reviewed our existing knowledge base and didn't find any duplicate content related to this form. However, if you'd like to suggest changes or additions, please let us know.</thinking>
-
 # covid_19_liability_acknowledgment_form - Help Guide
 ## Purpose
 This form is for COVID-19 liability acknowledgment. It's designed to capture information about an individual's understanding of potential risks and safety measures when interacting with a team.

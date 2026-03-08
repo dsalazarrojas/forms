@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to enable users to send contact information to the relevant department. The form is not a duplicate of any existing form. The form collects personal contact information and other details that will be used by the department to reply to the user in the preferred method. The field type of each form field is as follows: `1` is the contact form field, `2` is the name field, `3` is the email field, `4` is the subject field, `5` is the message field, `6` is the preferred contact method field, `7` and `8` are fields for entering email and phone number respectively, and `9` is a field for other information if the user prefers not to contact via `7` or `8`.
-
-</thinking>
-
 # Responsive Contact Form By Ismail - Help Guide
 ## Purpose
 The contact form is designed to collect user's contact information and other details that will be used by the department to reply to the user in the preferred method.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect contact information and consent from sports team fans for engagement purposes, such as newsletters, promotions, and other updates about the team. 
-The form is designed to gather basic contact details like email, phone number, and communication preferences of the fans. The form is meant to be completed by sports team officials, coaches, or other authorized personnel.
-</thinking>
-
 # Sports Team Fan Engagement Consent Form - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking> 
-  This form is designed to collect information from participants in a Moment Challenge contest. It's used to gather details about the participant, their entry, and other relevant information. 
-  Ensure that all required fields are filled out accurately to ensure a successful submission. 
-  Please note that this form is for contest entries, and all provided information will be treated as private and secure. 
-  Before you start, please review all the fields below and provide correct details for a smooth submission process. 
-</thinking>
-
 # Moment Challenge Submission Form - Help Guide
 ## Purpose
 The Moment Challenge Submission Form is a form used to collect participant information and entry details for the Moment Challenge contest.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for customers to report issues with freight shipments they have received. This is an internal system for internal use, so only relevant and non-duplicate issues will be processed. This form will help us identify and address potential problems with freight shipments in a timely manner.
-</thinking>
 # Freight Complaint Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is intended for course evaluators to assess the progress of E-Learning activities and ensure they meet the required standards. It is designed to collect data on various tasks and activities completed by course participants, including tasks, progress notes, and completion status. This form reduces the need for manual data collection, making it more efficient and accurate. It's a duplicate-free, one-page form that should only be filled out once per E-Learning activity.</thinking>
-
 # E Learning Activity Checklist - Help Guide
 ## Purpose
 This form is used to evaluate and assess the progress of E-Learning activities by collecting data on various tasks and activities completed by participants. It ensures that the activities meet the required standards and standards.

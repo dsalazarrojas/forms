@@ -1,9 +1,3 @@
-<thinking>
-
-The Performance Archive Preservation Consent Form is a crucial document that needs to be completed carefully to ensure the proper preservation and archiving of performance data. To prevent data duplication, this form should only be filled out in specific situations, such as when there are multiple archivists or when the archivist is unsure which archivist is responsible for preservation. Please confirm that you are in one of these scenarios before continuing.
-
-</thinking>
-
 # Performance Archive Preservation Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the consent of a performer to preserve and archive their performance data. The purpose of this form is to ensure that the performer is aware of and agrees to the preservation and archiving of their performance data.

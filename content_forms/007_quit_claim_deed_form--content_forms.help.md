@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for generating a quit claim deed, a document used in real estate law to transfer ownership of a property without the need for a court-supervised process. To ensure that this form is filled out correctly and without duplication, we must understand the purpose and requirements clearly.
-
-Before completing this form, please ensure that you have the necessary information and documents required for the transfer of ownership. You should also verify that you are eligible to use this form for your specific situation.
-
-The form consists of multiple pages with different fields for various pieces of information. Each field is crucial in ensuring that the form is correctly filled out and that the transfer of ownership is legitimate.
-
-</thinking>
-
 # Quit Claim Deed Form - Help Guide
 ## Purpose
 The Quit Claim Deed Form is a document used to transfer ownership of a property without the need for a court-supervised process. It is a legal document that conveys the interest of a property from one person (Grantor) to another (Grantee).

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly by our consultants and clients. The form is meant to collect relevant information about a potential consulting project. Before proceeding, please check that this project is not already on our system and has not been previously discussed with us. If you are unsure, please reach out to the project lead or support team for clarification.
-</thinking>
-
 # Operational Resilience Consulting Project Application Form - Help Guide
 
 ## Purpose

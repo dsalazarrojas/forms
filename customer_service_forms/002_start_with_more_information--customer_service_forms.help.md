@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # start_with_more_information - Help Guide
 ## Purpose
 The "start_with_more_information" form is designed to collect additional information from customers to better understand their needs and preferences. This form is used to gather details that will help us provide more personalized support and services to them.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is for clients to provide their consent for a hair frizz control treatment. The form is divided into several sections that ask for client details, health information, and consent for the treatment. The client will need to provide their date of birth, phone number, email, medical conditions, medical allergies, medication, doctor name, and other doctor's name if applicable. The form also includes consent questions for the treatment and the client's willingness to participate. The purpose of this form is to ensure that the client is aware of and understands the risks associated with the treatment and has provided their informed consent. 
-
-Please note that this form is not intended to be a comprehensive medical questionnaire, but rather a brief and straightforward consent form. The client's health information and medical history will be taken into consideration, but it is not intended to be a substitute for a thorough medical evaluation. The client's doctor or healthcare provider will need to review and verify their medical history before proceeding with the treatment. 
-
-The form is designed to be user-friendly and easy to navigate. Each field is labeled clearly and concisely, and the instructions are provided for each section to ensure that the client understands what is required of them. 
-
-</thinking>
-
 # Hair Frizz Control Treatment Consent Form - Help Guide
 ## Purpose
 The Hair Frizz Control Treatment Consent Form is designed for clients to provide their informed consent for a hair treatment that helps control frizz. The form is divided into several sections that gather essential information about the client's health, medical history, and consent for the treatment.

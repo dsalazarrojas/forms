@@ -1,7 +1,3 @@
-<thinking>
-This form is part of our organization's process for handling informed consent, which is a legal requirement for collecting and using personal data. Informed consent is a crucial aspect of maintaining transparency and trust with our clients, ensuring that we respect their rights and privacy. By filling out this form, you will be providing us with the necessary information to understand your consent status and preferences for data collection and use. Please complete this form accurately and thoroughly to ensure that we have a clear understanding of your consent.
-</thinking>
-
 # General Informed Consent Form - Help Guide
 ## Purpose
 The General Informed Consent Form is a document used to obtain informed consent from clients or individuals for the collection and use of their personal data. This form ensures that we respect their rights and privacy.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used for clients of SYD.Ghetto.INK to grant permission for artistic procedures. 
-It is essential to ensure that the client understands and consents to the procedures involved, 
-ensuring legal and ethical boundaries are met.
-</thinking>
-
 # SYD.Ghetto.INK Client CONSENT FORM - Help Guide
 ## Purpose
 This form is designed to collect client consent for artistic procedures and ensure that clients are aware and agree to the work done on them, maintaining transparency and accountability.

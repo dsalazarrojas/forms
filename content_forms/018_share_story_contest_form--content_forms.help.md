@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect user's story submission and associated permissions and agreements.
-The purpose of this form is to share a story, and it requires the user to provide their story, share their story's terms, and agree to various conditions.
-To prevent duplicate submissions, the form will only allow one submission per user.
-</thinking>
-
 # share_story_contest_form--content_forms - Help Guide
 
 ## Purpose

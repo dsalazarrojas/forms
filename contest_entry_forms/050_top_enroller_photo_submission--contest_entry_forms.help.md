@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for participants to submit a photo as part of a top enroller program. The form will be used to collect participant information and their photo submission. Please ensure that the photo submitted is of good quality and relevant to the program before submitting it.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # top_enroller_photo_submission - Help Guide
 ## Purpose
 This form is used by participants to submit a photo as part of a top enroller program. The form collects the participant's details and their photo submission.

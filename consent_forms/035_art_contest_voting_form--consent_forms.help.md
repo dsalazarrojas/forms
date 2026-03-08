@@ -1,12 +1,3 @@
-<thinking>Art Contest Voting Form - Help Guide
-
-**Art Contest Voting Form - Help Guide**
-
-## Purpose
-The Art Contest Voting Form is designed to collect votes from a panel of evaluators for an art contest. The form helps the evaluators to provide ratings and comments on each entry, as well as assess the overall quality of submissions and the clarity of voting instructions. The form ensures the evaluators' votes are fair and impartial, and maintains confidentiality if required.
-
-</thinking>
-
 # Art Contest Voting Form - Help Guide
 ## Purpose
 The Art Contest Voting Form is designed for evaluators to vote on art entries in a contest. It ensures the evaluators' votes are fair and impartial and maintains confidentiality if required.

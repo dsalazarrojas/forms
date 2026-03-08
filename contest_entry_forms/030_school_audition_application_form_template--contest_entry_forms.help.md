@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for students to submit their audition applications to a school, providing a structured format for them to share their information and experiences. The form is designed to be filled out in multiple pages, each covering different aspects of the applicant's background and submission details. 
-Before filling out this form, please ensure that you have reviewed the submission guidelines and requirements of the school's audition application process to avoid any errors or omissions. It's also essential to note that the form is divided into several pages to make it more manageable and easy to fill out.
-Please review the form carefully to ensure that you provide all the necessary information and submit it correctly.
-</thinking>
-
 # School Audition Application Form Template - Help Guide
 
 ## Purpose

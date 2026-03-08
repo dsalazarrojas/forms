@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help teams submit their entry for the Energy Product Contest, where they can showcase their innovative energy-related projects, products, or ideas. The form is designed to gather essential information about the team, their energy product, and its features. This guide will walk through the form's fields and provide explanations for each, ensuring a smooth and successful submission process.
-</thinking>
-
 # Energy Product Contest Entry Form - Help Guide
 ## Purpose
 The Energy Product Contest Entry Form is a submission form for teams to enter the contest with their innovative energy-related projects, products, or ideas.

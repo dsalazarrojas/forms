@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students who have used the virtual learning platform. The purpose of this form is to help us understand the student's experience and gather information on how to improve the platform. The form will be used to gather information on the course name, student's email, phone number, date of birth, likelihood of recommending the course, any additional comments, and other relevant information.
-
-Before you begin, please make sure you are filling out the form for the correct course. If you are unsure which course this form is for, please let us know in the additional comments field and we will assist you in filling out the correct form.
-
-This form has multiple pages and each page has several fields. Please make sure to fill out each field correctly and accurately before proceeding to the next page. If a field is marked as optional, you can choose not to fill it out, but please be aware that your feedback is valuable to us and your input will help us improve the platform.
-
-Please note that the form has several different types of fields, including text, email, phone, date, select one, select multiple, time, and note fields. Each field type has its own specific instructions on how to fill it out.
-
-</thinking>
-
 # virtual_learning_platform_student_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students who have used the virtual learning platform.

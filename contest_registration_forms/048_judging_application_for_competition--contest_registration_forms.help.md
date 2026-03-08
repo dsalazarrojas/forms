@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Judging Application For Competition" form, we need to understand the purpose of the form and the meaning behind each field. Based on the provided YAML, it appears that this form is intended for judges to apply for a competition judging role, and they will need to provide personal details, availability, and preferences for judging.
-
-We will check for non-duplication and make sure that the information provided by the judges is consistent across all sections of the form.
-
-</thinking>
-
 # Judging Application For Competition - Help Guide
 ## Purpose
 The "Judging Application For Competition" form is designed for judges to apply for a competition judging role. This form helps us to collect essential information about the judge's personal details, availability, and preferences for judging.

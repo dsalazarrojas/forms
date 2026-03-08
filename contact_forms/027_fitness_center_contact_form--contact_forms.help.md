@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect contact information and messages from users who want to get in touch with the fitness center. The form should only be used for legitimate contact purposes and not for spam or abuse. To ensure that the form is not used for spam or abuse, we have implemented the following checks: each field is optional, and the form does not allow for multiple submissions from the same user at once. The form is designed to be user-friendly, easy to fill out, and efficient for the staff at the fitness center to receive and respond to messages.
-</thinking>
-
 # Fitness Center Contact Form - Help Guide
 ## Purpose
 The Fitness Center Contact Form is designed to allow users to get in touch with the fitness center staff and provide them with information and messages. This form can be used to schedule appointments, ask questions, or provide feedback.

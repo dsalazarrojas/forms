@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out accurately and consistently to track complaints efficiently. 
-Before filling out this form, please check if the complaint has been logged before by searching our internal database. 
-Please fill out all required fields and provide as much detail as possible in each section. 
-This form is used to track and manage customer complaints, so please be specific and clear in your responses.
-</thinking>
-
 # Complaint Log Tracker - Help Guide
 ## Purpose
 The Complaint Log Tracker is a form used to record and track customer complaints. It helps us to manage and resolve issues efficiently, ensuring that customers receive timely and effective support.

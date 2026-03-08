@@ -1,6 +1,3 @@
-<thinking>
-We will need to verify that the form is being used for its intended purpose, rather than duplication or as a placeholder. The contact form is intended for customers to get in touch with our team, providing their contact information, a message subject, and a detailed description of their issue or inquiry. To prevent duplication, we will ensure that each field has a clear and concise label, and the form's layout is organized and easy to navigate. We will also include a section at the end of this help guide with some general tips for filling out the form correctly.
-</thinking>
 # Contact Form With Red Envelope Theme 2 - Help Guide
 ## Purpose
 This form is designed for customers to communicate with our team regarding delivery status, technical support, general inquiries, or to provide feedback. Please fill out the form with accurate and detailed information to ensure our team can assist you effectively.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customer service agents to collect feedback from customers. The purpose of this form is to gather information about the customer's interaction with the company, including their name, email, phone number, the type of interaction they had, and their interaction frequency. The form is not intended to be filled out on a daily basis, but rather as an occasional way to gather more detailed information from customers. This is not a duplicate form, and the information collected will be used to improve customer service operations.
-</thinking>
-
 # customer_service_survey - Help Guide
 ## Purpose
 This form is designed for customer service agents to collect feedback from customers.

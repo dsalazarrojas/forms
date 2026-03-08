@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cruise_parental_consent_form - Help Guide
 
 ## Purpose

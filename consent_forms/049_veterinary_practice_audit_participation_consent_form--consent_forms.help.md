@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for veterinary practices to participate in an audit, indicating their willingness to cooperate and provide information for the purpose of improving veterinary standards and services. The form should be filled out by the practice's representative, who will be responsible for submitting it. The fields are divided into sections, each with a brief description.
-</thinking>
-
 # Veterinary Practice Audit Participation Consent Form - Help Guide
 ## Purpose
 This form is for veterinary practices to participate in an audit, which is an evaluation process aimed at improving the standards and services offered by veterinary practices. 

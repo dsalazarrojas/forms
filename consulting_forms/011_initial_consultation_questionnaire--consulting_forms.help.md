@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a comprehensive questionnaire designed to gather information about the client's consultation process. Its primary purpose is to collect data for the provider's initial consultation, which will help them understand the client's needs, preferences, and goals. This form aims to streamline the consultation process, ensuring that both parties have a clear understanding of each other's expectations. The questions are designed to be concise and user-friendly, allowing providers to quickly and accurately gather the necessary information to move forward with the consultation.
 
 # Initial Consultation Questionnaire - Help Guide

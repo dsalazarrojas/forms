@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a "Makeover Hamper Registration" which likely refers to a promotional event or contest where individuals can provide their details to participate or register for a hamper or prize. This form is likely used for event organization or management purposes.
-The form is intended to gather essential information from individuals who want to participate in the event or contest. It's crucial to understand that this form is not a general registration for any event, but rather a specific one focused on a hamper or prize, indicating a more controlled and curated collection of participants.
-To avoid duplication, it's recommended that users fill out this form only if they haven't already done so or if the specific hamper or prize they're interested in aligning with the current registration requirements.
-</thinking>
-
 # Makeover Hamper Registration - Help Guide
 ## Purpose
 This guide will walk you through the steps to fill out the "Makeover Hamper Registration" form, which is used to collect information for a specific promotional event or contest.

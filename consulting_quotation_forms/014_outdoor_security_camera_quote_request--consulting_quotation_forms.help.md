@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers requesting a quote for outdoor security camera installation. The form is likely to be filled by customers interested in getting a quote for security cameras for their properties. It's possible that the customer has already reached out to the company before, but this form is a convenient way to collect all necessary information in one place.
-
-To avoid duplication, you might want to check if the customer's contact information and property details are already stored in your database before allowing them to fill out the form. This will ensure that you don't waste time collecting redundant information and can focus on providing a quote.
-
-</thinking>
-
 # Outdoor Security Camera Quote Request - Help Guide
 ## Purpose
 This form is designed to collect information from customers requesting a quote for outdoor security camera installation. It will help you gather all necessary details about the customer, property, and camera preferences.

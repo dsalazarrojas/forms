@@ -1,23 +1,3 @@
-<thinking>
-This form is for uploading marketing campaign assets, such as images, videos, or documents. The purpose of this form is to provide a centralized platform for users to upload and manage marketing campaign assets. The form is designed to ensure that all necessary information is captured during the upload process, including asset metadata such as tags and description.
-
-Before proceeding, ensure that the marketing campaign name is properly filled out, as this will help in asset management and organization. The asset upload process should only be done by authorized personnel to prevent unauthorized access or asset misuse. Also, be aware that asset tags are used for filtering and categorization, so please use relevant tags for better asset discoverability.
-
-This form is a critical component of our marketing campaign asset management system and should only be used for legitimate purposes. Please do not upload unnecessary or duplicate assets to avoid clutter and confusion.
-
-Before filling out this form, please review and confirm the following fields:
-
-- Marketing Campaign Name: The name of the marketing campaign that the asset is associated with.
-- Asset Type: The type of asset being uploaded (e.g., image, video, document).
-- Asset File: The actual file containing the marketing asset.
-- Usage Context: The context in which the asset will be used (e.g., social media, email marketing, website).
-- File Description: A brief description of the asset.
-- Tags: Relevant tags for the asset for easier search and categorization.
-- Comments: Additional comments about the asset.
-
-Each field has a specific purpose and should be filled out accordingly. Please refer to the sections below for detailed explanations of each field.
-</thinking>
-
 # Marketing Campaign Asset Upload Form - Help Guide
 ## Purpose
 

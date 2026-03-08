@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an art competition. It's intended for individuals who want to submit their entries for the competition. The form is used to gather details about each entry, including payment information, artist details, and submitter information. This form ensures that all required fields are properly filled out before submitting the entry. This guide will help you understand each field's purpose and how to complete it correctly.
-</thinking>
-
 # ppmt_print_competition_form - Help Guide
 ## Purpose
 The purpose of this form is to collect entry details for the art competition. It's a crucial step in the submission process, and it's essential to fill it out accurately to avoid any issues with your entry.

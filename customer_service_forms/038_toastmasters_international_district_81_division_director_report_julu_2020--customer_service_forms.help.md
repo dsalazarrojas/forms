@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a report for the Toastmasters International District 81 Division Director, intended to gather information from district directors on their division's performance and status. This report aims to gather data on various aspects of the division's activity, such as division directors, clubs, and reporting periods. It's essential to fill this form accurately to ensure that the data collected will be helpful for future planning and decision-making. To avoid errors and ensure consistency, please make sure to fill in the form correctly.
-
-</thinking>
-
 # toastmasters-international-district-81-division-director-report-julu-2020 - Help Guide
 ## Purpose
 This form is a report for the Toastmasters International District 81 Division Director, designed to gather data on various aspects of the division's activity. Please fill in the form accurately to provide valuable information for future planning and decision-making.

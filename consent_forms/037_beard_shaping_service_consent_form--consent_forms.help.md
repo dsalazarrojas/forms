@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Beard Shaping Service Consent Form - Help Guide
+> # Beard Shaping Service Consent Form - Help Guide
 ## Purpose
 
 This consent form is used to obtain the client's consent and agreement to receive the beard shaping service. It is required to be completed by the client before the service can be provided.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and consent for photography sessions. It is intended for use in various contexts where photography is involved, such as portrait photography, event photography, or commercial photography. Before proceeding, please ensure that this form is relevant and not a duplicate for your specific use case. This form does not collect sensitive or personal identifiable information and is designed to be used in public or non-public contexts.
-</thinking>
-
 # Photography Release Consent Form - Help Guide
 ## Purpose
 The Photography Release Consent Form is designed to obtain consent from clients or subjects before, during, or after a photography session. This form ensures that all parties involved in the photography session are aware of their roles, responsibilities, and expectations.

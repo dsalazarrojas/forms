@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Activity Trip Permission Form - Help Guide
 
 ## Purpose

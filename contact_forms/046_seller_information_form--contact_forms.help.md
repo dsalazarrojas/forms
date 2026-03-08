@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from sellers about their personal and property-related details. It is not a form for general inquiries or support requests. Before filling out this form, please ensure that you have not already submitted a similar request or inquiry. This form is for sellers who are actively looking to sell their properties and want to provide relevant information to potential buyers or real estate agents.</thinking>
-
 # Seller Information Form - Help Guide
 ## Purpose
 The Seller Information Form is designed to collect essential details from sellers who are listing their properties for sale. This form helps us understand their preferences and requirements, enabling us to tailor our services to their needs.

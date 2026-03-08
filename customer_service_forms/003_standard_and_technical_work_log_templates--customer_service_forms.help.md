@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "standard_and_technical_work_log_templates" is designed to provide a template for recording standard and technical work logs. This form can be used by individuals responsible for maintaining equipment, facilities, or services to document issues that arise during troubleshooting and technical activities. The form will help users to systematically record and track problems, errors, or anomalies, making it easier to identify patterns, causes, and solutions.
 
 The purpose of this form is to facilitate the maintenance and improvement of equipment, facilities, or services by collecting data on standard and technical work performed, issues encountered, and actions taken to resolve them. By completing this form, users can ensure that their work is documented accurately and consistently, reducing errors and improving future performance.

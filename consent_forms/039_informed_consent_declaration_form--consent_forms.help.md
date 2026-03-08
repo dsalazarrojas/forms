@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for informed consent from participants in a research study. The purpose of this form is to gather essential details about the participant, including their demographic information, medical procedure, and researcher's details. This form will be used to ensure that the participant has provided their informed consent and is aware of the risks and benefits associated with the study. It will also help in maintaining a record of the participant's consent, which is an essential aspect of research ethics.
-</thinking>
-
 # Informed Consent Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect informed consent from participants in a research study. It is essential to understand the purpose of the form before filling it out.

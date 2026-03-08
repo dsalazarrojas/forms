@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urban Convenience Feedback Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants interested in booking private swim lessons. The form will help instructors gather the necessary details to provide personalized instruction tailored to each participant's needs and goals. The participant's information will be used to create a schedule of lessons, determine the instructor's availability, and set up the necessary communication channels. Please ensure that the participant's contact information is accurate to avoid any miscommunication. If a participant already exists in the system, please do not create duplicate records.
-
-</thinking>
-
 # Private Swim Lesson Registration Form - Help Guide
 ## Purpose
 The Private Swim Lesson Registration Form is designed to collect participant information for private swim lessons. It helps instructors gather necessary details for personalized instruction and schedule management.

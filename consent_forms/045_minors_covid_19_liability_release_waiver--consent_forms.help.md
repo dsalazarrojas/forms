@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # minors_covid_19_liability_release_waiver - Help Guide
 
 ## Purpose

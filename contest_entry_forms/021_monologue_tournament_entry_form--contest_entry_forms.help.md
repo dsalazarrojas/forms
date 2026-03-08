@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for users to enter a monologue tournament. The purpose of the form is to collect information from users about their monologue preferences, including the title and description of their monologue, contact information, and any additional files they would like to include. The form is divided into two sections: one for general information and another for additional monologue files.
-
-The form is used to prevent duplication by checking for existing entries with the same email address.
-
-</thinking>
-
 # Monologue Tournament Entry Form - Help Guide
 ## Purpose
 The Monologue Tournament Entry Form is used to collect information from users about their monologue preferences and additional files they would like to include in the tournament.

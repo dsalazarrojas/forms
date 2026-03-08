@@ -1,13 +1,3 @@
-<thinking>
-
-This form aims to gather feedback from users on their experience with a utility service. It is designed to help the service provider understand their customers' satisfaction levels, identify areas for improvement, and gather ideas on how to enhance the service. 
-
-The form will only be filled out by users who have interacted with the service in some way, so it's likely that most users will find the form relevant and worth filling out. It's unlikely that users who have not interacted with the service will be able to answer many of these questions, so the form's relevance can be expected for most users.
-
-The form is divided into sections, making it easy for users to focus on one topic at a time and provide detailed feedback.
-
-</thinking>
-
 # Utility Service Satisfaction Survey - Help Guide
 
 ## Purpose

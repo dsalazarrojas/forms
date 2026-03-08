@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information related to the rental of restrooms for events or other activities. It is likely used by event organizers or facility managers to gather details about the event and the contact person responsible for it. The form should be completed by the person responsible for the event to provide essential information about the event and their contact details.
-</thinking>
-
 # Restroom Rental Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information about events or activities that will be held in facilities with restrooms. The form will help the facility manager or event organizer understand the nature of the event, contact details, and other relevant information.

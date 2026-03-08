@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about customer complaints and issues related to airport services. The primary goal of this form is to gather detailed descriptions of the incidents, categorize them into specific service categories, and identify the desired resolution. The form likely aims to provide a structured way for customers to report problems such as missed flights, delayed departures, unsatisfactory staff behavior, or other issues affecting their travel experience. The purpose of this form is to ensure that the airport can address these complaints efficiently and effectively.
-</thinking>
-
 # Airport Services Complaint Form - Help Guide
 ## Purpose
 This form allows you to report any issues or incidents you experienced while traveling through our airport. Please use this form to provide us with a detailed description of what happened, the category of the service that was affected, and any other relevant information.

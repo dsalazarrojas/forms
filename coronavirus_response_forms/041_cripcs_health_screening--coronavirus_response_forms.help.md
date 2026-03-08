@@ -1,9 +1,3 @@
-<thinking>
-This form, CRIPCS Health Screening, is designed to help health professionals assess a person's health status in relation to COVID-19. It is meant to be completed by individuals who have come into contact with a person who has been diagnosed with COVID-19 or who have symptoms that could be indicative of the virus. The form is used to determine whether the individual needs to be isolated or quarantined to prevent the spread of the virus.
-This form should only be completed by authorized health professionals and should not be used for general health screenings or assessments. The form's purpose is to quickly and accurately assess the risk of COVID-19 transmission and provide guidance on necessary precautions or isolations.
-
-</thinking>
-
 # CRIPCS Health Screening - Help Guide
 ## Purpose
 The CRIPCS Health Screening form is designed to be completed by health professionals to assess the health status of individuals who have come into contact with a person who has been diagnosed with COVID-19 or who have symptoms that could be indicative of the virus. This form is meant to be used for rapid assessment and guidance on necessary precautions or isolations.

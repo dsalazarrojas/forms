@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a Media Release And Personal Injury Waiver form. The purpose of this form is to gather details about an incident, including the date and time of the injury, the location where the injury occurred, and the description of the injury. The form also asks for contact information for the individual who was injured, as well as details about any witnesses, including their name, email, and phone number.
-
-It's worth noting that this form is not designed for duplicate submissions, so please ensure that you have reviewed and submitted any previous forms before filling out this one.
-
-</thinking>
-
 # Media Release And Personal Injury Waiver - Help Guide
 ## Purpose
 The Media Release And Personal Injury Waiver form is a form designed to collect information about an incident, including the date and time of the injury, the location where the injury occurred, and the description of the injury.

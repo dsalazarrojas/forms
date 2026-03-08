@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Emergency Contact Form - Help Guide
 
 ## Purpose

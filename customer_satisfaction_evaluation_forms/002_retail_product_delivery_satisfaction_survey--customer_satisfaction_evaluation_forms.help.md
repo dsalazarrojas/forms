@@ -1,12 +1,3 @@
-<thinking>
-
-**Internal reasoning block:** 
-The purpose of this form is to gather feedback from customers about their experience with a retail product, specifically regarding delivery experience, product quality, and other related aspects. This form is designed to be completed by customers after receiving their order, and it helps the company to understand their level of satisfaction and potential areas of improvement.
-
-Before creating this help guide, I've reviewed the form fields and their corresponding labels, which are quite self-explanatory, but I'll provide a clear and concise explanation of each field to ensure end-users understand the form's purpose and how to complete it without any confusion.
-
-</thinking>
-
 # retail_product_delivery_satisfaction_survey - Help Guide
 
 ## Purpose

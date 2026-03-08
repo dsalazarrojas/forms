@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to screen individuals for potential COVID-19 exposure, symptoms, and travel history. It collects information from patients to help healthcare professionals assess the risk of COVID-19 and provide appropriate care. The form includes questions about symptoms such as fever, cough, shortness of breath, sore throat, loss of taste or smell, recent travel, and exposure to a confirmed case. The form also asks for the individual's full name, date of screening, and if they have a healthcare provider to contact. This guide will walk you through how to complete each section of the form.
-
-</thinking>
-
 # COVID 19 Symptom Screening Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect information on symptoms, travel history, and exposure to a confirmed case for individuals suspected of having or being at risk for COVID-19.

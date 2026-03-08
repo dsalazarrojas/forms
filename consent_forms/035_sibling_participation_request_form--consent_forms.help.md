@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather information about the participant's sibling's participation in a program or event. The sibling's involvement is a crucial factor in the decision-making process, and this form helps the organization understand their relationship, school attendance, and previous program experience. It's essential to fill this form accurately to ensure the information is up-to-date and relevant.
-</thinking>
-
 # Sibling Participation Request Form - Help Guide
 ## Purpose
 The Sibling Participation Request Form is used to gather information about the participant's sibling, which is necessary for making informed decisions about their program or event participation.

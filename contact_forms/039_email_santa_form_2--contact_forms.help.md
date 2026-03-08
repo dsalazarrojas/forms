@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to contact Santa Claus's workshop to request a gift or provide additional information for an existing contact. This form is not a part of any official Santa Claus or holiday organization and is a standalone creation. There's no risk of duplication with other forms as it's a custom creation using a specific combination of title and category. It's best to use this guide to ensure accurate and complete submission.
-</thinking>
-
 # Email Santa Form 2 - Help Guide
 ## Purpose
 This form is designed for users to contact Santa Claus's workshop for various purposes, such as requesting gifts or providing additional information for an existing contact. It's a standalone form created using public metadata and is not affiliated with any official holiday organization.

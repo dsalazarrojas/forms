@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to request an estimate for house cleaning services. The form is used to gather information about the customer's house, including the type of house, square footage, estimated labor cost, estimated total cost, additional services needed, and any additional comments or contact information. This form helps to streamline the process of providing a quote for the customer. Please verify that the form is being used for its intended purpose and that the customer is aware of the services included in the form.
-</thinking>
-
 # House Cleaning Estimate Form - Help Guide
 ## Purpose
 The House Cleaning Estimate Form is a tool used to collect information from customers for the purpose of providing a quote for house cleaning services.

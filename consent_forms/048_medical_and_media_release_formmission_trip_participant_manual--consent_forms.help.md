@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for participants in a mission trip, requiring them to provide medical and media release information. This form likely aims to gather the necessary permissions and agreements before allowing participants to engage in media and medical activities related to the mission trip. To ensure that the form is completed correctly, we will review each field to determine its purpose and ensure that the participant understands what is required of them. We will also verify that this form does not duplicate any existing forms that may have similar requirements, ensuring that the participant is not burdened with excessive data collection.</thinking>
-
 # medical_and_media_release_form_mission_trip_participant_manual - Help Guide
 ## Purpose
 This form is for mission trip participants to provide medical and media release information. It is used to gather the necessary permissions and agreements before allowing participants to engage in media and medical activities related to the mission trip.

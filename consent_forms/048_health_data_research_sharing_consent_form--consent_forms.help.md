@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I need to understand the purpose and context of this form. Based on the provided YAML, it appears that this form is designed for participants in a health data research study. The form likely aims to collect information about the participant, their contact information, and their consent status. To confirm, please let me validate the form's purpose.</thinking>
-
 # Health Data Research Sharing Consent Form - Help Guide
 
 ## Purpose

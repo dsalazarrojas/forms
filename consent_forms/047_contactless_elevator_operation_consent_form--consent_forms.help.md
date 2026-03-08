@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for obtaining consent from residents or authorized users of a building for contactless elevator operation. The purpose of this form is to gather essential information for safe and secure access to elevators. The form will collect data on the individual's consent to touchless operation, their contact information, occupancy type, and other relevant details. This form should only be filled out by authorized individuals who have been granted access to the elevators.
-</thinking>
-
 # Contactless Elevator Operation Consent Form - Help Guide
 
 ## Purpose

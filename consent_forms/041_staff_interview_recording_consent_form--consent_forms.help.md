@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly cover the purpose and context of this form. This "Staff Interview Recording Consent Form" is designed to gather information and obtain consent from staff members for recording interviews in a professional setting. The form is used to document the consent of staff members for recording conversations, meetings, or discussions. This form is typically used by HR teams, management, or other departments that conduct regular interviews or discussions with staff members. Before filling out this form, please review the purpose and context to ensure it's relevant to your work and avoid duplication of efforts.</thinking>
-
 # Staff Interview Recording Consent Form - Help Guide
 ## Purpose
 The Staff Interview Recording Consent Form is designed to obtain consent from staff members for recording interviews, meetings, or discussions in a professional setting. This form helps ensure that all parties involved are aware of and agree to the recording process.

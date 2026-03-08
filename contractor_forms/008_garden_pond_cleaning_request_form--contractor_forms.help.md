@@ -1,7 +1,3 @@
-<thinking>
-We are checking to see if this form has been used before for the purpose of cleaning the garden pond and that it is not used for another, unrelated purpose.
-</thinking>
-
 # garden_pond_cleaning_request_form - Help Guide
 ## Purpose
 This form is designed for users to submit a request for cleaning of the garden pond. This form is used to provide detailed information about the request, including the category, date, and time of the cleaning. It also captures contact information and status of the request.

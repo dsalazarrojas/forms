@@ -1,7 +1,3 @@
-<thinking>
-To create an effective help guide, we need to understand the purpose of this form, which appears to be a general contact form for libraries. It should be used for users who interact with the library, such as students, parents, or library staff. The form's main fields include basic contact information (first name, last name, email, and contact number), a suggestion field, department selection (single or multiple), and school ID and school name fields. To prevent duplication of work, we should ensure that users understand each field's purpose and how to fill it out correctly.
-</thinking>
-
 # Library Interaction Form - Help Guide
 ## Purpose
 The Library Interaction Form is designed to collect information from users who interact with the library. This form helps library staff to efficiently process and respond to user inquiries, suggestions, and requests.

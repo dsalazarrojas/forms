@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture requests for entertainment technology consultation from clients. The purpose of this form is to gather information about the project details and the client's contact information, technology needs, and any additional comments. It is recommended to fill out the form only once per project, to avoid duplication of effort. This form is intended for internal use by the entertainment technology consultation team.
-</thinking>
-
 # Entertainment Tech Consultation Request Form - Help Guide
 ## Purpose
 The Entertainment Tech Consultation Request Form is designed to collect information from clients about their project details, contact information, and technology needs to provide consultation services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather informed consent from patients for medical marijuana treatment. The purpose of this form is to ensure that patients understand the risks and benefits of the treatment, their medical history, and the implications of participating in the program. This form should only be completed by patients who have been prescribed medical marijuana by a healthcare provider. The form must be completed in its entirety before the patient can begin treatment. If a patient has already completed this form in the past, please ensure that it is not duplicated and that all relevant information is up-to-date.
-</thinking>
-
 # Patient Informed Consent For Medical Marijuana Treatment - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from patients for medical marijuana treatment, ensuring they understand the risks and benefits associated with the treatment.

@@ -1,8 +1,3 @@
-<thinking>
-We will create a comprehensive user-facing help guide for the "COVID 19 Nail Salons Treatment Consent Form" in Markdown format.
-This form is designed to gather essential information from clients about their health status, allergies, and consent for treatment. The guide will cover three main sections: Purpose, How To Complete This Form, and Field-by-Field Explanation.
-</thinking>
-
 # COVID 19 Nail Salons Treatment Consent Form - Help Guide
 ## Purpose
 The COVID 19 Nail Salons Treatment Consent Form is designed to ensure a safe and healthy experience for all clients. This form gathers information about the client's health status, allergies, and consent for treatment to minimize the risk of COVID-19 transmission and any potential allergic reactions.

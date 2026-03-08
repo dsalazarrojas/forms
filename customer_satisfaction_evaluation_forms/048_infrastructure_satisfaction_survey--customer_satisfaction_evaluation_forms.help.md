@@ -1,9 +1,3 @@
-<thinking>
-
-This is a crucial step to confirm that I understand the task requirements correctly. To clarify, I will be creating a user-facing help guide for the "infrastructure_satisfaction_survey" form. The guide will cover the form's purpose, how to complete it, and an explanation of each field. I will output the final guide in Markdown structure as specified.
-
-</thinking>
-
 # infrastructure_satisfaction_survey - Help Guide
 ## Purpose
 The infrastructure_satisfaction_survey form is designed to gather feedback and ratings from customers on their experience with our infrastructure services. This form aims to understand how customers perceive the quality of our services, their overall experience, and areas where improvements can be made. Your input is valuable in helping us enhance our services to better meet your needs.

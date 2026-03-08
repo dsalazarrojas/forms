@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to provide personal and sensitive information about themselves for the purpose of treatment preparation and consent. It will help the practitioner prepare for the client's visit by gathering relevant details such as contact information, skin and hair conditions, and services to be performed. This form will help ensure a seamless and efficient intake process.
-</thinking>
-
 # Facial Client Intake And Consent Form - Help Guide
 ## Purpose
 This form collects essential information from clients to help the practitioner prepare for their visit and obtain their consent for treatment.

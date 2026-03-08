@@ -1,13 +1,3 @@
-<thinking>
-This guide is for the "League Podcast Interview Consent Form", a form used to collect information and obtain consent from guests and hosts for recording and publishing their interviews. 
-
-This form ensures that guests and hosts are aware of and agree to the terms of the recording, publishing, and sharing of the interview. 
-
-This form is intended for guests and hosts who are participating in a podcast interview. It is not intended for general public use. 
-
-Please note that the completion of this form is required for all podcast interviews.
-</thinking>
-
 # League Podcast Interview Consent Form - Help Guide
 ## Purpose
 The League Podcast Interview Consent Form is used to collect information and obtain consent from guests and hosts for recording and publishing their interviews.

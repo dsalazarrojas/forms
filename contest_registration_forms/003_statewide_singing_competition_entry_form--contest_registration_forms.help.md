@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # statewide_singing_competition_entry_form - Help Guide
 ## Purpose
 The state-wide singing competition entry form is designed to gather information from users who wish to participate in the competition. This form captures essential details such as name, contact information, performance experience, and submission data.

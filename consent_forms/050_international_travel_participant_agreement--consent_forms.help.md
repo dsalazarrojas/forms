@@ -1,9 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I understand that the provided YAML form structure is for an "International Travel Participant Agreement" form. The form appears to be designed to collect information from participants traveling internationally, likely for purposes related to academic or professional programs. However, I will refrain from making any assumptions or inferring the exact use case without further context. I will also avoid duplicating any existing documentation or providing unnecessary information.
-
-</thinking>
-
 # International Travel Participant Agreement - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information for an international travel agreement. It is designed to gather the necessary details from individuals traveling abroad for academic, research, or professional purposes.

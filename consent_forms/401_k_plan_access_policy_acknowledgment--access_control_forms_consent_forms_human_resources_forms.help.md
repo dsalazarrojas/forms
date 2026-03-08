@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to gather acknowledgment from employees on the 401(k) Plan Access Policy, ensuring they understand their rights and responsibilities. This form is meant to be filled out by employees, particularly those with 401(k) plans in place. To confirm, this form is not applicable to contractors or part-time workers.
-
-Before filling this form out, please ensure that you are not doing this already. If you have previously filled out the form, it's recommended that you review the changes to the 401(k) Plan Access Policy and update your acknowledgment accordingly.
-
-The form collects information from the employee, including their unique identifier, contact information, employment details, 401(k) contribution rate, and their level in the organization. It also includes an acknowledgment of understanding the 401(k) Plan Access Policy and a date of acknowledgment. 
-
-The form also collects feedback on employee satisfaction, communication from management, support for professional development, and work-life balance. Employees can provide suggestions for improvement and additional comments.
-
-Please note that some fields are not required, and you can skip them if not relevant to your situation.
-
-This guide will walk you through each section step-by-step, ensuring you complete the form accurately and efficiently.
-
-</thinking>
-
 # 401(k) Plan Access Policy Acknowledgment - Help Guide
 ## Purpose
 The 401(k) Plan Access Policy Acknowledgment form is used to ensure that employees understand the 401(k) Plan Access Policy and acknowledge their rights and responsibilities related to it.

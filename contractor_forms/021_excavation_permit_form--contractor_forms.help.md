@@ -1,6 +1,3 @@
-<thinking>
-The Excavation Permit Form is used to provide information about a site where excavation work is being or has been performed. This form is used by site managers and excavation supervisors to document the site address, location, description, and other relevant details about the site. This form should only be used for sites where excavation work is being or has been performed, and not for other types of work. Please ensure that you're filling out this form for the correct purpose. The form should not be used to duplicate information already submitted in other forms.</thinking>
-
 # Excavation Permit Form - Help Guide
 ## Purpose
 The Excavation Permit Form is used to document site information for sites where excavation work is being or has been performed.

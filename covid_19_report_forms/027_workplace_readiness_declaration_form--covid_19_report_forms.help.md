@@ -1,8 +1,3 @@
-<thinking>
-The Workplace Readiness Declaration Form is designed to help employees declare their readiness to return to work during the COVID-19 pandemic. This form is intended to be completed by employees who are returning to the workplace after a period of absence due to illness or other reasons related to the pandemic. The form is used to assess the employee's health status, travel history, and ability to follow health and safety precautions to ensure a safe working environment for everyone.
-Before completing this form, please ensure you have not already completed it and that you are ready to return to work. If you have any doubts or questions, reach out to your supervisor or HR representative.
-</thinking>
-
 # Workplace Readiness Declaration Form - Help Guide
 ## Purpose
 The Workplace Readiness Declaration Form is a necessary tool for ensuring a safe working environment during the COVID-19 pandemic. Please review the form carefully and answer the questions honestly to help us assess your workplace readiness.

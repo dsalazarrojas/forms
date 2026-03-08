@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # legal_documentation_consent_form - Help Guide
 ## Purpose
 The Legal Documentation Consent Form is used to collect user information and consent for the collection, use, and sharing of their data. This form is an essential part of our organization's legal compliance and helps ensure that users understand their data rights and how it will be used.

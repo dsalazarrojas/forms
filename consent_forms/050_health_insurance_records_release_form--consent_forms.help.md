@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a tool for collecting information about health insurance records release, which can be used for various purposes such as insurance claims, medical records, or other authorized purposes. Before proceeding, please ensure that you are not duplicating any efforts and that your intent is aligned with the purpose of this form. 
-
-Please note that this form is AI-generated and does not contain any proprietary content. You are free to use, modify, and even sell this form, as long as you give credit to the original creators. 
-
-For further information, please contact form@gic.mx.
-</thinking>
-
 # Health Insurance Records Release Form - Help Guide
 
 ## Purpose

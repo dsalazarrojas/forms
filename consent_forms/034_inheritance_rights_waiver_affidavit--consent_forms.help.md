@@ -1,16 +1,3 @@
-<thinking>
-
-The Inheritance Rights Waiver Affidavit form is a legal document used to waive the rights to an estate or property in favor of the beneficiary named in a will or trust. It is used by the beneficiary to acknowledge their rights to the estate or property and confirm that they do not claim any rights to such estate or property. This form is usually completed in cases where the beneficiary has died or is unable to manage their estate or property.
-
-Before completing this form, please ensure that:
-- You have a legitimate interest in the estate or property.
-- You understand the terms and conditions of the will or trust document.
-- You are aware of the laws and regulations related to inheritance and property rights in your jurisdiction.
-
-Please note that this form is not a substitute for legal advice. If you are unsure about any of the information provided or have questions, please consult an attorney.
-
-</thinking>
-
 # Inheritance Rights Waiver Affidavit - Help Guide
 ## Purpose
 The Inheritance Rights Waiver Affidavit is a legal document used to waive the rights to an estate or property in favor of the beneficiary named in a will or trust.

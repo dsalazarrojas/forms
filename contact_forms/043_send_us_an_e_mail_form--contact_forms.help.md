@@ -1,5 +1,3 @@
-<thinking>As we designed this form using AI, we wanted to create a simple and user-friendly way to send us an email. This form allows users to input their email address, a subject, and a message. They can also choose their preferred language and optionally upload a file. By filling out this form, users can get in touch with us and we can respond to their inquiry. We encourage users to fill out all the required fields for a prompt response. Please take a moment to review the form carefully and fill it out according to your needs.</thinking>
-
 # Send Us An E Mail Form - Help Guide
 ## Purpose
 This form is designed to allow users to send us an email with their inquiry or feedback. It is a simple and user-friendly way to get in touch with us.

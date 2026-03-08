@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to record the attendance status and other relevant details of patients visiting a medical practice. It is crucial that this form is filled out accurately to ensure that the patient's attendance status is correctly recorded, and other necessary information is captured.
-To prevent duplicate entries, please ensure that you are not filling out this form for a patient who has already been recorded in the system. 
-You can check the "Patient ID" field to see if the patient's ID is already recorded. If it is, please do not submit this form. 
-</thinking>
-
 # Covid 19 Attendance Record Form - Help Guide
 ## Purpose
 

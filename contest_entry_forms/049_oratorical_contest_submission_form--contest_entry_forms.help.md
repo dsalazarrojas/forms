@@ -1,5 +1,3 @@
-<thinking>Before writing this user-facing help guide, I'll review the form's purpose and requirements. This form appears to be for submitting entries for an oratorical contest, collecting information about the participant, their speech, and event details. It includes fields for participant details, speech title, speech text, materials, upload materials, participant contact information, school details, and event details. I will ensure that the guide accurately explains each field and its purpose.</thinking>
-
 # Oratorical Contest Submission Form - Help Guide
 ## Purpose
 The Oratorical Contest Submission Form is a form designed to collect information about participants and their speech submissions for an oratorical contest. To complete this form, you will need to provide personal and speech details, as well as contact information and event details.

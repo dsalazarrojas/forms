@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for hair color consultations, where users will select their hair color, condition, length, type, porosity, diameter, and other relevant details. The form will likely be used by hair stylists or consultants to gather information from clients before scheduling a consultation or appointment. This form may be used to ensure that clients' preferences and requirements are met, and to facilitate follow-up communication after the consultation.
-</thinking>
-
 # Hair Color Consultation Form - Help Guide
 ## Purpose
 The Hair Color Consultation Form is designed to gather information from clients about their hair color, condition, length, type, porosity, diameter, and other relevant details. This information will be used by hair stylists or consultants to provide personalized services and follow up with clients.

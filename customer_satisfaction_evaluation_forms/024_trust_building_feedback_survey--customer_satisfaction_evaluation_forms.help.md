@@ -1,7 +1,3 @@
-<thinking>
-This form is a Trust Building Feedback Survey designed to gauge the level of trust a customer has in the service delivery process. It seems reasonable to have a form like this to collect customer feedback, as it can help in identifying areas of improvement and building trust with customers. However, we must ensure that the form is not being duplicated, as this may lead to data duplication and confusion. To avoid this, we will clearly document the purpose and usage of this form, making it easier for end-users to understand its relevance and importance.
-</thinking>
-
 # Trust Building Feedback Survey - Help Guide
 
 ## Purpose

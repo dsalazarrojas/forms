@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for copywriters and their clients to collect information about companies that need content creation services. The form aims to gather essential data about the company, including its name, website, services and products offered, target audience, contact details, and social media presence. The form is not intended for urgent requests or emergencies, and it's recommended to review each section carefully before submitting the form to ensure the most accurate information is provided.
-
-</thinking>
 # Copywriter Intake Form - Help Guide
 ## Purpose
 The Copywriter Intake Form is a tool for copywriters and their clients to collect and share information about companies that require content creation services. This form helps the copywriter to get a better understanding of the company's needs, target audience, and services offered.

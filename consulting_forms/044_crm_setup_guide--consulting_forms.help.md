@@ -1,9 +1,3 @@
-<thinking>
-We have received your request to create a user-facing help guide for the CRM Setup Guide form. This form is designed to gather essential information for the implementation of a CRM system. The purpose of the form is to capture project details, such as project name, company information, and system selection, to ensure a smooth and successful CRM setup.
-
-Before proceeding, please ensure that you have all the necessary information ready and that this is not a duplicate request.
-
-</thinking>
 # CRM Setup Guide - Help Guide
 ## Purpose
 The CRM Setup Guide is a form designed to collect key information for the successful implementation of a CRM system.

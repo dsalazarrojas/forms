@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a form called "luxury_home_inquiry_form" used for inquiring about luxury homes. This form has 10 fields, each with a specific label and type. The form is likely used for real estate inquiries, such as finding a dream home or asking about a specific property. Before proceeding, we should ensure that the form is relevant to the user's needs and not a duplicate of another form. 
-</thinking>
-
 # luxury_home_inquiry_form - Help Guide
 ## Purpose
 The "luxury_home_inquiry_form" is a form used to inquire about luxury homes. It is meant to collect information from users who are looking for high-end properties or have questions about specific properties.

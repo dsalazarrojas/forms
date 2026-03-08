@@ -1,17 +1,3 @@
-<thinking>
-
-To determine whether or not this survey template is suitable for your institution, please consider the following:
-
-- This template is designed to gather feedback from students on their overall satisfaction with their academic experience.
-- It assesses various aspects of their experience, including communication, support, teaching quality, and facilities.
-- The template uses multiple-choice questions for objective evaluation and open-ended questions for more detailed comments.
-- By using this template, you can identify areas of satisfaction and improvement for your institution.
-- It is essential to ensure that the survey aligns with your institution's specific goals and objectives, and that it is distributed to a representative sample size of students.
-
-Please note that while this template has been generated using AI, it does not copy, extract, or use proprietary content from any form platform.
-
-</thinking>
-
 # Student satisfaction survey template - Help Guide
 ## Purpose
 

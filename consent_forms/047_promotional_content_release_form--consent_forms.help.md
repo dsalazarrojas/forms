@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for individuals to provide a promotional content release, which is a legal document used to grant permission for a company or organization to use their personal data, likeness, or content in promotional materials. The form ensures that the individual has given their explicit consent to be featured or have their information used in various marketing efforts. It's crucial to fill out this form accurately and honestly, as the information provided will be used to represent the individual in a public or commercial context.
-
-The form is not designed for collecting sensitive or confidential data, and the purpose of this guide is to guide users through the completion of the form in a way that ensures they understand what each field is used for and what information should be provided.
-
-</thinking>
-
 # Promotional Content Release Form - Help Guide
 ## Purpose
 The Promotional Content Release Form is a document that grants permission for a company or organization to use an individual's personal data, likeness, or content in promotional materials. This form is used to ensure that the individual has given their explicit consent to be featured or have their information used in various marketing efforts.

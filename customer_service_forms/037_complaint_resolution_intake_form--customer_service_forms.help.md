@@ -1,11 +1,3 @@
-<thinking>
-To confirm, this form is designed to collect information from customers about their complaints or issues related to a company's products or services. The purpose of this form is to gather essential details to effectively resolve the complaint, including the date and time of intake, customer contact information, description of the issue, and more. This form will likely be filled out by a customer-facing representative, possibly during an initial call or interaction with the customer. The fields should be filled in accordingly to ensure accurate complaint data is captured.
-
-The form has a total of 29 fields, including date and time of complaint intake, customer contact information, description of the issue, and details about resolution expectations and assigned personnel.
-
-Please verify that the field descriptions and explanations accurately match the fields in the provided YAML schema.
-</thinking>
-
 # Complaint Resolution Intake Form - Help Guide
 ## Purpose
 The Complaint Resolution Intake Form is designed to collect essential information from customers about their complaints or issues related to a company's products or services.

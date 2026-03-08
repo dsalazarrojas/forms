@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture consent from individuals who are being featured in the Fitness Studio's social media posts. The purpose of this form is to ensure that individuals understand how their likeness, voice, and other personal data will be used and shared online. By completing this form, individuals are giving their informed consent for the Fitness Studio to post their information and likeness on various social media platforms. The form will be reviewed and stored for future reference.
-
-The form consists of two main sections: "Social Post Consent" and "Consent and Release". The "Social Post Consent" section asks the individual to select which type of social post they are comfortable with, while the "Consent and Release" section gathers information about the consent process, such as the date and time of service, type of consent, and release forms.
-
-This form is intended for use by Fitness Studio clients and individuals who may be featured in their social media posts. It is not intended for use by other business purposes or external parties.
-
-Please note that this form is a sample and may need to be reviewed and customized according to your business needs.
-</thinking>
-
 # Fitness Studio Social Post Consent Form - Help Guide
 ## Purpose
 This form is used to capture informed consent from individuals who are being featured in the Fitness Studio's social media posts. By completing this form, individuals are giving their consent for the Fitness Studio to post their likeness, voice, and other personal data on various social media platforms.

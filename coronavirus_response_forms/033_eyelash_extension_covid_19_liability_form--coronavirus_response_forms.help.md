@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Eyelash Extension COVID 19 Liability Form - Help Guide
 
 ## Purpose

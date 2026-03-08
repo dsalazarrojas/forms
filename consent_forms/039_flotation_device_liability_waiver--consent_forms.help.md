@@ -1,10 +1,3 @@
-<thinking>
-This form is a liability waiver for participants engaging in flotation device activities. The purpose of this form is to collect information and consent from participants before they engage in these activities, ensuring their safety and well-being. This form will be used to obtain consent for the participant to participate in the activity, and also to obtain any medical or emergency contact information that may be required in case of an emergency.
-
-The form has been designed to be user-friendly and easy to complete, with clear instructions and explanations of each field. Before filling out this form, please ensure that you are familiar with the activities and risks associated with flotation devices.
-
-Please review the form carefully and fill it out completely and accurately. If you have any questions or concerns, feel free to ask a staff member for assistance.</thinking>
-
 # Flotation Device Liability Waiver - Help Guide
 ## Purpose
 The Flotation Device Liability Waiver is a form that must be completed by participants before engaging in activities involving flotation devices. The form aims to inform participants of the associated risks and obtain their consent to participate.

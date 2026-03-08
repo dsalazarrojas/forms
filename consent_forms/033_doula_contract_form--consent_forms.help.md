@@ -1,10 +1,3 @@
-<thinking>
-To provide a clear understanding of the Doula Contract Form to end-users, let's break down its purpose. The Doula Contract Form is a tool used by doulas to capture information about client agreements, contract details, and other relevant data. This form is essential in establishing a clear understanding between doulas and their clients, ensuring both parties are on the same page.
-
-Before proceeding, please ensure you are familiar with the form's purpose and that you have not already completed it.
-
-</thinking>
-
 # Doula Contract Form - Help Guide
 ## Purpose
 The Doula Contract Form is a comprehensive tool designed to collect critical information between doulas and their clients. It captures essential details about contract agreements, client information, and other relevant data to ensure a clear understanding between both parties.

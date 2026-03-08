@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for capturing essential information from clients for a family and child photography contract. The goal is to collect session details, client contact information, and other related data in a comprehensive and structured manner. This template is not affiliated with or derived from any specific form platform, and it's an original adaptation using public survey topic metadata as inspiration.
-
-</thinking>
-
 # family_child_photography_contract_template - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients for a family and child photography session. It covers session details, client contact information, and terms and conditions.

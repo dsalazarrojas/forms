@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Advertising Display Consent Form - Help Guide
 
 ## Purpose

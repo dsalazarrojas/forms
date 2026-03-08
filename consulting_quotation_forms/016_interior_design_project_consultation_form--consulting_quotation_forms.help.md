@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture essential information about interior design projects. It collects details such as project name, description, and client contact information (name, email, and phone number). The form also includes fields for tracking project status, start date, deadline, address, project type, budget, and project manager's contact information. This guide is intended to help users fill out the form accurately and effectively.
-
-</thinking>
-
 # interior_design_project_consultation_form - Help Guide
 ## Purpose
 The interior design project consultation form helps gather and record essential project details for consultation and project management purposes.

@@ -1,21 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients participating in a financial coaching session. The form has several sections, each with a specific purpose:
-
-*   **Client Details**: Collects basic client information such as name, contact details, and other relevant data.
-*   **Session Details**: Asks for information about the session, including date, time, and any additional details.
-*   **Financial Coaching Session Agreement**: This section includes an agreement that the client will participate in the coaching session and understand the terms.
-*   **Client Confirmation**: A confirmation checkbox to ensure the client acknowledges the agreement.
-*   **Client Agreement Date**: The date the client agrees to the terms.
-*   **Coaching Terms**: A text area for the coach to document the terms of the agreement.
-*   **Session Goals**: Optional section for the coach to note the goals of the session.
-*   **Session Notes**: Another optional section for the coach to document any additional information about the session.
-*   **Session Outcomes**: Optional section for the coach to document the outcomes of the session.
-*   **Session Evaluation**: Optional section for the coach to evaluate the session.
-*   **Next Session Details**: Optional section for planning the next session.
-
-</thinking>
-
 # financial_coaching_session_agreement_form - Help Guide
 ## Purpose
 This form is designed to collect information from clients participating in a financial coaching session. It helps ensure that both the client and the coach are on the same page and understand the terms of the agreement before starting the session.

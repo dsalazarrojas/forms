@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to ensure form purpose and field relevance ...
-
-The purpose of this form is to allow students to enroll in a SAT course, providing essential details and payment information. This form should only be used for courses starting on or after the current date, and the user must choose a valid payment method. The form is designed to be simple and straightforward, with fields for course details, student information, and payment options.
-
-</thinking>
-
 # SAT Course Enrollment Form Template - Help Guide
 ## Purpose
 The SAT Course Enrollment Form is designed to facilitate the enrollment process for students in SAT courses. This form ensures that students can provide necessary information about their course and payment preferences while also enabling administrators to track and manage enrollments efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers to better understand their structured inquiries. It is meant to be completed by customers after they've been in contact with your company's customer service team, and it is not to be used for other purposes. This form will be used internally to help your company's team track and respond to customer issues.
-</thinking>
-
 # Structured Inquiry Form - Help Guide
 ## Purpose
 The Structured Inquiry Form is a tool used to gather information from customers after they've been in contact with your company's customer service team. This form is meant to help your company's team track and respond to customer issues in a structured and organized way.

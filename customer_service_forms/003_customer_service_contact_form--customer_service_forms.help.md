@@ -1,8 +1,3 @@
-<thinking>
-To confirm, the form purpose is likely to allow customers to contact customer service with their questions, comments, or concerns. This form will likely be used for general inquiries, billing issues, or product-related questions. It's possible that the form will also help customers provide feedback or report issues with the product or service. The form will be available on a public-facing website or a customer portal, and the goal is to ensure customers can easily get in touch with customer service with their concerns. The form might not be intended for urgent or time-sensitive matters, but rather for general inquiries or feedback. The form will likely not be designed for internal use, but rather for customers to interact with the company's customer service team. I will not duplicate existing information or create unnecessary fields. I will focus on explaining the form fields and their purpose clearly and concisely. I will also assume that the form is intended for customers to provide their first and last name, email, a message, and other relevant details to describe their inquiry or concern. I will also assume that customers can choose a category to help customer service prioritize their response or inquiry.
-
-</thinking>
-
 # Customer Service Contact Form - Help Guide
 
 ## Purpose

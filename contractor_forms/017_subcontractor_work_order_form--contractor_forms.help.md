@@ -1,8 +1,3 @@
-<thinking>
-The Subcontractor Work Order Form is used to collect information about work orders submitted by contractors or subcontractors for review and approval. This form is meant to gather essential details about the work order, including the work order type, client information, and subcontractor contact details. To ensure accurate and efficient processing, it's crucial that all required fields are completed correctly. Please note that this form does not appear to be a duplicate of any other form in our system, and its purpose is to support the work order process for our company.
-
-</thinking>
-
 # Subcontractor Work Order Form - Help Guide
 ## Purpose
 The Subcontractor Work Order Form is used to collect and store information about work orders submitted by contractors or subcontractors for review and approval purposes.

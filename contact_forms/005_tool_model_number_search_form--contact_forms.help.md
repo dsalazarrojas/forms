@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tool Model Number Search Form - Help Guide
 ## Purpose
 The Tool Model Number Search Form is designed to help users find specific tools or models based on their model numbers. This form aims to gather information about the tool model number, such as the tool type and other relevant details.

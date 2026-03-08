@@ -1,11 +1,3 @@
-<thinking>
-
-To help ensure that our users understand the purpose and requirements of the Minor Consent For Body Art form, let's break down the form's purpose and the process of completing it.
-
-The Minor Consent For Body Art form is used to obtain consent from minors who are undergoing body art procedures, such as tattoos, piercings, or other body modifications. This form is designed to ensure that minors understand the risks and benefits of the procedure and that their parents or guardians provide consent for the treatment. The form is used to obtain the necessary consent from both the minor and their parent or guardian, which helps to ensure that the minor's rights and safety are protected.
-
-</thinking>
-
 # Minor Consent For Body Art - Help Guide
 ## Purpose
 The Minor Consent For Body Art form is used to obtain consent from minors who are undergoing body art procedures, such as tattoos, piercings, or other body modifications. This form is designed to ensure that minors understand the risks and benefits of the procedure and that their parents or guardians provide consent for the treatment.

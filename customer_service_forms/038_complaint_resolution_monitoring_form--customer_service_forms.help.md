@@ -1,5 +1,3 @@
-<thinking>Before diving into the form's purpose and fields, let's briefly discuss the internal context and considerations that drive the creation of the Complaint Resolution Monitoring Form. This form is designed to monitor and track complaints, their resolution, and key performance indicators (KPIs) for customer service teams. It's essential to ensure that the data collected through this form is accurate, relevant, and actionable. The form's purpose is to provide visibility into complaint resolution processes, identify areas of improvement, and inform data-driven decisions.</thinking>
-
 # Complaint Resolution Monitoring Form - Help Guide
 ## Purpose
 The Complaint Resolution Monitoring Form is designed to collect and analyze data on customer complaints, their resolution, and key performance indicators (KPIs) for customer service teams. This form helps identify trends, track progress, and inform data-driven decisions to improve customer service quality and overall customer satisfaction.

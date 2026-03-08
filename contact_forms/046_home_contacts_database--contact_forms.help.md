@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "home_contacts_database" form that explains its purpose, how to complete it, and what each field means.</thinking>
-
 # home_contacts_database - Help Guide
 ## Purpose
 The "home_contacts_database" form is a contact information collection form used to gather details about individuals or events from a user. This form is designed to capture relevant contact information, such as name, email, and phone number, as well as event-related details like event name, date, and location. The form's primary purpose is to collect and store contact information for future reference.

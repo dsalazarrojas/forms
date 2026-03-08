@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect complaints from customers about vendors. Vendors use this form to gather feedback and improve their services. 
-The vendor may be a company or individual that a customer interacts with. The form will be used to gather information about the complaint, such as the details, product or service involved, and the complaint type. 
-This form can be used by anyone who wants to report a complaint against a vendor and it can be used for internal purposes only.
-</thinking>
-
 # Vendor Complaint Form - Help Guide
 ## Purpose
 The Vendor Complaint Form is designed to collect complaints from customers about their experiences with vendors. This form helps vendors gather valuable feedback to improve their services and respond to customer concerns.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Media Participation Waiver Form - Help Guide
 ## Purpose
 The Media Participation Waiver Form is a document that requires consent from participants, parents, or guardians for media participation, such as photos, videos, or audio recordings. It ensures that participants understand and agree to the use of their media in specific contexts.

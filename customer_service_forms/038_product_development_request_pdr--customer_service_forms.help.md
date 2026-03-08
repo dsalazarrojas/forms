@@ -1,10 +1,3 @@
-<thinking>
-This form is a tool for capturing Product Development Requests (PDRs) from various teams and stakeholders. Its primary purpose is to standardize the process of submitting product development ideas, track progress, and allocate resources effectively. 
-The PDR form is an essential part of our product development pipeline, ensuring that all requests are evaluated, prioritized, and implemented efficiently. By providing a clear and concise structure, this form helps stakeholders communicate their ideas and needs accurately, reducing confusion and misinterpretation. 
-This form's content and layout were generated using machine learning algorithms, but it has been reviewed and adapted to meet our specific use case and industry standards. 
-
-</thinking>
-
 # Product Development Request (PDR) - Help Guide
 ## Purpose
 The Product Development Request (PDR) form is designed to gather essential information from stakeholders for product development purposes. It is a crucial tool for capturing and prioritizing product ideas, ensuring that resources are allocated effectively and projects are completed efficiently.

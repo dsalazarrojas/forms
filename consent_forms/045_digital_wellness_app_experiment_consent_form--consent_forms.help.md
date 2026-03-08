@@ -1,6 +1,3 @@
-<thinking> 
-This form is for participants to give their consent to participate in a digital wellness app experiment. The form should only be used for participants who have already been recruited for the study and are ready to give their consent. The form is not intended to be used for general user registration or any other purposes. It is assumed that the participant has already been briefed on the study and its objectives. The form should not be filled out by participants who have not received prior notification about the study.</thinking>
-
 # Digital Wellness App Experiment Consent Form - Help Guide
 
 ## Purpose

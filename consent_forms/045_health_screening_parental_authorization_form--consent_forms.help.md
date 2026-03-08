@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect parental authorization and demographic information from parents or guardians of children. The form is designed to ensure that parents or guardians are aware of and agree to certain health screening activities. The fields on this form are meant to collect information about the parent/guardian's contact details and demographic information for the child.
-
-The form is not meant to be used for official medical purposes, but rather as a way to communicate with the parents/guardians about health screening activities. Therefore, it is essential to ensure that only the correct parents/guardians have access to this form and that the information collected is accurate and up-to-date.
-
-This form is not intended to be used for any other purpose other than the specified use case.
-</thinking>
-
 # Health Screening Parental Authorization Form - Help Guide
 ## Purpose
 The Health Screening Parental Authorization Form is a form used to collect authorization and demographic information from parents or guardians of children. This form is used to inform and obtain agreement from parents/guardians about certain health screening activities.

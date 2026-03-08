@@ -1,14 +1,3 @@
-<thinking>
-
-Internal reasoning block to ensure this form's purpose and data is valid:
-*   The Unemployment Application Form is used by individuals who are seeking unemployment benefits.
-*   This form collects relevant data about the user's employment history, reason for separation, and financial information.
-*   The form ensures that users provide accurate and valid information to process their unemployment claims. 
-*   The form is part of the process of filing for unemployment benefits and helps determine eligibility and calculate benefits. 
-*   Ensure that users understand their reason for separation and job history to process their claims. 
-
-</thinking>
-
 # Unemployment Application Form - Help Guide
 ## Purpose
 The Unemployment Application Form is a document used for individuals seeking unemployment benefits. This form collects information about your employment history, reason for separation, and financial details to process your claim.

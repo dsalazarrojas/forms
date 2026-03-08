@@ -1,10 +1,3 @@
-<thinking>
-The form "Rehabilitation Program Waiver Form" is used to collect information from participants in a rehabilitation program. This form is likely used in the context of healthcare or social services to gather essential details from individuals who are participating or have participated in a rehabilitation program. The form appears to be used for general purposes and does not seem to be specific to any particular program or service.
-
-To ensure accuracy, it's essential to review the form's requirements and ensure that the information collected is relevant to the program's goals and objectives. If you're unsure, please consult with the program administrator or the relevant authority.
-
-</thinking>
-
 # Rehabilitation Program Waiver Form - Help Guide
 ## Purpose
 The Rehab Program Waiver Form is used to collect participant's details for the rehabilitation program.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting page information. It's likely used for administrative or internal purposes, such as tracking or reporting. Ensure that the form is not already being used for a similar purpose, as duplication may lead to redundant data. The form collects information from a single "Page" and is composed of various fields for different types of data. It's essential to complete the form accurately and consistently.
-
-</thinking>
-
 # Page Information Collection - Help Guide
 ## Purpose
 This form is designed to collect essential information about a specific page.

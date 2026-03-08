@@ -1,11 +1,3 @@
-<thinking>Before diving into this user-facing help guide, let's consider a couple of things:
-
-*   The form is used to collect information from contractors and site visitors, ensuring their safety and compliance with site-specific rules.
-*   The form has a mix of text, select_one, select_multiple, and number fields, indicating it's designed to collect various types of data.
-*   There are multiple fields related to emergency services, contact information, site safety, and site-specific details.
-
-</thinking>
-
 # Site Safety Induction Form - Help Guide
 
 ## Purpose

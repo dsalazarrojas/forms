@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from customers to request Christmas lighting services, including their contact information, property details, design preferences, and scheduling requirements.
-
-Before filling out this form, please note that the purpose of this form is to provide a comprehensive understanding of the customer's needs and preferences for their Christmas lighting installation. This information will help our team to better understand the customer's requirements and provide the best possible service.
-
-Please ensure that you are filling out this form for the right purpose and not for any other reason. If you have already filled out this form previously, please disregard this form and do not fill it out again, as we will be able to access your previous information.
-
-Please fill out this form carefully, and if you have any questions or concerns, feel free to contact us.
-
-</thinking>
-
 # Christmas Lighting Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to request Christmas lighting services, including their contact information, property details, design preferences, and scheduling requirements.

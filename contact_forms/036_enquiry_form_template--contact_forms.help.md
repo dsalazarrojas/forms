@@ -1,6 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose and duplication ...
-</thinking>
-
 # enquiry_form_template - Help Guide
 ## Purpose
 The "enquiry_form_template" form is designed to collect general enquiries from users. It is typically used for customers, partners, or other stakeholders to reach out to our team for various reasons such as asking questions, providing feedback, or inquiring about something else. 

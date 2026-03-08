@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure this form is only accessed by authorized personnel to prevent data duplication. The purpose of this form is to gather information from parents or guardians to authorize travel for minors. The form is meant for internal use within our organization, so we must verify that the user is who they claim to be and that the information is accurate and up-to-date. This form should only be filled out by parents or guardians who are authorizing travel for their minor children.</thinking>
-
 # Travel Document Authorization Form - Help Guide
 
 ## Purpose

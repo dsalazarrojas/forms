@@ -1,15 +1,3 @@
-<thinking>
-This form is used by internal and external agents to create a suggested message reply. 
-It's a general-purpose form, not specific to a particular customer request or issue. The form is used to create a message that will be sent to the customer in response to their inquiry. 
-
-The purpose of this form is to standardize the way customer replies are created, making it easier for agents to quickly and efficiently respond to customer inquiries. 
-
-The form is designed to be completed by the customer service team, and it's intended to be used in conjunction with other tools and systems to track and manage customer interactions. 
-
-To avoid duplication, this form should only be used for standard customer replies, and not for urgent or time-sensitive customer issues.
-
-</thinking>
-
 # Suggested Message Reply Form - Help Guide
 
 ## Purpose

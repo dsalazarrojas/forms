@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used by businesses applying for credit to purchase logistics equipment. The form's purpose is to gather necessary information about the applicant's business, such as their name, contact person and email, requested credit amount, purpose of credit, years in business, credit references, and additional comments. The form is designed to be completed by the applicant and reviewed by the credit committee to assess the creditworthiness of the business.
-
-</thinking>
-
 # Cold Logistics Equipment Credit Application Form - Help Guide
 
 ## Purpose

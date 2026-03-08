@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate the return or refund of damaged goods. It captures essential customer information, product details, and reasons for the refund to ensure a smooth and efficient process. The form should only be used for damaged goods and not for other types of returns or issues. Please ensure that the form is filled out correctly and accurately to expedite the processing of your refund request.
-
-</thinking>
-
 # damaged_goods_refund_form - Help Guide
 ## Purpose
 This form is used to process damaged goods refunds. Please fill it out thoroughly and accurately to ensure a smooth refund process.

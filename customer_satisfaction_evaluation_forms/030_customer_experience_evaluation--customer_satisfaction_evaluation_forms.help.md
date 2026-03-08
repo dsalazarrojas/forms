@@ -1,11 +1,3 @@
-<thinking>
-
-Before creating the help guide, let's review the form purpose and structure. This form is designed to collect feedback and ratings from customers about their experience at the business. It appears to be a multi-page form with various fields asking about different aspects of their visit, such as overall experience, satisfaction, customer service, and contact information.
-
-To ensure we don't end up with an overly complicated guide, let's focus on breaking down the form into distinct sections and explaining each field in a clear and concise manner.
-
-</thinking>
-
 # Customer Experience Evaluation - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from customers about their experience at our business. It helps us understand areas of improvement and identify what we do well.

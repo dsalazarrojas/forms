@@ -1,8 +1,3 @@
-<thinking>
-This guide will walk you through the process of completing the "Music Remix Inclusion Consent Form" to ensure you understand its purpose and how to properly fill it out.
-The form is designed to gather information from users and collect their consent for the use of their music remixes in certain projects. The form has several sections that require user input, including user information, email, phone number, project details, user terms of use, music remix agreement, and submission confirmation. Each section is labeled and described below to help you navigate the form effectively.
-</thinking>
-
 # Music Remix Inclusion Consent Form - Help Guide
 ## Purpose
 This form is used to collect user consent for the inclusion of their music remixes in various projects. Users must provide their contact information, project preferences, and agreement to terms and conditions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Microblading Consent & Appointment Form - Help Guide
 
 ## Purpose

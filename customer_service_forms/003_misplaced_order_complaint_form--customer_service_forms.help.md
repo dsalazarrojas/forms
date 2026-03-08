@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to be used by customers to report issues with misplaced orders. It helps to track and resolve such issues efficiently, ensuring the customer support team can provide accurate information for investigation and resolution. The form should not be used to report duplicate issues or concerns not directly related to misplaced orders.
-
-The following fields should be filled in accurately to ensure the support team can assist the customer effectively:
-
-*   `customer_name`: The name of the person reporting the misplaced order.
-*   `order_number`: The exact number of the misplaced order.
-*   `misplaced_item`: A brief description of the item that was misplaced.
-*   `misplaced_date` and `misplaced_time`: The date and time the item was discovered to be misplaced.
-*   `misplaced_reason`: A clear explanation of why the item was misplaced.
-*   `misplaced_item_description`: A detailed description of the misplaced item to aid in identification.
-</thinking>
-
 # misplaced_order_complaint_form - Help Guide
 ## Purpose
 The misplaced order form is used to report issues with misplaced orders, allowing customer support to efficiently track and resolve such problems.

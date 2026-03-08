@@ -1,9 +1,3 @@
-<thinking>**Internal Note**
-
-The Pre-Plan-Funeral-Form is designed to gather essential information about a family member who has passed away. This form aims to collect details that will help us provide personalized services and support for the family during this difficult time. To ensure accuracy and efficiency, please complete this form thoroughly and accurately. Note that the form is not intended to be a replacement for official documentation or identification purposes. 
-
-</thinking>
-
 # Pre-Plan-Funeral-Form - Help Guide
 ## Purpose
 The Pre-Plan-Funeral-Form is a helpful tool to provide essential information about a family member who has passed away. This information will be used to create a customized plan for the funeral services and support that will be offered to the family.

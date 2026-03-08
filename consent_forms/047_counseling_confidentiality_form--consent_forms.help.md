@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for use in counseling and mental health settings to obtain patient consent and ensure confidentiality. It is not affiliated with, endorsed by, or derived from any form platform, but rather created using public survey topic metadata. This form should be used to capture patient information, therapist information, and other relevant details related to confidentiality and consent. Before filling out this form, ensure you have not already created a similar form or used content from this form in any other context.
-</thinking>
-
 # Counseling Confidentiality Form - Help Guide
 
 ## Purpose

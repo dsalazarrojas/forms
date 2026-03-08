@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather legal disclaimers and acknowledgments from users, likely for regulatory or contractual purposes. It is likely used to ensure users understand and agree to certain terms and conditions. It is not necessary to check if the user has already completed this form in the past to prevent non-duplication.
-</thinking>
-
 # Legal Disclaimer Acknowledgment - Help Guide
 ## Purpose
 The Legal Disclaimer Acknowledgment form is used to collect legal disclaimers and acknowledgments from users for regulatory or contractual purposes.

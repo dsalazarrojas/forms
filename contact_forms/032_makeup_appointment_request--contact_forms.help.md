@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Appointment Request - Help Guide
 ## Purpose
 This form is designed to help users request a makeup appointment at a specified location. The form is used to collect information about the user's name and preferred appointment date and time.

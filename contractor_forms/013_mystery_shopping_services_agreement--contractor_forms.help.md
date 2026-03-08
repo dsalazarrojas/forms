@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form, "Mystery Shopping Services Agreement," is to capture essential information and confirm the understanding of terms and conditions from mystery shoppers. This form is likely used by companies that employ mystery shoppers to evaluate customer service, product quality, or other aspects of their business operations. The form ensures that shoppers understand their role, the terms of their engagement, and their confidentiality expectations. 
-
-Given the form's structure, it's essential to provide a clear and concise help guide to aid end-users in completing it correctly and efficiently.
-</thinking>
- 
 # Mystery Shopping Services Agreement - Help Guide
 
 ## Purpose

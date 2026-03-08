@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Permanent Makeup Client Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential client information for permanent makeup procedures. It will be used to store and manage client data for your practice.

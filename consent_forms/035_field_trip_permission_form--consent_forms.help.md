@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to request permission for a field trip, which can be any educational activity that takes place outside the school premises. The form is meant for school administrators or staff members to fill out on behalf of students who want to participate in a field trip. This form helps gather necessary information for planning and executing the trip smoothly. 
-Before filling out the form, please check if the trip has already been approved and if your school has a pre-existing permission for it. 
-</thinking>
-
 # Field Trip Permission Form - Help Guide
 ## Purpose
 This form is used to request permission for a field trip, which can include activities such as visiting museums, zoos, historical sites, or any other off-site educational activity. 

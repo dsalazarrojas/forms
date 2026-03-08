@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users for academic video recording purposes. The form captures user and contact information, participant details, and recording metadata. It is intended for open-access academic purposes. Before filling out this form, please ensure you are not duplicating a previously submitted form with the same participant information. If you are unsure, contact your local administrator for clarification. </thinking>
-
 # open-access-academic-video-consent-form - Help Guide
 ## Purpose
 This form is designed to collect information for open-access academic video recording purposes.

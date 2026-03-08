@@ -1,14 +1,3 @@
-<thinking>
-We need to create a comprehensive guide for the "promotional_contest_registration" form. This form is for registering users for a promotional contest, which is an event designed to generate buzz and drive engagement for a product or service. The purpose of this form is to collect information from interested participants, including their contact details and preferences. It's essential to ensure that users understand what the form is for and what information is being collected.
-
-To prevent duplication, we should check if there are similar forms already available in the system, and if so, we can reuse the content from those instead of duplicating it.
-
-The form has multiple pages, but all the pages are related to the same purpose: registering for a promotional contest. Each field in the form has a specific meaning and requirements.
-
-Let's break down each field for clarity:
-
-</thinking>
-
 # promotional_contest_registration - Help Guide
 ## Purpose
 This form is for registering for a promotional contest. The contest can be a single-entry or multiple-entry event, offering various prizes, including gift cards, gift card bundles, or free services. To participate, fill in the required fields and agree to the terms of service.

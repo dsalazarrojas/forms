@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "Podcast Listener Liability Waiver", serves to obtain consent from listeners for podcast content. This form ensures that listeners understand the terms and conditions of the podcast and their liability in participating in or contributing to the podcast. The form includes several fields that gather essential information from listeners, such as their full name, email address, phone number, date of birth, and other emergency contact details. The form also asks listeners to acknowledge that they have read and agreed to the terms and conditions of the podcast. This form is a crucial document that protects both the listener and the podcast host by ensuring that all parties are aware of their respective responsibilities and liabilities.
-
-</thinking>
-
 # Podcast Listener Liability Waiver - Help Guide
 ## Purpose
 The purpose of this form is to gather listener's consent for the terms and conditions of the podcast. This form ensures that listeners understand their liability in participating in or contributing to the podcast.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Therapy Feedback Consent Form - Help Guide
 ## Purpose
 The Therapy Feedback Consent Form is a form used to collect feedback from patients about their therapy sessions. This form is used to gather information about the patient's experiences, thoughts, and feelings about their therapy sessions, which helps therapists to improve their practice and provide better services to their patients.

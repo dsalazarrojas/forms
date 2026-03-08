@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information and consent for telehealth services, specifically tailored for users in Colorado. Please ensure that you're only using this form for this purpose and not duplicating efforts elsewhere in the system. This form should only be used to collect consent from users who are physically located in Colorado.
-</thinking>
-
 # telehealth_consent_form_colorado - Help Guide
 ## Purpose
 The telehealth_consent_form_colorado form is a collection of fields designed to gather user information and consent for telehealth services specifically for users located in the state of Colorado.

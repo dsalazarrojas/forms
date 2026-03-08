@@ -1,11 +1,3 @@
-<thinking>
-
-To create a help guide for the COVID-19 Guest Declaration Form, we should first understand its purpose and relevance. This form is designed to gather information from guests visiting the facility, ensuring a safe and healthy environment for both guests and staff. It's essential to review and follow the guidelines to avoid duplication of forms and ensure accuracy in the collected data.
-
-The form is divided into sections: Guest Information, Health Declaration, Travel Information, and Declaration and Consent. Each section contains questions and fields that require accurate and honest responses from guests.
-
-</thinking>
-
 # COVID 19 Guest Declaration Form - Help Guide
 ## Purpose
 The COVID-19 Guest Declaration Form is designed to gather information from guests visiting the facility, ensuring a safe and healthy environment. It's essential to complete this form accurately to help us take necessary precautions to prevent the spread of COVID-19.

@@ -1,7 +1,3 @@
-<thinking>
-The Sugaring Consultation Form is used by clients to book and schedule sugaring treatments. This form is intended for new clients who are interested in booking a treatment. The form is designed to collect information about the client's name, contact details, treatment preferences, and payment method. The form is not intended for repeat clients or clients who have already scheduled a treatment. 
-</thinking>
-
 # Sugaring Consultation Form - Help Guide
 ## Purpose
 The Sugaring Consultation Form is used to book and schedule sugaring treatments. This form is intended for new clients who are interested in booking a treatment.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's advocate, which is an individual or organization that will act on behalf of the patient in medical or personal matters. The form is meant to be completed by the patient or their representative, and it requires some personal identifiable information such as name, contact details and relationship with the patient. It is essential to provide accurate and authentic information to maintain the patient's confidentiality and trust.
-Please ensure that you are not duplicating any data for the same patient in this form.
-The form fields are explained below in a field-by-field explanation.
-</thinking>
-
 # Patient Advocate Authorization Form - Help Guide
 ## Purpose
 The Patient Advocate Authorization Form is designed to collect information about a patient's advocate, which is an individual or organization that will act on behalf of the patient in medical or personal matters.

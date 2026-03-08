@@ -3,12 +3,6 @@
 
 This form is used to gather information about the Data Privacy Officer for an organization. The purpose of this form is to provide essential details about the officer, including their organization affiliation, contact information, and personal details. It's crucial that the Data Privacy Officer completes this form accurately to ensure that their information is up-to-date and correct.
 
-<thinking>
-
-This form is relevant for ensuring that the Data Privacy Officer's information is accurate and consistent across the organization. It also helps to maintain a centralized record of the officer's details, which can be accessed by authorized personnel. Please fill out this form carefully, and ensure that you are providing accurate and truthful information about yourself.
-
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

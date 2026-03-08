@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information about potential consultants applying to the Mergers & Acquisitions Consulting Panel. This form is intended to gather relevant details from candidates to evaluate their suitability for the panel. Please fill out this form carefully and accurately to increase your chances of being selected.
-
-This guide will walk you through how to complete the form, field-by-field explanation for clarity and understanding.
-</thinking>
-
 # Mergers & Acquisitions Consulting Panel Application Form - Help Guide
 ## Purpose
 The Mergers & Acquisitions Consulting Panel Application Form is designed to collect information about potential consultants who wish to join the panel. The form will be used to evaluate their relevant experience, skills, and agreement to terms and conditions.

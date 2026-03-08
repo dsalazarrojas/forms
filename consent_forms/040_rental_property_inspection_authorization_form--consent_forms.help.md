@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from renters (tenants) to authorize inspections of their rental properties. The form is designed to gather essential details such as tenant and inspector information, inspection dates and times, and preferred contact methods. This form is likely used by property managers or owners to schedule inspections and communicate with tenants.
-</thinking>
-
 # rental_property_inspection_authorization_form - Help Guide
 ## Purpose
 This form is used to collect information from renters (tenants) to authorize inspections of their rental properties. It helps property managers or owners to schedule inspections and communicate with tenants.

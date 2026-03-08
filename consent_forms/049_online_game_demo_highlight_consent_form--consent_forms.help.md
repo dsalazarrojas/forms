@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's review the form's purpose and fields to ensure we're providing accurate and relevant information to the end-users. This form is for obtaining consent from gamers for featuring their clips in an online game demo. The fields are divided into two main sections: Game Details and Gamer Details. The form asks for the gamer's consent to feature their clips, upload consent, email consent, and contact details. The form also captures game-specific information such as game name, game tag, game platform, and game link. Additionally, it captures gamer-specific information like gamer name, gamer email, gamer phone, and gamer tag.</thinking>
-
 # Online Game Demo Highlight Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from gamers for featuring their clips in an online game demo. It captures both game and gamer details to ensure that we have the necessary permissions to feature their content.

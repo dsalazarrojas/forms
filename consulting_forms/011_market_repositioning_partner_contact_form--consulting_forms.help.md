@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Market Repositioning Partner Contact Form. Before starting, please confirm that you have a legitimate business use case for this form. If you are unsure, please reach out to your internal stakeholders for clarification. 
-
-This form is designed to help us assess your business needs and identify potential partners for market repositioning. Please be as detailed as possible in your inquiry and responses. 
-
-The form is not intended for general feedback or sales inquiries, but rather for businesses interested in partnering with us. 
-
-Please ensure that you have the necessary permissions and authority to submit this form on behalf of your organization. 
-
-</thinking>
-
 # Market Repositioning Partner Contact Form - Help Guide
 ## Purpose
 The Market Repositioning Partner Contact Form is designed to help us assess your business needs and identify potential partners for market repositioning. This form is intended for businesses interested in partnering with us, not for general feedback or sales inquiries.

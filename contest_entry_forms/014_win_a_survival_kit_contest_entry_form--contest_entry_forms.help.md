@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for end users who wish to enter the "Win A Survival Kit" contest. The purpose of this form is to collect demographic information and contact details from participants in order to administer the contest.
-</thinking>
-
 # Win A Survival Kit Contest Entry Form - Help Guide
 ## Purpose
 This form is used to collect information from participants of the "Win A Survival Kit" contest.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "field_data_collection_authorization_form" which is used to collect data from users for authorization purposes. The form is split into multiple pages, each with a specific set of fields. The form is not required to be completed in its entirety, and users can fill out as much or as little information as they need to.
-</thinking>
-
 # field_data_collection_authorization_form - Help Guide
 ## Purpose
 The field_data_collection_authorization_form is used to collect data from users for authorization purposes.

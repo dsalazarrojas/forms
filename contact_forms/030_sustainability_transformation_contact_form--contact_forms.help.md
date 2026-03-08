@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by individuals or organizations interested in learning more about or engaging with the Sustainability Transformation team. The form's purpose is to collect contact information and details about the user's interests or projects related to sustainability. The form is not intended for emergency or time-sensitive communications.
-</thinking>
-
 # Sustainability Transformation Contact Form - Help Guide
 ## Purpose
 The Sustainability Transformation Contact Form is a tool for collecting contact information and details about users' interests or projects related to sustainability. This form allows users to get in touch with the Sustainability Transformation team and share their thoughts, questions, or project ideas.

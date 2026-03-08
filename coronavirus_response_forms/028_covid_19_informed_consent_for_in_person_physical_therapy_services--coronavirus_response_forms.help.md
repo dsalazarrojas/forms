@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for informed consent for in-person physical therapy services. Informed consent is a legal requirement to ensure that clients understand and agree to the terms and conditions of physical therapy services. This form is designed to ensure that clients have a clear understanding of the risks, benefits, and alternatives to services, as well as their rights and responsibilities. Before proceeding, please ensure that this form is not a duplicate of any existing form, and that the information being collected is necessary and relevant to the service being provided.
-</thinking>
-
 # covid_19_informed_consent_for_in_person_physical_therapy_services - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information for informed consent from clients for in-person physical therapy services.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect client information and consent for spray tanning services. The form includes fields for client name, contact number, email address, emergency contact information, risk acknowledgement, allergy information, medical conditions, medical history, preferred spray tan products, and consent to receive services. This form is required for all clients who wish to receive spray tanning services.
-
-To ensure that the form is completed correctly and accurately, please review the fields below.
-
-This form is meant to be filled out by clients, so there's no need to check for internal relevance or duplication.
-</thinking>
-
 # Spray Tanning Consent Form - Help Guide
 ## Purpose
 This form is used to collect information and consent from clients before they receive spray tanning services. It's essential to fill out this form accurately to ensure a safe and successful experience.

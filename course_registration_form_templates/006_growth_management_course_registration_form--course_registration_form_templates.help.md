@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users who are interested in enrolling in a growth management course. The purpose of this form is to gather necessary details such as name, date of birth, contact information (email and phone number), and course selection to facilitate the course registration process.
-
-Before starting the form, ensure you have all the required information at hand. This form has two optional fields: email and confirm_email. If you have already registered with us before, please use the existing email address for the confirm_email field. If not, you can enter a new email address.
-
-Also, please note that the form has a "submit" button at the end, but it's actually for confirmation purposes only. You will not be submitted to any course until you confirm your details in a separate step.
-
-</thinking>
-
 # growth_management_course_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are interested in enrolling in a growth management course.

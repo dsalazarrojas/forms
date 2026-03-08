@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to collect information about an individual's confession appointment. The form is designed to gather details about the appointment, including the date, time, and duration of the confession, as well as any additional information that may be relevant to the confession process. 
-
-When filling out this form, please ensure that you have a clear understanding of the information required for a successful confession process. The form is meant to be completed by both the individual seeking confession and the confessor. 
-
-Please review the form carefully and ensure that all required fields are completed accurately and truthfully. 
-
-Before proceeding, please ensure that you are aware of the following:
-- The form is intended for personal and private use, so please be mindful of the information you share.
-- The form is a confidential document, and any information shared through this form will be treated as such.
-- If you are unsure about any field or have any concerns, please reach out to the confessor or the relevant authorities for guidance.
-
-</thinking>
-
 # Online Confession Appointment Form - Help Guide
 
 ## Purpose

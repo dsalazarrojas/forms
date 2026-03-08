@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that this guide is accurate, I will first analyze the form fields and their types to understand their purpose. The form is for entering a drumming battle or jam session, and it seems to be focused on solo and group entries, with various details for contact and event information. The form requires the event type, entry type, and instrument to be specified, which are likely to be used for filtering and categorization. The fields for social media and website are likely for promotional purposes. The image and video fields seem to be for optional media attachments. Lastly, the rules acknowledgement fields are for compliance and acceptance.
 
 </thinking>

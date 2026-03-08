@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to get in touch with us. It's designed for individuals who want to contact our support team or ask a question. This form should only be used for genuine inquiries and not for sales or marketing purposes. To prevent spam and duplication, we recommend that users don't send multiple submissions within a short period.
-</thinking>
-
 # get-in-touch-contact-form - Help Guide
 ## Purpose
 This form is intended for users to contact our support team or ask questions. Please use it to send us a message, ask about our services, or provide feedback.

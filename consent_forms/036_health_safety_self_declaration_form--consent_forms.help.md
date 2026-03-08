@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees about their health and safety, including their contact information, medical conditions, and emergency contact details. This form is typically used for HR or administrative purposes, such as keeping employee records up-to-date or sending out notifications when necessary. To ensure that the form is completed correctly, please review the fields carefully to understand their purpose and what information is required.
-</thinking>
-
 # health_safety_self_declaration_form - Help Guide
 ## Purpose
 This form is used to collect health and safety information from employees, including their contact details, medical conditions, and emergency contacts.

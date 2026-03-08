@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # office_supplies_purchase_request_form - Help Guide
 
 ## Purpose

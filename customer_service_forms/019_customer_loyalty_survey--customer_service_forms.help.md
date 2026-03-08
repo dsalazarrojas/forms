@@ -1,11 +1,3 @@
-<thinking>
-
-To create the user-facing help guide for the "Customer Loyalty Survey" form, I will first analyze the purpose of the form and ensure there is no duplication in the field explanations.
-
-**Internal reasoning block:** The "Customer Loyalty Survey" form is designed to gather feedback from customers about their experiences with the store. It asks about the customer's satisfaction level, loyalty program enrollment, frequency of visits, overall experience, store hours, employee knowledge, friendliness, customer service quality, and other relevant aspects. This information will be used to improve the store's services and offerings, ensuring that customers' needs are met and their expectations are exceeded.
-
-</thinking>
-
 # Customer Loyalty Survey - Help Guide
 ## Purpose
 The Customer Loyalty Survey is a form used to gather feedback from customers about their experiences with the store. Their responses will help us better understand their needs and improve our services.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from participants in data analytics research. The goal is to gather demographic information, contact details, and consent for research participation. This form is typically used in conjunction with other research forms to ensure compliance with research regulations and guidelines. Please ensure that this form is not being filled out by individuals who have already provided consent in a previous form, and that all necessary fields are completed accurately and truthfully. This form is intended to be filled out by research participants, and the data collected will be used to inform research decisions and reports.
-</thinking>
 # Data Analytics Research Participation Consent Form - Help Guide
 ## Purpose
 This form is used to gather participant information and consent for data analytics research participation. It is essential to ensure that all participants understand the purpose and scope of the research, and that they provide informed consent before participating.

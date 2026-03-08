@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to contact the organization with seasonal inquiries, event interest, or other questions and messages. It is designed to collect contact information and details about the user's preferences and interests. The form is likely used for outreach and communication purposes, such as event planning and coordination, vendor relations, or feedback collection. The form is intended for internal use only, so it's not designed for public submission. It's assumed that users have a legitimate reason to contact the organization and are comfortable sharing their personal details.
-</thinking>
-
 # Contact Form Autumn Leaf Theme - Help Guide
 ## Purpose
 The Contact Form is a tool for users to communicate with the organization about seasonal events, vendor opportunities, or provide feedback. This form is intended to facilitate internal communication and event coordination.

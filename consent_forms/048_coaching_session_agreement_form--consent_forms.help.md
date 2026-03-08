@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to capture the essential details of a coaching session, including the coaching team, client, and session specifics. This form ensures that all parties involved are on the same page and understand the terms and conditions of the coaching relationship. It's crucial that the coach and client review and agree on the session details to establish a clear understanding of their roles, responsibilities, and expectations... </thinking>
-
 # Coaching Session Agreement Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the Digital Consultation Form is only used for legitimate purposes and not for spamming or phishing. This form is intended to gather information for internal use only and not for external sharing or marketing. Please be cautious of the services offered and selected, as this information will be used for follow-up purposes. Each field is designed to be completed by a client who is interested in booking an appointment with a counselor.
-
-</thinking>
-
 # Digital Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for digital consultations. It is intended for counselors to gather necessary details to provide personalized services to their clients.

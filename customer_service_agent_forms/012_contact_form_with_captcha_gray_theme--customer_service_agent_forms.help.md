@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect contact information and feedback from customers or users who need support with their inquiries or issues. The purpose of this form is to provide a convenient and structured way for them to reach out to your support team, allowing for a swift and organized resolution to their concerns. This form is not intended to replace existing communication channels, but rather to augment them by offering an additional means of contact. 
-
-To prevent form duplication, it's recommended that users should not submit the same form multiple times for the same issue. If a user has already submitted the form for the same reason, they should not submit it again.
-
-</thinking>
-
 # Contact Form With Captcha Gray Theme - Help Guide
 ## Purpose
 This form is designed to collect contact information and feedback from customers or users who need support with their inquiries or issues.

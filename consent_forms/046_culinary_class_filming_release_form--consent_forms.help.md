@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to create a user-facing help guide for the Culinary Class Filming Release Form to ensure that end users understand the form's purpose, how to complete it, and what each field means. This form is part of the "consent_forms" category, and its title is "Culinary Class Filming Release Form". The guide will be written in Markdown and will cover the following sections: Purpose, How to Complete This Form, and Field-by-Field Explanation.</thinking>
-
 # Culinary Class Filming Release Form - Help Guide
 ## Purpose
 The Culinary Class Filming Release Form is a document used to obtain consent from participants in a culinary class for filming purposes. This form is essential to ensure that all participants have given their consent for being filmed and recorded during the class.

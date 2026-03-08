@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather contact information from users, allowing them to send messages to the form owner. It is not intended for complex surveys or transactions, but rather for casual, personal communication. This form was created using AI-generated metadata from public survey topics in the "contact_forms" category. It is an original adaptation and does not copy or use proprietary content from any other form platform. The form's content is released under the Creative Commons Attribution 4.0 license, allowing for free use, modification, and even commercial use with proper credit.
-</thinking>
-
 # Quick Contact Form - Help Guide
 ## Purpose
 The Quick Contact Form is a simple form designed for users to send personal messages to the form owner.

@@ -1,9 +1,3 @@
-<thinking>
-The form is a Contact Information Collection Form, designed to collect contact details and preferences from individuals. It is intended for data collection purposes, possibly for newsletter subscriptions, event invitations, or other contact-related activities. 
-The form is divided into multiple pages, with most fields being optional. This structure allows the user to easily navigate and fill out the form, providing clear and concise explanations for each field. 
-This guide is designed to assist end-users in understanding the form's purpose, filling out the form, and navigating each field's purpose. 
-</thinking>
-
 # Contact Information Collection Form - Help Guide
 ## Purpose
 The Contact Information Collection Form is designed to collect contact details and preferences for various purposes, such as newsletter subscriptions, event invitations, or other contact-related activities. This form is intended to be used for data collection and analysis.

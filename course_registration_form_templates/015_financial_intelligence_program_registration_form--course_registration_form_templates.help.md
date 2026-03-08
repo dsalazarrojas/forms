@@ -1,10 +1,3 @@
-<thinking>
-To ensure a smooth and accurate completion of the Financial Intelligence Program Registration Form, please note the following considerations:
-- This form is designed to gather relevant information for the Financial Intelligence Program, which aims to provide a comprehensive and structured approach to understanding financial concepts and data.
-- The form has multiple pages with varying fields, ensuring that all required and optional information is collected for program participants.
-- Please review each field to understand its relevance and ensure you are providing the most up-to-date and accurate information.
-</thinking>
-
 # Financial Intelligence Program Registration Form - Help Guide
 ## Purpose
 The Financial Intelligence Program Registration Form is designed to collect participant information and preferences for the Financial Intelligence Program. This form is used to ensure a tailored experience for each participant and to facilitate a smooth program progression.

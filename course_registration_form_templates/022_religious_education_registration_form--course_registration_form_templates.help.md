@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for students to enroll in religious education courses. The form is designed to collect essential information from students to facilitate efficient and accurate course registration. To complete this form, please follow the instructions below. Before proceeding, it is essential to ensure that the form is being used for its intended purpose and not duplicated for other purposes. Please note that this form is specifically designed for course registration, and any misuse may cause errors in the registration process.
-</thinking>
-
 # religious_education_registration_form - Help Guide
 ## Purpose
 The "Religious Education Registration Form" is a form designed to collect necessary information from students to register them in various religious education courses. The form is essential for the efficient and accurate registration process.

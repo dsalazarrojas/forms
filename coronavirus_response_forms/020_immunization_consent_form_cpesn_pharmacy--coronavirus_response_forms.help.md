@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Immunization Consent Form CPESN Pharmacy - Help Guide
 ## Purpose
 The Immunization Consent Form CPESN Pharmacy is a form designed to document patient consent for immunization. This form helps gather essential information from patients before proceeding with immunization.

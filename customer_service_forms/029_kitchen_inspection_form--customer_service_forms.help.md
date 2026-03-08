@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by kitchen staff or management to inspect and report on the condition of a kitchen, likely during regular maintenance or safety checks. The purpose of this form is to gather information on the state of the kitchen, including food storage, temperature control, personal hygiene, facilities, equipment, supervision, and potential hazards. This form will help identify areas of concern and guide corrective actions to maintain a safe and clean kitchen environment.
-</thinking>
-
 # Kitchen Inspection Form - Help Guide
 ## Purpose
 The Kitchen Inspection Form is used to assess the condition of a kitchen and identify areas for improvement. It helps kitchen staff or management to inspect and report on various aspects of the kitchen, including food storage, temperature control, personal hygiene, facilities, equipment, supervision, and potential hazards.

@@ -1,19 +1,3 @@
-<thinking>
-
-The purpose of the "notice_of_cancellation_form" is to collect information from customers about their intention to cancel an existing agreement or service. This form is used to gather specific details about the cancellation, including the reason for cancelling and the effective date of the cancellation. The goal is to have customers provide clear and concise information to facilitate a smooth cancellation process.
-
-To determine if this form is relevant to your use case, consider the following questions:
-
-* Are you a business owner or manager?
-* Are you looking to create a notice of cancellation form for your customers?
-* Do you want to gather specific details about the reason for cancellation and the effective date of the cancellation?
-
-If you answered yes to the above questions, then this form is likely relevant to your use case.
-
-Before proceeding, please ensure that you have not created a notice of cancellation form with similar questions already, as duplicating efforts may lead to inconsistent data and confusion.
-
-</thinking>
-
 # notice_of_cancellation_form - Help Guide
 ## Purpose
 The "notice_of_cancellation_form" is used to collect information from customers about their intention to cancel an existing agreement or service. This form helps gather specific details about the cancellation, making it easier to process and manage cancellations.

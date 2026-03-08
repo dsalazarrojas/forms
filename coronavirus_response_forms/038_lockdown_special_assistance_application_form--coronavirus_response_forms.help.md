@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect information from individuals who require special assistance during the lockdown. The form is intended to be completed by the individual in need of assistance, providing essential details about themselves and their emergency contacts. The purpose of the form is to ensure that the required information is collected in a structured and organized manner to facilitate effective assistance. By using this form, users can provide accurate and complete information, reducing the likelihood of duplicated efforts and ensuring that the correct support is allocated.</thinking>
-
 # Lockdown Special Assistance Application Form - Help Guide
 
 ## Purpose

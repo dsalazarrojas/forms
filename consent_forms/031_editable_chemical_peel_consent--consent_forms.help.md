@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent for a chemical peel treatment. This form is part of a larger workflow to ensure that all necessary information is gathered before proceeding with the treatment. The fields within this form are designed to capture key details about the user's consent, including the type of treatment, concentration of the chemical peel, number of passes, and other relevant information. To complete this form correctly, please ensure that you have read and understood each field carefully before proceeding. If you have any questions or concerns, please reach out to the treatment administrator for assistance. Note that this form is not intended to be filled out multiple times, so please complete it only once for each chemical peel treatment.
-</thinking>
-
 # Editable Chemical Peel Consent - Help Guide
 ## Purpose
 This form is used to obtain consent for a chemical peel treatment.

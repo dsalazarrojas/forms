@@ -1,6 +1,3 @@
-<thinking>
-This form is likely part of a larger application or system used to manage membership registrations for a dance organization, such as a club or studio. The purpose of this form is to collect relevant information from members or their representatives. The form seems to focus on collecting personal and contact information for both the member and their manager, as well as terms and conditions acceptance. However, it appears that the "terms and conditions" field is duplicated 14 times, which might be an error or an oversight. To provide a helpful guide, we will focus on the essential fields and explain their purpose. </thinking>
-
 # Hiphop Dance Registration Form - Help Guide
 ## Purpose
 The Hiphop Dance Registration Form is designed to collect essential information from members or their representatives for registration purposes.

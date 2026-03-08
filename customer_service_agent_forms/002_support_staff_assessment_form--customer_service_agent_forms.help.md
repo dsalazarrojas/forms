@@ -1,5 +1,3 @@
-<thinking>...This form was created to assess the performance of support staff members, gathering key information about their role, employment history, and development needs. The goal is to provide a comprehensive view of their strengths, weaknesses, and areas for improvement. This form will help managers and HR professionals make informed decisions about staff development and performance evaluations. Ensure that all relevant fields are filled out accurately, and avoid duplication of effort by only completing this form once per staff member. Please note that some fields may be optional, and you can skip them if not applicable. The form is designed to be used for general guidance and support staff assessments, and it is not specific to any particular company or industry.</thinking>
-
 # Support Staff Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the performance and development needs of support staff members. It helps gather essential information about their role, employment history, and areas for improvement to inform decisions about staff development and performance evaluations.

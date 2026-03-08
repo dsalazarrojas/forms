@@ -1,9 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Tree Service Contract Form", I will first analyze the form's purpose and fields, ensuring that the help guide is concrete, concise, and practical. 
-
-The form's purpose appears to be for collecting information related to tree service contracts, which likely involves hiring a contractor or arborist for tree-related work. The form may be used by administrators or project managers to gather approvals from clients, job details, arborist information, and other relevant data. To confirm, I will review the fields and create an explanation for each one.
-</thinking>
-
 # Tree Service Contract Form - Help Guide
 ## Purpose
 This form is designed to collect information related to tree service contracts, including client approvals, job details, arborist information, and other relevant data. It is intended to be used by administrators or project managers to gather necessary information for tree service contracts.

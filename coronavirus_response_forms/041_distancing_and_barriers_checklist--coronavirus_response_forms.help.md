@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and requirements of the "distancing_and_barriers_checklist" form. The form is intended to collect information on social distancing measures and barriers in place to prevent the spread of the coronavirus. It will help in identifying areas where more measures can be taken to ensure public safety.
-</thinking>
-
 # distancing_and_barriers_checklist - Help Guide
 ## Purpose
 The purpose of this form is to gather information on social distancing measures and barriers that are in place to prevent the spread of the coronavirus. This information will help in identifying areas where more measures can be taken to ensure public safety.

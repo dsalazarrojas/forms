@@ -1,10 +1,3 @@
-<thinking>
-This form was created by an artificial intelligence (AI) using public metadata from surveys across various industries and categories. The AI has taken inspiration from this data to create a unique form that is not affiliated with, endorsed by, or derived from any form platform. The "Modern Design Contact Form" is a generic contact form that can be used for various purposes, such as collecting feedback, inquiries, or general contact information. Before completing this form, please ensure that you are not duplicating the effort by checking internal records and systems for similar forms or contacts.
-
-The form is divided into five fields, each with its own purpose and requirements. Please follow the instructions below to complete the form accurately.
-
-</thinking>
-
 # Modern Design Contact Form - Help Guide
 
 ## Purpose

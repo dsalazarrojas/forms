@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-The purpose of this form is to collect user feedback and ratings to gauge customer satisfaction. It is used to gather information about a user's interaction with a product or service. This form is not required for every user interaction, but it is meant to be filled out after a significant interaction, such as after a product demo or meeting. This helps us understand what we did well and what we could improve on.
-
-</thinking>
-
 # User Interaction Feedback Form - Help Guide
 ## Purpose
 The User Interaction Feedback Form is designed to collect feedback and ratings from customers after significant interactions with our product or service.

@@ -1,9 +1,3 @@
-<thinking>
-This form was generated using AI to create an original form based on public survey topic metadata.
-The purpose of this form is to collect general customer information, visit history, experience rating, feedback, notes, and contact details.
-It is not affiliated with any form platform and is released under CC BY 4.0 license.
-</thinking>
-
 # mario_form_2026_wedrive4u - Help Guide
 ## Purpose
 This form is designed to collect customer information, track visit history, gather experience ratings, receive feedback, take notes, and allow customers to contact us. It is intended for general use cases where customers need to provide their personal details or share their experiences.

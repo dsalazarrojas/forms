@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients for permanent makeup procedures. It is intended for use in a spa or clinic setting where clients will be receiving permanent makeup services such as eyeliner, eyebrow, liner, blush, lip, lip liner, microblading, or eyelid services. To ensure accurate and safe completion of the form, please review the following steps to complete it.
-</thinking>
-
 # Permanent Makeup Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from clients for permanent makeup procedures. It is intended for use in a spa or clinic setting where clients will be receiving services such as eyeliner, eyebrow, liner, blush, lip, lip liner, microblading, or eyelid services.

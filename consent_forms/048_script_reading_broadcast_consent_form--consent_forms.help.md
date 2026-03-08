@@ -1,16 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Script Reading Broadcast Consent Form", we should consider the following steps:
-
-* Identify the form's purpose and the context in which it will be used.
-* Determine the target audience for the help guide.
-* Review the form's structure and fields to understand their purpose and relationships.
-* Create a clear and concise explanation of each field, avoiding duplication and ensuring relevance.
-* Organize the guide into logical sections for easy navigation.
-
-Given the form's purpose and structure, I will create a detailed help guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Script Reading Broadcast Consent Form - Help Guide
 ## Purpose
 The "Script Reading Broadcast Consent Form" is used to gather information and consent from users for script readings. This form is used to ensure that users understand and agree to the terms and conditions of script readings, including the broadcast method, start and end dates, and consent status.

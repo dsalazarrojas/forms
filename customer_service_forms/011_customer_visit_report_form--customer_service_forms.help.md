@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about customer visits, including visit details, customer contact information, services provided, and overall experience. The form should only be used for customer visits that have already taken place. If you are submitting a new visit report for a customer, please ensure that you are not duplicating an existing report.
-</thinking>
-
 # Customer Visit Report Form - Help Guide
 ## Purpose
 This form is used to document customer visits and gather feedback on the service provided.

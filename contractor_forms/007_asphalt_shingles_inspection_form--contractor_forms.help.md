@@ -1,7 +1,3 @@
-<thinking>Asphalt shingles inspection form is a tool used to document the condition of asphalt shingles on a property. This form helps inspectors to systematically assess the state of the shingles, flashing, and other roof components. It's used to identify potential issues and provide recommendations for repairs or replacement. This form ensures that all necessary information is collected, reducing the risk of missed defects and promoting consistent reporting.
-
-Before proceeding, ensure this form is not being used for other purposes or in other contexts. This form is specific to asphalt shingles inspection and should not be used for other types of inspections.</thinking>
-
 # Asphalt Shingles Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about the condition of asphalt shingles on a property. It helps inspectors to accurately report on the state of the shingles, flashing, and other roof components.

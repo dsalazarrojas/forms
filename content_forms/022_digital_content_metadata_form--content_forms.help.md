@@ -1,27 +1,3 @@
-<thinking>
-This form is used to collect metadata about digital content, such as projects, articles, or other digital assets. The purpose of this form is to provide a standard structure for collecting and organizing metadata across different projects. The goal is to ensure consistency and accuracy in the metadata collected.
-This form is part of a larger system that tracks and manages digital content. To complete this form, the user will input information in the following fields:
-  The form requires a valid project title that clearly and accurately represents the content.
-  The user must enter a valid creator name that is associated with the content.
-  A valid publication date must be entered.
-  The content type must be selected from the provided options (Video, Audio, Image).
-  Keywords must be selected from the provided options and should be relevant to the content.
-  The language of the content must be selected from the provided options (en, fr, es).
-  The author name is required to be filled.
-  The contributor name is optional but can be filled if necessary.
-  The contributor role is a required field that describes the contributor's role in the content creation.
-  The rights holder is a required field that specifies the entity that holds the rights to the content.
-  A valid publication date range is required.
-  The copyright information must be filled correctly, including the copyright status.
-  A valid URL must be provided for the content.
-  An optional E-mail address can be provided for further contact.
-  Phone number is optional.
-  A description of the content can be provided.
-  Keywords list and categories are optional and can be filled if necessary.
-  Related links can be provided if necessary.
-  Another tags list is optional.
-</thinking>
-
 # Digital Content Metadata Form - Help Guide
 ## Purpose
 This form is used to collect metadata about digital content, ensuring consistency and accuracy in the metadata collected.

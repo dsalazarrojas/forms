@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # intervention planning form - Help Guide
 ## Purpose
 The Intervention Planning Form is used to gather information for creating an effective intervention plan for a client. This form helps clinicians and counselors document the client's background, goals, and treatment objectives, and provides a framework for planning and implementing interventions.

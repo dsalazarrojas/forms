@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for obtaining consent from a game studio for public relations purposes, potentially for marketing, media outreach, or other public communication activities. This form ensures that the game studio is aware of and agrees to the terms and conditions of public relations engagement. It's also possible that the form is used for other purposes within the game studio's internal processes or for external partners. Ensure that this form is not used for duplicate or non-relevant purposes by checking with the form owner or relevant stakeholders before completing it.
-</thinking>
-
 # Game Studio Public Relations Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from a game studio for public relations purposes, including marketing, media outreach, or other public communication activities.

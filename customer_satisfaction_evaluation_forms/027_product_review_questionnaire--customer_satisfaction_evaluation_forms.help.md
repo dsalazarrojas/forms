@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and reviews from customers about a product. The purpose of this form is to gather information that can be used to improve the product and services provided by the company. The form is designed to be completed by customers who have purchased or used the product and are willing to share their thoughts and opinions. This form is not intended to be used for any other purpose than collecting feedback from customers.
-</thinking>
-
 # Product Review Questionnaire - Help Guide
 ## Purpose
 The Product Review Questionnaire is a form designed to collect feedback and reviews from customers about a product. This feedback is used to improve the product and services provided by the company.

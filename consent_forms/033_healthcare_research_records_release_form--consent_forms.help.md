@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect consent from patients for research purposes, ensuring that researchers have the necessary permissions to access and use patient medical records. The form should only be completed by patients or their legal guardians, and it is essential that the form is not duplicated or completed by someone else on behalf of the patient. Each field in this form has a specific purpose, and completing it correctly will help ensure that research is conducted ethically and responsibly. Please review the form carefully and fill it out accurately to avoid any issues.
-
-</thinking>
-
 # Healthcare Research Records Release Form - Help Guide
 ## Purpose
 The "Healthcare Research Records Release Form" is a crucial document that grants researchers permission to access and use a patient's medical records for research purposes. It is essential for researchers to obtain this consent before initiating any research studies to ensure compliance with relevant laws, regulations, and ethical standards.

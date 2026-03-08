@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lifeguard Certification Course Enrollment Form - Help Guide
 
 ## Purpose

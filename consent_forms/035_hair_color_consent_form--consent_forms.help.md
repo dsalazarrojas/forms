@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the Hair Color Consent Form. Before creating the guide, let's briefly discuss the form's purpose and relevance. The Hair Color Consent Form is a critical document used to obtain informed consent from individuals before performing any hair color-related treatments or procedures. This form ensures that clients understand the risks, benefits, and potential side effects of the treatment, and that they are aware of their rights and responsibilities. It's essential to create a user-friendly guide that helps end-users complete the form accurately and efficiently. By doing so, we can minimize errors, ensure compliance with regulatory requirements, and promote patient safety and satisfaction.</thinking>
-
 # Hair Color Consent Form - Help Guide
 
 ## Purpose

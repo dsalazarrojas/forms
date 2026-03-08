@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect basic contact information from users. The form is divided into multiple sections, each with a specific field for user input. It includes fields for user input, message, email, website, phone number, date, time, and select one options. The form is optional, and users can choose to fill in any or none of the fields. The form's purpose is to facilitate communication between users and the organization or business it belongs to. This form is not intended for sensitive or critical business use cases, as the required fields are all non-mandatory.
-</thinking>
-
 # Simple Dark Themed Contact Form - Help Guide
 ## Purpose
 This form is designed to collect basic contact information from users. It is intended for general purposes such as feedback, inquiry, or other non-mandatory communication.

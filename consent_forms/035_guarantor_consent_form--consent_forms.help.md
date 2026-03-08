@@ -1,7 +1,3 @@
-<thinking>
-This form is used by a business entity (e.g., a property owner) to obtain the consent of a guarantor to enter into a rental agreement with a tenant. The guarantor consent form is an important document that ensures the guarantor is aware of the terms and conditions of the rental agreement and their responsibilities as a guarantor. This form must only be completed by a business entity (e.g., a property owner) who wishes to obtain the consent of a guarantor to enter into a rental agreement with a tenant. It should not be used by tenants to provide consent for themselves. This form is not meant to be completed for every rental agreement or every tenant; only for those that require a guarantor.
-</thinking>
-
 # Guarantor Consent Form - Help Guide
 ## Purpose
 The Guarantor Consent Form is used by business entities (e.g., property owners) to obtain the consent of a guarantor to enter into a rental agreement with a tenant.

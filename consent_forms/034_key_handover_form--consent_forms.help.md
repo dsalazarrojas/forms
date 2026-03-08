@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Key Handover Form - Help Guide
 
 ## Purpose

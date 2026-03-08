@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Contact Form - Help Guide
 ## Purpose
 This form is used to capture customer information for customer support or sales purposes. Please complete this form to provide us with a clear understanding of your needs, and our team will be in touch with you soon.

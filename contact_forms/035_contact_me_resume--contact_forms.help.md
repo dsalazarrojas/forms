@@ -1,8 +1,3 @@
-<thinking>
-This guide is meant to be a helpful resource for end users who need to complete the "Contact Me Resume" form. This form is used for sharing resumes and requesting follow-up on job applications. It's essential to review the fields carefully and ensure that the information provided is accurate and complete. The form is designed to be user-friendly and straightforward, with clear labels and hints for each field.
-
-</thinking>
-
 # Contact Me Resume - Help Guide
 ## Purpose
 This form is designed for job applicants to share their resumes and request follow-up on their applications. It's a convenient way for them to provide their contact information and relevant details about their qualifications.

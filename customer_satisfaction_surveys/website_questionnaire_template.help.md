@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback on overall website satisfaction and user experience. It is intended to be completed by users who have visited the website and would like to provide their input on what they liked or disliked about their experience. The form is meant to be used as an internal assessment tool to help the website owners identify areas for improvement and make informed decisions for future development.
-The form is not affiliated with or derived from any form platform, and it is released under a Creative Commons Attribution 4.0 license. You are free to use, modify, and even sell forms derived from it, just provide attribution.
-</thinking>
-
 # website_questionnaire_template - Help Guide
 ## Purpose
 The Website Questionnaire is designed to gather feedback on overall website satisfaction and user experience. It's meant to be completed by visitors who want to provide their input on what they liked or disliked about their visit.

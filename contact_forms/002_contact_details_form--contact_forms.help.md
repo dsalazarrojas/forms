@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to capture contact details for business or personal purposes, aiming to establish a contact list for the organization. This form will help users provide their personal information, such as full name, email address, and phone number, as well as their professional details like role title and organization name. The form also includes an option to choose a preferred contact method (email, phone, text message, or no preference), a preferred time to contact, and mailing address. Furthermore, users can select areas they consent to receive communications about (newsletters, product updates, promotions, or events) and provide any additional notes that may be relevant to their contact. The primary goal is to ensure that users can easily provide their contact information in a structured and organized manner.
-
-</thinking>
-
 # Contact Details Form - Help Guide
 ## Purpose
 The Contact Details Form is designed to collect personal and professional information from users, enabling them to be added to a contact list for the organization. This form is essential for establishing communication channels and ensuring that users receive relevant updates and information about the organization's activities.

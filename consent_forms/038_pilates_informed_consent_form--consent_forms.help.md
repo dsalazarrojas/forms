@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather participant information for Pilates sessions. The purpose of this form is to ensure that participants understand and agree to the terms of their participation, including any risks or benefits associated with the activity. This form should be used for all participants prior to the start of the session. Please make sure to review and complete this form before proceeding.
-</thinking>
-
 # Pilates Informed Consent Form - Help Guide
 ## Purpose
 This form is intended to gather participant information for Pilates sessions and ensure they understand and agree to the terms of their participation.

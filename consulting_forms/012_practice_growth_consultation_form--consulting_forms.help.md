@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from leads about their practice growth goals, consultation schedule, and other relevant details for the consultation process.
 
 Before starting, please ensure that this form is being used for the intended purpose and not for general feedback or other non-related inquiries. Also, make sure to fill out the form once for each lead to avoid duplication of efforts.

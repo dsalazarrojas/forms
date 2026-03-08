@@ -1,9 +1,4 @@
-> <thinking>
-This form is used for a specific use case within an organization. It is intended for a particular group of people, such as customers, and is a crucial part of the workflow for a specific type of repair or service. This form must be filled out by the legal owner of the vehicle, and it is not intended for general public use. Therefore, it is essential to ensure that the form is filled out correctly and accurately to avoid any potential issues or misunderstandings. To confirm, you are a legal owner of the vehicle, you are filling this form for the correct purposes, and you understand the implications of the information provided.
-
-</thinking>
-
-# Auto Repair Release Form - Help Guide
+> # Auto Repair Release Form - Help Guide
 ## Purpose
 This form is used to obtain consent from the legal owner of a vehicle for repair or service. It ensures that the owner acknowledges and understands the terms and conditions of the repair, including authorization for used or aftermarket parts, test drives, liability waivers, and storage fees.
 

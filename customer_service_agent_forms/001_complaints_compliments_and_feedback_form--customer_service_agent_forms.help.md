@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Complaints, Compliments And Feedback Form - Help Guide
 
 ## Purpose

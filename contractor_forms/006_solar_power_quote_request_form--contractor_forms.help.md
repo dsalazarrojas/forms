@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used by potential customers to request a solar power quote. The form is designed to collect information about the customer's home address, roof characteristics, and contact details. It appears to be a form for generating quotes for residential solar power installations. To ensure that the form is completed correctly, it would be good to verify that it is not being used for duplicate requests or submissions, which could lead to unnecessary quotes being generated and wasting resources.
-
-</thinking>
-
 # Solar Power Quote Request Form - Help Guide
 ## Purpose
 The Solar Power Quote Request Form is designed to collect information from potential customers who are interested in receiving a quote for a solar power installation. This form helps us understand their requirements and provide a quote based on their specific needs.

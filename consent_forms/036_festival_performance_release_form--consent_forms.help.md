@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form is that it is designed to obtain necessary consents and information from performers for the release of festival performances. The form is meant to be filled out by performers prior to an event to ensure they have provided the necessary information and consents for recording, photography, and other media usage. This is to prevent duplication and non-relevant submissions.
-</thinking>
-
 # festival_performance_release_form - Help Guide
 ## Purpose
 This form is used to obtain necessary consents and information from performers for the release of festival performances. Please fill out this form carefully to ensure your consents are recorded correctly.

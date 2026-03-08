@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect informed consent from patients for telemedicine services. It is essential to ensure that patients understand the terms and conditions of the service, including the risks and benefits, and agree to participate. This form should only be used in conjunction with a telemedicine consultation and not as a standalone document. Please review the form carefully before using it in your practice.
-</thinking>
-
 # Telemedicine Informed Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients before providing telemedicine services. It is a crucial document that ensures patients are aware of the services offered and the expectations of the healthcare provider.

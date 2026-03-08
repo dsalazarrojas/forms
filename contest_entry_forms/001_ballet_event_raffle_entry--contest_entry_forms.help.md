@@ -1,12 +1,3 @@
-<thinking>
-The form is a contest entry form for a ballet event raffle, designed to collect contact information and eligibility data from participants. This form ensures that entrants meet the eligibility requirements and agree to receive promotional emails. The form consists of several sections, including contact information, eligibility confirmation, and submission details. 
-
-Checking the form purpose and eligibility conditions are crucial to prevent duplicate entries or entries that do not meet the requirements, ensuring the contest remains fair and secure for all participants. 
-
-This guide is intended to help participants understand the form's purpose and usage requirements, and to provide a clear explanation of each field, ensuring they complete the form accurately and confidently. 
-
-</thinking>
-
 # Ballet Event Raffle Entry - Help Guide
 ## Purpose
 The **Ballet Event Raffle Entry** form is used to register participants for a contest associated with a ballet event, ensuring that entrants meet the eligibility requirements and agree to receive promotional emails. 

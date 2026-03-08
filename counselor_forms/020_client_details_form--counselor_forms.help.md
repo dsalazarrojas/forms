@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather essential information from clients about their demographics, background, and counseling needs. It will help the counselor understand the client's identity, concerns, and circumstances, enabling the counselor to provide personalized and effective support. This form should be completed by new clients, and it will serve as a basis for the counseling process.
-
-</thinking>
-
 # Client Details Form - Help Guide
 ## Purpose
 The Client Details Form is a crucial part of the counseling process. It collects essential information about the client's demographics, background, and counseling needs. This data will help the counselor create a personalized plan for supporting the client.

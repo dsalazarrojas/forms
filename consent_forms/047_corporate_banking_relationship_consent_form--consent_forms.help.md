@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to capture information about a corporate banking relationship, including details about the client's account, company, and bank representative. It is essential to fill out this form accurately to ensure that all relevant information is captured correctly. Before filling out this form, please ensure that you have the necessary permissions and approvals to do so.
 
 </thinking>

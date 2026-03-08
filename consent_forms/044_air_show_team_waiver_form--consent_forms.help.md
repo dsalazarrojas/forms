@@ -1,12 +1,3 @@
-<thinking>
-The Air Show Team Waiver Form is designed to collect essential information from teams and pilots participating in air shows. This form ensures that all relevant details are gathered for risk assessment, safety protocols, and liability purposes. It's essential to complete this form accurately and thoroughly to maintain a safe and enjoyable experience for all participants.
-
-Before filling out this form, please ensure that you are completing it for your own team or pilot, and that the information is up-to-date and accurate. This form should not be used for any other purpose.
-
-Please note that some fields are mandatory, and incomplete or incorrect information may cause delays or affect the acceptance of your participation in the air show.
-
-</thinking>
-
 # Air Show Team Waiver Form - Help Guide
 ## Purpose
 The Air Show Team Waiver Form is a comprehensive document designed to collect necessary information from teams and pilots participating in air shows. This form is essential for risk assessment, safety protocols, and liability purposes.

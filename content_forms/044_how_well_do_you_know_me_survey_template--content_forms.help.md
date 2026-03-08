@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # how_well_do_you_know_me_survey_template - Help Guide
 
 ## Purpose

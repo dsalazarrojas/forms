@@ -1,8 +1,3 @@
-<thinking>
-This form is a waiver form designed for a specific industry or category, likely related to health and wellness or fitness, given the mention of "waiver form" and "coronavirus_response_forms". The purpose of this form is to collect information from clients or customers, possibly for liability or consent purposes. I will assume that this form is meant to be completed by clients of a specific business or organization, possibly a health or wellness center, spa, or boutique. I will focus on providing a clear and concise help guide for end-users, explaining the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Covid 19 Waxing Boutique Waiver Form - Help Guide
 ## Purpose
 This form is a waiver form for clients of a boutique or wellness center that offers waxing services. It is designed to collect important information about each client, including their contact details, waiver of liability, and consent for treatment.

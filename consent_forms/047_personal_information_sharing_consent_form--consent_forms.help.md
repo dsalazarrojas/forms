@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for the user to indicate their consent to share personal information, provide contact details, and specify the purpose of data collection. This form is used to ensure that the individual has provided their informed consent before any personal information is shared.
-</thinking>
-
 # Personal Information Sharing Consent Form - Help Guide
 
 ## Purpose

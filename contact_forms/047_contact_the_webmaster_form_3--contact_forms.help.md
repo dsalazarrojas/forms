@@ -1,11 +1,3 @@
-<thinking>
-
-The Contact The Webmaster Form 3 is designed to gather information from users about website issues or requests. This form is not a replacement for other support channels like email or social media, but rather a more structured way to report problems or suggest improvements. 
-
-The form is not duplicated or derived from any external sources, but rather a unique creation using AI-powered form design.
-
-</thinking>
-
 # Contact The Webmaster Form 3 - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a tool for collecting data from visitors or patients, particularly in a healthcare setting. The form's purpose is to gather information about visit dates, times, and other relevant details, likely for administrative or record-keeping purposes. Given its title and structure, it is likely used for COVID-19 response or pandemic-related activities.
-
-To confirm, I will review the form's fields and provide a help guide based on the provided YAML data.
-
-</thinking>
-
 # Visitation Attestation Form - Help Guide
 ## Purpose
 The Visitation Attestation Form is used to collect information about visit dates, times, and locations, likely for administrative or record-keeping purposes in a healthcare setting.

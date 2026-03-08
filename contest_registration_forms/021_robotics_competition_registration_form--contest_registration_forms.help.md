@@ -1,7 +1,3 @@
-<thinking>
-To ensure the Robotics Competition Registration Form is completed correctly, we'll first check if the form is being used for its intended purpose. This form is designed for individuals to register for a robotics competition, and its fields should not be used for any other purpose. To verify this, we'll review the form's structure and fields: each page is a section with fields of different types, such as text boxes for general information and select one options for specific questions. To avoid duplication and misplacement of form data, it's essential to ensure each section is filled in the correct order and according to the type of field required. We'll now create the help guide to clarify the form's purpose and usage.
-</thinking>
-
 # Robotics Competition Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals to register for a robotics competition. Please fill out the form carefully to provide accurate information.

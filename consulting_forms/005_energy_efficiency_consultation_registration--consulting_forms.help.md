@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients for energy efficiency consultations. This form should only be used for new clients that are not already registered. Please ensure that you do not register the same contact multiple times.
-</thinking>
-
 # Energy Efficiency Consultation Registration - Help Guide
 ## Purpose
 The purpose of this form is to register new clients for energy efficiency consultations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pbe_feedback_survey - Help Guide
 
 ## Purpose

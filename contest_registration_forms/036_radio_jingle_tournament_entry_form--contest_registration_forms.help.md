@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who want to participate in the Radio Jingle Tournament. The purpose of this form is to gather basic contact information and details about the user's entry, such as the type of entry they are submitting and the audio file associated with it. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created using public survey topic metadata as inspiration. This form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit. The contact information is provided by "form@gic.mx".
-</thinking>
-
 # Radio Jingle Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who want to enter the Radio Jingle Tournament. Fill out this form to submit your entry.

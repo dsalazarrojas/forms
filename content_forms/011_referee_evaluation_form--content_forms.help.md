@@ -1,5 +1,3 @@
-<thinking>Before we start, let's make sure we're on the same page. This form is used for evaluating referees in sports events. It seems like the form is meant to assess a referee's performance, focusing on various aspects such as their name, email, and specific skills like their game control and decision-making. To confirm, are you ready to guide end-users on how to fill out this form effectively?</thinking>
-
 # Referee Evaluation Form - Help Guide
 ## Purpose
 The Referee Evaluation Form is designed to provide a structured way to assess and provide feedback on a referee's performance during a sports event. This form helps evaluate the referee's skills and areas where they may need improvement.

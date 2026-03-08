@@ -1,7 +1,3 @@
-<thinking>
-The Single Release Form is used to collect information from contributors, such as the release date, their name, contact number, permission status, and signature. This form is likely used in situations where permission or release is needed from contributors, such as when collecting their contact information or releasing their work. The form is designed to be completed by the contributor themselves, ensuring that they provide accurate and up-to-date information.
-</thinking>
-
 # Single Release Form - Help Guide
 ## Purpose
 The Single Release Form is used to collect information from contributors, including the release date, contributor's name, contact number, permission status, and a note for their signature.

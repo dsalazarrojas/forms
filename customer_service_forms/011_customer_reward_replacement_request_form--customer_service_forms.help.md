@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Reward Replacement Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who need to replace a reward item due to it being lost, damaged, or stolen. The purpose of this form is to gather details about the reward item and the customer's contact information so that our customer service team can assist with the replacement process.

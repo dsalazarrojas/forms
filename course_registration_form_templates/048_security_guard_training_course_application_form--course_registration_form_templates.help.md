@@ -1,7 +1,3 @@
-<thinking>
-This form is used to help security guards register for a training course. It gathers personal information and course selection information to ensure that each security guard meets the necessary requirements. Please ensure that you have read and understood the form's purpose before proceeding. Also, note that this form is not intended for existing security guards who have already completed the training course. If you have already completed the training, please do not fill out this form.
-</thinking>
-
 # Security Guard Training Course Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from security guards who wish to register for a training course. It will guide you through the necessary steps to provide required details and course selection.

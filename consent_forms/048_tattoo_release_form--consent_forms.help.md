@@ -1,10 +1,3 @@
-<thinking>
-This is a critical form that requires accurate and thorough completion. The Tattoo Release Form is used to document the transfer of ownership of a tattoo design from a tattoo artist to a client. This form ensures that both the artist and the client are aware of the terms and conditions of the release, including the client's rights and responsibilities. It's essential to complete this form carefully and accurately to avoid any potential issues or misunderstandings. Before filling out this form, please review the options carefully to ensure you understand the implications of your selections.
-
-Also, please note that some fields may be marked as "optional" but it's still crucial to provide accurate and truthful information in all fields, as it's a legal document.
-
-</thinking>
-
 # Tattoo Release Form - Help Guide
 ## Purpose
 The Tattoo Release Form is a document that outlines the terms and conditions of the release of a tattoo design. It ensures that both the tattoo artist and the client are aware of their rights and responsibilities.

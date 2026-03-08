@@ -1,7 +1,3 @@
-<thinking>
-We are considering the purpose of this form, which is likely to gauge the satisfaction of customers with the telecom network coverage provided by a company. This form is designed to collect feedback from customers on various aspects of their experience, including service quality, network coverage, customer service, and overall experience. The form is intended to help the company identify areas of improvement and make data-driven decisions to enhance its services.
-</thinking>
-
 # telecommunictions_network_coverage_customer_satisfaction_survey - Help Guide
 ## Purpose
 This guide is to assist users in completing the telecom network coverage customer satisfaction survey form. The form is designed to collect feedback from customers on their experience with the telecom network coverage provided by the company.

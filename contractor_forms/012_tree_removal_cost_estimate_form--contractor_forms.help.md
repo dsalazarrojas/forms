@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information from customers about the cost of removing a tree. The goal is to get a quote for tree removal services and provide additional information to the customer. This form will be reviewed internally to ensure that the information is complete and accurate.
-The form has a total of nine fields: eight input fields and one note field.
-To avoid duplicate submissions, this form should only be filled out once per tree removal request.
-</thinking>
-
 # Tree Removal Cost Estimate Form - Help Guide
 ## Purpose
 This form is used to gather information from customers about the cost of removing a tree. The goal is to get a quote for tree removal services and provide additional information to the customer.

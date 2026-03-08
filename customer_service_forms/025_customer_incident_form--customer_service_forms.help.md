@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Incident Form - Help Guide
 ## Purpose
 This form is used to capture information about a customer's incident, allowing our team to understand the issue, gather relevant details, and provide a resolution.

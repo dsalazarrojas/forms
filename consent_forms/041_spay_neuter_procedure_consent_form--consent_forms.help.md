@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for pets' owners to provide consent for spay/neuter procedures on their pets. It is likely to be used in veterinary clinics or animal shelters. The form is designed to collect necessary information from the pet owner, including pet details, owner information, spay/neuter details, medical history, and allergies. This form is not intended to be used for other purposes, such as adoption applications or pet insurance claims. Please ensure that you are using this form correctly by carefully reading the guidelines below.
-</thinking>
-
 # Spay/Neuter Procedure Consent Form - Help Guide
 ## Purpose
 The Spay/Neuter Procedure Consent Form is used to obtain consent from a pet owner for spay/neuter procedures on their pet. It helps veterinary clinics and animal shelters to gather necessary information from the owner and to ensure that the pet receives proper care and treatment.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in video training courses. The form has two main sections, "Personal Details" and "Course Selection". The "Personal Details" section collects basic contact information from the user, while the "Course Selection" section allows the user to select specific details about their training interest, availability, and course preferences. The form checks for non-duplication of user input to prevent multiple course registrations for the same user.</thinking>
-
 # Videographer Training Course Selection - Help Guide
 ## Purpose
 This form is for users who are interested in video training courses. Fill out this form to provide your personal details and course selection preferences.

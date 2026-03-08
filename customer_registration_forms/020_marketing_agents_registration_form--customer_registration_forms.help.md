@@ -1,15 +1,3 @@
-<thinking>
-This form is used for marketing agents to register with their information, which will then be used to create a profile in our system. The form is designed to collect basic information such as first and last name, email, phone number, agency name, address, city, state, and country. Additionally, it collects information on the agent's status, notes, and any additional details such as assigned tools and agents. This form is intended for internal use only and is not meant for public access.
-
-Please note that this form is not designed to collect sensitive or confidential information, such as social security numbers or financial details. The information collected will be used solely for marketing purposes and will not be shared with third parties.
-
-Before filling out this form, please ensure that you have the necessary permissions to share your information with our organization.
-
-To prevent duplicate registrations, we will be checking for existing records in our database. If you have already registered, you will not be able to register again.
-
-Please fill out this form carefully and accurately to ensure that your information is up-to-date and correct.
-
-</thinking>
 # Marketing Agents Registration Form - Help Guide
 ## Purpose
 This form is used for marketing agents to register with their information, which will then be used to create a profile in our system.

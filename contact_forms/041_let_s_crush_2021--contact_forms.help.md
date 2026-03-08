@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "lets_crush_2021", is designed to collect personal information from users for a specific purpose. To determine if the form is relevant, consider the following:
 
 * The form is used for contacting a company.

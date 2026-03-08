@@ -1,11 +1,3 @@
-<thinking>
-# This form is designed for school counselors applying for a position at an educational institution. 
-This form aims to collect basic information about the candidate's personal and professional details. 
-It may be used as a starting point for further evaluation and interviews.
-This form is intended for use on a one-time basis. 
-Please do not resubmit or fill the form again for the same position. 
-</thinking>
-
 # school_counselor_application_form - Help Guide
 ## Purpose
 The school_counselor_application_form is a simple application form for school counselors to apply for a position at an educational institution.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on their experience with the Smart Thermostat system. It is intended to gather information on the overall satisfaction, system reliability, features, and potential areas of improvement. The form is used to identify areas where the system can be improved, which will help to refine and enhance the product. Before completing this form, please ensure that you have used the Smart Thermostat system and are providing feedback based on your actual experience.
-</thinking>
-
 # Smart Thermostat Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience with the Smart Thermostat system.

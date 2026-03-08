@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who want to participate in the Rotary District 6710 speech contest. The form is intended for students from Grayson County to submit their entries. The purpose of this form is to gather contact information, school details, and speech topic preferences for the participants. It's essential to ensure that the information entered is accurate and complete to facilitate smooth communication and preparation for the contest.
-</thinking>
-
 # rotary_district_6710_speech_contest_student_entry_form_grayson_county - Help Guide
 ## Purpose
 The form is designed to collect information from students in the Rotary District 6710 speech contest from Grayson County.

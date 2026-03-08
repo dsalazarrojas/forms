@@ -1,7 +1,3 @@
-<thinking>
-To confirm the relevance of the form, let's consider its purpose and potential users. This "Dental Clearance Form" is likely designed for dental professionals to gather information about their patients' medical histories, allergies, medications, and other relevant medical conditions before performing dental procedures. The form is probably used in dental clinics or offices to ensure that patients receive proper care and treatment. To avoid duplication, the form should be used only once per patient visit.
-</thinking>
-
 # Dental Clearance Form - Help Guide
 ## Purpose
 The Dental Clearance Form is a tool used by dental professionals to gather information about patients' medical histories, allergies, and other relevant medical conditions before performing dental procedures. This helps ensure that patients receive proper care and treatment.

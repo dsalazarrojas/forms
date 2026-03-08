@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from students and their guardians for international travel purposes. It's essential to ensure that all necessary information is collected to provide a safe and enjoyable experience for the students during their travels.
-To prevent duplication and ensure accuracy, please review your answers carefully before submitting the form. If you've already completed this form, you may not need to fill it out again. However, if your travel information has changed, please update your answers accordingly.
-</thinking>
-
 # International Travel Consent Form - Help Guide
 ## Purpose
 This form is used to collect information about a student's international travel plans, including their destination, travel dates, and necessary documents required for travel.

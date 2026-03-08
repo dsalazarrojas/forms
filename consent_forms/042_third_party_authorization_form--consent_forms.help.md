@@ -1,9 +1,3 @@
-<thinking>
-The Third Party Authorization Form is a crucial document that grants permission for a third party to act on behalf of an individual or organization. This form ensures that the individual or organization understands and agrees to the terms and conditions of the relationship, and provides a clear record of the authorization.
-Before proceeding, please ensure that you have the necessary permissions and approvals to complete this form. This form should not be filled out by the third party's attorney or representative. If you are a third party's attorney or representative, please do not proceed.
-This form is intended for individuals or organizations that need to grant permission to a third party for specific actions. If you have already filled out a similar form, please do not fill out this form again.
-</thinking>
-
 # Third Party Authorization Form - Help Guide
 
 ## Purpose

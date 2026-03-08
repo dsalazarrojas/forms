@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the Job Hazard Analysis Form is to identify and assess potential hazards associated with a particular job or task, and to implement measures to control or prevent them. This form helps ensure that workers are aware of the hazards they may face and take steps to mitigate them. By completing this form, workers can identify hazards, assess their severity, and implement safety measures to reduce the risk of injury or illness.
-
-This form is intended to be completed by workers who are familiar with the job or task and have a basic understanding of safety principles. It is not intended to be used as a replacement for formal safety training or certification programs.
-
-Before proceeding, please ensure that you have a clear understanding of the hazards associated with the job or task, and that you have reviewed any relevant safety procedures or protocols.
-</thinking>
-
 # Job Hazard Analysis Form - Help Guide
 ## Purpose
 The Job Hazard Analysis Form is used to identify, assess, and control hazards associated with a particular job or task. It helps workers understand and document potential hazards and take steps to mitigate them.

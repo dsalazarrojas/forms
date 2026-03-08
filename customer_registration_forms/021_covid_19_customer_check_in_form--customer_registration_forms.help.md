@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect and verify customer information and vaccination status for COVID-19 vaccination sites. 
-The form is used to record the name, date of birth, date of vaccination, and other relevant details of customers visiting the vaccination site. 
-This information is crucial for tracking and contact tracing purposes, and ensuring the vaccination process is efficient and safe. 
-Before completing the form, please ensure that you are filling it out for yourself or on behalf of another person, not duplicating an existing entry, or providing incorrect information. 
-</thinking>
-
 # Covid 19 Customer Check In Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from customers visiting vaccination sites for COVID-19 vaccination. This information is used to track and manage the vaccination process effectively.

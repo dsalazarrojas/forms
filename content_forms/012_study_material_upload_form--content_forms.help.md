@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to allow users to upload study materials, which could be audio, video, or document files. This form is likely used in an academic or educational setting where students or instructors need to share materials with each other. The form might not have any specific requirements for the fields, so it's up to the user's discretion to fill it out.
-</thinking>
-
 # Study Material Upload Form - Help Guide
 ## Purpose
 The Study Material Upload Form is designed for users to upload study materials, such as audio, video, or document files, for academic or educational purposes.

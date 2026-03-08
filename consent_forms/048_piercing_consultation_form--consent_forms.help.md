@@ -1,5 +1,3 @@
-<thinking>...The "piercing_consultation_form" is designed to collect information from clients about their body parts and any medical history they want to disclose before undergoing piercing or body modification. This form aims to ensure the client's comfort and safety during the process. When filling out this form, please ensure that you have answered all the questions truthfully and thoroughly, as this will help us understand your needs and provide the best possible experience. Please do not fill out this form multiple times, as each submission is a unique and individualized consultation. Also, please be aware that this form is not a substitute for a medical consultation, and a medical professional's advice should always be sought before undergoing any procedure... </thinking>
-
 # piercing_consultation_form - Help Guide
 ## Purpose
 The piercing_consultation_form is a tool used to collect information from clients about their body parts and any medical history they want to disclose before undergoing piercing or body modification procedures. It helps us understand their needs and provide the best possible experience.

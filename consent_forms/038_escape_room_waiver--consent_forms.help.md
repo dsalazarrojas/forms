@@ -1,13 +1,3 @@
-<thinking>
-
-To create an Escape Room Waiver form, we need to ensure that end-users understand its purpose, which is to record a participant's waiver for an Escape Room activity. We should only include fields that are relevant to this purpose. 
-
-We should also check if this form is being duplicated or if it can be replaced by an existing form. For example, if the form already exists for a similar activity in the same location, we might not need to create a new one.
-
-This form is likely to be used in an Escape Room setting, and we expect it to be filled out by participants or staff. 
-
-</thinking>
-
 # Escape Room Waiver - Help Guide
 ## Purpose
 The Escape Room Waiver form is used to record a participant's waiver for an Escape Room activity. It collects the necessary information from both the participant and the staff involved in the activity.

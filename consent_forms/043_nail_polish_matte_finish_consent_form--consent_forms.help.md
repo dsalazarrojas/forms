@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for nail services, specifically for a client to consent to undergoing a nail service with a matte finish. The form is designed to gather information from clients on their health details and whether they have any health issues that may impact the nail service. The form will be used by the nail technician to understand the client's consent and health status before proceeding with the service. This form is a one-time form and will not be used for any other purpose.
-</thinking>
-
 # Nail Polish Matte Finish Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients about their consent and health status before undergoing a nail service with a matte finish.

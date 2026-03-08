@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by users who are looking to be matched with a mentor for guidance and support. The form gathers information about the user's session details, goals, expertise, and scheduling preferences to facilitate an effective matching process. This form should only be completed once per user, and any previous submission will be flagged for review to prevent duplication.
-</thinking>
-
 # Mentor Matching Form - Help Guide
 ## Purpose
 The Mentor Matching Form is designed to help users get matched with a suitable mentor who can provide guidance and support in their desired area of expertise. By filling out this form, you will be providing essential information about your session preferences and goals, which will help our system to find the best match for you.

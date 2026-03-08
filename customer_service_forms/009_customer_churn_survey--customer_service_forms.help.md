@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture feedback from customers who have stopped using a service, with the aim to understand the reasons behind their decision to churn. This form is meant to provide valuable insights for businesses to improve their services and prevent future churn. 
-
-The form is a simple text input form with a series of multiple-choice questions. It is not directly affiliated with any specific service or platform, making it a generic form that can be used by any business. 
-
-Please ensure that the form is used in a way that respects the customers' privacy and consent. The data collected will be used to improve the service and provide better customer experience in the future. 
-
-</thinking>
-
 # Customer Churn Survey - Help Guide
 ## Purpose
 The Customer Churn Survey form is designed to gather information from customers who have stopped using a service. The survey helps businesses understand the reasons behind customer churn, allowing them to make informed decisions to improve their services and prevent future churn.

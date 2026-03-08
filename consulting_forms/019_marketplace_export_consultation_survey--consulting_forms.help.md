@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about your current export consultation needs and goals. Before filling out this form, please ensure that it is not a duplicate of previous requests or consultations, as it may be considered redundant and not taken into consideration for further action. 
-</thinking>
-
 # marketplace_export_consultation_survey - Help Guide
 ## Purpose
 The Marketplace Export Consultation Survey is designed to help us understand your export consultation needs and goals. This information will help us tailor our export services to meet your specific requirements.

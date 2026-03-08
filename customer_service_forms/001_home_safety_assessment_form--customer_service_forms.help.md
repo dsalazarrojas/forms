@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the safety of a home. It is meant to be used by customers to provide information about their home's safety features, such as the address, phone number, and email. This form is likely to be used by a customer support or service team to gather information about a customer's home safety.
-</thinking>
-
 # Home Safety Assessment Form - Help Guide
 ## Purpose
 The Home Safety Assessment Form is used to gather information about a customer's home safety features. This form is typically used by a customer support or service team to understand the safety status of a customer's home.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for a hairdressing consultation. This form is designed to gather personal details, appointment information, and preferences related to hairdressing services. Before completing this form, please ensure you have a valid reason for consulting this form, and that you're not duplicating effort by already having a similar consultation or form submission.
-</thinking>
-
 # hairdressing_consultation_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a hairdressing consultation.

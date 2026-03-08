@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate guest post submissions for outreach purposes, gathering information about the guest post, author, and categories it belongs to. The form is intended for authors to provide details about their bio, article link, and categories they want to be associated with. This form is not meant for general inquiries or other non-guest post related purposes. Please ensure you are using this form for its intended purpose and not submitting duplicate submissions.
-</thinking>
-
 # outreach-guest-post-submission - Help Guide
 ## Purpose
 This form is used to submit guest posts for publication on our platform. It collects information about the author, article, and categories of the guest post.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to track resident amenity access and obtain consent from residents for accessing certain amenities in a housing facility. This form ensures that residents have given their consent for accessing specific amenities, and the facility can keep records of resident access and consent. This form may be used by facility management or staff to request resident access to amenities. To avoid errors and ensure accurate completion, please read this guide carefully...</thinking>
-
 # Resident Amenity Access Tracking Consent Form - Help Guide
 ## Purpose
 This form is used to track resident amenity access and obtain consent from residents for accessing certain amenities in a housing facility.

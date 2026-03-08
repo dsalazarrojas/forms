@@ -1,7 +1,3 @@
-<thinking>
-The Model Registration Form is designed to collect relevant information from model participants, ensuring accurate and comprehensive data collection for modeling purposes. This form will be used to create a model profile, which is essential for the development and improvement of the model. Please note that this form is intended for model registration only and not for any other purpose. To avoid duplication, ensure that you are not registering the same model more than once. If you are unsure about the purpose or requirements of this form, please contact the model administrator for clarification.
-</thinking>
-
 # Model Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from model participants, ensuring accurate and comprehensive data collection for modeling purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthy India Wealthy India - Help Guide
 
 ## Purpose

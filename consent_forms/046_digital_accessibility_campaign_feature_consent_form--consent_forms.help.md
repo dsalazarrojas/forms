@@ -1,20 +1,3 @@
-<thinking>
-This form is used to gather user consent for the Digital Accessibility Campaign Feature, ensuring that participants are aware of and agree to participate in the campaign. This form is likely used in a context where the campaign features user-generated content or user-submitted data, and the user's participation and data contribution are governed by specific terms and conditions. It's essential to ensure that users understand their rights and obligations as participants in the campaign.
-
-To complete this form, follow these steps:
-
-1.  Enter your participant details, including your email and phone number.
-2.  Indicate whether you want to be featured in the campaign or not.
-3.  Review and agree to the consent statement.
-4.  Specify your campaign contribution.
-5.  Choose whether you want to be featured in the campaign or not.
-6.  Enter your email address.
-7.  Provide your phone number.
-8.  Enter your date of birth.
-
-When filling out this form, please note that the email field requires a valid email address format.
-</thinking>
-
 # Digital Accessibility Campaign Feature Consent Form - Help Guide
 ## Purpose
 This form is a critical component of the Digital Accessibility Campaign, ensuring that participants are aware of and agree to participate in the campaign.

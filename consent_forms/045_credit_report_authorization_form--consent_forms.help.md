@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect authorization from the user for credit reports. This form is likely part of an application or process where the user needs to grant permission for their credit information to be accessed and used by the organization. This form will help ensure that the user is aware of what credit reports they are authorizing and for what purpose.
-</thinking>
-
 # creditReportAuthorizationForm - Help Guide
 
 ## Purpose

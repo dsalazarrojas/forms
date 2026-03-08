@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Leave Form - Help Guide
 
 ## Purpose

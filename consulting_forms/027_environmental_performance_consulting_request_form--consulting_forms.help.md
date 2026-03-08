@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather information from clients seeking consulting services related to environmental performance. The purpose of the form is to collect relevant details about the client and their service request, which will be used to provide the necessary support and expertise for the consulting services. 
-
-The form will ask for the client's basic contact information, including contact person, phone number, and email. It also includes fields for company details like company name, description, and service location. Additionally, the form asks for specific details about the service request, such as service type, date, and time. 
-
-Please note that all required fields are marked as "true" in the form, indicating that they must be filled out for the form to be submitted. 
-
-The form is designed to be easy to fill out and submit, with clear labels and instructions for each field.
-
-</thinking>
-
 # Environmental Performance Consulting Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients seeking consulting services related to environmental performance. It will be used to provide the necessary support and expertise for the consulting services.

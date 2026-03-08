@@ -1,9 +1,3 @@
-<thinking>
-This form is used for collecting consent and appointment details from pet owners for veterinary vaccination. It ensures that the owner provides necessary information about their pet, such as phone number, email, and any medical history, and also indicates if the pet has any allergies or medical conditions.
-The form can be completed by the pet owner or a veterinary professional, and it helps in streamlining the vaccination process by having all relevant details in one place.
-The form is not meant to be a comprehensive medical history or a substitute for a detailed consultation with a veterinarian. It is intended to gather necessary information for the vaccination process.
-</thinking>
-
 # Veterinary Vaccine Consent And Appointment Form - Help Guide
 ## Purpose
 This form is designed to gather information from pet owners for veterinary vaccination appointments. It helps veterinarians and their staff to understand the pet's medical history, vaccination schedule, and any allergies or medical conditions.

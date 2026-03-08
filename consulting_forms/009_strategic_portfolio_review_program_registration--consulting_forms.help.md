@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to participate in the Strategic Portfolio Review Program. This program likely aims to evaluate and improve the overall strategy and performance of a company or organization's portfolio. The form collects personal details such as first name, last name, email, and objective, as well as more specific information like program and team names. The form likely serves as a preliminary step for further evaluation and discussion. This form's purpose is not explicitly stated in the provided YAML, so it is inferred based on the field names. To ensure the form's integrity, it is crucial to check for relevance and non-duplication to avoid redundant or unnecessary entries.</thinking>
-
 # Strategic Portfolio Review Program Registration - Help Guide
 ## Purpose
 The Strategic Portfolio Review Program Registration form is designed to collect information from individuals who wish to participate in the program. This form gathers personal details and program-specific information to facilitate the review process.

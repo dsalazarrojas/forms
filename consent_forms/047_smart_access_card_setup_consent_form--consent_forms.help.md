@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Smart Access Card Setup Consent Form - Help Guide
 ## Purpose
 This form is used to capture the setup information for a Smart Access Card, including employee details, access levels, and signature confirmation. It is designed to ensure that all necessary information is collected and signed off by the employee before issuing the Smart Access Card.

@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Press Release Writing Request Form", we need to consider the form's purpose and how to complete it in a clear and concise manner. The form is designed to collect information from users who are requesting a press release writing service. This form is likely used by businesses or individuals who need to share news or information with the public. The form should be completed by providing details about the company, contact person, and press release type, as well as any supporting materials and images that are relevant to the release. The form should also be filled out carefully, considering the release date and due date for the finished press release. To avoid duplication, users should not submit multiple requests for the same press release topic. This guide will walk you through how to complete the form accurately and effectively.
-
-</thinking>
-
 # Press Release Writing Request Form - Help Guide
 ## Purpose
 The Press Release Writing Request Form is designed to collect information for a press release writing service. This form helps us understand your needs and preferences for a press release that meets your expectations.

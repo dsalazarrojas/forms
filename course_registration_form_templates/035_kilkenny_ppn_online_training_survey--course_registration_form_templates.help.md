@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect user information for online training purposes. The form has multiple sections to gather details about the user, including their contact information, course preferences, and training schedule. This form is likely used for internal purposes within an organization or company to streamline the registration process for online training.
-
-Before proceeding, please ensure that you have not previously completed this form. Duplication of submissions may cause confusion and affect the training schedule.
-
-The following help guide is intended to assist users in completing the form correctly and efficiently.
-
-</thinking>
-
 # kilkenny_ppn_online_training_survey - Help Guide
 ## Purpose
 The kilkenny_ppn_online_training_survey form is designed to collect user information for online training purposes. It is used to streamline the registration process for online training programs.

@@ -1,8 +1,3 @@
-<thinking>
-The form is likely used for registering new customers or updating customer information for existing contracts. Each field is designed to gather specific details about the customer and their contract. To avoid duplication, ensure that all customer data is up-to-date and accurate to prevent errors in contract management.
-
-</thinking>
-
 # Customer And Contract Details Form - Help Guide
 ## Purpose
 The Customer And Contract Details Form is a crucial document for registering new customers or updating customer information for existing contracts. This form gathers essential details about the customer and their contract, ensuring accurate and up-to-date customer data.

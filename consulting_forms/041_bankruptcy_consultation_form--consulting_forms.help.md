@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are interested in consulting about bankruptcy. This form helps to ensure that the necessary information is gathered to provide the best possible consultation. Please note that this form is not intended for individuals who have already filed for bankruptcy, as the process is different for repeat filers. Before filling out this form, ensure you have not filled out one previously.
-</thinking>
-
 # Bankruptcy Consultation Form - Help Guide
 ## Purpose
 The Bankruptcy Consultation Form is a tool to gather essential information from clients seeking consultation on bankruptcy. It is used to understand their financial situation, identify areas of concern, and schedule a consultation.

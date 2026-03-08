@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Tenant Directory Publication Consent Form. The form is intended to collect information from tenants to publish their directory listing in the building's tenant directory. The form is used to ensure that tenants are aware of and consent to their directory listing being published. This guide will help users navigate the form and understand each field's purpose to provide accurate and relevant information.
-
-</thinking>
-
 # Tenant Directory Publication Consent Form - Help Guide
 
 ## Purpose

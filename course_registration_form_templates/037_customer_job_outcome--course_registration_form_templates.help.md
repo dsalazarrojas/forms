@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the outcome of a job for a customer. The form captures data on the customer's name, company name (if applicable), job title, weekly hours worked, employment type (active or non-active), start date, end date, and a list of customers they may be working with. This form is likely used by administrators or HR personnel to track and update job information for customers. To ensure accuracy, please note that this form is only applicable if the customer has been previously registered in the system. If a customer is being registered for the first time, use the customer registration form instead.
-
-</thinking>
-
 # Customer Job Outcome - Help Guide
 ## Purpose
 This form is used to collect information about the outcome of a job for a customer.

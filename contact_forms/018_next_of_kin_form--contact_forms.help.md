@@ -1,5 +1,3 @@
-<thinking>This form is used for providing contact information of next of kin (family members or close relatives) for an individual. This form is typically used for situations where you are asked to provide the contact details of the next of kin, such as in emergency contact information or for insurance purposes. Please ensure that you have the necessary permission to provide this information and follow all relevant data protection and privacy guidelines when filling out this form.</thinking>
-
 # Next Of Kin Form - Help Guide
 ## Purpose
 The Next Of Kin Form is used to collect contact information of a family member or close relative who can be contacted in emergency situations or for other purposes such as insurance.

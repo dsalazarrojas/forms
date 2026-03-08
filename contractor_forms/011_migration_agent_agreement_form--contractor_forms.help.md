@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to capture agreements and information from clients or customers regarding the terms and conditions of a service provided by the form owner. This form is part of the "contractor_forms" category, indicating its purpose and scope. The form has multiple pages with different fields, including text inputs and select multiple options. The "client_details" field is required, while the rest are optional, indicating that the client's contact information and agreement is essential for the service, but the other fields are not mandatory. The form's fields and options are designed to gather information about the client's engagement, onboarding preferences, and consent terms. The "signature" field is likely intended for the client's digital signature or acknowledgement of the agreements. 
-
-This form does not duplicate or copy content from any other form platform, and it is an original adaptation created using public survey topic metadata. The form is released under CC BY 4.0, allowing users to modify and use it as per their needs.
-</thinking>
-
 # Migration Agent Agreement Form - Help Guide
 ## Purpose
 This form is designed to capture client agreements and information regarding the terms and conditions of a service provided by the form owner.

@@ -1,9 +1,3 @@
-<thinking>
-This block is used to determine the purpose of the form, check for relevance, and prevent duplication.
-The Return Shipment Form appears to be a form used in an e-commerce setting, likely for customers to provide information about their returned shipments. The form's purpose is to collect details about the return, including the recipient's name, email, order number, reason for return, and other relevant information. This form may be used to track returns, identify issues, and improve the customer experience.
-The form fields seem to be well-defined and relevant to the form's purpose. However, further validation and verification would be necessary to ensure the form meets the company's specific requirements and standards.
-</thinking>
-
 # Return Shipment Form - Help Guide
 ## Purpose
 The Return Shipment Form is a form used by customers to provide information about their returned shipments. This form helps track returns, identifies issues, and improves the customer experience.

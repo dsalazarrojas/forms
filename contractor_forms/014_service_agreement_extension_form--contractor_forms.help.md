@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the extension of services for a service agreement between a client and a contractor. The form will collect information about the contractor's name, the extension date, the new start date of the service, and the new end date of the service. It's meant to be used when a service agreement needs to be extended for a different duration. The contractor will need to provide their name, the date the extension is taking place, and the new dates for the service extension. This form should not be used to create a new service agreement from scratch.
-
-</thinking>
-
 # Service Agreement Extension Form - Help Guide
 ## Purpose
 This form is used to extend an existing service agreement between a client and a contractor. It helps to update the service agreement by collecting new dates and reasons for the extension.

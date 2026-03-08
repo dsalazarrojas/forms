@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed for medical professionals to obtain informed consent from patients before performing a procedure, such as Ultherapy, a non-invasive, non-surgical treatment for facial wrinkles and other skin concerns. To confirm, this form is likely used in medical settings to gather information about the patient's health status, allergies, medical history, and other relevant details before consenting to the procedure. 
-
-To ensure accurate and effective completion of this form, please review it carefully and follow the guidelines below.
-
-</thinking>
-
 # UltherapyConsentForm - Help Guide
 
 ## Purpose

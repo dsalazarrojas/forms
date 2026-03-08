@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # creative_competition_footage_usage_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from participants and submitters of creative competitions, allowing us to use their footage and images. It's essential to fill this form to ensure we have the necessary permissions to use their content.

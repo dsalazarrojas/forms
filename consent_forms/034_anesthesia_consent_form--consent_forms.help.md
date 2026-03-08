@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for use in a medical setting, specifically for patients undergoing anesthesia. The goal of this form is to obtain informed consent from patients before undergoing a procedure, ensuring that they are fully aware of the risks and implications of the treatment. This form should not be used for other purposes, such as general patient registration or demographic collection.
-</thinking>
-
 # Anesthesia Consent Form - Help Guide
 ## Purpose
 The Anesthesia Consent Form is a crucial document used in medical settings to obtain informed consent from patients before undergoing anesthesia. It helps ensure that patients are fully aware of the risks and implications of the treatment, allowing them to make informed decisions about their care.

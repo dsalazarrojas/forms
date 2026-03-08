@@ -1,13 +1,3 @@
-<thinking>
-To prevent abuse and ensure the accuracy of the form, the internal reasoning block checks for the following:
-- Check if the form is being filled out by a real person, not a bot or automated system.
-- Verify that the form is not being filled out repeatedly by the same user.
-- Check if the user has already filled out the form and is attempting to do so again.
-- Validate the user's input to ensure it matches the required format (e.g., date, phone number, email).
-- Check if the user has selected a valid option for each field.
-- Ensure that the user has accepted the terms and conditions.
-</thinking>
-
 # COVID 19 Awareness Course Application Form - Help Guide
 ## Purpose
 The COVID-19 Awareness Course Application Form is designed to collect information from individuals who are interested in enrolling in the COVID-19 awareness course. The form collects personal and professional information, as well as course preferences and requirements, to ensure that the right course format is selected for each applicant.

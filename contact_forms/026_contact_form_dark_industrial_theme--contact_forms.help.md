@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to inform users about the purpose and requirements of the contact form, "Contact Form Dark Industrial Theme". The form's purpose is to gather information from users who are interested in staying updated about industrial-related topics. The form is designed to collect relevant details such as name, email, company name, job function, industrial interests, preferred content type, email frequency, and agreement to the privacy policy and terms of use. It is crucial to ensure that users understand the form's intent and how to complete it accurately.
-</thinking>
-
 # Contact Form Dark Industrial Theme - Help Guide
 ## Purpose
 This form is designed to gather information from users interested in staying updated about industrial-related topics. We will use this data to send relevant content and news to the email address provided.

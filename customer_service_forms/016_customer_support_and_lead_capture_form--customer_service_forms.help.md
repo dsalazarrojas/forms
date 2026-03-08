@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers who are seeking support or who may be interested in capturing leads. The form is designed to capture basic contact information, such as name and email, and also to determine if the customer has any existing support requests or leads that need to be addressed. The form also asks about the customer's current lead status and priority. This form will help the customer support team to better understand the customer's needs and provide the necessary support or lead follow-up.
-</thinking>
-
 # Customer Support And Lead Capture Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers who are seeking support or who may be interested in capturing leads. It helps the customer support team to understand the customer's needs and provide the necessary support or lead follow-up.

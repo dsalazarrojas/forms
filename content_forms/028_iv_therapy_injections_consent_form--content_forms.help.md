@@ -1,8 +1,3 @@
-<thinking>
-This form is for obtaining informed consent from the patient or their legal representative for intravenous (IV) therapy injections. This form should only be used for patients who are receiving IV therapy injections, not for other types of treatments or medical procedures. 
-The form should only be completed for new patients, and not for continuing or follow-up treatments. 
-</thinking>
-
 # IV Therapy Injections Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients or their legal representatives for IV therapy injections. It is a critical document that outlines the patient's understanding and agreement to receive IV therapy injections.

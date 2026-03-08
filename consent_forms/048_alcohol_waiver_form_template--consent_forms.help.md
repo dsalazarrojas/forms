@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain a participant's consent and waiver for an alcohol-related event. The purpose of this form is to ensure that the participant is aware of the risks associated with alcohol consumption and releases the organizers from any liability related to injuries, property damage, or legal consequences. This form should only be used for events that involve alcohol consumption. Please ensure that this form is not used for other purposes or events that do not involve alcohol.
-</thinking>
-
 # Alcohol Waiver Form Template - Help Guide
 ## Purpose
 

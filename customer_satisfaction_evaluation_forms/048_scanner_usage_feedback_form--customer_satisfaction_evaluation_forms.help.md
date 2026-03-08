@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from scanner users. The purpose of this form is to gather information on how users are utilizing our scanners in their daily work flow. This feedback will help us improve our product and services. Please ensure that you are completing this form only once for each scanner used. If you have already provided feedback for the same scanner, please do not resubmit.
-
-The scanner_usage_feedback_form is a multi-page form, with each page focused on a specific aspect of scanner usage. Please fill out the form page by page, making sure to provide as much detail as possible.
-
-</thinking>
-
 # scanner_usage_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from scanner users, allowing us to improve our product and services.

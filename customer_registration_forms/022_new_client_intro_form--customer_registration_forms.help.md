@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect basic client information for internal purposes. The form should only be used for new clients who are not yet registered in our system. 
-Please make sure this form is not used for updating existing client records or for clients who are already registered in our system. 
-</thinking>
-
 # New Client Intro Form - Help Guide
 ## Purpose
 

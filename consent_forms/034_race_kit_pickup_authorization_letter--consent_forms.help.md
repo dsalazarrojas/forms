@@ -1,7 +1,3 @@
-<thinking>
-...The "Race Kit Pickup Authorization Letter" form is used to collect information for participants to authorize the pickup of a race kit. The form is typically completed by a participant or their authorized representative to provide details such as the participant's name, contact information, pickup location, and pickup time. The form ensures that the correct person is present to receive the race kit and that all necessary information is provided for smooth kit pickup. This form is designed to be completed in a few minutes and should be used for participants who have already registered for the race but need to arrange for kit pickup. Please ensure that you only complete this form once for each participant's kit.
-</thinking>
-
 # Race Kit Pickup Authorization Letter - Help Guide
 ## Purpose
 The "Race Kit Pickup Authorization Letter" is a form used to collect information from participants or their authorized representatives for kit pickup.

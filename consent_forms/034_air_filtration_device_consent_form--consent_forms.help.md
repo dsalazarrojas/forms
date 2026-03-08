@@ -1,12 +1,3 @@
-<thinking>
-This form is for documenting the use and consent of air filtration devices within an organization. It captures participant information, device usage details, and consent from the user. This guide will explain the form's purpose, how to fill it out, and what each field means.
-
-The form is intended for participants who will be exposed to the air filtration devices in their work environment. This form serves as a record of their consent to operate these devices, which may have potential risks and benefits to be acknowledged.
-
-This form is designed to be completed by the participant, and the information collected will help in maintaining accurate records of air filtration devices and participant consent.
-
-</thinking>
-
 # Air Filtration Device Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from participants who will be exposed to air filtration devices within their work environment. This form ensures that all participants are aware of the potential risks and benefits associated with the devices and their usage.

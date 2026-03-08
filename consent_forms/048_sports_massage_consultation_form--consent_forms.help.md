@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports Massage Consultation Form - Help Guide
 
 ## Purpose

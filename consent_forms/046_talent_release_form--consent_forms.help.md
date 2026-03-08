@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Talent Release Form - Help Guide
 ## Purpose
 The Talent Release Form is used to collect information from a talent to release their work for commercial use, allowing production companies to obtain the necessary permissions to use the talent's likeness and work in a project. This form is crucial for ensuring that the talent is aware of and agrees to the usage of their material in the production.

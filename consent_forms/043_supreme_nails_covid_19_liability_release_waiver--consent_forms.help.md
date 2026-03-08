@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # supreme_nails_covid_19_liability_release_waiver - Help Guide
 ## Purpose
 The Supreme Nails COVID-19 Liability Release Waiver form is used to gather important information from customers for liability release purposes. This form is intended to be used during a COVID-19 pandemic or similar public health emergency.

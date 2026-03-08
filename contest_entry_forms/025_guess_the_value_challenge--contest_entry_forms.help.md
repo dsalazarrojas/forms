@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user guesses for a numeric value, along with their reasoning and contact information. The form ensures that users provide a correct numerical guess and provide a brief explanation for their choice. This form is not intended to be completed multiple times by the same user. 
-</thinking>
-
 # Guess The Value Challenge - Help Guide
 ## Purpose
 The Guess The Value Challenge form is designed to collect user guesses for a specific numeric value. Users are prompted to guess a number and provide a brief explanation for their choice, as well as their contact email and phone number.

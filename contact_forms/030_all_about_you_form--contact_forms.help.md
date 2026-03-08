@@ -1,13 +1,3 @@
-<thinking>
-To ensure the form is completed correctly and accurately, please consider the following:
-
-* Please only complete this form if you're answering for yourself or someone else with your consent.
-* Make sure to answer all required fields, marked with an asterisk (\*) next to them.
-* If a field has a select_one type, only choose one option from the list.
-* If a field has a text type, provide a detailed answer in the space provided.
-* If you're unsure about the answer to a question, please leave it blank or provide the best effort you can.
-</thinking>
-
 # All About You Form - Help Guide
 ## Purpose
 This form is designed to help us get to know you better and understand your preferences, habits, and interests. Please answer the questions as accurately as possible to help us provide you with more relevant information and services.

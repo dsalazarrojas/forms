@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect user consent for the collection and usage of software analytics data. The form is likely to be used for customers or users to express their agreement or disagreement for the collection and usage of their data for various purposes such as marketing, sales, or product development. It's a good idea to review the form's purpose and make sure it's not being used to collect data without the user's consent. It's also a good idea to check if there are any similar forms with the same purpose, to avoid duplication of effort.
-
-The form is designed to be a user-facing interface, so the explanations should be concrete and concise, making it easy for the end-users to understand its purpose and usage.
-
-The form contains multiple fields of type `text` with labels `analytics_data_collection_1` to `analytics_data_collection_18`, which suggests that it's collecting data for different types of analytics. However, the exact purpose of each field is not clear, so a best-effort explanation will be provided in the "Field-by-Field Explanation" section.
-</thinking>
-
 # Software Analytics Collection User Consent Form - Help Guide
 ## Purpose
 This form is used to collect user consent for the collection and usage of software analytics data. It is intended for customers or users to express their agreement or disagreement for the collection and usage of their data.

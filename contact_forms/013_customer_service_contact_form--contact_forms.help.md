@@ -1,5 +1,3 @@
-<thinking>... This form will help customers contact our support team to provide feedback, ask questions, or seek assistance with issues they are facing. It's crucial to complete it accurately and correctly to ensure that our support team responds promptly and effectively. Please make sure to fill it out carefully, and avoid submitting duplicate or incomplete forms. Duplicate forms may cause delays in processing, while incomplete forms might lead to confusion when we respond. Our team will review each form to ensure that we address your concerns promptly. ...</thinking>
-
 # Customer Service Contact Form - Help Guide
 ## Purpose
 This form is designed for customers to contact our support team for assistance, feedback, or questions. It's the primary channel for customers to reach out and seek help from our team.

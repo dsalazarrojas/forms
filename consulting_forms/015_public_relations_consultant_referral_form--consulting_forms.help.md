@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:**
-The purpose of this form is to facilitate the referral of public relations consultants to potential clients. The form is designed to collect essential information from the referrer, such as company details, contact person, and relevant job title. This information will help in assigning the best-suited consultant to the client and ensuring a smooth referral process.
-</thinking>
-
 # public_relations_consultant_referral_form - Help Guide
 ## Purpose
 The public_relations_consultant_referral_form is a tool used to refer public relations consultants to potential clients. It helps in collecting information from the referrer, which is then used to match the best-suited consultant with the client.

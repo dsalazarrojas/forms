@@ -1,8 +1,3 @@
-<thinking>
-This guide is to explain the purpose and process of the "store_operations_inquiry_contact_form" to end users, ensuring they understand what the form is for and how to complete it.
-The form is meant to gather information from customers regarding store operations inquiries, allowing the store staff to address these issues effectively. The purpose of this guide is to ensure that end users understand the form's requirements and can fill it out correctly.
-</thinking>
-
 # store_operations_inquiry_contact_form - Help Guide
 ## Purpose
 The store_operations_inquiry_contact_form is a form used to gather information from customers about store operations inquiries. This form helps the store staff to identify the issue, provide a resolution, and improve customer satisfaction.

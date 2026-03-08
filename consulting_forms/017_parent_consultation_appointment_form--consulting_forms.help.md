@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for parents to schedule appointments with teachers for consultation. It is likely used in educational settings, such as schools or educational institutions, to facilitate communication between parents and teachers. The form may be used for meetings, calls, or email consultations. This form is probably not intended for public-facing use, as the fields suggest a more specific context, such as internal communication within an educational setting. It is not clear if this form is to be used for single or recurring appointments, but it may be intended for both. 
-
-To ensure consistency and accuracy, it is recommended that users fill out this form only for its intended purpose and not for other types of appointments or meetings.
-</thinking>
-
 # Parent Consultation Appointment Form - Help Guide
 ## Purpose
 This form is designed for parents to schedule consultations with teachers. It allows parents to provide necessary information and details for the appointment, including their contact information, preferred appointment type, date, time, location, and a brief message for the teacher.

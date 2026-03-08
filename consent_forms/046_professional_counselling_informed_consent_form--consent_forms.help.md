@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the Professional Counselling Informed Consent Form, a document that ensures clients understand the terms and scope of the counselling services they will receive. It is essential to have a clear understanding of the form's purpose and content before completing it. To avoid duplication of effort, please ensure this form is only filled out once before the first session.
 
 </thinking>

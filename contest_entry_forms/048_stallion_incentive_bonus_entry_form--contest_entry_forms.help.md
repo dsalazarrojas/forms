@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a stallion incentive bonus entry program. It is not intended to be a comprehensive form for general stallion information and is instead focused on specific incentives and bonuses related to stallions. To ensure accuracy and prevent errors, please review each field carefully and only provide information relevant to the specific questions asked. If you are unsure about any field, please ask for clarification before submitting the form.
-</thinking>
-
 # Stallion Incentive Bonus Entry Form - Help Guide
 ## Purpose
 The Stallion Incentive Bonus Entry Form is used to collect information for a stallion incentive bonus program. It is designed to provide stallion owners and breeders with the opportunity to claim bonuses for specific incentives and events related to their stallions.

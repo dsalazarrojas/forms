@@ -1,7 +1,3 @@
-<thinking>
-The Visitor Declaration Form COVID 19 is used by employees to collect information about visitors arriving on the premise. This form is typically used to track visitor data for health and safety purposes, ensuring that all visitors have been properly screened and cleared to enter the location. It's essential to complete this form accurately to ensure that all visitors are accounted for and their health status is up-to-date. Please note that this form should only be completed once for each visitor and not for every instance of visitation.
-</thinking>
-
 # Visitor Declaration Form COVID 19 - Help Guide
 ## Purpose
 The Visitor Declaration Form COVID 19 is used to collect information about visitors arriving on the premise to track their health status and ensure their safety.

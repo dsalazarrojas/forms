@@ -1,9 +1,3 @@
-<thinking>
-To confirm, this form is for registering a new Easter basket for an organization's non-profit programs. Before proceeding, ensure that the organization is not already registered. If you are an existing organization, please [insert link to existing org registration process].
-
-This form is used to collect information about the organization and its students. All fields are required unless otherwise specified. Please provide accurate and up-to-date information for each field.
-</thinking>
-
 # easter_basket_registration_form - Help Guide
 ## Purpose
 The Easter basket registration form is used to register a new non-profit organization for the Easter basket program.

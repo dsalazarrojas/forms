@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from participants or users in a sports league, such as their name, contact information, and consent to collect their data. It may be used for administrative purposes by the sports league, such as to verify participant identities, emergency contact information, and to ensure they are aware of the data collection. It is essential to ensure that participants understand the purpose and intent behind this form to avoid duplication of efforts and non-relevance. The correct completion of this form will ensure the accurate collection and management of sports league data.
-</thinking>
-
 # Sports League Data Collection Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent and participant information for sports leagues to ensure accurate and secure data management.

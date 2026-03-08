@@ -1,5 +1,3 @@
-<thinking>... Internal reasoning: This form is primarily used for customers to provide contact information and a description of the issue they're experiencing. It's likely that this form will be used for customer support, feedback, or inquiries. To avoid duplication, we should ensure that the contact information is up-to-date and that the form's fields are completed in a way that makes it easy for the support team to understand the customer's query...</thinking>
-
 # Contact Form With Orange Envelope Theme - Help Guide
 ## Purpose
 

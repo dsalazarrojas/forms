@@ -1,24 +1,4 @@
-# <thinking>... internal reasoning block to confirm form purpose and prevent duplication ...
-
-This form is intended to collect information from contestants for a carpentry competition, specifically for the "Carpentry Contest Tournament Entry Form". The form is meant to gather details about the contestant's entry, including contact information, project specifics, experience level, and other relevant details.
-
-Before filling out this form, please ensure that you have reviewed the competition rules and guidelines carefully. This form serves as the entry submission for the competition, and it's essential to ensure that you have completed all required fields accurately and thoroughly.
-
-The form is designed to collect the following information:
-
-* Contestant contact information (full name, email, phone number)
-* Project details (title, description, dimensions, weight)
-* Project specifics (types of wood used, techniques used, time to complete)
-* Consent and permission for display, judging, and media coverage
-* Entry fee payment status
-* Delivery method
-* Emergency contact information
-
-Please review the form carefully and ensure that you have filled out all required fields. If you have any questions or concerns, please do not hesitate to reach out to the competition organizers.
-
-...</thinking>
-
-# Carpentry Contest Tournament Entry Form - Help Guide
+# # Carpentry Contest Tournament Entry Form - Help Guide
 ## Purpose
 The "Carpentry Contest Tournament Entry Form" is a form designed to collect information from contestants for a carpentry competition. It is essential to fill out this form accurately and thoroughly to ensure that your entry is properly registered and considered for the competition.
 

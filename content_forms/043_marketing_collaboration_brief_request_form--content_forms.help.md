@@ -1,11 +1,3 @@
-<thinking>
-Before we dive into the details of this form, let's quickly confirm that you're reading this guide to help you complete the Marketing Collaboration Brief Request Form. This form is used to request marketing collaboration on specific projects, and it's essential to fill it out accurately to ensure that your request gets the attention it deserves.
-
-This form is designed to be simple and straightforward, with fields that cover the essential information needed for marketing collaboration. Before proceeding, please review this guide to understand each field's purpose and how to complete it correctly.
-
-To confirm, have you reviewed the form's purpose and are ready to begin filling it out?
-</thinking>
-
 # Marketing Collaboration Brief Request Form - Help Guide
 ## Purpose
 This form is used to request marketing collaboration for specific projects, allowing you to get the necessary help and resources for your marketing initiatives.

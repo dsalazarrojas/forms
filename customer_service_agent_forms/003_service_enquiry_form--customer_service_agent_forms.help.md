@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers regarding their service enquiries. This form is designed to gather data on customer name, email, phone number, service enquiry type, description, date, time, and any additional remarks. The goal is to facilitate efficient communication and resolution of customer service issues. It is essential to complete this form accurately and thoroughly to ensure that the customer's concerns are addressed promptly. Ensure you are not duplicating efforts by checking if a similar form has already been submitted recently.
-
-</thinking>
-
 # service enquiry form - Help Guide
 ## Purpose
 The Service Enquiry Form is a tool used to collect and manage customer service enquiries. It is designed to help our team efficiently resolve customer issues and provide a good experience.

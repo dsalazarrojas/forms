@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Shipping Program Negative Feedback Report Form - Help Guide
 ## Purpose
 The Global Shipping Program Negative Feedback Report Form is used to collect information about negative experiences or issues that customers have had with the shipping program. This form helps identify problems and areas for improvement in the shipping process.

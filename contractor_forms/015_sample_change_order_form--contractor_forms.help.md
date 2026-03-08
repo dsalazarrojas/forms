@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and approve changes to a project or job. The purpose of this form is to ensure that all relevant information is accurately recorded and that all parties involved are in agreement on the changes made.
-</thinking>
-
 # Sample Change Order Form - Help Guide
 ## Purpose
 This form is used to document and approve changes to a project or job. It ensures that all relevant information is accurately recorded and that all parties involved are in agreement on the changes made.

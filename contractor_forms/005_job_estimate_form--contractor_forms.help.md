@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check form purpose and fields...
-
-This form is intended to provide a structured way for users to estimate and manage projects. It captures essential details such as project name, customer name, project description, start and end dates, estimated cost, job hours, project location, project status, and job manager. The fields are designed to be straightforward and self-explanatory, with minimal optional fields for users to provide more details as needed.
-
-</thinking>
-
 # Job Estimate Form - Help Guide
 ## Purpose
 The Job Estimate Form is designed to help users estimate and manage projects by collecting key details such as project name, customer information, project schedule, cost, and personnel involvement.

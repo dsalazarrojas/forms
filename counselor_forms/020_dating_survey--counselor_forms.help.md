@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's dating history and preferences. The form is designed to collect data about their relationship status, how they met their partner, what they expect from a relationship, and their overall satisfaction with their current relationship. This information will be used to better understand the complexities of human relationships and inform decisions related to matchmaking and pairing individuals.
-This form does not collect sensitive or personal information, and users will be able to provide their answers in a way that feels comfortable and natural for them.
-Please ensure that you have read and understood the purpose and scope of this form before proceeding.
-</thinking>
-
 # Dating Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your dating history and preferences. It will ask questions about your relationship status, how you met your partner, what you expect from a relationship, and your overall satisfaction with your current relationship.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect consent and information from participants in medical research studies. Before completing this form, please ensure that you have not already provided a similar consent in the past. This form is meant to be completed by participants, not researchers.
-</thinking>
-
 # Medical Research Release Form - Help Guide
 ## Purpose
 This form is used to collect consent and information from participants in medical research studies. It is essential to understand the purpose of the form before proceeding.

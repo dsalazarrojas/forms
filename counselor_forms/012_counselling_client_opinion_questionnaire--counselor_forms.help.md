@@ -1,10 +1,3 @@
-<thinking>
-To create an accurate and user-friendly help guide for the "Counselling Client Opinion Questionnaire" form, I will analyze the form's purpose and fields based on the provided YAML fields. The form is designed to gather client feedback and opinions on their experience with a counselling service, which can help improve the service's quality and effectiveness.
-
-The form is composed of 10 fields, each with its own purpose and characteristics. To create the help guide, I will provide a brief internal reasoning block and then output the final help document in Markdown format.
-
-</thinking>
-
 # Counselling Client Opinion Questionnaire - Help Guide
 ## Purpose
 

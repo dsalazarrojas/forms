@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect medical authorization and information related to a medical professional's qualifications and status. This form is intended to be used by healthcare professionals to authorize medical treatment or procedures, verify a medical professional's qualifications, or track changes to a medical professional's license. It is crucial to ensure that all required fields are completed accurately and thoroughly to avoid any discrepancies or misunderstandings.
-</thinking>
-
 # Medical Authorization Form - Help Guide
 ## Purpose
 The Medical Authorization Form is used to collect medical authorization and information related to a medical professional's qualifications and status.

@@ -1,14 +1,3 @@
-<thinking>
-
-This guide is intended to help users complete the Student Registration Process Evaluation form successfully. Before starting, ensure you are familiar with the form's purpose and have all necessary information ready.
-
-**Purpose:**
-The Student Registration Process Evaluation form is designed to collect feedback on the student's registration experience at an educational institution. It helps administrators assess the effectiveness of the registration process, identify areas for improvement, and make informed decisions for future registrations.
-
-To complete the form accurately, read each section carefully and refer to the explanations below.
-
-</thinking>
-
 # Student Registration Process Evaluation - Help Guide
 ## Purpose
 The Student Registration Process Evaluation form is designed to collect feedback on the student's registration experience at an educational institution.

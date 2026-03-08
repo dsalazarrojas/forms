@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect demographic information for individuals who have visited a particular location or have been in contact with the organization. The purpose of this form is to gather relevant data for the organization to improve its services or for any other administrative purposes.
-Before proceeding, please ensure that you are only submitting the form once. Duplicate submissions will not be processed.
-</thinking>
-
 # Exhibit F 1 - Help Guide
 ## Purpose
 This form is used to collect demographic information from individuals who have visited or have been in contact with the organization. It includes fields for form number, name, date of birth, contact number, address, contact email, date of visit, time of visit, reason for visit, and consent.

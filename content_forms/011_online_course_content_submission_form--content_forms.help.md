@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Course Content Submission Form - Help Guide
 
 ## Purpose

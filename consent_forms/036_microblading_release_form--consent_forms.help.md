@@ -1,18 +1,3 @@
-<thinking>
-This form is used to capture client information and signatures for microblading services. The purpose of this form is to ensure that both the client and the technician have a clear understanding of the microblading process, risks, and expectations. The form is designed to be completed by the client before the microblading procedure, and it serves as a release form to protect both parties. It is essential to complete this form carefully and accurately to ensure a smooth and successful microblading experience.
-
-The form has the following fields:
-
-* Client Information: This section collects general information about the client, including their name, microblading date, and technician's name.
-* Microblading Date: This field is used to record the date of the microblading procedure.
-* Technician Name: This field is used to record the name of the technician performing the microblading procedure.
-* Technician Signature: This field is used to record the signature of the technician, confirming that they have informed the client about the risks and expectations of the microblading procedure.
-* Client Signature: This field is used to record the signature of the client, confirming that they have received and understood the information about the microblading procedure.
-
-This form is used to ensure that both the client and the technician have a clear understanding of the microblading process and the expectations and risks involved. Completing this form accurately and carefully is essential to avoid any misunderstandings or disputes during or after the microblading procedure.
-
-</thinking>
-
 # Microblading Release Form - Help Guide
 ## Purpose
 

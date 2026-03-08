@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are requesting a service appointment from the organization. The purpose of this form is to gather relevant details about the customer's needs and preferences to ensure that the service is provided efficiently and effectively. This form should only be completed by customers who are not already scheduled for a service appointment or have not already submitted a request.
-
-</thinking>
-
 # Service Appointment Request Form - Help Guide
 ## Purpose
 The Service Appointment Request Form is a tool used to collect information from customers who are requesting a service appointment from our organization. It helps us understand their needs and preferences to provide the best possible service.

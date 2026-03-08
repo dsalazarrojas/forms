@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ticket Inquiry Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to inquire about a specific ticket or issue they are experiencing with our service. This form helps our customer service team to quickly address and resolve the issue.

@@ -1,16 +1,3 @@
-<thinking>
-This form serves as a crucial tool to ensure that all staff members understand and agree to adhere to the essential policies and procedures that govern their role as camp leaders. By completing this form, staff members demonstrate their commitment to upholding safety, confidentiality, and the well-being of campers, as well as their own responsibilities as staff members. It is essential to complete this form accurately and thoroughly to avoid any misinterpretation or oversights that may lead to unnecessary complications or issues during the camp session.
-
-This form is divided into several sections, each focusing on a distinct policy or agreement that staff members must adhere to. Completing this form ensures that staff members are aware of their responsibilities and obligations, and that they are committed to upholding these standards throughout the camp session.
-
-When filling out this form, please make sure to provide accurate and truthful information. Failure to comply with these policies may result in termination or other disciplinary measures.
-
-Please note that the "Staff Electronic Signature" field requires your full name as a staff member, while the "Supervisor - Witness Name" field is for the name of the person who reviewed and witnessed the form with you.
-
-Also, please be aware that the "Final Acknowledgment" field is a critical section that requires a clear understanding of the policies and procedures outlined in this form. Make sure to carefully read and agree to all the policies before signing.
-
-</thinking>
-
 # Camp Leader Policy Acknowledgement Form - Help Guide
 ## Purpose
 The Camp Leader Policy Acknowledgement Form is a crucial document that ensures all staff members understand and agree to the essential policies and procedures that govern their role as camp leaders. This form serves as a confirmation that staff members are aware of their responsibilities and obligations, and that they are committed to upholding the safety, confidentiality, and well-being of campers.

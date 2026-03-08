@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants about their risk and compliance strategy. The form will likely be used by the business to identify potential risks and create a comprehensive strategy to mitigate them. 
-
-This form appears to be designed for individuals who wish to apply for some sort of service or advice related to risk and compliance. It is possible that this form is part of a larger application process, and that the information collected will be used to assess the applicant's eligibility for the service or advice. 
-
-Before proceeding, please ensure that you have not already submitted an application and that the information you provide is accurate and up-to-date. 
-
-It is also a good idea to review the form carefully before filling it out to ensure that you understand what is required and what information is being asked for. 
-
-</thinking>
-
 # Risk And Compliance Strategy Advisory Application Form - Help Guide
 ## Purpose
 This form is designed to help you apply for risk and compliance strategy advice or service. Please provide accurate and complete information to help us better understand your needs and provide the best possible advice.

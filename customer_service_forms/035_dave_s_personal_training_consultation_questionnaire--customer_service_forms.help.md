@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential clients for a personal training consultation. The purpose of this form is to help Dave's Personal Training Consultation Questionnaire gather essential details about the client's goals, background, and preferences. This form should be completed by clients who are interested in scheduling a personal training consultation with a representative from Dave's Personal Training Consultation. To ensure that the form is filled out correctly, please note that the form is divided into several sections that collect different types of information about the client. Each section is labeled clearly and should be filled out according to the provided instructions.
-</thinking>
-
 # Dave's Personal Training Consultation Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your personal training goals, background, and preferences to better understand how a personal training consultation from Dave's Personal Training Consultation can help you.

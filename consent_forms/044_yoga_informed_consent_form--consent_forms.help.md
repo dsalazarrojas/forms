@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form's purpose is to collect information from participants in a medical or wellness-related program, such as their contact and emergency contact information, medical conditions, and consent for medical supervision. This form likely serves a healthcare or wellness organization, and its main goal is to ensure that participants have the necessary permissions and contacts set up for safe and effective participation.
 
 Before using this form, ensure that the participant has not previously submitted it. This form's fields and their purposes are as follows:

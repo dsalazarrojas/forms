@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's break down the form's purpose and ensure it's not duplicating any other form. The Construction Job Application Form is designed for individuals applying for various construction-related jobs within a company. This form aims to collect relevant information about the applicant, including their contact details, work experience, skills, and qualifications. It's essential to ensure that the form is not duplicating any other form, and that it's comprehensive enough to provide all necessary information for the hiring process.</thinking>
-
 # Construction Job Application Form - Help Guide
 ## Purpose
 The Construction Job Application Form is a standardized form used to collect relevant information from applicants for construction-related job positions. This form ensures that applicants provide accurate and comprehensive information, making it easier for the hiring team to assess their qualifications and fit for the role.

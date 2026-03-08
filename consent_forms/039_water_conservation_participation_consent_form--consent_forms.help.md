@@ -1,9 +1,3 @@
-<thinking>
-This help guide explains how to use the Water Conservation Participation Consent Form to collect participant details, conservation programs, and other relevant information for water conservation purposes.
-The form is used to gather data on water usage and participation in various conservation programs. It is **not** intended to be used as a substitute for actual water metering or usage data collection.
-This guide will walk you through each section of the form, so you can complete it accurately and effectively.
-</thinking>
-
 # Water Conservation Participation Consent Form - Help Guide
 ## Purpose
 The Water Conservation Participation Consent Form is a tool used to collect information from participants on their water usage habits and conservation participation. This form helps us understand individual and community water usage patterns, which informs our conservation efforts.

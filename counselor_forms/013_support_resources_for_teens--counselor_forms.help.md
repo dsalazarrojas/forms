@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from teens about their support resources and next steps. The form is intended to be completed by individuals seeking support, such as students, family members, or caregivers. The form will be used to help identify and provide relevant support resources and services to the individual. The purpose of this form is to collect data for research and analysis, as well as to provide a centralized platform for individuals to report their support needs and next steps. 
-</thinking>
-
 # Support Resources For Teens - Help Guide
 
 ## Purpose

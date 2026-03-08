@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teletherapy Informed Consent Form - Help Guide
 ## Purpose
 

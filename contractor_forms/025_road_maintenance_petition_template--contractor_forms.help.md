@@ -1,12 +1,3 @@
-<thinking>
-This form is used for requesting road maintenance in a specific area. The form is used to gather information about the location and nature of the road maintenance request. This form is likely used by residents or property owners to report issues such as potholes, cracks, or other hazards that need to be addressed. The form is designed to be completed by the individual making the request and should only need to be filled out once per petition.
-
-This form is not intended to be used for repetitive or duplicate requests. If you have already submitted a petition for a specific issue, you should not need to complete this form again.
-
-Please review the instructions and guidelines below to ensure you provide the most accurate and complete information in your request.
-
-</thinking>
-
 # Road Maintenance Petition Template - Help Guide
 ## Purpose
 The purpose of this form is to request road maintenance for a specific location. This includes reporting issues such as potholes, cracks, or other hazards on the road that need to be addressed.

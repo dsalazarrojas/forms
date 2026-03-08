@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ready To Assemble Furniture Evaluation Survey - Help Guide
 
 ## Purpose

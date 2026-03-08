@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is for government agencies to contact us about consulting services. It's crucial to fill it out correctly to ensure that we can provide the best possible service. Please make sure to fill out all required fields. Note that if you're unsure about any field, the field label should provide a clear explanation. If not, we'll do our best to provide additional guidance. Also, please be aware that this form is for government agencies only. 
-
-</thinking>
-
 # Government Contract Consulting Contact Form - Help Guide
 ## Purpose
 This form is designed for government agencies to contact us about consulting services. It allows us to gather necessary information to provide personalized support and guidance.

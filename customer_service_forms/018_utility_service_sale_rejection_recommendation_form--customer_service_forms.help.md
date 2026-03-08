@@ -1,7 +1,3 @@
-<thinking>
-This form is used when a sale is rejected, and the purpose is to provide a formalized rejection recommendation to the Sales and Quality teams, ensuring all relevant information is documented and shared. This form should only be used for rejected sales and not for sales that have been completed or cancelled. Please check that this form is not already filled out and that the sales leader has not already submitted a rejection reason before proceeding. 
-</thinking>
-
 # Utility Service Sale Rejection Recommendation Form - Help Guide
 ## Purpose
 This form is used to document and formalize the rejection of a sale, providing a clear and concise explanation of the reason for rejection and next steps. The form is designed to facilitate communication between Sales and Quality teams, ensuring that all relevant information is documented and shared.

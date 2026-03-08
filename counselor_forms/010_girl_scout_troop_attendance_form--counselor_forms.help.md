@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record information about the attendance of a Girl Scout troop. It is intended for use by troop leaders to track the attendance of their members at meetings. The purpose of this form is to gather data on who was present or absent, as well as any reasons for absence and notes about the meeting. This form is not intended for other uses, such as creating new troop accounts or managing membership dues. Please ensure you are filling out this form correctly to avoid any confusion or duplication of effort.
-</thinking>
-
 # Girl Scout Troop Attendance Form - Help Guide
 ## Purpose
 The Girl Scout Troop Attendance Form is a tool for troop leaders to track attendance and notes for their meetings. It helps to gather information on who was present or absent and the reasons for absence.

@@ -1,13 +1,3 @@
-<thinking>
-The University Interview Booking Form is designed to help students book an interview with a counselor. The form is intended to gather information about the student's preferences for the interview, including the date and time, and additional notes or questions they may have.
-
-To complete the form, start by filling in the required fields: Student Name, Preferred Interview Time, and Confirm Interview. The Student Name field is where you enter your full name. Preferred Interview Time allows you to choose the time slot that suits you best. Confirm Interview is a checkbox to confirm your booking.
-
-The rest of the form is optional, but you can add any additional information you need in the Additional Notes field or specify any special requests in the Additional Notes field. You can also enter your contact information, including your email, phone number, and address, in case the counselor needs to contact you.
-
-Please be aware that this form is a digital adaptation of an original form created using public survey topic metadata. You can use it as is or modify it to suit your needs. If you have any questions or need further assistance, feel free to reach out to form@gic.mx.
-
-</thinking>
 # University Interview Booking Form - Help Guide
 ## Purpose
 This guide explains how to fill out the University Interview Booking Form for students to book an interview with a counselor.

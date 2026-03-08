@@ -1,13 +1,3 @@
-<thinking>
-
-The form "Tattoo Release Form" is used to gather information from clients for the release of a tattoo they have received from an artist. The form is a collection of text fields that ask for client details and tattoo information. 
-
-The form's primary purpose is to ensure that both the client and the artist have a clear understanding of the release of the tattoo design. This includes client details such as contact number and date of birth, tattoo details such as description, design file, and the signatures of both the client and the artist. 
-
-The form will be used as a template, and its fields may be modified or extended based on the specific needs of the artist or client. 
-
-</thinking>
-
 # Tattoo Release Form - Help Guide
 ## Purpose
 The "Tattoo Release Form" is a document used to record the agreement between a client and an artist for the release of a tattoo design. This form is used to collect information about the client and the tattoo, ensuring a clear understanding of the release agreement.

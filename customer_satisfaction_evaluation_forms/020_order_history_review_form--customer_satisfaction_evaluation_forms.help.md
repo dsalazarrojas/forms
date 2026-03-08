@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather information from customers about their purchase history, including their satisfaction with the order, order details, and other relevant information. This form is designed to be completed by customers to provide feedback on their experience with the order. It will help us understand their needs and improve our services.
-</thinking>
-
 # Order History Review Form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers about their order history. It will help us understand their satisfaction, order details, and other relevant information.

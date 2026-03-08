@@ -1,9 +1,3 @@
-<thinking>
-
-The "Construction Consultation Appointment Form" is designed to facilitate the scheduling of consultations for construction projects with clients. The form is meant for clients to provide necessary information about themselves and their projects, allowing consultants to prepare for the meeting and ensure a productive consultation. Before filling out this form, ensure that you have not already scheduled a consultation with the same client or project. If you have already initiated a consultation with the same client or project, please do not fill out this form again as it may cause duplication of efforts and confusion.
-
-</thinking>
-
 # Construction Consultation Appointment Form - Help Guide
 ## Purpose
 The Construction Consultation Appointment Form is used to gather information about clients and their projects, enabling consultants to prepare effectively for the meeting and providing a productive experience for all parties involved.

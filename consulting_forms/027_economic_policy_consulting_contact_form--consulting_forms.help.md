@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from end-users about their economic policy consulting needs. The form is intended to be completed by users seeking guidance or assistance on various economic policy matters. It will be reviewed internally to ensure that the user's inquiry is properly assigned to the correct person or team for further action. Please ensure that the form is not duplicated or used for purposes other than its intended use.
-</thinking>
-
 # economic_policy_consulting_contact_form - Help Guide
 ## Purpose
 This form is designed to collect information about your economic policy consulting needs so that we can properly assign a person or team to assist you.

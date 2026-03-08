@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for users who will be completing the Air Purification Equipment Testing Consent Form. This form is used for testing and evaluation of air purification equipment in a given location. Users are required to provide their information and consent for the testing process. This form will help ensure that all relevant parties understand the testing process and their roles and responsibilities. Please ensure you are using this form for its intended purpose and do not complete it for other activities. If you are unsure, please reach out to your supervisor or relevant authorities.
-
-</thinking>
-
 # Air Purification Equipment Testing Consent Form - Help Guide
 ## Purpose
 

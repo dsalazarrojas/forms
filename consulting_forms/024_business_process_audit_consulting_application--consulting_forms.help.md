@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients seeking business process audit consulting services. The form helps identify the client's company details, audit objectives, and scope, as well as their expectations for the audit process and timeline. It also inquires about the client's budget, resources, and data availability to ensure a smooth audit process. The form is meant to be a starting point for the consultant to understand the client's needs and requirements.
-Before filling out this form, ensure that you have the necessary information and approvals within your organization to complete it accurately. This form should only be filled out once for each audit project.
-</thinking>
 # Business Process Audit Consulting Application - Help Guide
 ## Purpose
 This form is used to gather information from clients seeking business process audit consulting services. It helps the consultant understand the client's company details, audit objectives, and scope, as well as their expectations for the audit process and timeline.

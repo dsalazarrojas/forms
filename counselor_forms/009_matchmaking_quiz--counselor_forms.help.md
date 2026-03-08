@@ -1,13 +1,3 @@
-<thinking>
-To ensure the form data is used for the purpose intended, it is crucial to understand the purpose and requirements of this form. This form is a matchmaking quiz that aims to help users find their perfect match by providing insights into their personality, interests, and relationship goals. To maintain data integrity, this guide is designed to cover each field in a structured way, ensuring that users understand what is expected from them and what they can expect from the form.
-
-The form is divided into several sections, each focusing on a specific aspect of the user's preferences and expectations. The user is asked about their personality traits, interests, and relationship goals, as well as what they value in a partner. The form also includes a section for users to provide a summary of what they hope to achieve from the matchmaking process and a final submission page.
-
-It is essential to complete each field accurately, as the provided answers will influence the matchmaking algorithm's ability to recommend a suitable match. This guide will walk you through each field, providing clear explanations and examples to help users navigate the form confidently.
-
-Please note that some fields may seem repetitive or have similar options. These repetitions are intentional, allowing users to provide a more comprehensive picture of their preferences. It is recommended to answer each question honestly, as it will aid in generating an accurate match.
-</thinking>
-
 # Matchmaking Quiz - Help Guide
 ## Purpose
 This form is designed to help you find your perfect match by providing insights into your personality, interests, and relationship goals. It is crucial to be honest and accurate when answering each question, as the provided answers will influence the matchmaking algorithm's ability to recommend a suitable match.

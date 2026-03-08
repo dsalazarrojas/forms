@@ -1,12 +1,3 @@
-<thinking>Here's a brief internal reasoning block that explains the form purpose and checks for relevance and non-duplication:
-This form is designed to collect information about a course's curriculum overview. It is intended for use in educational settings, such as schools or universities, to provide a concise and comprehensive snapshot of a course's content, structure, and learning objectives. The form's purpose is to facilitate efficient and accurate course evaluation, planning, and reporting.
-
-The form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI algorithms that analyze public survey topic metadata from various sources. The form's original content and structure are the result of this AI-driven adaptation process.
-
-Before proceeding with the form, ensure that you are using it for its intended purpose. If you are unsure about the form's relevance or have concerns about duplication, review the form's metadata and consult with your organization's experts or stakeholders.
-
-</thinking>
-
 # Course Curriculum Overview - Help Guide
 ## Purpose
 The Course Curriculum Overview form is designed to collect and document a course's curriculum structure, content, and learning objectives. This information is crucial for teachers, instructors, or administrators to review, evaluate, and plan courses effectively.

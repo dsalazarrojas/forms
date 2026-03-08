@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from residents regarding their COVID-19 vaccination status. This form is likely part of a larger effort to track and monitor the vaccination status of a population, possibly for public health purposes such as contact tracing, vaccination campaign management, or demographic studies.
-
-Before filling out this form, please ensure you have not already done so. If you have any doubts or concerns, please contact the form administrator.
-
-This form will ask you to provide some basic information about yourself and your vaccination status. Please answer accurately and completely, and make sure to fill out every field marked as required.
-</thinking>
-
 # Covid 19 Vaccine Resident Interview Form - Help Guide
 ## Purpose
 This form is used to collect information from residents about their COVID-19 vaccination status.

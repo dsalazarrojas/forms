@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to support regular check-ins between a relationship partner and their counselor. The form helps in maintaining a structured and consistent record of the relationship's progress, challenges, and goals. This guide will walk you through the form's purpose and how to complete it, providing detailed explanations of each field.
-</thinking>
-
-# Weekly Relationship Check In - Help Guide
+> # Weekly Relationship Check In - Help Guide
 ## Purpose
 The Weekly Relationship Check In form is a tool for relationship partners to record and reflect on their progress, challenges, and goals. It aims to provide a structured and consistent way of maintaining regular check-ins between the relationship partner and their counselor.
 

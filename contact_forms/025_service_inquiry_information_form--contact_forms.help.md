@@ -1,10 +1,3 @@
-<thinking>
-This form was created to provide a basic framework for users to submit service inquiry information. The purpose of this form is to collect contact details, service inquiry type, preferred contact method, email address, and service inquiry details. It is essential to fill out this form accurately to ensure that your service inquiry is properly handled. Please note that filling out this form is not mandatory, and users are free to choose which fields they want to fill out.
-
-This form is designed to be user-friendly and straightforward, with each field clearly labeled and explained. However, if you are unsure about any field, please refer to the field-by-field explanation below.
-
-</thinking>
-
 # Service Inquiry Information Form - Help Guide
 ## Purpose
 This form is designed to collect service inquiry information from users. It consists of several fields that gather contact details, service inquiry type, preferred contact method, email address, and service inquiry details.

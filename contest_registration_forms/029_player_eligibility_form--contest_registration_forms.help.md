@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a player's personal details and medical history for potential participation in a contest or competition. This form will likely be used by a contest organiser or administrator to assess a player's eligibility to participate. The form includes various fields to collect data such as name, contact information, medical conditions, and agreement to terms and conditions. 
-
-To avoid duplication or incorrect usage of this form, please ensure you're using it for its intended purpose and only when necessary. Internal teams should ensure that all players have provided their consent to participate, and this form should not be used to collect sensitive or unnecessary information.
-</thinking>
-
 # player_eligibility_form - Help Guide
 ## Purpose
 The player_eligibility_form is used to collect information about a player's personal details and medical history for potential participation in a contest or competition.

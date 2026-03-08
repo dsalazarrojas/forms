@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from graduate students, likely for research or administrative purposes. 
-The form is divided into several questions that gather demographic data, contact information, and specific details about the student's experience. 
-Each question is categorized into one of the following types: text, email, select_one, select_multiple, date, time, note, and number. 
-The form does not explicitly state which fields are required, so end-users are advised to review the form carefully and assume that all fields are optional. 
-The purpose of this form is not clearly stated, so end-users are advised to use their best judgment when filling it out.
-</thinking>
-
 # Graduate Student Questionnaire - Help Guide
 ## Purpose
 The Graduate Student Questionnaire is a tool used to collect information from graduate students for various purposes, such as research, administrative, or academic activities.

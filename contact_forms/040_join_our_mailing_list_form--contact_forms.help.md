@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## join_our_mailing_list_form - Help Guide
 
 ## Purpose

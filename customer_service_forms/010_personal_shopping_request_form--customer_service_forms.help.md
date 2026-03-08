@@ -1,12 +1,3 @@
-<thinking>
-The Personal Shopping Request Form is designed to allow customers to submit their personal shopping requests to the service team. This form is intended for customers who need assistance with their shopping experience, whether it's inquiring about a specific product, seeking recommendations, or providing feedback. To ensure that customers' requests are handled efficiently, it's essential to keep this form concise and easy to understand.
-
-By submitting this form, customers will be able to communicate their needs effectively, and the service team will be able to provide timely and personalized support. To avoid duplication and miscommunication, please ensure that each customer only submits one request per form.
-
-Before starting to fill out the form, please take a moment to review the following instructions.
-
-</thinking>
-
 # Personal Shopping Request Form - Help Guide
 ## Purpose
 The Personal Shopping Request Form is a tool to allow customers to submit their personal shopping requests to the service team. This form is designed to be user-friendly and easy to complete.

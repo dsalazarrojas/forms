@@ -1,15 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, let's review the form's purpose and context. The "Substance Usage Waiver" form is likely used in a clinical or research setting to obtain informed consent and medical releases from participants. This form might be part of a larger consent process, and its completion is essential for participants to provide their consent and release of liability for substance usage or other medical treatments. We need to ensure that the form is completed accurately and honestly to maintain the integrity of the research or clinical process.
-
-Before proceeding, let's consider the following:
-
-* Does the form require a medical provider to sign and date it, indicating their approval or acknowledgement of the participant's consent and release?
-* Does the participant need to confirm their substance usage or medical treatment, such as a "yes" or "no" answer?
-* Are there any specific medical treatments or substances that require special attention or consideration during the participant's treatment or research process?
-* What is the expected outcome or consequence of submitting this form?
-
-</thinking>
-
 # Substance Usage Waiver - Help Guide
 ## Purpose
 The "Substance Usage Waiver" form is used to obtain informed consent and release of liability from participants regarding their substance usage or medical treatments.

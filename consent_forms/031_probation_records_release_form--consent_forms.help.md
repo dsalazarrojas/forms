@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is used only when the user is authorized to release a record. This form should not be used in situations where a record is being released for the wrong purpose or without proper authorization. It's essential to carefully review each field to ensure accuracy and correctness before proceeding. The form should not be duplicated or submitted without proper clearance from the relevant authorities.</thinking>
-
 # Probation Records Release Form - Help Guide
 
 ## Purpose

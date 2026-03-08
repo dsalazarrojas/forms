@@ -1,9 +1,3 @@
-<thinking>
-We're creating a customer experience enhancement feedback form to gather input from customers on their interactions with our service. The purpose of this form is to collect feedback on the quality of our service, product, and overall experience. We're looking for both quantitative and qualitative feedback to identify areas for improvement and enhance our customer experience.
-
-Before starting, ensure that the customer has not already submitted feedback on a similar topic, as we want to avoid duplication of efforts and ensure that we're addressing unique concerns.
-</thinking>
-
 # customer_experience_enhancement_feedback_form - Help Guide
 ## Purpose
 The customer experience enhancement feedback form is designed to collect feedback on the quality of our service, product, and overall experience. This feedback will help us identify areas for improvement and enhance our customer experience.

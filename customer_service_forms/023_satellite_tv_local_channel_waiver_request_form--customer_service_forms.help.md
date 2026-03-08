@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to enable customers to request a waiver for a specific local channel on their satellite TV service. This form is used to provide the necessary information required for a waiver to be approved or denied by the local channel manager. The goal is to ensure that customers provide accurate and complete information to facilitate a smooth review and approval process.
-
-To complete this form, simply scroll through the pages below and fill out each field. The fields are divided into sections, and each has a specific purpose. Please make sure to review all fields before submitting the form.
-
-</thinking>
-
 # Satellite TV Local Channel Waiver Request Form - Help Guide
 ## Purpose
 The Satellite TV Local Channel Waiver Request Form is used to request a waiver for a specific local channel on your satellite TV service. This form is reviewed and approved by the local channel manager.

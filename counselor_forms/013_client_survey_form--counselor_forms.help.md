@@ -1,5 +1,3 @@
-<thinking>As a client survey form, this form is designed to gather feedback and data from clients about their experiences with a counselor or therapist. The purpose of this form is to gather information that can help improve the counseling services provided, and to identify areas where counselors can improve their practice. This form is intended to be completed by clients who have received counseling services and are being asked to provide their feedback.</thinking>
-
 # Client Survey Form - Help Guide
 ## Purpose
 The Client Survey Form is designed to gather feedback and data from clients about their experiences with a counselor or therapist.

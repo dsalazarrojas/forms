@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from patients undergoing ligament release surgery. The goal is to collect essential details about the patient, including their personal contact information, medical history, and consent for the procedure. This form is part of the surgical process and ensures that the patient provides the necessary information and consent for the surgery to take place. Please ensure that you are completing this form for the correct purpose and that you have the relevant medical information and consent before proceeding.
-</thinking>
-
 # Ligament Release Surgery Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients undergoing ligament release surgery. It includes personal contact details, medical history, and consent for the procedure.

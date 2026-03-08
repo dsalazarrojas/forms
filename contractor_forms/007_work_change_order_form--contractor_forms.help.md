@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to document changes made to a work order, which is a crucial process in project management and quality control. This form helps to ensure that all parties involved in the project are informed and agreed on the changes made, thus maintaining transparency and preventing miscommunication. 
-
-The form is used to record essential details about the change, such as the date, description, location, and reason for the change, as well as the approval status and who is responsible for signing off on it. This documentation helps to prevent misunderstandings and ensures that all work orders are up-to-date and accurate. 
-
-It's essential to use this form correctly to avoid duplication and ensure that all necessary information is captured accurately. The form is not a replacement for other project management tools or documentation. 
-
-Please note that some fields may not be mandatory, but it's crucial to fill them out whenever possible to maintain the integrity of the form and project management processes.
-
-</thinking>
-
 # Work Change Order Form - Help Guide
 ## Purpose
 The Work Change Order Form is used to document changes made to a work order, ensuring transparency and accuracy in project management and quality control.

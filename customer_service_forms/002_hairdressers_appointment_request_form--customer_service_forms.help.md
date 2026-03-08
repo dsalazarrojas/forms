@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers for hairdressers' appointment requests. The form should be used by customers to provide their details and preferences for their appointment with a hairdresser. This form will help hairdressers' manage appointments more efficiently and provide better customer service. To determine the relevance and non-duplication of this form, we consider the form's purpose and the industry (hairdressers) it belongs to. If a customer has already provided their information through another form, they can skip this one. If a customer is not a hairdresser or not looking for an appointment, they may not need to fill this form.
-</thinking>
-
 # Hairdressers Appointment Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for hairdressers' appointment requests. It helps hairdressers manage appointments more efficiently and provide better customer service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to enter information for the public speaking tournament. It is a general form and does not have any specific requirements for submission. Please note that some fields may be left optional and can be skipped if not relevant.
-</thinking>
-
 # Public Speaking Tournament Entry Form - Help Guide
 ## Purpose
 The Public Speaking Tournament Entry Form is a collection of fields designed to gather information from users who wish to participate in the public speaking tournament. The form is used to capture basic contact information and preferences for the event.

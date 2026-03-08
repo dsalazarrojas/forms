@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for healthcare robotics research filming, and its purpose is to obtain informed consent from patients who will be participating in filming activities as part of research studies. The form is used to collect relevant information about the patient, contact details, filming consent, research information, filming duration, filming frequency, filming location, filming equipment, filming consent notes, signature, signature date, signature time, and signature notes. The form's fields are designed to gather all necessary information for a smooth filming process and to ensure that patients are comfortable and well-informed throughout the process.
-To ensure that this form is completed correctly, we need to verify that it is not a duplicate of an existing form, and the purpose of this form is clear to users.
-</thinking>
-
 # Healthcare Robotics Research Filming Consent Form - Help Guide
 ## Purpose
 The Healthcare Robotics Research Filming Consent Form is designed to obtain informed consent from patients participating in healthcare robotics research filming activities.

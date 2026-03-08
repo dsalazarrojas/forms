@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Player Endorsement Participation Consent Form - Help Guide
 ## Purpose
 This form is for players who wish to participate in a game or event and need to provide their consent and, if applicable, their guardian's consent. It ensures that players and their guardians are aware of and agree to the rules and terms of the game or event.

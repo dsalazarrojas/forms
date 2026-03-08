@@ -1,10 +1,3 @@
-<thinking>
-The goal of the "Trust Amendment Form" is to create or modify trust arrangements by amending the terms or conditions of an existing trust. This form is intended to be used in situations where the grantor (the individual creating the trust) wishes to make changes to the original trust document. The form is likely used in real estate or estate planning scenarios where trusts are involved.
-
-To avoid confusion, this form should not be used if the trust has already been terminated, revoked, or if there are other legal actions pending that would affect the trust. Additionally, ensure that the correct notary public is selected and properly informed about the changes being made to the trust.
-
-</thinking>
-
 # Trust Amendment Form - Help Guide
 
 ## Purpose

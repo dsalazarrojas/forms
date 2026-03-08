@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Child Care Emergency Form that explains its purpose, how to complete it, and what each field means. This guide is designed to be concise, clear, and practical, helping users understand the form's requirements and fill it out accurately.</thinking>
-
 # Child Care Emergency Form - Help Guide
 ## Purpose
 The Child Care Emergency Form is a crucial document that provides essential information in case of a child's medical emergency. This form is completed by the parent or guardian to inform care providers about the child's medical history, allergies, and emergency contact information.

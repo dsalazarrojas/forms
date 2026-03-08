@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect information from contractors regarding the service agreement for a particular sprint, including details about the sprint, client, project, team, and testing status. The purpose of this form is to gather essential information that will help in the successful execution of the project. The form is designed to be completed by the contractor and will serve as a reference for future project management and communication. To avoid any confusion, this form should not be used for other purposes or for projects that are not relevant to the sprint service agreement. Please make sure that you are only filling out this form for the purpose of the sprint service agreement... </thinking>
-
 # sprint_service_agreement_form - Help Guide
 ## Purpose
 This form is used to collect information from contractors regarding the service agreement for a particular sprint, including details about the sprint, client, project, team, and testing status.

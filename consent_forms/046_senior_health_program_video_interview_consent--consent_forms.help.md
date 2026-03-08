@@ -1,11 +1,3 @@
-<thinking>
-The Senior Health Program Video Interview Consent form is designed to gather information from participants for video interviews conducted for the Senior Health Program. 
-This form is used to obtain video interview dates, consent, and other relevant information from participants. 
-To use this form, you must be a participant in the Senior Health Program. 
-Please note that this form is used to obtain explicit consent from participants to conduct video interviews. 
-You are not required to fill out this form if you are not a participant in the Senior Health Program.
-</thinking>
-
 # Senior Health Program Video Interview Consent - Help Guide
 ## Purpose
 The Senior Health Program Video Interview Consent form is used to gather information from participants for video interviews conducted for the Senior Health Program.

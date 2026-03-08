@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Professional Portfolio Submission Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # popcorn_prize_collection_form - Help Guide
 
 ## Purpose

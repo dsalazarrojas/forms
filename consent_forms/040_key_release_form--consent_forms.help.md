@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a key release form for rental properties, designed to capture relevant information from renters, managers, and landlords. The form likely serves as a legal document to formalize the key or access details for rental properties. It may be used in real estate or property management contexts.
-
-To provide a comprehensive help guide, I'll need to review the form structure and fields to ensure I understand the form's purpose and functionality.
-
-</thinking>
-
 # Key Release Form - Help Guide
 ## Purpose
 The Key Release Form is a document that outlines the details of accessing a rental property, including the renter's information, property specifics, and agreements between parties. This form helps ensure that all relevant parties are aware of the key or access details and their responsibilities.

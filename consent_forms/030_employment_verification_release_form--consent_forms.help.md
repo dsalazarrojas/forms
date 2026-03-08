@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to verify employment status and gather information from job applicants. Its purpose is to collect details about an individual's employment history, including their current or previous job titles, employment start and end dates, reason for leaving, and contact information. The form is used to obtain a release from the employer, which is a document that confirms an individual's employment history and can be used to verify their credentials.
-
-Before filling out this form, please ensure that you have not already completed it in the past or that your employer has not already provided you with a completed form. If you are unsure, please contact your employer or the relevant authorities to clarify.
-
-Please note that this form is a standard template and its completion is mandatory for all job applicants.
-
-</thinking>
-
 # employment_verification_release_form - Help Guide
 ## Purpose
 The employment verification release form is designed to verify employment status and gather information from job applicants.

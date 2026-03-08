@@ -1,7 +1,3 @@
-<thinking>
-This form is used for recording the release of product development records in the company. It is essential to ensure that the form is filled out correctly and consistently to maintain accurate records and facilitate collaboration among stakeholders. Before completing this form, please review the fields to understand their purpose and requirements. This form should not be filled out if the product development records have already been released; in that case, please refer to the existing record.
-</thinking>
-
 # Product Development Records Release Form - Help Guide
 ## Purpose
 The Product Development Records Release Form is used to officially release product development records, ensuring accurate and up-to-date information is maintained for future reference.

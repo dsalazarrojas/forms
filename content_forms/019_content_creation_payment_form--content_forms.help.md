@@ -1,7 +1,3 @@
-<thinking>
-The Content Creation Payment Form is a tool used to collect payment information from clients for content creation services. The form is designed to be filled out by clients to provide their payment details and agree to the payment terms.
-</thinking>
-
 # Content Creation Payment Form - Help Guide
 
 ## Purpose

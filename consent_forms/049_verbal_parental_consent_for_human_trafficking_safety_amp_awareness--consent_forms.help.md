@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for obtaining verbal parental consent for Human Trafficking Safety & Awareness. The purpose of this form is to ensure that parents or guardians are aware of the risks associated with human trafficking and are willing to consent to their child's participation in programs or activities related to human trafficking safety and awareness. 
-
-To ensure the form is completed accurately, please verify that the parent or guardian is indeed aware of the risks associated with human trafficking and understands the importance of their consent. 
-
-Ensure that the form is not completed multiple times, either for the same child or for different children. If the form has already been completed for a child, it may not be necessary to complete it again. 
-
-Ensure that the form is signed by a parent or guardian who is authorized to do so.
-
-Please refer to the field explanations below for guidance on completing this form.
-</thinking>
-
 # Verbal Parental Consent For HUMAN TRAFFICKING SAFETY & AWARENESS - Help Guide
 
 ## Purpose

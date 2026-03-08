@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for users to enroll in gymnastics classes. It collects user information, contact information, class schedule, experience, class times, and emergency contact details. The form is designed to be completed by users who are interested in taking gymnastics classes. 
-
-Before completing this form, please ensure that you have read and understood the form's purpose and the fields it contains. Duplicate submissions will not be accepted.
-</thinking>
-
 # Gymnastics Enrollment Form - Help Guide
 ## Purpose
 This form is designed to be used by users who are interested in enrolling in gymnastics classes. It collects relevant information to ensure that you are matched with the best class for your needs and abilities.

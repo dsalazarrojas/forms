@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to provide personal details for the Moderna Booster program. The purpose of this form is to collect information necessary for the program's administration. It is recommended that users fill out the form carefully and accurately, as the collected data will be used to determine eligibility and schedule booster shots.
-</thinking>
-
 # Moderna Booster Form - Help Guide
 ## Purpose
 The Moderna Booster Form is used to collect personal details for the Moderna Booster program. This includes First Name, Email, Phone, and Date of Birth. Please note that this form is not intended for commercial purposes, but rather for the administration of the Moderna Booster program.

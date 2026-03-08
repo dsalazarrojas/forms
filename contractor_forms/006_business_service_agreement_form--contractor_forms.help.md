@@ -1,12 +1,3 @@
-<thinking> 
-The Business Service Agreement Form is a template used to document and clarify the terms of a business service agreement between a service provider and a client. The form is designed to ensure both parties have a clear understanding of the services to be provided, payment terms, and expectations of each other.
-
-To determine if this form should be used, consider the following questions:
-- Is this form a one-time project or an ongoing service?
-- Are the services being offered unique or standard?
-- Does the client require a formal agreement to ensure mutual understanding and protection?
-</thinking>
-
 # Business Service Agreement Form - Help Guide
 
 ## Purpose

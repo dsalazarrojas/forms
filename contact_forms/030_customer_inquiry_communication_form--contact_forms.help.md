@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to communicate their inquiries and questions to the company. This form is intended for customers to submit their contact information and a brief message describing their inquiry. The form is not intended for urgent or time-sensitive matters, and responses may take several days to a week to be processed. Please do not use this form to report issues or problems that require immediate attention.
-</thinking>
-
 # Customer Inquiry Communication Form - Help Guide
 ## Purpose
 This form is designed for customers to submit their inquiries and questions to the company. Please fill out this form if you have any questions or concerns, and a member of our team will respond as soon as possible.

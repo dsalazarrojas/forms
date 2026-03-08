@@ -1,10 +1,3 @@
-<thinking>
-...this form is intended to help veterinarians affected by the COVID-19 pandemic to apply for financial assistance. The purpose of this form is to gather information about the economic impact of the pandemic on your veterinary practice, allowing you to request financial assistance to support your business. Before starting, please review the form carefully to ensure you are providing all necessary information. This form is not intended for emergency or immediate financial support. It is designed to help us understand the broader economic impact of the pandemic on our industry and inform our financial assistance programs.
-
-Please review the form carefully to ensure you are not duplicating efforts or applying for assistance that you have already received.
-
-</thinking>
-
 # COVID 19 Financial Assistance Application Form For Veterinarians - Help Guide
 
 ## Purpose

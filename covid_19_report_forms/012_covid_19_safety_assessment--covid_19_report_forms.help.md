@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess the safety and preparedness of a facility in response to the COVID-19 pandemic. The form will gather information on various aspects of the facility's safety protocols, including health and hygiene practices, occupancy limits, and communication with employees and visitors. The form will help assessors evaluate and document the facility's safety measures to identify areas for improvement and ensure compliance with public health guidelines. Please ensure that this form is completed accurately and thoroughly as it will be used to inform the facility's safety protocols and response to COVID-19.
-
-</thinking>
-
 # COVID 19 Safety Assessment - Help Guide
 ## Purpose
 This form is designed to help facilities assess their safety and preparedness in response to the COVID-19 pandemic. It will help facilities evaluate and document their safety measures, identify areas for improvement, and ensure compliance with public health guidelines.

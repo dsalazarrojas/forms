@@ -1,19 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Online Fundraising Livestream Consent Form", let's first break down the purpose and requirements of this form. This form is likely used for live events, such as charity fundraisers, where participants or their guardians may be asked to consent to being recorded or livestreamed. The form is meant to gather necessary information from participants, including their contact information, consent to be livestreamed, and any specific details about the event.
-
-Before starting the help guide, let's review the form fields and identify potential issues or areas that need clarification:
-
-* There are two "Participant Details" fields, which may be intended to collect the same information but with some variations. This could be a design choice, but for the sake of clarity, we'll treat them as one field.
-* The "Media Release" field seems to be a crucial section, as it involves consent to be recorded or livestreamed. A clear explanation of what this implies is necessary.
-* The "Participant Signature" field is likely required for participants to signify their consent.
-* The "Minor" fields may be used to collect information and consent from minors or their guardians, which is essential for events involving children.
-* The "Livestream Link" and "Livestream Platform" fields might be used to collect information about the event's livestreaming setup.
-* The "Livestream Type" field could be used to determine the event's privacy settings.
-
-Now that we have a general understanding of the form's purpose and fields, let's create the help guide.
-
-</thinking>
-
 # Online Fundraising Livestream Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## door_prize_slip_january_2021_pampered_chef - Help Guide
 
 ## Purpose

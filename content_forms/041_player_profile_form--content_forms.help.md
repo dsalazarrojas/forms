@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about players in relation to coaches at schools, emergency situations, parental contact information, and player physical measures. The form is likely used in a school or educational setting to collect data about students or participants. This guide is to help end-users understand the purpose and usage of this form. I will not repeat fields or provide redundant information in this guide.
-</thinking>
-
 # Player Profile Form - Help Guide
 ## Purpose
 The Player Profile Form is a tool designed to collect essential information about players in a school setting. This form will help gather details such as coach affiliation, emergency contacts, parental contact information, and player's physical characteristics.

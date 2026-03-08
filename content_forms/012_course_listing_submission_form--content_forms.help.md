@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from instructors or course administrators to create or update a course listing in a database or platform. To ensure accurate and efficient completion, please review the form carefully to understand its purpose and fields. 
-Before filling out this form, verify that the course information is accurate and up-to-date. 
-To avoid duplication, ensure that the course information is not already listed on the platform.
-</thinking>
-
 # Course Listing Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and store course information for display on a platform.

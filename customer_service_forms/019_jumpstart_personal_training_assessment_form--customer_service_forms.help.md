@@ -1,5 +1,3 @@
-<thinking>...This form is used to gather information from customers about their personal training needs and preferences. It is designed to help the training staff understand the customer's goals, current physical condition, and preferences for a tailored training program. This form is typically used by new customers who are interested in starting a training program... </thinking>
-
 # JumpStart Personal Training Assessment Form - Help Guide
 ## Purpose
 The JumpStart Personal Training Assessment Form is a tool used to gather information from customers about their personal training needs and preferences. It helps our training staff understand each customer's goals, current physical condition, and preferences to provide a tailored training program.

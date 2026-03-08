@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by customers or clients who are interested in inquiring about or making an order at a woodshop. It is meant to gather basic contact information and details about the customer's needs. The form is not meant to be a complex data collection tool, but rather a simple and straightforward means of communication.
-
-</thinking>
-
 # Woodshop Contact Form - Help Guide
 ## Purpose
 The Woodshop Contact Form is a simple contact form designed to gather basic information from customers or clients interested in inquiring about or making an order at a woodshop.

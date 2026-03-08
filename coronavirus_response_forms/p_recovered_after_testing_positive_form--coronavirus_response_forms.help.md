@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is for individuals who have tested positive for COVID-19 to provide information about their recovery status. This form is likely to be used by healthcare providers, employers, or other relevant parties to track and manage the recovery process of individuals who have had the virus. 
-
-Please note that this form is designed to be completed by individuals who have already tested positive for COVID-19 and are now recovering. It's assumed that the individual has already undergone testing and has a positive result.
-
-Before proceeding, ensure that you have not already completed this form, as it may not be necessary to do so again. If you're unsure, you can verify with your healthcare provider or the relevant authority.
-
-</thinking>
-
 # (P) Recovered After Testing Positive Form - Help Guide
 ## Purpose
 The (P) Recovered After Testing Positive Form is a tool used to track and document the recovery status of individuals who have tested positive for COVID-19. This form helps healthcare providers, employers, and other relevant parties to assess and manage the recovery process.

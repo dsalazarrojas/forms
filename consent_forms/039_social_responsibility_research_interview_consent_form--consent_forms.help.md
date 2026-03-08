@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for a "Social Responsibility Research Interview Consent Form" that explains its purpose, the steps to complete it, and the meaning of each field. This form is designed to gather consent from participants for research interviews, which might involve exploring social responsibility aspects. The purpose of this form is to ensure that participants understand the research goals, risks, and benefits and provide their consent before proceeding with the interview.
-</thinking>
-
 # Social Responsibility Research Interview Consent Form - Help Guide
 ## Purpose
 The Social Responsibility Research Interview Consent Form is a necessary step to ensure that participants understand the research goals, risks, and benefits of the social responsibility research interviews. It is a crucial process to gather consent from participants before starting the interview, and it's your responsibility as a participant to carefully read and understand this form before signing it.

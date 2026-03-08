@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for users to provide information about a collaboration, including project details, roles and amounts, payment methods, collaborators, and submission details. It is intended to be used for internal purposes, such as tracking and managing collaborations, and ensuring equal pay among collaborators. The form should only be used for collaborations where equal pay is applicable. Please note that this form is not intended for personal or commercial use.
 
 </thinking>

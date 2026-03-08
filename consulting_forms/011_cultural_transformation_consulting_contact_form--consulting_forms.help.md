@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Transformation Consulting Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and details from individuals or organizations interested in undergoing a cultural transformation consultation. The purpose of this form is to gather essential data that will help our team better understand your needs and provide tailored guidance and support.

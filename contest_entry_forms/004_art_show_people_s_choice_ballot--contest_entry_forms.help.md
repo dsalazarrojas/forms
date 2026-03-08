@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from visitors to the art show, asking them to vote for their favorite artwork and optionally providing their full name, email address, and reason for their vote. The form aims to understand the visitors' preferences and gather feedback on how they heard about the show. The form should not be submitted multiple times by the same visitor, as it may cause duplication of votes and skew the results. It's essential to fill out the form with accurate and honest information to ensure the integrity of the voting process.
-</thinking>
-
 # Art Show People's Choice Ballot - Help Guide
 
 ## Purpose

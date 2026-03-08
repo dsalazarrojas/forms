@@ -1,12 +1,3 @@
-<thinking>
-
-This form is designed to collect information from riders, including their personal details, emergency contact information, and medical conditions. The form will be used to generate a waiver that the rider can sign to indicate their acceptance of the terms and conditions of the horseback riding activity. 
-
-It's essential to ensure that the rider provides accurate and up-to-date information to maintain their safety and the safety of others. Please complete the form carefully and provide the necessary information.
-
-
-</thinking>
-
 # Horseback Riding Waiver - Help Guide
 ## Purpose
 The Horseback Riding Waiver form is designed to collect information from riders to ensure their safety and the safety of others during horseback riding activities. Completing this form will help us understand your personal details, emergency contact information, and any medical conditions that may affect your participation in the activity.

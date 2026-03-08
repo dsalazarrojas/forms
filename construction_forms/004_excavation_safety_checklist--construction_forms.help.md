@@ -61,8 +61,6 @@ To complete this form, select the relevant options from the provided fields and 
 * **User Completed** (Option) (Required): Select if the user has completed the form.
 	+ This field is required to determine if the user has completed the form.
  
-<thinking>Check if all required fields are filled out before submitting. Ensure that all information is accurate and up-to-date. Note that some fields are optional but can provide additional context for the form.</thinking>
-
 This guide assumes that the form is being filled out by a user who has basic knowledge of excavation sites and safety protocols. If a field is not understood, please seek guidance from the relevant authorities or supervisors. 
 
 Form fields may have additional context or instructions based on their type, but the above explanation should cover the essential information needed to complete the form successfully. 

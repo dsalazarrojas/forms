@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to allow users to submit a fitness meme submission, which is a digital submission form used to share a meme related to fitness activities. The form is designed to gather information about the meme, including its title, description, image URL, and other relevant details from the creator. This form is likely used by administrators or moderators to review and manage submitted memes.
 
 Before proceeding, please ensure that you are not duplicating a submission that already exists in the system.

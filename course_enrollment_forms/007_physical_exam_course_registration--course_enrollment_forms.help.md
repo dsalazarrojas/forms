@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and use of the "Physical Exam Course Registration" form, ensuring they complete it accurately and effectively. This form is likely used for registering or managing courses with specific details, such as instructor and student information, course settings, and exam schedules. Before proceeding, review the form's content and ensure you are not creating duplicate entries, as indicated in the form's structure. 
-</thinking>
-
 # Physical Exam Course Registration - Help Guide
 ## Purpose
 The "Physical Exam Course Registration" form is used to register or manage courses with various details, including instructor and student information, course settings, and exam schedules.

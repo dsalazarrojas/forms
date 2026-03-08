@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from visitors of the haunted house, ensuring they have given their consent for the visit and providing essential contact and medical details. This form is crucial for the safety and liability reasons. Please ensure you are not already submitting this form if you have visited the haunted house before, or if you've already submitted it in the past year. If you are unsure, please contact the house management for verification.
-</thinking>
-
 # haunted_house_waiver_form - Help Guide
 ## Purpose
 This form is a consent waiver for visitors of the haunted house. It collects essential contact and medical information for safety and liability reasons.

@@ -1,15 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Hospice Referral Form, we will need to understand that this form is used to gather information about a patient's referral to a hospice program. This form likely collects demographic data about the patient, details about the referring provider, and specifics about the hospice program that will be providing care. The form may be used to streamline the process of referring patients to hospice care, ensuring that all necessary information is captured in one place. By using this form, users should be able to easily and accurately submit a referral request to the hospice program.
-
-Before completing this form, please review it carefully to ensure that you are capturing all the required and optional fields relevant to the patient's situation.
-
-This form is intended for healthcare professionals, such as physicians, nurses, and social workers, who will be referring patients to hospice care. 
-
-Please note that this form may be used in multiple settings, including hospitals, nursing facilities, and home healthcare settings.
-
-When completing this form, please ensure that you are providing accurate and complete information to support the patient's referral.
-</thinking>
-
 # Hospice Referral Form - Help Guide
 ## Purpose
 The Hospice Referral Form is used to gather information about a patient's referral to a hospice program.

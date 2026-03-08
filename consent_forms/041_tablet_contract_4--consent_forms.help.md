@@ -1,13 +1,3 @@
-<thinking>
-This form, "tablet_contract_4", is used to collect information from customers for a tablet contract, ensuring they are aware of and agree to the terms of the agreement. To ensure this form is completed accurately, please verify that it is being used for its intended purpose and not duplicating efforts.
-
-Please review the fields carefully, making sure each one is filled out appropriately.
-
-Before filling out the form, you may want to review the terms and conditions, as they are crucial to understanding the agreement.
-
-Please be thorough in your response, ensuring all required fields are completed and the form is submitted in its entirety.
-</thinking>
-
 # tablet_contract_4 - Help Guide
 ## Purpose
 This form is used to collect information from customers for a tablet contract, ensuring they are aware of and agree to the terms of the agreement.

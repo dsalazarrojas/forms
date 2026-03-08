@@ -1,8 +1,3 @@
-<thinking> 
-  This form is intended to help healthcare startups provide a clear and consistent consent process for feature articles. The form is used to collect information about the article's features, such as whether it's featured, its title, URL, and other relevant details. The goal is to streamline the consent process and ensure that all necessary information is collected in a single form. 
-  This guide will walk you through each field and provide clear instructions on how to complete each section.
-  </thinking>
-
 # Healthcare Startup Feature Article Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information for healthcare startups to provide a consent process for feature articles. It ensures that all required details are gathered in a single, easy-to-use form.

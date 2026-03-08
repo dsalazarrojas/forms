@@ -1,7 +1,3 @@
-<thinking>
-To create a helpful guide for the "end_user_satisfaction_evaluation_form", I will consider the purpose of the form, which is likely to collect feedback from customers about their experience with the customer service team. This form will help gather information on various aspects of the customer service interaction, including communication, resolution, satisfaction, and other relevant details. I assume that the form is designed to be completed by customers after their interaction with the customer service team, likely as a means to improve the service quality and communication. I will ensure that the explanations provided are practical and based on the form's fields without inventing unsupported business logic. The guide will be concise and easy to understand for end-users.
-</thinking>
-
 # end_user_satisfaction_evaluation_form - Help Guide
 ## Purpose
 The "end_user_satisfaction_evaluation_form" is designed to collect feedback from customers about their experience with the customer service team. This form helps gather information on various aspects of the customer service interaction, including communication, resolution, satisfaction, and other relevant details.

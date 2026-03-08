@@ -1,6 +1,3 @@
-<thinking>
-We need to create a help guide for the Aromatherapy Client Consultation Form. The form is designed for collecting client information, medical history, and aromatherapy preferences. It's essential to ensure that the form is completed accurately and thoroughly to provide the best possible care for the client. We should check the form for completeness and consistency with the client's expectations and ensure that all required fields are filled in accurately.</thinking>
-
 # Aromatherapy Client Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about the client, their medical history, and aromatherapy preferences. It will help the aromatherapist provide personalized and effective treatment.

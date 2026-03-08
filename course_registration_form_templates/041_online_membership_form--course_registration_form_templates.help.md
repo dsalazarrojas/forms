@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from online learners to register for a course. It is intended for individuals who want to take online classes, either as a student or as a parent/guardian of a student. The form is required for the registration process and is used to collect personal and contact information from learners. 
-
-The form is part of the "Online Membership Form" template, which is a standard template used for course registration. If you have already used this template in the past, you might not need to fill out this form again.
-
-To confirm, this form is only for learners who want to register for a course and do not need to use it for any other purpose. If you are not a learner, please do not use this form.
-
-</thinking>
-
 # Online Membership Form - Help Guide
 ## Purpose
 The Online Membership Form is used to collect personal and contact information from learners who want to register for a course.

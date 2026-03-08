@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect health information from social club members to assess their health status and travel history. This form is meant to be completed by members who are part of social clubs that want to ensure the health and safety of its members. The form will likely be used by club administrators to track the health status of its members and make informed decisions about club activities and gatherings.
-
-Before filling out this form, make sure that:
-- You are a social club member.
-- You are completing this form for yourself, not for another person.
-- You have not already completed this form recently.
-
-</thinking>
-
 # Social Club Health Screening Form - Help Guide
 ## Purpose
 This form is used to collect health information from social club members to assess their health status and travel history. It helps the club administrators make informed decisions about club activities and gatherings.

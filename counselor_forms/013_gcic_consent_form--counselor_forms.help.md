@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to collect information for the GCIC (General Counselor Information Center) program, which aims to provide a comprehensive assessment and treatment planning process for individuals with mental health concerns. The form's purpose is to gather essential details from individuals or their representatives, ensuring accurate and informed consent for participation in the program. 
-  It appears that the form has been generated based on public survey topic metadata and is not affiliated with any proprietary form platforms.
-</thinking>
-
 # GCIC Consent Form - Help Guide
 ## Purpose
 The GCIC Consent Form is a crucial document that collects necessary information and consent for participation in the General Counselor Information Center program. 

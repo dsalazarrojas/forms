@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form, "Drawing Slip Form Template," is to collect entries for a drawing or contest. This form is AI-generated and serves as an original adaptation of public metadata. It is not affiliated with any proprietary form platforms. This form is designed to be user-friendly and adaptable for various types of drawings or contests.
-This form is meant for collecting entry information, and each field should be filled according to the specific requirements and options provided. Please note that some fields are optional, but filling in all relevant fields will result in more accurate and detailed entry information.
-Before you start, please ensure that the form is filled in a way that aligns with the contest or drawing rules and regulations.
-</thinking>
-
 # Drawing Slip Form Template - Help Guide
 ## Purpose
 This form is designed to collect entries for a drawing or contest.

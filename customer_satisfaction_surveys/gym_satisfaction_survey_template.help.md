@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gauge member satisfaction and gather feedback for improvements. The purpose of this form is to collect opinions on various aspects of the gym experience, including overall satisfaction, cleanliness, equipment quality, services used, and frequency of visits. The form is intended to be used by gym members to provide their honest feedback, which will help the gym management to identify areas of improvement and make necessary changes to enhance the overall member experience.
-
-Before completing this form, please note that:
-
-* You should only fill out this form if you have recently visited the gym.
-* If you have already completed a similar survey, please do not fill out this form again.
-* Your responses will be kept confidential and used only for the purposes of improving the gym.
-
-</thinking>
-
 # gym_satisfaction_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to collect member feedback on various aspects of the gym experience.

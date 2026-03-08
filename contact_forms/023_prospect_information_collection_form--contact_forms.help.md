@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prospect Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information about potential prospects for sales or business opportunities. The purpose of this form is to gather relevant details to help us understand the prospect's background, needs, and preferences, which will aid in creating a suitable proposal or follow-up strategy.

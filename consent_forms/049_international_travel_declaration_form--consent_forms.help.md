@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my task is to create a comprehensive help guide for the "international_travel_declaration_form" form. Before starting, let me think about the form purpose and ensure that I cover all relevant information to provide accurate and clear instructions to end-users. The form is used for declaring international travel, which involves collecting various details about the travel. The purpose of this form is to capture relevant information for the travel declaration process. To avoid duplication and ensure relevance, I will carefully review the form fields and provide clear explanations for each field.</thinking>
-
 # international_travel_declaration_form - Help Guide
 ## Purpose
 The "international_travel_declaration_form" is used to declare international travel. This form captures essential details about the travel, including dates, destinations, purposes, and other relevant information.

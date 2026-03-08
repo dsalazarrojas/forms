@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to measure customer satisfaction and gauge the likelihood of customers recommending our service to others. It's essential to complete the form to provide valuable feedback, which will help our team improve our service and provide better experiences for future customers.
-
-Before proceeding, please note that this form is not a formal complaint or issue reporting tool. If you have a specific issue or concern, please contact us directly through our support channels.
-
-</thinking>
-
 # Customer Satisfaction Survey Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is filled out correctly, we need to make sure that the end user has a clear understanding of the form's purpose and the fields' requirements. This guide will help clarify the Business Strategy Appointment Form's purpose and provide step-by-step instructions on how to complete it. The form is designed to collect information from clients interested in consulting services, allowing the consultant to understand their business needs and challenges and schedule a suitable appointment to discuss strategy. This form should only be filled out by clients who have been invited to schedule a meeting with a consultant.
-
-</thinking>
-
 # Business Strategy Appointment Form - Help Guide
 
 ## Purpose

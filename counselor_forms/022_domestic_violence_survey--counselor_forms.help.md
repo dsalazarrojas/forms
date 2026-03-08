@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help individuals who have witnessed or experienced domestic violence, particularly in a school setting, to report their experiences and gather information on how they can access support and resources. This form was designed to gather information on specific aspects of the domestic violence, such as the perpetrator, the type of violence witnessed, and the support systems that have been put in place. This form may also be used by schools to gather information on their internal systems and procedures for addressing domestic violence. Please ensure that this form is used in a sensitive and safe manner, and that participants' information is protected according to your organization's policies and regulations.
-</thinking>
-
 # Domestic Violence Survey - Help Guide
 ## Purpose
 This form is designed to help individuals who have witnessed or experienced domestic violence gather information on their experiences and access support.

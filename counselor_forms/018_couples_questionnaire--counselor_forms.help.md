@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gather information about the current state of a couple's relationship. It is intended for couples who are in a romantic partnership and want to gain insight into their relationship dynamics. The form is meant to be a comprehensive tool for couples to assess their relationship quality, communication styles, conflict resolution strategies, and emotional intelligence. This form is not designed for single individuals or individuals seeking information for non-romantic relationships.
-
-Please fill out this form carefully and honestly to gain a deeper understanding of your relationship. This form is not designed to be a one-time use tool, but rather a ongoing assessment that can be used to track changes and growth over time. 
-
-Note that the form asks multiple questions, some of which may seem repetitive or unrelated to each other. However, each question has a specific purpose and contributes to a comprehensive picture of your relationship dynamics. 
-
-Before filling out the form, consider the following:
-
-* Be honest and objective in your answers.
-* Answer according to your current relationship status.
-* Take your time to fill out the form, and do not rush.
-* If you have any questions or concerns, feel free to reach out.
-
-</thinking>
-
 # couples_questionnaire - Help Guide
 ## Purpose
 The "couples_questionnaire" form is a tool designed to help couples assess and improve their relationship dynamics. It is a comprehensive questionnaire that covers various aspects of relationships, including communication styles, conflict resolution, emotional intelligence, and more.

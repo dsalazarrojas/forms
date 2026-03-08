@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a simple business contact form designed to gather contact information and status updates from freelancers or businesses. The form likely aims to facilitate communication between potential clients and freelancers in the industry or category specified. However, I couldn't find any explicit connection to a specific industry or category in the provided YAML file, so I'm assuming it's a generic form. If this is not the case, please provide more context.
-</thinking>
-
 # Simple Business Contact Form Freelancer - Help Guide
 ## Purpose
 The Simple Business Contact Form Freelancer is a form designed to gather contact information and status updates from freelancers. It allows potential clients to easily contact freelancers to discuss projects or collaborations.

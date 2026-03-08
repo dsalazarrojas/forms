@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for the purpose of contact investigation in the context of COVID-19. It is intended to be used when interacting with individuals who have come into contact with a confirmed case of COVID-19. The goal of this form is to gather accurate and detailed information about the exposure, the contact's health status, and any other relevant details that may be required for contact tracing and quarantine procedures.
-
-Before filling out this form, please confirm that the exposure is related to COVID-19 and that you have not already submitted a similar form for this contact.
-
-</thinking>
-
 # COVID 19 Contact Investigation Form - Help Guide
 ## Purpose
 This form is used to gather information about a contact who has had exposure to a confirmed case of COVID-19. It is essential for contact tracing and quarantine procedures.

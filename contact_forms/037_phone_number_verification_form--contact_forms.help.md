@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 # phone_number_verification_form - Help Guide
 ## Purpose
 This form is designed to verify a phone number. It is meant to be completed by users when they wish to validate their phone number, likely for account verification or sign-up purposes. This form is only necessary when users have entered their phone number previously, as it will be used to confirm the correctness of the number.

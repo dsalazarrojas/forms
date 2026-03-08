@@ -1,8 +1,3 @@
-<thinking> 
-This form is a Medical Device Records Release Form. It's used to collect information about a medical device and the patient's consent to release their medical records. This form is designed to be completed by the patient or their representative. The form is divided into three sections: Patient Information Form, Medical Device Form, and Consent Form. Each section has a specific purpose and set of fields that need to be filled out. The form is not affiliated with any form platform and is an original creation.
-
-</thinking>
-
 # Medical Device Records Release Form - Help Guide
 ## Purpose
 The Medical Device Records Release Form is used to collect information about a medical device and the patient's consent to release their medical records. This form is designed to be completed by the patient or their representative.

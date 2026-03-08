@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 We will use the form to collect coronavirus survey data from users, which will help us understand the public's response to the current pandemic situation. The form will be used to gather information on users' symptoms, impact on their daily life, test results, and vaccination status. This information will help us make data-driven decisions to respond to the pandemic effectively. Please ensure you only complete this form if you are a relevant and unique individual. If you have already submitted a response, please do not repeat it. 
 
 # coronavirus_survey - Help Guide

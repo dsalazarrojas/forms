@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to create a contract agreement for clergy members, detailing their role and responsibilities within a church or congregation. This agreement formalizes the terms of the clergy member's employment or assignment, including their name, title, contract duration, and compensation. The form ensures clarity on duties, benefits, and expectations for both the clergy member and the church administration.
-The form is primarily used to establish a written understanding between the clergy member and the church, providing a clear outline of their obligations and rights. This helps prevent misunderstandings and promotes a smooth working relationship.
-This form is particularly relevant for churches and congregations that require a structured approach to clergy assignments, ensuring a professional and respectful environment for all parties involved.
-The form is designed to be completed by both the clergy member and the church administration, with both parties signing and acknowledging the terms of the agreement.
-</thinking>
-
 # Clergy Contract Agreement - Help Guide
 ## Purpose
 This form is designed to create a written contract between a clergy member and a church or congregation, outlining their role, responsibilities, and expectations.

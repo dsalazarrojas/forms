@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for skills events, which are opportunities for individuals to showcase their skills in a specific area. This form helps us understand what skills they have and what kind of experience they have. It also helps us to determine if they are suitable for the event. We need to ensure that only relevant and high-quality applications are submitted, so we will review each submission carefully.
-</thinking>
-
 # skills_event_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants for skills events.

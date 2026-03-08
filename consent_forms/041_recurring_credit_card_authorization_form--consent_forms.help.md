@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to obtain recurring credit card authorization from users, which involves collecting their credit card information, including card number, expiration date, and CVV. This form is likely used for subscription-based services or services that require periodic payments. The form ensures that users provide necessary details to complete the authorization process, which is essential for secure and reliable payments. This form is a crucial part of the payment process, and users must provide accurate information to avoid any issues with their payments.
-</thinking>
-
 # recurring_credit_card_authorization_form - Help Guide
 ## Purpose
 The form is used to obtain recurring credit card authorization from users, ensuring secure and reliable payments for subscription-based services or services that require periodic payments.

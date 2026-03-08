@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users regarding the setup of a legacy contact for an account or organization. A legacy contact is typically an authorized representative who can be contacted in case the account holder is unreachable or no longer able to manage their own account. This form will help ensure that the account holder's preferences and wishes are respected and their information is kept up-to-date. This form should only be used when the account holder has previously established a relationship with the contact or has specifically designated this contact for this purpose. Please ensure you have permission to use this form for this purpose before submitting it.
- 
-</thinking>
-
 # Legacy Contact Setup Request Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The Power Of Attorney Authorization Form is a document used to grant legal authorization to someone to act on your behalf in various matters. The form is designed to be filled out by the individual granting power of attorney, typically in situations where they may not be able to make decisions for themselves due to incapacity, illness, or other reasons.
-
-This form is intended to be used in situations where a person needs to grant power of attorney to another individual, such as for financial, health, or other personal matters. The form will help to ensure that the person granting power of attorney has the authority to make decisions and take actions on their behalf.
-
-The form is designed to be filled out by the individual granting power of attorney and may be used by legal professionals, such as lawyers, or other individuals who need to verify the grant of authority.
-
-</thinking>
-
 # Power Of Attorney Authorization Form - Help Guide
 ## Purpose
 This form is used to grant legal authorization to an individual to act on your behalf in various matters, typically in situations where you may not be able to make decisions for yourself.

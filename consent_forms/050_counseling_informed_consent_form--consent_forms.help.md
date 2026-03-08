@@ -1,8 +1,3 @@
-<thinking> 
-Form purpose: This form is intended to be used for counseling services to gather information from clients, including their personal and contact information, medical conditions, and consent for services. This form is not affiliated with any form platforms and is released under CC BY 4.0 for free use, modification, and distribution.
-To avoid duplication or misuse, please review the form's metadata carefully to ensure it meets your specific needs and requirements.
-</thinking>
-
 # Counseling Informed Consent Form - Help Guide
 ## Purpose
 The Counselings Informed Consent Form is a tool used by counseling services to gather essential information from clients before beginning treatment. This form helps ensure that clients understand their rights, the services they will receive, and any applicable terms.

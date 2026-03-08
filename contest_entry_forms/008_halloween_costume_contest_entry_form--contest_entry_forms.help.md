@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from users who want to participate in a Halloween costume contest. The form collects various details including a picture of the costume, a description of the costume, contact information, category and sub-category selection, and multiple-choice questions. It's essential to complete this form accurately to increase the chances of winning.
-
-Before proceeding, please ensure that you haven't filled out this form before and that your submission meets the contest's criteria. If you're unsure, review the contest rules or contact the contest organizers.
-
-The purpose of this guide is to help you complete the form efficiently and effectively.
-</thinking>
-
 # Halloween Costume Contest Entry Form - Help Guide
 ## Purpose
 This form is designed to gather information from users who want to participate in the Halloween costume contest. Please note that each field has been carefully crafted to help you provide the necessary details for your entry.

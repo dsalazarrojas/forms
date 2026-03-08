@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather consent from facilities regarding an audit of their recycling processes. The purpose of the audit is to assess the facility's compliance with regulatory requirements and industry standards. This form is a crucial step in the audit process, as it ensures that the facility's management team is aware of and acknowledges the audit's objectives, scope, and potential consequences. This form is part of a larger process that aims to improve the facility's sustainability and environmental performance.
-</thinking>
-
 # recycling_facility_audit_consent_form - Help Guide
 ## Purpose
 This form is used to gather consent from facilities regarding an audit of their recycling processes.

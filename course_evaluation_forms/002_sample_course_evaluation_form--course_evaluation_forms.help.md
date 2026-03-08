@@ -1,14 +1,3 @@
-<thinking>
-We are creating a form to evaluate the experience and quality of courses offered to students. The primary purpose of this form is to gather feedback from students on their overall experience, format, and other relevant aspects of the course. This form should only be filled out by students who have completed the course.
-
-Before filling out this form, please ensure that you have completed the course and are providing feedback based on your actual experience. If you have completed the course, this form will help us understand your thoughts on the course's overall quality, format, and support provided.
-
-This form is designed to be completed by students, so please be honest and thorough in your responses. Your feedback is crucial in helping us improve the course and provide better services to our students.
-
-If you have any questions or need help with the form, please don't hesitate to contact us.
-
-</thinking>
-
 # Sample Course Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from students on their experience with our courses. This form will help us understand what we are doing well and what we can improve on to provide better services to our students.

@@ -1,13 +1,3 @@
-<thinking>
-The "Customer Retention Strategy Feedback Questionnaire" is a form designed to collect valuable feedback from customers about the current customer retention strategy of an organization. The form is intended to help organizations better understand their customers' needs, preferences, and expectations, allowing them to improve their customer retention strategies. 
-
-To prevent duplication of effort and ensure relevance, the form is only intended for use by customers. Non-customer employees should not fill out this form. 
-
-The form is structured to collect feedback from customers on their satisfaction with the organization, potential ideas for improving customer retention, and their own ideas for improving the organization's customer retention strategy. The form also collects contact information for follow-up purposes.
-
-Before proceeding, please ensure that you have filled out this form only once and that your feedback is genuine and reflects your true experiences and opinions.
-</thinking>
-
 # Customer Retention Strategy Feedback Questionnaire - Help Guide
 ## Purpose
 The Customer Retention Strategy Feedback Questionnaire is designed to collect feedback from customers about their experiences and expectations regarding the organization's customer retention strategy. This form will help the organization better understand its customers' needs and improve its strategy.

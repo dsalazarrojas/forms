@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect creative play ideas from users, which will be reviewed and considered for potential inclusion in the organization's creative play offerings. This form is designed to gather relevant information about the user-submitted ideas, ensuring they are feasible and aligns with the organization's content categories. To ensure quality and prevent duplication, please review the form carefully and only submit unique and innovative ideas. If you've submitted an idea that is similar or identical to one already submitted, please do not resubmit it.
-</thinking>
-
 # Creative Play Idea Submission - Help Guide
 ## Purpose
 This form is designed to collect your creative play idea and help us review and consider it for potential inclusion in our creative play offerings.

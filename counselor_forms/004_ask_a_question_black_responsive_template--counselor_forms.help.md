@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ask A Question Black Responsive Template - Help Guide
 
 ## Purpose

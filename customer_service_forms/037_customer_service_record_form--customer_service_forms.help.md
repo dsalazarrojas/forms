@@ -1,9 +1,3 @@
-<thinking>... internal reasoning and relevance check ...
-
-This form is designed to record and document customer service interactions. It is not affiliated with or endorsed by any form platform, and it is an original adaptation of public survey topic metadata. The form is released under a Creative Commons Attribution 4.0 license, allowing users to modify and use it for their own purposes. The fields on this form are intended to capture essential information from customers, including their details, the description of the issue they are facing, and their message to the customer service representative.
-
-</thinking>
-
 # customer_service_record_form - Help Guide
 ## Purpose
 This form is used to record and document customer service interactions, providing a structured way to capture essential information from customers.

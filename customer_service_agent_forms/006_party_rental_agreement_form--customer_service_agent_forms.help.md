@@ -1,5 +1,3 @@
-<thinking>Form purpose is to create a Party Rental Agreement, which is a document that outlines the terms and conditions of a rental space or equipment rental between the party hosting and the party renting the space or equipment. The form helps to establish the agreement between the parties involved, including details about the rental terms, payment, and other essential information.,</thinking>
-
 # Party Rental Agreement Form - Help Guide
 ## Purpose
 The Party Rental Agreement Form is a document used to outline the terms and conditions of a rental space or equipment rental between the party hosting and the party renting the space or equipment. This form helps to establish a clear understanding between the parties involved, ensuring a smooth and successful rental experience.

@@ -2,10 +2,6 @@
 ## Purpose
 This form is used to collect user information for enrolling in an online course on social media platforms.
 
-<thinking>
-This form is intended to be used for internal purposes only. Please ensure that you are authorized to access this form and that the information you provide is accurate and up-to-date.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

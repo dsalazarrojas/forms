@@ -1,8 +1,3 @@
-<thinking>
-This is a form design and technical writing task. The goal is to create a user-facing help guide for a form called "DriveThruServiceSatisfactionPoll". 
-
-</thinking>
-
 # DriveThruServiceSatisfactionPoll - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience at a DriveThru service. It aims to evaluate the speed, accuracy, and overall satisfaction of the service. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Ambulance Check Form - Help Guide
 
 ## Purpose

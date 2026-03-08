@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Antibody Test Request - Help Guide
 
 ## Purpose

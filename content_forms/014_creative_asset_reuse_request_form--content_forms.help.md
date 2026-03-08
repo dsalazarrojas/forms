@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request the reuse of creative assets from the content team. The creative asset reuse request form is intended to be used by content creators and designers to request access to pre-existing creative assets that can be reused in new and existing content projects. This form is not meant to be used for general feedback or bug reporting purposes. If you need help with something other than creative asset reuse, please contact [your support channel].
-
-</thinking>
-
 # Creative Asset Reuse Request Form - Help Guide
 ## Purpose
 The Creative Asset Reuse Request Form is used to request access to pre-existing creative assets for use in new and existing content projects.

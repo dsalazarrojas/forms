@@ -1,9 +1,3 @@
-<thinking>...This form is designed to collect information from prospective students who are interested in enrolling in the institution. This form is intended to be used by the student to provide their general information, program interests, and other relevant details. The form is designed to be completed by the student themselves, and all fields are clearly labeled for ease of use.
-
-The form is used to determine the student's eligibility and interest in various programs offered by the institution. This form is not intended to be used for other purposes, and any information submitted will be treated with the utmost confidentiality.
-
-To prevent duplicate submissions, the form will only allow one submission per student per session. If a student has already submitted a form, they will not be able to access this form again until the next session begins.</thinking>
-
 # Prospective Student Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from prospective students who are interested in enrolling in the institution.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to facilitate the submission of estimates for agricultural consulting services. A consultation is a discussion between a client and an agricultural expert or consultant, providing guidance on specific issues in their farm or business. The form captures essential information for the consultant to create a comprehensive estimate for the services requested. This form is designed to gather relevant details, including client details, consultation type, estimated hours, hourly rate, material costs, and payment terms, allowing for a clear and accurate estimate to be generated.
-
-</thinking>
-
 # Agricultural Consultant Estimate Form - Help Guide
 ## Purpose
 The Agricultural Consultant Estimate Form is designed for agricultural consultants to provide estimates for their services. It helps consultants gather necessary information to create a detailed estimate for the client.

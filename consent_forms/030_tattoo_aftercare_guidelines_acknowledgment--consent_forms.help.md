@@ -1,17 +1,3 @@
-<thinking>
-The form is used to obtain acknowledgment from clients to follow tattoo aftercare guidelines, understand the guidelines, and take responsibility for the care of their new tattoo. This form ensures that clients are informed and agree to follow the guidelines to maintain the health and appearance of their tattoo. 
-
-The form has multiple sections, including:
-- Understanding and acceptance of aftercare guidelines
-- Responsibility for tattoo care
-- Information on how the client received tattoo care instructions
-- Details about the tattoo, including location, size, color, and style
-- Session notes and details
-
-This form is typically used for clients who are receiving a new tattoo or have recently had a tattoo session. It is essential that clients understand and follow the aftercare guidelines to ensure proper healing and minimize the risk of complications. The form helps to ensure that clients are aware of their responsibilities and take necessary steps to care for their new tattoo.
-
-</thinking>
-
 # Tattoo Aftercare Guidelines Acknowledgment - Help Guide
 ## Purpose
 

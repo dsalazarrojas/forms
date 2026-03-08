@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication and ensure accurate data collection, this form is intended to gather patient information necessary for tuberculin skin testing. This form will be used internally to track patient data and will be reviewed by staff members to verify patient consent, ensure accurate test site identification, and confirm test results. It is essential to complete this form carefully to ensure that patient records are up-to-date and accurate.
-
-</thinking>
-
 # Tuberculin Skin Test Authorization - Help Guide
 ## Purpose
 The Tuberculin Skin Test Authorization form is used to gather patient information for tuberculin skin testing. This form is essential for verifying patient consent, identifying the test site, and tracking test results.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide clarity on the purpose and completion of the "Workers Comp Waiver Form" for end-users. This form is used for waiving workers' compensation benefits, and it is crucial to ensure that all necessary information is provided accurately and completely. Before proceeding, please ensure that you have the necessary authority and knowledge to complete this form, and that it is not a duplicate submission. If you are unsure, please consult with your supervisor or HR representative.
-</thinking>
-
 # Workers Comp Waiver Form - Help Guide
 ## Purpose
 The Workers Comp Waiver Form is used to waive workers' compensation benefits. This form must be completed accurately and completely to ensure that the employee and all relevant parties have provided their consent and understanding of the terms of the waiver.

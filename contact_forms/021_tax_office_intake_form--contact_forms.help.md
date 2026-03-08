@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for individuals and organizations to submit information to the Tax Office for tax purposes. This form is intended for anyone who needs to communicate with the Tax Office, such as individuals seeking tax-related advice or services, or businesses requiring tax-related documentation. Before completing the form, ensure that you have reviewed and understood the purpose of the form and that you are not submitting duplicate information. Please note that some fields may be required or optional, depending on your specific use case.
-</thinking>
-
 # Tax Office Intake Form - Help Guide
 ## Purpose
 The Tax Office Intake Form is a tool for submitting information to the Tax Office for tax-related purposes. This guide will walk you through the completion process and help you understand each field's purpose.

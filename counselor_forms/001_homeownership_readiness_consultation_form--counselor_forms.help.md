@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Homeownership Readiness Consultation Form", we first need to clarify the purpose and internal reasoning behind this form. This form is designed to assess an individual's or a household's readiness to become a homeowner, typically for mortgage approval or real estate investment purposes. It helps to gather critical financial and employment information to gauge their financial stability and history of steady income. This information will help lenders, financial advisors, or real estate experts make informed decisions about loan approval or investment opportunities. The form should be completed carefully, as it will be used to evaluate the candidate's ability to afford a mortgage. To prevent errors or misuse, please note that only the specified fields will be used in the evaluation process. 
-
-</thinking>
-
 # Homeownership Readiness Consultation Form - Help Guide
 
 ## Purpose

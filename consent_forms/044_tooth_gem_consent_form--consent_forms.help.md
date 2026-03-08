@@ -1,7 +1,3 @@
-<thinking>
-I'll assume the purpose of this form is to collect information and consent from patients regarding a dental procedure called "Tooth Gem" and that it's a general consent form to ensure patients are aware of the risks and benefits of the procedure.
-</thinking>
-
 # Tooth Gem Consent Form - Help Guide
 ## Purpose
 This form is designed to collect informed consent from patients regarding the "Tooth Gem" procedure. It's essential to review and understand the information presented here before proceeding with the treatment.

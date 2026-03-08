@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed for educators to upload various types of course materials such as audio, video, and documents. The form is intended to collect information about the material, including its title, description, category, resource type, and file details such as size and URL. The form also collects metadata such as created and updated dates, user information, and file status. The form is likely used in an educational setting to manage and track course materials. It's possible that the form is used to review and approve materials before they are made available for download. The form does not seem to be intended for public submission, as most fields are not required and some fields seem to be specific to internal management and tracking. This form is likely part of a larger system for managing course materials within an educational institution.
-</thinking>
-
 # Educator Course Material Upload Form - Help Guide
 ## Purpose
 The Educator Course Material Upload Form is a tool designed for educators to upload various types of course materials, such as audio, video, and documents, for management and tracking within an educational institution.

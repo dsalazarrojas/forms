@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Family Capital Orientation Intake Form is designed to collect information from clients about their financial goals, goals, and demographic information. This form is typically used by consultants to gather data for financial planning and consulting services. 
 
 Before filling out this form, please ensure that you are not a robot and have the necessary permissions to access this form. Also, please be aware that some fields are required and must be filled out in order to complete the form.

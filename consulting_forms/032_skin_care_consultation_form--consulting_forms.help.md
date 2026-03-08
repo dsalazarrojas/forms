@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients for a skin care consultation. It requests personal details, skin and health information, appointment requests, contact details, and notes or comments. This form should only be completed by clients or users who have not previously submitted the form to prevent duplication of information.
-</thinking>
-
 # Skin Care Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from clients for a skin care consultation. Please fill out the form accurately and completely to ensure that we can provide the best possible service for you.

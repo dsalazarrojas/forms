@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Document Suggestion Removal Request Form - Help Guide
 
 ## Purpose

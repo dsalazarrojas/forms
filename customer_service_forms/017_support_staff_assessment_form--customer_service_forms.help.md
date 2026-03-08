@@ -1,30 +1,3 @@
-<thinking>
-This form seems to be designed for assessing the performance and development needs of support staff within an organization. It appears to be used to evaluate the skills, communication, feedback, and other essential qualities of support staff. Each field in this form likely contributes to a comprehensive review of support staff, which can be used for various purposes such as performance evaluations, staff development, and talent management.
-
-It's possible that this form is used by HR or management personnel within the organization, and the data collected from this form will be analyzed to identify areas of improvement for support staff. The form's structure suggests that it's a self-assessment or peer-assessment tool.
-
-The following fields seem to be included to evaluate different aspects of support staff:
-
-*   Performance (ID: 2)
-*   Feedback from customers (ID: 3)
-*   Support staff skills and strengths (ID: 6)
-*   Communication skills (ID: 7)
-*   Employee feedback (ID: 8)
-*   Customer demographics (ID: 9)
-*   Diversity and inclusion (ID: 10)
-*   Talent and potential (ID: 11)
-*   Development and growth opportunities (ID: 12)
-*   Training and education (ID: 13)
-
-The form is likely used to gather qualitative and quantitative data on support staff, which can be used to identify areas of improvement, provide training and development opportunities, and make informed decisions about staff promotions and talent management.
-
-To ensure the form is filled out correctly, users should review each field carefully and ensure they provide relevant and accurate information. The form's purpose is likely to be used as a tool for support staff assessment, development, and evaluation.
-
-The fields in this form seem to be designed to be optional, with the exception of the title field, but it's possible that all fields are required for a comprehensive review.
-
-Please fill out this form carefully, and if you have any questions or concerns, contact the HR or management personnel responsible for this form.
-</thinking>
-
 # Support Staff Assessment Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be used by clients of a salon, and it's assumed that the form will only be filled out by clients who have been informed by the salon about the form's purpose and requirements.
-</thinking>
-
 # Hair Salon Client Liability Release Form - Help Guide
 ## Purpose
 This form is designed to be completed by clients before they receive any services from the salon. It outlines the client's understanding and acceptance of the risks involved in visiting a salon during the COVID-19 pandemic.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for travelers to declare their negative test results after traveling from abroad. The form is designed to collect information about the traveler, their travel history, and test results. The purpose of this form is to ensure that travelers declare their test results correctly, which is a necessary step in the process of returning to the country.
-
-Before completing this form, please make sure you have not previously submitted a declaration form. If you have any questions or concerns, please contact the declaring authority for guidance.
-
-</thinking>
-
 # Negative Test Declaration Form - Help Guide
 ## Purpose
 The Negative Test Declaration Form is a mandatory requirement for all travelers who are returning to the country after traveling abroad. This form is used to declare your negative test results and provide essential information about your travel history.

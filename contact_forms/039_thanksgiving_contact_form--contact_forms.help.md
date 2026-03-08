@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to check if the form purpose and field relevance are correct ...
-
-The purpose of the "thanksgiving_contact_form" is to gather contact information from users, likely for internal follow-up or survey purposes. This form has five fields: First Name, Last Name, Email, Phone, and Message. 
-
-The form can be completed in a few steps, and each field's purpose will be explained below. 
-
-</thinking>
-
 # thanksgiving_contact_form - Help Guide
 ## Purpose
 The "thanksgiving_contact_form" is a contact form designed to collect user information for internal follow-up or survey purposes. 

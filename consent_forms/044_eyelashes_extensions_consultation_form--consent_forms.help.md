@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to gather information from clients regarding their consent and preferences for eyelash extensions. The purpose of this form is to ensure that clients understand the process and risks involved in eyelash extension procedures. It is essential that clients complete this form accurately and honestly to prevent miscommunication and potential complications during or after the procedure. Before starting, please ensure that you have not already completed this form, as it is a required step for our services.
-
-</thinking>
-
 # Eyelashes Extensions Consultation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a custom track quote request from a customer. The form will be used to capture essential details about the customer, their contact information, project requirements, quote details, and other relevant data. Please ensure you are only submitting this form when you have a genuine request for a custom track quote. 
-</thinking>
-
 # Custom Track Quote Request - Help Guide
 ## Purpose
 This form is used to collect information for a custom track quote request from a customer. It helps us understand their needs and requirements to provide a quote that suits their needs.

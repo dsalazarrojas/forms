@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information and photo entries for a Property Photography Contest. It is designed to gather details about each participant and their photo submissions. This form will be used to streamline the registration process and make it easier for participants to submit their entries.
-
-Before filling out this form, please ensure that you have carefully read and understood the contest rules and guidelines. If you have any questions or concerns, please contact the contest organizers at form@gic.mx.
-
-To avoid duplicate submissions, please do not submit multiple forms. If you have any issues with the form or its fields, please report them to the contest organizers so they can be addressed.
-
-</thinking>
-
 # Property Photography Contest Registration - Help Guide
 ## Purpose
 The Property Photography Contest Registration form is designed to collect participant information and photo entries for a photography competition.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Media Release Form - Help Guide
 ## Purpose
 This form is designed to collect information for a school media release, which is a formal declaration that grants the school permission to use a student's image, voice, or work in educational media. It's used to ensure that parents/guardians understand and agree to the school's media use policy. 

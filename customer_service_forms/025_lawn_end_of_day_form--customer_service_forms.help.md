@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used by customers to report their lawn activities and any issues they encountered on the day's end. The form should be filled out by customers after their lawn maintenance work is completed. The goal of this form is to gather information about the lawn's condition and the customer's experience with the maintenance service. This form is not meant to be a comprehensive report, but rather a quick and easy way to capture key information. 
-
-To ensure the correct form is being filled out, it's essential to have a clear understanding of each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # Lawn End Of Day Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Masoretic Studies Registration form to ensure that end-users understand the form's purpose, how to complete it, and what each field means. The form, as described in the YAML input schema, appears to be a registration form for students or applicants to Masoretic Studies. It captures various details such as program information, student details, contact information, and language preferences. The form is designed to be completed by individuals interested in enrolling in a program at Masoretic Studies.
-
-To complete the form, users will need to provide their contact details, including their email, phone number, and address. They will also need to select their preferred study format (online, on-campus, or part-time) and study level (bachelor, master, or PhD). The form includes a field for language preferences, which may be either English, French, Spanish, or other. 
-
-The form also captures contact information for a second point of contact, including a contact method (email or phone) and contact details. Finally, the user will need to provide their consent and consent details.
-
-In this guide, I will break down each field and provide explanations and tips to help users complete the form accurately and efficiently.
-
-</thinking>
-
 # Masoretic Studies Registration - Help Guide
 ## Purpose
 The Masoretic Studies Registration form is designed to capture essential information from individuals interested in enrolling in a program at Masoretic Studies. This form ensures that we have accurate and complete contact information and preferences.

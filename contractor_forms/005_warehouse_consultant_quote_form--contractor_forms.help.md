@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by clients and consultants to generate a quote for a warehouse consultation. The form should only be completed by individuals who are looking to book a consultation with a professional and do not already have an established relationship with a consultant or contractor. The form should not be used for purposes other than booking a consultation, such as for other types of requests or inquiries.
-</thinking>
-
 # Warehouse Consultant Quote Form - Help Guide
 ## Purpose
 The Warehouse Consultant Quote Form is a tool designed to help clients quickly and easily request a quote for a warehouse consultation. This form allows clients to provide necessary information about their request and consultants to provide their services and pricing for review and approval.

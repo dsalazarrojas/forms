@@ -1,11 +1,4 @@
-> <thinking>
-This form was created as a general template for laser hair removal consent forms. 
-The form's purpose is to gather information about a patient's personal details, medical history, and medical conditions, as well as their consent for the procedure and signature of both the patient and the doctor. 
-This form's design and content are intended to be generic and adaptable for various medical settings, but it is not a substitute for a professional medical consultation. 
-Please review the form carefully and adjust it according to your specific needs and requirements.
-</thinking>
-
-# Laser Hair Removal Consent Form - Help Guide
+> # Laser Hair Removal Consent Form - Help Guide
 ## Purpose
 This form is a generic template for laser hair removal consent forms. It gathers information about a patient's personal details, medical history, and medical conditions, as well as their consent for the procedure and signature of both the patient and the doctor.
 

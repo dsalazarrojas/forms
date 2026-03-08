@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from customers on their public service experience. The form is used to collect information on what services were provided, what areas of improvement exist, contact information, ratings, and feedback. 
-
-The purpose of this form is to help service teams improve their public service delivery, increase customer satisfaction and engagement.
-
-This form is likely to be used for internal and public services, such as municipal services, government departments, or other public-facing services.
-
-The form does not collect any information that would be used for commercial purposes and is designed to improve service delivery and engagement with customers.
-
-</thinking>
-
 # public_service_feedback_form - Help Guide
 ## Purpose
 The **Public Service Feedback Form** is designed to gather feedback from customers on their experience with public services. This information is used to identify areas of improvement and enhance the quality of service delivery.

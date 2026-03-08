@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect feedback from customers about their digital record system experience. This form will gather information on the customer's satisfaction level, any specific issues or suggestions they may have, and their contact details in case they need to be reached out for follow-up questions or further assistance. This form will help our team understand the customer's perspective and improve the digital record system accordingly.
-
-The form is designed to be completed by customers who have used our digital record system and wish to provide their feedback. This guide will walk you through each field of the form to ensure you provide accurate and helpful feedback.
-
-</thinking>
-
 # Digital Record System Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience with our digital record system.

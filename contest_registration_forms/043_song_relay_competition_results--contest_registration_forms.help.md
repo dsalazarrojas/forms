@@ -1,7 +1,3 @@
-<thinking>
-To check for form relevance and duplication, I'll first review the YAML fields. The form seems to be designed for collecting data related to the Song Relay Competition results, which includes judges' scores and rankings for songs. Each field is associated with a specific page ("judges_scores" and "rankings") and seems to be related to evaluating and scoring songs. The form includes multiple fields for judges' scores, which implies a complex evaluation process. There are 10 judges, each with a name and score field. The form also includes "Song ID" and "Ranking 1 ID" fields, which might be related to identifying the song and its ranking.
-</thinking>
-
 # Song Relay Competition Results - Help Guide
 ## Purpose
 This form is used to collect and display the competition results for the Song Relay competition. It captures the judges' scores and rankings for each song, allowing for accurate evaluation and comparison of the songs.

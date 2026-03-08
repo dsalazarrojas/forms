@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for prospective travel clients to register their travel plans and preferences. The form collects information about the client's name, contact details, travel agency affiliation, travel agent assignment, travel dates, destination, and special requests. The purpose of this form is to gather essential information to provide personalized travel experiences and services. Please ensure that you have filled out the form correctly to avoid any issues with travel arrangements. To avoid duplication, please do not fill out this form if you have already registered with our travel agency.
-</thinking>
-
 # Prospective Travel Client Vacation Form - Help Guide
 ## Purpose
 The Prospective Travel Client Vacation Form is designed to gather essential information about prospective travel clients. This information will be used to provide personalized travel experiences and services.

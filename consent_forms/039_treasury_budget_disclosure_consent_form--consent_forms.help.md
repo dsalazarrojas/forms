@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I need to create a user-facing help guide for the "Treasury Budget Disclosure Consent Form" that explains its purpose, how to complete it, and what each field means. This form is used to collect consent for disclosing financial information about financial institutions, which is crucial for ensuring that the user understands what they are consenting to. To confirm, the form is intended for users who may have varying levels of awareness of financial institutions, and the fields are designed to collect relevant information in a straightforward and clear manner. I will review the form schema to ensure that the explanations are accurate and concise.</thinking>
-
 # Treasury Budget Disclosure Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent for disclosing financial information about financial institutions. It is essential to understand that you are consenting to share your financial information with the specified institutions, which may include banks, credit unions, investment institutions, government agencies, or other types of institutions.

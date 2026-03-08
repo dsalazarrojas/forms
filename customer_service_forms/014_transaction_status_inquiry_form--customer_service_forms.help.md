@@ -1,8 +1,3 @@
-<thinking>
-This form is used to inquire about the status of a transaction. The form fields are designed to provide detailed information about the transaction, including the type, date, time, customer name, transaction ID, and amount. The status note field is intended for the customer service representative to note any relevant status updates or comments about the transaction. This form is likely used by customer service representatives to quickly and efficiently gather information about a transaction without requiring the customer to provide redundant information. 
-
-</thinking>
-
 # Transaction Status Inquiry Form - Help Guide
 ## Purpose
 The Transaction Status Inquiry Form is used to gather information about the status of a transaction, allowing customer service representatives to quickly and efficiently assist customers.

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for clients to provide information about their consultancy services. It is meant to collect essential details that will help us understand their needs and deliver the best possible service.
-
-To ensure that you provide accurate and relevant information, please make sure you have all the necessary data before filling out this form. This form will help us to:
-
-* Identify you and your organization correctly
-* Understand your service inquiry and requirements
-* Determine the best course of action to meet your needs
-* Provide accurate quotes and estimates
-* Ensure a smooth project execution
-
-Please note that providing false or incomplete information may lead to delays or misunderstandings in the project execution.
-
-</thinking>
-
 # Consultancy Service Information Collection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your consultancy service needs. Please fill it out accurately and thoroughly to ensure a smooth and effective service delivery.

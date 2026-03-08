@@ -1,5 +1,3 @@
-<thinking>Before creating this guide, I'd like to ensure that I understand the purpose and fields of the Counseling Informed Consent Form. This form appears to be a comprehensive document for clients to provide essential information and consent for counseling services. It includes details such as client contact information, counseling goals and details, counselor information, and payment terms. It also includes essential fields like session frequency, duration, and termination reasons. This form is likely used to gather necessary information for the counselor to provide effective services and establish a clear understanding between the client and counselor. I will now proceed to create the guide, ensuring that each section is clear and concise.</thinking>
-
 # Counseling Informed Consent Form - Help Guide
 
 ## Purpose

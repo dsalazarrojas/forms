@@ -1,14 +1,3 @@
-<thinking>
-The form is used for registering users to the Innovation Consulting Network, a platform for individuals to collaborate, share knowledge, and connect with others who share similar interests in innovation, consulting, technology, strategy, marketing, and finance. The form is designed to collect information about the users' background, expertise, and interests, as well as their willingness to collaborate and participate in the network. This information will be used to facilitate connections and facilitate knowledge sharing within the network.
-
-Internal notes:
-
-* The form is designed to be user-friendly and easy to fill out.
-* The form will be reviewed internally to ensure that the information provided is accurate and complete.
-* Duplicate registrations will be flagged and removed to maintain the integrity of the network.
-
-</thinking>
-
 # Innovation Consulting Network Registration Form - Help Guide
 ## Purpose
 This form is designed to register you to the Innovation Consulting Network, a platform for individuals to collaborate, share knowledge, and connect with others who share similar interests in innovation, consulting, technology, strategy, marketing, and finance.

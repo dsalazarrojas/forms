@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request a refund for a customer's purchase. The purpose of this form is to gather information about the customer's order, the items they are requesting to be refunded, and any relevant details about the purchase and the refund. Before filling out this form, make sure that you are requesting a refund for a specific reason that is valid as per our company's refund policy.
-Please do not fill out this form if you are unsure if you have already requested a refund or if you need help with something else. 
-</thinking>
-
 # Customer Refund Verification Request - Help Guide
 
 ## Purpose

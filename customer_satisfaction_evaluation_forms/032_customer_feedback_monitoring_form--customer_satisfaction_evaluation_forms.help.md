@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Satisfaction Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback and satisfaction ratings from customers, allowing us to monitor and improve our customer experience.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is for students to submit evaluations and feedback about their performance in a quiz. This form is designed to capture relevant information about the student's experience, including their name, course details (instructor and course ID), and performance metrics like score and quiz date/time. This form is part of a larger assessment and feedback system, and the information collected here will be used by instructors to review and improve their teaching methods and tools. 
-
-Please note that this form is a free-formatted evaluation, and students can fill it in as per their preference. However, the required fields are marked as such to ensure that students provide essential information. This form is intended to be a helpful tool for students and instructors alike to facilitate effective communication and feedback.
-
-In terms of non-duplication, this form is designed to collect unique information for each student and quiz. Therefore, if you have already submitted an evaluation for this course, you will not be able to submit another one. This is to prevent duplicate submissions and ensure that each evaluation is a unique and accurate representation of the student's experience.
-
-</thinking>
-
 # free_student_evaluation_quiz - Help Guide
 ## Purpose
 The free_student_evaluation_quiz form is a tool for students to provide their evaluation and feedback on their performance in a quiz.

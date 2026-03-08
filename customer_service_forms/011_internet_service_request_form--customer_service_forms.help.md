@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for customers to submit requests for internet services, such as DSL, Fiber, or Cable internet services. It gathers information about the customer, including their name, service type, location, and other details. This form is intended for internal use by technicians to assign tasks and schedule services. It should only be used for new, unique requests, not for duplicate or ongoing service issues. 
-
-</thinking>
-
 # Internet Service Request Form - Help Guide
 ## Purpose
 The Internet Service Request Form is used to collect information from customers about their internet service requests. This form helps our technicians to identify the type of service needed, the location of the service, and the status of the service.

@@ -1,15 +1,3 @@
-<thinking>
-This form is used for declination of services, likely in a healthcare setting. The form is used to document the date and reason for declination, as well as the facility and physician information. The form is likely used to communicate with the patient or their representative, and to maintain records of declination.
-
-This form has 25 fields, but most of them seem to be for facility information and contact details. The required fields for the form are not explicitly defined, so it's likely that all fields are optional. The form seems to be designed for collecting data from the patient or their representative, but it's also possible that this form is for facility or physician use.
-
-The fields are mostly text or date fields, with a few number fields. The facility fields are all text fields, which suggests that the form is focused on the facility's information rather than the patient's. The contact fields are also text fields, which suggests that the form is for collecting contact information for the facility or physician.
-
-The reason for declination fields are likely for the patient's reasons for declination, but it's unclear why there are two separate fields for this information. The form also has fields for the facility's address and contact information, which suggests that the form is used for communication between the facility and the patient or their representative.
-
-Overall, this form seems to be for documenting declination of services, but its purpose and usage are not entirely clear. Further clarification is needed to determine the correct usage of this form.
-</thinking>
-
 # Influenza Declination Form - Help Guide
 ## Purpose
 The Influenza Declination Form is used to document the declination of services, including the date and reason for declination, facility information, and contact details.

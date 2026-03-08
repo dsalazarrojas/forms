@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Emergency Contact Form - Help Guide
 ## Purpose
 This form is designed to collect emergency contact information from employees. It is intended to be used to identify a contact person who can be reached in case of an emergency. This information will only be shared with authorized personnel in the company.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for patients to register for a COVID-19 appointment in a healthcare setting. The form is intended to collect essential information from patients, including their personal details, appointment preferences, and health status. This form will help the healthcare team to prioritize and manage the waitlist effectively.
-
-The form consists of several sections, including patient information, appointment request, health status, waitlist priority, contact preferences, and waitlist registration. Each section has specific fields that need to be filled in by the patient. The form is designed to be completed by patients in person or remotely, depending on their preferences.
-
-When filling out this form, please ensure that you provide accurate and complete information to avoid any delays or miscommunication with the healthcare team.</thinking>
-
 # COVID 19 Patient Waitlist Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients for COVID-19 appointment registration. It helps the healthcare team to prioritize and manage the waitlist effectively.

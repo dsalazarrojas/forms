@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Tattoo Consent Form - Help Guide
 
 ## Purpose

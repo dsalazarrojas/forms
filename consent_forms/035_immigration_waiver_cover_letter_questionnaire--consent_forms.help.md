@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to create a cover letter for immigration waiver, which is a document that allows a non-citizen to request that immigration or border control waive certain legal requirements or restrictions in order to enter, stay or travel in the country. This form must be filled out by authorized individuals, such as attorneys, and submitted to relevant authorities for review and approval. The form requires detailed information about the client's identity, contact, and supporting documents.
 
 </thinking>

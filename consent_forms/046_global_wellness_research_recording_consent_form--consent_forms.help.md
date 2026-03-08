@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to gather consent from participants and researchers for a global wellness research project. The form aims to document the consent of both participants and researchers for the recording and sharing of their data. It is a critical component of ensuring the confidentiality, integrity, and security of the data collected.
-
-This form is intended to be used in conjunction with other forms that collect data from participants and researchers. It should not be used as a standalone form for data collection.
-
-Before completing this form, please review the form carefully to ensure that all necessary information is provided. If you have any questions or concerns, please do not hesitate to reach out to the form author.
-
-</thinking>
-
 # Global Wellness Research Recording Consent Form - Help Guide
 ## Purpose
 This form is designed to gather consent from participants and researchers for a global wellness research project.

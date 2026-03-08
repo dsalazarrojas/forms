@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to aid end-users in understanding the purpose and functionality of the "Customer Tip Feedback Survey" form. This form is designed to gather customer feedback on their satisfaction with a particular service or business. The purpose of this guide is to provide a clear explanation of each field's purpose and how to fill it out correctly.
-
-Before proceeding, please note that this form may be subject to duplication, where some questions may seem repetitive. This is because the form has been designed to cover various aspects of customer satisfaction and tip frequency. 
-
-To fill out this form, follow the instructions below:</thinking>
-
 # Customer Tip Feedback Survey - Help Guide
 ## Purpose
 The "Customer Tip Feedback Survey" form is designed to gather information about your experience with a particular service or business. It includes questions about your tip frequency, satisfaction, and feedback about the service staff. Your input will help us improve our service and ensure that you have an excellent experience with us.

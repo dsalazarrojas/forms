@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect user information for fire suppression system audits. This form ensures that the user's contact details and auditor details are collected correctly to facilitate the audit process. 
-
-This form should only be used by authorized users and the information collected should only be used for fire suppression system audit purposes. 
-
-</thinking>
-
 # fire_suppression_audit_consent_form - Help Guide
 ## Purpose
 The fire suppression audit consent form is designed to collect user information for the purpose of conducting fire suppression system audits. 

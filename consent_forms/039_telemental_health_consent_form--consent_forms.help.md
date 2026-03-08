@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's review the purpose and relevance of this form. Based on the provided YAML, it appears that this is a Telemental Health Consent Form, which is used to obtain consent for medical treatment or services. The form seems to collect patient information, consent date, and healthcare provider details. This form is likely used in a healthcare setting to ensure that patients understand their rights and responsibilities, and to obtain their consent for treatment or procedures. To avoid duplication, this form should not be used for other purposes such as patient registration or appointment scheduling.</thinking>
-
 # Telemental Health Consent Form - Help Guide
 ## Purpose
 The Telemental Health Consent Form is used to obtain consent from patients for medical treatment or services. It collects patient information, consent date, and healthcare provider details to ensure that patients understand their rights and responsibilities.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for course enrollment purposes, specifically for the Deep Learning course. It aims to collect information from applicants, such as their names, contact details, and course preferences. This guide will help users understand the purpose of the form, how to complete it, and what each field means. Please read on to ensure you fill in the form correctly and provide the necessary details for the course enrollment process.
-</thinking>
 # Deep Learning Course Enrollment - Help Guide
 ## Purpose
 This form is used to collect application information from individuals interested in enrolling in the Deep Learning course. The form helps us understand their names, contact details, and course preferences.

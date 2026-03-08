@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Peer Learning Exchange Program Application" is a key part of our institution's program to facilitate knowledge sharing and collaboration among peers. By completing this form, you will be able to submit an application for the Peer Learning Exchange Program, which aims to connect individuals with similar learning interests and goals. Please ensure you have a genuine interest in the program before proceeding.
 
 # Peer Learning Exchange Program Application - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplicate registrations and ensure the integrity of our benchmarking data, we check for existing registrations within a 30-day window before accepting a new registration form. This is to prevent multiple submissions from the same organization. Please ensure that you are submitting a new registration form only if this is your first time registering for the Consulting Benchmarking Hub.
-</thinking>
-
 # Consulting Benchmarking Hub Registration Form - Help Guide
 ## Purpose
 This form is designed to register your organization for the Consulting Benchmarking Hub. By submitting this form, you will be able to access benchmarking data, participate in peer groups, and receive regular reports on your performance compared to industry peers.

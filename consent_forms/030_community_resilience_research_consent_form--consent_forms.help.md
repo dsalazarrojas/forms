@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Resilience Research Consent Form - Help Guide
 
 ## Purpose

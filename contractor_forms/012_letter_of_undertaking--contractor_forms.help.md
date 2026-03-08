@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect essential information about a customer for a Letter of Undertaking (LOU). A Letter of Undertaking is a document that confirms a customer's undertaking or agreement to perform a specific action or provide certain services. This form is used to gather details about the customer, including their name, phone number, address, and email, to ensure that the LOU is accurately and efficiently processed.
 
 To complete this form, follow these steps:

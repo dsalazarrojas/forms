@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers after they have received a postcard or a similar communication from our company. This form aims to gather valuable insights about their experience and satisfaction with our service. By analyzing this feedback, we can identify areas for improvement and make data-driven decisions to enhance our customers' journey. This form is designed to be straightforward and easy to complete, ensuring that customers can quickly share their thoughts and opinions with us.
-The form has four fields, each with a specific purpose. We want to ensure that customers can easily understand what we're asking for and what we need from them. To complete this form, simply follow the instructions below.
-</thinking>
-
 # Postcard Feedback Survey - Help Guide
 
 ## Purpose

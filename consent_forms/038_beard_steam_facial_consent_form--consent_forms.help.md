@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for clients to provide consent for a steam facial treatment. The form is used to collect information about the client, such as their name, contact details, and medical history, to ensure that the esthetician or barber providing the service is aware of any potential risks or allergies. The form is also used to inform the client about the benefits and risks of the treatment, and to obtain their signature and consent for the service.
-
-Before filling out this form, please ensure that you have read and understood the information provided, and that you have answered all questions truthfully. The form is designed to be completed by the client in a single session, and it is not intended to be a comprehensive medical history or a substitute for a medical consultation.
-
-Please note that this form is not a medical questionnaire, and it is not intended to diagnose or treat any medical conditions. If you have any medical concerns or questions, please consult a healthcare professional.
-
-Please complete this form carefully and accurately, and ensure that you have signed it before proceeding with the treatment.
-</thinking>
-
 # Beard Steam Facial Consent Form - Help Guide
 ## Purpose
 This form is used to provide consent for a steam facial treatment. Please fill out the form carefully and honestly to ensure a safe and successful treatment.

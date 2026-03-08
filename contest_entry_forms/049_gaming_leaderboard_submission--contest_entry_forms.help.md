@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a submission form for a gaming leaderboard. It is likely used to track and display player rankings and scores in various games. The purpose of this form is to collect information about a player's submission, including their username, player name, tag, game type, score, score rank, score date, score time, and difficulty level. The form is likely used by game developers or administrators to track and update the leaderboard. This form is probably not intended for general public use, as it requires specific information about the game and player submission. The form's fields are well-structured and follow a logical sequence, but some fields seem to be optional or have alternative input options, suggesting that the form is designed to accommodate various use cases and game formats. The form's purpose and design suggest that it is intended for internal use within the game community or for specific game development purposes.</thinking>
-
 # Gaming Leaderboard Submission - Help Guide
 ## Purpose
 This form is used to submit scores and rankings for games on a leaderboard.

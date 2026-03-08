@@ -1,18 +1,3 @@
-<thinking>
-This form is intended for editing film trailer review requests, collecting feedback and review status updates, and keeping track of associated files. 
-To avoid duplication, please do not submit duplicate requests for the same film trailer. 
-The form fields are designed to be filled out in the following way:
-  1.  The "Edit Notes" field is for any general notes or comments about the film trailer.
-  2.  The "Deadline Date" field is to select the date when the deadline for the review should be met.
-  3.  The "Deadline Time" field is to select the time when the deadline for the review should be met.
-  4.  "Links" field is for any associated links to relevant files or resources.
-  5.  "Reference Files" is for any additional reference files.
-  6.  "Review Request Status" is to select the status of the review request, such as awaiting approval or feedback.
-  7.  "Review Request Notes" is for any additional comments or details about the review request.
-  8.  "Edit Requester" is for the name of the person requesting the edit.
-  9.  "Reviewer Notes" is for comments from the reviewer.
-</thinking>
-
 # film_trailer_edit_review_request_form - Help Guide
 ## Purpose
 This form is designed to collect and track feedback, review status updates, and associated files for editing film trailers.

@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the purpose and process of filling out the "On Call Consultant Request Form" for internal use within the organization. Please ensure you have the authority to submit a request before proceeding. This form is not a duplicate request system; if you've already submitted an issue, do not submit another. 
-</thinking>
-
 # On Call Consultant Request Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-To prevent duplication and ensure that end-users understand the form's purpose and process, the purpose of this form is to collect relevant information about the Girl Scouts, their families, and their councils. This information will help us better serve our Girl Scout members and ensure a smooth experience. The form should only be filled out once per Scout and per council.
-
-</thinking>
-
 # Girl Scout Interest Form - Help Guide
 ## Purpose
 The Girl Scout Interest Form is a form designed to gather information about the Girl Scouts, their families, and their councils. This form will help us better understand their needs and provide a more tailored experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Innovation Contest Approval Form" is designed to collect input for the Innovation Contest, which allows users to submit and manage their innovations. This form serves as a tool for the innovation management team to approve or reject submitted innovations based on their quality and relevance. It's essential to fill out the form correctly to ensure that your innovation is properly assessed. Please note that this form is not a substitute for the actual contest submission process, and you must have a valid account and access rights to access it.
 
 # innovation_contest_approval_form - Help Guide

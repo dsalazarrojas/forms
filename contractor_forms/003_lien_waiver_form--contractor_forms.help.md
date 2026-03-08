@@ -1,9 +1,3 @@
-<thinking>
-This form is used to record the details of a lien waiver, which is a legal document that releases a contractor from their obligation to make further payments on a project. The form is likely to be used by contractors or property owners in construction or real estate projects to confirm that all outstanding payments have been made to the contractor. The information collected in this form would likely be used to record and store the details of the lien waiver, possibly for audit or compliance purposes.
-
-To avoid duplication of effort, please ensure that you have all necessary information and permissions to complete this form before starting. It is also a good idea to review and understand the purpose and content of this form before proceeding.
-</thinking>
-
 # Lien Waiver Form - Help Guide
 ## Purpose
 The Lien Waiver Form is used to record the details of a lien waiver, which is a legal document that releases a contractor from their obligation to make further payments on a project.

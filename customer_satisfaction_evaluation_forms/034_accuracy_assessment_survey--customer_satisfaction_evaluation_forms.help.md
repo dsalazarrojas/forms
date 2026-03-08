@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Accuracy Assessment Survey" form is to evaluate the accuracy of a particular product or service. This form is used to gather feedback from customers on their experiences with the product or service, including its precision, reliability, and overall confidence score. The data collected will help the development team to identify areas for improvement and make necessary changes to enhance the accuracy of the product or service.
-This form is meant for customers who have encountered issues with the product or service and want to provide their feedback. It is not intended for internal team members or stakeholders who are not directly impacted by the accuracy of the product or service.
-
-The form collects information on various aspects of the product or service, including its precision, reliability, and overall confidence score. The precision rating assesses how well the product or service meets its intended purpose, while the reliability rating evaluates how consistent the product or service is. The overall confidence score provides an overall assessment of the customer's trust in the product or service.
-
-Please ensure that you are providing feedback on the specific product or service you are using, and not on other related services or products.
-</thinking>
-
 # Accuracy Assessment Survey - Help Guide
 ## Purpose
 The "Accuracy Assessment Survey" form is designed to collect feedback from customers on the accuracy of a particular product or service. This form helps the development team to identify areas for improvement and make necessary changes to enhance the accuracy of the product or service.

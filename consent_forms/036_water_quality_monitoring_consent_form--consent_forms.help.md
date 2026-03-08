@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # water_quality_monitoring_consent_form - Help Guide
 ## Purpose
 The water quality monitoring consent form is a document that outlines the details of water quality testing, including the locations, frequency, and duration of testing, as well as the participant's contact information and testing schedule. This form ensures that all parties involved in the testing process are aware of the terms and conditions of the testing.

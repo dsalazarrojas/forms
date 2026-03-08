@@ -1,17 +1,3 @@
-<thinking>
-To determine the optimal way to provide assistance, I need to analyze the form and its fields. This form appears to be a comprehensive tool for real estate digital transformation projects.
-
-The form has 25 fields, including various sections for project details, contact information, budget allocation, timeline, team composition, and project status. It seems to be designed to collect data on project requirements, goals, and progress.
-
-Before providing the help guide, I need to consider the following:
-
-*   The form is designed for real estate projects, which are likely to involve multiple stakeholders, including project managers, team members, and clients.
-*   The form includes fields for project details, budget allocation, and timeline, indicating that these aspects are crucial for the project.
-*   The form also includes fields for team composition, project status, and project closeout status, which suggests that these aspects are important for project management.
-*   The form has a mix of required and optional fields, which may indicate that some fields are essential for project planning and execution, while others are secondary or informative.
-
-To create a clear and comprehensive help guide, I will focus on explaining each field's purpose and relevance in the context of real estate project management.</thinking>
-
 # real_estate_digital_transformation_application - Help Guide
 ## Purpose
 This form is designed to collect and document crucial information for real estate digital transformation projects. It will guide you through the process of providing all the necessary details for a successful project execution.

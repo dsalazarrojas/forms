@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to help users optimize content for search engines and user experience. It's an essential tool for digital marketers and content creators to assess and improve the quality of their content. By answering the questions in this form, users can identify areas of improvement and make data-driven decisions to enhance their content's visibility and engagement. The form is designed to be comprehensive and thorough, covering various aspects of content optimization, such as title tags, meta descriptions, keyword usage, internal and external linking, and more. Users should fill out the form for each piece of content they want to optimize.
-
-</thinking>
-
 # Content Optimization Checklist - Help Guide
 ## Purpose
 The purpose of this form is to help users evaluate and improve the quality of their content for search engines and user experience.

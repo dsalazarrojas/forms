@@ -1,5 +1,3 @@
-<thinking>...The Waxing Consent & Appointment Form is a crucial document that requires clear communication to ensure a smooth and respectful experience for all parties involved. This form is designed to gather crucial information about the client's consent for waxing services and schedule appointments in an organized and non-intrusive way. To avoid duplication and miscommunication, please ensure you only complete this form after obtaining the client's consent for the services and appointments. Please note that completing this form does not guarantee the appointment, as other factors such as technician availability may influence the scheduling process...</thinking>
-
 # Waxing Consent & Appointment Form - Help Guide
 ## Purpose
 The Waxing Consent & Appointment Form is a document that requires the client's consent and schedule an appointment for waxing services. The form helps us gather essential information about the client's preferences and schedule the appointment in a respectful and organized manner.

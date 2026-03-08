@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential leads on real estate properties. The form will help users identify the type of property, location, price range, and contact information of the lead. The form will be used to gather data for further analysis and processing. This guide will help users navigate the form and understand what each field is for and how to fill it out.
-
-</thinking>
-
 # real_estate_lead_form - Help Guide
 ## Purpose
 This form is used to collect information from potential leads on real estate properties. It helps us understand the type of property, location, and contact information of the lead.

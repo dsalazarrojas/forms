@@ -1,10 +1,3 @@
-<thinking>
-This form is used to create a life certificate, which is a document that verifies the death of a person. The purpose of this form is to gather information about the person who has passed away, including their personal details, place of death, and cause of death. This form is typically used by funeral homes, hospitals, and other organizations to create official records of death. This guide will walk you through the process of completing this form.
-
-Please note that this guide is specific to this form and its unique fields. Make sure to review the form carefully to ensure you are filling out the correct information.
-
-</thinking>
-
 # Life Certificate Form - Help Guide
 ## Purpose
 The Life Certificate Form is used to create an official record of a person's death.

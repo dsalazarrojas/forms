@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for updating credit card information. The form is designed to collect updated credit card details such as card number, cardholder's name, expiry date, and other relevant information from the user. To ensure accuracy, this form should only be filled out when the user actually needs to update their credit card information and should be filled out only once for each credit card update. Please ensure that the form is filled out accurately and completely before submission. Note that some fields may be optional, but all required fields should be filled out before submitting the form.
-</thinking>
-
 # Credit Card Update Form - Help Guide
 ## Purpose
 The Credit Card Update Form is used to update credit card information for a specific card. This form is intended for customers who need to make changes to their existing credit card details.

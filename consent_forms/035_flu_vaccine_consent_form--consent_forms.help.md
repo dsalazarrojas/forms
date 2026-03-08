@@ -1,7 +1,3 @@
-<thinking>
-This form is used for recording consent and vaccination information for flu vaccines. It's crucial to ensure that the form is completed accurately and thoroughly, as it helps in tracking vaccination records and preventing potential outbreaks. Before filling out this form, please confirm that you are authorized to access and input sensitive patient information. Also, please note that this form should not be completed if the patient has already been vaccinated for the flu in the current or previous flu seasons.
-</thinking>
-
 # flu_vaccine_consent_form - Help Guide
 ## Purpose
 The flu_vaccine_consent_form is a comprehensive form used for recording consent and vaccination information for flu vaccines. It helps in tracking vaccination records and preventing potential outbreaks.

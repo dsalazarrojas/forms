@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about tasks and their status in a project. The purpose of this form is to provide a structured way to document and track tasks, including their due dates, completion status, and assignment to team members. This form can be used in various contexts, such as project management, maintenance, or repair activities. To ensure the form serves its intended purpose, it is essential to understand its correct usage and the meaning behind each field. This form does not appear to have any duplicate or redundant fields, but double-checking the provided information to avoid confusion and ensure accuracy is crucial.
-</thinking>
-
 # Punch List Form - Help Guide
 ## Purpose
 The punch list form is a tool used to document and track tasks and their status in a project.

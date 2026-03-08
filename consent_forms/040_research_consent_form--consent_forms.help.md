@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Consent Form - Help Guide
 ## Purpose
 This form is used to obtain research consent from participants in a study. The form captures essential information about the participant, such as their name, email, and phone number. It serves as an essential part of the research process, ensuring that participants understand their rights and responsibilities before contributing to any research activity.

@@ -1,5 +1,3 @@
-<thinking>Change of Address Form Template is used for updating an individual's or organization's address. This form is used to submit a change of address request for a customer's address to be updated in our records. This form is used for both residential and commercial purposes. This form is used to ensure that our records are up to date and accurate. We recommend using this form if you are changing your address, moving to a new home, or updating your business address. Please note that this form is not for use in other contexts, such as for a change of name or a change of contact information. Please ensure that you are using this form for the correct purpose before submitting it to us. If you are unsure, please contact us for clarification.</thinking>
-
 # Change Of Address Form Template - Help Guide
 ## Purpose
 The Change of Address Form Template is used to update an individual's or organization's address in our records. This form is used to submit a change of address request for a customer's address to be updated.

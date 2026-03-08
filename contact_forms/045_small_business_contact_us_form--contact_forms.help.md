@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to allow users to contact a small business in an easy and straightforward manner. The goal is to collect basic contact information and a message from the user. This form is meant to be used for general inquiries, questions, or comments. To avoid duplication, we should ensure that users only need to fill out this form once for each contact purpose.
-</thinking>
-
 # small_business_contact_us_form - Help Guide
 ## Purpose
 This form is a simple contact form designed for users to contact a small business. It allows users to provide basic contact information and a message, which can be used to address any questions, inquiries, or comments.

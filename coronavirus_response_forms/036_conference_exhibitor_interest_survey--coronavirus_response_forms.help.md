@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gauge the interest and needs of potential exhibitors for a conference. The purpose of this survey is to collect information about the exhibitor's company, their interests and goals for the exhibition, and any additional requirements they may have. This information will help the conference organizers understand the needs and expectations of potential exhibitors and tailor the exhibition experience accordingly.
-
-When completing this form, please note that some fields are required to ensure we have sufficient information to process your application. Other fields are optional and are intended to provide additional context for the conference organizers.
-
-</thinking>
-
 # Conference Exhibitor Interest Survey - Help Guide
 ## Purpose
 

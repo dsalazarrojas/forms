@@ -1,5 +1,3 @@
-<thinking>...This form is intended for users to express their interest in participating in the Lake Monticello Photo Contest. It is not necessary to complete the form to participate, but it does help us gauge interest in the contest. If you do not complete this form, you will still be able to participate in the contest. The form will be submitted to us as a one-time entry, and the information will not be saved or used for any purpose other than to help us plan and execute the photo contest...</thinking>
-
 # lake_monticello_photo_contest - Help Guide
 ## Purpose
 This form is for expressing interest in participating in the Lake Monticello Photo Contest.

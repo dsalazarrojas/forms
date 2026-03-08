@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Embedded Opt In Form Template - Help Guide
 
 ## Purpose

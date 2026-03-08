@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for customers to reach out to us with sales inquiries or questions. It allows customers to provide their contact information and specify how they would like to be contacted (phone, email, or chat). This form will help us to efficiently and accurately route the inquiry to the correct salesperson. Please note that this form is not intended to be used for general feedback or support questions, which should be directed to our support email or phone number.
-
-</thinking>
-
 # Sales Inquiry Form - Help Guide
 ## Purpose
 The Sales Inquiry Form is a tool that allows customers to get in touch with our sales team with questions or requests. To ensure that your inquiry is handled correctly, please provide all required and relevant information in the form fields below.

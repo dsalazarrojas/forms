@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate the quality of customer service response times, allowing users to rate the response time of customer service interactions. It is intended for customers to provide feedback on how promptly and effectively their inquiries or issues were addressed. The form is likely to be used in a customer service context, where the quality of service response times is a key performance indicator.
-
-The main goal of this form is to collect data on response times, which can help the customer service team to identify areas of improvement and optimize their response times.
-
-Before filling out this form, please make sure you have the necessary information and permissions to complete it. This form is meant to be completed once per interaction, so please only fill it out once per instance.
-
-It is possible that some of these questions may not be applicable or relevant to your specific interaction, but please answer to the best of your ability.</thinking>
-
 # customer_service_response_time_evaluation_form - Help Guide
 ## Purpose
 This form is used to evaluate the quality of customer service response times after an interaction with a customer service representative.

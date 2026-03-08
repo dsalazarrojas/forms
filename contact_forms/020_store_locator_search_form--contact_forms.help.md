@@ -1,7 +1,3 @@
-<thinking>
-We are going to create a user-facing help guide for the "store_locator_search_form" form. This form is used to search for store locations based on user preferences. The form allows users to input their search preferences, including the type of store they want to find, the location type, zip code, city, state, and other relevant information. This form is crucial for users who want to find specific store locations that match their needs.
-</thinking>
-
 # store_locator_search_form - Help Guide
 ## Purpose
 The store_locator_search_form is a search form used to find store locations based on user preferences. Users can input their search preferences, such as the type of store, location type, and zip code, to get a list of matching store locations.

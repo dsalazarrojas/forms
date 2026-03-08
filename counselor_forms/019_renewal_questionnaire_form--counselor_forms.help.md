@@ -1,8 +1,3 @@
-<thinking>
-The Renewal Questionnaire Form is designed to collect information about customer subscription renewals. This form is meant to be used by customers to provide their renewal information in a structured and organized manner. The form is used to update the customer's subscription status and provide any relevant details about the renewal process. The goal is to ensure that the customer's subscription is up-to-date and that all necessary information is collected to process the renewal efficiently. Before filling out this form, please make sure you are not duplicating any existing information and that you have all necessary details ready to be filled out.
-
-</thinking>
-
 # Renewal Questionnaire Form - Help Guide
 ## Purpose
 The Renewal Questionnaire Form is designed to collect information about customer subscription renewals. This form is meant to be used by customers to provide their renewal information in a structured and organized manner.

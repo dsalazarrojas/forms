@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Clinical Decision Model Testing Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a customer service agent, you are often the first point of contact for customers who have had a negative experience with a product or service. The Remark Request Form is a tool to help you gather information from customers about their issues, allowing you to address their concerns and provide a resolution. Before starting this form, please ensure you have not already escalated the issue to your supervisor or manager. This form is intended for customers who are unable to resolve their issue through normal channels. To complete this form, you will need to gather relevant information from the customer, which may include details about their experience, any supporting documentation, and your decision on whether or not to remark the student's work. Please keep the explanation clear and concise, focusing on the essential details.</thinking>
-
 # Remark Request Form - Help Guide
 ## Purpose
 The Remark Request Form is a tool used by customer service agents to gather information from customers about their issues with a student's work or performance. This form helps to identify potential problems and provide a resolution.

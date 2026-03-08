@@ -1,8 +1,3 @@
-<thinking>... internal reasoning block for form purpose and non-duplication ...
-The Data Collection Form is designed to gather relevant information from users, including name, email, phone number, and category, for the purpose of providing a clear and efficient way to collect data from customers or clients. This form is not intended for duplicate submissions; each submission will result in a new record being created. The form fields are categorized into several sections, making it easy to navigate and fill out.
-
-</thinking>
-
 # Data Collection Form - Help Guide
 ## Purpose
 The Data Collection Form is a tool used to gather essential information from users, including name, email, and category, for the purpose of providing a clear and efficient way to collect data from customers or clients.

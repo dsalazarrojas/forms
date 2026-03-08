@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about seasonal promotions from vendors. It is designed to be filled out by vendors who want to upload their seasonal promotions to the system. Before starting, ensure that you have all the required information and that you have not already uploaded this promotion in the past. 
-</thinking>
-
 # Seasonal Promotion Catalog Upload Form - Help Guide
 ## Purpose
 This form is used to upload seasonal promotions from vendors. It collects information about the promotion, including its title, description, image, price, and other relevant details.

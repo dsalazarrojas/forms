@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather information from patients post-vaccination to assess any potential side effects, allergies, and other relevant details. This information will be used to improve the effectiveness and safety of future vaccinations. Please ensure that you complete this form with the most accurate and up-to-date information regarding your vaccination and health status. If you have completed this form previously, please do not repeat it.</thinking>
-
 # Covid 19 Post Vaccination Questionnaire - Help Guide
 ## Purpose
 The Covid-19 Post Vaccination Questionnaire is designed to collect information from patients after receiving the vaccination to ensure the effectiveness and safety of the vaccination program.

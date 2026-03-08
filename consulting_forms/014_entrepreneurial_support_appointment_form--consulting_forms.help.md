@@ -1,10 +1,3 @@
-<thinking>
-We are about to create a user-facing help guide for a form called "Entrepreneurial Support Appointment Form". This form is intended to collect information from users about their business advisors, appointment dates and times, email and phone numbers, appointment duration, and additional info. The form is designed for entrepreneurs who want to schedule appointments with business advisors to get support. This form will be used in the context of a service that offers consulting services to entrepreneurs. We should ensure that the form is clear and easy to understand for the end-users.
-
-Before starting, let's check if the form is complete and if all the necessary fields are included. The form seems to be almost complete, except for a few minor adjustments that can be made for better user experience.
-
-</thinking>
-
 # entrepreneurial_support_appointment_form - Help Guide
 ## Purpose
 This form is designed to collect information from entrepreneurs about their business advisors, appointment dates and times, email and phone numbers, appointment duration, and additional info. It will help our consultants to schedule effective appointments with business advisors and provide better support to our clients.

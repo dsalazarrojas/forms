@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to collect feedback from patients regarding their experience at an orthopaedic hospital. The form is designed to be completed by patients who have recently visited the hospital. The form should help the hospital understand how patients found out about the hospital, their experience during the visit, and what improvements can be made to enhance patient care.
-
-To ensure that the form is completed accurately and without duplication, it should only be filled out once per visit. Patients can provide feedback on their experience, which will help the hospital to make necessary improvements in their services.
-
-The form will be used to improve patient care and services provided by the hospital. Please ensure that you provide honest and detailed feedback, which will help the hospital to serve you better in the future.
-</thinking>
-
 # orthopaedic_hospital_patient_experience_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from patients regarding their experience at our orthopaedic hospital. The information collected will help us understand how we can improve our services to better meet your needs.

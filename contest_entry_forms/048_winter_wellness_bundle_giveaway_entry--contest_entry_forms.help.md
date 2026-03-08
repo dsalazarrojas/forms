@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Winter Wellness Bundle Giveaway Entry - Help Guide
 ## Purpose
 This form is designed to collect entries for the "Winter Wellness Bundle Giveaway" contest. To avoid duplication, please ensure that each entry is unique.

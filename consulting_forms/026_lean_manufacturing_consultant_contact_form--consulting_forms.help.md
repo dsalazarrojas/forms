@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from potential clients or partners who are interested in consulting services related to lean manufacturing. The purpose of this form is to gather basic contact information and allow users to provide a note about the potential collaboration. This form is intended for internal use within the company and is not a public-facing contact form. It is assumed that the user filling out this form is a potential client or partner who wants to get in touch with the company's lean manufacturing consultant. The form is not intended for general inquiries or other types of contact.
-</thinking>
-
 # lean_manufacturing_consultant_contact_form - Help Guide
 ## Purpose
 The lean manufacturing consultant contact form is a tool used to collect contact information from potential clients or partners who are interested in consulting services related to lean manufacturing. This form is designed to be filled out by potential clients or partners who want to get in touch with the company's lean manufacturing consultant.

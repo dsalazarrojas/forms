@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the purpose and context of the form. Based on the provided YAML, it seems the form is designed for clients or customers to provide information about an event where they need DJ services. The form likely helps the DJ service provider to prepare for the event by gathering essential details such as event planner name, event details, location, date, time, number of guests, contact method, event type, and other relevant information.
-
-To avoid duplication, I will ensure that the help guide is concise and does not repeat information that can be inferred from the fields. I also need to consider the audience and language used in the guide to make it accessible and clear for the users.
-
-</thinking>
-
 # DJ Service Inquiry Form - Help Guide
 ## Purpose
 The DJ Service Inquiry Form is designed for clients or customers to provide essential information about their event where they require DJ services. This form helps the DJ service provider to prepare and tailor their services according to the event's needs.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is meant to evaluate the effectiveness of the Retail Customer Loyalty Program. It is designed to collect feedback from customers, assessing their satisfaction with the program, their interactions with the program, and their overall experience. To prevent duplication, ensure that the evaluation form is only completed once per customer. Before proceeding, review the form carefully to ensure that all required fields are completed accurately and honestly.</thinking>
-
 # Retail Customer Loyalty Program Evaluation Form - Help Guide
 ## Purpose
 The Retail Customer Loyalty Program Evaluation Form is designed to gather feedback from customers about their experience with the Retail Customer Loyalty Program. This form helps us understand their satisfaction, program interaction, and overall experience, enabling us to make necessary improvements.

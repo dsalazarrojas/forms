@@ -1,9 +1,3 @@
-<thinking>
-The de_pere_hd_template_covid_19_vaccine_appointments form is designed to collect data about appointments related to COVID-19 vaccines. This form is likely used in a healthcare setting to gather information from patients or individuals about their vaccine appointment details.
-It's essential to ensure that the information collected through this form is accurate and complete, as it may be used for scheduling purposes and for keeping track of vaccination progress.
-Before starting, review the form carefully and ensure that you've not already completed it for a similar purpose or for the same individual.
-</thinking>
-
 # de_pere_hd_template_covid_19_vaccine_appointments - Help Guide
 ## Purpose
 This guide will walk you through the purpose and completion of the de_pere_hd_template_covid_19_vaccine_appointments form.

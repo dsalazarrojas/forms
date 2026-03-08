@@ -1,11 +1,3 @@
-<thinking>
-To provide a comprehensive user-facing help guide for the Website Testimonial Collection Form, we first need to understand the form's purpose and structure. This form is designed to collect testimonials from website visitors, which can be used to build credibility and trust towards the website. The form is composed of multiple pages, each with a specific type of input field. We can see that the form includes fields for text, number, select_one, select_multiple, date, time, and email inputs. The form is split into 10 pages, with some fields being required and others being optional. The select_one and select_multiple fields are used to present the user with a list of options to choose from, whereas the other fields are more straightforward.
-
-The form's purpose is to collect feedback and opinions from website visitors, which can be used to improve the website's services and features. To ensure that the form is completed accurately and relevantly, we need to provide clear and concise guidance on how to fill it out and what each field means.
-
-This guide will walk the user through the form step by step, explaining each field and how to complete it correctly. By following this guide, users will be able to provide valuable insights and testimonials that can help improve the website.
-</thinking>
-
 # Website Testimonial Collection Form - Help Guide
 ## Purpose
 The Website Testimonial Collection Form is designed to collect feedback and opinions from website visitors to improve the website's services and features. Please take a few minutes to fill out this form and share your thoughts with us.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Botulinum Toxin Consultation Form - Help Guide
 
 ## Purpose

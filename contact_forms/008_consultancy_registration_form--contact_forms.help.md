@@ -1,18 +1,3 @@
-<thinking>
-  This form is used for clients to register their consultancy needs with the organization. 
-  It collects information about the client's personal and professional details, 
-  such as their name, contact information, job title, company name, and project 
-  requirements. The form also includes fields to capture the type of consultancy 
-  services required, preferred contact method, and project timeline. This form 
-  helps the organization to understand the client's needs and preferences, and 
-  enables them to provide better services to the client. To ensure that the 
-  form is filled out correctly and accurately, we recommend that the client 
-  reviews the form carefully before submitting it.
-  Before filling out this form, please ensure that you are not duplicating the 
-  registration process. If you have already registered with us in the past, 
-  please do not fill out this form again.
-</thinking>
-
 # Consultancy Registration Form - Help Guide
 ## Purpose
 The Consultancy Registration Form is designed to collect information from clients who are interested in seeking consultancy services from our organization. It helps us to understand their needs and preferences, and enables us to provide better services to them.

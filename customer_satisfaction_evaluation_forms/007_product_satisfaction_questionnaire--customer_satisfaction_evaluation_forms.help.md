@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Product Satisfaction Questionnaire". This form is designed to collect customer satisfaction feedback on a product. The purpose of this form is to gather information on how customers feel about a product, its performance, and their overall satisfaction experience. This form is likely used by customer service representatives or product managers to evaluate customer satisfaction and make data-driven decisions to improve product development and customer experience.
-
-Before creating this guide, we need to check if the form has all the required fields and sections. From the provided YAML, it seems that the form has a mix of multiple-choice questions, text fields, number fields, and date/time fields. This form does not appear to be redundant and covers a broad range of topics related to product satisfaction. However, some fields may be unnecessary or redundant based on the specific use case. For example, fields like "product_image" and "product_price" might not be directly relevant to customer satisfaction.
-
-Let's move on to creating the user guide.</thinking>
-
 # Product Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect customer satisfaction feedback on a product, its performance, and overall satisfaction experience.

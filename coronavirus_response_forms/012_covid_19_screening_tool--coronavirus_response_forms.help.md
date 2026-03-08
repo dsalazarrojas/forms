@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to screen individuals for possible COVID-19 symptoms, exposure risks, and other relevant health concerns to aid in early detection and prevention efforts. This form is designed to be completed by individuals who may have been exposed to or are exhibiting symptoms of the virus. The information collected will be used to assess the risk of infection and provide guidance on next steps for the individual and those around them.
-</thinking>
-
 # Covid 19 Screening Tool - Help Guide
 ## Purpose
 The Covid 19 Screening Tool is a form designed to collect information about your health status, exposure risks, and symptoms. This information will help us assess your risk of infection and provide guidance on next steps.

@@ -1,13 +1,3 @@
-<thinking>
-
-We need to create a user-friendly help guide for the "Work Order Close Out Form" in a way that explains its purpose, how to complete it, and what each field means for end users. This form seems to be part of a system for managing work orders, and it appears to be designed to capture information about the completion status and details of a job. Let's assume this form is used to close out work orders after a project has been completed.
-
-The form likely contains fields that require user input to document the completion status, details, and other relevant information about the job. It's also possible that some fields might be used to track interactions with clients or customers, such as their name and contact number. 
-
-Before proceeding, it's essential to review the form's fields and determine the most logical and efficient way to present this information to users.
-
-</thinking>
-
 # Work Order Close Out Form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-To create an effective user-facing help guide, we must first understand the purpose and requirements of the Sound Design Enhancement Request Form. This form is meant for users to request enhancements or changes to sound design features or assets in a project or product. The form will help identify the specific areas that need improvement, prioritize them, and track the progress and communication with clients or stakeholders. The form is designed to gather relevant information about the request, including the type of enhancement, priority, expected delivery date and time, and any additional comments or references. By providing a clear and structured approach to submitting and tracking requests, this form aims to improve communication and efficiency in the sound design process. 
-
-This form is not intended to be a substitute for a more detailed project plan or agreement, and users should refer to these guidelines for general information only. It is assumed that the user has a basic understanding of sound design principles and terminology.
-
-Before starting the form, ensure that you have all the required information and references ready to be submitted. 
-
-</thinking>
-
 # Sound Design Enhancement Request Form - Help Guide
 ## Purpose
 This form is designed to allow you to submit requests for enhancements or changes to sound design features or assets in a project or product.

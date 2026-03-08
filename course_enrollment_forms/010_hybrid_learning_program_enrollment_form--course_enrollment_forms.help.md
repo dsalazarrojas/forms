@@ -1,5 +1,3 @@
-<thinking>Before we begin, it's essential to ensure that the form is being submitted for the correct purpose and not duplicating efforts. Please verify that this form is being used for the intended Hybrid Learning Program enrollment and not for other programs. If unsure, kindly review the form's title and the relevant department or program's documentation. This will help avoid delays in processing and potential errors. If you have any doubts or concerns, please reach out to the relevant department or program's contact person.</thinking>
-
 # Hybrid Learning Program Enrollment Form - Help Guide
 ## Purpose
 The Hybrid Learning Program Enrollment Form is designed for students to provide information and express their interest in the Hybrid Learning Program. This form helps the program's team assess the student's eligibility and prepare for the enrollment process.

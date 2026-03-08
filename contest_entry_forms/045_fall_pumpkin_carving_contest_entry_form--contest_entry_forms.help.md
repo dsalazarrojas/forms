@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from participants of a Fall Pumpkin Carving Contest. The form is designed to be completed by individuals who would like to participate in the contest, and it should not be submitted more than once by any individual. The form will ask for the participant's name, email, phone number, a URL for their pumpkin carving image, a brief description of their entry, and a title for their entry. This information will be used to evaluate and display participant entries in the contest.
-</thinking>
-
 # Fall Pumpkin Carving Contest Entry Form - Help Guide
 ## Purpose
 The Fall Pumpkin Carving Contest Entry Form is a submission form for individuals interested in participating in the Fall Pumpkin Carving Contest. This form is used to collect the necessary information to display and evaluate entries.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture the necessary information for a tattoo apprentice to provide consent for a tattooing session. The purpose of this form is to ensure that the apprentice is aware of their rights, responsibilities, and the terms and conditions of the tattooing process. It is intended to be completed by the apprentice before the tattooing session, and is a necessary step in the tattooing process. 
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata as inspiration. The form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-Before proceeding, please review each field carefully and ensure that you understand the purpose and requirements of each section.
-
-</thinking>
-
 # Tattoo Apprentice Consent Form - Help Guide
 ## Purpose
 

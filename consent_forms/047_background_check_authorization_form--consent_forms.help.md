@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Background Check Authorization Form - Help Guide
 
 ## Purpose

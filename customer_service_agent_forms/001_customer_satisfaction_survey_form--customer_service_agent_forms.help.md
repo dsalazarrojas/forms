@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback and customer satisfaction data from customers after they have interacted with our company. This data will help us understand how we are meeting our customer's expectations and identify areas for improvement. It is essential that we collect this data to ensure that our customers are satisfied with our services and to make informed decisions about how to better serve them. Please ensure that you are completing this form for the correct customer and that the data is accurate and complete.
-</thinking>
-
 # customer_satisfaction_survey_form - Help Guide
 ## Purpose
 The customer_satisfaction_survey_form is a form used to collect customer feedback and satisfaction data. This form helps us understand how well we are meeting our customer's expectations and identifies areas where we can improve.

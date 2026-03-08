@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to obtain consent and relevant client information for services provided by the hair salon. This information will be used to create a client contract and to ensure that the client is aware of the services being provided and the terms of use. It's crucial to complete this form accurately to ensure that the client's needs are met and that the salon's services are delivered effectively.
-
-</thinking>
-
 # Hair Salon Waiver Form - Help Guide
 ## Purpose
 

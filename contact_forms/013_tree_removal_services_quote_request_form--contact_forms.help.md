@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to be used for customers to request a quote for tree removal services. The form will likely be used by customers who are looking for professional assistance with tree removal services. The purpose of the form is to gather essential information from the customer to provide an accurate quote for the services they require. This form is not intended to be used for other purposes, and it's expected that users will be submitting a quote request only. 
-</thinking>
-
 # Tree Removal Services Quote Request Form - Help Guide
 ## Purpose
 This form is designed to help customers request a quote for tree removal services.

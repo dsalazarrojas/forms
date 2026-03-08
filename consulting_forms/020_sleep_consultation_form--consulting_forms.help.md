@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help users gather information about their sleep patterns and experiences. To ensure that your responses are accurate and helpful, please complete this form carefully and honestly. If you have completed this form before, please review your previous answers to ensure that your responses are updated and consistent.
-
-Before proceeding, please note that some fields are optional and may not be relevant to your specific situation. If you're unsure about any field, please ask for clarification or assistance.
-
-Please review the form carefully and answer the questions as accurately as possible. If you need help or have questions, feel free to ask.
-</thinking>
-
 # Sleep Consultation Form - Help Guide
 ## Purpose
 This form is designed to help users gather information about their sleep patterns and experiences.

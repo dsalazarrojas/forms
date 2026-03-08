@@ -1,10 +1,3 @@
-<thinking>
-This form is for capturing marketing agreement details with clients, ensuring that both parties are on the same page regarding the scope, timeline, and budget of the project. The form should be completed by the client to provide their project information, which will then be reviewed and approved by the marketing team. 
-
-To avoid duplication, please check if an agreement already exists with the client before submitting a new one.
-
-</thinking>
-
 # it_marketing_agreement_form - Help Guide
 ## Purpose
 The it_marketing_agreement_form is a document for marketing teams and clients to agree on project details.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a "Player Team Commitment Form" designed to gather information about a player's details, medical information, emergency contact, and parental consent. The form is meant to be completed by the player or their parent/guardian, and its purpose is to obtain necessary information for the player's participation in a team or sports activity. The form is not affiliated with, endorsed by, or derived from any form platform, and it's released under CC BY 4.0 license, allowing free use, modification, and sale with credit.
-Before proceeding, please ensure you understand the importance of providing accurate and truthful information in this form, as it will be used to ensure the player's safety and well-being during team activities. Please note that this form is a one-time submission, and it's essential to review and understand each section before proceeding.
-</thinking>
-
 # Player Team Commitment Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about the player's details, medical information, emergency contact, and parental consent for their participation in a team or sports activity.

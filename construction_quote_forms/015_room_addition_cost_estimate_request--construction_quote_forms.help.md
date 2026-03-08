@@ -1,7 +1,3 @@
-<thinking>
-The form is for requesting a cost estimate for a room addition project, which is likely for a construction or renovation project. This form will collect information from the user about the project details, budget, contact information, and file uploads. To determine if this form is suitable for the user's needs, it's essential to check if the user has already requested a similar project, especially if it's for the same type of project. This can help avoid duplication of work and miscommunication. Additionally, it's crucial to understand the user's purpose and ensure they are filling out the form for the correct project type.
-</thinking>
-
 # Room Addition Cost Estimate Request - Help Guide
 ## Purpose
 The Room Addition Cost Estimate Request form is designed to gather essential information about a room addition project. This form will help us provide accurate cost estimates and ensure a smooth project execution.

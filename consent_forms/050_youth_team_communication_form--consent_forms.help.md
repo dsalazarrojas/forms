@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting information about youth teams. The purpose is to gather data that helps in efficient communication with parents or guardians. It's essential to fill out this form to ensure that you can reach out to parents effectively and provide them with the right information they need in a timely manner.
-</thinking>
-
 # Youth Team Communication Form - Help Guide
 
 ## Purpose

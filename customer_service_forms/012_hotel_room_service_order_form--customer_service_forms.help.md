@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Room Service Order Form - Help Guide
 
 ## Purpose

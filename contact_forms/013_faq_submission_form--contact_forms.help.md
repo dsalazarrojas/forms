@@ -1,11 +1,3 @@
-<thinking>
-This form is used for submitting FAQs (Frequently Asked Questions). The main purpose of this form is to allow users to provide information about their questions and concerns related to a specific topic or area of interest. This form is typically used by users who need help or clarification on something and want to provide details about their inquiry.
-
-To ensure that the form is completed correctly and accurately, we should verify that the user has provided all required fields and that the information entered is consistent with their actual concerns or questions. This will help us better understand their needs and provide more effective support.
-
-Before starting, please ensure that you have a clear understanding of the questions or concerns you want to address. This form should not be used to submit repetitive or duplicate requests. If you have already submitted a similar query, please don't submit it again. We will do our best to address your concerns once.
-</thinking>
-
 # faq_submission_form - Help Guide
 
 ## Purpose

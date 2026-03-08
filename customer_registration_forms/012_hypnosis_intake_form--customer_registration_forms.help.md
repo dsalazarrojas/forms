@@ -1,14 +1,3 @@
-<thinking>
-The Hypnosis Intake Form is a crucial document that gathers essential information from clients to ensure they receive effective and personalized hypnosis services. This form is designed to collect demographic data, medical history, and emergency contact details to provide a comprehensive understanding of the client's needs. It's essential to complete this form accurately and thoroughly to help our hypnotherapists tailor their sessions to each client's unique requirements.
-
-Before filling out this form, please ensure you have a good understanding of the following:
-
-*   This form is for hypnosis services only. If you have any medical conditions or concerns, please inform your hypnotherapist before proceeding.
-*   Please answer all questions honestly, as this information will help us tailor your hypnosis sessions to your specific needs.
-*   If you need help or have questions while filling out this form, please reach out to us.
-
-</thinking>
-
 # Hypnosis Intake Form - Help Guide
 ## Purpose
 The Hypnosis Intake Form is designed to collect essential information from clients to provide a comprehensive understanding of their needs and preferences. This guide will walk you through each field and help you complete the form accurately and effectively.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from participants in a leadership assessment or evaluation, specifically to obtain their consent to participate in the assessment process. The form is used to collect contact information, title, and role of the participant, which will help in identifying and contacting the right person. Please make sure to fill this form carefully and accurately, and do not submit multiple times.
-</thinking>
-
 # leadership_assessment_consent_form - Help Guide
 
 ## Purpose

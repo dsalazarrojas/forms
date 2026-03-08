@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to create a survey for evaluating customer satisfaction with counter services. The goal is to gather feedback on various aspects of the counter experience, including staff friendliness, cleanliness, and overall satisfaction. Please ensure you complete this form only once per visit, and refrain from duplicating responses. Your input will help us improve our services.
-</thinking>
-
 # Counter Usage Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your recent visit to our counter service. Your responses will help us understand how to improve our service to provide better experiences for our customers.

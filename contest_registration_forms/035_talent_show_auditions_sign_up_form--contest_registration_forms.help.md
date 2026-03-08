@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering contestants for a talent show audition. The form is designed to collect information about the contestant's name, contact information, talent type, act length, bio, availability, and submitter information. To ensure that contestants are registered correctly, please review and fill out the form accurately. If you have filled out this form before, please review the fields carefully to see if there are any changes that need to be made.
-</thinking>
-
 # Talent Show Auditions Sign Up Form - Help Guide
 ## Purpose
 The Talent Show Auditions Sign Up Form is designed to help us get to know you better and understand your talents. Please fill out this form to register for the talent show and we'll be in touch with you soon.

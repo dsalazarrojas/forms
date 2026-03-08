@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from customers who experienced flight delays, allowing them to report details about their delay and provide feedback to the airline. The form is designed to gather specific data to help the airline understand what caused the delay and how to improve their services.
-
-The form will only be completed by customers who have experienced flight delays, ensuring that the information collected is relevant to the airline's operations. This form does not replace existing complaint or feedback channels, but rather provides another outlet for customers to share their experiences.
-
-To ensure accurate and helpful responses from the airline, customers are strongly encouraged to provide as much detail as possible about their delay experience.
-
-</thinking>
-
 # Flight Delay Complaint Form - Help Guide
 ## Purpose
 This form is used to collect information from customers who experienced flight delays. The goal is to gather details about the delay and allow customers to provide feedback to the airline.

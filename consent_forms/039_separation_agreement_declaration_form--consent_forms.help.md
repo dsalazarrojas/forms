@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Separation Agreement Declaration Form - Help Guide
 ## Purpose
 The Separation Agreement Declaration Form is a document used to outline the terms of a separation or divorce agreement between two individuals. It is essential to ensure a smooth and amicable separation, detailing the division of assets, financial support, and other crucial aspects of the separation process.

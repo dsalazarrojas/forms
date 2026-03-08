@@ -1,12 +1,3 @@
-<thinking>
-We should create a help guide to ensure users understand the purpose and usage of this contact form, which allows individuals to participate in community events. This form helps event organizers gather crucial information about attendees, volunteers, and participants. Before proceeding, we should verify that this form is not a duplicate and confirm that the user has a legitimate reason for participation.
-
-The form collects personal information such as name, email, and phone number for contact purposes. Additionally, it asks for specific details like event interest, participation type, and accommodation requirements. The form also collects optional information like group size, dietary restrictions, and shirt size (if applicable). It's essential to note that certain fields are required, such as event interest, participation type, and previous attendance, to ensure accurate event planning and organization.
-
-To avoid confusion and misinterpretation, we'll provide a clear explanation of each field in the form. This will help users fill out the form accurately and efficiently, reducing the likelihood of mistakes or form abandonment.
-
-</thinking>
-
 # Community Event Participation Contact Form - Help Guide
 ## Purpose
 The Community Event Participation Contact Form is designed to gather essential information from individuals interested in participating in community events. By filling out this form, you will help event organizers create a safe and enjoyable experience for all attendees. Please take a few minutes to fill out this form carefully, ensuring accuracy to avoid any issues during event planning.

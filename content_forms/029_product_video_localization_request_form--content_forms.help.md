@@ -1,5 +1,3 @@
-<thinking>Internal notes for our form design team: This form is used to request localization of product videos for specific target markets. The purpose of this form is to collect relevant information about the video, such as the target language and any specific requirements or deadlines. The form does not have any specific validation rules, allowing end users to fill it out in a flexible manner. There are 7 options for the target language, allowing users to choose from English, Spanish, French, German, Chinese, Japanese, or Korean. All fields are optional, which may lead to incomplete forms being submitted. Please review and validate the form responses internally prior to processing them.</thinking>
-
 # Product Video Localization Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for requesting product video localization. It will help us understand your video needs and requirements for your target market.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user information for a "Win Your Dream Week" contest. The purpose of this form is to gather personal details from users who wish to participate in the contest. This form will collect information that will be used to validate user eligibility and potentially contact users if their entry is selected as a winner. It's essential that users understand what information is being collected and how to fill it out correctly to ensure their entry is processed accurately.
-</thinking>
-
 # Win Your Dream Week Contest Entry - Help Guide
 ## Purpose
 The "Win Your Dream Week Contest Entry" form is designed to collect personal details from users who wish to participate in the contest. This form will help us understand who you are and how to contact you if you win.

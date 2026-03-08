@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect essential information from participants and their guardians for the dance ministry program. It includes fields to capture participant contact details, medical conditions, emergency contact information, and consent to participate. The purpose of this form is to ensure that participants and their guardians are aware of their responsibilities and limitations while participating in the program. The form also aims to obtain necessary contact information in case of an emergency. All required fields are marked with an asterisk (*) for emphasis. Please review each field carefully and fill in the information accurately. Note that some fields are optional and can be skipped if not applicable.
-
-</thinking>
-
 # Dance Ministry Liability Waiver - Help Guide
 ## Purpose
 This form is designed to collect participant information and obtain necessary signatures for participation in the dance ministry program.

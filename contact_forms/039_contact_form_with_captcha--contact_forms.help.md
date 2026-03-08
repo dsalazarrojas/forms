@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information and preferences from visitors for follow-up calls or emails to discuss their inquiries. Each field is designed to elicit specific information from the user, with some fields requiring more critical details than others. For example, the "Your Full Name" and "Email Address" fields are required for verification and communication purposes, while the "Phone Number" field is also required but can be a mobile or home number. The "Preferred Callback Method" and "Preferred Callback Time" fields aim to ensure that the user's preferences are taken into account when scheduling follow-up communication. The "Inquiry Subject" and "Detailed Message" fields are crucial for understanding the user's inquiry and providing a proper response.
-</thinking>
-
 # Contact Form With CAPTCHA - Help Guide
 ## Purpose
 This form is designed to gather contact information from visitors to facilitate follow-up calls or emails for discussion of their inquiries.

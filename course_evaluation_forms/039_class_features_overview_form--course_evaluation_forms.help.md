@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect comprehensive information about a class or course, specifically designed for educational institutions. This form is intended for staff, instructors, or administrators to provide a detailed overview of their class, course, or program. The form is meant to help gather data that can help promote the class, facilitate course planning and evaluation, and support student registration decisions. This form's content is not directly affiliated with any specific form platform, but rather an original creation based on public survey topic metadata. It is released under a Creative Commons Attribution 4.0 license, allowing for modification, sharing, and even commercial use with proper attribution.
-</thinking>
-
 # Class Features Overview Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for event organizers to report their status regarding COVID-19. It is likely to be used in the early stages of the pandemic or when there are outbreaks. 
-</thinking>
-
 # Scouts COVID 19 Self Assessment Form - Help Guide
 
 ## Purpose

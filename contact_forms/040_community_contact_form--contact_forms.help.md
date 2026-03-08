@@ -1,7 +1,3 @@
-<thinking>
-The Community Contact Form is a crucial channel for residents to connect with the community center, and its purpose is to facilitate communication between residents and community staff. This form helps to collect essential information for follow-up and results delivery, ensuring that the right person receives the right information at the right time. To prevent duplication of effort, staff will review each submission and verify that the information is accurate and complete before proceeding with further contact.
-</thinking>
-
 # Community Contact Form - Help Guide
 
 ## Purpose

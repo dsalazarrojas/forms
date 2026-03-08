@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide that explains the purpose and usage of the "Dine In Service Contact Tracing Form". This form is designed to gather information about customers who have visited a service, including their contact details, visit history, and potential exposure to COVID-19. The form is intended to be used by staff members to quickly and accurately gather relevant information in the event of a potential outbreak or exposure.</thinking>
-
 # Dine In Service Contact Tracing Form - Help Guide
 ## Purpose
 This form is used to gather information from customers who have visited our service, including their contact details, visit history, and potential exposure to COVID-19. This helps us to quickly and accurately gather relevant information in the event of a potential outbreak or exposure.

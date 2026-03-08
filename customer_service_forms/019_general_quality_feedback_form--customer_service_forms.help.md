@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect general quality feedback from customers. This form is used to gather information about the customer's experience with the company, including their satisfaction with the service, interest in promotions, and overall ratings of the product and service. 
-
-The form is designed to be completed by customers after they have used the company's product or service, and is meant to provide valuable insights to the company to improve its offerings. 
-
-To ensure that customer feedback is helpful and not duplicated, we encourage customers to complete the form only once per product/service interaction.
-
-</thinking>
-
 # General Quality Feedback Form - Help Guide
 ## Purpose
 The General Quality Feedback Form is used to collect general quality feedback from customers about their experience with the company's products or services.

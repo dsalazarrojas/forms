@@ -1,5 +1,3 @@
-<thinking>As the form is primarily used for appointment of guardianship, it's essential to ensure that the person filling out the form understands the purpose and implications of the appointment. The form is likely used in a legal context, such as court proceedings or administrative processes, where the accuracy of information is critical. To prevent duplication or misuse of the form, it's essential to have a clear and concise guide to walk users through the process and fields.</thinking>
-
 # Appointment Of Guardianship Form - Help Guide
 ## Purpose
 The Appointment of Guardianship Form is used to formalize the appointment of a guardian for an individual, typically a minor or dependent person. This form ensures that the guardian's authority and responsibilities are clearly defined and understood by all parties involved.

@@ -1,10 +1,3 @@
-<thinking>
-To design an effective help guide for the Mystic Client Waiver Form, we need to consider the purpose of the form, the type of information it collects, and how it will be used by the end-users. 
-This form appears to be a general waiver form used for clients, with fields for basic contact information, emergency contact information, and signatures. 
-The purpose of this form is likely to collect information about the client, their contact details, and emergency contact information in case of any unforeseen circumstances. 
-The fields seem to be mostly self-explanatory, but a clear and concise help guide will ensure that end-users complete the form accurately and effectively. 
-</thinking>
-
 # Mystic Client Waiver Form - Help Guide
 ## Purpose
 The Mystic Client Waiver Form is a general waiver form used to collect information about the client, their contact details, and emergency contact information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to support users who are experiencing issues with linking their social media accounts to our platform. The form is designed to collect information from users who are having difficulty linking their accounts and are looking for help from our support team. To ensure the support team has all the necessary information to assist with the issue, please complete the form carefully. Before submitting the form, check if you have previously submitted a similar request or issue. This will avoid submitting duplicate requests.
-</thinking>
-
 # Social Media Account Linking Support Request - Help Guide
 ## Purpose
 This form is designed to help you if you are experiencing issues with linking your social media account to our platform.

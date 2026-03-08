@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of an indoor plant installation agreement between a client and a contractor. It captures the necessary details for both parties to agree on the scope, schedule, and terms of the project. The form is structured to guide the user through the essential elements of the agreement, ensuring clarity and precision in the communication between the client and the contractor. This form is intended to be completed by both the client and the contractor, allowing them to review and confirm their understanding of the terms and conditions of the project. It is essential to review the form carefully and ensure that all sections are completed accurately to avoid any miscommunication or disputes during the project execution. Before proceeding, it is crucial to verify that the form is relevant to the specific project requirements and not a duplication of an existing form.
-
-</thinking>
-
 # indoor_plant_installation_agreement - Help Guide
 ## Purpose
 The indoor plant installation agreement form is designed to document the terms and conditions of an indoor plant installation project between a client and a contractor. It ensures a clear understanding of the project scope, schedule, and other essential details.

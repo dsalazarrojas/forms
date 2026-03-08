@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information for participants of the Peninsula Golf Tournament. The purpose of this form is to collect demographic data and tournament-specific information from each participant. This form will help us to better understand our participants' backgrounds and preferences. Please note that some of these fields may not be required, as marked in the form schema. This will help us to keep the form concise and only ask for information that is truly necessary. Before proceeding, please ensure that you have not already completed this form, to avoid duplication of effort and unnecessary data redundancy.
-</thinking>
-
 # Peninsula Golf Tournament Entry Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Estate Planning Records Release Form - Help Guide
 
 ## Purpose

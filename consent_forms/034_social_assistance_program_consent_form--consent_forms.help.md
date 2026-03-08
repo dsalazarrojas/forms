@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for obtaining consent from participants in a social assistance program. It seems to be a general form and not a part of a specific project or initiative, so it's likely being used for general purposes such as research or surveying participants. There is no indication of any specific industry or category this form is associated with, suggesting it's a broad form for collecting demographic and information data from participants. The form has four fields: participant details, participants info, consent, and recording consent. Each field seems to be required, but I'll verify that in the field explanations. The form is AI-generated and not affiliated with any form platform, released under CC BY 4.0, and free to use or modify. I'll ensure the help guide is concrete, concise, and practical.
-</thinking>
-
 # Social Assistance Program Consent Form - Help Guide
 ## Purpose
 The Social Assistance Program Consent Form is designed to collect demographic and information data from participants in a social assistance program. This form is meant to ensure that participants understand the program's terms and conditions, as well as their rights and responsibilities as part of the program.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for registration and information gathering purposes for a dance studio during the COVID-19 pandemic. It collects details about the class, student information, health screening, and vaccination status of the student. This form likely aims to ensure students follow the studio's safety protocols and liability waiver before participating in classes. To avoid duplication, the form likely checks for previous submissions or registrations of the student before saving the new information. It's essential to note that this form might be subject to changes or updates as the pandemic progresses.
-</thinking>
-
 # COVID 19 Dance Studio Registration Form - Help Guide
 ## Purpose
 The COVID-19 Dance Studio Registration Form is designed to gather essential information from students for safe and enjoyable dance studio experience.

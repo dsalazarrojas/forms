@@ -1,13 +1,3 @@
-<thinking>
-
-We've been seeing an unusual spike in smart contract service inquiries recently, which might be related to an increase in project development or a sudden interest in smart contract services. To ensure we're providing the best possible service, we'll need to double-check our understanding of the customer's needs. This form aims to collect essential information to help us better serve you and tailor our response accordingly. 
-
-This form will help us understand your inquiry better, allowing us to provide you with the most suitable service. Please provide as much detail as you can, and don't hesitate to reach out if you have any questions. 
-
-Please note that this form is not intended for immediate service requests or urgent matters. If you require urgent assistance, please contact us directly.
-
-</thinking>
-
 # Smart Contract Service Inquiry Form - Help Guide
 ## Purpose
 

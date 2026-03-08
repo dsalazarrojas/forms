@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who wish to participate in a retail loyalty program. The form collects various details from the customers, including their communication preferences, rewards program details, customer data, enrollment preferences, and retailer details. This form helps the retailer to understand their customers' needs and preferences, enabling the retailer to tailor their loyalty program accordingly.
-</thinking>
-
 # Retail Loyalty Program Consent Form - Help Guide
 ## Purpose
 The Retail Loyalty Program Consent Form is a document that customers must sign before enrolling in a retail loyalty program. The form collects essential information from customers, including their communication preferences, rewards program details, and customer data. By completing this form, customers acknowledge their consent to participate in the program and agree to receive relevant updates and offers from the retailer.

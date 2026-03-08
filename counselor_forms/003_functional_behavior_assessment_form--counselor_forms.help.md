@@ -1,9 +1,3 @@
-<thinking>
-
-The Functional Behavior Assessment Form is used to gather information about an individual's behavior in various scenarios. Before completing this form, please check that you have read and understood the information provided, and that you have the necessary permissions to complete this form. This form should only be completed once for each assessment.
-
-</thinking>
-
 # Functional Behavior Assessment Form - Help Guide
 ## Purpose
 The Functional Behavior Assessment Form is used to collect information about an individual's behavior in different scenarios. It helps to identify potential functional impairments or abilities that may affect their daily activities.

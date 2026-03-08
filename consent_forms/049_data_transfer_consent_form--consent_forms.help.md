@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect consent from users for data transfer, which is a necessary step before data can be shared or transferred between entities. The form ensures that users understand the purpose, category, and any other relevant details of the data transfer. It is used in conjunction with other forms to ensure that all necessary information is gathered before proceeding with data transfer. 
-The form typically consists of a single page, and users can navigate through it without having to scroll. It is essential to fill out the form carefully and accurately to ensure that the data transfer is done smoothly and without any issues. 
-Each field is designed to capture specific information, so ensure that you understand each field's purpose before filling out the form. If you're unsure about any field, you can refer to this guide for more information. 
-Before proceeding with data transfer, ensure that you have read and understood the form completely. If you're unsure, please ask for help or clarification before proceeding.
-</thinking>
-
 # Data Transfer Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from users for data transfer, which is a necessary step before data can be shared or transferred between entities.

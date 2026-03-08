@@ -1,8 +1,3 @@
-<thinking>
-This form "julie-marks-with-bmi" likely pertains to collecting information about a customer's characteristics, habits, or preferences related to health or physical attributes. I assume the form is used for data collection purposes, such as for insurance or medical records. This form appears to have 25 fields that ask for a range of information including demographic data, health-related questions, and physical attributes like height and weight. I also assume that each field is optional, except for any that are labeled as "required." I will review each field in the help guide to ensure accuracy and clearness of explanation. I will not invent business logic or provide assumptions not supported by the provided YAML. I will focus on providing clear and concise explanations to help users understand the purpose and usage of each field. I will not duplicate any information and will cover each field in the provided structure: Purpose, How To Complete This Form, Field-by-Field Explanation, and Tips.
-
-</thinking>
-
 # julie-marks-with-bmi - Help Guide
 ## Purpose
 This form "julie-marks-with-bmi" is used for collecting customer information related to health or physical attributes, likely for data collection purposes such as insurance or medical records.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for project managers and stakeholders to collect information about home renovation projects. The Home Renovation Checklist form is used to gather project details, budget information, timeline, and contact details of the project manager and contractor. This form is likely used in construction, real estate, or property management contexts. Please ensure that you're filling out this form for a home renovation project, and not other types of projects. If you're unsure, please review the project's purpose and scope before proceeding. 
-</thinking>
-
 # Home Renovation Checklist - Help Guide
 ## Purpose
 The Home Renovation Checklist form is used to collect project details, budget information, timeline, and contact details for home renovation projects.

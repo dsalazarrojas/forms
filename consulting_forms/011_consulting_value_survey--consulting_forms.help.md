@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help consultants fill out the "Consulting Value Survey" form to provide valuable feedback on their experiences with the consulting service. This form is designed to gather information on the effectiveness of the consulting service, including strategic insight, problem resolution, return on investment, and overall experience. The form is divided into sections with clear labels and explanations to guide the consultant through the process. This guide will walk the user through each field in the form to ensure accurate and comprehensive feedback.
-
-</thinking>
-
 # Consulting Value Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from consultants on their experiences with the service, providing valuable insights for improvement and future development.

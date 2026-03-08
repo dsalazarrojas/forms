@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect articles and associated information from users for a newsletter. The purpose of this form is to gather relevant details about each article, including its title, author, content, and submitter's name and email. The form is not affiliated with any form platform and is an original adaptation using AI-generated code.
-
-This form is intended for submitting articles to a newsletter. The submitted articles will be reviewed and potentially featured in the newsletter. The submitted articles should be original and not already published elsewhere. The form is open to anyone who wants to submit an article, including newsletter subscribers and non-subscribers alike.
-
-Please fill out this form carefully and accurately, as the provided information will be used to review and potentially feature the submitted article. Note that some fields are optional and can be left blank if not applicable.
-
-</thinking>
-
 # newsletter-article-submission-form - Help Guide
 ## Purpose
 This form is designed to collect articles and associated information from users for a newsletter.

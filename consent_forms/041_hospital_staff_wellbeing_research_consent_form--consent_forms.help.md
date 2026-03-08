@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out this form to provide their consent for hospital staff wellbeing research. 
-Please note that this form is only to be filled out once by each individual, and if you've already filled it out in the past, it's not necessary to do so again. If you've already filled it out in the past, you may be able to use the "Remember Me" feature to recall your previous answers, but this feature is not guaranteed and you may be required to fill out the form again to ensure you are still eligible. 
-</thinking>
-
 # Hospital Staff Wellbeing Research Consent Form - Help Guide
 ## Purpose
 This form is to obtain your consent for participation in hospital staff wellbeing research. It's a necessary step to ensure that you are aware of and agree to participate in the research.

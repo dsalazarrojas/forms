@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended for end-users to understand the purpose and functionality of the Contactless Entry Program Consent Form. This form is designed to gather information for access control, consent, and liability purposes for the Contactless Entry Program. 
-
-The form collects demographic information (name, organization, department, email, phone), access requirements (access level, entry points), access method, and other relevant information for the program. 
-
-It is recommended to fill the form out carefully, as the data will be used to determine program eligibility and terms.
-</thinking>
-
 # Contactless Entry Program Consent Form - Help Guide
 ## Purpose
 The Contactless Entry Program Consent Form is designed to gather information and gain consent from participants for the contactless entry program, allowing them to access certain areas of the building using specific methods.

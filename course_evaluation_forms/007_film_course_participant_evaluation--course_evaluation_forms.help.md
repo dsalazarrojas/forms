@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant feedback on a film course, specifically on the lessons, exercises, instructor performance, and overall satisfaction. Before proceeding, please ensure you have completed a film course and are providing feedback based on your genuine experience. To avoid duplication of effort, please only complete this form if you have not already provided feedback on the same course.
-</thinking>
-
 # Film Course Participant Evaluation - Help Guide
 ## Purpose
 The Film Course Participant Evaluation form is a crucial tool for instructors to gauge their teaching effectiveness and make informed decisions to improve future courses. Your feedback will help shape the course's development and ensure that future participants receive a more valuable learning experience.

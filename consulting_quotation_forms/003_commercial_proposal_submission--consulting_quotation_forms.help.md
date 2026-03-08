@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Commercial Proposal Submission - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's briefly discuss the purpose and requirements of the Cardiology Consultation Form. This form is designed to gather information about a patient's medical history, current symptoms, and contact details for cardiology consultation purposes. The form requires users to provide their demographic information (patient full name, date of birth, gender), contact details (phone number and email), emergency contact information, primary reason for visit, and current symptoms. Additionally, the form asks about relevant medical history, medications, family history of heart disease, lifestyle factors, previous cardiac tests, insurance provider, referral source, and additional notes. This guide will walk users through each field to complete the form accurately and effectively.</thinking>
-
 # Cardiology Consultation Form - Help Guide
 
 ## Purpose

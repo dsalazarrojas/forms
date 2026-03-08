@@ -1,12 +1,3 @@
-<thinking>
-This guide is designed to help consultants and administrators understand the purpose and proper usage of the Consultant Access Request Form. 
-
-This form is intended to provide a straightforward and efficient way to request access for consultants to access specific areas of the system. 
-
-It is not meant to collect redundant information or unnecessary data, so please ensure you only fill out the required fields.
-
-</thinking>
-
 # Consultant Access Request Form - Help Guide
 ## Purpose
 The Consultant Access Request Form is a tool used to request access for consultants to access specific areas of the system. This form allows consultants to provide their information, specify the organization they represent, the purpose of access, and the duration of access.

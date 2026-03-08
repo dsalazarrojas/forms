@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the CCPA/CPRA (California Consumer Privacy Act/California Privacy Rights Act) regulations, which require businesses to protect the privacy of their customers' personal information. The form is used by consumers to exercise their right to request that their personal information not be sold or shared, or to request access, deletion, or correction of their information. It's essential to fill out this form accurately to ensure your request is processed correctly. Please ensure you're completing the form for a legitimate reason and not duplicating a previous request, as this may cause delays in processing your request.
-</thinking>
-
 # CCPA/CPRA Consumer Privacy Request Form - Help Guide
 ## Purpose
 This form allows you to exercise your rights under California law regarding the collection, use, and sharing of your personal information. Please use this form to make a legitimate request for one or more of the following:

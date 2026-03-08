@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information for fall pond cleaning requests. This form will likely be used by staff to gather details about a pond cleaning request, including the requester's contact information, the pond's size and location, and the date and time of the requested visit. It's possible that this form is part of a larger system for scheduling and managing outdoor maintenance tasks. To avoid duplication, staff may need to check if a request for the same pond and time slot is already pending or completed before submitting a new request.
-</thinking>
-
 # Fall Pond Cleaning Request Form - Help Guide
 ## Purpose
 This form is used to request a fall pond cleaning service. It will help staff to gather the necessary information for scheduling and processing your request.

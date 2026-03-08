@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Response Records Release Form - Help Guide
 
 ## Purpose

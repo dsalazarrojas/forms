@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # free-construction-contract - Help Guide
 ## Purpose
 This form is designed to be used for free construction contracts, providing a structured template for capturing essential information between a client and a contractor. The form covers various aspects of the contract, including contact details, payment information, and contract status. It serves as a starting point for creating a formal agreement between the parties involved in a construction project.

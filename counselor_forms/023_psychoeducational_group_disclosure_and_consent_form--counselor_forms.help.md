@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or their representatives about their mental health treatment, including medical conditions, allergies, and emergency contact information. The goal of this form is to ensure that the patient and the treatment team are aware of any relevant health information and can take necessary precautions during treatment. This form is not meant to be used for any other purpose, and all information collected will be kept confidential within the organization. Please ensure that you only complete this form if you are a patient or a representative authorized to provide medical information.
-</thinking>
-
 # Psychoeducational Group Disclosure And Consent Form - Help Guide
 ## Purpose
 This form is designed to collect sensitive medical information from patients or their representatives to ensure a safe and effective treatment environment.

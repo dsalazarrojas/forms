@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from visitors to the Cafe Agapita, a cafe in a public place. This form is used for contact tracing purposes, ensuring that the cafe can provide a safe environment for its customers. The form is required for all visitors and should be filled out accurately. Please ensure that you have filled out the form for each visit, and not just once.
-</thinking>
-
 # Cafe Agapita Declaration Form - Help Guide
 ## Purpose
 The Cafe Agapita Declaration Form is used to collect information from visitors about their health status and recent activities, helping the cafe maintain a safe environment.

@@ -1,11 +1,3 @@
-<thinking>
-This is a form designed to help couples or individuals assess the quality and compatibility of their romantic relationship. The form includes a series of questions and fields that gather information on various aspects of the relationship, such as its level of emotional maturity, conflict resolution, and intimacy. The form is intended to provide a detailed understanding of the relationship's strengths and weaknesses, and can be used as a tool for couples to evaluate their relationship's potential for growth and improvement.
-
-Before filling out this form, please note that it is not a replacement for professional counseling or therapy, and the information collected here is for personal use only. It is essential to answer these questions honestly and thoughtfully, as the form's purpose is to provide a comprehensive view of the relationship.
-
-To fill out this form, please follow the instructions below:
-</thinking>
-
 # Dating Questionnaire - Help Guide
 ## Purpose
 This form is designed to help couples or individuals assess the quality and compatibility of their romantic relationship.

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a Delight Survey, designed to measure customer satisfaction and feedback. The form likely aims to collect data on various aspects of the customer's experience, including the quality of service provided by employees. It may be used to identify areas of improvement and provide valuable insights for business development. This form does not seem to duplicate any existing form with similar objectives or content.</thinking>
-
 # Delight Survey - Help Guide
 ## Purpose
 The Delight Survey is designed to collect feedback and measure customer satisfaction on various aspects of their experience. It helps identify areas of improvement and provide valuable insights for business development.

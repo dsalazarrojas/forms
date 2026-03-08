@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Body Contouring Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients interested in body contouring services. It helps us understand their goals, medical history, and expectations, ensuring a smooth and effective treatment experience.

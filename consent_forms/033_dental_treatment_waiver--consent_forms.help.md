@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a waiver for dental treatment, which is a legal document that allows patients to provide their consent for dental procedures. The form is used to collect patient information, medical history, allergies, medications, emergency contact details, and a signature. This form is likely to be used in a clinical or healthcare setting to ensure that patients are aware of the procedures they are undergoing and to provide a legal basis for treatment. 
-
-This form should only be completed by patients who have been informed and understand the implications of the treatment. The fields in this form are intended to gather relevant information for the patient's treatment and to ensure that the patient's safety and well-being are protected. 
-
-Please note that the following fields should not be left blank: patient information (1), medical history (2), dental procedure (3), allergies (4), medications (5), emergency contact (6), relationship with emergency contact (7), emergency contact phone (8), alternate emergency contact (9), alternate emergency contact relationship (10), alternate emergency contact phone (11), and patient signature (13).
-</thinking>
-
 # Dental Treatment Waiver - Help Guide
 ## Purpose
 The purpose of this form is to obtain the patient's consent for dental treatment and to gather relevant information for their medical history, allergies, and emergency contact details.

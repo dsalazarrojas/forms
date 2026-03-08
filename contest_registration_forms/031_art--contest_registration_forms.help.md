@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from artists who want to participate in an art contest. The purpose of this form is to gather essential details about the artist and their artwork, including contact information, art experience, artwork specifics, and submission details. This form will help the contest organizers to review and manage the submissions efficiently.
-
-</thinking>
-
 # Art Contest Registration - Help Guide
 ## Purpose
 This form is designed for artists to register their artwork for a contest. It collects personal and artwork information, including contact details, art experience, and submission specifics.

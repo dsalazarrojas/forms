@@ -1,5 +1,3 @@
-<thinking>As an expert form designer, I need to ensure that the user understands the purpose of this form. This form is designed to collect feedback and consent from individuals who have attended a language school, whether it's an online course or an in-person program. The form is crucial in gathering information about the language school's performance and understanding from students, which can help improve their programs and services. I will need to consider that there might be some overlap in the information collected, especially when it comes to fields like email and school name, but that's okay as the form will help in understanding the students' perspectives. I should also make sure to explain each field clearly, as some might not be immediately self-explanatory.</thinking>
-
 # Language School Feedback & Consent Form - Help Guide
 ## Purpose
 This form is intended to gather feedback and consent from students who have attended a language school. The purpose of this form is to collect information about their experiences, satisfaction levels, and consent to use their feedback. This information will help us improve our language school programs and services.

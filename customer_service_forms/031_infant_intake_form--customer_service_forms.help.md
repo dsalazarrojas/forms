@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Infant Intake Form - Help Guide
 
 ## Purpose

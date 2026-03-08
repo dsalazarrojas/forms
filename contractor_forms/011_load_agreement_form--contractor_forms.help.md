@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information about a load from a user. This form is likely used in a shipping or logistics context to gather details about the load, such as its terms and signatures. Before proceeding, please ensure that you are familiar with the concept of a load and the specific requirements of your organization. This form is designed to be simple and straightforward, but if you're unsure about any part of the form, please consult with your supervisor or refer to relevant policies and procedures.
-
-</thinking>
-
 # Load Agreement Form - Help Guide
 ## Purpose
 This form is used to record and document load information.

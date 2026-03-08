@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track the customer's experience with returning a product or item. It is used to gauge the efficiency of the return process, identify areas of improvement, and gather valuable feedback from customers. 
-The form should only be filled out for customers whose return is actually processed (i.e., not just for test orders or other non-returning customers), otherwise, duplicate data may be collected and lead to inaccurate results.</thinking>
-
 # Daily Returns Tracking Survey - Help Guide
 ## Purpose
 The Daily Returns Tracking Survey form is designed to collect feedback from customers who have gone through the return process. This form is used to assess the efficiency and effectiveness of our return process.

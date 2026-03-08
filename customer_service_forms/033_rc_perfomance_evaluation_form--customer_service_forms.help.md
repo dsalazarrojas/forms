@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect performance evaluation data from users. It is intended to be filled out by individuals who wish to provide feedback on the performance of a service they have received. This form should only be filled out for this specific purpose and not for any other reason.
-</thinking>
-
 # rc_perfomance_evaluation_form - Help Guide
 ## Purpose
 The **rc_perfomance_evaluation_form** is a form designed to collect performance evaluation data from users. This form helps individuals provide feedback on the performance of a service they have received.

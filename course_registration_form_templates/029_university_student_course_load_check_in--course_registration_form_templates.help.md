@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for checking a student's course load at a university, possibly for administrative or tracking purposes. The form asks about the student's status in a specific semester and includes fields for student ID, course ID, credit earned, and credit checked. To avoid duplication, a form like this should not be used for creating a new student record. 
-</thinking>
-
 # university_student_course_load_check_in - Help Guide
 ## Purpose
 This form is used to check a university student's course load for a specific semester. This includes tracking the student's status in a particular semester and other relevant details.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information from members regarding their suspension from a facility due to the COVID-19 pandemic. This form ensures that members understand the terms and conditions of their suspension, including the duration of the suspension, reactivation process, and any benefits or fees waived during the suspension period. The form is intended to be completed by the member themselves, and the information collected will be used to update their membership status and facilitate the reactivation process when they are ready to return.
-The purpose of this form is to prevent the spread of misinformation and ensure that members understand their responsibilities and obligations during the suspension period. It also helps to reduce the likelihood of duplicate submissions by checking for existing suspensions and preventing members from submitting the form multiple times.
-</thinking>
-
 # COVID 19 Membership Suspension Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from members regarding their suspension from a facility due to the COVID-19 pandemic. It is intended to ensure that members understand the terms and conditions of their suspension, including the duration of the suspension, reactivation process, and any benefits or fees waived during the suspension period.

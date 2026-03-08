@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective help guide for the Clear Aligner Consent Form, we should start by clarifying the form's purpose and scope. The form is designed to gather essential information from patients, including their personal details, treatment preferences, and consent to receive clear aligner orthodontic treatment. It is a crucial document that ensures patients understand the treatment process, risks, and expectations, and also protects the provider from potential liabilities.
-
-Before proceeding with the form, ensure that the patient has not filled it out previously, and if they have, consider using the submitted data to fill out the form automatically. This can save time and reduce errors. 
-
-Please note that some fields might require additional explanations, which are provided in the following sections. 
-
-</thinking>
-
 # Clear Aligner Consent Form - Help Guide
 
 ## Purpose

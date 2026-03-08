@@ -1,9 +1,3 @@
-<thinking>
-This is a form for capturing information from new clients to be treated in a hair salon. The purpose of this form is to collect the client's basic contact information, emergency contact information, and consent for various aspects of the treatment. This form is likely used by a hair salon to gather necessary information before starting treatment. It is not a medical form but rather a form for a cosmetic service.
-
-Form fields may not be required for everyone and are dependent on specific business policies or regulations.
-</thinking>
-
 # Hair Salon New Client Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from new clients to be treated in a hair salon. It is a necessary document that requires completion for all new clients.

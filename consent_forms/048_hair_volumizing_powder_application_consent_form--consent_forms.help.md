@@ -1,13 +1,3 @@
-<thinking>
-This form is a consent form for a hair volumizing powder application treatment. It is designed to gather information from users about their consent and experience with the treatment, including details about the product used, treatment date and time, and contact information for follow-up. The form is likely used in a salon or spa setting to ensure that customers are informed and agree to the treatment process. 
-
-This form is not a survey or a marketing tool, but rather a legal and administrative form to ensure that customers are aware of the treatment and its implications. The fields are designed to be clear and concise, making it easy for users to understand and complete the form.
-
-The form is likely used in conjunction with other forms and systems to manage customer data and treatment records. Its purpose is to ensure that customers are informed and consent to the treatment, and to provide a clear record of their agreement.
-
-Before filling out this form, make sure you have read and understood the information provided about the hair volumizing powder application treatment.
-</thinking>
-
 # hairVolumizingPowderApplicationConsentForm - Help Guide
 ## Purpose
 This form is a consent form for a hair volumizing powder application treatment. It is designed to gather information from users about their consent and experience with the treatment.

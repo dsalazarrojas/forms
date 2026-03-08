@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or organizations interested in joining the ESG (Environmental, Social, and Governance) Transition Consulting Network. This form will gather relevant details about the applicant's qualifications, experience, and contact information. 
-</thinking>
-
 # ESG Transition Consulting Network Application - Help Guide
 ## Purpose
 The ESG Transition Consulting Network Application form is designed to collect information from individuals or organizations interested in joining the ESG Transition Consulting Network. This form will help us understand the applicant's qualifications, experience, and contact information to assess their suitability for the network.

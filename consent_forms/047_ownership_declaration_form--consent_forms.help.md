@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ownership Declaration Form - Help Guide
 ## Purpose
 The Ownership Declaration Form is designed to collect information about your pet's ownership details, including its name, type, and owner's contact information. This form is used to create a record of pet ownership, which is crucial for various purposes such as pet insurance, veterinary care, and pet-related services.

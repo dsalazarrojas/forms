@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to provide a contact mechanism for users to inquire about credit-related consultations. It is used for users who want to schedule a meeting or discuss something with the credit consultation service. This form does not require any personal data such as credit scores. The form is meant for users who do not need to provide sensitive data such as their FICO or credit score but rather just want to inquire about getting a consultation.
-</thinking>
-
 # Credit Consultation Contact Form - Help Guide
 ## Purpose
 This form is designed to allow users to submit a message to the credit consultation service, requesting to schedule a meeting or discuss something.

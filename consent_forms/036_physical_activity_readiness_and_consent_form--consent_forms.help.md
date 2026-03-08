@@ -1,9 +1,3 @@
-<thinking>... This help guide is intended to assist end users in filling out the Physical Activity Readiness And Consent Form, a crucial document that assesses the risks and limitations associated with engaging in physical activity. This form is a critical component in the process of evaluating an individual's physical readiness for exercise and ensuring their safety and well-being.
-
-Before we dive into the form's details, it's essential to note that this guide will cover each field and its corresponding explanation, helping users understand the purpose and requirements of each section.
-
-</thinking>
-
 # Physical Activity Readiness And Consent Form - Help Guide
 
 ## Purpose

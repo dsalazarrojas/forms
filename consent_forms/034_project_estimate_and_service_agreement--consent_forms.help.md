@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Estimate And Service Agreement - Help Guide
 ## Purpose
 The "Project Estimate And Service Agreement" form is designed to gather information about a project, including its details, client information, service agreement, estimate, budget, and other relevant details. This form is typically used to capture the essential data required for a project, allowing users to create a comprehensive project plan and service agreement with their clients.

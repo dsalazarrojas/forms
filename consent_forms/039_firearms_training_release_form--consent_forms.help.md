@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form explanation, let's quickly review the form purpose. The firearms training release form is used to collect information about an individual's participation in a firearms training program, ensuring they understand and agree to follow all safety rules and regulations, as well as granting permission for their child/children to participate. This form also allows instructors to acknowledge their agreement to the terms and conditions of the training.</thinking>
-
 # Firearms Training Release Form - Help Guide
 ## Purpose
 This form is used to collect participant and instructor information for a firearms training program. It includes sections for participant and instructor agreements, emergency contact details, and course specifics such as location, date, and time.

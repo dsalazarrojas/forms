@@ -1,6 +1,3 @@
-<thinking>
-The form "Event Waiver Form" appears to be designed to gather information related to an event, particularly focusing on risk descriptions, participant involvement, and agreement on terms. To confirm, the form seems to be intended for events where participants may be exposed to certain risks. The form's design suggests a sequence of questions aimed at understanding and documenting these events. It does not appear to be redundant with existing forms in the organization, and its purpose is likely to be specific and event-based. Each section of the form is dedicated to a distinct aspect of event waivers, such as describing the event, identifying participants, and acknowledging potential risks. The form's structure and field types imply a process for understanding, documenting, and verifying participants' understanding and agreement with the terms and conditions of the event. This form seems to be an essential tool for ensuring participants are aware of and agree to the risks associated with the event.</thinking>
-
 # Event Waiver Form - Help Guide
 ## Purpose
 The Event Waiver Form is designed to ensure participants understand and agree to the terms and conditions of an event where they may be exposed to certain risks. This form is meant to be completed by participants before engaging with the event.

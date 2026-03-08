@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain a release from a litigious entity, such as a court or a legal entity, to obtain records related to a specific case. To avoid duplication, this form should only be completed by authorized personnel and should only be used for cases that are currently active and not already released.
-</thinking>
-
 # Litigation Records Release Form - Help Guide
 ## Purpose
 The Litigation Records Release Form is a document used to request access to records related to a specific case from a litigious entity. This form is typically used to obtain necessary information or records for the purpose of litigation, settlement, or other legal proceedings.

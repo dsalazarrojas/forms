@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to gather information from potential customers about their interior design project needs. The purpose of this form is to collect project details, description, budget, location, and preferred design style to assist our interior designers in providing accurate and relevant services to the client.
-
-To ensure that this form is used correctly, it's essential to review the project details, description, budget, and location to avoid any misunderstanding or duplication of services.
-
-</thinking>
-
 # Interior Design Services Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their interior design project needs, allowing our interior designers to provide accurate and relevant services.

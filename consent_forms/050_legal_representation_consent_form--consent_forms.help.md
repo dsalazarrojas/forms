@@ -1,9 +1,3 @@
-<thinking>
-The "legal_representation_consent_form" form is used to obtain client consent for legal representation. This form is typically used to document a client's agreement to be represented in a legal matter. The form includes fields for the client's consent, representation type, and other relevant details. The purpose of this form is to ensure that the client understands and agrees to the terms and conditions of representation. This form must be completed in accordance with relevant laws and regulations, and the information collected is used to maintain accurate and up-to-date records.
-
-To avoid duplication and ensure consistency, please ensure that this form is completed for each new or updated representation, and review the form carefully before submitting it.
-</thinking>
-
 # legal_representation_consent_form - Help Guide
 ## Purpose
 The "legal_representation_consent_form" is used to obtain client consent for legal representation.

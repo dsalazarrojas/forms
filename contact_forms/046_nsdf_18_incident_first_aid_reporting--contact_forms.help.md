@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for reporting incidents, which will be collected in the context of an "Nsdf 18 Incident First Aid Reporting" process. Before filling out this form, ensure that the incident has not already been reported. If you're not sure, please check the relevant logs or consult with someone who may have access to that information.
-
-This form will collect information about an incident, including the date, time, details, description, type, location, and other relevant details. The form is designed to be completed by those who are directly involved or have information about the incident.
-
-Please be aware that all fields are optional, except for those marked as required. Ensure you provide accurate and clear information in each field to ensure the report is processed efficiently.
-
-</thinking>
 # Nsdf 18 Incident First Aid Reporting - Help Guide
 ## Purpose
 This form is used to report incidents that require first aid or other relevant information for incident management and analysis.

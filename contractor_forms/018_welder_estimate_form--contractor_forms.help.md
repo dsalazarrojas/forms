@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather essential information for welding jobs. The Welder Estimate Form is a crucial tool for tracking and organizing data related to welding projects. It is used by welders to provide estimates for their work, and by clients to manage their projects.
-</thinking>
-
 # Welder Estimate Form - Help Guide
 ## Purpose
 The Welder Estimate Form is a tool used to gather essential information for welding jobs. It is used by welders to provide accurate estimates for their work and by clients to manage their projects.

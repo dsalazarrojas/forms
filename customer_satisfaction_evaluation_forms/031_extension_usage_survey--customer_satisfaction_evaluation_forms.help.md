@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Extension Usage Survey - Help Guide
 
 ## Purpose

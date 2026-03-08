@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from an individual about their emergency contact, which is a person who the individual would like to have notified in case of an emergency or other crisis. This form is likely to be used in a healthcare or educational setting, where having emergency contact information on file can be crucial for responding to an individual's needs quickly and effectively. 
-
-To prevent duplication, the form should only be submitted once per person, and the individual should be aware that their data will be stored and accessed only for the purpose of emergency contact.
-
-</thinking>
-
 # Emergency Contact Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information from you about your emergency contact. This information will be kept confidential and will only be used in case of an emergency or other crisis. Please note that you should only submit this form once for each emergency contact.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a critical tool for processing and managing the COVID-19 testing process. The purpose of this form is to gather essential information from patients and healthcare providers to facilitate efficient and accurate testing, reduce errors, and ensure compliance with health and safety regulations. This form serves as a single, comprehensive record for each test, making it easier to track test results, patient history, and other relevant details. It is crucial to fill out this form carefully and accurately to avoid any potential delays or miscommunication issues.
-
-</thinking>
-
 # Premier COVID Testing Form - Help Guide
 ## Purpose
 The Premier COVID Testing Form is designed to streamline the testing process and improve the accuracy of test results.

@@ -1,21 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Religious Content Order Form", I will first analyze the provided YAML fields to understand the form's purpose and fields.
-
-The form appears to be a simple 2-page form designed to collect information from users who want to order religious content. The form likely serves as a way to streamline the process of receiving orders from individuals or organizations.
-
-The form collects the following fields:
-
-*   "form_first_page_name" (Required): This field is likely intended for the user's name.
-*   "form_first_page_email" (Required): This field is probably for the user's email address.
-*   "form_first_page_organization" (Required): This field might be for the user's organization or affiliation.
-*   "form_second_page_delivery_preferences" (Optional): This field allows the user to choose their preferred method of delivery: digital, physical, or both.
-*   "form_second_page_payment_terms" (Required): This field is probably for the user to choose their payment terms, such as net 30 or 60 days.
-*   "form_second_page_additional_info" (Optional): This field is likely for any additional information the user wants to provide.
-
-The user is expected to complete the first page by providing their name, email address, and organization. On the second page, they will choose their delivery preferences and payment terms, and may optionally provide additional information.
-
-</thinking>
-
 # Religious Content Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to order religious content. It is intended for users who need to provide their personal or organizational details to facilitate the ordering process.

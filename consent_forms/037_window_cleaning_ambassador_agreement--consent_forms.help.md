@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who wish to become "Window Cleaning Ambassadors" for a company. The purpose of this form is to gather essential details about the individual, including their contact information, role, and agreement terms. The form should not be used for other purposes, such as general contact or sales inquiries. Ensure that the form is not used to collect unnecessary or redundant information.</thinking>
-
 # Window Cleaning Ambassador Agreement - Help Guide
 ## Purpose
 The Window Cleaning Ambassador Agreement is a document that outlines the terms and conditions for individuals who wish to become Window Cleaning Ambassadors. The form is used to gather essential details about the individual, including their contact information, role, and agreement terms. By completing this form, the individual is acknowledging that they understand and agree to the terms and conditions set forth in the agreement.

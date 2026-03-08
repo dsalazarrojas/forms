@@ -1,20 +1,3 @@
-<thinking>
-
-To determine the form's purpose, we need to understand that it's for users to register for a "Permaculture Design Course". The non-duplication check is likely to prevent users from registering multiple times for the same course session. This is a simple form with minimal data collection, likely for basic course registration purposes.
-
-The form consists of several fields:
-
-*   **Registration Details**: A text field where users can add any additional details about their registration.
-*   **Name**: A field to collect the user's name, likely to be used for contact purposes or course materials distribution.
-*   **Email**: A field to collect the user's email, probably for communication or notification purposes.
-*   **Phone**: A field to collect the user's phone number, likely for communication or emergency contact purposes.
-*   **Course Session**: A dropdown menu where users can select which course session they wish to attend.
-*   **Payment Method**: A dropdown menu where users can choose how they wish to pay for the course, likely between "PayPal" and "Bank Transfer".
-*   **Payment Amount**: A field to collect the payment amount, likely for course fee purposes.
-*   **Notes**: A field for any additional notes or comments users might want to add.
-
-</thinking>
-
 # Permaculture Design Course Registration - Help Guide
 ## Purpose
 This form is for users to register for the Permaculture Design Course. Fill out this form to provide your registration details.

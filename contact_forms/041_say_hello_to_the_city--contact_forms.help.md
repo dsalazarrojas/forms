@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to provide information about a city, including its name, a brief description of its atmosphere, contact details, and preferred visit dates and times. 
-To complete this form, users will be required to fill in the city's name, a description of its atmosphere, their own contact name, email address, and preferred visit date and time. Some fields, like phone numbers, will be optional and are not required for form submission. The form also includes fields for users to provide additional information, such as comments or notes, and select options for confirming whether they want to visit or not.
-</thinking>
-
 # say_hello_to_the_city - Help Guide
 ## Purpose
 This form is used to collect information about a city, including its name, description, and user's contact details for planning purposes. 

@@ -1,8 +1,3 @@
-<thinking>
-The "Contact Us Form" is designed to allow users to send a message to your organization with their first name, last name, email, phone number (optional), organization, role or title (optional), subject, category (select from a list), message, and contact preference (email, phone, or either). This form is typically used for users who want to initiate contact with your organization for various reasons such as support, partnership, or to inquire about media opportunities.
-To ensure data quality and accuracy, it's essential to understand each field's purpose and requirements. This guide will walk you through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Contact Us Form - Help Guide
 
 ## Purpose

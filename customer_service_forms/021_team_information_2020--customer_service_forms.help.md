@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Information 2020 - Help Guide
 ## Purpose
 The Team Information 2020 form is designed to collect essential details about your team, including their name, leader, contact information, and any additional notes. This form will help us better understand your team's structure and communication preferences.

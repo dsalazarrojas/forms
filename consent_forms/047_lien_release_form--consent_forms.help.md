@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release a lien, which is a claim or a hold on a property. To ensure that the form is completed correctly, please confirm that you are the lien holder and that you have the authority to release the lien. Before filling out this form, please make sure you have the necessary information and documentation to accurately complete it. This form is designed to be filled out by the lien holder, and it is not a replacement for legal or professional advice. If you have any questions or concerns, please refer to the provided instructions or seek guidance from a relevant authority.
-</thinking>
-
 # Lien Release Form - Help Guide
 ## Purpose
 The Lien Release Form is used to formally release a lien on a property. This form is typically used by the lien holder to indicate their intention to release the lien and provide details about the lien and its resolution.

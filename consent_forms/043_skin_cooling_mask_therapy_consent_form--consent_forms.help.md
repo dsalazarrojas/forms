@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skin Cooling Mask Therapy Consent Form - Help Guide
 ## Purpose
 The Skin Cooling Mask Therapy Consent Form is designed to collect important information from clients before they undergo the skin cooling mask therapy treatment. This form is required for all clients to provide informed consent and to ensure their safety and well-being during the treatment.

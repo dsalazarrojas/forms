@@ -1,7 +1,3 @@
-<thinking>
-The Student Computer Loan Agreement form is a document used to outline the terms and conditions of a computer loan between a student and the school or organization providing the loan. This form should be completed only by a student borrowing a computer from the school and it's intended to be used for internal purposes.
-</thinking>
-
 # Student Computer Loan Agreement - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect customer feedback on various aspects of our product or service. The purpose of this form is to gather information on customer satisfaction, experience, and areas for improvement. Please ensure that you have not submitted similar feedback before, as this will help us better understand your concerns and make data-driven decisions. To ensure the quality of our feedback, we kindly request that you answer the questions as honestly as possible and provide detailed comments where applicable.
-</thinking>
-
 # customer_feedback_form_template - Help Guide
 ## Purpose
 The customer feedback form is designed to collect valuable insights from customers on our product or service. Your feedback will help us improve our offerings and provide better services to you and our other customers.

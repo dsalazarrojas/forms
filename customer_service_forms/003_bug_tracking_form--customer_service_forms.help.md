@@ -1,23 +1,3 @@
-<thinking>
-This guide is for the customer-facing "Bug Tracking Form" used for reporting bugs and issues within our system. 
-The form is intended to gather detailed information about bugs, including their severity, status, and reproduction environment. 
-To ensure accurate reporting, please make sure to fill in all the required fields. 
-The following fields are required for every bug report:
-  - report_date
-  - bug_summary
-  - detailed_description
-  - severity_classification
-  - bug_status
-  - affected_version
-  - reproduction_environment
-  - reproduction_procedure
-  - expected_outcome
-  - actual_outcome
-  - reporter_name
-  - reporter_email
-Please fill in the form completely and accurately before submitting. 
-</thinking>
-
 # Bug Tracking Form - Help Guide
 ## Purpose
 The Bug Tracking Form is a tool used for reporting and tracking bugs within our system.

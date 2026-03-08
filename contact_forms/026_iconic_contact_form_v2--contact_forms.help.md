@@ -1,10 +1,3 @@
-<thinking>
-This is the Iconic Contact Form V2. It was created to be a versatile form that can serve a variety of use cases, such as customer feedback, support inquiries, or even marketing surveys. The form is designed to be user-friendly and flexible, with a mix of text, email, phone, date, time, and select fields. However, I'd like to point out that the form does not have any required fields, which might make it suitable for non-mandatory use cases. Before proceeding with this form, please ensure that it aligns with your specific use case and requirements.
-
-This guide is intended to walk you through the form's purpose, how to complete it, and provide an explanation of each field.
-
-</thinking>
-
 # Iconic Contact Form V2 - Help Guide
 ## Purpose
 The Iconic Contact Form V2 is designed to be a comprehensive and adaptable contact form for various use cases. It allows users to provide personal information, feedback, and preferences in a flexible and user-friendly manner.

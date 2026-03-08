@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on their experience with Mix2X, a product or service. The purpose of this form is to gather information on the user's experience, satisfaction, and any additional comments or concerns they may have. This form is intended for internal use and will help us understand how to improve our services.
-
-Before filling out this form, please make sure you have not already provided feedback on this same issue or topic. Duplicate feedback can be overwhelming and may not be taken into account.
-
-</thinking>
-
 # Mix2X User Feedback Survey - Help Guide
 ## Purpose
 The Mix2X User Feedback Survey is designed to collect your thoughts and experiences about our product or service. Your feedback is crucial to help us understand how we can improve and better serve you.

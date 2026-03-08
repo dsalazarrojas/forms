@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # faith_based_video_sermon_appearance_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to collect contact information and recording type preferences for faith-based video sermons. This form is used to ensure that the speaker, host, or content creator has given their consent for the recording and sharing of their video sermons.

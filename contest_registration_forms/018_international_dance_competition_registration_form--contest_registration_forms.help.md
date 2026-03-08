@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants in an international dance competition. To avoid duplication, please check that your dance group or school has not already registered. 
-</thinking>
-
 # International Dance Competition Registration Form - Help Guide
 ## Purpose
 This form is designed for participants to register for an international dance competition. The form collects essential information for the organizers to process registrations and communicate with participants, including contact details, dance style, and emergency contact information.

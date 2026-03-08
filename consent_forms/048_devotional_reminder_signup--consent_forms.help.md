@@ -1,7 +1,3 @@
-<thinking>
-To ensure that our devotional reminders are sent to the right people, we need to validate that the user is who they claim to be. This form will help us do that. Before proceeding, please double-check that you have not already submitted a reminder request with this information.
-</thinking>
-
 # Devotional Reminder Signup - Help Guide
 ## Purpose
 The purpose of this form is to collect your personal details for sending devotional reminders. We will use this information to send personalized reminders to you via your preferred communication channel (email or phone).

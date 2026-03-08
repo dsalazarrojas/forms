@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect contact information and details from users who require technology audit advisory services. 
-The form is meant to be a basic and concise way to gather necessary information from the user.
-The form is used for internal purposes only and will help the organization understand the user's needs and requirements better.
-</thinking>
-
 # Technology Audit Advisory Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to collect contact information and details from users who require technology audit advisory services. Please take a few minutes to fill out this form carefully.

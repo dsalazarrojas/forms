@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Termination For Cause Contract Form - Help Guide
 
 ## Purpose

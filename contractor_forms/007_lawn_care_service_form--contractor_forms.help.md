@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose:** This form is for scheduling and planning lawn care services. It will ask for information about the date and time of service, the address where the service will be performed, the customer's name, and other relevant details about the service provided. The purpose of this form is to ensure that all necessary information is collected and communicated effectively to the service team.
-
-**Form Relevance and Non-Duplication Check:** 
-This form is designed for one-time use and should not be used for repeat visits or regular scheduled services. If a customer already has a scheduled service, please use the "edit service" feature to update their information.
-
-</thinking>
-
 # Lawn Care Service Form - Help Guide
 ## Purpose
 This form is used for scheduling and planning lawn care services. It helps in collecting and organizing necessary information to provide efficient and reliable service to customers.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help customer service agents evaluate and document phone interactions with customers. The form is used to capture key information from the agent's experience with the customer, including details about the customer, the agent handling the interaction, and the outcome of the interaction. This form is likely used for quality control, training, and performance evaluation purposes.
-
-</thinking>
-
 # Phone Interaction Assessment Form - Help Guide
 ## Purpose
 This form is used to document the details of phone interactions with customers, including the agent handling the interaction, the customer's details, and the outcome of the interaction. This information is used to improve customer service quality and agent performance.

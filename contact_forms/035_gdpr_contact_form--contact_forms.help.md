@@ -1,5 +1,3 @@
-<thinking>Our GDPR contact form is designed to handle sensitive data related to the General Data Protection Regulation (GDPR) and other privacy concerns. This form is intended for customers to report or inquire about their personal data, request corrections, or provide feedback. It is essential to use this form only for its intended purpose and not for any other reason. Before filling out this form, please ensure you haven't already contacted us about the same issue or matter, as this may cause unnecessary processing and duplication of work. Please fill out the form accurately and thoroughly, and do not include any unnecessary information.</thinking>
-
 # gdpr contact form - Help Guide
 ## Purpose
 The GDPR contact form is a tool used to handle sensitive data related to the General Data Protection Regulation (GDPR) and other privacy concerns. This form is intended for customers to report or inquire about their personal data, request corrections, or provide feedback.

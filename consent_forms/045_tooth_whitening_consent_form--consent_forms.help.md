@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain patient consent for tooth whitening treatment. This form ensures that patients understand the risks and benefits of the treatment and agree to undergo it. Before we begin, let's verify that this form is relevant and not a duplicate.
-</thinking>
-
 # Tooth Whitening Consent Form - Help Guide
 ## Purpose
 The Tooth Whitening Consent Form is a document that requires patients to provide their consent for a tooth whitening treatment. The form is used to ensure that patients understand the risks and benefits of the treatment and agree to undergo it.

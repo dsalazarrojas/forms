@@ -1,7 +1,3 @@
-<thinking>
-We have designed this Leaderboard Participation Form to collect information from individuals participating in a leaderboard competition. The form is designed to gather entry details, participant information, and confirm participation status, among other data. This guide is intended for end-users to understand the form's purpose, requirements, and field explanations.
-</thinking>
-
 # Leaderboard Participation Form - Help Guide
 ## Purpose
 The Leaderboard Participation Form is used to collect information from participants in a leaderboard competition, allowing us to track and display their entries and details.

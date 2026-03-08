@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to gather essential information from pet owners or individuals responsible for a pet's grooming needs. This form is designed to provide a clear and concise means of communication between pet groomers and pet owners. Please ensure that the information provided is accurate and complete, as it will be used to tailor the pet's grooming experience to their specific needs. 
-
-Duplicate entries or submissions should be avoided to prevent errors and ensure consistency in our records.
-
-</thinking>
-
 # Grooming Release Form - Help Guide
 ## Purpose
 The Grooming Release Form is used to collect information about a pet's grooming needs, health status, and any special requirements or allergies. This information will be used to provide a tailored grooming experience for your pet.

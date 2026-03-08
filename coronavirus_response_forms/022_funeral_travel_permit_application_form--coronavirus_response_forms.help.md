@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-This form is a Funeral Travel Permit Application Form, used to facilitate travel for individuals attending funerals or other end-of-life events. It is essential to ensure that all required fields are completed accurately to prevent delays or rejections of the application. Please note that this form may be used for other purposes as well, but its primary use is for funeral travel. Before proceeding, ensure that all the information provided is accurate and up-to-date. It is also crucial to check that the form is not being completed for any other purpose or event.
-</thinking>
-
 # Funeral Travel Permit Application Form - Help Guide
 ## Purpose
 The Funeral Travel Permit Application Form is a document used to facilitate travel for individuals attending funerals or other end-of-life events. It requires accurate and up-to-date information to prevent delays or rejections of the application.

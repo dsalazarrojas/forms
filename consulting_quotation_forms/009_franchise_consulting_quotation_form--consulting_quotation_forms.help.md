@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from both consultants and customers in the context of a franchise consulting quotation process. The form likely aims to gather details about the consultant's information, contact and customer information, services provided, dates of service, time of service, quotation, total cost, and agreements. 
-</thinking>
-
 # Franchise Consulting Quotation Form - Help Guide
 
 ## Purpose

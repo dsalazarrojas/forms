@@ -1,12 +1,3 @@
-<thinking>
-To be honest, I'm not entirely sold on the design of this form. The fields and labels seem somewhat generic and unclear. However, based on the provided YAML, I'll do my best to create a user-friendly help guide.
-
-The purpose of this "Tax Preparation Client Intake Form" is to gather essential information from clients about their tax-related needs, including contact details, identification, and tax-related preferences. I assume this form is for tax preparation or accounting services, where the client provides information to be used in the tax preparation process. The form likely aims to ensure the accuracy and completeness of the information collected for tax purposes.
-
-However, please keep in mind that some fields and labels may require additional context or clarification to fully understand their intended use.
-
-</thinking>
-
 # Tax Preparation Client Intake Form - Help Guide
 ## Purpose
 The "Tax Preparation Client Intake Form" is used to collect information from clients about their tax-related needs. It helps our tax preparation services team understand your requirements for accurate tax preparation.

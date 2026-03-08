@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voice Dubbing Revision Request Form - Help Guide
 ## Purpose
 The Voice Dubbing Revision Request Form is designed for users to request revisions to voice dubbing files. It allows you to provide detailed information about the revisions needed and upload relevant files to support your request.

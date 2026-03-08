@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block to explain the form purpose and check for relevance and non-duplication:
-This form is designed for employees to notify management of policy changes. The form will help to gather information about the policy changes, affected employees, and other relevant details. It is essential to ensure that all changes are properly documented and communicated to relevant parties. Before filling out this form, please ensure that you have a clear understanding of the policy change and its implications. If the policy change is already documented in our company's internal knowledge base or has been previously notified, please do not fill out this form again.</thinking>
-
 # Policy Change Notification Form - Help Guide
 ## Purpose
 The Policy Change Notification Form is designed to collect information about policy changes within the company. This form is used to notify management of policy updates, modifications, or cancellations.

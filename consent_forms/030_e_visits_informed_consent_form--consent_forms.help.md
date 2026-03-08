@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect informed consent from patients for electronic visits, which are virtual consultations with healthcare professionals. The form is part of the E-visits platform, a digital platform for remote medical consultations. The form's purpose is to ensure that patients understand the terms of their electronic visit, including privacy protections, data collection and security, and other important information. This form is intended for patients to provide their consent before participating in an E-visit.
-
-</thinking>
-
 # E Visits Informed Consent Form - Help Guide
 
 ## Purpose

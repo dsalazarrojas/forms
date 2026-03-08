@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect contact information and feedback from guests. It is intended for guests to provide their name, email, phone number, message, and feedback about their experience. The form includes options to select the department they would like to contact, upload a file, and provide additional information such as address and subject. The form should only be completed by guests who are looking to provide feedback or request assistance. This form is not intended for internal use within the organization.
-</thinking>
-
 # Guest Service Department Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and feedback from guests. It is intended for guests to provide their name, email, phone number, message, and feedback about their experience.

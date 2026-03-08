@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Computer Training Registration Form - Help Guide
 
 ## Purpose

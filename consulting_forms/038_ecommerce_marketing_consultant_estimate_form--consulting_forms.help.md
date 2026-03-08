@@ -1,7 +1,3 @@
-<thinking>
-This guide will help ensure that the user understands the purpose of the form, how to complete it, and what each field means. The form is designed to help eCommerce marketing consultants estimate their services. 
-</thinking>
-
 # eCommerce_Marketing_Consultant_Estimate_Form - Help Guide
 ## Purpose
 This form is designed to help eCommerce marketing consultants estimate their services for potential clients. It collects information about the project details, consultant details, contact information, and other relevant services.

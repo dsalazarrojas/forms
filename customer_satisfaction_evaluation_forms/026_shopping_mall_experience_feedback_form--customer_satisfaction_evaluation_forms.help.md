@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers about their shopping mall experience. It's designed to understand how customers perceive the helpfulness of store staff, the clarity of store information, and their overall satisfaction with the shopping mall experience. This feedback will help the mall management to identify areas of improvement and provide better services to customers in the future.
-</thinking>
-
 # shopping_mall_experience_feedback_form - Help Guide
 
 ## Purpose

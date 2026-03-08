@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for clients to provide consent for skin moisturization treatments. It is used to ensure that clients are aware of and agree to the treatment procedures. The form is designed to collect client details, health information, consent, signature, and esthetician signature and name.
-
-Before proceeding, please note that this form is not for internal use, and its purpose and content are intended for client-facing purposes only. 
-
-</thinking>
-
 # skin_moisture_infusion_treatment_consent_form - Help Guide
 ## Purpose
 This form is a client-facing consent form for skin moisturization treatments, designed to ensure that clients are aware of and agree to the treatment procedures.

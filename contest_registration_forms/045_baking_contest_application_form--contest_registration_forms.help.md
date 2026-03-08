@@ -1,11 +1,3 @@
-<thinking>
-This form is a Baking Contest Application Form designed for individuals or organizations to apply to participate in a baking contest. The form is used to collect information about the applicant, their entry, and their submission details. To ensure that the form is completed accurately and honestly, we will check for duplicate submissions and relevance before processing the application.
-
-The form will be reviewed to ensure that the applicant is eligible to participate in the contest and that their entry meets the contest's requirements. If there are any issues or concerns, we will contact the applicant for clarification before proceeding with their application.
-
-Please note that this form is for informational purposes only and is not affiliated with any form platform. It is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Baking Contest Application Form - Help Guide
 ## Purpose
 The Baking Contest Application Form is a tool for individuals or organizations to apply to participate in a baking contest. The form collects information about the applicant, their entry, and submission details to ensure that the application is accurate and eligible for participation.

@@ -1,7 +1,3 @@
-<thinking>
-The parental authorization form for minors is a form used to collect information from parents or guardians about their child's medical history, treatment, and authorization for medical procedures. This form is used to ensure that parents or guardians have provided consent for their child's medical treatment and to document any medical conditions or procedures that the child may have. The form is typically used by medical providers, such as doctors or hospitals, to gather information from parents or guardians before providing treatment to minors. Before filling out this form, please ensure that you are a parent or guardian with the authority to give consent for the child's medical treatment.
-</thinking>
-
 # Parental Authorization Form For Minors - Help Guide
 ## Purpose
 This form is used to collect information from parents or guardians about their child's medical history and authorization for treatment. The form is typically used by medical providers to ensure that parents or guardians have provided consent for their child's medical treatment.

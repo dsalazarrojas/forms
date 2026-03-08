@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a registration form for users to register their progress in a learning design certification pathway. The form captures various details about the user's course title, program name, date completed, start date, total hours spent, status, comments, email, phone number, user ID, and course ID. This information is likely used for tracking and reporting purposes, such as verifying completion of certifications and monitoring student progress. 
-
-Before filling out this form, make sure you have a clear understanding of which courses you have completed and their corresponding program names. This form may be a required step in the certification process, and duplicate submissions may not be accepted.
-
-Please fill out the form carefully and accurately to ensure proper tracking and reporting of your progress.
-
-</thinking>
-
 # Learning Design Certification Pathway Registration Form - Help Guide
 ## Purpose
 This form is for registering progress in a learning design certification pathway. 

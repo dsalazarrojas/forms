@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers to improve the dining experience at a restaurant. The purpose of this form is to gather information on the quality of food, service, and overall satisfaction, as well as the frequency of visits and likelihood of recommendation. This data can help the restaurant make informed decisions to enhance customer service and increase customer loyalty.
-
-</thinking>
-
 # Restaurant Customer Satisfaction Survey Template - Help Guide
 ## Purpose
 The goal of this survey is to collect honest feedback from customers about their dining experience at our restaurant, allowing us to identify areas for improvement and make changes to better serve you.

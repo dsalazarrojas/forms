@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from customers who have engaged with our customer support team. The purpose of this form is to gather information on how the customer experienced our support service, including their level of satisfaction and any areas for improvement. The form asks customers to rate their experience, provide feedback, and optionally provide contact information for follow-up or future communication. The form is designed to be simple and easy to complete, while providing a clear and structured format for capturing valuable insights from our customers.
-
-</thinking>
-
 # Customer Support Feedback Survey - Help Guide
 ## Purpose
 The Customer Support Feedback Survey is designed to collect feedback from customers who have engaged with our customer support team. The information collected through this form will help us identify areas of improvement and make data-driven decisions to enhance our support services.

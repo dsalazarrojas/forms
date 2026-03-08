@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture the audio recording consent of employees, which is a crucial aspect of maintaining the integrity and authenticity of audio recordings. This form helps to ensure that all parties involved are aware and agree to the recording, reducing the risk of disputes or misinterpretation of recorded conversations. It's essential to complete this form carefully and accurately to prevent any potential issues.
-</thinking>
-
 # Security Audio Recording Consent - Help Guide
 ## Purpose
 The Security Audio Recording Consent form is designed to obtain the consent of employees for audio recordings. This form is typically used to create a record of employee consent for audio recordings that may be used as evidence in the future.

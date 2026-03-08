@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Waxing Consent Form, I will first provide a brief internal reasoning block explaining the form's purpose and checking for relevance and non-duplication.
-
-The form is intended to gather necessary information from a customer before providing a waxing service. The purpose of this form is to ensure that the customer is aware of the details of the procedure and understands the implications of their consent. This form is designed to be filled out by the customer before the procedure, to gather their informed consent.
-
-Upon reviewing the form structure, I have identified that it has several fields that seem to be duplicates or have similar purposes. For example, "customer_name" and "customer_signature" seem to be redundant, as a customer's name is typically not required for a signature field. "procedure_pros" and "procedure_cons" appear to be notes for the customer to provide additional information about the procedure, but are not explicitly labeled as such. This guide will address these fields with clarity and concision, ensuring that the customer understands what is expected of them.
-
-</thinking>
-
 # Waxing Consent Form - Help Guide
 ## Purpose
 The Waxing Consent Form is designed to gather necessary information from customers before providing a waxing service. This form ensures that the customer is informed and aware of the procedure's details, including any risks or contraindications.

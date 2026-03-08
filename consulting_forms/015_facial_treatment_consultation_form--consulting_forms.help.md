@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facial Treatment Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients about their facial treatment preferences and schedule. This form will help you understand their concerns, needs, and expectations from your consulting services.

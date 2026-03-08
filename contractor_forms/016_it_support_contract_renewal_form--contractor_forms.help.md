@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from users to renew their IT support contracts. The purpose of this form is to collect user-provided data to facilitate the renewal process. Please ensure the form is relevant to your specific use case before using it. If you're not sure, please review the fields below to determine if this form meets your needs.
-
-</thinking>
-
 # IT Support Contract Renewal Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for the IT support contract renewal process. Please complete the form accurately and thoroughly to ensure a smooth renewal process.

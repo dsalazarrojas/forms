@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help individuals identify potential COVID-19 symptoms and assess their risk factors for infection. This form is designed to be completed by patients or individuals who may be experiencing symptoms or have been exposed to the virus. The form aims to gather information on the patient's symptoms and risk factors, which can aid in determining the severity of their condition and the need for medical attention.
-</thinking>
-
 # Covid 19 Symptom Checking Form - Help Guide
 ## Purpose
 This form is designed to help identify potential COVID-19 symptoms and assess risk factors for infection.

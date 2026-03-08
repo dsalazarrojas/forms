@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from project consultants about the services they offer and the scope of the project. The purpose of this form is to provide a clear and concise way for consultants to provide an estimate for a project, including the services they will provide and the costs associated with those services. This form should only be used for projects where the consultant is providing services and not for internal projects or projects where the consultant is not providing services. 
-</thinking>
-
 # Project Consultant Estimate Form - Help Guide
 ## Purpose
 The Project Consultant Estimate Form is used to gather information from project consultants about the services they offer and the scope of the project. This form provides a clear and concise way for consultants to provide an estimate for a project.

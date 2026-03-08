@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather the information required for a minor to travel, typically with a school or group outing. It's intended to provide authorization from a legal guardian or adult responsible for the minor. The form should be completed by a parent or guardian, and it's meant to serve as a legal confirmation that the child is authorized to travel. Please ensure you fill in all required fields to complete this form correctly. 
-</thinking>
 # Child Travel Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization for a minor to travel with a specific destination and purpose. It is typically completed by the minor's guardian or adult responsible for them.

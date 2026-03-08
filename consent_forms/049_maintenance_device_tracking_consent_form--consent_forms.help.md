@@ -1,9 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for this form. The form is used for users to provide consent for tracking of maintenance devices. This form is likely used by administrators or managers to obtain consent for tracking device usage or maintenance activities. To check if this form is relevant, we need to see if it's being used by users who need to provide consent for tracking devices. We should avoid duplication of information by ensuring the guide is clear and concise.
-
-</thinking>
-
 # Maintenance Device Tracking Consent Form - Help Guide
 ## Purpose
 The Maintenance Device Tracking Consent Form is used to obtain consent from users for the tracking of maintenance devices. This form helps administrators or managers to record user consent for device tracking activities.

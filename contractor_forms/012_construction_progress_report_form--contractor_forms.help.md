@@ -1,9 +1,3 @@
-<thinking>
-
-The Construction Progress Report Form is designed to provide regular updates on the status of ongoing construction projects. It's essential to accurately report project progress to stakeholders and ensure that all necessary information is captured and communicated efficiently. Before filling out this form, please ensure that you have reviewed the project's current status and have any necessary information readily available. Please note that this form is not meant to be a duplicate of the project's original proposal or contract; rather, it's a snapshot of the project's current progress.
-
-</thinking>
-
 # Construction Progress Report Form - Help Guide
 ## Purpose
 The Construction Progress Report Form is a tool used to track and report on the current status of ongoing construction projects. It helps project stakeholders stay informed about the project's progress and any challenges or issues that may be affecting it.

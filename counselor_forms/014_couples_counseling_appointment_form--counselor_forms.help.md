@@ -1,11 +1,3 @@
-<thinking>
-
-To help create a user-facing help guide for this form, we need to understand its purpose and requirements. The form is designed for couples counseling appointments, aiming to capture essential information for the therapy sessions. We'll focus on fields that are crucial for the therapy process and client communication.
-
-After reviewing the provided YAML, it appears that the form is not redundant and has a clear structure for collecting client and session details. Each field is essential for the therapy process, and we'll cover them below.
-
-</thinking>
-
 # Couples Counseling Appointment Form - Help Guide
 
 ## Purpose

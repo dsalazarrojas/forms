@@ -1,11 +1,3 @@
-<thinking> 
-  **Form Purpose:** This form is designed to help employees certify their vaccination status, which may be required for workplace safety and compliance purposes. Before filling out this form, please ensure you have all necessary vaccination documentation and details ready. This form will not overwrite or affect any existing records; it's intended as a one-time submission for your self-certification.
-
-  **Relevance Check:** If you have already submitted a previous self-certification or have a valid exemption, please do not fill out this form. Submitting duplicate certifications may cause issues with your record-keeping and might lead to unnecessary administrative tasks.
-
-  **Non-Duplication Check:** This form is designed to prevent overwriting any existing vaccination records. Please do not attempt to resubmit a form with the same vaccination details as a previous submission.
-</thinking>
-
 # Self Certification Of Vaccination Status - Help Guide
 ## Purpose
 

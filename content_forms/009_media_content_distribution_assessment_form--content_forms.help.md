@@ -1,6 +1,3 @@
-<thinking>
-The Media Content Distribution Assessment Form is used to evaluate the media content distribution channels used in a media campaign, such as television, radio, print, digital, and online. This form will help assess the performance of these channels, including metrics like engagement, reach, frequency, cost, and more. To ensure accurate and comprehensive results, please make sure to fill out this form only once for each media campaign and do not duplicate your assessment. Each field is explained below.</thinking>
-
 # Media Content Distribution Assessment Form - Help Guide
 ## Purpose
 The Media Content Distribution Assessment Form is used to evaluate the media content distribution channels used in a media campaign. This includes assessing the performance of television, radio, print, digital, and online channels.

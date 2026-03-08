@@ -1,5 +1,3 @@
-<thinking>This form is intended for students, parents, or guardians to report any symptoms related to COVID-19 infection. The form asks for personal contact information, medical symptoms, and travel history to facilitate contact tracing, if necessary. To ensure accuracy, please answer the questions truthfully and provide all required information. This guide will walk you through each step of the process and help you fill out the form correctly.</thinking>
-
 # Student Daily Wellness Screening Form - Help Guide
 
 ## Purpose

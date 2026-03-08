@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in a contest or game, specifically the Letter Guess Game. The purpose of this form is to gather details about the participant's submission, including their contact information and confirmation of their entry. The form is used to verify the participant's submission and ensure that it meets the necessary criteria.
-
-To ensure that the form is used correctly, please note that:
-
-* Each participant can only submit one entry per contest.
-* If a participant has already submitted an entry, this form will not be available to them.
-
-</thinking>
-
 # Letter Guess Game Submission - Help Guide
 ## Purpose
 This form is used to collect information from participants in the Letter Guess Game contest.

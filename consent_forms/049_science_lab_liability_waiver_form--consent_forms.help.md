@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, I will create a user-facing help guide for the "Science Lab Liability Waiver Form" form, which is designed to collect participant information, waiver, safety acknowledgment, electronic signature, participant signature, parent signature (if applicable), school contact information, program contact information, and emergency contact information. The form aims to gather essential details and permissions from participants, parents, and emergency contacts to ensure a safe and responsible experience for all parties involved in the science lab activities.
-
-The form consists of several fields, including participant info, waiver, safety acknowledgment, electronic signature, participant signature, parent signature (if applicable), school contact information, program contact information, and emergency contact information. Some fields are required for all participants, while others are optional or only required for specific situations.
-
-To complete the form, users will need to provide accurate and detailed information for each field, taking care to follow the instructions and guidelines provided. I will aim to create a clear and concise help guide that walks users through the process and explains each field in an easy-to-understand manner.
-
-</thinking>
-
 # Science Lab Liability Waiver Form - Help Guide
 ## Purpose
 The Science Lab Liability Waiver Form is designed to collect essential information and permissions from participants and their guardians to ensure a safe and responsible experience for all parties involved in science lab activities.

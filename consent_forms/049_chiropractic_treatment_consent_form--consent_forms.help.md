@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to collect information from patients prior to receiving chiropractic treatment. The goal is to gather essential details about the patient's medical history, treatment description, and consent. The form should only be filled out once for each new patient and is a required document for all chiropractic consultations. Ensure that you are using this form for the intended purpose and not duplicating the process.
-
-</thinking>
-
 # Chiropractic Treatment Consent Form - Help Guide
 ## Purpose
 The Chiropractic Treatment Consent Form is a document used to collect essential information from patients before receiving chiropractic treatment. This form is a mandatory part of the consultation process and helps the chiropractor understand the patient's medical history and provide informed consent.

@@ -1,8 +1,3 @@
-<thinking>
-The "massage_consent_form" form is a user-facing form used to collect information about a client's massage preferences and consent for a massage therapy session. This form is typically used by healthcare professionals to understand a client's needs and preferences before providing treatment. The form asks for client information, massage type, length, area, pressure, frequency, duration, cost, payment method, and client signature.
-This form should only be used for its intended purpose and not for other use cases. Please ensure that you have read and understood the form's purpose and instructions before completing it.
-</thinking>
-
 # massage_consent_form - Help Guide
 ## Purpose
 The massage_consent_form is a user-facing form used to collect information about a client's massage preferences and consent for a massage therapy session.

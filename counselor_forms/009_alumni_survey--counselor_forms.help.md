@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form, "Alumni Survey," is to collect information about the experiences, perceptions, and opinions of alumni regarding their educational background, career development, satisfaction with their alma mater, and communication preferences. This form aims to gather data that can be used to improve the institution's services and programs for alumni and future students. 
-
-To ensure that your feedback is included in the data collection, please note that this form is only for those who have graduated from the institution. If you are not an alumnus and wish to participate, please contact us and we will verify your eligibility.
-
-Before filling out the form, ensure that you have all necessary information about your education and career ready. The form is divided into several sections to make it easier to provide information and feedback.
-
-</thinking>
-
 # Alumni Survey - Help Guide
 
 ## Purpose

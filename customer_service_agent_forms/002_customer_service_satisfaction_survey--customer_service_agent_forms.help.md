@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to be a customer service satisfaction survey to gather feedback from customers on their experience with the company's service. This is a standard form for all customers to fill in after interacting with the company's service. This is a one-time form, so each customer will only fill it out once.
-The purpose of this form is to measure customer satisfaction levels and identify areas for improvement in the company's service. This helps the company to understand what customers think about their interactions with the company and make data-driven decisions to enhance their service.
-This form will be used in conjunction with other customer service metrics to help the company continuously improve its service.
-</thinking>
-
 # Customer Service Satisfaction Survey - Help Guide
 ## Purpose
 This form aims to gather feedback from customers on their experience with the company's service.

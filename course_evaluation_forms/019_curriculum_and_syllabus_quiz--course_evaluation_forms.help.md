@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help instructors and staff evaluate the curriculum and syllabus of a course. It appears to be used to gather feedback and input on the structure, content, and effectiveness of a course's curriculum. This form likely serves as a means to collect quantitative data on student responses and qualitative data on instructor perceptions.
-Before proceeding, ensure that you have a clear understanding of the course's curriculum and syllabus and that you have the necessary authority to submit feedback or evaluations.
-This form might be part of a more extensive evaluation process that requires careful consideration of each section and question.
-</thinking>
-
 # Curriculum And Syllabus Quiz - Help Guide
 ## Purpose
 The Curriculum and Syllabus Quiz is designed to gather feedback and input on the structure, content, and effectiveness of a course's curriculum. The purpose of this form is to help instructors and staff evaluate and improve the curriculum.

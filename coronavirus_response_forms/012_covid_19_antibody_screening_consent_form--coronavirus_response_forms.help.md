@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect patient information, screening questions, and consent for a COVID-19 antibody test. The form is intended for patients who have been referred to a testing location and are required to provide consent for the test. The form will guide patients through a series of questions and prompts to ensure they understand the purpose of the test, the testing process, risks and benefits, and how their results will be kept confidential. The form will also capture patient information, including name, date of birth, ID, phone number, and email address. The form will also provide options for patients to choose how they would like to receive their test results and whether they consent to follow-up contact if needed. At the end of the form, the patient will be required to sign a digital signature to confirm they have read and understood the consent form.
-
-</thinking>
-
 # COVID 19 Antibody Screening Consent Form - Help Guide
 ## Purpose
 This form is intended for patients who have been referred to a testing location and are required to provide consent for a COVID-19 antibody test.

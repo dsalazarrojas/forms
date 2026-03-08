@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users who want to provide information and consent for use of the rental property's pool facilities. It is essential to ensure that the users understand what they are consenting to and that their emergency contact information is up-to-date. The form is divided into several sections, each addressing a specific topic related to pool usage. Please review the form carefully before proceeding to ensure that all required fields are filled out correctly.
-</thinking>
-
 # Pool Waiver For Rental Property - Help Guide
 ## Purpose
 This form is a consent form for users who wish to use the rental property's pool facilities. It is designed to collect essential information about the user, their emergency contact, and their pool usage habits.

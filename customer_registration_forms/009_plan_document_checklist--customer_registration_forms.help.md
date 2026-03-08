@@ -1,14 +1,3 @@
-<thinking>
-To ensure the form's purpose and relevance are understood, I'll briefly explain why this form is important and check for potential duplication:
-
-This form, "plan_document_checklist," is a crucial tool for gathering essential information about plans and customers. It appears to be a comprehensive form with various fields covering different aspects of plans, such as customer details, plan status, and dates. The form seems to be designed for administrators or staff to collect and manage customer data. To confirm this, I will review the fields and provide explanations to help end-users understand its purpose and usage.
-
-Upon reviewing the form, I notice that it contains fields for customer registration, plan details, and dates. The "First Name," "Last Name," "Email," "Phone," "Plan ID," "Plan Type," "Plan Duration," "Plan Status," and "Assigned Tool" fields are likely used to identify and categorize customers and their plans. The dates fields ("Date of Birth," "Plan Start Date," "Plan End Date," "Plan Duration," and "Deleted At") might be used to track plan timelines and durations. The "Customer Name," "Plan Status," and "Assigned Tool" fields might be used to manage plan assignments and progress.
-
-The form's structure and content suggest that it is intended for internal staff use, possibly for customer relationship management (CRM) or project management. However, I'll continue to review each field for more specific explanations.
-
-</thinking>
-
 # plan_document_checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting consent from end-users to monitor their smart plugs. It's meant to be used when a user wants to opt-out of monitoring, and it's used to ensure that the user is aware of what data will be collected and how it will be used. The form is also for internal purposes, to ensure that the company is collecting consent for monitoring and data collection in accordance with regulations and standards. The form shouldn't be filled out if the user has already submitted one in the past, please do not submit this form if you've already provided consent.
-</thinking>
-
 # Smart Plug Monitoring Consent Form - Help Guide
 ## Purpose
 The Smart Plug Monitoring Consent Form is used to collect consent from end-users to monitor their smart plugs. It's a necessary step to ensure that users are aware of what data will be collected and how it will be used.

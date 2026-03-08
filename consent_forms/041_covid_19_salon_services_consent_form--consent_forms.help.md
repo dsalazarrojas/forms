@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 Salon Services Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information about your personal and health details, as well as the purpose of your salon visit, in order to ensure a safe and healthy experience for both you and our employees. Please fill out this form carefully and honestly to help us provide the best possible service.

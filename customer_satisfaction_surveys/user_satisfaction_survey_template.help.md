@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on their overall satisfaction with their role and workplace experience. The purpose of this form is to gather honest and constructive feedback that can help the organization identify areas of improvement and enhance employee satisfaction. Before starting, please ensure that this form is not a duplicate and that the feedback is not already being collected through other channels.
-
-This form is an original adaptation of a publicly available survey template, and its content is not affiliated with or endorsed by any specific form platform.
-
-</thinking>
-
 # user_satisfaction_survey_template - Help Guide
 ## Purpose
 The user satisfaction survey template is designed to gather feedback from employees on their overall satisfaction with their role and workplace experience. This feedback will help the organization identify areas of improvement and make necessary changes to enhance employee satisfaction.

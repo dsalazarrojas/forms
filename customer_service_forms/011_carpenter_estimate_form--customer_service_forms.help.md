@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Carpenter Estimate Form", we must first consider the purpose of this form. This form is designed to gather information from customers about their carpentry project, including details about the project, customer contact information, project preferences, and other relevant details. This form aims to provide a structured and organized way for customers to provide information that will aid the carpenter in providing an accurate estimate for the project.
-
-The form has a mix of required and optional fields, which indicates that some information is essential for the carpenter to provide a proper estimate, while other fields are secondary or informational. For example, the "Customer Information" and "Project Description" fields are required, indicating that they are essential for the carpenter to understand the project scope. On the other hand, "Wood Type Preference" and "Finish Preference" are optional, indicating that these details are not critical for the estimate but rather provide additional context.
-
-The form includes a variety of field types, including text, email, phone, date, select_one (e.g., "Yes" or "No" type of questions), and "select_one" with options. This mix of field types suggests that the form is designed to collect a range of information from customers, from contact details to project specifics and preferences.
-
-Considering the form's purpose and field types, we can now create a user-facing help guide that explains each field and its purpose.</thinking>
-
 # Carpenter Estimate Form - Help Guide
 ## Purpose
 The Carpenter Estimate Form is a tool designed to gather information from customers about their carpentry project. This form helps the carpenter to provide an accurate estimate for the project by collecting essential details about the project, customer contact information, and project preferences.

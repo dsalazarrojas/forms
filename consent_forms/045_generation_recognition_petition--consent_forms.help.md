@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information for a Generation Recognition Petition, which is a formal document used to demonstrate public acknowledgment and support for a particular cause or issue. 
-Before starting this form, ensure that you are not already signed up or have not already submitted a similar form. This will ensure that your submission is not duplicated and that your response is counted accurately.
-Please note that all fields marked as "required" are necessary for processing your submission, so make sure to fill them out as requested.
-</thinking>
-
 # Generation Recognition Petition - Help Guide
 ## Purpose
 The Generation Recognition Petition is a formal document used to demonstrate public acknowledgment and support for a particular cause or issue. It is a crucial tool for gathering endorsements and testimonials from supporters. By completing this form, you will be able to provide your name, email, phone number, and comments in support of the cause.

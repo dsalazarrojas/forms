@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients or clients undergoing cryotherapy facial treatments. The form is used to gather consent for the treatment, medical history, and contact details. It is essential to fill out this form carefully and accurately to ensure that the treatment can proceed without any issues.
-
-Before proceeding, please make sure this form is not a duplicate of another form or not a relevant form for your needs.
-
-</thinking>
-
 # Cryotherapy Facial Consent Form - Help Guide
 ## Purpose
 The Cryotherapy Facial Consent Form is a document that collects essential information from patients or clients before undergoing a cryotherapy facial treatment. It is used to obtain consent for the treatment, gather medical history, and gather contact details.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used for users to submit their funny content, such as jokes, stories, pictures, or videos. To ensure that the form submissions are useful and relevant, we have a few guidelines:
-- Only submit content that is actually funny and relevant to the audience.
-- Do not duplicate submissions, especially if they are identical or very similar to existing content.
-- Be mindful of the content type you choose, as it will affect how it is displayed and used on the platform.
-</thinking>
-
 # Funniest Content Submission Form - Help Guide
 ## Purpose
 The Funniest Content Submission Form is designed for users to share their humorous creations, such as jokes, stories, or videos. The form is meant to be a fun and engaging way to showcase user-generated content on the platform.

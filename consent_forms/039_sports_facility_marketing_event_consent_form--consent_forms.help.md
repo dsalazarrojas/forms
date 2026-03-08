@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect consent from participants and emergency contacts for sports facility marketing events. The purpose of this form is to obtain necessary contact information and consent from individuals involved in the event, ensuring that they are aware of and agree to the terms and conditions of the event, including data collection and usage. This form should only be used for events hosted by sports facilities and not for other purposes. Please ensure that the form is completed accurately and honestly, and that all required fields are filled in. If a participant or emergency contact is a minor, please note that a parent or guardian must sign this form.
-</thinking>
-
 # Sports Facility Marketing Event Consent Form - Help Guide
 ## Purpose
 

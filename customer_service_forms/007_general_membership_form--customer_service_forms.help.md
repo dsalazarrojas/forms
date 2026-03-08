@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect general membership information from customers. The form consists of several sections, each focusing on different aspects of membership details. This guide will cover each field and provide explanations to help users complete the form accurately and efficiently.
-
-To ensure the form's purpose and relevance, we will consider the following:
-
-* The form is used to gather information about customer membership, including payment methods and frequency.
-* The form has a mix of required and optional fields, indicating that some information is essential while others are supplementary.
-
-Please note that some fields may not be explicitly stated in the provided YAML, so the explanations below are based on best-effort interpretation.
-
-</thinking>
-
 # General Membership Form - Help Guide
 ## Purpose
 The General Membership Form is used to collect membership details from customers, including payment information and membership status.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users who want to participate in the Culinary Bake Off Tournament. This form will help us to understand the user's preferences, entry category, and other necessary details for the competition. 
-
-Before proceeding, make sure you have read and understood the **Terms and Conditions**. This form is not designed for multiple submissions. Each user can only submit one entry per category per round.
-
-</thinking>
-
 # Culinary Bake Off Tournament Entry Form - Help Guide
 ## Purpose
 The Culinary Bake Off Tournament Entry Form is designed to collect information from users who want to participate in the Culinary Bake Off Tournament. It is essential to fill out this form accurately to ensure that your entry is eligible for the competition.

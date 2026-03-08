@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect patient contact information and consent for future medical contacts. It is intended for use in medical settings where patients may need to provide contact information and authorization for emergency contacts. The form is part of a larger system for managing patient data and consent, and its purpose is to ensure that patients have a clear understanding of how their information will be used and shared.
-Before proceeding, ensure that this form has not already been completed by the patient, either on this system or through other means. If this form has already been completed, there is no need to repeat the process.
-</thinking>
-
 # future_medical_contact_consent_form - Help Guide
 ## Purpose
 This form is designed to collect patient contact information and consent for future medical contacts. It is used to ensure that patients have a clear understanding of how their information will be used and shared in the event of medical emergencies or other situations requiring contact.

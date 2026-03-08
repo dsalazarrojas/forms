@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request article submissions from editors, collecting information for internal review and evaluation. The form is likely used by editors to propose new article ideas, submit existing articles for review, or request feedback on their work. This form should only be used by authorized personnel, as it is not intended for public submission.
-</thinking>
-
 # Editor Article Submission Request - Help Guide
 
 ## Purpose

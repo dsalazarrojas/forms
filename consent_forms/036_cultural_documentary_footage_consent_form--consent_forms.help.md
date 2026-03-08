@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "Cultural Documentary Footage Consent Form". To confirm its relevance, it is crucial to ensure that the form is being used for a legitimate purpose and not for duplicate or redundant tasks. The form is designed to gather crucial information from participants regarding their cultural documentary footage. This information includes their personal details such as name, email, contact number, and date of birth. Additionally, the form requires participants to provide a description of the footage they have consented to, as well as the location of the footage, if applicable. The release form field allows participants to select their preferred release option - whether they want the footage to be signed and returned or signed but not returned. The "Signed by" field is not explicitly required, implying that it might be optional. It is essential to use the form correctly to avoid any miscommunication or misinterpretation.
-</thinking>
-
 # Cultural Documentary Footage Consent Form - Help Guide
 ## Purpose
 The Cultural Documentary Footage Consent Form is designed to obtain participant consent for cultural documentary footage. It is essential for participants to understand the form's purpose and content to ensure accurate and respectful completion.

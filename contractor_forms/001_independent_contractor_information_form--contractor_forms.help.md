@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Independent Contractor Information Form is used to collect details of independent contractors who have been hired for a specific project. This form is meant to be completed by the contractor themselves, and its purpose is to gather information that will be used for payment and communication purposes.
 
 Before starting, please ensure that you have not completed this form for the same contractor in the past. This will help prevent duplicated entries and ensure accurate tracking of contractor information.

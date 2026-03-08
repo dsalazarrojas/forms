@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from users regarding their preferences for a modular home design. The form is designed to be a simple and intuitive way to collect input on various aspects of the home, including exterior and interior color schemes, finishes, and features such as windows and roof types. The form is not a required field for all users, as indicated by the "required: false" field in the YAML input schema. However, it is intended to provide valuable information for the designers and builders to create a personalized and efficient home design that meets the user's needs and preferences. It is assumed that the user has some knowledge of the different design options available but the form will help to guide them through the decision-making process.
-</thinking>
-
 # Modular Home Design Selections - Help Guide
 ## Purpose
 This form is used to gather your preferences for a modular home design. Your input will help our designers and builders create a customized home that meets your needs and expectations.

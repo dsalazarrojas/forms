@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants in order to display a preview of a release. The purpose of this form is to collect participant details and preferences before displaying a preview of the release. This form will be used by authorized personnel to review and confirm participant details before releasing information to the public. To avoid confusion, please ensure that you only complete this form once for each participant.
-</thinking>
-
 # Show Preview Release Form - Help Guide
 
 ## Purpose

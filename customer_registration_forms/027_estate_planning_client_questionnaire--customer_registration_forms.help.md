@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to support estate planning clients in filling out a comprehensive questionnaire. The form is designed to gather relevant information about the client's estate planning needs, financial situation, and goals. It is essential to ensure that the client understands the form's purpose and provides accurate and complete information to enable informed decisions.
-
-When creating this form, we aimed to minimize duplication and redundancy while gathering necessary information to facilitate estate planning. This guide will walk you through each field, explaining its purpose and requirements, making it easier for clients to complete the form accurately and efficiently.
-
-</thinking>
-
 # estate_planning_client_questionnaire - Help Guide
 ## Purpose
 The Estate Planning Client Questionnaire is a comprehensive form designed to gather essential information about your estate planning needs, financial situation, and goals. This information will help your financial advisor or planner understand your requirements and provide tailored guidance and recommendations.

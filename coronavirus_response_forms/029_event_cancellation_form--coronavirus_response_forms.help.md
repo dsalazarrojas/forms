@@ -1,5 +1,3 @@
-<thinking>...The form is used for canceling events. It's essential to fill out all required fields accurately to ensure the cancellation process is initiated correctly. Please fill out this form only if your event has been officially cancelled. If your event is not cancelled, you can use our <insert other form link here> for other purposes...</thinking>
-
 # Event Cancellation Form - Help Guide
 ## Purpose
 This form is for event attendees to request cancellation of an event, which will prompt the event organiser to process the request.

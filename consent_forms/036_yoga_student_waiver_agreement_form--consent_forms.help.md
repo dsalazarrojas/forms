@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from yoga students to obtain their waiver and agreement on their participation in a yoga program. The form is essential for the studio to ensure that students are aware of their medical conditions and emergency contact information. The fields in this form will help the studio to understand student's health risks and ensure that they are properly taken care of.
-
-The form should not be used for other purposes than what it's intended for. Please ensure that you are using the correct form for its original purpose and not duplicating it for other use cases. This form is released under CC BY 4.0, and you are free to use, modify, and even sell it. However, please give credit to the original author.
-</thinking>
-
 # yoga_student_waiver_agreement_form - Help Guide
 ## Purpose
 This form is designed to collect information from yoga students to obtain their waiver and agreement on their participation in a yoga program. The studio needs this information to ensure that students are aware of their medical conditions and emergency contact information.

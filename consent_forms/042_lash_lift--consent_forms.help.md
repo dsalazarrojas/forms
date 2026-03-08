@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect information from clients regarding their Lash Lift appointment. It should only be used for new clients. Please ensure that you haven't already collected this information from the client in the past to avoid duplication.</thinking>
-
 # Lash Lift - Help Guide
 ## Purpose
 The Lash Lift form is used to collect information from clients regarding their Lash Lift appointment. This includes their first and last name, email, phone number, birth date, lash lift description, consent, and lash tint description.

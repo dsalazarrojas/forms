@@ -1,24 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I understand that the purpose of this form is to gather information for a tutor request, which is likely for a course or lesson. This form is designed for users to provide details about themselves and their needs, including their input, request, preferred subjects, and contact information. The form also collects information about a student, including their name, email, phone, and other relevant details. The purpose of this form is to provide a structured way for users to communicate their needs and preferences to potential tutors.
-
-To complete this form, follow these steps:
-
-1. Fill out the required fields, marked with an asterisk \*.
-2. For the "User Request" field, enter a brief description of your needs or preferences.
-3. In the "Subjects" field, select the subjects you are interested in or need help with.
-4. Enter your preferred contact method in the "Contact Preference" field.
-5. Select a time and date for the tutor session.
-6. Enter your preferred location for the tutor session.
-7. In the "Tutor Preference" field, select the subjects you prefer the tutor to specialize in.
-8. In the "Other Tutor Preference" field, enter any other relevant details about your preferences.
-9. Enter the student's name, email, phone number, and other relevant details.
-10. Enter the course code and other relevant details.
-
-Please note that this form is intended for tutors to gather information about students who are looking for help, and the fields are designed to capture necessary details for effective communication.
-
-</thinking>
-
 # Tutor Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from students about their needs and preferences for a tutor request.

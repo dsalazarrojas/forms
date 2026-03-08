@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a critical section for internal reasoning and relevance checks.
 
 The Wedding Consultation Form is a vital tool for capturing vital information about the wedding event. This form helps couples to outline their preferences, budget, and expectations for their special day. It is essential to complete this form accurately to ensure that our wedding planning services meet their needs and provide a tailored experience.

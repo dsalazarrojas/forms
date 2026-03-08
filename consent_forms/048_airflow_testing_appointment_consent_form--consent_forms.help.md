@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect patient information and consent for a testing appointment. The purpose of this form is to gather relevant medical history, contact information, and consent for the testing procedure. Before completing this form, it is essential to ensure that the patient has provided informed consent for the testing, and that all necessary medical history and contact information have been collected.
-
-Please note that this form is used for internal purposes within the organization, and it's essential to ensure that the patient's data is handled and stored securely.
-
-Before proceeding with the form, ensure that you have not already completed this form for the same patient, and that you have not already received their consent for the testing procedure.
-</thinking>
-
 # Airflow Testing Appointment Consent Form - Help Guide
 ## Purpose
 The Airflow Testing Appointment Consent Form is used to collect patient information and consent for testing appointments. This form is essential for ensuring that all necessary medical history, contact information, and consent for the testing procedure are collected before proceeding with the test.

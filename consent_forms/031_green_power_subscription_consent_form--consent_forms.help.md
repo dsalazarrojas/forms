@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain a customer's consent for the green power subscription. This form is designed to collect the customer's contact information and their agreement to the terms and conditions of the service. It is not a required form, as customers can decline to provide the required information if they do not wish to subscribe to the service. Please note that this form is meant to be completed by customers who have been offered a subscription to the green power service.
-</thinking>
-
 # green_power_subscription_consent_form - Help Guide
 ## Purpose
 This form is used to obtain a customer's consent for the green power subscription.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect patient contact information and emergency contact information, which will help healthcare providers to reach out to patients and their emergency contacts in case of any issues or concerns. This form will help ensure that the patients' needs are met and that they receive proper medical attention when required. It is essential to fill this form accurately and completely to provide the necessary contact information.
-
-</thinking>
-
 # Patient Experience Interview Consent Form - Help Guide
 
 ## Purpose

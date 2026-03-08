@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain consent from property owners or administrators for the sharing of their property information, such as contact details. The purpose of this form is to ensure that the property owner or administrator is aware of and agrees to the sharing of their property's information with third parties, typically for marketing or promotional purposes. This form is used to collect the owner's or administrator's consent to share their property's details, including their name, phone number, and email address. The form may be used by property management companies, real estate agencies, or other organizations that handle property-related activities.
-
-Before using this form, please make sure you have not already collected the necessary consent from the property owner or administrator. This form is only meant to be used for new properties or when there are changes to be made to the sharing settings. 
-</thinking>
-
 # property_sharing_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from property owners or administrators for the sharing of their property information, such as contact details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from a client for hair foiling and retouching procedures. The form is designed to ensure that the client understands the risks and benefits associated with these procedures and provides a record of their approval.
-</thinking>
-
 # Hair Foiling Highlight Retouch Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients about their hair foiling and retouching procedures. This form is used to ensure that clients understand the risks and benefits associated with these procedures and provide a record of their approval.

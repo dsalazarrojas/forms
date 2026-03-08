@@ -1,8 +1,3 @@
-<thinking>
-The Mobile Email Consent Form is part of our system to ensure that users have a clear understanding of how their email will be used and shared with the team. This form is used to collect information about the user's email preferences and their consent to be contacted by the team. The form will be stored in our system and used to tailor our communication efforts to the user's needs and preferences. Please review the form carefully and provide accurate information to ensure that we can communicate with you effectively.
-
-</thinking>
-
 # Mobile Email Consent Form - Help Guide
 ## Purpose
 The Mobile Email Consent Form is used to collect information about your email preferences and your consent to be contacted by the team.

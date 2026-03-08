@@ -1,39 +1,3 @@
-<thinking>
-This form is designed to capture essential information for a counseling contract between a client and a therapist. The form collects contact details, schedule, and other relevant information to ensure a smooth and effective counseling process. It also includes sections for signatures, payment terms, and cancellation policies to establish clear expectations and responsibilities. 
-
-This form does not duplicate or copy content from any other platform; it is an original adaptation created by AI using public survey topic metadata as inspiration. 
-
-The form is divided into sections to accommodate the following fields:
-
-* User Name: The user's name and identifying information.
-* Contact Method: The method by which the client will contact the therapist (e.g., Mobile, Email, Phone, or In Person).
-* Contact Information: Additional contact information for the therapist or organization.
-* Therapist Name: The name of the assigned therapist.
-* Start Date: The date when the counseling sessions will commence.
-* End Date: The date when the counseling contract will conclude.
-* Schedule: The schedule of the therapy sessions.
-* Location: The location of the therapy sessions (optional).
-* Frequency: The frequency of the sessions (optional).
-* Comments: Any comments or notes about the sessions (optional).
-* Signature: A space for the client to sign the contract.
-* Client Signature: A space for the therapist to sign the contract.
-* Terms and Conditions: A text box for the terms and conditions of the contract.
-* Contact Person: Additional contact information for the client or organization (optional).
-* Contact Info: Additional contact information for the client or organization (optional).
-* Contact Method: The method by which the client will contact the therapist (optional).
-* Notes: Any additional notes or comments (optional).
-* Additional Comments: Additional comments or notes (optional).
-* Payment Info: Information about payment terms (optional).
-* Cancellation Info: Information about cancellation policies (optional).
-* Payment Terms: Terms related to payment (optional).
-* Cancellation Terms: Terms related to cancellation (optional).
-* Contract End Date: The end date of the contract.
-* Contract Duration: The duration of the contract.
-
-Please note that some fields are optional, and clients are not required to fill them in. 
-
-</thinking>
-
 # Counseling Contract Form Template - Help Guide
 ## Purpose
 The purpose of this form is to capture essential information for a counseling contract between a client and a therapist.

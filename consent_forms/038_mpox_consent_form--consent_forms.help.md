@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture patient information for vaccination and treatment consent. It's essential to complete this form accurately to ensure that patients' rights are respected and their records are up-to-date. Before proceeding, please check that you have not completed this form previously to avoid duplicating efforts. Ensure you are in the correct context when filling out this form.
-</thinking>
-
 # Mpox Consent Form - Help Guide
 ## Purpose
 The Mpox Consent Form is designed to collect essential information from patients for vaccination and treatment consent. This form helps healthcare professionals understand a patient's preferences and requirements for medical procedures.

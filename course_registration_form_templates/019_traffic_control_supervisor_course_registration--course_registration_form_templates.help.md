@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals registering for a traffic control supervisor course. The form has four pages with text fields where participants can input their details. 
-
-This form does not require any specific information, making it a general data collection template.
-
-</thinking>
-
 # traffic_control_supervisor_course_registration - Help Guide
 ## Purpose
 This form is designed to collect participant information, work experience, course sessions, and contact details from individuals registering for a traffic control supervisor course.

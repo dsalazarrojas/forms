@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is meant to collect information about a supplier for our organization. It seems there might be a need for suppliers of different types, such as General, Reseller, Distributor, Service Provider, or Manufacturer. The form will be used to record supplier details, contact information, and contract terms. This form is designed to be filled out by the supplier themselves or their representative.
 
 </thinking>

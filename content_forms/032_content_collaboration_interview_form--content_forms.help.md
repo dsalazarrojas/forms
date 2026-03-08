@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information and ratings from a content collaboration interview, including candidate details, interview insights, collaboration skills, content creation expertise, adaptability, and evaluator recommendations. It is intended to help assess a candidate's fit for a content collaboration role. Please note that this form is not a template and can be adapted or extended based on specific business needs. If you are reusing this form for a different purpose, please ensure that the fields and options are relevant and accurate for your use case.
-</thinking>
-
 # Content Collaboration Interview Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from clients, providing a structured format for capturing essential details such as contact and job specifics. It appears to be used by a company or service provider to document client information, job specifics, and payment terms. The form likely serves as a template for standardized data collection and documentation, reducing potential errors and increasing efficiency.</thinking>
-
 # House Of Colours Consent Form - Help Guide
 ## Purpose
 

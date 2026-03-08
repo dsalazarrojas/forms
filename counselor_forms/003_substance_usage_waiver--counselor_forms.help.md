@@ -1,12 +1,3 @@
-<thinking>
-This help guide aims to inform users about the purpose and requirements of the "Substance Usage Waiver" form. The form is intended for individuals who are seeking certain privileges or services that may be affected by their past or current substance usage. It serves as a means to acknowledge and disclose information about the individual's substance usage.
-
-When a user completes this form, they will be asked to provide information about their substance usage, emergency contact details, and any medical conditions they may have. This data will be used to assess their suitability for certain privileges or services. 
-
-The form should not be used for other purposes, such as for medical diagnosis or treatment, and should only be used in conjunction with professional medical advice.
-
-</thinking>
-
 # Substance Usage Waiver - Help Guide
 ## Purpose
 The "Substance Usage Waiver" form is a tool for individuals to disclose their past or current substance usage. This information will be used to assess their suitability for certain privileges or services.

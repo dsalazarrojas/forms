@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Unsubscribe Form - Help Guide
 
 ## Purpose

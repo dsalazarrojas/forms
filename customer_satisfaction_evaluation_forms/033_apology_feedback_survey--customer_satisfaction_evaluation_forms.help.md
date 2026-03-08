@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers who have experienced an incident that warranted an apology from your organization. This form is meant to help understand how effectively the apology process was handled, whether the customer was satisfied with the resolution, and what actions can be taken to prevent similar incidents in the future.
-
-By using this form, we aim to:
-
-* Gather data on the timeliness and sincerity of the apology
-* Assess the resolution offered to the customer
-* Identify areas for improvement in our communication and customer service processes
-
-Before filling out this form, please note that all questions are optional, and you can choose to answer as many or as few as you feel comfortable. Your input will help us improve our services and build trust with our customers.
-
-</thinking>
-
 # Apology Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with our apology process. We want to hear about your experience and use this information to improve our services.

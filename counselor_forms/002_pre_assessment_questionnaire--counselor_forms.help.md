@@ -1,5 +1,3 @@
-<thinking>Before designing this form, I need to understand its purpose and ensure that it's not duplicating any other form. The form seems to be a comprehensive assessment questionnaire for language learners or students. It aims to gather information about the individual's background, medical history, language skills, and learning preferences. From my analysis, I don't see any duplication or redundancy in the fields, but a few fields might be considered optional or less critical. I'll make sure to clearly explain the purpose and each field to the end-user. Please provide any additional context or clarification if needed.</thinking>
-
 # pre-assessment-questionnaire - Help Guide
 ## Purpose
 The pre-assessment-questionnaire is a comprehensive form designed to gather essential information from language learners or students. This form helps us understand your background, language skills, and learning preferences to provide a tailored learning experience. Please take a few minutes to complete this form, and we'll use the information provided to assess your current level and create a personalized plan for your language development.

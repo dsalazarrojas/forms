@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals about their health status related to COVID-19. It is intended for general guidance and not for medical diagnosis. The purpose of this form is to provide a systematic way to gather data about symptoms associated with COVID-19, which can help in tracking and understanding the spread of the virus. Please note that this form is not a substitute for professional medical advice. If you are experiencing severe symptoms, please contact a healthcare professional.
-
-This form is a part of the "coronavirus_response_forms" category and has been generated using AI to ensure it is free from any affiliation, endorsement, or derivation from any form platform. It is released under CC BY 4.0 and can be used, modified, and even sold with proper credit given.
-
-Before completing this form, ensure you have not already submitted it, to avoid duplication of data.</thinking>
-
 # health_questionnaire_for_covid_19 - Help Guide
 ## Purpose
 This form is designed to collect information from individuals about their health status related to COVID-19 for general guidance and data tracking purposes. Please note that this form is not a substitute for professional medical advice.

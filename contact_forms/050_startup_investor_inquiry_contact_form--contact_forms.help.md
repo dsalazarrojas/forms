@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Startup Investor Inquiry Contact Form - Help Guide
 
 ## Purpose

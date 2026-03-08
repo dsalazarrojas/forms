@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to capture information about the guidelines and policies related to the responsible use of technology within an organization. This form aims to collect and track updates, revisions, and review history for the guidelines, ensuring that all stakeholders have access to up-to-date information. This form will help in maintaining a record of the last reviewed date, time, and user who reviewed it, and also track the status of the reviewed items. 
-This form appears to be a template for a larger system that handles multiple technology guidelines, and it may be part of a larger workflow or process.
-
-Before proceeding, ensure that you have the necessary permissions to access and update this form. If you are unsure, please consult with your supervisor or the relevant department.
-</thinking>
-
 # Technology Responsible Use Guideline - Help Guide
 ## Purpose
 The Technology Responsible Use Guideline form is designed to capture and track information about the guidelines and policies related to the responsible use of technology within an organization. This form helps in maintaining a record of updates, revisions, and review history.

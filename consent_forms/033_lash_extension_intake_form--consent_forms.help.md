@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for lash extension services. It's crucial to ensure that the client understands and consents to the services provided. The form helps to capture client contact information, appointment details, and specific preferences for their lash extensions. The client's consent is recorded, and the technician's notes are documented to provide a clear understanding of the service provided.
-</thinking>
-
 # Lash Extension Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from clients for lash extension services, including contact details, appointment scheduling, and specific preferences for their lash extensions.

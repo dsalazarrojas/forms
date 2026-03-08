@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to collect information from customers about their order requests for Color Street nail strips. It appears to be used to fulfill customer inquiries for Color Street products, likely for a retail or customer service purpose. The form likely aims to streamline the process for customers to submit their orders, while also allowing customers to specify their preferences for shipping and any gift messages. There is an internal note that this form is part of the "customer_service_forms" category, suggesting that it is a tool used to interact with customers and address their requests.
-
-The form is structured into several sections: customer information, order details, and shipping information. This separation allows the customer to easily navigate and fill out the form.
-
-Upon reviewing the form fields, it is clear that the form requires customers to provide their name, email, phone number, and shipping address, which are all standard contact information typically required for order fulfillment. The form also asks customers to specify their order details, such as the collection, favorite shades, and quantity requested. Additionally, the form includes fields for specific shade preferences, gift messages, and special requests.
-
-The form's fields and sections appear to be well-structured and logical for the intended purpose, but some fields could benefit from more descriptive labels or hints to clarify their intended use.
-
-</thinking>
-
 # Color Street Order Request - Help Guide
 ## Purpose
 The Color Street Order Request form is a tool used to collect information from customers for order fulfillment and customer service purposes.

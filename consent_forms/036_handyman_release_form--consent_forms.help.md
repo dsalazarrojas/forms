@@ -1,9 +1,3 @@
-<thinking>
-The Handyman Release Form is used to document and formalize the process of releasing a handyman's work or services. This form is designed to be completed by either the handyman or their representative, and it helps to ensure that all necessary information is collected and stored correctly.
-
-Before filling out this form, please note that this is an original form created by AI using public metadata as inspiration, and it's not affiliated with any form platform. You're free to use, modify, and even sell the form, as long as you give credit.
-</thinking>
-
 # Handyman Release Form - Help Guide
 ## Purpose
 The purpose of this Handyman Release Form is to document the details of the services provided by a handyman, including the date, time, location, and description of the service. This form helps to ensure that all parties involved in the transaction are aware of the terms and conditions of the release.

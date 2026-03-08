@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Care Authorization Form - Help Guide
 
 ## Purpose

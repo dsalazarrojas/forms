@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect customer feedback on the remediation services provided by the company. The purpose of this form is to gauge the customer's overall satisfaction with the services received and identify areas for improvement. This form is not intended to be completed by customers who are not satisfied with their experience, but rather by those who have received the services and are willing to provide their feedback.
 
 Please note that this form is meant to be completed by customers who have actually received the services, and it is not a duplication of other forms used for other purposes.

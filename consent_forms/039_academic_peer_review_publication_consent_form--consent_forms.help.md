@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain consent from peer reviewers for the inclusion of their reviews or excerpts in academic publications. Peer reviewers are asked to provide their name, contact email, and consent to publish their review. They may also choose to anonymize their review and indicate any restrictions on its use. Additionally, they must sign their full name to confirm their agreement. This form ensures that reviewers understand how their contributions will be used and ensures compliance with relevant policies and regulations.
-</thinking>
-
 # Academic Peer Review Publication Consent Form - Help Guide
 ## Purpose
 

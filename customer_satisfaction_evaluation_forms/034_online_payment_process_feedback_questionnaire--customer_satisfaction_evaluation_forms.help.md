@@ -1,7 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Online Payment Process Feedback Questionnaire", I will follow the instructions and provide a comprehensive guide for end-users to understand the purpose, completion process, and field explanations.
-</thinking>
-
 # Online Payment Process Feedback Questionnaire - Help Guide
 
 ## Purpose

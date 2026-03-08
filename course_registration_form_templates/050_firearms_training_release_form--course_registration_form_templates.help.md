@@ -1,7 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "Firearms Training Release Form", I will analyze the provided YAML input and provide a detailed explanation of each field. I will also include a brief internal reasoning block to highlight the form's purpose and check for relevance and non-duplication.
-</thinking>
-
 # Firearms Training Release Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain a participant's release and consent for firearms training, which can include training, certification, or qualification programs. This form ensures that participants understand their responsibilities and liabilities before participating in the training, and it serves as a record of their release.

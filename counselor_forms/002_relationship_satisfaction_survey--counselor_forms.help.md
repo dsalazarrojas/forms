@@ -1,7 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Relationship Satisfaction Survey" form. This form is designed to help individuals gauge their satisfaction with their romantic relationship. The purpose of this form is to collect data on various aspects of the relationship, such as overall sense of the relationship, valued qualities, and specific aspects like communication, support, and conflicts. This form is not a diagnostic tool, but rather a self-assessment instrument to help individuals better understand their relationship dynamics. It's essential to complete this form honestly, as the data will help improve understanding and communication within the relationship.
-</thinking>
-
 # Relationship Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to help you assess your satisfaction with your romantic relationship. It's a self-assessment tool to help you better understand your relationship dynamics and identify areas for improvement.

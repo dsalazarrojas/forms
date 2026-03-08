@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Psychotropic Medication Consent Form Template - Help Guide
 ## Purpose
 This form is used to obtain consent from patients for the use of psychotropic medication. It is essential to understand the form's purpose and its implications on the patient's well-being and treatment. Please ensure that this form is only used for patients who are eligible to receive psychotropic medication.

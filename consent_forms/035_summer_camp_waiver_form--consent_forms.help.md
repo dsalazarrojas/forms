@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # summer_camp_waiver_form - Help Guide
 ## Purpose
 The Summer Camp Waiver Form is a document that parents or guardians must sign before their child can participate in our summer camp programs. It's a standard form that provides necessary information about the parent and child and is used for administrative purposes. 

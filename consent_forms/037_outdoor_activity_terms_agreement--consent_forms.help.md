@@ -1,9 +1,3 @@
-<thinking>
-This help guide will assist end users in completing the "Outdoor Activity Terms Agreement" form, ensuring they understand its purpose, required information, and field-by-field explanations.
-The form's primary purpose is to collect essential data for outdoor activities, including participant consent, emergency contact information, and terms and conditions. Completing this form correctly will aid in providing a safe and enjoyable experience for all participants.
-To prevent duplication and ensure relevance, the form is designed to cater to specific types of outdoor activities. Please review each field carefully to determine the correct answers for your unique situation.
-</thinking>
-
 # Outdoor Activity Terms Agreement - Help Guide
 ## Purpose
 This form is designed to collect essential data for outdoor activities. Please review each field carefully to ensure you provide accurate and relevant information for the activity you are participating in.

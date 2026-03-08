@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **COVID 19 Exposure Agreement Form - Help Guide**
 =============================================
 

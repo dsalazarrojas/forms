@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Dental Anesthetic Consent Form - Help Guide
 
 ## Purpose

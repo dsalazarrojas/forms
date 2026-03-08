@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for conducting hazard assessments on Personal Protective Equipment (PPE). As a form, it's meant to be filled out by employees or individuals who need to evaluate potential hazards in their workplace or environment. The purpose of this form is to gather information about the hazards that exist, their severity, and any control measures taken or recommended to mitigate them. This form is likely to be used by safety professionals, supervisors, or management in industries such as construction, manufacturing, or healthcare. The form is not affiliated with any specific form platform and was generated using AI-powered form generation, following the public topic metadata of survey and form-related categories.
-
-Before using this form, please ensure that the information is relevant to your specific use case and industry. If you're unsure about any aspect of the form, please reach out to form@gic.mx for further clarification or support.
-
-</thinking>
-
 # PPE Hazard Assessment Form - Help Guide
 ## Purpose
 The PPE Hazard Assessment Form is designed to identify and assess potential hazards related to Personal Protective Equipment (PPE) in the workplace or environment. This form helps gather information on hazards, their severity, and control measures to mitigate them.

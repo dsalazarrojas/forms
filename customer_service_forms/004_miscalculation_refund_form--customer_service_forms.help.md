@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is designed to assist customers in requesting a refund for miscalculation of their payment or billing. The form should only be completed by a customer or a business representative, and it is essential to ensure that the form is submitted only once to avoid duplication of requests. Please ensure that the submitted form is accurate and complete to expedite the refund process.</thinking>
-
 # Miscalculation Refund Form - Help Guide
 ## Purpose
 This form is for customers or business representatives to request a refund due to miscalculation of payment or billing issues. If you are a customer, please fill out this form to describe your issue and provide necessary information for the refund process. If you are a business representative, use this form to report any errors or discrepancies related to billing or payment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide information about their medical history, health status, and diet preferences. The purpose of this form is to gather relevant data for medical professionals to offer personalized diet consultation services. Please ensure that you are filling out this form for the intended purpose and not duplicating your efforts. This form is not intended for emergency or critical health situations.
-</thinking>
-
 # Diet Consultation Form - Help Guide
 ## Purpose
 This form is used to provide information about your medical history, health status, and diet preferences. The data collected will help medical professionals offer personalized diet consultation services.

@@ -1,7 +1,3 @@
-<thinking>
-To determine the relevance and uniqueness of the form, the purpose of this form is to collect customer feedback regarding their satisfaction with a program or service. The fields are designed to assess different aspects of the customer's experience, providing valuable insights for improvement. This form should not be confused with other satisfaction surveys or forms with similar purposes, as its focus is on happiness and mastery in the context of a specific program or service.
-</thinking>
-
 # Happiness Mastery Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with a program or service, specifically regarding their happiness and mastery. The goal is to help us understand what we do well and what areas need improvement.

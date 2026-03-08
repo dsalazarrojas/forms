@@ -1,14 +1,3 @@
-<thinking>
-# Newborn Photography Booking Form - Internal Reasoning
-
-This form is designed to collect information from customers interested in booking a photography session for their newborn baby. The form is part of a larger system for managing bookings and client relationships. The form fields are chosen to provide the necessary details for the photographer to plan and prepare for the session. The fields are also designed to be clear and concise to minimize the likelihood of duplicate submissions. 
-
-The form's purpose is to collect the necessary information from the customer, such as contact details and session preferences, without overwhelming them with unnecessary questions.
-
-The form's design is based on the assumption that the customer will be a new parent looking to book a photography session for their newborn baby. The required fields are kept to a minimum to reduce friction, while still ensuring that the photographer has the necessary information to provide excellent service.
-
-</thinking>
-
 # Newborn Photography Booking Form - Help Guide
 ## Purpose
 This form is used to book a newborn photography session and provide necessary information to the photographer for planning and preparation.

@@ -1,18 +1,3 @@
-<thinking>
-This form is likely used by medical professionals or authorized individuals to release patient records under certain conditions. The form's purpose is to obtain consent from patients or their representatives to access their medical records. The fields on this form will likely need to be filled out by a patient or their designated representative, and the form will guide them through the process of providing the necessary information.
-
-The form is divided into several sections, each corresponding to a page. Each page is a separate section of the form, and each field within the page will have its own specific purpose.
-
-The fields on this form seem to be mostly optional, which suggests that the form is intended to be filled out by a patient or their representative, and that the form will not be completed in most cases.
-
-The fields on this form will likely need to be filled out in a certain order, with some fields requiring more information than others.
-
-To complete this form, the patient or their representative will need to navigate through each page, filling out the required fields in the correct order.
-
-Each field on this form has its own specific purpose and requirements, which will be explained below.
-
-</thinking>
-
 # Patient Records Release Form - Help Guide
 ## Purpose
 The Patient Records Release Form is used to obtain consent from patients or their representatives to access their medical records. This form ensures that patients' medical information is only accessed by authorized individuals.

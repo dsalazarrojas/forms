@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is meant to be a general contact and privacy inquiries form where users can seek information about reviews or the privacy policy of the organization. It is not meant for other types of inquiries. Please ensure that you have read and understand this purpose before filling out the form to avoid duplication of efforts. If your question is not about reviews or privacy policy, please use the appropriate form for your specific query.</thinking>
-
 # Contact I Reviews - Help Guide
 ## Purpose
 This form is for users to contact the organization about reviews or privacy policy-related inquiries.

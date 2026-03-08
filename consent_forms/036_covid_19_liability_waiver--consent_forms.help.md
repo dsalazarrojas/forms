@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals who are participating in activities or events where COVID-19 liability is a concern. The form is used to gather essential details about the signer, including their contact information and health status, as well as their understanding and agreement to certain terms and conditions related to COVID-19 liability.
-
-This form is designed to minimize duplication of efforts and ensure that all relevant information is collected in a single, concise format. The data collected will be stored and used to inform decision-making and risk management.
-
-</thinking>
-
 # COVID 19 Liability Waiver - Help Guide
 ## Purpose
 This form is used to collect information from participants in activities or events where COVID-19 liability is a concern. It ensures that all relevant details are collected in a single, concise format to inform decision-making and risk management.

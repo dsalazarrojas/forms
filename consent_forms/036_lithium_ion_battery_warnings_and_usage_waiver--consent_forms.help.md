@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's experience with lithium ion batteries, including any potential allergic reactions or medical conditions that may affect their use. 
-The purpose of this form is to identify any potential risks or concerns related to the use of lithium ion batteries, and to gather information that can be used to provide guidance and support. 
-This form is not intended to be a medical diagnosis or a substitute for medical advice. 
-It is recommended that the individual completes the form accurately and truthfully, and that the information gathered is used in conjunction with other relevant medical information and expertise.
-</thinking>
-
 # Lithium Ion Battery Warnings And Usage Waiver - Help Guide
 ## Purpose
 This form is used to identify potential risks or concerns related to the use of lithium ion batteries and to gather information that can be used to provide guidance and support.

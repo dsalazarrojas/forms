@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from a parent or guardian for a child to receive vaccinations. The form is used to gather necessary information about the child, including their name, date of birth, and medical history, as well as to obtain consent for specific vaccines. This form is essential for the child's healthcare provider to ensure they can administer vaccines safely and effectively.
-
-Before filling out this form, please ensure that you have already obtained and read the Vaccine Information Statement (VIS) and that the child's medical history has been reviewed and understood.
-
-This form will be reviewed and verified by a healthcare provider before any vaccines are administered.</thinking>
-
 # Child Vaccine Consent Form - Help Guide
 ## Purpose
 The Child Vaccine Consent Form is a document that requires parents or guardians to provide consent for their child to receive vaccines. This form ensures that the healthcare provider has the necessary information to administer vaccines safely and effectively.

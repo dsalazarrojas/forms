@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback from instructors on the effectiveness of a digital marketing course. The form is intended to be used by instructors who have completed the course and are providing their honest opinions on its quality and usefulness. The form does not have any specific required fields, allowing instructors to provide as much or as little information as they deem necessary. 
-
-This form will not be used for any other purpose and is intended to be used solely for course evaluation.
-</thinking>
-
 # digital_marketing_instructor_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from instructors on the effectiveness of a digital marketing course. Instructors will be asked to evaluate the course's quality and provide their opinions on its usefulness.

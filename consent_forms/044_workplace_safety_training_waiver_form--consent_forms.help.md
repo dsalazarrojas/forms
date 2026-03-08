@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Workplace Safety Training Waiver Form is used correctly by end-users to avoid any potential issues. Before starting to fill out this form, please note that the form purpose is to provide a written confirmation that an employee has completed and understood the relevant safety training program. The form must be filled out by the employee who has received training and is confirming that they have completed it. To prevent duplication, please ensure that each form is submitted only once for each training program attended.
-</thinking>
-
 # Workplace Safety Training Waiver Form - Help Guide
 ## Purpose
 This form is a mandatory waiver form that confirms an employee has completed and understood the relevant safety training program. It is essential to fill out this form accurately to demonstrate compliance with company safety policies.

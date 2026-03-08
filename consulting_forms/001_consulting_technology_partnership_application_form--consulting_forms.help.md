@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Consulting Technology Partnership Application Form", we need to consider the following:
-
-* The form purpose is to gather information from potential partners about their organization and their interest in partnering with our company for consulting services.
-* The form collects various data points such as organization information, technology expertise, partnership goals, project size, budget, sample projects, timeline availability, and additional notes.
-* The form is divided into several sections, each containing one or more fields that require input from the applicant.
-* The fields can be categorized into three main groups: Applicant Organization Information, Partnership Details, and Additional Information.
-</thinking>
-
 # Consulting Technology Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to help us understand your organization's interests and goals for partnering with our company. By filling out this form, you'll be able to:

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pet adopters, including pet contract, pet information, owner information, waiver, signature, date, and time. The form may be used in a pet adoption process to ensure that all necessary details are collected from both the pet and its new owner. Please ensure that this form is used in the context of pet adoption, and not for other purposes such as medical or financial agreements.
-</thinking>
-
 # Pet Adoption Contract And Waiver Form - Help Guide
 
 ## Purpose

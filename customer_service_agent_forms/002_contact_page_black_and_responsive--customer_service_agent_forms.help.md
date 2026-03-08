@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help customers understand how to complete the Contact Page Black and Responsive form. The form's primary purpose is to allow customers to contact the support team with inquiries, issues, or feedback related to the service. This guide will walk the user through each field and provide explanations for a smooth and successful completion of the form.
-</thinking>
-
 # Contact Page Black and Responsive - Help Guide
 ## Purpose
 The Contact Page Black and Responsive form is designed to collect information from customers who need assistance or would like to provide feedback. Please refer to the form's introduction for more information on the types of inquiries that can be submitted.

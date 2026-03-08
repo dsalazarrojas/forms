@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Solar Energy Pilot Consent Form - Help Guide
 
 ## Purpose

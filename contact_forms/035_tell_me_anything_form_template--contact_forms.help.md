@@ -1,5 +1,3 @@
-<thinking>This form was created using AI to generate a template for collecting general feedback, suggestions, or concerns from users. The form's purpose is to provide a simple and straightforward way to capture information without being too prescriptive or invasive. This template is not affiliated with any form platform, but rather a public adaptation of survey metadata. It's released under a Creative Commons license, allowing users to modify and use it freely. This form has 7 fields: Tell Me Anything, Name, Email, Question or Concern, Message, Anonymous Submission, and Teacher/Manager Name. It's intended to be a basic template for users to express their thoughts, questions, or issues without feeling overwhelmed by complex questions or sensitive information requests.</thinking>
-
 # Tell Me Anything Form Template - Help Guide
 ## Purpose
 This form is designed to be a simple and open-ended template for users to share their thoughts, questions, or concerns about any subject. It's meant to be a straightforward and user-friendly way to collect feedback or information without requiring too much personal or sensitive information.

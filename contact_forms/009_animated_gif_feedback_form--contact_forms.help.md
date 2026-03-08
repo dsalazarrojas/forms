@@ -1,17 +1,3 @@
-<thinking>
-
-The form design should aim to elicit feedback from users on various aspects of the product or service, such as the quality of the product, customer service, and overall experience. This feedback will be used to understand what works and what can be improved, helping the company to make data-driven decisions and provide better services to customers. The form should be easy to use and understand, and the questions should be clear and concise. It would be beneficial to include an option to save progress, allowing users to complete the form in multiple sessions if needed. This way, users can provide more thorough and accurate feedback.
-
-To ensure that the form is completed correctly, it would be essential to have clear labels, hints, and instructions for each field. The fields should also be categorized into sections to make it easier for users to understand the different topics and provide relevant feedback. The "How To Complete This Form" section should include information on how to save progress, in case the user needs to come back to the form later.
-
-This form has multiple sections, each focusing on different areas of feedback. The first section, "Feedback Topic", allows users to select the specific area of feedback they want to provide. The following sections are: "Your Feedback", "Detailed Ratings", "Your Experience", "Communication Preferences", and "Final Thoughts". The "Detailed Ratings" and "Your Experience" sections allow users to rate specific aspects of their experience, while the "Your Feedback" and "Final Thoughts" sections allow users to provide detailed comments and feedback.
-
-The form includes fields for user's contact information, such as full name and email address, which will allow the company to follow up on the feedback and provide responses. The form also includes an option to subscribe to the company's newsletter, which will keep users updated on new products and offers.
-
-The "How To Complete This Form" section should guide users through the process of filling out the form step by step. The "Field-by-Field Explanation" section will provide clear explanations for each field, making it easier for users to understand what information the company is looking for and how to provide it. The "Tips" section can include any additional information or instructions that may be helpful for users to complete the form correctly and effectively.
-
-</thinking>
-
 # Animated GIF Feedback Form - Help Guide
 ## Purpose
 

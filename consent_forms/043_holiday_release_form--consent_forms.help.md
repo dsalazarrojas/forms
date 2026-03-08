@@ -1,12 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "Holiday Release Form" that will provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means.
-
-The form is used to request a holiday release from school for students. It is used by parents or school administrators to submit a request for a student to be excused from school on a specific holiday. The form requires several fields to be completed, including the student's and parent's names, grades, start and end dates, reason for the request, and holiday type. The form's purpose is to ensure that students are not penalized for missing school on approved holidays.
-
-Before filling out this form, please ensure that you are submitting a genuine request and that you have a legitimate reason for the request. You should only submit one request per holiday. If you have already submitted a request for the same holiday, please do not resubmit.
-
-</thinking>
-
 # Holiday Release Form - Help Guide
 ## Purpose
 The "Holiday Release Form" is used by parents or school administrators to request a student's holiday release from school. The form is used to ensure that students are not penalized for missing school on approved holidays.

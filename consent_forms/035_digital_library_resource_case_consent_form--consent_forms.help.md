@@ -1,6 +1,3 @@
-<thinking>
-This form is a template for collecting clear permissions for using digital resources and case materials. The "category" and "form_category" fields ensure that the form is correctly categorized as a "Consent Forms" type of form. The "form_output_file" field might be used to specify a file name or format for exporting the form data.
-</thinking>
 # digital_library_resource_case_consent_form - Help Guide
 ## Purpose
 This form is used to collect permissions for using digital resources and case materials. It ensures that users provide clear consent for their actions and helps maintain transparency and accountability.

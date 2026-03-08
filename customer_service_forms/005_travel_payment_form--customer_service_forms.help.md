@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for travel payments, which is a crucial part of our customer service process. The purpose of this form is to gather essential details from customers, including their name, email, phone number, travel date, payment amount, payment method, and description of the payment. This information is vital for our customer service team to process the payment successfully and provide a seamless experience for our customers. 
-
-To avoid confusion and duplication, please ensure that you fill in the form correctly and do not skip any required fields.
-
-</thinking>
 # travel_payment_form - Help Guide
 ## Purpose
 The travel payment form is used to collect payment information from customers for their travel bookings.

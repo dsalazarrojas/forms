@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: The purpose of this form is to collect contact information and messages from users who want to get in touch, likely for a Thanksgiving-related purpose. This form has multiple fields to gather various types of information: contact form submission, name, message, email, phone number, and date of birth. The form is not required, but it's designed for users who want to initiate contact. The fields are self-explanatory and straightforward. There might be some confusion with the date of birth field, but it's likely used to identify the user's age or relationship with the organization... </thinking>
-
 # thanksgiving_message_contact_form - Help Guide
 ## Purpose
 This form is designed to collect contact information and messages from users who want to get in touch, likely for a Thanksgiving-related purpose.

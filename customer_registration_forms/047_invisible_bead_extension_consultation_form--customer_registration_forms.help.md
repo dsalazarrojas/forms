@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in getting an invisible bead extension. The purpose of this form is to understand the customer's needs and preferences for their hair extension experience. By filling out this form, customers will be able to provide detailed information about themselves, such as their first name, last name, email address, phone number, hair type, length, color, style, and hair history. This information will help our team to better understand their requirements and provide them with more accurate and personalized services. It is essential that customers fill out this form carefully and accurately to ensure that we have the correct information to assist them. Please review the following instructions to complete the form correctly.</thinking>
-
 # invisible_bead_extension_consultation_form - Help Guide
 ## Purpose
 The invisible bead extension consultation form is a form designed to collect information from customers about their hair and personal preferences to provide them with accurate and personalized hair extension services.

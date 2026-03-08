@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Is The Milk You Are Having Safe!!! - Help Guide
 
 ## Purpose

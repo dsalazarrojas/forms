@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Entry Keycard Activation Consent Form - Help Guide
 
 ## Purpose

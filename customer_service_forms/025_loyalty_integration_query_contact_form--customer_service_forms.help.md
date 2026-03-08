@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback and queries related to loyalty integration. The form is designed to gather information from users who have questions or concerns about the loyalty integration process. 
-This form is meant to be used by customers who are interested in integrating their systems with our platform to enhance their customer loyalty experience. The form will help us to better understand their needs and provide more effective support.
-Before submitting this form, please ensure that you are not duplicating a previous query. If you've already sent a query about the same topic, you won't be able to submit this form.
-</thinking>
-
 # Loyalty Integration Query Contact Form - Help Guide
 ## Purpose
 This form is designed to collect user feedback and queries related to loyalty integration. It is intended to gather information from customers who have questions or concerns about the loyalty integration process with our platform.

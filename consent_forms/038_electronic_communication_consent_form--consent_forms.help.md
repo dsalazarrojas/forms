@@ -1,13 +1,3 @@
-<thinking> This form is designed to collect electronic communication consent from patients. It is used to gather information about how patients would like to receive communication from medical providers, such as emails, phone calls, or text messages. This form is typically filled out by patients during an initial consultation or when they first start seeing a new medical provider. 
-
-Please note that this form should only be filled out once per patient, and it is not intended to be a recurring form.
-
-The form is used to ensure that patients are able to communicate with medical providers in a way that suits their needs and preferences.
-
-It is recommended that medical providers fill out this form in a way that is clear and concise, and that patients have the option to choose how they would like to be contacted. 
-
-</thinking>
-
 # electronic_communication_consent_form - Help Guide
 ## Purpose
 This form is designed to collect electronic communication consent from patients. It is used to gather information about how patients would like to receive communication from medical providers, such as emails, phone calls, or text messages.

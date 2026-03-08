@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's health status and travel history in relation to COVID-19. The form is intended to be completed by volunteers who may have been exposed to COVID-19 or have been in contact with individuals who have been diagnosed with COVID-19. The form will help identify potential risks and take necessary precautions to prevent the spread of the disease.
-
-This form does not collect any sensitive or personally identifiable information and is intended for anonymous submission. Please note that this form is a self-screening tool and should not be used as a substitute for medical advice. If you have any concerns about your health or have been diagnosed with COVID-19, please contact a healthcare professional.
-
-This form has 25 fields, and all fields are optional. Please fill out as much or as little information as you feel comfortable sharing.</thinking>
-
 # Volunteer COVID 19 Self Health Screening Questionnaire - Help Guide
 
 ## Purpose

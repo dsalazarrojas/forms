@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect contact and health information from individuals seeking yoga consultations. The form is used to gather essential details about the client's contact and health status, including their practice experience, instructor preferences, and medical history. Before filling out this form, please ensure you are familiar with the purpose and content of the form to provide accurate and relevant information.
-
-The form has 8 fields, each with a specific purpose:
-</thinking>
-
 # yoga_consultation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect contact and health information from individuals seeking yoga consultations.

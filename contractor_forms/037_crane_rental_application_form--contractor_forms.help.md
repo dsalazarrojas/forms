@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 The form is intended to collect relevant information from the customer to facilitate the rental process. The form is likely used by a company that rents out cranes for various projects.
 
 </thinking>

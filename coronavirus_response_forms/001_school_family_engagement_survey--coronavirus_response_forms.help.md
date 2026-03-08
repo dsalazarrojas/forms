@@ -1,7 +1,3 @@
-<thinking>
-School family engagement is a crucial aspect of a school's functioning, and this form is designed to facilitate that engagement. It's meant to be completed by parents or guardians to provide valuable insights and feedback about their experience at the school. This form is likely to be used by school administrators or management to understand their families' thoughts, opinions, and suggestions. It's not meant to be a substitute for other official channels of communication like emails or meetings. Please ensure that this form is used in conjunction with other methods of engagement.
-</thinking>
-
 # School Family Engagement Survey - Help Guide
 
 ## Purpose

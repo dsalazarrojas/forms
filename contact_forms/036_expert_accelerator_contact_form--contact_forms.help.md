@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # expert_accelerator_contact_form - Help Guide
 
 ## Purpose

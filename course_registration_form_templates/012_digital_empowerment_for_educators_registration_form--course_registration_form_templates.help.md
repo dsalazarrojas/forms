@@ -1,13 +1,3 @@
-<thinking> 
-This is the start of the reasoning block.
-The Digital Empowerment For Educators Registration Form is designed to collect information from educators to register them for a program or initiative. 
-The form collects personal and professional details such as first name, last name, school name, district name, email, phone number, and interests of the teacher. 
-It also collects motivation for the program, district interests, and suggestions for the program. 
-The form also requires a specific date and time for the registration, a note or comment, and the user's name and tool assigned. 
-The form is designed to be completed by educators and is intended to be a comprehensive registration form for the program.
-
-</thinking>
-
 # Digital Empowerment For Educators Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register educators for a program or initiative.

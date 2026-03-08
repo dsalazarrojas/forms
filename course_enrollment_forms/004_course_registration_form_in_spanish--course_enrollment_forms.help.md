@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register for courses in Spanish. To avoid duplication and ensure accurate completion, please read the form carefully before starting. This guide will walk you through the purpose, completion process, and a field-by-field explanation of each section. 
-</thinking>
-
 # Course Registration Form In Spanish - Help Guide
 ## Purpose
 The Course Registration Form In Spanish is a form designed to collect essential information for students registering for courses in Spanish. The form is used to record course details, student data, and inscription time zone information.

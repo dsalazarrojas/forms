@@ -1,7 +1,3 @@
-<thinking>...
-We will create a comprehensive help guide for the "lime_theme_contact_us_form" form, ensuring that end users understand the purpose, completion process, and each field's meaning.
-</thinking>
-
 # lime_theme_contact_us_form - Help Guide
 ## Purpose
 The "lime_theme_contact_us_form" is a contact form designed for users to reach out to the support team or team leaders with questions, feedback, or suggestions. The form is used to gather essential information from users, including their name, email, phone number, and comments.

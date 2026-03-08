@@ -1,14 +1,3 @@
-<thinking>
-I must first understand the purpose and requirements of the Group Therapy Informed Consent Form to provide an accurate help guide.
-
-After examining the YAML input schema, I see that the form is used to collect information from clients before they begin group therapy sessions. The form includes various fields that cover client demographics, services provided, group therapy goals, confidentiality and emergency contact information, and client consent.
-
-The form is likely used to ensure that clients understand their rights, confidentiality, and emergency procedures before participating in therapy sessions. This form may be used by therapists, counselors, or healthcare professionals to document client consent and ensure a safe and respectful environment for all participants.
-
-I will now create a user-facing help guide based on the provided schema.
-
-</thinking>
-
 # Group Therapy Informed Consent Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect personal and course information from participants in a training program. The purpose of this form is to gather data for statistical analysis and to facilitate the selection of winners for a training giveaway. The form is not intended to be a comprehensive survey, but rather a quick and straightforward way to collect the necessary information.
-
-To avoid duplicates, the system checks for existing entries with the same email address. If you have already submitted a form with the same email address, you will not be able to submit this form again.
-
-</thinking>
-
 # Training Giveaway Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect personal and course information from participants in a training program. This information is used for statistical analysis and to select winners for a training giveaway.

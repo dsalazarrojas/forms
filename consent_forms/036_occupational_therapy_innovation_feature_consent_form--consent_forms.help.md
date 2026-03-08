@@ -1,11 +1,3 @@
-<thinking>
-This form is used to track the consent of occupational therapy innovation features. The purpose of this form is to collect information about a patient's consent to participate in occupational therapy innovation features. This form will help track the progress and status of each feature.
-
-Please make sure to complete this form accurately and thoroughly, and only if the feature is relevant to your work or project.
-
-To complete this form, follow the instructions below:
-</thinking>
-
 # occupational_therapy_innovation_feature_consent_form - Help Guide
 ## Purpose
 The occupational therapy innovation feature consent form is used to track the consent of occupational therapy innovation features. This form is used to collect information about a patient's consent to participate in occupational therapy innovation features.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect daily updates on coronavirus cases and responses from medical teams. It is designed to collect information about the patient's status, medical team, and any relevant details. Please ensure that the form is only filled out for patients with active cases.
-</thinking>
-
 # Covid 19 Daily Status Update Form - Help Guide
 ## Purpose
 The Covid 19 Daily Status Update Form is a critical tool for healthcare professionals to report daily updates on coronavirus cases. It helps track patient status, vaccination status, and medical team information, ensuring timely and accurate reporting.

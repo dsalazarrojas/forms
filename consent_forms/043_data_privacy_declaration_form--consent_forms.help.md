@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting the necessary information for the data privacy declaration and contact information of users. It's essential to fill out the form accurately and completely to ensure that you're complying with the relevant data privacy policies. Before proceeding, please ensure that you have read and understood the data privacy policies provided in the "Data Privacy Policies" field.
-</thinking>
-
 # Data Privacy Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for data privacy declaration and contact details of users.

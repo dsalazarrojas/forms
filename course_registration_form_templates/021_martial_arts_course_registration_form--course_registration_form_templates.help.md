@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from martial arts students, allowing them to sign up for courses. The form is divided into several sections, including Personal Info, Contact Info, and Payment. Each section is intended to gather relevant information about the student, such as their name, contact details, and payment method. The form will be used to process student registrations, so please make sure to fill it out accurately and completely.
-
-</thinking>
-
 # Martial Arts Course Registration Form - Help Guide
 ## Purpose
 This form is used for students to register for martial arts courses. It requires accurate and complete information to process successful registrations.

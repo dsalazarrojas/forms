@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # joint_venture_agreement_form - Help Guide
 
 ## Purpose

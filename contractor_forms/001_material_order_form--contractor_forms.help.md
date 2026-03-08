@@ -1,10 +1,3 @@
-<thinking>
-The form is a "material_order_form" used to collect information for material orders, likely for a company or organization that manages material purchases or supplies. This form is designed to gather essential details about the material order, including the customer's first name, company, email, phone number, job title, location, material type, quantity, and other relevant information. The form may be used in a business-to-business (B2B) or business-to-consumer (B2C) context, depending on the organization's needs. The fields in this form are likely used for internal purposes, such as tracking and managing material orders, and not for public display. 
-
-The form's "Submit" option is likely used to save the filled-in information, and "Cancel" to discard it. The "Options" field is a select multiple field, allowing users to choose multiple options from a list. The "Notes" field is a text area for users to add any additional comments or explanations. The "Category" field is likely used to categorize the material order for internal purposes. The "Form Id" and "User Id" fields are likely used for internal tracking and identification purposes. The "Assigned User" field is used to assign the material order to a specific user. The "Time" field is likely used to record the time of completion or completion. The "Created At", "Updated At", "Deleted At" fields are used to track the creation, update, and deletion dates of the material order. The "Created By", "Updated By", "Deleted By" fields are used to track the users who created, updated, or deleted the material order.
-
-</thinking>
-
 # material_order_form - Help Guide
 ## Purpose
 The material_order_form is used to collect information for material orders.

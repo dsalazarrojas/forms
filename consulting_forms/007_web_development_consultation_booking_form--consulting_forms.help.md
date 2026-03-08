@@ -1,8 +1,3 @@
-<thinking>
-This form is used for booking a consultation with a web development team. The team will receive the form input and will contact the submitter at the provided phone number to confirm the appointment. If the form is submitted without all the required fields filled, it will not be processed.
-The form is designed to collect the following information: First Name, Last Name, Email, Consultation Date and Time, Phone Number, Business Name, Services requested (multiple selection), Appointment Type (In-person/Online), Comments (optional), and Submission details (Submitted By and Submitted At).
-</thinking>
-
 # Web Development Consultation Booking Form - Help Guide
 
 ## Purpose

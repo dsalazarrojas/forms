@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect user information for weight loss consultation. This form should only be filled out by individuals who need personalized guidance on weight loss. Please ensure you've reviewed your weight loss goals and medical conditions before submitting this form.
-</thinking>
-
 # Weight Loss Consultation Form - Help Guide
 ## Purpose
 

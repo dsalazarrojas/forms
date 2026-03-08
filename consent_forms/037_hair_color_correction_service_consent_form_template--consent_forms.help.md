@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to serve as a template for capturing client consent for a Hair Color Correction Service. As such, it is crucial that the form is clearly understood by both the client and the service provider to ensure that all parties have a mutual understanding of the service being offered and agreed upon. Before proceeding, let's ensure that we've created a form that effectively conveys its purpose and is free from duplication. This form has been generated using AI and is not affiliated with any form platform, ensuring it's an original adaptation.
-
-</thinking>
-
 # Hair Color Correction Service Consent Form Template - Help Guide
 ## Purpose
 This form is designed to capture client consent for a Hair Color Correction Service. It's a straightforward way to gather necessary information from clients before commencing any service.

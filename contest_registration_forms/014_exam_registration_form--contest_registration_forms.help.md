@@ -1,5 +1,3 @@
-<thinking>Since there's no internal business logic or proprietary data, it appears this AI-generated form is a basic registration form designed to collect personal and examination details. It's likely for students to register for an exam or test. To avoid duplication, ensure you're not submitting this form multiple times. If you're unsure, contact <a href="mailto:form@gic.mx">form@gic.mx</a>.</thinking>
-
 # Exam Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students to register for an exam or test. It gathers details such as name, contact information, examination dates, times, locations, and other relevant details.

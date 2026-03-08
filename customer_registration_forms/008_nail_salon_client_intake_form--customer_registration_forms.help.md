@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for a nail salon to collect information from clients. It likely aims to gather details about the clients' identity, contact information, payment preferences, signature, and booking preferences. The form might be used to streamline the check-in process, collect payment information, or facilitate communication with clients.
-</thinking>
-
 # Nail Salon Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients visiting your nail salon. Completing this form will help us understand your preferences, ensure a smooth check-in process, and provide you with a personalized experience.

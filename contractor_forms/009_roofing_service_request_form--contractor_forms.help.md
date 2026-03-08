@@ -1,12 +1,3 @@
-<thinking>
-This form is used to capture information from customers who are requesting roofing services. The form will be submitted to the company's internal team for processing and follow-up. The form will be used to determine the type of service needed, date and time of service, and other relevant details.
-
-This form will be used by internal staff to manage and track roofing service requests. The form will help to ensure that all requests are properly documented and communicated to the correct team member for follow-up.
-
-**Please note that this form is not intended for actual service scheduling or payment processing. Its primary purpose is to gather information from customers and assign tasks to internal staff.**
-
-</thinking>
-
 # Roofing Service Request Form - Help Guide
 ## Purpose
 This form is used to capture information from customers who are requesting roofing services from the company. Please fill out the form completely and accurately to ensure that your request is properly processed and followed up on.

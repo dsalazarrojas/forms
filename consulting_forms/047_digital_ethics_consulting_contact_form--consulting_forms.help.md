@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital-ethics-consulting-contact-form - Help Guide
 
 ## Purpose

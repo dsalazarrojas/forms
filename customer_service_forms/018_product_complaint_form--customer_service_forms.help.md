@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect customer complaints about products. The customer is expected to provide information about the product in question, including a description of the issue, the date and time the issue was reported, and their contact details (email and phone number). The fields are generally optional, allowing the customer to provide as much or as little information as they feel necessary. However, the form's purpose is to gather enough information to allow support staff to efficiently resolve the customer's complaint. 
-</thinking>
-
 # Product Complaint Form - Help Guide
 ## Purpose
 The Product Complaint Form is designed to collect customer complaints about products sold or offered by our company. If you have encountered an issue with a product, please fill out this form to help us understand the problem and resolve it as quickly as possible.

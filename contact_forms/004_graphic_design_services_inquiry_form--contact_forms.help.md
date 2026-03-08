@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graphic Design Services Inquiry Form - Help Guide
 
 ## Purpose

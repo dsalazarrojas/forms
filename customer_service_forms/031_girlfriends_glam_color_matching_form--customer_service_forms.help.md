@@ -1,9 +1,3 @@
-<thinking>
-
-The form "Girlfriends Glam Color Matching Form" is designed to collect information about a person's preferences related to cosmetics and personal grooming. The form asks for details about their girlfriend's name, favorite color, hair color, skin tone, eye color, lip color, nail color, favorite lip stick brand, favorite lip stick color, favorite hair product, favorite hair color, favorite nail product, favorite nail polish, favorite eye product, favorite eye color, favorite lash brown eyeliner, favorite lash mascara, favorite skincare product, and favorite makeup product. The form is likely to be used for marketing or research purposes.
-
-</thinking>
-
 # Girlfriends Glam Color Matching Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a person's preferences related to cosmetics and personal grooming.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the "social_media_content_submission_form" is to collect information from users regarding the content they wish to submit on social media platforms, allowing administrators to review and moderate the submitted content before its dissemination. To ensure a smooth user experience, please ensure that the form is completed accurately and consistently, and avoid resubmitting the same content. If you have already submitted content through this form, do not resubmit it. If you need help or have any doubts, reach out to our support team.
-
-</thinking>
-
 # social_media_content_submission_form - Help Guide
 ## Purpose
 The "social_media_content_submission_form" is used to collect and review content that users wish to share on social media platforms. This form ensures that all content is properly reviewed and moderated before it is released.

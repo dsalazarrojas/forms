@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to submit a doubt or inquiry about their account, and it helps the customer service team to better understand their concerns and respond accordingly. The form fields are designed to be simple and easy to fill out, and the submission process is streamlined to ensure that the customer's doubt is captured accurately. Before filling out this form, ensure that you have not already submitted a similar doubt in the past 24 hours. This will help us to avoid duplicate responses and allocate our resources effectively.
-</thinking>
-
 # Doubt Solving Form - Help Guide
 ## Purpose
 This form is a tool for customers to submit their doubts and inquiries about their account to the customer service team.

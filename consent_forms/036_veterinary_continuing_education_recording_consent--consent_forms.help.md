@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to obtain consent from pet owners or their representatives for recording veterinary continuing education events. The form's purpose is to capture essential information for both the pet and its owner's records, while also ensuring that the pet owner or representative is aware of and consents to the recording process. This form is not a duplicate of any existing form, but rather an AI-generated adaptation of the provided metadata. It is not affiliated with or endorsed by any form platform and is released under the Creative Commons BY 4.0 license.
-
-</thinking>
-
 # veterinary_continuing_education_recording_consent - Help Guide
 ## Purpose
 This form is designed to obtain consent for recording veterinary continuing education events.

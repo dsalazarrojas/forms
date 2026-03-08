@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers after their stay at a hotel. The purpose of this form is to understand their experience and gather information to improve the hotel's services. The form should not be filled out by hotel staff or other internal stakeholders, as their feedback is not considered in this form's evaluation. It is recommended that users fill out this form only once, so duplicate entries can be avoided.
-</thinking>
-
 # Hotel Feedback Form - Help Guide
 ## Purpose
 The Hotel Feedback Form is a tool for guests to provide their opinion and feedback on their stay at our hotel. It helps us to understand their satisfaction and identify areas of improvement.

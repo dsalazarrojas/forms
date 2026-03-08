@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential candidates for consulting business consultant positions. The form is part of the hiring process to help the consulting firm evaluate candidates based on their background, skills, and availability. Before filling out this form, please ensure you have not already submitted an application for this position as a duplicate submission will not be considered. The form is only meant to collect information from unique candidates.
-</thinking>
-
 # Consulting Business Consultant Job Application - Help Guide
 
 ## Purpose

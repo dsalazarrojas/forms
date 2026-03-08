@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Retention Metrics Monitoring Form - Help Guide
 
 ## Purpose

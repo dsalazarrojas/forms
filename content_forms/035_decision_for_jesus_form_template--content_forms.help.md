@@ -1,12 +1,3 @@
-<thinking>
-This form template is for users to create and fill out a form for personal or business purposes. The form is designed to collect information in various fields related to a "Decision For Jesus" context, likely for a business or personal decision-making process. There is no indication that the form is intended for any specific business or industry. The fields on the form appear to be general and open-ended enough to fit into a wide range of use cases.
-
-Given the form's design and field types, it seems that the form will collect information about a person's or business's name, contact information, and decision-making process, with some fields potentially intended to be optional.
-
-This guide will help users understand how to complete the form and the purpose of each field.
-
-</thinking>
-
 # Decision For Jesus Form Template - Help Guide
 ## Purpose
 This form template is designed to collect information in various fields related to a "Decision For Jesus" context, which can be used for personal or business purposes.

@@ -1,28 +1,3 @@
-<thinking>
-
-The form "Home Sweet Home" is designed to collect information about a home-related program or project. To confirm, I will review the form fields and their labels to provide a clear and concise help guide for end users.
-
-After reviewing the form fields, I will ensure that the guide is concrete, concise, and practical.
-
-The form has fields for:
-
-1. Nomination Basket Program (a free-form text field)
-2. Full Name (a text field)
-3. Address (a text field)
-4. Start Date (a date field)
-5. End Date (a date field)
-6. Program Description (a text field)
-7. Program Duration (a number field)
-8. Program Type (a select_one field with 5 options: Home Improvement, Home Renovation, Home Maintenance, Home Repair, and Other)
-9. Program Category (a select_multiple field with 5 options: Type A, Type B, Type C, Type D, Type E)
-10. Program Status (a select_one field with 4 options: Active, Inactive, Pending, Cancelled)
-11. Program Notes (a text field)
-12. Program Duration 2 (a number field)
-
-This form seems to be focused on collecting information about home-related programs or projects, likely for tracking or management purposes.
-
-</thinking>
-
 # Home Sweet Home - Help Guide
 ## Purpose
 The "Home Sweet Home" form is designed to collect information about home-related programs or projects. It is intended for tracking or management purposes.

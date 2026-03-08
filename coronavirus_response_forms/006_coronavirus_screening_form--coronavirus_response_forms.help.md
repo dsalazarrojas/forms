@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a basic Coronavirus Screening Form, intended to gather information from patients or individuals who may have been exposed to or infected with COVID-19. The purpose of this form is to collect relevant health and contact information to facilitate proper medical screening and contact tracing. This form was generated based on public survey topic metadata and is not affiliated with or endorsed by any proprietary form platform.
-
-Before proceeding, please ensure that the information collected will be used solely for public health purposes and in accordance with local health guidelines and regulations. Duplicate or unnecessary submissions may be discarded.
-
-</thinking>
-
 # Coronavirus Screening Form - Help Guide
 ## Purpose
 The Coronavirus Screening Form is a tool designed to gather information from patients or individuals who may have been exposed to or infected with COVID-19. This form helps healthcare professionals identify potential cases and take necessary precautions to prevent the spread of the virus.

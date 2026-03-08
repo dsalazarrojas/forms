@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The online_peer_feedback_sharing_consent_form is designed to collect participant information and obtain their consent for sharing feedback in online research studies. This form is intended to be completed by participants who have already provided their feedback, and it is used to determine how they want their feedback to be shared or used in the study. 
 
 Please confirm that your form is for a research study that deals with participant feedback and that it has not been duplicated.

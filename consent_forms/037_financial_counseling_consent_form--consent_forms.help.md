@@ -1,8 +1,3 @@
-<thinking>
-This form is a Financial Counseling Consent Form designed to collect information from clients and financial professionals. The form is used to obtain the client's consent for financial counseling services, which may include financial counseling, credit counseling, debt counseling, and tax counseling. The form is a critical document that ensures both the client and the financial professional involved in the process are aware of their roles and responsibilities. This form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata as inspiration.
-
-</thinking>
-
 # Financial Counseling Consent Form - Help Guide
 ## Purpose
 The Financial Counseling Consent Form is a document that ensures both the client and the financial professional are aware of their roles and responsibilities in the financial counseling process.

@@ -1,6 +1,4 @@
-### <thinking>...</thinking>
-
-The Freelance Editor Agreement Form is used for creating and managing freelance editorial projects. It ensures a structured and clear agreement between the freelancer and the client, covering essential aspects such as project details, payment terms, and deadlines. This form is designed to streamline the collaboration process, reduce misunderstandings, and guarantee a fair compensation for the freelancer's work. To avoid duplication of efforts and miscommunication, it is crucial to carefully review and understand each section of the form before submission.
+### The Freelance Editor Agreement Form is used for creating and managing freelance editorial projects. It ensures a structured and clear agreement between the freelancer and the client, covering essential aspects such as project details, payment terms, and deadlines. This form is designed to streamline the collaboration process, reduce misunderstandings, and guarantee a fair compensation for the freelancer's work. To avoid duplication of efforts and miscommunication, it is crucial to carefully review and understand each section of the form before submission.
 
 ### Freelance Editor Agreement Form - Help Guide
 

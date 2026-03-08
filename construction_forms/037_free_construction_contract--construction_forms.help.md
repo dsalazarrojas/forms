@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to be used for creating free construction contracts, which are agreements between a client and a construction company for a specific project. The form should gather relevant information about the project and the parties involved in a way that is clear and easy to understand for non-technical users. Before proceeding, let us consider the form's purpose and potential duplication of efforts: Is this form a one-time use case or part of a recurring process that may be used for multiple projects? Will the form be used by users with varying levels of technical knowledge? 
-
-Given the provided form layout and fields, it seems the form is designed for creating a general free construction contract that can be used for various projects. The form appears to be straightforward enough for users with some basic understanding of what the form is for, but may require some guidance on what each field means. This form seems to be intended for users with some technical knowledge, as some field labels are not explicitly clear without further context. The field types and options suggest a level of technical understanding, but not necessarily requiring extensive technical knowledge. 
-
-With these considerations in mind, let us create a user-facing help guide that clarifies each field's purpose and helps users navigate the form effectively.
-
-</thinking>
-
 # Free Construction Contract - Help Guide
 ## Purpose
 This form is used to create a free construction contract between a client and a construction company for a specific project. It gathers information about the project and the parties involved. Fill in the required fields to create a comprehensive contract.

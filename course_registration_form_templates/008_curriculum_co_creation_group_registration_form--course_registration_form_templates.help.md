@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register a Curriculum Co-Creation Group. A Curriculum Co-Creation Group is a team of people working together to create a new curriculum or course. This form helps to collect information about the group's name, contact details, and meeting schedules. The form is used by administrators to manage group registrations and ensure that all required information is collected correctly.
-Please ensure that you are registering a legitimate Curriculum Co-Creation Group that aligns with our institution's policies and procedures. Duplicate registrations will be rejected.
-</thinking>
-
 # Curriculum Co Creation Group Registration Form - Help Guide
 ## Purpose
 The Curriculum Co-Creation Group Registration Form is a crucial tool for registering and managing teams that work on creating new curricula or courses. By filling out this form, you'll be able to:

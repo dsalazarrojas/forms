@@ -1,7 +1,3 @@
-<thinking>...This guide is intended to assist users in filling out the "Spray Tanning Intake Form". The form collects personal and contact information from customers for the purpose of booking and scheduling a spray tanning appointment. It is not intended for use in any other context, such as sales or marketing purposes. Please ensure that the form is only used for its intended purpose.
-
-...</thinking>
-
 # Spray Tanning Intake Form - Help Guide
 ## Purpose
 The Spray Tanning Intake Form is a collection of personal and contact information used to book and schedule a spray tanning appointment.

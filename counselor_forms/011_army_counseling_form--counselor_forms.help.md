@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this Army Counseling Form is to gather information about a soldier's mental health status, personal history, and counseling goals. This form is intended for use by mental health professionals or counselors who will use the data to create a comprehensive treatment plan for the soldier. The information gathered will help the counselor understand the soldier's mental state, identify areas for improvement, and develop targeted interventions to support their mental well-being. 
-
-To prevent duplication of efforts, please ensure that the same form is not submitted multiple times for the same soldier. If a soldier requires multiple counseling sessions, a new form should be filled out for each session.
-
-</thinking>
-
 # Army Counseling Form - Help Guide
 ## Purpose
 The Army Counseling Form is a tool for mental health professionals and counselors to gather information about a soldier's mental health status, personal history, and counseling goals. This form helps the counselor understand the soldier's mental state, identify areas for improvement, and develop targeted interventions to support their mental well-being.

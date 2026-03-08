@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users complete the "relax_kids_term_feedback_form" effectively, ensuring accurate and helpful feedback is captured. Please review the form carefully to ensure you have the necessary information and have not already provided feedback on this topic.
-</thinking>
-
 # relax_kids_term_feedback_form - Help Guide
 ## Purpose
 The "relax_kids_term_feedback_form" is designed to gather feedback from users on various aspects of their experience at "relax" kids term, allowing us to continually improve and enhance the quality of our services.

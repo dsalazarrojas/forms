@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the creation of AI-generated music or songs. The form is likely to be used by clients who want to commission a custom song, and the purpose of the form is to gather details about the song they are looking for. This will help the AI to generate a song that meets their specific needs and preferences.
-The form has 10 fields in total, asking for various details such as project brief, requester name, song title, genre, mood, tempo, lyrical themes, instrumentation preferences, vocal style, and additional notes.
-</thinking>
-
 # AI Song Creation Form - Help Guide
 ## Purpose
 This form is designed to collect information for the creation of a custom AI-generated song.

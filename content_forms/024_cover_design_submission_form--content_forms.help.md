@@ -1,5 +1,3 @@
-<thinking>This form is for submitting a new cover design. It is not necessary to fill out all the fields. Please only fill out the fields that are relevant to your submission.</thinking>
-
 # Cover Design Submission Form - Help Guide
 ## Purpose
 This form is used for submitting new cover designs. Please fill out the form with your submission details and any relevant attachments.

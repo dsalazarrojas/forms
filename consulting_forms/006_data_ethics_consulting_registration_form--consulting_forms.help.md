@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and checks for relevance and non-duplication ...
-
-To be honest, the purpose of this form is not explicitly stated in the YAML, but based on its structure and field names, it appears to be designed for registration and information gathering for a consulting service related to data ethics. The form collects information from the end user, which can be a client, about their client details, interests, preferred consultation time, contact information, consultant information, and firm information. It's likely that this form is meant to help the consulting firm or service provider to understand the client's needs and preferences, and potentially match them with suitable consultants or services.
-
-However, without more context, it's hard to confirm this interpretation. I'll proceed with creating the help guide based on my understanding.
-
-</thinking>
-
 # Data Ethics Consulting Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from end users about their needs and preferences related to data ethics consulting services. Please fill out this form to help us better understand your requirements and match you with suitable consultants or services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register for a tennis session. It collects attendee information, including name, contact details, availability, and dates. The form will help staff manage registrations and track attendee schedules. It's essential to ensure that each field is filled accurately to avoid errors in the registration process. Please make sure to enter the correct information for each field. This form should not be used for other purposes or events. Please review each field carefully to avoid duplication of effort or errors.
-</thinking>
-
 # Tennis Session Registration Form - Help Guide
 ## Purpose
 The Tennis Session Registration Form is designed to collect attendee information for a tennis session. Please use this form to register attendees for your tennis session.

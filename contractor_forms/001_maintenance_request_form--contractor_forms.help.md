@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for maintenance request submissions. It should only be filled out by authorized personnel, such as property owners, maintenance staff, or building managers, to report issues with properties under the company's management. The form should not be filled out for general inquiries or routine check-ins. It's intended to capture critical information that will help the maintenance team assess and address the problems efficiently. 
-</thinking>
-
 # Maintenance Request Form - Help Guide
 ## Purpose
 The Maintenance Request Form is a critical tool for reporting issues with properties under our care. This form helps us gather the necessary information to assess and address the problems efficiently.

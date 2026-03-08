@@ -1,5 +1,3 @@
-<thinking>Form purpose: The Content Services Inquiry Form is designed for users to inquire about content services such as content strategy, writing, and production. This form gathers information about the user's business, their specific needs and goals, and their contact information. By filling out this form, users can provide the agency with a clear understanding of their requirements and preferences, allowing for a more efficient and effective response.</thinking>
-
 # Content Services Inquiry Form - Help Guide
 
 ## Purpose

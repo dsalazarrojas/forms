@@ -1,8 +1,3 @@
-<thinking>
-This form template is designed to capture consent from a client for printing and sharing their photos. The form is used by photographers or studios to obtain permission from their clients to print and share their photos. The purpose of this form is to ensure that the client understands and agrees to the terms of photo printing and sharing. 
-The form will be used to collect information about the client, including their name, the date of photo capture, and other relevant details. 
-</thinking>
-
 # Photo Print Release Form Template - Help Guide
 ## Purpose
 The Photo Print Release Form Template is used to obtain consent from a client for printing and sharing their photos.

@@ -1,9 +1,3 @@
-<thinking>Before proceeding, we'll cover the internal reasoning behind this form.
-
-This form aims to gather necessary information from potential consultancy clients to better understand their needs and provide a tailored consultancy service. The form will check for duplicate registrations (if the client is already registered), and its main goal is to ensure that each client has a unique experience with the consultancy.
-
-To avoid duplicate registrations, we'll check internal lists of registered clients to prevent overlap.</thinking>
-
 # Consultancy Registration Form - Help Guide
 ## Purpose
 This form gathers information about your consultancy needs to provide a personalized service. Please fill out the form to get started with our consultancy process.

@@ -1,6 +1,4 @@
-### <thinking>...</thinking>
-
-This form is a crucial tool for communication between the bride and the makeup artist prior to a wedding. It ensures that both parties understand their responsibilities and expectations. This form is designed to collect essential information about the bride's preferences, needs, and requirements for the makeup services. Completing this form will help the artist provide personalized and exceptional service, and the bride is assured of a stress-free experience on her special day.
+### This form is a crucial tool for communication between the bride and the makeup artist prior to a wedding. It ensures that both parties understand their responsibilities and expectations. This form is designed to collect essential information about the bride's preferences, needs, and requirements for the makeup services. Completing this form will help the artist provide personalized and exceptional service, and the bride is assured of a stress-free experience on her special day.
 
 ### Bridal Makeup Consent Form - Help Guide
 

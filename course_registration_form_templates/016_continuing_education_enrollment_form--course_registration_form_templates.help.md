@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect student information for continuing education purposes. 
-The form requires the following fields to be completed: Student Full Name, Email Address, Phone Number, Date of Birth, Mailing Address, City, State, ZIP Code, Course Selection, Course Section, Semester or Term, Enrollment Type, Prior Education, Employer Sponsorship, Payment Method, Emergency Contact Name, and Emergency Contact Phone. The form does not collect any personally identifiable information that could potentially lead to the identification of individual students. 
-</thinking>
-
 # Continuing Education Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect student information for continuing education purposes. It is designed to ensure accurate and complete information is collected from students to process their enrollment in courses offered by our institution.

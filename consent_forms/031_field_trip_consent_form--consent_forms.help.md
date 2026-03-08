@@ -1,9 +1,3 @@
-<thinking>
-
-To create an efficient Field Trip Consent Form, let's first understand its internal purpose and usage. This form is designed to capture essential information for field trips, ensuring the safety and well-being of students. It's intended to be completed by students, parents, and school staff involved in the trip. The form should not be used for non-field trip purposes.
-
-</thinking>
-
 # Field Trip Consent Form - Help Guide
 
 ## Purpose

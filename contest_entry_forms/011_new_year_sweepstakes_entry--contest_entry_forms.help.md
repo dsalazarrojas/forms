@@ -1,15 +1,3 @@
-<thinking>
-The form "new_year_sweepstakes_entry" is intended to collect entries for a new year's sweepstakes promotion. It is likely to be used to gather information from participants who are interested in entering the sweepstakes, including their contact information and preferences regarding the sweepstakes.
-The form is designed to be completed by individuals interested in participating in the sweepstakes, with fields that allow them to enter their name, email address, phone number, birthday, and other relevant information. The form also includes fields for participants to indicate their interest in participating in the sweepstakes and to confirm that they have read and agreed to the terms and conditions.
-The "entry_type" field allows participants to select how they want to enter the sweepstakes, whether it's their first, last, or both entry. This field is optional and doesn't have a required status, it's just informational.
-The "first_name", "last_name", "email_address", and "birthday" fields are all required and are used for contact and personal information.
-The "phone_number" field is optional but can be useful for follow-up communications.
-The "anniversary" field is also optional and can be used to determine if the participant has a specific date of interest.
-The "sweepstakes_pledge" field requires participants to confirm that they are interested in participating in the sweepstakes.
-The "other_sweepstakes_pledge" field is optional and allows participants to provide additional information if they are interested in participating in other sweepstakes.
-The "terms_and_conditions" field requires participants to agree to the terms and conditions of the sweepstakes, and the "submit_button" field is where the participant submits their entry.
-</thinking>
-
 # new_year_sweepstakes_entry - Help Guide
 ## Purpose
 The new_year_sweepstakes_entry form is used to collect information from participants who are interested in entering a new year's sweepstakes promotion. This form is designed to gather contact and personal information from participants, as well as their preferences and agreements for the sweepstakes.

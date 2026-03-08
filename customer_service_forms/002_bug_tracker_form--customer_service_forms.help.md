@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to report bugs and issues they are experiencing with our products or services. The form collects information about the issue, including the date it was submitted, the browser and operating system used, the urgency level, and other relevant details. The form is meant to gather accurate and thorough information to help our support team efficiently resolve the issue. Before filling out this form, please ensure that the issue you are reporting is not a duplicate of a previously reported issue.
-</thinking>
-
 # Bug Tracker Form - Help Guide
 ## Purpose
 

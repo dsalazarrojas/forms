@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect health information from day camp staff members to ensure they are fit to work and interact with campers and other staff members. The form helps the day camp to identify any potential health risks or concerns and take necessary precautions to maintain a safe environment. This form should only be completed by staff members who are currently working at the day camp.
-</thinking>
-
 # Day Camp Staff Health Screening Form - Help Guide
 ## Purpose
 The Day Camp Staff Health Screening Form is a tool used by day camps to collect health information from their staff members. This information is crucial in maintaining a safe and healthy environment for both staff and campers.

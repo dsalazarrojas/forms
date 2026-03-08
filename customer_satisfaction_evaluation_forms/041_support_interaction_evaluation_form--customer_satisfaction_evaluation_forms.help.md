@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect feedback and evaluations from customers after an interaction with support team members. This form ensures that the support team can track customer satisfaction, identify areas of improvement, and provide better services in the future. The form is designed to be completed by customers after a support interaction, and is not meant to be used for other purposes. It is recommended to complete this form only once per support interaction...</thinking>
-
 # Support Interaction Evaluation Form - Help Guide
 ## Purpose
 The Support Interaction Evaluation Form is used to collect feedback and evaluations from customers after an interaction with a support team member. This information helps us understand our customers' satisfaction and identify areas for improvement.

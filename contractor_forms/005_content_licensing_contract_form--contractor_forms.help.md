@@ -1,10 +1,3 @@
-<thinking>
-The Content Licensing Contract Form is used to establish a formal agreement between the Licensor (the owner of the content) and the Licensee (the entity requesting usage rights). This form is a crucial document that outlines the terms and conditions of the content licensing process.
-
-Before proceeding with this form, ensure you have reviewed the content's ownership and the terms of use for the content in question. The form should only be completed after both parties (Licensor and Licensee) have discussed and agreed upon the terms of the contract.
-
-Please note that this form is a standardized template, and you must adapt it according to your specific needs and requirements.</thinking>
-
 # Content Licensing Contract Form - Help Guide
 ## Purpose
 The Content Licensing Contract Form is a document that outlines the terms and conditions of licensing content between the Licensor and Licensee. This form ensures that both parties are aware of their rights and responsibilities regarding the content in question.

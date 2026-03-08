@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning: The purpose of the "dsr_mumbai" form is to collect sales-related data from customers or end-users. This form likely serves as a tool for sales teams to gather information about sales periods, teams, persons involved, regions, dates, times, amounts, notes, emails, and phone numbers. To ensure the form is used correctly, it should only be completed once per sales period, and users should fill in all relevant fields with accurate and complete information. This form should not be a duplicate effort to fill out multiple times.
-
-Given the provided YAML structure, this form appears to be a simple data collection form with various fields for different sales-related information. Each field is optional, and it's likely that the form is intended to be a flexible and adaptable tool for sales teams to gather necessary data. However, without further information about the business context and specific requirements, some fields might be subject to interpretation.
-
-</thinking>
-
 # dsr_mumbai - Help Guide
 ## Purpose
 The "dsr_mumbai" form is a tool for sales teams to collect sales-related data from customers or end-users. It's meant to gather information about sales periods, teams, persons involved, regions, dates, times, amounts, notes, emails, and phone numbers.

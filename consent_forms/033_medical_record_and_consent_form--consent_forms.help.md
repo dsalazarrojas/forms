@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture a patient's medical record and consent details for medical treatments or procedures. It is intended for medical professionals to record patient information and obtain consent for treatments. Please ensure you are using this form for its intended purpose and do not submit duplicate records.
-</thinking>
-
 # Medical Record And Consent Form - Help Guide
 ## Purpose
 The Medical Record And Consent Form is a document used to capture a patient's medical record and obtain their consent for medical treatments or procedures. It is essential for medical professionals to have accurate and up-to-date patient information to provide proper care.

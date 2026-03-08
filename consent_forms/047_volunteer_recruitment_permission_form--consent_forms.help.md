@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential volunteers about their availability, role, and other relevant details. The goal is to collect data for volunteer recruitment efforts, which can be used to match volunteers with suitable roles and shifts within the organization. This form is not intended for actual volunteer sign-ups or scheduling, but rather as a means to collect preliminary information and preferences. It's essential to review and update the form regularly to ensure it remains relevant and accurate.
-
-Before proceeding, please ensure that you have not already completed this form for the same volunteer or organization, as this may cause duplication of data. If you're unsure, please consult with the relevant authorities to confirm.
-
-This form is designed to be completed by potential volunteers, and the information collected will be used to facilitate the volunteer recruitment process.
-</thinking>
-
 # Volunteer Recruitment Permission Form - Help Guide
 ## Purpose
 The Volunteer Recruitment Permission Form is a crucial document that collects information from potential volunteers about their availability, role, and other relevant details. This information will be used to match volunteers with suitable roles and shifts within the organization.

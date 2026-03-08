@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather necessary information and obtain waivers from participants and emergency contacts in a yoga studio setting during the COVID-19 pandemic. This form is intended to protect both the participants and the studio from potential risks and liabilities associated with COVID-19. Please ensure you only fill out this form if you are a participant or emergency contact with a legitimate reason for doing so.
-
-This form will only be used to collect data for the specified participant or emergency contact. If you are not a participant or emergency contact, please do not fill out this form.
-
-Before proceeding, please review the form carefully and ensure you understand the purpose and requirements. This form is not intended to be a comprehensive medical questionnaire, but rather a waiver for participants and emergency contacts.
-
-</thinking>
-
 # Covid 19 Yoga Waiver Form - Help Guide
 ## Purpose
 This form is used to collect necessary information and obtain waivers from participants and emergency contacts during the COVID-19 pandemic.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for the Health Insurance Portability and Accountability Act (HIPAA) authorization process. The form will likely be used by healthcare providers to collect patient information and obtain consent for treatment. The form is not intended to be a comprehensive medical record or a substitute for medical expertise.
-
-Before filling out this form, please ensure that the patient information and authorization details are accurate and complete.
-
-This form is a template and may need to be adapted to fit specific regulatory requirements or institutional policies.
-</thinking>
-
 # HIPAA Authorization Form - Help Guide
 ## Purpose
 The HIPAA Authorization Form is designed to collect information necessary for the Health Insurance Portability and Accountability Act (HIPAA) authorization process. This form is intended to be used by healthcare providers to collect patient information and obtain consent for treatment.

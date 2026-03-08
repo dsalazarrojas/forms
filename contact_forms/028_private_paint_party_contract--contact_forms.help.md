@@ -1,5 +1,3 @@
-<thinking>Private paint parties are a unique and exciting experience for art lovers. This form helps you create a comprehensive contract that outlines the terms and details of your private paint party event. The form is used to capture essential information about the event, including its title, description, date, time, location, painting style, and the artist involved. This contract will serve as a foundation for your event, ensuring a fun and stress-free experience for all participants.</thinking>
-
 # Private Paint Party Contract - Help Guide
 ## Purpose
 The Private Paint Party Contract is a form designed to capture the essential details of your private paint party event. This form helps you create a comprehensive contract that outlines the terms and conditions of the event, ensuring a smooth and enjoyable experience for all participants.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in a Summer Sales Program, a type of program that likely involves sales or business development initiatives. The purpose of this form is to gather essential details from both the participant and the sales manager involved in the program. The form is likely used to establish a formal agreement between the participant and the sales manager, outlining the terms and conditions of the program.
-
-The form is structured into several sections, each focusing on a specific aspect of the program, including participant details, program details, and agreements. To ensure accuracy and completeness, please review each section carefully and fill in the required information.
-
-Before proceeding, please note that some fields are marked as 'required,' indicating that they must be filled in to complete the form. Other fields are 'optional,' meaning they can be left blank if not applicable.
-
-When filling out this form, you may need to refer to the program's terms and conditions, which are not explicitly defined in this document. However, the form is designed to guide you through the necessary steps to establish a clear understanding of the program's parameters.
-</thinking>
-
 # Summer Sales Program Agreement - Help Guide
 ## Purpose
 This guide is designed to assist participants and sales managers in filling out the Summer Sales Program Agreement form. The form is used to document key details and agreements between the participant and the sales manager.

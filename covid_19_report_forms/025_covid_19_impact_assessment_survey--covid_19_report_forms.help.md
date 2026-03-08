@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "COVID 19 Impact Assessment Survey" form, we should first understand the purpose and relevance of the form within the organization. This form is likely designed to assess the economic, operational, and workforce impact of the COVID-19 pandemic on different types of organizations.
-
-Given the fields in the YAML, the form covers various aspects of the impact of the pandemic on an organization. The fields cover questions on revenue change, profitability, operational disruption, staffing impact, employee health and safety concerns, success with remote work arrangements, customer loss, market changes, recovery outlook, and types of support needed.
-
-This form will help the organization understand the pandemic's effects on different aspects of their business and provide them with insights to make informed decisions to mitigate and recover from these effects.
-
-Before we begin, let's confirm that this form is not intended to be duplicated or used for other purposes, as the hints and labels provided in the YAML suggest specific and unique questions for each section.
-
-</thinking>
-
 # COVID 19 Impact Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gather data on the economic, operational, and workforce impact of the COVID-19 pandemic on your organization. The data collected will help you understand the effects of the pandemic and make informed decisions to mitigate and recover from these effects.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for the purpose of mapping their deceased loved one's plot in a cemetery. The form is divided into several sections, each focusing on different aspects of the cemetery mapping process. This form is intended for customers who are interested in purchasing a plot in the cemetery, and it requires them to provide personal and plot selection information. The form's fields are designed to guide the customer through the process of selecting the right plot for their loved one, ensuring that all necessary details are captured to facilitate a smooth and accurate plot mapping process. Before proceeding, please ensure that you have read and understood the form's content carefully to avoid any duplication or misinterpretation of the information.
-
-</thinking>
-
 # Cemetery Mapping Form - Help Guide
 ## Purpose
 The Cemetery Mapping Form is designed to collect relevant information from customers to help map their deceased loved one's plot in a cemetery. This form will guide you through the process of selecting a suitable plot for burial or interment.

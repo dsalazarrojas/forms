@@ -1,5 +1,3 @@
-<thinking>... This form is designed to gather information from the vehicle owner to facilitate a vehicle inspection. The form collects data about the vehicle's owner, vehicle details, and inspection type. The goal is to gather accurate and relevant information for the inspection process. The form is intended to be completed by the vehicle owner, and the information collected will be used to schedule and conduct the inspection. To avoid duplication, the form should only be submitted once for each vehicle inspection. The form should be completed with accurate and up-to-date information to ensure a smooth inspection process. ...</thinking>
-
 # vehicle_inspection_authorization_form - Help Guide
 ## Purpose
 

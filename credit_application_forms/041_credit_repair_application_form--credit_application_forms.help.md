@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for a credit repair application, where users provide personal and financial information to apply for credit repair services. The form collects information about the user's employment status, income, loan amount, credit score, and loan terms. This information will be used to assess the user's creditworthiness and provide tailored recommendations for credit repair.
-
-To prevent duplication of efforts, this form is designed to collect all necessary information at once, reducing the need for multiple submissions.
-
-</thinking>
-
 # credit_repair_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals applying for credit repair services. By filling out this form, you will be able to provide personalized recommendations for improving your credit score and reducing debt.

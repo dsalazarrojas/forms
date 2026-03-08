@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect consent from participants to reuse their online study recordings. The form should only be used for study recordings where the participant has the ability to opt-out or choose to give consent for their recording to be reused. Each section of the form should have a clear and direct question that is easily understandable by the participant. If a participant chooses not to give consent, their recording will not be reused.
-</thinking>
-
 # Online Study Recording Reuse Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect feedback on customers' daily lives, helping our company understand their experiences and concerns. The form will guide customers through a quick and easy survey. Please complete it only once a day, and make sure your responses are honest and accurate. If you have already filled out this form recently, please do not fill it out again, unless your situation has changed significantly.</thinking>
-
 # Daily Life Feedback Survey - Help Guide
 ## Purpose
 The Daily Life Feedback Survey is a short and straightforward form designed to gather your thoughts and experiences about your daily life. Your feedback is crucial in helping us understand your needs and concerns, enabling us to improve our services and products.

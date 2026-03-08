@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and consent from individuals who have performed in a movie. This form is used to manage and document the consent process, ensuring that the individual's rights are respected and their consent is properly recorded. The form is likely used by production teams, management, or legal departments to ensure compliance with regulations and industry standards. This form is a crucial part of the post-production process.
-</thinking>
-
 # Movie Release Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect contact information from potential clients for real estate sales leads. The form should only be filled out by individuals who are interested in scheduling a showing for a property. It's essential to fill out the form accurately and completely, as the information will be used to schedule a showing that meets the client's needs.
-
-Before filling out the form, please ensure that you are a legitimate contact who is interested in purchasing or viewing a property. The form fields should not be used for spam or other non-legitimate purposes.
-
-The form will not be filled out by automated tools or scripts. If you are experiencing issues or concerns, please reach out to the real estate agency or contact us directly.
-
-</thinking>
-
 # real_estate_sales_lead_form - Help Guide
 ## Purpose
 The real_estate_sales_lead_form is used to collect contact information from potential clients interested in scheduling a showing for a property.

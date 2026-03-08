@@ -1,7 +1,3 @@
-<thinking>
-This is a form for creating employment contracts, which are legally binding agreements between an employer and employee outlining the terms of employment. This form can be used for various types of employment contracts, including full-time, part-time, or contract employment. It's essential to ensure that this form is used correctly to avoid any legal issues. Please ensure that you don't duplicate the form for a new employee if one already exists with the same employment details.
-</thinking>
-
 # Employment Contract Template - Help Guide
 ## Purpose
 This form is a comprehensive template for creating employment contracts between an employer and an employee. It helps you define the terms and conditions of employment, including job titles, descriptions, company names, and employee information such as name and contact details.

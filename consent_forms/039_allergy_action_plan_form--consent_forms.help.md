@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information for an allergy action plan, which is a crucial document for individuals with allergies to provide guidance on how to manage and respond to allergic reactions. The form includes a range of fields that cover various aspects of anaphylaxis, including patient demographics, medical history, allergies, medications, and emergency procedures. Ensuring that this form is filled out correctly and comprehensively is essential for the patient's safety and well-being. Please ensure that you have all necessary information before completing this form and that it is reviewed by a medical professional before being used in emergency situations... </thinking>
-
 # Allergy Action Plan Form - Help Guide
 ## Purpose
 This form is designed to collect information for an allergy action plan, which is a crucial document for individuals with allergies to provide guidance on how to manage and respond to allergic reactions.

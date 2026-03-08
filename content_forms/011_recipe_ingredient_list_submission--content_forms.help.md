@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help contributors provide information about recipe ingredients. It will help the community to understand what ingredients are involved in each recipe. The form is not mandatory and contributors can choose to submit a list of ingredients or not. However, it is recommended to provide accurate information so that others can make informed decisions about recipe ingredients. This form is not intended to be filled out multiple times, but rather to provide a one-time submission of information about a recipe's ingredients.
-</thinking>
-
 # Recipe Ingredient List Submission - Help Guide
 ## Purpose
 This form is designed to help contributors provide information about recipe ingredients to the community.

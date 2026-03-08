@@ -1,13 +1,3 @@
-<thinking>
-
-The Covid 19 Yoga Waiver Form is designed to collect essential participant information and obtain signatures for the waiver of liability in the context of Covid 19 yoga classes. 
-
-This form is intended to ensure that participants understand the risks associated with yoga practices and agree to take on the responsibility of their own physical and mental health. 
-
-Please note that this form is mandatory for all participants and must be completed before attending the yoga classes.
-
-</thinking>
-
 # Covid 19 Yoga Waiver Form - Help Guide
 
 ## Purpose

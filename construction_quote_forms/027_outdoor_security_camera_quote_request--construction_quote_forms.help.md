@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine whether you should use this form, consider the following questions:
 
 * Are you requesting a quote for an outdoor security camera system?

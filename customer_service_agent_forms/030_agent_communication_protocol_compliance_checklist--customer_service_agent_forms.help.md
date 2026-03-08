@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess an agent's adherence to a communication protocol, which is a set of rules or guidelines for interacting with customers in a professional manner. The protocol likely includes aspects such as greetings, tone, call closings, data handling, and script adherence. This form will help evaluate an agent's performance in these areas to ensure consistency and quality of service. 
-
-This guide will explain how to complete the form accurately, ensuring that the required information is collected correctly.
-
-</thinking>
-
 # Agent Communication Protocol Compliance Checklist - Help Guide
 ## Purpose
 The purpose of this form is to evaluate an agent's adherence to the communication protocol, ensuring consistency and quality in customer interactions. It assesses their performance in key areas such as greetings, tone, call closings, data handling, and script adherence.

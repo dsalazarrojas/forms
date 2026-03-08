@@ -1,7 +1,3 @@
-<thinking>
-This form, called the Couples Program Development Agreement, is designed for program participants in couples to provide their information and sign off on a set of program expectations. The form aims to gather essential details about the participants, including their names and expectations from the program. Before proceeding with the form, please ensure that you have not filled out this form previously. If you have any doubts or questions, please review the form carefully and feel free to ask for assistance.
-</thinking>
-
 # Couples Program Development Agreement - Help Guide
 ## Purpose
 The Couples Program Development Agreement form is a document that gathers information and signatures from program participants in couples. The form is essential for the program's administration and helps ensure that all participants are on the same page regarding program expectations and requirements.

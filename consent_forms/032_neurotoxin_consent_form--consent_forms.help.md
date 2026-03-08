@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block) 
-
-This form is for obtaining consent from individuals who have been exposed to a neurotoxin, likely in a medical or research context. The purpose of this form is to gather relevant information for potential follow-up and treatment. The form likely serves as a precursor to further medical evaluation or intervention.
-
-</thinking>
-
 # Neurotoxin Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from individuals who have been exposed to a neurotoxin. This information will be used to assess potential risks and provide guidance on next steps.

@@ -1,9 +1,3 @@
-<thinking>
-The Career Development Survey is designed to gather information about an employee's career aspirations, goals, and challenges. This form will help identify areas of growth and development opportunities for employees within the company. To answer these questions, please be as specific as possible and provide honest feedback. This data will help the company understand individual needs and create a development plan tailored to each employee's career goals.
-Please note that this survey is a required component of the company's career development process. Completing this form is essential for ensuring that your career aspirations are considered as part of your professional growth within the company.
-Ensure that you complete this form honestly and thoroughly, as it will help the company create a comprehensive understanding of your career goals and aspirations.
-</thinking>
-
 # Career Development Survey - Help Guide
 ## Purpose
 The Career Development Survey is designed to gather information about your career aspirations, goals, and challenges. This data will help your manager and HR create a development plan tailored to your career goals and interests.

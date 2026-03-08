@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clearly understood and the instructions are concrete and concise. This form is designed for customers to submit their issues, requests, or messages to the customer service team. It is meant to be a comprehensive guide for customers to provide all necessary information to help the service team resolve their concerns efficiently. Before proceeding, let's review the form and its fields.
-
-The form has 21 fields, which can be categorized into several sections: customer information, issue description, and form submission. This guide will cover each field in detail to ensure users understand what is expected of them.
-
-</thinking>
-
 # Customer Service Form - Help Guide
 
 ## Purpose

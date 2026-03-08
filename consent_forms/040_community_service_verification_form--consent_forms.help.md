@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I checked that the form purpose is to verify community service information. It is assumed that users are filling out this form for legitimate purposes and is not used for mass duplication or automated processing. This form is a critical tool for accurate and reliable data collection and is used in high-stakes situations. I will ensure that the explanations for each field are clear, concise and practical in order to help users complete the form without confusion.</thinking>
-
 # Community Service Verification Form - Help Guide
 ## Purpose
 The Community Service Verification Form is used to gather detailed information about an individual's community service experience, including their personal details, service provider information, and verification statement from their supervisor.

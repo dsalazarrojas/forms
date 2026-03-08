@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be used for evaluating and providing coaching feedback to agents on their performance in call center roles. The form collects various information and metrics on the call, including call details, agent performance, customer satisfaction, and specific feedback. This information is intended to be used by coaches to provide constructive feedback and guidance for improvement. By using this form, coaches can tailor their feedback to the specific needs of each agent and help them grow professionally. This form is not intended for general customer satisfaction surveys or call center metrics tracking. Please refer to other forms and tools for these purposes...</thinking>
-
 # Call Center Coaching Form - Help Guide
 ## Purpose
 This form is designed to provide coaching feedback to agents on their performance in call center roles.

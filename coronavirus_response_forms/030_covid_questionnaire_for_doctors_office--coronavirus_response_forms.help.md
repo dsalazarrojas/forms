@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from patients in a doctor's office setting. The purpose of this form is to gather relevant medical history, symptoms, and contact information from patients, which will help the medical staff to assess and provide proper care.
-The form consists of 6 fields, each with its own purpose and requirements.
-Before filling out the form, please make sure you have the necessary information to provide accurate answers.
-</thinking>
-
 # Covid Questionnaire For Doctors Office - Help Guide
 ## Purpose
 The Covid Questionnaire For Doctors Office is designed to collect information from patients in a doctor's office setting to help the medical staff assess and provide proper care.

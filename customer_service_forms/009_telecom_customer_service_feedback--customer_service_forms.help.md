@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for use by customers who have interacted with our telecom services and wish to provide feedback. It should only be used for genuine feedback and not for repetitive or duplicate comments. The form is meant to be a constructive way for customers to share their opinions and suggestions with our team, allowing us to continually improve our services.
-</thinking>
-
 # Telecom Customer Service Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on their interactions with our telecom services. Please take a few minutes to fill out this form to help us improve our services.

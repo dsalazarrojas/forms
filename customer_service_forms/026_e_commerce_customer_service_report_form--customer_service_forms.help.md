@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for customer service representatives to report on issues with e-commerce transactions. It's designed to collect relevant information about the customer, the order in question, and the resolution or progress made to resolve the issue. This form should only be used when a customer has an issue with a purchase or order placed on the e-commerce platform. If a customer has a general inquiry or question, they should use the "Contact Us" form instead.
-
-Internal checks will be performed to ensure that this form is only accessed by authorized personnel and that duplicate reports are not submitted.
-
-</thinking>
-
 # E Commerce Customer Service Report Form - Help Guide
 ## Purpose
 This form is for customer service representatives to report on issues with e-commerce transactions. It helps us understand the customer's concern and track progress made to resolve the issue.

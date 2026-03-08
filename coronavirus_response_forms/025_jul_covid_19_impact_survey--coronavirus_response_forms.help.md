@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about the impact of the COVID-19 pandemic on individuals. It is intended to be filled out by those who have experienced or are experiencing the effects of the pandemic. This form will help us understand how the pandemic has affected people's daily lives, their employment, their health, and their social connections. 
-Please note that this form is for informational purposes only and will be used to gather data for research. It will not be used for any other purpose.
-Before starting to fill out this form, please ensure that you have not filled it out before. If you have any doubts or concerns, please reach out to our support team.
-</thinking>
-
 # JUL COVID 19 Impact Survey - Help Guide
 ## Purpose
 This form is used to gather information about the impact of the COVID-19 pandemic on individuals. It is intended to be filled out by those who have experienced or are experiencing the effects of the pandemic.

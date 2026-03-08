@@ -1,7 +1,3 @@
-<thinking> 
-We're creating a help guide for the "skin_care_consult" form, which is used to gather information about a customer's skin care needs and preferences. The form is likely used in a customer service context to help customers find suitable skin care products or provide guidance on skin care routines. We'll break down each field to ensure end users understand its purpose and relevance. We'll also ensure this guide is concise, practical, and easy to follow.
-
-</thinking>
 # skin_care_consult - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Photography Contract & Proposal Template WorldPay UK - Help Guide
 ## Purpose
 This form is designed for photography businesses to create a contract with their clients for photo shoots. It collects information from the client, payment details, and other relevant data. 

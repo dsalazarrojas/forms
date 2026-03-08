@@ -1,21 +1,3 @@
-<thinking>
-This form appears to be a content formatting checklist, designed to guide users through a series of questions related to document formatting and submission guidelines. The form likely serves as a quality control mechanism to ensure that content meets certain standards or requirements. Before proceeding, let's clarify that the form's purpose and relevance to the users' tasks.
-
-Assuming this form is used in a content review or submission process, the form's purpose might be to:
-
-* Evaluate the formatting and submission guidelines of a document or content piece
-* Gather feedback or comments from reviewers
-* Track the review process and associated metadata
-* Provide a structured format for reviewers to follow when reviewing content
-
-Please let's review the form's fields to ensure that this explanation is accurate and complete. 
-
-Based on the provided YAML, the form appears to cover various aspects of document formatting, including style, branding guidelines, layout, and submission guidelines. Each section seems to be designed to guide the user through different stages of the review process.
-
-The form appears to be designed for use in a specific context, possibly within an organization or company, where content submission and review are crucial. 
-
-</thinking>
-
 # document-formatting-checklist - Help Guide
 ## Purpose
 The document-formatting-checklist form is designed to help users evaluate and ensure that their content meets specific formatting and submission guidelines. This form guides the user through various stages of the review process, from style and branding guidelines to layout and submission requirements.

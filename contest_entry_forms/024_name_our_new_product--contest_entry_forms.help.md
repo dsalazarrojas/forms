@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather user suggestions for a new product. The purpose of this form is to collect information about the user's idea, including the product name, category, and description. The form is designed to be simple and easy to use, with a focus on collecting relevant and useful information.
-</thinking>
-
 # Name Our New Product - Help Guide
 ## Purpose
 This form is designed to collect user suggestions for a new product. The information collected will be used to help us understand what types of products our users are interested in, and to gather feedback on potential product features and naming.

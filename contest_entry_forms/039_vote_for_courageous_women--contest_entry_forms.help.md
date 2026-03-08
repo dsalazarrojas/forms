@@ -1,10 +1,3 @@
-<thinking>
-This form is for nominating women who have shown remarkable courage and resilience in their personal or professional lives. The purpose of this form is to allow end users to provide information about these women, including their names, email addresses, phone numbers, and the story behind their nomination. This form will be used by administrators to verify the nominations and ensure that the nominations are accurate and complete.
-
-Before completing this form, please ensure that you are not duplicating a nomination that has already been made. If you are unsure, you can check the list of previous nominations to see if someone has already been nominated.
-
-</thinking>
-
 # Vote For Courageous Women - Help Guide
 ## Purpose
 The purpose of this form is to collect nominations for women who have shown remarkable courage and resilience in their personal or professional lives.

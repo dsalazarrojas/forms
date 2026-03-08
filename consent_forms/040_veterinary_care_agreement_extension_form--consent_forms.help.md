@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information and obtain consent for the extension of veterinary care services. This form is designed to collect essential details from the owner and their pet, as well as medical history, treatment, and consent dates. It's intended to be filled out by the pet owner, with the involvement of a veterinarian for verification and validation.
-
-To ensure consistency, this form should only be filled out by individuals seeking to extend their veterinary care services. Reusing this form is not recommended, as it may lead to inaccurate or outdated information.
-
-</thinking>
-
 # veterinary_care_agreement_extension_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information and obtain consent for the extension of veterinary care services. It is designed to collect essential details from the owner and their pet, as well as medical history, treatment, and consent dates.

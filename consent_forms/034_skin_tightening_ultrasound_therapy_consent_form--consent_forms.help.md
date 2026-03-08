@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a brief internal reasoning block to ensure the form purpose and relevance are clear:
 The "skin_tightening_ultrasound_therapy_consent_form" is a consent form designed to be filled out by a client prior to undergoing skin tightening ultrasound therapy. The form is intended to ensure that the client understands the treatment and its potential risks and benefits, and that they are aware of their rights and responsibilities as a client. The form is typically used in a healthcare setting to obtain informed consent from clients before performing a procedure. 
 

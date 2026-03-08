@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by employees to report their health status in relation to COVID-19 symptoms. It helps the organization track and monitor potential cases of COVID-19 among employees, ensuring that those who are at risk are identified and isolated to prevent the spread of the virus. This form should only be filled out by employees who are physically at the organization's location or on-site, and not remotely. If an employee has already completed the form, they should not need to fill it out again unless their symptoms or status changes. Please only fill out this form if you are experiencing symptoms or have been diagnosed with COVID-19.
-</thinking>
-
 # Employee Covid 19 Screening Checklist - Help Guide
 ## Purpose
 This form is used to report COVID-19 symptoms or potential exposure to COVID-19 among employees.

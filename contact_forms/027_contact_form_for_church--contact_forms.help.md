@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather contact information and inquiries from visitors, first-time attendees, or members of the church. It's designed to be a straightforward way to capture the necessary details for the church's administrative team to follow up on inquiries, provide support, or offer resources. To avoid duplication, users should only submit the form once for each inquiry. Please ensure that all required fields are filled out completely before submitting.
-</thinking>
-
 # Contact Form For Church - Help Guide
 ## Purpose
 The purpose of this form is to gather contact information and inquiries from visitors, first-time attendees, or members of the church.

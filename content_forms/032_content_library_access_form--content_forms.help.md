@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the Content Library Access Form is to allow individuals to request access to specific sections within a content library, which contains a collection of articles, videos, audio files, templates, research reports, case studies, and other resources. This form is used to gather information about the requester, their organization, and their intended use of the content.
-
-This form is intended for individuals who need access to the content library for various reasons such as research, education, content creation, business planning, professional development, or client work. It is not intended for general public access.
-
-The form is designed to be completed by the requester, who must provide accurate and relevant information about themselves, their organization, and their intended use of the content. The information gathered through this form will be used to determine the level of access granted to the requester.
-
-</thinking>
-
 # Content Library Access Form - Help Guide
 
 ## Purpose

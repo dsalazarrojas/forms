@@ -1,5 +1,3 @@
-<thinking>Before creating this form, we need to consider the purpose of the Tax And VAT Consultation Form. This form is likely used for businesses to provide consultation services related to tax and VAT (Value-Added Tax) matters. The form might be used by businesses to gather information about the taxpayer's details, tax type, business type, and other relevant information to provide consultation services. To avoid duplication of efforts, let's ensure that this form does not overlap with any existing forms that serve a similar purpose.</thinking>
-
 # Tax And VAT Consultation Form - Help Guide
 ## Purpose
 The Tax And VAT Consultation Form is designed to gather information from businesses seeking tax and VAT consultation services. This form helps us understand your business details, tax-related information, and reasons for consultation.

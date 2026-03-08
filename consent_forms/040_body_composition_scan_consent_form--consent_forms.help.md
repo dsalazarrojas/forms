@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for clients to provide information and consent for a body composition scan, which is a diagnostic tool used to measure body fat, lean mass, and other related metrics. 
-The form is designed to ensure the client understands the procedure, potential risks, and data usage. 
-Please note that the information provided may be used for analysis, but it will be shared only with the client's healthcare provider unless the client gives explicit consent. 
-</thinking>
-
 # Body Composition Scan Consent Form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a simple contact form used to gather information from users. It is likely used by businesses or organizations to receive feedback, inquiries, or other contact information from customers or visitors. The form has 5 fields:
-- contact_form (a text field for any type of message)
-- name (a text field to input name)
-- email (an email field to input email address)
-- phone (a text field to input phone number)
-- message (a text field for detailed message)
-This form does not check for duplicate submissions or has any other advanced features, so users can submit the form multiple times with the same data. Ensure to provide the necessary information for the intended purpose and use the form in a way that follows the organization's guidelines and policies.
-
-</thinking>
-
 # Facebook Contact Form - Help Guide
 ## Purpose
 The Facebook Contact Form is a tool used to gather contact information and messages from users. It is intended for businesses or organizations to receive feedback, inquiries, or other contact information from customers or visitors.

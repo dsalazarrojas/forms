@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from employees about their COVID-19 status before starting their shift. This includes their screening date, shift time, employee name, employee ID, department, body temperature, and other symptoms and exposure information. The form aims to ensure that employees are cleared to work safely and to identify potential issues that require manager notification or further investigation.
-</thinking>
-
 # COVID 19 Employee Pre Shift Screening Questionnaire - Help Guide
 
 ## Purpose

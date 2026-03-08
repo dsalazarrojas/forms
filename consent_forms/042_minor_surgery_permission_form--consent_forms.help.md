@@ -1,16 +1,3 @@
-<thinking>
-This form is a Minor Surgery Permission Form, which is used to obtain consent for minor surgery from a parent or guardian. This form is intended to ensure that parents or guardians are aware of and agree to the surgery, and to gather necessary information for the medical team. 
-
-This form is not a substitute for medical advice or a medical professional's opinion. It is not intended to be used as a legal document, but rather as a tool to aid in the process of obtaining consent. 
-
-Before creating this form, the developer has taken into account various medical and legal requirements, but it is the responsibility of the person filling out this form to ensure that all necessary information is accurate and up-to-date.
-
-This form is designed to be used for minor surgery, but the specific type of surgery and the patient's age and medical condition should be considered when filling out this form. 
-
-Please ensure that this form is used in conjunction with a medical professional's advice and opinion.
-
-</thinking>
-
 # Minor Surgery Permission Form - Help Guide
 ## Purpose
 This form is used to obtain consent from a parent or guardian for minor surgery to be performed on a minor patient. It gathers essential information about the patient, the surgery, and the consent given.

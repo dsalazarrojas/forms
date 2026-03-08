@@ -1,11 +1,3 @@
-<thinking>
-
-The "Data Modernization Consulting Contact Form" is designed to capture leads for a consulting service that helps businesses modernize their data and processes. This form is intended to collect information from potential clients who are interested in learning more about the consulting service. The fields collected will be used to schedule a discovery call with the consultant and potentially start a project.
-
-The form is divided into four pages: lead capture, modernization goals, schedule a discovery call, and contact information. The lead capture page is optional and is intended for users who have not yet decided on their data modernization goals or are not ready to schedule a discovery call. The modernization goals page allows users to describe their goals and objectives for data modernization. The schedule a discovery call page is a required field for users who are ready to take the next step and schedule a call with the consultant. The contact information page captures the user's company name, email, and phone number.
-
-</thinking>
-
 # Data Modernization Consulting Contact Form - Help Guide
 ## Purpose
 The "Data Modernization Consulting Contact Form" is designed to capture leads for a consulting service that helps businesses modernize their data and processes.

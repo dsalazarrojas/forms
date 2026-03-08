@@ -1,5 +1,3 @@
-<thinking>**Internal Note**: The "Customer Learning Outcome" form is used to record information about a customer's learning experience. This includes details about the customer's background, organization, learning outcomes, and course information. This form is not intended for customers who have not taken a course, as it's primarily focused on recording learning results for customers who have completed a course. Please ensure that customers are properly identified as having completed a course before filling out this form. To avoid duplication, please ensure that this form is not filled out concurrently with other forms related to customer information.</thinking>
-
 # Customer Learning Outcome - Help Guide
 ## Purpose
 This form is used to record the learning outcomes of customers who have completed a course. It helps in tracking and understanding the effectiveness of our courses.

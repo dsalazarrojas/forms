@@ -1,5 +1,3 @@
-<thinking>This form is used to register a digital content provider, which is a person or organization that creates and provides digital content such as videos, audios, images, or other digital media. The form gathers essential information about the provider, including their name, email, portfolio URL, and contact details. The purpose of this form is to help content moderators, curators, or administrators quickly and efficiently verify and contact potential digital content providers. The form does not duplicate information that is already available in other systems, and it only requires the necessary information for a provider to be registered and approved. The form fields are clearly defined and easy to understand, making it simple and user-friendly for end-users to fill out.</thinking>
-
 # Digital Content Provider Registration - Help Guide
 ## Purpose
 The purpose of this form is to register a digital content provider, gathering essential information for verification and contact.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and efficiently by our end-users. A good understanding of its purpose and structure will help us reduce support queries and improve user experience. We should also check that the form is not being used for its intended purpose and is not duplicating efforts of other forms or processes within the organization.
-</thinking>
-
 # How Was Your Experience With Us? - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on their experience with our organization. It allows customers to rate their satisfaction and provide comments, contact details, and any additional feedback they might have.

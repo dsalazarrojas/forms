@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Recovery Strategy Course Registration - Help Guide
 
 ## Purpose

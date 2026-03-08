@@ -1,20 +1,3 @@
-<thinking>
-This form is likely used to obtain liability waivers from clients who have received or will receive services from a makeup, lashes, and brow services business. The purpose of this form is to gather necessary information from clients, including their contact details and the services they received. It's likely that this form is used to help the business protect themselves against potential liabilities.
-
-To ensure that this form is being used correctly, it's recommended to:
-
-* Make sure to fill out all required fields.
-* Enter accurate information in the "Client Name" field.
-* Enter the correct date of birth in the "Date Of Birth" field if applicable.
-* Enter a valid phone number in the "Phone" field.
-* Enter a valid email address in the "Email" field if applicable.
-* Enter the correct address in the "Address" field.
-* Select all services provided to the client in the "Services Rendered" field.
-* Sign the "Signature" field after completion.
-
-The "Services Rendered" field should only be used to select all services provided to the client.
-</thinking>
-
 # Makeup, Lashes And Brow Services COVID 19 Liability Waiver - Help Guide
 ## Purpose
 This form is used to obtain liability waivers from clients who have received or will receive services from a makeup, lashes, and brow services business.

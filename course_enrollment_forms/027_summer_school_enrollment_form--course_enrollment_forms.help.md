@@ -1,12 +1,3 @@
-<thinking>
-Form purpose is to gather information from students for summer school enrollment, ensuring accuracy in capturing their course and contact details for efficient registration and communication. This form should be used for students who want to enroll in summer school courses and provide necessary details for program selection and contact information.
-
-When creating or editing this form, ensure it's tailored to the specific needs of your summer school program and its unique requirements.
-
-The following form is designed to capture information from students who are enrolling in summer school programs. This guide will walk you through the fields and their corresponding explanations to help you complete the form accurately and efficiently.
-
-</thinking>
-
 # Summer School Enrollment Form - Help Guide
 ## Purpose
 This form is designed to gather information from students who are interested in enrolling in summer school programs. Please fill out the form accurately to ensure a smooth registration process.

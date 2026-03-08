@@ -1,11 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate completion of this form, please note that the Shelter Resident Participation Consent Form is a crucial document that requires consent from shelter residents to participate in various activities, programs, and services within the shelter. This form aims to gather essential information from residents, including their emergency contacts, activities they participate in, and signature of consent. Completing this form ensures that the resident and their emergency contacts are aware of the activities and services they are signing up for and agree to participate in them.
-
-Before filling out this form, please ensure that you have the necessary information and consent from the resident and their emergency contacts.
-
-To complete this form, please follow the instructions below:
-</thinking>
-
 # Shelter Resident Participation Consent Form - Help Guide
 ## Purpose
 The Shelter Resident Participation Consent Form is a document that requires consent from shelter residents to participate in various activities, programs, and services within the shelter.

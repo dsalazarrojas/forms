@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from project stakeholders to assist with cost analysis. The primary goal is to gather project details, files, questions, contact information, email, due dates, and assignees to facilitate the cost analysis process. This form helps ensure that all necessary information is collected in a single, organized location, reducing the likelihood of missing critical data. The form is designed to be simple and easy to fill out, with clear labels and instructions to guide users through the process.
-
-</thinking>
-
 # Cost Analysis Assistance Request Form - Help Guide
 ## Purpose
 The Cost Analysis Assistance Request Form is a tool used to collect and organize project information for cost analysis purposes. This form will help our team understand your project's specifics and gather the necessary details to provide accurate cost analysis and guidance.

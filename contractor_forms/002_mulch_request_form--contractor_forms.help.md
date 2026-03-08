@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose and context of the "Mulch Request Form", we need to examine the provided form fields and their corresponding labels. Based on this analysis, here is a possible internal reasoning block to help us create a user-facing help guide:
-The form likely serves for requesting mulch, which is a type of organic material used for garden or yard decoration, typically made from processed plant materials. Given the presence of fields such as "Mulch Type", "Quantity", "Delivery Date", and "Delivery Time", the form seems to be used for customers or clients to provide mulch-related requests. The "Address" and "Contact Info" fields suggest that the form is also used for logistical or administrative purposes. The "Email" and "Phone" fields imply that communication is a crucial part of the mulch request process.
-
-The form is likely used to collect information about the mulch request, including the desired type, quantity, and delivery details. Customers or clients can provide their name, contact information, and any additional comments or notes related to the request. The form might be used by a business or organization that provides mulch services, such as a landscaping company or a gardening supply store.
-</thinking>
-
 # Mulch Request Form - Help Guide
 ## Purpose
 The "Mulch Request Form" is a tool used to collect information about mulch requests from customers or clients. It helps the business or organization providing the mulch services to understand the needs and requirements of their clients.

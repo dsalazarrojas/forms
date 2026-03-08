@@ -1,23 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form that is used for user registration in a gaming tournament. The form is used for collecting information from users who want to participate in the tournament. The form has multiple pages with different fields for user input, team information, team members, Discord details, team name, game selection, tournament type, division, start and end dates, etc. 
-
-We need to ensure that the form is completed in the correct manner, and users understand the purpose and relevance of each field. 
-
-Before proceeding, let's review the form structure:
-- Page 1: User Input
-- Page 2: Team Information
-- Page 3: Team Members
-- Page 4: Discord Details
-- Page 5: Team Name
-- Page 6: Game Selection
-- Page 7: Tournament Type
-- Page 8: Division
-- Page 9: Start and End Dates
-
-Each page has specific fields that are relevant to the page content.
-
-</thinking>
-
 # Gaming Tournament Registration Form - Help Guide
 ## Purpose
 The Gaming Tournament Registration Form is a tool used to collect information from participants who want to join a gaming tournament. This form is designed to gather necessary details such as team information, team members, and game preferences to create a smooth and organized experience for both the participants and tournament organizers.

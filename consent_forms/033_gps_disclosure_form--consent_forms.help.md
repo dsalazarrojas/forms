@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a specific type of property, likely a GPS device, for record keeping and tracking purposes. It appears to be related to monitoring or monitoring activities or locations. I will assume this form is used for tracking or monitoring a piece of property, possibly for security or surveillance reasons. It's possible that this form is used to document some kind of agreement or contract related to the property.
-</thinking>
-
 # GPS Disclosure Form - Help Guide
 ## Purpose
 The GPS Disclosure Form is used to collect information about a specific type of property, typically a GPS device, for record keeping and tracking purposes.

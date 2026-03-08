@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help instructors upload videos for online classes. The form should only be used for uploading videos for classes, not for other types of videos or content. Please make sure you have a clear understanding of your institution's policies and guidelines before using this form. This form was created to streamline the process of uploading video materials for online classes, making it easier for instructors to share video content with students.
-</thinking>
-
 # online_class_video_upload_form - Help Guide
 ## Purpose
 The online_class_video_upload_form is designed to help instructors upload videos for online classes. This form gathers essential information about the video, such as its title, description, and upload date, as well as details about the student and course.

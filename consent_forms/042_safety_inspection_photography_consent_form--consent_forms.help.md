@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning:** This form is used to obtain consent from individuals before taking photos during a safety inspection. The form will ask for information about the category of the inspection, a brief description, and the business and individual involvement. The user will also be able to specify the purpose of the photography and provide a reason for their consent. The form is designed to be completed by a single user, and the fields are not mandatory. 
-
-</thinking>
-
 # Safety Inspection Photography Consent Form - Help Guide
 ## Purpose
 The Safety Inspection Photography Consent Form is used to obtain consent from individuals before taking photos during a safety inspection. This form ensures that individuals are aware of and agree to the photography, which may be used for documentation, training, or other purposes.

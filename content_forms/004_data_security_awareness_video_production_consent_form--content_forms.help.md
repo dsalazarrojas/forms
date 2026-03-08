@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for video production consent, specifically for staff members participating in data security awareness video shoots. It is intended for internal use within the organization and is not meant to be shared with external parties. Please ensure that the form is completed accurately and honestly, as it will be used to ensure that all participants have provided their consent for the video shoot. Before proceeding, review the form carefully and ensure that you have the necessary permissions and approvals from all relevant parties. If you are unsure about any aspect of the form, please seek clarification from the relevant authorities.
-</thinking>
-
 # data_security_awareness_video_production_consent_form - Help Guide
 ## Purpose
 This form is used to collect information for video production consent, specifically for staff members participating in data security awareness video shoots.

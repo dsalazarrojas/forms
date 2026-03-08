@@ -1,6 +1,3 @@
-<thinking>
-This form is a Photography Copyright Release Form, which allows copyright owners to grant permission for others to use, reproduce, or distribute their photographs. This form is designed to be filled out by photographers or copyright owners to provide a clear and concise way to communicate their permissions.
-</thinking>
 # Photography Copyright Release Form - Help Guide
 ## Purpose
 This form is used to obtain consent from copyright owners to use, reproduce, or distribute their photographs. It captures the necessary information to establish the copyright owner's permission, including the photographer's name, address, the date of the release, authorized uses, and the copyright owner's signature.

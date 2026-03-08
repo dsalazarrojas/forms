@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for the Brow Lamination Tint procedure. It is likely used in a medical or professional setting where procedures have to be documented and consent obtained from clients or patients. The form is designed to gather essential details about the procedure, including waiver information, procedure description, risk acknowledgement, assigned tool, output file, form ID, category, and description.
-</thinking>
-
 # Waiver_brow_lamination_tint - Help Guide
 ## Purpose
 This form is used to document the Brow Lamination Tint procedure, ensuring that all relevant information is collected and stored in a centralized location.

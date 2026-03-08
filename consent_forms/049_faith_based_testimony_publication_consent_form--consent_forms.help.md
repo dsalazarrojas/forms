@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent for the publication of faith-based testimonies. The purpose of this form is to ensure that individuals providing testimonials have given their consent for their story to be published, and to collect relevant information about their preferences for the publication process. The form is designed to be completed by individuals who have been approached for a faith-based testimony.
-</thinking>
-
 # Faith Based Testimony Publication Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Documentary Footage License Request Form - Help Guide
 ## Purpose
 This form is used to request a license for documentary footage from [Your Company/Institution]. The form gathers essential information about the intended use of the footage, including usage purpose, distribution channel, license duration, and other technical details. This form must be filled out completely and accurately to ensure that we can efficiently process your request and provide the required licenses.

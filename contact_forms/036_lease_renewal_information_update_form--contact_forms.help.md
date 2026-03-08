@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for lease renewal purposes from landlords and tenants. The form is intended to gather essential details from both parties to facilitate a smooth and hassle-free process. The form's purpose is to ensure that the necessary information is up-to-date and accurate to prevent any potential issues or disputes during the lease renewal process. This form should only be used for lease renewals that are currently active or pending renewal. Duplicate submissions will not be accepted.
-</thinking>
-
 # Lease Renewal Information Update Form - Help Guide
 ## Purpose
 The Lease Renewal Information Update Form is a document that helps landlords and tenants update and confirm lease renewal details. This form ensures that accurate and up-to-date information is collected for a seamless transition during the lease renewal process.

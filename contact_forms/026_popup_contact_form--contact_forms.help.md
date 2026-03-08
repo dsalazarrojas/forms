@@ -1,11 +1,3 @@
-<thinking>
-The Popup Contact Form is a user-facing form designed to gather information from users who want to reach out to the organization for support or inquiry. It is meant to be a quick and easy way for customers to submit their concerns, questions, or feedback.
-
-This form is intended to be used by anyone who wants to get in touch with the organization, and it's not limited to employees or registered users. The form should not be used for internal purposes within the organization, such as for submitting internal support requests. If you're looking to use this form for internal purposes, please use our internal support ticketing system.
-
-To avoid duplication of effort, please make sure to check our knowledge base and existing forums before submitting a request through this form. This will help us ensure that your question or issue hasn't been addressed already.
-</thinking>
-
 # Popup Contact Form - Help Guide
 ## Purpose
 The Popup Contact Form is a simple and easy-to-use form that allows users to quickly get in touch with the organization. Fill out the form with your details and concerns, and we'll get back to you as soon as possible.

@@ -1,9 +1,3 @@
-<thinking>
-This is the internal reasoning and checks:
-We will create a help guide that explains the purpose and completion process of the "New Product Survey" form. The form seems to be for collecting feedback or ratings from customers on a new product. It's not clear if the form is meant for internal or external use, so we will assume it's for external use. We should also check if the form is meant to be filled out by customers or if it's a form for internal staff. Let's assume it's for customers. The fields are mostly self-explanatory, but some labels are a bit weak. For example, "Contact Phone" could be a more specific label like "Mobile Phone Number". "Date of Birth" might be more accurately labeled as "Age" if it's for rating purposes. We will use our best-effort explanation for these fields.
-
-</thinking>
-
 # New Product Survey - Help Guide
 ## Purpose
 The "New Product Survey" form is designed to gather feedback and ratings from customers on a new product. This form is meant to be filled out by customers to provide their opinions and suggestions about the product.

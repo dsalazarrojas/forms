@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for the Needlecraft Tournament. The form has multiple fields that require various types of data, including text, select options, email, number, and date/time fields. Each field has a unique label and description, and some fields are required or optional.
-To ensure that this form is completed accurately and completely, it's essential to understand each field's purpose and requirements. This guide will walk you through each section of the form, explaining what each field means and how to fill it out correctly.
-</thinking>
-
 # Needlecraft Tournament Entry Form - Help Guide
 
 ## Purpose

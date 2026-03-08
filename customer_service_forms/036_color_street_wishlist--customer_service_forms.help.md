@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to express their interest in specific Color Street sets, such as solids, glitters, designs/art, and French manicure options. The form is designed to be completed by customers who want to request relaunching of these sets. It's likely that this form is intended for customers who are not yet working with a Color Street stylist or who want to provide feedback on specific products they are interested in.
-</thinking>
-
 # Color Street Wishlist - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to express their interest in specific Color Street sets, such as solids, glitters, designs/art, and French manicure options. This information will be used to determine which sets to relaunch in the future.

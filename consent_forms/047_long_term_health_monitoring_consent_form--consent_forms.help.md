@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to provide their consent for long term health monitoring. The purpose of this form is to document the participant's consent and contact information, as well as the details of the monitoring process. This form ensures that the participant is aware of and agrees to the monitoring process. The form is likely used in a healthcare setting, possibly by medical professionals or researchers, and is intended to be filled out by the participant. It is not a medical form per se, but rather a consent form that requires explicit agreement from the participant before monitoring begins.
-</thinking>
-
 # Long Term Health Monitoring Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain consent from participants for long term health monitoring. It is intended for patients to provide their consent and contact information, and to document the details of the monitoring process.

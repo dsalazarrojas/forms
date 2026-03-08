@@ -1,14 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'll first analyze the form purpose and fields before providing the user-facing help guide.
-
-The purpose of this form is to collect information about an employee's health and safety status in the workplace during the COVID-19 pandemic. The form aims to ensure that employees are following proper protocols to prevent the spread of the virus and provide a safe working environment.
-
-Upon reviewing the form fields, I noticed that most of them are related to health and safety protocols, such as temperature checks, mask-wearing, and hand hygiene. The form also asks about potential exposure to COVID-19 and vaccination status. 
-
-To avoid duplication, it's essential to ensure that the form is not used in areas where these questions have already been answered, or in cases where the employee is not required to answer the same questions.
-
-</thinking>
-
 # Covid 19 Workplace Safety Checklist Form - Help Guide
 ## Purpose
 The Covid 19 Workplace Safety Checklist Form is designed to collect information about an employee's health and safety status in the workplace during the COVID-19 pandemic. This form ensures that employees follow proper protocols to prevent the spread of the virus and provide a safe working environment.

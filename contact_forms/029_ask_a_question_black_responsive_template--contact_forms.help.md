@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to send a question or message to the contact team.
-Before filling out the form, ensure that:
-* You have not filled out this form recently or in the past 24 hours.
-* The question or issue you are inquiring about is not a duplicate or already known to the team.
-</thinking>
-
 # Ask A Question Black Responsive Template - Help Guide
 ## Purpose
 This form is designed to allow users to send a question or message to the contact team, who will typically respond within 24 hours.

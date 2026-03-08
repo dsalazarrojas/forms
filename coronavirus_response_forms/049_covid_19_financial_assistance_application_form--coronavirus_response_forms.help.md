@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are experiencing financial hardship due to the COVID-19 pandemic. The purpose of this form is to gather data on how the pandemic has impacted their income and financial situation, allowing the organization to provide targeted financial assistance. The form will be reviewed to determine the applicant's eligibility for aid and the amount of assistance they may receive.
-
-This form will be used to collect information on:
-
-*   Application date and time
-*   Personal details (name, date of birth, email address, phone number)
-*   Employment status and occupation
-*   Income information (annual income before COVID-19, current monthly income, income reduction percentage)
-*   Household information (household size, number of dependents)
-*   Financial situation (monthly essential expenses, housing status, monthly rent or mortgage payment, current savings balance, outstanding debts)
-*   Medical expenses related to COVID-19
-*   Government or other assistance received
-*   Amount of assistance requested and purpose of aid
-*   Statement of financial hardship
-
-Please ensure that all required fields are completed accurately and thoroughly to ensure the best possible assessment of your financial situation.
-
-</thinking>
-
 # COVID 19 Financial Assistance Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed information from individuals who are experiencing financial hardship due to the COVID-19 pandemic. This information will be used to assess eligibility for financial assistance and determine the amount of aid you may receive.

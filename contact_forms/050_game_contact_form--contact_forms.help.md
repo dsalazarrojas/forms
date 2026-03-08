@@ -1,7 +1,3 @@
-<thinking>
-**Form purpose:** The Game Contact Form is a straightforward tool for players to share their thoughts, questions, or feedback about a game. This form allows developers or game owners to collect contact information and messages from users, enabling them to get in touch with players who want to communicate or provide suggestions for improvement. **Form relevance and non-duplication**: This form is designed to be used by players to reach out to game owners or developers, providing a convenient way to express their opinions or concerns. Please fill in only one form per player. If you've already contacted us, you won't need to fill in this form again.
-</thinking>
-
 # Game Contact Form - Help Guide
 ## Purpose
 The Game Contact Form is a simple, user-friendly contact form designed to enable players to reach out to the game owners or developers with their thoughts, questions, or feedback about the game.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Tech Contractor Application And Agreement - Help Guide
 ## Purpose
 This form is used for Nail Tech contractors to apply for and agree to work with our organization. It collects the necessary information for verification and agreement purposes. Please ensure you are completing the form accurately to ensure a smooth onboarding process. To avoid any confusion, please do not reuse this form for any other purpose.

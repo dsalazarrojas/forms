@@ -1,5 +1,3 @@
-<thinking>...This form template is designed to help customer service agents create new customer profiles and provide essential information for customer service purposes. This form will guide you through the process of collecting customer details for efficient and effective customer service management. Please ensure that you are using this form in the correct context and that the customer's information is accurate to avoid duplication of efforts or misallocated resources.</thinking>
-
 # New Customer Set Up Form Template - Help Guide
 ## Purpose
 The New Customer Set Up Form Template is a comprehensive form designed to gather necessary information about new customers. This form is intended for use by customer service agents to create accurate and up-to-date customer profiles.

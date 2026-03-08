@@ -1,10 +1,3 @@
-<thinking>
-The Vendor Profile Form is designed to collect information from vendors, which will be used to create their profile and display it in a list or map. The form is used in the context of vendor management, where vendors are businesses or individuals that provide goods or services. The purpose of this form is to provide a standardized way to collect and present vendor information. By filling out this form, vendors can easily share their profile with your organization and you can manage them efficiently. This guide will help you understand what each field is for and how to fill it out correctly.
-
-Please note that if you're already a registered vendor, you might not need to fill out this form. Check with your organization to confirm.
-
-Also, be sure to review the fields carefully and fill out the required ones (marked as "required") to ensure that your profile is complete and accurate.</thinking>
-
 # Vendor Profile Form - Help Guide
 ## Purpose
 The Vendor Profile Form is designed to collect information from vendors, which will be used to create their profile and display it in a list or map.

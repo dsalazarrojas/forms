@@ -1,18 +1,3 @@
-<thinking>
-This form is for customers to request carpet cleaning services. To ensure the accuracy and completeness of the information, please review the form carefully before submitting it. Please note that the form is divided into sections, and each section is designed to gather specific information about the customer's needs. 
-
-Before filling out the form, ensure that you have all the necessary information ready. If you need help or have questions, you can contact our support team for assistance. 
-
-Also, make sure to fill out the form in the correct format, and if you have any doubts or concerns, please let us know so we can clarify any issues. 
-
-This form is for customers who want to book a carpet cleaning service. It gathers information about the customer's contact details, carpet cleaning requirements, and scheduling preferences. 
-
-This form is designed to be user-friendly and easy to fill out, but please take your time and ensure that all fields are accurate and complete before submitting it. 
-
-If you have any concerns or need further clarification, please contact our support team, and we'll be happy to assist you.
-
-</thinking>
-
 # Carpet Cleaning Request Form - Help Guide
 ## Purpose
 This form is designed to gather information about your carpet cleaning requirements and preferences. It will help our team schedule and prepare for your appointment.

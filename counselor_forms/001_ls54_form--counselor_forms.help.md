@@ -1,7 +1,3 @@
-<thinking>
-The "Ls54 Form" is designed to collect detailed information from individuals or agencies about labor laws and employment-related work history. This form aims to gather data on job tenure, work hours, employer details, and other relevant information. It is essential to complete this form accurately to ensure the submitted information is comprehensive and precise. Please ensure you have the necessary information before filling out this form, and be aware that incomplete or inaccurate submissions may lead to processing delays.
-</thinking>
-
 # Ls54 Form - Help Guide
 ## Purpose
 The Ls54 Form is a comprehensive form used to collect detailed information from individuals or agencies about labor laws and employment-related work history.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to acknowledge and document a no-show policy. The no-show policy is used to track and penalize patients who fail to show up for scheduled appointments or services without providing a valid reason or prior notice. The form is designed to capture relevant details about the service, reason for no-show, and contact method used to inform the patient of the no-show. This form is intended to be completed by healthcare staff after the patient has failed to show up for a scheduled appointment or service. The form is not intended to be completed by patients themselves. It is essential to ensure that this form is only used for patients who have failed to show up for a scheduled appointment or service, and not for other purposes such as new patient intakes or routine follow-ups.
-</thinking>
-
 # No Show Policy Acknowledgment - Help Guide
 ## Purpose
 This form is designed to document and acknowledge a patient's no-show, including the reason for the no-show and the method used to contact the patient.

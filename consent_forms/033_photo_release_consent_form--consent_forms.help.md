@@ -1,14 +1,3 @@
-<thinking>
-This form is used to obtain consent from the owner of a photograph or other visual content for its use by an acquiring party. This form helps to establish a clear understanding between the photo owner and the acquiring party regarding the purpose of use and any other relevant details. This ensures that both parties are aware of the terms and conditions under which the photo will be used, and that the photo owner's rights are respected and protected.
-
-The purpose of this form is to:
-* Ensure that the photo owner has given their informed consent for the acquiring party to use their photo
-* Establish clear terms and conditions for the use of the photo
-* Facilitate open communication between the photo owner and the acquiring party
-
-Before filling out this form, please note that it is recommended to review and understand the contents carefully to ensure that your consent is informed and voluntary.
-</thinking>
-
 # Photo Release Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from the photo owner for the use of their photograph or other visual content by an acquiring party. The form provides a clear understanding of the purpose and terms under which the photo will be used.

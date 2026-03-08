@@ -1,10 +1,3 @@
-<thinking>
-This form is used by the Identity Creative Agency to gather information from users about their identities and roles. 
-The form is designed to collect user's name, contact information, and professional background. 
-Please ensure you are filling out this form for a legitimate purpose and not to spam or solicit information for personal gain. 
-Duplicate submissions from the same user/IP address will be deleted. 
-</thinking>
-
 # Identity Creative Agency Form - Help Guide
 ## Purpose
 The Identity Creative Agency Form is designed to gather information from users about their identities and roles. This form is used by the agency to verify user information and provide relevant services.

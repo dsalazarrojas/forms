@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for guests to register for a stay at a safari villa, providing essential information for the guest and the villa's management team. The form should only be filled out by guests who are planning to stay at the safari villa. If you're not planning to stay at the safari villa, please do not fill out this form. 
-</thinking>
-
 # safari_villa_guest_registration_form - Help Guide
 ## Purpose
 The "safari_villa_guest_registration_form" is a form for guests to provide information about their stay at the safari villa. This form helps the guest's management team to prepare for their arrival and stay.

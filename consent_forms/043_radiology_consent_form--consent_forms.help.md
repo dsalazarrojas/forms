@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the Radiology Consent Form, a crucial document that ensures patients understand and agree to the risks and benefits of radiology procedures. The form is designed to be completed by patients and medical staff to ensure informed consent is obtained before proceeding with any radiology procedure. To create this guide, I will review the provided YAML fields and provide a clear and concise explanation of each field, making it easy for end-users to understand the form's purpose and how to complete it correctly. I will also ensure that the explanation is concrete and practical, addressing any potential questions or doubts users may have.
-
-</thinking>
-
 # Radiology Consent Form - Help Guide
 ## Purpose
 The Radiology Consent Form is a critical document that confirms a patient's understanding and agreement to undergo a radiology procedure. It ensures that the patient is aware of the risks and benefits associated with the procedure and provides informed consent before the procedure is conducted.

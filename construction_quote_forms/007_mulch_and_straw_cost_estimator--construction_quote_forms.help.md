@@ -1,15 +1,3 @@
-<thinking>
-We need to create a help guide for the "Mulch And Straw Cost Estimator" form, which is used to collect information about projects involving mulch and straw. The form is intended to help users quickly and easily estimate the costs associated with these projects. This form is likely used in a construction or landscaping context, where users need to provide details about the project, including the type and quantity of materials needed.
-
-To ensure that we are providing the most useful information, let's review the form fields and make sure that we are covering all the necessary aspects. This form seems to collect information about the project details, materials, and contacts. It also includes sections for estimated costs and project status.
-
-Before we proceed, let's make sure that we are not duplicating any information. For example, the "project_status" and "project_status_2" fields seem to be related to the same project status, so we might want to consider merging them into one field.
-
-Let's also consider whether any of the fields are redundant or unnecessary. For example, the "contact_person_2" and "contact_email_2" fields seem to be redundant with the "contact_person" and "contact_email" fields, as they are both optional and seem to be collecting the same type of information.
-
-Once we've reviewed the form fields, let's proceed with creating the help guide.
-</thinking>
-
 # Mulch And Straw Cost Estimator - Help Guide
 ## Purpose
 The "Mulch And Straw Cost Estimator" form is used to collect information about projects involving mulch and straw. This form helps users quickly and easily estimate the costs associated with these projects.

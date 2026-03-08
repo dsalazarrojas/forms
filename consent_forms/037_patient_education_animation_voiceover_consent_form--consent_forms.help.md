@@ -1,5 +1,3 @@
-<thinking>... Checking if the form purpose is to obtain informed consent for a patient education animation voiceover and if it's not a duplicate or redundant form in our system... This form is designed to obtain informed consent from patients for the use of their voice in an animation, which will be used for educational purposes. It's likely that this form will be used in a medical setting to provide patients with a clear understanding of the terms and conditions of their consent... After checking, it seems this form is likely not a duplicate, and it's a new and original form created using AI... </thinking>
-
 # Patient Education Animation Voiceover Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from patients for the use of their voice in an animation for educational purposes.

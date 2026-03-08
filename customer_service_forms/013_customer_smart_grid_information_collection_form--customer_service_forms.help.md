@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from customers about their smart grid usage. The form is intended to gather data on customer names, contact information, usage patterns, and account details. The fields are meant to be completed by customers or their representatives, and the data will be used to improve our understanding of customer behavior and optimize our services. 
-
-Please note that the form is not meant to collect any sensitive or confidential information, and all data will be handled accordingly. We appreciate your cooperation in providing accurate and complete information.</thinking>
-
 # Customer Smart Grid Information Collection Form - Help Guide
 
 ## Purpose

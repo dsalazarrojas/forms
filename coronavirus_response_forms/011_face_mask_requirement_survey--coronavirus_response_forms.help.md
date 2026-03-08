@@ -1,8 +1,3 @@
-<thinking>... internal reasoning block: 
-This form is designed for workers in a specific organization to report their face mask requirement for work-related activities. It is meant to be completed by workers who are required or not required to wear face masks in their work environment. This form is likely to be used by management or HR to determine the face mask policy effectiveness and identify areas where improvement is needed.
-
-</thinking>
-
 # Face Mask Requirement Survey - Help Guide
 ## Purpose
 The Face Mask Requirement Survey is a form used to report whether workers are required or not to wear face masks in their work environment. It helps management or HR teams to understand the current face mask policy and its effectiveness.

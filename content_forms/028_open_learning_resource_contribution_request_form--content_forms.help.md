@@ -1,12 +1,3 @@
-<thinking>... internal reasoning:
-This form is intended to collect information from contributors to open learning resources. The form purpose is to gather relevant details about a contributed resource, including its title, description, license, categories, and keywords. This information will help the team review and process the contribution efficiently. 
-
-To ensure consistency and quality, this form should not be used for duplicate submissions. Contributors should review the form carefully and ensure that all required fields are filled in correctly. The license and categories should match the actual license and categories of the resource being contributed. 
-
-Contributors should also check their email address and phone number carefully to ensure they are accurate. This form should be used for open learning resources only, and not for any other purpose.
-
-</thinking>
-
 # Open Learning Resource Contribution Request Form - Help Guide
 ## Purpose
 The Open Learning Resource Contribution Request Form is used to collect information about open learning resources that you want to contribute. Please fill in the form with the required details about your resource, and we will review and process it efficiently.

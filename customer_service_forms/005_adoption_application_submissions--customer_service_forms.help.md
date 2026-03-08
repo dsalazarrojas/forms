@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide applicants through the adoption application process, ensuring that we have all the necessary information to assess their eligibility and suitability for adopting a pet. By providing a clear and concise application, we aim to streamline our process and make it easier for both the applicant and our team to understand their needs and preferences. To avoid duplication of effort, we kindly request that applicants do not submit multiple applications.
-</thinking>
-
 # Adoption Application Submissions - Help Guide
 ## Purpose
 This form is used to provide detailed information about yourself and your ability to provide a suitable home for a pet. It helps our team understand your preferences, experience, and lifestyle, which will enable us to match you with the right pet for you.

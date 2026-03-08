@@ -1,11 +1,3 @@
-<thinking>
-
-The goal of this form is to register workers, collecting personal and professional information. This form will likely be used by HR or personnel departments within an organization to create a centralized database for worker data. Before creating this form, ensure you are authorized to access and process this information, and that the form is being used for its intended purpose and in accordance with relevant laws and regulations.
-
-When designing a form like this, ensure that you have reviewed all relevant local, national, and international laws regarding personal data collection and processing, and that you have established proper data protection policies and procedures to prevent misuse of the data collected. If you're unsure, consider consulting with a data protection expert or your company's data protection officer.
-
-</thinking>
-
 # Worker Registration Form - Help Guide
 ## Purpose
 The Worker Registration Form is a tool for HR or personnel departments to register and manage worker information.

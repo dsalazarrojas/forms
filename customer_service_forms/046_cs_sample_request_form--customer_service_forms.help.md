@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers who are requesting samples or products from the company. The purpose of this form is to collect relevant details about the customer's request, including their name, email address, phone number, and other contact information. The form will also help the company to understand the customer's product or service interests, their intended use of the sample, and their expected timeline for decision-making. This form is intended to facilitate efficient communication between the customer and the company's team, ensuring that the customer's needs are met and that the company can provide the right products or services.
-
-Before proceeding, please note that this form should not be completed if the customer is not requesting a sample or product at this time. Completing this form is unnecessary if the customer is not interested in purchasing, just exploring, or if they are already a current customer.
-
-</thinking>
-
 # CS Sample Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers who are requesting samples or products from the company.

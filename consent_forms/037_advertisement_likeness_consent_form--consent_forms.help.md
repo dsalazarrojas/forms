@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a consent form for an individual to grant permission for the use of their likeness in advertisements. The purpose of this form is to obtain explicit consent from the individual for the use of their image, name, or likeness in various media types, such as print, digital, social media, and television commercials. The form will be used to gather information about the individual, including their personal details, and to specify the conditions under which their likeness can be used. This form is likely to be used by organizations or individuals seeking to use someone's likeness for commercial purposes.
-
-The form has multiple sections, including individual information, authorization details, permitted uses, geographic scope, duration of consent, compensation details, media types, and revocation rights. The individual must provide their full name, date of birth, address, phone number, and email address. They must also specify the authorized party and the permitted uses, geographic scope, and duration of consent. They may be required to provide compensation details, media types, and revocation rights, depending on the specific circumstances. The form requires the individual to sign and date the consent form, indicating their understanding of the conditions and their right to revoke the consent.
-
-Please note that the form has multiple options and fields, and some fields may be required or optional depending on the specific circumstances. It is essential to review the form carefully and ensure that all required fields are completed accurately.
-
-</thinking>
-
 # Advertisement Likeness Consent Form - Help Guide
 ## Purpose
 

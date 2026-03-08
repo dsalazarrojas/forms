@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student COVID 19 Self Certification And Verification Form - Help Guide
 
 ## Purpose

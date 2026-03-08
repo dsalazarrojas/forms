@@ -1,9 +1,3 @@
-<thinking>
-This form is used to provide feedback on customer support interactions. It helps us understand how well our team is doing in addressing customer needs and identify areas for improvement. It will also help our team prioritize which cases to address first. 
-We will only be asking for information on a specific support interaction, please make sure to fill out this form only for that one interaction. 
-Please do not submit duplicate forms, if you've already filled out this form for the same interaction, please do not submit again.
-</thinking>
-
 # Customer Support Audit Form - Help Guide
 ## Purpose
 The purpose of this form is to provide feedback on a specific customer support interaction. It helps us understand how well our team is doing and identify areas for improvement.

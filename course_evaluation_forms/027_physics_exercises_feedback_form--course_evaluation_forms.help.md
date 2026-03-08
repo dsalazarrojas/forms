@@ -1,12 +1,3 @@
-<thinking>... 
-We need to ensure the form is being used to collect feedback on physics exercises, and to avoid duplicate submissions, let's consider the following checks:
-
-*   Ensure the form is only submitted when a new exercise is completed or modified.
-*   Verify that each field is filled with relevant information.
-*   Check for completeness of required fields before submission.
-
-</thinking> 
-
 # Physics Exercises Feedback Form - Help Guide
 ## Purpose
 The Physics Exercises Feedback Form is designed to collect feedback on physics exercises completed by students. This form will help instructors and course teams evaluate student performance, provide constructive feedback, and identify areas of improvement.

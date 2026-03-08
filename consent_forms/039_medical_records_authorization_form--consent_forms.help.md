@@ -1,7 +1,3 @@
-<thinking>
-**Form Purpose:** This form is used to collect the necessary information for a patient to authorize the use of their medical records for healthcare services. The form will be used by healthcare providers to obtain the necessary consent from patients before accessing their medical records. It is essential to fill out this form accurately and completely to ensure that the required information is collected correctly.
-</thinking>
-
 # Medical Records Authorization Form - Help Guide
 ## Purpose
 This form is used to collect the necessary information for a patient to authorize the use of their medical records for healthcare services.

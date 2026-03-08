@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting entries from individuals participating in a pumpkin carving contest. Each "entry_form" page will collect information about the entrant, the "judge_form" page will collect information from a judge, and the "voting_form" page will be for contestants to cast their votes. It's designed to be completed by two types of users: contest entrants and contest judges/jurors. This form does not require any specific logic or business rules from external services like Jotform, Google Forms, etc.
-</thinking>
-
 # Pumpkin Carving Contest Voting Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect medical data from patients. It is intended for healthcare providers to gather relevant information about a patient's medical history, allergies, medical conditions, and contact information. The form is not designed to be used for emergency situations or urgent cases. 
-
-Before filling out this form, please make sure you are not duplicating the effort by checking with the healthcare provider if they already have the patient's information on file. 
-
-To fill out this form, follow the instructions below:
-
-</thinking>
-
 # Medical Data Collection Form - Help Guide
 ## Purpose
 This form is used to collect medical data from patients, including their medical history, allergies, and contact information.

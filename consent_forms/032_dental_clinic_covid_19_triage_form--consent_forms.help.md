@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dental Clinic COVID 19 Triage Form - Help Guide
 ## Purpose
 The Dental Clinic COVID 19 Triage Form is used to collect relevant information from patients to assess and manage the risks associated with COVID-19. This form helps in the triage process to identify potential high-risk cases and provide necessary medical care. It is designed for both patients and healthcare professionals to fill out, either in person or remotely.

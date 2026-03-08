@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report spam and phishing activities to help identify and prevent such issues.
-</thinking>
-
 # Report Spam Form - Help Guide
 
 ## Purpose

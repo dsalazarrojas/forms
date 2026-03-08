@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to gather information about an individual's financial status, including their assets, liabilities, and income. It's intended for individuals to provide a clear and concise overview of their financial situation. The form will help users to accurately represent their financial status, which will be used to assess their eligibility for certain financial programs or services. The goal is to ensure that users understand the importance of providing accurate and up-to-date information to avoid any discrepancies or errors in the assessment process.
-
-Before filling out this form, please ensure that you have the following:
-
-- A clear understanding of your financial status, including all assets and liabilities.
-- The ability to select the correct options for each field based on your financial situation.
-- Access to accurate and up-to-date financial information.
-
-By following the instructions below, you'll be able to complete this form accurately and effectively.
-
-</thinking>
-
 # Personal Financial Statement Form - Help Guide
 ## Purpose
 

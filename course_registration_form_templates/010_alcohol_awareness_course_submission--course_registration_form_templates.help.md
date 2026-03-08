@@ -1,8 +1,3 @@
-<thinking>
-This is a form for users to submit information to register for an Alcohol Awareness Course. The form is used to gather relevant information about the participant, such as their contact information, course preferences, and payment details. It's essential to ensure that the participant's information is accurate and complete to provide the best possible experience during and after the course. Please note that some of these fields are required to ensure the proper processing and delivery of course materials and certificates. This form should not be used for duplicate registrations or submissions for court-ordered courses without the required court case number. The form is designed to accommodate different language preferences and accessibility needs. 
-
-Please review the form carefully and fill it out accurately to avoid any delays or issues with your course registration.</thinking>
-
 # Alcohol Awareness Course Submission - Help Guide
 
 ## Purpose

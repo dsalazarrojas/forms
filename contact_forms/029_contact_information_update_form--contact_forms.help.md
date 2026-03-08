@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure the form is used for its intended purpose, which is to update student or participant contact records. 
-We must avoid using this form for other purposes or duplicating information.
-We want to make sure users understand each field's purpose, required status, and any options or hints provided.
-</thinking>
-
 # Contact Information Update Form - Help Guide
 ## Purpose
 This form is designed to help you update student or participant contact records. Use it to provide current information for contact, guardian/parent name, phone number, address, and any other relevant changes to the record.

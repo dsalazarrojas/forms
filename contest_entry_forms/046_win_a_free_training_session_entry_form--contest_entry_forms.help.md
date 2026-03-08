@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to participate in a free training session offered by your organization. The purpose of this form is to gather relevant details about the user, such as their name, email, phone number, and training session preferences. This form also includes fields to collect the trainer's name, phone number, and email, which are essential for coordinating the training session.
-
-Before submitting this form, please ensure that you haven't entered the same email address or phone number multiple times, as this might lead to duplicate entries. Also, review all fields carefully to provide accurate and complete information.
-
-This guide will walk you through each field of the form and explain its purpose and what to fill in.
-</thinking>
-
 # Win A Free Training Session Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users who want to participate in a free training session. Please provide accurate and complete details to ensure a smooth coordination process.

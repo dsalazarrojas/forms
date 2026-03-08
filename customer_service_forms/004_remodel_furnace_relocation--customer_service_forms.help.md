@@ -1,10 +1,3 @@
-<thinking>
-**Form Purpose:**
-The purpose of the Remodel Furnace Relocation form is to gather information from customers who want to schedule a furnace relocation service. This form helps the customer service team understand the customer's needs and requirements for the service.
-**Internal Reasoning:**
-This form is intended to be used by the customer service team to understand the customer's needs and requirements for a furnace relocation service. The form is not intended to be used for other purposes.
-</thinking>
-
 # Remodel Furnace Relocation - Help Guide
 ## Purpose
 This form is used to gather information from customers who want to schedule a furnace relocation service.

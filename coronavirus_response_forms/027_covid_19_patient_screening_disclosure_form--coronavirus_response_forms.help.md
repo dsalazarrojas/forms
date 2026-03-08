@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Patient Screening Disclosure Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gather information from users who want to learn more about the organization's learning strategy. It collects contact information (first and last name, email, phone number, and department) and allows the user to describe their goals, learning objectives, and the type of inquiry they have in mind. This form will be reviewed by the organization to provide relevant learning resources and guidance.
-We will not review forms with duplicated or missing contact information (i.e., without at least first and last names, email, and job title), and we will ask for more information before responding to inquiries without a specified learning objective.
-</thinking>
-
 # Organizational Learning Strategy Contact Form - Help Guide
 ## Purpose
 This form is designed to gather your contact information and learning goals so we can better understand your inquiry and provide you with the most suitable learning resources.

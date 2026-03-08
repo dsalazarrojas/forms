@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the reproduction and release of a script, specifically for use by Playwright, an open-source browser automation framework. This form aims to gather details about the script, its production company, and the individual or organization responsible for its reproduction. The form's purpose is to obtain necessary permissions and information for the reproduction process. Please ensure you have the necessary permissions before submitting this form. If you're unsure about any field, please clarify with the relevant production team or contact the form owner for guidance.
-</thinking>
-
 # playwright_script_reproduction_release_form - Help Guide
 ## Purpose
 

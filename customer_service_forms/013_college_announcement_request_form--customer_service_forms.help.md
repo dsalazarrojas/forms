@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about events on campus. It is used to collect details from the event organizer or requestor. The form should only be filled out by those who have been authorized to submit events on behalf of their department or organization. If you're unsure if you're allowed to submit an event, please reach out to your department or organization's representative for approval.
-</thinking>
-
 # College Announcement Request Form - Help Guide
 ## Purpose
 

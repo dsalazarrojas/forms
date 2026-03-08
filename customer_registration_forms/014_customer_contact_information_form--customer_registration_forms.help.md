@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the customer contact information form, we need to ensure that we understand the form's purpose and how to complete it in a way that is clear and concise. This form is likely intended for customers to provide their personal information, including their name, email address, phone number, address, city, state, and zip code. The form may be used for various purposes, such as account registration, order placement, or communication purposes.
-
-Before starting the form, it's essential to note that while most fields are not required, it's still crucial to provide accurate information for a smooth experience. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation for each section.
-
-</thinking>
-
 # Customer Contact Information Form - Help Guide
 ## Purpose
 The Customer Contact Information Form is designed to collect your personal details for various purposes, such as account registration, order placement, or communication. This form helps us understand your contact information and ensures that we can reach you efficiently.

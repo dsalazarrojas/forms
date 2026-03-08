@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from vendors to gauge their satisfaction with our services. This survey aims to identify areas of improvement and increase customer satisfaction. Before proceeding, please ensure that you have not completed this form in the past 30 days. If you are unsure or have already completed this form, please contact us to clarify.
-</thinking>
-
 # vendor_satisfaction_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from vendors to improve our services and increase customer satisfaction.

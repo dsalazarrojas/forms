@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's break down the form's purpose: This form is designed to gather essential information from parents or guardians to ensure their child's safety and well-being during the summer camp program. It includes fields to collect contact details, emergency contact information, and any relevant medical conditions or allergies that the child might have. The form's primary objective is to obtain explicit permission from parents/guardians for their child's participation in the camp, as well as provide an alternative contact method for camp staff in case of emergencies.</thinking>
-
 # Summer Camp Permission Form - Help Guide
 ## Purpose
 This form is intended for parents or guardians to provide their child's demographic information, contact details, and emergency contact information. It helps us gather crucial data to ensure your child's safe and enjoyable experience at the summer camp.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Telemedicine Services Agreement, which is a legal document that patients sign to consent to receive telemedicine services from a healthcare provider. The purpose of this form is to obtain informed consent from patients before they receive telemedicine services, ensuring that they understand the terms and conditions of their care.
 
 To complete this form, follow these steps:

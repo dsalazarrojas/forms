@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Order Confirmation Issue Contact Form", we need to understand the purpose of the form, how to complete it, and what each field means.
 
 The form is intended to gather information about an order confirmation issue, likely for the purpose of resolving problems with customer orders. The form fields seem to request details about the order, including its ID, the customer's name, and other information that may help in identifying and addressing the issue.

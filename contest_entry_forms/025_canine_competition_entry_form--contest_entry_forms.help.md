@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to clarify the purpose and usage of the Canine Competition Entry Form. The form is designed to collect information about a dog's entry into a competition, including the owner's and dog's details, competition class, and other relevant information. This guide will help users understand how to fill out the form correctly, ensuring that all required fields are completed accurately. By following this guide, users will be able to provide the necessary details for a smooth competition process.
-</thinking>
-
 # Canine Competition Entry Form - Help Guide
 ## Purpose
 The Canine Competition Entry Form is a collection of fields designed to gather information about a dog's entry into a competition. It includes details about the dog's owner, dog's details, competition class, and other relevant information. Completing this form accurately and thoroughly ensures a smooth competition process.

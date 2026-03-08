@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Drop Off Consent Form - Help Guide
 ## Purpose
 The Veterinary Drop Off Consent Form is designed to be completed by pet owners when dropping off a pet at our veterinary facility. This form serves as a way to gather necessary information from pet owners to ensure a smooth and efficient drop-off process.

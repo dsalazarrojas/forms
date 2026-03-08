@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_purchase_permission_form - Help Guide
 ## Purpose
 The real estate purchase permission form is used to record information about buyers and real estate agents involved in a purchase. It is a required form that must be completed to ensure accurate documentation and compliance with regulatory guidelines.

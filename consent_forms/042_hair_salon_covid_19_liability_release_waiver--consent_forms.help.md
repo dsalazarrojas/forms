@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from customers or clients about their COVID-19 liability release waiver for a hair salon. This form is likely used to collect data for internal purposes, such as contact tracing or liability protection. The form fields are designed to capture relevant information about the customer's health status, travel history, and potential exposure to COVID-19.
-</thinking>
-
 # Hair Salon COVID 19 Liability Release Waiver - Help Guide
 ## Purpose
 This form is designed to gather information from customers or clients about their COVID-19 liability release waiver for the hair salon.

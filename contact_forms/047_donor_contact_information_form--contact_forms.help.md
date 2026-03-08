@@ -1,7 +1,3 @@
-<thinking>
-Donor Contact Information Form purpose: gather basic information from donors, including name, email address, and contact preferences. This form ensures that our organization stays in touch with donors and keeps them informed about relevant updates. 
-</thinking>
-
 # Donor Contact Information Form - Help Guide
 
 ## Purpose

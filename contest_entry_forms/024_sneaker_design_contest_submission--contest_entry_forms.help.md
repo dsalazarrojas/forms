@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the submission of sneaker design contest entries. Contestants will be able to provide their design selection, contestant details, a description of their design, artwork files, and other relevant information in order to participate in the contest. The form will help to ensure that all necessary information is gathered correctly and efficiently. Please note that this form will be used to verify the legitimacy and correctness of each submission. It is crucial to complete this form accurately and thoroughly in order to avoid any issues with the submission.
-</thinking>
-
 # Sneaker Design Contest Submission - Help Guide
 ## Purpose
 This form is used to submit sneaker design entries for contest purposes. To complete the form, please follow the instructions below.

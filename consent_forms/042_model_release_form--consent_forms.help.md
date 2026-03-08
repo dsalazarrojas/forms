@@ -1,10 +1,3 @@
-<thinking>
-This form is used for obtaining model release from subjects, typically for commercial purposes such as modeling, acting, or other forms of image or video usage. This form ensures that the subject has provided their consent and understanding of how their image or video will be used.
-Before filling out this form, please ensure you have not already obtained a model release from the subject. If you have already obtained consent, do not fill out this form again.
-This form will ask for information about the subject, and it's essential to fill it out accurately and thoroughly.
-Please note that this form is not a contract, but rather a declaration of consent.
-</thinking>
-
 # Model Release Form - Help Guide
 ## Purpose
 The Model Release Form is used to obtain consent from subjects for the commercial use of their images or videos.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gauge the recommendation strength of a customer's experience at your organization. The purpose of this form is to collect feedback on the touchpoints where customers feel a strong connection with your brand, product, or service. This form will help identify areas where customers perceive a stronger relationship, allowing your team to focus efforts on those touchpoints to build stronger bonds with your customers. This form should not be used for general feedback or complaints, as those can be addressed through other channels. Ensure that customers who are not familiar with the concept of touchpoints or recommendation strength are not expected to answer this form, as the questions may not be clear.
-
-</thinking>
-
 # Recommendation Strength Survey - Help Guide
 ## Purpose
 This form is designed to gauge the recommendation strength of a customer's experience at your organization. The goal is to collect feedback on the touchpoints where customers feel a strong connection with your brand, product, or service.

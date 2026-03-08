@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block... </thinking>
-
 # communication_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on their satisfaction with the communication they receive from us. The goal is to understand their perceptions and identify areas of improvement to enhance their overall satisfaction.

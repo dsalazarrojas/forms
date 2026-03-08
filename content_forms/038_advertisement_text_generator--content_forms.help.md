@@ -1,13 +1,3 @@
-<thinking>
-
-We're creating a help guide for the "Advertisement Text Generator" form, which is used to generate text for advertisements. This form is used by marketing teams to create tailored advertisements for various products and services.
-
-This form is designed to be used by marketing professionals who need to create advertisements for specific products or services. The form helps to gather important information about the product or service, including its features, target audience, and desired outcome. This information is then used to generate a compelling advertisement that resonates with the target audience.
-
-To avoid duplication, we'll only be providing a help guide for this form once.
-
-</thinking>
-
 # Advertisement Text Generator - Help Guide
 ## Purpose
 The Advertisement Text Generator form is used to create tailored advertisements for various products and services. It gathers information about the product or service, target audience, and desired outcome to generate a compelling advertisement.

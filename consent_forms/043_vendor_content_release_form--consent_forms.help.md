@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Content Release Form - Help Guide
 
 ## Purpose

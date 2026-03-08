@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent from patients for dental lab work. It's crucial that patients understand what they're consenting to, so the form should be clear and concise. The form has several fields: "Patient Information", "Lab Information", "Consent", "Contact Information", and "Address". To ensure that the form is properly filled out, we need to explain each field and what it's for.
-</thinking>
-
 # Dental Lab Work Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from patients for dental lab work. By filling out this form, you're confirming that you understand the purpose and scope of the dental lab work, and that you're willing to participate.

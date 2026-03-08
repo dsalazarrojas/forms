@@ -1,10 +1,3 @@
-<thinking>
-The UX research consent form is a crucial document that ensures participants' rights and protections are respected during the research process. To avoid duplication or misunderstanding, this form should not be filled out if:
-* The participant is being recruited for the same or similar research study in a short period of time (e.g., within a few months).
-* The participant is being approached for a study that they may have already participated in or have been recruited for recently (e.g., within the past month).
-* The participant is being approached for a research study that they are not familiar with or have not understood the purpose and procedures of the study.
-</thinking>
-
 # ux_research_consent_form - Help Guide
 ## Purpose
 The UX research consent form is used to obtain informed consent from participants before beginning a research study. This form ensures that participants are aware of their rights, the purpose and procedures of the study, and what they can expect during the research process.

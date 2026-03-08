@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals interested in registering for the Clean Energy Transition Course. The form is designed to gather essential details about the registrant, including their personal and professional background, course preferences, and payment information. The form will be used to facilitate the registration process and ensure that the right course is offered to the right individual. Before proceeding, please ensure that you are registering for a course that aligns with your interests and needs. If you are unsure about any field, please contact the course administrators for clarification. To avoid duplication, please check if you have already registered for the course before completing this form.
-
-</thinking>
-
 # Clean Energy Transition Course Registration - Help Guide
 ## Purpose
 This guide will walk you through the registration process for the Clean Energy Transition Course. The form is designed to be completed by individuals interested in registering for the course.

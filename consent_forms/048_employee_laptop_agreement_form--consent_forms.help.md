@@ -1,10 +1,3 @@
-<thinking>
-The Employee Laptop Agreement Form is used to obtain formal agreement from employees before issuing or returning a company-owned laptop. This form ensures that employees understand their obligations and responsibilities related to the use of company property.
-
-It is essential to complete this form accurately and carefully, as it reflects the agreement between the employee and the company. Please review this guide to understand each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # Employee Laptop Agreement Form - Help Guide
 ## Purpose
 The Employee Laptop Agreement Form is used to obtain formal agreement from employees before issuing or returning a company-owned laptop. This form ensures that employees understand their obligations and responsibilities related to the use of company property.

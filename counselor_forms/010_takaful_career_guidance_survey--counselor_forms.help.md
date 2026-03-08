@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from Takaful sector employees about their career interests, motivations, and challenges. It is designed to gather data that will help us understand their career goals and aspirations, as well as identify areas where we can provide guidance and support for career development and progression. 
-
-This form should be completed by employees who are interested in career growth and development, and who are looking for guidance on how to navigate their careers within the Takaful sector. 
-
-Note that this form is not a comprehensive career assessment, but rather a brief survey that provides a starting point for further discussion and exploration. 
-
-Also, please make sure you have completed this form before attending the Takaful Career Guidance meeting. 
-
-Please review the form carefully and answer honestly to help us provide you with the most accurate and relevant guidance. 
-</thinking>
-
 # Takaful Career Guidance Survey - Help Guide
 ## Purpose
 The Takaful Career Guidance Survey is designed to help you explore your career interests, motivations, and challenges within the Takaful sector. It will help us understand your career goals and aspirations, and provide guidance on how to achieve them.

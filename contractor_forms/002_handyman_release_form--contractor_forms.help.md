@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help end-users understand the purpose and usage of the Handyman Release Form. The form is designed for contractors to release or hand over a job to a client, providing relevant details about the job, task, and release conditions.
-
-The following guide explains how to complete the form, what each field means, and provides some additional tips to make the process smoother.
-
-</thinking>
-
 # Handyman Release Form - Help Guide
 ## Purpose
 This form is used by contractors to release or hand over a job to a client, providing essential details about the job, task, and release conditions.

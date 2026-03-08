@@ -1,24 +1,3 @@
-<thinking>
-
-This form is designed to collect user entries for a sports prediction competition. The purpose of the form is to gather information about the user's predicted score, event, payout, user prediction, user comment, date submitted, user name, email, phone number, and any additional information they may have. The form is intended to be completed by users participating in the competition, and the collected data will be used to determine the winner of the competition.
-
-The form is divided into several sections, each corresponding to a different field. The user will be required to fill out all fields except for "Additional Info", which is optional.
-
-To complete this form, the user will need to:
-
-1. Enter their predicted score for the competition
-2. Select the event they are participating in
-3. Enter their payout for winning
-4. Enter their user prediction
-5. Enter a user comment
-6. Select the date they submitted their entry
-7. Enter their user name
-8. Enter their email address
-9. Enter their phone number
-10. Select any additional information they may have
-
-</thinking>
-
 # sports_prediction_competition_entry_form - Help Guide
 ## Purpose
 The sports prediction competition entry form is designed to collect user entries for a sports prediction competition.

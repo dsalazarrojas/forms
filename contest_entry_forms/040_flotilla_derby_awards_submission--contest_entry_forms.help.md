@@ -1,23 +1,3 @@
-<thinking>
-To avoid duplication and ensure accuracy, let's confirm the purpose and fields of the "Flotilla Derby Awards Submission" form.
-The form is intended to collect information from nominators about their boat entry for the Flotilla Derby Awards, with the goal of submitting their entry for consideration. To prevent duplication, please ensure that only one submission is made per boat.
-The form is composed of several fields that require specific information from the nominator and judge. The fields are:
-* nominator name: a text field for the nominator's name
-* nominator email: an email address field for the nominator's contact information
-* nominator phone: a text field for the nominator's phone number
-* boat type: a select_one field with options for the type of boat (Catamaran, Sailboat, Yacht)
-* submission date: a date field for the date of submission
-* submission time: a time field for the submission time
-* nominator comments: a text field for additional comments from the nominator
-* additional nominator comments: a text field for additional comments from the nominator
-* judge comments: a text field for comments from the judge
-* judge email: an email address field for the judge's contact information
-* judge phone: a text field for the judge's phone number
-* additional organizer comments: a text field for comments from the organizer
-* submission date and time: a date and time field for the submission date and time
-
-</thinking>
-
 # Flotilla Derby Awards Submission - Help Guide
 ## Purpose
 The Flotilla Derby Awards Submission form is a tool for nominating boats for the Flotilla Derby Awards. To submit a boat, please fill out the form with accurate and complete information. Only one submission per boat is accepted.

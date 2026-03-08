@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from clients for a free consultation session. The purpose of this form is to capture basic contact information, appointment details, and client preferences. The form is not meant to be a comprehensive sales or onboarding tool, but rather a simple way to initiate a consultation conversation.
-
-Before proceeding, please ensure that the information you're about to enter is accurate and up-to-date. This form will be used to schedule and prepare for a consultation session with a consultant, and incorrect or outdated information may lead to misunderstandings or miscommunication.
-
-Please note that some fields are not required, but it's recommended to fill them in to provide the best possible consultation experience.
-
-</thinking>
-
 # Free Client Consultation - Help Guide
 
 ## Purpose

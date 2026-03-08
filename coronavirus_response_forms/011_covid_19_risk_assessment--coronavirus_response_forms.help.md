@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand and fill out the COVID-19 Risk Assessment form. The form's purpose is to gather information about an individual's personal and professional environment, behaviors, and health status regarding the COVID-19 pandemic. This assessment will aid in identifying potential risks and providing guidance on necessary measures to take to mitigate them.
-
-Before proceeding, ensure that you have not already completed a similar assessment in the past 14 days, as the information provided should reflect your current situation.
-
-</thinking>
-
 # COVID 19 Risk Assessment - Help Guide
 ## Purpose
 The COVID-19 Risk Assessment form is designed to help you evaluate your risk level for contracting and spreading COVID-19. It will guide you through a series of questions about your daily activities, social interactions, and health status to help you identify areas where you may be at risk and provide advice on how to reduce your risk.

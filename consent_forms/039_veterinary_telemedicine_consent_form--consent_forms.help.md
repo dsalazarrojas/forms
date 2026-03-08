@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from pet owners for telemedicine services. Telemedicine services typically involve online consultations between a veterinarian and a pet owner. The form is likely used to collect consent and other relevant information for these virtual consultations. Before proceeding, it's worth checking if a similar form exists in the system to avoid duplication of effort.
-</thinking>
-
 # Veterinary Telemedicine Consent Form - Help Guide
 ## Purpose
 This form is used to gather consent and other relevant information from pet owners for telemedicine services, which involve online consultations between veterinarians and pet owners.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # visage_client_covid_19_liability_release_waiver - Help Guide
 ## Purpose
 This form is used to collect information from clients who are participating in Visage's COVID-19 liability release and waiver program. The purpose of this form is to gather basic contact information and emergency contact details of the client. This information will be used for the administration and management of the program.

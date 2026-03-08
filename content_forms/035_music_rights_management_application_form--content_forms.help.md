@@ -1,5 +1,3 @@
-<thinking>...checking the form purpose and ensuring there are no duplicates in the help guide...</thinking>
-
 # Music Rights Management Application Form - Help Guide
 
 ## Purpose

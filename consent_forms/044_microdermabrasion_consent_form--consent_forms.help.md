@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for obtaining consent from patients for microdermabrasion treatment. The purpose of this form is to gather essential information from patients, such as their name, treatment date, address, and phone number, as well as their consent status and signature. This form will help medical professionals ensure that patients understand the treatment and its risks, and that they are willing to undergo the procedure. It will also help maintain a record of the patient's consent, which is crucial for medical ethics and legal purposes.
-
-</thinking>
-
 # Microdermabrasion Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from patients for microdermabrasion treatment. It is essential to ensure that patients understand the treatment and its risks, and that they are willing to undergo the procedure.

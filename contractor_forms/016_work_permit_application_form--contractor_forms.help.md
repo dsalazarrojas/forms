@@ -1,8 +1,3 @@
-<thinking>
-To confirm that the form is being used correctly and to reduce errors, let's review its purpose and relevance before creating the user-facing help guide. From the input schema, we can see that this form is likely used for applying for work permits, which is an internal process within a company. This form might be completed by employees or contractors to request permission to work on specific projects or at specific locations. The form requires personal details such as name, email, phone number, and submission date, as well as work-specific information like work location, work hours, and the type of permit being applied for. The submitted-by field suggests that the form might be reviewed or approved by specific individuals within the company. Let's ensure this form is only used for its intended purpose, reducing duplication and ensuring that users understand its correct usage.
-
-</thinking>
-
 # Work Permit Application Form - Help Guide
 ## Purpose
 This form is used to apply for work permits, which are internal permissions for employees or contractors to work on specific projects or at certain locations within the company. It is essential to complete this form accurately to ensure that work permits are approved and processed correctly.

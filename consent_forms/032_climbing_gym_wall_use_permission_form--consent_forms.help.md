@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Climbing Gym Wall Use Permission Form - Help Guide
 ## Purpose
 

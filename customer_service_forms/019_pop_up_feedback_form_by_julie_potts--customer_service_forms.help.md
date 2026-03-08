@@ -1,6 +1,3 @@
-<thinking>
-This form is a pop-up feedback form designed to collect feedback from customers after an event. The form is intended to be used by customers to provide their thoughts, comments, or suggestions after attending an event or interacting with the organization. It is not meant to be a comprehensive survey, but rather a quick and easy way to gather feedback that can help improve future events or services.
-</thinking>
 # pop_up_feedback_form_by_julie_potts - Help Guide
 
 ## Purpose

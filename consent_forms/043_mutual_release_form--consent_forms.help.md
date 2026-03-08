@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a mutual release form, which is a legal document used in various industries such as finance, law, and real estate to release one party from a dispute or agreement. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public survey topic metadata. It's released under a Creative Commons license, allowing others to use, modify, or even sell forms derived from it, as long as they give credit. This form is intended to be used for collecting information on mutual release, and it's crucial to complete it accurately to ensure the information is valid and reliable. Please ensure you're not duplicating this form in your work, as it's an original adaptation.
-
-</thinking>
-
 # Mutual Release Form - Help Guide
 ## Purpose
 This form is designed to collect information for a mutual release form, which is a legal document used in various industries such as finance, law, and real estate to release one party from a dispute or agreement.

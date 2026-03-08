@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for businesses that want to register their company information. It's likely used in an administrative or business-to-business context, such as for partnerships, collaborations, or vendor registration. The form is designed to be completed by the business owner or a representative with authorization to represent the company. It's possible that the form will be used for customer support, account management, or billing purposes. To avoid duplication, ensure you haven't already registered your business with us in the past. If you're unsure, please reach out to our support team for assistance.</thinking>
-
 # Business Customer Registration Form - Help Guide
 ## Purpose
 The Business Customer Registration Form is for businesses that want to register their company information for partnerships, collaborations, or other business purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Training Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to acknowledge completion of safety training programs within the organization. It helps ensure that employees have received and understood the training they need to perform their job safely and effectively. This form is not mandatory, but it is recommended that employees complete it for their own records and to demonstrate their understanding of safety protocols.

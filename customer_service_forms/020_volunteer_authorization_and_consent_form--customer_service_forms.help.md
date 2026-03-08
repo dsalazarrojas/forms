@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, we need to ensure that this form doesn't serve as a duplicate of the "Customer Service Forms" option on the "Customer Service Forms" page. This form is specifically designed to gather volunteer authorization and consent for an individual's involvement with the organization. The main goal is to understand the volunteer's willingness to participate, gather their contact information, and obtain their consent for emergency contact purposes.
-</thinking>
-
 # Volunteer Authorization And Consent Form - Help Guide
 ## Purpose
 This form is intended to gather volunteer authorization and consent from individuals who wish to participate in activities with our organization. It's essential to have this information to ensure we can properly coordinate volunteer efforts and provide necessary support.

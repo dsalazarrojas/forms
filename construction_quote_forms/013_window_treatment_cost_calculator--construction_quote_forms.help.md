@@ -1,12 +1,3 @@
-<thinking>
-The form "Window Treatment Cost Calculator" is used to calculate the cost of window treatments such as blinds, curtains, and window coverings. This form is likely used by a business or individual to gather information about window treatments and provide a quote or estimate to customers or clients. The form is likely to be used in a B2B (business-to-business) or B2C (business-to-consumer) context.
-
-The form has 25 fields, which are divided into several sections. This form may be used by sales or customer service representatives to gather information about window treatments, provide quotes or estimates, and communicate with customers.
-
-To confirm, please ensure that this form is not already available in the system and that it's being used for the intended purpose.
-
-</thinking>
-
 # Window Treatment Cost Calculator - Help Guide
 ## Purpose
 This form is used to calculate the cost of window treatments such as blinds, curtains, and window coverings.

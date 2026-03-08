@@ -1,5 +1,3 @@
-<thinking>This form is a Third Party Work Agreement, designed to outline the terms and conditions of a third-party relationship. It is meant to be filled out by a third party (e.g., a service provider, contractor, or vendor) to agree to the terms of a contract with [Company Name] (the first party). The purpose of this form is to establish a clear understanding of the scope of work, payment terms, and other essential details of the third-party engagement. Please ensure you have reviewed the form carefully and understand the implications of signing before submitting it. This form should only be filled out once for each third-party work agreement. If you have already filled out this form for a similar agreement, please do not submit another copy.</thinking>
-
 # Third Party Work Agreement - Help Guide
 ## Purpose
 This form is a legal agreement between [Company Name] and a third party (e.g., a service provider, contractor, or vendor) to outline the terms and conditions of a third-party relationship.

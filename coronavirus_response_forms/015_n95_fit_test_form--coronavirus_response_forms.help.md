@@ -1,9 +1,3 @@
-<thinking> 
-
-This help guide is intended for end-users who may not be familiar with the N95 Fit Test Form. The form is designed to collect information about participants and fit testers in relation to N95 mask fit tests. It is meant to be completed by participants after they have been fit tested with an N95 mask, and provides an opportunity for participants to report on their experience, fit, and any issues they had with the test or mask. The form is divided into several sections that cover different aspects of the fit test experience. Before starting, make sure to carefully read the instructions and fill out the form completely and accurately. 
-
-</thinking>
-
 # N95 Fit Test Form - Help Guide
 ## Purpose
 The N95 Fit Test Form is designed to collect information about participants' experiences with N95 mask fit tests. It helps us understand how well the N95 mask fits and any issues that may arise during the test.

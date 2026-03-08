@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect various types of information related to a patient's physiotherapy session. This form is likely used in a healthcare setting to gather information that will inform the treatment plan. It is designed to be completed by a patient and their healthcare provider. The form is not intended to be used for any other purpose.
-</thinking>
-
 # physiotherapy_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information related to a patient's physiotherapy session.

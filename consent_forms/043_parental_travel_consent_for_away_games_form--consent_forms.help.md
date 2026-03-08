@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parental Travel Consent For Away Games Form - Help Guide
 
 ## Purpose

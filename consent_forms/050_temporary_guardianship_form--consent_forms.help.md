@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather information about a temporary guardianship, which is typically a court-ordered arrangement where an individual or individuals are granted authority to make decisions on behalf of a minor or vulnerable adult. This form is likely used in situations where the guardian's authority is temporary in nature, meaning they are not intended to be the permanent guardian, but rather a substitute until the permanent guardian can resume their role or until a permanent guardian is appointed.
 
 Before filling out this form, ensure that you have reviewed and understood the legal implications of this temporary guardianship. If you are unsure or have questions, please reach out to a relevant authority or attorney.

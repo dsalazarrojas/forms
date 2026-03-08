@@ -1,12 +1,3 @@
-<thinking>
-You are attempting to create a detailed help guide for the "Content Creator Weekly Checklist" form. This form is designed to help content creators track their progress, set goals, and reflect on their performance. 
-
-The form has multiple pages with a variety of fields, including date fields for planning and tracking the start and end of each week, select one and select multiple fields for monitoring progress, and text fields for recording goals, plans, and reflections. The form also includes fields for tracking collaborations, challenges, and priorities for next week.
-
-Before starting with the form, make sure to check if a similar form has already been used in the past. If so, it may be worth considering updating the existing form or combining the information from the old and new forms for consistency.
-
-</thinking>
-
 # Content Creator Weekly Checklist - Help Guide
 ## Purpose
 The Content Creator Weekly Checklist form is designed to help content creators set goals, track their progress, and reflect on their performance at the end of each week. This form serves as a tool for creators to stay organized and focused on their content creation and planning.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weebly Business Model Option 2 Health Issues Interest Form - Help Guide
 ## Purpose
 This form is used to collect interest from individuals who would like to discuss potential health issues related to the Weebly Business Model Option 2. The form helps us understand who is interested in this topic and what their needs and concerns are.

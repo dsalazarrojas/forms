@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information related to professional counseling sessions, including session details, client and counselor information, payment details, and session duration and frequency. This form aims to ensure that both the client and counselor are informed and in agreement with the terms of the session. The form appears to be designed for clients and counselors to provide informed consent and details about their interactions. 
-</thinking>
-
 # Professional Counselling Informed Consent Form - Help Guide
 ## Purpose
 This form is used to gather information about professional counseling sessions, including session details, client and counselor information, payment details, and session duration and frequency. It aims to provide both the client and counselor with informed consent and agreement on the terms of the session.

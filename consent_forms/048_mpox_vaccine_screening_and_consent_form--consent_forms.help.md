@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mpox Vaccine Screening And Consent Form - Help Guide
 ## Purpose
 This form is designed for screening and obtaining consent from individuals regarding Mpox vaccine administration. It collects patient information, vaccine details, and consent status to ensure proper vaccination history and follow-up care.

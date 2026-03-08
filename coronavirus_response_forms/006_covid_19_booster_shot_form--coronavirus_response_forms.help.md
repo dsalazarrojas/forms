@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Booster Shot Form - Help Guide
 
 ## Purpose

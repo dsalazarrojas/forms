@@ -1,9 +1,3 @@
-<thinking>
-
-To determine if the form is relevant and not duplicated, we first need to understand the context and purpose of the "Fence Estimation Form". Based on the provided YAML fields, this form appears to be used for estimating the cost and details of a fence installation job for a customer. The form is likely to be used by sales or estimation teams within a company that provides fence installation services. The purpose of the form is to gather information about the customer, their property, and the details of the job, which will allow the company to provide an estimate for the customer. This form does not appear to be duplicated, as it is a specific and unique tool for a specific task.
-
-</thinking>
-
 # Fence Estimation Form - Help Guide
 ## Purpose
 This form is used to estimate the cost and details of a fence installation job for a customer. It is designed to gather information about the customer, their property, and the job details, which will allow the company to provide an accurate estimate.

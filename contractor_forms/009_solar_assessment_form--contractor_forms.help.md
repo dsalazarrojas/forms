@@ -1,13 +1,3 @@
-<thinking>
-The Solar Assessment Form is used to gather information about a property's solar assessment, including its address, site details, property size, age, roof type, angle, height, orientation, energy assessment, site inspection, solar panels, solar installation, site notes, and customer notes. This form is designed to be completed by assessors who will use the collected data to provide a comprehensive assessment of the property's solar potential.
-To avoid duplication, please ensure that the form is completed only once for each property. If you have any doubts about what information to provide or how to complete the form, please consult the property owner or the assessors' guidelines.
-This form has 15 fields, divided into the following sections:
-* **Property Information (Pages 1-3)**: This section asks for general information about the property, including its address, site details, and size.
-* **Roof Information (Pages 4-6)**: This section gathers details about the property's roof, including its type, angle, height, and orientation.
-* **Solar Potential (Pages 7-9)**: This section assesses the property's solar potential, including its energy assessment, site inspection, solar panels, and solar installation.
-* **Notes (Pages 10-12)**: This section is for additional notes and comments from the assessor and the customer.
-</thinking>
-
 # Solar Assessment Form - Help Guide
 ## Purpose
 

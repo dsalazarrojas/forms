@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information about a release of information, which is a legal or corporate document that contains sensitive or confidential data. This form is meant to guide users through the process of filling out this type of document. The form is designed to be completed by individuals or organizations that need to release information, and the fields are tailored to collect relevant details such as contact information, non-profit data, and release specifics. The form should only be completed by authorized personnel, and the data collected will be used for legitimate purposes only.
-</thinking>
-
 # release_of_information_template - Help Guide
 ## Purpose
 This form is designed to collect and manage release of information documents. It is intended for individuals or organizations that need to release sensitive or confidential information.

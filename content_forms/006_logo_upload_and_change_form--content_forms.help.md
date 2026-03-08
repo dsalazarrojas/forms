@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "logo_upload_and_change_form" is to allow users to upload logos and request changes to existing logos. This form is designed to be a straightforward and simple tool for users to provide feedback on their logos. It is likely intended for use by designers or administrators who need to collect information about logos from users.
-</thinking>
-
 # logo_upload_and_change_form - Help Guide
 ## Purpose
 The purpose of this form is to allow users to upload logos and request changes to existing logos.

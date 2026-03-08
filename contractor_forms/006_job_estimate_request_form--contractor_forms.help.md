@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Job Estimate Request Form - Help Guide
 ## Purpose
 The Job Estimate Request Form is used to collect information about a job from a client. This form helps the contractor to request an estimate for a job, which is a detailed breakdown of the work to be done, the timeframe, and the cost. The form is used to gather contact information, job details, and other relevant notes from the client.

@@ -1,7 +1,3 @@
-<thinking>
-  This form is for collecting registration information from users interested in taking a Hunter Education course. The form will be used to gather demographic data and verify the user's identity. Please ensure you are filling out this form for the intended purpose. If you are an administrator, please be aware of the data collection process and ensure that the form is being filled out correctly. This form should not be used for any other purpose other than Hunter Education course registration.
-</thinking>
-
 # Hunter Education Registration Form - Help Guide
 ## Purpose
 This form is for registering for a Hunter Education course. It will help us gather your demographic information and verify your identity.

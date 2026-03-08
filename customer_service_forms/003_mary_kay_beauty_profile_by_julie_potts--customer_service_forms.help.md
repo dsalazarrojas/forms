@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "mary_kay_beauty_profile_by_julie_potts" form. This form is for customers who want to create a profile with Mary Kay Beauty by Julie Potts. The purpose of this form is to collect information about the customer, including their name, email, phone number, and experience with Mary Kay Beauty. This information will be used to provide personalized services and offers to the customer. This form is not intended for urgent or emergency requests; if you have a time-sensitive inquiry, please contact customer service directly. 
-</thinking>
-
 # mary_kay_beauty_profile_by_julie_potts - Help Guide
 ## Purpose
 

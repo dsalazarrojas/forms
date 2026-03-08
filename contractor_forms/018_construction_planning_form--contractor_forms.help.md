@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that the form purpose is to gather information for a construction project planning document, and that the fields provided cover all necessary aspects of project planning, including project details, timelines, budgeting, and risk management. We also need to ensure that the form is comprehensive and doesn't overlap with other forms or processes. This form is likely used by project planners, architects, engineers, and contractors to gather and document project requirements and planning information.
-</thinking>
-
 # Construction Planning Form - Help Guide
 ## Purpose
 The Construction Planning Form is used to gather and document essential information for a construction project, including project details, timelines, budgeting, and risk management. This form helps project planners, architects, engineers, and contractors to accurately capture and communicate project requirements and planning information.

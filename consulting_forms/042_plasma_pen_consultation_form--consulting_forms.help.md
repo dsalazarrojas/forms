@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture information from individuals who are consulting with a healthcare professional. The purpose of the form is to collect consultation details, patient names, and medical histories in a structured and organized way. It is intended to help healthcare professionals gather the necessary information for a thorough consultation.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata. It is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-The form consists of three pages: "Consultation Details", "Patient Name", and "Medical History". The "Consultation Details" page is not required, while the "Patient Name" and "Medical History" pages are both required.
-
-</thinking>
-
 # plasma_pen_consultation_form - Help Guide
 ## Purpose
 This form is designed to capture information from individuals who are consulting with a healthcare professional, including consultation details, patient names, and medical histories.

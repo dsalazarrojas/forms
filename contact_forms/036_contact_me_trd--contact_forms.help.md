@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to contact The Resume Dude (TRD) for resume services such as resume review, writing, cover letter services, and career coaching. The form is meant to gather necessary information about the user, including their full name, email address, phone number, and specific services needed. This form is for new users who are not yet customers of TRD.
-</thinking>
-
 # Contact Me TRD - Help Guide
 ## Purpose
 This form is used to request resume services from The Resume Dude (TRD). Fill out this form to provide necessary information about yourself and your career goals, and a member of the TRD team will be in touch to discuss your resume needs.

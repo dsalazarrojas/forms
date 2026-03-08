@@ -1,7 +1,3 @@
-<thinking>
-To ensure that we can effectively document and share training sessions for educational and marketing purposes, while also protecting our clients' rights and interests, it is crucial to have a clear and comprehensive consent form that explains the terms and conditions of filming and sharing their pets during these sessions. This form aims to obtain permission from pet owners for filming, while also outlining what can be done with the footage and under what circumstances. By completing this form, both parties can clearly understand their roles and responsibilities, avoiding potential issues that may arise from unclear expectations.
-</thinking>
-
 # Animal Training Session Filming Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from pet owners for filming and sharing their animals during training sessions. It outlines what can be done with the footage, under what circumstances, and ensures that both parties understand their roles and responsibilities.

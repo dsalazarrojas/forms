@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from participants, parents, and photographers on the usage and capture of photos during stage photography sessions. It is crucial to ensure that all parties involved have given their explicit consent before photography takes place. This form will help us ensure that we are capturing photos that respect the individuals' rights and boundaries.
-</thinking>
-
 # Stage Photography Permission Form - Help Guide
 ## Purpose
 This form is used to collect information and consent from participants and parents for the purpose of stage photography sessions.

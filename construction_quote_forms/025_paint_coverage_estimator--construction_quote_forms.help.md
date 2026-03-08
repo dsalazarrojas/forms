@@ -1,9 +1,3 @@
-<thinking>
-This form is used to provide an estimator for paint coverage for a construction project.
-The main goal of this form is to calculate the estimated quantity of paint required for a specific project, given details such as wall length, width, and height. The form takes into account various factors including wall surface type, paint color, paint type, primer coverage rate, and total paint coverage. Users input values for these fields and the form returns a calculated total paint coverage.
-This form is used by project managers and estimators to quickly and accurately estimate the paint coverage needed for a project.
-</thinking>
-
 # Paint Coverage Estimator - Help Guide
 ## Purpose
 The Paint Coverage Estimator form is used to calculate the estimated quantity of paint required for a construction project.

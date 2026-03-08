@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for a medical or customer service setting, potentially for a hospital or clinic, given the fields related to customer details and visit information. The purpose of this form could be to gather data for customer interactions, such as checklists or surveys, or even for administrative tasks like verifying identities or keeping records.
-</thinking>
-
 # Opening Checklist - Help Guide
 ## Purpose
 This form is a general purpose checklist for customer interactions, likely used for administrative or quality assurance tasks. It is intended to gather relevant customer information and details about their visit.

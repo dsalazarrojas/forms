@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information from a patient prior to an oral and maxillofacial surgery procedure, including their consent for the surgery. This form is intended to be used by healthcare professionals to gather relevant details about the patient's medical history, allergies, and contact information in order to ensure proper care and follow-up. Please note that this guide is specific to the provided form and may not reflect all possible scenarios or variations in actual clinical practice.
 
 # Oral And Maxillofacial Surgery Consent Form - Help Guide

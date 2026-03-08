@@ -1,7 +1,3 @@
-<thinking>
-This form, titled "product_image_update_request_contact_form", allows users to update information related to a product image. The form is likely used in an e-commerce or product management context, where users need to update or modify image details for a product. This form likely serves as an internal tool for product managers or administrators to collect information from customers or users who want to update or change product images.
-</thinking>
-
 # product_image_update_request_contact_form - Help Guide
 
 ## Purpose

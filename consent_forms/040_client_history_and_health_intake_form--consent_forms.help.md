@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect client information and medical history for medical professionals to review and assess the client's condition. To avoid duplication of efforts, please note that this information will be used for medical purposes only and will be stored in the client's file. Please ensure the information provided is accurate and complete. This form will be reviewed and updated as necessary.
-</thinking>
-
 # Client History And Health Intake Form - Help Guide
 ## Purpose
 The Client History And Health Intake Form is used to collect essential information about the client, including contact details, medical history, and health-related information. This form helps medical professionals assess the client's condition and provide personalized care.

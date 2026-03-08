@@ -1,10 +1,3 @@
-<thinking>
-We are creating a form to support customer loyalty, which is a key aspect of any business. A well-designed customer loyalty program aims to encourage repeat sales and customer retention by rewarding loyal customers with perks and exclusive offers. This form is used to merge multiple customer accounts, typically for customers who have multiple accounts or have forgotten their account information.
-
-To prevent data duplication, this form should only be used for customers who have not previously been merged or do not have an existing account.
-
-</thinking>
-
 # customer_loyalty_merge_request_form - Help Guide
 ## Purpose
 The customer loyalty merge request form is used to merge multiple customer accounts into a single account, allowing for easier management and tracking of customer interactions. This form is designed to collect relevant information from customers to facilitate a successful merge process.

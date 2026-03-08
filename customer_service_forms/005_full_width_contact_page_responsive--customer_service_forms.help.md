@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for customers to contact us, provide their contact information and embed an iframe into the response page. The purpose of this form is to ensure that customers can easily reach out to us and get the information they need. 
-
-The form fields include contact name, contact email, contact phone number, contact message, contact address, embed iframe URL, iframe width, iframe height, iframe alignment, iframe margin, and iframe padding. 
-
-This guide explains each field in detail to help customers fill the form correctly and get the desired result.
-
-</thinking>
-
 # full_width_contact_page_responsive - Help Guide
 ## Purpose
 The full_width_contact_page_responsive form is a contact form designed for customers to reach out to us with their inquiries and requests. It is used to collect contact information and embed an iframe into the response page.

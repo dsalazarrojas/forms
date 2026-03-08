@@ -1,7 +1,3 @@
-<thinking>
-This form is for clients to provide consent for advanced facial treatments and chemical peels. The form aims to gather information about the client's medical history, skin concerns, and consent for the treatment. The client is asked to provide their full name, date of birth, contact number, and email address. They are also asked about their current skin concerns, history of cold sores, and if they are currently using retinoids or accutane. Furthermore, the client is informed about potential side effects and provides consent for the treatment. Lastly, the client signs and dates the consent form.
-</thinking>
-
 # Advanced Facial Treatments And Chemical Peels Client Consent Form - Help Guide
 ## Purpose
 This form is for clients to provide consent for advanced facial treatments and chemical peels. The form aims to gather information about the client's medical history, skin concerns, and consent for the treatment.

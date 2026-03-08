@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the AI Strategy Development Form, I need to first understand the purpose and context of the form. The form is designed to collect information from organizations about their AI strategy development needs. It seems to be used by business stakeholders to provide input on their AI strategy requirements. The form appears to be a survey-style form with various fields that cater to different aspects of AI strategy development, such as organization context, objectives, pain points, success criteria, constraints, timeline priority, governance needs, and additional notes. I will now create a comprehensive help guide based on the provided YAML fields.
-</thinking>
-
 # AI Strategy Development Form - Help Guide
 
 ## Purpose

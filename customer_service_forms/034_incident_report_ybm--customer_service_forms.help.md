@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about incidents that have occurred in the YBM (Your Business Module), providing a centralized platform for reporting and tracking incidents. This form is designed to collect relevant details about the incident, including the incident type, date, time, location, and reporter's contact information. The goal is to facilitate efficient incident reporting and management within the organization.
-
-When creating this form, please ensure that each field is completed with the most accurate and relevant information possible. This will aid in the swift resolution of incidents and help the incident management team make informed decisions.
-
-Before proceeding, check that this form is not being used for any other purpose that might be already covered by existing forms in the system. This form is specifically designed for reporting incidents related to the YBM.
-
-</thinking>
-
 # Incident Report YBM - Help Guide
 ## Purpose
 The Incident Report YBM form is designed to collect relevant information about incidents that have occurred in the YBM, facilitating efficient incident reporting and management.

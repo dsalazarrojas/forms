@@ -1,12 +1,3 @@
-<thinking>
-This help guide will serve as a reference for end-users who need to complete the "Career Fair Information Form". The purpose of this form is to gather essential information from exhibitors who wish to participate in the Career Fair event. This form is designed to be simple and straightforward, ensuring that end-users can easily input their details without any confusion.
-
-Before we dive into the form details, it's essential to note that this form is meant for exhibitors, not event attendees. Exhibitors are organizations or companies that will be showcasing their products, services, or career opportunities at the Career Fair. The information provided in this form will help the event organizers plan and prepare for the exhibitor's needs.
-
-Please ensure that you have read and understood the terms and conditions before proceeding. If you are unsure about any of the fields or requirements, please refer to the "Exhibitor Agreement" document provided by the event organizers.
-
-</thinking>
-
 # Career Fair Information Form - Help Guide
 ## Purpose
 The Career Fair Information Form is designed to collect essential details from exhibitors who wish to participate in the Career Fair event. This form helps us understand your needs and prepare for a successful event. Please take a few minutes to fill out this form accurately and completely.

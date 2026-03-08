@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect participant information for the "Health And Movement Science" program. The form collects participant information, health details, contact information, and emergency contact information. Each field is required, indicating the importance of accurate and complete data. The participant health info field is optional but still valuable for the program's understanding of participant health conditions. The "Emergency Contact" field's relationship type is a yes or no selection, ensuring that the emergency contact person has an established relationship with the participant.</thinking>
-
 # Health And Movement Science Registration - Help Guide
 ## Purpose
 This form is used to collect participant information for the "Health And Movement Science" program. It is essential to fill out this form accurately and thoroughly to ensure the participant's health and contact information is up-to-date.

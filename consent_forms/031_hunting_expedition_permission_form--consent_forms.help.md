@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from participants and their legal guardians before embarking on a hunting expedition. The purpose of this form is to ensure that all necessary information is collected to ensure the participant's safety and well-being during the expedition. This form should only be used for hunting expeditions that require participants to provide specific information about themselves and their guardians.
-
-This guide is intended to help users understand how to fill out the form correctly and what information is required in each section.
-
-Please note that this form is not intended to be used for duplicate or repeated entries. Each submission should be a new participant's information.
-</thinking>
-
 # Hunting Expedition Permission Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants and their legal guardians before embarking on a hunting expedition. The information collected will help us ensure the participant's safety and well-being during the expedition.

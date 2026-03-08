@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form serves to collect vendor registration information, including contact and business details. It helps the vendor to submit their credentials and get listed or approved as a contractor. The form is used for both internal and external vendors. The vendor registration status can be Active or Inactive based on their approval. 
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for users to submit travel-related content for a blog, such as articles, videos, or images. The form might be used by content creators or editors to add new content to the travel blog. It is assumed that the form will be completed by users with a basic understanding of the blog's content guidelines. This form should not be completed by users who are unsure of the blog's content guidelines or are looking to spam the blog.
-</thinking>
-
 # Travel Blog Video Upload Form - Help Guide
 ## Purpose
 The Travel Blog Video Upload Form is used for users to submit travel-related video content for the blog.

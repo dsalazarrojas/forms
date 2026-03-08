@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, this form should only be filled out once per household. This form collects demographic and health information from individuals in the household to help us better understand and manage COVID-19 testing and public health measures. Please ensure that all members of the household fill out the form completely and honestly. The data collected will be used for public health purposes and will be kept confidential.
-</thinking>
-
 # COVID 19 Testing Demographic Consent Form - Help Guide
 
 ## Purpose

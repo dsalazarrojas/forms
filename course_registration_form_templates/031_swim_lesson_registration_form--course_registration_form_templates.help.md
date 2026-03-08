@@ -1,9 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and requirements of the Swim Lesson Registration Form.
-The purpose of this form is to collect information from students registering for swim lessons.
-This form gathers essential details such as first name, last name, email, phone number, date of birth, swim level, swim style, swim frequency, instructor name, instructor experience, course length, course schedule, swim type, lesson time, lesson duration, student number, student fee, instructor fee, instructor availability, instructor qualifications, student contracts, and instructor contracts. Please review each field carefully to provide accurate information.
-</thinking>
-
 # Swim Lesson Registration Form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to document and manage changes made to fields in a project. It is used by project managers to track and update the status of field changes made to a project, including the reasons for the change, the date the change was requested, and the current status of the change. This form should only be used for changes that have not been previously recorded.
-</thinking>
 # Field Change Order Form - Help Guide
 ## Purpose
 The Field Change Order Form is used to document and manage changes made to fields in a project. Project managers can use this form to track and update the status of field changes, including the reasons for the change, the date the change was requested, and the current status of the change.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users interested in taking the Home Health Aide self-paced training program. This form is designed to gather relevant details such as module interest, training provider, training location, contact information, course registration details, and more. To ensure that all relevant information is collected, please carefully review the form sections below.
-</thinking>
-
 # Home Health Aide Self-Paced Training Registration - Help Guide
 
 ## Purpose

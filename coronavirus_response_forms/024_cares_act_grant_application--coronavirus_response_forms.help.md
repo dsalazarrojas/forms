@@ -1,8 +1,3 @@
-<thinking>
-This form is a critical part of the CARES Act Grant Application process, designed to support arts organizations in Orange County primarily serving communities of color. The form gathers essential information about an organization's identity, operations, and financial impact during the COVID-19 pandemic. It is crucial to fill out the form accurately to ensure a successful grant application. Please review the form carefully before submitting it, and ensure you are not duplicating efforts with other applications or forms.
-
-</thinking>
-
 # CARES Act Grant Application - Help Guide
 
 ## Purpose

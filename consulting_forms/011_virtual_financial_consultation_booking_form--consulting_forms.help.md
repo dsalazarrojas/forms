@@ -1,9 +1,3 @@
-<thinking>... internal reasoning here ...
-
-The purpose of this form is to allow clients to book a virtual financial consultation. It captures essential details such as the client's name, email, phone number, preferred and selected dates, available time, and consultation type (Meeting, Phone Call, or Video Call). The form is designed to be completed by clients to schedule a consultation with a financial advisor. This form is not meant to be filled out by financial advisors or internal stakeholders.
-
-</thinking>
-
 # Virtual Financial Consultation Booking Form - Help Guide
 ## Purpose
 The Virtual Financial Consultation Booking Form is designed to collect information from clients to schedule a virtual financial consultation. 

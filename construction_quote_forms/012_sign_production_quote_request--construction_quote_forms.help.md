@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from customers for a sign production quote request. This form is intended for internal use and will likely be used by sales and customer service teams to gather the necessary details for processing customer requests. It's likely that the form will be used by the sales team to create a quote for the production process, and the customer service team will use the information to follow up with the customer and provide updates on the status of their request. 
-
-To determine if this form is being used correctly, you would need to verify that the customer information is up to date, the production date and time are accurate, and the customer has signed off on the quote or production. 
-</thinking>
-
 # Sign Production Quote Request - Help Guide
 ## Purpose
 The purpose of this form is to gather information from customers for a sign production quote request. This information will be used to create a quote for the production process and to follow up with the customer on the status of their request.

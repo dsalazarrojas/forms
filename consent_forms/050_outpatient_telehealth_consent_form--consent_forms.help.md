@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect necessary information from patients for outpatient telehealth services. This form will likely be used in a healthcare setting to gather patient data and obtain consents for services. To avoid duplicating effort, it's essential to ensure that this form is filled out correctly and not used as a substitute for other, more comprehensive, medical history forms. This form will likely be used by healthcare providers to establish a baseline for patient care and to obtain necessary information for treatment planning.
-</thinking>
-
 # Outpatient Telehealth Consent Form - Help Guide
 ## Purpose
 The Outpatient Telehealth Consent Form is designed to collect necessary information from patients for outpatient telehealth services. This form helps healthcare providers gather important patient data and obtain consents for services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # delivery_service_satisfaction_feedback_form - Help Guide
 
 ## Purpose

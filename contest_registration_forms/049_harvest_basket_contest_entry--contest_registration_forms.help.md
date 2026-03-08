@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contest entry information from users. It is a single-page form with various fields to gather essential details. Before filling out the form, ensure that you have a valid entry to submit. This form does not allow duplicate entries. Please fill out the form carefully, and make sure to submit it once you have completed all required fields.
-</thinking>
-
 # Harvest Baskt Contest Entry - Help Guide
 
 ## Purpose

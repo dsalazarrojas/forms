@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agent Promotional Content Consent Form - Help Guide
 
 ## Purpose

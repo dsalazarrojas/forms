@@ -1,7 +1,3 @@
-<thinking>
-This form is for users who are already customers or have a prior interaction with the company, and the goal is to facilitate their return to the application. This form likely serves as a simplified onboarding process for existing customers, allowing them to access features or areas of the application that were previously reserved for registered users. This form should not be filled out by new customers who need to create a new account. Please ensure to check with your internal systems before filling out this form if you are unsure whether you are a returning user.
-</thinking>
-
 # Returning User Registration - Help Guide
 ## Purpose
 This form is designed for returning users who need to register or update their account information to access certain features or areas of the application.

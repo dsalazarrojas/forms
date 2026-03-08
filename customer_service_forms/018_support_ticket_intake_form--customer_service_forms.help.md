@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to submit support tickets to the customer service team. The form should only be used by customers who have not yet submitted a support ticket for the same issue, and the customer's request should be a new and unique issue. This form is not meant to be used for general inquiries or requests that are not related to support.
-</thinking>
-
 # support_ticket_intake_form - Help Guide
 ## Purpose
 This form is used to submit a support ticket to the customer service team. It should be used to report a new issue that requires support. If you have already submitted a support ticket for the same issue, please do not use this form.

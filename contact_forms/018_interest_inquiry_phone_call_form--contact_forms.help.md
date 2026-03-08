@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interest Inquiry Phone Call Form - Help Guide
 ## Purpose
 The Interest Inquiry Phone Call Form is designed to collect information from users who are interested in scheduling a phone call with a sales or support representative. This form helps the representative quickly and efficiently gather the necessary details to follow up with the user and address their inquiry.

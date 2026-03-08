@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Screening Checklist For Visitors And Employees - Help Guide
 ## Purpose
 

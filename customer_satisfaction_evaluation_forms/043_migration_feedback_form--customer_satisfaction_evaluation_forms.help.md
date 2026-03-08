@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather customer feedback on a migration experience. The purpose of this form is to collect information on how customers perceive the effectiveness and quality of the migration process. This form should be completed by customers who have undergone a migration, providing their rating and comments on the experience. The form should not be completed by customers who have not undergone a migration.
-
-To ensure accurate and complete feedback, it's essential to review the form before submission to verify that it's relevant to your migration experience. Please do not submit this form if you have not been through a migration.
-
-To prevent duplication of feedback, this form will only accept submissions from customers who have undergone a migration.
-
-Please ensure that you have completed all required fields before submitting the form. This includes Customer Satisfaction Rating, Migration Date, Migration Type, and Migration Status.
-</thinking>
-
 # Migration Feedback Form - Help Guide
 ## Purpose
 The Migration Feedback Form is designed to collect customer feedback on their migration experience. It's essential to understand that this form is intended for customers who have gone through a migration.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Genetic Data Sharing Research Consent Form - Help Guide
 ## Purpose
 The Genetic Data Sharing Research Consent Form is designed to obtain consent from research participants to share their genetic data for specific research purposes. It is used to ensure that individuals understand the purpose and scope of the research, and that they provide informed consent before participating in the study.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to obtain client consent for mold remediation, which is a process of removing mold from properties. The form is used to collect information from clients, including their name, email, property address, remediation type, remediation date, remediation time, remediation status, and any comments. 
-
-This form is likely used in the context of real estate or property management, where clients are hiring a service to remove mold from their properties. It's essential to fill out the form accurately and thoroughly to ensure that the client's consent and information are properly recorded. 
-
-Please ensure that you only fill out this form if you are the actual client or authorized representative. Duplication or incomplete submission may lead to errors or confusion in the remediation process.
-
-</thinking>
-
 # mold_remediation_agreement - Help Guide
 ## Purpose
 The purpose of this form is to collect client consent and information for mold remediation services.

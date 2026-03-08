@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Welcome Call Processing Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-A fire drill participation consent form is a document used to gather information from individuals about their participation in a fire drill event. This form helps to ensure that all participants are aware of the risks and procedures involved in the fire drill, and that they understand their role and responsibilities during the event. It is typically used by event organizers to get a clear understanding of who is participating, their contact information, and their emergency contact information in case of an emergency. This form should be completed by all participants before the event.
-</thinking>
-
 # Fire Drill Participation Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from individuals participating in a fire drill event, ensuring they are aware of the risks and procedures involved.

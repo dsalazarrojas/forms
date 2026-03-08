@@ -1,14 +1,3 @@
-<thinking>
-This form is used by users to release information related to temporary accounts. 
-The form is designed to be completed by individuals who have been assigned to work on temporary accounts and need to provide information about these accounts. 
-This form is meant to be a straightforward and easy-to-understand guide to ensure users understand what information is required and how to fill out the form correctly.
-
-The purpose of this form is to collect information from users about temporary accounts, such as the category, description, and any tools used to access these accounts. This information will be used for internal purposes only.
-
-Before completing this form, please ensure that you have been assigned to work on the temporary account and that you have access to the relevant information.
-
-</thinking>
-
 # Temporary Account Information Release Form - Help Guide
 ## Purpose
 This form is used to collect information about temporary accounts from users who have been assigned to work on these accounts.

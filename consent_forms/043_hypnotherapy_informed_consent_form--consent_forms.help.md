@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the "Hypnotherapy Informed Consent Form". 
-The form is designed to gather information about the patient, including their name, contact number, email address, address, date and time of service, description of the service, name of the patient's contact person (therapist), and consent statement with a signature field. 
-The form should provide clear instructions to the user on how to fill out each field accurately and efficiently.
-</thinking>
-
-
 # Hypnotherapy Informed Consent Form - Help Guide
 ## Purpose
 The Hypnotherapy Informed Consent Form is used to record informed consent from a patient before proceeding with hypnotherapy services. This form ensures that the patient is aware of and agrees to the services provided.

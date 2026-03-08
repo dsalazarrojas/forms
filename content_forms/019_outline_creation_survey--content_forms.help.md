@@ -1,7 +1,3 @@
-<thinking>
-The "Outline Creation Survey" form is designed to collect structured data from end-users for the purpose of creating an outline. The form is intended to be used by individuals who are familiar with the concept of creating an outline, such as students, researchers, or content creators. This form is not suitable for collecting free-formatted text or unstructured data. Before filling out this form, ensure that you have a clear understanding of what an outline is and how it is used. If you are unsure, please refer to external resources for further information.
-</thinking>
-
 # Outline Creation Survey - Help Guide
 ## Purpose
 The "Outline Creation Survey" form is designed to collect structured data from end-users for the purpose of creating an outline.

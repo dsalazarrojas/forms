@@ -1,27 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in filling out the "Ask Me Anything" form, which is used to submit questions for live sessions or discussions with a specific person or personality. The form is designed to gather information about the person asking the question, their background, and preferences, as well as their question itself. The goal is to ensure that users understand the purpose and requirements of the form, and can complete it accurately and efficiently.
-
-To avoid duplication, the form will only allow one submission per user per session. If a user has already submitted a question, they will not be able to submit another one.
-
-The form is intended for users who want to ask questions in a live session or discussion with a specific person or personality. The form is not intended for general inquiries or sales pitches.
-
-The form has the following sections:
-
-1.  Who is this question for? (AMA Target)
-2.  Your Name
-3.  Your Email Address (optional)
-4.  Question Category
-5.  Your Question
-6.  Is this an anonymous question? (yes/no)
-7.  How long have you followed this person? (optional)
-8.  Where are you from? (optional)
-9.  Your Website or Social Media Link (optional)
-10.  I consent to my question being shared publicly? (yes/no)
-
-Each field has a specific purpose and is required or optional, depending on the context. Here's a breakdown of each field:
-
-</thinking>
-
 # Ask Me Anything - Help Guide
 ## Purpose
 The "Ask Me Anything" form is used to submit questions for live sessions or discussions with a specific person or personality.

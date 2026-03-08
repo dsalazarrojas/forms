@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about meetings and projects. The purpose of this form is to gather relevant details such as meeting notes, project status, and other project-related information. This form should only be used for collecting data about meetings and projects, and not for other purposes. Please make sure that you are filling out this form for the correct reason and that it is not being duplicated elsewhere.
-
-</thinking>
-
 # Note Taking Form - Help Guide
 ## Purpose
 This form is used to collect information about meetings and projects.

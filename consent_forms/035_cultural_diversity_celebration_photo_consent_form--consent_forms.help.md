@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture information related to a cultural diversity celebration photo event. It's crucial to understand the context and purpose of this form to ensure accurate and relevant information is collected. This form should not be used for other types of events or purposes. The form is intended for events that promote and celebrate cultural diversity, such as cultural festivals, fairs, or exhibitions.
-
-Before filling out this form, please ensure you have the necessary permissions and consents to take and share the photos of the subjects involved. This form is designed to help you capture the relevant details about the photo event in a structured and organized manner.
-
-</thinking>
-
 # cultural_diversity_celebration_photo_consent_form - Help Guide
 ## Purpose
 The cultural diversity celebration photo consent form is designed to capture the information needed to take and share photos of cultural diversity celebrations. This form ensures that you have the necessary permissions and consents from the photo subjects and organizers involved.

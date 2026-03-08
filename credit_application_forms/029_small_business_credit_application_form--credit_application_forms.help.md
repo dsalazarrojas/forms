@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to gather information from small business owners applying for a credit. The form will be used to assess the creditworthiness of the business. The purpose of this form is to gather all necessary information about the business, its contact and credit history, and the loan amount and term the business is seeking. This form is a required step in the credit application process and should not be duplicated.
-
-</thinking>
-
 # Small Business Credit Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from small business owners applying for credit. Please fill out the form with accurate and complete information to help us assess your creditworthiness.

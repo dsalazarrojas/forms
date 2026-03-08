@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from consultants and clients on the efficiency and effectiveness of financial consulting projects. The form helps to gather insights on project duration, client satisfaction, project outcome, and other relevant details. It's used to identify areas of improvement and optimize the consulting process.
-</thinking>
-
 # Financial Consulting Efficiency Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from consultants and clients on the efficiency and effectiveness of financial consulting projects.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Course Registration Form In Spanish - Help Guide
 ## Purpose
 This form is a course registration form designed to collect information from students, including course information, personal details, and relevant contact data. It is intended for students who want to register for a course in Spanish.

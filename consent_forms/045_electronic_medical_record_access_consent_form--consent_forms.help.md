@@ -1,7 +1,3 @@
-<thinking>
-To provide access to an individual's electronic medical record, we need to ensure that the patient and healthcare provider have provided their consent. This form will help us gather the necessary information from both parties to facilitate secure and private access to the patient's medical record. Please note that this form is a mandatory step in the process and should only be completed when the patient and healthcare provider have explicitly granted their consent. 
-</thinking>
-
 # Electronic Medical Record Access Consent Form - Help Guide
 
 ## Purpose

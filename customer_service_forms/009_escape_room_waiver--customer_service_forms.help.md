@@ -1,7 +1,3 @@
-<thinking>
-The Escape Room Waiver form is a legal document that customers must complete before participating in an escape room experience. This form ensures that customers acknowledge and agree to certain terms and conditions before entering the game. The form is designed to gather essential information from customers, including contact and demographic details, waiver and signature, and game-related information.
-</thinking>
-
 # Escape Room Waiver - Help Guide
 ## Purpose
 The Escape Room Waiver form is a mandatory document that customers must complete before participating in an escape room experience. It serves as a legal agreement between the customer and the game operator, outlining the rules and guidelines for the game.

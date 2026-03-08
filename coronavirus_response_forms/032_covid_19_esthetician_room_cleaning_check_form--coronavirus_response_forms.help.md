@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about the cleaning status of an esthetician room during the COVID-19 pandemic. It is used by staff members to report on their cleaning activities, including the date and time of the check, the staff member's name, and the specific areas of the room that are cleaned and disinfected. The form also covers the availability of cleaning supplies, the overall cleanliness assessment, and any action items that need to be taken. It is a critical document for ensuring that esthetician rooms are properly maintained and sanitized.
-To ensure that this form is filled out correctly and consistently, please check that:
-* The form is being filled out for a valid date.
-* The required fields are completed (Check Date, Check Time, Staff Member Name, Room Number, Shift, Floor Cleaned and Disinfected, Walls Cleaned, Treatment Table Cleaned and Disinfected, Mirrors and Glass Cleaned, Equipment and Tools Disinfected, Instruments Properly Sterilized, Linens Changed and Laundered, Trash Properly Disposed, Appropriate Disinfectant Used, Hand Sanitizer Restocked, PPE Available in Room, Overall Cleanliness Assessment, and Manager Signature).
-* The form is not being used for purposes other than its intended use.
-</thinking>
-
 # COVID 19 Esthetician Room Cleaning Check Form - Help Guide
 ## Purpose
 The COVID 19 Esthetician Room Cleaning Check Form is used by staff members to report on their cleaning activities in the esthetician room during the COVID-19 pandemic. The form helps ensure that the room is properly maintained and sanitized.

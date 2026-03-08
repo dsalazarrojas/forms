@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to support end users who may encounter issues with our services. Its primary purpose is to gather information about the problem, provide a clear and concise way to describe the issue, and facilitate efficient resolution by the support team. To avoid duplication, this form will only be triggered after other support channels have been exhausted.
-</thinking>
-
 # Contact Support Team - Help Guide
 ## Purpose
 This guide walks you through the "Contact Support Team" form, designed to help our support team understand your issue quickly and efficiently. Please fill out the form below to provide essential information about your question or problem.

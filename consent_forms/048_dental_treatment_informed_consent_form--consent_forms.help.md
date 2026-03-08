@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to provide informed consent for dental treatment. It's essential to ensure that patients understand the treatment they're receiving, its risks, and the consent they're giving. This form is typically completed by patients before treatment begins. To avoid duplication of effort, please only complete this form once per patient.
-</thinking>
-
 # Dental Treatment Informed Consent Form - Help Guide
 
 ## Purpose

@@ -1,24 +1,3 @@
-<thinking>
-This form is designed to collect information about COVID-19 outbreaks in a facility setting. The purpose of this form is to report the number of confirmed and suspected cases, hospitalizations, and other relevant information about the outbreak. This form is intended for facilities that have experienced or are experiencing a COVID-19 outbreak. If the facility has not experienced an outbreak, please do not complete this form.
-
-To avoid duplication of data, please do not complete this form if you have already reported the same outbreak to our system.
-
-This form will collect information about the facility and the outbreak, including the number of confirmed and suspected cases, hospitalizations, and other relevant information.
-
-Please make sure to fill in all required fields carefully and accurately. If you are unsure about any of the fields, you can contact us for clarification.
-
-Before filling out this form, please make sure you have the necessary information and permissions to complete it. 
-
-Please fill out this form in the following order: 
-
-1. Facility Information 
-2. Outbreak Information 
-3. Response Measures 
-
-Please make sure to submit the form once you have completed all the required fields.
-
-</thinking>
-
 # COVID 19 Outbreak Reporting Form - Help Guide
 ## Purpose
 This form is designed to collect information about COVID-19 outbreaks in a facility setting.

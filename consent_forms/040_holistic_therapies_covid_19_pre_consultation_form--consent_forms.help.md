@@ -1,7 +1,3 @@
-<thinking>
-As a form designer and technical writer, I need to explain why this form is being used in the current COVID-19 pandemic situation. This form is likely intended to collect information from patients before a consultation, probably to assess their medical history, potential risks, and other relevant factors. The form is designed to be a pre-consultation tool for healthcare professionals to gather essential data to provide better care. I will not output the form's purpose and instructions in the YAML format, but rather create a user-facing help guide in Markdown.
-</thinking>
-
 # holistic_therapies_covid_19_pre_consultation_form - Help Guide
 
 ## Purpose

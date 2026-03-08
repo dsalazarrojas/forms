@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for customers to enter a contest for a free beauty treatment. The purpose of the form is to gather information from customers about their preferred treatment type and other relevant details. This information will be used to select the winner of the contest. To ensure that the entry form is completed accurately and consistently, a brief guide is provided to help customers understand how to fill out the form properly.
-</thinking>
-
 # Win A Beauty Treatment Contest Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to help us understand your preferences for a beauty treatment contest. Please fill out the form accurately and consistently to be eligible for the contest.

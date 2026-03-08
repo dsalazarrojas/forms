@@ -1,8 +1,3 @@
-<thinking>
-This block is to ensure that I understand the context and requirements of the form before generating the help guide. The form is for patients to book a massage consultation, and it includes fields for personal and contact information, massage services, and medical history. The form seems to be designed for a specific massage therapy service.
-
-</thinking>
-
 # Massage Consultation Form - Help Guide
 ## Purpose
 The Massage Consultation Form is designed for patients to provide information about their massage consultation needs. To complete this form, please follow the instructions below.

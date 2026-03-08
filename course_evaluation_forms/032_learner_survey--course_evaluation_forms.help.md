@@ -1,12 +1,3 @@
-<thinking>
-This is a form created using a generative AI model, designed to generate forms based on public metadata from online surveys. The form is an original adaptation of various public survey topics and is not affiliated with or derived from any form platform. The purpose of this form is to gather feedback from learners about their experience with a course. It is meant to be a helpful tool for instructors and course administrators to understand the strengths and weaknesses of their courses and improve them accordingly.
-
-This form has a total of 9 pages, each with its own set of questions and fields. Please make sure to complete the form carefully and honestly to provide valuable feedback.
-
-If you have already completed this form in the past, please do not resubmit it. Your feedback is highly valuable, and we appreciate your time and effort to contribute to the improvement of our courses.
-
-</thinking>
-
 # Learner Survey - Help Guide
 ## Purpose
 The Learner Survey is a form designed to collect feedback from learners about their experience with a course. The goal is to gather insights on how to improve the course content, instruction, and overall learning experience.

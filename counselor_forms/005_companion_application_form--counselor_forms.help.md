@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly, it is essential to understand its purpose and requirements. This form is for individuals applying to become a companion, providing essential details about their personal history, experience, and availability. The form will check for duplication, meaning that an individual with the same email address, full name, and other unique identifiers will be prevented from re-applying. This feature is in place to ensure that only authentic and original applications are received. 
-</thinking>
-
 # Companion Application Form - Help Guide
 ## Purpose
 The Companion Application Form is for individuals applying to become a companion. It gathers information about your personal details, travel experience, languages spoken, medical training, availability, previous experience, reference contact information, background check consent, and application date.

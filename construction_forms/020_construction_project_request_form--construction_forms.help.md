@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or customers who are interested in hiring a contractor for a construction project. The purpose of this form is to gather essential details about the project, including the project's scope, timeline, budget, and other relevant information that will help the contractor understand the project's requirements and provide an accurate quote. This form should only be filled out once per project, to avoid duplicate requests.
-</thinking>
-
 # Construction Project Request Form - Help Guide
 
 ## Purpose

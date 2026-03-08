@@ -1,19 +1,3 @@
-<thinking>
-To ensure that the user-facing help guide is accurate and effective, we should consider the following:
-
-*   The form's purpose should be clearly stated in the guide to help users understand the context and relevance of the form.
-*   Each field should be explained in detail to avoid confusion and misinterpretation.
-*   We should verify that the guide is non-duplicating and concise.
-*   The guide should be concrete and practical.
-
-Given the form's fields, the guide should cover the following points:
-
-*   The form is used for cadet program registration.
-*   The guide should explain each field's purpose, requirements, and options in detail.
-*   We should ensure that the guide covers the required fields and their importance.
-
-</thinking>
-
 # Cadet Program Registration - Help Guide
 ## Purpose
 The Cadet Program Registration form is used to collect information from applicants to the Cadet Program. This form is required for all applicants to verify their eligibility and provide necessary details for the program.

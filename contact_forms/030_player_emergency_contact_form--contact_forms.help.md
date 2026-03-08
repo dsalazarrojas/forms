@@ -1,7 +1,3 @@
-<thinking>
-The Player Emergency Contact Form is designed to provide a way for players to inform staff or administrators of their emergency contact information in case of an emergency. This form should only be filled out by players who have not previously completed this form. Before filling out this form, please ensure that you are not duplicating information that you have already provided to our staff.
-</thinking>
-
 # Player Emergency Contact Form - Help Guide
 
 ## Purpose

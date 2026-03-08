@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for website content submissions. To ensure you're submitting relevant and complete information, please review each field carefully before submitting your form. This form should not be used for duplicate submissions. If you're unsure about any field, please reach out to [insert contact info here].
-</thinking>
-
 # website_content_submission_form_template - Help Guide
 ## Purpose
 This form is intended to collect and store information about website content submissions. It captures relevant details from both the submitter and the reviewer, making it easier to track and manage submissions.

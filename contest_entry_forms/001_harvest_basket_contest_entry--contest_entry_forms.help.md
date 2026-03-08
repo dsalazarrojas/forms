@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from individuals or organizations that have participated in a "harvest basket" contest, event, or activity. It may be used to gather data for research, analysis, or other organizational purposes. Before filling out this form, please make sure you haven't already submitted an entry for the same contest. If you're unsure, please contact the event organizers for clarification.
-</thinking>
-
 # harvest_basket_contest_entry - Help Guide
 ## Purpose
 

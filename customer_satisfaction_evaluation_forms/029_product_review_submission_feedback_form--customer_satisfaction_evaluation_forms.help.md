@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to help customers provide feedback on products they have purchased or used. The form is designed to collect information about the product, the customer's contact information, and their feedback on the product's performance. The form's goal is to collect actionable data that can be used to improve the product and customer experience.
-
-To avoid duplication of effort, we have implemented a system to prevent customers from submitting multiple reviews for the same product.
-
-</thinking>
-
 # product_review_submission_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on products you have purchased or used. Your input will help us improve our products and services.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to document and investigate sound quality issues experienced by customers. The form collects information about the customer's name, email, a detailed description of the issue, and other relevant details such as date, time, and sound quality attributes (frequency, intensity, and duration). This data will be used by the customer support team to analyze and resolve the sound quality complaints.
-</thinking>
 # Sound Quality Complaint Form - Help Guide
 ## Purpose
 The Sound Quality Complaint Form is used to report sound quality issues to the customer support team. If you are experiencing a problem with sound quality, please fill out this form to provide us with the necessary information to investigate and resolve the issue.

@@ -1,12 +1,3 @@
-<thinking>...
-We have a form named "theater_script_sign_out_form" which is a multi-page form used for script sign out purposes.
-
-The form has several fields for various information such as script version, date used, date returned, department, location, comments, and more. Some of these fields are optional while others are required. This form is likely used for inventory management or tracking purposes.
-
-Before starting to complete the form, please ensure that you have all the required information at hand.
-
-</thinking>
-
 # theater_script_sign_out_form - Help Guide
 ## Purpose
 The theater_script_sign_out_form is a multi-page form used for script sign out purposes.

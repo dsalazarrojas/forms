@@ -1,13 +1,3 @@
-<thinking>
-This form is for users who are interested in planning their retirement and would like to get in touch with us for guidance and support. The form is designed to be completed by individuals who are seeking information and resources to help them make informed decisions about their retirement planning. Please note that this form should not be completed by individuals who are already working with us or have already scheduled a consultation.
-
-This form is meant to be a general inquiry form, not a comprehensive retirement planning tool. Users who are looking for a more detailed analysis of their situation should contact us directly or schedule a consultation.
-
-By completing this form, users will be providing us with basic demographic information and expressing their interest in retirement planning. This information will be used to get in touch with them and provide them with general guidance and support.
-
-Please ensure that you have read and understood the terms and conditions before proceeding with the form.
-</thinking>
-
 # Retirement Planning Interest Form - Help Guide
 ## Purpose
 This form is designed for individuals who are interested in planning their retirement and would like to get in touch with our team for guidance and support.

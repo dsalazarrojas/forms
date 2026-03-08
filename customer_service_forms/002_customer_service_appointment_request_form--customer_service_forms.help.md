@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to request a service appointment. It collects information from the customer for the customer service team to process their request. This form has the following fields:
-- Customer Information (page 1): This page is optional and allows customers to provide a brief description of their request.
-- Name (page 2): This field requires the customer's name.
-- Email (page 2): This field requires the customer's email address.
-- Phone (page 2): This field requires the customer's phone number.
-- Date (page 3): This field requires the customer's preferred date for the appointment.
-- Time (page 3): This field requires the customer's preferred time for the appointment.
-- Message (page 4): This field is optional and allows customers to provide additional details about their request.
-</thinking>
-
 # customer_service_appointment_request_form - Help Guide
 ## Purpose
 This form is used to request a service appointment.

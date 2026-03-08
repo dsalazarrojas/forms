@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help customers request free shipping eligibility. This form is not intended for internal use and is meant to be used by customers who wish to receive free shipping on their orders. To ensure that the form is used correctly, it is recommended that customers only use this form once they have already placed an order or have an existing order pending. Using this form for multiple orders may lead to duplicate free shipping requests and cause errors in our system.
-</thinking>
-
 # Free Shipping Eligibility Request Form - Help Guide
 
 ## Purpose

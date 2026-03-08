@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information from students and teachers for official purposes in an educational setting. It captures the necessary details to ensure the student's presence and permission to attend events, participate in activities, or engage in certain school programs. The form is designed to be completed by both students and teachers, with some fields requiring more or less information depending on the context. This form may need to be filled out for various reasons, such as events, field trips, or extracurricular activities. Please ensure that all necessary fields are filled out accurately and completely before submission. If you have any questions or concerns, please contact form@gic.mx.</thinking>
-
 # County Permission Slip Form - Help Guide
 ## Purpose
 The County Permission Slip Form is used to collect permission from students and teachers for official school activities, events, or programs.

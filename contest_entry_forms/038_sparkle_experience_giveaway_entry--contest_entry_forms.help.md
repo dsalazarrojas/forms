@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect entries for a "Sparkle Experience Giveaway" contest. It is intended to gather information from users who wish to participate in the giveaway, providing details about their entry and the referral process. The form should only be filled out once per person, and referrals are also tracked to track the number of people referred.
-
-Please note that some fields in this form are not required, but it's crucial to fill out the required fields accurately to ensure correct processing of your entry.
-
-</thinking>
-
 # Sparkle Experience Giveaway Entry - Help Guide
 ## Purpose
 This form is used to enter the "Sparkle Experience Giveaway" contest. Fill out this form to participate in the contest and, optionally, refer other people to join as well.

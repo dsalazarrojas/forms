@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to obtain international NGO (non-governmental organization) waiver and acknowledgment from participants or individuals involved in specific activities or events. This form is likely used to ensure that participants understand the risks involved and release any potential liabilities.
-To confirm whether this form should be submitted, we should check with the relevant team or manager if this activity or event has been approved and if the form is relevant for this specific scenario.
-</thinking>
-
 # International NGO Waiver Form - Help Guide
 ## Purpose
 The International NGO Waiver Form is designed to obtain waiver and acknowledgment from participants or individuals involved in specific activities or events related to international NGOs.

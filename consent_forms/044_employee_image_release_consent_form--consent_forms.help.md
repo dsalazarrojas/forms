@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for employees to grant or deny consent for the use of their images, videos, or audio recordings in various company communications and external sharing channels. The form will help ensure that employees are aware of and agree to the use of their likeness in different contexts. It's essential to understand that this form is a formal agreement between the employee and the company, and it's a requirement for employees to complete it accurately to avoid any potential issues or misunderstandings.
-
-</thinking>
-
 # Employee Image Release Consent Form - Help Guide
 ## Purpose
 This form is used to obtain an employee's consent for the use of their images, videos, or audio recordings in various company communications and external sharing channels. The form helps ensure that employees are aware of and agree to the use of their likeness in different contexts.

@@ -1,7 +1,3 @@
-<thinking>
-The Online Complaint Form is designed to allow customers to submit their complaints and issues to the company's customer service team. This form is intended for customers who want to report a problem or concern they have experienced with the company's products or services. To ensure that complaints are handled efficiently and effectively, it is essential to fill out the form correctly and completely. 
-</thinking>
-
 # Online Complaint Form - Help Guide
 ## Purpose
 The Online Complaint Form is a means for customers to submit their complaints and issues to the company's customer service team.

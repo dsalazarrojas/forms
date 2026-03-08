@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Real Estate Flood Disclosure Form is to gather information about a property's flood risk and provide a flood disclosure to the buyer or tenant. This form is typically used by real estate professionals to identify potential flood hazards and provide the necessary documentation to ensure compliance with regulatory requirements.
-</thinking>
-
 # Real Estate Flood Disclosure Form - Help Guide
 ## Purpose
 The Real Estate Flood Disclosure Form is a document that real estate professionals use to gather information about a property's flood risk and provide a flood disclosure to the buyer or tenant. This form is essential for identifying potential flood hazards and ensuring compliance with regulatory requirements.

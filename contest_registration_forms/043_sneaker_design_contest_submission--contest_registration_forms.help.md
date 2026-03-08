@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Sneaker Design Contest Submission form, I will first analyze the form's purpose and fields, and then provide a clear and concise explanation for each field in a Markdown format.
-
-The form purpose is to collect information from submitters for a design contest. The form likely aims to gather design submissions from individuals interested in participating in a design contest, and the information collected will be used to evaluate and potentially display their designs.
-
-Before proceeding, I will check for relevance and non-duplication by comparing the form schema against the provided instructions.
-
-</thinking>
-
 # Sneaker Design Contest Submission - Help Guide
 ## Purpose
 This form is designed to collect submissions for a sneaker design contest. It aims to gather essential information from interested participants, including their contact details, design descriptions, and terms of service agreements.

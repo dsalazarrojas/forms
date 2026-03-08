@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from dealers for a "Dealer Spotlight" program, which likely aims to showcase and promote outstanding dealers in the industry. The purpose of this form is to collect relevant details about a dealer, including their name, company, address, website, description, and other supporting materials. The form is intended for internal use within the organization.
-
-</thinking>
-
 # Dealer Spotlight Submission Form - Help Guide
 ## Purpose
 

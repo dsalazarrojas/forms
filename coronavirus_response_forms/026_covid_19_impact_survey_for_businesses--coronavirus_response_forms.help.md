@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from businesses about their experiences and impacts due to the COVID-19 pandemic. The purpose of this form is to help businesses provide accurate data about their current status, challenges, and responses to the pandemic. It's essential to fill out this form carefully and thoroughly, avoiding duplication of effort. If you've already completed this form, please do not fill it out again. Your input is crucial to helping us understand the pandemic's impact on businesses and make informed decisions to support your industry. Please answer all questions accurately and completely.
-</thinking>
-
 # COVID 19 Impact Survey For Businesses - Help Guide
 ## Purpose
 This form is a data collection instrument to gather information about businesses affected by the COVID-19 pandemic.

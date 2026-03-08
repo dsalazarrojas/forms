@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed for the R_and_D_Cooking_Corner, which aims to gather information about user interactions with the cookie orders. The purpose of the form is to collect data on users who have interacted with the cookie corner, whether it's placing an order, asking about a product, or leaving feedback. The form should be accessible to all users, regardless of their interaction with the cookie corner. This form is not intended to be used for any other purpose than gathering information about user interactions with the cookie corner.
-</thinking>
-
 # R_and_D_Cooking_Corner - Help Guide
 ## Purpose
 The R_and_D_Cooking_Corner form is designed to collect information about user interactions with the cookie corner.

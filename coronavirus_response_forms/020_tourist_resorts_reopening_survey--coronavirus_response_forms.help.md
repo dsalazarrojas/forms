@@ -1,9 +1,3 @@
-<thinking>
-We're creating a help guide for the "Tourist Resorts Reopening Survey" form, which is intended to gather information from tourist resorts about their reopening plans and policies in response to the coronavirus pandemic. To confirm that the form is relevant and has not already been completed, we'll ask that you review this guide carefully before proceeding.
-
-The form is designed to collect essential details about each resort, including their general information (e.g., name, website, contact number), location, and specific questions about their response to the pandemic. We'll walk you through each section of the form and explain what each field represents.
-</thinking>
-
 # Tourist Resorts Reopening Survey - Help Guide
 ## Purpose
 This form helps tourist resorts provide information about their reopening plans and policies in response to the coronavirus pandemic. It ensures that the resort's details, including general information and their stance on various pandemic-related measures, are accurate and up-to-date.

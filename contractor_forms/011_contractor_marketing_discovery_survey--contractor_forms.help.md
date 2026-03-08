@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contractor Marketing Discovery Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your marketing efforts, challenges, and goals as a contractor. We will use this information to provide you with personalized marketing recommendations and support to grow your business.

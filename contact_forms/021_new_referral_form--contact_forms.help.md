@@ -1,9 +1,3 @@
-<thinking>
-The form is likely being used to collect information from a referrer (e.g., an employee at a company) that is referring a candidate to your organization. The form may be part of a recruiting or sales process. To complete this form, the referrer will be inputting their company's information and the candidate's details such as name, job title, and email. This form aims to gather relevant details about the candidate and the company they represent.
-
-To avoid duplication and ensure the form is completed correctly, the referrer should only fill out this form once per candidate. If the same candidate is being referred multiple times, please use a different form for each referrer to provide their unique information.
-</thinking>
-
 # New Referral Form - Help Guide
 ## Purpose
 The New Referral Form is used to collect information from a referrer about a candidate they are referring to your organization.

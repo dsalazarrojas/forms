@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the COVID-19 Vaccine Pre Registration Form, we need to consider several factors such as the form's purpose, how users will interact with it, and the fields' explanations. The form appears to be designed to collect demographic information, medical history, and vaccination details from individuals who are interested in receiving a COVID-19 vaccine. The form has multiple sections with different fields, each collecting specific information such as name, contact details, medical conditions, vaccination history, and preferences. To determine if a user is a healthcare worker or not, they will have to select from a specific option. Additionally, users will also be asked about their age group, vaccination priority status, and preferred contact method. The form also includes an affirmation that all provided information is accurate and permission to contact the user when the vaccine is available. To avoid duplication of information and ensure consistency, the form should be reviewed for any potential conflicts or errors before submission. Furthermore, to ensure users understand the purpose and requirements of the form, it's essential to provide clear explanations and examples for each field, making the form user-friendly and accessible. This guide will break down the form into sections, explaining each field and its significance to facilitate a smooth and error-free user experience.
-
-</thinking>
-
 # COVID 19 Vaccine Pre Registration Form - Help Guide
 
 ## Purpose

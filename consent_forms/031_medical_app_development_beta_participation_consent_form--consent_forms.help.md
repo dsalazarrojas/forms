@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for users participating in the medical app development beta testing program. The purpose of this form is to gather information on the participant's medical history, demographics, and agreement to the terms of participation. This form should only be completed once and should not be duplicated in any other form or document. The participant's data will be used to improve the medical app development beta testing process and ensure the participant's safety and security during the testing phase. 
-</thinking>
-
 # Medical App Development Beta Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from participants in the medical app development beta testing program, ensuring their safety and security during the testing phase.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to evaluate the safety training given to employees, ensuring that they have received and comprehended the necessary safety information to perform their job tasks safely. The form's purpose is to assess whether the training was effective in meeting the company's safety standards and if the employee has understood and applied the training.
-
-The form will be filled by the training facilitators to evaluate their own work, and by managers or supervisors to review and monitor the training's effectiveness. The form will help in identifying areas where the training needs improvement, and the facilitators can use this information to adjust their approach for future training sessions.
-
-The form will not be used for any other purpose than the evaluation of safety training, so no other fields are required for the form's submission.
-
-</thinking>
-
 # Safety Training Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the safety training given to employees, ensuring that they have received and comprehended the necessary safety information to perform their job tasks safely.

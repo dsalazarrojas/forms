@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers, likely for internal purposes such as customer service, customer relationship management (CRM), or sales follow-up. It is a text-based form with three fields: "customer_details", "terms_and_conditions", and "signature".
-</thinking>
-
 # Customer Sign Off Form - Help Guide
 ## Purpose
 This form is designed to collect basic details from customers, such as terms and conditions acceptance and a signature. It is meant to be filled out by customers when they sign off with your company or for internal purposes.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a gift card raffle. The purpose of this form is to gather user details and gift card information for entry into a raffle. The form is not intended to be used for any other purpose and is for internal use only.
-
-To ensure accurate and relevant responses, please note that users must fill out the form correctly and truthfully. This form is not a validation test and is intended for genuine responses only. Users must also ensure that they provide unique responses, as duplicate entries will not be valid.
-
-</thinking>
-
 # Gift Card Raffle Entry Form - Help Guide
 ## Purpose
 The Gift Card Raffle Entry Form is a simple form designed to collect user details and gift card information for entry into a raffle. This form is intended for internal use only and is not a validation test.

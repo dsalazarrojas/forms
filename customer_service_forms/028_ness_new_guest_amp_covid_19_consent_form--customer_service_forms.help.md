@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information about new guests who may be at risk of COVID-19. The purpose is to determine if they have been previously infected, had symptoms, or been vaccinated. This form is only relevant for new guests who have not been previously screened or registered in our system. Please note that some fields are optional and only necessary for certain scenarios.
-</thinking>
-
 # ness_new_guest_amp_covid_19_consent_form - Help Guide
 ## Purpose
 This form is used to gather information from new guests about their COVID-19 status and vaccination history. It helps to identify potential risks and provide necessary precautions to protect our community.

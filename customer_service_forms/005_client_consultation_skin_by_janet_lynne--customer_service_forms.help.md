@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their skin profile, concerns, and history in order to provide personalized consultation and recommendations for skin health. This form is part of the "Client Consultation Skin By Janet Lynne" process and it is recommended that users complete it before the skin consultation. It is not intended to collect redundant information and should be filled out only once per consultation.
-</thinking>
-
 # Client Consultation Skin By Janet Lynne - Help Guide
 ## Purpose
 The Client Consultation Skin By Janet Lynne form is designed to gather information about your skin profile, concerns, and history to provide personalized recommendations for your skin health.

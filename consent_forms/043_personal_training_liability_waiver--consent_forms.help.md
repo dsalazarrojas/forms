@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Training Liability Waiver - Help Guide
 ## Purpose
 This form is a liability waiver for personal training purposes, designed to be completed by clients or individuals who are participating in personal training activities. Its main goal is to gather information and obtain consent from clients to conduct personal training sessions, ensuring both parties understand the terms and conditions of the training.

@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is for a Halloween decorating contest form, likely used to collect contact information and details about a person's Halloween decoration entry in a contest. The form may be used to gather information for a community-wide contest or a similar event where people show off their creative Halloween decorations. This form should not be used to collect sensitive or personal data that could be considered an invasion of privacy. Each field should be reviewed carefully to ensure it's only collecting relevant and non-redundant information.
-
-</thinking>
-
 # halloween decorating contest form - Help Guide
 ## Purpose
 This form is used to collect information and register entries for the Halloween decorating contest. Fill it out carefully to provide your entry details.

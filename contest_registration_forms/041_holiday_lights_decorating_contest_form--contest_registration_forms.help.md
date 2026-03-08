@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Holiday Lights Decorating Contest Form", we need to ensure that the guide is clear, concise, and practical. The form is designed to collect information for a contest entry, and the fields should be explained in a way that helps users understand their purpose and requirements. The key fields to focus on are entry_type, entry_image, entry_description, entry_date, entry_time, entry_latitude, and entry_longitude. These fields are critical in determining the type of entry, providing supporting images, describing the entry, recording the date and time of submission, and geolocating the entry.
-</thinking>
-
 # Holiday Lights Decorating Contest Form - Help Guide
 ## Purpose
 This form is designed to collect information for the Holiday Lights Decorating Contest. Please fill out the form with accurate and complete details to ensure a successful submission.

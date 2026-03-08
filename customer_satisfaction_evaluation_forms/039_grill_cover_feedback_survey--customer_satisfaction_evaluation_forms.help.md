@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from customers on their grill cover experience. This feedback is essential for us to understand our customers' expectations and preferences, enabling us to make improvements and tailor our grill covers to better meet their needs. Before proceeding, please confirm that this form is not a duplicate and that you're submitting it for the intended purpose.
-</thinking>
-
 # Grill Cover Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their grill cover experience, allowing us to gather valuable insights and make improvements.

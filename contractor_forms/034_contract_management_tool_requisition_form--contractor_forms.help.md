@@ -1,10 +1,6 @@
 # Contract Management Tool Requisition Form - Help Guide
 ## Purpose
 
-<thinking>
-This form is used by requestors to submit a formal request for the use of a new contract management tool to the organization. This form helps to gather necessary information from the requestor to assess the business needs and requirements for the tool. By completing this form, the requestor will be able to provide a clear and comprehensive description of their needs, which will then be reviewed and evaluated by relevant stakeholders for approval.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, please follow these steps:

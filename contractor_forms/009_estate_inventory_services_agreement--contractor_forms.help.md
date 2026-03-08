@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from both the client and service provider regarding the services provided for a particular property, ensuring that both parties have agreed on and signed the terms of the service. To ensure the form is filled out correctly, we'll need to make sure the client has approved and signed it, while also ensuring the service provider has signed and dated it. This form should not be used for any other purpose.
-</thinking>
-
 # estate-inventory-services-agreement - Help Guide
 ## Purpose
 This form is used to document the terms and conditions of services provided to a client for a particular property. It captures essential details from both the client and service provider, ensuring both parties are in agreement and have signed off on the terms.

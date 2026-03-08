@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee contact information for various purposes, such as HR management, payroll, and benefits administration. It is intended to be filled out by employees to provide their personal and professional details. Please ensure that you have completed this form accurately and honestly. If you have already filled out this form, please do not submit it again to avoid duplication.
-</thinking>
-
 # Employee Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect employee contact information, which is essential for HR management, payroll, and benefits administration.

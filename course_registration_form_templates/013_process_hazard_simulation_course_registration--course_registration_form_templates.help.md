@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Process Hazard Simulation Course Registration form. The form is designed to collect information from trainees and instructors for a process hazard simulation course. To ensure relevance, this guide will cover the form's purpose, completion process, and field-by-field explanations.
-
-The form is used to register for a process hazard simulation course, which typically includes details such as contact information, employee type, role, course participation, simulation details, location, training facility, and contact information for the training manager and instructor. The guide will break down the form into its components to provide a clear understanding of each section's purpose and required fields.
-
-</thinking>
-
 # Process Hazard Simulation Course Registration - Help Guide
 ## Purpose
 The Process Hazard Simulation Course Registration form is designed to collect necessary information from trainees and instructors for the process hazard simulation course. This includes contact information, employee type, role, course participation, simulation details, location, and contact information for the training manager and instructor.

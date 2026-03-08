@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback from clients after a session with a counselor. 
-The purpose of this form is to gather information about the client's experience, including their name, the organization they are associated with, any feedback they may have, a rating of their experience, and any additional comments. This form will help counselors identify areas where they can improve their practice.
-To prevent duplication of effort, please ensure that clients complete the form for each unique session or interaction.
-</thinking>
-
 # Suicide Prevention Feedback Form - Help Guide
 ## Purpose
 The Suicide Prevention Feedback Form is used to collect feedback from clients after a session with a counselor. This feedback will help counselors assess their practice and identify areas where they can improve.

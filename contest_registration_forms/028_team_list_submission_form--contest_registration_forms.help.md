@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be used by teams to submit their lists of players for a contest. It should only be submitted by authorized team representatives. Each team can only submit their team list once. If a team has submitted their team list previously, they should not re-submit. This form is intended for team officials to provide information about their team's players for evaluation purposes.
-</thinking>
-
 # Team List Submission Form - Help Guide
 
 ## Purpose

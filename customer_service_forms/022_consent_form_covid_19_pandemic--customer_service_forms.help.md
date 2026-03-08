@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used in a healthcare setting to obtain a patient's consent for treatment or services during the COVID-19 pandemic. The form is intended to gather information about the patient's health status, travel history, and ability to follow safety protocols, as well as their understanding and agreement to receive services during the pandemic. The form is meant to be completed by the patient, and it is essential to ensure that the patient is aware of the risks involved and takes the necessary precautions to prevent the spread of the virus.
-
-Before proceeding, we need to check that the form purpose and design have not been duplicated or altered in any way that might compromise its intent. We need to ensure that the form is accurate and up-to-date, and that the instructions provided to the patient are clear and concise.
-
-</thinking>
-
 # Consent Form COVID 19 Pandemic - Help Guide
 ## Purpose
 This form is used to obtain a patient's consent for treatment or services during the COVID-19 pandemic. It gathers information about the patient's health status, travel history, and ability to follow safety protocols, as well as their understanding and agreement to receive services during the pandemic.

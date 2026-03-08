@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for players and team managers to register for a Futsal event. It is intended for internal use within the organization and is not meant to be publicly accessible. Please ensure that you are filling out this form for a legitimate purpose and not duplicating efforts.
-</thinking>
-
 # Futsal Registration Form - Help Guide
 
 ## Purpose

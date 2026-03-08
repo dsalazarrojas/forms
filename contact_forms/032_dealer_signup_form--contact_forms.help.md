@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow potential dealers to sign up for a service or program offered by the organization. This form is used to collect information from dealers to create their accounts or to provide them with access to exclusive resources. By filling out this form, dealers can provide their contact and dealer information, which will be used to process their signup.
-
-This form is not a replacement for any existing form platform, but rather a custom-designed form created using AI-generated content. It is intended to be a helpful tool for dealers to sign up and get started with the service or program.
-
-Before proceeding, please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is released under the Creative Commons BY 4.0 license, which means you are free to use, modify, and even sell forms derived from it as long as you give credit.
-
-</thinking>
-
 # Dealer Signup Form - Help Guide
 ## Purpose
 

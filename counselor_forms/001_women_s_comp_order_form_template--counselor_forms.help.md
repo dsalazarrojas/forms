@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a women's compensation order. The form is meant to gather details about the customer's contact information, order details, and payment method. The form will be used to create a new order in the system. To avoid duplication of orders, the form should only be used to create new orders, not to update or edit existing ones. 
-</thinking>
-
 # Women's Comp Order Form Template - Help Guide
 ## Purpose
 The Women's Comp Order Form Template is designed to collect information for creating new orders in the system.

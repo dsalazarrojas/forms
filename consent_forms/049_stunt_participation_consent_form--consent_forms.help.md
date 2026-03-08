@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in understanding the purpose and requirements of the Stunt Participation Consent Form. The form is designed to gather information from participants about their experience, stunt level, and interests, as well as their submission and agreement to the terms and conditions. This guide will provide a step-by-step walkthrough of the form fields, ensuring that users understand the purpose and relevance of each field.
-</thinking>
-
 # Stunt Participation Consent Form - Help Guide
 
 ## Purpose

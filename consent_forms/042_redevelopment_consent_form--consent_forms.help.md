@@ -1,7 +1,3 @@
-<thinking>
-This form is used by project owners to provide consent for redevelopment projects. Before filling out this form, ensure you have a basic understanding of the project details and the property's current status. Please note that this form is not meant to be filled out if you are not the project owner or have not been explicitly authorized to access this information. This form is designed to capture relevant information about the project and should only be filled out once for each project.
-</thinking>
-
 # Redevelopment Consent Form - Help Guide
 ## Purpose
 The redevelopment consent form is a crucial document that allows project owners to provide their consent for redevelopment projects. It ensures that all necessary information is captured accurately and securely. This form is a critical component of the project approval process and should be filled out carefully and accurately.

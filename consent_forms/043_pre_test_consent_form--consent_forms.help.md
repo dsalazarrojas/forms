@@ -1,10 +1,3 @@
-<thinking> 
-This guide is designed to help researchers and participants understand the purpose and usage of the "Pre Test Consent Form". The form is used to capture informed consent from participants before conducting a test. This form is a crucial part of the testing process, as it ensures that participants understand the nature of the test, potential risks and benefits, and have given their consent to participate. By filling out this form, participants can provide their consent to participate in the test and sign off on any agreements or declarations required for the testing process.
-
-The form consists of several sections, which are designed to collect participant information and ensure their safety and well-being. The fields in this form are:
-
-</thinking>
-
 # Pre Test Consent Form - Help Guide
 ## Purpose
 The Pre Test Consent Form is used to obtain informed consent from participants before conducting a test. It ensures that participants understand the nature of the test, potential risks and benefits, and agree to participate.

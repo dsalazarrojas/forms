@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used for recording the delivery of goods or services to customers. The purpose of this form is to collect information about the delivery details, customer information, delivery confirmation, and confirmation of items received. To avoid duplication, users should only submit this form after the goods or services have been delivered to the customer and the delivery has been confirmed.
-
-Before completing the form, please ensure that you have the necessary permissions and approvals to access and share the information requested in this form.
-
-</thinking>
-
 # Proof Of Delivery Form - Help Guide
 ## Purpose
 This form is used to record the delivery of goods or services to customers, ensuring accurate and timely confirmation of delivery details, customer information, and items received.

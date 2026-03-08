@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a comprehensive form used to gather marketing release authorization and agency information for various marketing campaigns. The form is primarily used in a business-to-business (B2B) setting, where companies may need to collaborate with agencies for marketing purposes.
-
-The form is designed to be filled out by marketing teams within an organization, and it captures essential information about the marketing release authorization and agency details. The form is not meant for external users or clients.
-
-Before proceeding, ensure that this form is relevant to your role and responsibilities within the organization.
-
-</thinking>
-
 # marketing_release_authorization_form - Help Guide
 ## Purpose
 This form is used to gather marketing release authorization and agency information for various marketing campaigns.

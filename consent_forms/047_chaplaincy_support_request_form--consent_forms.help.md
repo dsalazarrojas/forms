@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Chaplaincy Support Request Form, let's consider the form's purpose and requirements.
-
-The Chaplaincy Support Request Form is a tool designed to gather essential information from individuals seeking chaplaincy care. This form aims to provide support to individuals in need by offering a structured and consistent way to collect relevant data, allowing chaplains to better understand the needs of the person requesting support.
-
-The form is divided into several sections, covering various aspects of the support request, including the date of the request, the person requesting support, their relationship to the recipient, and the recipient's details. The form also asks for information on the type of support needed, the urgency of the request, and the current location of the recipient. Additionally, there are options for providing medical information, notifying family members, and following up with the individual.
-
-To complete this form, users will need to provide accurate and clear information about themselves and the person requiring support.
-
-</thinking>
-
 # Chaplaincy Support Request Form - Help Guide
 ## Purpose
 The Chaplaincy Support Request Form is a tool for individuals to seek chaplaincy care. It's essential to complete this form accurately and thoroughly to ensure that the chaplains receive the necessary information to provide the best possible support.

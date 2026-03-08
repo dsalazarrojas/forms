@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for customers to input billing information and payment details for an online course, allowing them to complete the registration process. It should contain fields for customer details, billing information, payment method, and submission status. It's essential to ensure that all required fields are filled out, especially "submit" fields, to avoid any errors during the registration process.
-</thinking>
-
 # Online Course Billing Form - Help Guide
 ## Purpose
 This form is designed for customers to provide billing information and complete the online course registration process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information and provide an attestation for passengers traveling to the United States of America in relation to the coronavirus response. The form is likely used to track and manage passenger data, particularly for individuals who are traveling for reasons related to the coronavirus response. To avoid duplication, please check with your team or manager to ensure this form has not been completed before.
-
-</thinking>
-
 # Passenger Disclosure And Attestation To The United States Of America - Help Guide
 ## Purpose
 This form is used for passengers to disclose and attest to their travel information and reasons for visiting the United States of America, particularly in relation to the coronavirus response.

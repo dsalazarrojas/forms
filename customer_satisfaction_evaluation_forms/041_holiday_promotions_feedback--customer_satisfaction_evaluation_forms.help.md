@@ -1,11 +1,3 @@
-<thinking>
-This help guide will be used to provide clarity to end-users on how to fill out the holiday_promotions_feedback form, which is designed to collect customer feedback on holiday promotions. This form is not affiliated with any form platform, but rather an AI-generated adaptation of a public survey topic metadata. 
-
-The form is intended to be used by customers to share their thoughts and opinions on what they liked and disliked about holiday promotions, what they would like to see improved next year, and their email address for follow-up communication. 
-
-Before proceeding, it is crucial to ensure that this form is not duplicated and is used for its intended purpose only. This will ensure that customers' feedback is collected accurately and effectively for future improvements.
-
-</thinking>
 # holiday_promotions_feedback - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on holiday promotions. It is meant to help us understand what our customers liked and disliked about our holiday offers, and how we can improve them in the future.

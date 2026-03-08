@@ -1,7 +1,3 @@
-<thinking>
-The "Content Writing Volunteer Application Form" is designed for individuals who wish to volunteer their writing skills for the organization. By submitting this form, applicants can showcase their writing experience, skills, and availability to be considered for volunteer writing opportunities. Please ensure that you have not previously submitted an application for this form as this will not be considered a duplicate application. If you are unsure about the form or have questions, please don't hesitate to reach out to our team.
-</thinking>
-
 # Content Writing Volunteer Application Form - Help Guide
 ## Purpose
 This form is for individuals who want to volunteer their writing skills to the organization. It helps us understand your writing background, experience, and preferences to match you with suitable volunteer opportunities.

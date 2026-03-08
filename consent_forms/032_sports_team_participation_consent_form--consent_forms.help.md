@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain consent from a parent/guardian for a child's participation in a sports team. It is used to ensure that the parent/guardian is aware of and agrees to their child's involvement in the team. The form can be completed by a parent/guardian, but the coach is also required to provide some information about the participant, such as their contact details and assigned coach.
-
-To prevent duplication, the parent/guardian will only need to complete this form once for each participant. However, the coach will need to fill out additional fields for each participant, so they can be kept informed and have access to the participant's contact details. 
-</thinking>
-
 # Sports Team Participation Consent Form - Help Guide
 ## Purpose
 The Sports Team Participation Consent Form is used to obtain consent from a parent/guardian for a child's participation in a sports team.

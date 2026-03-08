@@ -1,7 +1,3 @@
-<thinking>
-...this form is used to collect information about a photo shoot, including details about the shoot, the talent involved, and the photographer and agency responsible. This form is likely used for internal tracking and reporting purposes, and the information collected will be used to update the talent's profile and facilitate communication between the agency and the photographer. It is not clear if this form is for one-time or recurring photo shoots, or if it is used for multiple talent. The form appears to be a general template and may require additional fields or modifications based on the specific use case...
-</thinking>
-
 # talent_photo_shoot_release_form - Help Guide
 ## Purpose
 This form is used to collect information about a photo shoot, including details about the shoot, the talent involved, and the photographer and agency responsible.

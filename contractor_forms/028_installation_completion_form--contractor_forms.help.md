@@ -1,9 +1,3 @@
-<thinking>
-
-The "Installation Completion Form" is used to track the progress and status of installations. This form is typically filled out by the person performing the installation to provide details about the installation process. It is not a duplicate of other forms, but rather a way to ensure that all necessary information is captured for the installation.
-
-</thinking>
-
 # Installation Completion Form - Help Guide
 ## Purpose
 The "Installation Completion Form" is used to track the progress and status of installations.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect feedback and information from instructors about the structure of a course. It's essential to provide accurate and detailed information to help improve course development and delivery.
-To ensure the form is completed correctly, please note the following:
-- Only instructors who have access to the course are expected to fill out this form.
-- Each field is a crucial part of the form, and filling out the form without completing all required fields may result in incomplete or inaccurate information.
-- If you're unsure about any field or its purpose, please refer to the field-by-field explanation below.
-</thinking>
-
 # Course Structure Survey - Help Guide
 ## Purpose
 The Course Structure Survey is designed to gather information from instructors about the structure of a course. This form helps us understand how the course is organized, its content, and how it can be improved.

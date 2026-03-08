@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by factory planning consultants to gather contact information from customers or potential customers. The form asks for a brief description of the consultant, their company, and their contact information. The form's purpose is to allow the factory planning consultant to provide their contact information to be contacted by the factory planning team for potential collaborations or projects. The form should only be submitted if the consultant is interested in collaborating with the factory planning team. If you have already submitted a similar form, please do not submit this form again.
-</thinking>
-
 # Factory Planning Consultant Contact Form - Help Guide
 ## Purpose
 This form is designed to gather contact information from factory planning consultants who are interested in collaborating with the factory planning team.

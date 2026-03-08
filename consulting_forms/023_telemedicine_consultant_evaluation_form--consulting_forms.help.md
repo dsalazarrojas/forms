@@ -1,5 +1,3 @@
-<thinking>Telemedicine Consultant Evaluation Form is used to collect feedback and ratings from patients who have participated in telemedicine consultations. This form is typically filled out by the patient to provide an evaluation of the consultant's performance. To ensure that each form is filled out with accurate and relevant information, it's essential to understand the purpose and each field's meaning. This guide will help you complete the form correctly and provide valuable feedback for our consultants.</thinking>
-
 # Telemedicine Consultant Evaluation Form - Help Guide
 ## Purpose
 The Telemedicine Consultant Evaluation Form is used to collect feedback and ratings from patients who have participated in telemedicine consultations. This helps us understand the quality of service provided by our consultants and make improvements accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for healthcare workers to participate in research studies related to burnout and job satisfaction in the healthcare workforce. The form captures participant demographic information, healthcare worker status, and informed consent status for participating in the study.
-</thinking>
-
 # Healthcare Workforce Burnout Research Consent Form - Help Guide
 
 ## Purpose

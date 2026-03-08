@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect customer registration information and preferences for the hair salon. The main goal is to gather general information, appointment preferences, contact details, payment information, and any additional notes. This form is designed to be used as a starting point for further communication and service customization. It's essential to understand that this form is a public adaptation of a hypothetical form and not affiliated with any specific platform or business. The form structure and field labels are based on general industry standards for customer registration forms. The form is released under CC BY 4.0, allowing users to modify and distribute it for personal or commercial purposes.
-</thinking>
-
 # Hair Salon Client Intake Form - Help Guide
 ## Purpose
 The Hair Salon Client Intake Form is a tool used to gather essential information from customers when they visit the hair salon. The form helps the staff to understand the customer's requirements, preferences, and contact details, allowing for more personalized service and efficient communication.

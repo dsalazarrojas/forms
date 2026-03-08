@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience with our customer service team. This feedback will help us identify areas of improvement and provide a more personalized experience for our customers. We want to ensure that we're providing the best possible service to our customers, and this form will help us achieve that goal. We will use this information to review and improve our customer service processes, ensuring that we're meeting our customer's needs and expectations.
-</thinking>
-
 # Customer Service Experience Feedback Form - Help Guide
 ## Purpose
 The Customer Service Experience Feedback Form is designed to gather feedback from customers about their experience with our customer service team. This form is an essential tool to help us identify areas of improvement and provide a more personalized experience for our customers.

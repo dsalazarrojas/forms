@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "food_service_satisfaction_survey" is designed to collect feedback from customers about their experience with a food service. The form is part of a quality control process to ensure that the food service meets customer expectations and standards. This form should be used to gather feedback on the quality of the food, service, and overall experience.
 
 ## food_service_satisfaction_survey - Help Guide

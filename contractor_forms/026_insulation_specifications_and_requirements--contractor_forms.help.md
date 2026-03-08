@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to gather information about the insulation specifications and requirements of a property. This form will help users provide details about the type of property, the area of the property, the insulation needs, the type of insulation to be used, the material used, the required thickness, and the area to be insulated. 
-
-This form is likely used in a construction or building project to ensure that the insulation requirements are met. 
-
-It's worth noting that some of the fields are marked as "required: false", which means they are not mandatory and can be filled in or left blank if not applicable. 
-
-The form is divided into several sections, each with its own set of questions. 
-
-This information should be helpful in providing accurate and relevant data for the form completion.
-</thinking>
-
 # Insulation Specifications And Requirements - Help Guide
 ## Purpose
 This form is designed to collect information about the insulation specifications and requirements of a property. It helps project managers and stakeholders provide accurate and relevant data for construction or building projects.

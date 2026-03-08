@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for project consultants to estimate and manage projects. This form is likely used by project managers or consultants to create and manage project estimates, which are used to track and report project progress and status. It is essential to complete this form accurately to ensure that project goals and objectives are met.
-
-This form is a critical component of the project management process, and users need to understand how to complete it correctly. By following this guide, users will be able to gather all necessary information for project estimates, track project progress, and make informed decisions.
-
-Before starting, ensure that all required fields are filled out. Some fields may have options, so choose the correct option that best applies to your project. This form is designed to be flexible, so users can adjust fields as needed.
-</thinking>
-
 # Project Consultant Estimate Form - Help Guide
 ## Purpose
 This form is used to create and manage project estimates for project consultants.

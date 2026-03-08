@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for gathering information about a prospect or potential client. Its purpose is to collect contact details and other relevant data that can help in understanding the prospect's background, interests, and skills. This form is meant to be used by individuals or organizations looking to get in touch with prospects or clients for various business reasons. Before completing this form, please ensure you have permission to gather and store the information you're about to collect, and that it complies with applicable data protection laws and regulations.
-
-To complete this form, please follow these steps:
-
-1. Ensure you have the necessary permissions and follow all relevant data protection laws and regulations.
-2. Select the "Contact Information" page and fill in the required fields with accurate and complete information.
-3. Proceed to the "Prospect Background" page and provide a brief description of the prospect's background.
-4. Move on to the "Prospect Interests" page and list the prospect's relevant interests.
-5. Finally, on the "Prospect Skills" page, describe the prospect's relevant skills.
-
-This form will help you gather the necessary information to connect with potential clients or prospects and tailor your approach to their unique needs and preferences. Please be accurate and thorough when filling out the form.</thinking>
-
 # Prospect Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect information about a prospect or potential client for business purposes. It includes contact information, background, interests, and skills to help connect with them effectively.

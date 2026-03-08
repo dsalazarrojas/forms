@@ -1,7 +1,3 @@
-<thinking>
-This help guide will ensure end-users understand the purpose and functionality of the Minor Piercing Consent Form.
-</thinking>
-
 # Minor Piercing Consent Form - Help Guide
 ## Purpose
 The Minor Piercing Consent Form is a document used to obtain consent from minors for piercing procedures, outlining their consent and any other relevant information.

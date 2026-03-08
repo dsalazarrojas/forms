@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Likert Scale Feedback Survey - Help Guide
 ## Purpose
 This form is a Likert Scale Feedback Survey designed to collect end-user feedback on our service. It is used to measure customer satisfaction and gather suggestions for improvement. This survey is intended to be a brief and concise way to gather your thoughts and opinions about our service.

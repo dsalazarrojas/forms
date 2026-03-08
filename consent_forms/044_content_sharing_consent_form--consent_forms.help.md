@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Content Sharing Consent Form - Help Guide
 
 ## Purpose

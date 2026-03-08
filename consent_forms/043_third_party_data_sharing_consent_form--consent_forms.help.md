@@ -1,9 +1,3 @@
-<thinking>
-To create a comprehensive guide for the Third Party Data Sharing Consent Form, we'll first consider the context and purpose of this form. The form is designed to collect information from data subjects about their consent to share their data with third parties. This form is likely used in scenarios where data sharing is required for data processing, such as research, marketing, or collaborations. To ensure users understand the form's purpose and fill it out accurately, we'll break down the form's fields and their implications.
-
-The form's fields cover essential details like data sharing consent, the specific data categories to be shared, and contact information for the data subject. However, some fields might be redundant or have overlapping functionalities, which we'll address in the explanation process.
-
-</thinking>
 # Third Party Data Sharing Consent Form - Help Guide
 
 ## Purpose

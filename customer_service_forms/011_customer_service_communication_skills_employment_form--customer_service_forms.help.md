@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form fields and understand the context. The form is designed to collect customer service communication skills for employment purposes. It seems to be collecting a variety of information related to the candidate's personal details, employment status, job title, department, years of experience, languages spoken, work schedule, job type, notice period, notice period unit, notice period frequency, availability, work location, job description, job category, job industry, job level, job role, job employment type, and job employment status. I'll create a comprehensive help guide to ensure end-users understand each field correctly and complete the form accurately.</thinking>
-
 # Customer Service Communication Skills Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a candidate's customer service communication skills for employment purposes. It is essential to fill out the form accurately and completely to help us assess their suitability for the job.

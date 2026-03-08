@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in construction services, specifically to generate leads for potential projects. It's essential to ensure that customers complete the form accurately to provide the necessary details for the construction team to assess their project needs. To confirm that customers understand the form's purpose and importance, this guide will explain each section and field in a way that helps users provide relevant information.
-</thinking>
-
 # Construction Lead Generation Form - Help Guide
 ## Purpose
 The Construction Lead Generation Form is a tool to gather essential details from customers interested in construction services. By filling out this form, you'll help us understand your project needs, preferences, and expectations, allowing us to better serve you and provide the best possible service.

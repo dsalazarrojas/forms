@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from potential sponsors, investors, or donors who are interested in supporting the organization. The goal is to gather data on their contact preferences and relationship type.
-This form should only be completed by someone who is interested in sponsoring, investing, or donating to the organization. 
-Please ensure that the form is not duplicated by checking the internal database before filling it out.
-Please note that the form is not intended to be completed by the organization's internal team members.
-</thinking>
-
 # Sponsorship Collection Form - Help Guide
 ## Purpose
 The Sponsorship Collection Form is designed to collect information from potential sponsors, investors, or donors who are interested in supporting the organization. This form helps to gather data on their contact preferences and relationship type, ensuring that the organization can effectively communicate with them and categorize their level of support.

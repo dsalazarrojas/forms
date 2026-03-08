@@ -1,9 +1,3 @@
-<thinking>
-This form is a registration form for a Textile Training Course. The purpose of this form is to collect information from participants who wish to enroll in the course. The form asks for basic contact information and course details such as start and end dates, location, and course provider. The form also includes two consent options, one for general participant information and another for course-specific details. 
-
-Before proceeding, please ensure that you are completing this form for the correct purpose and not duplicating an existing registration. This form is intended for individuals who want to enroll in the textile training course. If you are already registered for this course, you will not need to fill out this form again.
-</thinking>
-
 # Textile Training Course Registration - Help Guide
 ## Purpose
 This form is for individuals who want to enroll in the Textile Training Course.

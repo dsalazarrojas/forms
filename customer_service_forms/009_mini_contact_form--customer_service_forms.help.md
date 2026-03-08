@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for customers to provide personal contact information and a message for a company's support team. The form is designed to be simple and easy to use, with a focus on collecting essential details for efficient communication. The fields provided are for customers to input their first name, last name, email address, phone number, and a brief message. Each field is optional, allowing customers to provide as much or as little information as they need. The form is meant to be used for support inquiries and other general customer interactions. Please review the form carefully before proceeding.
-
-</thinking>
-
 # Mini Contact Form - Help Guide
 ## Purpose
 This form is intended for customers to provide personal contact information and a message for a company's support team.

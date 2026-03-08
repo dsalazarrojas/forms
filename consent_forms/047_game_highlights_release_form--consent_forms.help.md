@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Game Highlights Release Form is to obtain consent from participants and teams for the release of game highlights after an event. This form is used to ensure that the participant or team has given their consent for the release of their game highlights, which can be shared on social media channels such as Facebook, Instagram, and Twitter. It also provides an opportunity for participants to specify how they want their highlights to be shared and why.
-</thinking>
-
 # Game Highlights Release Form - Help Guide
 ## Purpose
 The Game Highlights Release Form is a document that requires participants and teams to provide consent for the release of game highlights after an event. This form ensures that the participant or team has given their consent before sharing their highlights on social media.

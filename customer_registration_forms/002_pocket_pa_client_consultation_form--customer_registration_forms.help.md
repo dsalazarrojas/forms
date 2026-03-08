@@ -1,5 +1,3 @@
-<thinking>...the form "Pocket PA Client Consultation Form" is used by clients to register and provide contact information, select services, and schedule appointments. The form is not intended for repeat clients, so if you've already registered, please do not fill it out again. The form can be filled out by anyone with a simple understanding of the form fields and their purposes. It is recommended to review and fill out each page carefully to ensure accurate and complete information is provided...</thinking>
-
 # Pocket PA Client Consultation Form - Help Guide
 ## Purpose
 The "Pocket PA Client Consultation Form" is a registration form for new clients. It is used to gather contact information, select services, and schedule appointments.

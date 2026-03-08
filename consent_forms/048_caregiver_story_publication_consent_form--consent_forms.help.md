@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Story Publication Consent Form - Help Guide
 
 ## Purpose

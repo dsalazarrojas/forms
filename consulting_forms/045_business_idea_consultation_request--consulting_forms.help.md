@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's briefly discuss the purpose and context of this form. The form is for requesting a consultation on a business idea, aiming to gather information on the idea, current employment status, industry experience, and specific consultation focus areas. The form is designed for individuals seeking guidance on their business concept, targeting those who are either starting or have started a business. By using this form, they can provide detailed information about their idea, allowing consultants to offer tailored advice and support. This form ensures that consultants understand the scope and scale of the project, facilitating effective consultation. It's essential to review the form carefully to ensure all required fields are filled out accurately, as this information will help us better understand the project's specifics and provide relevant consultation services.</thinking>
-
 # Business Idea Consultation Request - Help Guide
 ## Purpose
 This form is designed to help us understand your business idea and provide you with tailored consultation services.

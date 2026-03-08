@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and ratings for a short story contest. It's meant to be used for voting and rating submissions, providing an easy way for contest participants to engage with each other and help determine the winning story. This form will not collect sensitive information like phone numbers or email addresses, as those fields are left optional and intended for users to provide if they so choose. The "Has Reader Voted" field is a multiple selection field to accommodate users who may want to vote multiple times. The "Submit Vote" field is a single selection field for users to confirm their vote. The form's purpose is to gather data that will be used to determine the winning story, and the fields have been designed to be clear and user-friendly. The form is also designed to be used by contest organizers, so the "Submit Vote" field will not affect the outcome of the contest, it's just for tracking purposes.</thinking>
-
 # short_story_contest_voting - Help Guide
 ## Purpose
 The short_story_contest_voting form is designed to collect user feedback and ratings for a short story contest. It allows users to vote and rate submissions, providing an easy way for contest participants to engage with each other and help determine the winning story.

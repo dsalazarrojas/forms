@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data from clients for counseling appointments. To ensure consistency and accuracy, please note that:
-
-- This form should only be used for new counseling appointments, not for rescheduling or cancelling existing appointments.
-- Please make sure to complete all required fields before submitting the form.
-- The form will be processed and reviewed by counselors before scheduling any appointments.
-</thinking>
-
 # Counseling Appointment Form - Help Guide
 ## Purpose
 This form is used to collect information from clients for new counseling appointments. It helps the counseling team to efficiently schedule and process appointments.

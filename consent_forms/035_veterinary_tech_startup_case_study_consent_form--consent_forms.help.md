@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users participating in a case study for a veterinary tech startup. The form will gather information from the user, which will be used to analyze and improve the veterinary tech startup.
-Before you begin, please note that this form is for users who are interested in participating in the case study. If you're not interested in participating, please do not fill out this form.
-</thinking>
-
 # Veterinary Tech Startup Case Study Consent Form - Help Guide
 ## Purpose
 This form is designed for users to participate in a case study for a veterinary tech startup. It will help us understand your experiences and feedback to improve our services.

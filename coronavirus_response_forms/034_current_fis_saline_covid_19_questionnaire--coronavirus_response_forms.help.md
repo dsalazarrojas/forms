@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from individuals regarding their experiences with COVID-19, specifically their symptoms, medical conditions, test results, hospitalization, medication, vaccination, and other relevant details. The purpose of this form is to collect data that can help health professionals and researchers better understand the impact of COVID-19 on individuals and communities. By filling out this form, you will be contributing to the development of effective strategies to combat the pandemic.
-
-</thinking>
-
 # Current FIS Saline COVID 19 Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals regarding their experiences with COVID-19, which can help health professionals and researchers better understand the pandemic and develop effective strategies to combat it.

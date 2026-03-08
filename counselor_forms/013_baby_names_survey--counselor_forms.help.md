@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baby Names Survey - Help Guide
 
 ## Purpose

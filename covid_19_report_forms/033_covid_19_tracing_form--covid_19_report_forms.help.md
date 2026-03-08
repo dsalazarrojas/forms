@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from employees who have been potentially exposed to COVID-19. The purpose of this form is to gather essential details about the employee's health status, symptoms, and medical history. This information will be used to assess and manage potential risks associated with COVID-19.
-
-This form should only be completed by employees who have reported suspected or confirmed COVID-19 exposure. If the employee has already completed this form, please do not submit a duplicate entry unless there are changes to the existing information.
-
-</thinking>
-
 # Covid 19 Tracing Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees who have been potentially exposed to COVID-19. This information will be used to assess and manage potential risks associated with COVID-19.

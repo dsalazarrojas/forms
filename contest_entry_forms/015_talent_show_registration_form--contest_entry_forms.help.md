@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and functionality of the Talent Show Registration Form. The form is meant to collect information from contestants who want to participate in the talent show. It is intended for end-users who need to provide their personal details, talent information, and category selection. Before filling out this form, please make sure you are not duplicating an existing entry, as this may cause confusion and affect the accuracy of the results.
-</thinking>
-
 # Talent Show Registration Form - Help Guide
 ## Purpose
 The Talent Show Registration Form is designed to collect information from contestants who want to participate in the talent show. This form is used to gather essential details that will help us understand who the contestants are, what their talent is, and when they want to perform.

@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a request for quote form (RFQ), designed to collect information from customers or clients regarding a project they are interested in or have already commissioned. The form is likely used by a business or organization to gather essential details about a potential project, including contact information, project description, expected dates, and budget. This form is probably used for internal purposes, such as project management, sales, or accounting.
-To confirm, the fields suggest that the form will be used to collect:
-* Contact details (name, phone, email)
-* Project details (description, expected dates, budget, location)
-* Project management information (project status, manager)
-</thinking>
-
 # rfq_form - Help Guide
 ## Purpose
 This form is used to request a quote for a project and gather essential details about the project and the contact person.

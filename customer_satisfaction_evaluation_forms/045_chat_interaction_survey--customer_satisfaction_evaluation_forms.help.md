@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to gather information about customers' experiences when interacting with a chat support system. This form helps to measure customer satisfaction, agent performance, and overall experience during the chat interaction. It is essential to ensure the collected data is used to improve the chat support system and provide better services to customers in the future.
-</thinking>
-
 # Chat Interaction Survey - Help Guide
 ## Purpose
 The Chat Interaction Survey is designed to collect feedback on customers' experiences with the chat support system. The form gathers information on customer satisfaction, agent performance, and overall experience during the chat interaction.

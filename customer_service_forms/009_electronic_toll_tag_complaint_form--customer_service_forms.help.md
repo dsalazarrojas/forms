@@ -1,9 +1,3 @@
-<thinking>
-The Electronic Toll Tag Complaint Form is a tool used to report incidents or issues related to electronic toll tags. 
-This form is intended for users who have experienced problems with their electronic toll tags, such as technical issues, incorrect charges, or other concerns. 
-Before completing this form, ensure that you have not already submitted a complaint about the same incident, as duplicates will not be entertained. 
-</thinking>
-
 # Electronic Toll Tag Complaint Form - Help Guide
 ## Purpose
 The Electronic Toll Tag Complaint Form is a user-friendly tool designed to assist customers in reporting any incidents or issues they may be experiencing with their electronic toll tags. This form aims to collect relevant information from customers to help us identify and resolve the issue promptly.

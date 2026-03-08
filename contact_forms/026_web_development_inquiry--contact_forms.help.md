@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations interested in our web development services, specifically to inquire about potential web development projects. To avoid duplication, please ensure you are not submitting duplicate requests for the same project. Please fill out this form carefully, providing as much detail as possible for each field. The form is divided into several sections, each with its own purpose and guidelines for completion.
-</thinking>
-
 # web_development_inquiry - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations interested in our web development services for potential web development projects.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help individuals reflect on their personal values and priorities. It asks questions about what matters most to respondents, their top priorities, and how they take care of themselves. This form is not affiliated with, endorsed by, or derived from any form platform, and is a creative adaptation of public survey topic metadata.
-
-</thinking>
-
 # personal_values_survey - Help Guide
 ## Purpose
 This form is designed to gather information on personal values and priorities to help individuals reflect on their personal growth and development.

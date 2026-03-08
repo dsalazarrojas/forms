@@ -1,7 +1,3 @@
-<thinking>
-  This form is for consignors to provide information about themselves and their items for sale, which will be listed on a trading post. This includes basic contact information, business details, and terms and conditions of the consignment agreement. The form should help ensure that both the consignor and trading post have a clear understanding of each other's expectations. This form is not intended to be used for any other purpose than for consignment agreements. Please do not use this form for any other reason.
-</thinking>
-
 # Auction Trading Post Contract - Help Guide
 ## Purpose
 This form is intended for consignors to provide information and agree on terms with a trading post for listing their items on the platform.

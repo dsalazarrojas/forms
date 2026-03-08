@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from students on their experience in a class. It is used by the institution to gather data on the quality and effectiveness of the class in meeting the needs of students. The form should not be completed by students who are currently enrolled in the class or by people not taking the class. To ensure that each form submission is unique, please verify that you have not already completed this form before. If you are not sure, you can check with the instructor or administration to see if the form has been completed before.
-</thinking>
-
 # New Class Feedback Report Form - Help Guide
 ## Purpose
 The New Class Feedback Report Form is used to gather feedback from students on their experience in a class. It helps the institution to evaluate the quality and effectiveness of the class in meeting the needs of students.

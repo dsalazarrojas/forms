@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the transfer of tools and materials between parties, ensuring that both parties acknowledge and agree on the transfer details. This form helps maintain a record of such transfers, which is essential for various organizational and regulatory purposes. It's crucial to complete this form accurately and thoroughly to avoid any discrepancies or miscommunication.
-</thinking>
-
 # Tool And Material Transfer Form - Help Guide
 ## Purpose
 The Tool And Material Transfer Form is used to document the transfer of tools and materials between parties, ensuring that both parties acknowledge and agree on the transfer details.

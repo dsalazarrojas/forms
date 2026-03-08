@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Literacy Workshop Broadcast Consent Form - Help Guide
 ## Purpose
 This form is used to gather consent from participants to broadcast their sessions online. The form helps to ensure that all necessary information is collected from participants before broadcasting their sessions, which can include video recordings of themselves, their voices, or images.

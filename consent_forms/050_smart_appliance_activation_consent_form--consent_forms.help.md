@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers to activate their smart appliances. The form is intended to be used by utility companies, retailers, or installers to collect necessary details from customers before activating their smart appliances. The form does not require a submission, and customers can choose to provide as much or as little information as they want. The form's purpose is to streamline the activation process and ensure that customers' needs are met.
-</thinking>
-
 # Smart Appliance Activation Consent Form - Help Guide
 
 ## Purpose

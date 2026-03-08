@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining informed consent from a patient for telemedicine and teledentistry services. This is a one-time consent form and should only be used for new patients. Please ensure that the patient has the required information and consent before sharing this form with them.
-</thinking>
-
 # Teledentistry Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from a patient before providing teledentistry services.

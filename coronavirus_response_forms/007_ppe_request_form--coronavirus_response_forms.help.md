@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PPE Request Form - Help Guide
 
 ## Purpose

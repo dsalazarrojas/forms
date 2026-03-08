@@ -1,9 +1,3 @@
-<thinking>
-Smart Store Concept Registration Form is used by the store owners/retailers to register their new store concept with the company. This form is a mandatory step for new store owners who want to get on board with the company's smart store program. 
-Before proceeding with the form, please ensure that you have all the necessary information ready and that this is not a duplicate form submission. This form will not be accepted if already submitted for the same store concept. 
-The form has multiple fields that need to be filled with accurate and up-to-date information. Please fill the form carefully and make sure all the fields are completed before submitting.
-</thinking>
-
 # Smart Store Concept Registration Form - Help Guide
 ## Purpose
 The Smart Store Concept Registration Form is used to register your new store concept with the company. It's a mandatory step to get on board with the company's smart store program.

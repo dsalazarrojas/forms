@@ -1,6 +1,3 @@
-<thinking> 
-This guide is intended to assist clients in understanding the purpose and requirements of the Body Contour Vacuum Therapy Consent Form. This form is used to gather necessary information from clients who are interested in undergoing body contouring treatments. It is crucial that clients understand the form's purpose and requirements to ensure they are informed and willing participants in the treatment process. Please carefully review the form's fields below and answer them accurately to ensure a successful treatment. Note: This guide will cover each field's purpose, requirements, and any additional information that may be useful for clients in completing the form.</thinking>
-
 # Body Contour Vacuum Therapy Consent Form - Help Guide
 
 ## Purpose

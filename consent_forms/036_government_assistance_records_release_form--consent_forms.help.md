@@ -1,7 +1,3 @@
-<thinking>
-The form "Government Assistance Records Release Form" is likely to be used for requesting or providing access to employee information, possibly for government agencies or other official bodies. This form's purpose is to gather details about the employee, including their name, address, contact information, and other relevant data for the requesting party to access. This form will only be relevant for employees who have provided their consent to share this information. To prevent duplication, this form will only be filled out once per employee, and the information gathered will be used for a single occasion. 
-</thinking>
-
 # Government Assistance Records Release Form - Help Guide
 ## Purpose
 This form is used to request access to employee information for government agencies or other official bodies.

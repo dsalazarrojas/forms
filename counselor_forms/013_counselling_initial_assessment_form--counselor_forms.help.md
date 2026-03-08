@@ -1,7 +1,3 @@
-<thinking>
-A form is a tool used to collect structured information from users. In the context of this form, its purpose is to gather essential details about a patient's health and medical history, treatment goals, and personal circumstances for a comprehensive assessment and guidance.
-</thinking>
-
 # counselling_initial_assessment_form - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals collect and understand a patient's background and health situation for informed decision-making and effective care.

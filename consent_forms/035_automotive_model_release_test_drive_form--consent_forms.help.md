@@ -1,5 +1,3 @@
-<thinking>Here, I will create a help guide for the "Automotive Model Release Test Drive Form" that meets your requirements.</thinking>
-
 # Automotive Model Release Test Drive Form - Help Guide
 ## Purpose
 The Automotive Model Release Test Drive Form is used to gather information from potential test drivers who wish to participate in test drives of new vehicles. This form helps the dealership understand the participant's contact information, vehicle preferences, and test drive details.

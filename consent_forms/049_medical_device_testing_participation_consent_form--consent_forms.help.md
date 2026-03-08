@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be a comprehensive walkthrough for users to understand the purpose and usage of the "medical_device_testing_participation_consent_form". The form is designed to collect information from participants for medical device testing. It's intended to be customizable and can be used as is or with modifications.
-</thinking>
-
 # medical_device_testing_participation_consent_form - Help Guide
 ## Purpose
 This form is designed to collect participant information and consent for medical device testing. It's meant to be used for testing purposes, and users should understand that their data will be used for this specific purpose.

@@ -1,10 +1,3 @@
-<thinking>
-This is a form designed for Healthcare Eligibility Verification. It is a public, original adaptation of a form created by AI using public survey topic metadata, and is intended for use in healthcare settings to verify patient information.
-
-Before proceeding, please review this form and confirm that it is relevant and not duplicating existing forms. The form is meant to be filled out by a healthcare provider or a patient to verify their healthcare information. The form will guide the user through several sections, including patient information, contact information, insurance information, policy information, policy details, patient signature, healthcare provider signature, and healthcare provider information.
-
-</thinking>
-
 # healthcare_eligibility_verification_form - Help Guide
 ## Purpose
 This form is designed to help healthcare providers verify patient information, including contact details, insurance information, policy details, and signatures. The form is intended to be used in healthcare settings to ensure accurate and up-to-date patient information.

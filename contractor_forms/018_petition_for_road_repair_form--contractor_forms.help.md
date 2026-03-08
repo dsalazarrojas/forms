@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # petition_for_road_repair_form - Help Guide
 
 ## Purpose

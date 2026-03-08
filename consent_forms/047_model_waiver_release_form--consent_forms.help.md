@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Model Waiver & Release Form - Help Guide
 ## Purpose
 The Model Waiver & Release Form is a document used to obtain consent from models to use their images in photographs. This form helps ensure that models are aware of how their images will be used and are comfortable with it.

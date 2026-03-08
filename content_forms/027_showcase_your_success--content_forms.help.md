@@ -1,32 +1,3 @@
-<thinking>
-This form is designed to collect information about a success story from a user. The purpose of this form is to showcase a user's success story, and the information collected will be used to display on a public platform.
-
-To ensure that the form is completed correctly, the user should make sure that all required fields are filled in. If a field is not required, the user can fill it in if they wish, but it is not necessary.
-
-The form is divided into several sections:
-
-*   Story Details: This section is where users can input their story details.
-*   Story File: This section is where users can upload a story file.
-*   Supporting Files: This section is where users can upload supporting files.
-*   Publish Details: This section is where users can input information about the story's publication.
-*   Publish Consent: This section is where users can decide how to share their story.
-*   Recognition Program: This section is where users can choose how to share their recognition.
-*   Story Tags: This section is where users can input story tags.
-*   File Tags: This section is where users can input file tags.
-*   Recognition Tags: This section is where users can input recognition tags.
-*   Recognition Program Tags: This section is where users can input recognition program tags.
-*   Story Description: This section is where users can input a description of their story.
-*   User Details: This section is where users can input their personal details.
-*   Contact Info: This section is where users can input their contact information.
-
-To complete this form, follow these steps:
-
-1.  Go through each section one by one.
-2.  Fill in the required fields.
-3.  Fill in any additional fields you wish to complete your story.
-
-</thinking>
-
 # Showcase Your Success - Help Guide
 ## Purpose
 The "Showcase Your Success" form is designed to collect information about a success story from a user. The information collected will be used to display on a public platform, allowing others to learn from and be inspired by the user's success.

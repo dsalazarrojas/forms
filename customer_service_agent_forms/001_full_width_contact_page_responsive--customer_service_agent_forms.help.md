@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive contact page for customers to submit their information and feedback to customer service agents. Its purpose is to collect data from customers who want to get in touch or seek assistance with their queries. The form is structured in a way that allows agents to identify the customer's name, email, and preferred method of contact, ensuring that the customer can be easily reached by the most suitable means.
-</thinking>
-
 # Full Width Contact Page Responsive - Help Guide
 ## Purpose
 This form is intended for customers who want to get in touch with our team or provide feedback on our services. It's meant to help our customer service agents quickly and efficiently assist customers with their inquiries or concerns.

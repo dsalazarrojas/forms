@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide a clear and concise help guide for the EWC Spring Guest Service Request form, I will follow the given YAML fields and create a comprehensive guide for end-users.
 
 </thinking>

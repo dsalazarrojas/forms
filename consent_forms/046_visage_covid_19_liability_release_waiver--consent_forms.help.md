@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who are participating in a study or program related to COVID-19. The purpose of this form is to gather general information, determine if an individual has been exposed to or tested positive for COVID-19, and collect contact information for emergency purposes.
-This form is not intended for use in high-risk or critical situations where immediate medical attention is necessary. The fields on this form are designed to capture information that is relevant to the study or program and help in identifying potential risks or exposures to COVID-19.
-</thinking>
-
 # VISAGE COVID 19 Liability Release Waiver - Help Guide
 ## Purpose
 This form is a liability release waiver for individuals who are participating in a study or program related to COVID-19. It is used to gather information from individuals who have been exposed to or have tested positive for COVID-19.

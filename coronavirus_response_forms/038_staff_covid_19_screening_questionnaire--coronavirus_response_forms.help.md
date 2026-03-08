@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Covid 19 Screening Questionnaire - Help Guide
 ## Purpose
 The Staff Covid 19 Screening Questionnaire is designed to gather information from employees about their recent travel history, potential exposure to Covid-19, and symptoms they may be experiencing. This form helps to identify potential risks and ensure that employees are not at risk of infecting others in the workplace. Please only complete this form if you are an employee of the organization and have not already done so.

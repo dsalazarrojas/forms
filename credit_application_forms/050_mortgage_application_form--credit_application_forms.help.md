@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form serves its intended purpose without duplication or redundancy. A mortgage application form is a crucial document that gathers essential information about the applicant's financial situation, creditworthiness, and loan requirements. The form aims to help mortgage lenders assess the applicant's creditworthiness, loan eligibility, and loan terms. To achieve this, we need to ensure that all required fields are completed, and the applicant understands the type of information requested.</thinking>
-
 # Mortgage Application Form - Help Guide
 ## Purpose
 The Mortgage Application Form is used to gather information about the applicant's personal and financial details, property information, loan requirements, and employment history. This form helps the lender to assess the applicant's creditworthiness, loan eligibility, and loan terms.

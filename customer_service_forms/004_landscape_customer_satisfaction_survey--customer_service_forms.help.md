@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gauge customer satisfaction with a particular service or product. It is likely used by companies or organizations to measure customer experience and gather feedback. The purpose of this form is to collect information about the customer's overall satisfaction with the service, their experience with the service providers, and any additional feedback they may have.
-Please review the form fields carefully to ensure you understand the intended purpose and context.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using AI and public survey topic metadata (title + industry/category) as inspiration. It is released under CC BY 4.0 and can be used, modified, and even sold with proper credit.
-
-To avoid duplication, please ensure you understand the form's purpose and context before filling it out.
-</thinking>
-
 # landscape_customer_satisfaction_survey - Help Guide
 
 ## Purpose

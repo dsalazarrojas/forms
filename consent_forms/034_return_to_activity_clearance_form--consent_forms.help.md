@@ -1,7 +1,3 @@
-<thinking>
-We're designing a return to activity clearance form, which is used for students to clear their activities after participating in a school program. This form is crucial in ensuring that students' activities are properly documented, and they're able to provide consent for any further interactions or activities. It's essential that this form is filled out correctly, and we need to ensure that the end-users understand each field's purpose. Let's review the form fields to make sure everything is clear and concise.
-</thinking>
-
 # return_to_activity_clearance_form - Help Guide
 ## Purpose
 This form is for students to clear their activities after participating in a school program, ensuring proper documentation and consent.

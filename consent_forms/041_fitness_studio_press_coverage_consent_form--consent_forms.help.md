@@ -1,7 +1,3 @@
-<thinking>This form is used to obtain consent from Fitness Studio's members for the use of their media. The purpose of this form is to document the member's consent for the use of their media, including images, videos, and audio recordings, for various types of press coverage. This form is used in conjunction with other forms and agreements to ensure that all relevant parties are aware of and agree to the terms of media use. 
-
-To complete this form, please follow the instructions below.</thinking>
-
 # Fitness Studio Press Coverage Consent Form - Help Guide
 ## Purpose
 The Fitness Studio Press Coverage Consent Form is used to obtain consent from Fitness Studio's members for the use of their media for press coverage purposes.

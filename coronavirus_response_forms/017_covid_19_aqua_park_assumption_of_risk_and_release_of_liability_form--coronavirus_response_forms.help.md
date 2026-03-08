@@ -1,11 +1,3 @@
-<thinking>
-To create the form help guide, I'll first review the provided YAML file. The form appears to be a comprehensive document for capturing information related to COVID-19 policies and procedures for employees. The purpose of this form is likely to ensure that employees understand their roles and responsibilities in case of a pandemic outbreak. This form will help in maintaining transparency and accountability within the organization.
-
-Each field seems to be designed to collect essential information from employees, including their work status, supervisor's work status, emergency contact information, medical history, and other relevant details.
-
-Before proceeding with the help guide, I'll make sure to review the form's fields and provide clear explanations for each section.
-</thinking>
-
 # Covid 19 Aqua Park Assumption Of Risk And Release Of Liability Form - Help Guide
 ## Purpose
 

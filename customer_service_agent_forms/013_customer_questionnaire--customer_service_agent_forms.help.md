@@ -1,8 +1,3 @@
-<thinking>
-We've reviewed the form design and content. The Customer Questionnaire is a form designed to gather feedback from customers on their overall experience with our company. This form will help us understand what we do well and where we can improve. It's essential that customers complete the form honestly, as their feedback is valuable in shaping our services and products to better meet their needs. Please ensure that the form is completed thoroughly and accurately, and if you have any concerns or questions, don't hesitate to ask.
-
-</thinking>
-
 # Customer Questionnaire - Help Guide
 ## Purpose
 The Customer Questionnaire is a form designed to gather feedback from customers on their overall experience with our company. This feedback will help us understand what we do well and where we can improve.

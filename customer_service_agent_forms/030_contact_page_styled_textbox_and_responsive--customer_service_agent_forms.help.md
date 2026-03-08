@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who need to contact the customer service team. The form's purpose is to provide a structured and user-friendly way to report issues, ask questions, or seek general inquiries. The form will guide the customer through a series of questions to help them provide the necessary information for the support team to efficiently address their concerns.
-
-</thinking>
-
 # Contact Page Styled Textbox And Responsive - Help Guide
 ## Purpose
 This form is used to contact the customer service team for assistance with issues or inquiries related to products or services.

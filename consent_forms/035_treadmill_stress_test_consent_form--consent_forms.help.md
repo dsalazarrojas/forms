@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect consent information from patients or their authorized representatives for a treadmill stress test. The form is used to document the patient's medical history, allergies, and medications, as well as their consent to participate in the test. The form also captures the contact and emergency contact information of the patient, including their submitter's details such as name, email, phone number, department, and role. The purpose of this form is to ensure that the patient's medical history and consent are thoroughly documented before undergoing the stress test. This form should only be filled out once, as repeating the process can lead to errors or miscommunication in medical records.</thinking>
-
 # Treadmill Stress Test Consent Form - Help Guide
 ## Purpose
 The Treadmill Stress Test Consent Form is used to document a patient's medical history, allergies, and medications, as well as their consent to participate in a treadmill stress test. The form helps to ensure that the patient's medical history and consent are thoroughly documented before undergoing the test.

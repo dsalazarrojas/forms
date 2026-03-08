@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to gather information for business advisory services, allowing clients to provide details on their organization, needs, and goals. This ensures that consultants can provide tailored solutions. We aim to avoid duplicating effort by ensuring the form's content is clear and concise. The form should be used to request consulting services for companies. It's crucial that the form is filled out carefully, as the information gathered will be used to create a comprehensive understanding of the client's needs.</thinking>
-
 # Business Advisory Insight Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients requesting business advisory services. Please fill out this form to provide detailed insights on your organization's needs and goals.

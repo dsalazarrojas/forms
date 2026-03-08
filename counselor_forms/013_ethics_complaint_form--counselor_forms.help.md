@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ethics Complaint Form - Help Guide
 ## Purpose
 The Ethics Complaint Form is used to report incidents or grievances related to unethical behavior or actions within the organization. This form is intended to ensure that complaints are handled promptly and fairly, and to provide a clear and concise record of the incident.

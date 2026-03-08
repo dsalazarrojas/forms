@@ -1,5 +1,3 @@
-<thinking>...I'm thinking about the medicare consent release form. This form is used to obtain a patient's consent for medicare information to be released to a third party. It seems like the form is intended for medical practices to use. I'm checking for relevance and non-duplication of forms... The medicare consent release form has six fields that need to be filled in. Each field is meant to capture different types of information. Let's break it down...</thinking>
-
 # medicare_consent_release_form - Help Guide
 ## Purpose
 This form is designed to collect a patient's consent for medicare information to be released to a third party. It is used by medical practices to gather necessary information.

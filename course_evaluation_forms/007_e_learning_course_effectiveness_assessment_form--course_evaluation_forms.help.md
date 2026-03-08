@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to assess the effectiveness of an e-learning course. This form is designed to gather feedback from end-users about their experience with the course, providing valuable insights to improve course content, teaching methods, and overall user experience.
-
-Before filling this form, please ensure you have taken the course and have a genuine understanding of its strengths and weaknesses. This form is a one-time assessment and should only be filled once by each end-user.
-
-Please do not fill this form if you are a course instructor or have been assigned to test or review the course. The feedback gathered from this form will be used to make informed decisions about course improvements.
-
-</thinking>
-
 # E Learning Course Effectiveness Assessment Form - Help Guide
 ## Purpose
 The E Learning Course Effectiveness Assessment Form is designed to gather feedback from end-users about their experience with an e-learning course. This form helps to identify areas of improvement and provide valuable insights to course developers and instructors.

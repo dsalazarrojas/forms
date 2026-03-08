@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from customers related to Covid-19 eyelash services. It's essential to ensure that customers understand the terms and conditions of the service, their health status, and other relevant information to provide safe and effective treatment. This form should only be completed by customers who are eligible for Covid-19 eyelash services. Please ensure that you have reviewed the customer's consent form before proceeding with the service.
-
-The form has multiple sections, including a customer consent form, terms and conditions, agreement to obey precaution measures, and customer contact information. It also includes sections related to Covid-19 symptoms, travel history, medical conditions, and other relevant information. Please review each section carefully and ensure that customers understand the questions and options presented.
-
-Please note that this form is not a one-size-fits-all solution and might need to be tailored to specific requirements based on customer feedback and your clinic's policies.
-</thinking>
-
 # Covid 19 Eyelash Services Consent Form - Help Guide
 ## Purpose
 

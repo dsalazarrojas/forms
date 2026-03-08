@@ -3,10 +3,6 @@
 ## Purpose
 This form is designed for registering new customers for veterinary services. It collects essential information such as client name, contact details, and payment information to create a new account.
 
-<thinking>
-This form is intended for new customers to register their information with the veterinary service provider. It is a crucial step in the process of receiving veterinary services. Ensure that all required fields are completed accurately to facilitate a smooth onboarding process.
-</thinking>
-
 ## How To Complete This Form
 
 1. Fill out the form by providing your **Client Name**, **Email**, **Phone**, and **Address** in the corresponding fields.

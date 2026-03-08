@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first analyze the form purpose and potential duplication of effort before crafting a clear and concise user guide for the "COVID 19 Vaccination Center Front Desk Daily Report" form.</thinking>
-
 # COVID 19 Vaccination Center Front Desk Daily Report - Help Guide
 ## Purpose
 This form is designed to gather essential data from front desk staff at COVID-19 vaccination centers to report key metrics and incidents that occur during their shift. The form helps centers track their daily performance, identify areas of improvement, and ensure efficient vaccine distribution. It also helps front desk staff report any issues, incidents, or concerns that need attention.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect essential information from clients for a hair spa scalp massage appointment. This form ensures that clients provide their health details, appointment schedule, allergies, and other necessary information for a safe and effective treatment. The form also requires a signed consent from the client, which is a legal requirement for any medical or spa service.
-</thinking>
-
 # Hair Spa Scalp Massage Consent Form - Help Guide
 ## Purpose
 The Hair Spa Scalp Massage Consent Form is a crucial document that helps us understand your health and appointment details to provide the best possible service during your scalp massage. This form ensures your safety and well-being throughout the treatment.

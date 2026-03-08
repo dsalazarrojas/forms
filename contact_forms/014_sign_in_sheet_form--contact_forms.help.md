@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the sign_in_sheet_form is to collect contact information and other relevant details from users. This form is designed to be used for general contact purposes and may be used in various contexts such as customer service, sales, or marketing.
 
 This form has several fields that need to be filled out in order to complete it. Please follow the steps below:

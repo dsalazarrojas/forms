@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect consent from individuals who wish to participate in live streaming of fitness classes. The form is intended to gather basic contact information and emergency contact information in case of an unexpected event. The purpose of this form is to ensure that the individual has given their consent to participate in live streaming and provide necessary contact information for emergency situations.
-</thinking>
-
 # Fitness Class Live Streaming Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from individuals who wish to participate in live streaming of fitness classes. The form is intended to gather basic contact information and emergency contact information in case of an unexpected event.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data about quarantine birthday events for internal use. It's used to register and track birthday events that are happening in quarantine. The form is typically used by participants to provide their details and preferences for the event. To ensure accurate and helpful responses, please ensure this form is not completed if you're not actually experiencing or planning a birthday party in quarantine.
-
-Please note that this form is used for internal purposes only and the data collected will be used to provide a safe and enjoyable experience for all participants. Duplicate submissions will not be accepted.
-</thinking>
-
 # Quarantine Birthday Event Registration Form - Help Guide
 ## Purpose
 This form is used to register and track quarantine birthday events. It's a way for participants to share their details and preferences with the event organizers.

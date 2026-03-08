@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request permission to publish content. Users must complete it to ensure that the content they wish to publish meets the required standards and guidelines. The form will not be submitted until all required fields are filled out. Please note that the "Request Status" field is not always required, but is used to track the progress of the request.
-</thinking>
-
 # Permission To Publish Request Form - Help Guide
 ## Purpose
 The Permission To Publish Request Form is used to request permission to publish content. It is essential to fill out this form to ensure that your content meets our standards and guidelines.

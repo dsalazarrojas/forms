@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information about a character in a creative work, such as a novel, play, or film. The form is designed to help writers and creators develop a comprehensive profile of their character, including their name, age, background, physical appearance, primary goal, main conflict, personality traits, strengths and weaknesses, character arc, and any additional notes for the writer.
-To ensure the form is used effectively, it is essential to understand the purpose and potential uses of each field. This guide will walk you through each field, explaining its meaning and how to complete it accurately.
-</thinking>
-
 # Character Questionnaire - Help Guide
 
 ## Purpose

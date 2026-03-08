@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is used to capture a participant's personal and health-related information to inform COVID-19 risk assessment and mitigation. This form ensures that participants understand and acknowledge the risks associated with COVID-19, including the potential exposure and transmission. The form also captures the participant's health status, vaccination status, and agreement to follow COVID-19 safety protocols. The information collected will be used to assess the participant's suitability for events or activities and to ensure their safety and well-being. It is essential that this form is completed accurately and truthfully to ensure that participants are aware of and acknowledge the risks involved.
-</thinking>
-
 # COVID Disclaimer - Help Guide
 ## Purpose
 

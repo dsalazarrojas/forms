@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for parents or guardians to register their children for a theater audition. The form is used to collect the child's and guardian's information, including contact details, the child's performance experience, and any special requirements or accommodations needed during the audition.
-
-To ensure that the form is properly filled out, please review each section carefully and ensure that all required fields are completed accurately. This guide will walk you through each field and its purpose.
-
-</thinking>
-
 # Children Theater Audition Registration Form - Help Guide
 ## Purpose
 The Children Theater Audition Registration Form is a required document for children to participate in theater auditions. It is used to collect essential information about the child, including their name, contact details, performance experience, and any special requirements they may need during the audition.

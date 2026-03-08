@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Feedback Monitoring Form - Help Guide
 
 ## Purpose

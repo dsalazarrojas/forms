@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect photo submissions for a daily photo challenge. The purpose is to gather information about the photo and the submitter's details in an organized and efficient manner. It's essential to fill out this form accurately to ensure that the submission is processed correctly and the submitter receives the correct feedback.
-
-Before starting, make sure you're not duplicating a submission. Check with the challenge organizers to confirm if you've already submitted a photo for the same day.
-
-This form is for submitting photos and accompanying details for the daily photo challenge. Please fill it out carefully to ensure your submission is processed correctly.
-</thinking>
-
 # Daily Photo Challenge Submission Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to collect information from clients interested in placenta encapsulation services. The purpose of this form is to gather essential details about the client's birth information, encapsulation requirements, medical conditions, and payment preferences. This information will help our staff prepare for the service and ensure that each client receives personalized care. Please note that some fields are optional, but providing accurate and complete information will assist us in providing the best possible experience. If you have any doubts or concerns, kindly clarify before starting the form.
-
-</thinking>
-
 # Placenta Encapsulation Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients interested in placenta encapsulation services, ensuring that our staff is well-prepared to provide personalized care.

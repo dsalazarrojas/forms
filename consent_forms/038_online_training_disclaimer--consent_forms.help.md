@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an online training disclaimer form. This form is likely used for users to provide consent or information related to online training activities. The form should be clear and easy to understand for users. We'll use the provided YAML fields to create a detailed guide that covers the purpose, completion steps, and field explanations.
-</thinking>
-
 # Online Training Disclaimer - Help Guide
 ## Purpose
 The online training disclaimer form is used to gather information and consent related to online training activities. This form helps users confirm their participation and agreement to the terms and conditions of the training.

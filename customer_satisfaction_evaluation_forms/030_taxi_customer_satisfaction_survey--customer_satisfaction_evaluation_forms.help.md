@@ -1,11 +1,3 @@
-<thinking>
-The Taxi Customer Satisfaction Survey form is designed to gauge the overall satisfaction of customers with the taxi service provided by the company. The form is intended to capture various aspects of their experience, including overall experience, fare, service quality, and other specific areas of improvement. By understanding customer feedback, the company can identify areas for improvement and make necessary adjustments to enhance their services.
-
-This form includes fields for customers to provide their ratings, comments, and contact information. The form is crucial for the company to understand customer needs and preferences, ultimately contributing to the development of better services and experiences for customers.
-
-Please ensure that this form is reviewed and understood by all customers before submitting their feedback. Duplicate or incomplete responses will be removed from the analysis. The company's goal is to collect genuine and accurate feedback from customers.
-</thinking>
-
 # Taxi Customer Satisfaction Survey - Help Guide
 ## Purpose
 The Taxi Customer Satisfaction Survey is designed to collect feedback from customers about their experience with the taxi service. The purpose of this survey is to understand how customers perceive the service, identify areas of improvement, and gather suggestions for better customer experience.

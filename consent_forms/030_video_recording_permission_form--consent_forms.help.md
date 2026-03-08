@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for obtaining video recording permission from individuals, typically for use in educational or professional settings. It is designed to gather information about the individual, such as their name, contact details, and consent to being recorded. This form is likely used by institutions or organizations to ensure that they have the necessary permissions to record video content featuring their students, clients, or staff members.
-
-</thinking>
-
 # Video Recording Permission Form - Help Guide
 ## Purpose
 

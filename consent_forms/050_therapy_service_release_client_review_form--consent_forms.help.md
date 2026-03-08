@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain consent and review information from clients, ensuring they understand the privacy and sharing terms of therapy services. It's essential to have clients' agreement on these matters before sharing testimonials or releasing their private information. This form must be filled out by clients, and its completion may be a requirement for therapy sessions or services. Please ensure that this form is filled out accurately and thoroughly, avoiding duplication of existing agreements or forms.
-
-</thinking>
-
 # Therapy Service Release & Client Review Form - Help Guide
 ## Purpose
 The Therapy Service Release & Client Review Form is a document that clients must complete to provide consent and review information regarding the privacy and sharing terms of their therapy services. This form helps ensure that clients understand how their information will be shared or used, and it's essential to have a clear agreement in place before commencing therapy sessions or services.

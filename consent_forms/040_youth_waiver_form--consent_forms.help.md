@@ -1,5 +1,3 @@
-<thinking>...The form is used by organizations to obtain consent from a parent or guardian to allow their child to participate in a specific activity or event. The form may be required for various reasons, such as to obtain permission to participate in sports, camps, or other activities that may involve risk or liability. This form is used to gather information about the child's contact details, event date, and consent from both the parent or guardian and the student themselves. This form is usually completed for a specific event or activity, and the information gathered will be used to confirm the child's participation and ensure their safety. The form should only be completed once per event or activity. If you need to complete this form multiple times, please contact the administrator for further guidance.</thinking>
-
 # Youth Waiver Form - Help Guide
 ## Purpose
 The Youth Waiver Form is used to obtain consent from a parent or guardian to allow their child to participate in a specific activity or event.

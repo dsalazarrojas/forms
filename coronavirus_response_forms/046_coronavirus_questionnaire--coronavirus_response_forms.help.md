@@ -1,16 +1,3 @@
-<thinking>
-This help guide is for the "coronavirus_questionnaire" form, which is designed to gather information about an individual's exposure to potential COVID-19 risks. The form is used to identify people who may be at risk of infection or have been infected. It is essential to answer the questions honestly to ensure accurate and reliable results.
-
-Before proceeding, please note that this form should not be completed by individuals who have already been diagnosed with COVID-19 or have been in close contact with confirmed cases. If you have any doubts or questions, please contact your healthcare provider or relevant authorities.
-
-This form has multiple pages, and each page has different fields that need to be filled in. Please complete each page carefully and accurately, as the information provided will be used to assess your risk level.
-
-When filling out this form, please ensure that you have answered the questions truthfully and to the best of your ability. If you are unsure about any of the questions, please select 'Don't know' or 'Not sure' as the answer.
-
-The form is divided into different sections, each focusing on a specific aspect of your exposure to potential COVID-19 risks. Please review each section carefully to understand the questions and answer them accordingly.
-
-</thinking>
-
 # coronavirus_questionnaire - Help Guide
 ## Purpose
 The "coronavirus_questionnaire" form is designed to gather information about an individual's exposure to potential COVID-19 risks. It is used to identify people who may be at risk of infection or have been infected.

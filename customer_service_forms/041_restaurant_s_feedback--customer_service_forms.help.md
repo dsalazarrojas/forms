@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from customers about a specific restaurant. It is intended for customers to provide their ratings, comments, and contact information (email and phone number). The form is used by the restaurant management to understand customer satisfaction and preferences. To ensure accurate and useful feedback, please complete the form with your honest and clear answers. If you have already submitted a feedback form for this restaurant, you can disregard this form, as duplicate submissions are not necessary.
-
-</thinking>
-
 # Restaurant's Feedback - Help Guide
 ## Purpose
 This form is designed to collect customer feedback about a specific restaurant, allowing the restaurant management to understand customer satisfaction and preferences.

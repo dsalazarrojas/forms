@@ -1,11 +1,3 @@
-<thinking>
-The COVID 19 Triage Form is designed to gather essential patient information for rapid and informed triage decisions. 
-The primary purpose of this form is to collect data on a patient's symptoms, medical history, and vital signs to guide healthcare providers in making timely and effective decisions regarding patient care and isolation. 
-This form will help streamline the triage process, reduce response time, and improve the quality of care provided to patients. 
-Please ensure that you complete this form accurately and thoroughly, taking care to select the correct options and enter the required information. 
-Note that some fields are marked as "required," which means that they are essential to the form's purpose and must be filled out.
-</thinking>
-
 # COVID 19 Triage Form - Help Guide
 
 ## Purpose

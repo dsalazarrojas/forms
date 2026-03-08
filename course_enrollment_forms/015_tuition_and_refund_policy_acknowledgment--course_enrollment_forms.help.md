@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather acknowledgment from users about the institution's tuition and refund policy. It is intended to be used in an educational setting, such as a university or college, to inform students about the terms and conditions of their tuition payments and potential refunds. The form is meant to be a straightforward and simple way to collect acknowledgment from users, ensuring they understand their rights and responsibilities regarding tuition and refund policies.
-</thinking>
-
 # Tuition And Refund Policy Acknowledgment - Help Guide
 ## Purpose
 This form is a Tuition And Refund Policy Acknowledgment form, designed to collect acknowledgment from users about the institution's tuition and refund policy.

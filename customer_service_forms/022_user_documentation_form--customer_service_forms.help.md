@@ -1,5 +1,3 @@
-<thinking>... internal reasoning here: This form is designed to collect feedback, requests, and issues from customers. It's a crucial channel for understanding customer needs and improving product/service quality. We should be mindful of the fields' purpose and ensure that each field is filled in accurately and completely. This form should not be used for duplicate submissions or feedback that's already been addressed. We want to keep the form simple and easy to use, while still being informative and helpful.</thinking>
-
 # User Documentation Form - Help Guide
 ## Purpose
 The User Documentation Form is a platform for customers to provide feedback, submit documentation requests, and report support issues. This form is used to improve our product and service quality.

@@ -1,15 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-To determine if the Red Banner Contact Form is relevant, consider the following:
-
-* If you are experiencing a technical issue with your website, please contact our Support Team. This form should not be used for support requests.
-* If you are looking for general information or answers to frequently asked questions, please refer to our FAQs or documentation.
-* If you are unsure if your request is relevant, use your best judgment and fill in the form accordingly.
-
-Please note that this form should not be used to submit duplicate requests. If you have submitted a similar request in the past, please do not resubmit.
-
-... </thinking>
-
 # Red Banner Contact Form - Help Guide
 
 ## Purpose

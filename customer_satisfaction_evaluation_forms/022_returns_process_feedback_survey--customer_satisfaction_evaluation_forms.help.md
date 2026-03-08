@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers regarding their return process experiences. The goal is to gather information on how customers feel about the return process, including their overall satisfaction, the return date, return time, return channel, return reason, and other aspects related to their return experience. This feedback is essential to help us improve the return process and better serve our customers. To prevent duplication, please only complete this form if you are a customer who has recently returned a product.
-</thinking>
-
 # Returns Process Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers regarding their return process experiences. It will help us understand their satisfaction, preferences, and pain points related to returning products.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers to confirm their residential address. Its purpose is to ensure that the customer's address is up-to-date and accurate, which is crucial for various business operations, such as verifying identity, delivering packages, or sending official documents. This form will help you to:
-
-* Verify the customer's address by collecting and validating their input
-* Provide a clear and organized way to collect address information
-* Ensure that all required fields are filled out correctly
-
-</thinking>
-
 # Residential Address Confirmation Petition Form Template - Help Guide
 ## Purpose
 ## How To Complete This Form

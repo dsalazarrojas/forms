@@ -1,13 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly, please review the following:
-
-The form purpose is to collect information about a COVID-19 lab report, including details about the laboratory test, the patient, and the test results. This form is designed to be filled out by laboratory professionals, including pathologists or technicians, who will input the required information about the test, patient, and test results.
-
-This form should only be filled out for COVID-19 lab tests. Please ensure that you are filling out the correct type of test before proceeding.
-
-To avoid duplication of effort, please check if a lab report with the same Lab Report ID has already been submitted. If so, please do not submit this form again.
-</thinking>
-
 # COVID 19 Lab Report Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect customer information for IGo4less, a customer service platform. It's crucial to ensure that customers have a unique registration experience that is both efficient and accurate. This guide will walk you through the form's purpose, step-by-step completion, and a detailed explanation of each field. Please ensure that you've reviewed this guide carefully to avoid duplication and errors in your registration. 
-</thinking>
-
 # IGo4less Customer Registration Form - Help Guide
 ## Purpose
 The IGo4less Customer Registration Form is used to collect personal and contact information from customers. This information will be used to create or update a customer's profile, enabling us to better serve and communicate with them.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather information for safety and consent purposes, likely for medical or healthcare-related reasons. It is meant to be filled out by patients or individuals to provide their contact information and consent for certain procedures or treatments. 
-The form is divided into two main sections: first page and second page. The first page collects general contact information such as email, phone number, name, address, city, state, and country. The second page includes a declaration of consent where users can choose their response, and two additional fields for comments and another declaration of consent.
-</thinking>
-
 # Safety And Consent Checklist - Help Guide
 
 ## Purpose

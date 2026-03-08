@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining consent from a contact person before installing a sensor at their location. The form is designed to collect relevant details such as the type of sensor being installed, contact information, and installation details. It's essential to ensure that the contact person understands the scope and implications of the sensor installation, including any potential risks or benefits associated with it. Please confirm that this form is relevant to your specific use case and that you are not duplicating effort by using another form for the same purpose.
-</thinking>
-
 # Sensor Installation Consent Form - Help Guide
 ## Purpose
 The Sensor Installation Consent Form is used to obtain consent from a contact person before installing a sensor at their location.

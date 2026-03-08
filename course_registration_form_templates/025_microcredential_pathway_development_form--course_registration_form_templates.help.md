@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about your experience and usage of microcredential pathway development. This form should only be filled out once per instance. Please answer the questions truthfully to ensure that the data collected will be used accurately.
-</thinking>
-
 # Microcredential Pathway Development Form - Help Guide
 ## Purpose
 This form is used to collect information about your use of microcredential pathway development forms. The purpose of this form is to gather data that will help us improve our services and provide better support for your use cases.

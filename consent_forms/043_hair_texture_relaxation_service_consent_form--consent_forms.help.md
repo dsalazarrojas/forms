@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather necessary information for a hair texture relaxation service, which is a process that relaxes or softens the texture of one's hair. The purpose of this form is to obtain the required consent from clients before commencing the service. 
-The form will help gather relevant details such as salon information, client contact information, any medical conditions that may affect the treatment, and their signature to acknowledge they have read and understood the service details.
-</thinking>
-
 # Hair Texture Relaxation Service Consent Form - Help Guide
 ## Purpose
 This form is required to be completed by clients prior to undergoing the hair texture relaxation service. It helps us understand your medical conditions and gather necessary contact information to ensure a smooth and safe experience for you.

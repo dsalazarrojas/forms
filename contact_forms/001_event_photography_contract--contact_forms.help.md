@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about event photography contracts. The purpose of this form is to gather necessary details from the client and photographer to create a comprehensive contract. This form should not be used for other purposes and is intended for internal use within the organization. 
-The form will guide users on how to complete it accurately and efficiently.
-</thinking>
-
 # Event Photography Contract - Help Guide
 ## Purpose
 This form is used to collect and organize information about event photography contracts. It ensures that all necessary details are covered, including event specifics, client and photographer information, and contact details.

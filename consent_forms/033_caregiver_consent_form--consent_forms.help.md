@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist care providers and caregivers in understanding the purpose and requirements of the Caregiver Consent Form. The form is designed to ensure that caregivers and patients are fully informed about the care or treatment they are consenting to. By completing this form, caregivers will acknowledge their consent and understanding of the services provided. The form includes fields that cover the purpose of care, risks and benefits, alternative options, insurance billing, financial responsibility, and other relevant aspects. Caregivers must review and sign each section carefully, ensuring they have provided informed consent without coercion.
-
-The form is a crucial document that helps care providers ensure that they are meeting their legal and ethical obligations to caregivers and patients. It is a comprehensive guide that covers all necessary aspects of care, including medical treatments, services, or procedures. By using this form, care providers can demonstrate their commitment to transparency, accountability, and patient-centered care.
-
-To avoid duplication of effort, please review the form carefully before completing it, and only submit it once you have thoroughly reviewed and understood the information provided.</thinking>
-
 # Caregiver Consent Form - Help Guide
 ## Purpose
 The Caregiver Consent Form is a comprehensive document that ensures caregivers are fully informed about the care or treatment they are consenting to. This form is designed to provide a clear understanding of the services provided, risks, and benefits, and to obtain informed consent from caregivers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about a Marketing Service Order. It is intended to be used in a customer-facing context, likely to be filled out by clients or customers who are interested in acquiring marketing services. The purpose of this form is to gather essential details about the project, including its specifics and the desired service type. The form should not be used for internal or confidential matters, as it is designed to be publicly accessible.
-</thinking>
-
 # Marketing Service Order Form - Help Guide
 ## Purpose
 This form is used to collect information about marketing services ordered by clients or customers. It is designed to be completed by the client or customer, and the gathered information will be used to provide services as per their requirements.

@@ -1,6 +1,3 @@
-<thinking>
-We've generated this form using AI, but before diving into its explanation, let's confirm its purpose and relevance. This form is designed to gather information for a sports conference, likely for recording purposes such as documentation, accreditation, or other official records. Please review each field carefully to ensure it's relevant to your specific use case. If you're not sure about a particular field, try to provide as much information as you can, and the form will guide you through it.
-</thinking>
 # sports_conference_recording_consent_form - Help Guide
 ## Purpose
 This form is designed to gather information for recording purposes during a sports conference.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to register for a loyalty tier upgrade. Customers must have a valid reason for the upgrade, their current and desired loyalty level, and provide details about their account history. The form will help the service team understand the customer's current status and make decisions on upgrading their loyalty tier. This guide will explain each field in detail so that customers can fill out the form accurately and efficiently.
-</thinking>
-
 # customer_loyalty_tier_upgrade_registration_form - Help Guide
 ## Purpose
 The customer loyalty tier upgrade registration form is a crucial tool for customers to request a loyalty tier upgrade. By filling out this form, customers can inform the service team about their current loyalty level, desired level, and reasons for the upgrade, allowing the team to review and process their request efficiently.

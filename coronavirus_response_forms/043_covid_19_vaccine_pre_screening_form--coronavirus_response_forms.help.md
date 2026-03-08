@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather medical information from patients before vaccinating them against COVID-19. This form helps healthcare providers assess the patient's medical history, potential allergies, and current health status to determine whether they are safe to receive the vaccine. The form is divided into sections that cover different aspects of the patient's medical history, such as allergies, blood disorders, pregnancy, and COVID-19 history. By completing this form, healthcare providers can make informed decisions about which patients are safe to vaccinate and can take necessary precautions to ensure a safe and successful vaccine administration.
-
-To avoid any duplication of effort, healthcare providers should only fill out this form for patients who are eligible to receive the COVID-19 vaccine. Patients who are not eligible, such as those with severe allergic reactions or contraindications, can be referred to alternative care providers or resources for guidance on alternative treatments or care options.</thinking>
-
 # COVID 19 Vaccine Pre Screening Form - Help Guide
 ## Purpose
 The COVID-19 Vaccine Pre-Screening Form is a tool used by healthcare providers to assess patients' medical history and determine whether they are safe to receive the COVID-19 vaccine. This form helps providers gather essential information to make informed decisions about vaccine administration.

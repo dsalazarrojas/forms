@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended for users who are submitting their research stories for publication. The purpose of this form is to obtain consent from participants for the publication of their research stories. This form is used to ensure that participants understand the terms of publication and can provide their consent in a transparent and informed manner.
-
-To complete this form, navigate through the pages and select the relevant options for each field. Please note that some fields are required, and you will need to fill in all required fields before submitting the form.
-
-</thinking>
-
 # Social Health Research Story Publication Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from participants for the publication of their research stories.

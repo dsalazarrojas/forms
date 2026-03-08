@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who want to enroll in a speech contest. It is intended for individuals who want to showcase their public speaking skills, such as students, professionals, or anyone interested in competing in a speech contest. To ensure that this form serves its purpose effectively, it is essential to avoid duplicate entries from the same individual. Duplicate entries can lead to confusion and potentially disqualify a participant. Please review the fields and instructions carefully to complete the form correctly.
-</thinking>
-
 # Speech Contest Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who want to enroll in a speech contest.

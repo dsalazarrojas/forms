@@ -1,11 +1,3 @@
-<thinking>
-
-The "promotional_material_use_consent_form" is used by businesses to request their customers' consent to use their promotional materials featuring images or other identifiable content. This form ensures that customers are aware and agree to the use of their promotional materials, promoting responsible marketing practices.
-
-Before filling out this form, ensure you haven't already submitted this form or one similar to it. Duplicate submissions may cause delays in processing your request.
-
-</thinking>
-
 # promotional_material_use_consent_form - Help Guide
 ## Purpose
 This form is used to collect your consent for businesses to use your promotional materials featuring your name or likeness. Fill out this form to provide consent for the use of your promotional materials on social media or other marketing channels.

@@ -1,7 +1,3 @@
-<thinking>
-The "Contact Form With Paper Theme" is a user-friendly form designed for users to easily share their contact information and inquire about various topics. This form is intended for customers, partners, or freelancers who may need assistance or have questions. Please note that the form is not for general business inquiries, and users should be aware that providing a valid email address is required for form submission. This form will help you get in touch with the relevant parties efficiently and effectively.
-
-</thinking>
 # Contact Form With Paper Theme - Help Guide
 ## Purpose
 The "Contact Form With Paper Theme" is a contact form for users to share their contact information and inquire about specific topics. It is intended for customers, partners, or freelancers who need assistance or have questions.

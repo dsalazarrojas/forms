@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer information and feedback. This form is likely used by customer service representatives to gather details about a customer's concerns, requests, or questions. The form asks for personal details such as name, email, phone number, and date, which are typically required fields. Additionally, it inquires about a customer's goal or description, and includes a field for notes. There are also fields for selecting one or multiple options and confirming email and phone information. The confirmed fields are probably used for verification purposes after an initial interaction with the customer.
-</thinking>
-
 # strength_empiresconsult_form - Help Guide
 ## Purpose
 This form is designed to collect customer information and feedback for customer service representatives to assist with inquiries and issues.

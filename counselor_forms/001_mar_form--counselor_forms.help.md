@@ -1,7 +1,3 @@
-<thinking>
-The MAR form is designed to collect information for medication administration and tracking purposes. It is likely used in a medical setting, such as a hospital or clinic, where medication administration is a critical aspect of patient care. Before starting, let's check if this form has any relevance or duplication with existing documentation.
-</thinking>
-
 # MAR Form - Help Guide
 ## Purpose
 The MAR (Medication Administration Record) form is used to record details about medication administration for patients. It helps healthcare professionals ensure accurate and efficient medication management.

@@ -1,9 +1,3 @@
-<thinking>
-This is a tenant release form, used to document and release tenant information, ensuring that all necessary details are captured accurately and correctly. 
-Before proceeding, confirm that you are using this form for the correct purpose. 
-This form is a critical documentation tool for releasing tenant information, please use it for its intended use and avoid duplicating effort. 
-</thinking>
-
 # tenant_records_release_form - Help Guide
 ## Purpose
 The tenant records release form is a document that captures essential information about a tenant's release from a property or facility. It is used to ensure that all necessary details are accurately and correctly documented.

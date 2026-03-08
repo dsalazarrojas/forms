@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to be used by individuals who want to submit footage of ultramarathons, a type of long-distance running event, to be showcased on a specific platform. The form is designed to collect information about the event, including the details of the event, participant information, footage descriptions, and other relevant details. This form helps the platform's administrators to review and verify the submissions before publishing them. 
-
-Before submitting, please ensure that:
-- The event is a real ultramarathon.
-- The participant has not submitted this video already.
-- The footage is not copyrighted or contains any sensitive content.
-- You are submitting this video for the right reason.
-</thinking>
-
 # Ultramarathon Video Submission Form - Help Guide
 ## Purpose
 This form is designed to collect information about ultramarathon events for submission to a platform. Please fill out the form accurately and completely to ensure a smooth review process.

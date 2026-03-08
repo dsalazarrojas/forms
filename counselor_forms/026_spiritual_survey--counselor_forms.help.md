@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to support users in completing the Spiritual Survey form, which is designed to collect information about an individual's spiritual beliefs, practices, and experiences. The form has multiple pages with various fields that require users to provide detailed information about their spiritual background, beliefs, and personal characteristics. This guide will walk users through each page and field, explaining the purpose and requirements of each section to ensure accurate and complete data collection.
-
-Before starting the form, please note that this guide assumes that you are familiar with the general concept of the form and its purpose. If you have any questions or concerns, please refer to this guide for clarification.
-
-To get the most out of this guide, please read through each section carefully and follow the instructions provided.
-
-Please note that this form is designed to be completed by individuals who are willing to share their personal and confidential information. By completing this form, you acknowledge that you are providing this information voluntarily.
-
-</thinking>
-
 # Spiritual Survey - Help Guide
 ## Purpose
 The Spiritual Survey form is designed to collect information about your spiritual background, beliefs, and experiences. This information will help us understand your personal and spiritual journey, which is essential for us to provide you with the best possible support and resources.

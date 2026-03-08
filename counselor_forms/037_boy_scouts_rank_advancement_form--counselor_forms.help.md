@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Boy Scouts Rank Advancement Form - Help Guide
 
 ## Purpose

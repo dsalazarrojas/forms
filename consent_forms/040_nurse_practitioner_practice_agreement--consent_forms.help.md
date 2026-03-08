@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from nurse practitioners regarding their collaboration and practice details. The form will likely be used by healthcare organizations to assess their relationships with nurse practitioners and ensure they are meeting practice agreement requirements. This form should only be completed once a nurse practitioner has been accepted as a collaborator by the organization, and it is not intended for use as a general introduction or onboarding tool.
-</thinking>
-
 # Nurse Practitioner Practice Agreement - Help Guide
 ## Purpose
 This form is used to collect information from nurse practitioners regarding their collaboration and practice details.

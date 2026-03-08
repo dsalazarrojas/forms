@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to be added to a standby list for COVID-19 vaccine appointments. The purpose of this form is to gather details about the individual, such as their name, contact information, and preferences for vaccine type and appointment time. This information will be used to manage the standby list and ensure that individuals are contacted when a vaccine appointment becomes available that meets their preferences.
-
-The form is divided into several sections, each with specific fields that require completion. This guide will walk you through each section and explain what information is being collected.
-
-Please note that this form is intended for individuals who are seeking to be added to the standby list and do not have a specific appointment scheduled.
-
-</thinking>
-
 # COVID 19 Vaccine Appointment Standby List - Help Guide
 ## Purpose
 This form is for individuals who wish to be added to a standby list for COVID-19 vaccine appointments.

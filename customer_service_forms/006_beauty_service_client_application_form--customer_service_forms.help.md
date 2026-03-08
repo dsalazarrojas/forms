@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for customers to apply for beauty services at a salon. The form aims to gather essential information about the customer, including their contact details, medical conditions, services interested in, preferred appointment time, and other relevant information that will help the salon tailor their services to the customer's needs.
-
-The form is structured in a logical and straightforward manner, with each page addressing a specific aspect of the customer's information. The form fields are designed to be easy to understand, with clear labels and hints to guide the user through the process.
-
-This form does not require duplication of effort or information already entered elsewhere in the process. Each field is unique to the purpose of the form, and the required fields are marked as such to ensure that the customer provides the necessary information for the salon to process their application.
-
-To complete this form, the customer is required to follow the instructions and fill in the relevant information as accurately and thoroughly as possible. If there are any issues or concerns during the process, please do not hesitate to contact the salon for assistance.
-
-</thinking>
-
 # Beauty Service Client Application Form - Help Guide
 ## Purpose
 The Beauty Service Client Application Form is designed to gather essential information about customers who wish to book an appointment at the salon.

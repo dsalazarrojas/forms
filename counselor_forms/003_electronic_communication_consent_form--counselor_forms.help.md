@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about a client's electronic communication preferences for counseling sessions. This includes their willingness to consent to electronic communication methods such as email, text messaging, and portal access. The purpose of this form is to ensure that clients are aware of and agree to the methods of communication used by the counseling service.
-
-The form will be reviewed by the client and the counselor before each session to confirm their preferences and ensure they are comfortable with the agreed-upon communication methods.</thinking>
-
 # Electronic Communication Consent Form - Help Guide
 ## Purpose
 The Electronic Communication Consent Form is used to gather information about a client's electronic communication preferences for counseling sessions.

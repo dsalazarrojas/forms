@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from parents to confirm their child's return to in-person school. It's essential to fill out this form accurately and honestly. Please ensure that you are the parent/guardian filling this form. If the student's absence is a one-time event, it's likely that the "Are Students Committed" field will be marked as "False". If the student has been absent multiple times, you will need to mark it as "True" and provide the necessary information in the other fields. This form is not intended for the student to fill out themselves, as it requires their personal details, such as their name, grade, and contact preferences. If you're unsure about any part of this form, please reach out to your school administration for guidance.
-
-This form is intended for parents to use once for each student who will be absent from in-person school. Please fill it out only once for each student.
-
-Before filling out this form, ensure you are not duplicating the form for any other students. If you've already filled out this form for a student, you should not submit another one.
-</thinking>
-
 # Return To In Person School Information And Commitment Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from participants in a cyber competition. The purpose is to gather essential details such as name, contact, demographic, and category selection to register participants. Ensure you are registering for a competition that fits your category and not duplicating a registration.
-</thinking>
-
 # Cyber Competition Registration Form - Help Guide
 ## Purpose
 The Cyber Competition Registration Form is designed to collect necessary information from participants to register for a cyber competition. This form gathers details such as name, contact, demographic, and category selection to ensure accurate and efficient registration.

@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the Author Declaration Form is filled out correctly, and this guide will help with that.
-The form is used for authors to declare their involvement in a project or publication, providing details such as declaration dates, project titles, author names, affiliations, contributions, and funding sources.
-Before starting, verify that you are authorized to fill out this form, and that you have not already submitted a declaration for this project.
-This guide will walk you through each field of the form to ensure that you complete it accurately and without duplication.
-</thinking>
-
 # Author Declaration Form - Help Guide
 ## Purpose
 The Author Declaration Form is used to declare author involvement in a project or publication. Fill this form accurately to ensure that your declaration is legitimate and up-to-date.

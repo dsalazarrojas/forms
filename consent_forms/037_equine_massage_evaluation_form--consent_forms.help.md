@@ -1,8 +1,3 @@
-<thinking>
-This form is used for evaluating and documenting Equine Massage Sessions. It captures essential information from both the owner and the massage practitioner, allowing for a comprehensive record of the session's details.
-Before proceeding, ensure that you haven't already submitted this form for this equine massage session. If you have, please use the existing submission as the foundation for this new form.
-</thinking>
-
 # Equine Massage Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and details about equine massage sessions. It helps massage practitioners evaluate their sessions and owners provide valuable insights into the effectiveness of the treatment.

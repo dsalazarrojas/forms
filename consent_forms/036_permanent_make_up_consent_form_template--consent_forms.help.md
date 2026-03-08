@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Permanent Make Up Consent Form Template - Help Guide
 ## Purpose
 This form template is intended to be used for obtaining permanent makeup (e.g. micropigmentation, tattooing) client consents. It is designed to ensure that clients understand and agree to the terms and conditions of the procedure, including the use of untested treatments and products.

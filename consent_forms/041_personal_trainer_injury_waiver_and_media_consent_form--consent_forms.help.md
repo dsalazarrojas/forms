@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Personal Trainer Injury Waiver And Media Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information about a subcontractor, including their general contact details and specific business information. The form has two main parts: the first part collects the subcontractor's individual contact information (name, email, phone number), and the second part collects their business information (company name, address, city, state, zip code, tax ID number, and subcontractor number). The form also includes a field for notes and assigned personnel. However, please note that the provided form does not specify any specific requirements for the user, so this explanation is assuming that all fields are optional.
-</thinking>
-
 # subcontractor_information_form - Help Guide
 ## Purpose
 The subcontractor information form is used to collect and store data about subcontractors, their business contact information, and other relevant details.

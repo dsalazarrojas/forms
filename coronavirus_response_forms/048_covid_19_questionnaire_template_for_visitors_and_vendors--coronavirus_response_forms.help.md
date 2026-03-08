@@ -1,15 +1,3 @@
-<thinking>
-
-**Form Purpose and Validation Checks**
-This form is designed to collect information from visitors and vendors regarding their COVID-19 status and adherence to safety guidelines. To ensure the accuracy and effectiveness of the information collected, we will validate the form as follows:
-- Only visitors and vendors who have not been previously screened for COVID-19 will be allowed to proceed with their visit.
-- If a visitor or vendor has been in close contact with a COVID-19 positive person, has traveled to a high-risk area, or has tested positive for COVID-19 in the past 14 days, they will not be allowed to enter the facility.
-- Visitors and vendors must confirm that their answers are truthful and accurate.
-- Visitors and vendors must agree to follow all facility safety guidelines during their visit.
-- Visitors and vendors must agree to wear a mask if required.
-
-</thinking>
-
 # COVID 19 Questionnaire Template For Visitors And Vendors - Help Guide
 ## Purpose
 This form is used to collect information from visitors and vendors about their COVID-19 status and adherence to safety guidelines before entering the facility.

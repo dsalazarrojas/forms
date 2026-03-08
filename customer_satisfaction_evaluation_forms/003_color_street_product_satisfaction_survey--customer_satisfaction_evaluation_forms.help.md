@@ -1,7 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and fields. The Color Street Product Satisfaction Survey is designed to gather customer feedback on their experience with Color Street products. It's a comprehensive form that covers various aspects of the product, from satisfaction and quality to likelihood of repurchase and areas for improvement. By analyzing this data, Color Street can identify trends and areas for enhancement to continually improve their products and services.
-
-Let's break down the form into its components, making it easier for customers to provide valuable insights:</thinking>
-
 # Color Street Product Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to gather your honest feedback on your experience with Color Street products. Your input will help us understand how to improve and better serve you and our customers.

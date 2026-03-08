@@ -1,10 +1,3 @@
-<thinking>
-
-We should check that the user is not already filled out before proceeding.
-This form is intended to help users self-identify as a potential COVID-19 case in order to streamline the reporting process for public health agencies.
-If you're already a filled-out form, please don't worry, this form will only be used once per user.
-</thinking>
-
 # Coronavirus Self Declaration Form - Help Guide
 ## Purpose
 This form helps you, as an individual, self-identify as a potential COVID-19 case to report your status to public health agencies.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to obtain permission from a Girl Scout to sell various Girl Scout products. The form is likely used for events where Girl Scouts are selling products, such as cookie sales or other product sales. 
-The form is designed to be completed by the Girl Scout, not the counselor or other staff members. 
-The form should not be used for purposes other than obtaining permission for Girl Scout product sales.
-
-</thinking>
-
 # Girl Scout Product Permission Form - Help Guide
 ## Purpose
 The Girl Scout Product Permission Form is used to obtain permission from a Girl Scout to sell Girl Scout products.

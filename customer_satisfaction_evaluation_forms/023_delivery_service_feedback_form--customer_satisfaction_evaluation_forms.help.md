@@ -1,9 +1,3 @@
-<thinking>
-
-The Delivery Service Feedback Form is designed to gather feedback from customers about their delivery experiences. This form will help us improve our delivery services and ensure that our customers have the best possible experience. By filling out this form, you will be providing us with valuable insights to help us refine our services. Please be as detailed as possible when filling out this form.
-
-</thinking>
-
 # Delivery Service Feedback Form - Help Guide
 ## Purpose
 

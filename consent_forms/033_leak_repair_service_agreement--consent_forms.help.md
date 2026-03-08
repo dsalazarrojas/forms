@@ -1,8 +1,3 @@
-<thinking>
-This form is a "Leak Repair Service Agreement" form, which is designed to collect information from customers or clients about a service repair job involving a leak. The form likely serves as a document for contractors or service providers to capture essential details about the job, such as visit schedules, key details about the issue, and data collection requirements. This form aims to standardize the data collection process, ensuring all necessary information is gathered consistently and accurately. 
-This form has multiple fields for different types of data: text, date, and select-one fields. 
-</thinking>
-
 # Leak Repair Service Agreement - Help Guide
 ## Purpose
 This form is used to capture essential details about a service repair job involving a leak from a customer or client. The collected data will be used to facilitate communication and record-keeping between the service provider and the customer.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from artists who are releasing new music. It's meant for artists to provide details about their music, including the artist's name, song title, song description, release date, and any credits associated with the release. This form is not affiliated with, endorsed by, or derived from any form platform, and is a completely original adaptation.
-
-Before filling out this form, make sure you have all the necessary information ready. This form is not a survey, so you won't be asked to complete multiple questions or repeat information already provided.
-
-</thinking>
-
 # Music Release Form - Help Guide
 ## Purpose
 The Music Release Form is a tool for artists to provide information about their music releases. Fill out this form to share your music with the world.

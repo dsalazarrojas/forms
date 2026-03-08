@@ -1,13 +1,3 @@
-<thinking>
-This help guide will cover the purpose, completion instructions, and field-by-field explanation for the Covid 19 Crossfit Risk Assumption and Waiver of Liability Form.
-The purpose of this form is to gather information from individuals who participate in fitness activities to assess and manage potential risks associated with their health conditions, medical history, and other relevant factors. This form is used to ensure that Crossfit staff is aware of any potential risks and take necessary precautions to provide a safe environment for all members.
-
-This form does not seem to be part of a larger form with multiple types, so it is assumed that it's a self-contained form for one type of submission.
-
-This guide will cover all 25 fields of the form.
-
-</thinking>
-
 # Covid 19 Crossfit Risk Assumption and Waiver of Liability Form - Help Guide
 ## Purpose
 The purpose of this form is to provide Crossfit staff with information about your health conditions, medical history, and emergency contact information to assess and manage potential risks associated with participating in Crossfit activities.

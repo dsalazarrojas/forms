@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining consent from individuals for media coverage, allowing users to grant or deny access to their name, contact information, and other personal data for various types of media outlets. The form ensures that individuals are informed about the type of media coverage they are consenting to and the term of their consent. The form is not mandatory, but it is recommended to be filled out for all media requests.
-</thinking>
-
 # entertainment_press_coverage_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from individuals for media coverage on various types of media outlets. It is recommended to fill out this form for all media requests to ensure that individuals are informed and in control of their personal data.

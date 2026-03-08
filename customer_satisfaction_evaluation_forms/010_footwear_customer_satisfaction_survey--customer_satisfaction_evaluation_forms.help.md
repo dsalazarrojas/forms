@@ -1,8 +1,3 @@
-<thinking>
-This form is used by customers to provide feedback and rate their experience with our footwear products. The form is designed to gather information about the customer's satisfaction with their purchase, including the product name, purchase date, price, and overall satisfaction. Additionally, customers are asked about their willingness to recommend the product to a friend and their experience with the customer service. This form helps us to identify areas of improvement and provide better service to our customers.
-This form is a simple, one-page survey with a mix of text, date, number, and select input fields. To ensure accurate and helpful feedback, please complete the form carefully and provide as much detail as possible.
-</thinking>
-
 # Footwear Customer Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather customer feedback and satisfaction ratings for our footwear products.

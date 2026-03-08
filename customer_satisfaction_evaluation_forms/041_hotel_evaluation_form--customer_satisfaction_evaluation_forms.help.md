@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience at a hotel. The purpose of this form is to collect data on various aspects of their stay, such as check-in and check-out dates, overall experience, room quality, and other specific aspects of the hotel's services and amenities. This form ensures that customers' feedback is collected in a structured and standardized manner, allowing hotel management to identify areas of improvement and make necessary changes.
-
-This form does not need to be filled out by non-hotel customers or guests of other businesses.
-
-The following form fields should only be filled out by customers who have stayed at the hotel.
-
-Please ensure that the form is completed accurately and honestly, as it will help us improve our services.
-
-To fill out this form, please follow the instructions below:
-
-Please complete this form to provide your feedback about your stay at our hotel. Your input is invaluable to us!
-</thinking>
-
 # Hotel Evaluation Form - Help Guide
 ## Purpose
 The Hotel Evaluation Form is designed to collect feedback from customers about their stay at the hotel.

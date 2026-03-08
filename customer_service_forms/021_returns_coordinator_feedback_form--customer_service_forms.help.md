@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will now output the final help guide in Markdown format:
 
 # Returns Coordinator Feedback Form - Help Guide

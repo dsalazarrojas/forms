@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from observers for the purpose of evaluating teacher performance. It is intended for observers to provide an accurate and objective assessment of a teacher's teaching practices and classroom environment. This form should not be used for personal opinions or biases, and observers should only provide constructive feedback that is based on factual observations. To ensure accuracy, observers should only submit one response per observation, and should not duplicate any observations. 
-</thinking>
-
 # Curriculum Review Committee Observation Consent Form - Help Guide
 ## Purpose
 The Curriculum Review Committee Observation Consent Form is used to collect information from observers on their impressions of a teacher's performance and teaching practices. It is essential to complete this form carefully and accurately to facilitate the evaluation process.

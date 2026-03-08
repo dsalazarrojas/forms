@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this form, I've considered the provided YAML fields. This form, the "Window Display Contest Survey", aims to collect information from retailers about their window displays, including contact details, store information, display descriptions, and entry details. It seems that the form is designed for collecting contest entry data, likely for a visual merchandising or display contest. 
-
-This form appears to be a general-purpose survey for retailers to submit their entries, but it lacks specific business logic or rules that dictate how or when to use the form. Therefore, I've assumed that the form is intended for general use by retailers to submit their entries.
-
-Please note that the form does not appear to have any unique or special requirements for submission, such as specific entry deadlines or submission procedures. If there are any internal rules or procedures that govern the form's purpose or usage, please let me know so I can provide a more tailored explanation.
-
-</thinking>
-
 # Window Display Contest Survey - Help Guide
 ## Purpose
 This form is designed for retailers to submit their entries for a window display contest. It collects information about the retailer's store and contact details, display description, and entry details.

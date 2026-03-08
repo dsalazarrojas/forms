@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # idp_application_form - Help Guide
 ## Purpose
 The International Driving Permit (IDP) application form is used to gather information from individuals who wish to apply for an IDP. The form is designed to collect personal and vehicle-related details that are required for the IDP issuance process. Please ensure you are eligible and only submit the form once to avoid duplication.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Session Record - Help Guide
 
 ## Purpose

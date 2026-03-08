@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## independent_consultant_customer_information_form - Help Guide
 
 ## Purpose

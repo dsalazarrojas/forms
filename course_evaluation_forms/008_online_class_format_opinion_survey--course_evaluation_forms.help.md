@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect opinions on the online class format from course creators. It aims to gather feedback on various aspects of the class format, including the type of format, the level of instructor support, and the availability of support teams. The form is intended to be completed by course creators to provide insights into their own class formats, but it can also be used by instructors, teaching assistants, and other stakeholders to collect feedback from students. The form is not meant to be a comprehensive assessment of the class, but rather a snapshot of opinions at a specific point in time. This form is a one-time assessment, so please complete it as thoroughly and accurately as possible.</thinking>
-
 # Online Class Format Opinion Survey - Help Guide
 
 ## Purpose

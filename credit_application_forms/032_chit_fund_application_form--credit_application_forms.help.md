@@ -1,6 +1,3 @@
-<thinking> 
-We're designing the Chit Fund Application Form for an organization that requires users to apply for a chit fund, which is essentially an investment scheme where members contribute regularly to a pool, which is then disbursed in installments. This application form is meant to collect detailed information about the applicant, their employment status, income, ID proof, and other relevant details. The purpose of this form is to ensure that the applicant's information is accurate and complete, making it easier for the organization to verify the applicant's identity and approve their application. We will use this form to ensure that the applicant's data is not duplicated and that the organization's rules and regulations are followed.</thinking>
-
 # Chit Fund Application Form - Help Guide
 ## Purpose
 

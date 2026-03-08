@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information from customers regarding incidents they have experienced with our company. The form is designed to be completed by a customer service agent, who will use the collected data to address the customer's concerns and resolve the issue. This form is intended to be completed by the customer service agent, not the customer directly. There is no duplication of this form, as it is designed to be used in a specific context.
-</thinking>
-
 # customer_incident_form - Help Guide
 ## Purpose
 The customer incident form is used to document and manage customer incidents reported to our company.

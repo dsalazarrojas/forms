@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Series Creation Survey - Help Guide
+> # Series Creation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a series of ideas, including its title, description, target audience, and production status. The survey aims to gather data from creators about their series, which can be used to improve our understanding of the market and inform our business decisions.
 

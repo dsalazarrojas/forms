@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Credit Application Form - Help Guide
 ## Purpose
 The Personal Credit Application Form is a tool used to gather information from individuals applying for credit. This form helps to collect necessary details about the applicant, their employment, income, credit history, and agreement terms for a credit decision. By providing accurate and honest information, applicants can help us make informed decisions about their credit application.

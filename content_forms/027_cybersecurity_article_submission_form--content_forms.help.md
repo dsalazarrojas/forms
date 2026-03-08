@@ -1,15 +1,3 @@
-<thinking> 
-
-To create a user-facing help guide for this form, we will follow these steps:
-
-1. Identify the form's purpose and potential duplicates.
-2. Create a brief introduction explaining the form's purpose and any relevant information for end-users.
-3. Outline the steps to complete the form.
-4. Provide a field-by-field explanation of each field, including any specific instructions or tips.
-
-This form seems to be for submitting and managing manuscripts or articles in a publication or academic context. It likely deals with various aspects of manuscript submissions, including author and submitter information, manuscript properties, and submission status. The form may have a mix of fields for general text input, selection between options, file attachments, and dates.
-
-</thinking>
 # Manuscript Form - Help Guide
 ## Purpose
 The Manuscript Form is designed for submitting and managing manuscripts or articles in a publication or academic context. This form helps gather information about the manuscript, its status, and its submission process. Before completing this form, make sure to review the relevant instructions and guidelines for the submission process.

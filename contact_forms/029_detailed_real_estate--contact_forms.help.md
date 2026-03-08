@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a brief internal reasoning block to explain the form purpose and check for relevance and non-duplication:
 The "Detailed Real Estate" form is designed to gather information from clients and real estate agents for the purpose of facilitating real estate transactions, such as property viewings, listings, and negotiations. This form typically requires mandatory fields like client ID, email, phone number, ZIP code, city, state, and follow-up preferences, while optional fields like name, company, address, and realtor information can be filled in for additional context. It's essential to ensure accuracy in filling out this form to provide a smooth and efficient experience for both the client and the real estate agent.
 

@@ -1,7 +1,3 @@
-<thinking>
-Is this form used to track employee self-isolation status? This form likely helps the organization manage and coordinate employee health and safety during the COVID-19 pandemic. It's possible that this form is used in conjunction with other systems or processes to ensure employees follow company policies and guidelines for self-isolation. 
-</thinking>
-
 # COVID 19 Self Isolation Form - Help Guide
 ## Purpose
 The COVID 19 Self Isolation Form is used to track employee self-isolation status and gather information to ensure the employee's health and safety, as well as the safety of others in the workplace.

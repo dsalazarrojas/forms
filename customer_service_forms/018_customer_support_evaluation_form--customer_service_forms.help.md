@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with our customer support services. The goal is to help us identify areas for improvement and provide better support in the future. Please take a few minutes to complete this form and provide honest feedback about your experience with our customer support team.
-
-The form will be submitted to the support team and used to track and analyze customer feedback over time.
-</thinking>
-
 # Customer Support Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to help us understand your experience with our customer support services.

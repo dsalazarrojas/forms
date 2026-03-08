@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return To Training Waiver - Help Guide
 
 ## Purpose

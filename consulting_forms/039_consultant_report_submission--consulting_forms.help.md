@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from consultants about their reports submitted to clients. This form ensures that all required information is captured, including the consultant's details, report metadata, and the report itself. The form's design is intended to guide the consultant through the submission process, reducing errors and ensuring that all necessary fields are completed. Before filling out this form, ensure you have all the necessary information and supporting files ready. If you have already submitted a report with the same client and title, it is recommended to check if it is still open and not duplicate this submission.
-</thinking>
-
 # Consultant Report Submission - Help Guide
 
 ## Purpose

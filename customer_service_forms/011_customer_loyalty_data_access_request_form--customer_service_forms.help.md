@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request access to customer loyalty data for internal purposes, such as marketing, sales, or customer service. Before submitting the form, please ensure that you do not already have access to the data you are requesting, and that you are not making duplicate requests. This form helps to track and record requests for better management and reference.
-</thinking>
-
 # Customer Loyalty Data Access Request Form - Help Guide
 
 ## Purpose

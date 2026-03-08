@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals seeking to implement a transformation strategy within their organization. This form will be used to track the status of leads and projects. It's essential to fill out this form accurately to ensure that the relevant teams are aware of the potential opportunities and can follow up accordingly. Please note that some fields are not mandatory, so feel free to fill them out only if you have the necessary information. 
-</thinking>
-
 # Transformation Strategy Implementation Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from individuals interested in implementing a transformation strategy within their organization.

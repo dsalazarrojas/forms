@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather contact information from users. The purpose of this form is to collect basic contact details such as name, email, contact number, website URL, and a descriptive note. The form also includes a button to initiate the submission process and fields for embedding custom code or script for advanced functionality. This form will be used on a contact page, allowing users to easily submit their information for further action.
-</thinking>
-
 # full_width_contact_page_responsive - Help Guide
 
 ## Purpose

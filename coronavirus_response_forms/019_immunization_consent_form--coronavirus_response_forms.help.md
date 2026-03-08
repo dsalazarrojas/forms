@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture the necessary information for immunization purposes. It's essential to ensure that the user provides accurate and complete information to enable efficient and effective immunization processes. Before proceeding, please review the form carefully and ensure that you have all the necessary information ready. If you've filled out this form before, make sure to review your previous responses to avoid duplication.
-</thinking>
-
 # Immunization Consent Form - Help Guide
 ## Purpose
 The Immunization Consent Form is used to gather essential information from patients or individuals requiring immunization. This form helps healthcare professionals collect relevant details about the patient's medical history, allergies, medical conditions, and consent for immunization.

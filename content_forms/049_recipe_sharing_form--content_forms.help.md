@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "ประกipie_sharing_form" form. The form's purpose is to collect information for sharing recipes, which will likely be used to display on a website or other digital platform. This form will help users submit their favorite recipes, including details like ingredients, instructions, and cooking methods. The form is designed to be user-friendly and easy to navigate, making it accessible to users of various skill levels. Before proceeding, ensure you have all the necessary information before submitting the form, as some fields are optional but others are required for the form to be complete.
-</thinking>
-
 # ประกipie_sharing_form - Help Guide
 ## Purpose
 The "ประกipie_sharing_form" is a form designed to collect and share recipes with others. It's intended to gather essential information about the recipe, including ingredients, cooking methods, and other relevant details.

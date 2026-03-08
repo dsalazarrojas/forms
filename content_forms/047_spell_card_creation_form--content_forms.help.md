@@ -1,17 +1,3 @@
-<thinking>
-This form is used to create a new "Spell Card" within the system, which is used to store information about a particular magical ability or power that can be used by players. This form is only accessible to authorized users who need to create or modify existing spell cards. The system checks for duplication and relevance before allowing users to submit the form, ensuring that no duplicate spell cards are created and that the information entered is relevant to the system's existing data.
-
-To ensure data consistency and accuracy, the form has the following requirements:
-
-*   All fields must be filled out completely and accurately.
-*   The "Rarity" field must be one of the four options: "Rare", "Common", "Uncommon", or "Legendary".
-*   The "Casting Cost" and "Mana Cost" fields must be numeric values.
-*   The "Casting Time" field is optional and allows for time entries in hours and minutes.
-*   The "Casting Requirements Note" and "Player Notes" fields are for additional information and are not required.
-
-Each field is described below to help you complete the form correctly and efficiently.
-</thinking>
-
 # Spell Card Creation Form - Help Guide
 ## Purpose
 The Spell Card Creation Form is used to create new "Spell Card" entries within the system. This form allows users to provide details about a specific magical ability or power that can be used by players.

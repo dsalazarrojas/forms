@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patch Test Form - Help Guide
 
 ## Purpose

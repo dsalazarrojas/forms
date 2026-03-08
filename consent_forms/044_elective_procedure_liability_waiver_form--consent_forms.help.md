@@ -1,17 +1,3 @@
-<thinking>
-The form is designed to capture information related to elective procedures, where patients can choose to undergo a medical or surgical procedure without being obligated to do so. This form is for the purpose of liability waiver, ensuring that patients understand the risks and consequences associated with the procedure. The form aims to provide a clear and concise way of obtaining informed consent from patients, reducing the likelihood of misunderstandings or miscommunications. 
-
-The form schema has 5 fields: Elective Procedure Liability Waiver Form Data, Patient First Name, Patient Last Name, Procedure Name, and Consent Date. 
-
-The form is likely to be used in medical or healthcare settings, where patients can choose to undergo elective procedures such as LASIK eye surgery or other cosmetic or surgical procedures. 
-
-The required fields are Elective Procedure Liability Waiver Form Data, Patient First Name, and Patient Last Name. 
-
-Please ensure the form is not duplicated or used to extract proprietary content from any form creation or data collection platform. 
-
-The form's metadata and schema are publicly available under Creative Commons BY 4.0 license, allowing users to modify, sell, or use the form for any purpose, as long as credit is given.
-</thinking>
-
 # Elective Procedure Liability Waiver Form - Help Guide
 ## Purpose
 This form is designed to capture informed consent from patients for elective procedures. It helps to ensure that patients understand the risks and consequences associated with the procedure and provides a clear way of obtaining their liability waiver.

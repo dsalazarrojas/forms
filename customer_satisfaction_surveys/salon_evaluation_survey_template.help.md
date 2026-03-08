@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # salon_evaluation_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience at our salon. This form helps us understand what they liked and disliked, and what we can do to improve their experience in the future.

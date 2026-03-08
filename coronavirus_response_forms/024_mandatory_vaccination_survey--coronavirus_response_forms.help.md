@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking mandatory vaccinations, and its purpose is to ensure that all required vaccinations have been administered to patients and to record important patient information. It's essential to fill out this form carefully, as the information provided will be used for official documentation. To confirm, have you reviewed the vaccination guidelines and policies related to this form?
-</thinking>
-
 # Mandatory Vaccination Survey - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their vaccination status, including the type of vaccine administered, the date and dosage of the vaccination, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be created based on the provided form fields. I will assume that the form is meant to collect information about daily construction progress, site conditions, and inspector's observations. The form might be used by construction project inspectors to report on the current status of a project. I will focus on making the guide concrete, concise, and practical for the end-users.
-</thinking>
-
 # Daily Construction Report - Help Guide
 ## Purpose
 This form is used to collect information about the current status of a construction project. The purpose of this form is to gather details about the project's progress, site location, weather conditions, and any other relevant information that may impact the project's timeline or outcome.

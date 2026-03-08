@@ -1,7 +1,3 @@
-<thinking>
-The form "oba-site-contact-formc" is designed to gather contact information from website visitors, allowing them to submit their first name, last name, email, a subject line, and a message. The form is intended for users who want to get in touch with the website administrators.
-</thinking>
-
 # oba-site-contact-formc - Help Guide
 ## Purpose
 The purpose of this form is to provide a way for website visitors to contact the website administrators with their questions, suggestions, or feedback.

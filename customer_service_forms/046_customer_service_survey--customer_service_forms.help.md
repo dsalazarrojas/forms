@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers after their visit to a service center or office. The purpose of the form is to help us understand their level of satisfaction and identify areas for improvement. This information will be used to make necessary adjustments and ensure that our customers receive the best experience possible.
-</thinking>
-
 # Customer Service Survey - Help Guide
 
 ## Purpose

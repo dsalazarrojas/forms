@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about the prospect's risk concerns and objectives, providing valuable insights for risk intelligence consulting services. It is an original adaptation of a public survey topic, created using artificial intelligence and released under CC BY 4.0. This form is not affiliated with any form platform and can be freely used, modified, and even sold with proper credit given. The purpose of this form is to help consulting services understand the prospect's risk profile and tailor their advice accordingly. Please ensure you are using this form for its intended purpose and not duplicating existing surveys.</thinking>
-
 # Risk Intelligence Consulting Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the prospect's risk concerns and objectives, providing valuable insights for risk intelligence consulting services.

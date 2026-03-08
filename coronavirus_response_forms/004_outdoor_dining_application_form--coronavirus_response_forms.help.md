@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to submit an "Outdoor Dining Application Form" to facilitate outdoor dining operations during the COVID-19 pandemic. The form ensures accurate and efficient submission of application requests. Please review this guide to ensure you complete the form correctly and do not duplicate submissions. If you find any information unclear or outdated, contact the relevant authority for further guidance.
-</thinking>
-
 # Outdoor Dining Application Form - Help Guide
 ## Purpose
 

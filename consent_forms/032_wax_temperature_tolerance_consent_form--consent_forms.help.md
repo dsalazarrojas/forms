@@ -1,14 +1,3 @@
-<thinking>
-
-This form is a "Wax Temperature Tolerance Consent Form" used to record a client's consent and other relevant information for wax treatment procedures. The form is likely used in a clinical or medical setting to ensure that clients understand their temperature tolerance and provide informed consent for treatment.
-
-Internal reasoning check: 
-- This form is used by healthcare professionals to collect data on clients' temperature tolerance.
-- The form is likely used to ensure clients understand their treatment options and consent to proceed.
-- The form is designed to be completed by clients or their representatives.
-
-</thinking>
-
 # Wax Temperature Tolerance Consent Form - Help Guide
 ## Purpose
 

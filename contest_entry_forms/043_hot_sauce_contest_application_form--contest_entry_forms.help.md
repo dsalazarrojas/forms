@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used for the Hot Sauce Contest, which is an internal contest where employees can submit their hot sauce recipes to be judged by a panel of experts. This form is used to collect information from contestants, including their name, contact information, and any other required fields. The purpose of this form is to gather all the necessary details to make the contest fair and efficient. Please ensure that you are eligible to participate in the contest before submitting this form, and that you have not previously submitted an entry with this email address.
-
-Please do not resubmit your entry if you have already participated in the contest or have previously submitted a hot sauce entry with this email address.
-
-</thinking>
-
 # Hot Sauce Contest Application Form - Help Guide
 
 ## Purpose

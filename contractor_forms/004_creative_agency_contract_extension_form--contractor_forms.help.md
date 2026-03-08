@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by contractors or freelancers who are working with an agency and need to extend their contract. The purpose of this form is to provide the necessary information to process the contract extension. The form should only be completed by contractors who have an existing contract with the agency and are requesting to extend it. If you are not a contractor, please do not complete this form.
-</thinking>
-
 # Creative Agency Contract Extension Form - Help Guide
 ## Purpose
 This form is used to extend an existing contract with an agency. Please complete the form carefully to ensure all necessary information is provided to process the contract extension.

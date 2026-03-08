@@ -1,9 +1,3 @@
-<thinking>
-This guide is for the Veterinary Workshop Participant Consent Form, used for obtaining consent from workshop participants. This form is a requirement for all workshop participants to complete, and it's essential to fill it out accurately to ensure a smooth and safe workshop experience. To avoid duplication, make sure to only submit this form once per participant.
-
-This guide will walk you through the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Veterinary Workshop Participant Consent Form - Help Guide
 ## Purpose
 The Veterinary Workshop Participant Consent Form is a crucial document that ensures you're aware of and agree to the workshop's terms and conditions, as well as your contact information and emergency contact details. By filling out this form, you'll be able to participate in the workshop and be informed about important updates and communications.

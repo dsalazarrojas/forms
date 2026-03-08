@@ -1,8 +1,3 @@
-<thinking>
-The form "Design Course Enrollment Form" is likely designed for students to enroll or apply for a course. The form's purpose is to collect necessary information to process the student's enrollment request. It's assumed that the form is a straightforward application process for the course. I will provide the help guide based on the provided YAML fields.
-
-</thinking>
-
 # Design Course Enrollment Form - Help Guide
 ## Purpose
 

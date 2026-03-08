@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Test Result Reporting Form - Help Guide
 ## Purpose
 This form is used to report the results of a COVID-19 test, including personal information, test details, and contact tracing data. It is essential to complete this form accurately and truthfully to ensure proper handling and tracking of test results.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be a template for obtaining informed consent from participants in a cognitive learning study. It is crucial that the participant understands the purpose of the study, procedures involved, risks and benefits associated with it, privacy and confidentiality measures, and their voluntary participation. The form is divided into sections to make it easy for the participant to understand each part of the consent process. It is essential that the participant reviews and understands each field before proceeding with the study.
-</thinking>
-
 # Cognitive Learning Study Consent - Help Guide
 
 ## Purpose

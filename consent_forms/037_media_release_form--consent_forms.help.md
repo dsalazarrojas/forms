@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture information about a media release, which is a formal agreement between a media outlet and a person or organization granting permission to use their image, voice, or other content. The purpose of this form is to provide a standardized way to collect and document media releases, which can help ensure that all necessary permissions are obtained and that the terms of the release are clearly understood.
-
-To complete this form, simply fill out each field as instructed:
-
-</thinking>
-
 # Media Release Form - Help Guide
 ## Purpose
 The Media Release Form is used to capture information about a media release, including the media outlet, story title, story type, and release date. It is designed to ensure that all necessary permissions are obtained and that the terms of the release are clearly understood.

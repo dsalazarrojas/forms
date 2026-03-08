@@ -1,9 +1,3 @@
-<thinking>
-
-We are creating this form to help us understand and improve our customer onboarding experience. Please take a few minutes to share your thoughts and feedback about your onboarding process. This will help us identify areas where we can improve and provide a better experience for new customers in the future. Your input will be anonymous and confidential, and you will not receive any compensation or reward for your participation. If you have any further suggestions for improvement, we'd love to hear them! This form is a one-time opportunity, so please provide as much detail as possible in each field.
-
-</thinking>
-
 # Customer Onboarding Feedback Survey Template - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with our onboarding process. Your input will help us identify areas for improvement and provide a better experience for new customers in the future.

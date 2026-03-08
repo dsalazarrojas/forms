@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be filled out by a patient before receiving medical treatment, and it requires input from both the patient and the healthcare provider to ensure that the patient understands their treatment plan and any potential risks or complications. 
-
-This form is intended to be used for patients, healthcare providers, and medical records, to ensure accurate and consistent documentation of the treatment process, medical history, allergies, medication, and other relevant information. The form should not be used for billing or payment purposes, as it is not designed to be a financial transaction form. 
-
-Please note that the required fields should only be marked as "required" if they are essential for accurate and safe treatment, not just for data collection.
-
-</thinking>
-
 # Medical Treatment Consent Declaration Form - Help Guide
 ## Purpose
 The Medical Treatment Consent Declaration Form is used to document the treatment process, ensure patient understanding, and record medical history, allergies, and other essential information for accurate and safe medical treatment.

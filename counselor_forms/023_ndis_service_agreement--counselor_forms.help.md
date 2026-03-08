@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a standardized template for a service agreement within the National Disability Insurance Scheme (NDIS) context. Upon reviewing the inputSchema, I see that it's designed to collect information from both the participant and provider sides, including participant name, provider name, dates and times for sessions, session duration, notes, and agreements. This form likely serves as a formal record of the agreement between the participant and provider, ensuring both parties understand the terms and conditions of the service. Before proceeding with this guide, I'll ensure that I accurately reflect the form's purpose and requirements in a way that's easy to understand for end-users.
-</thinking>
-
 # NDIS Service Agreement - Help Guide
 ## Purpose
 The NDIS Service Agreement form is a crucial document that outlines the terms and conditions of the service between a participant and their provider. This form helps ensure that both parties are on the same page and understand their responsibilities and expectations.

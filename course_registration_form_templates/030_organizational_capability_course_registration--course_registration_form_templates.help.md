@@ -1,7 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for this form, ensuring that end-users understand its purpose, how to complete it, and what each field means. This guide will be based on the provided YAML fields and structured according to the specified Markdown structure.
-
-</thinking>
-
 # Organizational Capability Course Registration - Help Guide
 ## Purpose
 The "Organizational Capability Course Registration" form is designed to collect participant information, payment details, and course registration data for organizational capabilities courses. This form helps to ensure that participants provide accurate and complete information, allowing us to efficiently process their course registrations and maintain records.

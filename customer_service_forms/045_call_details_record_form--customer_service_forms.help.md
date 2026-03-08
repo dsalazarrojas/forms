@@ -1,5 +1,3 @@
-<thinking>... internal note: This form is used to record call details to help customer service teams track and analyze customer interactions. It is essential to fill out this form accurately to ensure that customer interactions are recorded correctly and that any necessary follow-ups are taken into account. Please note that this form is a one-page form, so ensure that you complete it in its entirety to provide the most accurate and detailed information possible. Also, if you are not sure about any field, please consult with your supervisor or team lead for guidance. ...</thinking>
-
 # Call Details Record Form - Help Guide
 
 ## Purpose

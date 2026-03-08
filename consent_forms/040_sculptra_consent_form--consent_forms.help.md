@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information for consent from patients, which is essential for medical professionals to assess their suitability for treatment. It includes fields for patient demographics, medical history, allergies, and consent to treatment. Please ensure that the patient completes this form to provide accurate and up-to-date information.</thinking>
-
 # Sculptra Consent Form - Help Guide
 ## Purpose
 The Sculptra Consent Form is a medical consent form designed to collect essential information from patients before treatment. It helps medical professionals understand the patient's medical history, allergies, and consent to treatment, ensuring a safe and effective treatment process.

@@ -1,9 +1,3 @@
-<thinking> 
-
-The Telehealth Informed Consent Form is a critical document used in telehealth services to gather information about patients' personal details, medical history, and emergency contact information. This form is essential for healthcare providers to understand patients' backgrounds before offering online consultations or treatments. The form is not meant for billing or insurance purposes but rather for clinical use to ensure patient safety and confidentiality. Before completing this form, ensure you are not duplicating efforts with existing patient records or consultations. If you are unsure about a patient's status, please reach out to the medical team for clarification.
-
-</thinking>
-
 # Telehealth Informed Consent Form - Help Guide
 ## Purpose
 

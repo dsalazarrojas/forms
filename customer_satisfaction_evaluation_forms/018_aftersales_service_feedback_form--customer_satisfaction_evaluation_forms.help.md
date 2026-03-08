@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help businesses collect feedback from customers about their aftersales service experience. The form aims to gather information on various aspects of the service, including the speed of resolution, technical expertise of staff, and overall satisfaction with the experience. This feedback will aid in identifying areas for improvement and provide insights to enhance the quality of aftersales services.
-
-</thinking>
-
 # Aftersales Service Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers about their experiences with our aftersales services, allowing us to identify areas for improvement and make necessary adjustments to ensure our services meet and exceed customer expectations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Workplace Safety And Concerns Form is designed to gather information about workplace safety concerns and employee responses from managers in the company. This form is meant to be used for internal purposes only and is not intended for public disclosure. It's essential to fill out this form accurately and completely to ensure that your concerns and responses are recorded correctly. 
 
 Please note that this form is not meant to replace any official reporting channels or protocols within the organization. If you have any concerns or issues that require immediate attention, please contact your supervisor or HR representative directly.

@@ -1,11 +1,3 @@
-<thinking>
-We should ensure that the form is only accessed by authorized users and that there is no duplication of entries, as this could lead to incorrect data and potential conflicts during the festival. To prevent this, we should check for user authentication and implement a system to detect and prevent duplicate entries. We should also consider providing feedback to users when they try to submit duplicate entries. 
-
-For this form, the purpose is to collect information from dance schools and their contacts to facilitate the dance festival organization. The form will be used to gather necessary details about the dance schools, including their contact information and dance school specifics. This information will be used to communicate with the dance schools and to create a directory of participating schools. 
-
-We should also consider making sure that the form is user-friendly and easy to fill out, with clear labels and instructions to guide the users through the process.
-</thinking>
-
 # Dance Festival Entry Form - Help Guide
 ## Purpose
 The Dance Festival Entry Form is a form designed to collect information from dance schools and their contacts to facilitate the organization of the dance festival. This form is essential for gathering necessary details about the dance schools, including their contact information and dance school specifics.

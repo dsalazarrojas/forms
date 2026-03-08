@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to pre-order an online course. The form has multiple pages, each collecting different types of information from the user. The form is not affiliated with any form platform, and its content is based on public survey topic metadata. The form's purpose is to gather user data for course pre-ordering purposes.
-</thinking>
-
 # Online Course Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect user information for course pre-ordering purposes.

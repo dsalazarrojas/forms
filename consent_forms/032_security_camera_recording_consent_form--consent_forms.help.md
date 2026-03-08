@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to obtain consent from individuals for security camera recording. The primary purpose of this form is to ensure that individuals understand and agree to the terms of the security camera recording, which may include the recording start and end times, duration, purpose, frequency, storage location, access rights, camera type, and other relevant details. The form is designed to be completed by individuals who are subject to security camera recording, such as employees, customers, or visitors. The form will help to establish a clear understanding of the recording and ensure that individuals are aware of their rights and obligations. This form is not intended to be used for other purposes.
-</thinking>
-
 # Security Camera Recording Consent Form - Help Guide
 ## Purpose
 The Security Camera Recording Consent Form is a document that seeks to obtain consent from individuals regarding the use of security cameras on the premises. It is a crucial step in establishing a clear understanding of the recording and ensuring that individuals are aware of their rights and obligations.

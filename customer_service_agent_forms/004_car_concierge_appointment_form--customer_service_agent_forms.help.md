@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to collect information from customers for concierge services. The form will be used to schedule appointments and collect details about the services the customer requires. This form is likely intended for personal use, such as scheduling appointments for individuals, and not for commercial or business use. The form appears to be a comprehensive form that covers a range of services and information. It's likely that the form is used to collect information for a concierge service that offers various services such as vehicle pickup/drop-off, maintenance coordination, car detailing, and more. 
-</thinking>
-
-# Car Concierge Appointment Form - Help Guide
+> # Car Concierge Appointment Form - Help Guide
 ## Purpose
 The Car Concierge Appointment Form is designed to schedule appointments and collect details about the services you require from our concierge service. This form helps us to understand your needs and preferences, ensuring that we provide you with the best possible experience.
 

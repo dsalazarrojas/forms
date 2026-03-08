@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting character references for evaluation purposes. It is not affiliated with, endorsed by, or derived from any form platform. This form was created using AI, but it's original and not a copy or derivative of any proprietary content. It's released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit. The form is designed to collect consistent character references for evaluation. 
-
-</thinking>
-
 # Character Reference Form - Help Guide
 ## Purpose
 The Character Reference Form is designed to gather information about a person's character, strengths, and areas of concern from a referee who knows them well. This form helps in evaluating a person's character and making informed decisions.

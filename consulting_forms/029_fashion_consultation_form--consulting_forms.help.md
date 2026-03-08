@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for fashion consultations. It is meant for clients who wish to receive personalized fashion advice or consultation on their wardrobe, styling, or specific fashion-related inquiries. This form should not be filled out if the customer has not been previously scheduled for a consultation or if the purpose of the consultation is to inquire about an appointment or make a purchase. 
-</thinking>
-
 # Fashion Consultation Form - Help Guide
 ## Purpose
 The Fashion Consultation Form is designed to gather information from customers about their fashion preferences and needs. This form will be used to provide personalized fashion advice and consultation services.

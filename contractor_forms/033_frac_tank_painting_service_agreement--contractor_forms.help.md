@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Frac Tank Painting Service Agreement" form. The form's purpose is to collect information from clients regarding a painting service for frac tanks. This form will serve as an agreement between the client and the service provider, detailing the scope of work, start and end dates, and other essential details. To ensure the guide is relevant and non-duplicative, I will focus on the essential fields and provide clear, concise explanations for each section.</thinking>
-
 # Frac Tank Painting Service Agreement - Help Guide
 ## Purpose
 The Frac Tank Painting Service Agreement form is designed to collect essential information from clients regarding a painting service for frac tanks. This form will help establish a clear agreement between the client and the service provider, outlining the scope of work, start and end dates, and other relevant details.

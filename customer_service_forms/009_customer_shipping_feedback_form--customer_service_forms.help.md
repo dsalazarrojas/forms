@@ -1,8 +1,3 @@
-<thinking>
-The provided form is a "customer_shipping_feedback_form" designed to collect customer feedback on their shipping experience. This form likely exists to help companies improve their shipping services by gathering customers' opinions on various aspects of their experience, including product reception, shipping speed, cost, and overall satisfaction. To ensure that customers' feedback is actionable and relevant, the form is designed to collect feedback on specific topics, such as shipping experience, order status, shipping speed, and shipping cost satisfaction, which can help companies pinpoint areas for improvement. The form's layout is divided into multiple sections, each focusing on a specific aspect of the customer's shipping experience. However, without further information about the specific business context, it is possible that the form's purpose and sections might be misaligned or overlap. It is essential to review and refine the form according to the business needs and goals.
-
-</thinking>
-
 # customer_shipping_feedback_form - Help Guide
 
 ## Purpose

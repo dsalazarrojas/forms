@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from applicants seeking credit for home modernization projects. The form is used to gather detailed information about the applicant, their project, and the loan details. This form is intended for use by homeowners who are looking to finance their home modernization projects. It is not intended for other purposes, such as commercial projects or other types of loans.
-
-Before filling out this form, please ensure that you have all necessary information and documents ready, such as your contact details, project location, and project budget. This form will take approximately 5-7 minutes to complete. You can save your progress and come back later to resume where you left off.
-
-This form is designed to be completed by one person at a time. Please do not attempt to complete the form on behalf of someone else without their explicit permission.
-
-Please carefully review each field to ensure you provide accurate and complete information.
-
-</thinking>
-
 # Home Modernization Credit Application Form - Help Guide
 ## Purpose
 This form is designed to help you apply for credit for your home modernization project. It collects information about you, your project, and the loan details you require.

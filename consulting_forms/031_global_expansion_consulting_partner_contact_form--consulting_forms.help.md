@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Global Expansion Consulting Partner Contact Form - Help Guide
 
 ### Purpose

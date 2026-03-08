@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form, the Policyholder Story Sharing Consent Form, is to gather information from policyholders, allowing them to share their story and specify their consent for various aspects related to the sharing and collection of their data. This form is likely used in an insurance context, perhaps for research or promotional purposes. It is essential to ensure that the policyholders understand and agree to the terms, which can affect their personal data and how it will be used.
-
-Before proceeding, please confirm that you are not duplicating the data collection for the same purpose, as this form is meant for a specific set of policyholders. Ensure that all required fields are filled accurately and completely to avoid any issues with form submission.
-
-</thinking>
-
 # Policyholder Story Sharing Consent Form - Help Guide
 ## Purpose
 The Policyholder Story Sharing Consent Form is designed to gather information from policyholders, including their story, consent for various aspects of data sharing, and personal details such as name, email, and phone number. This form is likely used in an insurance context for research or promotional purposes.

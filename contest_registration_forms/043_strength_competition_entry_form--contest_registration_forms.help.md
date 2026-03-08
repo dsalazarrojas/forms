@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Strength Competition Entry Form - Help Guide
 ## Purpose
 This form is designed to collect information for a strength competition. It is used to register participants in a strength competition, gathering personal details, competition preferences, and submission information. 

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Maintenance Request Contact Form, I'll first analyze the form schema to understand its purpose and fields. The form is designed to collect information from users requesting maintenance services, including name, email, phone number, a brief message, category, service type, and service details.
-
-The purpose of this form is to gather essential information to facilitate maintenance requests, ensuring that our team can effectively respond to and address the needs of our customers. Before proceeding, please review the form carefully to ensure that you fill it out correctly. If you have any existing maintenance requests or similar issues, please do not submit duplicate requests.
-
-</thinking>
-
 # Maintenance Request Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from users requesting maintenance services. By providing your details, you'll help us understand your needs better and ensure that our team can assist you efficiently.

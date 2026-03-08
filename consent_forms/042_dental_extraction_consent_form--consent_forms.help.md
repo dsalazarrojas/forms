@@ -1,18 +1,3 @@
-<thinking>
-Form purpose: This is a consent form for dental extraction procedures, used by patients and dentists to document the patient's understanding and agreement to the procedure.
-
-This form may not be applicable for all dental extraction scenarios, so it's essential to evaluate each case carefully. If in doubt, consider consulting with medical professionals or the applicable local authorities for guidance.
-
-To ensure the accuracy of the form's purpose and applicability, we must verify the following information:
-
-* Category: dental_extraction_consent_form
-* Industry: Health and Wellness
-* Form type: Consent Form
-
-Before proceeding, please ensure that all relevant sections are reviewed, and any discrepancies are corrected. Misaligned information can lead to misinterpretation and miscommunication.
-
-</thinking>
-
 # dental_extraction_consent_form - Help Guide
 ## Purpose
 The dental extraction consent form is a crucial document that ensures the patient is informed and agrees to the dental extraction procedure. This form helps to establish a clear understanding between the patient and the dentist, outlining the risks, complications, and responsibilities involved.

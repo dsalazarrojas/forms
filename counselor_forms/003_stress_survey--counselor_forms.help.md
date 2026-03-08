@@ -1,12 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the "Stress Survey" form. This form is designed to help users understand their stress triggers, level, frequency, duration, impact, management techniques, and other stressors. To ensure the user completes the form correctly and accurately, we need to explain the form's purpose and provide a clear understanding of each field.
-
-The form's purpose is to gather information on the user's stress experiences, including what triggers their stress, their current stress level, how often they experience stress, how long they've been feeling stressed, how much it impacts their daily life, what helps them manage stress, and any other stressors not listed. This information will help the users better understand their stress levels and identify areas for improvement.
-
-Before starting the form, we need to check if the user has filled out this survey before, as it's not meant to be repeated. Please ensure that you haven't completed this survey recently to avoid duplication of effort.
-
-</thinking>
-
 # Stress Survey - Help Guide
 
 ## Purpose

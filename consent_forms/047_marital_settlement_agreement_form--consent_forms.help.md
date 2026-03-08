@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Marital Settlement Agreement Form - Help Guide
+> # Marital Settlement Agreement Form - Help Guide
 
 ## Purpose
 This form is used to document the terms and conditions of a marital settlement agreement between two parties involved in a divorce or separation. It helps to establish a formal understanding of the assets, property, and support arrangements to be considered during the separation process.

@@ -1,7 +1,3 @@
-<thinking>
-We'll design a user-facing help guide for the "Blue Sky Contact Form" that explains its purpose, how to complete it, and what each field means. This guide will be concrete, concise, and practical, making it easy for end-users to understand how to use the form effectively.
-</thinking>
-
 # Blue Sky Contact Form - Help Guide
 ## Purpose
 The "Blue Sky Contact Form" is designed to allow you to contact us with any questions, feedback, or requests. Please fill out this form to send a message to our team.

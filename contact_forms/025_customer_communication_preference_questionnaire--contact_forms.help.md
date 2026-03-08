@@ -1,11 +1,3 @@
-<thinking>
-This form, "customer_communication_preference_questionnaire", aims to collect information from customers regarding their preferred communication methods, frequency, and language of contact. The purpose of this form is to help businesses tailor their communication strategy to better suit the needs and preferences of their customers. This form is likely used by companies or organizations that want to establish a strong customer relationship through regular communication, such as regular newsletters, promotional offers, or transactional updates. By understanding how customers prefer to be contacted (e.g., by phone, email, or mail), when they prefer to be contacted (e.g., daily, weekly, monthly), and in which language, businesses can reduce unnecessary contacts and increase the effectiveness of their communication efforts.
-
-This form is likely not intended for internal use within an organization, but rather for external use with customers. The fields are designed to be flexible and allow for various combinations of preferences. This form does not collect sensitive or personal identifiable information, making it safe for public use. It is likely created by an AI using a public survey topic, without copying or extracting content from any proprietary platform.
-
-To avoid duplication, this form is released under a Creative Commons BY 4.0 license, allowing users to share, modify, and even sell it, as long as they give credit.
-</thinking>
-
 # customer_communication_preference_questionnaire - Help Guide
 ## Purpose
 This form collects information about customers' preferred communication methods, frequency, and language to help businesses tailor their communication strategy and build a stronger relationship with their customers.

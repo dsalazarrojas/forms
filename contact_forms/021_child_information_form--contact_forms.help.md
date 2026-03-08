@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from parents or guardians about their child, including identifying and contact details, medical information, and permissions for activities. This form is typically used by educational institutions, daycare centers, or other organizations that provide services for children.
-
-Before filling out this form, please note that it is essential to ensure that you, as the parent or guardian, are the primary point of contact for your child. This information will help the organization provide better care and services for your child.
-
-Also, please be sure to review each section carefully to ensure that all required fields are completed, as missing information may affect the child's ability to participate in certain activities.
-
-</thinking>
-
 # Child Information Form - Help Guide
 ## Purpose
 The Child Information Form is designed to collect essential details about your child to ensure their safety and well-being while in our care. Please take a few minutes to complete this form accurately and thoroughly.

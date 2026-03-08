@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback and satisfaction data about a specific retail product. The form is composed of multiple pages, each with its own set of questions and fields. The purpose of the form is to help the retailer understand how customers feel about the product they purchased, and gather information about their experience.
-
-To ensure that the form is not duplicated, it's essential to check that the form is not already being filled out by the same customer. If it is, the form will not be submitted, and the customer will be directed to review their previous submission.
-
-To complete this form, customers will be guided through several pages, each with a specific set of questions. The form is designed to be clear and concise, with each field labeled accurately and logically.
-
-Before starting, please ensure that all required fields are filled out. The fields with a asterisk \* are required and will be marked as such.
-
-Please note that the form is designed to be completed in multiple pages. Each page has its own set of questions, and the customer will be navigated through each page until completion.
-
-</thinking>
-
 # Retail Product Satisfaction Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect customer feedback and satisfaction data about a specific retail product.

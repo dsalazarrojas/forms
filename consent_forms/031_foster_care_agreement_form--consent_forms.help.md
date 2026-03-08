@@ -1,9 +1,3 @@
-<thinking>
-
-The Foster Care Agreement Form is a crucial document that helps establish the terms and conditions for the care of a child. This form is used to gather information about the child's birth details, contact information, agency details, and dates of care. It is essential to ensure that the caregivers understand their responsibilities and the rights of the child. Before completing this form, please ensure that you have reviewed and understood the provided instructions and guidelines for foster care.
-
-</thinking>
-
 # Foster Care Agreement Form - Help Guide
 ## Purpose
 The Foster Care Agreement Form is used to establish the terms and conditions for the care of a child. It collects information about the child's birth details, contact information, agency details, and dates of care.

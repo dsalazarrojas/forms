@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users register as VIPs (Very Important People) within The Christenberry Group. It will help us get to know you better and provide a more personalized experience. Please ensure you are only completing this form once, as duplicate submissions will not be accepted.
-</thinking>
-
 # The Christenberry Group VIP Profile - Help Guide
 ## Purpose
 This form is used to register as a VIP member of The Christenberry Group. It collects various information about you, including your contact details, job-related information, and personal data. Completing this form will help us tailor our communication and services to meet your specific needs.

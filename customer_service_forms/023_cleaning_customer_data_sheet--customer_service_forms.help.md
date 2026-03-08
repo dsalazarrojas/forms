@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users completing the "Cleaning Customer Data Sheet" form. Before diving into the instructions, it's worth noting that this form is designed to collect information necessary for providing quality cleaning services to customers. The form is divided into several sections, each addressing a specific aspect of customer information.
-</thinking>
-
 # Cleaning Customer Data Sheet - Help Guide
 ## Purpose
 This form is designed to collect essential information about the customer, including personal details, service preferences, and billing information. The data collected will help us provide the best possible service to the customer.

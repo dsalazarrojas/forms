@@ -1,11 +1,3 @@
-<thinking>
-  This form is used to collect information from patients about their exposure to COVID-19 and their personal medical history.
-  The form is designed to gather information about the patient's symptoms, travel history, and medical practice.
-  This form will not store any information that could be used to uniquely identify individuals.
-  Please fill out this form completely and accurately.
-  If you have any questions or concerns, please reach out to our support team.
-</thinking>
-
 # Covid Questionnaire For Patients - Help Guide
 ## Purpose
 This form is used to collect information from patients about their exposure to COVID-19 and their personal medical history.

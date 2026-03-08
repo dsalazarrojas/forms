@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This form is a survey for clients or potential clients to provide information about their consultation needs and preferences. The form asks for identifying information (name, email, phone number), and organizational details (organization name if applicable). It also asks about the primary topic of interest, the primary challenge or problem, and the expected consultation outcome. The form requires a preferred meeting format, date, and time, as well as an estimated project budget and urgency. Finally, it asks for additional information and how the user found the consultancy. This form is likely to be filled out by clients or potential clients to request a consultation with the consultancy team. The form will help the consultancy team to better understand the client's needs and prepare for the consultation accordingly.
-
-</thinking>
-
 # Consultant Survey - Help Guide
 ## Purpose
 The Consultant Survey is designed to gather essential information from clients or potential clients about their consultation needs and preferences. This form helps the consultancy team to better understand your requirements and prepare for a productive consultation.

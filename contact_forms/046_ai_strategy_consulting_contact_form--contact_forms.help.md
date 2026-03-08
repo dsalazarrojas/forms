@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is filled out for the right purpose and doesn't duplicate work that's already being done internally.
-</thinking>
-
 # AI Strategy Consulting Contact Form - Help Guide
 
 ## Purpose

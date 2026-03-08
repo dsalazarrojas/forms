@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used for collecting intake information from patients who are interested in seeking massage therapy services. The form should be completed by a patient or their representative, providing detailed information about the patient's medical history, health status, and contact information. The form will be reviewed and used by a medical professional to ensure patient safety and provide necessary care. 
-
-Please ensure this form is being used for its intended purpose and not for other purposes, such as marketing or data collection. Duplicate submissions should be avoided to minimize unnecessary administrative work and potential risks.
-
-</thinking>
-
 # coronavirus_intake_form_for_massage_therapy - Help Guide
 ## Purpose
 The coronavirus_intake_form_for_massage_therapy is a medical intake form designed to collect necessary information from patients who are interested in seeking massage therapy services. This form helps the medical professional reviewing it to assess the patient's medical history, current health status, and other relevant factors to provide safe and effective care.

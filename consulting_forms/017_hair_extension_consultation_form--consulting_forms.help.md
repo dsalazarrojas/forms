@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their hair care needs, habits, and preferences. It is intended to be used by consultants or hair professionals to understand the customer's requirements and provide personalized recommendations. 
-</thinking>
-
 # Hair Extension Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their hair care needs, habits, and preferences.

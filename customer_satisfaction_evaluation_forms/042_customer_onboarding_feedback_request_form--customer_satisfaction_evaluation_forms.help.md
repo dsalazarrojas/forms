@@ -1,5 +1,3 @@
-<thinking>Before creating the form, we need to ensure that the form's purpose and fields are relevant and non-duplicative. The form is for customer onboarding feedback, which means it should collect information about the customer's experience during the onboarding process. The fields should cover essential aspects of the customer onboarding process, such as customer onboarding feedback, name, email, phone number, onboarding date and time, rating, and comments. We should avoid duplicating effort by not asking for redundant information. For example, if we have both "phone" and "onboarding_date", we should not ask for both, as they are likely to be related and one is sufficient.</thinking>
-
 # Customer Onboarding Feedback Request Form - Help Guide
 ## Purpose
 The "Customer Onboarding Feedback Request Form" is a tool used to gather feedback from customers about their experience during the onboarding process. It helps us to identify areas of improvement and refine our onboarding process to better serve our customers.

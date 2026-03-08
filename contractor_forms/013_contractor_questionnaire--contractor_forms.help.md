@@ -1,10 +1,3 @@
-<thinking>
-This guide is meant to help users understand the purpose and usage of the "Contractor Questionnaire" form. The form is designed to collect essential information from contractors about their business details, credentials, and availability for new projects. This form will help us assess their suitability for future collaborations and projects.
-
-Before filling out this form, please ensure that all required fields are filled out accurately and completely. This form has multiple sections, each focusing on different aspects of a contractor's profile. Please go through each section carefully and fill out the relevant fields as instructed.
-
-</thinking>
-
 # Contractor Questionnaire - Help Guide
 ## Purpose
 The "Contractor Questionnaire" is a comprehensive form designed to help us assess a contractor's suitability for future collaborations and projects. It collects essential information about their business details, credentials, and availability.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Experience Waiver Form - Help Guide
 
 ## Purpose

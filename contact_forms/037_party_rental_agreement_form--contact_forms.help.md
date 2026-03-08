@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a comprehensive party rental agreement form that captures various aspects of a party event. It seems to be a form used for booking a party rental space, including details about the event, payment terms, and contact information for the host. Upon analyzing the fields, it's possible that this form is used for a business or commercial entity that offers party rental spaces, and the form helps to gather information for both the host and the rental service provider.
-
-The form is divided into several sections, including Renter Details, Contact Details, and Rental Details, which cover the basics of the event such as name, contact information, and payment terms. The Equipment and Services section seems to be related to the amenities or services offered by the rental service, such as party spaces, equipment, and catering. The Party Details section captures specific information about the party, such as party size, date and time, and type. The form also includes sections for payment method and total cost, which suggests that the form is used to finalize a payment agreement.
-
-Before proceeding, please review the fields for accuracy and relevance to the intended purpose. Are all required fields correct? Are there any additional fields that need to be included or removed?
-</thinking>
-
 # Party Rental Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information from customers planning a party event at a rental space. It helps the rental service provider to understand the event details, payment terms, and contact information to facilitate the booking process.

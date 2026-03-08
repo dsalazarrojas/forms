@@ -1,10 +1,3 @@
-<thinking>...
-This form is used to gather information from group participants about their level of understanding and agreement to keep certain information confidential within their group. The form aims to ensure that all group members have a clear understanding of what information is confidential and how to maintain that confidentiality. This helps to establish a foundation for trust and open communication within the group. 
-
-Please note that this form is not intended to be used for formal, legally binding agreements, but rather as a tool to educate and remind group participants of their individual responsibilities regarding confidentiality within the group. This form is meant to be used for internal group management and is not intended for use in external, public, or legal contexts. Before filling out this form, please ensure that all participants are aware of and understand the purpose and scope of this form, and that it is used in conjunction with other relevant group management practices.
-
-</thinking>
-
 # Group Confidentiality Form - Help Guide
 ## Purpose
 

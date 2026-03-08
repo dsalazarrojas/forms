@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the Pricing Inquiry Form in the context of "contact_forms". This form appears to be designed to gather contact information and specific details about a pricing inquiry from users. The primary purpose of this form is to collect relevant data about an inquiry, including contact information, inquiry details, and schedule information. To ensure a smooth user experience, we'll focus on making this guide clear and concise, explaining each field in a way that makes it easy for users to understand its purpose and complete the form accurately.
-</thinking>
-
 # Pricing Inquiry Form - Help Guide
 ## Purpose
 The Pricing Inquiry Form is a tool for users to submit their pricing-related inquiries, providing relevant details about their inquiry and schedule information. This form is designed to collect all necessary information to process the inquiry efficiently.

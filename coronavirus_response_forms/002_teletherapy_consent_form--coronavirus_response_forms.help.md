@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # teletherapy_consent_form - Help Guide
 ## Purpose
 This form is designed to collect information from patients for remote therapy sessions, obtaining their consent and contact details for emergency situations. It also includes a section for the patient to sign and date their consent, as well as a space for the therapist to sign and provide their contact information.

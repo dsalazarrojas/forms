@@ -1,7 +1,3 @@
-<thinking>
-This form is used to cancel a digital wallet subscription. It appears that the form is used for customers to provide information and reasons for cancelling their subscription, as well as to confirm their cancellation and add any additional notes. This form is likely used internally to track customer cancellations and to ensure that the customer has provided their correct information and agreement to cancel. I will create a user-facing help guide for this form.
-</thinking>
-
 # Digital Wallet Subscription Cancellation Form - Help Guide
 ## Purpose
 This form is used to cancel a digital wallet subscription. If you are a customer and want to cancel your subscription, please follow the instructions below.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their participation in a digital accessibility campaign feature. The form is intended to collect demographic information, feature preferences, and consent for the campaign. The form is divided into several sections, each with its own unique fields. Before filling out this form, please ensure that you are eligible to participate and that you are not duplicating your submission.
-
-</thinking>
-
 # digital_accessibility_campaign_feature_consent_form - Help Guide
 ## Purpose
 This form is used to collect information for the digital accessibility campaign feature. Please fill out this form to participate in the campaign.

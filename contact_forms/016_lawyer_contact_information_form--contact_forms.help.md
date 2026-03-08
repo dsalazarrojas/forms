@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect contact information from both clients and lawyers for internal communication and record-keeping purposes. 
-It is essential to fill out the form accurately and completely, ensuring that all required fields are filled in. 
-This form is not meant to be filled out multiple times with the same information, as it is used to keep track of client and lawyer information over time.
-</thinking>
-
 # Lawyer Contact Information Form - Help Guide
 ## Purpose
 The Lawyer Contact Information Form is used to collect contact information from both clients and lawyers for internal communication and record-keeping purposes.

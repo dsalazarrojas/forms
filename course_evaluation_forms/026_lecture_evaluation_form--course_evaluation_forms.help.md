@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are completing the Lecture Evaluation Form. Please note that this form is designed to gather feedback on the effectiveness of a lecture. The form is not intended to be a substitute for formal evaluation or assessment of the lecture. It is recommended to complete this form after attending a lecture, while the details are still fresh in your mind. If you have already completed this form for the same lecture, please do not submit the form again.
-</thinking>
-
 # lecture_evaluation_form - Help Guide
 ## Purpose
 The Lecture Evaluation Form is a tool designed to gather feedback on the effectiveness of a lecture. It helps identify areas of improvement and provides insights for future lectures.

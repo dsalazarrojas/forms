@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from animal exhibitors for an upcoming exhibition or show. The form aims to gather relevant details about the animal, its owner, and their experience with the animal. The purpose of this form is to ensure that all necessary information is collected for a successful and smooth exhibition experience. This form should not be completed if you are not the owner of the animal or if you are already registered as an exhibitor. Please ensure that all fields are accurate and up-to-date before submitting the form. If you have any issues or concerns, contact [support email or phone number].</thinking>
-
 # Animal Exhibition Entry Form - Help Guide
 ## Purpose
 

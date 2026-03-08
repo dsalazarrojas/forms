@@ -1,20 +1,3 @@
-<thinking>
-This is an internal reasoning block to explain the form purpose and check for relevance and non-duplication:
-The Large Contact Form Template is a multi-page form used for collecting customer or user contact information, such as name, email, phone number, and message. This form is likely used for business or customer service purposes, allowing the user to submit their contact details and any additional information they deem relevant.
-Upon reviewing the form YAML, it appears to be a straightforward contact form with fields for:
-* First Name
-* Last Name
-* Email
-* Phone
-* Message
-* Submit options (multiple possible choices)
-* Date
-* Time
-* Address
-* Company
-The form seems to be designed for general contact purposes, without any specific industry or niche targeting.
-</thinking>
-
 # Large Contact Form Template - Help Guide
 ## Purpose
 The Large Contact Form Template is a contact form designed to collect customer or user contact information and allow them to submit a message or inquiry.

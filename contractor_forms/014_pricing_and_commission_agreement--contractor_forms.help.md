@@ -1,6 +1,3 @@
-<thinking>
-The purpose of the Pricing and Commission Agreement form is to document the terms and conditions related to pricing and commission structures for a contractor, ensuring clarity and transparency between the parties involved. This form will likely be used when working with third-party contractors, freelancers, or independent contractors, where understanding and agreeing on pricing and commission structures is essential for the project's success. It is crucial to ensure that all relevant parties understand their roles and responsibilities regarding pricing and commissions to avoid confusion and disputes. This form should not be used for internal purposes but rather for external collaborations where transparency and clear communication are vital.</thinking>
-
 # Pricing and Commission Agreement - Help Guide
 
 ## Purpose

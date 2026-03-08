@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This is a form used for podcast guests to communicate with the team, providing information about their submissions, such as their name, contact information, and details about their content. The form helps the team to efficiently and effectively manage podcast submissions, ensuring that guests receive the right support and follow-up information. To avoid duplication of effort, the team checks for existing submissions before processing new ones.
-
-</thinking>
-
 # Podcast Guest Communication Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a way for podcast guests to communicate with the team about their submissions, including their name, contact information, and submission details.

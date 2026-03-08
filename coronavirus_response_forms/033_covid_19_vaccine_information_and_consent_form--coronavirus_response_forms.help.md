@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for patients to provide informed consent for vaccination against COVID-19. It is intended to ensure that patients understand the vaccine's benefits, risks, and alternatives, and that they have been adequately screened for medical conditions and allergies before receiving the vaccine. The form includes sections for patients to acknowledge their understanding of these topics and to disclose any medical history, allergies, or previous vaccinations. The form also includes sections for patients to confirm that they have been informed of their rights and that they have the option to refuse the vaccination without penalty. This guide will help patients complete the form accurately and ensure they understand their rights and responsibilities.
-
-</thinking>
-
 # COVID 19 Vaccine Information And Consent Form - Help Guide
 ## Purpose
 This form is designed to ensure that patients understand the benefits and risks of the COVID-19 vaccine, and that they have been adequately informed and screened before receiving the vaccine.

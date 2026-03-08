@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_satisfaction_survey_template - Help Guide
 ## Purpose
 The event satisfaction survey is designed to gather feedback from attendees on their recent event experience. This feedback will help us improve future events and provide better experiences for all attendees.

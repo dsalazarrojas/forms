@@ -1,7 +1,3 @@
-<thinking>
-The Autism Survey form is designed to gather information from individuals about their personal experiences, relationships, and preferences related to autism. The form is intended to help understand the diversity of experiences and needs within the autism community, including how individuals with autism interact with their environment, social situations, and communication styles. The survey questions cover various aspects of life, such as relationships, daily routines, and sensory sensitivities. It is crucial to ensure that the responses to this form are accurate and honest, as they will help shape the design and development of support services and community resources for individuals with autism. Please fill out the form only once for each individual, and answer questions honestly to the best of your ability.
-</thinking>
-
 # Autism Survey - Help Guide
 ## Purpose
 The Autism Survey is a collection of questions designed to understand the experiences and needs of individuals with autism, as well as their relationships with people with autism. The survey aims to gather information about your daily life, relationships, and preferences to improve support services and resources for individuals with autism.

@@ -1,7 +1,3 @@
-<thinking>
-The Forwarding Address Form is used to collect contact information from users. This form is designed to capture details about the user's forwarding address, which will be used for communication or delivery purposes. Before proceeding, ensure that you are not already using a similar form for the same purpose. If you are unsure, please consult with your supervisor or the system administrator.
-</thinking>
-
 # Forwarding Address Form - Help Guide
 ## Purpose
 The Forwarding Address Form is used to collect contact information from users, specifically for communication or delivery purposes.

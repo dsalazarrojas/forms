@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Vastu Consultation Request" form is to collect information from users who have a consultation request for a property-related consultation. The form is designed to gather contact information, preferred time and date, and details of the consultation. The form is meant to be filled out by users who are seeking consultation services, likely property owners or stakeholders.
-The form is not primarily intended for internal purposes, but rather for the external users who will be interacting with the system.
-</thinking>
-
 # Vastu Consultation Request - Help Guide
 ## Purpose
 This form collects information for a property-related consultation request from users seeking the services of a professional, likely a property owner or stakeholder.

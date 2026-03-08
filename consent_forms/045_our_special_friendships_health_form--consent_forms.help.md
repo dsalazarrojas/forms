@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Our Special Friendships Health Form". This form is designed to collect various health-related information from users. Upon reviewing the form's structure, it appears that the form is intended to gather data on medical conditions, allergies, special needs, doctor-patient relationships, medical insurance, and medication. The form does not seem to be designed for emergency situations, as it does not have any immediate action triggers or deadlines.
-</thinking>
-
 # Our Special Friendships Health Form - Help Guide
 ## Purpose
 The "Our Special Friendships Health Form" is a comprehensive health-related form that helps our organization better understand your health conditions, relationships with healthcare providers, and medical histories. This form will help us provide you with tailored support and services.

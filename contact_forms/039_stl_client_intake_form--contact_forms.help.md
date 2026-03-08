@@ -1,5 +1,3 @@
-<thinking>...The STL Client Intake Form is used to gather information about clients and their medical history, allergies, and other relevant details. This form is designed to be completed by the client or their representative, and the information collected will help healthcare professionals better understand the client's needs and provide more effective care. It is essential to fill out the form as accurately and completely as possible, ensuring that all required fields are completed and any additional relevant information is provided. The form should not be completed multiple times for the same client, as this may lead to inconsistent or outdated information. Ensure you have the necessary permissions and approvals before completing this form... </thinking>
-
 # STL Client Intake Form - Help Guide
 ## Purpose
 This form is used to gather comprehensive information about a client's medical history, allergies, and other relevant details. It helps healthcare professionals provide personalized and effective care.

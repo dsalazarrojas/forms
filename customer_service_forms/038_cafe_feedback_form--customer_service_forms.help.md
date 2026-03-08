@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect feedback from customers about their experiences at the cafe. The purpose of this form is to gather information about their satisfaction with the service and products offered by the cafe. The data collected will help the management to identify areas of improvement and make necessary changes to enhance customer experience. It is not intended to be filled out by non-customer or non-cafe staff members to avoid duplication of effort and misaligned feedback.
-
-</thinking>
 # Cafe Feedback Form - Help Guide
 ## Purpose
 The Cafe Feedback Form is a tool used to collect customer feedback on their experiences at our cafe. The data collected helps us understand what we do well and what we can improve.

@@ -1,5 +1,3 @@
-<thinking>As a remote fitness coaching consent form, this form is intended to capture critical information about the client's fitness goals, any potential health risks or concerns, their consent to proceed with the coaching process, and their signature (if required). This form aims to ensure that the client has a clear understanding of the coaching process and has given their explicit consent to participate. It also serves as a safeguard against any potential legal or ethical issues that may arise during the coaching process. It is recommended that this form should not be filled out by anyone who has already participated in a similar fitness coaching program or has previously completed this form in our system.</thinking>
-
 # remote_fitness_coaching_consent_form - Help Guide
 ## Purpose
 This form is a critical part of the remote fitness coaching process, ensuring that clients understand and agree to the terms and conditions of the coaching program.

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from students for course enrollment. It appears to be used to gather data about students, courses, and institutions. This form might be used for administrative purposes such as tracking enrollments, verifying student information, or maintaining records. 
-
-The fields in this form seem to be designed to collect basic personal information about students, such as their name, email, and phone number. The form also asks for the institution ID, which suggests that it may be used to identify the student's institution or academic organization. The declaration type field is a dropdown menu with three options, which might be used to categorize or filter enrollments in different ways. Lastly, the form includes fields for notes or comments, which could be used by students or institutions to provide additional context or information about the enrollment.
-
-Before proceeding, ensure that this form is being used for its intended purpose and not for other non-relevant reasons. Also, check if the same form is not being duplicated or used for multiple, non-related purposes.
-
-</thinking>
-
 # Course Enrollment Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information from students for course enrollment purposes.

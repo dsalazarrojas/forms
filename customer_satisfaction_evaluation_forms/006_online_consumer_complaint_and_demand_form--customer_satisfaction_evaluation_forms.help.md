@@ -1,7 +1,3 @@
-<thinking>
-We've created this form to collect customer feedback, complaints, and demands in a structured manner. This form will help us identify areas of improvement and ensure that we're providing the best possible service to our customers. Before proceeding, please ensure that you've reviewed our previous interactions and that this form isn't a duplicate of a previous submission. If you're unsure, feel free to contact our support team for clarification.
-</thinking>
-
 # online-consumer-complaint-and-demand-form - Help Guide
 ## Purpose
 This form is designed to collect feedback, complaints, and demands from customers, allowing us to identify areas of improvement and provide better service.

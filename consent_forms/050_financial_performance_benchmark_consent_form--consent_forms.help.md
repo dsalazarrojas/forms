@@ -1,13 +1,3 @@
-<thinking>
-
-The Financial Performance Benchmark Consent Form is designed to collect user information and consent for participating in benchmarking projects. The form is meant for individuals to provide demographic data and agree to participate in benchmarking projects with various organizations. This form is likely to be used in financial performance benchmarking and analysis for companies, associations, or other entities.
-
-The purpose of this form is to ensure that participants' data is accurately recorded and that they are aware of and agree to participate in benchmarking projects. The information collected will be used to create a benchmark for evaluating financial performance and to identify areas of improvement. By filling out this form, users will be contributing to the development of more accurate and reliable benchmarking data.
-
-To avoid duplication, this form is likely to be filled out only once by each participant, and the information will be stored securely for future reference.
-
-</thinking>
-
 # Financial Performance Benchmark Consent Form - Help Guide
 ## Purpose
 The Financial Performance Benchmark Consent Form is designed to collect user information and consent for participating in benchmarking projects. This form is intended for individuals to provide demographic data and agree to participate in benchmarking projects with various organizations.

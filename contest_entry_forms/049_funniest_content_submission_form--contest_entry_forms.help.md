@@ -1,11 +1,3 @@
-<thinking>
-
-The "Funniest Content Submission Form" is a tool for users to submit their funniest content, such as jokes, stories, or media, for potential publication on a public platform. This form is used to collect user-submitted content and gauge its suitability for public viewing. The form is intended for users who want to share their humorous content with a broader audience.
-
-Before proceeding, please ensure that the content submitted is not a duplicate and meets the submission guidelines.
-
-</thinking>
-
 # Funniest Content Submission Form - Help Guide
 ## Purpose
 The "Funniest Content Submission Form" is a tool for users to submit their funniest content, such as jokes, stories, or media, for potential publication on a public platform.

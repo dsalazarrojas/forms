@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used to check on the safety and well-being of patients, particularly in a medical or healthcare setting. It's possible that it's designed to be a quick and easy way for healthcare providers to assess a patient's current condition, identify potential safety concerns, and take necessary steps to ensure their safety. This form may be part of a larger process for monitoring patient safety, which could include other forms or checklists.
-To confirm, it's also possible that this form is used to:
-- Be filled out by a healthcare provider
-- Be used to identify potential safety concerns and take actions to address them
-- Be used as part of a larger patient safety protocol
-</thinking>
-
 # Patient Safety Check Form - Help Guide
 ## Purpose
 The Patient Safety Check Form is used to quickly assess a patient's safety and identify potential concerns. This form is a tool to help healthcare providers ensure the safety and well-being of their patients.

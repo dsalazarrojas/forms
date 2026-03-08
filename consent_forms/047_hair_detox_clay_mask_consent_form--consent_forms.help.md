@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a client's hair detox clay mask treatment, including their personal details, health information, and treatment specifics. This form is likely used in a medical or aesthetic setting to gather consent and other relevant data from clients before administering the treatment. 
-
-Before filling out this form, please ensure that you have the necessary permission to collect and use the client's data, and that the form is being used in accordance with relevant laws and regulations.
-
-Please note that some fields are not required, but it's essential to fill out all mandatory fields (indicated as "required") to ensure accurate and complete data collection.
-
-</thinking>
-
 # Hair Detox Clay Mask Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients about their hair detox clay mask treatment.

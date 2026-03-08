@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Phase 2 Vaccination Registration Form - Help Guide
 
 ## Purpose

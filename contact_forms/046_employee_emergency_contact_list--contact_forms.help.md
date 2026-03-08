@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Emergency Contact List - Help Guide
 ## Purpose
 The purpose of this form is to collect and maintain a list of emergency contact information for employees in case of an emergency. This form requires information such as the employee's name, phone number, email, and relation to the employee, as well as the type of contact and contact number, and extension.

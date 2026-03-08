@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Note:**
-
-This form is for withdrawal of consent. The purpose of this form is to document the reason for withdrawal of consent and obtain the signature of the individual withdrawing consent. This form is typically used in situations where an individual has previously granted consent, and now they wish to revoke or withdraw that consent. The form is completed by the individual withdrawing consent, which includes providing the reason for withdrawal, and obtaining witness signatures and dates for verification. This form helps maintain a record of the withdrawal of consent, ensuring that the individual's wishes are documented and communicated clearly. It's essential to fill out this form carefully and accurately to ensure that the withdrawal of consent is properly recorded.
-
-</thinking>
 # Withdrawal Of Consent Form - Help Guide
 ## Purpose
 The Withdrawal of Consent Form is used to document the withdrawal of consent from an individual. This form is completed by the individual who has granted consent and wishes to revoke or withdraw it. It ensures that the reason for withdrawal and the signature of the individual are recorded accurately.

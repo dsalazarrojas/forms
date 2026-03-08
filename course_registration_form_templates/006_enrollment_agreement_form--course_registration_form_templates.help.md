@@ -1,11 +1,3 @@
-<thinking>
-
-The Enrollment Agreement Form is designed to be completed by parents or guardians of a student to provide information about their child's enrollment in an educational institution. The form is used to collect relevant details such as school address, email, and phone number, as well as the student's and parent's names, signatures, and agreements to the institution's policies and rules. This form is typically filled out by parents/guardians to ensure the student is properly registered for the academic term and to provide contact information for future communication.
-
-Please note that the exact fields required and their purpose might vary depending on the institution, so please ensure this form is applicable for your use case.
-
-</thinking>
-
 # Enrollment Agreement Form - Help Guide
 ## Purpose
 The Enrollment Agreement Form is used to collect information from parents/guardians to ensure proper student registration and to facilitate communication between the institution and the family.

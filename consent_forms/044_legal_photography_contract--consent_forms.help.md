@@ -1,7 +1,3 @@
-<thinking>
-This form is likely for photographers to create or modify contracts with their clients, capturing essential details such as session details, payment information, and terms of cancellation. The purpose is to provide a structured way to gather necessary information from clients before or after a photography session. This form likely exists to ensure clear communication and agreement on the photography contract with clients. It's possible that similar forms may already exist in the system, but this one is being created or modified, so it's being documented for reference.
-</thinking>
-
 # Legal Photography Contract - Help Guide
 ## Purpose
 The Legal Photography Contract form is used to create or modify contracts with photography clients. It captures essential details such as session time, payment methods, and terms of cancellation. The form helps ensure clear communication and agreement with clients.

@@ -1,11 +1,3 @@
-<thinking> 
-This form is designed to screen employees for potential exposure to COVID-19. It is a tool for employers to identify employees who may have been exposed to the virus and take necessary precautions to prevent further transmission. The form is divided into several sections to gather information about the employee's travel history, symptoms, and potential exposure risks. 
-
-To ensure accuracy, please complete this form truthfully, and if you have any doubts or concerns, you may refer to the provided explanations for each field. 
-
-This form is not a substitute for medical advice or diagnosis. If you suspect you or someone you have been in contact with may have COVID-19, contact your healthcare provider or local health authority immediately. 
-</thinking>
-
 # Workplace Entry Screening Form - Help Guide
 ## Purpose
 This form is designed to screen employees for potential exposure to COVID-19 and gather information to help prevent the spread of the virus in the workplace.

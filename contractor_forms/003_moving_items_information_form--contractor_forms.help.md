@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about items being moved, which may include items being transported, relocated, or transferred between locations. This form is likely used in a business or organizational context where tracking and documenting item information is crucial for inventory management, shipping, or logistics. The form should not be used for non-relevant purposes or to collect duplicate information.
-</thinking>
-
 # Moving Items Information Form - Help Guide
 ## Purpose
 The Moving Items Information Form is designed to collect detailed information about items being moved, including their name, weight, size, description, value, and other relevant details.

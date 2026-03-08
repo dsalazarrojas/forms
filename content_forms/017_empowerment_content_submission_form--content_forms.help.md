@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to collect empowerment content submissions from users, which could be stories, articles, or media content. The form is not required to be completed in full, but it's designed to provide a structured way to collect relevant information about the content, including its type, length, and media URL. To avoid duplication, the form includes a check to determine if the content has already been submitted. This internal check will ensure that only new content is collected, preventing unnecessary submissions.
-
-Before proceeding with this help guide, ensure that you have reviewed the form's instructions and have a clear understanding of its purpose and content.
-
-</thinking>
-
 # Empowerment Content Submission Form - Help Guide
 ## Purpose
 

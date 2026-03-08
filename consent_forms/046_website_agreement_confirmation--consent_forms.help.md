@@ -1,7 +1,3 @@
-<thinking>
-This form is used to confirm the website agreement between the user and the website administrator. It ensures that users understand and agree to the terms and conditions of the website. The form is not meant to be completed by website administrators, but rather by users who interact with the website.
-</thinking>
-
 # Website Agreement Confirmation - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to obtain medical clearance for scuba diving activities. 
-The main purpose of this form is to ensure that the individual is healthy and fit for scuba diving. 
-The form will ask for information about the individual's medical history, any medical conditions they may have, and their current health status. 
-The information collected will be used to assess the risks associated with scuba diving and determine whether the individual is safe to dive. 
-The form should only be completed once, and the information provided is valid until the individual's medical clearance expires. 
-</thinking>
-
 # Scuba Diving Medical Clearance Form - Help Guide
 ## Purpose
 This form is designed to ensure that the individual is healthy and fit for scuba diving activities.

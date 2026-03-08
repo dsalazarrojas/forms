@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to obtain facial consent for COVID-19 treatments, likely for aesthetic or spa services. The form likely exists to ensure that clients understand the treatments they are receiving and provide an informed consent to proceed. It may be used internally to track client information, treatment history, and communication with clients. It's possible that this form has been created to reduce errors and ensure that clients' rights are protected during treatments. 
-
-The form likely has a standard set of questions regarding client information, treatment details, and consent, including signature fields for both the client and the service provider. The purpose of this form is likely to maintain a record of client consent, treatment history, and service provider information.
-
-It is essential to ensure that this form is filled out correctly and accurately to avoid any potential issues or complications.
-
-</thinking>
-
 # Facial Consent For COVID 19 - Help Guide
 ## Purpose
 The Facial Consent For COVID 19 form is used to obtain informed consent from clients before providing aesthetic or spa services. This form ensures that clients understand the treatments they are receiving and provides an informed consent to proceed.

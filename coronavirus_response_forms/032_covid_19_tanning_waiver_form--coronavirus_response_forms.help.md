@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to collect information from individuals who wish to tan, with a focus on COVID-19 related waivers and medical considerations. It appears to cover various aspects of a person's health and tanning history, including consent, medical conditions, and doctor involvement. Before diving into the help guide, let's assume that this form is part of a larger system for managing and monitoring tanning activities, and that the goal is to gather accurate and comprehensive information for safety and regulatory purposes.
-</thinking>
-
 # Covid 19 Tanning Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to tan, ensuring they meet the necessary health and safety standards for tanning activities.

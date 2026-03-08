@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Estate Planning Liability Waiver Form - Help Guide
 ## Purpose
 The Estate Planning Liability Waiver Form is a document used to gather important information from clients regarding their estate planning needs and wishes. This form is intended to help our organization understand the client's preferences and boundaries when it comes to our services, ensuring we can provide personalized guidance and support.

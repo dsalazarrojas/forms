@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Project Progress Report - Help Guide
 
 ## Purpose

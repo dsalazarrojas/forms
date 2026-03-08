@@ -1,9 +1,3 @@
-<thinking>
-This form is used to help customers claim missing loyalty points. 
-The form is divided into two pages. The first page has a text input field for the form title and two dropdown select fields: "customer_service_forms" to select the channel where the issue occurred and "verify_purchases" to confirm whether the purchase was online or in-store. 
-The second page has four select multiple fields: "gather_proof" to choose how to gather proof, "resolve_points_issues" to select the method to resolve the issue, two text fields: "store_name" and "purchase_date" and "purchase_time" to enter details about the issue. 
-Before filling out this form, please note that the customer service team may need to contact you to verify some information. If you've already submitted a similar form, we may have duplicate information already in our database. 
-</thinking>
 # Missing Loyalty Points Claim Form - Help Guide
 ## Purpose
 The Missing Loyalty Points Claim Form is designed to help customers claim missing loyalty points. Customers can use this form to report issues with their loyalty points and provide necessary information to resolve the issue.

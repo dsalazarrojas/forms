@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect customer service excellence nominations from users, likely for internal recognition or reward programs within an organization. It's crucial to ensure that each nomination is submitted correctly to maximize the form's effectiveness. Please double-check that you're submitting a nomination that is new and not a duplicate. This guide will help you complete the form accurately.
-</thinking>
-
 # excellence_in_customer_service_nomination_form - Help Guide
 ## Purpose
 The purpose of this form is to collect customer service excellence nominations for recognition or rewards within your organization. This form gathers information from users about a deserving employee or team member who provides outstanding customer service.

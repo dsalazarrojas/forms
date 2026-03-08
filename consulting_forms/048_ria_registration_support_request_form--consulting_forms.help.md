@@ -1,8 +1,3 @@
-<thinking>
-Internal note: This form is used to request support for RIA (Regional Investment Authority) registrations. Users can submit requests with their input, which may be related to registration status, jurisdiction, or other registration details. 
-Before submitting a request, ensure it is not a duplicate and is related to a current issue or problem that requires support. Please fill in the relevant fields to help our team better understand and address your concerns efficiently.
-</thinking>
-
 # RIA Registration Support Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from users to facilitate support requests related to RIA registrations. Users can input their details, status, and other relevant information to aid our support team in resolving their queries.

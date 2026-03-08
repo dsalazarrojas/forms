@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting information from customers related to a roofing project. It is meant to gather essential details about the project, customer contact information, and any contract terms associated with the project. This form should only be used for non-commercial purposes and does not collect any sensitive or financial information. 
-Please ensure that you have the necessary permissions and approvals to use this form. 
-</thinking>
-
 # Roofing Contract Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers related to a roofing project. It will gather details about the project, the customer's contact information, and any contract terms.

@@ -1,5 +1,3 @@
-<thinking>...The form is used to collect user consent for the Global Learning Exchange video feature. This feature allows users to access exclusive video content. To be eligible, users need to provide consent. This form is used to collect user information and consent details. It should only be filled out once per user. If users have already filled out this form, there's no need to fill it out again. Users can access the help guide to review the form and understand its purpose. If users are unsure, they can always reach out to support for further assistance. This guide is designed to be user-friendly and easy to understand... </thinking>
-
 # global_learning_exchange_video_feature_consent_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Career Counselor Information Form - Help Guide
 ### Purpose
 The Career Counselor Information Form is used to collect information from career counselors about themselves. This information is shared with the team to help them understand the counselor's qualifications, areas of specialty, and availability. This form should only be completed by authorized career counselors.

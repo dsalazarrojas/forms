@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used in a medical or employment-related setting where consent is required for drug testing. It is likely used to gather information from employees, applicants, or patients before administering a drug test. The form is intended to be used in a variety of contexts, including workplace drug testing, medical testing, or other scenarios where consent is a necessary component. 
-
-This form appears to be a general-purpose consent form, not specific to any particular industry or organization. It is likely intended to be adaptable and reusable across different contexts, which might make it a good candidate for a general-use form. 
-
-Please review and confirm this interpretation.
-</thinking>
-
 # Drug Test Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information and consent from individuals for drug testing purposes.

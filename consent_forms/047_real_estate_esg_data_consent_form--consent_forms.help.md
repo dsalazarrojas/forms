@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for collecting user consent for ESG (Environmental, Social, and Governance) data. The form will collect information from users who will be providing data for analysis, reporting, or communication purposes. The form's purpose is to ensure users are aware of how their data will be used and what they are consenting to. The form will ask users for their name, company name, company address, job title, email, and phone number, as well as specific information about how they will use the data and what they agree to. This form is part of a larger process to ensure that users have given their consent before data collection.
-
-</thinking>
-
 # real_estate_esg_data_consent_form - Help Guide
 ## Purpose
 

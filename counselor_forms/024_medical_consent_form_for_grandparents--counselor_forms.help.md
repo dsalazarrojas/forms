@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to generate medical consent forms for grandparents. The purpose of this form is to gather necessary information from grandparents before undergoing medical treatment or surgery. It is used to obtain their consent and ensure they understand the procedures and risks involved.
-
-This form is intended for use by healthcare professionals or administrative staff who need to obtain consent from grandparents in a medical setting.
-
-To avoid duplication of effort and ensure accurate completion, please review this help guide before proceeding.
-
-</thinking>
-
 # Medical Consent Form For Grandparents - Help Guide
 ## Purpose
 The purpose of this Medical Consent Form For Grandparents is to gather necessary information from grandparents before medical treatment or surgery. It helps ensure they understand the procedures and risks involved and allows healthcare professionals to obtain their consent.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers who are cancelling their subscription services. The purpose of this form is to gather information on why the customer is cancelling, their level of satisfaction with the service, and suggestions on how to improve the service and support. This form is typically used by customer service agents to help identify areas where the service can be improved.
-
-This form is likely to be used by customer service agents who need to understand the reasons behind a customer's subscription cancellation. The form may also be used for quality assurance and improvement initiatives.
-
-Please note that some of the fields in this form are optional, and the customer service agent will use their discretion in determining which fields are relevant to the cancellation reason and level of service satisfaction.
-
-Before filling out this form, please review the cancellation terms of your subscription service.
-
-</thinking>
-
 # Subscription Cancellation Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers who are cancelling their subscription services.

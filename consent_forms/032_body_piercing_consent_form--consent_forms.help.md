@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather consent for body piercing procedures. It ensures that clients are aware of the risks and responsibilities associated with body piercing and provides a clear understanding of what to expect before, during, and after the procedure. The form is intended for clients who are seeking body piercing services, such as earlobe, ear cartilage, nostril, septum, lip, tongue, nipple, navel, or genital piercings. By completing this form, clients acknowledge that they understand the risks, have disclosed any relevant medical conditions, and commit to proper hygiene and aftercare.
-
-The form is a critical part of the body piercing process, and it's essential that clients understand their obligations and responsibilities before proceeding with the procedure.
-
-Before starting the form, please note that this form should not be used for other types of consent, such as tattoos or other invasive treatments. If you have any questions or concerns, please reach out to your piercer for guidance.
-
-</thinking>
-
 # Body Piercing Consent Form - Help Guide
 
 ## Purpose

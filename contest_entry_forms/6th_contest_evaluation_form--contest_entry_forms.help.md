@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 90 Day Equipment Inspection Form - Help Guide
 
 ## Purpose

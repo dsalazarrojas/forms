@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "roc_performance_therapy_client_consent_form" form is to collect information from clients regarding their medical conditions, treatment plans, and consent to receive services. This form is likely used to assess the client's condition, plan the treatment, and obtain their consent for the therapy sessions. It's essential to ensure that the client understands the form's purpose and the information collected is accurate and relevant to the client's condition.
-
-To confirm, this form is intended for clients who are undergoing performance therapy, which involves helping individuals overcome performance-related anxiety or fear. The form is designed to gather information that will help the therapist understand the client's condition and create an effective treatment plan.
-
-This form should not be filled out by clients who are experiencing severe medical emergencies or need immediate attention. If a client is in such a situation, they should be directed to the relevant emergency contact or medical resource.
-
-Please note that some of the fields may require input from the client or their authorized representative. Ensure that the client understands the purpose and requirements of each field before proceeding.</thinking>
-
 # roc_performance_therapy_client_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients regarding their medical conditions, treatment plans, and consent to receive services for performance therapy.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # social_media_profile_sharing_consent_form - Help Guide
 
 ## Purpose

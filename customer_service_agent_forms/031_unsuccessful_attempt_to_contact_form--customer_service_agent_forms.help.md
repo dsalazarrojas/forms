@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## unsuccessful_attempt_to_contact_form - Help Guide
 
 ## Purpose

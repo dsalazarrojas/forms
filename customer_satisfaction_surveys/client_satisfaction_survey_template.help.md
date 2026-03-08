@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients on their overall satisfaction with our services. This template is intended to be a starting point for creating a client satisfaction survey and is meant to be adapted and modified as needed. Before completing this form, please ensure that it is relevant to your specific use case and that you are not duplicating efforts. This form's structure and content may not be optimal for every organization or use case, so please review it carefully and make adjustments as necessary.
-</thinking>
-
 # client_satisfaction_survey_template - Help Guide
 
 ## Purpose

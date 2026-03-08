@@ -1,9 +1,3 @@
-<thinking>
-The Customer Feedback Form is used to collect feedback from customers on their experiences with our company. It is designed to be a simple and straightforward form that gathers essential information from customers. Before filling out this form, please ensure you are not duplicating a feedback form that has already been submitted. If you have already submitted a feedback form, please do not submit another one.
-
-The following guide will walk you through the fields in the Customer Feedback Form.
-</thinking>
-
 # Customer Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers on their experiences with our company. It helps us understand what we are doing well and where we can improve.

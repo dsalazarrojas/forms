@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing information related to a movie premiere release, likely for marketing or organizational purposes. It asks for personal details such as name, email, and phone number, as well as preferences and notes. The form is designed to be completed by individuals who are interested in attending a movie premiere or have specific information to share. Please ensure you are completing this form only once and with accurate information. Note that some fields require confirmation of email address.
-</thinking>
-
 # Movie Premiere Release Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in attending a movie premiere or sharing their thoughts on a film. It is essential to provide accurate and relevant information to ensure that you can be contacted about the event or receive updates on the movie.

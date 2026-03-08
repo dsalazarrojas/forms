@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Robot Activity Liability Waiver - Help Guide
 ## Purpose
 The Robot Activity Liability Waiver is a form designed to obtain consent from a participant's guardian or parent for a robot activity. This form is used to ensure that the participant's legal guardians are aware of and consent to the activity.

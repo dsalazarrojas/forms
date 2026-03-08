@@ -1,7 +1,3 @@
-<thinking>
-You are likely creating a form for customers to inquire about web development services. This form is designed to gather information about the customer's needs and preferences for their web development project. The form is likely intended for customers to provide details about their current website, the specific services they require, and their project's timeline and budget. This form is likely used by the customer support team to understand the customer's requirements and provide personalized assistance and guidance throughout the project.
-</thinking>
-
 # web_development_inquiry - Help Guide
 ## Purpose
 This form is designed to collect information about your web development inquiry, helping our customer support team to better understand your needs and provide efficient support.

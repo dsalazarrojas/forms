@@ -1,5 +1,3 @@
-<thinking> This form is used to request a press release for a company announcement, product launch, partnership, research, award, or executive announcement. Fill out this form to submit a request for a press release, specifying the details of the announcement, target audience, and required approvals. This form is intended to guide the communications team in preparing and distributing the press release effectively. Please ensure that you have reviewed the form carefully before submitting it, and that the information provided is accurate and up-to-date. Also, please note that the form will be reviewed and approved by the required team members before it is published. </thinking>
-
 # AI Assistant Press Release Request Form - Help Guide
 ## Purpose
 The AI Assistant Press Release Request Form is used to request a press release for a company announcement, product launch, partnership, research, award, or executive announcement.

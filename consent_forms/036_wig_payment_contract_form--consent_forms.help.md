@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer information, payment details, and consent for a specific service. This form is designed to be used in a business setting, likely for services offered by wig payment, a payment platform. The form is not affiliated with, endorsed by, or derived from any other form platform, and is an original adaptation created using AI. This form is released under a Creative Commons Attribution 4.0 license, allowing users to freely use, modify, and distribute it. The form has 5 fields in total, with each field serving a specific purpose. It's essential to ensure that all required fields are filled out accurately to ensure proper completion of the form.
-
-Before proceeding, please ensure that you are not duplicating or duplicating efforts. If you have previously completed this form, review the fields carefully to determine if any changes are necessary.
-</thinking>
-
 # wig_payment_contract_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers, including their payment details and consent status. It helps the wig payment service provider to gather necessary data to process payments and ensure customer agreement.

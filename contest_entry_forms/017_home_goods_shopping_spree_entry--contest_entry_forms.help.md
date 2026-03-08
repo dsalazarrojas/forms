@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect entry information for a home goods shopping spree contest. The purpose of this form is to gather details about each entry, including entry details, contact information, and other relevant data. This form is likely used for a contest where users can participate by submitting their entries, and the collected data will be used to manage and track the entries, winners, and other contest-related activities. 
-
-This form appears to be part of a larger contest management system, and its fields and options suggest that it may be used to store and manage multiple entries, winners, and other contest-related data. To ensure that the form is completed accurately and without duplication, it is recommended to review and understand the form's purpose and each field's purpose before proceeding.
-
-Please note that this form may be used by a specific group of users, such as contest managers, administrators, or other authorized personnel. If you are not an authorized user, please do not attempt to access or complete this form.
-
-</thinking>
-
 # home_goods_shopping_spree_entry - Help Guide
 ## Purpose
 The **home_goods_shopping_spree_entry** form is used to collect entry information for a contest.

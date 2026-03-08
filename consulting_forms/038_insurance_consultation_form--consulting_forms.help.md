@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather contact information and other relevant details from users who require insurance consultations. This form is likely used in conjunction with other systems or services that provide insurance-related support or guidance. 
-The purpose of this form is to gather user input for such consultations.
-</thinking>
-
 # Insurance Consultation Form - Help Guide
 ## Purpose
 The Insurance Consultation Form is a tool used by insurance providers to gather information from users who require consultations on insurance policies or related services. This form helps users communicate their needs and preferences, allowing insurance professionals to offer informed guidance and support.

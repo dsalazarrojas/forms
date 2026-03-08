@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Basic Email Support Form - Help Guide
 ## Purpose
 

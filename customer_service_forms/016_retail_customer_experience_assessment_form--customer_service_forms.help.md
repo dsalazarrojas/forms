@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Customer Experience Assessment Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to facilitate the enrollment process for Advanced Placement (AP) courses in high school. The purpose of this form is to gather necessary information from students, teachers, and parents to ensure a smooth and organized enrollment process.
-
-The form should only be completed by authorized personnel with the necessary permissions to do so. Please ensure you have the required access and clearance before proceeding.
-
-Please complete this form in its entirety and ensure all fields are filled in accurately to avoid delays in the enrollment process.
-
-</thinking>
-
 # High School AP Course Enrollment Form - Help Guide
 
 ## Purpose

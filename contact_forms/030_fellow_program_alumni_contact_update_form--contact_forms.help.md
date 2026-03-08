@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for fellow program alumni to update their contact information with the organization. The purpose of this form is to keep the organization's database up-to-date with the contact information of its graduates. This form will be used to update the information of a single fellow program alumnus. To ensure that the correct individual's information is updated, the form requires the user to specify the alumnus's name and graduation year to avoid duplication.
-
-</thinking>
-
 # Fellow Program Alumni Contact Update Form - Help Guide
 ## Purpose
 The Fellow Program Alumni Contact Update Form is used to update the contact information of a fellow program alumnus. The form will ask for details about the alumnus, their organization, role, department, job title, and other relevant information.

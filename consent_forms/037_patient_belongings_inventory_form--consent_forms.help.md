@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Patient Belongings Inventory Form". This form is likely used to track and manage the personal belongings of patients, such as their name, contact information, medical conditions, and other relevant details. The form may be used by hospital staff or caregivers to document and update patient information, ensuring that patients' belongings are properly accounted for and managed.
-
-Before proceeding, let's review the form's purpose and ensure that the instructions are clear and concise, avoiding duplication of information.
-
-</thinking>
-
 # patient belongings inventory form - Help Guide
 ## Purpose
 This form is used to track and manage the personal belongings of patients, including their contact information, medical conditions, and other relevant details.

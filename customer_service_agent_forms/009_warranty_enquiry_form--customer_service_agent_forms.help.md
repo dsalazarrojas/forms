@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Warranty Enquiry Form" to ensure that customers can easily understand its purpose and how to complete it. This form is used to inquire about warranty claims, and it's essential to break down each field's purpose and relevance to the form's goal.
-
-To prevent duplication and ensure accuracy, we will review the form's structure and field types to identify any potential issues. Upon reviewing the form schema, it appears that some fields may be redundant or have ambiguous labels. For instance, "product_serial_number" and "product_description" might be related to the same product information, while "customer_name_enquiry" seems to be a duplicate of "customer_name". Similarly, multiple "phone" fields may confuse the user about which one to fill in.
-
-Considering these points, we will refine the form's explanation to highlight the most critical fields and ensure clarity in the instructions. We will also emphasize the importance of providing accurate and complete information to facilitate efficient warranty inquiry processing.
-
-</thinking>
-
 # Warranty Enquiry Form - Help Guide
 ## Purpose
 The Warranty Enquiry Form is designed to help customers inquire about the status of their warranty. To use this form, please fill in the required fields with accurate information, and our team will assist you in resolving your warranty-related concerns.

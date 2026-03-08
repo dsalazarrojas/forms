@@ -1,10 +1,3 @@
-<thinking>
-To confirm, this form is used for commercial rent deferment (payment holiday) agreements, specifically incorporating a deed of surety, which is a guarantee provided by a third party to secure a landlord's financial obligations. This form is a legal document that outlines the terms and conditions of the agreement, including details of the landlord, tenant, and surety. 
-
-Before proceeding, ensure that all required fields are correctly filled out and that this form is not being duplicated or used for any other purpose than its intended commercial rent deferment agreement. It is essential to have the necessary legal expertise and authority to execute and verify this document.
-
-</thinking>
-
 # Commercial: Rent Deferment (Payment Holiday) Agreement, Incorporating Deed Of Surety - Help Guide
 ## Purpose
 This form is used to create a Commercial Rent Deferment (Payment Holiday) Agreement, which is a document that outlines the terms and conditions of a rent deferment between a landlord and a tenant. The agreement includes details about the parties involved, the leased premises, the deferment terms, and the deed of surety.

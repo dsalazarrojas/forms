@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by customers to provide feedback to Nakias Empire. It's a way for customers to express their thoughts, suggestions, and concerns about the service provided by the company. This form will help the team at Nakias Empire to understand customer needs, concerns, and preferences, which can be used to make improvements and enhance the overall customer experience.
-
-Before proceeding, please ensure that you're not duplicating a feedback already submitted by yourself or someone else. This form is not intended for customers to report bugs or technical issues. If you have any technical issues or bugs, please use the designated bug reporting process.
-</thinking>
-
 # Nakias Empire Feedback Form - Help Guide
 ## Purpose
 The Nakias Empire Feedback Form is designed to be used by customers to provide feedback on the services provided by the company. This form will help the team at Nakias Empire to understand customer needs, concerns, and preferences, which can be used to make improvements and enhance the overall customer experience.

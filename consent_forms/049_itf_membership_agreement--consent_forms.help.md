@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for creating or updating membership agreements for a group or organization. It appears to be a general form for collecting information about the membership and the member's contact details. The purpose of this form is likely to onboard new members, provide a way for existing members to update their contact information, or for members to agree to the membership terms and conditions. The form does not seem to be specific to any particular type of membership, such as employee or customer, so it's possible that this form is used for general membership agreements. It's also possible that the form is used in conjunction with other forms or processes to complete the membership onboarding process.
-</thinking>
-
 # itf_membership_agreement - Help Guide
 ## Purpose
 This form is used to collect information and agreements from members of an organization.

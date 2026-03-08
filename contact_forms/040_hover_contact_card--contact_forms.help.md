@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used for collecting contact information for hover, which can be used to display contact details in an interactive or hover-over card. The purpose of this form is to gather the first name, last name, email, phone number, company name, job position, a profile image, background image, or background color for the hover card. 
-It seems that all fields are optional but may be necessary for a complete representation of the individual. A user should be able to fill out the form once, and the information may be reused in various ways. 
-The form does not contain any fields with special requirements or restrictions that would indicate a need for a unique or custom implementation. Therefore, this form should be easily understandable and fillable by most users. 
-The fields seem to be mostly self-explanatory, however, the fields "Background Image" and "Background Color" could potentially be confusing for the average user as they might not be aware of the correct format for inputting these values. 
-To avoid confusion, this help guide will provide a clear explanation of each field and how to fill it out correctly.</thinking>
 # Hover Contact Card - Help Guide
 ## Purpose
 The Hover Contact Card form is used to gather contact information for a hover card, which can display in an interactive or hover-over card. This information includes first and last names, email, phone number, company, job position, profile image, and background image or color.

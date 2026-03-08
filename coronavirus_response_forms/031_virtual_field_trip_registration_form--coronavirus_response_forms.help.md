@@ -1,9 +1,3 @@
-<thinking>
-This form's purpose is for registering users for a Virtual Field Trip program, likely for educational purposes. This form's primary goal is to collect demographic information and contact preferences from participants.
-The form is designed to be a simple online survey, allowing users to provide basic contact information, select their contact preferences, and submit the form to register for the Virtual Field Trip.
-Before proceeding, please ensure you are not duplicating your registration and that you are eligible to participate in the Virtual Field Trip program.
-</thinking>
-
 # Virtual Field Trip Registration Form - Help Guide
 ## Purpose
 The Virtual Field Trip Registration Form is a simple online survey designed to collect demographic information and contact preferences from participants for an educational Virtual Field Trip program.

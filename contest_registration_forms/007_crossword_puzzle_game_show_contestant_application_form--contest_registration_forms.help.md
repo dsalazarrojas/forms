@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential contestants for a crossword puzzle game show. To ensure that each form submission is relevant and not a duplicate, we will check for existing submissions with matching first and last names, age, and email. This check will be performed internally to prevent spam and fake submissions. Please note that only one submission per person is allowed.
-</thinking>
-
 # Crossword Puzzle Game Show Contestant Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential contestants for a crossword puzzle game show. It will be used to assess your eligibility and suitability to participate in the game show.

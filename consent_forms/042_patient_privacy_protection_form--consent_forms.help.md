@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to capture patient information and their consent for sharing medical data with specified entities. This form likely exists in a healthcare context, where patients need to consent to share their medical information with certain individuals or institutions. The form is likely used to ensure that patients are aware and agree to share their sensitive data, and to capture their consent for sharing with different entities. 
-
-Before filling out this form, please ensure that you are completing it for the correct purpose and that you have the necessary permissions to share the patient's data. 
-
-This form should not be used for any other purpose than the one specified above.
-</thinking>
-
 # Patient Privacy Protection Form - Help Guide
 ## Purpose
 This form is used to capture patient information and their consent for sharing medical data with specified entities.

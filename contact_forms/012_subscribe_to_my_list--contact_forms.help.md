@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users subscribe to a mailing list, and the form's internal reasoning block is used to detect and prevent duplicate submissions. The internal reasoning block also checks if the user has already subscribed to the list, to prevent duplicates. The form is created using AI-powered form generation technology, and it's an original adaptation of public survey topic metadata. The form is released under a Creative Commons license, allowing users to use, modify, and even sell the form, as long as they give credit.
-</thinking>
-
 # Subscribe To My List - Help Guide
 ## Purpose
 This form is intended to collect information from users who want to subscribe to a mailing list.

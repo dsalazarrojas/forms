@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the COVID-19 Leave Request Form. This guide will cover the purpose of the form, how to complete it, and provide field-by-field explanations for each section and field. The form is designed to collect information from employees who are requesting leave due to COVID-19-related reasons, and it will be used by the employer to assess and manage leave requests.</thinking>
-
 # COVID 19 Leave Request Form - Help Guide
 ## Purpose
 The COVID-19 Leave Request Form is a tool used by employees to request leave due to COVID-19-related reasons. This form will be used by the employer to assess and manage leave requests, ensuring that the employee's health and well-being are taken care of during this time.

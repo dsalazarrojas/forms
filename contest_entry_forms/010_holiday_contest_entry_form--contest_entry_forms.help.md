@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit their entries for a holiday contest. The form allows users to upload various types of files, including submissions, photos, and documents. It is intended for contestants to provide their contact information and upload supporting materials for the contest. This form is a general template and does not contain any specific business logic or proprietary content from other form platforms. It can be used as is or modified as per the needs of the contest organizer.
-</thinking>
-
 # Holiday Contest Entry Form - Help Guide
 ## Purpose
 The Holiday Contest Entry Form is designed for users to submit their entries for a holiday contest. This form allows contestants to provide their contact information and upload supporting materials for the contest.

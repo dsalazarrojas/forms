@@ -1,11 +1,3 @@
-<thinking>Here is the internal reasoning block explaining the form purpose and checks for relevance and non-duplication:
-
-The purpose of this form is to gather client satisfaction data for customer service interactions. The form asks for general contact information, details about the client's recent interaction, and their overall satisfaction with the interaction. The form also includes sections to rate the client's experience with the service agent, including their level of helpfulness, issue resolution, wait time, product knowledge, courtesy, and likelihood to recommend.
-
-This form is likely to be used by customer support agents to collect feedback from clients and improve their services. The form's content is relevant to the customer service department's goals of ensuring that clients are satisfied with their interactions and providing areas for improvement.
-
-This form does not appear to be a duplicate of any other form. Its purpose and content are distinct from other forms that may be used for similar purposes. The form's fields are clear and concise, and its sections are organized in a way that makes it easy to follow and complete.</thinking>
-
 # Client Satisfaction Form - Help Guide
 ## Purpose
 The Client Satisfaction Form is designed to collect feedback from clients after a customer service interaction. This feedback is used by the customer service department to assess the quality of the interaction and make improvements where needed.

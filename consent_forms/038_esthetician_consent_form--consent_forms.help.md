@@ -1,7 +1,3 @@
-<thinking>
-The estheticianConsentForm is a form used to collect information from clients or customers of a salon or aesthetician service. The form gathers details about the service provider's information, the esthetician's information, appointment details, and contact information.
-</thinking>
-
 # estheticianConsentForm - Help Guide
 ## Purpose
 This form is designed to collect the necessary information from clients or customers to facilitate efficient communication and scheduling with the salon or aesthetician service.

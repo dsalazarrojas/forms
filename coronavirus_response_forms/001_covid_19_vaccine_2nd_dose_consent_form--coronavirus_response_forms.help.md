@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccine 2nd Dose Consent Form - Help Guide
 ## Purpose
 This form is designed to help individuals provide information and consent for the administration of the COVID-19 vaccine 2nd dose. It is intended to ensure that individuals are aware of any potential risks and allergies associated with the vaccine and confirm their consent to receive the vaccine.

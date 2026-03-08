@@ -1,8 +1,3 @@
-<thinking>
-This form is part of a larger project for a WordPress-powered website. It's a contact form that will help users get in touch with the website administrators or managers. The form is responsive, meaning it will adjust its layout to fit any screen size. The purpose of this form is to collect basic information from users, such as their name, email, phone number, and a message. The form also includes select options for users to pick one or multiple options. The date field is included for users to select a date, but it's not required. 
-The form is used by users to send a message to the website administrators. This form is likely to be displayed on the website's sidebar. 
-</thinking>
-
 # responsive-wordpress-sidebar-contact-form - Help Guide
 ## Purpose
 This form is a contact form for users to get in touch with the website administrators. It's designed to be used on a WordPress-powered website and is optimized for different screen sizes.

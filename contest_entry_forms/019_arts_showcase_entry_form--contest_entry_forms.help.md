@@ -1,13 +1,3 @@
-<thinking>
-The purpose of the Arts Showcase Entry Form is to allow artists to submit their artwork for inclusion in an online showcase. The form gathers essential information about the artist and their entry, including name, age category, artwork title, medium and technique used, dimensions, weight, artist statement, portfolio link, fee payment status, and display consent. This information is used to evaluate and showcase the artwork, and it is essential to ensure that the artist's work is accurately displayed and promoted in the showcase. It is crucial that the artist fills out the form correctly to avoid duplication of entries or misrepresentation of their work.
-
-This form is designed to be completed by artists who want to showcase their artwork. It is not intended for general public users or non-artists.
-
-To avoid duplication, please ensure that you do not submit multiple entries with the same artwork title. Each artwork should have a unique title.
-
-Before filling out this form, please make sure you have all the required information and details ready.
-</thinking>
-
 # Arts Showcase Entry Form - Help Guide
 ## Purpose
 The Arts Showcase Entry Form is designed to gather essential information about an artist's artwork for evaluation and showcase purposes.

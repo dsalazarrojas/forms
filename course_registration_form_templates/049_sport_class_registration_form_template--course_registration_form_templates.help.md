@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from students to register for a sport class. The form will be used to create a new class instance in the system, allowing students to participate in the class. Each field is designed to collect relevant information to facilitate a smooth registration process. This form is meant to be completed by a student or guardian, and the data collected will be used to keep track of class enrollment and attendance. 
-
-</thinking>
-
 # sport_class_registration_form_template - Help Guide
 ## Purpose
 The purpose of this form is to register for a sport class. Fill out the form with your information to create a new class instance in the system.

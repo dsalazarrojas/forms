@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Documentary Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quality Survey - Help Guide
 
 ## Purpose

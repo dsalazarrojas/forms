@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to capture leads for an online course free trial. It will allow users to provide their name, email address, and phone number (optional) to receive more information about the course. The form can be completed by anyone interested in taking the course for a test run to see if it's a good fit before committing to the full course. 
-Please note that the form is not mandatory and users can opt-out at any point. We want to capture as many leads as possible, so it's essential to understand the purpose and intent behind this form.
-
-Before you start, please ensure that you're not completing this form if you've already received a trial or have access to our course. We want to avoid duplicate entries and unnecessary trials.
-
-Now, let's break down each field:
-
-</thinking>
-
 # Online Course Free Trial Lead Form - Help Guide
 
 ## Purpose

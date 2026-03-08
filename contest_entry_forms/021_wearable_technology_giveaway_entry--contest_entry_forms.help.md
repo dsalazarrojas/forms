@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in a wearable technology giveaway contest. The purpose of this form is to collect contact and demographic information from potential participants, as well as gauge their interests and preferences. By submitting this form, users are agreeing to share their contact information with the contest organizers and their partners, as well as consenting to be contacted by them. It's essential to review the terms and conditions and privacy policy before submitting the form.
-</thinking>
-
 # Wearable Technology Giveaway Entry - Help Guide
 ## Purpose
 The Wearable Technology Giveaway Entry form is designed to collect information from individuals interested in participating in a wearable technology contest. This form gathers contact and demographic data, as well as interests and preferences, to determine eligibility for the contest.

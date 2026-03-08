@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for obtaining consent from contributors or participants in a digital project or resource co-creation process. The purpose of this form is to collect information about the contributor, including project information and the permissions needed to access or use the project resources. The form may be used in academic, business, or other settings where collaboration is required.
-</thinking>
-
 # digital_resource_co_creation_consent_form - Help Guide
 ## Purpose
 The **digital_resource_co_creation_consent_form** is a form designed to gather information about contributors to a digital project or resource. This includes details about the contributor, project information, and permissions required to access or use the project resources.

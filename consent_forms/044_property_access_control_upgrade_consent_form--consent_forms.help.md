@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_access_control_upgrade_consent_form - Help Guide
 
 ## Purpose

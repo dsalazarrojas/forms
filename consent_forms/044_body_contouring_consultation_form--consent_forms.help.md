@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from clients about their body contouring goals and preferences, medical history, and consultation details. This information will be used to provide personalized consultations and recommendations to help them achieve their goals. 
-</thinking>
-
 # Body Contouring Consultation Form - Help Guide
 
 ## Purpose

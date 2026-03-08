@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information necessary for a home remodeling contract, which is a document that outlines the terms and conditions of a remodeling project between a homeowner and a contractor. The purpose of this form is to ensure that both parties have a clear understanding of the project scope, timeline, and financial arrangements. The form should not be used for other purposes, such as creating a general contractor agreement or a service contract for non-renovation work.
-
-Before filling out this form, please ensure that you have all the necessary information and approvals in place.
-
-To complete this form, follow the instructions below:
-
-</thinking>
 # Home Remodeling Contract - Help Guide
 ## Purpose
 This form is used to document the terms and conditions of a home remodeling contract between a homeowner and a contractor. It ensures that both parties have a clear understanding of the project scope, timeline, and financial arrangements.

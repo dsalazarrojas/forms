@@ -1,15 +1,3 @@
-<thinking>
-
-The form purpose is to collect user registration information for a contest, specifically for a mower giveaway. Users are asked to provide personal details such as name, address, contact information, and demographic details. The form also asks about their preferences for contact methods, contest choices, mower type, brand, and age. This information will be used to identify eligible contestants and to contact them in case they are selected as winners.
-
-To prevent duplication and ensure accuracy, the form will check for existing entries based on email and phone number.
-
-Before completing this form, please make sure you have read and understood the rules. The form also asks you to confirm that you have read and understood the rules.
-
-The form is composed of multiple sections, each with different fields and explanations. Please follow the instructions below to complete the form accurately and efficiently.
-
-</thinking>
-
 # Mower Giveaway Registration - Help Guide
 ## Purpose
 

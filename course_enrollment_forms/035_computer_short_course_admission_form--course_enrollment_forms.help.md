@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential students who want to enroll in computer science short courses. The main purpose of this form is to gather demographic information about the applicant, their background, and their motivations for taking the course. The form is designed to help the course administrators assess the suitability of the applicants and make decisions on course enrollment. Please note that this form is required for all applicants and must be completed in its entirety.
-</thinking>
-
 # Computer Short Course Admission Form - Help Guide
 ## Purpose
 This form is used to collect information from potential students who want to enroll in computer science short courses.

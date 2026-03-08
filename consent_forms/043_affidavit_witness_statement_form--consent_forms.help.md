@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Affidavit Witness Statement Form is to gather information from witnesses who have witnessed an incident or event. This form is used to collect their statements, which can be used as evidence in court proceedings or legal matters. It is essential to ensure that the form is completed accurately and truthfully, as it will be used to support or refute claims. To avoid duplication of efforts, please do not complete this form if you have already provided a statement to another organization or authority.
-
-To complete this form, you should first read the instructions carefully and ensure you understand the purpose and the importance of your statement. Then, fill out the form according to the guidelines and provide accurate and truthful information. If you are unable to complete the form in one sitting, you can save it and return to it later.
-
-Below is a field-by-field explanation of the form:</thinking>
-
 # Affidavit Witness Statement Form - Help Guide
 ## Purpose
 The Affidavit Witness Statement Form is used to gather information from witnesses who have witnessed an incident or event. This form is used to collect their statements, which can be used as evidence in court proceedings or legal matters.

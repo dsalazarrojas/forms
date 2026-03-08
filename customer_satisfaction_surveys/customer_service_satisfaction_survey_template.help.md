@@ -1,7 +1,3 @@
-<thinking>
-This form is a customer service satisfaction survey designed to gather feedback from customers about their experiences with a company's customer service team. The goal is to improve the quality of service and interactions, ensuring that customers receive the best possible experience. Before proceeding, consider whether this form is relevant to your specific needs and whether you have any existing forms or processes that address similar topics.
-</thinking>
-
 # customer_service_satisfaction_survey_template - Help Guide
 ## Purpose
 

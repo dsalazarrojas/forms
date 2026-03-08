@@ -1,8 +1,3 @@
-<thinking>
-This form is used for gathering information from new clients who are interested in working with Wags To Whiskers. The purpose of this form is to capture basic contact and demographic details from clients, which will help us understand their needs and preferences. Please note that this form is not intended for existing clients or employees. It is meant for new clients who have not yet been onboarded. This form is not used for any other purpose than gathering information about new clients. If you have already filled out a similar form, please do not fill it out again.
-
-</thinking>
-
 # Wags To Whiskers New Client Info Form - Help Guide
 ## Purpose
 This form is designed to collect information from new clients who are interested in working with Wags To Whiskers. It is used for onboarding new clients and gathering their basic contact and demographic details.

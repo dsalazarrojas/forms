@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from individuals interested in consulting opportunities. The form is split into sections, each focusing on a specific aspect of the applicant's profile. The form asks for details like contact information, professional background, skills, expertise, and logistics, as well as personal preferences such as salary expectations and willingness to travel...</thinking>
-
 # Consultant Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting information about a third party involved in a particular project or activity. It is crucial to understand this form's purpose and ensure that it is filled out correctly. Before proceeding, please verify that you have not already filled out this form for this third party. If you are unsure, you can check your internal records or consult with the relevant team members.
-</thinking>
-
 # third-party-release-form - Help Guide
 ## Purpose
 The Third Party Release Form is used to gather necessary information about a third party involved in a particular project or activity. This form ensures that you collect all relevant details, including their name, address, phone number, email, relationship to the project, and signature.

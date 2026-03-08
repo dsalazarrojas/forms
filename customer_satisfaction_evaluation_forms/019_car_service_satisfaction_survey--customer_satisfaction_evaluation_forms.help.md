@@ -1,5 +1,3 @@
-<thinking>As we strive to improve our car service experience, we need to understand what our customers think about their recent visit. This form is designed to collect information about your experience, which will help us identify areas for improvement and provide better service in the future. This form is not a complaint form, but rather a way for us to learn from your experience and make informed decisions to serve you better. If you've already taken our survey, please do not fill out this form again, as we value your time and effort. Thank you for your participation!</thinking>
-
 # Car Service Satisfaction Survey - Help Guide
 ## Purpose
 

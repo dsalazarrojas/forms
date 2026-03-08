@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Cybersecurity Monitoring Authorization Form", we first need to understand its purpose and how it should be explained. This form appears to be used for organizations to authorize the monitoring of their security systems. It asks for general information about the organization, followed by specific details on the monitoring process. The form seems to be primarily used for internal purposes within an organization.
-
-Before we begin, let's confirm that the form is not intended for public use or external submission. It appears to be designed for internal management and security teams to collect information about an organization's monitoring needs. This form is likely used to standardize the process and ensure that all necessary information is collected for security purposes.
-
-Given this understanding, let's create a concise and practical user guide for those who will be using this form.
-
-</thinking>
-
 # Cybersecurity Monitoring Authorization Form - Help Guide
 
 ## Purpose

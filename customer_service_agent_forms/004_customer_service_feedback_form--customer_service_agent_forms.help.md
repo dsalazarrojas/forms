@@ -1,9 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose and requirements of this form. This form is designed to collect customer feedback from customers who have interacted with a customer service agent. It appears to be used for evaluating the performance of customer service agents, gathering feedback, and understanding areas for improvement. The form seems to be optional for all fields, which suggests that it's for gathering voluntary feedback from customers.
-
-The form is structured into several pages, but it's not clear if each page is meant to be filled out by the same customer or if it's a multi-stage process. The form includes fields for selecting multiple types of feedback, rating the service experience, and providing a message or comments. Some fields appear to be related to the customer's experience, such as the agent's name and the date and time of the interaction.
-
-To make the most of this form, let's aim to create a clear and concise help guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each section.</thinking>
-
 # Customer Service Feedback Form - Help Guide
 
 ## Purpose

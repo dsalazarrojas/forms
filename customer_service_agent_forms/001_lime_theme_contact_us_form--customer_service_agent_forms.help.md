@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used to collect contact information and feedback from customers, allowing the customer service team to address any concerns or questions they may have. This form should be used for general contact purposes only. To avoid duplication, the customer service team will review and respond to each form submission individually.
-
-</thinking>
-
 # Lime Theme Contact Us Form - Help Guide
 ## Purpose
 This form is a contact channel for customers to reach out to the customer service team with any queries, feedback, or concerns they may have regarding the Lime Theme.

@@ -1,7 +1,3 @@
-<thinking>
-The form "public_advocacy_program_waiver_form" is used for the Public Advocacy Program Waiver Form. The purpose of this form is for participants to provide their consent and agreement for the public advocacy program. It collects participant details, program details, and other relevant information. This form is used to ensure that participants understand their rights and responsibilities and to obtain their consent for the program's activities.
-</thinking>
-
 # public_advocacy_program_waiver_form - Help Guide
 ## Purpose
 The Public Advocacy Program Waiver Form is used to obtain participant consent and agreement for the program's activities. This form ensures that participants understand their rights and responsibilities and provides a clear understanding of the program's terms and conditions.

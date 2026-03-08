@@ -1,11 +1,3 @@
-<thinking>
-This form is used to document the release of a toy from a collector to a donor. 
-The form will only be completed if the toy release is agreed upon by both the collector and donor. 
-The form will not be used for any other purpose. 
-The form fields are designed to gather information from the collector and donor for the transfer process. 
-The form will not be used for any other purpose.
-</thinking>
-
 # Toy Collection Release Form - Help Guide
 ## Purpose
 The Toy Collection Release Form is a tool used to document the release of a toy from a collector to a donor. This form ensures that both the collector and donor agree on the terms of the transfer.

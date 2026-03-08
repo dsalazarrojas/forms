@@ -1,9 +1,4 @@
-> <thinking>
-The purpose of this form is to collect feedback on the value delivered by a consulting partnership. This form is used to assess the client's perception of the services provided, their satisfaction with the communication, and their overall experience. The feedback collected will help the consulting team to identify areas of improvement and to adjust their services to better meet the client's needs.
-This form is intended to be filled out by clients after the completion of a consulting engagement. The feedback collected will be used to evaluate the quality of services provided, identify areas for improvement, and provide insights for future consulting projects.
-</thinking>
-
-# Consulting Partnership Value Survey - Help Guide
+> # Consulting Partnership Value Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the consulting partnership experience. It aims to gauge the client's perception of the services provided, their satisfaction with communication, and overall value delivered.
 

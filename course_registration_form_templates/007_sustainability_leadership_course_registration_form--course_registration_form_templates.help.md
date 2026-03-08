@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sustainability Leadership Course Registration Form - Help Guide
 
 ## Purpose

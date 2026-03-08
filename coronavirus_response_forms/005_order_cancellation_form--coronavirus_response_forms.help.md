@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for the purpose of cancelling an order. It is intended for use in a customer service setting, where the customer support team needs to understand the reason for the cancellation and gather relevant details from the customer. Before filling out this form, please ensure that you have not already contacted the customer service team about this specific order, and that this form is not a duplicate submission.
-</thinking>
-
 # Order Cancellation Form - Help Guide
 ## Purpose
 This form is used to collect information from customers who wish to cancel their orders. Please use this form to provide a clear and respectful experience for your customers.

@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is designed to collect essential information for service invoices from clients. A service invoice is a formal document used to bill a client for services rendered. The form is intended to be completed by the service provider, listing details about their company, the client's contact information, and details about the service provided, including a description and the fees involved. This form will likely be used by service providers to create invoices for clients who have hired them for specific services.
-The fields in this form are designed to be completed in a straightforward manner, with most being text input fields or date fields for specific dates. Some fields may require additional context or clarification for proper completion.
-</thinking>
-
 # Service Invoice - Help Guide
 ## Purpose
 This form is used to create a service invoice for clients who have hired you for specific services. It captures essential information about your company and the client's contact information, as well as details about the service provided.

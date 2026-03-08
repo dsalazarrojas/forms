@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help users register a student for private tuition. The form gathers information about the student, including their name, contact details, address, and birth date. The form also includes fields for school and tutor information, including school address, city, state, and zip code. Additionally, the form includes fields for student and school fees, as well as a field for notes. The "Select Tutor" field allows the user to choose one or more tutors for the student.
-
-The form is designed to be completed by a user who needs to register a student for private tuition. The user can input information about the student's full name, contact number, email address, home address, and birth date. The form also requires inputting information about the school where the student will be taking tuition, including school address, city, state, and zip code. 
-
-This form does not include a field for duplicate checking. If a user attempts to submit this form while already registered in the system, it will not prevent the user from submitting the form again.
-
-Please ensure to fill up the fields according to the format provided.
-
-</thinking>
-
 # Student Private Tuition Registration Form - Help Guide
 ## Purpose
 The Student Private Tuition Registration Form is designed to help users register a student for private tuition.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vendor_documentation_sharing_consent_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block for this form is that it is for contestants to register for a virtual contest. It's essential to ensure that the form is filled out correctly to avoid any issues during the contest. The form requires the contestant's name, email, phone, address, city, state, zip, contest they are registering for, entry type, and a message. The state field is a select-one field, meaning the contestant can only choose one option from the list of options provided. The entry type field is a select-multiple field, allowing the contestant to choose multiple options. The date and time fields are for scheduling purposes, and the submit field is for submitting the form. This form is designed to be filled out by contestants who want to participate in a virtual contest.
-</thinking>
-
 # Virtual Contest Registration Form - Help Guide
 ## Purpose
 This form is designed for contestants to register for a virtual contest. To ensure a smooth registration process, please fill out the form carefully and accurately.

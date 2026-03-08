@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect personal care information and agreements from clients. The purpose of this form is to gather essential details about the client's needs, medical requirements, and caregiver responsibilities. The information collected will be used to create a comprehensive care plan tailored to the client's specific needs. 
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to collect this information from the client.
-
-Please fill out the form carefully and accurately to ensure that the client's needs are met. If you have any questions or concerns, please reach out to the care team for assistance.
-
-</thinking>
-
 # Personal Care Agreement - Help Guide
 ## Purpose
 The Personal Care Agreement form is designed to collect essential information about a client's needs, medical requirements, and caregiver responsibilities to create a comprehensive care plan.

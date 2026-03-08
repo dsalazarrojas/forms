@@ -1,12 +1,3 @@
-<thinking>
-**Internal Notes**
-
-This form is designed to collect relevant information related to the COVID-19 pandemic, which has affected global health worldwide. The "Global Health Declaration Form" is intended to gather information on an individual's travel history, symptoms, and other essential details. The form is likely to be used by healthcare professionals to assess the health risks and take necessary precautions.
-
-Please note that each field has been carefully crafted to ensure accuracy and effectiveness. The form is divided into sections based on logical categories for easier comprehension. Each field has been labeled clearly and concisely, ensuring that users can quickly understand its purpose.
-
-</thinking>
-
 # Global Health Declaration Form - Help Guide
 ## Purpose
 The Global Health Declaration Form is designed to collect essential information related to the COVID-19 pandemic for health risk assessment and prevention purposes. This form helps healthcare professionals understand the risks and take necessary precautions to prevent the spread of the virus.

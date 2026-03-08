@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for a Vineyard Wine Tasting Tournament. The purpose of the form is to gather data about the wines that have been entered into the tournament, including their details, tasting notes, and ratings. This data will be used to evaluate and judge the wines in the tournament.
-
-To ensure that each entry is accurate and complete, the form is structured to collect the most relevant information about each wine. The fields include:
-
-* Wine information (name, type, etc.)
-* Winery information (name, address, etc.)
-* Entry details (date, status, etc.)
-* Tasting notes and ratings
-* User contact information (email, phone, etc.)
-
-By filling out this form, users can provide detailed and accurate information about their wines, making it easier for the tournament judges to evaluate and select the winners.
-
-</thinking>
-
 # Vineyard Wine Tasting Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a Vineyard Wine Tasting Tournament. The purpose of the form is to gather data about the wines that have been entered into the tournament, including their details, tasting notes, and ratings.

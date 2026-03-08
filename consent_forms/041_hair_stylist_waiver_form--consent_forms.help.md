@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Stylist Waiver Form - Help Guide
 
 ## Purpose

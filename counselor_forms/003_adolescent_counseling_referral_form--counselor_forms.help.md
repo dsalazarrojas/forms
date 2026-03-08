@@ -1,9 +1,3 @@
-<thinking>
-
-The internal reasoning block is used to determine that this form is intended to be filled out by individuals or entities who are referring an adolescent to a counseling service. The form's purpose is to gather information about the referring individual, the adolescent, and the reason for the referral. The fields should be filled out by the referrer, ensuring that the form is completed by a legitimate source and that the adolescent's information is accurately and safely shared. This form is likely used to support counseling services for adolescents, possibly in a school setting or other educational institutions.
-
-</thinking>
-
 # Adolescent Counseling Referral Form - Help Guide
 
 ## Purpose

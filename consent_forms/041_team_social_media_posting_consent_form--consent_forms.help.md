@@ -1,7 +1,3 @@
-<thinking>...The form's internal reasoning can be as follows:
-This form is designed to capture consent from team members for posting their information on social media. It should only be used for users who are part of the team and have access to their own information. There should be no duplication of forms for the same user, as this can lead to incorrect or outdated information being shared on social media.
-</thinking>
-
 # Team Social Media Posting Consent Form - Help Guide
 ## Purpose
 The Team Social Media Posting Consent Form is a mandatory form that requires team members to give their consent before their information is posted on social media. This form ensures that each team member has been informed and has agreed to have their data shared publicly.

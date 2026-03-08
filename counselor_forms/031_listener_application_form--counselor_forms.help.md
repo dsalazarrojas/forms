@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from listeners who are applying to become a part of a team. The form is intended to gather relevant details about the listener, including their contact information, employment history, education, skills, references, and other relevant documents such as a resume, transcript, and ID card. The form should only be completed by those applying to be a part of the team and not used for any other purpose.
-</thinking>
-
 # Listener Application Form - Help Guide
 ## Purpose
 The Listener Application Form is a collection of fields that gather information from listeners who are applying to be a part of a team. This form is designed to gather relevant details about the listener, including their contact information, employment history, education, skills, references, and other relevant documents.

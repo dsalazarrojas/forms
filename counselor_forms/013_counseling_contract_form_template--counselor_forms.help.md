@@ -1,22 +1,3 @@
-<thinking>
-Form purpose: The "counseling_contract_form_template" form is designed to document the details of a counseling contract between a counselor and a client. This form captures essential information such as the client's contact details, services requested, dates, times, and signatures. The form's main goal is to establish a clear and formal agreement between the parties involved in the counseling process.
-
-To ensure accurate completion of the form, please make sure to:
-
-- The form is only filled out for the purpose intended (i.e., for a real counseling contract).
-
-- All required fields are completed accurately and honestly.
-
-- Signatures are obtained from both the client and counselor, as required.
-
-The form should not be used for any other purpose or duplicated.
-
-This form is a template and should be reviewed and edited to fit the specific needs of your organization or practice.
-
-Please fill out the form accurately and carefully to ensure a smooth and effective counseling process.
-
-</thinking>
-
 # counseling_contract_form_template - Help Guide
 
 ## Purpose

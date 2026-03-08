@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's consent to record their cultural heritage interview. The form is intended to ensure that the individual is aware of the recording and gives their consent for it to be made. The form should not be used to obtain personal information or sensitive data without the individual's explicit consent.
-
-This form is a part of a larger survey that aims to collect data on cultural heritage interviews. The survey topic and industry categorization are not affiliated with, endorsed by, or derived from any form platform, and the form has been created using only public survey topic metadata as inspiration.
-
-The form's purpose is to gather essential information about the recording process, including the individual's consent, the format of the recording, the device used, the location, and any additional comments or notes from the researcher.
-
-To ensure accuracy and consistency, it is crucial to complete the form carefully and truthfully. The individual's consent is essential for the integrity and validity of the recording.
-
-Please note that this form has been released under the Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing anyone to use, modify, and even sell forms derived from it, provided they give credit.
-
-If you have any questions or concerns, please contact form@gic.mx.
-</thinking>
-
 # Cultural Heritage Interview Recording Consent - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's consent to record their cultural heritage interview.

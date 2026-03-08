@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help you understand the form better, let's break down the purpose and logic behind it:
 
 This form is used to refer a nonprofit organization to a consultant that can help with their fundraising efforts. The goal is to gather information about the nonprofit organization, the consultant you're referring, and the consultant's services they offer. 

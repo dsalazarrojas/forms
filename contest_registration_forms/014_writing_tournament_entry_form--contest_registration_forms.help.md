@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect entries for a writing tournament. The purpose of this form is to gather information about each participant, including their user name, contact information (email and phone number), entry title, entry category, story length, and a brief description of their story or manuscript. The form is intended to be completed by authors who are interested in participating in the writing tournament, and it will be used to collect and evaluate their entries. Before proceeding, please ensure that you have not filled out this form previously, as this form is only intended for new entries.
-</thinking>
-
 # writing_tournament_entry_form - Help Guide
 ## Purpose
 This form is designed to collect entries for a writing tournament. It will be used to gather information about each participant, including their user name, contact information, entry title, entry category, story length, and a brief description of their story or manuscript.

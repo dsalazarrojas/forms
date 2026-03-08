@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect and track customer complaints about market vendors. The purpose of this form is to document and manage complaints in a structured manner, ensuring that customers feel heard and that market issues are addressed efficiently. 
-
-The form is designed to gather information from customers about their complaints, including details about the vendor involved, the issue they are reporting, and the action they would like to take regarding the complaint. 
-
-The form is not meant to be filled out by market administrators or employees, but rather by customers who are reporting issues with vendors they have interacted with. It is a channel for customers to voice their concerns, and market administrators will use the information collected to resolve the issue or escalate it further. 
-
-This guide will walk you through the form's fields and provide explanations to help customers complete it effectively.
-
-</thinking>
-
 # Market Vendor Complaint Form - Help Guide
 
 ## Purpose

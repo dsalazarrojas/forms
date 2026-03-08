@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients after a tech support session has ended. It's essential to fill this form to ensure that the client's concerns have been addressed, and to gather feedback on the service experience. The form should only be used after the initial support ticket has been resolved and the client has agreed to discontinue the support. This form does not need to be filled out if the support ticket has not been resolved or if the client has not been contacted.
-</thinking>
-
 # Tech Support Client Discharge Form - Help Guide
 ## Purpose
 This form is used to collect information from clients after a tech support session has ended, ensuring that their concerns have been addressed and to gather feedback on the service experience.

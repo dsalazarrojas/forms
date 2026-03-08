@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for customers to provide feedback on their experience with the company's ninja-themed service. The form will help gather relevant information from customers to improve the service and ensure it meets their needs. It's crucial to complete the form accurately and truthfully to provide valuable feedback. Please fill in the required fields to ensure your feedback is submitted successfully.
 
 # ninja_feedback_service - Help Guide

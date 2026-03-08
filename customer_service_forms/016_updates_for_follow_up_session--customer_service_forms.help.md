@@ -1,31 +1,3 @@
-<thinking>
-This help guide will be based on the provided YAML form structure. To start, I'll need to understand the purpose of this form and check for relevance and non-duplication. The form appears to be related to customer interactions, likely for a service industry such as debt collection or financial services. I'll need to verify this assumption as I proceed.
-
-
-The form has multiple pages, but it seems the purpose of this form is to collect detailed information about a customer's debt and their next meeting. The fields suggest this is a follow-up or next-step interaction with the customer, possibly after an initial session or consultation. I'll confirm this assumption as I continue to analyze the form structure.
-
-
-Upon further review, it seems that the form is designed to collect the following information:
-
-
-*   Session title and date
-*   Session time
-*   Customer name
-*   Debt list (with multiple options)
-*   Debt details (three separate fields)
-*   Customer contact information (phone, email, address)
-*   Follow-up note
-*   Next meeting date and time
-*   Next meeting location
-*   Customer budget
-
-This form appears to be comprehensive, covering both the current session and next steps with the customer. I'm assuming the purpose is for a debt collection or financial service company to keep track of customer interactions and progress.
-
-To confirm, the form seems to be designed for both initial and follow-up sessions with customers, ensuring that all relevant details are captured for future reference.
-
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a customer's debt and next meeting details for follow-up or next-step interactions with the service company.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be filled out by faculty members to review and approve university courses. This form ensures that the curriculum meets the required standards and is consistent with the university's policies and procedures. Before filling out this form, please ensure that you have reviewed the course details carefully and that you are aware of the university's curriculum approval process. To avoid duplication of effort, please check with the course instructor or department head to see if there are any ongoing reviews or approvals in progress.</thinking>
-
 # University Course Curriculum Approval Form - Help Guide
 ## Purpose
 The University Course Curriculum Approval Form is used to review and approve university courses. This form helps ensure that the curriculum meets the required standards and is consistent with the university's policies and procedures.

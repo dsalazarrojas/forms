@@ -1,5 +1,3 @@
-<thinking> This form, "IRB Informed Consent Form", is primarily used to collect information from participants about their involvement in research studies. This form is crucial in ensuring that participants are aware of the nature of the research, its goals, and potential risks and benefits. It is typically used to gather informed consent from participants before they commence with the study. To prevent duplication, make sure to check if a similar form has already been completed by the participant or if the study has been approved and already has a corresponding form. If a similar form exists, there's no need to create a new one. </thinking>
-
 # IRB Informed Consent Form - Help Guide
 ## Purpose
 This form is used to collect information about your involvement in research studies, to ensure you are aware of the nature of the research, its goals, and potential risks and benefits.

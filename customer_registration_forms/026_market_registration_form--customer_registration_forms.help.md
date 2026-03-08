@@ -1,7 +1,3 @@
-<thinking>
-This form is a Market Registration Form designed to collect information from customers and businesses. Its purpose is to gather necessary details for market registration, likely for market research, marketing, or other business purposes. The form is not affiliated with any form platform and is an original creation. Before completing the form, please note that it is released under Creative Commons BY 4.0 license, allowing free use, modification, and even sale of derived forms, provided credit is given. Please ensure that the form is not used for spamming or other malicious activities. The form is intended for genuine market registration and should not be used to extract or copy content from other form platforms. Please use it responsibly.
-</thinking>
-
 # Market Registration Form - Help Guide
 ## Purpose
 The Market Registration Form is a tool to collect customer and business information for market registration purposes.

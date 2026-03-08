@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a Photo Contest Entry Form. Before we dive into the guide, let's quickly confirm that this form is intended for users to submit their entries for a photo contest. This form should not be used for any other purpose. Additionally, we'll review the provided YAML fields to ensure we don't have any redundant or unnecessary information. Our goal is to make the form easy to understand and complete for end-users. We'll follow the provided YAML structure for the explanation, which includes fields for first name, last name, email, phone number, photos, comments, agreement, and consent. With this understanding, let's move on to creating the help guide.
-</thinking>
-
 # Photo Contest Entry Form - Help Guide
 ## Purpose
 The Photo Contest Entry Form is for users to submit their entries for a photo contest. This form collects essential details and requirements for contest participants to provide their name, contact information, photos, and consent to participate.

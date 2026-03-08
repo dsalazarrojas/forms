@@ -1,7 +1,3 @@
-<thinking>
-  This form is for obtaining consent from clients for therapy collaboration. The purpose is to ensure that clients understand and agree to the sharing of their information with various parties. This form is required for all clients participating in therapy collaboration. It is essential to complete this form accurately to maintain confidentiality and ensure the best possible treatment outcomes.
-</thinking>
-
 # therapy_collaboration_consent_form - Help Guide
 ## Purpose
 The therapy collaboration consent form is a mandatory form that ensures clients understand and agree to the sharing of their information with various parties involved in their therapy collaboration.

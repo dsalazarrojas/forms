@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # secure_your_strategy_consultation - Help Guide
 ## Purpose
 This form is used to collect information about a lead's details and preferences for a secure your strategy consultation. The form helps to gather essential data to provide a personalized experience for the lead.

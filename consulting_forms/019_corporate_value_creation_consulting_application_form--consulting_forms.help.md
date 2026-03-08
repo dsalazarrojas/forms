@@ -1,13 +1,3 @@
-<thinking>
-We're designing a help guide for a Corporate Value Creation Consulting Application Form. The form is likely used for businesses or individuals seeking consulting services from a consulting firm. The form's purpose is to gather information about the applicant, their company, and their requirements. This information will be used to assess the applicant's eligibility for consulting services and to tailor the consulting approach to their needs. 
-
-The form should be filled out by someone who wants to inquire about or apply for consulting services. They will likely be the contact person or a representative from the company. 
-
-Before filling out the form, the applicant should ensure that they have all the required information, such as company details, job title, and contact method preferences. The applicant should also review the form carefully and answer all relevant questions truthfully.
-
-This guide will walk through the form fields and their purposes to help the applicant complete it accurately and effectively.
-</thinking>
-
 # Corporate Value Creation Consulting Application Form - Help Guide
 ## Purpose
 This form is used to gather information about your company and your needs for consulting services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Acceptance Policy Form - Help Guide
 
 ## Purpose

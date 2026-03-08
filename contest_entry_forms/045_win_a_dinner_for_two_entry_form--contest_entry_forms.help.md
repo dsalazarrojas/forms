@@ -1,6 +1,3 @@
-<thinking>
-This guide helps ensure that end-users understand how to use the "win_a_dinner_for_two_entry_form" correctly and consistently. It also ensures that users don't submit duplicate entries and that the data collected is consistent and correct.</thinking>
-
 # win_a_dinner_for_two_entry_form - Help Guide
 ## Purpose
 The "win_a_dinner_for_two_entry_form" is a contest entry form designed to collect information from individuals interested in participating in a dinner-related competition. 

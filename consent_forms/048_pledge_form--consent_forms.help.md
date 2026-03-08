@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting pledges from users, typically for donations or financial commitments. It is not intended for duplicate or test submissions, and users are expected to fill it out only once. The form is designed to collect basic personal information (first name, last name, and email) and details about the pledge (amount, currency, frequency, and notes). The form is meant to be completed in a single step, and the user is expected to review their submission before submitting it.
-</thinking>
-
 # Pledge Form - Help Guide
 ## Purpose
 This form is used to collect pledges from users for donations or financial commitments.

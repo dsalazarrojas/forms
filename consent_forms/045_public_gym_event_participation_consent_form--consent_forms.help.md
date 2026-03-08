@@ -1,6 +1,3 @@
-<thinking>
-This form is a public gym event participation consent form, which is designed to be filled out by individuals who are interested in participating in a public gym event. The form is meant to collect basic contact information and health status of the participants to ensure their well-being and safety during the event. It's likely that this form is being used in a physical gym setting, possibly for events such as yoga classes, workshops, or fitness classes. Before filling out this form, please ensure that you are eligible to participate in the event and are aware of the event's rules and guidelines. This form is not intended for emergency or sensitive situations, so please fill it out only if you are participating in a public gym event.</thinking>
-
 # Public Gym Event Participation Consent Form - Help Guide
 ## Purpose
 This form is a Public Gym Event Participation Consent Form, designed to collect contact information and health status of participants for the purpose of ensuring their well-being and safety during public gym events.

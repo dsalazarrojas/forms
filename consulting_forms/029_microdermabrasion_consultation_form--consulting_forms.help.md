@@ -1,13 +1,3 @@
-<thinking>... internal reasoning to explain the purpose of this form and check for relevance and non-duplication ...
-
-This form is used for patients to provide their general information, medical history, allergies, and medications before undergoing a microdermabrasion treatment. This form is likely used by a dermatologist or medical professional to assess the patient's suitability for the treatment and to identify any potential risks or contraindications.
-
-The form is structured into multiple pages, each with a specific section of questions. The first page (General Information) likely contains questions about the patient's personal details, such as name, contact information, and medical insurance. The second page (Medical History) is crucial as it may ask questions related to previous medical conditions, surgeries, or health issues that could impact the treatment. The third page (Allergies) asks patients to disclose any allergies they may have, which is essential for ensuring their safety. The fourth and fifth pages (Medications and Medications 2) are likely used to gather information about any medications the patient is currently taking, which can help the medical professional understand potential interactions with the microdermabrasion treatment.
-
-After reviewing the provided YAML, it seems there are some redundant fields. The "Medical History 2" and "Medications 2" fields appear to be unnecessary as their contents are likely to be similar to the fields on pages 2 and 4, respectively.
-
-</thinking>
-
 # Microdermabrasion Consultation Form - Help Guide
 
 ## Purpose

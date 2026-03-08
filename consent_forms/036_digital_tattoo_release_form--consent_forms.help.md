@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to obtain a legal release of rights from individuals who have appeared in digital content (e.g., images, videos, or audio recordings), such as tattoos, that the company may use, distribute, or license. This form ensures that individuals have given their consent to use their likeness, image, or voice in the company's content.
-This form is designed to be completed by individuals who have appeared in digital content, and it is meant to be filled out by them, not by the company staff.
-The form is used to document the individual's consent and the terms of the release, which can be used to protect the individual's rights and the company's use of their likeness.
-The form should only be used for individuals who have given their explicit consent to use their likeness, image, or voice in the company's content.
-</thinking>
-
 # Digital Tattoo Release Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain a legal release of rights from individuals who have appeared in digital content, such as tattoos, images, or videos, that the company may use, distribute, or license.

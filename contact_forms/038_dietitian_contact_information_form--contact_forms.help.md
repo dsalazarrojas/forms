@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for dietitians to collect and store contact information for clients. The form will help track and manage client relationships, ensuring that the dietician can keep accurate records and provide better care. Before proceeding, ensure that you are authorized to access and use this form for the intended purpose.
-</thinking>
-
 # dietitian_contact_information_form - Help Guide
 ## Purpose
 The dietitian contact information form is designed to collect and store contact information for clients, facilitating better communication and record-keeping for dietician services.

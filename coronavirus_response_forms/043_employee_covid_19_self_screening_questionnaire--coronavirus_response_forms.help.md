@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for employees to self-report on their health status, including any COVID-19 symptoms, travel history, contact details, and other relevant information. This form is likely used to track and manage employee health risks within the organization. Please ensure that you only report on your own health status and do not report for colleagues or other individuals. If you have reported in the past, please do not submit duplicate forms unless your status has changed.
-
-</thinking>
-
 # Employee COVID 19 Self Screening Questionnaire - Help Guide
 
 ## Purpose

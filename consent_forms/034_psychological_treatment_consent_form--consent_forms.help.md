@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from patients and individuals seeking psychological treatment. It is used to obtain their consent to participate in therapy sessions, provide emergency contact information, and collect other relevant details. Before filling out this form, ensure you have not already completed it for the same purpose in the past to avoid duplication of effort.
-
-This form is typically used for patients or individuals seeking counseling, therapy, or other forms of psychological treatment.
-
-Please note that some fields are optional, but it's essential to fill them out to provide comprehensive information.
-
-</thinking>
-
 # psychological_treatment_consent_form - Help Guide
 ## Purpose
 The psychological treatment consent form is used to gather essential information and consent from patients or individuals seeking psychological treatment. This form helps ensure that all parties involved are aware of their rights, responsibilities, and expectations.

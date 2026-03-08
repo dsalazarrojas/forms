@@ -1,10 +1,3 @@
-<thinking>
-The Front Desk Operations Feedback Form is designed to collect information from customers about their recent visit to our facility or interaction with our staff. The form is intended for customers who have experienced an issue or have suggestions for improvement for our front desk services. This form will help our team identify areas of improvement and provide a more efficient and satisfactory service to our customers.
-
-We will not be displaying any information about this form on our public-facing pages, so please do not include any unnecessary fields or information that would not be relevant or secure. Please only include fields that are necessary to collect the information required for the purpose stated above.
-
-</thinking>
-
 # Front Desk Operations Feedback Form - Help Guide
 ## Purpose
 This form is designed to help us understand your experience with our front desk services.

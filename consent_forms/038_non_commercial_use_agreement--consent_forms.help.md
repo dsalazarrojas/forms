@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about non-commercial use agreements, which are contracts that outline the terms and conditions under which a user or group of users will use certain resources, tools, or services without expecting to sell or trade them for profit. This form is meant to be used in situations where a non-commercial agreement is necessary to ensure that users are aware of and agree to the terms and conditions of the resource use. The form will be used to generate a document that outlines the agreement terms, which can be shared with users and stakeholders. When filling out this form, please ensure that the category is correctly selected and that the description is clear and concise. Also, please note that the "assigned_tool" field should be selected if the non-commercial use agreement is related to a specific tool or service, and if not, please select "Other" to indicate that this field is not applicable.
-</thinking>
-
 # Non Commercial Use Agreement - Help Guide
 ## Purpose
 The Non Commercial Use Agreement form is used to collect information about non-commercial use agreements, which are contracts that outline the terms and conditions under which a user or group of users will use certain resources, tools, or services without expecting to sell or trade them for profit.

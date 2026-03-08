@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency_medical_release_form - Help Guide
 ## Purpose
 The emergency medical release form is used in emergency situations to obtain consent from parents or guardians to provide medical treatment to their children. This form helps to ensure that medical professionals can provide necessary care while respecting individual privacy rights. It's essential to understand that this form is for emergency use only and is not a general medical consent form.

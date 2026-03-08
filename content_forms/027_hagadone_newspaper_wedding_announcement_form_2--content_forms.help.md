@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a wedding announcement form designed for couples to input information about their wedding details. It includes fields for the bride's and groom's names, wedding date and time, location, officiant's name, color scheme, invitation type, design, and text color, background color, border color, reception and ceremony locations, and reception note. The form is designed to be completed by couples to share their wedding plans with others.
-</thinking>
-
 # hagadone_newspaper_wedding_announcement_form_2 - Help Guide
 ## Purpose
 This form is designed to collect information about a couple's wedding details, including the bride and groom's names, wedding date and time, locations, and other relevant information to share with guests and loved ones.

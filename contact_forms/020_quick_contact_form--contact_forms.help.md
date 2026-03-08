@@ -1,5 +1,3 @@
-<thinking>Forms like this "Quick Contact Form" are typically used for capturing user contact information and allowing them to provide details or feedback. They are usually placed on a contact page or embedded within a website. Ensure that only one of the "Full Name" fields is completed and the "Email" fields are valid email addresses. Also, ensure that the "Phone" fields are numbers without special characters or spaces, and the "Date" fields are dates in the correct format (YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS).</thinking>
-
 # Quick Contact Form - Help Guide
 ## Purpose
 The Quick Contact Form is a form used for capturing user contact information and providing details or feedback.

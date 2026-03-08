@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect vital information from cruise passengers, including their personal details, contact information, and emergency contact information. This form is likely used by cruise operators or travel agencies to gather essential data for passenger registration, communication, and emergency response purposes.
-To avoid duplication and ensure accurate completion, please review the fields carefully and ensure you are filling out the correct information for the intended passenger.
-</thinking>
-
 # cruise_passenger_vital_information_form - Help Guide
 ## Purpose
 The cruise_passenger_vital_information_form is designed to collect essential information from cruise passengers, including their personal details, contact information, and emergency contact information.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the performance of a customer service agent. It helps assess their communication skills, customer service skills, problem-solving abilities, product knowledge, efficiency, and overall performance. The form also identifies the agent's strengths and areas for improvement, providing an opportunity for personal growth and development.
-
-To ensure the form is being used effectively, it is essential to review and fill it out thoroughly, taking into consideration the agent's performance during the evaluation period. The form should only be used for its intended purpose and not for other uses that may not align with its purpose. 
-
-Please review each field carefully and fill it out accurately to ensure you are providing valuable feedback to the agent. If any field is unclear or not applicable to the current situation, please contact the form's author for guidance.
-</thinking>
-
 # Agent Performance Evaluation Form - Help Guide
 ## Purpose
 The Agent Performance Evaluation Form is used to assess the performance of a customer service agent, evaluating their communication skills, customer service skills, problem-solving abilities, product knowledge, efficiency, and overall performance.

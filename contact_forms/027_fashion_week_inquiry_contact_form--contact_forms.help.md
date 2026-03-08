@@ -1,6 +1,3 @@
-<thinking>
-This form is for users to contact Fashion Week, potentially to inquire about sponsorship, press opportunities, or to provide feedback as a guest. It's essential to fill out the form accurately and consistently to ensure that your message reaches the right people and gets the necessary attention. Please do not submit duplicate inquiries as they will not be processed. Ensure that the sponsor category is selected correctly, as it will help our team direct your message accordingly.</thinking>
-
 # Fashion Week Inquiry Contact Form - Help Guide
 
 ## Purpose

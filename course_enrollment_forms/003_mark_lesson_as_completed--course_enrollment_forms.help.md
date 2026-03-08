@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the "Mark Lesson As Completed" form, which is used to mark a lesson as completed by a trainer or student. Before completing this form, please make sure you have the necessary permissions and that you are filling it out for the right lesson. To ensure accuracy, double-check that you are marking the correct lesson and that you have sufficient information to complete the form.
-
-</thinking>
-
 # Mark Lesson As Completed - Help Guide
 ## Purpose
 The "Mark Lesson As Completed" form is used to mark a lesson as completed by a trainer or student. This form is typically used to update the lesson status in the system.

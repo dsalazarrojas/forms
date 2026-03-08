@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture customer service requests, including their appointment preferences and availability. The purpose of this form is to provide a structured way for customers to communicate their needs to your company's customer service team. This form is used for internal purposes only and will not be shared publicly. Please make sure you are not duplicating a request that has already been made by the same customer.
-</thinking>
-
 # customer_service_appointment_request_form - Help Guide
 ## Purpose
 This form is used to capture customer service requests, including their appointment preferences and availability. It helps customers communicate their needs to your company's customer service team.

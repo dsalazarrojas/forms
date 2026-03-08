@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect user consent for facial recognition, which can be used for security, convenience, or research purposes. This form is used to gather information about the user, their consent status, and any additional comments or questions they may have. The form also collects submitter information, such as email and phone number, for contact purposes. The form is designed to be completed by individuals who wish to grant or deny access to their facial recognition data. It is essential to complete this form accurately and truthfully to ensure that the user's consent and information are correctly recorded.
-
-Before starting, please note that some fields are not mandatory, but it's recommended to fill them in for a complete record. Ensure that you understand the purpose of each field before completing the form.
-
-</thinking>
-
 # Facial Recognition Entry Consent Form - Help Guide
 ## Purpose
 This form is designed to collect user consent for facial recognition, which can be used for various purposes such as security, convenience, or research. Please fill out the form accurately and truthfully to ensure that your consent and information are correctly recorded.

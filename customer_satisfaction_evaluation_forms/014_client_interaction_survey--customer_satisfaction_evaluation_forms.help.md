@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is designed to help customers understand and complete the Client Interaction Survey form. The form is a tool used to gauge the quality of service provided by the organization. Its purpose is to collect feedback from clients on their recent interaction with staff members, which will help identify areas of improvement and provide insights for future interactions.
-
-This guide will walk through each field in the form to ensure that clients understand what is expected of them and what information they need to provide.
-
-</thinking>
-
 # Client Interaction Survey - Help Guide
 ## Purpose
 The Client Interaction Survey is a tool used to evaluate the quality of service provided by our organization. By providing feedback through this survey, you will help us to identify areas of improvement and provide better services in the future.

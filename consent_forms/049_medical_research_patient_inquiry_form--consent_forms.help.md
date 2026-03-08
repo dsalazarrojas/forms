@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from patients for medical research studies. This form is designed to collect patient demographic details and their interest in participating in medical research studies. The form is typically used for pre-screening purposes before enrolling patients in studies. This form does not duplicate the information already provided by patients, it serves as a supplementary form to get more details for better study matching and patient selection. If the patient has already provided information, filling out this form is redundant and not required. However, this form is necessary for patients who are new to the study or have not provided the necessary information before.</thinking>
-
 # Medical Research Patient Inquiry Form - Help Guide
 ## Purpose
 The Medical Research Patient Inquiry Form is a pre-screening form used to collect information from patients interested in participating in medical research studies.

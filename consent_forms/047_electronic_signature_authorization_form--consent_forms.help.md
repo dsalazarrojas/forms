@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Electronic Signature Authorization Form, we first need to understand the purpose of the form and the fields it contains. 
-
-The Electronic Signature Authorization Form is a document used for authorizing electronic signatures on various documents. It appears to be used in the context of business settings, where individuals or teams within an organization may need to authenticate electronic signatures. 
-
-Given the form's input schema, it's possible that the form is used for various types of agreements, policies, or contracts within an organization. Each field seems to capture relevant information about the organization, the signature, and the document being signed. 
-
-However, without further information, we cannot be entirely sure of the form's intended use, so we'll base our explanation on the fields provided. 
-
-</thinking>
-
 # Electronic Signature Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize electronic signatures on various documents within your organization. Please provide the necessary information to authenticate the electronic signature.

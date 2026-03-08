@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is used for collecting client information and consent for nail salon services during the COVID-19 pandemic. This form will ask for personal details such as name, phone number, and email address, as well as appointment date and time. Additionally, it will inquire about the client's health status, including symptoms, exposure, and vaccination, as well as any allergies or conditions. The client will also be asked to acknowledge the risks associated with COVID-19 and consent to receive salon services.
-</thinking>
-
 # COVID 19 Pandemic Nails Salon Services Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by individuals interested in registering for a Mental Health First Aid Course. The form collects information about the individual, including their name, contact details, and course date and time preferences. It is intended to be used by course organizers to collect relevant information from participants before the course begins. To ensure that this form is completed correctly, please review the fields carefully and fill in the required information. Note that this form has been designed with accessibility in mind, and all fields are optional, allowing individuals to provide as much or as little information as they feel comfortable with. Please do not submit this form multiple times, as it may cause confusion and duplication of effort.
-</thinking>
-
 # Mental Health First Aid Course Registration Form - Help Guide
 ## Purpose
 This form is designed to register individuals for a Mental Health First Aid Course. The course aims to provide individuals with the skills and knowledge to support their mental health and well-being.

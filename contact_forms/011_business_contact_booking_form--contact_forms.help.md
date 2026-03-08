@@ -1,5 +1,3 @@
-<thinking>This help guide is intended for users who are not familiar with our business contact booking form. Before proceeding, please note that this form is designed to collect contact information from potential customers or partners. If you are already a registered user or have a existing account, you may not need to complete this form. Also, please ensure that you are filling out this form for a legitimate business purpose, as any misuse of this form may be subject to our terms of service.</thinking>
-
 # Business Contact Booking Form - Help Guide
 ## Purpose
 The Business Contact Booking Form is designed to collect contact information from potential customers or partners who would like to schedule a meeting or appointment with our business. This form helps us understand your needs and preferences to better serve you.

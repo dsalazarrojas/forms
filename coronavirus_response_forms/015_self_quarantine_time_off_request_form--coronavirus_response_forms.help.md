@@ -1,7 +1,3 @@
-<thinking>
-We are developing this form to provide a clear and efficient way for employees to request time off due to quarantine situations. This form will help us track and manage the number of employees who are quarantined and need to take time off, ensuring we can provide the necessary support and resources to those affected. Before you start filling out this form, please note that it will be reviewed and approved by your manager, and it's a requirement for all employees to fill it out in case of a quarantine. 
-</thinking>
-
 # Self Quarantine Time Off Request Form - Help Guide
 ## Purpose
 This form is used to request time off due to a quarantine situation. It helps us to track and manage the number of employees who are quarantined and need to take time off.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a marketing project, allowing users to provide a clear and concise statement of work that outlines the project's objectives, timelines, budget, and other relevant details. The form should only be completed once per project, and it's essential to ensure that the information is up-to-date and accurate.
-</thinking>
-
 # Marketing Statement Of Work - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Marketing Statement Of Work form, which is used to document and track marketing projects.

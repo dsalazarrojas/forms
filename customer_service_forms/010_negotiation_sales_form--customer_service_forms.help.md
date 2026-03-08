@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for capturing sales negotiation information from customers. It seems to be a general-purpose form for any type of sale, rather than a specific product or service.
-The form has several fields for collecting information about the customer, including their name, email, phone number, and a message. It also includes fields for capturing details about the sale, such as the product being sold, the terms of the sale, and the date of the sale.
-There doesn't appear to be any specific logic or rules that determine the relevance of this form, so it's likely that this form is intended to be used in a variety of situations.
-</thinking>
-
 # negotiation_sales_form - Help Guide
 ## Purpose
 The negotiation sales form is designed to capture sales information from customers, allowing your team to track and document sales negotiations.

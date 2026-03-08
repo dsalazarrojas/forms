@@ -1,5 +1,3 @@
-<thinking>This form is used for verifying the identity of employees in the organization. The purpose of this form is to collect personal information about employees to ensure their identity and eligibility for certain benefits or services. This form should not be used for any other purpose, such as hiring or onboarding new employees.</thinking>
-
 # Identity Verification Form - Help Guide
 
 ## Purpose

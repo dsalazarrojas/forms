@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for clients to register for a course, providing them with the opportunity to specify their personal information, course preferences, and goals. It's likely that this form is used for course registration in a business or educational setting.
-Before completing this form, ensure that you are not duplicating your registration by checking if you have already registered for the course.
-</thinking>
-
 # Client Value Proposition Course Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information about you, the client, and your preferences for the course. It will help us tailor the course experience to your needs and ensure that you get the most out of your learning journey.

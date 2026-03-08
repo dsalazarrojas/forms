@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect patient information, medical history, and consent for vaccination during the COVID-19 pandemic. The form is intended for healthcare professionals to use in their clinics or offices.
-The form is not affiliated with, endorsed by, or derived from any form platform. It is an AI-generated adaptation of public survey topics and is released under CC BY 4.0 license.
-</thinking>
-
 # Covid 19 Questionnaire And Release Form - Help Guide
 ## Purpose
 This form is designed to collect patient information, medical history, and consent for vaccination during the COVID-19 pandemic.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a Christmas Story Contest submission form. It is intended for individuals to submit their original Christmas-themed stories for judging. The form is used to collect information about the author and their story, including contact details, story title, category, and theme. The form also collects information on the author's writing experience, age category, and how they heard about the contest. The form is used to ensure that the submissions meet the contest's rules and requirements. To avoid duplication, please do not submit the same story multiple times.
-
-</thinking>
-
 # Christmas Story Contest - Help Guide
 ## Purpose
 The Christmas Story Contest is a competition for original Christmas-themed stories. Submissions will be judged based on creativity, writing quality, and overall appeal. The contest is a chance for writers to showcase their talents and win publication in a future issue of our publication.

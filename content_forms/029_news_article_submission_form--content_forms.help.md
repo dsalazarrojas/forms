@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "News Article Submission Form", let's first clarify the form's purpose and ensure that it's not being duplicated.
-The purpose of this form is to allow users to submit news articles in a structured and organized manner. This form will be used to gather information about the article, including its title, content, author, category, and other relevant details. This information will be stored and used for further processing. To ensure that this form is being used correctly and consistently, let's review its fields and provide guidance on how to fill it out.
-</thinking>
-
 # News Article Submission Form - Help Guide
 ## Purpose
 This form is used to submit news articles with a set of structured information.

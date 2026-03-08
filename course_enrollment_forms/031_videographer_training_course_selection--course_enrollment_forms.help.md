@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants interested in video production courses. The form is intended to be completed by individuals who are looking to learn about video production and want to choose the most suitable course for their needs. It should only be completed by people who have not already enrolled in a video production course. 
-
-The form is divided into five sections. 
-Section 1, "Applicant Details", captures basic information about the applicant such as name and address. Section 2, "Course Interest", asks the applicant to select the course that interests them from a list of options. Section 3, "Training Availability", asks the applicant to provide a date when they are available for training. Section 4, "School Details", captures information about the school the applicant attended or is attending. Section 5, "Workshop Details", provides an optional text field for the applicant to provide any additional information about the workshop they are interested in.
-</thinking>
-
 # Videographer Training Course Selection - Help Guide
 ## Purpose
 This form is designed to collect information from applicants interested in video production courses.

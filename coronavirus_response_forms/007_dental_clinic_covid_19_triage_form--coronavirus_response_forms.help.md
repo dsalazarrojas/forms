@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to aid dental clinics in quickly triaging patients who may have been exposed to or are showing symptoms of COVID-19. The form will help gather essential information about the patient's recent travel history, exposure history, and symptoms, which will inform the clinic's decision on whether to test the patient for COVID-19 or take other necessary precautions.
-
-The form is designed to be completed by the patient, either in-person or remotely, and will guide them through a series of questions to determine their risk level.
-
-Before starting, please note that this form is intended for patients who have been experiencing symptoms or have had recent exposure to COVID-19. If you do not have any symptoms, please do not complete this form.
-
-Also, please be aware that the form will ask about sensitive information, such as your travel and exposure history. Please answer honestly and to the best of your ability.
-
-If you have any doubts or concerns about completing this form, please do not hesitate to contact the clinic.
-
-</thinking>
-
 # Dental Clinic COVID 19 Triage Form - Help Guide
 ## Purpose
 The Dental Clinic COVID-19 Triage Form is designed to help quickly identify and triage patients who may have been exposed to or are showing symptoms of COVID-19. This form will guide you through a series of questions to determine your risk level and inform the clinic's decision on how to proceed.

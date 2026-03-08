@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for invite purposes at the Wellness Center. This form is used to gather essential details about the guest, including their contact information, purpose of visit, and expectations. The form is designed to be completed by the customer themselves or on their behalf by a form submitter from the Wellness Center. This form is used to create a customer registration form for the guest. The form is required to be completed with all the necessary information for the guest to be registered properly.
-</thinking>
-
 # Wellness Center Invite Form - Help Guide
 
 ## Purpose

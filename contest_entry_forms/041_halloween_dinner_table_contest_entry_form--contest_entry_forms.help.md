@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger system used to manage and track user-submitted contest entries. It's used for a specific contest, likely a "Halloween Dinner Table" themed contest. The purpose of this form is to gather information from users who want to submit their own dinner table creation. The form is used to collect user data that will be reviewed and potentially featured in a public gallery.
-</thinking>
-
 # halloween_dinner_table_contest_entry_form - Help Guide
 ## Purpose
 This form is used to collect information about a user's Halloween dinner table creation. Users are encouraged to submit their own unique and creative dinner table ideas, including their name, contact information, and a description of their project.

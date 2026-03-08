@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tailoring_contest_entry_form - Help Guide
 
 ## Purpose

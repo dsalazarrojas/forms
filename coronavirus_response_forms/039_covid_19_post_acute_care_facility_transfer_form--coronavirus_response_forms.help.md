@@ -1,21 +1,3 @@
-<thinking>
-This form is used to transfer patients from one facility to another, specifically during the COVID-19 pandemic. The form is used to gather information about the patient's medical status, transfer details, and other relevant information to ensure a smooth transition of care. Before filling out this form, please ensure that you have all necessary information about the patient and that you are authorized to complete this form on their behalf.
-
-This form is designed to collect information from two facilities: the sending facility and the receiving facility. Please fill out the form accurately and completely to ensure that the patient's care is not disrupted during the transfer process.
-
-Before completing this form, you should have the following:
-
-*   Medical record access for the patient
-*   Authorization to transfer the patient
-*   Information about the patient's current medical status, including COVID-19 diagnosis and treatment history
-*   Contact information for the receiving facility
-
-Please ensure that the information you provide is accurate and up-to-date to avoid any errors or discrepancies during the transfer process.
-
-If you are unsure about any information or have any questions, please contact the receiving facility or the patient's primary care provider for guidance.
-
-</thinking>
-
 # COVID 19 Post Acute Care Facility Transfer Form - Help Guide
 ## Purpose
 This form is used to transfer patients from one facility to another during the COVID-19 pandemic, ensuring a smooth transition of care.

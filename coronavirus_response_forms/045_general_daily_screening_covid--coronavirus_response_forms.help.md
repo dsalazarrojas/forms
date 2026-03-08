@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who are experiencing symptoms related to COVID-19, also known as Coronavirus. The purpose of this form is to collect data for contact tracing, medical evaluation, and other internal processes. Please complete this form only if you are experiencing symptoms or have been diagnosed with COVID-19. Do not fill out this form if you are not experiencing symptoms or have not been diagnosed with COVID-19.
-
-To avoid duplication, please do not fill out this form if you have already done so in the past. If you are unsure whether you should fill out this form, please contact your local health authority for guidance.
-
-</thinking>
-
 # prophets_general_daily_screening_covid - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are experiencing symptoms or have been diagnosed with COVID-19.

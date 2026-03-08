@@ -1,7 +1,3 @@
-<thinking>
-To be clear, the purpose of this form is to gather information about an individual's travel history and health status, especially in relation to COVID-19. It appears that this form aims to assess whether an individual has any symptoms or exposure to COVID-19, their travel history, and other relevant details. This form is designed to be filled out by individuals who have traveled recently or are suspected of having been in contact with someone who has. This form is likely used in a medical or health-related context, such as in a hospital or healthcare setting.
-</thinking>
-
 # Travel Declaration Form - Help Guide
 ## Purpose
 The Travel Declaration Form is a tool used to gather information about an individual's travel history and health status, especially in relation to COVID-19.

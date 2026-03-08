@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # support_customer_feedback_survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to provide emergency contact information for a person associated with the organization. This form is intended to gather essential details for emergency situations, ensuring that relevant contacts can be quickly reached in case of an emergency. This form is not meant to be used for general contact purposes but specifically for emergency situations. It's essential to fill out this form with accurate and up-to-date information to ensure that the emergency contact can be reached effectively.
-
-</thinking>
-
 # Personal Emergency Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to gather emergency contact information from users to keep on file for situations where immediate contact is necessary.

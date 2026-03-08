@@ -1,13 +1,3 @@
-<thinking>
-Form purpose: This form is used to capture detailed information about a candidate referred to a course or program. The form aims to provide essential details about the referrer and the candidate being referred. By completing this form, users can facilitate the referral process and support a candidate's enrollment in a course or program.
-
-Internal checks to prevent duplication and ensure relevance of submissions:
-1.  The form is only relevant for candidates being referred by internal staff members (e.g., colleagues, managers) to ensure that only authorized staff can use this form.
-2.  The form will only be visible to internal staff members, preventing external users from accessing it.
-3.  To prevent duplication, the system will check if a similar form has been submitted within the last 30 days for the same candidate. 
-
-</thinking>
-
 # Advanced Course Referral Form - Help Guide
 
 ## Purpose

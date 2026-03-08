@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the Color Street inventory, allowing users to provide data on the style name, inventory count date, details, category, set name, quantity on hand, samples available, storage location, restock trigger level, estimated retail value, packaging condition, and general inventory notes. The form aims to gather accurate and up-to-date information for inventory management and restocking purposes. Please ensure that the form is completed accurately and thoroughly, as the data will be used for making informed decisions about restocking and inventory management. Before creating this guide, I've reviewed the form's schema and identified the following key fields:
-</thinking>
-
 # Color Street Inventory - Help Guide
 ## Purpose
 

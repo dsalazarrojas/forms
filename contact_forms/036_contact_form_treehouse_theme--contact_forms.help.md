@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll review the form's purpose and create a user-facing help guide that's concrete, concise, and practical.</thinking>
-
 # Contact Form Treehouse Theme - Help Guide
 ## Purpose
 The Contact Form Treehouse Theme is designed to gather information from users who visit or explore the treehouse. The form collects basic contact details, the user's forest of origin, and the primary purpose of their visit. The form helps the treehouse team to respond to user inquiries and provide better services.

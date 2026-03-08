@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect a user's medical history information, including allergies, past surgeries, family history, medical history, medications, past medical conditions, and any relevant medical notes. It's essential to fill this form accurately to provide a complete picture of a user's medical status for healthcare professionals to make informed decisions. This form is part of the customer registration process, and it's crucial to fill it out carefully to avoid duplication or omission of critical information.
-</thinking>
-
 # Medical History Form - Help Guide
 ## Purpose
 The Medical History Form is designed to collect essential medical information from users, helping healthcare professionals make informed decisions about their care and treatment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to check the status of a service order. The purpose of this form is to gather information about a service order, including its current status, the date and time it was requested, and the contact information of the service requester. This form is likely used by customer service representatives to check on the status of service orders and provide updates to customers.
-</thinking>
-
 # Service Order Status Check Form - Help Guide
 ## Purpose
 

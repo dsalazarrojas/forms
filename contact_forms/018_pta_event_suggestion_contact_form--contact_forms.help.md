@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## PTA Event Suggestion Contact Form - Help Guide
 
 ## Purpose

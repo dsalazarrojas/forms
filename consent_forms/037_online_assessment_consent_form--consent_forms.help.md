@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect online assessment consent from users. The purpose of this form is to obtain informed consent before conducting an online assessment, ensuring that users understand the nature of the assessment and agree to participate. This form will help ensure that users are aware of their rights and responsibilities during the assessment process.
-</thinking>
-
 # online_assessment_consent_form - Help Guide
 ## Purpose
 The online assessment consent form is used to collect informed consent from users before conducting an online assessment. It is a crucial step to ensure users understand the purpose, process, and implications of the assessment.

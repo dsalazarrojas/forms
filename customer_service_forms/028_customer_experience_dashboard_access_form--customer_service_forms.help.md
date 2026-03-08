@@ -1,8 +1,3 @@
-<thinking>
-To create the customer experience dashboard access form, we need to consider the following fields to be completed. This form is meant to gather information from customers about their experience. We need to ensure that the form is completed thoroughly and accurately to get the most out of the experience feedback. Please note that this form is not meant for internal use; it's for external customers. Ensure that you're using the correct format for each field to avoid any issues with submission. This form has a few different types of fields: text, email, select, date, time, and note fields. Text fields are for free-formatted input, while the email field is for email addresses. The select field allows you to choose one option from a list, and the date and time fields are for scheduling appointments. Note fields are for additional comments or notes. Please complete each field according to your needs, and ensure that you're filling out the form correctly to get the best results.
-
-</thinking>
-
 # customer_experience_dashboard_access_form - Help Guide
 
 ## Purpose

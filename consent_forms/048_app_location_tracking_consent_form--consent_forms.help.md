@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # App Location Tracking Consent Form - Help Guide
 
 ## Purpose

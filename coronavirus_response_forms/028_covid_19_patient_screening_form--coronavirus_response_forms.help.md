@@ -1,5 +1,3 @@
-<thinking>Before we dive into this help guide, let's quickly confirm that we are working with the COVID-19 Patient Screening Form. This form is designed to assess the risk of exposure to and infection with COVID-19 in patients, helping healthcare professionals determine the best course of action. It's a critical tool for identifying potential COVID-19 cases and preventing the spread of the disease.</thinking>
-
 # COVID 19 Patient Screening Form - Help Guide
 ## Purpose
 The COVID-19 Patient Screening Form is a tool for assessing the risk of exposure to and infection with COVID-19. It helps healthcare professionals identify potential cases and take necessary precautions to prevent the spread of the disease.

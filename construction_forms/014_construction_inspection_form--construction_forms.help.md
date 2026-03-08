@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Inspection Form - Help Guide
 
 ## Purpose

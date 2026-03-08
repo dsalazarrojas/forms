@@ -1,5 +1,3 @@
-<thinking>... This form is used to obtain a studio guest's consent for participation in a studio setting, including their permission to access certain features and areas of the studio, their signature, phone number, email, and other relevant details. This form should only be used for studio guests who have been approved by the studio owner. Each field is designed to capture specific information that is essential for the studio owner to know for the guest's visit. To avoid confusion, please ensure that you are filling out the correct type of form for your needs. Please review the form carefully before filling it out... </thinking>
-
 # Studio Guest Feature Consent Form - Help Guide
 ## Purpose
 This form is used to obtain a studio guest's consent for participation in a studio setting. It captures their permission to access certain features and areas of the studio, signature, phone number, email, and other relevant details.

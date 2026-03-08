@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture user information and course registration details for general knowledge examination purposes. The form is structured into several sections: user information, course information, test information, registration details, and contact information. The form asks for optional and required fields, depending on the type of information being requested. The purpose of this form is to gather relevant data from users to facilitate their examination registration process. The form does not require any specific prior knowledge or experience, making it accessible to a wide range of users. To ensure accurate and complete submission, please review each field carefully and provide the requested information accurately.
-
-</thinking>
-
 # General Knowledge Examination Registration Form - Help Guide
 
 ## Purpose

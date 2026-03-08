@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Water Service Application Form" form. The purpose of this form is to collect information from customers regarding their water service application. This form will help our team understand the customer's needs and provide them with the necessary services.
-</thinking>
-
 # Water Service Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their water service application. It is used to understand the customer's needs and provide them with the necessary services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Case Details Release Form - Help Guide
 
 ## Purpose

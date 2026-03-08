@@ -1,7 +1,3 @@
-<thinking>
-This form is for post-session feedback from seminar participants. It helps the organizers understand the participants' overall experience, rating of the seminar, and rating of the counselor. The purpose of this form is to gather feedback to improve future seminars.
-</thinking>
-
 # Post Session Survey - Help Guide
 
 ## Purpose

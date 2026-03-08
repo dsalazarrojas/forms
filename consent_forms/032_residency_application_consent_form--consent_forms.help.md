@@ -1,5 +1,3 @@
-<thinking>...This form is a crucial document that helps the residency application process move forward smoothly. When filling out this form, please ensure you're answering honestly and thoroughly. The questions are designed to understand your preferences and boundaries regarding data sharing and collection. Please take your time to fill out the form correctly, and if you're unsure about any question, don't hesitate to reach out to the relevant authorities. This form is a one-time requirement for the residency application process, and it's essential to fill it out accurately to avoid any delays or complications. Please note that the form is not a duplication of any other form, and it's a unique document designed specifically for this purpose....</thinking>
-
 # Residency Application Consent Form - Help Guide
 ## Purpose
 This form is part of the residency application process. It's designed to collect your consent for data sharing and collection. Please fill it out accurately to ensure a smooth application process.

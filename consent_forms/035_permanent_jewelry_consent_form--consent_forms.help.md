@@ -1,6 +1,3 @@
-<thinking>
-This form is for the client to provide information and consent for permanent jewelry, such as piercings or tattoos, with various details about the procedure, including client information, potential risks and concerns, and specific details about the permanent jewelry to be performed. The form is likely used in a medical or tattooing setting and the purpose of this form is to ensure the client's consent and understanding of the procedure. This form should not be used in duplicate or for temporary jewelry, and the client should be aware that this form is for permanent jewelry only. This form may need to be reviewed and updated to ensure it aligns with the relevant laws and regulations in your jurisdiction.</thinking>
-
 # Permanent Jewelry Consent Form - Help Guide
 ## Purpose
 

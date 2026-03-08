@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel_Safety_Measures_Acknowledgement_Form - Help Guide
 
 ## Purpose

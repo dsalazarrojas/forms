@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I need to understand the purpose of the "Casting Call Release Form" and its relevance to the context of the production. I will assume that this form is used for capturing necessary information from performers to release their rights for use in a production, such as a film, show, or project.</thinking>
-
 # Casting Call Release Form - Help Guide
 ## Purpose
 This form is used to collect information from performers regarding their release of rights for use in a production. It ensures that all necessary information is captured for the production team and the performer to understand their involvement and agreements.

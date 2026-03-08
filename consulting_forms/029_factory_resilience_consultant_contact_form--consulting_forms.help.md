@@ -1,7 +1,3 @@
-<thinking>
-We should first confirm that this form is for users to contact a Factory Resilience Consultant, likely for seeking advice or guidance on matters related to factory resilience, which is a crucial aspect of manufacturing operations that aims to improve stability and reliability in factories. Before filling out this form, users should ensure they have a clear understanding of the purpose and scope of their inquiry, to provide the most relevant and concise information. It's also essential to check if their query has already been addressed in existing resources, such as FAQs or past consultations, to avoid duplicating efforts. This form should be used for new, unique, or complex inquiries that require personalized attention and guidance from the consultant. By filling out this form, users can provide the necessary details for the consultant to offer tailored advice and support.
-</thinking>
-
 # Factory Resilience Consultant Contact Form - Help Guide
 
 ## Purpose

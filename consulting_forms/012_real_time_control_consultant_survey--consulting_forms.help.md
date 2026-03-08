@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_time_control_consultant_survey - Help Guide
 ## Purpose
 The real-time control consultant survey is a form designed to collect feedback from clients about their experience with the consultant. This form helps to identify areas of improvement and provide valuable insights for the consultant to enhance their services.

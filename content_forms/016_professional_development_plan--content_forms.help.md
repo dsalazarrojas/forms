@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals create a structured plan for their professional development, outlining their goals, objectives, strategies, and action steps to achieve them. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation using public survey topic metadata as inspiration.
-</thinking>
-
 # Professional Development Plan - Help Guide
 ## Purpose
 The Professional Development Plan form is designed to help you create a structured plan for your professional development. This form will guide you through identifying your goals, objectives, and strategies to achieve them.

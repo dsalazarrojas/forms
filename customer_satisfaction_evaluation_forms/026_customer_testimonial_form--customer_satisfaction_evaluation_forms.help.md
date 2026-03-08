@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gauge customer satisfaction and gather feedback on their experience with our business. The form is intended to collect qualitative data to help us understand what we're doing well and what we can improve. The goal is to foster a two-way communication channel between our customers and our business, allowing us to refine our services to better meet their needs.
-The form is not a mandatory component of the sales process and is intended for customers who are willing to provide feedback.
-Please ensure that the information provided is accurate and up-to-date to facilitate effective analysis.
-</thinking>
-
 # Customer Testimonial Form - Help Guide
 ## Purpose
 The Customer Testimonial Form is designed to collect feedback and testimonials from customers to improve our business services.

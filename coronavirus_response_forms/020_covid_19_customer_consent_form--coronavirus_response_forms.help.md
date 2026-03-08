@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of this form, we'll need to understand the context of the COVID-19 pandemic and the need for health and safety measures during this time. 
-
-This form is designed to collect sensitive information about individuals visiting a facility or receiving services related to COVID-19, ensuring they are aware of the risks and take necessary precautions. The form aims to assess health screening, vaccination status, potential exposure, and the individual's understanding of safety protocols.
-
-Before completing this form, ensure you have not filled it out previously for the same purpose. 
-
-</thinking>
-
 # COVID 19 Customer Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their health status, safety protocols, and vaccination history to ensure a safe environment during the COVID-19 pandemic.

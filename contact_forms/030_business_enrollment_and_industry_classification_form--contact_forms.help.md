@@ -1,9 +1,3 @@
-<thinking> 
-
-To create a comprehensive help guide for this form, I'll follow the provided YAML structure to understand the form's purpose and fields. The form appears to be a business enrollment and industry classification form used for categorizing and registering businesses in a specific context. It collects essential information about a business's identity, address, industry, and contact details. The fields cover various aspects of a business, including its name, structure, address, industry, and contact information.
-
-</thinking>
-
 # Business Enrollment And Industry Classification Form - Help Guide
 
 ## Purpose

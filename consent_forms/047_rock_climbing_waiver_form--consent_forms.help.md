@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to help organizations and business owners create a simple and effective form for collecting essential information from customers or clients who plan to participate in rock climbing activities. The form should not be used for commercial purposes or as a substitute for legal advice. It is meant to be a general guide for collecting basic contact and emergency contact information.
-
-</thinking>
-
 # Rock Climbing Waiver Form - Help Guide
 ## Purpose
 This form is a basic waiver form designed to collect essential information from participants in rock climbing activities. It includes fields for participant information, waiver details, emergency contact, and participant signature.

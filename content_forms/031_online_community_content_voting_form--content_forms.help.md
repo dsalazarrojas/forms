@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to vote on content within the online community. It's intended for users who want to express their opinion on a piece of content, such as a post, image, or video. The form should only be filled out once per content item. If you've already voted on a piece of content, you should not attempt to vote again.
-</thinking>
-
 # Online Community Content Voting Form - Help Guide
 ## Purpose
 This form is used to allow users to vote on content within the online community, such as posts, images, or videos.

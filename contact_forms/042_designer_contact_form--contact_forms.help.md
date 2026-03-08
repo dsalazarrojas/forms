@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # designer_contact_form - Help Guide
 ## Purpose
 The designer_contact_form is a contact form for designers to provide their contact information and category selection for communication and collaboration purposes.

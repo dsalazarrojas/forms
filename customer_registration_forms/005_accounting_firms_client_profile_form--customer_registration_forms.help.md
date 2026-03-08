@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accounting Firms Client Profile Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about the client's company profile. It helps us understand your business's details, which is crucial for providing personalized and efficient accounting services. Please fill out the form accurately and completely to ensure that we can best serve your needs.

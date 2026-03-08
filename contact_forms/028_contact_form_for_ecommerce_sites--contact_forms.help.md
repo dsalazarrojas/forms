@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a general contact form for ecommerce sites, allowing customers to send their feedback, complaints, and suggestions. It can be used by customers to report any issues or problems they're experiencing with their orders, or to make suggestions for improvement. This form is meant to be a one-stop-shop for customers to get in touch with the site's administrators.
-This is the same form used across the site, hence there's no need for a duplicated version. Please make sure to fill in all required fields as this information is necessary for us to process your inquiry efficiently.</thinking>
-
 # Contact Form For Ecommerce Sites - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to contact us with their feedback, complaints, or suggestions about our ecommerce site.

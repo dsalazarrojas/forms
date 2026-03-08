@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for customers to submit their applications for customer success programs and services. The form collects information about the customer's business, including company name, contact person, contact information, business type, address, and social media presence. This information is used to assess the customer's eligibility for our customer success programs and services.
-
-The purpose of this form is to gather relevant information about the customer's business to provide them with the best possible service.
-
-This form will not ask for any sensitive or confidential information.
-
-The form will only ask for information that is publicly available or easily verifiable by the customer themselves.
-
-</thinking>
-
 # customer_success_application_form - Help Guide
 ## Purpose
 This form is designed to gather information about your business for our customer success programs and services.

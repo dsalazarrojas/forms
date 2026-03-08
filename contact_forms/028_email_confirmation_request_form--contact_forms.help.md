@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # email_confirmation_request_form - Help Guide
 ## Purpose
 This form is used to request an email confirmation for a user account. It is a crucial step for users to confirm their email address and receive a verification email from the system. 

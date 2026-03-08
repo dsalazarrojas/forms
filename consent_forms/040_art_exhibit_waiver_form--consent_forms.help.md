@@ -1,9 +1,3 @@
-<thinking>
-The Art Exhibit Waiver Form is a document that artists and galleries use to establish a mutually agreed-upon contract for the exhibition of artwork. This form helps ensure that both parties understand their rights, responsibilities, and compensation terms for the exhibition. It covers essential details such as artist information, artwork specifications, insurance and protection, and terms and conditions of exhibition. 
-The form is intended to be used by artists exhibiting their work in galleries, museums, or other exhibition spaces. It's a crucial document to protect both the artist and the gallery from potential liabilities and misunderstandings. By filling out this form, artists can specify their terms, including insurance coverage, commission fees, and exhibition permissions.
-
-</thinking>
-
 # Art Exhibit Waiver Form - Help Guide
 
 ## Purpose

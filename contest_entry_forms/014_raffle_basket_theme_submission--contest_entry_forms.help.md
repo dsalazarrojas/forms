@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit a raffle basket theme proposal. The purpose of this form is to allow individuals to propose and submit their raffle basket theme ideas. It is essential to ensure that only unique submissions are made, so the form will guide users on how to fill it out correctly. The form will check for duplicates and will not allow multiple submissions with the same title, description, estimated value, raffle items, raffle basket themes, or theme description. The system will also prevent overwriting of estimated value or theme description if they are already submitted by another user. This guide will walk you through how to fill out the form correctly and provide explanations for each field.
-</thinking>
-
 # raffle_basket_theme_submission_form - Help Guide
 ## Purpose
 The raffle basket theme submission form is designed to collect theme ideas for raffle baskets. The form will help you propose a theme that fits your style and interests. By filling out this form, you will be able to submit a unique theme proposal with a title, description, estimated value, and other relevant details.

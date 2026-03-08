@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by hair salons to collect information from new clients. The form collects personal and contact information, which will help the salon to better serve the client. It is likely that the form will be used by the salon staff to create or update a client's profile in their system. The form is not intended to be used for any other purpose.
-The form does not appear to be used for any other purpose that would suggest duplication of effort.
-</thinking>
-
 # Hair Salon New Client Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from new clients to be used by the hair salon for client management and communication.

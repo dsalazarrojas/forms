@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers on their experience with the customer support service. The form is designed to collect demographic information, ratings, and comments on various aspects of the service. This information will help us identify areas of improvement and ensure that our customers receive the highest level of service quality.
-</thinking>
-
 # customer_support_evaluation_form - Help Guide
 ## Purpose
 The Customer Support Evaluation Form is designed to gather feedback from customers on their experience with our customer support service. This form helps us understand how we can improve our service to better meet your needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients to assess their eligibility for COVID-19 vaccination. The form will help healthcare professionals make informed decisions about vaccination administration. The form will ask for patient demographics, health screening questions, medical history, and consent to vaccination. This form is meant to be completed by patients or their authorized representatives and will help ensure that patients receive safe and appropriate care.
-</thinking>
-
 # COVID-19 Vaccination Screening Questionnaire - Help Guide
 
 ## Purpose

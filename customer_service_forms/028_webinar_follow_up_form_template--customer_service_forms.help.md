@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <details>
 # Webinar Follow Up Form Template - Help Guide
 
@@ -31,7 +29,5 @@ To complete this form, simply follow these steps:
 * Keep your responses clear and concise.
 * If you have any questions or concerns, feel free to contact us for assistance.
 </details>
-
-<thinking>...</thinking>
 
 This help guide will help users understand the purpose and process of completing the Webinar Follow Up Form Template.

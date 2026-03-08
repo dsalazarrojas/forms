@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and approvals for extracurricular activities from students, teachers, and parents. This form will help schools manage and track student involvement in extracurricular activities, ensuring that all necessary approvals and comments are recorded. To prevent duplication, the school administration will review each request carefully and only process new requests.
-</thinking>
-
 # extracurricular_activity_approval_form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking> 
-This guide helps ensure the form's purpose is clear and its fields are correctly filled out by users, preventing duplication and misinterpretation of the form's intent.
-</thinking>
-
 # Creative Writing Competition Entry - Help Guide
 ## Purpose
 The Creative Writing Competition Entry form is used to collect information from students who wish to participate in a creative writing competition. The form is used to gather essential details about the student's entry, including their name, email, and submission information. By filling out this form, students can submit their creative work for review and evaluation.

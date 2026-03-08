@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect contact information and emergency contact details from users who wish to participate in social distancing programs at Marshere Dance Studio. The form is intended to ensure that users understand and agree to the Terms of Service, which likely include liability waivers, confidentiality agreements, and other legal requirements. To avoid redundancy, the form should not be used for other purposes such as membership applications or payment collection.
-
-</thinking>
-
 # marshere_dance_studio_social_distancing_terms_of_service_agreement_form - Help Guide
 ## Purpose
 This form is a Terms of Service agreement for users participating in social distancing programs at Marshere Dance Studio. It collects essential contact information, emergency contact details, and user consent to the studio's terms and conditions.

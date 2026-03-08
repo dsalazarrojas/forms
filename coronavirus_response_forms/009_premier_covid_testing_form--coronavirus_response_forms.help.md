@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for COVID-19 testing purposes. It appears to be a comprehensive form that covers various aspects of patient information, test details, and laboratory or medical clinic specifics. To confirm, I will review the form structure and fields to ensure that I provide accurate and clear guidance for end-users.
-</thinking>
-
 # Premier COVID Testing Form - Help Guide
 ## Purpose
 The Premier COVID Testing Form is a tool used to collect necessary information from patients for COVID-19 testing. This form is designed to gather details about the patient, the test type, test result, and laboratory or medical clinic specifics.

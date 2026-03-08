@@ -1,8 +1,3 @@
-<thinking>
-This is an example of a help guide for a form that asks for information about a pre-and-post intervention survey, likely used for research or clinical purposes. The form appears to be used to collect demographic and behavioral data about participants in an intervention program, including their employment status, occupation, education level, income, gender, age, and more. The form also captures information about the type of intervention, its frequency, and any pre- and post-intervention changes experienced by participants. To ensure accuracy and relevance, it is recommended to check that this form is not a duplicate and that the title is correct. 
-
-</thinking>
-
 # Pre-and-Post Intervention Survey - Help Guide
 ## Purpose
 The Pre-and-Post Intervention Survey is a form used to collect information about participants in an intervention program. The survey aims to gather demographic and behavioral data, including employment status, occupation, education level, income, gender, age, and more.

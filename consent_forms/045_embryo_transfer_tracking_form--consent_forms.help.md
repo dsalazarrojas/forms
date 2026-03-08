@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to track the transfer of embryos from a patient to a clinic. The form is designed to capture relevant information about the patient, the procedure, the clinic, and any contact information for the transfer. The main goal of the form is to provide a comprehensive record of the embryo transfer process. It's essential to complete this form accurately and thoroughly to ensure that all relevant details are captured and that the transfer is properly documented.
-
-</thinking>
-
 # Embryo Transfer Tracking Form - Help Guide
 ## Purpose
 

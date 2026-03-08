@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather contact information and inquiry details from potential consulting partners who are interested in partnering with us. It is essential to complete this form accurately and thoroughly to ensure that we can follow up with you promptly and provide you with the necessary information. Please do not complete this form if you have already reached out to us previously. If you have filled this form out previously, please do not fill it again to avoid duplication of effort and potential confusion.</thinking>
-
 # process_automation_consulting_partner_contact_form - Help Guide
 ## Purpose
 This form is used to gather contact information and inquiry details from potential consulting partners.

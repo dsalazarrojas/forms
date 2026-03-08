@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for employees of the facility to provide consent for the use and processing of their personal data for the purpose of using Facility AI Analytics. The form should only be filled out by employees of the facility, and should not be completed by external individuals. 
-
-The goal of this form is to establish a clear understanding and documentation of consent, so that Facility AI Analytics can be used in accordance with legal and regulatory requirements. 
-
-The form is designed to collect information about the individual's consent status and any additional comments or questions they may have.
-
-</thinking>
-
 # Facility AI Analytics Consent Form - Help Guide
 ## Purpose
 The Facility AI Analytics Consent Form is a mandatory form for employees of the facility to provide consent for the use and processing of their personal data. This form is intended to ensure that all employees are aware and agree to the terms of using Facility AI Analytics.

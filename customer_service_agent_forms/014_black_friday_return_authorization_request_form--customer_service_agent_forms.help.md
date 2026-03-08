@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for this form, let's break down the internal reasoning behind this form. The Black Friday Return Authorization Request Form is used for customers to request authorization to return items purchased on Black Friday. This form is essential for customers to initiate the return process, providing all the necessary information for the return process. By filling out this form, customers can specify the reason for the return, details about the item, and their preferred resolution.
-
-Internal reasoning check: This form is likely to be used by customers who have purchased items during the Black Friday sales and are not satisfied with the items. It's essential to ensure that customers fill out the form accurately to avoid any potential issues with returns.
-
-</thinking>
-
 # Black Friday Return Authorization Request Form - Help Guide
 ## Purpose
 The Black Friday Return Authorization Request Form is used for customers to request authorization to return items purchased on Black Friday. This form helps customers to initiate the return process and provides all the necessary information for the return.

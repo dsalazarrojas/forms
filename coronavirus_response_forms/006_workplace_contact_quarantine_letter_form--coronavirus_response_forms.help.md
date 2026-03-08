@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to be used by employees to report their workplace contact quarantine information to their employer. The form is meant to be completed by an individual employee who has been exposed to COVID-19 and needs to inform their employer about their quarantine status. The form should only be filled out by employees who have been exposed to COVID-19 and are seeking to report their quarantine status. If the employee has already reported their quarantine status, do not fill out this form.
-
-To complete this form, follow these steps:
-
-1. Provide general information about your workplace and employment.
-2. Fill in the details of your employee information, including your employee ID, name, and job title.
-3. Describe your exposure to COVID-19, including the date and location of exposure.
-4. Outline the quarantine procedure your employer will follow for you to return to work.
-5. Fill in the date of your last day of work and expected date of return to work.
-6. Write a note to your workplace about your quarantine status.
-7. Sign and date the form.
-</thinking>
-
 # Workplace Contact Quarantine Letter Form - Help Guide
 ## Purpose
 The purpose of this form is for employees to report their workplace contact quarantine information to their employer.

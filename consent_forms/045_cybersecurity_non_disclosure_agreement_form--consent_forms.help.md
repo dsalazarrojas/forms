@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cybersecurity Non-Disclosure Agreement Form - Help Guide
 ## Purpose
 This form is used to collect the necessary information for a cybersecurity non-disclosure agreement between a company and an individual or organization. It captures the date and details of the agreement, acknowledgement, and other relevant information. This form is used for internal record-keeping and to ensure that all necessary steps are taken to comply with regulatory requirements.

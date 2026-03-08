@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inherited_property_buyout_agreement_form - Help Guide
 ## Purpose
 The Inherited Property Buyout Agreement Form is designed to document the transfer of ownership between two or more individuals, typically in the context of inherited properties, trusts, or other assets. This form helps to outline the terms and conditions of the agreement, ensuring a clear understanding between the parties involved.

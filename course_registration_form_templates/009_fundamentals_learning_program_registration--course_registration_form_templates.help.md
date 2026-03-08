@@ -1,10 +1,3 @@
-<thinking>
-This is a thought block for the form designer and technical writer to consider before outputting the help guide:
-1. **Form Purpose**: The form is for collecting information about students registering for the Fundamentals Learning Program. This includes general student information, program enrollment, contact details, and payment terms. The form might be used by program administrators or instructors to collect information from students before the program starts.
-2. **Relevance**: This form is relevant to students who want to enroll in the Fundamentals Learning Program, and it helps the program administrators or instructors to keep track of student information and payment terms.
-3. **Non-Duplication**: The form is not duplicating any existing form or survey. It's an original adaptation created using public survey topic metadata as inspiration.
-</thinking>
-
 # Fundamentals Learning Program Registration - Help Guide
 ## Purpose
 The Fundamentals Learning Program Registration form is designed to collect information from students who want to enroll in the program. This form helps program administrators or instructors to keep track of student information and payment terms.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a free demo of a product or service, allowing users to provide personal details and schedule a meeting at their convenience. The form is designed to gather contact information, schedule availability, and any additional comments or questions the user may have. This form should be used by users who are interested in learning more about the product or service and would like to schedule a demo to see its features in action.
-</thinking>
-
 # Request A Free Demo 2 - Help Guide
 ## Purpose
 The purpose of this form is to request a free demo of a product or service. Fill out the form to provide your details and schedule a meeting at your convenience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Little Acres Learning Academy Emergency Form - Help Guide
 
 ## Purpose

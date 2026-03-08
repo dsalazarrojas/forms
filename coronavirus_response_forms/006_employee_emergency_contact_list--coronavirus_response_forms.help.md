@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's clarify the form's purpose and ensure it's not a duplication of effort. The form is designed to collect emergency contact information for employees, which is a crucial aspect of workplace safety and emergency procedures. This form will help the organization maintain an up-to-date and accurate list of emergency contacts for each employee. It's essential to avoid duplication of effort and ensure that the form is not used for other purposes or as an alternative to other existing systems.</thinking>
-
 # Employee Emergency Contact List - Help Guide
 ## Purpose
 This form is designed to collect and maintain an up-to-date list of emergency contacts for employees in the organization. This information is crucial in case of an emergency or unexpected event that requires immediate attention.

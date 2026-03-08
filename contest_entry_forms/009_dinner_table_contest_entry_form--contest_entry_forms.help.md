@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect entry submissions for a dinner table contest. The purpose of the form is to gather information about each entry, such as contact information, culinary details, dietary restrictions, and entry type. This form will likely be used to judge and select the winning entries for the contest.
-
-To prevent duplicate entries, this form should not be submitted multiple times by the same user.
-
-</thinking>
-
 # Dinner Table Contest Entry Form - Help Guide
 ## Purpose
 The Dinner Table Contest Entry Form is a submission form for the dinner table contest. This form collects information about each entry, including contact information, culinary details, and entry type.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the effectiveness of customer service in retail stores. It is meant to gather feedback from customers on their experience with the store's customer service representatives, store appearance, location, and overall satisfaction. 
-
-It is essential that this form is completed by a genuine customer, as it will help to identify areas of improvement and provide valuable insights for the store's management to make informed decisions. The form should not be filled out by anyone other than a customer who has recently visited the store.
-
-</thinking>
-
 # Retail Customer Service Effectiveness Assessment - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers on their experience with the store's customer service representatives, store appearance, location, and overall satisfaction. This feedback will help the store's management to identify areas of improvement and make informed decisions to enhance customer experience.

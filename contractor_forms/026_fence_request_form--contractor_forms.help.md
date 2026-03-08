@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the form is used correctly, let's first confirm that it's being used for its intended purpose and not duplicating effort.
-The Fence Request Form is used to collect information about a customer's fence request, including their contact details and the specifics of their fence installation needs. This form should only be used for customers who are interested in requesting a fence installation, and not for any other purpose.
-</thinking>
-
 # Fence Request Form - Help Guide
 ## Purpose
 The Fence Request Form is a tool used to collect information from customers who are interested in requesting a fence installation. This form helps us gather essential details about their needs and preferences.

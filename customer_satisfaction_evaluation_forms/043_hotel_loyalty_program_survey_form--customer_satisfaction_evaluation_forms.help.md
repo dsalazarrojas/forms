@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Hotel Loyalty Program Survey Form is designed to gather feedback from customers about their stay experience, satisfaction with the hotel and its loyalty program, and other relevant aspects of their visit. This form aims to help the hotel management identify areas of improvement and make data-driven decisions to enhance customer satisfaction and loyalty. The form is not mandatory, and respondents are encouraged to provide their honest opinions to help the hotel provide better services.
 
 # Hotel Loyalty Program Survey Form - Help Guide

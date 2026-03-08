@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to gather contact information and details about an inquiry from a potential client, visitor, or partner, and to provide a clear and concise way for them to reach out to the blogger for collaborations, sponsorships, or other business-related opportunities.
-
-The form is designed to collect information that is helpful for the blogger to understand the nature of the inquiry, the client's needs, and to facilitate a response that meets their expectations.
-
-Before completing the form, ensure that you are using it for its intended purpose. This form is not meant to be used for self-promotion or spamming. Please respect the blogger's time and resources.
-
-Also, note that some fields are optional, but filling them out can help provide more context and information that the blogger can use to better assist you.
-
-</thinking>
-
 # Blogger Contact Form - Help Guide
 ## Purpose
 The Blogger Contact Form is designed for you to get in touch with the blogger for inquiries, collaborations, or business opportunities. It's meant to provide a clear and concise way for you to submit your contact information and details about your needs.

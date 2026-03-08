@@ -1,6 +1,3 @@
-<thinking>Internal reasoning block:
-The purpose of this form is to collect information from organizations or groups requesting a COVID-19 vaccination clinic. The form helps the clinic management team understand the needs and requirements of the requesting group, including the date and time of the request, group size, and specific needs such as accessibility and language support. By filling out this form, the requester will be able to provide detailed information about their organization, including their name, contact information, and demographic details. The form also asks about the requester's experience with hosting a vaccination clinic before and their ability to provide volunteer staff. The form's information will help the clinic management team plan and prepare the clinic accordingly.</thinking>
-
 # COVID 19 Vaccination Clinic Request Form - Help Guide
 ## Purpose
 This form is a request for a COVID-19 vaccination clinic. Complete this form to provide information about your organization's needs and requirements for a successful clinic.

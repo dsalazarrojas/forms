@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect information from participants who want to join the "Online Assessment Innovation Challenge". The form is designed to be a simple registration process for individuals who want to participate in the challenge. The form's layout is straightforward, with multiple fields that require participants to provide their basic information. This form is not affiliated with any form platform, and its content is generated using a combination of public survey topic metadata and machine learning algorithms. This form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and distribute it freely, as long as they give credit to the original creator.
-</thinking>
-
 # Online Assessment Innovation Challenge Registration Form - Help Guide
 ## Purpose
 The Online Assessment Innovation Challenge Registration Form is designed to collect information from participants who want to join the "Online Assessment Innovation Challenge". It is a simple registration process that helps the organizers understand who is participating and what they want to achieve from the challenge.

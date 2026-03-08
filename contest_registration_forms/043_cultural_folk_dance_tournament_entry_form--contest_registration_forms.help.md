@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the "cultural_folk_dance_tournament_entry_form" form, which is used for registering entries for a cultural folk dance tournament. This form collects information from contestants, including their personal details and team information. The form is used to ensure that all entries are properly documented and verified before the tournament begins. 
-
-To avoid duplication of effort, we will make sure to review the form carefully and only proceed with creating the help guide after confirming that all fields are complete and accurate. 
-
-</thinking>
-
 # cultural_folk_dance_tournament_entry_form - Help Guide
 ## Purpose
 This form is used to register entries for a cultural folk dance tournament. Fill out this form accurately and completely to ensure your team's entry is considered for participation in the tournament.

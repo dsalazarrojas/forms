@@ -1,7 +1,3 @@
-<thinking>
-This form was created for general contact purposes, allowing users to provide their names, email addresses, and messages for potential future interactions or responses. It is not associated with any specific business or project and is intended for use on public platforms. There is no need to fill out the form if you are not interested in contacting the form owner. Please do not use the form for commercial or malicious purposes. 
-</thinking>
-
 # Mini Contact Form - Help Guide
 ## Purpose
 The Mini Contact Form is designed for users to provide their contact information and messages to the form owner. It is a simple and straightforward form meant for general contact purposes.

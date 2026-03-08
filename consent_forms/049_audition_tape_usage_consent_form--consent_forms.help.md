@@ -1,5 +1,3 @@
-<thinking>...This help guide is intended to assist users in understanding the purpose and requirements of the Audition Tape Usage Consent Form. The form is used to obtain consent from performers for the usage of their audition tapes in various capacities, including casting decisions, director review, and marketing materials. The form helps to clarify the terms of tape usage, including the duration of usage, distribution scope, and compensation for usage. It is a crucial document that protects the rights of performers while allowing productions to utilize their audition tapes for legitimate purposes. Ensure that you understand all the questions and conditions before providing consent... </thinking>
-
 # Audition Tape Usage Consent Form - Help Guide
 ## Purpose
 The Audition Tape Usage Consent Form is a document that requires you to provide consent for the usage of your audition tape in various capacities. This form is used by production companies to obtain permission from you to use your audition tape for specific purposes, including casting decisions, director review, and marketing materials.

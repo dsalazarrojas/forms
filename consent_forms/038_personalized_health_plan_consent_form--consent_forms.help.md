@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a consent form for a personalized health plan, which is used to obtain the consent of patients for various health services. The form is likely used in a medical setting where patients need to provide their consent for treatment or services. The form's layout and fields suggest that it's designed to collect patient information, contact details, and consent for specific health services, as well as the date and time of the consent.
-
-Before proceeding, please ensure that you are filling out this form in the context of your healthcare services and that you have the necessary permissions to access this form.
-
-</thinking>
-
 # Personalized Health Plan Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the consent of patients for personalized health plans. It collects patient information, contact details, and consent for various health services.

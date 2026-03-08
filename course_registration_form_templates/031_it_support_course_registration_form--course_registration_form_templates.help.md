@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # it_support_course_registration_form - Help Guide
 
 ## Purpose

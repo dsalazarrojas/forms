@@ -1,9 +1,3 @@
-<thinking>
-This form is likely being used for capturing user information and details related to a fitness transformation program. The form's purpose is to collect data from individuals who have undergone a fitness transformation program, whether it's a competition or a personal achievement. This information will be used to evaluate and document the transformation, as well as potentially be used for future reference or follow-up communications. To ensure accuracy and consistency, it's essential to complete this form carefully and truthfully.
-
-Before proceeding, ensure you've not already submitted this form or are not duplicating your data. If you're unsure, please clarify with the program administrators.
-</thinking>
-
 # Fitness Transformation Release Form - Help Guide
 ## Purpose
 The Fitness Transformation Release Form is designed to collect data from individuals who have undergone a fitness transformation program. This information will be used to evaluate and document the transformation, as well as potentially be used for future reference or follow-up communications.

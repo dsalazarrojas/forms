@@ -1,7 +1,3 @@
-<thinking>
-The `covid_employee_screening_form` is designed to collect information from employees regarding their recent travel history, potential exposure to individuals with COVID-19 symptoms, and their own health status. This form is typically used during the initial screening process when an employee reports to the workplace after a period of absence. The goal is to quickly assess the risk of COVID-19 transmission within the organization and ensure that the employee is not a potential risk to their colleagues.
-</thinking>
-
 # covid_employee_screening_form - Help Guide
 ## Purpose
 The `covid_employee_screening_form` is a tool used to gather information about an employee's recent travel history, potential exposure to individuals with COVID-19 symptoms, and their current health status. This form helps to quickly identify potential risks of COVID-19 transmission within the organization.

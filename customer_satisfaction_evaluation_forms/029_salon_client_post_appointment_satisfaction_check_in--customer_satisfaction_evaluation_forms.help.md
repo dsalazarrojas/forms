@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback and satisfaction data from clients after a service has been provided. The form is meant to be used to improve the overall experience and service quality at the salon. It's essential to ensure that each client fills out the form accurately and thoroughly to provide the most valuable feedback.
-</thinking>
-
 # salon_client_post_appointment_satisfaction_check_in - Help Guide
 ## Purpose
 This form is designed to collect feedback and satisfaction data from clients after a service has been provided at the salon. The collected data will be used to evaluate and improve the overall experience and service quality.

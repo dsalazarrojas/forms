@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect essential information and consent from participants in the NGO program evaluation process. This form aims to ensure that participants are aware of and agree to the terms of their data collection and usage. It is crucial to understand that this form is a legal agreement between the participant and the evaluating organization, and its purpose is to establish a clear understanding of the participant's consent and boundaries. Before filling out this form, it is essential to review its content carefully to avoid any potential issues or miscommunications. Please ensure that you understand the form's content and purpose before completing it. This form is only intended for participants who have been approached by the evaluation team and have been offered the opportunity to participate in the program evaluation. If you are not a participant or have not been approached by the evaluation team, please do not complete this form.
-
-</thinking>
-
 # NGO Program Evaluation Data Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information and consent from participants in the NGO program evaluation process. It serves as a legal agreement between the participant and the evaluating organization, outlining the terms of data collection and usage.

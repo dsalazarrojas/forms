@@ -1,12 +1,3 @@
-<thinking> 
-This form is intended for collecting consent and emergency contact information from camp participants. This form likely exists in a context where minors are present, such as a youth winter camp. The purpose of the form is to gather necessary information for emergency situations and to inform parents or guardians about their responsibilities and the camp's policies. 
-
-It is crucial to complete this form carefully, as it helps ensure the safety and well-being of all participants. 
-
-Please note that the form is divided into different sections, each serving a specific purpose. 
-
-</thinking>
-
 # Winter Camp Consent Form - Help Guide
 
 ## Purpose

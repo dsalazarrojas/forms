@@ -1,9 +1,3 @@
-<thinking>
-The form appears to be a structured questionnaire designed for evaluating a candidate's performance during an interview. The primary purpose of this form is to gather feedback and data on a candidate's skills, strengths, and overall fit for the position. The form is likely used by the hiring team to make informed decisions about whether to proceed with the candidate's application or not.
-The form has multiple sections, including Candidate Identification, Interviewer Details, Skills and Competency Assessment, Qualitative Feedback, and Hiring Recommendation. Each section is designed to capture specific information about the candidate's performance and fit.
-To ensure that the form is completed accurately and thoroughly, it is essential to understand the purpose and structure of each section.
-</thinking>
-
 # Consultant Interview Form - Help Guide
 
 ## Purpose

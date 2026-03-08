@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for individuals who will be filling out the Vaccination Clinic Registration Form. The form is designed to gather information from individuals who will be visiting a vaccination clinic. This guide will walk you through the purpose, completion process, and explanations for each field on the form.
-
-To confirm, the form is used by the clinic staff to register patients, gather contact information, and collect clinic data. It's essential to fill out the form accurately, as the information collected will be used for follow-up and contact purposes.
-
-Please note that some fields are marked as required, meaning that they need to be filled out for the form to be completed.
-
-</thinking>
-
 # Vaccination Clinic Registration Form - Help Guide
 ## Purpose
 The Vaccination Clinic Registration Form is a tool used by clinic staff to register patients, gather contact information, and collect clinic data. This form is intended to ensure that clinic staff have all the necessary details to follow up with patients after their visit.

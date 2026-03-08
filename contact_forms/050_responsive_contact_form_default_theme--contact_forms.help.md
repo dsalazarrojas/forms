@@ -1,7 +1,3 @@
-<thinking>
-This form is a contact form designed to collect basic information from users. It is meant to be used for customer support, feedback, and general inquiries. Before we dive into the guide, let's make sure that the form is correctly understood in the context of your project. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each input.
-</thinking>
-
 # Responsive Contact Form Default Theme - Help Guide
 ## Purpose
 This contact form is designed to collect basic information from users. It is meant to be used for customer support, feedback, and general inquiries. The form is used to provide a simple and responsive way for users to get in touch with your team.

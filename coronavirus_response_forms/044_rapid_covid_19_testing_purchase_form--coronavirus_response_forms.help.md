@@ -1,38 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "rapid_covid_19_testing_purchase_form" form, we need to understand the form's purpose and the fields included in it. The form is likely used for purchasing rapid COVID-19 testing services, and it asks for various details from the user, such as their appointment time, testing location, payment method, contact information, and personal details like age, height, and income. 
-
-To confirm, the form has 26 fields, each with a specific label, type, and options. The fields can be categorized into three main sections: Appointment, Testing Details, and Contact Information. The form requires the user to select an appointment time, choose a testing location, and provide contact information. The fields that can be filled in are:
-
-- **Patient Appointment** (optional): Select the time of the appointment
-- **Select Appointment Time** (optional): Select the time of the appointment
-- **Testing Location** (optional): Choose the testing location
-- **Payment Method** (optional): Choose the payment method
-- **Card Number** (optional): Enter the credit card number
-- **CVV** (optional): Enter the Card Verification Value (CVV)
-- **Name** (optional): Enter the name
-- **Email** (optional): Enter the email
-- **Phone** (optional): Enter the phone number
-- **Billing Address** (optional): Enter the billing address
-- **Shipping Address** (optional): Enter the shipping address
-- **ZIP** (optional): Enter the ZIP code
-- **Date** (optional): Enter the date
-- **Time** (optional): Select the time
-- **Age** (optional): Enter the age
-- **Height** (optional): Enter the height
-- **Gender** (optional): Choose the gender
-- **Occupation** (optional): Enter the occupation
-- **Income** (optional): Enter the income
-- **Marital Status** (optional): Choose the marital status
-- **CVV2** (optional): Enter the second CVV
-- **Card Number 2** (optional): Enter the second credit card number
-- **Name 2** (optional): Enter the second name
-- **Email 2** (optional): Enter the second email
-- **Phone 2** (optional): Enter the second phone number
-
-The fields are mostly optional, suggesting that the user can fill in whatever information they have, and the system will handle the rest.
-
-</thinking>
-
 # rapid_covid_19_testing_purchase_form - Help Guide
 ## Purpose
 This form is used to purchase rapid COVID-19 testing services. Fill out this form to schedule an appointment and provide necessary contact information for payment and testing.

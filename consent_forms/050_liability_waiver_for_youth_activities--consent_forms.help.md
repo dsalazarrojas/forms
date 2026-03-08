@@ -1,7 +1,3 @@
-<thinking>
-The form is used to obtain parental consent for youth activities, allowing organizations to ensure that parents or guardians have given permission for their child to participate in a program or activity. This form is likely to be used in settings such as schools, camps, or recreational centers. 
-</thinking>
-
 # Liability Waiver For Youth Activities - Help Guide
 ## Purpose
 The Liability Waiver For Youth Activities is a form used to obtain parental consent for youth activities. It is used to ensure that parents or guardians have given permission for their child to participate in a program or activity.

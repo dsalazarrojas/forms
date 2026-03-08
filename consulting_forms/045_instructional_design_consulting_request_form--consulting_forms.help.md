@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Instructional Design Consulting Request Form is designed to gather information about a project's requirements and needs for the Instructional Design consulting service. This form is used to collect details about the project, such as its start and end dates, budget, and other relevant details that will help the consulting team provide effective instructional design services. Before submitting this form, please ensure that you have reviewed and understood the terms and conditions of our services and have provided consent to process your data in accordance with the General Data Protection Regulation (GDPR).
 
 </thinking>

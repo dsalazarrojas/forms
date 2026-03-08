@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "survey_area_access_permission_form" is used to request access to a survey area by users. This form is intended for users who need to access a specific survey area for work-related purposes. It is not intended for general public access. Before filling out this form, please make sure you have not already been granted access to the survey area.
 
 # survey_area_access_permission_form - Help Guide

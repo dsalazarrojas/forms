@@ -1,7 +1,3 @@
-<thinking>
-This form was created using public survey data and is intended to collect email addresses for contact purposes. The form is not affiliated with any form platform and is released under CC BY 4.0. The form is designed to be user-friendly and easy to fill out. Please note that some fields are not required, and you may fill them out as desired.
-</thinking>
-
 # EMail Opt In Form - Help Guide
 ## Purpose
 This form is designed to collect email addresses from users for contact purposes. You can use this form to send newsletters, promotional materials, or other communications to users who have opted-in to receive emails from you.

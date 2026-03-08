@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to declare their personal and adventure sports-related information, as well as their fitness goals and medical clearances. The form is likely being used for liability waiver purposes and to assess user eligibility for certain adventure sports activities. Before completing this form, ensure that you are filling it out for the correct purpose and that the information is accurate to the best of your ability. If you're unsure, please reach out to the relevant authority.
-</thinking>
-
 # ADVENTURE SPORTS Declaration Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Adventure Sports Declaration Form. The form is designed to gather information about your personal details, adventure sports preferences, and medical clearances to assess your eligibility for various activities.

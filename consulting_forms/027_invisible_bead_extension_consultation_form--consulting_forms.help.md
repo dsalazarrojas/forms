@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure that this form is being used for its intended purpose. This form is designed to collect information from clients or customers about their hair extension needs. Please review your needs and ensure that this form is the correct one for your inquiry. Also, if you have any prior information or consultations regarding hair extensions, please note that it will be useful to provide it. If you have any questions or concerns, please refer to our staff for clarification.</thinking>
-
 # Invisible Bead Extension Consultation Form - Help Guide
 ## Purpose
 The Invisible Bead Extension Consultation Form is designed to collect information from clients or customers about their hair extension needs. This form will help our team to understand your preferences and requirements for a successful hair extension experience.

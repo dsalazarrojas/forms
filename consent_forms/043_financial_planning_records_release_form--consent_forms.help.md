@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from clients about their financial planning records, including their personal and professional details, access types, and signature. This form is likely used by financial institutions, tax professionals, or financial planners to gather information about clients' financial records, such as bank statements, investment records, or tax returns. The form can be completed by clients to provide consent for access to their financial records, which can be useful for tax filing, financial planning, or other financial services. The form can also be used to track the access duration and reason for access.
-</thinking>
-
 # Financial Planning Records Release Form - Help Guide
 ## Purpose
 This form is used to collect information from clients about their financial planning records, including their personal and professional details, access types, and signature.

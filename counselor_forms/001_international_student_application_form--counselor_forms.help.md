@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The International Student Application Form is intended for international students who wish to apply for a course of study at the institution. This form is used to gather information about the student's background, qualifications, and motivations for applying. Before completing the form, please note that you should only submit it if you are eligible and have the necessary documents ready.
 
 # International Student Application Form - Help Guide

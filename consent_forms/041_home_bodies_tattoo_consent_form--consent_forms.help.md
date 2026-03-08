@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from individuals who plan to undergo a tattoo procedure. The form collects data on consent for the procedure, tattoo details, and any medical conditions the individual may have. This information will help the tattoo artist understand the individual's medical history and ensure a safe and successful tattooing process. Note: This form does not collect sensitive medical data and is intended for general information purposes only. Ensure that the individual understands the importance of providing accurate and honest information. 
-</thinking>
-
 # Home Bodies Tattoo Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your medical history and tattoo preferences to ensure a safe and successful tattooing process.

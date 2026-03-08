@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to document and obtain consent from individuals or third parties involved in legal collaboration and information sharing. This form helps ensure that all parties involved are aware of the purpose and scope of the collaboration, and are willing to share information accordingly. This is an essential step in building trust and establishing clear boundaries for the collaboration. 
-
-This form must be completed only once for each third-party collaboration. If you're unsure whether this form applies to your specific situation, please consult your legal team or relevant authorities.
-
-Please note that this form is not a legal document and is for internal use only. It is intended to provide transparency and clear communication within the organization.
-</thinking>
-
 # Third Party Legal Collaboration Consent Form - Help Guide
 ## Purpose
 The Third Party Legal Collaboration Consent Form is a document that helps establish clear boundaries and expectations for information sharing between your organization and third parties. It ensures that all parties involved are aware of the purpose and scope of the collaboration.

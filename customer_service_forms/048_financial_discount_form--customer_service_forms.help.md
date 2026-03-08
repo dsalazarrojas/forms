@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to apply a financial discount to a customer's order. 
-The purpose of this form is to provide a discount to a customer on their order. It is used in conjunction with other forms to process customer service requests. 
-This form should not be used in place of other customer service forms, such as the 'Order Change Form' or 'Product Exchange Form', which have different purposes and requirements. 
-
-To use this form, follow the instructions below.
-
-</thinking>
-
 # Financial Discount Form - Help Guide
 ## Purpose
 The Financial Discount Form is used to apply a financial discount to a customer's order. 

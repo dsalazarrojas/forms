@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from individuals or companies interested in the corporate recovery strategy course. The form is designed to gather essential details such as participants' names, company names, course titles, start dates, contact emails, phone numbers, and a confirmation of registration. To ensure accuracy, please fill out the form once, and do not duplicate the effort by re-registering. Please ensure that all required fields have been filled out before submitting the form.
-</thinking>
-
 # corporate_recovery_strategy_course_registration - Help Guide
 
 ## Purpose

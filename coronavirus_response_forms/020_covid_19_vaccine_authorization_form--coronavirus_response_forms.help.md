@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals and organizations requesting access to COVID-19 vaccines. It is a critical tool for public health officials and organizations to manage and track vaccination programs. The form is used to gather details about the requestor, the organization, and the vaccination program, including the purpose of the request, target groups, and proposed timeline. This information will be reviewed and evaluated to ensure the request aligns with public health guidelines and regulations. This form is not meant to be used for duplicate or redundant requests.
-</thinking>
-
 # COVID 19 Vaccine Authorization Form - Help Guide
 ## Purpose
 This form is a critical tool for public health officials and organizations to collect and review information about COVID-19 vaccination programs. It helps ensure that requests align with public health guidelines and regulations.

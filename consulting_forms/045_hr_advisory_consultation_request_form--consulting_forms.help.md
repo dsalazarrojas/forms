@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who require HR advisory consultation. The form aims to collect essential details that enable HR consultants to provide valuable advice and guidance on human resources matters. This form is not intended for multiple uses, so please ensure you only submit this form once.
-
-To complete this form, please follow the instructions below.
-
-To complete this form, please provide the following information:
-</thinking>
-
 # HR Advisory Consultation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for HR advisory consultation requests.

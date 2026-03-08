@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 This is the user-facing help guide for the "Summer Camp Financial Assistance Application Form". The purpose of this form is to collect financial information from applicants for summer camp assistance. It's crucial that end users understand what the form is for and what's required to fill it out correctly.
 
 ## Purpose

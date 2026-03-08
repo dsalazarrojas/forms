@@ -1,18 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a real estate client registration form that is concise, practical, and easy to follow. The goal is to help users understand the purpose of the form, how to complete it, and what each field means.
-
-The form is designed for real estate clients to register their information for various purposes, such as property ownership or rental agreements. The form is divided into several sections, each containing various fields that collect relevant client information.
-
-To ensure that the form is completed correctly, it's essential to understand the purpose and requirements of each field.
-
-Before filling out the form, please take a few minutes to review the following guidelines:
-
-*   Ensure you have all the necessary information required to complete the form.
-*   Double-check the type of information you enter in each field to avoid any errors.
-*   If you're unsure about any field or have questions, don't hesitate to contact us for assistance.
-
-</thinking>
-
 # real_estate_client_registration_form_template - Help Guide
 ## Purpose
 This form is designed for real estate clients to register their information for various purposes, such as property ownership or rental agreements. Please fill out this form with accurate and up-to-date information to ensure that your registration process is completed efficiently.

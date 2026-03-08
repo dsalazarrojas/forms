@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to provide a customer search filter form for customers to search for information related to customer searches. This form is likely part of a larger customer service system and is intended for customers to filter their search results based on specific criteria.
-</thinking>
-
 # customer_search_filter_form - Help Guide
 ## Purpose
 The customer search filter form is designed to help customers quickly and easily search for specific information related to their searches. It allows them to filter their search results based on various criteria such as customer information and search criteria.

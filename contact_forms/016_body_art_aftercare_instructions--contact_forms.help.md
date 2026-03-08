@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Body Art Aftercare Instructions - Help Guide
 ## Purpose
 This form is used to collect information about a client's understanding of the aftercare instructions provided by the artist or technician after a body art procedure, such as a tattoo, piercing, or microblading. The client is asked about their comprehension of general aftercare instructions, what type of products to use, and specific behaviors to avoid during the healing process.

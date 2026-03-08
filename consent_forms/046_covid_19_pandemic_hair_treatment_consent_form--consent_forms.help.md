@@ -1,5 +1,3 @@
-<thinking>COVID 19 Pandemic Hair Treatment Consent Form is used to gather information from clients about their COVID-19 status, health conditions, and allergies, as well as their understanding of safety precautions and consent to receive hair treatment services during the pandemic. This form is designed to protect both clients and service providers from potential health risks associated with COVID-19 and ensure a safe and healthy environment for all.</thinking>
-
 # COVID 19 Pandemic Hair Treatment Consent Form - Help Guide
 ## Purpose
 The COVID 19 Pandemic Hair Treatment Consent Form is used to collect essential information about clients' COVID-19 status, health conditions, and allergies to ensure their safety and the safety of service providers during the pandemic.

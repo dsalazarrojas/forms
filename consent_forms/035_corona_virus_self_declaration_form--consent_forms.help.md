@@ -1,7 +1,3 @@
-<thinking>
-This form is a self-declaration form designed for individuals to report on their health status, specifically regarding the COVID-19 virus. It is intended to be completed by people who have visited the office or have been in contact with someone who has been to the office. The form will ask for basic contact information, symptoms experienced over the past 14 days, and travel history. This form is not intended for emergency use and should only be used by individuals as part of their regular routine for office visits or interactions. Please note that this form is not a substitute for medical diagnosis and treatment. If you are experiencing severe symptoms, please contact medical professionals immediately.
-</thinking>
-
 # Corona Virus Self Declaration Form - Help Guide
 ## Purpose
 This form is a self-declaration form designed for individuals to report on their health status, specifically regarding the COVID-19 virus.

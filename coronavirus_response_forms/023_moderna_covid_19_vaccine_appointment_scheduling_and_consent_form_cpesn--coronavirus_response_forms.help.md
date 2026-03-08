@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to schedule an appointment for the Moderna COVID-19 vaccine and obtain consent from patients. This form is designed to collect important information from patients before their appointment, including their current health status, insurance information, and vaccination details.
- 
-This form should only be used for scheduling Moderna COVID-19 vaccine appointments. If you need to schedule appointments for other vaccines or medical procedures, please use the appropriate form.
- 
-Please note that some of the fields in this form are optional, but may be required for proper scheduling and administration of the vaccine.
- 
-To ensure accurate and efficient processing of your appointment, please complete this form thoroughly and honestly.
- 
-</thinking>
-
 # Moderna COVID-19 Vaccine Appointment Scheduling And Consent Form CPESN - Help Guide
 ## Purpose
 The Moderna COVID-19 Vaccine Appointment Scheduling And Consent Form CPESN is a form used to schedule appointments for the Moderna COVID-19 vaccine and obtain consent from patients.

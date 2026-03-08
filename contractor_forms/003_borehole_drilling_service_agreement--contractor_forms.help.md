@@ -1,16 +1,3 @@
-<thinking>
-This is a form for collecting information from clients to create a borehole drilling service agreement. To ensure the correct information is collected, it's crucial to follow these steps carefully. 
-
-Firstly, ensure that the form is being used for its intended purpose and that there are no other forms in place that cover the same process. If the form is being used in an unexpected context, it may lead to incomplete or inaccurate data collection.
-
-Secondly, review the form fields to understand their purpose and what information each field requires. Each field has been carefully designed to collect essential details for the borehole drilling service agreement.
-
-Please note that some fields are required and others are optional. The required fields must be filled in for the form to be considered complete. If a field is optional, it's not necessary to fill it out, but it may be beneficial to provide additional context or information.
-
-With these considerations in mind, please proceed to the guide for completing the form.
-
-</thinking>
-
 # Borehole Drilling Service Agreement - Help Guide
 ## Purpose
 This form is used to collect essential information from clients for a borehole drilling service agreement, ensuring a clear understanding of the scope of work, payment terms, and other relevant details.

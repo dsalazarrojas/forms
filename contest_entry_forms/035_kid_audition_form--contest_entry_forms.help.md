@@ -1,17 +1,3 @@
-<thinking>
-This form is used to collect information from parents/guardians of children who are participating in a contest or competition. It is used to gather details about the child's performance, skills, and preferences, as well as to schedule auditions and upload required documents and files. The form will be reviewed by the contest organizers to ensure that all necessary information is provided and that the child's participation is properly registered and managed.
-
-To ensure that the form is completed accurately and efficiently, the following steps should be taken:
-
-1. Fill in the required fields for the child's information (Page 1: Contestant Info).
-2. Provide contact information for the parent/guardian (Page 2: Contact Information).
-3. Answer the questions about the child's performance, skills, and preferences (Page 3: Performance Information, Contestant Skills, and Preferences).
-4. Upload any required documents and files (Page 4: Upload Documents, Upload Videos, Upload Audio, and Upload Additional Files).
-5. Schedule the auditions (Page 5: Schedule Auditions).
-6. Review the form for accuracy and completeness before submitting it.
-
-</thinking>
-
 # Kid Audition Form - Help Guide
 ## Purpose
 The Kid Audition Form is used to collect information from parents/guardians of children participating in a contest or competition.

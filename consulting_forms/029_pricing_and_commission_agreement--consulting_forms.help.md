@@ -1,11 +1,3 @@
-<thinking>
-This form is used to create a pricing and commission agreement between a business and a client. The purpose of this form is to outline the terms and conditions of payment, commission structure, payment frequency, payment amount, payment method, business address, contact name, signature date, and signature. 
-
-This form is typically used for businesses that provide services to clients and need to agree on the payment terms and conditions. The client will input their business name, contract date, payment terms, commission structure, payment frequency, payment amount, payment method, business address, contact name, signature date, and signature. The form is likely to be used by sales teams, business development managers, and other stakeholders in the business. 
-
-The form does not require any specific fields to be filled in, except for the signature date and signature fields which are required. The fields for contract date and payment method are also important and should not be left blank.
-</thinking>
-
 # Pricing And Commission Agreement - Help Guide
 ## Purpose
 This form is used to create a pricing and commission agreement between a business and a client. It outlines the terms and conditions of payment, commission structure, payment frequency, payment amount, payment method, business address, contact name, signature date, and signature.

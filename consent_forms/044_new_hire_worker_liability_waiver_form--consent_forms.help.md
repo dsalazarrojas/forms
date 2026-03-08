@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Hire Worker Liability Waiver Form - Help Guide
 
 ## Purpose

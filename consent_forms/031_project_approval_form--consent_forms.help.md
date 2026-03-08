@@ -1,9 +1,3 @@
-<thinking>
-The Project Approval Form is used for project managers to collect information from clients or customers regarding project approval and contact details. This form ensures that the project managers have all the necessary information to proceed with the project and that the client is aware of their responsibilities and expectations. 
-The form should only be used for projects that require approval, and it should not be used for projects that are already approved or have a pre-existing agreement in place. 
-Please ensure that the form is not duplicated or filled out unnecessarily, as it may cause confusion or delay the project timeline. 
-</thinking>
-
 # Project Approval Form - Help Guide
 
 ## Purpose

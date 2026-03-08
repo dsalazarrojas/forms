@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients regarding their lower back muscle release experience. The form's primary purpose is to gather general information, symptoms, and medical history related to lower back muscle release. This form is intended to be used by healthcare professionals, such as medical doctors (MDs), nurse practitioners (NPs), or physical therapists (PTs). The form collects data from clients to assess their current medical status and provide an informed consent for further treatment. It is not affiliated with, endorsed by, or derived from any form platform, but rather a unique adaptation created by AI using public survey topic metadata. The form's contents and structure are based on the input schema provided and may not cover all possible scenarios or requirements. Therefore, please ensure that this form is reviewed, modified, or extended as necessary to align with your specific needs.
-</thinking>
-
 # Lower Back Muscle Release Intake Form - Help Guide
 ## Purpose
 The Lower Back Muscle Release Intake Form is designed to collect information from clients regarding their lower back muscle release experience. This form helps healthcare professionals assess the client's current medical status and provide informed consent for further treatment.

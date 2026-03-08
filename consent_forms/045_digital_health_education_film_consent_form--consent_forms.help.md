@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect participant information and consent for digital health education films. The form is part of a larger process to ensure that participants are aware of and agree to the terms of filming and data collection. The form is intended to be filled out by participants before they begin filming. The purpose of this form is to ensure that participants' rights and privacy are respected. To avoid duplication, participants should only fill out this form once per filming session. This form is not intended for non-participants or for those who have already provided consent. 
-
-</thinking>
-
 # Digital Health Education Film Consent Form - Help Guide
 
 ## Purpose

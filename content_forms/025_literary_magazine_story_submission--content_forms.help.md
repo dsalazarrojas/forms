@@ -1,9 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's analyze the form's purpose and fields. This form appears to be for submitting literary magazine stories, and it captures various details about the story, author, and submission process. The form requires a story title, author name, manuscript, submission date and time, submission hour, minute, and second, email, phone number, manuscript type, word count, submission status, and three additional notes.
-
-The form also has several optional fields for uploading various types of files and submission notes. To ensure the form is completed correctly, we'll need to check for relevance and non-duplication of information. For example, the submission date and time fields should be consistent with each other, and the manuscript type field should match the uploaded manuscript.
-
-We'll aim to create a clear and concise help guide that explains each field's purpose and requirement, helping users complete the form accurately and efficiently.</thinking>
-
 # Literary Magazine Story Submission - Help Guide
 ## Purpose
 This form is for submitting literary magazine stories to our publication. Please fill out the form with accurate and complete information to ensure a smooth submission process.

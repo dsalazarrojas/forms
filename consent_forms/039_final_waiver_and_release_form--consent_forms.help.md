@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Final Waiver And Release Form - Help Guide
 
 ## Purpose

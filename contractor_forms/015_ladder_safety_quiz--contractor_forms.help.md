@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive safety assessment tool for ladder usage, designed to gauge an individual's knowledge and understanding of ladder safety procedures. Upon reviewing the provided YAML data, I noticed that the form consists of eight questions, each focusing on different aspects of ladder safety. The form is divided into several sections, including general knowledge, fall protection, hazards recognition, hazards control, prevention, safety measures, personal safety, and reporting.
-
-To confirm, I will create a user-facing help guide for this form, following the specified structure and format.</thinking>
-
 # Ladder Safety Quiz - Help Guide
 ## Purpose
 This form is designed to assess an individual's knowledge and understanding of ladder safety procedures. It is intended to be completed by individuals who use ladders as part of their work or daily activities.

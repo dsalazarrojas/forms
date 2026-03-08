@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This template is a standard form used to document the terms of a house rental lease agreement between a tenant and a property owner. It's essential to ensure all necessary information is accurately filled out to establish a clear understanding of the lease terms and conditions. Please review the form carefully and fill out each field accordingly. Note that not all fields are required, so only fill out the fields relevant to your specific situation.
 
 # House Rental Lease Agreement Template - Help Guide

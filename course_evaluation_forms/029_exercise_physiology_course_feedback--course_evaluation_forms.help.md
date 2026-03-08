@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather feedback from students who have completed the Exercise Physiology course. The purpose of this form is to collect information about the course's effectiveness, the quality of the instructor, and any suggestions the students have for improving the course. This form should only be filled out by students who have completed the course. Please do not fill out this form if you have not completed the course or if you are a duplicate submission. This form is intended to help us improve the course for future students.
-
-</thinking>
-
 # Exercise Physiology Course Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from students who have completed the Exercise Physiology course. This feedback will be used to improve the course and provide valuable insights to the instructors and course administrators.

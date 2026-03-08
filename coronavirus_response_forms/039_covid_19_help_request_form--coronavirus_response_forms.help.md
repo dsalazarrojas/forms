@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users request assistance related to the COVID-19 pandemic. It gathers personal information, household details, and health-related data to provide targeted support. This form should only be filled out once per individual or household, and users should not submit duplicate requests. The information collected will be used to assess the level of support needed and allocate resources accordingly.
-</thinking>
-
 # COVID 19 Help Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about individuals or households affected by the COVID-19 pandemic, allowing us to provide targeted assistance and support.

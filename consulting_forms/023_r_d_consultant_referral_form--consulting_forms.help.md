@@ -1,5 +1,3 @@
-<thinking>... thinking...</thinking>
-
 # R_and_D Consultant Referral Form - Help Guide
 ## Purpose
 The R_and_D Consultant Referral Form is used to collect information about a consultant or company for referral purposes. This form helps to gather essential details such as contact information, project specifics, and referral information to facilitate the consulting process.

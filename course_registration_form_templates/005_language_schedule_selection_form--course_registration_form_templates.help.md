@@ -1,11 +1,3 @@
-<thinking>
-This form is used by learners to select their language preferences and schedule for a course. It is designed to help course administrators understand the needs and constraints of the learners. The form is not intended to be a mandatory requirement, but rather an optional tool to gather information that can be used to tailor the course experience to the learners' needs.
-
-Before proceeding, ensure that you have already completed the necessary steps in the course registration process. If you have any concerns or questions, please reach out to the course administrator.
-
-The form has three sections: Language Schedule Selections, Course Selection, and Schedule Selection. Please review each section carefully to ensure you provide accurate and relevant information.
-</thinking>
-
 # Language Schedule Selection Form - Help Guide
 ## Purpose
 This form is used by learners to express their language preferences and schedule constraints for a course.

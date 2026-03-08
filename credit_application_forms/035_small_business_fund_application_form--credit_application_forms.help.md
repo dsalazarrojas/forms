@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # small_business_fund_application_form - Help Guide
 ## Purpose
 This form is used to provide information about a small business applying for funding. The purpose of this form is to gather essential details about the business, including its type, name, contact information, and financial details. This information will be used to assess the business's eligibility for funding and to guide the funding decision-making process.

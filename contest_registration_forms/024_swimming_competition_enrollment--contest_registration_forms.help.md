@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # swimming_competition_enrollment - Help Guide
 ## Purpose
 The purpose of this form is to register participants for the swimming competition. It collects information about the participant's personal details, swim events, and other relevant details to facilitate the enrollment process.

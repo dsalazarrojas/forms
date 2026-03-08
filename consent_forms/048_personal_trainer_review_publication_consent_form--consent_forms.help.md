@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "personal-trainer-review-publication-consent-form" is used to obtain consent from a personal trainer to publish their review, testimonial, or ratings and ratings information on a website. This form is designed to be completed by the personal trainer, and its purpose is to ensure that they are aware of how their information will be used and published online. By filling out this form, the personal trainer can choose whether they consent to the publication of their review, testimonial, or ratings and ratings information.
 
 To complete this form, please follow the instructions below:

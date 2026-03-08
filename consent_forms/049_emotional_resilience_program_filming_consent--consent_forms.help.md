@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for obtaining consent from participants in the emotional resilience program filming process. It's essential to ensure that all participants understand their rights and obligations before filming. Please ensure that you are authorized to collect this information and that the participant's rights are respected.
-This form aims to gather specific details about each participant, including their permission to be filmed, the use of recorded data, filming participants, filming location, equipment, media, purpose, duration, scheduling, participant privacy, photo release, video release, audio release, filming facilities, participant notification, filming cancellation, completion, participant signature, date of birth, email, phone number, address, city, state, postal code, and submission details.
-</thinking>
-
 # Emotional Resilience Program Filming Consent - Help Guide
 ## Purpose
 This form is designed to obtain consent from participants in the emotional resilience program filming process, ensuring their rights and obligations are understood.

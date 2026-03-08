@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from a business that is exiting or discontinuing its virtual assistant service. The purpose of this form is to gather essential details from the business, including its name and contact information, to facilitate a smooth exit process and ensure that the virtual assistant platform can provide the necessary support and resources to the business.
-</thinking>
-
 # Virtual Assistant Exit Form - Help Guide
 ## Purpose
 The Virtual Assistant Exit Form is designed to collect information from businesses that are exiting or discontinuing their virtual assistant service. This form helps us understand the reasons behind the exit and ensures a smooth transition of services.

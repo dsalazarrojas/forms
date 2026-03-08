@@ -1,5 +1,3 @@
-<thinking>... The purpose of this form is to obtain informed consent from clients prior to undergoing body contouring procedures. The form asks clients to provide personal and medical history information, understand the benefits, risks, and limitations of the procedure, and acknowledge their consent and right to withdraw from the treatment at any time. This form also checks for the client's understanding of alternative treatments and post-procedure care requirements. The form must be completed by the client in the presence of a witness, if applicable... </thinking>
-
 # Body Contouring Consent Form - Help Guide
 
 ## Purpose

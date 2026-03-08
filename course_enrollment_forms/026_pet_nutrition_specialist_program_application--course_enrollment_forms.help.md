@@ -1,7 +1,3 @@
-<thinking>Before creating this help guide, I will assume that the form is for individuals interested in the Pet Nutrition Specialist Program and will provide a clear explanation of each field. This guide aims to help end-users understand the purpose of the form and how to fill it out correctly.
-
-</thinking>
-
 # Pet Nutrition Specialist Program Application - Help Guide
 ## Purpose
 This form is for individuals interested in joining the Pet Nutrition Specialist Program. It gathers information about your background, experience, motivation, and other relevant details that will help us understand your qualifications for the program.

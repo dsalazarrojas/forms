@@ -1,9 +1,3 @@
-<thinking>
-The form "structural_engineering_quotation_form" is intended to be used for capturing the project details and structural engineering quotation from clients. The fields included in this form cater to the needs of the client by gathering their details, structural engineering quotation, and other relevant information. The form's purpose is to collect data for project management and communication purposes. To avoid duplication of forms, this specific form is tailored to meet the specific needs of structural engineers and clients, and no other similar forms with the same name exist in the provided data pool.
-
-
-</thinking>
-
 # structural_engineering_quotation_form - Help Guide
 ## Purpose
 The "structural_engineering_quotation_form" is designed to collect project details, client information, and structural engineering quotation for efficient project management and communication.

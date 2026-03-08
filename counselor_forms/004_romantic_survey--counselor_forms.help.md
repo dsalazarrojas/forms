@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed to measure the quality and dynamics of romantic relationships, specifically looking into areas such as what keeps romance alive, the frequency of certain behaviors, how long couples have been together, and the nature of their friendships. It is also collecting information on how long the survey will take to complete. 
-
-Before designing the help guide, we should ensure that the form's purpose and content align with the organization's goals and objectives. This form should be used to assess the effectiveness of romantic relationships, identify potential areas for improvement, and inform strategies for maintaining a healthy, long-lasting relationship. We should also check if a similar form already exists within the organization, to avoid duplication of efforts.
-
-Assuming this form is a new creation, let's proceed with designing the user-facing help guide to assist end-users in completing it effectively and efficiently.
-
-</thinking>
-
 # Romantic Survey - Help Guide
 ## Purpose
 This guide is designed to walk you through the Romantic Survey form, helping you understand what information is being gathered and how to complete it successfully.

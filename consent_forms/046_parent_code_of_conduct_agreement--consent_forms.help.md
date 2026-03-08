@@ -1,11 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I am creating a user-facing help guide for the "Parent Code Of Conduct Agreement" form. This form is used to collect important information from parents or guardians, ensuring that they are aware of and agree to a set of conduct guidelines for their child. The primary purpose of this form is to obtain consent from the parent or guardian, which is crucial for the well-being and safety of the child. 
-
-This guide is essential for users to understand the form's intent and requirements, ensuring that they complete it accurately and efficiently.
-
-</thinking>
-
 # Parent Code Of Conduct Agreement - Help Guide
 ## Purpose
 The "Parent Code Of Conduct Agreement" form is a crucial document that seeks to obtain consent from parents or guardians regarding the rules and expectations for their child's conduct within our institution. It is a legal requirement for the child's participation in our programs, and it ensures that parents or guardians are aware of and agree to a set of conduct guidelines that promote the child's safety, well-being, and success.

@@ -1,7 +1,3 @@
-<thinking>
-The "Customer Interest Profile" form is designed to gather information about a customer's demographics, interests, and preferences. This form will help our team understand a customer's needs and tailor our services accordingly. Please ensure you only submit relevant and accurate information, and avoid duplication of data. This form is a critical tool for our team to provide effective customer service.
-</thinking>
-
 # Customer Interest Profile - Help Guide
 ## Purpose
 The "Customer Interest Profile" form is a critical tool for our team to provide effective customer service. It helps us gather information about a customer's demographics, interests, and preferences.

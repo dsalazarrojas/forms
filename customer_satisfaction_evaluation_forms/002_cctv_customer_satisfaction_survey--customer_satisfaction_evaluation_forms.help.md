@@ -1,7 +1,3 @@
-<thinking>
-We will be using this form to collect feedback on our CCTV customer satisfaction survey. This form will help us gauge how our customers feel about our service and installation. We will review each response to identify areas of strength and weakness in our process. If the customer's feedback is relevant and not a duplicate, we will take it into consideration for future improvements.
-</thinking>
-
 # CCTV Customer Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on our CCTV customer satisfaction survey. We use this feedback to identify areas of strength and weakness in our service and installation process.

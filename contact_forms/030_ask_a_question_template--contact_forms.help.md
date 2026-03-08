@@ -1,12 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the "Ask A Question Template" form, we need to first understand its purpose and the reasoning behind its design. This form is likely intended to collect information from users who are interested in asking questions or providing feedback about a specific topic related to a company or organization. The form is designed to be user-friendly and gather relevant data for the organization to address the user's query. 
-
-The form is likely used by the organization's support team to categorize and prioritize requests, allowing them to respond efficiently and effectively. 
-
-Before filling out the form, users should first ensure that they are not duplicating a request they have already submitted, as this could lead to confusion and unnecessary responses. 
-
-</thinking>
-
 # Ask A Question Template - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to ask a question or provide feedback about our organization. It helps us understand your query and respond accordingly.

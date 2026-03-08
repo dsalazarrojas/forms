@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to be used by resort customers who want to file a complaint. The purpose of this form is to gather information about their experience at the resort. To avoid duplication, please fill out the form only if you have not previously filled out a complaint form regarding the same issue.
-The form is divided into two main sections: 
-Section 1: General Information 
-Section 2: Specific Complaint Details
-</thinking>
-
 # resort_complaint_form - Help Guide
 ## Purpose
 

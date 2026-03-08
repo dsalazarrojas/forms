@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be for managing story creation projects, likely for a content creation agency or service. The form's purpose is to collect information about the project, including details such as project title, delivery date, compensation, and payment terms. It may also be used to manage the status of the project, client information, and additional project notes. This form seems to be a general template and might be used across various projects, hence no specific business logic or context is provided to infer more specific use cases.
-</thinking>
-
 # Story Creation Agreement - Help Guide
 ## Purpose
 The Story Creation Agreement form is a tool used to collect and manage project details for content creation projects. It helps to streamline the process of creating new projects and ensures that all necessary information is captured.

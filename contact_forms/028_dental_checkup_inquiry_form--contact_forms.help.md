@@ -1,20 +1,3 @@
-<thinking>
-This help guide is for users who are completing the Dental Checkup Inquiry Form. The form is designed to gather information about a patient's dental checkup inquiries. This form is intended for patients to provide details about their appointment requests, including preferred contact methods, insurance information, and next visit dates. 
-
-To ensure that users fill out the form correctly and to prevent duplication, we'll cover the form's purpose, how to complete it, and each field's purpose. 
-
-Please note that the form is divided into several sections or pages, each with its own set of fields. The form's fields include the following:
-
-*   Patient Inquiry (Page 1)
-*   Appointment Request (Page 2)
-*   Contact Method (Page 3)
-*   Email and Phone (Page 4)
-*   Insurance and Follow-up (Page 5)
-*   Appointment Details (Page 6)
-*   Additional Information (Page 7)
-
-</thinking>
-
 # Dental Checkup Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather information from patients about their dental checkup inquiries, including appointment requests, contact methods, and insurance information.

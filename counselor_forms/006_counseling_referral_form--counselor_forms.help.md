@@ -1,21 +1,3 @@
-<thinking>Here is an internal reasoning block that explains the form purpose and checks for relevance and non-duplication:
-
-This form is designed to collect information for counseling referrals, which are used to track and document the process of referring students to external counselors or physicians for further support and guidance. The form captures details about the student, their school, and the referral process, including the reason for referral, referral status, and dates. This information will help administrators and counselors to efficiently manage referrals and provide accurate records.
-
-To ensure that the form is completed accurately and consistently, it's essential to understand the purpose and relevance of each field. Here are some key points to consider:
-
-*   The form is intended for students who require external support and guidance.
-*   The form captures information on the student's school and school contact details.
-*   Referral status is an essential component of this form as it tracks the progress of the referral.
-
-The following fields are critical to the referral process:
-*   Reason for referral: This field captures why the referral is being made.
-*   Referral status and dates: These fields track the progress of the referral.
-*   Student school contact details: This captures the school's contact information.
-*   Counselor contact details: This is the primary point of contact for the referral.
-
-Before filling out the form, ensure that you have the necessary information and understand the purpose of each field.</thinking>
-
 # Counseling Referral Form - Help Guide
 
 ## Purpose

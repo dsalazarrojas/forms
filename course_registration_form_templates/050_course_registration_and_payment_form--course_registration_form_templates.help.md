@@ -1,7 +1,3 @@
-<thinking>
-This form is used for course registration and payment processing. It is intended to be completed by attendees who want to sign up for a course. This form should only be completed by individuals who have been invited to attend a course or have previously registered for courses. Please ensure that you are correctly registered before completing this form to avoid duplication of efforts.
-</thinking>
-
 # Course Registration And Payment Form - Help Guide
 ## Purpose
 The Course Registration And Payment Form is a user-facing form designed to collect relevant details from attendees who wish to register and pay for courses. This form is used to process course registrations and payments in a seamless and efficient manner.

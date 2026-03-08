@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for obtaining the consent of an artist to a sponsorship agreement. A sponsorship agreement is a partnership between an artist and a sponsor, typically a company or organization, where the sponsor provides financial or material support to the artist. The sponsor may use the artist's name, likeness, social media content, or performance footage as part of the sponsorship. This form ensures that both parties are in agreement on the terms and rights of the sponsorship and that the artist consents to the use of their name, likeness, and materials. 
 
 The purpose of this form is to outline the terms of the sponsorship, including the scope of rights granted, the duration of the sponsorship, and any exclusivity or limitations on use. It also includes a section for the artist to provide their contact information and for the sponsor to provide their sponsorship details.

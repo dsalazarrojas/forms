@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used in a photography agency or a similar organization where photographers need to obtain licenses to shoot at specific locations. The form is designed to gather information from both the photographers and the locations, including their details and permissions.
-The form has 25 fields, but most of them are not required, which suggests that the organization is trying to minimize the information gathered while still collecting enough data for their purposes.
-The fields can be categorized into three main sections: Photographer, Location, and Agreement. The Photographer section includes information about the photographer's name, email, phone, date of birth, and other details. The Location section includes information about the location's address, city, state, postal code, and type. The Agreement section includes fields related to permission grant, agreement terms, and other related information.
-</thinking>
-
 # Photography Location License Form - Help Guide
 ## Purpose
 This form is used to obtain a license from a photography agency or similar organization to shoot at specific locations.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to the design firm's project release, which is the formal process of releasing a project to the client after its completion. This form helps to gather client acceptance, project closeout details, final deliverables, and signature confirmation, and the release date. It is essential to ensure that all necessary information is collected to finalize the project and establish a smooth transition to the client.
-</thinking>
-
 # Design Firm Project Release Form - Help Guide
 ## Purpose
 This form is used to collect information related to the design firm's project release process.

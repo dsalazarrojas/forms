@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for a downhill skiing tournament. It is meant to gather general information, participant details, and emergency contact information. The form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Downhill Skiing Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants for the Downhill Skiing Tournament. It is intended to gather essential details about each participant, including general information, participant contact details, and emergency contact information.

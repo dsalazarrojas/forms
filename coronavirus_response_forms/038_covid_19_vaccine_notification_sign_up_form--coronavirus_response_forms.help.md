@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather information from individuals interested in receiving COVID-19 vaccine notifications. The form collects personal and demographic information, as well as preferences for vaccine types, doses, and eligibility. The purpose of this form is to ensure accurate and relevant communication with individuals about vaccine availability and relevant health updates. This form is intended for individuals who are eligible to receive the vaccine and want to stay informed about vaccine availability and related health information. By submitting this form, individuals agree to receive notifications and understand that their information may be shared with health authorities. This form should only be filled out once and not duplicated, as this information will be kept on file for the purpose of sending targeted and accurate notifications.</thinking>
-
 # COVID 19 Vaccine Notification Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in receiving COVID-19 vaccine notifications. It is intended to ensure that individuals receive accurate and relevant information about vaccine availability and related health updates.

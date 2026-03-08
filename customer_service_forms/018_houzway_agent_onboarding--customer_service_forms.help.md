@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to onboard new agents for the Houzway platform. The form is used to gather information from the agent about their availability, onboarding status, and any comments or notes related to their onboarding process. The form is crucial for ensuring that all agents have a smooth and effective onboarding experience, and that all necessary information is collected for their records.
 
 Before proceeding, it's essential to ensure that the form is not duplicated in the system and that all relevant information is up-to-date. If you're unsure about any of the fields or their purpose, please refer to this guide for more information.

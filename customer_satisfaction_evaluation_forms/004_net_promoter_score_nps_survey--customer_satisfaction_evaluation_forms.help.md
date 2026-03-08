@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is used to collect Net Promoter Score (NPS) feedback from customers, which measures customer satisfaction and loyalty. The NPS score is calculated by subtracting the percentage of customers who are detractors (those who are unlikely or not at all likely to recommend) from the percentage of customers who are promoters (those who are likely or very likely to recommend). This form helps to assess customer satisfaction, identify areas for improvement, and inform business decisions. 
-</thinking>
-
 # Net Promoter Score (NPS) Survey - Help Guide
 ## Purpose
 The Net Promoter Score (NPS) Survey is a tool for measuring customer satisfaction and loyalty. It's used to gauge how likely customers are to recommend your product or service, and to identify areas where improvement is needed.

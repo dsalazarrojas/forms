@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplication, I assume this form is intended for employees to self-certify their vaccination status. The form is likely used to track and verify employee vaccination records for COVID-19. This form will help employees confirm their vaccination status, including the type of vaccine they received, the number of doses administered, and other relevant details.
-
-</thinking>
-
 # self_certification_of_vaccination_status - Help Guide
 ## Purpose
 This form is for employees to self-certify their vaccination status, providing essential information for tracking and verifying their vaccination records.

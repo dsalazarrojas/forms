@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain a waiver for services provided by a healthcare facility to a patient. The form is not meant to be filled out as a medical record, but rather as a document for the patient to acknowledge the terms and conditions of service and to provide information about the patient's care. Please ensure that this form is not submitted as part of any medical billing or payment process. Before filling out this form, ensure that you have a signed waiver from the patient or their representative if they are unable to sign. This form should not be used as a substitute for other documentation required by law or regulation.
-</thinking>
-
 # Patient Waiver For Services - Help Guide
 ## Purpose
 This form is used to obtain a waiver for services provided by a healthcare facility to a patient. It is an agreement between the patient and the healthcare provider, outlining the terms and conditions of service.

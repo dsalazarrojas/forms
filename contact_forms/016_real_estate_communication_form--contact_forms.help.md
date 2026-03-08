@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form is to allow real estate agents to collect contact information and schedule appointments with potential clients. The form has 6 fields that cover various aspects of communication, including a new inquiry, appointment scheduling, preferred contact method, message, real estate information, and feedback. This form should be used for both internal and external purposes, such as providing a way for agents to communicate with clients and for clients to provide feedback.
-</thinking>
-
 # real_estate_communication_form - Help Guide
 ## Purpose
 The real_estate_communication_form is used to collect contact information and schedule appointments with potential clients.

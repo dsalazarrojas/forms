@@ -1,7 +1,3 @@
-<thinking>
-The Open Resource Documentation Consent Form is used to document resources and collect metadata related to them. It's meant to be filled out by users who want to share their resources with the public, providing information about the resource, its permissions, and the terms of use. To fill this form, the user should ensure that the information they provide is accurate and complete, as it will be used to describe and make their resource available to others. This form should not be filled out multiple times for the same resource, as it may lead to duplicate records in the database.
-</thinking>
-
 # Open Resource Documentation Consent Form - Help Guide
 ## Purpose
 The Open Resource Documentation Consent Form is used to document resources and collect metadata related to them. It's meant to be filled out by users who want to share their resources with the public, providing information about the resource, its permissions, and the terms of use.

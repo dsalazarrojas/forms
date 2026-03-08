@@ -1,15 +1,3 @@
-<thinking>
-This form is likely designed for teams to register themselves for a dance competition or event. It's used to collect information about the team, its leader, and other relevant details. This form might be used by schools, dance schools, or other organizations that host dance events. It's possible that this form is used to gather data for administrative purposes, such as team verification, communication, or judging criteria.
-
-The form might have some redundancy or duplication of similar fields, which could be addressed through form design improvements. For example, the two "Team Name" fields (team_name and team_name_alias) might be consolidated into one field with a clear distinction for aliases or variations. Similarly, the "Team Category" field (id 11) might be combined with the options to avoid duplication of categories.
-
-The fields seem to be a mix of basic team information fields (team leader email, phone, name, etc.) and more specific fields for dance-related information (team category, team image, team video). 
-
-The "Team Image" and "Team Video" fields are optional and seem to be intended for teams to provide visual aids or references, which could be useful for event organizers or judges.
-
-This form likely requires some user education or guidance on how to properly fill it out, as some fields might be confusing or unclear for non-expert users.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information from teams for a dance competition or event. It will help the organizers to verify and communicate with teams, and also to evaluate their performance or other judging criteria.

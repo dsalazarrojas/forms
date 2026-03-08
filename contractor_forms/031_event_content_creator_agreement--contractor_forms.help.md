@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to capture information relevant to creating agreements for events with content creators. The form will ask for details about event organizers, agreement dates, content types, content owners, contract start and end dates, content delivery terms, content rights, contract status, tools assigned to the content, and event names. 
-
-The fields included in this form will provide a structured way for event organizers to collect and track relevant data for each event with a content creator. The form will help event organizers understand what information is needed to create a comprehensive agreement. 
-
-The form is not designed to create an actual contract, but rather to serve as a template for creating one. The information collected through this form will be used to create a draft contract that can be reviewed and finalized by both parties. 
-
-Please make sure to fill out the form carefully and accurately, as the information collected will be used to create a legally binding document. 
-
-</thinking>
-
 # event_content_creator_agreement - Help Guide
 ## Purpose
 This form is designed to collect information for event organizers to create agreements with content creators. It captures details about event organizers, agreement dates, content types, content owners, contract start and end dates, content delivery terms, content rights, contract status, tools assigned to the content, and event names.

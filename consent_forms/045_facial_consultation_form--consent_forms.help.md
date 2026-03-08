@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to collect information for a facial consultation. It is used to document a patient's personal details, medical history, and consultation data. The form should be completed by a healthcare professional, typically a doctor or medical staff member, to ensure accurate and complete information is collected...</thinking>
-
 # Facial Consultation Form - Help Guide
 ## Purpose
 The Facial Consultation Form is used to collect patient information, medical history, and consultation data for a facial consultation.

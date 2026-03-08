@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for a generic "Privacy Release Form". The form's purpose seems to be related to obtaining privacy-related information from employees or employers. Based on the provided YAML fields, the form asks for the employee's name, date signed, employee's signature, employer's signature, and employee's address. The form does not appear to be affiliated with any specific platform or company, but rather a generic template created using AI. The fields do not indicate any sensitive or proprietary information that would suggest duplication from other platforms. However, it's essential to note that the form's purpose and fields might be subject to interpretation and context.
-</thinking>
-
 # Privacy Release Form - Help Guide
 ## Purpose
 This form is designed to collect privacy-related information from employees or employers, likely for official purposes such as HR or administrative tasks.

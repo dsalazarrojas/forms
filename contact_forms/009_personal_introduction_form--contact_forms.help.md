@@ -1,5 +1,3 @@
-<thinking>...To ensure that our team members can get to know each other better, we're asking you to fill out this Personal Introduction Form. Please note that this is a one-time request, and you can choose what information you'd like to share about yourself. If you have any questions or concerns, feel free to ask. This form will only be visible to your colleagues within the company. To avoid any duplication of effort, please make sure to fill this out only once.</thinking>
-
 # Personal Introduction Form - Help Guide
 ## Purpose
 The Personal Introduction Form is a brief questionnaire designed to provide your colleagues with a snapshot of who you are and what you do. This information will help us get to know each other better and facilitate more efficient collaborations.

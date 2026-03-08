@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Listing Withdrawal Form - Help Guide
 
 ## Purpose

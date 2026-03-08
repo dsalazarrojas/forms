@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "new_client_profile_form", is to collect basic information from new clients to create or update their profiles. This form should only be used for individuals who do not already have a profile in the system. Before completing this form, please ensure that you are not duplicating an existing profile.
-</thinking>
-
 # new_client_profile_form - Help Guide
 ## Purpose
 The new_client_profile_form is designed to collect basic information from new clients to create or update their profiles. This form is intended for individuals who do not already have a profile in the system. Please ensure that you are not duplicating an existing profile before completing this form.

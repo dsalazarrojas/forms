@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed for students to enter their music school competition tournament. To avoid redundancy and duplication, we'll ensure that each form section serves a unique purpose.
-
-The form is divided into three sections: Student Information, Parent Information, and Music Information. Each section is optional, but filling out all sections will provide a more complete and accurate entry.
-
-This form is intended for students to provide details about themselves, their parents/guardians, and their music-related activities. This information will be used to evaluate their eligibility and participation in the music school competition tournament.
-
-The form can be filled out by students and their parents/guardians. It is recommended that students complete the Student Information section, while parents/guardians complete the Parent Information section.
-
-Before filling out this form, please ensure that you have the necessary permission from your parents/guardians if you are under 18 years old.
-
-</thinking>
-
 # Music School Competition Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed for students to enter their music school competition tournament. It collects information from students and their parents/guardians to evaluate their eligibility and participation in the tournament.

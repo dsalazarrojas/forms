@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in weight loss programs or services. The purpose of this form is to gather essential details about the customer, including their personal contact information, weight loss goals, and current weight and height. This data will be used to provide personalized recommendations and support to help customers achieve their weight loss goals. 
-Before proceeding, please ensure that you are completing this form for the purpose of weight loss transformation and not for any other reason. This form is designed for first-time users, so please do not attempt to resubmit if you have already completed this form earlier.
-</thinking>
-
 # Healthy Weight Loss Transformation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who are interested in weight loss programs or services. We will use this data to provide personalized recommendations and support to help customers achieve their weight loss goals.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Support Customer Feedback Survey form is used effectively to gather valuable feedback from customers. This form will help us understand the customer's perception of our customer support team's performance. We should only share this form with customers who have had a recent interaction with our support team to maximize its effectiveness. We also need to make sure that the form's questions are clear and concise and that the customer can easily provide their feedback. 
-</thinking>
-
 # Support Customer Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with our customer support team. It will help us identify areas of improvement and ensure that our support team provides the best possible service to our customers.

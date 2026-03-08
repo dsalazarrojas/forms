@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help individuals declare address changes and provide necessary details to update their records. This guide will walk you through the process of filling out the form, field by field.
-
-Before starting, please ensure that you are filling out this form for a valid reason, such as moving to a new address or updating your existing address. Make sure that you don't already have a pending address change declaration for the same address in progress.
-</thinking>
-
 # Address Change Declaration Form - Help Guide
 ## Purpose
 This form is used to declare a change in your address. It requires providing information about the old address, new address, and other relevant details like the effective date of change, contact phone number, and reason for change.

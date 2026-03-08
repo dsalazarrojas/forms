@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive intake form for counseling services, collecting necessary information to understand a client's personal and medical details. This form aims to gather information about the client's demographics, contact information, medical history, mental health history, medical procedures, allergies, medical conditions, and insurance coverage. The purpose of this form is to provide counselors with a thorough understanding of the client's background before proceeding with counseling sessions.
-
-Before starting, ensure you have not completed this form for the same client before. If you have previously completed this form, do not submit it again.
-
-</thinking>
-
 # Counseling Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect personal and medical information from clients for counseling services.

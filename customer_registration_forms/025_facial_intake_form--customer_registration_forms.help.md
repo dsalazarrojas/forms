@@ -1,8 +1,3 @@
-<thinking>
-Is this form intended for customers to register for a specific type of service or appointment? Is it meant for customers to report their medical history, list their allergies, or provide information for a treatment plan? Perhaps it's used to collect demographic information or preferences. Clarifying the purpose of this form will help in structuring the help guide accordingly.
-Are there any specific requirements or constraints to be aware of when completing this form? For example, must the customer select a specific option for a field or can they input free-form text?
-</thinking>
-
 # Facial Intake Form - Help Guide
 ## Purpose
 The Facial Intake Form is used to gather information from customers for a facial treatment or consultation. This form helps us understand your medical history, allergies, and treatment preferences to provide the best possible service.

@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect feedback from customers after they have had a food-related experience at a food establishment. This feedback will help the establishment to evaluate their food quality, service, and overall experience provided to customers... This form will be used by the food establishment to improve their services and offerings. It is essential to provide accurate and honest feedback, as it will be used to make informed decisions about how to improve their business. Please make sure you are not providing duplicate feedback, as this form is designed to capture unique experiences...</thinking>
-
 # Food Evaluation Form - Help Guide
 
 ## Purpose

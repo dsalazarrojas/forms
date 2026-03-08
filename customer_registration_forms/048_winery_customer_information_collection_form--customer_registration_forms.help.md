@@ -1,7 +1,3 @@
-<thinking>
-We need a form that is able to collect customer information for wine clubs. The purpose of this form is to collect information about the customer's preferences, contact details, and other relevant data that will help us better serve them. Before we start, let us ensure we are not duplicating efforts and that this form's purpose is not redundant with any other forms we already have in place. After verifying, we can proceed with the creation of the form and its corresponding documentation.
-</thinking>
-
 # Winery Customer Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to help us better understand their preferences and needs. This data will be used to tailor our wine club offerings and services to their interests.

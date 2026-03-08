@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-This form is for adult and minor patients undergoing circumcision procedures. It requires various pieces of information from the patient, such as contact details, medical history, and consent. The form is divided into several sections, each covering different aspects of the patient's information and consent. The goal is to gather essential data for the medical procedure and to ensure the patient understands the implications of the procedure.
+> This form is for adult and minor patients undergoing circumcision procedures. It requires various pieces of information from the patient, such as contact details, medical history, and consent. The form is divided into several sections, each covering different aspects of the patient's information and consent. The goal is to gather essential data for the medical procedure and to ensure the patient understands the implications of the procedure.
 
 </thinking>
 

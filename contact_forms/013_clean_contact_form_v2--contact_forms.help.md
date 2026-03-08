@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather basic contact information from users, allowing them to reach out to the company for support, general inquiries, or other purposes. The form is intended to be a simple and user-friendly way to initiate contact.
-</thinking>
-
 # Clean Contact Form V2 - Help Guide
 ## Purpose
 The "Clean Contact Form V2" is a contact form used for users to get in touch with the company for various reasons such as general inquiries, support requests, or other purposes.

@@ -1,5 +1,3 @@
-<thinking>This form is used for the authorization of a patient's admission to a nursing home. The form is used to collect information about the patient's identity, medical history, and other relevant details. It is crucial to complete this form accurately and truthfully to ensure the patient's safety and well-being during their stay in the nursing home. Before filling out this form, please ensure that the patient's information is up-to-date and that you have the necessary authority to complete the form on their behalf. This form should not be completed in duplicate, as any changes to the patient's information should be updated only on this form.</thinking>
-
 # Nursing Home Admission Authorization Form - Help Guide
 ## Purpose
 The Nursing Home Admission Authorization Form is used to gather essential information about a patient's identity, medical history, and other relevant details for their admission to a nursing home.

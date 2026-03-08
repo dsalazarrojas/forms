@@ -1,4 +1,4 @@
-<figure><thinking>Is this form being used for tracking COVID-19 lab reports? This form seems to gather information related to lab tests, specimen collection, and test results. Is this form part of a larger system for managing patient data and test outcomes? Please ensure that this form is only used for its intended purpose and not for any other unrelated tasks. This form appears to be a comprehensive template for capturing detailed information about COVID-19 lab tests, including lab details, patient information, test results, and clinical interpretations. Please review the form fields carefully to ensure you are completing the correct sections for your specific needs.</thinking></figure>
+<figure></figure>
 
 # COVID 19 Lab Report Form - Help Guide
 ## Purpose

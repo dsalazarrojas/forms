@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from patients regarding their pre-vaccination status and medical history in preparation for COVID-19 vaccination. The form helps healthcare providers to identify potential risks and allergies, medical conditions, and medications the patient is taking before administering the vaccine. This form is intended to be used by healthcare professionals to assess the patient's eligibility for vaccination and to take necessary precautions.
-
-Please note that this form is not intended to be used as a substitute for medical consultation or advice. It is essential to follow the guidelines and protocols set by local health authorities and medical experts.
-
-</thinking>
 # pre_vaccination_checklist_for_covid_19_vaccines - Help Guide
 ## Purpose
 

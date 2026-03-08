@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from artists entering a sculpture tournament. This guide will walk you through the process of filling out the form, explaining each field and its intended use. Please note that this form is a free adaptation of public survey metadata and is not affiliated with or endorsed by any specific form platform.
-</thinking>
-
 # sculpture_tournament_entry_form - Help Guide
 ## Purpose
 This form is designed to collect essential information from artists participating in a sculpture tournament. It is intended to provide a standardized way for artists to submit their entries and for organizers to collect and review the necessary details.

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely intended for recording information about a participant in a stock option agreement, which is a legal document that outlines the terms and conditions of a stock option. This form would typically be used by an HR or finance department to collect information about the participant, such as their name, title, email, and date of birth. This form is likely not intended for use with sensitive or confidential information. It does not include any fields that would indicate the use of this form with such information, such as social security numbers or financial data. Therefore, the assumption is that this form is for general use.
-
-</thinking>
-
 # Stock Option Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect information about a participant in a stock option agreement. The participant may be an employee, manager, or other individual involved in the process.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a comprehensive guide for the "Press Release Writing Checklist" form, which is designed to help users efficiently complete the necessary information for a press release. The form's purpose is to collect essential details about a press release, including the company name, contact person, date released, headline, and other relevant information. Before we dive into the form, it's essential to ensure that this guide is relevant and does not overlap with any existing resources. This form is intended for internal stakeholders responsible for creating and managing press releases within an organization.
-</thinking>
-
 # Press Release Writing Checklist - Help Guide
 ## Purpose
 The Press Release Writing Checklist form is designed to collect all the necessary information for creating a press release. This form guides users through a series of fields that help in organizing and presenting the details of the press release effectively.

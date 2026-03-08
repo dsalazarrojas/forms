@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register customers for a customer loyalty gamification program. The form is used to gather customer details and preferences to tailor the program to their needs. The form has multiple fields for customer details, loyalty programs, rewards card type, rewards card number, email, phone number, customer programs, and other customer programs fields to capture any additional programs the customer may be enrolled in.
-</thinking>
-
 # customer_loyalty_gamification_registration_form - Help Guide
 ## Purpose
 This form is designed to register customers for a customer loyalty gamification program, allowing us to understand their preferences and tailor the program to their needs.

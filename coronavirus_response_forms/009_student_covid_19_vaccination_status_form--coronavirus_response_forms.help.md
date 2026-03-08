@@ -1,7 +1,3 @@
-<thinking>
-To determine whether a student has been vaccinated against COVID-19, we need to understand the student's vaccination status. This form is used to track and document the student's vaccination status, which is important for schools, communities, and other organizations to assess and monitor the vaccination coverage among students. 
-Before proceeding with the form, please ensure that this form is not a duplicate submission. If you're unsure about your vaccination status or have any questions, please contact your local health authorities or school administration for further assistance.</thinking>
-
 # Student COVID 19 Vaccination Status Form - Help Guide
 ## Purpose
 This form is used to document and track the student's COVID-19 vaccination status.

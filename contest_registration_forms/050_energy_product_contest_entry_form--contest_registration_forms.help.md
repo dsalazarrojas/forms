@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect entries for an energy product contest. The purpose of this form is to gather data from interested participants and evaluate their energy products. Please make sure you understand the form's purpose and what kind of information we are looking for.
-The form is intended to be completed by individuals who are interested in showcasing their energy products. This form will help us to collect all the necessary information to evaluate their products. Please be aware that all the fields are mandatory, except where specified as optional. If you are unsure about any field, please contact form@gic.mx for clarification.
-</thinking>
-
 # Energy Product Contest Entry Form - Help Guide
 ## Purpose
 This form is designed to collect entries for an energy product contest. Please ensure that you understand the form's purpose and what kind of information is being collected.

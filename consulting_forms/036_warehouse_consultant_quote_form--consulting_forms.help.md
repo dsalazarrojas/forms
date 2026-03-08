@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide a clear and concise help guide for the Warehouse Consultant Quote Form, let's first establish its purpose and requirements. This form is designed to collect details about a potential project or quote request from a client. The form will help consultants gather the necessary information to provide a quote for their services.
 
 ### Warehouse Consultant Quote Form - Help Guide

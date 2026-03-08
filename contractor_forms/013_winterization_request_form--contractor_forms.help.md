@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for winterization requests, which is a process of preparing a site or building for the cold winter months. This form should only be used for legitimate requests and not for any other purpose. Please ensure you are not resubmitting a request that has already been made.
-</thinking>
-
 # Winterization Request Form - Help Guide
 ## Purpose
 This form is for contractors and site owners to submit a winterization request to prepare their site or building for the cold winter months. It helps the site management team to efficiently plan and execute the necessary winterization tasks.

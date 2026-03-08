@@ -1,14 +1,3 @@
-<thinking>
-We should explain that this form is used to gather information related to photo model releases, which are used to obtain consent from customers or models for the usage of their images. The form is likely used in situations where a photo shoot or event is taking place and images of the attendees or participants are being captured. By using this form, we can collect essential details such as the customer's name, date of the event or shoot, email, phone number, photo release information, model details, and signatures.
-
-It is assumed that customers are providing their consent for the usage of their images, which is an essential part of photo shoots, events, or other situations where images are captured. The form's design ensures that all necessary information is collected, and the form's fields are carefully crafted to be clear and concise. The form's purpose is to gather accurate and reliable information from customers or models.
-
-The form is designed to be completed by customers or models, and the information collected will be used for the intended purpose of the photo shoot or event. It is essential to understand the form's purpose and the importance of providing accurate information to avoid any miscommunication or misinterpretation of the gathered data.
-
-Before proceeding, please review the form's fields carefully to ensure you understand their intent and requirements.
-
-</thinking>
-
 # photo model release - Help Guide
 ## Purpose
 The Photo Model Release form is used to obtain consent from customers or models for the usage of their images in various photo shoots, events, or situations where images are captured.

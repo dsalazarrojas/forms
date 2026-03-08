@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture consent from participants for the usage of film dialogue clips. The form is designed to be completed by participants who have provided their consent for the usage of their dialogue clips in a film. The form captures details about the participant, the clip description, clip details, media type, participant consent, signed by, date served, and time served. This form is typically used in situations where consent is required for the usage of film dialogue clips, such as in academic or research settings. It is expected that this form will not be used for other purposes.
-</thinking>
-
 # Film Dialogue Clip Usage Consent Form - Help Guide
 ## Purpose
 The Film Dialogue Clip Usage Consent Form is used to capture consent from participants for the usage of their film dialogue clips in a variety of contexts, including academic or research settings.

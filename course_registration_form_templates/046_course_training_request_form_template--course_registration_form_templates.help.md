@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will help you create a user-facing help guide for this form by explaining its purpose, how to complete it, and what each field means, using the provided YAML schema as inspiration.</thinking>
-
 # Course Training Request Form Template - Help Guide
 ## Purpose
 

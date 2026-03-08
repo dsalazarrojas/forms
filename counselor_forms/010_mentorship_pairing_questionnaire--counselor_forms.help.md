@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help match mentors and mentees based on their preferences and goals. It asks questions about the type of mentorship, communication style, availability, and goals to ensure a successful and productive partnership. The form is meant to be completed by both mentors and mentees to ensure that they are compatible and can work well together. Please ensure that you have read and understood the instructions before proceeding.
-</thinking>
-
 # Mentorship Pairing Questionnaire - Help Guide
 ## Purpose
 The Mentorship Pairing Questionnaire is designed to help match mentors and mentees based on their preferences and goals. It is a tool to ensure a successful and productive partnership.

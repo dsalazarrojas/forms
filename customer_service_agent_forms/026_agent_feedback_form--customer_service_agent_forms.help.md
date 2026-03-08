@@ -1,12 +1,3 @@
-<thinking>
-We're checking to make sure the form is correctly defined and not a duplicate... Form Purpose: The Agent Feedback Form is designed to collect feedback from customers about their experience with our agents. This form helps us identify areas of strength and weakness in our agent's performance and provide constructive feedback for improvement.
-
-The form is intended to be completed by customers who have interacted with one of our agents, allowing them to provide an honest assessment of their experience.
-
-To ensure the form's purpose and relevance, we'll review the form's fields and options to provide a clear and concise help guide for end-users.
-
-</thinking>
-
 # Agent Feedback Form - Help Guide
 ## Purpose
 The Agent Feedback Form is a crucial tool for customers to provide feedback on their experience with our agents. It helps us identify areas of strength and weakness in our agent's performance and allows us to make data-driven decisions for improvement.

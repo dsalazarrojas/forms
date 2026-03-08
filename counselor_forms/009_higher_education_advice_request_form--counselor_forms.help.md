@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect advice or guidance from experts in the field of higher education to help students make informed decisions about their academic pursuits. The form is designed to gather relevant information about the student's background, academic and college experiences, scholarships, and any special circumstances that may be influencing their decision-making process. The purpose of this form is to facilitate the collection of expert advice that can be used to provide tailored support to students. To ensure that this form is completed only once for each student, we will be checking for duplicate submissions using the unique identifiers and other relevant information gathered from each response.
-</thinking>
-
 # Higher Education Advice Request Form - Help Guide
 ## Purpose
 The Higher Education Advice Request Form is designed to collect advice and guidance from experts in the field of higher education to help students make informed decisions about their academic pursuits.

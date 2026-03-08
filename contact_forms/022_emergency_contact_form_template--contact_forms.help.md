@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect contact information for emergency purposes. It is designed to help gather information from individuals who need to provide contact details for emergency situations. Please ensure you fill out this form only if you are an individual who needs to provide emergency contact information or if you are the contact person for someone else. Do not duplicate this form for non-emergency situations. This form is intended for individuals who need to provide contact information for emergency purposes, such as out-of-town or international travel, medical conditions, etc...</thinking>
-
 # Emergency Contact Form Template - Help Guide
 ## Purpose
 The Emergency Contact Form Template is designed to collect contact information for emergency purposes, such as out-of-town or international travel, medical conditions, or other situations where timely contact is crucial.

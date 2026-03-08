@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for customers to place an order for nail strips with a specified quantity, type, size, color, and price. The form has several fields that customers need to fill out to complete their order.
-
-</thinking>
-
 # Updated Nail Strip Order Form With Quantity - Help Guide
 ## Purpose
 The form is designed to collect information from customers to place an order for nail strips with specific details such as quantity, type, size, color, and price.

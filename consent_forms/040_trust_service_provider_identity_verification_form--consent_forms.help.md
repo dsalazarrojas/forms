@@ -1,5 +1,3 @@
-<thinking>...checking the provided YAML fields, it seems that this form is used for verifying the identity of a Trust Service Provider, which is likely a critical component for ensuring the trustworthiness of a service provider...it's required for compliance and security reasons...it's not clear if this form is meant for a single user or multiple users, but I'll assume it's for a single user as there's no indication of it being for multiple users...the purpose of this form is likely to collect personal details and contact information of the Trust Service Provider, for further verification and communication...I'm ready to write the help guide!</thinking>
-
 # Trust Service Provider Identity Verification Form - Help Guide
 ## Purpose
 This form is used to collect personal details and contact information of a Trust Service Provider for further verification and communication purposes.

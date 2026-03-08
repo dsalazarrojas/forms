@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for customers to request an estimate for a specific service. 
-The form is intended to gather information about the customer's service needs and provide options for the customer to select from. This form will be used to create a quote for the customer. 
-This form is meant to be used for customers seeking services from our company. Please use it to guide your customers through the process of getting an estimate for their needs. 
-</thinking>
 # get_an_estimate_for_some_service_form - Help Guide
 ## Purpose
 This form is used to collect information from customers to generate an estimate for a specific service.

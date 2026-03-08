@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gauge customer satisfaction and interest in the Skincare Product Refill Program. This form is designed to collect feedback on the quality and effectiveness of the refills, as well as the customer's preferences and frequency of purchase. It is intended to help the company better understand their customers' needs and improve their services.
-
-</thinking>
-
 # Skincare Product Refill Program Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on the Skincare Product Refill Program. It includes questions about your satisfaction with the refills, your interest in refilling, and your purchase frequency and preferences.

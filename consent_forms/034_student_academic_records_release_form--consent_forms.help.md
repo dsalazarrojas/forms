@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain student consent for the release of their academic records. It is a required form for students to fill out when they want to release their records to a third party, such as an academic department or program. 
-To use this form, the student selects the appropriate release options and provides any required information. 
-Please ensure that this form is not used to duplicate efforts or for purposes that are not in line with university policies.
-</thinking>
-
 # Student Academic Records Release Form - Help Guide
 ## Purpose
 This form is used to obtain student consent for the release of their academic records. Students can choose who to release their records to, including academic departments or programs.

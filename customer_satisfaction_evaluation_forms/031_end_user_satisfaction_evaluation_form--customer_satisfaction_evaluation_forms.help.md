@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from end-users, evaluating their satisfaction with a service. The purpose of this form is to gather information on the quality of service provided, customer service, overall rating, and other related aspects. This form should not be completed if the end-user has not received service recently or is not satisfied with the service provided. If the user has already completed a similar form, please do not duplicate your feedback.
-</thinking>
-
 # end_user_satisfaction_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from end-users, evaluating their satisfaction with a service.

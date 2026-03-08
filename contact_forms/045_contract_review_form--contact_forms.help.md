@@ -1,12 +1,3 @@
-<thinking>
-To ensure this help guide is accurate and relevant, I'll review the provided YAML and create a comprehensive guide.
-
-The Contract Review Form is used to collect and track information about contracts, including customer details, contract terms, and review status. This form helps streamline the review process and keeps track of agreements, ensuring all necessary information is collected and reviewed.
-
-The guide should be concise and easy to follow, making it accessible to all users. Each field should be explained clearly, with a brief description of the field's purpose and expected input.
-
-</thinking>
-
 # Contract Review Form - Help Guide
 ## Purpose
 The Contract Review Form is used to collect and track information about contracts, including customer details, contract terms, and review status. This form helps streamline the review process and keeps track of agreements.

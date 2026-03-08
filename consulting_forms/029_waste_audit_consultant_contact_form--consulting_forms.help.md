@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential clients or consultants who are interested in scheduling a waste audit or related services. The form is intended to gather contact information and inquiry details, which will be reviewed by the consulting team to determine the best course of action to assist the inquirer. The form fields are kept minimal to ensure that the user can quickly and easily provide the necessary information.
-</thinking>
-
 # waste_audit_consultant_contact_form - Help Guide
 ## Purpose
 This form is used to collect contact information and inquiry details from potential clients or consultants who are interested in scheduling a waste audit or related services.

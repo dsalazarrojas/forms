@@ -1,5 +1,4 @@
-> <thinking>...</thinking>
-This form is designed to gather information from businesses about their continuity audit consulting needs. The purpose of this form is to collect data on the company's industry, location, size, and contact information, so that our consulting service can assess their business continuity program and provide tailored guidance. 
+> This form is designed to gather information from businesses about their continuity audit consulting needs. The purpose of this form is to collect data on the company's industry, location, size, and contact information, so that our consulting service can assess their business continuity program and provide tailored guidance. 
 
 Please only fill out this form if you are a representative of a company looking for business continuity audit consulting services. If you are an individual looking for services for personal purposes, please do not fill out this form as it is not designed for your needs. 
 

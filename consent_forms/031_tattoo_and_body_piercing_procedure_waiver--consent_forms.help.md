@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive help guide for this form, let's break down the purpose and fields in detail.
-
-The form "Tattoo And Body Piercing Procedure Waiver" is designed to capture essential information from clients before proceeding with a tattoo or body piercing procedure. This form aims to gather necessary data to ensure a safe and informed consent process between the client and the tattoo artist. 
-
-The main goal is to collect client information, medical history, and consent, which will help the tattoo artist understand any potential risks or complications associated with the procedure. The form also includes fields for contact information, medical notes, and signatures to ensure that the client is aware of and agrees to the terms of the procedure.
-
-This form is not intended to be a duplicate of other forms, and its purpose is to provide a detailed and comprehensive overview of the client's situation, enabling the tattoo artist to make informed decisions about the procedure's feasibility and safety.
-
-</thinking>
-
 # Tattoo And Body Piercing Procedure Waiver - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients before proceeding with a tattoo or body piercing procedure, ensuring a safe and informed consent process.

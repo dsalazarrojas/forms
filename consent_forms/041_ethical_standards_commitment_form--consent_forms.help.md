@@ -1,11 +1,3 @@
-<thinking>Form purpose: This form is used to collect commitments and acknowledgements from staff members and stakeholders regarding the Ethical Standards of our organization. This form is part of our internal processes to ensure that all staff and stakeholders are aware of and committed to upholding these standards.
-
-Internal reasoning: This form is designed to be a part of our internal processes to ensure that all staff and stakeholders are aware of and committed to upholding the Ethical Standards of our organization. It is not meant to be used for external purposes. The form is intended to be completed by staff members and stakeholders, and it is recommended that it be completed as part of their onboarding process.
-
-Form creation: This form was created using AI-generated form technology, and it does not rely on any proprietary content from other form platforms. The form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-Please fill out this form carefully and thoroughly, and make sure to review the information provided before submitting it.</thinking>
-
 # Ethical Standards Commitment Form - Help Guide
 ## Purpose
 The Ethical Standards Commitment Form is used to collect commitments and acknowledgements from staff members and stakeholders regarding the Ethical Standards of our organization. This form ensures that all staff and stakeholders are aware of and committed to upholding these standards.

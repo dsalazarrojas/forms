@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents who have used the services of a doula (a trained birth support person). The form is intended to be completed by the parent themselves, and its purpose is to gather information about their experience with the doula's services, including the quality of support they received, how well the doula worked with the medical team, and their overall satisfaction with the birth experience. This form will help identify areas where the doula's services can be improved and areas where they excel.
-
-This form is part of the "course_evaluation_forms" category, which likely deals with evaluating the effectiveness of courses or programs, including those provided by the doula. The form includes various fields to collect quantitative and qualitative feedback, which will help in providing actionable insights for improvement.
-
-To avoid duplication, the form is designed to be self-explanatory, with clear and concise labels and hints to guide the user through the process.
-
-This form will help in:
-
-*   Evaluating the quality of services provided by the doula
-*   Identifying areas of improvement
-*   Providing recommendations for better services
-*   Gathering feedback for future development
-
-Please ensure that the form is completed in its entirety to provide valuable feedback.
-</thinking>
-
 # Birth Arts International Parental Birth Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from parents who have used the services of a doula (a trained birth support person). The form helps evaluate the quality of services provided by the doula, identify areas for improvement, and gather feedback for future development.

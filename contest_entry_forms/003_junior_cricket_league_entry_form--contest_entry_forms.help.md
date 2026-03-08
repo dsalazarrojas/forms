@@ -1,7 +1,3 @@
-<thinking>
-The Junior Crickets League Entry Form is designed to collect information from users who want to participate in the Junior Crickets League. This form is meant to be used by users who are interested in joining the league, and it will help them provide the necessary details to be considered for entry. It's essential to ensure that the form is filled out accurately and completely to ensure a smooth and efficient entry process. To avoid duplication, users should only fill out this form once, and any subsequent submissions should be avoided. This form is an original adaptation, created using AI-generated data, and is not affiliated with or endorsed by any other form platform. Users can use, modify, and sell forms derived from this one, but please give credit accordingly.
-</thinking>
-
 # Junior Crickets League Entry Form - Help Guide
 ## Purpose
 The Junior Crickets League Entry Form is designed to collect information from users who want to participate in the Junior Crickets League.

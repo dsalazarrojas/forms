@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the personal care assistant authorization. This form is designed to gather details about the care type, start and end dates, emergency contact information, and other relevant data that is required for the personal care assistant. Please ensure that you are only filling out this form if you are authorized to do so. If you have already filled out this form, please do not resubmit. Your data will be reviewed and verified before being stored in our system.
-</thinking>
-
 # Personal Care Assistant Authorization Form - Help Guide
 
 ## Purpose

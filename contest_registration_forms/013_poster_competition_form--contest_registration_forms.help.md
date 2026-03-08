@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's poster submission for a competition. The form will be used to gather essential details about the contestant, their poster, and the submission process. It is crucial to provide accurate and complete information to increase the chances of being selected as a finalist. Before proceeding, please ensure that you have not already submitted a form for this competition. If you have any doubts or questions, feel free to reach out to the organizers.
-
-The form will guide you through 25 fields, each with specific questions tailored to collect relevant information about your poster submission. The fields are categorized into several sections to make it easier for you to navigate and focus on one area at a time.
-
-</thinking>
-
 # Poster Competition Form - Help Guide
 ## Purpose
 The Poster Competition Form is designed to collect essential details about your poster submission, ensuring you provide accurate and complete information to increase your chances of being selected as a finalist.

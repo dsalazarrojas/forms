@@ -1,10 +1,3 @@
-<thinking>
-The form is used to collect information from patients and medical staff for testing appointments, likely for COVID-19 testing or other medical screenings. The form is designed to gather relevant details such as patient contact information, disease diagnosis, and appointment scheduling details. To ensure that the form is filled out correctly, please read the following instructions carefully.
-
-Before proceeding, check if you have already filled out this form. If you have previously submitted this form, please do not submit it again.
-
-</thinking>
-
 # Testing Appointment Form - Help Guide
 ## Purpose
 The Testing Appointment Form is designed to collect relevant information from patients and medical staff for testing appointments.

@@ -1,13 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-This form is used to collect information from patients before administering the COVID-19 vaccine. The form is designed to gather essential details about the patient's health, medical history, and vaccination status to ensure a safe and effective vaccination process. 
-
-Before filling out this form, please ensure that you are eligible to receive the vaccine and that the information you provide is accurate and up-to-date. If you have any doubts or concerns, please reach out to your healthcare provider.
-
-**Form Non-Duplication Check**
-Please do not fill out this form if you have already done so in the past 24 hours. This form is designed to be filled out once before each visit to the clinic.
-</thinking>
-
 # COVID 19 Vaccine Clinic Check In Form - Help Guide
 ## Purpose
 This form is used to gather essential information from patients before administering the COVID-19 vaccine. The information collected will help ensure a safe and effective vaccination process.

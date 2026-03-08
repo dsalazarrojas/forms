@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about the user's role, placement, activity, date, time, and any additional notes for a declaration of suitability purpose. The form is intended for users to provide their contact information for follow-up purposes.
-
-Before completing this form, please ensure you are submitting this form for the intended purpose and are not duplicating an existing submission.
-
-</thinking>
 # Declaration Of Suitability Form - Help Guide
 ## Purpose
 This form is used to gather information about the user's role, placement, activity, date, time, and any additional notes for a declaration of suitability purpose.

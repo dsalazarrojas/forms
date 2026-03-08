@@ -1,9 +1,3 @@
-<thinking>Before we dive into the form help guide, let's quickly review the purpose and requirements of this form. The "Young Women's Program Referral Form" is used to refer a young woman for a specific program. This form is not required, but it's meant to be completed by someone who wants to refer a young woman for the program. It's used to gather important details about the referral, such as the program's status and the contact information of the referring person.
-
-To avoid duplicating efforts, please ensure that you are not completing this form if you are not authorized to do so. Additionally, ensure that you are not referring the same individual multiple times.
-
-Now, let's move on to the help guide for this form.</thinking>
-
 # Young Women's Program Referral Form - Help Guide
 ## Purpose
 The "Young Women's Program Referral Form" is used to refer a young woman for a specific program. This form helps to gather important details about the referral, including the program's status and the contact information of the referring person.

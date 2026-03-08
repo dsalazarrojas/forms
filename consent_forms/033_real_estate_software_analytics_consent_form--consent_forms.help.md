@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain consent from clients for the use of real estate software analytics. The form is not affiliated with, endorsed by, or derived from any form platform, but rather a custom creation using public survey topic metadata as inspiration. It's released under Creative Commons BY 4.0 license, allowing for modification and even commercial use, as long as proper credit is given. 
-</thinking>
-
 # Real Estate Software Analytics Consent Form - Help Guide
 ## Purpose
 This form is meant to obtain client consent for the use of real estate software analytics. The goal is to inform clients about the collection and usage of their data and provide transparency into how their information will be handled.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect customer satisfaction feedback on our service. Its purpose is to gather information about the customer's experience, including their level of satisfaction, reasons for their last interaction, aspects of our service they enjoy, and areas where we can improve. This form helps us understand the customer's preferences and pain points, allowing us to tailor our services to better meet their needs.
-The goal is to keep the form concise and easy to fill out, while gathering valuable insights that inform our service development and improvement.
-The form's layout should be clear and intuitive, with questions that flow logically and are easy to understand.
-The form should not be too long or too short, as we want to balance the amount of information collected with the burden on the customer.
-The form should be designed for both internal and external use, with the aim of improving our service based on customer feedback.
-The form should not collect redundant or unnecessary information, and each question should serve a specific purpose.
-</thinking>
-
 # customer_satisfaction_survey_quotation_form - Help Guide
 ## Purpose
 This form is designed to collect customer satisfaction feedback on our service, aiming to understand customer preferences and experiences to improve our services.

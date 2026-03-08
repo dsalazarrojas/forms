@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Media Content Distribution Audit Form - Help Guide
 ## Purpose
 The Media Content Distribution Audit Form is designed to help assess and analyze the distribution of media content across various channels. This form will help you gather information about the performance of your media content on different platforms, allowing you to identify areas for improvement and make data-driven decisions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graphic Designer Contact Form - Help Guide
 
 ## Purpose

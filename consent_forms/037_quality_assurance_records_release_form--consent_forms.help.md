@@ -1,5 +1,3 @@
-<thinking>...The form "Quality Assurance Records Release Form" is a critical document used in quality assurance records management. It is essential for releasing quality assurance records, ensuring compliance with regulations and internal policies. This form should only be used for records that have been thoroughly reviewed and deemed suitable for release. Before proceeding, please ensure that the form is not already filled out for another purpose, and the information is accurate and up-to-date. This form will be used by authorized personnel to review and release quality assurance records... </thinking>
-
 # Quality Assurance Records Release Form - Help Guide
 ## Purpose
 The Quality Assurance Records Release Form is used to release quality assurance records after they have been thoroughly reviewed and deemed suitable for release. This form is essential for ensuring compliance with regulations and internal policies.

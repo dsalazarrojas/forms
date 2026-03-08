@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for obtaining the waiver from the customer, specifically for the embroidery work done by the company. This waiver is required to be completed by the customer before their order is fulfilled. 
-</thinking>
-
 # embroidery_waiver_form - Help Guide
 ## Purpose
 The embroidery waiver form is a document that requires the customer to provide their signature, order number, and other relevant details. It's essential to fill this form correctly to ensure a smooth transaction experience.

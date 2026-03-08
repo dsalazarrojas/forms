@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, my task is to create a user-facing help guide for the "Vehicle Request Form" in the "customer_service_forms" category. To start, I'll create a brief internal reasoning block to understand the form purpose and check for relevance and non-duplication.
-
-The purpose of this form is to collect information about vehicle requests from customers. The form is used in a customer service context to gather details about the vehicle type, event location, event date and time, and other relevant details required for the vehicle request. The form should be easy to understand and fill out for the end-user, with clear explanations for each field.
-
-I'll now output the final help guide in Markdown format as per the required structure.</thinking>
-
 # Vehicle Request Form - Help Guide
 ## Purpose
 This form is used to collect information about vehicle requests from customers. It helps us understand the specific requirements for vehicle type, event location, event date and time, and other details.

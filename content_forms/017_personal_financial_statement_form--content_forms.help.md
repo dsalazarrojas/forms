@@ -1,12 +1,3 @@
-<thinking>
-**This is the internal reasoning behind the creation of the help documentation**
-
-This form is designed to collect information about personal financial status, assets, and liabilities. The purpose of this form is to gather data that will help the user provide a comprehensive financial statement. This information will be used to assess the user's financial health and provide personalized advice.
-
-The form is not designed to be used for any other purpose, so there is no need to check for duplication.
-
-</thinking>
-
 # personal_financial_statement_form - Help Guide
 ## Purpose
 This form is designed to collect information about personal financial status, assets, and liabilities.

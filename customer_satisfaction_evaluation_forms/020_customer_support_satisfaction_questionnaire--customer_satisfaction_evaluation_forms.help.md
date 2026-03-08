@@ -1,5 +1,3 @@
-<thinking> This form, "customer_support_satisfaction_questionnaire", is designed to collect customer feedback on their experience with our customer support service. It is intended to assess the customer's satisfaction with various aspects of the service, including the support provided, the time it took to resolve their issue, and the helpfulness of the support personnel. Please ensure that you only submit this form once you have experienced our customer support service. This form is meant to be a one-time evaluation, and any repeated submissions will not be accepted. </thinking>
-
 # customer_support_satisfaction_questionnaire - Help Guide
 
 ## Purpose

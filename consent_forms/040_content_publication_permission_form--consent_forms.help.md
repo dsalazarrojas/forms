@@ -1,5 +1,3 @@
-<thinking>Content Publication Permission Form is a crucial form for creators to grant or request permission for the publication of their content. This form is designed to ensure that all necessary information is collected for the publication process. To use this form, please make sure you are not submitting duplicate requests. If you have already submitted a request for the same content, do not submit another request.</thinking>
-
 # Content Publication Permission Form - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an Hourly Manager Contract Agreement. This form is likely used to outline the terms and conditions of a working arrangement between a manager and a contractor. It appears to be a generic form with a range of fields covering various aspects of the contract, including job details, payment terms, and contact information. It's essential to ensure that each field is filled in accurately to create a comprehensive contract.
-
-Before creating this help guide, I will review the fields and provide a clear explanation for each section to assist users in completing the form correctly. The fields seem to be mostly optional, except for one field that is not marked as required. It's possible that this field might be essential for the contract's effectiveness or completeness.
-
-Upon further review, it appears that this form might be used in various contexts, such as freelance work, consulting, or temporary work arrangements. The payment terms and contract duration fields might be particularly important for ensuring clarity on payment expectations and the contract's timeline. The form's structure allows for flexibility, but it's crucial to fill it out carefully to avoid misunderstandings or miscommunications.
-
-To create a helpful guide, I will ensure that each field explanation is clear, concise, and accurate, taking into account the options provided in the form's structure.
-</thinking>
-
 # Hourly Manager Contract Agreement - Help Guide
 ## Purpose
 This form is designed to collect information for an Hourly Manager Contract Agreement, outlining the terms and conditions of a working arrangement between a manager and a contractor.

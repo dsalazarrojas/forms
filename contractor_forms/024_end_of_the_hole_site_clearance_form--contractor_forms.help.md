@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the end-of-hole site clearance process. It is a critical process for ensuring that all site-specific activities have been completed before leaving the site, and that all necessary documentation has been captured. Before filling out this form, please ensure that you have completed all tasks and activities required for the site and that all required documentation is ready for submission. This form should only be filled out once all work has been completed on the site.
-
-</thinking>
-
 # End Of The Hole Site Clearance Form - Help Guide
 ## Purpose
 The End Of The Hole Site Clearance Form is used to document the end-of-hole site clearance process for a given site. It ensures that all necessary work has been completed and all required documentation has been captured before leaving the site.

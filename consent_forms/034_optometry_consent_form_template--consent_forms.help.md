@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will walk you through the Optometry Consent Form Template, a critical document in the medical field that ensures patients' rights and obligations are acknowledged and recorded. Before proceeding, ensure you are authorized to fill this form and that it meets your specific needs.
 
 # Optometry Consent Form Template - Help Guide

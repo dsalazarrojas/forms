@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to provide a structured way to document and track client consultations, meeting schedules, and follow-up activities. It should help legal professionals to create and manage appointment schedules for clients, including setting meetings, tracking meeting status, and documenting outcomes and next steps. Ensure that each form field is completed as relevant and necessary for the particular consultation or meeting.
-
-</thinking>
-
 # Legal Consultation Appointment Checklist Form Template - Help Guide
 ## Purpose
 The form is designed to help legal professionals manage client consultations by providing a structured template for capturing essential information about client meetings. This includes client contact details, meeting schedules, and follow-up activities.

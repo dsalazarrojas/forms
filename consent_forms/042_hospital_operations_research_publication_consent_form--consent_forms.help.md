@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Operations Research Publication Consent Form - Help Guide
 ## Purpose
 The Hospital Operations Research Publication Consent Form is used to capture informed consent from research participants regarding the use and handling of their sensitive data. This form is designed to provide clear instructions and guidelines for research participants to understand how their data will be used, stored, and protected. It includes fields for participant contact information, consent status, data use and retention periods, and researcher affiliations.

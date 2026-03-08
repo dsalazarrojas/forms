@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customer registration and pre-ordering for the February release of a product or service. It's essential to complete this form accurately to ensure that your order is processed correctly and you receive the right information about the product or service. Please make sure you fill in all required fields.
-</thinking>
-
 # good_hart_february_release_pre_order - Help Guide
 ## Purpose
 This form is used for customer registration and pre-ordering for the February release of a product or service.

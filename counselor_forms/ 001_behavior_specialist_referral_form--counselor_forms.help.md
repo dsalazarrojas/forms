@@ -1,17 +1,3 @@
-<thinking>
-The Behavior Specialist Referral Form is designed to collect information from clients or users who require specialized support services. This form is intended for referrals to behavior specialists, who provide expert guidance and support to address specific behavioral issues or concerns. Before completing this form, please ensure that you have not already filled out a similar form or that the information you provide is up-to-date and accurate.
-
-This form is typically used for:
-
-* Referrals to behavior specialists for support with specific behavioral issues or concerns
-* Gathering personal and contact information for follow-up communication
-* Scheduling appointments or meetings with behavior specialists
-* Providing additional details or comments for context
-
-Please carefully review each field to ensure you provide the necessary information for a smooth referral process.
-
-</thinking>
-
 # Behavior Specialist Referral Form - Help Guide
 ## Purpose
 The Behavior Specialist Referral Form is designed to collect relevant information for referrals to behavior specialists, ensuring that you receive the support you need for specific behavioral issues or concerns.

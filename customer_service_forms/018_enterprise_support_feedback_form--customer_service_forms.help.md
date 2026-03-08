@@ -1,11 +1,3 @@
-<thinking>Enterprise Support Feedback Form - Help Guide
-
-The Enterprise Support Feedback Form is used to record and track feedback from customers. This form is meant to be used for customers who have interacted with our support team and are willing to share their feedback and suggestions. It is not intended to be used for general comments or complaints.
-
-Before proceeding, please ensure you have not already submitted feedback for this issue. If you have already submitted feedback, please do not resubmit. Duplicate feedback will not be considered for improvement.
-
-</thinking>
-
 # Enterprise Support Feedback Form - Help Guide
 ## Purpose
 The Enterprise Support Feedback Form is used to capture and track feedback from customers after interacting with our support team.

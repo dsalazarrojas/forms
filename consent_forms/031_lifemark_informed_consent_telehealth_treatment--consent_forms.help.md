@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to gather patient information for telehealth treatment, ensuring informed consent, and documenting patient data for medical professionals. This form should be completed only once for each patient, and any changes made to the form may not be duplicated. This form is part of a secure and confidential process and should be handled with care...</thinking>
-
 # Lifemark Informed Consent Telehealth Treatment - Help Guide
 ## Purpose
 The Lifemark Informed Consent Telehealth Treatment form is used to gather essential patient information and ensure informed consent for telehealth treatment. This form is designed to be completed by patients during their telehealth sessions, and it helps to document their identity, contact details, and consent to treatment.

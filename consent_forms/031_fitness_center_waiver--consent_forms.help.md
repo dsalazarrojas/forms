@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Center Waiver - Help Guide
 ## Purpose
 The Fitness Center Waiver is a form used to collect information from individuals visiting or participating in fitness center activities. It is designed to ensure that each person understands and accepts the terms of the fitness center's policies and procedures. Please read the following help guide to understand how to complete this form correctly and effectively.

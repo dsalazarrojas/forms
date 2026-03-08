@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users interested in participating in a beta testing phase for a digital learning platform. The form will help us understand who our target audience is, what kind of devices they use, and what motivates them to use our platform. By collecting this data, we will be able to better tailor our beta phase to the needs of our users and ensure a successful launch.
-We are checking for duplication of the form and will only process one application per user.
-</thinking>
-
 # Digital Learning Platform Beta Application - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in participating in a beta testing phase for a digital learning platform.

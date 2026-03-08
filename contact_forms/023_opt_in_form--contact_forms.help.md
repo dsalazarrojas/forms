@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect basic information from users interested in opting in to a program or service. It should only be used when there is a clear and legitimate interest in doing so, as this form is for users who have expressed a genuine interest. The purpose of this form is to collect information in a structured and consistent manner to ensure accurate and reliable data collection. Please review the information carefully before proceeding to avoid duplication or misuse of this form.
-
-</thinking>
-
 # Opt In Form - Help Guide
 ## Purpose
 The Opt In Form is a tool used to collect basic information from users interested in opting in to a program or service. This form is intended for users who have expressed a genuine interest in participating in a particular service or program.

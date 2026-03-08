@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help users provide a price estimation for a specific project. The purpose of the form is to gather information about the project's details, such as the target price range, project type, estimated budget, actual budget, pricing strategy, and any additional details about the pricing strategy. The form is designed to be completed by users who need to provide a price estimation for a project.
-
-Before filling out the form, please make sure you have a clear understanding of the project's details and the project's requirements. If you're unsure about any of the questions, please ask your project manager or team lead for clarification.
-
-The form has multiple pages, each with its own set of questions. Please make sure to complete each page carefully and thoroughly.
-
-</thinking>
-
 # Pricing Estimation Survey - Help Guide
 ## Purpose
 The Pricing Estimation Survey is a form designed to help you provide a price estimation for a specific project. This form will guide you through the necessary steps to complete the survey.

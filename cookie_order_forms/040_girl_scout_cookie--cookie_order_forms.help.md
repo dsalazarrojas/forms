@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of an order system for selling Girl Scout cookies. The purpose of this form is to collect information from customers, such as their name, address, and order details. The form is likely used to process orders and generate receipts or confirmations. It's essential to complete this form accurately to ensure that the information is up-to-date and reliable. To confirm, this form is not a duplicate and is relevant to the sales process.
-</thinking>
-
 # Girl Scout Cookie - Help Guide
 ## Purpose
 The Girl Scout Cookie form is used to collect order details from customers. It is essential to provide accurate and up-to-date information to process orders efficiently and generate accurate receipts or confirmations.

@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect anonymous stories from users. It is crucial to note that this form's purpose is to gather personal experiences, community stories, historical accounts, and other types of submissions from individuals. Before proceeding, ensure that you are submitting a story that has not been published before. The form is designed to guide you through the submission process, ensuring you understand the category, title, content, and other essential details about your story. Please take a moment to review the instructions and guidelines below to ensure a smooth and successful submission.</thinking>
-
 # Anonymous Story Submission Form - Help Guide
 ## Purpose
 This form is designed to collect anonymous stories from users, allowing them to share their personal experiences, community stories, historical accounts, and other types of submissions. Please ensure that you are submitting original, unpublished content to respect the integrity of the submission process.

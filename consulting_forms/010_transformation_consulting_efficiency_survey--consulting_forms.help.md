@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Transformation Consulting Efficiency Survey form in a clear and straightforward manner. The form was designed to gather feedback and opinions from clients about their experience with consultants, focusing on various aspects of the consulting process. This guide will walk users through the form's purpose, explain each field, and provide tips for completion.
-
-</thinking>
-
 # Transformation Consulting Efficiency Survey - Help Guide
 ## Purpose
 The Transformation Consulting Efficiency Survey is designed to gather feedback on the consulting process from clients. It assesses the quality of services provided by consultants, including communication, availability, project management, and overall satisfaction. This survey helps consultants to identify areas of improvement and provides valuable insights for future projects.

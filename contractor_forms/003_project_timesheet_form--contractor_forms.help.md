@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Project Timesheet Form" is designed to track project tasks and their related timesheets. It aims to collect information on the project title, task description, and estimated start date. The form is intended to be used by project managers and team members to record and monitor project progress. This form is part of the "contractor_forms" category, which suggests it is related to contracts and projects.
-
-The form has two fields: "project_title" and "estimated_start_date", both of which are optional. However, the "task_description" field is also optional. This form is designed to be used for projects where the project title and estimated start date are relevant information. The form might be used for internal project management purposes.
-
-</thinking>
-
 # Project Timesheet Form - Help Guide
 
 ## Purpose

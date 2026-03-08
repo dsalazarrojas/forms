@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The form purpose is to enable efficient and effective communication between clients and therapists. This guide helps ensure that clients can provide necessary information for their counseling appointments, and therapists can respond promptly to their needs. This form is designed for internal use only, so please refrain from submitting duplicate or irrelevant requests.
 
 </thinking>

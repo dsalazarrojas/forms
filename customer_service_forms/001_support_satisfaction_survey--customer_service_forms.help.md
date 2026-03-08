@@ -1,7 +1,3 @@
-<thinking>
-We should check that the survey is not duplicating efforts in other support channels, and confirm that the questions and fields are aligned with the overall customer experience and the support service's goals. We should also ensure that the fields are clear and concise and that the overall structure is logical and easy to follow. This form should be designed to provide valuable insights to the support service and help them improve their service quality and customer satisfaction.
-</thinking>
-
 # Support Satisfaction Survey - Help Guide
 ## Purpose
 The Support Satisfaction Survey is a tool used by our support service to gather feedback and insights from customers about their experience with our service. The goal of this survey is to understand how we can improve our service and provide better support to our customers in the future.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect mental health peer stories from contributors, ensuring that their stories are recorded and preserved for future reference. Before proceeding, please ensure that you have not submitted a similar story in the past, and that you are aware that by sharing your story, you are giving consent for it to be used in the archive.
-
-This guide will walk you through each field of the form, explaining its purpose and what information is required or optional. Please take a few moments to review each section carefully before submitting your story.
-
-</thinking>
-
 # Mental Health Peer Story Archive Consent Form - Help Guide
 ## Purpose
 The Mental Health Peer Story Archive Consent Form is designed to collect mental health peer stories from contributors. The form collects information such as contributor name, story, consent for publication, and other relevant details. 

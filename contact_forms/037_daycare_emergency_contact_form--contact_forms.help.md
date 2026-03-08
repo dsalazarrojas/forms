@@ -1,9 +1,3 @@
-<thinking>
-This form is used by daycare centers to collect emergency contact information from parents or guardians of children enrolled in the program. 
-It is recommended to complete this form only once for each child and to update any changes in emergency contact information as needed. 
-Duplicate submissions for the same child may be deleted without notice.
-</thinking>
-
 # Daycare Emergency Contact Form - Help Guide
 ## Purpose
 This form is used to collect emergency contact information from parents or guardians of children enrolled in the daycare program. It is essential to provide accurate and up-to-date information to ensure the child's safety and well-being in case of an emergency.

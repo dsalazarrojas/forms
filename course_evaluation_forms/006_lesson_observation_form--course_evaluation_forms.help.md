@@ -1,7 +1,3 @@
-<thinking>
-The lesson observation form is intended to be used by teachers and inspectors to assess a lesson's effectiveness and provide feedback to the instructor. This form is not intended for general feedback, but rather for specific observation and note-taking during a lesson. The form should only be completed during an actual lesson observation, and it is not meant to be used for general purposes or as a template for other types of evaluations. To avoid duplication of work, please ensure that only one form is used per lesson observation.
-</thinking>
-
 # Lesson Observation Form - Help Guide
 
 ## Purpose

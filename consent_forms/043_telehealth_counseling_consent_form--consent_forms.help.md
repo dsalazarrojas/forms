@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telehealth Counseling Consent Form - Help Guide
 ## Purpose
 This form is a consent form for telehealth counseling services. It collects essential information about the patient's contact details, medical history, and agreement to participate in telehealth counseling.

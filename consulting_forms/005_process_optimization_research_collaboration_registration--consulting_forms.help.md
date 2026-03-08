@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register participants for a Process Optimization Research Collaboration project. It's essential that each participant provides accurate and thoughtful information to facilitate successful collaboration and a productive research environment. 
-Please ensure that you have permission to fill out the form and that you're registering for the correct project. If you're unsure about any aspect of the form, please reach out to the project lead for clarification. 
-</thinking>
-
 # Process Optimization Research Collaboration Registration - Help Guide
 
 ## Purpose

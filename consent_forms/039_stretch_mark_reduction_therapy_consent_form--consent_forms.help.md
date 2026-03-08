@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect client information and consent for stretch mark reduction therapy. Please verify that you are a relevant stakeholder and have not already created this form to avoid duplication.
-</thinking>
-
 # Stretch Mark Reduction Therapy Consent Form - Help Guide
 ## Purpose
 This form is a consent form for stretch mark reduction therapy. It collects client information, medical conditions, and consent details for treatment.

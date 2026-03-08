@@ -1,7 +1,3 @@
-<thinking>
-This form is for participants to submit their entry for a Homebrew Tournament. The form should only be filled out by those who are eligible to participate in the tournament. Please ensure that you are not entering duplicate submissions. To be eligible, you must be a participant in the competition and have a registered entry. If you have already submitted an entry for this competition, do not submit another form. Please make sure to fill in all required fields accurately and completely.
-</thinking>
-
 # Homebrew Tournament Entry Form - Help Guide
 ## Purpose
 The Homebrew Tournament Entry Form is a form for participants to submit their entry for a specific competition. This form collects essential information from participants to facilitate the competition process.

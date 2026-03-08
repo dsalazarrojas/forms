@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from powerlifters who want to participate in a contest. The form is designed to gather essential details about the contestant, including their contact information, address, and emergency contact details. This form will be used to verify contestant eligibility and ensure that all necessary contact information is captured for communication and emergency purposes.
-
-To prevent duplication and ensure relevance, we will review and validate the information submitted through this form before allowing contestants to participate in the contest.
-
-</thinking>
-
 # Powerlifting Contest Entry Form - Help Guide
 ## Purpose
 The Powerlifting Contest Entry Form is designed to collect information from powerlifters who want to participate in a contest. This form is essential for verifying contestant eligibility and capturing necessary contact information for communication and emergency purposes.

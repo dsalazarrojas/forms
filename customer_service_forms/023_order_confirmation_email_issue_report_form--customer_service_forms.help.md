@@ -1,14 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "order_confirmation_email_issue_report_form" form. This form is designed to report issues with order confirmation emails sent to customers. The form's purpose is to collect information from support agents to help identify and address these issues. Before submitting this form, please ensure that you haven't already reported the issue through other channels and that you're not duplicating a previously resolved problem.
-
-This form is intended for support agents who need to report problems with order confirmation emails, such as bounced emails, email formatting issues, or other technical difficulties. The form will help us track these problems and provide a clear record of actions taken.
-
-When filling out this form, please be as detailed as possible, as it will aid in the resolution process and provide valuable information for future improvements.
-
-Now, let's go through the form fields:
-
-</thinking>
-
 # order_confirmation_email_issue_report_form - Help Guide
 ## Purpose
 The "order_confirmation_email_issue_report_form" is used to report issues with order confirmation emails sent to customers. This form helps support agents track and resolve problems with these emails.

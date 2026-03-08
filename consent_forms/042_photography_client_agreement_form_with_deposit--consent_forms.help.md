@@ -1,7 +1,3 @@
-<thinking>... This form is designed to be a Photography Client Agreement Form, specifically intended for clients to provide their information and agree to certain terms before a photo shoot. This form ensures that both the client and the photographer have a clear understanding of the shoot details and terms. Each section of the form is designed to gather necessary information and obtain consent from the client. The form is divided into various sections, including client information, shoot details, and payment terms. Each section is carefully crafted to guide the client through the process and help them understand their responsibilities and expectations. This form is a crucial part of the photography business process, ensuring a smooth and successful experience for both parties.
-
-</thinking>
-
 # Photography Client Agreement Form (With Deposit) - Help Guide
 ## Purpose
 This form is a Photography Client Agreement Form, designed for clients to provide their information and agree to certain terms before a photo shoot. It's essential to complete this form carefully to ensure a smooth and successful experience for both the client and the photographer.

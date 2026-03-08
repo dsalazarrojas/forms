@@ -1,7 +1,3 @@
-<thinking>
-The form "mental_health_release_form" is designed to collect information from patients to obtain their mental health release, which is a document that grants permission for mental health treatment, medical records, and other related matters. This form is likely used in a clinical setting, such as a doctor's office or mental health clinic, to ensure patients' rights and privacy are respected while allowing healthcare professionals to provide necessary care. The form asks for identifying information, medical conditions, and insurance details, and a mental health release statement. It is essential to ensure the patient's rights and confidentiality are respected while completing this form.
-</thinking>
-
 # mental_health_release_form - Help Guide
 ## Purpose
 The mental health release form is a document that grants permission for mental health treatment, medical records, and other related matters. It's essential to fill out this form accurately to ensure patients' rights and confidentiality are respected.

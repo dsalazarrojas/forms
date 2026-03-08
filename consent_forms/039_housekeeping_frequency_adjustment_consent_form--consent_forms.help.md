@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to adjust the frequency of housekeeping services for a resident in a housing community. This form is designed to collect information from residents regarding their preferences for housekeeping services, such as cleaning, maintenance, and other related tasks. Before filling out this form, please ensure that you have read and understood the purpose and requirements clearly. This form is not intended to be completed by staff members or administrators; it is specifically for residents to provide their consent and preferences. 
-Please note that you should only fill out this form if you are a resident and have been asked by staff to complete it. If you are unsure about any of the fields or have questions, please reach out to your community staff for guidance.
-</thinking>
-
 # Housekeeping Frequency Adjustment Consent Form - Help Guide
 ## Purpose
 This form is designed for residents to provide their consent and preferences for adjusting the frequency of housekeeping services in their housing community.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback in a structured and organized manner. The form's purpose is to gather information about the user's experience, providing a platform for them to share their thoughts, concerns, and suggestions. The form's design is meant to be user-friendly and efficient, allowing customers to provide their feedback in a concise and actionable format. This form is a tool for businesses to collect data and improve their products or services, and it should be used by customers who have a genuine interest in providing feedback.
-</thinking>
-
 # Customer Feedback PDF Form - Help Guide
 ## Purpose
 The purpose of this form is to gather customer feedback, allowing us to better understand your experiences and opinions. This form will collect information about your visit, including your date and time of visit, your contact information, your rating, and your comments.

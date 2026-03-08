@@ -1,11 +1,3 @@
-<thinking>
-This form is used to obtain microgrant applicant data usage consent and agreement information from applicants. The form is designed to be completed by applicants as part of the microgrant application process. The form should only be used for this specific purpose and not for any other purpose. Please ensure that you have the necessary permissions and authorization to use this form before proceeding.
-
-This form collects information about the applicant's data and its usage. The form is designed to be simple and easy to understand. Please complete the form carefully and accurately to ensure that the information collected is true and complete.
-
-The form consists of several pages with different fields to be completed by the applicant. Each field is designed to collect specific information and should be completed according to the instructions provided. If you have any questions or concerns, please don't hesitate to reach out to the support team.
-</thinking>
-
 # microgrant_applicant_data_usage_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to collect microgrant applicant data usage consent and agreement information.

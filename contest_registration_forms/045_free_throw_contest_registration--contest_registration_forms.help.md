@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Free Throw Contest Registration - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers after a device upgrade. The purpose of this form is to gather information on how the customer feels about their upgraded device, specifically their overall satisfaction, rating, and any potential recommended improvements. Before starting to fill out this form, please ensure that you have a device upgrade that you have used recently and that you are providing feedback in a constructive and honest manner.
-
-This form is split into six sections. You can navigate between them by scrolling down or using the navigation links.
-</thinking>
-
 # Device Upgrade Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers after a device upgrade. This feedback will help us identify areas of improvement and ensure that future upgrades meet your needs and expectations.

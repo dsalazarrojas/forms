@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to capture the necessary information for a rural contracting policy agreement, which is a legal contract between the client and the contractor. The form aims to collect relevant details such as the form title, category, contractor's details, scope of work, agreement period, agreement period date (if applicable), consent from the client, signatures, contract start date, contract end date, email of the contractor, phone number of the contractor, and drag-and-drop notes. This information will help to establish a formal agreement between the client and the contractor. 
-
-Please ensure that the form is being completed correctly and consistently, and refer to the guidelines and explanations below for help.
-</thinking>
-
 # rural_contracting_policy_agreement - Help Guide
 ## Purpose
 This form is used to create a rural contracting policy agreement between the client and the contractor. It captures essential information to establish a formal understanding of the contract terms.

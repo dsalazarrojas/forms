@@ -1,5 +1,3 @@
-<thinking>...this form is designed to allow users to subscribe to a residential community newsletter, providing their contact information (name, email, and phone number) to receive regular updates. We will check for duplication before sending the newsletter and provide a brief explanation of each field to ensure clarity for end-users...</thinking>
-
 # Residential Community Newsletter Subscription - Help Guide
 ## Purpose
 The purpose of this form is to enable users to subscribe to the residential community newsletter, which will send regular updates to their email address. This form will check for duplicate subscriptions to prevent sending unwanted emails.

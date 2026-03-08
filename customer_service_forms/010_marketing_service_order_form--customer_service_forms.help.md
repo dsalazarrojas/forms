@@ -1,5 +1,3 @@
-<thinking>...This form is used to capture information from customers about their marketing service requests. It is designed to be a simple and straightforward way for customers to submit their service requests in a clear and concise manner. It is intended to be used by customers who are looking to acquire marketing services from our company. This form is not intended to be used for other purposes, such as customer support or sales inquiries. Please note that this form is not a duplicate of other forms in our system, and it is not intended to be used by customers who are not interested in marketing services.</thinking>
-
 # Marketing Service Order Form - Help Guide
 
 ## Purpose

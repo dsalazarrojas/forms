@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended for participants to provide their consent for the publication of their video commentary. 
-  The form includes fields for the participant's name, email, phone number, address, country of residence, video commentary, and agreement to publish. 
-  Please note that some fields are optional, but others are required for the participant's consent to be valid. 
-  Ensure you only complete this form if you are willing to participate in the video commentary publication.
-</thinking>
-
 # Video Commentary Publication Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the participant's consent for the publication of their video commentary. It is a critical step in ensuring that participants understand and agree to the terms of publication.

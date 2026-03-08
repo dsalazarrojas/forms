@@ -1,5 +1,3 @@
-<thinking>As I create the user-facing help guide for this form, I'll keep in mind that it serves as a guide for users to understand the purpose of the form and how to complete it effectively. I'll review the provided YAML fields to ensure that each section and field explanation is concrete, concise, and practical. The form is designed for obtaining client consent and treatment preferences for COVID-19 related procedures.</thinking>
-
 # Facial Consent For COVID 19 - Help Guide
 ## Purpose
 The "Facial Consent For COVID 19" form is designed to collect information from clients regarding their consent and treatment preferences for COVID-19 related procedures. This form ensures that clients understand and agree to the treatment processes and provides an opportunity for them to choose their preferred treatment options.

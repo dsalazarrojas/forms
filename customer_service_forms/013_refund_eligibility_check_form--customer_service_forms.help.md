@@ -1,5 +1,3 @@
-<thinking>As we review the form YAML, it appears to be a refund eligibility check form with multiple fields for customer information, refund details, and submission details. The form has a mix of text fields, select options, date, time, email, and note fields, suggesting it's designed to collect various types of data from customers. Upon further analysis, it seems to be focused on refunding orders, with fields for reason for refund, order id, refund type, and refund amount. There is also a field for customer service team, which may indicate that this form is used for customer support staff to process refunds.</thinking>
-
 # refund_eligibility_check_form - Help Guide
 ## Purpose
 

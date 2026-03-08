@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals participating in adventure sports activities. The purpose of this form is to gather essential details about the participant, such as their name, medical conditions, and emergency contact information, as well as their acknowledgement of potential risks and indemnity agreement. This form serves as a liability waiver, which is a legal document that protects the organizer of the activity from potential lawsuits in case of accidents or injuries. The form is essential for ensuring the participant's safety and the liability of the organizers.
-
-</thinking>
-
 # Adventure Sports Liability Waiver - Help Guide
 ## Purpose
 This form is a liability waiver for participants in adventure sports activities. It's designed to collect necessary information to ensure the participant's safety and the liability of the organizers in case of accidents or injuries.

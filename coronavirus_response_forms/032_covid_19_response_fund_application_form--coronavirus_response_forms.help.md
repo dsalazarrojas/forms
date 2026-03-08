@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from organizations applying for the COVID-19 Response Fund. This form will help applicants provide necessary details about their organization, contact information, and project specifics. Before proceeding, please ensure that you have all the required information and that it is accurate. This form will not be duplicated for the same organization.
-</thinking>
-
 # COVID 19 Response Fund Application Form - Help Guide
 ## Purpose
 This form is designed to help organizations apply for the COVID-19 Response Fund. It will guide you through the application process, ensuring that you provide all the necessary information for a smooth and successful submission.

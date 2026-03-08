@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and duplication...</thinking>
-
 # Lash Volume Refill Session Consent Form - Help Guide
 
 ## Purpose

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is used for temporary custody arrangements between two parents when one parent takes temporary physical and legal custody of their child. To be eligible for this form, both parents are usually required to be living in the same household or nearby. Before completing the form, ensure that you have discussed and agreed upon the temporary custody arrangement with all parties involved. This form is not for permanent custody arrangements or for situations where one parent is seeking legal separation or divorce custody.
 
 # Temporary Custody Form - Help Guide

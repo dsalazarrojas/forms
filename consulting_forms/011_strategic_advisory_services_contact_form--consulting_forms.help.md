@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Strategic Advisory Services Contact Form - Help Guide
 
 ## Purpose

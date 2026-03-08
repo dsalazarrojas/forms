@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to obtain consent from clients for their fitness transformation story, which includes their personal details, story, and any relevant information about their experience with the service. It's essential to complete this form accurately to ensure that all necessary information is collected and that the client understands what they are consenting to. Please make sure to complete this form only once and not duplicate it for every session or visit. </thinking>
-
 # Fitness Transformation Story Consent Form - Help Guide
 ## Purpose
 The Fitness Transformation Story Consent Form is used to collect information about a client's personal details, transformation story, and consent to share this information.

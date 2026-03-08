@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to check the status of a customer's helpline support issue. This form is used to gather information about the customer's last contact and next contact details. The form is likely used in a customer service environment to track and update the status of customer support cases.
-The form is designed to be completed by a customer support agent, and the fields are intended to capture relevant information about the customer's helpline support status.
-Before filling out this form, the support agent should ensure that they are familiar with the customer's support case and have the necessary information to complete the form accurately.
-</thinking>
-
 # helpline_status_check_form - Help Guide
 ## Purpose
 This form is used to check the status of a customer's helpline support issue.

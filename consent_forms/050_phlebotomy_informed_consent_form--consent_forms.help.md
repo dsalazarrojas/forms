@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is used for obtaining informed consent from patients for phlebotomy procedures. The form is designed to gather essential information from the patient, including their name, date of birth, medical history, consent type, and other relevant details. The form is meant to be filled out by a medical staff member during the patient's visit. It is essential to ensure that the patient understands the consent type, medical procedure, and its implications before proceeding with the procedure.
-
-Before filling out this form, please ensure that you have the necessary permissions and approvals in place. If you are filling out this form for a patient you have already consented with, do not complete this form again. 
-
-</thinking>
-
 # phlebotomy_informed_consent_form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for phlebotomy procedures.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their bra fitting and comfort preferences, as well as any medical conditions or sensitivities they may have. The goal of this form is to help consultants provide personalized recommendations to clients, ensuring a comfortable and supportive fit. 
-
-To determine the purpose of this form, we need to consider the following factors:
-- The form requires information about the client's medical history, sensitivity issues, and previous surgical experiences. This suggests that the form is used in a medical context.
-- The form asks about the client's comfort priorities, bra style preferences, and fabric preferences, indicating that it is used for recommending suitable bras for the client.
-- The form requires information about the client's lifestyle and activities, suggesting that it is used for providing advice on bra selection based on the client's daily needs.
-- The form has multiple fields for collecting information about the client's current bra size, fit issues, and any challenges they may face while shopping for bras, indicating that the form is used to identify areas for improvement in bra selection.
-
-This form does not appear to be a duplicate of any other form within the application. Therefore, it is likely a bespoke form created for this specific use case.
-</thinking>
-
 # Bra Fit and Comfort Consultation Form - Help Guide
 ## Purpose
 This form is designed to help consultants provide personalized recommendations to clients about their bra-fitting needs. It collects information about the client's preferences, medical history, and comfort priorities to ensure a comfortable and supportive fit.

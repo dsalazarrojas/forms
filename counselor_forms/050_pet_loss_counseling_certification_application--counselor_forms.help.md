@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for the Pet Loss Counseling Certification Application. This form is designed to gather relevant details from applicants who wish to become certified in pet loss counseling. The application process aims to assess the individual's experience, qualifications, and background in the field of pet loss counseling.
-
-Before proceeding, please ensure that you have all the necessary information and documentation ready. It's also essential to note that this application is a one-time submission, and incomplete or duplicate applications will not be accepted.
-
-If you have previously submitted an application for the same certification, please do not resubmit. Instead, contact the administration team for further instructions.
-
-</thinking>
-
 # Pet Loss Counseling Certification Application - Help Guide
 ## Purpose
 The Pet Loss Counseling Certification Application is designed to assess your qualifications and experience in the field of pet loss counseling. Please provide accurate and honest information to ensure a smooth and efficient application process.

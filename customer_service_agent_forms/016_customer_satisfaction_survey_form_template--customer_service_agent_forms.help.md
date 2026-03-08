@@ -1,8 +1,3 @@
-<thinking>
-This form is used to measure customer satisfaction with a product or service.
-The fields on this form should only be filled in if you are a customer who has used our product or service and want to share your experience.
-</thinking>
-
 # Customer Satisfaction Survey Form Template - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our product or service. It helps us understand what we're doing well and where we need to improve.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Form With Rounded Theme Blue Button - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Customer Experience Report Form", let's start by understanding its purpose and structure. The form appears to be a general customer feedback or report form, designed to collect information about a customer's experience, their ratings, and contact details. 
 
 The form seems to have a mix of free-text fields for general information, experience details, comments, and contact information, as well as a rating field with an optional select-one type input ( likely for rating satisfaction on a scale). The phone number field might be intended for customers to provide their phone number for follow-up or additional contact. The date and time fields are likely for capturing the date and time the customer experienced the issue or event.

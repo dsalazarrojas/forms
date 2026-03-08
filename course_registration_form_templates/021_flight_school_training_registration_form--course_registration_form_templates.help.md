@@ -1,11 +1,3 @@
-<thinking>
-This form is used for students to register for the Flight School Training course. The form collects basic contact information and course preferences.
-
-To ensure that each student has a unique experience, we are checking for non-duplication. Please do not register multiple times if you are already registered for the same course.
-
-We will use this information to contact you and provide further instructions on the course schedule, materials, and any updates.
-</thinking>
-
 # Flight School Training Registration Form - Help Guide
 ## Purpose
 The Flight School Training Registration Form is used to register for the Flight School Training course. This form collects basic contact information and course preferences from students.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to screen individuals for potential COVID-19 exposure and symptoms, helping to identify and mitigate risks associated with the coronavirus. The form collects information on personal details, health status, and recent exposure risks. It serves as a quick and simple assessment tool for healthcare professionals to make informed decisions about further evaluation or treatment.
-
-</thinking>
-
 # COVID 19 Screening Questionnaire - Help Guide
 ## Purpose
 The COVID 19 Screening Questionnaire is designed to collect information from individuals to assess their risk of exposure to COVID-19 and identify potential symptoms. This form helps healthcare professionals make informed decisions about further evaluation or treatment.

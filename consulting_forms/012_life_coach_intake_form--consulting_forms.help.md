@@ -1,12 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Life Coach Intake Form". This form is designed to collect information from clients about their coaching preferences and goals. The purpose of this form is to help coaches tailor their services to meet each client's specific needs, and to ensure a good fit between coach and client.
-
-When completing this form, users should only fill out the fields that apply to them, as some fields are optional. Please note that this form is used to help us better understand your coaching requirements, not to gather information for any other purpose.
-
-The fields in this form should only be completed by the person who will be coached. Please ensure you have permission from that person before proceeding.
-
-</thinking>
-
 # Life Coach Intake Form - Help Guide
 ## Purpose
 The Life Coach Intake Form is used to collect information from clients about their coaching preferences, goals, and expectations. This information helps us to match clients with the best coach for their needs.

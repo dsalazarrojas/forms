@@ -1,7 +1,3 @@
-<thinking>
-The "Contact Us Grid Frame Theme" form is a simple, multi-page form designed to collect contact information and inquiry details from users. It has 11 fields that cover various aspects of contact and project details. The form is suitable for a company that wants to gather contact information, project requirements, and other relevant details from users. This form is likely used in a business-to-business (B2B) or business-to-customer (B2C) context, where customers or clients are contacting the company for services such as web design, development, marketing, consulting, or support.
-</thinking>
-
 # Contact Us Grid Frame Theme - Help Guide
 ## Purpose
 This form is designed to collect contact information and project details from users who are interested in contacting the company for services such as web design, development, marketing, consulting, or support.

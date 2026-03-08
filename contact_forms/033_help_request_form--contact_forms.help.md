@@ -1,7 +1,3 @@
-<thinking>
-The "Help Request Form" is used to gather information from users who need assistance or have questions about our service. This form will be used to track and follow up on these requests to ensure that the user gets the help they need in a timely and efficient manner. To avoid duplication of work, please ensure that you have not submitted a request recently or are not submitting the same type of request again.
-</thinking>
-
 # Help Request Form - Help Guide
 ## Purpose
 The "Help Request Form" is designed to help our support team understand your needs and provide assistance in a timely and efficient manner.

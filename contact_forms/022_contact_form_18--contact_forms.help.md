@@ -1,7 +1,3 @@
-<thinking>
-This form is used for general inquiries and support requests from users. It's not intended to be a replacement for existing support channels or other more formal contact methods. Before submitting your inquiry, please ensure that you're not duplicating an existing issue or request.
-</thinking>
-
 # Contact Form 18 - Help Guide
 ## Purpose
 The "Contact Form 18" is a simple contact form designed to collect user information and feedback. This form is meant to be used for general inquiries, support requests, and other non-urgent matters.

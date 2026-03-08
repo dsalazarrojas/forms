@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to process cookie orders through Stripe, a payment gateway service. It captures customer information, order details, and payment methods. The form likely serves as a backend interface for administrative tasks, such as processing orders, checking order status, and managing customer information. This form may also be used to update order status labels and submit orders. The fields in this form seem to be related to the Stripe payment gateway, which might imply that it's used for orders created through Stripe. This assumption is based on the presence of Stripe-specific fields like `stripe_publishable_public_key`, `stripe_secret_key`, and `stripe_webhook_secret_key`. 
-</thinking>
-
 # stripe_cookie_order_form - Help Guide
 ## Purpose
 This form is used to process cookie orders through Stripe, capturing customer information, order details, and payment methods.

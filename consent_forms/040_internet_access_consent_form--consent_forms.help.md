@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather user consent for internet access. The purpose of this form is to collect information from users about their internet access preferences and acceptance of terms and conditions. This form is not affiliated with, endorsed by, or derived from any form creation platform, and is an original adaptation using only public survey topic metadata. It is released under CC BY 4.0 and can be freely used, modified, and even sold, as long as credit is given.
 
 # Internet Access Consent Form - Help Guide

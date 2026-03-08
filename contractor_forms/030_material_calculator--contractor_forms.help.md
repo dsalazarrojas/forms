@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Calculator - Help Guide
 
 ## Purpose

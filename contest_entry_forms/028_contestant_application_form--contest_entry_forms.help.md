@@ -1,10 +1,3 @@
-<thinking>
-**Internal Note**
-This form is designed to collect information from contestants for a contest. The form is divided into sections for applicant personal information, contact details, measurements and details, talent/performance description, experience and motivation, and terms and conditions acceptance. The form is to be filled out by contestants who wish to participate in the contest. The form is required for all contestants. 
-
-This guide will walk you through each section and field to help fill out the form correctly.
-</thinking>
-
 # Contestant Application Form - Help Guide
 ## Purpose
 This form is for contestants who wish to participate in the contest. It is a required form to be filled out by all contestants.

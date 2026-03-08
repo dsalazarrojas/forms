@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help users log their daily calls, allowing them to track and report on their interactions. This form will help to:
-    - Reduce time spent on manually keeping track of calls
-    - Easily identify trends and patterns in call frequency and purpose
-    - Facilitate reporting and analysis for business decisions
-    - Improve data accuracy and reduce errors
-
-By using this form, users will be able to record their daily calls and provide valuable insights into their call activities. This guide will walk you through each step of the process and explain what each field is used for.
-
-</thinking>
-
 # Daily Call Log Form - Help Guide
 ## Purpose
 The Daily Call Log Form is a tool used to track and report on daily calls. It helps users keep a record of their interactions and provides a convenient way to analyze and report on call activity.

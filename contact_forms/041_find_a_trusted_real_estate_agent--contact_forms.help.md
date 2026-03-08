@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from users to find a trusted real estate agent. The form has several fields that cater to different aspects of real estate agent preferences and agency details. The form's purpose is to help users find a suitable real estate agent that meets their specific needs. The form does not appear to be redundant or duplicative, and its fields are well-structured to collect relevant information. The form's fields are categorized into client preferences and real estate agency information, which should help users complete it in a clear and organized manner.</thinking>
-
 # Find A Trusted Real Estate Agent - Help Guide
 ## Purpose
 The form "Find A Trusted Real Estate Agent" is designed to collect information from users to find a suitable real estate agent that meets their specific needs.

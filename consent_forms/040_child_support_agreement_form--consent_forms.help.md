@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians of a child to establish a child support agreement. This form ensures that both parents or guardians are in agreement on the terms of financial support, custody, and visitation. The form is divided into sections that cover various aspects of child support, including information about the parents, children, financial support, custody and visitation, and agreement terms.
-
-To complete this form, follow these steps:
-
-1. Provide information about each parent, including their full names, which should match their legal names.
-2. List all children covered by this agreement, including their names and birthdates.
-3. Determine the amount of monthly financial support to be provided.
-4. Select the payment frequency (Monthly, Bi-weekly, or Weekly).
-5. Specify any additional expenses to be covered, such as health and dental insurance, school tuition and fees, and childcare and daycare.
-6. Choose the primary custody arrangement (Sole Custody Parent A, Sole Custody Parent B, or Joint Physical Custody).
-7. Describe the visitation schedule, including specific details on weekdays, weekends, and holidays.
-8. Acknowledge mutual agreement to the terms listed above.
-9. Sign the agreement on the date of signing.
-
-</thinking>
-
 # Child Support Agreement Form - Help Guide
 ## Purpose
 This form is designed to establish a child support agreement between two parents or guardians, ensuring both parties are in agreement on the terms of financial support, custody, and visitation.

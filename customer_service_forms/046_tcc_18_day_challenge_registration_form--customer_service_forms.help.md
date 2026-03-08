@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "tcc_18_day_challenge_registration_form" is a user-facing form designed to gather information from customers for the 18-day challenge. The form is not required to be completed, which means users can choose to fill it out or skip it. The form collects the following types of data:
 - The user's registration form title.
 - Their settings preferences (yes or no).

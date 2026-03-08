@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Course Substitution Form - Help Guide
 ## Purpose
 The Course Substitution Form is used to request a course substitution in your academic program. Please use this form to provide all necessary information and details about the course substitution you are requesting.

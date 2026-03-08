@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for this form. To start, I'll provide an internal reasoning block that explains the form purpose and checks for relevance and non-duplication.</thinking>
-
 # Post Creation Guidelines Submission - Help Guide
 ## Purpose
 The Post Creation Guidelines Submission form is designed to gather information from users about their post creation process. This form is meant to gather feedback and ensure that users are following the established guidelines for creating posts. It is an internal tool used by the organization to monitor and improve post creation processes.

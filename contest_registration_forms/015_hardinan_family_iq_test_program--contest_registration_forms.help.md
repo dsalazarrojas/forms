@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Hardinan Family IQ Test Program" form, I'll analyze the provided YAML schema and provide a clear and concise guide. The form appears to be designed for users to register for an IQ test program, which likely involves assessing cognitive abilities. The purpose of this guide is to ensure end-users understand the form's intention, how to complete it, and what each field represents.
-
-</thinking>
-
 # Hardinan Family IQ Test Program - Help Guide
 ## Purpose
 The Hardinan Family IQ Test Program is designed for individuals to assess their cognitive abilities through a series of questions and tests. This program aims to evaluate users' intelligence quotient (IQ) and provide insights into their cognitive strengths and weaknesses.

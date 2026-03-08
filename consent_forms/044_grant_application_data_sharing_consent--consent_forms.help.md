@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Grant Application Data Sharing Consent - Help Guide
 ## Purpose
 The Grant Application Data Sharing Consent form is used to obtain your consent for the sharing of data related to a grant application. This form is typically completed by applicants or their representatives to confirm their consent for the sharing of their personal and professional data with relevant authorities, partners, or third parties involved in the grant process. This data may be used for grant review, processing, and evaluation purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from clients about their high frequency skin treatment. It asks for client details, health information, consent, contact details, medical history, medical conditions, medical devices used, allergies, signature, contact details, date and time of the treatment, and other relevant information. The form is designed to be completed by clients and is a crucial part of the treatment process. Please ensure that this form is completed carefully and accurately to avoid any issues or delays in the treatment process.
-</thinking>
-
 # High Frequency Skin Treatment Consent Form - Help Guide
 ## Purpose
 The High Frequency Skin Treatment Consent Form is a document that clients must sign to acknowledge and agree to the terms and conditions of their high frequency skin treatment. This form is a legal and regulatory requirement and must be completed by the client before the treatment can begin.

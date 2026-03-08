@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential clients or customers who are inquiring about machine learning consulting services. The fields in this form are meant to help the consultant and the project lead understand the project requirements, the consultant's capabilities, and the project timeline. This form should only be used for new projects, and the project lead is responsible for ensuring that the form is not used for duplicate inquiries or follow-up on existing projects.
-</thinking>
-
 # Machine Learning Consultant Contact Form - Help Guide
 ## Purpose
 This form is intended for new project inquiries, allowing potential clients to provide information about their project needs and requirements.

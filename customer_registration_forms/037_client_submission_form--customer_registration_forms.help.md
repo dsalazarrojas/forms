@@ -1,8 +1,3 @@
-<thinking>
-The client submission form is used to collect information from clients who want to submit requests, inquiries, or feedback to the organization. This form helps to gather relevant details about the client's submission, including their contact information, submission type, and priority level. The form is designed to be a comprehensive way to capture all necessary information for the organization's team to efficiently respond and address the client's request.
-The form is divided into different sections to make it easy for clients to fill out. Each section has a clear label and a corresponding explanation to help guide the client through the process.
-</thinking>
-
 # Client Submission Form - Help Guide
 
 ## Purpose

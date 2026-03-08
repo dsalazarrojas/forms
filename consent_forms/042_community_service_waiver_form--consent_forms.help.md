@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from participants in a community service program, ensuring they understand the risks and rules associated with the activity and provide consent for medical treatment and photo/video release. This form is intended for participants of all ages, including minors. The purpose of this form is to ensure that participants are aware of and agree to the terms and conditions of the service, including any risks involved. Before filling out this form, please ensure that you have read and understood the information provided. This form is not intended for minors to sign on behalf of their parents or guardians, instead, parents or guardians are required to sign for minors. Please note that participants are required to sign the form to confirm that they understand the risks and terms of the service.
-</thinking>
-
 # Community Service Waiver Form - Help Guide
 ## Purpose
 

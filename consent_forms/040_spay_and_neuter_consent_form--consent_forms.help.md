@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to capture essential information from pet owners regarding their pets' spay and neuter procedures. The purpose of this form is to ensure that the pet owner is informed and consents to the procedure, and to provide veterinary staff with the necessary details for the spay and neuter process. The form captures information about the pet's medical history, contact information, and the procedure type.
-
-To prevent duplication, please ensure that you are completing this form for each pet separately. If the pet is a repeat client, please use the "owner_contact" field to update the contact information if it has changed.
-
-Please note that the following fields are required for the form to be considered complete: 
-
-* pet_information 
-* owner_contact 
-* owner_signature 
-* date_signed 
-* time_signed 
-* veterinary_signature 
-* date_signed_veterinary 
-* time_signed_veterinary
-
-Please fill out the form completely and accurately to ensure that your pet receives the best care possible.
-</thinking>
-
 # Spay And Neuter Consent Form - Help Guide
 ## Purpose
 This form is designed to capture essential information from pet owners regarding their pets' spay and neuter procedures. The form is intended to inform pet owners about the process and obtain their consent.

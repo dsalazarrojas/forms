@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for clients who are undergoing lip blushing treatment. It is used to collect their contact information, medical history, treatment details, lip blushing details, allergy information, and medical conditions. Please ensure you complete this form accurately and thoroughly to ensure the best treatment outcome. If you have already completed this form, please do not submit it again as it may cause duplication of effort and data loss.
-</thinking>
-
 # Lip Blushing Intake Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from clients who are undergoing lip blushing treatment. It helps the treatment provider to understand the client's needs and preferences, which is essential for providing the best possible treatment outcomes.

@@ -1,7 +1,3 @@
-<thinking>
-The Car Accident Release Form is a document used to formally acknowledge that all claims related to an accident have been resolved and released. This form serves as a legal agreement between the parties involved, releasing each other from any further claims or actions. It's essential to ensure that all parties have reviewed the form carefully and understand its terms before signing. Please use this form only for genuine car accidents, as it may not be applicable to other types of incidents or events.
-</thinking>
-
 # Car Accident Release Form - Help Guide
 ## Purpose
 The Car Accident Release Form is a document that acknowledges the resolution of all claims related to a car accident. It's a legal agreement between the parties involved, releasing each other from any further claims or actions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Professional Photography Inquiry Form - Help Guide
 
 ## Purpose

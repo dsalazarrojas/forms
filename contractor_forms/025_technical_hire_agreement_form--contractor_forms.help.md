@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a comprehensive guide to help contractors and clients understand the process of establishing a professional agreement for technical hires. It's intended for use in various industries, including IT, engineering, and consulting. The form is a straightforward, structured document that outlines the essential terms and conditions of a collaboration, ensuring clarity and transparency from the start.
-
-</thinking>
-
 # technical_hire_agreement_form - Help Guide
 ## Purpose
 This form, "technical_hire_agreement_form," is designed to facilitate a professional partnership between a contractor and a client by outlining and confirming the terms of their engagement.

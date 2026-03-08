@@ -1,7 +1,3 @@
-<thinking>
-The form is used to request a trade for a specific date and time, which can be used for various purposes such as meetings, events, or appointments. The form is designed to gather information from the user about the request, including the title, business details, date, time, and any additional notes. The form is not intended to be a comprehensive or complex form, rather a simple and straightforward way to collect essential information for a trade request.
-</thinking>
-
 # Trade Request Form - Help Guide
 ## Purpose
 The Trade Request Form is used to collect information for a trade request, including title, business details, date and time, and any additional notes. This form is used to ensure that all necessary information is gathered for the trade.

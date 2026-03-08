@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information about a hair consultation, likely for a professional stylist or barber to understand the client's preferences and characteristics of their hair. The form's purpose is to collect data that will help the stylist make informed decisions about how to style the client's hair. 
-
-This form has 10 fields across 1 page, and it is a simple form for gathering basic information about the client's hair type, color, texture, length, and goals. The form does not require any of the fields to be filled out, which suggests that the form is optional for the client to fill out.
-
-</thinking>
-
 # hair_consultation_form - Help Guide
 ## Purpose
 The hair_consultation_form is a tool for a professional stylist or barber to gather information about a client's hair preferences and characteristics. This information will help the stylist make informed decisions about styling the client's hair.

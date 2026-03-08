@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect sensitive information from homeless individuals, such as their contact details and preferences for follow-up, in order to provide support and services. The form is designed to be user-friendly and ensure that users understand the purpose of each field. Before filling out the form, please review the following help guide to understand the requirements and expectations.
-
-</thinking>
-
 # Homeless Outreach Data Protection Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from homeless individuals to provide them with support and services. It is essential to understand how we will use and protect their data.

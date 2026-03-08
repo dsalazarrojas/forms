@@ -1,8 +1,3 @@
-<thinking> 
-This form is a generic information form designed to collect various types of user data, including personal contact information and other details. The form is meant to be completed by users who need to provide basic information about themselves for a specific reason, such as a consultation or inquiry. Before starting, take a moment to verify that you're not duplicating information already provided by completing this form. 
-
-Please review each section carefully to ensure you've provided the most accurate and complete information possible.</thinking>
-
 # Generic Information Form - Help Guide
 
 ## Purpose

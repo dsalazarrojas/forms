@@ -1,5 +1,3 @@
-<thinking>...This form is intended to gather user information and consent for a student collaboration app beta testing program. The form will be used to collect data from users who wish to participate in the beta testing program. The form collects user contact information, consent, and answers to a series of test questions. The form will help the development team to understand the user's demographics, interests, and preferences. It will also help the team to identify potential issues with the app and improve its functionality. The form is designed to be simple and easy to fill out. It should not take more than 5 minutes to complete. The development team will use the collected data to improve the app and make it more user-friendly. The collected data will be kept secure and confidential. Only necessary information will be collected, and all questions are optional.</thinking>
-
 # Student Collaboration App Beta Testing Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather user information and consent for a student collaboration app beta testing program.

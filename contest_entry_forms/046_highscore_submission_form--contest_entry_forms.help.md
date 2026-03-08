@@ -1,7 +1,3 @@
-<thinking>
-The Highscore Submission Form is designed for users to submit highscore data for a specific game. This form helps to gather information about the highscore submissions, such as whether the submission is highscore, the proof URL, username, and game version. The form also collects details about the submitter, including their email, phone number, location, and agreement to submit their highscore. The form aims to ensure that the submission is accurate and complete, and that the submitter's identity is verified. To prevent duplicate submissions, the form is designed to check for non-duplication of submissions based on the proof URL. This form is crucial for maintaining the integrity and authenticity of highscores in the game.
-</thinking>
-
 # Highscore Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to gather highscore submission information for a specific game. Users are required to provide accurate and complete data to ensure the submission's integrity and authenticity.

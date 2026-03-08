@@ -1,7 +1,3 @@
-<thinking>
-The form "digital_creator_highlight_consent_form" is likely used for obtaining digital content creators' consent for various purposes such as collaborations, partnerships, or other business agreements. The form might be used internally within a company or organization to ensure that all parties involved are aware of and agree to the terms of a particular project or partnership. Before proceeding, please note that this form is not necessarily a legally binding contract, but rather a record of consent and understanding between parties. Ensure that you are filling out the form accurately and that your responses are up-to-date.
-</thinking>
-
 # digital_creator_highlight_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from digital content creators for collaborations, partnerships, or other business agreements.

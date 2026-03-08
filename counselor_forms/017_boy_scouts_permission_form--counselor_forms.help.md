@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from a youth (or their parent/guardian) to ensure their safety and well-being during scouting activities or events. The form is a crucial document that requires accurate and complete information to prevent any potential issues or risks. Ensure that all sections are filled out correctly and completely to avoid any miscommunication or misunderstanding. This form should not be duplicated or used for other purposes.
-</thinking>
-
 # Boy Scouts Permission Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from a youth (or their parent/guardian) to ensure their safety and well-being during scouting activities or events.

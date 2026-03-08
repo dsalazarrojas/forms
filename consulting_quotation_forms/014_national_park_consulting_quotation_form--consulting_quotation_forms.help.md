@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and only once per project. The purpose of this form is to gather information for a consultant's quotation for a project related to national parks. Each field should be filled out accurately to provide the best possible service and quotation. This form is not intended for general inquiries or non-project related requests.
-</thinking>
-
 # National Park Consulting Quotation Form - Help Guide
 ## Purpose
 The National Park Consulting Quotation Form is designed to gather project details for consultants to provide quotations for national park projects. It is essential to fill out this form accurately to ensure that consultants have a clear understanding of the project requirements and can provide the best possible service and quotation.

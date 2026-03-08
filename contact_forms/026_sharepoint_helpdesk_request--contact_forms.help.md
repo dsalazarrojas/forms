@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SharePoint Helpdesk Request - Help Guide
 
 ## Purpose

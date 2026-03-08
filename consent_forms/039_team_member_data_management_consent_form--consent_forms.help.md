@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information from team members for data management purposes, possibly for HR or personnel management reasons. The form is likely used for administrative tasks such as updating employee records or for compliance with data protection regulations. Each field is designed to collect different types of information such as name, job title, role, job type, department, location, date of birth, date of join, email, phone number, and a consent agreement. The agreement field is particularly interesting, as it indicates that the form requires consent from the team members to handle their data securely and only for business purposes. This form does not seem to be designed for a specific project or event, so it's likely a general template for team management.
-
-To ensure that end users understand the purpose and requirements of the form, it's essential to provide a clear and concise guide. The provided YAML seems to be a good starting point for creating a user-facing help guide.
-</thinking>
-
 # Team Member Data Management Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from team members for data management purposes, such as updating employee records or for compliance with data protection regulations.

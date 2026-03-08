@@ -1,6 +1,3 @@
-<thinking>
-This form is used by customers to book a rail ticket. The form collects information about the customer's travel preferences, including the date of travel, departure and destination stations, class of service, seat number, passenger details, contact information, and any additional comments. The form is designed to be completed by customers who are interested in booking a rail ticket. Please ensure that this form is used for its intended purpose only and not for any other use case. If you're unsure about the form's purpose or any of its fields, please review the form's fields and instructions carefully before proceeding.</thinking>
-
 # Rail Ticket Booking Form - Help Guide
 ## Purpose
 The Rail Ticket Booking Form is used to collect information about rail ticket bookings from customers.

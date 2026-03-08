@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Permission To Test Form - Help Guide
 
 ## Purpose

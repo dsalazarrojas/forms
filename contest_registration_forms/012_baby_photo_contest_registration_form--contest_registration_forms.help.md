@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are registering their child's photo for a contest. The form is designed to collect essential information from the entrant, which includes their name, their child's name, child's age, contact information, photo title, photo category, consent to use the photo for promotional purposes, and entry details. This form is meant to be filled out once per entry, and the information provided will be used to determine the entry's eligibility for the contest. It is not intended to be a general-purpose contact form or a survey.
-</thinking>
-
 # Baby Photo Contest Registration Form - Help Guide
 
 ## Purpose

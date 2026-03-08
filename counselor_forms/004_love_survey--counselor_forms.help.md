@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the form is used to gather information from users about their love preferences, such as when they want to start a relationship, where they want to go on dates, and other relevant details. The form is designed to be completed by users who are seeking advice or guidance on matters related to love and relationships. This form is not intended for duplicate or unnecessary submissions, and users are expected to complete it only once to provide their honest and accurate input. 
-</thinking>
-
 # Love Survey - Help Guide
 ## Purpose
 The Love Survey form is designed to gather information about your preferences and needs when it comes to matters of the heart. It's meant to be completed once, providing a snapshot of your current situation and goals in the context of love and relationships.

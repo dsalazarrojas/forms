@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture important information from clients before a photoshoot session. Its purpose is to gather details about the client's requirements, preferences, and contact information. The form should only be used for photoshoots, and the information collected will help ensure that both the client and photographer are on the same page. Please ensure that the form is used within its designated scope and purpose. This form does not replace the need for a signed contract, so ensure that a separate contract is obtained before proceeding with the photoshoot. The form fields are designed to be concise and straightforward, making it easy for clients to understand and fill out.
-
-This guide will help you complete the Photoshoot Client Agreement Form accurately. Please follow the instructions carefully.
-
-</thinking>
-
 # Photoshoot Client Agreement Form - Help Guide
 ## Purpose
 The Photoshoot Client Agreement Form is designed to capture essential information from clients before a photoshoot session. This information will help ensure that both you and your client are on the same page regarding the photoshoot.

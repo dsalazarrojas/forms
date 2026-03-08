@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Recognition Wall Inclusion Consent Form - Help Guide
 ## Purpose
 

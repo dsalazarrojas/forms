@@ -1,10 +1,3 @@
-<thinking>
-The "open_house_form" form is designed to collect information about an event, such as its name, date, time, location, contact details, and any additional description or URL associated with it. This form is likely used for internal or external communication with event organizers or attendees. 
-
-To ensure a smooth experience, let's review the form fields and their requirements. The "event_name" field is a required text field for the event name, while "event_date" and "event_time" are required date and time fields, respectively. The "event_location" field is optional and allows users to input the location of the event. The "email" and "phone" fields are required text fields for contact information. The "event_description" field is optional and allows users to add a description about the event, while "event_url" is also optional and can be used to provide a URL related to the event.
-
-</thinking>
-
 # open_house_form - Help Guide
 ## Purpose
 The "open_house_form" is a form designed to collect information about events, including their name, date, time, location, contact details, and any additional description or URL.

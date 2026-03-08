@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scalp Detox Therapy Consent Form - Help Guide
 
 ## Purpose

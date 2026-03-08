@@ -1,13 +1,3 @@
-<thinking>
-The Arts Showcase Entry Form is used for artists to submit their artwork to a showcase or exhibition. This form helps to gather essential information about the artist and their artwork for the showcase organizers and attendees. The purpose of this form is to provide a clear and organized way for artists to showcase their work and for the organizers to manage the submissions effectively.
-
-To avoid duplication and ensure accurate information, this form should only be filled out once per artist and artwork submission. Please make sure to review the form carefully before submitting it.
-
-This form is designed to collect information that will help the showcase organizers to understand the artist's work and make informed decisions. The form should only be filled out for the artist's original work.
-
-If you are having trouble with the submission process or have questions about this form, please contact the showcase organizers for assistance.
-</thinking>
-
 # Arts Showcase Entry Form - Help Guide
 ## Purpose
 

@@ -1,18 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Annual Business Planning Form", we should first understand the form's purpose and the type of information it aims to capture. This form is designed to gather key data on customer business planning, including information about their customer base, goals, target market, market trends, competitive advantages, challenges, risk mitigation strategies, and marketing and product development plans. It also covers financial considerations such as budget allocation.
-
-Before proceeding, let's confirm that the form will be used for:
-
-- Capturing customer feedback and preferences on their business goals and strategies.
-- Gathering data to inform future marketing and product development strategies.
-- Facilitating the analysis and planning process within the organization.
-- Improving overall business performance and customer satisfaction.
-
-Let's ensure this form will not replace any existing internal processes or duplicate information gathering efforts.
-
-</thinking>
-
 # Annual Business Planning Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about your business plans and strategies for the upcoming year. It helps us understand your company's goals, target market, customer retention strategies, and budget allocation. The insights gathered from this form will aid us in tailoring our marketing and product development efforts to better meet your needs.

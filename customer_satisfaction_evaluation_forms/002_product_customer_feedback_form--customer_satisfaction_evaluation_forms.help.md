@@ -1,5 +1,3 @@
-<thinking>
-The purpose of this form is to gather customer feedback on products. This form is likely used for internal evaluation and improvement of products. To ensure data quality, please complete the form only once for each product feedback. If you have already submitted feedback on this product, please do not resubmit.</thinking>
 # Product Customer Feedback Form - Help Guide
 
 ## Purpose

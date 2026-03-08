@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose of the Client Rights Consent Form, which is to acknowledge and consent to the client's rights as a user of the services provided. The form is designed to ensure that the client understands their rights and responsibilities as a client, including their right to receive clear information about services and policies, right to regular and clear communication, right to quality service delivery, and right to privacy and data protection. This form is a mandatory step in the onboarding process, and completing it demonstrates the client's understanding and consent to these rights. 
-
-This form is a one-time requirement and should be completed before proceeding with the service.
-
-The form consists of 7 pages (or sections) and includes fields for client information such as name, email, phone number, and date of agreement. The form also includes sections for the client to acknowledge their rights to receive clear information, regular communication, quality service delivery, and privacy and data protection. Additionally, the form includes sections for the client to agree to the terms and conditions, privacy policy, dispute resolution procedures, and liability and limitation of liability clauses.
-
-The form's fields are designed to be self-explanatory, but if you have any doubts, please refer to the explanation below.
-
-</thinking>
-
 # Client Rights Consent Form - Help Guide
 ## Purpose
 The Client Rights Consent Form is a mandatory form that ensures clients understand their rights and responsibilities as users of the services provided. It is a one-time requirement and should be completed before proceeding with the service.

@@ -1,8 +1,3 @@
-<thinking>
-To determine the most effective way to present the Buyer Information Form to users, we need to understand its purpose and the information it collects. This form appears to be a comprehensive tool for buyers to provide their contact and purchase preferences, including demographic details such as name, address, and email. It also collects information on their purchase timeline, budget, and source of referral. The form seems to be designed for businesses to gather information from potential buyers. However, some fields like company size and industry might be more relevant to businesses than to individual consumers.
-The form's complexity and number of fields may overwhelm some users, so it's essential to make it clear what's required and what's optional. We should also ensure that the language used is clear and concise, avoiding jargon or technical terms that may confuse users.
-</thinking>
-
 # Buyer Information Form - Help Guide
 ## Purpose
 The Buyer Information Form is a tool for businesses to gather essential information from potential buyers, including contact details, purchase preferences, and demographic data. This form helps us understand your needs, preferences, and interests, enabling us to better serve you.

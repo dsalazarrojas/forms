@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Standard Work Log Template" form. This form is used to record and track work completed by employees or agents, and to provide information about who completed the work, when, and other relevant details. The form likely serves as a means to document and report work hours, tasks, or projects, and to help supervisors or managers monitor progress and performance. It's possible that the form is used in a work order management system or similar workflows.
-
-Before proceeding, let's confirm that this form is not a duplicate of an existing form, and that the field labels are clear and concise. We will also assume that the form is used by employees or agents who are familiar with standard work log templates and the purpose of this form.
-
-</thinking>
-
 # Standard Work Log Template - Help Guide
 ## Purpose
 The "Standard Work Log Template" form is used to record and track work completed by employees or agents. It provides information about who completed the work, when it was done, and other relevant details.

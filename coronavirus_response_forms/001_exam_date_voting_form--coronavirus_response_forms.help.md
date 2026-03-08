@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exam Date Voting Form - Help Guide
 ## Purpose
 The Exam Date Voting Form is a tool used to collect responses regarding exam dates for a particular exam session. This form is designed to gather user feedback on the proposed exam dates, allowing the organization to understand which dates are most suitable for the majority of students.

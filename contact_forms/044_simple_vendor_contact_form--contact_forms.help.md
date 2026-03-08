@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to collect contact information from vendors for the purpose of establishing or maintaining a business relationship. The form will be used to collect contact details of vendors, including their name, address, phone number, and preferred contact method. This information will be used to ensure efficient communication and collaboration with the vendor.
 
 </thinking>

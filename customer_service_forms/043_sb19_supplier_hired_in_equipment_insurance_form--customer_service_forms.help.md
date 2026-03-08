@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a supplier who has hired equipment from the company. This form is likely used in a business or industrial setting where equipment is rented or leased from suppliers. It might be used in scenarios where a customer needs to report equipment that they have hired from a supplier, or for the company's internal record-keeping and management.
-</thinking>
-
 # Sb19 Supplier Hired In Equipment Insurance Form - Help Guide
 ## Purpose
 The Sb19 Supplier Hired In Equipment Insurance Form is used to record information about a supplier who has hired equipment from the company.

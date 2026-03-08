@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect detailed information from customers related to their contracts. 
-The form is intended for customers who have existing contracts with the company and need to update or manage their contract details. 
-This form is not for customers who are looking to create a new contract. 
-It is possible that the customer may already have an existing record in the system, so be sure to review and update the relevant fields accordingly.
-</thinking>
-
 # Customer And Contract Details Form - Help Guide
 ## Purpose
 This form is designed to collect and update customer contract details, including personal information, contract dates, and status.

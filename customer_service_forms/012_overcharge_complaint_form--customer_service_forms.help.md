@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # overcharge_complaint_form - Help Guide
 
 ## Purpose

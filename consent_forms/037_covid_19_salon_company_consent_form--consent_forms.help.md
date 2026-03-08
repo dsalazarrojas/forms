@@ -1,5 +1,3 @@
-<thinking>...This form is designed to capture client information and ensure their consent for COVID-19 safety protocols. The form requires clients to provide their full name, appointment date, service type, stylist or technician name, and other relevant details. It also includes questions about potential exposure to COVID-19 and the client's willingness to participate in certain activities such as temperature checks and contact tracing. By completing this form, clients acknowledge that they have been informed about and agree to adhere to the salon's safety protocols...</thinking>
-
 # COVID 19 Salon Company Consent Form - Help Guide
 
 ## Purpose

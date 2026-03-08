@@ -1,9 +1,3 @@
-<thinking>Before creating this help guide, I will consider the following:
-- The form is intended for clients to consent to services provided by students at an academy salon, acknowledging the risks involved and releasing the academy and its staff from liability for any adverse reactions or dissatisfaction with services.
-- Each field is required for the form, except for "allergies_section" and "allergy_details" which are not required but useful for additional information.
-- The form collects client details, service selection, health and safety information, waiver and liability agreement, photo consent, and signature details.
-</thinking>
-
 # Academy Salon Waiver - Help Guide
 ## Purpose
 This form is designed for clients to consent to services provided by students at the academy salon, acknowledging the risks involved and releasing the academy and its staff from liability for any adverse reactions or dissatisfaction with services.

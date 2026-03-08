@@ -1,5 +1,3 @@
-<thinking>... This form is intended to capture information from potential customers or business contacts who are interested in learning more about your company's products or services. It is used to gather contact information and other relevant details that can be used to follow up with the lead. The form will likely not be used for internal purposes, so you can assume that the submitted data will be used for external communication. Please review the form carefully to ensure it's being used for its intended purpose and not for mass data collection or spamming. If you're not sure, consider using a more explicit "contact us" form or a different type of form altogether.</thinking>
-
 # FD Sales Lead Form Corporate - Help Guide
 ## Purpose
 The FD Sales Lead Form Corporate is a form designed to collect contact information from potential customers or business contacts who are interested in learning more about your company's products or services.

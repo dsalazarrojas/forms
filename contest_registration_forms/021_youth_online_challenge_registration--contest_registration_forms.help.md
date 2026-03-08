@@ -1,10 +1,3 @@
-<thinking>
-This form is used for registering participants in a youth online challenge event. The purpose of this form is to collect demographic information, parent/guardian details, consent, and participant agreement for the event. Please note that this form is designed to be completed by parents/guardians on behalf of their child(ren) participating in the event.
-
-To ensure the accuracy and consistency of the data, please check if you have already completed this form for the same participant. If so, please do not repeat the process.
-
-</thinking>
-
 # Youth Online Challenge Registration - Help Guide
 ## Purpose
 The Youth Online Challenge Registration form is used to collect information from parents/guardians and their child(ren) participating in the event. The form is divided into several sections, each covering different aspects of participant information.

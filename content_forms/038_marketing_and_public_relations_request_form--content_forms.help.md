@@ -1,8 +1,3 @@
-<thinking>
-This form is used by the marketing and public relations team to collect information from external contacts such as customers, potential partners, or other organizations for marketing and public relation purposes. Before proceeding, please verify that the following information is not redundant or a mistake: 
-The contact has already reached out to us via another channel or form. This form's data will be used to create a formal record in our CRM and may be used for further communication with the contact. Please do not submit duplicate entries.
-</thinking>
-
 # Marketing And Public Relations Request Form - Help Guide
 ## Purpose
 The Marketing And Public Relations Request Form is a tool for external contacts to submit their marketing and public relations requests. It gathers essential information such as first name, last name, job title, company, company website, and message to facilitate the creation of a formal record in our Customer Relationship Management (CRM) system.

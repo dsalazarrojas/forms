@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is designed to capture information for brand strategy consulting quotations. The form will help us understand the client's needs and preferences for a potential brand strategy consulting project. The form's fields are divided into several sections, including contact information, project details, and project scope. The contact information section captures the client's contact details to reach them for further communication. The project details section is used to understand the client's company, industry, and services needed for the project. The project scope section allows the client to describe the scope of work required for the project. The final section asks the client to provide information about their timeline, budget, decision-making process, and previous consulting experience.
-
-This form is designed to be completed by the client, and it's essential to ensure that all relevant fields are filled out accurately to get the best results.
-</thinking>
-
 # Brand Strategy Consulting Quotation Form - Help Guide
 ## Purpose
 This form is designed to capture information for brand strategy consulting quotations.

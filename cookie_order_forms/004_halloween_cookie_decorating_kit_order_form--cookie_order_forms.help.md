@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by customers to order Halloween-themed cookie decorating kits. The form is divided into several sections, including order form, shipping address, and order details. Each section has its own specific fields that the customer must fill out to complete their order. The purpose of this form is to gather the necessary information for processing the order, ensuring that the customer receives their order correctly and on time.
-Please make sure you are not already registered for a kit. If you are, do not fill out this form.
-</thinking>
-
 # Halloween Cookie Decorating Kit Order Form - Help Guide
 ## Purpose
 The purpose of this form is to help customers order Halloween-themed cookie decorating kits. The form is used to collect order details, shipping information, and other relevant information to process the order correctly.

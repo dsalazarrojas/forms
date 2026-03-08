@@ -1,7 +1,3 @@
-<thinking>
-We have a Customer Information Form that aims to gather essential details from customers for their travel needs. This form is intended to be used by customer service agents to assist with booking and travel arrangements. It is recommended to review this form thoroughly before starting, as the details provided will directly impact the quality of service offered to customers.
-</thinking>
-
 # Customer Information Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from customers regarding their travel preferences, including their name, contact details, travel dates, destination, and special requests. This information will help us tailor our services to meet their specific needs.

@@ -1,16 +1,3 @@
-<thinking>
-To ensure relevance and non-duplication, let's first analyze the form purpose and structure.
-
-The form is designed to collect customer feedback on their experience with the clothing brand. It's a survey that aims to gather insights on various aspects of the customer's interaction with the brand, including their purchase experience, product quality, shopping experience, and overall impression of the brand.
-
-Upon analyzing the form structure, we can see that it's divided into four main sections: "Your Recent Purchase", "Product Quality", "Shopping Experience", and "Brand and Loyalty". Each section is designed to collect specific feedback related to the customer's purchase, the product itself, the shopping experience, and the brand's overall performance.
-
-The form includes fields for customer name, email address, date of purchase, type of item purchased, product quality, fit satisfaction, material quality, durability expectation, value for money, ease of shopping, website/app experience, checkout process, shipping speed, packaging quality, overall brand impression, likelihood of purchasing again, favorite aspects of the brand, and any additional comments or feedback.
-
-Given this structure, the form is comprehensive and covers all essential aspects of a customer's experience with the clothing brand. 
-
-</thinking>
-
 # Clothing Brand Customer Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect your feedback on your experience with our clothing brand. Your input will help us improve our products and services to better meet your needs and expectations.

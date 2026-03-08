@@ -1,12 +1,3 @@
-<thinking>
-This form is a Home Safety Assessment Consent Form Template, which is designed to collect information from residents or occupants in a home or building about their safety and well-being. The form is typically used for assessment and evaluation purposes by property managers, landlords, or facility staff. The goal is to understand the current state of safety within the home or building and identify potential risks or hazards. This form is not intended for commercial or marketing use.
-
-Form data will be stored securely and used solely for internal assessment purposes. By providing this form, residents or occupants are giving their consent to participate in the safety assessment.
-
-Before filling out this form, please make sure you have the necessary permissions to collect this information, especially if you are collecting this form for someone else, such as a family member or friend.
-
-</thinking>
-
 # Home Safety Assessment Consent Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information from residents or occupants in a home or building for assessment and evaluation purposes. This information will be used to identify potential risks or hazards and ensure the safety and well-being of occupants.

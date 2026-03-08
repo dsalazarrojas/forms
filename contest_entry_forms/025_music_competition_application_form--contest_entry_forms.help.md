@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for artists and bands to submit their applications for a music competition. Before starting the application process, please ensure you have not submitted an application for this competition before. This form is divided into multiple sections, and each section is described below.
-
-</thinking>
-
 # Music Competition Application Form - Help Guide
 ## Purpose
 The Music Competition Application Form is a tool for artists and bands to submit their applications for a music competition. The form gathers relevant information about the artist, their music, and contact details.

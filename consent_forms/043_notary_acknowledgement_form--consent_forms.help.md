@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information about a notary's acknowledgement, which is a formal document that confirms the authenticity of a signature or other information. The form is likely used in legal or business contexts where notarization is required.
-
-To avoid duplication, please ensure that the form is only filled out once per document.
-
-</thinking>
-
 # Notary Acknowledgement Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from a notary about their acknowledgement of a document or signature.

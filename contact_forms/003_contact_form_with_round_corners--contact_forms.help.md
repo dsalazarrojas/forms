@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain the purpose of the "Contact Form With Round Corners" and the steps to complete it, providing clarity on each field's meaning and requirements.
-</thinking>
-
 # Contact Form With Round Corners - Help Guide
 ## Purpose
 This form is designed to allow you to get in touch with our team, whether it's to inquire about a product or service, ask a question, or report an issue. Fill out this form to reach out to us and we'll respond as soon as possible.

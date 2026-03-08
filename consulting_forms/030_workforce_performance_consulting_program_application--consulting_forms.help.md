@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by companies or organizations to assess the performance and areas of improvement for their workforce. This form might be used by a consultant or a department within the organization to identify key areas that need improvement and provide guidance on how to enhance overall performance. This form should not be completed by users who are not affiliated with the organization or do not have the necessary information to provide accurate input. This form might be a part of a larger system to track and analyze data over time, ensuring that the same information is not duplicated or entered multiple times.
-</thinking>
-
 # Workforce Performance Consulting Program Application - Help Guide
 ## Purpose
 The Workforce Performance Consulting Program Application form is designed to help organizations assess their performance and identify areas for improvement. This form will help you provide detailed information about your organization and its performance challenges, allowing our consulting team to better understand your needs and provide tailored guidance.

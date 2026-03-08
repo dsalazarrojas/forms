@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose and scope of this form, let's analyze the form's fields and their types. The form appears to be for screening potential egg donors, likely for fertility purposes. The fields include personal and medical history, medical conditions, medical tests, mental health, and family history. This suggests that the form is designed to gather information about the potential donor's health, medical history, and background.
-
-The form is likely used by medical professionals or fertility clinics to evaluate potential egg donors and ensure that they are fit to participate in egg donation programs. The form is not designed for general public use and is intended for internal use within the medical or fertility industry.
-
-To avoid duplication, the form should be filled out by only one person per family, and any changes to the form should be reviewed and approved by medical professionals before being submitted.
-
-</thinking>
-
 # Egg Donor Screening Questionnaire - Help Guide
 ## Purpose
 The Egg Donor Screening Questionnaire is a form used by medical professionals to gather information about potential egg donors for fertility purposes. This form is used to evaluate the donor's health, medical history, and background to ensure they are fit to participate in egg donation programs.

@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect data and stories from customers about their successful experiences with our company. This information is used to showcase customer success stories and case studies that can be used for marketing and sales purposes. The form is designed to be completed by customers who have had a positive experience with our company, and their feedback and testimonials can help us to better understand our customers' needs and improve our services.
-
-When reviewing this form, please ensure that the customer success stories are genuine and representative of our company's capabilities, and that the submissions are not duplicates or previously shared.
-
-Please keep the following in mind when completing this form:
-
-* Only include stories from customers who have had a positive experience with our company.
-* Do not share stories that are not representative of our company's capabilities or services.
-* Do not submit duplicate stories.
-</thinking>
-
 # Customer Success Story Questionnaire - Help Guide
 
 ## Purpose

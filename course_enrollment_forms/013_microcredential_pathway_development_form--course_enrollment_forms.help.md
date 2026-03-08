@@ -1,10 +1,3 @@
-<thinking>
-The Microcredential Pathway Development Form is a tool used to create and manage microcredential pathways for educational purposes. This form is designed to help users develop and manage pathways for microcredentials, which are a collection of skills, knowledge, or competencies that can be used to demonstrate a specific level of proficiency. 
-The form is divided into multiple pages, each with its own specific purpose and fields. The first page provides a brief overview of the form and its purpose. The following pages contain fields that help users select and define the microcredential's title, category, description, pathway, level, status, start and end dates, and other relevant details. 
-The form also allows users to add additional information such as contact details and comments. The form is designed to be flexible and adaptable to accommodate different types of microcredentials and their requirements. 
-Before filling out the form, please check if you have already created a microcredential pathway with the same title. If you have, you can edit and update the existing pathway instead of creating a new one. 
-</thinking>
-
 # Microcredential Pathway Development Form - Help Guide
 ## Purpose
 The Microcredential Pathway Development Form is a tool used to create and manage microcredential pathways for educational purposes. This form is designed to help users develop and manage pathways for microcredentials, which are a collection of skills, knowledge, or competencies that can be used to demonstrate a specific level of proficiency.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from participants in a strength competition, such as their personal details, division they wish to compete in, and competition schedule details. The purpose of this form is to ensure accurate and complete information is gathered for the competition organizers to efficiently manage participant registrations.
-The form is designed for a single participant to provide their details and preferences.
-Before filling out this form, please ensure:
-- You have filled out the form correctly and completely to avoid any inconvenience for the competition organizers.
-- The information provided is accurate and up-to-date.
-</thinking>
-
 # Strength Competition Entry Form - Help Guide
 ## Purpose
 The Strength Competition Entry Form is designed to collect essential information from participants in a strength competition. The form is used to gather details about the participant and ensure accurate registration for the competition.

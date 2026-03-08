@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for creating mp3 submission forms, possibly for music or podcast submissions. It likely serves as a standard format for users to provide necessary information about their audio content. The fields are fairly straightforward, with the form having a title, a description, a category, file upload fields for form and audio files, specific audio type and length details, and fields for email and phone contact information. The purpose of this form seems to be to streamline the submission process for relevant content, such as music or podcasts, and allow users to provide essential information about their submissions.
-</thinking>
-
 # mp3_submission_form_template - Help Guide
 ## Purpose
 This template is designed for users to create and submit mp3 files, including music or podcast content, with relevant information such as category, description, and contact details.

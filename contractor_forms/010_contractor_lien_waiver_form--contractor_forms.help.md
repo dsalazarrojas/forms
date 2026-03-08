@@ -1,7 +1,3 @@
-<thinking>
-The form is used for a contractor to release or waive their lien rights on a property. This form is typically used after a project is completed or at various stages of progress to ensure that the contractor's claims are settled. The form is completed in multiple sections, including contractor information, property details, payment details, and waiver terms. Each section provides necessary details to complete a lien waiver.
-</thinking>
-
 # Contractor Lien Waiver Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Contractor Lien Waiver Form, ensuring you have all the necessary information and understanding of each field to fill out the form accurately and efficiently.

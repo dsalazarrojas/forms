@@ -1,5 +1,3 @@
-<thinking>As a customer support agent, it's essential to gather accurate and detailed information from customers to efficiently address their inquiries. This form, "Ask A Question Template," is designed to collect relevant details about a customer's question, ensuring that our team can provide the best possible support. To prevent duplication of effort, we've carefully curated the fields to cover the most crucial information. By following this guide, you'll understand what each field is for and how to complete it correctly.</thinking>
-
 # Ask A Question Template - Help Guide
 ## Purpose
 This form is designed to collect information from customers who have a question or inquiry about our products, services, or general information.

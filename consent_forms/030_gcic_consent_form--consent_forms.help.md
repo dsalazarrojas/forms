@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # GCIC Consent Form - Help Guide
 
 ## Purpose

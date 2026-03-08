@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the form "yoga_consent_form" is intended to gather general information about students, details regarding their medical conditions, injuries, and emergency contact information, as well as their signature. The primary purpose of this form is to ensure that the student is aware of the potential risks involved in yoga practices and has provided necessary information for their own safety. It is crucial that this form is completed accurately and honestly, as the information will be used by instructors and medical staff for emergency situations.
-
-</thinking>
-
 # yoga_consent_form - Help Guide
 ## Purpose
 The yoga_consent_form is a crucial document that requires students to provide general information about themselves, their medical conditions, and emergency contact details. This form helps instructors and medical staff ensure students' safety during and after yoga practices.

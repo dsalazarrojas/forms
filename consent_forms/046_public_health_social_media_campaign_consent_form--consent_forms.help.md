@@ -1,7 +1,3 @@
-<thinking>
-Are we certain that this form is meant to collect data for a public health social media campaign? This form seems to be collecting personal information (name, date of birth, email, phone, and address) which might be a concern for data privacy and consent. Are we sure that we're not already collecting this information elsewhere? Are we duplicating effort or combining efforts with other forms?
-</thinking>
-
 # Public Health Social Media Campaign Consent Form - Help Guide
 ## Purpose
 This form is intended to be used as part of a public health social media campaign to collect information about individuals who wish to participate in the campaign. By filling out this form, you will be sharing your name, date of birth, email, phone number, address, social media handles, and consent to participate in the campaign.

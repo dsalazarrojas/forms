@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect patient information and consent for COVID-19 testing. It ensures that patients are aware of the testing procedure, risks, and results communication methods. The form is divided into four sections: patient information, medical history, testing information, and consent and acknowledgment. Each section is designed to gather essential details for safe and effective COVID-19 testing. Before proceeding, please review the form carefully and ensure that you understand the purpose and content of each section. Ensure that you have not completed this form previously. If you have any questions or concerns, please ask your healthcare provider for clarification. ...</thinking>
-
 # COVID 19 Testing Consent Form - Help Guide
 ## Purpose
 This form is used to collect patient information and consent for COVID-19 testing.

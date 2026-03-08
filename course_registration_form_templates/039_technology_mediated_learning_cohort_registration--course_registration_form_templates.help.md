@@ -1,16 +1,3 @@
-<thinking>
-This form is for registering a participant for the Technology Mediated Learning Cohort. It captures the essential information needed to create a comprehensive profile for the cohort.
-
-The form is divided into several sections, each with a specific purpose. The form fields have been carefully selected to ensure that the necessary information is collected without overwhelming the user with unnecessary questions.
-
-The form will be used to create a profile for a participant in the Technology Mediated Learning Cohort program. It is essential to complete the form accurately to ensure that the participant's information is up-to-date and relevant.
-
-This form is a one-time registration process. Once submitted, the participant's information will be stored in the system and used for the duration of the cohort.
-
-To avoid duplication of effort, please ensure that you are not registered in the cohort using a different form.
-
-</thinking>
-
 # Technology Mediated Learning Cohort Registration - Help Guide
 ## Purpose
 This form is for registering a participant for the Technology Mediated Learning Cohort program.

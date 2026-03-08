@@ -1,12 +1,3 @@
-<thinking>
-This form is used to log and store information about customer service inquiries. 
-The purpose of this form is to collect details about customer service interactions, including customer name, inquiry date, and the name of the customer service agent handling the inquiry. 
-This form is likely used by customer service teams to track and manage customer interactions and provide a record of the service requests made.
-
-Please ensure that each inquiry is entered correctly and only the necessary fields are filled out to avoid unnecessary duplication of work.
-
-</thinking>
-
 # counter_inquiry_log_form - Help Guide
 ## Purpose
 The "counter_inquiry_log_form" form is designed to log and track customer service inquiries.

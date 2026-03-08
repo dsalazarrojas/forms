@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely intended to be used in the context of a photography session, specifically a maternity photoshoot consultation. The form will help guide the photographer in understanding the client's preferences, session details, and other important information necessary for a successful photoshoot. This form is likely used by photographers to collect information from their clients before the photoshoot, ensuring they are prepared and equipped to deliver the best results. 
-
-The form does not seem to be intended for any specific internal use within an organization, and the fields seem to be focused on collecting general information from the client. Therefore, it is unlikely that the form is being used within an organization for internal purposes. 
-
-It is possible that the form is intended to be used by a third-party service, such as a photography studio or agency, that offers photoshoot services to clients.
-
-</thinking>
-
 # Maternity Photoshoot Consultation Form - Help Guide
 
 ## Purpose

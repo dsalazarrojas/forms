@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from farm owners or operators when an emergency occurs at their farm. The form aims to quickly collect essential contact information from the farm in case of an emergency, such as a fire or natural disaster. This form will be used to inform emergency responders of any potential risks or hazards on the farm, and ensure that they can contact the relevant individuals in a timely manner. 
-</thinking>
-
 # Farm Emergency Contact Form - Help Guide
 ## Purpose
 The Farm Emergency Contact Form is used to gather contact information from farm owners or operators in the event of an emergency. This form helps emergency responders quickly and accurately contact relevant individuals to provide assistance and support.

@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: This form is designed to capture client consent and relevant information for upcoming visits. It's meant to be filled out prior to the start of the service. The goal is to ensure that the client is aware of and consents to the services they are about to receive. 
-Form fields should be completed based on the specific questions and options provided, ensuring that all required fields are filled out accurately. 
-
-Please note that this form is a general template and might require adjustments based on the specific business or practice context.
-</thinking>
-
 # Skincare Facial Consent Form - Help Guide
 ## Purpose
 The Skincare Facial Consent Form is a document used to obtain client consent and gather necessary information for upcoming visits to a skincare service provider. 

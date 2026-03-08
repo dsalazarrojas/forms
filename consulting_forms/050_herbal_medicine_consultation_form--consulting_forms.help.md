@@ -1,7 +1,3 @@
-<thinking>
-This guide will help users understand the Herbal Medicine Consultation Form, ensuring they complete it correctly and make the most out of the form. This form is used for clients to provide their personal and medical details for herbal medicine consultations. The form collects information on client contact details, medical history, medications, allergies, and other relevant health-related information. It's designed to help herbal medicine practitioners gather the necessary data to provide effective consultations.
-</thinking>
-
 # Herbal Medicine Consultation Form - Help Guide
 ## Purpose
 The Herbal Medicine Consultation Form is a tool used by clients to provide their personal and medical details to herbal medicine practitioners. This information is used to guide the consultation process and create a treatment plan tailored to the client's needs.

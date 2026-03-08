@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by medical professionals or facilities to order Rapid Antigen Test Kits for COVID-19 screening. The form is designed to gather essential information for the order, including contact details, quantity of test kits, shipping preferences, and agreement to sales and distribution terms.
-</thinking>
-
 # COVID 19 Rapid Antigen Test Order Form - Help Guide
 ## Purpose
 This form is for medical professionals or facilities to order Rapid Antigen Test Kits for COVID-19 screening.

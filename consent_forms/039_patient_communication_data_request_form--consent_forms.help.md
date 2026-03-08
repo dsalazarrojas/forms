@@ -1,25 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to request patient communication data, which includes information on how often and through which channels patients prefer to communicate. This data is crucial for tailoring communication strategies to individual patient needs. 
-
-Before filling out this form, ensure you have not completed it for the same patient before. This form is meant to be filled out for each patient separately, and duplicating effort may cause confusion and inefficiencies in care.
-
-The form collects the following data from patients:
-- Channels Used: The preferred methods of communication for the patient (e.g., Email, Phone, Other)
-- How Often: The frequency of communication (e.g., Daily, Weekly, Monthly)
-- Contact Number: The contact number for the patient (e.g., phone number)
-- Email: The patient's email address
-- Date of Last Contact: The date of the last time the patient was contacted
-- Time of Contact: The preferred time of contact (e.g., morning, afternoon)
-- Comments: Additional comments from the patient
-- Follow-up Actions: A space for notes on follow-up actions taken or planned
-- Next Follow-up Date: The date of the next follow-up contact
-- Preferred Channels: The preferred communication channels for follow-up (e.g., Email, Phone, Other)
-- Follow-up Comments: Additional comments on follow-up actions
-- Follow-up Status: The status of follow-up actions (e.g., Not Started, In Progress, Completed)
-
-By completing this form, healthcare professionals can gain valuable insight into patient communication preferences and tailor their care strategies accordingly.
-</thinking>
-
 # Patient Communication Data Request Form - Help Guide
 
 ## Purpose

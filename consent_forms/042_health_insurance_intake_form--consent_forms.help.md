@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Health Insurance Intake Form is to collect information about the patient's personal details, medical history, and insurance coverage. This form is essential to ensure that patients receive accurate and efficient care from medical professionals. 
-The form is designed to be completed by the patient or their representative, and it is intended to be used by healthcare providers to gather relevant information about the patient's medical history, insurance status, and other important details. This information will be used to provide personalized care and treatment plans for the patient.
-
-Before starting the form, please ensure that you have the necessary information and approvals to complete the form. If you are unsure about any of the fields or questions, please ask for clarification or consult with a healthcare professional.
-
-Please note that this form is a critical document that will be used to assess your eligibility for health insurance coverage. Please ensure that all information provided is accurate and up-to-date.
-</thinking>
-
 # Health Insurance Intake Form - Help Guide
 ## Purpose
 The Health Insurance Intake Form is a critical document used by healthcare providers to gather information about a patient's medical history, insurance status, and other essential details. It is essential to complete this form accurately and completely.

@@ -1,12 +1,3 @@
-<thinking>
-Please note that the form is designed to update credit card information, specifically the card number, expiration date, and CVV (Card Verification Value) values. This form is likely intended for customers or cardholders to provide updates to their existing credit card accounts.
-
-To confirm, there seems to be an unusual number of CVV fields. I will assume that these are all required for card verification purposes, but it's worth verifying with the form owner to ensure accuracy.
-
-Also, please note that the form has a required email field, which suggests that the updated information will be associated with a specific customer or account.
-
-</thinking>
-
 # Credit Card Update Form - Help Guide
 ## Purpose
 The purpose of this form is to update credit card information. Please use this form to provide updates to your existing credit card account.

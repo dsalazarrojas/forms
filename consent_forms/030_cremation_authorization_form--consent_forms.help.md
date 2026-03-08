@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for obtaining authorization from authorized agents to cremate a deceased individual. 
-The form must be completed by authorized agents, which are typically next-of-kin or other individuals with a legitimate claim to the deceased's estate. 
-It is crucial to ensure that the form is properly completed and submitted to avoid any confusion or misinterpretation in the handling of the deceased's remains.
-</thinking>
-
 # Cremation Authorization Form - Help Guide
 ## Purpose
 The Cremation Authorization Form is a document used to obtain authorization from authorized agents to cremate a deceased individual. It is used to provide the necessary information required for the cremation process.

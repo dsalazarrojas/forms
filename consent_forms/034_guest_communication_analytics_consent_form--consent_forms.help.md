@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guest Communication Analytics Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a guest's communication preferences and consent for data use and storage. This form is intended for guests visiting a specific location or engaging with an organization's services. It collects contact details, communication preferences, and data handling settings to enable personalized and secure interactions.

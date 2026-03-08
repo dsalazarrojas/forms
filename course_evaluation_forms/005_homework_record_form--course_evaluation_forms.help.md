@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to record student homework submissions. It captures relevant information about a student's assignment completion status, submission date, and other pertinent details. To confirm, this form is part of a larger system for tracking student progress and assignments.
-
-Before proceeding, please ensure you have not already submitted this form for the same student and assignment. If you're unsure, review your previous submissions to prevent duplication.
-
-Please note that this form has multiple pages, each with a unique ID. Each page is explained in detail below.
-
-</thinking>
-
 # homework_record_form - Help Guide
 ## Purpose
 This form is designed to record student homework submissions, enabling educators to track student progress and assignments.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to provide their consent for workplace safety training programs. It's used to track and ensure that employees have completed and received necessary training for work-related safety procedures. The form should only be completed by employees who have not already provided their consent previously.
-</thinking>
-
 # Workplace Safety Training Consent Form - Help Guide
 
 ## Purpose

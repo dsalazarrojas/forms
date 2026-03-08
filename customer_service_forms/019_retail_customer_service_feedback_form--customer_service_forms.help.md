@@ -1,7 +1,3 @@
-<thinking>
-This form was created to gather feedback from retail customers to improve customer service quality. The form is used to understand customers' experiences with retail customer service, including how they perceive the helpfulness and attitude of staff, product quality, service quality, communication effectiveness, resolution of issues, overall satisfaction, and other relevant aspects of their interaction. To complete this form, please follow the instructions below.
-</thinking>
-
 # Retail Customer Service Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from retail customers to understand their experiences and perceptions of our customer service quality. Your input will help us identify areas of improvement and provide better service to our customers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to allow customers to contact the support team with any questions, concerns, or issues they may have. The purpose of this form is to gather relevant information about the customer, their inquiry, and verify their identity in order to efficiently and securely handle their query. Please make sure to fill out the form accurately and completely to ensure a prompt and helpful response. 
-</thinking>
-
 # Contact Us Form Pin Theme with Captcha - Help Guide
 ## Purpose
 This form is designed to allow customers to reach out to the support team and receive help with any issues or questions they may have. Please fill out the form below to get started.

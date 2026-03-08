@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to record information related to euthanasia, a process where an animal is humanely killed to end its suffering. The purpose of this form is to provide a structured and standardized way to document the events surrounding the euthanasia of an animal, including the reason for the euthanasia, the method used, and the certification of the veterinarian performing the procedure. This form is intended for use by veterinarians, animal owners, and veterinary clinics to ensure accurate and transparent record-keeping.
-
-</thinking>
-
 # Euthanasia Record Form - Help Guide
 ## Purpose
 The Euthanasia Record Form is a standardized template used to document the events surrounding the euthanasia of an animal. This form is designed to collect information from the owner and veterinarian involved in the procedure, ensuring accurate and transparent record-keeping.

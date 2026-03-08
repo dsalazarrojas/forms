@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Filming Interview Permission Form", the first step is to understand the form's purpose: This form is intended to obtain the filming interviewee's permission to record their interview for filming, video, or other purposes. This guide will cover the form's purpose, how to complete it, and an explanation of each field to help end-users understand its significance and complete it accurately.
-</thinking>
-
 # Filming Interview Permission Form - Help Guide
 ## Purpose
 The Filming Interview Permission Form is used to obtain the filming interviewee's permission to record their interview for filming, video, or other purposes.

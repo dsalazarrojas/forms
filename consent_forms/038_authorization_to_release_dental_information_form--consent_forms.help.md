@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Authorization To Release Dental Information Form", we need to understand that this form is intended to facilitate the transfer of dental records between dental providers. This form is typically used when a patient is switching dentists or needs to share their dental history with another healthcare professional. The form requires the patient's consent to release their dental information, which includes their records, X-rays, treatment plans, clinical notes, laboratory reports, and insurance information. The form also asks for the patient's permission to share their records with a specific recipient, either another dentist, a specialist, an insurance company, or a self-copy for the patient. The form requires the patient to specify the type of records to release, the date range of the records, and the method of release. It's essential to ensure that the patient understands the purpose and implications of this form before completing it.
-
-</thinking>
-
 # Authorization To Release Dental Information Form - Help Guide
 
 ## Purpose

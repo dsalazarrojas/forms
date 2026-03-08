@@ -1,5 +1,3 @@
-<thinking>As the online discussion archiving consent form is designed to collect data for archiving discussions, we need to ensure that the form is correctly filled out to avoid any potential issues. The form is divided into several sections that cover various aspects of the discussion, such as submission details, participant information, and archiving preferences. To complete this form, please follow the instructions below.</thinking>
-
 # Online Discussion Archiving Consent Form - Help Guide
 ## Purpose
 The online discussion archiving consent form is a crucial document that provides consent for the archiving of discussions. It ensures that all relevant information about the discussion, including its title, location, and participants, is recorded correctly.

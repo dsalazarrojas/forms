@@ -1,10 +1,3 @@
-<thinking>
-This help guide assumes that the form is used to register submissions from users, such as contest or giveaway winners. The purpose of this form is to collect information about the submitted content, including contact details and submission specifics.
-
-Internal reasoning check: To avoid duplication, ensure the form is only filled out once per submission. To prevent abuse, ensure the submission status is set to "Unpublished" by default.
-
-</thinking>
-
 # Submission Portal For Winners - Help Guide
 ## Purpose
 This form is used to register submissions from users, such as contest or giveaway winners. It collects information about the submitted content, including contact details and submission specifics.

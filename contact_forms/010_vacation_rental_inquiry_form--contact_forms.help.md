@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users who are interested in inquiring about vacation rentals. The purpose of this form is to collect user details, desired dates of stay, guest details, and any additional inquiry messages. This information will help the rental provider assess and potentially provide further guidance on available rentals.
-
-</thinking>
-
 # Vacation Rental Inquiry Form - Help Guide
 ## Purpose
 The Vacation Rental Inquiry Form is a tool to gather information from users who are interested in inquiring about vacation rentals. By filling out this form, you will be able to provide your contact details, specify your desired stay dates, share information about your guests, and include any additional questions or requests you may have.

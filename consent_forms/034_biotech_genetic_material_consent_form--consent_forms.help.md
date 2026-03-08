@@ -1,10 +1,3 @@
-<thinking>
-Biotech Genetic Material Consent Form - Purpose and Relevance Check
-The Biotech Genetic Material Consent Form is a crucial document that outlines the rights and responsibilities of participants in genetic research studies. This form ensures that individuals understand the purpose and scope of the study, their rights as participants, and the potential risks and benefits associated with genetic testing. 
-The form must be completed by participants before they can participate in the study. This guide will walk you through the fields and their explanations to help you understand and complete the form accurately.
-
-</thinking>
-
 # Biotech Genetic Material Consent Form - Help Guide
 
 ## Purpose

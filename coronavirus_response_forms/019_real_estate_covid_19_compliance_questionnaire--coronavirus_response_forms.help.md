@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from real estate agents or owners regarding their experience with COVID-19. The purpose of this form is to assess the compliance of the real estate industry with health and safety measures during the pandemic. This form will be used to determine whether the agent or owner has taken necessary precautions to prevent the spread of COVID-19, and to identify potential risks or areas of improvement. Before proceeding, ensure that this form is not a duplicate and that the information is relevant to your situation.
-</thinking>
-
 # real_estate_covid_19_compliance_questionnaire - Help Guide
 ## Purpose
 This form is used to collect information from real estate agents or owners to assess their compliance with health and safety measures during the COVID-19 pandemic.

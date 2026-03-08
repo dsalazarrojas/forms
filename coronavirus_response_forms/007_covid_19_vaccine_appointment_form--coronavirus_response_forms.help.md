@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information for scheduling a COVID-19 vaccine appointment. The purpose of this form is to ensure that individuals receive the correct vaccine and appointment details. To prevent duplication, users are not allowed to submit multiple appointments at once.
-
-Please note that this form requires a specific set of details, including name, date of birth, email address, phone number, and preferred appointment date and time. These fields are marked as required to ensure accurate identification and scheduling.
-
-The form also includes sections for accessibility and special needs, medical information, and emergency contact details. These sections are designed to accommodate users with diverse needs and ensure that the vaccine administration process is inclusive and safe for all individuals.
-
-Before submitting the form, users are required to confirm that all provided information is accurate. This is to prevent errors and ensure that appointments are scheduled correctly.
-
-The form also offers the option to receive appointment reminders via email, phone call, text message, or no reminder at all. This allows users to choose their preferred method of communication.
-
-</thinking>
-
 # COVID 19 Vaccine Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information for scheduling a COVID-19 vaccine appointment. It is essential to complete this form accurately to ensure that you receive the correct vaccine and appointment details.

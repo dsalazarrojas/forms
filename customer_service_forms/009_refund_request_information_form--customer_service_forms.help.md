@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # refund_request_information_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers regarding refund requests. It will be used to process and address their inquiries. Please ensure that you are requesting a refund for a valid reason and that your details are accurate to avoid delays in processing your refund.

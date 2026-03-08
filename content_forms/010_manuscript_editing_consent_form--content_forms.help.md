@@ -1,7 +1,3 @@
-<thinking>...The Manuscript Editing Consent Form is designed to capture information about a manuscript's editing process. It ensures that the author understands and consents to the level of editing involvement, manuscript status, and any other relevant details. This form helps maintain a clear record of the manuscript's progress and facilitates collaboration between authors, editors, and reviewers. It's used for manuscripts that are in progress or have already been published, and it's essential for ensuring that both the author and editors are on the same page.
-
-</thinking>
-
 # Manuscript Editing Consent Form - Help Guide
 
 ## Purpose

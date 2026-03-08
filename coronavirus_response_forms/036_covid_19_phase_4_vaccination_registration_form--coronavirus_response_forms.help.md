@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Phase 4 Vaccination Registration Form - Help Guide
 
 ## Purpose

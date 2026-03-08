@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their interactions with our customer support team, specifically about their email correspondence. This form will help us identify areas of improvement and make data-driven decisions to enhance our customer support services. We want to make sure that customers can easily provide their thoughts and suggestions without any duplication of effort, so we'll only accept a single instance of this form per customer. Please fill out the form accurately and thoroughly to provide us with valuable insights.
-</thinking>
-
 # Customer Support Email Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their interactions with our customer support team, particularly regarding their email correspondence. Your input will help us improve our services and provide better support in the future.

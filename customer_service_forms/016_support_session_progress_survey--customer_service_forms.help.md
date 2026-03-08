@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gauge the progress and satisfaction of customers after a support session. It collects feedback on customer satisfaction, primary concerns, resolution, communication quality, likelihood of recommending the service, and additional comments or suggestions. This form ensures that customer feedback is collected in a standardized way, allowing the support team to identify areas for improvement and make data-driven decisions for future support sessions.
-
-The form is typically completed by customers after a support session, and the information collected will help the support team to:
-
-*   Continuously improve the support process and services offered
-*   Identify areas of improvement and implement changes
-*   Increase customer satisfaction and loyalty
-
-The form will help to create a positive experience for customers and enhance their overall satisfaction with the service.
-
-</thinking>
-
 # Support Session Progress Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on customer satisfaction and experience after a support session. It helps us identify areas of improvement and make data-driven decisions to enhance our support process and services.

@@ -1,9 +1,3 @@
-<thinking>
-
-We created this form using AI to provide a standardized way for donors to consent to share their information with your organization. This form is designed to be a simple, yet comprehensive way to capture the necessary information for donors to opt-in or opt-out of specific features. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and is released under the Creative Commons BY 4.0 license. You are free to use, modify, and distribute it as you see fit.
-
-</thinking>
-
 # Donor Feature Consent Form - Help Guide
 ## Purpose
 The Donor Feature Consent Form is a tool for donors to consent to share their information with your organization. This form asks donors to confirm what type of information they are comfortable sharing, ensuring their data privacy and security.

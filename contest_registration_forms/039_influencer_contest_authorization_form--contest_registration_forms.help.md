@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for brand representatives to register their interest in participating in a contest. The form will be used to collect information about the brand and the contest they want to participate in. This form should be filled out by authorized brand representatives. 
-
-The form is designed to be filled out by one brand representative per brand. If a brand representative has already filled out this form for their brand, they will not be able to fill it out again.
-
-</thinking>
-
 # Influencer Contest Authorization Form - Help Guide
 ## Purpose
 This form is used to register a brand's interest in participating in a contest. It is intended for authorized brand representatives to provide information about their brand and the contest they want to participate in.

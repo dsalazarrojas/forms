@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect advisor information and commitment details for the organization. It serves as a formal record of an advisor's agreement to collaborate with the organization, outlining their areas of expertise, availability, and compensation expectations. This form aims to ensure that both the organization and the advisor are on the same page regarding the terms of their collaboration. It's essential to complete this form accurately and thoroughly to avoid any potential conflicts or misunderstandings.
-</thinking>
-
 # Advisor Commitment Letter - Help Guide
 ## Purpose
 The Advisor Commitment Letter is a form that collects information from advisors to ensure a clear understanding of their commitment to the organization. It's a crucial document that outlines the terms of collaboration, including areas of expertise, availability, and compensation expectations.

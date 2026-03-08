@@ -1,28 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Supermarket Customer Claim Form", I will first analyze the form's purpose and the fields included. The purpose of this form is to collect information from customers who have encountered issues while shopping at the supermarket. It appears to be a general feedback and complaint form that helps the supermarket management to identify and address customer concerns efficiently. The form is designed to gather details about the incident, such as the product involved, the description of the issue, and any attachments that may be relevant to the complaint. Additionally, it captures contact information for follow-up purposes and information about the customer, such as their name, email, and mobile number. The form also allows customers to indicate whether they would like to be followed up on and whether they were assigned to a specific team for handling their issue. This form seems to be a crucial tool for supermarkets to improve their services and ensure customer satisfaction.
-
-The form consists of the following fields:
-
-*   Customer Form: A text field where customers can enter any information about themselves.
-*   Product Details: A text field where customers can describe the product they are experiencing issues with.
-*   Issue Description: A text field where customers can provide detailed descriptions of the problem.
-*   Date and Time: A date field where customers can indicate the time and date when the issue occurred.
-*   Contact Number: A text field where customers can enter their contact number for follow-up.
-*   Email Address: An email field where customers can enter their email address.
-*   Issue Attachment: A text field where customers can attach any relevant files or documents.
-*   Issue Route: A select-one field with options 'Yes' and 'No' to indicate whether the issue was resolved internally or not.
-*   Assigned Team: A select-one field with options 'Yes' and 'No' to indicate whether a team was assigned to handle the issue.
-*   Customer Message: A text field where customers can provide any further comments or messages.
-*   Follow Up: A time field where customers can select a time frame for follow-up.
-*   Supermarket Name: A text field where customers can enter the name of the supermarket where the issue occurred.
-*   Customer Name: A text field where customers can enter their name.
-*   Customer Email: An email field where customers can enter their email address.
-*   Customer Mobile: A text field where customers can enter their mobile number.
-*   Customer Address: A text field where customers can enter their address.
-
-This analysis provides the necessary insight to create a comprehensive help guide for the "Supermarket Customer Claim Form".
-</thinking>
-
 # Supermarket Customer Claim Form - Help Guide
 ## Purpose
 The Supermarket Customer Claim Form is a tool used to collect information from customers about their experiences, concerns, or complaints about the supermarket. This form helps the supermarket management to identify and address customer issues efficiently and improve their services.

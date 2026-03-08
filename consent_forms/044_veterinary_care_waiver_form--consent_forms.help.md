@@ -1,8 +1,3 @@
-<thinking>
-This form is likely intended for pet owners or caregivers to provide information about their pet's veterinary care, such as medical history, treatment details, and other relevant information. The form may be used in a veterinary clinic or hospital setting to gather essential data for the pet's health and treatment. Before completing this form, ensure that you have the necessary permissions and that the information is not already available elsewhere, such as in the pet's medical records.
-
-</thinking>
-
 # Veterinary Care Waiver Form - Help Guide
 ## Purpose
 The Veterinary Care Waiver Form is designed to collect information about a pet's health and treatment history, enabling veterinarians to provide informed care and attention to the pet's needs.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their interactions with retail staff, aiming to evaluate the quality of service provided by the staff. This form is intended to be completed by customers after their interaction with retail staff, providing valuable insights for the retail store to improve their customer service. It is crucial to ensure that the feedback is specific and relevant to the interaction, avoiding duplication and ensuring that the provided fields are sufficient to gather necessary information.
-
-</thinking>
-
 # Retail Staff Customer Interaction Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their interactions with retail staff, allowing us to understand their experiences and areas of improvement.

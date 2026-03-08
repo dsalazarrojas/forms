@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals applying for well driller job openings.
-It is not affiliated with, endorsed by, or derived from any form platform.
-The form's purpose is to gather candidate's personal and professional information.
-This form is a text-based form.
-Each field in this form is optional unless marked as required in the form YAML.
-</thinking>
-
 # well_driller_job_application_form - Help Guide
 ## Purpose
 This form collects information from individuals applying for well driller job openings.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide will be used to assist end-users in completing the "Tech Client Feedback Inquiry Form" which is designed to collect feedback and information from clients. This form should only be filled out by clients who have had recent interactions with our technical team. 
-We want to ensure that our team is providing the best possible service and experience for our clients. 
-Please note that if you have already filled out this form, please do not fill it out again. 
-</thinking>
-
 # Tech Client Feedback Inquiry Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a consultation request form for clients seeking assistance with window and door-related services. The form is designed to collect basic information from clients, including their details, service needs, and preferred appointment time. This form is meant to facilitate communication between clients and service providers, ensuring a clear understanding of the client's requirements and scheduling an appointment that suits their needs. Before filling out the form, please ensure that you have not submitted a similar request recently, as duplicate submissions may lead to unnecessary work and confusion. Please fill out the form accurately and thoroughly to ensure that your request is processed efficiently.
-</thinking>
-
 # Window Consultation Request - Help Guide
 ## Purpose
 This form is designed to collect information from clients requesting window and door-related services, such as installation or repair.

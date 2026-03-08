@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the internal reasoning block to check for relevance and non-duplication. It's not necessary to output it as part of the help guide.
 
 # Financial Consultation Form - Help Guide

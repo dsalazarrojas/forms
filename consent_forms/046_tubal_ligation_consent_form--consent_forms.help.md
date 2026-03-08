@@ -1,12 +1,3 @@
-<thinking>
-# Purpose: 
-The Tubal Ligation Consent Form is a medical form used to document a patient's consent for a tubal ligation procedure. This form is designed to gather essential information from the patient, including their personal details, medical history, and consent for the procedure. The form is intended to be completed by a patient before undergoing the procedure, ensuring they have provided informed consent and have all the necessary information recorded.
-
-# Checking for relevance and non-duplication:
-This form is relevant for patients undergoing a tubal ligation procedure. It is not intended for other medical procedures or general patient information forms.
-
-</thinking>
-
 # Tubal Ligation Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain a patient's consent and gather necessary information before undergoing a tubal ligation procedure.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Release of Information Template - Help Guide
 
 ## Purpose

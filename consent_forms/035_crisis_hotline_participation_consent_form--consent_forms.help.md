@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ### crisis_hotline_participation_consent_form - Help Guide
 
 ### Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our users understand the purpose of this form and how to complete it correctly. The Data Protection Form is a critical document that helps us protect sensitive information about individuals. To use this form, please ensure that you have the necessary permissions and authorities to collect and store this information. Before proceeding, review the form carefully to avoid duplication of effort and ensure that you are filling it out for the correct purpose.
-</thinking>
-
 # Data Protection Form - Help Guide
 ## Purpose
 The Data Protection Form is a document used to collect and record sensitive information about individuals. This form is used to ensure that we handle personal data responsibly and in accordance with our internal policies and external regulations.

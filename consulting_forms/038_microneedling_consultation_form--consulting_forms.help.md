@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for a microneedling consultation. The form is used to gather client information, medical history, and other relevant details to provide personalized advice or treatment. The fields are designed to be clear and concise, and the form should not be completed by clients who are not seeking microneedling services.
-</thinking>
-
 # Microneedling Consultation Form - Help Guide
 ## Purpose
 The Microneedling Consultation Form is designed to collect information from clients for a microneedling consultation. This form is used to gather client information, medical history, and other relevant details to provide personalized advice or treatment.

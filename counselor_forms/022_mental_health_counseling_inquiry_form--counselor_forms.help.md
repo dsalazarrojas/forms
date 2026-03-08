@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential clients seeking mental health counseling services. It is crucial that the form is completed accurately and thoroughly to ensure that the client's needs are assessed correctly. Before starting, please note that this form is not meant to be a replacement for in-person consultation or a substitute for professional medical diagnosis. It is essential to be honest and clear in your responses. Please ensure that you are not duplicating this form if you have already submitted one previously. If you need urgent assistance or have specific concerns, kindly contact our organization directly for guidance.
-</thinking>
-
 # Mental Health Counseling Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from individuals seeking mental health counseling services. It helps our organization understand their needs and provide appropriate support.

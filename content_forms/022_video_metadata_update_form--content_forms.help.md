@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to update video metadata. It collects information about a video, including its title, category, tags, upload date, and other relevant details. 
-
-To ensure that the form is filled out correctly and accurately, please review the following instructions and explanations for each field:
-
-- The form is divided into two pages. Page 1 includes fields for the title, category, tags, and video ID.
-- Page 2 includes fields for the upload date, update date, status, description, user email, user phone, assigned tool, notes, category ID, tags ID, video ID, thumbnail ID, upload date ID, update date ID, status ID, description ID, user email ID, user phone ID, notes ID, and form ID.
-
-</thinking>
-
 # video-metadata-update-form - Help Guide
 ## Purpose
 This form is used to update video metadata.

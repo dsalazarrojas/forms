@@ -1,7 +1,3 @@
-<thinking>
-The "service_quality_feedback_form" form is designed to collect feedback from customers about their experiences with the service. It's intended for customers to provide their contact information and describe the problem they faced, how it was resolved, and their overall rating of the service. This form is likely used in customer service scenarios where customers need to report incidents or issues they encountered while using the service.
-</thinking>
-
 # service_quality_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experiences with the service. It helps us understand how we can improve our service and resolve any issues that customers may have faced.

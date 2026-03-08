@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect agreement terms from contractors and property managers for mold remediation services. It's likely used in the context of residential or commercial properties with mold issues. The form collects information about the property, the remediation process, and the agreement details...</thinking>
-
 # Mold Remediation Agreement - Help Guide
 ## Purpose
 The Mold Remediation Agreement form is used to document the terms and conditions of mold remediation services for a property. It's a crucial document that outlines the scope, cost, and timeline of the remediation process.

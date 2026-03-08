@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers to efficiently process and resolve their issues with a Content Management System (CMS). This form should only be used for customers who have experienced problems with the CMS and need assistance from your support team. 
-Please ensure that you are using the correct form for your specific issue and not duplicating your request.
-</thinking>
-
 # CMS - Help Guide
 ## Purpose
 This form is designed to collect customer information and issue details to provide efficient support and resolution.

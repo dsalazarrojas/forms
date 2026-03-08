@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended to collect employment history information from users. It's a comprehensive form that covers various aspects of a person's work experience, likely used for employment purposes such as background checks, job applications, or employee onboarding processes. The form has 25 sections, but it's not clear what specific fields should be filled in each section without further analysis. To complete this form, one would typically start by filling in their employment history in reverse chronological order, working backwards from the most recent job to the least recent. This form might be used by employers to verify employment history and check for discrepancies in a person's work experience. It's possible that this form could be used by HR teams to gather information for employee onboarding processes or by hiring managers to verify a candidate's credentials. However, this form's purpose is unclear without further context, so it's recommended that users review the form carefully before completing it and make sure they understand what information is being requested. The form's layout is divided into 25 sections, each with a label, but the labels do not provide clear guidance on what information should be filled in each section. To fill out this form correctly, users should review the form's instructions and the provided sections carefully, taking note of the label and the type of information that should be filled in each section. 
-
-Please note that this form has been generated using AI and is not affiliated with any form platform, so it's not a proprietary form and can be freely used, modified, and even sold with proper credit. 
-
-</thinking>
-
 # employment-history-release-form - Help Guide
 ## Purpose
 This form is designed to collect employment history information from users. It's intended for employment purposes such as background checks, job applications, or employee onboarding processes.

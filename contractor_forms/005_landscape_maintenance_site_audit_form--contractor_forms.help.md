@@ -1,7 +1,3 @@
-<thinking>
-The Landscape Maintenance Site Audit Form is used by maintenance teams to assess the status of a construction or landscaping project site. The form captures essential information such as site address, customer contact details, and project status. It also includes sections for noting site-specific photos and videos, maintenance notes, and project manager information. The form is designed to be completed in conjunction with site visits, allowing maintenance teams to record and track progress, issues, and tasks related to the project. This form helps in improving communication between the project manager and the customer, streamlining project progress updates, and reducing errors in tracking project status.
-</thinking>
-
 # Landscape Maintenance Site Audit Form - Help Guide
 ## Purpose
 The Landscape Maintenance Site Audit Form is used to collect and record site-specific information, including address, customer contact details, and project status. This form helps maintain a clear and organized record of site visits and project progress.

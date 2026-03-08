@@ -1,9 +1,3 @@
-<thinking>
-
-To create this form, I will base my response on the provided YAML fields and use that information to create a comprehensive help guide. The form seems to be related to a video editing process, and it involves reviewing and editing video content. The form has multiple pages with various fields that ask about different steps in the video editing process, from review to finalization. I will use this information to create a detailed guide on how to complete the form and explain each field in a clear and concise manner.
-
-</thinking>
-
 # Video Editing Process Checklist - Help Guide
 ## Purpose
 This form is designed to help you track and document the video editing process. It guides you through the different steps involved in reviewing and editing video content, from reviewing the initial content to finalizing the edited version.

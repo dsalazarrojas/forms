@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Proxy Authorization Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # keaveney_legal_group_free_consultation_2 - Help Guide
 ## Purpose
 This form is for users to provide their contact information and a brief message so that Keaveney Legal Group can assist with a free consultation. Please use this form to inquire about our services and we will get back to you as soon as possible.

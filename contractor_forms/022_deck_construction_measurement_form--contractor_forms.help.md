@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Deck Construction Measurement Form - Help Guide
 
 ## Purpose

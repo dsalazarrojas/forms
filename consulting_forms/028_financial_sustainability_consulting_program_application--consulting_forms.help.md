@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Sustainability Consulting Program Application - Help Guide
 
 ## Purpose

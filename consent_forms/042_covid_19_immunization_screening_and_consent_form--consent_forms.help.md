@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Immunization Screening And Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The "Contactless Elevator Operation Consent Form" is crucial for ensuring that elevator operators have the necessary consent of building occupants to operate elevators without human contact during emergencies or other situations where physical contact may pose a health risk. This form aims to collect necessary contact information and confirm the participant's agreement to participate in contactless protocols. Ensuring the form is filled out correctly and accurately will help in the implementation of these protocols. It is essential to check for relevance and avoid duplication of effort before proceeding.
-</thinking>
-
 # Contactless Elevator Operation Consent Form - Help Guide
 ## Purpose
 The Contactless Elevator Operation Consent Form is a document that gathers consent from building occupants to operate elevators without human contact during emergencies or other situations where physical contact may be a health risk. This form is essential for the safe and efficient operation of contactless elevator protocols.

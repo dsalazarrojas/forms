@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is completed accurately and efficiently by users. This form is a contest entry form, which means it's intended for users who want to participate in a competition. To ensure relevance, we should check that the user has selected at least one event to participate in. We should also prevent duplication of entries by checking for existing entries before submitting a new one. This form is a multi-page form, but since we have a limited number of fields, we'll explain each field in detail. 
-</thinking>
-
 # Summer Competition Entry Form - Help Guide
 ## Purpose
 This form is designed for users who want to participate in the Summer Competition. To be eligible, users must select at least one event to participate in.

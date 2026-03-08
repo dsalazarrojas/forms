@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for farmers who wish to cancel their insurance policy. To determine if this form is necessary, please check with your internal systems if you already have a cancellation request process in place. If you do, there's no need to use this form. If not, proceed with the form to ensure you're covering all the necessary fields to process the cancellation request properly.
-</thinking>
-
 # Farmers Insurance Cancellation Form - Help Guide
 ## Purpose
 The Farmers Insurance Cancellation Form is designed to gather necessary information from farmers for the cancellation of their insurance policy. This form aims to streamline the cancellation process, ensuring that all required details are captured accurately and efficiently.

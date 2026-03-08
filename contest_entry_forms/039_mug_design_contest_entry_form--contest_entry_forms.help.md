@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for students, teachers, or school administrators to submit their entries for the mug design contest. To ensure that your entry is valid and considered, please make sure to complete all required fields. The form is split into several sections, each with its specific requirements and options. Please review the form carefully to ensure you're providing all necessary information.
-
-</thinking>
-
 # Mug Design Contest Entry Form - Help Guide
 ## Purpose
 The Mug Design Contest Entry Form is a form for students, teachers, or school administrators to submit their entries for the mug design contest. Please note that all required fields must be completed to submit a valid entry.

@@ -1,10 +1,3 @@
-<thinking>
-The "Intellectual Property Release Form" is a form used to gather information from individuals who are creating intellectual property (IP) for the organization. This form is likely used in situations where the organization is collaborating with external parties on IP projects, such as research papers, software development, or other creative works. The form is meant to ensure that all parties involved in the project have a clear understanding of ownership and usage rights.
-
-To avoid duplication, this form should not be filled out by individuals who have already completed a similar form for the same project or have a pre-existing agreement in place.
-
-</thinking>
-
 # intellectual property release form - Help Guide
 ## Purpose
 

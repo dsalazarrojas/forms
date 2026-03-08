@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Arrival And Health Review Form" that is clear, concise, and easy to understand. I will base the explanation on the provided YAML fields and ensure that each field label is explained in a way that is concrete and practical. I will also follow the required Markdown structure for the guide.</thinking>
-
 # Arrival And Health Review Form - Help Guide
 ## Purpose
 The "Arrival And Health Review Form" is designed to gather information about your health status, travel history, and vaccination status upon arrival. This form is essential to ensure your safety and the safety of others, as well as to identify any potential risks or concerns.

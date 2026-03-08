@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect contact information and inquiries from users. The purpose of this form is to gather details about the user, including their name, email, phone number, and a brief message, as well as their preferred contact method and the date of submission. This form is intended for users to reach out to the site administrator or support team for inquiries, feedback, or other general contact.
-
-</thinking>
-
 # Contact Form With Box Shadows - Help Guide
 ## Purpose
 The contact form is intended for users to submit information and inquiries to the site administrator or support team.

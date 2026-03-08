@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to capture the contact information and liability consent of park cleanup volunteers. It will likely be used in park administration and management contexts where volunteers need to be registered and their emergency contact information recorded.
-</thinking>
 # public_park_cleanup_volunteer_liability_consent_form - Help Guide
 ## Purpose
 This form is used to collect information from volunteers who wish to participate in park cleanup events. It captures contact information and liability consent, ensuring that volunteers are properly registered and their emergency contact information is recorded.

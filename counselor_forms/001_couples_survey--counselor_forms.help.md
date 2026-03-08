@@ -1,11 +1,3 @@
-<thinking>
-The form is a Couple Survey aimed at gauging the dynamics between partners in a relationship. The form is designed to collect data on the frequency and intensity of conflicts, level of love and connection, and other aspects of the relationship, including how the couple interacts and communicates with each other. 
-
-This form is not intended for immediate clinical use but is used for research and statistical purposes to provide insights into relationship dynamics and help in identifying areas of improvement or potential issues that may arise in couples.
-
-This guide is intended to be read after completion of all questions and is a reference point for end-users.
-</thinking>
-
 # Couple Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the dynamics of a couple's relationship, covering aspects such as conflict frequency and intensity, love level, and other interactions.

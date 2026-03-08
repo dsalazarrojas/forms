@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to be used for a course substitution process, where a student can request to be switched from one course to another. The purpose of this form is to collect necessary information from the student, such as their name and email, details about the old and new courses, reason for the substitution, and any additional comments from the instructor.
-
-This form is not intended to be used for general course registration or other purposes. It is specifically designed for course substitution requests, so users should only be filling out this form for this specific reason.
-
-Internal logic assumes that the form will be completed by an individual (student) and will be reviewed by the course instructor or administration. This means that some form fields are not marked as required, but they should still be filled out for accuracy and completeness.
-
-The form structure follows the typical format of a simple form with one-page layout, which makes it easy to fill out and understand.
-
-This guide will walk the user through the necessary steps and explanations for each field in the form.
-
-</thinking>
-
 # Course Substitution Form - Help Guide
 
 ## Purpose

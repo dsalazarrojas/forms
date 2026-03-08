@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather the necessary information and consent from individuals involved in independent film promotions. The form aims to ensure that the individuals understand their roles and responsibilities, as well as the terms and conditions of the promotion, prior to its execution. It is essential to fill this form out carefully, as it will serve as a binding agreement between the individual and the promotion team.
-</thinking>
-
 # Independent Film Promotion Consent Form - Help Guide
 ## Purpose
 This form is used to collect personal and talent details, review the terms and conditions of the promotion, and obtain the individual's consent to participate in the independent film promotion.

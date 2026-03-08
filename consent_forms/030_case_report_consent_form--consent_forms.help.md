@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for obtaining consent from participants or patients for a research case report. It collects information about the participant's personal details, medical history, and consent for the use of their data. The form is intended to be filled out by the participant, and it guides them through the various aspects of the consent process, including understanding their rights, risks, and benefits, as well as agreeing to the storage and use of their data. 
-
-The form is not affiliated with any specific form platform, and it's generated based on public survey topic metadata. The form is an original adaptation of the provided metadata, and it's released under the CC BY 4.0 license. 
-
-This form is not a legal document, and it's intended to be a guide for participants to understand the consent process. It's not intended to be a substitute for legal counsel, and it's recommended that participants review and understand the terms of the actual consent document they're being asked to sign.
-
-</thinking>
-
 # Case Report Consent Form - Help Guide
 ## Purpose
 The Case Report Consent Form is designed to obtain informed consent from participants or patients for a research case report. This form guides you through the various aspects of the consent process, including your rights, risks, and benefits, as well as your agreement to the storage and use of your data.

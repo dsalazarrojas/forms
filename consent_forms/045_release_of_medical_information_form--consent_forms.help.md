@@ -1,17 +1,3 @@
-<thinking>
-The "Release Of Medical Information Form" is used to obtain authorization from patients to release their medical information to various individuals or organizations. This form is typically used in healthcare settings where patients need to grant access to their medical history, test results, or other sensitive health information to specific parties. The form is usually completed by patients and signed by both the patient and the authorized representative. The purpose of this form is to ensure that patients are aware of who has access to their medical information and can take control of their own medical records.
-
-To complete this form, follow these steps:
-
-1. Determine if you want to release your medical information to anyone or no one.
-2. Select the option that best reflects your decision.
-3. If you select "Yes", you can optionally select the date of authorization.
-4. Specify who you want to release your medical information to by typing their name.
-5. If you are releasing other health information, indicate if you want to release it and specify the details.
-6. Sign and date the form to indicate your agreement.
-
-</thinking>
-
 # Release Of Medical Information Form - Help Guide
 ## Purpose
 This form is used to obtain authorization from patients to release their medical information to various individuals or organizations.

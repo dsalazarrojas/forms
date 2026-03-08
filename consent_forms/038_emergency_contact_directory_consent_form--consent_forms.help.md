@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used for obtaining consent from individuals to include their contact information in an emergency contact directory. This form is designed to be simple and easy to understand, with fields for providing basic contact information and a selection of consent options.
-
-Before completing this form, please note that it is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation based on public survey topic metadata.
-
-To complete this form, simply follow the steps below:
-</thinking>
-
 # Emergency Contact Directory Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from individuals to include their contact information in an emergency contact directory.

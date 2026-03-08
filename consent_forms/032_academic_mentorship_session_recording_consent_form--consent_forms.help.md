@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information and obtain consent from both the mentee and mentor involved in an academic mentorship session. The purpose of this form is to ensure that both parties are aware of the recording and use of the session, and to provide a clear understanding of how the recording will be handled and stored. This form should only be used for sessions where recording is a requirement or beneficial.
-</thinking>
-
 # Academic Mentorship Session Recording Consent Form - Help Guide
 
 ## Purpose

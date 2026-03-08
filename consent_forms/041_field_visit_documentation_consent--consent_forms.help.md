@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather documentation of field visits, which are essential for maintaining accurate records and ensuring compliance with regulations. The purpose of this form is to capture relevant information about each field visit, including client consent, photos, videos, and location details. This form serves as a crucial tool for field personnel to document their visits and ensure that all necessary information is collected.
-
-Before proceeding, please ensure that you are authorized to access and complete this form. If you have already completed this form for the same field visit, you may not need to complete it again.
-
-This guide will walk you through the necessary steps to complete the Field Visit Documentation Consent form.
-
-</thinking>
-
 # Field Visit Documentation Consent - Help Guide
 ## Purpose
 The Field Visit Documentation Consent form is used to gather important information about field visits, including client consent, photos, videos, location details, and more. This form ensures that all necessary information is collected and documented accurately.

@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be a contact form for users to send inquiries about a website, likely for a support or customer service team. The form is designed to collect user contact information, website inquiry details, and message content. It includes fields for full name, email address, phone number, website URL (if applicable), type of website inquiry, and a brief and detailed message. The form is likely used for both customers and users to contact the website owner or administrators.
-
-</thinking>
-
 # Contact Form Plus - Help Guide
 ## Purpose
 The Contact Form Plus is used for users to send inquiries about a website's content, functionality, or any other matters that require attention from the website owners or administrators. Fill out this form to get in touch with our team for assistance or information.

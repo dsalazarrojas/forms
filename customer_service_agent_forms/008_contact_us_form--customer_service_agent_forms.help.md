@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for customers to contact the company's support team with general questions, technical support requests, or other inquiries. To prevent spam and ensure that customers are not repeatedly submitting the same information, this form should not be used for automated submissions or mass messaging. 
-
-</thinking>
-
 # Contact Us Form - Help Guide
 ## Purpose
 The Contact Us form is designed to allow customers to easily contact our support team for help with various topics, including technical support, general questions, and other inquiries.

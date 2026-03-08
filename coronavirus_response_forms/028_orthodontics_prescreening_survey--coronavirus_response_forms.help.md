@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Orthodontics PreScreening Survey - Help Guide
 
 ## Purpose

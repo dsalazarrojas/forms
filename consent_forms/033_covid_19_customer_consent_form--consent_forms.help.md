@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain a customer's consent for receiving services at the facility during the COVID-19 pandemic. This form ensures the customer understands the risks associated with COVID-19 and the precautions in place to minimize those risks. By completing this form, the customer acknowledges their understanding of the risks, agrees to follow facility guidelines, and releases the facility from liability related to COVID-19. This form is essential to ensure the customer's safety and the facility's compliance with regulatory requirements.
-</thinking>
-
 # COVID 19 Customer Consent Form - Help Guide
 
 ## Purpose

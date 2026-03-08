@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, we should ensure this form is only used for its intended purpose. The "Homework Help Order Form" is meant to collect information from students who need assistance with their homework. This form should not be used for other purposes such as reporting bullying or other school-related incidents. To prevent misuse, we should monitor the form's usage and restrict access to authorized personnel only.
-</thinking>
-
 # Homework Help Order Form - Help Guide
 ## Purpose
 This form is designed to help students order homework assistance from designated help resources. It gathers essential details to assign the most suitable helper and resource for their needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help gather information for the selection of speakers for the SME Executive Committee. The form is not a survey but rather a call for potential speakers. The form's purpose is not to collect data for analytics or other business purposes. It is a call for speakers and as such, the fields are not meant to be filled in a specific way. They do not have any specific requirements or limitations. The user can fill in whatever information they feel is relevant.
-</thinking>
-
 # SME Executive Committee Sample - Help Guide
 ## Purpose
 This form is intended to gather information from potential speakers for the SME Executive Committee. It is not a survey or a data collection form.

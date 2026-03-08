@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "health_proxy_consent_form" is to obtain informed consent from a patient or their representative to grant access to their medical history and other sensitive information on their behalf. This form will be used to confirm that the individual has given consent for the healthcare providers and facilities to access their medical history. The form will help ensure that the individual understands the importance of maintaining confidentiality and the potential risks associated with sharing their medical information.
-
-Before proceeding, please ensure that you are using this form for its intended purpose and that you are not duplicating efforts by using a different form for the same process.
-
-When filling out this form, please note that some fields are optional, but it's essential to provide as much information as possible to ensure accurate processing.
-
-</thinking>
-
 # health_proxy_consent_form - Help Guide
 ## Purpose
 The health_proxy_consent_form is designed to obtain informed consent from a patient or their representative to grant access to their medical history.

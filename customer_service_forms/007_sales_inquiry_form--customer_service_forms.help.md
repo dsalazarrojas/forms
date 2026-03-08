@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Inquiry Form - Help Guide
 ## Purpose
 This form is intended to collect information from customers who are interested in inquiring about sales-related issues or requests. It helps our customer service team understand their needs and provide the most suitable solutions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Limitation Of Liability Form - Help Guide
 
 ## Purpose

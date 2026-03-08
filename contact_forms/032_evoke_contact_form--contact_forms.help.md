@@ -1,7 +1,3 @@
-<thinking>
-This form, `evoke_contact_form`, is a contact information collector used for users to input their personal details such as name and email, along with a message. This form does not appear to be affiliated with or endorsed by any specific platform, and its creation and usage are governed by the Creative Commons BY 4.0 license. The form consists of four fields, and it is designed for users to submit contact information.
-</thinking>
-
 # evoke_contact_form - Help Guide
 ## Purpose
 The purpose of the `evoke_contact_form` is to collect contact information from users, which includes their name and email, along with a brief message.

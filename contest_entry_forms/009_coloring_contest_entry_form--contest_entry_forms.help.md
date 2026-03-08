@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for participants to submit their colored artwork for a contest. The form collects information about the participant, their artwork, and their agreement to the contest rules. This form is intended for participants who want to submit their colored artwork for evaluation and potential display.
-
-To ensure the integrity of the contest, we must verify the age category of the participant and the originality of their artwork. This form also allows us to contact the participant for updates and results.
-
-Please fill out the form carefully and accurately, as the information collected will be used to determine the eligibility and ranking of participants.
-
-</thinking>
-
 # Coloring Contest Entry Form - Help Guide
 ## Purpose
 The Coloring Contest Entry Form is a submission form for participants to enter our coloring contest. It collects information about the participant, their artwork, and their agreement to the contest rules.

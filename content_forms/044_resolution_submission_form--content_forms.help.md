@@ -1,5 +1,3 @@
-<thinking>...The resolution submission form is used to record and track resolutions submitted by members to the organization. This form is typically used for tracking and verifying the submissions of resolutions from members, ensuring that all relevant information is accurately captured and stored. Before proceeding with this form, please ensure that you are authorized to access and use it. If you are attempting to submit a resolution for someone else, please make sure to obtain their consent first. Additionally, please be aware that some fields are mandatory and must be completed in order to successfully submit the form. Please review the fields carefully before proceeding to avoid any errors or omissions...</thinking>
-
 # resolution_submission_form - Help Guide
 ## Purpose
 The resolution submission form is a tool used by members to submit resolutions to the organization. It is designed to collect and store information about the resolutions submitted, including the member's name, resolution title, resolution content, submission date, submission status, and other relevant details.

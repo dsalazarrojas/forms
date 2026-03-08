@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for this Master Program Evaluation Form. This form is intended for students to evaluate the quality and effectiveness of the academic programs they're enrolled in. The form's main goal is to gather feedback on various aspects of the program, such as faculty performance, accessing information, and overall clarity and support. To ensure that this form is completed accurately and effectively, users must understand its purpose and how to fill it out correctly.</thinking>
-
 # Master Program Evaluation Form - Help Guide
 ## Purpose
 The Master Program Evaluation Form is designed to gather feedback from students on the overall quality and effectiveness of the academic programs they're enrolled in. This form helps program administrators and staff to identify areas of improvement and make necessary adjustments to enhance the learning experience.

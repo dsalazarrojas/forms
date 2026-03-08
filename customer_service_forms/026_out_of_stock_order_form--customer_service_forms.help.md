@@ -1,18 +1,3 @@
-<thinking>
-This form is for customers to report out-of-stock orders to the internal team. It is intended to capture relevant information about the customer, their preferred product, and any specific circumstances surrounding the order status. The form ensures that customers can provide their preferred product id and the reason for the order being out of stock. It also captures customer contact information and any additional customer message. 
-
-The form is designed to be completed in a step-by-step manner, allowing customers to enter the required fields in order. 
-
-The form does not require an email address or phone number for customers who do not have one. However, these fields are optional and will help the customer service team get in touch with the customer.
-
-This form will help the customer service team to:
-- Follow up with customers to provide them with alternatives or provide an update on their order status.
-- Ensure customers are aware of the reason for their order not being available.
-- Provide a clear understanding of customer communication preferences.
-- Help the customer service team to manage customer expectations.
-
-</thinking>
-
 # Out Of Stock Order Form - Help Guide
 ## Purpose
 The Out Of Stock Order Form is used to report and track out-of-stock orders from customers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a sweepstakes entry form designed to collect information from participants. The purpose of this form is to gather contact information from users who wish to participate in the sweepstakes. The form is used to verify user identity and ensure that each user can only enter once.
-</thinking>
-
 # Sweepstakes Entry Form - Help Guide
 ## Purpose
 The Sweepstakes Entry Form is a tool to collect information from participants who wish to enter a sweepstakes contest. To complete the form, users will need to fill out their contact details.

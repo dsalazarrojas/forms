@@ -1,7 +1,3 @@
-<thinking> 
-This form is used for a distribution and promotion agreement between two parties. It's essential to fill out this form to ensure that both parties understand the terms of the agreement, which will be used for the distribution and promotion of a product or service. This form is not to be used for other types of agreements or contracts. Ensure that you have the necessary information and permissions before filling out this form. This form is not a substitute for a legal contract, and it's recommended that you seek legal advice before using it. This form is used for internal purposes only, and it's not intended for external use. Please make sure that you're filling out the form for the correct purpose and that it's not a duplication of an existing form. If you're unsure, please reach out to your supervisor or the relevant department for clarification.
-</thinking>
-
 # Distribution And Promotion Agreement Form - Help Guide
 ## Purpose
 The Distribution and Promotion Agreement Form is a document used to establish a contract for the distribution and promotion of a product or service. It's a crucial form that ensures both parties understand the terms of the agreement.

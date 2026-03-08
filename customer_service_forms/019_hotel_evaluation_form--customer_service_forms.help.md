@@ -1,11 +1,3 @@
-<thinking>
-
-This guide will help users complete the hotel evaluation form, which is designed to gather feedback from customers about their stay at a hotel. The form is intended to assess various aspects of the hotel's service, from the quality of the room to the helpfulness of the staff. To ensure that users have a clear understanding of what the form is asking them to evaluate, we will review each field and its purpose.
-
-Before we begin, let's verify that the form is relevant to the task at hand and not a duplication of efforts. The form is meant to collect information about the customer's stay, including their stay date, check-out date, and stay duration. It also includes questions about the hotel's facilities, such as room type, cleanliness, and amenities. Additionally, the form will ask about the customer's experience with the hotel's staff, including customer service, value for money, and their likelihood of returning. This form will help the hotel management identify areas of improvement and provide better services to their customers.
-
-</thinking>
-
 # Hotel Evaluation Form - Help Guide
 ## Purpose
 The hotel evaluation form is designed to help us understand your stay experience at our hotel. Please take a few minutes to complete this form and provide your honest feedback about our facilities and services.

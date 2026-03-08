@@ -1,11 +1,3 @@
-<thinking>
-
-The Client Reporting Checklist form is designed to help consultants and project managers collect data from clients on their reporting period, progress, and satisfaction. The form aims to standardize the reporting process, allowing for efficient and organized tracking of client projects. 
-
-The form has 8 sections, each addressing a specific aspect of the reporting process. Section 1, "report_period", is used to define the reporting period. Section 2, "client_name", and 3, "project_name", are used to capture the client and project name, respectively. Section 4, "report_prepared_by", captures the name and title of the preparer. Section 5, "report_date", records the date of the report. Sections 6-8, "executive_summary", "goals_progress", and "completed_milestones" are used to report key findings, progress, and accomplishments during the reporting period. Sections 9-11, "pending_items", "obstacles_challenges", and "solutions_implemented" are optional sections for reporting pending items, challenges, and solutions. Sections 12-14, "budget_status", "budget_variance_explanation", and "timeline_status" are used to track budget and timeline performance. Section 15, "key_metrics", allows the capture of key performance metrics. Section 16, "client_satisfaction", assesses the client's current satisfaction level. Sections 17, "next_steps", and 18, "additional_notes", are used to capture next steps and additional notes or comments.
-
-</thinking>
-
 # Client Reporting Checklist - Help Guide
 
 ## Purpose

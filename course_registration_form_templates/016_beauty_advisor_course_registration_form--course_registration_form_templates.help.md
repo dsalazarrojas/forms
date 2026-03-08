@@ -1,10 +1,3 @@
-<thinking>
-To confirm, this form is for beauty advisors to register for a course, providing student information, educational background, course preferences, and payment details. The goal is to gather relevant data for course enrollment and ensure that users understand the requirements and options available. This form will be used to collect information from students who are interested in taking a beauty-related course.
-
-Before starting to fill out the form, please make sure to read through all the sections carefully. The form has two main parts: "Student Information," "Course Selection," and "Payment Information." You will be required to fill out all sections marked as "required." 
-
-</thinking>
-
 # Beauty Advisor Course Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from students who are interested in taking a beauty-related course. The form is divided into several sections, including "Student Information," "Course Selection," and "Payment Information." 

@@ -1,13 +1,3 @@
-<thinking>
-The Financial Aid Application Form is used to gather information from students or staff members to apply for financial aid. This form should only be filled out by students or staff members who are eligible to receive financial aid. Please ensure that you have reviewed the eligibility criteria and that this is not a duplicate application.
-
-The form is designed to collect basic information from students or staff members, including their name, financial aid year, financial aid type, financial aid amount, reason for application, student ID, date of birth, and date of application. The form also includes a signature field for official confirmation.
-
-The form is typically filled out in one or multiple pages, depending on the number of required fields. Please review each field carefully to ensure that you are providing accurate and complete information.
-
-The form is not intended for general inquiries or general information gathering, but rather for specific financial aid applications. Please do not use this form for other purposes.
-</thinking>
-
 # Financial Aid Application Form - Help Guide
 ## Purpose
 The Financial Aid Application Form is used to gather information from students or staff members to apply for financial aid.

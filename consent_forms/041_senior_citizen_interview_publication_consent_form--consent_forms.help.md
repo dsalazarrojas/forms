@@ -1,10 +1,3 @@
-<thinking>
-  This form is used to capture the consent of senior citizens for publishing their interview, including their contact details, age, and other relevant information. This form is a crucial document that ensures the individual's privacy and consent are respected. It's essential to ensure that the form is filled out correctly and honestly, as it will be used to determine whether their interview can be published.
-  Before proceeding, please ensure that you have read and understood the purpose of this form and that you are authorized to fill it out on behalf of the senior citizen.
-  Please note that the form should not be filled out more than once for the same individual, to avoid duplication of consent.
-  Ensure that the senior citizen is aware of and consents to the publication of their interview, and that their contact details are accurate and up-to-date.
-</thinking>
-
 # Senior Citizen Interview Publication Consent Form - Help Guide
 ## Purpose
 This form is used to capture the consent of senior citizens for publishing their interview, including their contact details, age, and other relevant information.

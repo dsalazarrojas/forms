@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect client testimonials and advertising releases from customers who have used the company's service. The purpose of this form is to gather authentic and honest feedback from clients, which can be used to build credibility and trust with potential customers. This form helps clients to provide their testimonial, and in return, the company will use this testimonial in marketing materials. 
-
-To ensure that the collected testimonials are genuine and accurate, the form requires clients to confirm that their testimonial is true and accurate. The form also ensures that clients are aware of how their testimonial will be used, and for how long it will be used. By using this form, clients are giving permission for their testimonial to be used in various marketing channels.
-
-The form is not intended to be a duplicate of any other form. It is a one-time request for permission to use the client's testimonial.
-</thinking>
-
 # Client Testimonial Advertising Release Form - Help Guide
 
 ## Purpose

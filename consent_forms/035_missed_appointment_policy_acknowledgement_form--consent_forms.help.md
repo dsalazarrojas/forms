@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Missed Appointment Policy Acknowledgement Form - Help Guide
 
 ## Purpose

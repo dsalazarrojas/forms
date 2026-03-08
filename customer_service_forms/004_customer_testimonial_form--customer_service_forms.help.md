@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-- This form is designed to collect feedback and testimonials from customers about their overall experience with the business. 
-- The form is not mandatory, and it is intended to help improve customer satisfaction and provide valuable insights for the company.
-- It is likely used by the customer support team to address any issues and improve the overall customer experience.
-- The form fields should be explained to prevent any confusion and ensure that customers understand what information to provide.
-</thinking>
-
 # Customer Testimonial Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and testimonials from customers about their overall experience with the business.

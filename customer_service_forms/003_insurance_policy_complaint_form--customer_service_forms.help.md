@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to submit a complaint about their insurance policy. It allows them to select whether they have a service form, provide a description of their issue, choose the type of complaint, and enter their policy number and contact information. This form is likely used by customer service teams to address and resolve issues efficiently.
-</thinking>
-
 # Insurance Policy Complaint Form - Help Guide
 
 ## Purpose

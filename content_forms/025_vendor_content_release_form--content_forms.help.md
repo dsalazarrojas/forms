@@ -1,5 +1,3 @@
-<thinking>This form, "Vendor Content Release Form", is meant to gather information from vendors about their content and how it will be used or distributed. The form is likely used to collect data for marketing, sales, or internal purposes, such as tracking the type of content a vendor has shared with the company or the channels through which it will be distributed. The form might also be used to verify the accuracy of the information shared by the vendor, ensuring that the company has all necessary permissions before releasing or using the content. The form's design and fields might vary depending on the company's specific requirements and use cases.</thinking>
-
 # Vendor Content Release Form - Help Guide
 ## Purpose
 The "Vendor Content Release Form" is used to collect information from vendors about their content and its intended use or distribution.

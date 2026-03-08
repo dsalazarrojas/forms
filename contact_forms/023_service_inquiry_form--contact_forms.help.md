@@ -1,22 +1,3 @@
-<thinking>
-This form is meant to gather information from users about their service inquiries, which will help our support team better understand their requests and provide a more efficient service. The form is designed to collect the most relevant information about the user's service type, contact details, and any additional information they might want to provide.
-
-To complete this form, the user should:
-
-1. Select the type of service they are inquiring about from the options provided.
-2. Enter their name and email address, which will be used to contact them.
-3. Enter their phone number.
-4. Provide a brief message describing their inquiry.
-5. Optionally, add any additional information they might want to provide.
-6. If they have selected a service type, they can also select any additional services they are interested in.
-7. Submit the form to send their inquiry to the support team.
-
-Before filling out the form, we recommend that users carefully review the available options to ensure they select the correct service type and any additional services they might be interested in. This will help us better understand their requirements and provide a more accurate quote or service.
-
-This form is designed to be completed in a few minutes, and we will respond to their inquiry as soon as possible after receiving it.
-
-</thinking>
-
 # Service Inquiry Form - Help Guide
 ## Purpose
 The Service Inquiry Form is designed to collect information from users about their service inquiries, which will be used to provide a more efficient service.

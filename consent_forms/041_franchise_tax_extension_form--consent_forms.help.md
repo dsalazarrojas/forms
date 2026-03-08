@@ -1,11 +1,3 @@
-<thinking>
-
-Franchise Tax Extension Form is used to request an extension of the franchise tax period. The form is submitted by entities with a valid reason for the extension and is usually reviewed and approved by a relevant department or authority before it is processed. The form helps track and maintain the status of such requests.
-
-To prevent duplicate requests, entities must not submit multiple extensions for the same period.
-
-</thinking>
-
 # Franchise Tax Extension Form - Help Guide
 ## Purpose
 The purpose of this form is to request an extension of the franchise tax period for an entity. It helps in tracking and maintaining the status of such requests.

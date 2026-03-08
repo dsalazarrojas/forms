@@ -1,14 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the Purple Contact Form. This form is designed to collect customer feedback, concerns, or questions from customers. It's meant to be a simple and intuitive way to gather information from customers without requiring extensive knowledge of our internal systems. We aim to make it easy for customers to reach out to us, and for our agents to process and respond to their queries efficiently.
-
-To ensure this form is used correctly and consistently, it's essential to have clear guidance on its purpose, usage, and field explanations.
-
-The form's main purpose is to collect customer contact information and provide a channel for them to reach out to us. By using this form, customers can share their thoughts, concerns, or questions, and our agents will be able to respond and resolve any issues they may have.
-
-In this guide, we'll walk you through each page and field of the form, explaining what each does and how to complete it.
-
-</thinking>
-
 # Purple Contact Form - Help Guide
 ## Purpose
 The Purple Contact Form is a tool for customers to share their thoughts, concerns, or questions with us. It's meant to be a simple and user-friendly way for them to get in touch and for our agents to process and respond to their queries efficiently.

@@ -1,11 +1,3 @@
-<thinking>
-The form is intended for individuals or institutions to provide consent for participating in or collaborating with a global health research partnership. This form is likely used to ensure that all parties involved are aware of and agree to the terms and conditions of the partnership, including the handling of personal data and the use of research materials. This form is probably used by research institutions, universities, or private companies working on health-related projects.
-
-The form should not be filled out in duplicate, as each instance of the form should be a new agreement between the parties involved. Each field should be filled out with accurate and up-to-date information to ensure the agreement is valid.
-
-The purpose of this form is to establish a clear understanding of the terms of the partnership, including the scope of work, responsibilities, and expectations. By filling out this form, all parties involved can confirm their consent to the partnership and avoid potential disputes in the future.
-</thinking>
-
 # global_health_research_partnership_consent - Help Guide
 ## Purpose
 This form is used to establish a partnership between an individual or institution and a global health research collaboration. It is essential to fill out this form carefully and accurately to ensure that all parties involved are aware of and agree to the terms and conditions of the partnership.

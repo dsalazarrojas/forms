@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a patient's testing experience, including details about the test itself, the contact person, and any results or follow-up information. It is meant to be used in a healthcare setting, such as a hospital or clinic, where patients may be undergoing tests for COVID-19.
-
-Before filling out this form, please ensure that you are filling it out for a relevant purpose and that you are not duplicating an effort already completed.
-
-</thinking>
-
 # Covid Testing Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's COVID-19 testing experience.

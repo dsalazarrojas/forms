@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interaction History Form - Help Guide
 
 ## Purpose

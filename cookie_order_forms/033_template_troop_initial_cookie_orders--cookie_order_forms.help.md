@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting template troop initial cookie orders, a critical step in preparing for the troop's annual event. The form is designed to gather basic contact information (name and email) and scheduling details (date, time), as well as notes and preferences. This guide will walk you through the process of filling out the form accurately.
-</thinking>
-
 # Template Troop Initial Cookie Orders - Help Guide
 ## Purpose
 The Template Troop Initial Cookie Orders form is used to collect information for the troop's annual event preparations. This includes basic contact details and scheduling requirements for the event.

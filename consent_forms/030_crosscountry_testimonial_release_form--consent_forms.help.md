@@ -1,9 +1,3 @@
-<thinking>
-This form was created to gather testimonials from users, allowing us to understand their experiences with our services. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI.
-
-The form is used to collect information from users who want to share their positive experiences with our services. It's a one-page form that consists of five fields. To ensure that you complete the form correctly and accurately, please follow the instructions below.
-</thinking>
-
 # Crosscountry Testimonial Release Form - Help Guide
 
 ## Purpose

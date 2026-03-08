@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect contact information from users, likely for business or organizational purposes. The form will likely be used to gather data for a specific project or initiative. It's essential to review the form's purpose and ensure that it's not being used for other non-related tasks. The form fields are designed to collect a combination of personal contact information, promotional preferences, and agreements. Each field has a specific purpose and should be filled out accordingly. 
-</thinking>
-
 # easy_contact_form - Help Guide
 ## Purpose
 This guide will walk you through the "easy_contact_form" to help you understand its purpose and how to fill it out correctly.

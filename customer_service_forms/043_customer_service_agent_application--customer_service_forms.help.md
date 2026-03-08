@@ -1,11 +1,3 @@
-<thinking>
-  This help guide is intended for customers who will be completing the customer service agent application form. This form is designed to collect information about potential customers interested in becoming a customer service agent. The form is used to ensure that the customer service agent meets the necessary requirements to provide top-notch service to our customers. The form will be used to determine the suitability of the individual for the position and to schedule an interview or assessment if they pass the initial evaluation.
-  Please take a moment to review this guide carefully before completing the form to ensure you provide accurate and complete information.
-  Please do not submit duplicate applications. Each form submission will be reviewed individually.
-  Please ensure that all required fields are completed accurately and thoroughly.
-  This form is not intended for use by existing customers or current customer service agents.
-</thinking>
-
 # customer_service_agent_application - Help Guide
 ## Purpose
 The purpose of this form is to collect information about potential customers interested in becoming a customer service agent. The form is used to determine the suitability of the individual for the position and to schedule an interview or assessment if they pass the initial evaluation.

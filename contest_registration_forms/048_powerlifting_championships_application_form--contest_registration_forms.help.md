@@ -1,10 +1,3 @@
-<thinking>
-This form is a contest registration form for powerlifting championships. It appears to be designed for registrants to provide their personal and contact information, as well as their body measures, in order to participate in the championship. The fields are mostly text or number types, which suggests that the form is not collecting sensitive or complex data. Given the lack of hints, it seems that the form is self-explanatory, but I will provide clear and concise explanations for each field in the help guide.
-
-The form has 7 fields, which should be enough for a basic registration process. However, it is essential to review the form's purpose and fields carefully to ensure that it is not intended for more complex or sensitive data collection.
-
-Upon further review, the form seems to be a straightforward registration form, so I will proceed with creating the help guide.</thinking>
-
 # powerlifting_championships_application_form - Help Guide
 
 ## Purpose

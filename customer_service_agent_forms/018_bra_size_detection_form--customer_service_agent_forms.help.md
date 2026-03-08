@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers to help provide personalized bra size recommendations, taking into account their physical characteristics, preferences, and lifestyle. The goal is to ensure that customers receive the most suitable bra size and style based on their unique needs. This form is meant to be a one-time submission, and customers can expect to receive tailored size and style suggestions after filling it out.
-
-Before proceeding, please note that this form is not intended to replace professional bra fittings or in-person consultations. If you have any concerns or questions, it's always best to consult a trained bra fitter or healthcare professional.
-
-</thinking>
-
 # Bra Size Detection Form - Help Guide
 ## Purpose
 The Bra Size Detection Form is designed to collect information from customers to provide personalized bra size recommendations based on their physical characteristics, preferences, and lifestyle.

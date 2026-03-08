@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for pest control services. The form will be used to gather the type of pest, services needed, service area, customer information, and contact details. This form will likely be used by pest control professionals to provide a quote to the customer. The fields should be straightforward and easy to understand, with no redundancy or duplication of similar fields. The form should also be user-friendly, with clear labels and options that are descriptive and non-repetitive.
-</thinking>
-
 # Pest Control Quote Form - Help Guide
 
 ## Purpose

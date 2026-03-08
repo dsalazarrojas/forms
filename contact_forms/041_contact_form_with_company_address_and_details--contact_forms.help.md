@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect contact information from visitors, enabling the company to receive inquiries, requests, or feedback. This form is likely used for customer support, sales, or general inquiries. Please make sure to fill out the form accurately to help us serve you better.
-
-</thinking>
-
 # Contact Form With Company Address And Details - Help Guide
 ## Purpose
 This form is designed to collect contact information from visitors to facilitate communication between the company and the users.

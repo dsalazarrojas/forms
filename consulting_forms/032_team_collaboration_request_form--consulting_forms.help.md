@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from team members when they need to collaborate on a project or task. This form is used to request resources such as team lead support, project manager support, or project team support. The form also collects details about the collaboration, including the date, start and end times, and any notes or comments. Before filling out this form, please ensure that you have checked with your team lead/project manager to see if your request is necessary. This form is not meant to be used for general requests, only for specific collaboration requests.
-</thinking>
-
 # Team Collaboration Request Form - Help Guide
 ## Purpose
 The Team Collaboration Request Form is a tool used to request support and resources from team members when working on a project or task that requires collaboration.

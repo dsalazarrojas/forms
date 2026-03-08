@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_blog_post_entry_form - Help Guide
 
 ## Purpose

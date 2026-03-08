@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather user's consent to receive notifications and updates from the digital app. This form ensures that the user has given explicit consent to receive notifications through various channels such as email, SMS, phone, and WhatsApp. The form also captures the user's name, email address, phone number, notification channels, and notification frequency preferences. This form will help the application understand the user's preferences and communicate with them effectively.
-</thinking>
-
 # digital_app_notification_consent_form - Help Guide
 ## Purpose
 The digital app notification consent form is designed to collect user's consent to receive notifications and updates from the digital app. This form is used to understand the user's preferences for communication and ensure that they are informed about any updates or notifications.

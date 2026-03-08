@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently to report COVID-19 test results. This form is intended for submitting test results for COVID-19 diagnosis. To prevent duplication and ensure accurate data collection, please verify that the submitted data is correct and up-to-date. This form is only for reporting test results, not for reporting symptoms or other types of health information. Before submitting, make sure to fill out all required fields accurately and truthfully. This will help us to process the data efficiently and effectively. 
-
-</thinking>
-
 # COVID 19 Test Result Submission Form - Help Guide
 ## Purpose
 This form is for submitting COVID-19 test results for diagnosis. It is used to collect accurate and consistent data for reporting test results.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for this form to ensure end users understand its purpose, how to complete it, and what each field means. The form is for collecting feedback from donors about their experience with the Donor Program. We will check for duplication and non-relevance of feedback to ensure that users only provide useful and unique insights. 
-</thinking>
-
 # Donor Program Feedback Consent Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking> 
-
-This form was designed to assist in the estimation of roll shutter projects. It is intended for use by construction professionals who need to collect information about a client's project. The form has multiple pages that guide the user through different sections of the project, including project information, house details, and other relevant data. This form is not intended for general public use and is specific to construction project estimation.
-
-</thinking>
-
 # Roll Shutter Estimation Form - Help Guide
 ## Purpose
 The Roll Shutter Estimation Form is a tool for construction professionals to collect and organize information about a roll shutter project. This form helps to ensure accuracy and thoroughness in the estimation process.

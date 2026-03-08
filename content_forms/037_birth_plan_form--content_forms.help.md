@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help expecting mothers or their partners document their personal preferences and wishes for their childbirth experience. This includes details about their healthcare provider, birth location, labor and delivery preferences, newborn care, and postpartum care. The form is intended to facilitate open communication with the healthcare team to ensure that the individual's needs and expectations are understood and respected during the childbirth process.
-</thinking>
-
 # Birth Plan Form - Help Guide
 ## Purpose
 This guide is to help you complete the Birth Plan Form to document your preferences and wishes for your childbirth experience.

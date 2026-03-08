@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Kybella Consent Form, I first need to understand the purpose and requirements of the form. Based on the provided YAML, the form appears to be a basic form for collecting personal information and preferences from users. The purpose of this form is likely to be used for administrative or operational purposes, such as onboarding new users or tracking contact information. There is no indication that this form is for sensitive or regulated data collection, so there are likely no specific compliance requirements. I will focus on creating a clear and concise guide for end users.
-
-I will review the fields and labels, assuming that they are self-explanatory or need some clarification. I will use the labels and hints to inform my explanation and provide a plain language guide without over-justifying or inventing unsupported business logic.
-
-</thinking>
-
 # Kybella Consent Form - Help Guide
 ## Purpose
 The Kybella Consent Form is used to collect personal information and preferences from users. This form is likely used for onboarding new users or tracking contact information.

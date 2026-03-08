@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Editable Client Consultation Form - Help Guide
 ## Purpose
 The Editable Client Consultation Form is a tool used to collect relevant information from clients during a consultation. The form helps the healthcare provider to understand the client's medical history, current medications, allergies, and other important details that may impact their treatment. The information gathered through this form will aid the provider in making informed decisions and providing tailored care to the client.

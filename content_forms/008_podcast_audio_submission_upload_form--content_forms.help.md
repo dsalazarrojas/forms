@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to submit and manage podcast audio content. Before filling out this form, please make sure you're the correct person to submit this content and that it doesn't already exist in the system. This form guides you through the steps to submit your podcast content.
-
-</thinking>
-
 # Podcast Audio Submission Upload Form - Help Guide
 ## Purpose
 This form is used to submit and manage podcast audio content. It's intended for users who want to upload and share their podcast episodes.

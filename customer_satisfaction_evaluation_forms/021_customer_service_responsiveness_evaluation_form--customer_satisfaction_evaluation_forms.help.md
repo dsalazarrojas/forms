@@ -1,15 +1,3 @@
-<thinking>
-
-To create an effective help guide for the Customer Service Responsiveness Evaluation Form, let's first consider the internal reasoning and context behind the form's purpose. 
-
-The form appears to be designed to gauge customers' satisfaction with the responsiveness of the customer service team. It seems to be used to measure the quality of service provided by the team, covering various aspects such as time taken to respond, satisfaction levels, and responsiveness. The form likely serves as a tool for the company to evaluate its customer service performance and identify areas for improvement.
-
-The form collects data through a series of questions that ask customers to rate their experiences. These questions cover the time taken to respond, the quality of responses, and the overall satisfaction levels. The data collected will help the company refine its customer service strategies, possibly making adjustments to improve the quality of service provided.
-
-Given the context, the form appears to be a crucial tool for customer service evaluation and improvement, helping the company make data-driven decisions to better cater to customer needs. 
-
-</thinking>
-
 # Customer Service Responsiveness Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on customer service responsiveness from customers, helping us evaluate the quality of our customer service and identify areas for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the booking of consulting services for clients. The form asks for basic contact information, preferences for the consultation session, and details about the consultation itself. The main objective is to collect data that will enable the consultant to prepare for the meeting and tailor the session to the client's needs. To ensure accuracy, it's essential to carefully fill out the form, paying close attention to each field. If the client has any prior experience with the consultant or organization, it's recommended to check the "Are You a Previous Client" field correctly. Lastly, the form will ask for acknowledgement of the cancellation policy to avoid any confusion or misunderstandings.
-
-</thinking>
-
 # Consultant Booking System - Help Guide
 
 ## Purpose

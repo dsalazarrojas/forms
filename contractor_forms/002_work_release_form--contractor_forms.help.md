@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed for a contractor's work release form, which is typically used to document an employee's return to work or leave of absence due to an injury or medical reason. This form is often completed by the employee to notify their employer of the circumstances surrounding their return, and to facilitate a clear and smooth transition back into their work routine.
-
-In this form, employees can enter their employer's and their own information (name, job title, etc.), as well as the dates of their work start and end, and provide the reason for their work release. They are also expected to provide a space for their signature, as well as the signature and name of a healthcare professional who may have been involved in their care.
-
-The purpose of this form is to ensure that employees are able to provide accurate and timely information to their employer regarding their work status and any potential medical issues that may impact their ability to perform their job duties. It also serves as a record of their employment status and any necessary accommodations that may be required to facilitate a safe return to work.
-
-</thinking>
-
 # Work Release Form - Help Guide
 ## Purpose
 This form is used to document an employee's return to work or leave of absence due to an injury or medical reason. It provides a clear and concise way for employees to communicate with their employer about their work status and any necessary medical accommodations.

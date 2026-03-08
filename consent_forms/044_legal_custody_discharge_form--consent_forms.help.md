@@ -1,12 +1,3 @@
-<thinking>
-This form is used to document the discharge of legal custody responsibilities. It is meant for use in situations where a parent or guardian is relinquishing custody of a minor child. The purpose of this form is to provide a clear and concise way to record the necessary information for the discharge process.
-
-This form may not be suitable for all situations and jurisdictions. Consult with a legal professional before using this form.
-
-Before filling out this form, please ensure that you are in a location where the child's information will remain private and secure.
-
-</thinking>
-
 # Legal Custody Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge of legal custody responsibilities, providing a clear and concise way to record the necessary information for the process.

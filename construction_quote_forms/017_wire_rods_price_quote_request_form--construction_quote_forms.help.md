@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a request for a price quote for wire rods, likely used in a construction context. The form likely aims to gather specific details from the customer to provide an accurate quote for the requested product. The form fields include details such as product type, width, length, material, quantity, and delivery information, as well as user metadata for tracking and analytics purposes. This form's structure suggests it's part of a larger workflow, possibly integrated with other forms or systems that handle order processing and fulfillment.</thinking>
-
 # Wire Rods Price Quote Request Form - Help Guide
 ## Purpose
 This form is used to request a price quote for wire rods. Please fill out the form with your details to ensure that we provide an accurate quote for your needs.

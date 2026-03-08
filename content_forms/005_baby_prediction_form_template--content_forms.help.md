@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baby Prediction Form Template - Help Guide
 
 ## Purpose

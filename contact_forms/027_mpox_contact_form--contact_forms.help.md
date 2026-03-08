@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in understanding the Mpox Contact Form's purpose and how to complete it effectively. The form's primary goal is to gather essential information from users who have had contact with the Mpox virus, allowing for efficient tracking and handling of potential cases. This information will be used to aid healthcare professionals in identifying patterns and providing necessary assistance.
-
-Before proceeding, please note that this form is designed to collect sensitive and personal data. Ensure you are filling it out for the right purpose and have the necessary consent from the affected individuals.
-
-</thinking>
-
 # Mpox Contact Form - Help Guide
 ## Purpose
 The Mpox Contact Form is a tool to collect information from individuals who have had contact with Mpox, a virus that has gained attention due to recent outbreaks. Your responses will help health professionals understand how the virus spreads and provide better support.

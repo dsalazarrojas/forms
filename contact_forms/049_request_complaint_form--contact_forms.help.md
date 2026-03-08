@@ -1,9 +1,3 @@
-<thinking>
-To ensure the form is used correctly and effectively, it is essential to understand its purpose and how to complete each field. This form is for requesting a complaint and allows users to submit their feedback and concerns in a clear and concise manner. To prevent duplication and ensure that each complaint is handled separately, we recommend checking the form before submission and not re-submitting a complaint that has already been resolved.
-
-Before using this form, please ensure that you have read our complaint handling policy and procedures to understand the expected turnaround time and process for addressing your complaint.
-</thinking>
-
 # Request Complaint Form - Help Guide
 
 ## Purpose

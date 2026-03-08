@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to capture information from participants in the Nutrition Science Awareness Campaign, including their personal details (name, email, phone number), and demographic information (date, time, note). The form also includes an informed consent field to ensure that participants are aware of the campaign's terms and conditions. The form is designed to be filled out by participants on their own, without any assistance from administrators or other users. This form is not meant to be a complex or lengthy document, and participants are expected to fill it out quickly and accurately. There is no duplication or overlap with other forms, and this form is meant to be a standalone collection of information from participants in the campaign.
-
-</thinking>
-
 # Nutrition Science Awareness Campaign Consent Form - Help Guide
 
 ## Purpose

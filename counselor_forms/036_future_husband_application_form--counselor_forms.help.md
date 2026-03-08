@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about an individual's future husband, gathering data on their personal preferences, habits, and characteristics. This form is likely used in a humorous or satirical context, as questions like "favorite food" and "favorite color" are typically not found on a real-life marriage application form. However, for the sake of this exercise, we'll assume it's a tongue-in-cheek form meant to showcase a person's personality and interests.
-</thinking>
-
 # Future Husband Application Form - Help Guide
 
 ## Purpose

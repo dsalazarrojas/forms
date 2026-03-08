@@ -1,7 +1,3 @@
-<thinking>
-To check if this form is being completed correctly, we'll need to confirm that the form is being used to collect information about job completion, and that it's not being used for any other purpose. This includes confirming that each required field is being filled out correctly, and that the job type options are being used correctly. Additionally, we should confirm that the form is not being used for any other type of form that requires the same fields.
-</thinking>
-
 # Job Completion Form Template - Help Guide
 ## Purpose
 The job completion form template is used to collect information about completed jobs from contractors and staff. This form is designed to capture details about the job, including the job title, dates, hours worked, job notes, employer information, and job type.

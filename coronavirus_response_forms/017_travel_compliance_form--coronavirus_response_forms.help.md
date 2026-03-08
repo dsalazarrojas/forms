@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from travelers about their travel history, travel reason, travel dates, travel location, travel duration, return location, travel documents, travel status, and other relevant information. The form is likely used in a business or organizational setting to track and verify the compliance of employees or individuals traveling for work-related purposes. The purpose of this guide is to help users understand the requirements and fill out the form correctly.
-</thinking>
-
 # Travel Compliance Form - Help Guide
 ## Purpose
 The Travel Compliance Form is a document used to collect information about an individual's travel history, travel reason, travel dates, travel location, travel duration, return location, and travel documents, among other details. This form is likely used in a business or organizational setting to ensure compliance with travel policies.

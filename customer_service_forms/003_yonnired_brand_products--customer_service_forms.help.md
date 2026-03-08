@@ -1,8 +1,3 @@
-<thinking> 
-This form is part of an e-commerce platform, and its purpose is to facilitate customer service interactions. The form is likely used by customer support teams to gather information from customers and address their queries. The form is designed to be filled out by customers to provide their details for support, and it may be used for various support scenarios such as returns, exchanges, or refunds. 
-
-Given the multiple "Customer Service Fields" and "Payment Details" fields, it seems that this form might be used for different customer support scenarios such as order-related issues. This form does not appear to have any unique or sensitive fields, so it is most likely for general customer service purposes.</thinking>
-
 # yonnired_brand_products--customer_service_forms - Help Guide
 ## Purpose
 This form is used for customer service interactions, and customers can fill it out to provide their details for support.

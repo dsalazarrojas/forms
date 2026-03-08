@@ -1,12 +1,4 @@
-> <thinking>
-This help guide is intended for the Communication Assessment form, which is used to evaluate a client's ability to communicate effectively. The purpose of this form is to gather information about the client's communication skills and provide a comprehensive assessment of their abilities.
-This assessment is typically conducted by a trained assessor, who will be asked to provide their professional credentials. The assessment date and client information are required fields, indicating that these fields are essential for the purpose of the form. The client's name, age, and ID number are also required, as this information is necessary for accurate identification and assessment.
-The form is divided into two main sections: Assessment Information and Client Information. The Assessment Information section captures details about the assessment, including the assessor's name and credentials, the assessment date, and the primary reason for the assessment. The Client Information section gathers personal details about the client, such as their name, age, and identification number.
-The form also assesses various aspects of the client's communication skills, including their receptive and expressive language, vocabulary use, sentence structure, articulation, social communication, eye contact, turn-taking, topic maintenance, pragmatic skills, fluency, and stuttering presence. Each of these sections includes multiple-choice options to evaluate the client's abilities in each area.
-The overall impression and recommended next steps or interventions are also required fields, indicating that the assessor should provide a summary of their assessment and suggest further actions or services that may be necessary.
-</thinking>
-
-# Communication Assessment - Help Guide
+> # Communication Assessment - Help Guide
 ## Purpose
 The Communication Assessment form is used to evaluate a client's ability to communicate effectively. This form is typically completed by a trained assessor, who will provide their professional credentials and assess the client's communication skills.
 

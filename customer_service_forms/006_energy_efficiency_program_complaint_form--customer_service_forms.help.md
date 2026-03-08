@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer complaints regarding the Energy Efficiency Program, allowing for prompt resolution and efficient issue handling. This form ensures that all relevant information is captured, enabling the customer service team to address the issue promptly and effectively. To avoid duplicate complaints, ensure that each complaint is unique and not submitted multiple times.
-</thinking>
-
 # Energy Efficiency Program Complaint Form - Help Guide
 ## Purpose
 The Energy Efficiency Program Complaint Form is used to collect and document customer complaints, ensuring that they are resolved efficiently and effectively.

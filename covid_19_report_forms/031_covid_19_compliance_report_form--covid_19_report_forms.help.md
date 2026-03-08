@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a compliance report for healthcare facilities to track their COVID-19 vaccination rates and other related metrics. This form should be used by healthcare facilities to report their compliance with vaccination mandates. To ensure the form is completed accurately, it is recommended that each facility only complete this form for their own facility. If a facility has completed this form before, please check if any changes have been made since the previous submission. Ensure that all required fields are filled in completely and accurately.
-</thinking>
-
 # COVID 19 Compliance Report Form - Help Guide
 ## Purpose
 This form is a compliance report for healthcare facilities to track their COVID-19 vaccination rates and other related metrics.

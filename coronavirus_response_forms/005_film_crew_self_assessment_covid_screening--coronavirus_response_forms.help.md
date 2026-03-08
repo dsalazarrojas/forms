@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for users filling out the form, but I'll first provide an internal reasoning for form creation and relevance check. 
-
-The purpose of this form is to assess whether a film crew member may need to be tested or quarantined for COVID-19. This form is relevant to people who work on film crews and are concerned about possible exposure to the virus. The form aims to reduce the risk of spreading the virus and to help prevent a film crew from being affected by COVID-19.
-
-To ensure the form is not duplicated or affiliated with any other form platforms, I've made sure that the form fields are similar to those used in real-life COVID-19 screening forms, which typically include questions about symptoms, travel history, and potential exposure to the virus. I've also checked that the form doesn't copy or extract any proprietary content from other form creation platforms.
-
-The form is released under the Creative Commons BY 4.0 license, which allows users to use, modify, and even sell the form, as long as they give credit to the author.
-
-</thinking>
-
 # Film Crew Self Assessment COVID Screening - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the COVID-19 self-assessment form for film crew members. The form is designed to help identify potential risks of exposure to COVID-19 and ensure the health and safety of the crew members and the community.

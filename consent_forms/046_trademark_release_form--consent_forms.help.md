@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Trademark Release Form is to obtain permission from the trademark owner to use their trademark. This form is used when the trademark owner grants permission to use their trademark, providing details of the agreement, such as the date the permission was issued, the term of the agreement, and other relevant information.
-
-The form should only be used for specific, legitimate purposes and not for general, non-authorized use of trademarks. Please ensure you only fill out this form with accurate and truthful information.
-
-</thinking>
-
 # Trademark Release Form - Help Guide
 ## Purpose
 The Trademark Release Form is used to obtain permission from the trademark owner to use their trademark. This form provides details of the agreement, including the date the permission was issued, the term of the agreement, and other relevant information.

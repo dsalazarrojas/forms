@@ -1,8 +1,3 @@
-<thinking>
-This is a help guide for the "Competition Entry Form", which is used to register entries for a competition. The form is designed to collect information from entrants, including their name, email address, category, entry title, and payment details. This form is intended to be completed by individuals or groups participating in the competition. Please ensure that you have not registered for this competition before, as duplicate entries will not be accepted.
-
-</thinking>
-
 # Competition Entry Form - Help Guide
 ## Purpose
 The Competition Entry Form is a registration form for individuals or groups to submit their entries for a competition. To complete this form, follow the instructions below.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faith Based Youth Media Production Consent Form - Help Guide
 ## Purpose
 The Faith Based Youth Media Production Consent Form is designed to gather necessary information and consent from participants in youth media production projects. This form ensures that both participants and their parents or guardians understand their roles and responsibilities in the project, as well as provide consent for their media representation. 

@@ -1,7 +1,3 @@
-<thinking>
-This form, "Resident Satisfaction Survey Template", is designed to gauge resident satisfaction with their living community, with the primary goal of understanding resident needs and experiences to improve community living conditions. Its primary purpose is to elicit honest feedback from residents on various aspects of the community. The form asks residents to express their opinions and suggestions, ensuring their voices are heard and considered for community development.
-</thinking>
-
 # Resident Satisfaction Survey Template - Help Guide
 ## Purpose
 This survey template is a tool for community management to understand resident satisfaction and opinions. It's meant to be a quick and easy way for residents to share their experiences, thoughts, and suggestions.

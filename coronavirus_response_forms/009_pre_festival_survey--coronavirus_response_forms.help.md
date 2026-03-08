@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Pre Festival Survey" form. This guide will provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means. I will use the provided YAML fields as a reference to create the guide.</thinking>
-
 # Pre Festival Survey - Help Guide
 ## Purpose
 The Pre Festival Survey is designed to gather information from participants and attendees of the festival to ensure their health and safety. This form is intended to identify potential risks and take necessary measures to prevent the spread of infectious diseases. Your cooperation is essential in helping us protect you and our staff. Please note that your answers will be kept confidential and will not be shared with anyone without your explicit permission.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information for order revisions, likely for customers or clients who need to modify or cancel their existing orders. The purpose of this form is to gather relevant details for the revision process, such as the reason for the revision, the date of the revision, and any additional notes or comments. The form is designed to be completed by the customer or client, and the information collected will be used by the order revision team to process the request.
-
-</thinking>
-
 # order_revision_form - Help Guide
 ## Purpose
 The "Order Revision Form" is used to collect information for order revisions, enabling the order revision team to efficiently process and address requests from customers or clients.

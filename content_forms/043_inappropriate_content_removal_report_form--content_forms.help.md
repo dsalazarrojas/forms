@@ -1,11 +1,3 @@
-<thinking>
-To ensure that the Inappropriate Content Removal Report Form is used correctly and efficiently, let's review its purpose and requirements. This form is designed to report inappopriate content on a platform, whether it's an image, video, audio, or other types of content. The form helps moderators, administrators, and reviewers identify and address such content by providing detailed information about the reported content, the user who reported it, and the action taken.
-
-When filling out this form, please make sure to only submit a report for a specific piece of content. Do not submit duplicate reports for the same content.
-
-Before filling out this form, please ensure you have the necessary permissions and are familiar with the platform's guidelines and policies.
-</thinking>
-
 # Inappropriate Content Removal Report Form - Help Guide
 ## Purpose
 The Inappropriate Content Removal Report Form is used to report inappopriate content on a platform, allowing moderators, administrators, and reviewers to identify and address such content.

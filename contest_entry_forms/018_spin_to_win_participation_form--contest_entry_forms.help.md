@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for participants to submit their information and status updates for the "Spin to Win" contest. The purpose of this form is to collect data on user participation, which will be used to manage and track the progress of the contest. Each field is designed to gather specific information about the participant, such as contact details, participation status, and eligibility.
-
-To ensure accurate and complete data collection, please review each field carefully and enter the requested information.
-
-</thinking>
-
 # spin_to_win_participation_form - Help Guide
 ## Purpose
 The "Spin to Win" participation form is used to collect information from participants in the contest. This form helps us track the progress and status of participants.

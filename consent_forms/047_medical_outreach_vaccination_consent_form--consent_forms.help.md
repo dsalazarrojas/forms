@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their medical history, contact details, and vaccination status. This form is intended for outreach vaccination programs to ensure that patients are fully informed and willing to participate in the program. Before filling out this form, please ensure that you have not previously submitted this information to avoid duplication. 
-</thinking>
-
 # Medical Outreach Vaccination Consent Form - Help Guide
 ## Purpose
 This form is used to collect patient information for outreach vaccination programs. It includes fields for patient details, medical history, contact information, and vaccination status.

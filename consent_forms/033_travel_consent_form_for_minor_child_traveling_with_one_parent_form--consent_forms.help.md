@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for parents or guardians to provide travel information and consent for their minor child to travel with one parent. The form is used to gather essential details about the child's travel plans, including their destination, travel dates, travel frequency, and contact information. This information is vital to ensure the child's safety and well-being during travel.
-
-The form is intended for use by parents or guardians who are responsible for the child's care and well-being. It is not intended for use by the child themselves, as the form deals with sensitive information and requires adult consent.
-
-Before filling out the form, please ensure you have the necessary information and authorization to provide on behalf of the child.
-
-</thinking>
-
 # travel_consent_form_for_minor_child_traveling_with_one_parent_form - Help Guide
 ## Purpose
 This form is designed to gather essential information and obtain consent for a minor child's travel with one parent. The form is intended for use by parents or guardians who are responsible for the child's care and well-being.

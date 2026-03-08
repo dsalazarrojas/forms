@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to solicit feedback from customers about the features and overall experience of our loyalty program. The purpose of this form is to gather data on customer satisfaction, program fulfillment, and potential improvements. This form is intended for customers who have interacted with our loyalty program.
-</thinking>
-
 # Loyalty Program Features Feedback Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to gather your feedback on our loyalty program features and overall experience. Your input will help us understand how we're doing and identify areas of improvement.

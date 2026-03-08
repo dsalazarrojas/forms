@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to collect feedback from students who have attended the Women's Self Defense Course. This feedback will help instructors and course administrators evaluate the effectiveness of the course, identify areas for improvement, and make necessary adjustments to the course curriculum and teaching methods.
-
-To avoid duplication of effort, please only submit feedback on one session per form. If you have attended multiple sessions, please fill out a separate form for each session.
-
-This form should be filled out by students who have recently attended the course and are willing to provide honest feedback on their experience.
-
-</thinking>
-
 # Women's Self Defense Course Feedback - Help Guide
 
 ## Purpose

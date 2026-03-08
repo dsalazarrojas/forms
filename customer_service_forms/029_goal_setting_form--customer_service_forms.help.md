@@ -1,11 +1,3 @@
-<thinking>
-
-This form is likely used for setting and tracking goals, especially those related to time-bound objectives with a specific start and end date. It appears to be designed for users to set and monitor progress on multiple goals, with some fields asking for comments or status updates. The presence of "actual" fields suggests that users may be tracking progress over time, rather than just setting goals. This form could be used by project managers, team leaders, or individuals who need to track goals and progress for various projects or initiatives.
-
-This form is not designed to be completed by multiple users simultaneously, as only one person can be the primary goal setter. If multiple people are involved in goal setting, it's likely this form will be duplicated with different fields for different users.
-
-</thinking>
-
 # Goal Setting Form - Help Guide
 ## Purpose
 This form is used to set and track goals, especially those with a specific start and end date.

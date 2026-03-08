@@ -1,11 +1,3 @@
-<thinking>
-This form is used for creators to submit their content for review and publication on the platform. It collects information about the creator, their content, and the submission process. Submissions will be reviewed and considered for publication, and the creator will be contacted for further information or clarification as needed. Note that the form is a required step for content submission and cannot be skipped.
-
-By submitting this form, creators grant the platform rights to publish their content, and confirm that they have the right to do so. The form helps us to ensure that the submitted content is accurate, consistent, and meets the platform's standards.
-
-To help ensure consistency and accuracy in submissions, this form should only be completed once per piece of content.
-</thinking>
-
 # BDSM Content Submission Form - Help Guide
 ## Purpose
 The BDSM Content Submission Form is used to collect information from creators about their content for review and publication on the platform.

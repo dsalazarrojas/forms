@@ -1,11 +1,3 @@
-<thinking>
-
-The Youth Literacy Program Guardian Consent Form is used to collect information from the guardian or parent of a child participating in the Youth Literacy Program. This form is typically completed by the guardian or parent to provide their consent for their child to participate in the program, and to identify an emergency contact in case the child requires assistance. 
-
-The form must be completed for every child participating in the program.
-
-</thinking>
-
 # Youth Literacy Program Guardian Consent Form - Help Guide
 
 ## Purpose

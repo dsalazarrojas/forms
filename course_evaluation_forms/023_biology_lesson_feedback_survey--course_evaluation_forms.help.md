@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Biology Lesson Feedback Survey - Help Guide
 ======================================
 

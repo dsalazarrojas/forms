@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to collect contact information from executives or individuals who need to be managed or kept in touch with. To fill out this form correctly, please ensure you've got the necessary permissions and consents for data sharing. This form is not intended for collecting sensitive or personal data, but if you're using it for such purposes, please double-check your internal policies and regulations.
-</thinking>
 # Executive Relationship Management Contact Form - Help Guide
 
 ## Purpose

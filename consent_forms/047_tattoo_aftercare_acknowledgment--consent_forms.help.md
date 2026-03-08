@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about the client's understanding of tattoo aftercare instructions and the responsibilities of the studio and artist. It's essential to ensure that clients have a clear understanding of their post-tattoo care responsibilities to promote good tattoo healing and minimize complications.
-This form is not intended for use as a formal medical document, but rather as an administrative tool for the studio and artist to document client responsibilities.
-Please ensure that this form is not used in conjunction with any medical or legal documents.
-</thinking>
-
 # Tattoo Aftercare Acknowledgment - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the client's understanding of tattoo aftercare instructions and the responsibilities of the studio and artist.

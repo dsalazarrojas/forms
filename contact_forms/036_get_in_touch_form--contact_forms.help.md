@@ -1,22 +1,3 @@
-<thinking>
-The "Get In Touch Form" is intended for users to provide contact information and send messages to the organization. This form is likely to be used for customers or clients to provide feedback, ask questions, or share their thoughts and concerns. Before proceeding, it's essential to review the form carefully to avoid duplicating efforts and ensure that your message gets to the right person.
-
-To complete this form, follow these steps:
-
-1. Enter your first name in the "First Name" field.
-2. Enter your last name in the "Last Name" field.
-3. Provide your email address in the "Email" field.
-4. Write your message in the "Message" field.
-5. If you have a phone number, enter it in the "Phone" field.
-6. If you have a company or business, provide it in the "Company" field.
-7. If you have a website, enter it in the "Website" field.
-8. Finally, click "Send" to submit your message.
-
-When filling out the form, ensure that all required fields are completed accurately. If a field is marked as "required," it's essential to fill it out to ensure that your message gets sent successfully.
-
-In the following sections, we'll break down each field and provide further clarification on what each field means and how to complete it:
-</thinking>
-
 # Get In Touch Form - Help Guide
 ## Purpose
 The "Get In Touch Form" is a contact form used for users to provide feedback, ask questions, or share their thoughts and concerns with the organization. It's designed to collect contact information and messages from users.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's travel history and contact details for the purpose of contact tracing and COVID-19 related measures. The form is intended for individuals who are traveling to or from certain countries or regions. The form will help the relevant authorities to track the movements of individuals and identify potential risks of COVID-19 transmission.
-
-Before completing this form, please ensure that you are not duplicating the information provided by others in your household or group. This form is intended for individual submissions.
-
-</thinking>
-
 # coronavirus_self_declaration_borthwick_castle_travel_allowed - Help Guide
 ## Purpose
 This form is used to declare travel history and contact details for COVID-19 related measures.

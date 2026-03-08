@@ -1,16 +1,3 @@
-<thinking>
-The form is used to collect user data sharing consent information for internal business purposes. This form is designed to gather essential details from users, including their email, name, date of birth, phone number, social security number, and other relevant information. The purpose of this form is to ensure that users understand and agree to the sharing of their data with third-party services for the purpose of providing services. This form is required to be completed for all users, and the information collected will be used to facilitate the provision of these services. Please note that the form is designed to be filled out by one user at a time, and the data collected will not be duplicated or shared with anyone other than the intended third-party services.
-
-This form is used to collect user data sharing consent information for internal business purposes. The user data sharing consent form is a required form that all users must complete to ensure that their data is shared with the correct third-party services for the purpose of providing services. The form will be used to gather user data sharing consent information for the following reasons:
-
-*   To ensure that users understand and agree to the sharing of their data with third-party services
-*   To facilitate the provision of services
-
-This form is part of the internal business process. The purpose of this form is to collect user consent information and ensure that the data is shared with third-party services for the purpose of providing services.
-
-Before you begin, please ensure that you have all necessary information to complete the form accurately.
-</thinking>
-
 # user_data_sharing_consent_form - Help Guide
 ## Purpose
 The **User Data Sharing Consent Form** is used to collect user data sharing consent information for internal business purposes.

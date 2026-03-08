@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering participant information and consent for the Digital Inclusion Initiative Showcase. It's crucial to ensure that we only collect valid and non-duplicated data. This form should only be used for participants who have not already been registered in the system, and their contact information should be accurate and up-to-date. Please make sure to fill out each field accurately and provide the required information to complete the form successfully.
-</thinking>
-
 # Digital Inclusion Initiative Showcase Consent Form - Help Guide
 ## Purpose
 The Digital Inclusion Initiative Showcase Consent Form is designed to gather participant information and consent for sharing stories related to digital inclusion initiatives. This form helps us understand your interest in sharing your stories and ensures we have your consent to do so.

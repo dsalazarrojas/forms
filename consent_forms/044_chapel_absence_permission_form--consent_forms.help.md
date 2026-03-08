@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by parents or guardians to request permission for their child to be absent from chapel services. This is a formal process to ensure that the chaplain and other school administrators are aware of and approve any absences. It's crucial to provide accurate and detailed information to facilitate a smooth process. Please ensure that you're submitting this form for the correct student and that the information is up-to-date and accurate. You can only submit this form once for each student.
-</thinking>
-
 # Chapel Absence Permission Form - Help Guide
 ## Purpose
 The purpose of this form is to request permission for a student to be absent from chapel services. This form must be filled out and submitted by the parent or guardian of the student requesting the absence.

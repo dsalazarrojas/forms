@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Promotional Event Description Form - Help Guide
 
 ## Purpose

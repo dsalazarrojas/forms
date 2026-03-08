@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for patients and medical staff to provide information and documentation required for travel permits within the dental clinic context. It's likely meant to be used for patients who need to travel, possibly for treatment or consultation, and requires verification and approval from the clinic administration. The form should be completed by the patient to provide necessary details, which will then be reviewed and approved by the clinic staff. This form should not be used for purposes other than travel within the dental clinic, and any duplicate submissions should be avoided to prevent unnecessary paperwork and potential errors.
-
-</thinking>
-
 # Travel Permit Form For Dental Clinic - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their travel details and requirements for approval from the dental clinic staff.

@@ -1,6 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information on concussion history, symptoms, and safety plans for young athletes. This form is likely used by sports organizations or leagues to gather data on concussion incidents, understand the athlete's safety status, and ensure they take necessary safety measures. The form is designed to be filled out by parents or guardians of the athlete, and its completion is not mandatory but rather a voluntary process. The form's questions are focused on gathering information on concussion history, symptoms, and safety plans to support the athlete's well-being and safety during sports activities.</thinking>
-
 # Youth Sports Concussion Consent Form - Help Guide
 ## Purpose
 The Youth Sports Concussion Consent Form is a document used to collect information on concussion history, symptoms, and safety plans for young athletes. It helps sports organizations and leagues ensure the athlete's safety during sports activities.

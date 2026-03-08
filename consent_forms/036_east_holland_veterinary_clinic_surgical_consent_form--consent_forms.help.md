@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help veterinary clinics collect information from patients and pet owners prior to surgery. It appears to be a simple form with various fields for collecting patient, pet, and procedure details. The form includes fields for patient information, pet information, procedure details, date and time of admission, surgeon and assistant nurse information, and consent status. This form does not require any specific knowledge or technical expertise to complete, and it seems to be designed for general use in a veterinary clinic setting.</thinking>
-
 # East Holland Veterinary Clinic Surgical Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from patients and pet owners prior to surgery at East Holland Veterinary Clinic. It helps to ensure that all necessary details are captured, which will be used by the surgeon and medical team to prepare for the procedure.

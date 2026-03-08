@@ -1,17 +1,3 @@
-<thinking>
-This form appears to be a contact form for inquiring about investment opportunities. However, there is no explicit mention of the form's purpose or context. To ensure accuracy, I will review the form fields and provide explanations based on their labels and types.
-
-Upon reviewing the form fields, I noticed that:
-
-- The form is split into multiple pages, but the purpose of each page is unclear.
-- Some fields seem to be optional or non-relevant, such as "investment Interest", "Phone Number", "Investment Opportunity", "Additional Comments", and "Submit".
-- "Financial Advisor" is a required field, but it does not seem to be related to the other fields in a clear way.
-- The form appears to be asking for contact information, but it is not clear what type of contact information is being requested (e.g., personal, business, etc.).
-- "Date" and "Time" fields are included, but they are not required and do not seem to be related to the other fields.
-
-Given this information, I will provide a help guide based on the provided form fields, while keeping in mind that the form's purpose and context are unclear.
-</thinking>
-
 # investmentOpportunityInquiryForm - Help Guide
 ## Purpose
 This form is for inquiring about investment opportunities. Please use it to share your interest in potential investment opportunities.

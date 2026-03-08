@@ -1,27 +1,3 @@
-<thinking>
-This form, "Contact Form With Google Map," is intended for clients or customers to provide their contact information and send messages or inquiries to the company. The form serves as an alternative channel for clients to reach out and get help or information without the need for a phone call or email. The form is designed for general feedback, inquiries, and requests for information or assistance. This form does not seem to be a redundant or duplicative effort with any other existing processes or forms as it appears to be a singular, self-contained contact method.
-
-This form's primary purpose is to gather information about the client, including their name, email address, phone number, and preferred contact method for the company to reach back out. The form also includes a Google map to help clients find the company's location. 
-
-The form is composed of several fields: 
-
-1. Contact Information (section), 
-2. Location Inquiry Details (section), 
-3. Message Content (section), 
-4. Preferred Response Method (field) and 
-5. Submission Date (field). 
-
-The form requires clients to provide their name, email address, and preferred response method. 
-
-This form is likely to be used for both general inquiries and specific requests for information or assistance. 
-
-It would be beneficial for the client to provide clear and accurate information, especially for their preferred contact method and submission date. 
-
-This form may require some technical assistance to ensure proper integration with external systems or services. 
-
-The form's fields may need adjustments for specific business needs or to accommodate any additional requirements. 
-</thinking>
-
 # Contact Form With Google Map - Help Guide
 ## Purpose
 

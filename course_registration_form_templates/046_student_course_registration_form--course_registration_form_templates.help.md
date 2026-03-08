@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from students about their registration for a course. The purpose of this form is to collect demographic and course-specific data from students, which will be used to facilitate their enrollment and provide relevant services. Please note that this form is AI-generated and not affiliated with any form platform. Before proceeding, ensure you have not already completed this form to avoid duplication of efforts.
-</thinking>
-
 # Student Course Registration Form - Help Guide
 ## Purpose
 The Student Course Registration Form is designed to collect essential information from students about their course registration.

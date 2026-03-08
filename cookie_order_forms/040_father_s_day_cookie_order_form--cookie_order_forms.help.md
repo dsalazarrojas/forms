@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Father's Day Cookie Order Form is to allow users to submit order information for Father's Day cookies. The form collects data on the type and size of cookie, a message to include with the order, delivery date and time, contact name and phone number, and any order comments. This form is meant for internal use by the cookie shop, likely for processing orders and communicating with customers.
-</thinking>
-
 # Father's Day Cookie Order Form - Help Guide
 ## Purpose
 This form is designed to gather order information for Father's Day cookies. Use this guide to ensure you complete the form correctly and provide accurate order details.

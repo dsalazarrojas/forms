@@ -1,7 +1,3 @@
-<thinking>
-The "Parent Feedback Form" is a tool used to collect feedback from parents, likely from children or students, to gauge their experience with a program or service provided by an educational institution. This form aims to collect qualitative data to help the institution understand how they can improve. It is essential to complete this form honestly to provide the most accurate feedback.
-</thinking>
-
 # Parent Feedback Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to provide a platform for customers to submit general inquiries, feedback, and requests to the customer service team. This form collects information such as customer email, name, phone number, and message, which will be used to contact the customer and address their inquiry. The customer can also choose the type of inquiry they are submitting (e.g., support, feedback, or other) and attach any relevant files or documents. This form is designed to be accessible and easy to use, with a dark theme to make it visually appealing. The form is intended for customers who need to submit a general inquiry or request assistance and support from the customer service team.
-
-The goal is to ensure that customers can easily submit their inquiries and provide the required information in a clear and concise manner. By understanding the purpose and requirements of this form, customers will be able to complete it efficiently and effectively.
-
-</thinking>
-
 # General Inquiry Contact Form With Dark Theme - Help Guide
 ## Purpose
 This form is intended for customers who need to submit general inquiries, feedback, or requests to the customer service team. It collects information such as email, name, phone number, and message to allow the team to contact and address the customer's issue.

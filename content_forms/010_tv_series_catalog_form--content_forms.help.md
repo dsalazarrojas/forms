@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used to collect metadata and details about TV series, allowing users to input and record information about TV series in an organized and structured manner. This form may be used by content editors, administrators, or other stakeholders to manage and categorize TV series in a database or content management system.
-
-To ensure data accuracy and consistency, it's essential to verify the input data in the form and prevent duplication of data. This form should be filled out with accurate and relevant information, and users should be aware that incomplete or incorrect information can lead to data errors.
-</thinking>
-
 # TV Series Catalog Form - Help Guide
 ## Purpose
 The TV Series Catalog Form is a structured document used to collect metadata and details about TV series.

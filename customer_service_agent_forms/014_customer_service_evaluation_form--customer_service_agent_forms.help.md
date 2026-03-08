@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Service Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of customer service agents, providing a channel for customers to rate and comment on their experiences. Its purpose is to collect feedback to help improve customer service quality and ensure that customers receive satisfactory support. 

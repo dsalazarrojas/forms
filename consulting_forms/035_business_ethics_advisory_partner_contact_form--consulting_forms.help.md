@@ -1,9 +1,3 @@
-<thinking>
-The form is designed for individuals or organizations to provide contact information and request advisory services related to business ethics. This form allows respondents to describe their issue, choose relevant services, and specify their urgency level and desired timeline for resolution. The form is intended for those looking to seek expert guidance on business ethics concerns, such as conflict of interest, fraud or misconduct, harassment, or labor practices. The form's design ensures that users can provide comprehensive information about their inquiry, allowing the advisory team to provide tailored advice and services.
-
-Before using this form, please ensure that you have not filled out this form in the past, and that you are not duplicating an existing inquiry. If you are unsure, please contact the advisory team to verify.
-</thinking>
-
 # Business Ethics Advisory Partner Contact Form - Help Guide
 ## Purpose
 The Business Ethics Advisory Partner Contact Form is designed to gather information from individuals or organizations seeking expert guidance on business ethics concerns.

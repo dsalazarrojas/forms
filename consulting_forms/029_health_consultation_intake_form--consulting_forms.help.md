@@ -1,7 +1,3 @@
-<thinking>...This form is intended for healthcare professionals to gather information from patients before a consultation. The form is designed to collect general patient information, details about the consultation, medical history, allergies, and any medications the patient is currently taking. This form will help healthcare professionals to have a better understanding of the patient's health status and provide more effective care.
-
-</thinking>
-
 # Health Consultation Intake Form - Help Guide
 ## Purpose
 This form collects information from patients before a consultation with a healthcare professional. It aims to gather general details about the patient and their health status to provide effective care.

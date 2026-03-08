@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to ensure that new staff members have a clear understanding of essential information related to their role and responsibilities, as well as their contact and emergency contact details. This form is also used to record the date and time of staff orientation and to collect any other required information.
-</thinking>
-
 # Staff Orientation Checklist - Help Guide
 ## Purpose
 The Staff Orientation Checklist is a comprehensive form designed to ensure that new staff members have a thorough understanding of their role and responsibilities, emergency contact information, and other essential details related to their employment. This guide will walk you through each section of the form, helping you to complete it accurately and efficiently.

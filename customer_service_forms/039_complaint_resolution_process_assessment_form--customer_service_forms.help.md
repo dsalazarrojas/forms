@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the complaint resolution process in an organization. Its purpose is to evaluate the efficiency, effectiveness, and overall quality of the process, including intake, triage, assignment, communication, investigation, resolution, escalation, and follow-up. The form is meant to identify areas of improvement and provide recommendations for enhancement. It will help in identifying potential bottlenecks, gaps, and opportunities for improvement. By filling out this form, users can provide valuable insights to inform process improvements and enhance customer satisfaction.
-
-Before filling out this form, ensure that:
-- The form is filled out by someone with relevant knowledge and experience with the complaint resolution process.
-- The same form is not filled out by multiple people, as this may lead to inconsistent or conflicting answers.
-</thinking>
-
 # Complaint Resolution Process Assessment Form - Help Guide
 ## Purpose
 This form helps assess the efficiency, effectiveness, and overall quality of the complaint resolution process in your organization. It is designed to identify areas of improvement and provide recommendations for enhancement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # funny_complaint_form - Help Guide
 ## Purpose
 The "funny_complaint_form" is designed to collect feedback and complaints from customers about any issues they've encountered with our services or products. This form aims to gather detailed information about the complaint, allowing us to address the issue efficiently and provide the best possible resolution.

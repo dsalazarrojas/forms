@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used for customers to check in, possibly for a dining experience or appointment, providing essential information such as their name, reason for visit, and contact details. The form might be part of a larger system for managing customer interactions, possibly with a focus on ensuring accurate and efficient processing of check-in data. The fields present on the form appear to be designed for capturing customer information, and possibly also for storing additional details for future reference.
-
-Before filling out the form, ensure that all necessary information is accurate and complete, as this will help ensure the best experience for the customer. If you're unsure about any field, try to provide the most relevant information possible.
-
-</thinking>
-
 # Customer Check In Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for check-in purposes, such as dining experiences or appointments.

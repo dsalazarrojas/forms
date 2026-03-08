@@ -1,8 +1,3 @@
-<thinking>...
-This form is used for capturing user consent to record a documentary scene, particularly in settings involving law enforcement. The form ensures that the user providing the testimony is aware of the recording and its purpose, and that the scene is witnessed and recorded accurately. This form is a requirement for ensuring that the recorded scene is admissible as evidence.
-
-</thinking>
-
 # Documentary Scene Archive Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from a subject for recording a documentary scene, typically in a legal or investigation context. This form ensures that the subject is aware of the recording and its purpose, and that the scene is witnessed and recorded accurately.

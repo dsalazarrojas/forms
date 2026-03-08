@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who wish to release their locations for use by others. The purpose of this form is to gather necessary details from the location owner, including their contact information and the specifics of the release. It's essential to ensure that all required fields are filled out accurately to prevent delays or errors in the release process. 
-</thinking>
-
 # Location Release Form - Help Guide
 ## Purpose
 The Location Release Form is used to collect information from individuals who want to release their locations for use by others. This form helps us understand the details of the release, such as the location's name, contact information, and release specifics.

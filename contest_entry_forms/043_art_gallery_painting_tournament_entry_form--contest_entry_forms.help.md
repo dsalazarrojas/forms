@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow artists to submit their work for an Art Gallery Painting Tournament. The form is used to collect information about the artist and their entry, including contact details, artwork specifics, and other relevant details. This form is only for entrants who are interested in participating in the competition and have already reviewed and agreed to the terms and conditions.
-</thinking>
-
 # Art Gallery Painting Tournament Entry Form - Help Guide
 ## Purpose
 

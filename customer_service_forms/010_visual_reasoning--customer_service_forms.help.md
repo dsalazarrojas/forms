@@ -1,7 +1,3 @@
-<thinking>
-The Visual Reasoning form is used to assess a customer's visual reasoning skills. This form is part of a series of assessments designed to evaluate a customer's cognitive abilities. To ensure that your responses are accurate, please carefully review each question to understand the context and provide thoughtful answers.
-</thinking>
-
 # Visual Reasoning - Help Guide
 ## Purpose
 The Visual Reasoning form is a tool used to evaluate a customer's visual reasoning skills. It consists of multiple test sections, each designed to assess different aspects of visual reasoning.

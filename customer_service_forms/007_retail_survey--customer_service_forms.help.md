@@ -1,11 +1,3 @@
-<thinking>
-
-To create a helpful guide for the retail survey form, we must first understand its purpose. The form, titled "retail_survey," appears to be a customer feedback and experience evaluation tool. It likely aims to gather information about customers' interactions with the retail store, their reasons for visiting, and their overall satisfaction with their experience. This form might be used to identify areas of improvement, track customer behavior, and inform business decisions.
-
-The form consists of several fields across multiple pages. Each field is crucial in collecting specific data points. We should focus on explaining each field in a way that is clear and concise for the end-users.
-
-</thinking>
-
 # retail_survey - Help Guide
 ## Purpose
 The "retail_survey" form is a tool used to gather feedback and evaluate customers' experiences with the retail store. It helps identify areas of improvement and inform business decisions.

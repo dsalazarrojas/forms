@@ -1,17 +1,3 @@
-<thinking>As a form designer and technical writer, the form "gingerbread_house_contest_voting" is designed for users to cast their votes for a gingerbread house contest. The form is used to collect ratings and comments from users. Each field is designed to gather specific information from the user to facilitate the voting process. The form fields are:
-
-* "rating" (page 1): This field is used to rate the gingerbread house. It is an optional field.
-* "Comment" (page 2): This field allows users to provide additional comments about the gingerbread house. It is an optional field.
-* "Vote" (page 3): This field is used to select a "yes" or "no" vote for the gingerbread house. It is an optional field.
-* "Email" (page 4): This field is used to collect the user's email address. It is an optional field.
-* "Phone" (page 5): This field is used to collect the user's phone number. It is an optional field.
-* "rating_2", "rating_3", "rating_4", "rating_5" (pages 6-9): These fields are used to collect additional ratings for the gingerbread house. They are optional fields.
-* "comments" (page 10): This field is used to collect additional comments about the gingerbread house. It is an optional field.
-* "Verified Vote" (page 11): This field is used to select whether the vote is verified or not. It is an optional field.
-* "Submit" (page 12): This field is used to submit the vote. It is not a field that requires input.
-
-This form is designed to be completed by users who wish to participate in the gingerbread house contest. Please note that some fields may be optional, but providing additional information can help to improve the accuracy of the voting results.</thinking>
-
 # gingerbread_house_contest_voting - Help Guide
 ## Purpose
 The gingerbread house contest voting form is designed to collect ratings and comments from users to evaluate the quality of the gingerbread house.

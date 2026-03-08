@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for users to provide information about a digital media viewer content inquiry. To ensure relevance and non-duplication, we've designed this form to collect specific details that will help our team address the inquiry efficiently. Please take a few minutes to review this guide and fill out the form accordingly.
-
-</thinking>
-
 # Digital Media Viewer Content Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information about your digital media viewer content inquiry. Please use this form to provide details about the content you are inquiring about, and we'll do our best to address your questions and concerns.

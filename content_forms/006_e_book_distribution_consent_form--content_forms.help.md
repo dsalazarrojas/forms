@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent for the distribution of e-books to various platforms. It's intended for authors or content creators who want to share their work with a wider audience. This form is not meant for any other purpose, such as general feedback or support requests.
-</thinking>
-
 # E Book Distribution Consent Form - Help Guide
 ## Purpose
 The E Book Distribution Consent Form is used to collect consent for the distribution of e-books to various platforms. This form ensures that the e-book author or content creator agrees to the terms of distribution.

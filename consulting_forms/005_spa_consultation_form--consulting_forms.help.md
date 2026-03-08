@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential customers about their spa consultation needs and preferences. This information will be used to tailor their spa experience and ensure that they receive the best possible service. The form should only be filled out by individuals who have not previously submitted a consultation form, to avoid redundant submissions. Please ensure that you have not filled out this form before submitting a new one.
-</thinking>
-
 # Spa Consultation Form - Help Guide
 ## Purpose
 The Spa Consultation Form is designed to collect information from potential customers about their spa preferences and needs. This information will be used to tailor their spa experience and ensure that they receive the best possible service.

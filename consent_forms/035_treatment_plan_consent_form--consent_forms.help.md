@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # treatment_plan_consent_form - Help Guide
 
 ## Purpose

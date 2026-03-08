@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture the client's consent for career counseling services. It is intended for use in a professional setting, such as a mental health or educational institution. To ensure that this form is filled out correctly, we need to check that it is not being filled out multiple times for the same client, and that the client's information is complete.
-</thinking>
-
 # Career Counseling Consent Form - Help Guide
 ## Purpose
 The Career Counseling Consent Form is used to obtain the client's consent for career counseling services. It ensures that the client understands and agrees to the terms of their counseling session, including the use of recordings.

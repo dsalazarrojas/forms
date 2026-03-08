@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and use of the WhatsApp Automation Feedback Form, ensuring they know what to expect and how to fill it out accurately. The form is designed to gather feedback from users about their experience with WhatsApp automation features and tools. This guide aims to prevent duplication and ensure that users provide actionable feedback that can be used to improve the product.
-</thinking>
-
 # WhatsApp Automation Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with WhatsApp automation features and tools. Your input will help us improve and refine our product to better meet your needs.

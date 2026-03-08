@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a Girl Scout. The purpose of this form is to ensure that the Girl Scout's medical and emergency contact information is up to date and accurate. This information will be used by the Girl Scout organization to provide necessary support and care for the Scout. Please ensure that the information provided is accurate and complete. If the Girl Scout's grade level is not listed, please use the field "Please select grade level if not listed" to provide the correct grade level. This field is optional, but it's recommended to provide accurate information. The field "Troop Number" and "Troop Name" are optional and can be filled in if available. However, they are not required.
-</thinking>
-
 # Girl Scout Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a Girl Scout, including their medical and emergency contact information, and to ensure that the Girl Scout's grade level is accurate.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my task is to create a user-facing help guide for the "Mentor Application Form" that explains its purpose, how to complete it, and each field's meaning in a clear and concise manner. I will follow the provided YAML structure and create a Markdown-based guide that covers the required sections: "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips". I will assume that the form is designed for a specific internal use case, possibly for a mentorship program or a similar initiative.</thinking>
-
 # Mentor Application Form - Help Guide
 ## Purpose
 The Mentor Application Form is designed to collect information from potential mentors for a specific program or initiative. This form helps to gather relevant details about the mentor's availability, skills, and preferences, making it easier for organizers to pair them with mentees.

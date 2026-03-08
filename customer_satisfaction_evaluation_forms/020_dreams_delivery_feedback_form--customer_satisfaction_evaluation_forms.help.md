@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We want to prevent duplicate feedback and check if it's actually relevant before asking users to submit feedback for the dreams delivery team. This will make sure users are providing quality feedback and not spamming the system with unnecessary comments. To do this, we'll use a simple logic check before submitting the form: if the user selects "Very Good" for "communication" and "On Time" for "timeliness", we'll display a warning message to ensure they're not providing conflicting feedback. This way, we can keep the feedback loop clean and ensure users get the most out of their feedback experience.
 
 # dreams_delivery_feedback_form - Help Guide

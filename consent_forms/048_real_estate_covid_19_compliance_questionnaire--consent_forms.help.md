@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a COVID-19 compliance questionnaire for real estate properties. It's crucial to gather information about each person accessing the property, whether it's employees, visitors, or contractors. This form should not be duplicated if the same person has already filled it out, as it might be an indication of a larger issue with the property's COVID-19 protocols. 
-</thinking>
-
 # Real Estate COVID 19 Compliance Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information about individuals accessing the property, ensuring a safe and healthy environment for everyone. It helps in identifying potential risks and takes necessary precautions to prevent the spread of COVID-19.

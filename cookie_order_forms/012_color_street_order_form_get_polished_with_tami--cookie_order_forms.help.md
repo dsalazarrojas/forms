@@ -1,16 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I must admit that this form is quite comprehensive. The primary goal of the "Color Street Order Form" is to enable customers to place an order with the "Get Polished With Tami" brand. The form is designed to collect essential information from the customers, such as their name, email, shipping address, glitter set preferences, solid set preferences, and payment methods.
-
-Before proceeding, let's consider the following:
-
-* The form is intended for customers who are looking to purchase products from the "Get Polished With Tami" brand.
-* The form is not suitable for non-customers or internal use.
-* Each field is carefully crafted to ensure accurate and complete information collection.
-* The form is designed to be user-friendly, with clear labels and instructions.
-* The form is part of an overall customer journey, which may involve multiple interactions.
-
-</thinking>
-
 # Color Street Order Form - Get Polished With Tami - Help Guide
 ## Purpose
 The Color Street Order Form is designed to collect necessary information from customers to place an order with the Get Polished With Tami brand. This form helps us understand your preferences and requirements for a seamless shopping experience.

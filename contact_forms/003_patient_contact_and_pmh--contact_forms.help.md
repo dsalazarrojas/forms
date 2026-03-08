@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect patient contact information and medical history (PMH) in a healthcare setting. 
-The purpose of this form is to gather necessary contact details and medical history data for a patient, which will be used for future reference and potential follow-up communication. 
-Please make sure to complete this form only when necessary and relevant to the patient's care. 
-Duplicate or unnecessary submissions can lead to unnecessary data duplication and increased workload for the medical staff. 
-</thinking>
-
 # Patient Contact And PMH - Help Guide
 ## Purpose
 This form is designed to collect patient contact information and medical history (PMH) to support patient care and future communication.

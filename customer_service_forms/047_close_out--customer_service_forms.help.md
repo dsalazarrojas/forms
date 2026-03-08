@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect information about the closure of customer service cases. The purpose of this form is to record the resolution and closure of customer service cases in a structured format, ensuring that all relevant details are captured and reviewed by supervisors. This form will be used to gather insights and lessons learned from closed cases to improve customer service processes and outcomes.
-
-The following fields are included to collect comprehensive data:
-
-* Date and time of case closure
-* Description of issue and resolution status
-* Resolution description and actions taken
-* Root cause of issue
-* Refund or credit information
-* Follow-up requirements and reasons
-* Customer satisfaction and feedback
-* Escalation and lesson learned
-
-Before filling out this form, please ensure that the case has been fully resolved and closed. This form should not be used to document ongoing or pending issues.
-
-</thinking>
-
 # Close Out - Help Guide
 ## Purpose
 This form is designed to collect information about the closure of customer service cases. The purpose of this form is to record the resolution and closure of customer service cases in a structured format, ensuring that all relevant details are captured and reviewed by supervisors.

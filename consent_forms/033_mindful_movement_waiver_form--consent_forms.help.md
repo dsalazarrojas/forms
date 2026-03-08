@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll provide an internal reasoning block for this form's purpose and relevance before outputting the user-facing help guide in Markdown.</thinking>
-
 # Mindful Movement Waiver Form - Help Guide
 ## Purpose
 The Mindful Movement Waiver Form is a document intended for individuals participating in mindful movement activities, such as yoga, meditation, or other mindfulness exercises. It serves as a legal agreement between the participant and the activity provider, outlining the terms and conditions under which the participant agrees to participate. This form ensures that both parties understand their roles and responsibilities, including any potential risks associated with the activity.

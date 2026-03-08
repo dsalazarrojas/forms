@@ -1,11 +1,3 @@
-<thinking>
-The "Apology Letter Form" is designed to help customers or organizations express remorse and take responsibility for a mistake or issue that has affected someone. It's an internal tool used to document and formalize an apology, ensuring a clear and sincere message is conveyed to the recipient. This form is typically used in situations where a mistake has been made, and the company is taking steps to rectify the issue and prevent similar incidents in the future.
-
-To avoid duplication, ensure that each apology letter is unique and tailored to the specific situation, and use this form as a starting point for crafting a heartfelt and sincere message.
-
-To complete this form, fill in the required fields as accurately and thoroughly as possible. Be honest and transparent in your response, as this will reflect the integrity and commitment of your company to resolving the issue at hand.
-
-</thinking>
 # Apology Letter Form - Help Guide
 ## Purpose
 The "Apology Letter Form" is a document that allows you to apologize for a mistake or issue that has been raised by a customer, employee, or another external party. It provides a structured approach to writing an apology letter, ensuring that you address all key points and convey a sincere message.

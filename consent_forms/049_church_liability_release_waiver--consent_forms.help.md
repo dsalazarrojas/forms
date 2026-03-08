@@ -1,7 +1,3 @@
-<thinking>
-The Church Liability Release Waiver form is designed to protect the church and its staff from potential legal liabilities in case of accidents or injuries during church activities. This form is typically required for participants in church activities, especially for minors. By filling out this form, participants acknowledge and assume the inherent risks of the activity, release the church from liability for accidental injuries or damages, and consent to emergency medical treatment and photography. The form also includes spaces for emergency contact information and medical conditions or allergies.
-</thinking>
-
 # Church Liability Release Waiver - Help Guide
 ## Purpose
 The Church Liability Release Waiver is a document that protects the church and its staff from potential legal liabilities in case of accidents or injuries during church activities.

@@ -1,14 +1,3 @@
-<thinking>
-**Purpose:** The COVID 19 Real Estate Disclosure Form is a document used by real estate agents and brokers to gather critical information from clients regarding their COVID-19 health status and liability waiver. This form ensures that both the agent/broker and client are aware of and acknowledge potential risks associated with in-person property visits during the pandemic. By completing this form, clients provide informed consent and acknowledge their understanding of the risks involved, while also releasing the agent/broker from liability related to COVID-19 exposure.
-
-**Internal Check:**
-
-*   Ensure this form is used by real estate agents and brokers to gather critical information from clients.
-*   Make sure to verify the form fields to prevent duplication.
-*   Review the form purpose and fields to avoid confusion.
-
-</thinking>
-
 # COVID 19 Real Estate Disclosure Form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather information from potential shelter volunteers about their general information, emergency contacts, consent status, health risks, signature, signed-by information, date signed, and volunteer information. It is designed to ensure that volunteers have provided their consent and are aware of potential health risks associated with volunteering at the shelter. This form is an essential part of the shelter's risk management and volunteer management processes. It is likely used by HR or volunteer management teams within the shelter to verify the accuracy of the information provided by volunteers and ensure that they are aware of the potential risks involved in volunteering. The fields and labels on this form should be reviewed carefully to avoid duplication or ambiguity. The options for the "health_risks" field should be reviewed to ensure they match the actual risks associated with volunteering at the shelter.</thinking>
-
 # Shelter Volunteer Health Risk Consent Form - Help Guide
 ## Purpose
 The Shelter Volunteer Health Risk Consent Form is used to collect information from volunteers about their general information, emergency contacts, consent status, health risks, and other relevant details.

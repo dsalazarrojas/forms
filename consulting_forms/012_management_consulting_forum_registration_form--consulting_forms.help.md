@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather registration information from users for a management consulting forum. The form has two main sections: User Info and Registration Info. In the User Info section, users are asked to provide their contact information, including email, phone number, and additional details. In the Registration Info section, users are asked to select their preferred options, enter their preferred date and time, and provide additional notes. The form is designed to be user-friendly and easy to complete. Please note that the form is not intended for public use, so users are not required to provide all fields, and some fields are optional.
-</thinking>
-
 # Management Consulting Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to gather registration information from users for a management consulting forum. The goal is to ensure that all necessary details are collected in a clear and concise manner.

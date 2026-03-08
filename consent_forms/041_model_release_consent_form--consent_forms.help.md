@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a consent form for models to sign off on photographs. The purpose of this form is to obtain the necessary consent from models to use their photographs in various contexts. This form is designed to be easy to fill out and understand, and it's essential to ensure that the model is aware of and consents to the use of their images.
-</thinking>
-
 # Model Release Consent Form - Help Guide
 ## Purpose
 This form is a consent form for models to sign off on photographs. It's used to obtain the necessary consent from models to use their photographs in various contexts.

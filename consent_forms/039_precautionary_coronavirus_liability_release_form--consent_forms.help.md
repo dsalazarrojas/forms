@@ -1,8 +1,3 @@
-<thinking>...
-
-This form is used to gather essential information from customers before providing services, and it's essential to ensure that customers understand their agreement status. To avoid confusion and duplication, ensure each field is completed accurately and completely.
-
-</thinking>
 # Precautionary Liability Release Form - Help Guide
 
 ## Purpose

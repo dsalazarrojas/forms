@@ -1,8 +1,3 @@
-<thinking>
-...checking if the "Contact Form Template With Pink Text" form is indeed a contact form for general inquiries and style consultations, and that it's not a duplicate of an existing form in our repository...
-
-</thinking>
-
 # Contact Form Template With Pink Text - Help Guide
 ## Purpose
 This form is for visitors to contact the company with general inquiries, style consultations, or other questions. Fill out this form to provide your details and a brief description of your inquiry.

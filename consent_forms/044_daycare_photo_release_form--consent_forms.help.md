@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Daycare Photo Release Form - Help Guide
 
 ### Purpose

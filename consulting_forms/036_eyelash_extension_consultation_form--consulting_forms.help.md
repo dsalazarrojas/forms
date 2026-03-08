@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to provide information about their desired eyelash extension services. The purpose of this form is to gather details about the customer's preferences, including their name, contact method, desired look, lash materials, and availability for a consultation. This form will help the business understand the customer's needs and preferences, allowing for a better understanding of their service requirements. This form should be completed by customers who are interested in inquiring about eyelash extension services, and the information provided will be used to schedule a consultation with a lash technician. The form's fields should not be duplicated with other forms or processes within the business, ensuring that the customer's information is accurately and efficiently collected.
-</thinking>
-
 # Eyelash Extension Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information about your desired eyelash extension services.

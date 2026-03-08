@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register a new customer with the LICS system. It is a crucial step for customers to provide their personal details and any relevant information for their LICS account. The form is designed to be straightforward and easy to fill out, with fields that are clearly labeled and self-explanatory. The required fields are marked as such, ensuring that customers can complete the form accurately and efficiently. It's essential to review the form carefully to avoid missing any essential details. This form is meant to be used once per customer, and it's not intended to be reused or modified. Please make sure to enter accurate information in each field.
-</thinking>
-
 # Lics_registration_form - Help Guide
 ## Purpose
 The LICS Registration Form is a crucial step for customers to create their LICS account. This form collects customer's personal details and information for their LICS profile.

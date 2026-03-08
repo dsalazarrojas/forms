@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from customers who have expressed interest in the sugaring treatment, a non-invasive medical procedure. The form should be completed by customers who have already been contacted by the consulting team and are ready to proceed with the next steps. This form is not intended to be a general inquiry form or a form for people who have not been previously contacted. The form should only be used for customers who have already been vetted and cleared to proceed with the sugaring treatment. This form's purpose is to gather more in-depth information from these customers to facilitate the treatment planning process.
-
-</thinking>
-
 # Sugaring Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers who have expressed interest in the sugaring treatment. It's meant for customers who have already been contacted by the consulting team and are ready to proceed with the next steps.

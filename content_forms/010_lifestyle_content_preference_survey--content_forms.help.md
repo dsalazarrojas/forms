@@ -1,9 +1,3 @@
-<thinking>
-This form, "lifestyle_content_preference_survey", is designed to collect information about a user's lifestyle, content preferences, and consumption habits. The form is divided into several sections, each gathering specific data to help understand the user's behavior, interests, and preferences. This form is intended to be completed by individuals who are interested in various aspects of lifestyle, including content creation, consumption, and interaction. It is essential to complete this form only once, as it will help the system understand your preferences and tailor content suggestions accordingly.
-
-Before filling out this form, ensure that you are not already registered with our system and that you are aware of the content types and platforms we offer.
-</thinking>
-
 # lifestyle_content_preference_survey - Help Guide
 ## Purpose
 The "lifestyle_content_preference_survey" form is designed to collect your lifestyle, content preferences, and consumption habits to help us suggest relevant content and tailor our services to your needs.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Testosterone Treatment Consent Form. The form is designed to gather necessary information from patients before they undergo testosterone treatment. The purpose of this form is to ensure that patients understand the risks and benefits associated with testosterone treatment and to obtain their informed consent. This form must be completed accurately and honestly to ensure that patients' rights and safety are protected. 
-</thinking>
-
 # Testosterone Treatment Consent Form - Help Guide
 ## Purpose
 The Testosterone Treatment Consent Form is a crucial document that must be completed by patients before they begin testosterone treatment. It helps to ensure that patients are aware of the potential risks and benefits associated with the treatment and provides an opportunity for them to express their informed consent.

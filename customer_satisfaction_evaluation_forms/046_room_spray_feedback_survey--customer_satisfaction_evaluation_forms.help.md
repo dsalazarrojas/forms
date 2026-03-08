@@ -1,12 +1,3 @@
-<thinking>As the form designer and technical writer for the "room_spray_feedback_survey", I will create a user-facing help guide that explains the form's purpose, how to complete it, and the meaning of each field in a clear and concise manner. This guide will follow the required Markdown structure: # room_spray_feedback_survey - Help Guide
-## Purpose
-## How To Complete This Form
-## Field-by-Field Explanation
-
-The purpose of this form is to gather feedback from users about their experience with our room spray products. This feedback will help us identify areas of improvement and make necessary changes to provide a better product in the future.
-
-</thinking>
-
 # room_spray_feedback_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users about their experience with our room spray products.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain the necessary information and consent from family members to visit a resident in a care facility. The form is designed to be completed by family members or legal representatives of the resident, providing details such as the family member's name, date of birth, relationship to the resident, acknowledgement of the visit, contact information, and any additional comments or concerns. This form helps the care facility to verify the identity and relationship of visitors, ensure they are allowed to visit, and maintain accurate records.
-</thinking>
-
 # Family Room Guidelines Agreement - Help Guide
 
 ## Purpose

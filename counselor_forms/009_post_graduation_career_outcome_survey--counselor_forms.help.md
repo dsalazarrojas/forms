@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Post Graduation Career Outcome Survey - Help Guide
 ## Purpose
 This form is designed to collect information about post-graduation career outcomes. The goal is to gather data on graduates' job titles, locations, salaries, and satisfaction levels in their current positions. This will help us better understand the career paths and job market trends among our graduates.

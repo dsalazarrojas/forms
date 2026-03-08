@@ -1,9 +1,3 @@
-<thinking>
-This form is used to document the release of a permanent makeup service or treatment. It is a critical step to ensure that both the artist and the client understand and agree to the terms of the release. This form is used to collect the necessary information to complete this process, including the client's and photographer's information, details about the photo date and time, location, and other relevant details.
-
-This form should only be used in the context of permanent makeup services or treatments, and not for other purposes. Before proceeding, please make sure that you have the necessary knowledge and authority to use this form.
-</thinking>
-
 # permanent_makeup_release_form - Help Guide
 ## Purpose
 The permanent makeup release form is a critical document that ensures both the artist and the client understand and agree to the terms of the release. It is used to document the release of a permanent makeup service or treatment, and is a requirement for any such service or treatment.

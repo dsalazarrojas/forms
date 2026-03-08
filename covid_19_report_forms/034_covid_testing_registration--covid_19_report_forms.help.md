@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register and record the results of COVID-19 tests. It captures essential information such as test name, date, type, and result, as well as details about the patient, including name, contact information, and address. This form helps to ensure accurate and efficient tracking of COVID-19 testing data.
-Before starting, ensure that you are not duplicating a previously registered test and that the form is being filled out for the purpose of registering a new test result.
-</thinking>
-
 # Covid Testing Registration - Help Guide
 ## Purpose
 The Covid Testing Registration form is used to record and track the results of COVID-19 tests performed on patients.

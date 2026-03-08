@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather essential information about a worker's declaration for various purposes. It is crucial to ensure that each form is completed accurately and thoroughly. Before proceeding, check that this form is relevant to your situation and that you are not duplicating efforts by completing this form unnecessarily.
-
-To create this guide, I'll assume that the form is used for official purposes, such as tax declarations or labor regulations.
-
-</thinking>
-
 # Working Declaration Form - Help Guide
 ## Purpose
 The Working Declaration Form is used to collect essential information about a worker's declaration for official purposes.

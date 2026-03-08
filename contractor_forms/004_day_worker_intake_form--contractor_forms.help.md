@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a clear, concise, and user-friendly help guide for the day_worker_intake_form. I will carefully review the form's YAML input schema and create a guide that helps end users understand the form's purpose, how to complete it, and what each field means. By providing a detailed explanation of each field, users will be able to navigate the form with ease and complete it accurately. I will also ensure that the guide is free of duplication and irrelevant information.</thinking>
-
 # day_worker_intake_form - Help Guide
 
 ## Purpose

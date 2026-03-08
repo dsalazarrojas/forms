@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from passengers who have come into contact with a COVID-19 positive individual on a flight. The primary goal is to gather details about the passenger's health status, travel history, and contact information to aid in contact tracing and public health response efforts. This form must be completed by passengers who have been advised to do so by airline staff or public health authorities. Please ensure that each passenger completes the form only once and not duplicate the form submission for the same purpose. If you are experiencing symptoms or have come into contact with a COVID-19 positive individual, please submit this form only once and follow the instructions below to complete it.
-</thinking>
-
 # Passenger Self Reporting Form - Help Guide
 ## Purpose
 This form is designed to collect information from passengers who have come into contact with a COVID-19 positive individual on a flight. This helps the public health authorities to quickly identify and contact individuals who may have been infected with the virus.

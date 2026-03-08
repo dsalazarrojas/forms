@@ -1,8 +1,3 @@
-<thinking>
-This form is part of a consent process, so it's essential that users understand its purpose and usage. 
-The "Hot Tub Waiver Template" form is designed to collect information from users who wish to participate in hot tub activities. 
-</thinking>
-
 # Hot Tub Waiver Template - Help Guide
 ## Purpose
 The Hot Tub Waiver Template is a form used to collect necessary information from individuals who want to participate in hot tub activities. This form is typically required by hot tub facilities or service providers to ensure user safety and comply with regulations.

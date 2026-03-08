@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to obtain consent from a minor's parent or guardian before administering medical treatment or conducting medical procedures. The form collects information about the parent's contact details, a consent statement, the patient's medical history, and a treatment plan. This form is intended to ensure that parents or guardians are aware of and agree to the medical treatment or procedures being conducted.
-The form has 5 pages, each with its own purpose and fields. To complete the form, the parent or guardian will need to fill in their contact information, provide a consent statement, disclose the patient's medical history, and outline the treatment plan. The form is not intended for minors to complete themselves, but rather for their parents or guardians to complete on their behalf.
-</thinking>
-
 # Medical Consent Form For Minor - Help Guide
 ## Purpose
 This form is designed to obtain consent from a minor's parent or guardian before providing medical treatment or conducting medical procedures. It ensures the parent or guardian is aware of and agrees to the treatment or procedures being conducted.

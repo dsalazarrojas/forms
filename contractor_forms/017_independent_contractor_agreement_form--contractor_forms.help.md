@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to document the terms and conditions of an independent contractor agreement between a client and a contractor. This form is used to outline the details of the contract, including the contractor's name, rate, payment terms, and responsibilities. The form also covers payment frequency, payment method, and payment schedule. The contractor and client can sign the form to confirm their understanding of the terms and conditions.
-To complete this form, the client will need to fill in their information and the contractor's information, including their name, rate, and contact details. The client will need to provide details about the contract period, payment terms, and payment method. The contractor will need to accept the terms and conditions of the contract by signing their name. 
-</thinking>
-
 # Independent Contractor Agreement Form - Help Guide
 ## Purpose
 This is a contract between a client and a contractor, outlining the terms and conditions of the contract.

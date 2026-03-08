@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers who have interacted with our technology support team. It's designed to help us understand how we can improve our support services and better serve our customers in the future. By filling out this form, you'll be helping us gather valuable insights to refine our support process and enhance the overall customer experience.
-
-Before starting, please note that this form is entirely optional, and you can skip it if you don't feel like providing feedback. However, your input will help us improve our support services, and we appreciate any comments or suggestions you might have.
-
-When answering the questions, please be as honest and detailed as possible, so we can understand your experience and concerns. Don't worry; we value your feedback and will use it to make positive changes to our support process.
-
-If you have any issues or concerns that you'd like to discuss further, please don't hesitate to contact us directly. We're always here to listen and help.
-
-Now, let's get started!
-
-</thinking>
-
 # ASD Technology Support Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from customers who have interacted with our technology support team. It's designed to help us understand how we can improve our support services and better serve our customers in the future.

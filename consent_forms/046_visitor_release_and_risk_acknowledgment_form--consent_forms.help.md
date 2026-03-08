@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visitor Release And Risk Acknowledgment Form - Help Guide
 ## Purpose
 This form is designed to gather information from visitors, including their personal details, risk assessment, signature, risk acknowledgment, visitor agreement, contact information, and emergency contact information. The form is meant to be completed by visitors to acknowledge their release and risk understanding, and to provide a record of their visit.

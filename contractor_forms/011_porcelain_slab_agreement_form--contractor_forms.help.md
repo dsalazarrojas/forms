@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Porcelain Slab Agreement Form - Help Guide
 
 ## Purpose

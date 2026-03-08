@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from hotel guests during the check-in process. The form is intended for hotel staff to use in conjunction with other systems or processes to streamline the check-in experience. This form aims to gather necessary details such as guest name, contact email, check-in and check-out dates and times, room preferences, and special requests.
-</thinking>
-
 # Hotel Check In Form - Help Guide
 ## Purpose
 This form is used to collect essential information from hotel guests during the check-in process, allowing hotel staff to efficiently process their arrival and provide a smooth and personalized experience.

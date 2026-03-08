@@ -1,9 +1,3 @@
-<thinking>
-To avoid duplication and incorrect submissions, this form is only accessible through a designated link that is sent to customers via email or SMS. Customers are expected to fill out this form accurately and honestly to ensure that their repair service request is handled effectively. Before filling out the form, customers are required to confirm that they are the actual submitter and that they have the authority to represent the customer.
-
-The form is divided into several sections, each with its own set of questions and fields. Please ensure that you fill out all the required fields correctly and thoroughly before submission.
-</thinking>
-
 # Retail Repair Service Referral Form - Help Guide
 ## Purpose
 The Retail Repair Service Referral Form is designed to collect information from customers who need repair services. This form helps to efficiently process and manage repair requests, ensuring that the customer receives the necessary support in a timely manner.

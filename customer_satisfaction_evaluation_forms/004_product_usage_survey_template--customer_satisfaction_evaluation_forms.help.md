@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to consider the form's purpose, which is to gather feedback on customers' experiences with a product. This form should be used by customers to provide their input on the usability and usefulness of the product. The main goal of this form is to collect data that will help the development team to understand customer satisfaction and improve the product.
-
-The form has eight different pages, each with its own field(s). However, it seems like the fields on page eight ("product usage survey template category") and page nine ("product usage survey template description") might be redundant, as they seem to be asking the same type of information as other fields already present in the form (e.g., product usage, contact info, additional comments, etc.).
-
-It would be best to review and refine the form's schema to avoid duplication and make it more user-friendly and efficient. But, assuming the form is already finalized, here is the user-facing help guide.
-
-</thinking>
-
 # product usage survey template - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on your experience with our product. Your input will help us understand your satisfaction with the product and guide us in making improvements.

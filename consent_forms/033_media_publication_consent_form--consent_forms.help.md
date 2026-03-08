@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to collect consent from individuals for the publication of media related to them. The purpose of this form is to ensure that individuals understand and agree to the terms and conditions of the media publication, including their image or name being used. The form will ask for some basic information from the individual, such as their name, a photo, the title of the publication, and the date of publication. This form is not affiliated with, endorsed by, or derived from any form platform, and its design is solely based on public survey topic metadata.
-</thinking>
-
 # Media Publication Consent Form - Help Guide
 ## Purpose
 The Media Publication Consent Form is used to collect consent from individuals for the publication of media related to them. It helps ensure that individuals understand and agree to the terms and conditions of the media publication.

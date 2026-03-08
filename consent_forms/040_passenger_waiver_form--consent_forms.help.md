@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from passengers for their waiver, including personal details, contact information, and travel specifics. This form likely exists in the context of aviation, and the waiver might be related to liability, injury, or medical issues during flight. It's essential to ensure the form is filled out correctly to avoid confusion and ensure passenger information is accurate.
-</thinking>
-
 # Passenger Waiver Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the input schema provided in YAML. The form is titled "Win A Getaway Contest Entry Form" and is a multiple-page form with several fields of different types, including selects, texts, emails, dates, times, notes, and selects with options. This suggests that the form is used to collect various types of information from contest participants.
-
-The form likely serves as a means for individuals to enter a contest, providing their contact information, entry details, and preferences. The "select multiple" field suggests that participants can choose multiple options, which might be for different contest prizes or benefits.
-
-The fields seem to be mostly optional, but some fields like "entry_title" and "entry_phone" are not required, which might imply that they are necessary for basic contact information.
-
-The purpose of this form could be to register participants for a contest with multiple prizes or benefits, allowing them to choose which options they prefer. This analysis should be verified internally to ensure the form's intended purpose matches the actual use case.
-</thinking>
-
 # Win A Getaway Contest Entry Form - Help Guide
 
 ## Purpose

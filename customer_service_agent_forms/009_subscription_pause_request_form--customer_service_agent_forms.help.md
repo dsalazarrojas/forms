@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to assist customer service agents in completing the Subscription Pause Request Form, which is used to initiate a subscription pause on behalf of a customer. To ensure accuracy and efficiency, please review the form carefully before submitting it.
 
 Before filling out the form, please note that:

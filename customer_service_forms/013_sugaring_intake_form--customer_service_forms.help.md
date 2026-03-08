@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sugaring Intake Form - Help Guide
 ## Purpose
 The Sugaring Intake Form is designed to collect information from clients to determine their sugar waxing preferences and schedule appointments with our skilled technicians. This form is used to book appointments for sugaring services such as hair removal and hair treatment.

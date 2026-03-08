@@ -1,6 +1,3 @@
-<thinking>
-This form is for users to judge a series of pies, likely in a competition setting. It is designed to collect data on their ratings and notes for each pie. To ensure accuracy and consistency, it is recommended that users only fill out this form if they have actually viewed and judged each of the pies. If the form is being duplicated or filled out by a single user, their submissions will not be accurate or useful.
-</thinking>
 # Pie Judging Form - Help Guide
 ## Purpose
 This form is used to collect ratings and notes for a series of pies in a competition setting.

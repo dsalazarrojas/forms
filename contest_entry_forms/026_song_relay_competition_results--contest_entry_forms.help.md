@@ -1,6 +1,3 @@
-<thinking>
-This form is for capturing the results of a song relay competition, gathering information from judges and submitters. It's likely used for internal purposes, such as tracking scores, rankings, and comments for future reference. The form is likely not meant for public submission or general public access, making it a restricted access form. It's used to ensure consistent data collection and reduce manual errors in scoring and data entry. It's a good idea to keep it clear and easy to understand for the people who need to use it, like judges or internal staff.</thinking>
-
 # Song Relay Competition Results - Help Guide
 ## Purpose
 The Song Relay Competition Results form is used to capture the results of a song relay competition, including judges' scores, rankings, and comments.

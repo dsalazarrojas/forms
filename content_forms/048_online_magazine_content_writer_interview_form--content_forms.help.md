@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from potential writers for an online magazine. The purpose of this form is to gather contact and background information from writers, including their job titles, email addresses, writing experience, and preferred communication channels. 
-
-The form collects 25 fields, which are grouped into different categories. Some fields are text fields, where writers can provide detailed information, such as their resume, work experience, and work experience description. Other fields are selection fields, where writers can choose from options such as their availability, preferred location, and work status. 
-
-The form does not require any of the fields to be filled in, but it is recommended that writers fill in as much information as possible to increase their chances of being considered for writing positions.
-
-</thinking>
-
 # online-magazine-content-writer-interview-form - Help Guide
 ## Purpose
 This form is used to collect information from potential writers for an online magazine.

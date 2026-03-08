@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is for customers to inquire about their billing cycle and payment due dates. It allows them to provide their contact information, specify the type of inquiry they have, and provide details about their question or concern. The form helps our customer service team to understand the customer's needs and respond appropriately.
-Non-duplication: Customers should not have to fill out this form if they have recently contacted us about a similar issue or have an open case in our system.
-</thinking>
-
 # Billing Cycle And Payment Due Date Inquiry Form - Help Guide
 
 ## Purpose

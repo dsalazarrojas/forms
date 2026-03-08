@@ -1,10 +1,3 @@
-<thinking>
-A W9 Form is used for reporting income payments to the Internal Revenue Service (IRS) for the purpose of withholding and filing tax returns. This guide will walk you through filling out the W9 Form, ensuring you understand its purpose, the steps to complete it, and the meaning of each field.
-
-The W9 Form is used to report income payments made to independent contractors or non-employees, such as freelancers, consultants, or other individuals who are not employees of the business. This form helps ensure that both the business and the contractor are in compliance with IRS regulations.
-
-</thinking>
-
 # W9 Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for patients who require a retouch of their eyeliner pigments. The form collects information to assess the patient's eligibility for the procedure and obtain necessary consents. The form is not mandatory, and the patient's responses will be reviewed by a medical professional to determine the best course of action.
-The form's purpose is to collect the patient's information and obtain their consent for the procedure. This ensures that the patient is aware of and agrees to the process, and that the medical professional has a clear understanding of the patient's needs.
-To avoid duplication of effort, ensure that you are only completing this form once and not submitting multiple instances.
-</thinking>
-
 # Eyeliner Retouch Pigment Consent Form - Help Guide
 ## Purpose
 The Eyeliner Retouch Pigment Consent Form is used to collect information from patients who require a retouch of their eyeliner pigments. This form is used to assess the patient's eligibility for the procedure and obtain their consent.

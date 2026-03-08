@@ -1,6 +1,3 @@
-<thinking> 
-The "All In One Package Survey" form is designed to help customers evaluate their overall satisfaction with a package purchase, providing an opportunity for feedback and suggestions for improvement. This form is intended for customers who have purchased one of the company's packages and want to share their experience with the company. The goal is to collect feedback on various aspects of the package, including its value, quality, and overall satisfaction. This form should only be completed after the customer has purchased and used the package. </thinking>
-
 # All In One Package Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with a package purchase. It will help us understand what we're doing well and where we can improve.

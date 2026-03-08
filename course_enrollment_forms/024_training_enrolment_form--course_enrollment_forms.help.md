@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for training enrollment purposes. The form is used to gather essential details about the user, including their name, contact information, course details, and training specifics. It is crucial to understand that this form is meant for training enrollment, which implies that the user is applying for a training session. Therefore, the form should only be filled out by users who are genuinely interested in enrolling in a training course.
-
-Before filling out the form, please take a moment to ensure you are eligible to enroll in the training session. If you have already submitted an enrollment request or are not eligible, please do not continue with the form. This will help us process your request efficiently and ensure that you receive the necessary information to proceed.
-
-</thinking>
-
 # Training Enrolment Form - Help Guide
 ## Purpose
 This form is used to collect essential information for training enrollment purposes.

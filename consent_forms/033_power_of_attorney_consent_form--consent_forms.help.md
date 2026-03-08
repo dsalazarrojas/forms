@@ -1,8 +1,3 @@
-<thinking>
-This form is used for obtaining consent from the grantor (the person granting power of attorney) to establish a legal relationship between two parties. It is not a duplicate of other similar forms, as its purpose is to collect information from both the grantor and the grantee (the person receiving power of attorney). This form ensures that the grantor is aware of and understands the power they are granting and the scope of its authority.
-
-</thinking>
-
 # Power Of Attorney Consent Form - Help Guide
 ## Purpose
 

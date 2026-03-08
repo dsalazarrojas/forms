@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the return and credit process for customers and sellers. It is crucial to accurately complete this form to ensure the return and credit process is handled smoothly and efficiently. Before starting, please ensure you have all the necessary information at hand. This form may need to be completed for multiple returned products, so be prepared to fill in the required details for each product. This form should not be used for other purposes, such as general customer inquiries or feedback.
-</thinking>
-
 # return_and_credit_form - Help Guide
 ## Purpose
 The return and credit form is used to document and process returns and credits for customers and sellers. It captures essential information for both the customer and the seller, ensuring that the return and credit process is handled efficiently and accurately.

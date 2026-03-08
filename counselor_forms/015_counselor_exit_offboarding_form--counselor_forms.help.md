@@ -1,5 +1,3 @@
-<thinking>Before we begin, I'd like to clarify the purpose and requirements for the "Counselor Exit Offboarding Form". This form is designed to collect information about an employee who is leaving their position, including their details, reasons for departure, and any feedback or comments they wish to provide. The form is intended for internal use within the organization, and it's crucial to ensure that the form is completed accurately and comprehensively to maintain accurate records and facilitate a smooth transition process. To avoid duplication of effort, please review the form carefully before submitting it, and ensure you have all necessary information ready. If you're unsure about any field or its purpose, please don't hesitate to reach out to the relevant personnel for clarification.</thinking>
-
 # Counselor Exit Offboarding Form - Help Guide
 ## Purpose
 The "Counselor Exit Offboarding Form" is designed to collect information about an employee's departure from their position, including their personal details, reasons for leaving, and feedback. This form helps maintain accurate records and ensures a smooth transition process.

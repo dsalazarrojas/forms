@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to obtain liability waivers from drone race participants. Its purpose is to collect information from participants, including their personal details, emergency contact information, and waiver agreements. The form is used by event organizers to manage participant data and ensure compliance with regulatory requirements. 
-
-The form consists of multiple sections that require participants and event organizers to agree to and sign the waiver. The participant section includes fields for personal details, emergency contact information, and waiver agreements. The event organizer section includes fields for event details, emergency contact information, and waiver agreements.
-
-</thinking>
-
 # Drone Race Liability Waiver - Help Guide
 ## Purpose
 The purpose of this form is to obtain liability waivers from drone race participants, ensuring event organizers can manage participant data and maintain regulatory compliance.

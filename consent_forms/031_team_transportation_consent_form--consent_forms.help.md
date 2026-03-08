@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # team_transportation_consent_form - Help Guide
 
 ## Purpose

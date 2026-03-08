@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information and travel-related details from users. The form will be used to gather data on users' travel preferences, such as mode of transportation and accommodation type. This form will likely be used by a travel agency or tourism board to better understand user needs and preferences. Ensure that the form fields are clear and concise, and that the user can easily navigate through the form. Please review the form fields to ensure they are accurate and relevant to the intended purpose. Also, double-check that there are no duplicate fields that can cause confusion for the user.
-</thinking>
-
 # Travel Contact Form - Help Guide
 ## Purpose
 The Travel Contact Form is designed to collect contact information and travel-related details from users. This form will help our travel agency or tourism board understand your preferences and needs.

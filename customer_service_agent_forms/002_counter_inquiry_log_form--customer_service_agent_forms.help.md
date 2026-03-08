@@ -1,6 +1,3 @@
-<thinking>... internal reasoning about the form purpose and relevance ...
-</thinking>
-
 The purpose of this form is to log customer inquiries in a structured way, providing a clear and consistent format for customer service agents to record important information about each interaction. This form ensures that all relevant details are captured, including customer contact information, inquiry type, and any follow-up actions taken. By using this form, customer service agents can efficiently document and track customer interactions, improving responsiveness and resolution rates.
 
 # Counter Inquiry Log Form - Help Guide

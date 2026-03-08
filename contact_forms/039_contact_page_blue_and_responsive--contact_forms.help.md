@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be a simple contact page for users to get in touch with your organization. It's essential to complete this form accurately to ensure that your query or issue gets the right attention. Please fill out the form only if you need to report an incident or have a question that doesn't require immediate contact.
-</thinking>
-
 # Contact Page Blue And Responsive - Help Guide
 ## Purpose
 This form is a contact page for users to send their queries, questions, or feedback to your organization. It's essential to use this form for issues that don't require immediate attention.

@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information from restaurant employees and their contacts in the context of contact tracing during the coronavirus pandemic. The form is meant to be completed voluntarily, but not necessarily by employees who are infected or suspected of being infected with the virus. Its purpose is to help restaurants gather relevant health information to ensure a safe working environment for their employees and to facilitate contact tracing in case of potential outbreaks.
-This form is part of a larger public health strategy to track and mitigate the spread of the virus. Its completion is optional and not mandatory, but it's recommended for employees and their contacts to fill it out to provide accurate and detailed information.
-The form is divided into several sections:
-- General Info: This section collects basic contact and employee information.
-- Employee Info: This section captures information about the employee's health status and recent exposures.
-- Contact Info: This section collects information about the employee's contacts, including their health status and exposures.
-- Health Info: This section gathers more detailed health information about the employee and their contacts.
-- Exposure Info: This section collects data about potential exposures to the virus.
-- Travel Info: This section collects information about recent travels and exposures.
-- Other Health Info: This section captures any other relevant health information.
-The form is designed to be completed by both employees and their contacts, ensuring that all relevant information is gathered for contact tracing purposes.
-Please ensure that you are not filling out this form if you are already participating in contact tracing activities or if you have already completed a similar form for the same purpose.
-If you're unsure about any information, it's recommended to consult with a healthcare professional before filling out this form.
-</thinking>
-
 # Voluntary Restaurant Contact Tracing Form - Help Guide
 ## Purpose
 This form is designed to collect information from restaurant employees and their contacts to help facilitate contact tracing during the coronavirus pandemic.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from researchers who need to anonymize their research data. To use this form, you should be an authorized user requesting anonymization for their research data. If you have already submitted a similar request, please do not submit another form, as this will create duplicate entries.
-
-Please note that the form is used for requesting anonymization of research data, which may include information that is sensitive or potentially sensitive in nature. 
-
-When you complete this form, please provide accurate and complete information to ensure that your request is processed correctly.
-
-</thinking>
-
 # Research Data Anonymization Request Form - Help Guide
 ## Purpose
 This form is used to submit requests for anonymization of research data. Please note that anonymization may be subject to certain restrictions or requirements.

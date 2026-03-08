@@ -1,9 +1,3 @@
-<thinking> 
-  This form is used for patients to provide their consent for a skin cooling gel patch procedure. 
-  The form requires demographic information, medical history, and other relevant medical details. 
-  This guide is intended for users who need to complete this form, and the explanations are based on the form's structure and field labels. 
-  Please note that some fields might have unclear or ambiguous labels; in those cases, I've done my best to provide a clear explanation without inventing unsupported business logic.</thinking>
-
 # Skin Cooling Gel Patch Consent Form - Help Guide
 ## Purpose
 This form is used to gather patient information and consent for a skin cooling gel patch procedure. It is essential to carefully read and complete this form to ensure that the provided information is accurate and up-to-date.

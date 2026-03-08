@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Literacy Improvement Research Consent Form - Help Guide
 
 ## Purpose

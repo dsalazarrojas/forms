@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to provide search criteria for apartments, allowing them to filter through various options based on their specific needs and preferences. The form includes fields such as address, unit type, number of bedrooms, bathrooms, and more, to help users narrow down their search. It also includes fields for contacting the property manager, such as email and phone number.
-
-Before filling out the form, it's a good idea to review the available fields and make sure you're not missing any important information. This form will help you find the perfect apartment that meets your criteria.
-
-</thinking>
-
 # john_spinney_engle_chenot_group_apartment_search_criteria_form - Help Guide
 ## Purpose
 This form is used to provide search criteria for apartments.

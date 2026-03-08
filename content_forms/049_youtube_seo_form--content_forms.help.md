@@ -1,20 +1,3 @@
-<thinking>
-To help determine the purpose and relevance of the form, let's examine the form YAML:
-
-* The form title is "YouTube SEO Form", indicating that it's related to optimizing videos for YouTube search results.
-* The form contains fields related to video metadata (title, description, tags), video settings (thumnbnails, tags), and social media links.
-* The form also includes fields for integrations with external services (Airtable, Google Sheets, Zapier).
-* The fields for music and image licenses suggest that the form is used to manage content ownership and licensing.
-* There are no fields related to video content creation or editing.
-* The form requires the user to input multiple options for various fields, such as video thumbnails, tags, and social media links.
-* The form seems to be used for configuring and optimizing video content for YouTube, rather than creating or editing the content itself.
-
-Given this analysis, it appears that the form is used to set up and configure video content for YouTube SEO purposes.
-
-To confirm, the form does not seem to be a duplicate of any other form in our catalog.
-
-</thinking>
-
 # YouTube SEO Form - Help Guide
 ## Purpose
 This form is used to configure and optimize video content for YouTube search results.

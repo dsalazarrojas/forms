@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture customer feedback, support requests, and lead generation information from customers. This form serves as a centralized channel for customers to reach out to the support team and for marketing purposes, helping to identify potential leads. By capturing this information, the support team can respond promptly to customer inquiries, and the marketing team can follow up on potential leads for further engagement. To ensure accuracy, we need to carefully review the form submission data to eliminate duplicate submissions. This guide will help users understand how to complete the form correctly and make the most out of it.
-</thinking>
-
 # Customer Support And Lead Capture Form - Help Guide
 ## Purpose
 This form is designed to collect customer feedback, support requests, and lead generation information from customers. It allows customers to contact the support team and provides a channel for marketing purposes.

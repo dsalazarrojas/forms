@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow patients to inform their current doctor that they wish to switch to a different doctor or medical practice. This form is used for administrative reasons, and it is used to ensure that the process of switching doctors is done in a secure and compliant manner. The form is also used to collect information about the patient's current and new doctor, as well as their medical history. It's also used to request the transfer of medical records.
-
-Before starting this form, it's essential to check that you're not already using a doctor. If you've already started the process of switching doctors, do not fill out this form. You can use the "Change of Doctor" form multiple times if you need to switch to another doctor.
-
-Please note that this form is required for all patients who want to switch doctors, even if they are switching between doctors in the same medical group or organization.
-</thinking>
-
 # Change Of Doctor Form - Help Guide
 ## Purpose
 This form is designed for patients to inform their current doctor that they wish to switch to a different doctor or medical practice. It ensures that the process of switching doctors is secure and compliant.

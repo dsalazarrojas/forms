@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document the handover process of a construction project, gathering information on the project's details, completion status, and handover process. This form is intended to be filled out by the general contractor after the project's completion. The purpose of this form is to ensure that all necessary information is collected and recorded accurately, providing a clear understanding of the project's handover process. It is crucial to fill out this form correctly and thoroughly to avoid any potential issues or discrepancies during or after the handover process.
-
-</thinking>
-
 # Construction Handover Form - Help Guide
 ## Purpose
 This form is used to document the handover process of a construction project, gathering information on the project's details, completion status, and handover process.

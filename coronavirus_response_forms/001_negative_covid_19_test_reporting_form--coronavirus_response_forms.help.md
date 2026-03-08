@@ -1,5 +1,3 @@
-<thinking>Given that this form is used to report negative COVID-19 test results, I'm assuming that the main purpose of this form is to collect information from individuals who have been tested for COVID-19 and received a negative result. This form will help the organization keep track of these cases, which might be useful for public health officials to monitor the spread of the virus. This form should not be used to report positive test results, as those would be handled by other means.</thinking>
-
 # Negative COVID 19 Test Reporting Form - Help Guide
 
 ## Purpose

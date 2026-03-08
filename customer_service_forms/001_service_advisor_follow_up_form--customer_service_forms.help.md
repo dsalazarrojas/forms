@@ -1,12 +1,3 @@
-<thinking>
-To prevent duplicate submissions and to ensure accurate information, please review the following form purpose and guidelines before completing the "Service Advisor Follow Up Form." This form is intended for service advisors to follow up with customers after a service appointment has been completed. The purpose of this form is to gather feedback and suggestions from customers to improve the service experience and maintain a positive relationship with them. Please fill out this form only once the service appointment has been completed and not during the appointment.
-
-Before submitting, ensure that you have the customer's consent to follow up with them. If you're unsure about a customer's information or have any doubts, please reach out to your supervisor for clarification.
-
-Also, note that all fields are optional, but filling out this form helps us to better understand your experience and concerns. Please provide as much information as you're comfortable sharing.
-
-</thinking>
-
 # Service Advisor Follow Up Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and suggestions from customers after a service appointment has been completed. Please use this form to follow up with customers and help us improve the service experience.

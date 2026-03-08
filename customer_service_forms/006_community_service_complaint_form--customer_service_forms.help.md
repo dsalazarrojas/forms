@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from the public about complaints or issues they have experienced in relation to community services. The purpose of this form is to gather data on these complaints, which can be used to identify patterns and areas for improvement in our services. 
-
-To avoid duplication, we check our system to ensure that users are not submitting duplicate complaints. 
-
-This form will be reviewed by our staff, and we will make sure to address each complaint in a timely and thorough manner. 
-
-Please take a few moments to provide clear and concise information to help us better understand the issue. 
-</thinking>
-
 # Community Service Complaint Form - Help Guide
 
 ## Purpose

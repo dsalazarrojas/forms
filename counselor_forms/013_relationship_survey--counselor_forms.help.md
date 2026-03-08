@@ -1,7 +1,3 @@
-<thinking>
-We should check if this form is intended for couples or individuals, and verify that there are no duplicate fields. It seems this form is designed to assess the relationship dynamics between two partners, with questions ranging from basic demographics (age, name) to more complex relationship satisfaction and problem areas. The presence of duplicate fields like "relationship_satisfaction" and "partner_1_relationship_satisfaction" suggests that we might be dealing with a form that requires feedback from both partners, possibly for comparison or contrast. We should ensure that the form's purpose and structure align with this understanding.
-</thinking>
-
 # Relationship Survey - Help Guide
 ## Purpose
 The Relationship Survey form is designed to gather information about the dynamics between two partners in a relationship. This form will help you provide valuable insights into your relationship status, satisfaction, problems, and areas for improvement. Please answer these questions honestly to help you and your partner better understand each other's perspectives.

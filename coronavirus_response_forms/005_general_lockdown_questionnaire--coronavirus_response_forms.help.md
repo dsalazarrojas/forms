@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Lockdown Questionnaire - Help Guide
 ## Purpose
 The General Lockdown Questionnaire is used to collect information from students and teachers during a lockdown situation. It helps administrators assess student and teacher responses to ensure their well-being, attendance, and understanding of the situation.

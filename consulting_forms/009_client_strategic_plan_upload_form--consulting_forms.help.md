@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Strategic Plan Upload Form - Help Guide
 
 ## Purpose

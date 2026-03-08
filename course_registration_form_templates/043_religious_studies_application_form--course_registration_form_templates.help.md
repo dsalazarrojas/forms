@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from individuals applying for religious studies programs or related activities. It's essential to fill out this form accurately and completely to ensure that your application is processed correctly. To avoid errors, please review each field carefully before submitting.
 
 # Religious Studies Application Form - Help Guide

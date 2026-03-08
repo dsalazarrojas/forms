@@ -1,7 +1,3 @@
-<Thinking>
-We need to ensure that the form is completed correctly and that the data entered is accurate. This form is designed to record the sale of poultry products and collect relevant customer information. It's essential to double-check the entered data to avoid duplication and incorrect sales records. The form should only be filled out for genuine sales transactions. If you're unsure about any field, refer to this guide for clarification.
-</thinking>
-
 # Poultry Entry Form - Help Guide
 ## Purpose
 The Poultry Entry Form is used to record the sale of poultry products. It captures essential details about the sale, including the date, buying and selling prices, quantity sold, customer contact information, and any additional comments or notes.

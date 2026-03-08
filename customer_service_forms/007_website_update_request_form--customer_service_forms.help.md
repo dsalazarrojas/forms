@@ -1,9 +1,3 @@
-<thinking>
-
-This is a form for submitting a website update request to our support team. The form is designed to collect information from customers and agency representatives about the updates they would like to make to our website. To ensure that we can efficiently process your request, please follow these steps to complete the form correctly.
-
-</thinking>
-
 # Website Update Request Form - Help Guide
 ## Purpose
 The "Website Update Request Form" is used to submit updates to our website. This form helps us understand the changes you need and provides a way for you to communicate with our support team.

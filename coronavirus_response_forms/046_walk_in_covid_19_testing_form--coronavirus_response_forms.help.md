@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information for the purpose of conducting COVID-19 testing. The form is designed to gather demographic information, medical history, and testing details from patients. It is likely used by healthcare professionals to assess patients' eligibility for testing and to track testing results.
-
-To ensure accurate and efficient completion of this form, it is essential to understand its various sections and fields. 
-
-</thinking>
-
 # Walk In COVID 19 Testing Form - Help Guide
 ## Purpose
 The Walk In COVID-19 Testing Form is used to collect information for conducting COVID-19 testing.

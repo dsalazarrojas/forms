@@ -1,7 +1,3 @@
-<thinking>
-We need to determine if the form is a duplicate before we create a new one. Please make sure to check if the form is already filled out before completing it.
-</thinking>
-
 # LLC Consent Letter Form - Help Guide
 ## Purpose
 This form is for obtaining member consent for a company action. It is meant to provide a formal record of member consent, including their name, address, and contact information, as well as details about the company action.

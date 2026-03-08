@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting consent from authors regarding the editing of their manuscripts. It's a crucial step in ensuring that authors understand and agree to the terms and conditions of the editing process. Before proceeding, please ensure that this is the correct form and that you haven't already filled it out.
-</thinking>
-
 # Manuscript Editing Consent Form - Help Guide
 ## Purpose
 The Manuscript Editing Consent Form is used to collect consent from authors for the editing of their manuscripts. This form helps ensure that authors understand and agree to the terms and conditions of the editing process.

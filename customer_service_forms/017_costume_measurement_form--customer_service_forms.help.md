@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for capturing measurements of a customer's body in order to provide a good fit for custom-made clothing items. This form is likely part of a broader application that generates custom clothing items for customers. The fields collected will be used to generate a size chart for the customer, ensuring that the custom-made item will fit them well. This form is not intended for use in any other context, such as for health-related body measurements or medical records.
-</thinking>
-
 # Costume Measurement Form - Help Guide
 ## Purpose
 This form is used to collect measurements of a customer's body for the purpose of generating a custom-made clothing item.

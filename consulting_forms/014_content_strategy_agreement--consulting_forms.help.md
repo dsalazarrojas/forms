@@ -1,17 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-
-This form appears to be for a Content Strategy Agreement between a client and a content strategist or agency. It captures essential details such as client and agency information, project scope, financial terms, and timeline. 
-
-The purpose of this form is to formalize the agreement, ensuring both parties are on the same page regarding the scope of services, payment terms, and timeline. 
-
-Before filling out this form, the client should confirm the project's scope and objectives are accurately captured, especially considering the "Project Scope" and "Deliverables" fields. 
-
-Additionally, the client should carefully review the "Financial Terms" section to ensure the agreed-upon payment structure aligns with their budget. 
-
-The form appears to be relevant for clients engaging with content strategists or agencies for a range of content services, such as content audits, competitive analysis, and content distribution planning. 
-
-</thinking>
 # Content Strategy Agreement - Help Guide
 ## Purpose
 The Content Strategy Agreement form is designed to capture the key elements of a content strategy project, ensuring both the client and the content strategist or agency have a clear understanding of the project's scope, objectives, and timeline.

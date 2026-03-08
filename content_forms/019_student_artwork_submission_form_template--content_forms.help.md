@@ -1,8 +1,3 @@
-<thinking>
-The Student Artwork Submission Form Template is a digital form designed to collect information about student artworks submitted for assessment or exhibition. The form was created using public data and is intended to be a useful tool for teachers, artists, and art administrators. This form is not affiliated with any specific form platforms and is intended to be a generic template for collecting artwork submission data. 
-It's essential to note that this form is based on public data and may not cover all specific business needs or rules for each school or institution. Before using this form, please review and validate the questions and fields to ensure they align with your specific requirements. 
-</thinking>
-
 # Student Artwork Submission Form Template - Help Guide
 ## Purpose
 The Student Artwork Submission Form Template is designed to collect information about student artworks submitted for assessment or exhibition.

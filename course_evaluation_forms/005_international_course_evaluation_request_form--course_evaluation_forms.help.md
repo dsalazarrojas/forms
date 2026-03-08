@@ -1,5 +1,3 @@
-<thinking>Before creating a help guide for this form, I'd like to clarify that this form is designed to collect feedback and evaluation from participants after a course or session, likely for the benefit of instructors or course administrators. This form seems to cover various aspects of the course or session, including participant satisfaction, instructor performance, and overall rating. It's essential to ensure that the form is being used correctly and that each field's purpose is well understood. I'll create a clear and concise help guide to support end-users in filling out this form.</thinking>
-
 # international_course_evaluation_request_form - Help Guide
 
 ## Purpose

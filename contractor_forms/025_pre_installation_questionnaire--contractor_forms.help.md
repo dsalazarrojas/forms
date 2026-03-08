@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Installation Questionnaire - Help Guide
 
 ## Purpose

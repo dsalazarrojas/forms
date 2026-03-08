@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be used for capturing information about a manuscript review process. It's likely used by authors or publishers to collect feedback and comments from reviewers. The form may be used in an academic or publishing context. I will check for any potential duplication or redundancy in the form design. The form has multiple fields that could be combined or consolidated for better usability. For example, the "Reviewer Terms" and "Reviewer Terms Agreed" fields seem to be redundant, as the "Reviewer Terms" field can be used for both purposes. I will review the form carefully to ensure that it is clear and concise for the end-user. I will also check if there are any missing or unnecessary fields. After review, I will provide a clear and concise help guide that explains each field's purpose and requirements.
-</thinking>
-
 # Manuscript Review Agreement - Help Guide
 ## Purpose
 This form is used to capture information about a manuscript review process, including the reviewer's name, contact information, and comments about the manuscript. It's intended for use in academic or publishing contexts.

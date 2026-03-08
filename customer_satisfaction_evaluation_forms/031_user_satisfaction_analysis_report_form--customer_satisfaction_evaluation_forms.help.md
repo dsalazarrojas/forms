@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about user satisfaction from customers. It's used to analyze the satisfaction level of users with a product or service provided to them. This form is designed to collect data that will help in identifying areas where the service can be improved, and provide feedback to customers.
-
-It's essential that the form is not used for multiple issues or incidents, as it's meant to analyze overall user satisfaction. Please ensure that you're not submitting duplicate issues or incidents. If you have multiple concerns, it's best to submit one form per issue.
-
-</thinking>
-
 # user_satisfaction_analysis_report_form - Help Guide
 ## Purpose
 The user satisfaction analysis report form is used to gather information about user satisfaction with a product or service.

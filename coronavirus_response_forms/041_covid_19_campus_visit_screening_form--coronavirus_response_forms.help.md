@@ -1,5 +1,3 @@
-<thinking>As the COVID-19 pandemic continues to impact communities worldwide, the need for accurate tracking and screening of visitors on campus has become increasingly important for preventing the spread of the virus. This form has been designed to ensure that visitors provide necessary information about their health status, travel history, and contact details to ensure a safe and healthy environment on campus. To avoid duplication and ensure accurate data, please note that this form must be completed by each visitor upon arrival and entry into the campus. Please refer to campus policies for specific guidelines on mask-wearing and distancing.</thinking>
-
 # COVID 19 Campus Visit Screening Form - Help Guide
 
 ## Purpose

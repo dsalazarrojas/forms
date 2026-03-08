@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication and ensure relevance, this form will be used for healthcare professionals to submit updates on a patient's COVID-19 status. The form's purpose is to collect information on a patient's current status, including vaccination, symptoms, test results, and hospitalization information. The goal is to provide a concise and structured way to document and track patient data.
-
-</thinking>
-
 # Covid 19 Daily Status Update Form - Help Guide
 ## Purpose
 The Covid 19 Daily Status Update Form is designed to facilitate healthcare professionals in tracking and updating patient information on a daily basis. This form is essential for maintaining accurate records and ensuring timely interventions.

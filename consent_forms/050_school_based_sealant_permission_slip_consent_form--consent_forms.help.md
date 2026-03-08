@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be completing a form for obtaining sealant permission slip for school-based programs. The purpose of this form is to collect information about the student, school, and program they are enrolled in, as well as any allergies, health conditions, and other relevant details. This information will be used by school administrators to ensure the student's safety and well-being while participating in the program. 
-</thinking>
-
 # school_based_sealant_permission_slip_consent_form - Help Guide
 ## Purpose
 This form is used to obtain a sealant permission slip for a student participating in a school-based program. It collects information about the student, school, and program they are enrolled in, as well as any allergies, health conditions, and other relevant details.

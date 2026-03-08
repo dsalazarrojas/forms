@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from individuals to collect their fingerprint data for a specific purpose. This form is used to determine whether the individual is willing to provide a fingerprint scan and, if not, to gather the reason for their refusal. The form also collects the individual's date of birth, which is a personal identification detail.
-</thinking>
-
 # Fingerprint Consent Form - Help Guide
 ## Purpose
 The Fingerprint Consent Form is a document used to obtain consent from individuals to collect their fingerprint data. This form helps ensure that individuals understand and agree to the use of their fingerprint data for a specific purpose.

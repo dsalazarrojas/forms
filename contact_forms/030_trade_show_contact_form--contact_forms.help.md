@@ -1,7 +1,3 @@
-<thinking>
-This is a Trade Show Contact Form, used to collect information from attendees of trade shows or events. It is designed to be filled out by attendees who want to get in touch with the organizers or sponsors of the trade show. This form is not intended for general feedback or comments, but rather for specific contact purposes. To avoid duplication, please do not fill out this form if you have already reached out to us through another channel. 
-</thinking>
-
 # Trade Show Contact Form - Help Guide
 ## Purpose
 The Trade Show Contact Form is used to collect information from attendees of trade shows or events for contact purposes.

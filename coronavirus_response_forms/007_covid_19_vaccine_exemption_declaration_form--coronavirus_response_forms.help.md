@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for patients to declare medical exemptions for the Covid-19 vaccine. This form requires personal and medical information from both the patient and their doctor. The form aims to collect data on the reason for exemption and verify the authenticity of the exemption. The form's structure is designed to follow common medical declaration forms. Please ensure this form is filled out correctly and honestly as it involves sensitive medical information.
-</thinking>
-
 # Covid 19 Vaccine Exemption Declaration Form - Help Guide
 ## Purpose
 This form is for patients to declare medical exemptions for the Covid-19 vaccine. It requires personal and medical information from both the patient and their doctor.

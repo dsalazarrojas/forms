@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faith Based Counseling Session Consent Form - Help Guide
 
 ## Purpose

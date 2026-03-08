@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to enable users to submit files and a description of their request. The form includes fields for user information, such as full name and email address, as well as fields for specifying file upload instructions, supported file types, and request priority. The form also includes a field to confirm consent to process uploaded files and an additional comments field for any other details.
-
-The goal of this guide is to walk the user through each field and ensure they understand the purpose and required information for each.
-
-</thinking>
-
 # Contact Form With Upload Function - Help Guide
 ## Purpose
 The Contact Form With Upload Function is a multi-purpose form designed to receive files and descriptions of user requests. This guide will walk you through the form fields and how to complete it.

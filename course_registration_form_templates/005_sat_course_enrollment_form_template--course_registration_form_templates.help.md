@@ -1,6 +1,3 @@
-<thinking> 
-This form template is for the registration process of SAT courses. To ensure that end users understand the purpose and relevance of this form, it's essential to check that it's not a duplicate and that it's being used for its intended purpose. This template is designed to collect information from students about their course enrollment. Each field in the form is crucial in capturing the necessary details for course registration. Before proceeding, please review the form's fields and their corresponding explanations to ensure you're using it correctly.</thinking>
-
 # SAT Course Enrollment Form Template - Help Guide
 ## Purpose
 The SAT Course Enrollment Form Template is designed to collect student registration details for SAT courses. This form helps administrators track and manage course enrollments efficiently.

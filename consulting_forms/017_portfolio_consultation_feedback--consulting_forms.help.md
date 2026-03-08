@@ -1,9 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from clients and stakeholders on their experience with the portfolio consultation. 
-The form is not intended to be completed by everyone, only by those who have interacted with the portfolio consultation services. 
-This form helps to identify areas of improvement and to tailor future services to better meet the needs of clients. 
-Please ensure you have interacted with the portfolio consultation services before completing this form.</thinking>
-
 # portfolio_consultation_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients and stakeholders on their experience with the portfolio consultation. It helps to identify areas of improvement and to tailor future services to better meet the needs of clients.

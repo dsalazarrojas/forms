@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to elicit consent for lash and brow tinting services, ensuring that clients understand the procedures and potential risks involved. It's essential to review this form carefully to confirm the client's understanding and agreement. Before filling out this form, please make sure you haven't already obtained consent for this specific service from the client. It's also a good idea to ensure the client understands the services offered and what they consent to.
-</thinking>
-
 # lash_and_brow_tint_consent_form - Help Guide
 ## Purpose
 The lash and brow tint consent form is a document used to obtain consent from clients for lash and brow tinting services. It ensures that clients understand the procedures, risks, and potential outcomes involved in the process.

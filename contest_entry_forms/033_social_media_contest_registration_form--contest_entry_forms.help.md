@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # social_media_contest_registration_form - Help Guide
 
 ## Purpose

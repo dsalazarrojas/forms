@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their store design needs and preferences. The purpose of this form is to gather essential details that will help designers understand the client's expectations and requirements for their store design project. The form is intended to be a one-time submission, and the information collected will be used to create a tailored design concept that meets the client's needs. 
-Please make sure to fill out this form accurately and thoroughly, as it will help us create a better design concept for your store.
-
-This form will not be duplicated in the near future.
-</thinking>
-
 # Store Design Consultation Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their store design needs and preferences.

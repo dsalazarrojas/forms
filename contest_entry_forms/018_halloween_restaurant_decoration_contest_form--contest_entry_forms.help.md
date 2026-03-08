@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from restaurants participating in a Halloween-themed decoration contest. The form is intended to be completed by restaurant owners or their representatives, providing details about their restaurant's decoration for the contest. It's essential to ensure that each restaurant provides accurate and relevant information to be eligible for the competition. Before filling out this form, please review the contest rules and regulations to avoid any duplication or errors.
-
-To confirm that this form is being used for the correct purpose, please verify the following:
-
-- The restaurant name, description, and address match the restaurant's actual location and appearance.
-- The contact email and phone number are accurate and up-to-date.
-- The decoration type, description, and image match the contest theme and requirements.
-
-By carefully completing this form, you will increase your chances of being selected as a winner in the Halloween decoration contest. If you have any questions or concerns about the form or the contest, please don't hesitate to reach out to our team.
-</thinking>
-
 # Halloween Restaurant Decoration Contest Form - Help Guide
 
 ## Purpose

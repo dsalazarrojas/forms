@@ -1,16 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's consider the purpose and context of the "Building Of The Year Voting" form. This form is likely used for a building design or architecture competition, where users are voting on their favorite building from a list of nominees. The form aims to collect information from voters about their selection process, including their choice of building, reasons for selecting it, and evaluation criteria.
-
-To confirm, the form seems to be collecting data for two main purposes:
-
-1.  To gather information about the voter's selection process, including their reasons for choosing a particular building.
-2.  To evaluate the selected building against a set of criteria, such as design innovation, functionality, sustainability, and aesthetic appeal.
-
-The form also seems to be collecting additional demographic information about the voter, such as their professional affiliation, location, and level of familiarity with the building.
-
-To confirm, the form is not meant to be a straightforward voting form, but rather a more detailed survey that aims to provide insights into the voter's thought process and preferences.
-
-Please let me know if this understanding is correct, and I'll proceed with creating the user-facing help guide.</thinking>
-
 # Building Of The Year Voting - Help Guide
 ## Purpose
 The Building Of The Year Voting form is a survey designed to gather information about your selection process when choosing a building from a list of nominees. We want to understand why you chose a particular building and how it fits with our evaluation criteria.

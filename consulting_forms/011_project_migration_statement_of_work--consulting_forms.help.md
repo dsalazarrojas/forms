@@ -1,9 +1,3 @@
-<thinking>
-This form is used for project migration planning. The purpose of this form is to gather information about the project's objectives, deliverables, scope description, successful migration plan, data migration, migration resources, risk factors, migration schedule, and project manager's contact information.
-The fields in this form are used to collect specific details about the project, such as the objectives, deliverables, and risk factors. 
-The form is usually completed by project managers or stakeholders who are involved in the project migration process.
-</thinking>
-
 # Project Migration Statement Of Work - Help Guide
 ## Purpose
 This form is used to gather essential information about a project migration, which includes the project's objectives, deliverables, scope description, successful migration plan, data migration, migration resources, risk factors, migration schedule, and project manager's contact information.

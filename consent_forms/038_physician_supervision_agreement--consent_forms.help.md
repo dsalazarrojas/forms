@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physician Supervision Agreement - Help Guide
 ## Purpose
 The Physician Supervision Agreement form is used to document the supervision of physicians within a practice. This form is essential for ensuring that physicians are properly supervised and monitored in their practice, which is critical for maintaining high-quality patient care and meeting regulatory requirements.

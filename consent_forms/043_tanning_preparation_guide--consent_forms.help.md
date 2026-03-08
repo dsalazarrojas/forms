@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help clients provide essential details about themselves and their appointment schedule, while also obtaining consent for communication from the salon. The purpose of this form is to gather necessary information for the tanning preparation process, which involves client details, instructions, and consent. To confirm, this form is not affiliated with or derived from any form platform and is a unique adaptation of the provided metadata.
-
-</thinking>
-
 # Tanning Preparation Guide - Help Guide
 ## Purpose
 The Tanning Preparation Guide form is designed to collect client details and obtain consent for communication from the salon. Completing this form ensures that your information is accurately recorded for the tanning preparation process.

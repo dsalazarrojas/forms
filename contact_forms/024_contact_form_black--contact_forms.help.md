@@ -1,7 +1,3 @@
-<thinking>
-This form is used for contact and inquiry purposes, allowing users to provide personal contact information and specify their inquiry details. It appears to be a general contact form with a mix of personal and business inquiry options. I will provide a user-facing help guide to explain its purpose and usage.
-</thinking>
-
 # Contact Form Black - Help Guide
 ## Purpose
 This form is designed to collect contact information and inquiry details from users, enabling the organization to respond to their questions and requests efficiently.

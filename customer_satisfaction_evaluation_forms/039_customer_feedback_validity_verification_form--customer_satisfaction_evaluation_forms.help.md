@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect customer feedback on satisfaction levels. The purpose of this form is to gauge the level of satisfaction of customers after an interaction with the organization. This form will ask the customer about their overall satisfaction with different aspects of the service. It is crucial to fill out this form completely and accurately to help the organization understand areas of improvement.
-
-This form will not ask for any information that would allow identification of the individual customer. It's designed for internal use only to help us understand what customers think about our service. Please fill out the form completely and truthfully. If you have any questions, feel free to contact us.
-
-</thinking>
-
 # Customer Feedback Validity Verification Form - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on satisfaction levels after an interaction with the organization.

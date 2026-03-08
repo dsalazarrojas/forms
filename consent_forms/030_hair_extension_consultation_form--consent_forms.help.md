@@ -1,7 +1,3 @@
-<thinking>
-This help guide will guide users through the process of filling out the Hair Extension Consultation Form. The purpose of this form is to gather information from customers about their hair condition, style, and other relevant details. Before filling out the form, please ensure that you are not completing it for a duplicate purpose (e.g., you have already provided the same information in the past).
-</thinking>
-
 # Hair Extension Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their hair condition, style, and other relevant details. It will help our team better understand their needs and preferences for hair extensions.

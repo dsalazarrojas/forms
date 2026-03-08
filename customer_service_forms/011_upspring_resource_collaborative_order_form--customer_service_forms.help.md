@@ -1,7 +1,3 @@
-<thinking>
-This form, "upspring_resource_collaborative_order_form", is designed to collect information about households that are in need of resources, with a focus on collaborative ordering for families. The purpose of this form is to gather data on household members, family type, family status, income, household size, requested items, item type, item condition, pickup location, pickup method, contact name, contact number, and contact email. This form will help the organization understand the needs of the households and allocate resources effectively. The form is meant to be filled out by the person in charge of ordering resources for their household.
-</thinking>
-
 # upspring_resource_collaborative_order_form - Help Guide
 ## Purpose
 The "upspring_resource_collaborative_order_form" is designed to help the organization collect data on households in need of resources and allocate them effectively. This form will help us understand the needs of your household and provide you with the necessary information to place orders.

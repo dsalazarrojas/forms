@@ -1,30 +1,3 @@
-<thinking>
-To create an effective help guide for the Chas Everitt Mandate Renewal and Lease Termination form, it's essential to understand that the primary purpose of this form is to facilitate the process of renewing or terminating a real estate mandate (lease agreement) between a landlord and Chas Everitt. This form is intended for use by real estate agents or landlords who need to update or end lease agreements.
-
-The form will be used for both the renewal and termination of the mandate. The purpose of the form is to gather specific details about the mandate, including the current tenant, physical address of the property, and lease termination dates. Additionally, it will capture the landlord's decision to renew or terminate the mandate, the proposed new rent amount if renewing, and the date for the final exit inspection. It's also crucial to note that this form is used for real estate transactions within the Chas Everitt framework, implying a need for compliance and adherence to the Chas Everitt mandate document. 
-
-The form is designed to guide users through each step of the process, ensuring they provide the necessary information to complete the mandate renewal or termination process effectively and efficiently.
-
-Given the provided input schema for the form, it seems that the form is structured to collect the following key pieces of information:
-1. Landlord/Property Owner Full Name
-2. Physical Address of Property
-3. Current Tenant Name
-4. Date of Normal Lease Termination
-5. Landlord's Decision on Mandate Renewal
-6. Requested Renewal Period (if renewing)
-7. Proposed New Monthly Rental Amount (if renewing)
-8. Scheduled Date for Final Exit Inspection
-9. Acknowledgment of revised mandate terms
-10. Permission to begin marketing for new tenant immediately (if renewing)
-11. Confirmation of security deposit handling
-12. Special Instructions for the Agent (if any)
-13. Landlord Digital Signature
-14. Date of Submission
-
-The key fields include those marked as required (true) in the input schema, and the user must ensure to fill all required fields accordingly.
-
-</thinking>
-
 # Chas Everitt Mandate Renewal and Lease Termination - Help Guide
 ## Purpose
 The Chas Everitt Mandate Renewal and Lease Termination form is used to facilitate the renewal or termination of a real estate mandate between a landlord and Chas Everitt. It gathers necessary information to update or end the lease agreement.

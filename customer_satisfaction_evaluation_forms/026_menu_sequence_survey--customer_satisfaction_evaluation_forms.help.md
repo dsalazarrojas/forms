@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to gather information from customers about their experience with a menu sequence, likely in a restaurant or food establishment. The purpose of the form is to collect feedback and suggestions for improvement.
-The form is divided into several sections, each corresponding to a different page. However, the form does not actually ask for any page-specific information.
-The form asks customers about their sequence preferences with "Yes" and "No" options, followed by three menu items to choose from.
-It asks for a rating, but the options seem to be missing.
-It asks for comments, which is a free-text field.
-It asks for an email address, but it seems like it's not required.
-It asks for a phone number, but it's not clear what kind of phone number is expected.
-It asks for a customer satisfaction rating, but it's not clear how this is related to the previous question.
-It asks for a customer satisfaction rating with "Satisfied" and "Dissatisfied" options.
-It asks for customer comments again, but it's not clear what kind of comments are expected.
-</thinking>
-
 # Menu Sequence Survey - Help Guide
 ## Purpose
 This form is intended to gather information from customers about their experience with a menu sequence, likely in a restaurant or food establishment. The form collects feedback and suggestions for improvement.

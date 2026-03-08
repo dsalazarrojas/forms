@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for students to enroll in Instrument Flight Training with a chosen flight school and instructor. The form collects personal details of the students and their preferences for the training schedule. 
-
-The purpose of this form is to streamline the enrollment process, making it easier for students to find a suitable instrument flight training session that fits their schedule and preferences.
-
-To avoid duplication, please ensure that you have not already enrolled in an instrument flight training session with this flight school before submitting this form.
-
-</thinking>
-
 # Instrument Flight Training Enrollment Form - Help Guide
 ## Purpose
 The Instrument Flight Training Enrollment Form is designed to help students enroll in an instrument flight training session with a chosen flight school and instructor. This form collects personal details and preferences to streamline the enrollment process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a critical document that requires careful consideration to ensure the user understands the treatment, risks, and benefits associated with a hair spa protein mask treatment. The form's primary purpose is to gather information from clients about their understanding of the treatment, its risks, and benefits, as well as their personal details. It is not a medical or professional form and is intended for use in a non-medical setting. Ensure that the form is used in a way that is clear and concise for the end-user. Please do not skip any section as the form requires all sections to be completed accurately.
-
-</thinking>
-
 # Hair Spa Protein Mask Consent Form - Help Guide
 ## Purpose
 The Hair Spa Protein Mask Consent Form is a document that requires clients to confirm their understanding of the treatment, its risks, and benefits before proceeding with the hair spa service. This form is a part of our service protocol and ensures that clients are fully informed about the treatment they are about to receive.

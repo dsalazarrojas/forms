@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Strategic Planning Form is designed to help teams and consultants gather information about a company's strategic plans. It includes fields for company information, goals, strategies, and timeline, as well as options for selecting team members and meeting dates. This form ensures that all relevant details are captured, making it easier to collaborate and plan strategically. It's essential to ensure that all required fields are filled out accurately to avoid any discrepancies or issues with the submitted data.
 
 # Strategic Planning Form - Help Guide

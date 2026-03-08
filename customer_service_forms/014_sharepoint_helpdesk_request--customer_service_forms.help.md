@@ -1,7 +1,3 @@
-<thinking>
-The SharePoint Helpdesk Request form is designed for internal employees to request help and support from the IT team. It ensures that the team can efficiently manage and track requests. When filling out this form, please ensure that all relevant information is accurate and up-to-date to enable the IT team to resolve issues promptly.
-</thinking>
-
 # SharePoint Helpdesk Request - Help Guide
 
 ## Purpose

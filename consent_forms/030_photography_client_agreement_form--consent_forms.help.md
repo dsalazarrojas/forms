@@ -1,10 +1,3 @@
-<thinking>
-Photography Client Agreement Form
-
-This form aims to capture client information, contact details, and terms of service for a photography session. It seems that the form is designed to collect information that will likely be used for administrative, billing, or marketing purposes. This form does not appear to be a high-risk or sensitive form, and it's likely that the information collected will not be used for any purpose that would require additional regulatory or compliance checks. As a result, the required fields are not marked, and the form can be completed at the discretion of the client.
-
-</thinking>
-
 # Photography Client Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect client information, contact details, and terms of service for a photography session.

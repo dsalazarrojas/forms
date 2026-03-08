@@ -1,22 +1,3 @@
-<thinking>
-This form is likely used for users to register for an SEO training course. The purpose of this form is to gather relevant information from users to tailor the course experience to their needs. This form should not be used for duplicate registrations or to gather unnecessary information. The fields in this form will be explained in detail below to ensure a smooth and efficient registration process.
-
-The form has 7 fields:
-* First name
-* Last name
-* Email
-* Phone number
-* Course choice (Select one or multiple courses from the options provided)
-* Course date (The date of the course)
-* Course time (The time of the course)
-* Course day of the week (The day of the week the course will be held)
-* Course duration (The length of the course, e.g., 1, 2, or 3 hours)
-
-Please note that the form is not required, meaning users can skip it and still register for the course. However, providing accurate information will improve the course experience.
-
-This form will also help the course organizers to prepare the course content and schedule accordingly.
-</thinking>
-
 # SEO Training Enrollment Form - Help Guide
 ## Purpose
 The SEO Training Enrollment Form is designed to gather information from users to provide a tailored course experience.

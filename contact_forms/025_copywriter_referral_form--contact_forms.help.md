@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from copywriters who are interested in collaborating with our company. The form asks for contact information and context about their background, as well as how they were referred to us. This helps us to better understand their qualifications and potential fit for future projects.
-</thinking>
-
 # Copywriter Referral Form - Help Guide
 ## Purpose
 This form is used to collect information from copywriters who are interested in collaborating with our company. We use this form to gather context about their background and how they were referred to us.

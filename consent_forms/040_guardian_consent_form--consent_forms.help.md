@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guardian Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from a guardian for a specific activity or event. The guardian's name, contact information, and consent will be stored for reference.

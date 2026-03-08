@@ -1,5 +1,3 @@
-<thinking>Internal note for the designer/technical writer: This form is intended to collect information for the video editing process. The form's primary objective is to gather essential details about the project being worked on, including its deadline, the team members involved in editing, and the files that need to be edited. This form will be used by the video editing team to ensure that all necessary information is captured accurately and efficiently. It is crucial to check for duplication of work and ensure that the form is filled out completely and correctly to avoid any confusion or delays in the editing process.</thinking>
-
 # Video Editing Timeline Request Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for the video editing process. It helps the video editing team to accurately capture project details, deadlines, editor information, and files that need to be edited.

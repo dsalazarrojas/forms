@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to document patient-owned frame waivers for medical procedures, which may involve a patient's frame or equipment in a medical setting. Before proceeding, please ensure this form is not being duplicated or replaced by existing institutional or regulatory requirements. The goal is to ensure clear and accurate documentation of patient consent and liability waivers in a medical context.
-
-</thinking>
-
 # Patient Own Frame Waiver Form - Help Guide
 ## Purpose
 This form is used to document patient-owned frame waivers for medical procedures that involve a patient's personal equipment or frame. It collects essential information from the patient to ensure clear and accurate documentation of consent and liability waivers.

@@ -1,7 +1,3 @@
-<thinking>
-The form is for customers to place an order for a headstone, which is a grave marker or monument used to mark the final resting place of a deceased person. The purpose of this form is to collect relevant information from customers to fulfill their request for a headstone. The form will guide customers through the process of providing the necessary details to place an order. This form should only be used for customers who are placing an order for a headstone, and not for other services offered by the company.
-</thinking>
-
 # Tombstone Order Form - Help Guide
 ## Purpose
 

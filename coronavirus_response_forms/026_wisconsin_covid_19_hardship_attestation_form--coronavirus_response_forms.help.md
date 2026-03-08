@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help individuals in Wisconsin who are experiencing COVID-19 related hardships to self-certify their status. This information is used to determine eligibility for various programs and services that can provide relief during this time. Please ensure that you only fill out this form if you are actually experiencing hardship due to COVID-19.</thinking>
-
 # Wisconsin COVID 19 Hardship Attestation Form - Help Guide
 ## Purpose
 The Wisconsin COVID 19 Hardship Attestation Form is a document that allows individuals to self-certify their status as experiencing COVID-19 related hardship. This form is used to determine eligibility for various programs and services that can provide relief during this time.

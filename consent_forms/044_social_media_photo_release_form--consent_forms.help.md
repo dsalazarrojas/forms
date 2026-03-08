@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent from individuals for the release and usage of their photos on various social media platforms. This form is meant to ensure that individuals understand how their photos will be used and shared, and to obtain their explicit consent before doing so. This form should not be used for any other purpose or in conjunction with any other form, and it is not affiliated with or endorsed by any form platform. Before proceeding, please ensure that this form is relevant and not a duplicate of any other form you may already have on your platform.
-</thinking>
-
 # Social Media Photo Release Form - Help Guide
 ## Purpose
 This form is used to collect consent from individuals for the release and usage of their photos on various social media platforms.

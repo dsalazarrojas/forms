@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Study Interest Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The Public Art Mural Inclusion Consent Form is a document that allows a participant to provide their consent for the inclusion of a public art mural in a specified location. This form is designed to gather essential information from the participant regarding their involvement in the mural project, including their consent, participation details, and agreement to terms related to the artwork.
-
-The form is divided into several sections, which are explained below:
-
-</thinking>
-
 # Public Art Mural Inclusion Consent Form - Help Guide
 ## Purpose
 

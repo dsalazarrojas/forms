@@ -1,12 +1,3 @@
-<thinking>
-To ensure the Telesales Training Course Registration Form is correctly filled out, we should first consider whether the form is being used for its intended purpose. This form is designed to collect registration information from individuals interested in taking the Telesales Training Course. Before proceeding, please verify that the form is being used within this context and not for any other purpose.
-
-This form is intended to gather information about the individual registering for the course, including their personal details, course preferences, and any additional comments they may have. 
-
-Please note that all fields in this form are optional, but some may be required to be filled out depending on the specific circumstances of your usage. 
-
-</thinking>
-
 # Telesales Training Course Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals interested in taking the Telesales Training Course. 

@@ -1,8 +1,3 @@
-<thinking> 
-The emergency medicine case documentation consent form is designed to gather information about a patient's medical case, including their authorization, medical history, and contact details. This form is intended for emergency medicine cases, and the information collected will be used to provide appropriate medical care and treatment. To ensure that the form is completed correctly, please review the following instructions carefully.
-
-</thinking>
-
 # emergency_medicine_case_documentation_consent_form - Help Guide
 ## Purpose
 The emergency medicine case documentation consent form is used to gather essential information about a patient's medical case, including their authorization, medical history, and contact details. This form is necessary for emergency medical cases to ensure that patients receive proper care and treatment.

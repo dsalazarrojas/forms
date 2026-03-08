@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze the structure and the fields included. The form is named "Omicron Variant Survey" and it has various fields for collecting personal information. This suggests that the form is intended to collect data from individuals who may have come into contact with the Omicron variant of the coronavirus. The form appears to be used for health-related purposes, likely for contact tracing and monitoring.
-
-We should ensure that this form is not used for other purposes, as some of the fields may be sensitive in nature, such as medical history and contact information. To confirm, we will check with the relevant stakeholders and review the form's usage guidelines.
-
-The form has 25 fields, which may seem extensive. We should break it down into manageable sections to avoid overwhelming the user.
-
-</thinking>
 # Omicron Variant Survey - Help Guide
 ## Purpose
 The Omicron Variant Survey is a form used to collect data from individuals who have come into contact with the Omicron variant of the coronavirus.

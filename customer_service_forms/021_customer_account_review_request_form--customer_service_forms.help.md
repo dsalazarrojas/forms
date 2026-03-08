@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers regarding their experience with our customer service. The form aims to identify areas of improvement and provide a platform for customers to express their satisfaction or dissatisfaction with our service quality and communication. It is not necessary for every customer to fill out this form, but it will be helpful to gather valuable insights to enhance our service quality.
-Before filling out this form, please ensure that you are not duplicating the same request, as this will not expedite the resolution of your issue. 
-</thinking>
-
 # customer_account_review_request_form - Help Guide
 
 ## Purpose

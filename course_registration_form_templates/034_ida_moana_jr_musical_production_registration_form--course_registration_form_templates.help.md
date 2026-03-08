@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ida_moana_jr_musical_production_registration_form - Help Guide
 
 ## Purpose

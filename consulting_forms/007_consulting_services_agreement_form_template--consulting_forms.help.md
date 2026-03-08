@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather essential information for a consulting services agreement between a consultant and a client. It ensures that both parties have a clear understanding of the terms of the engagement, including the scope of work, payment terms, and responsibilities. This guide will walk you through each field of the form, explaining what each section and field is for, and how to complete it correctly.
-
-To ensure consistency, this guide will cover the following pages: 
-- Consultant Details
-- Client Details
-- Scope of Work
-- Financial Terms
-- Legal Agreement
-
-</thinking>
-
 # Consulting Services Agreement Form Template - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This help guide will cover the "Virtual Assistant / Online Business Manager Service Request" form, which is designed to collect information from potential clients who are interested in our virtual assistant or online business manager services. This form will be used to understand their specific needs and schedule a follow-up meeting or onboarding session. The form is intended to be completed by potential clients who are looking for professional assistance with tasks such as email management, calendar organization, and business operations.
-
-To ensure that the form is filled out correctly and efficiently, please review each field carefully. If you're unsure about any part of the form, please contact our support team for assistance.
-
-This form is divided into several sections that will guide you through the process of requesting our services.
-
-</thinking>
-
 # Virtual Assistant / Online Business Manager Service Request - Help Guide
 ## Purpose
 The Virtual Assistant / Online Business Manager Service Request form is designed to collect information from potential clients who are interested in our virtual assistant or online business manager services. This form will be used to understand their specific needs and schedule a follow-up meeting or onboarding session.

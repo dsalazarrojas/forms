@@ -1,7 +1,3 @@
-<thinking>
-This form is a Social Awareness Film Participation Consent Form, designed to gather information from participants and their creators. The form is used to collect data and consent for public use. The purpose of this form is to ensure that all participants and filmmakers are aware of and agree to how their information will be used in the Social Awareness Film. This form is an original adaptation, not affiliated with, endorsed by, or derived from any form platform. It is released under a Creative Commons (CC BY 4.0) license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-</thinking>
-
 # Social Awareness Film Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants and filmmakers in Social Awareness Films, ensuring they understand how their data will be used. The form requires consent to release information for public use.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to collect information about the vaccine availability at a specific date and time. This form is intended to gather data from individuals who are interested in getting vaccinated or have access to vaccines. The form will not collect any duplicate entries for the same date and time.
 
 </thinking>

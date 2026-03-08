@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Short Answer Survey - Help Guide
 
 ## Purpose

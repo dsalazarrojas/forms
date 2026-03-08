@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for patients to provide their personal and contact information, as well as consent for their hospital admission. The form will be used by healthcare providers to gather necessary data for patient care. This form should not be submitted multiple times for the same patient.
-
-The form includes fields for patient name, relationship status, emergency contact, address, phone, email, medical history, emergency contact phone, emergency contact email, patient signature, healthcare provider signature, date, time, patient consent, and healthcare provider consent.
-</thinking>
-
 # Hospital Admission Permission Form - Help Guide
 ## Purpose
 The Hospital Admission Permission Form is designed for patients to provide their personal and contact information, as well as consent for their hospital admission.

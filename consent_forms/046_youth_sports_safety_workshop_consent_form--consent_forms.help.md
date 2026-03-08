@@ -1,7 +1,3 @@
-<thinking>
-The Youth Sports Safety Workshop Consent Form is a crucial document used in sports settings to ensure that parents or guardians are aware of and consent to the potential risks associated with participation in youth sports, while also providing necessary information for emergency situations. The form is typically used for events or programs where minors are involved, such as sports camps, clinics, or other activities that require supervision and care. It's essential to complete this form to provide informed consent and ensure that all necessary emergency contact information and medical details are up-to-date. Please ensure that you have the necessary permissions and details before proceeding.
-</thinking>
-
 # youth_sports_safety_workshop_consent_form - Help Guide
 ## Purpose
 

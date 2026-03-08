@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information from users about the status of their office reopening plans, including the readiness of the office to reopen, the planned reopening date, and other relevant details such as safety measures, employee testing and vaccination requirements, and remote work options. This form is likely to be used by administrators or managers to collect data and track the reopening process of offices that have been closed due to the COVID-19 pandemic.
-
-The form is designed to be completed by office administrators or managers who have information about the office's reopening plans. This form will help them to provide a consistent and accurate picture of the office's status and plans.
-
-Before completing this form, please ensure that you are an authorized representative of the office and that you have access to the necessary information about the office's reopening plans.
-
-</thinking>
-
 # Office Reopening Survey - Help Guide
 ## Purpose
 This form is used to gather information about the status of your office reopening plans. Please provide as much detail as possible to help us track the reopening process.

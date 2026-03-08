@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by customers to access our customer loyalty portal. The purpose of this form is to collect information required to verify the customer's identity and determine their eligibility for access to the loyalty portal. This form will be reviewed and approved internally to ensure the information provided is accurate and valid.
-</thinking>
-
 # Customer Loyalty Portal Access Form - Help Guide
 
 ## Purpose

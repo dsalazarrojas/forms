@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request credit references for a credit application. It is intended for individuals to provide information about their current or past employment. The form is designed to gather relevant details about the applicant's employment history, including their employer, job title, employment status, and dates of employment. Before completing this form, ensure that you have the necessary permissions to access and share this information with the requesting party. Please do not submit duplicate requests, as this may cause delays in the credit application process.
-</thinking>
-
 # Credit Reference Request - Help Guide
 ## Purpose
 This form is used to request credit references for a credit application. It is intended for individuals to provide information about their current or past employment.

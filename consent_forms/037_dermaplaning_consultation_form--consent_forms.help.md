@@ -1,6 +1,4 @@
-> <thinking> This form is intended to be filled out by a medical professional to gather information about a patient's dermaplaning consultation. It is used to ensure that all necessary information is collected before proceeding with the treatment. Please fill out the form carefully and accurately to provide the best possible care for your patient. </thinking>
-
-# Dermaplaning Consultation Form - Help Guide
+> # Dermaplaning Consultation Form - Help Guide
 ## Purpose
 The Dermaplaning Consultation Form is a crucial document that helps medical professionals gather essential information about a patient's dermaplaning consultation. It is used to ensure that all necessary details are collected before proceeding with the treatment.
 

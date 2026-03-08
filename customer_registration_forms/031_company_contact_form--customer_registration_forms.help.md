@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical component of our customer registration process, and its completion is mandatory for all customers. The form serves as the primary means of contact for our company, and the information collected will be used to establish a personalized relationship with each customer. It is essential to provide accurate and up-to-date information to ensure that our team can respond promptly and effectively to their inquiries. To avoid duplication, please do not submit multiple forms with the same contact information.
-</thinking>
-
 # Company Contact Form - Help Guide
 ## Purpose
 The Company Contact Form is a crucial tool for customers to provide their contact information and inquire about various topics of interest. By filling out this form, customers can establish a connection with our company and receive personalized responses to their messages.

@@ -1,6 +1,4 @@
-> <thinking>...this form is used by researchers to release their published medical studies for review, and by reviewers to verify the study's publication status and sign off on its acceptance or rejection. This is a standard template, with fields for study title, publication status, study id, researcher name, institution name, department name, contact information, and signatures of publication and review. Reviewers are also required to input their contact information and provide their signature and review date...</thinking>
-
-# Medical Study Publication Release Form - Help Guide
+> # Medical Study Publication Release Form - Help Guide
 ## Purpose
 The Medical Study Publication Release Form is a standard template used by researchers to release their published medical studies for review. This form helps verify the study's publication status and ensures the accuracy and credibility of the publication.
 

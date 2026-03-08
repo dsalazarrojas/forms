@@ -1,6 +1,3 @@
-<thinking>
-This form is for borrowers to disclose details about their payday loan, including the amount borrowed, loan term, and borrower information. This form is not intended for lenders or other third parties. Please ensure you are filling out this form as a borrower before proceeding.
-</thinking>
 # Payday Loan Disclosure Form - Help Guide
 
 ## Purpose

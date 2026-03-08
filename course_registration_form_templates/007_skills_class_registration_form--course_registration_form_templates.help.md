@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from participants about their skills class registration. This form is used to gather details about the participants and their preferences for the skills class. The form consists of three main sections: participant details, class selection, and preferred date. 
-
-Before proceeding, ensure that you have the necessary permissions and that the form is not a duplicate, especially if you're registering multiple participants at once.
-
-</thinking>
-
 # Skills Class Registration Form - Help Guide
 ## Purpose
 The Skills Class Registration Form is designed to collect essential information from participants about their skills class registration. This form helps us understand your preferences and requirements for the training session.

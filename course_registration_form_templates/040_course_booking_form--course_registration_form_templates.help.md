@@ -1,14 +1,3 @@
-<thinking>
-This form is used to book a course for a student. It collects information about the course and student, including the course name, start and end dates, student name, email, and phone number, as well as any additional comments the student may have about the booking. 
-
-The form is designed to be simple and easy to use, but it's essential to provide accurate and complete information to ensure that the course can be booked successfully. 
-
-Please check that you are booking the correct course and that all required fields are filled in.
-
-The following form fields are optional, but providing more details can help the booking process and provide a better experience for both you and the course staff.
-
-</thinking>
-
 # Course Booking Form - Help Guide
 ## Purpose
 This form is used to book a course for a student, ensuring that you provide accurate and complete information to facilitate a smooth booking process.

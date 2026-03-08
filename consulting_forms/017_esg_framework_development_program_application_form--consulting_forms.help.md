@@ -1,25 +1,3 @@
-<thinking>
-The ESG Framework Development Program Application Form is designed for organizations interested in participating in the ESG Framework Development Program. This form gathers information about the applicant's organization, goals, and commitment to implementing ESG principles. The form will help assess an organization's readiness to develop and integrate ESG frameworks, identify potential areas of improvement, and determine the level of participation in the program.
-
-Before starting this form, please ensure that:
-
-1. Your organization is a legitimate entity with a genuine interest in ESG development.
-2. You are authorized to represent your organization and have the necessary permissions to fill out this form.
-3. You are not duplicating the application for the same organization.
-4. You have the necessary time and resources to answer the questions accurately and thoroughly.
-
-Please be aware that this form is designed to be completed by one person per organization. If your organization has multiple departments or teams interested in the ESG Framework Development Program, please ensure that only one representative fills out this form.
-
-Please note that the form is divided into the following sections:
-
-1. Contact information
-2. Organization details
-3. Goals and participation
-4. ESG development and readiness
-
-Before proceeding, please review the help guide to understand each field's purpose and requirements.
-</thinking>
-
 # ESG Framework Development Program Application Form - Help Guide
 
 ## Purpose

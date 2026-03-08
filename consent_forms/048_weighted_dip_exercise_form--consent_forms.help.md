@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a specific exercise, likely a dip exercise, where the user can input details such as the date of the exercise, weight used, number of reps, and equipment used, as well as notes. This form should only be filled out for a single workout, and the user should be able to input details for one workout at a time. This form may be part of a larger system for tracking progress or reporting on exercise data.
-</thinking>
-
 # Weighted Dip Exercise Form - Help Guide
 
 ## Purpose

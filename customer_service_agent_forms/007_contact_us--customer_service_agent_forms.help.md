@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow customers to reach out to the support team with their inquiries, concerns, or feedback. This form is meant for customers who want to get in touch with the team regarding general questions, technical support, billing, or to provide feedback. It is a one-time contact form, not a recurring subscription or account registration form. This form is designed to gather information for the support team to address customer concerns efficiently. 
-</thinking>
-
 # Contact Us - Help Guide
 ## Purpose
 Contact us with your questions, concerns, or feedback through this form. Our support team is here to help you with general questions, technical support, billing, or to provide feedback. 

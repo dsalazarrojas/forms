@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback on remote university classes from students. It helps instructors evaluate their performance and identify areas for improvement. Please note that this form should not be used to evaluate classes that have not yet occurred. The purpose of this form is to gather subjective feedback, so please answer honestly and to the best of your ability. This form has been designed with care to ensure that it is user-friendly and easy to complete, but if you have any questions or concerns, please reach out to the relevant support team.
-</thinking>
-
 # Remote University Class Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Remote University Class Satisfaction Questionnaire is a tool used to collect feedback from students about their experience in a remote university class. It's a way for instructors to gauge their performance, understand student needs, and improve the course content and delivery.

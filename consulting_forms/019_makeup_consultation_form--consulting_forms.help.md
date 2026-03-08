@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers to provide personalized makeup consultation services. The form is used to gather data about the customer's preferences, skin type, and other relevant details to offer tailored advice on makeup products and techniques. This form is not intended to collect sensitive or confidential information. 
-
-We will assume that the customer has the right to access and view the data they provide. If the customer is concerned about their data, they can contact our support team for more information.
-
-</thinking>
-
 # Makeup Consultation Form - Help Guide
 
 ## Purpose

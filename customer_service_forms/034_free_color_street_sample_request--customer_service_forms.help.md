@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to allow customers to request free street samples from your company's customer service team. The form is used for customers to provide their contact information and specify the type of color they need. The form will be reviewed by a customer service representative to ensure that the request is valid and meets the company's policies. Before starting, ensure you have not previously requested a free street sample from us and that you understand our policies regarding free street sample requests.
-</thinking>
-
 # free_color_street_sample_request - Help Guide
 ## Purpose
 This form is for customers to request free street samples from your company's customer service team.

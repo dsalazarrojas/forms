@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants and instructors for a kayaking safety course, ensuring everyone's safety and well-being during the activity. This form is not affiliated with any specific company or platform, but rather an original creation based on public metadata. The form's purpose is to collect essential details about each participant and instructor, including contact information, course details, and signatures from all parties involved.
-</thinking>
-
 # Kayaking Safety Course Registration Form - Help Guide
 ## Purpose
 This form is used to gather important information about each participant and instructor for a kayaking safety course. It helps us ensure everyone's safety and well-being during the activity.

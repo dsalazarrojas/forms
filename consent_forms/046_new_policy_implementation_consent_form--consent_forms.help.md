@@ -1,5 +1,3 @@
-<thinking>...this form is used to obtain consent from stakeholders for a new policy implementation. The form is used to ensure that all relevant stakeholders have provided their consent before proceeding with the new policy. The form is not used for other purposes. The form is not meant to be a substitute for other forms or processes. Please ensure that you have not already filled out this form for the same purpose. If you are unsure or have any questions, please reach out to the responsible party... </thinking>
-
 # New Policy Implementation Consent Form - Help Guide
 ## Purpose
 The New Policy Implementation Consent Form is used to obtain consent from stakeholders for new policy implementations. This form ensures that all relevant stakeholders have provided their consent before proceeding with the new policy.

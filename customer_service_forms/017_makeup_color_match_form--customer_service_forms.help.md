@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Color Match Form - Help Guide
 ## Purpose
 This form is designed to help match a customer's skin and hair color to a makeup color palette that suits their needs. It will guide them through a series of questions to determine their skin type, color preference, hair color, complexion type, face shape, and skin condition to provide personalized recommendations.

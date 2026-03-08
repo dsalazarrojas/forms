@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from patients who are receiving the Moderna COVID-19 vaccine. The form is part of the "coronavirus_response_forms" category. The purpose of this form is to gather patient consent and information for the vaccination process. Before proceeding, ensure that this form is relevant to your specific use case and not a duplicate of existing forms.
-
-Please note that the form asks for patient consent, vaccination details, and other information to ensure the patient's safety and suitability for the vaccine. The form's structure is designed to guide patients through the necessary steps and questions for the vaccination process.
-</thinking>
 # moderna_covid_19_vaccine_consent_form_cpesn--coronavirus_response_forms - Help Guide
 
 ## Purpose

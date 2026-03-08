@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by NGO caseworkers to obtain communication preferences and contact details from clients or individuals they work with. It is not a comprehensive form, and it is meant to be used for a specific purpose, so we do not want to overcomplicate it. We should check if this form is truly needed and if the information gathered will be used consistently across all caseworkers.
-</thinking>
-
 # NGO Caseworker Communication Consent Form - Help Guide
 ## Purpose
 This form is designed for caseworkers to collect communication preferences and contact details from clients or individuals they work with. It helps to establish a clear and respectful communication channel and ensures that all parties are on the same page.

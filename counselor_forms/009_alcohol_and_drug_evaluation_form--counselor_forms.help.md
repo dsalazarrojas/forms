@@ -1,5 +1,3 @@
-<thinking>Alcohol And Drug Evaluation Form is a standardized assessment tool used to evaluate a patient's substance use history, motivations, and readiness for treatment. This form is designed to be completed by patients and provides a comprehensive picture of their substance use habits and treatment needs. Please ensure that this form is not being duplicated or used in situations where it was not intended, such as in court proceedings or non-clinical settings. Additionally, please note that the form's purpose is to assess the patient's situation and provide a treatment plan, not to determine guilt or shame.</thinking>
-
 # Alcohol And Drug Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's substance use history, motivations, and readiness for treatment. It helps the evaluator to assess the patient's needs and provide a comprehensive treatment plan.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Article Submission Tool EntranceUniversity - Help Guide
 
 ## Purpose

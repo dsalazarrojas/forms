@@ -1,5 +1,3 @@
-<thinking>**This form, "product_range_improvement_survey", is a tool used to gather feedback from customers about their experience with a specific product or product range. This form is designed to be a simple and straightforward way to collect opinions and suggestions from customers. The data collected will be used to identify areas for improvement and make informed decisions about product development and quality. Please ensure that the feedback provided is relevant and not a duplicate of existing information. The form is intended to be a one-time submission, and it's essential to fill it out thoroughly and accurately.</thinking>
-
 # product_range_improvement_survey - Help Guide
 ## Purpose
 The "product_range_improvement_survey" is a tool designed to gather feedback from customers about their experience with a specific product or product range. This form helps us understand your opinions and suggestions, which will be used to improve our products and services.

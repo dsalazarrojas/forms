@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect sensitive and personal information from a domestic violence survivor. As an expert form designer, I will ensure that this guide is clear, concise, and respectful of the survivor's privacy and well-being. I will also make sure to explain each field in a way that is accessible and easy to understand for the user.
-
-This form is used to document the details of a domestic violence survivor's experience, including general information, perpetrator's details, and the survivor's support system. It is crucial to approach this form with care and understanding, acknowledging the survivor's trust in sharing their story.
-
-Before filling out this form, please take a moment to review the following fields and their explanations:
-
-</thinking>
-
 # Domestic Violence Survivor Story Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with domestic violence. It is a confidential and safe space for you to share your story. Your responses will be handled with care and respect.

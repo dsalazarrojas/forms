@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a customer account application, likely for a company's internal purposes. It captures information about the customer such as name, email address, job title, and department they belong to. The purpose of this form is not explicitly stated, so the form's purpose and its relevance are subject to interpretation. To ensure accuracy, it is recommended that the form be reviewed and validated by the relevant teams before being used in production. This validation process should check for duplicate entries and verify the form's relevance to the business requirements. The form's fields and structure may change over time, so it is essential to regularly review and update the form to ensure it remains accurate and relevant.
-</thinking>
-
 # Customer Account Application Form - Help Guide
 ## Purpose
 This guide is designed to help you understand how to complete the Customer Account Application Form, which is used to capture information about a customer's account details for internal purposes.

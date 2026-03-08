@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Vendor Agreement Extension Form, which is used to extend the terms of an existing contract between a client and a vendor. It's likely used to update the contract's duration or status. The form should be filled out by both the client and the vendor to agree on the terms of the extension.
-</thinking>
-
 # Vendor Agreement Extension Form - Help Guide
 ## Purpose
 This form is used to extend the terms of an existing contract between a client and a vendor. It's used to update the contract's duration or status.

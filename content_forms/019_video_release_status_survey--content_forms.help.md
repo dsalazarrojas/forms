@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for tracking and documenting the status of video releases on various platforms. The purpose of this form is to gather information about each video's release status, release dates, and relevant contact information for further communication. This form is a critical tool for maintaining accurate records and facilitating collaboration between teams.
-
-Before proceeding, please ensure that you have not already completed this form for the same video. Duplicate submissions may lead to confusion and errors in the record-keeping process.
-
-</thinking>
-
 # video release status survey - Help Guide
 ## Purpose
 This form is used to track and document the status of video releases on various platforms.

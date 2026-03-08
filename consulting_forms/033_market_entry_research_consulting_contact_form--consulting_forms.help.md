@@ -1,9 +1,3 @@
-<thinking>
-To create a helpful guide for the "market_entry_research_consulting_contact_form" form, I'll need to understand the internal reasoning behind its purpose and how it's used within the organization. Please provide more information about the context in which this form is used and the expected outcomes from filling it out.
-
-Assuming the form is used for market entry research consulting contacts, I will create a guide based on the provided YAML structure.
-</thinking>
-
 # market_entry_research_consulting_contact_form - Help Guide
 ## Purpose
 This form is designed to collect contact information and details from potential clients or partners for market entry research consulting services. The form helps the consulting team to understand the client's needs, preferences, and project status, facilitating efficient communication and project coordination.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect necessary information for a family child photography contract. The purpose of this form is to gather information about the photographer, client, and session details in order to provide a clear and comprehensive agreement between the client and photographer. This form will help ensure that both parties are on the same page and that the contract is executed properly. This information will be used to create a contract that can be used as a reference point for future interactions between the client and photographer. 
-</thinking>
-
 # FamilyChild Photography Contract Form - Help Guide
 ## Purpose
 This form collects necessary information for a family child photography contract.

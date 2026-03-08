@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by contractors or property owners to document final payment details for a project, including payment amount, payment method, and lien release information. It's crucial that this form is used correctly to ensure accurate and clear record-keeping. Please review your project details carefully before completing this form. Ensure that you are using the most recent version of the form, as changes may have been made to accommodate updates or changes in your project status. If you are unsure about any section of this form, please consult with the project administrator or owner before proceeding.
-</thinking>
-
 # Final Payment Affidavit And Lien Release - Help Guide
 ## Purpose
 This form is used to document final payment details for a project, including payment amount, payment method, and lien release information.

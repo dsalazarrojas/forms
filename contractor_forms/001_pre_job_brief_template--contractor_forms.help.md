@@ -1,12 +1,3 @@
-<thinking>
-This form, titled "pre_job_brief_template", is designed to create a template for pre-job briefs. A pre-job brief is a document that outlines the essential details of a job or project, providing a clear and concise summary of the task, its objectives, and the required deliverables. This form helps in standardizing the process of creating pre-job briefs, ensuring consistency and accuracy in the information provided.
-
-This form is intended to be used by various teams and stakeholders within an organization to create pre-job briefs for different projects. It is not affiliated with or endorsed by any form platform, and is an original adaptation created using AI.
-
-Before proceeding, it is essential to understand that this form is not designed to replace human judgment or decision-making. It is meant to provide a structured framework for creating pre-job briefs, and its purpose is to facilitate a more efficient and standardized process.
-
-</thinking>
-
 # pre_job_brief_template - Help Guide
 ## Purpose
 The "pre_job_brief_template" is a form designed to create a template for pre-job briefs, which outlines the essential details of a job or project.

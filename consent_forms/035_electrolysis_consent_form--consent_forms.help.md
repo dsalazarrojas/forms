@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect informed consent from a client for an electrolysis procedure. The purpose of the form is to ensure that the client is aware of the risks and benefits associated with the procedure and to obtain their agreement to participate. This form should be used in conjunction with other documentation and medical history.
-
-</thinking>
-
 # Electrolysis Consent Form - Help Guide
 ## Purpose
 The Electrolysis Consent Form is a document that collects informed consent from a client for an electrolysis procedure. It is used to ensure that the client is aware of the risks and benefits associated with the procedure and to obtain their agreement to participate.

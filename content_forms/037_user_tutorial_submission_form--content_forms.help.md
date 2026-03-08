@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submissions, this form will only allow submissions from unique users once a day. Please ensure your submission is accurate and complete before proceeding. This form is intended for user tutorials, so please provide information relevant to that purpose.
-</thinking>
-
 # User Tutorial Submission Form - Help Guide
 ## Purpose
 This form is designed to collect user tutorials from users. It's a simple and structured way to gather information about user tutorials, including name, email address, preferred category, favorite tags, preferred date, preferred time, and any additional notes. Please use this form to submit your user tutorial and help us improve our product.

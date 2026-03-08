@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to allow users to submit entries for a photo contest. The form will be used to collect information about the contest entry, including the uploaded photo, description, and any additional comments or information. This form will help ensure that all contest entries are properly documented and easily accessible for review.
-Please ensure that this form is only used for the intended purpose of the photo contest. Do not use this form for any other purpose or context.
-Please note that this form is not intended to be a replacement for other forms or processes, and should not be used to duplicate efforts or submissions.
-</thinking>
-
 # Photo Contest Entry Form - Help Guide
 ## Purpose
 The Photo Contest Entry Form is a simple, easy-to-use form designed to collect information from users who want to submit their entries for the photo contest. This form is intended to be completed by users who have a photo they would like to submit for judging.

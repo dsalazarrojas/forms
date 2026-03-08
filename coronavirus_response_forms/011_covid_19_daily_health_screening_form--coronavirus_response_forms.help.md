@@ -1,14 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and requirements of the COVID 19 Daily Health Screening Form. The form is intended to gather critical health-related information from users to help healthcare professionals assess their fitness to enter certain areas or facilities during the COVID 19 pandemic.
-
-To avoid duplication and ensure accuracy, users are expected to complete this form only once for each screening occasion. This guide will help users understand each field's purpose and how to complete it correctly.
-
-Please note that the form consists of several sections, each with specific fields that cater to different aspects of the user's health status. It is crucial to provide accurate and honest responses to these questions to facilitate efficient and accurate screening processes.
-
-The guide is structured to cover the following key topics: Form Purpose, How to Complete This Form, and Field-by-Field Explanation. 
-
-</thinking>
-
 # COVID 19 Daily Health Screening Form - Help Guide
 ## Purpose
 The COVID 19 Daily Health Screening Form is designed to help healthcare professionals assess an individual's health status and fitness to enter certain areas or facilities during the COVID-19 pandemic. This form gathers information about the user's symptoms, exposure history, and recent activities to ensure their safety and the safety of others.

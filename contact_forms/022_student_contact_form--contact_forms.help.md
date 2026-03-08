@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to fill out the "Student Contact Form". The form is designed to collect information about students and their contacts. This guide assumes that the user is familiar with the general concept of a contact form and its purpose. The form has 12 fields, each serving a specific purpose. This guide will explain each field in detail, ensuring that the user understands its intended use and what type of information is required.
-</thinking>
-
 # Student Contact Form - Help Guide
 ## Purpose
 The Student Contact Form is a tool used to gather essential contact information about students and their contacts. This form is used to create a record for each student that can be referenced later for communication and correspondence.

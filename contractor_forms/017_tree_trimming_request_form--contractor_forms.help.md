@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and misinterpretation, we will only allow one Tree Trimming Request Form to be completed per tree. Please ensure that you provide accurate information and services needed for a successful trimming.
-</thinking>
-
 # Tree Trimming Request Form - Help Guide
 ## Purpose
 

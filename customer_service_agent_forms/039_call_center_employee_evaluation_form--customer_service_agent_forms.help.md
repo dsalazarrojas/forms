@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for evaluation of call center employees. It will collect data to assess the performance of each employee across various categories including job knowledge, communication skills, customer service quality, problem-solving ability, teamwork, reliability and attendance, and performance metrics. The form aims to evaluate the employee's performance during a specific period, and the evaluator will provide ratings on a scale from Excellent to Poor. It also allows for inputting key strengths and areas of improvement, and development plans for the next period. 
-</thinking>
-
 # Call Center Employee Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of call center employees across various categories including job knowledge, communication skills, customer service quality, problem-solving ability, teamwork, reliability and attendance, and performance metrics.

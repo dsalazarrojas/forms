@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and structure of the Photography Portfolio Inquiry Form. This form is designed for users to inquire about various photography services. To complete this form, users must ensure they are providing accurate and relevant information for the intended purpose. Please ensure that you have all necessary permissions and details to complete this form.
-
-</thinking>
-
 # Photography Portfolio Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect information from users interested in inquiring about different photography services. It helps us understand their needs and preferences for photography services.

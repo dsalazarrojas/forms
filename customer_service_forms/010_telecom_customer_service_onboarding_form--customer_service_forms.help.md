@@ -1,24 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from customers for telecom service onboarding purposes. This form should be used to collect customer details, service preferences, installation requests, contact information, and other relevant data for the telecom company's internal records. This form should not be used for other purposes, such as sales or marketing efforts. Please ensure that all the required fields are filled accurately and thoroughly, as this information will be used to provide tailored customer service. 
-
-Before filling out this form, please note that some fields are optional, and you should only fill them out if you have the relevant information. Additionally, some fields require specific formats (such as phone numbers or emails) to ensure accuracy. If you are unsure about any field, please contact your customer service representative for assistance.
-
-Please fill out this form with the following details:
-
-* Customer details: Enter your name and address to help us identify you quickly and efficiently.
-* Service preferences: Select your service preference (Home, Business, or Mobile) to help us tailor our services to your needs.
-* Installation requests: Provide any specific requests you have for your service installation.
-* Contact information: Enter your phone numbers and email addresses to ensure we can contact you effectively.
-* Installation details: If you have a preferred installation date and time, please let us know.
-* Notes: Add any additional comments or information you think we should know.
-* Assigned details: Let us know if you have any assigned technicians or tools.
-* Service type: Indicate if you need specific services.
-* Billing cycle: Choose how often you want to be billed for your services.
-* Contract terms: Confirm if you need to discuss contract terms or have any questions.
-
-Before submitting, please ensure all required fields are completed accurately and thoroughly. If you have any questions or concerns, contact your customer service representative for assistance.
-</thinking>
-
 # Telecom Customer Service Onboarding Form - Help Guide
 ## Purpose
 This form is designed to help us better understand your telecom service needs and preferences for a smooth and efficient service onboarding process.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for requesting a video recognition, likely used to create promotional or celebratory content. The requestor is required to provide information about themselves, the branch being recognized, and the desired video content. The form includes options for specifying the video purpose, style, music, and length, as well as distribution channels. The requestor can also attach supporting files or note any special requests or additional information.
-
-</thinking>
-
 # Branch Recognition Video Request - Help Guide
 ## Purpose
 

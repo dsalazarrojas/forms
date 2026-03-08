@@ -1,5 +1,3 @@
-<thinking>As this form is for submitting leaderboard entries for quizzes, its purpose is to collect information about participants who have scored well in a quiz. This form is likely used by quiz administrators or organizers to track participant scores, names, and other relevant details. To ensure data accuracy and prevent duplication, it's essential to verify that the form is filled out correctly and that entries are not submitted multiple times. This will help maintain the integrity of the leaderboard and ensure that it reflects the correct scores and rankings of participants. It is not designed for public access, but rather for those responsible for tracking and updating quiz scores. To fill out this form, you should follow these steps:</thinking>
-
 # Quiz Leaderboard Submission Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>**Customer And Contract Details Form - Help Guide**
-The purpose of this form is to collect customer and contract details. This form is meant to be used for general customer information and contract details, such as customer name, contact information, and contract specifics.
-To confirm that this form is being used correctly, ensure that:
-* The form is only used for customer and contract details and not for other purposes.
-* The form is not being used to collect redundant or unnecessary information.
-* The form is being completed accurately and thoroughly.
-</thinking>
-
 # Customer And Contract Details Form - Help Guide
 
 ## Purpose

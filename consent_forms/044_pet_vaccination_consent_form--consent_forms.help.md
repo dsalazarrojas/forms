@@ -1,7 +1,3 @@
-<thinking>
-This form is a Pet Vaccination Consent Form, used for pet owners to provide consent for vaccinations for their pets. The form is designed to collect information about the benefits and risks of vaccination, the type of vaccination, and other relevant details. This form is likely used in veterinary clinics or hospitals.
-</thinking>
-
 # Pet Vaccination Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from pet owners for vaccinations for their pets. This form helps ensure that pet owners are aware of the benefits and risks of vaccination and can provide their consent for the procedure.

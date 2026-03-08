@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Documentary Soundtrack Approval Request Form - Help Guide
 
 ## Purpose

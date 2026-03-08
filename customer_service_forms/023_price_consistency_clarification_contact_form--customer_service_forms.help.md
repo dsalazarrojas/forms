@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form `price-consistency-clarification-contact-form` is used to collect information from customers to clarify price discrepancies. It is essential to fill out this form to ensure accurate price consistency and provide an opportunity to contact the customer for further clarification. 
 
 This form helps to gather details about the customer's name, email, and preferred language and currency for effective communication. The customer can also provide comments, relevant details, and preferred contact channels and methods. Additionally, the form collects information about the price and its alias. The form is designed to be completed by customers to help address price inconsistencies and improve customer service.

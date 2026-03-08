@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: The "Contact Form Space Theme" is designed to collect information from space travelers, including their personal details, mission objectives, and stardate of submission. This form allows users to submit their contact information and mission inquiry details in a structured and organized manner, making it easier for administrators to process and respond to their requests.
-
-Form relevance: This form is relevant to any space-themed application or website where users need to contact the administrators or submit mission inquiries.
-
-Non-duplication: Please note that this form was generated using AI and does not replicate any existing form platform, ensuring that it is an original and unique adaptation of a contact form.
-
-</thinking>
-
 # Contact Form Space Theme - Help Guide
 ## Purpose
 The "Contact Form Space Theme" is designed to collect information from space travelers for contact and mission inquiry purposes.

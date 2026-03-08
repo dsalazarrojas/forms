@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to track interactions between patients and healthcare professionals for contact tracing and quality improvement purposes. To ensure consistency, the form should be filled out for each patient that a healthcare professional has recently contacted. This form will likely be used in conjunction with other data sources, so it is crucial that the data is accurate and complete. The fields are designed to collect information efficiently and minimize the risk of duplication.
-</thinking>
-
 # recently_contacted_list - Help Guide
 ## Purpose
 The recently_contacted_list form is used to record information about patients that healthcare professionals have recently contacted. This data helps in contact tracing and quality improvement processes.

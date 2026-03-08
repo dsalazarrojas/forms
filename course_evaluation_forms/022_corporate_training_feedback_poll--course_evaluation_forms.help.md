@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I was a bit stumped by the provided YAML. At first glance, it appears to be a complex form with a variety of fields, including text inputs, email, dates, times, and select multiple fields. However, I'll try to break it down and create a clear user-facing help guide.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluation data about workshops. The form is used to gather information from employees about their experiences and opinions on the workshops they have attended.

@@ -1,7 +1,3 @@
-<thinking>... internal reasoning block: This form is intended to facilitate the process of recording and tracking sales of puppies between sellers and buyers. Each field is essential for ensuring a smooth and secure transaction. Seller and buyer information should be accurate and up-to-date. This form should be completed once a sale is finalized. 
-
-</thinking>
-
 # puppy_contract_form - Help Guide
 
 ## Purpose

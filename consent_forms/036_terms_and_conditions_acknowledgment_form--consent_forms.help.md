@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Terms And Conditions Acknowledgment Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain acknowledgment from users about their understanding of the terms and conditions of a service or product. This form ensures that users have reviewed and agreed to the terms, which is essential for legal and administrative purposes.

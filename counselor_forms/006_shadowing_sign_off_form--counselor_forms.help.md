@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be a comprehensive resource for end-users filling out the Shadowing Sign Off Form, a document used to record an individual's shadowing experience. This form is crucial in maintaining accurate and up-to-date records of shadowing hours, hours worked, hours earned, and hours paid, as well as supervisor and trainee signatures. To use this form efficiently, please ensure that you are familiar with its purpose and requirements before proceeding. This form should be filled out only once for each shadowing experience, and not duplicated for the same experience. Please review this guide carefully to understand each field's significance in documenting your shadowing hours accurately.
-</thinking>
-
 # Shadowing Sign Off Form - Help Guide
 ## Purpose
 The Shadowing Sign Off Form is a document used to record and document an individual's shadowing experience. It helps in maintaining accurate and up-to-date records of shadowing hours, hours worked, hours earned, and hours paid, as well as supervisor and trainee signatures. This form is essential for tracking and managing shadowing experiences effectively.

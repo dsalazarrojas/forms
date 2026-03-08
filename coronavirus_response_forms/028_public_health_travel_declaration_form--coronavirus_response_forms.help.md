@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals about their travel history and potential exposure to COVID-19. It is intended to be used for public health purposes, such as contact tracing and risk assessment. This form should only be completed by individuals who have traveled recently or have been exposed to someone who has traveled recently. If you have already completed this form, please do not fill it out again.
-
-</thinking>
-
 # public_health_travel_declaration_form - Help Guide
 ## Purpose
 This form is used to report recent travel history and potential exposure to COVID-19 for public health purposes.

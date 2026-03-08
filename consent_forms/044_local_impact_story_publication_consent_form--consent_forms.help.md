@@ -1,5 +1,3 @@
-<thinking>As a consent form expert, I must consider the purpose and structure of the Local Impact Story Publication Consent Form. This form aims to collect information from individuals whose stories or data may be published, and it's essential to ensure that we understand what each field represents and how to complete it correctly. Upon reviewing the form schema, I've identified the following fields that require clarification to ensure the end-users can fill it out accurately.</thinking>
-
 # Local Impact Story Publication Consent Form - Help Guide
 ## Purpose
 

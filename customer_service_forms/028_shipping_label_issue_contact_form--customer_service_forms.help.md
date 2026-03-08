@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-**shipping_label_issue_contact_form - Help Guide**
+> **shipping_label_issue_contact_form - Help Guide**
 
 ## Purpose
 The shipping label issue contact form is designed to help customers report any issues or concerns they may have regarding their shipping labels. This form is used to gather information about the problem, the customer's contact details, and the follow-up status of the issue.

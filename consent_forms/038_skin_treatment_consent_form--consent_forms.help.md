@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture the necessary information for skin treatment. To ensure the accuracy of the patient's medical record, a consent form is a crucial document that outlines the treatment plan, the patient's consent to undergo the treatment, and the date of consent. This form is essential for maintaining a clear and transparent medical record.
-The following form is generated using AI, using only public metadata as inspiration. The generated form is an original adaptation and does not use proprietary content from any existing form platforms. The form is released under the Creative Commons Attribution 4.0 license, allowing users to modify, use, and even sell it while giving credit.
-</thinking>
-
 # Skin Treatment Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information for skin treatment, including the patient's name, the type of skin treatment, the consent date, the doctor's signature, and the patient's signature. The form helps in maintaining a clear and transparent medical record.

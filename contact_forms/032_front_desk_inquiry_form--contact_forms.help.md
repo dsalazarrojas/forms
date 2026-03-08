@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # front_desk_inquiry_form - Help Guide
 
 ## Purpose

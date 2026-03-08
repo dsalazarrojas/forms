@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for IT service requests. To ensure that the form is filled out correctly, please review the instructions carefully.
-</thinking>
-
 # it_service_request_form_2 - Help Guide
 
 ## Purpose

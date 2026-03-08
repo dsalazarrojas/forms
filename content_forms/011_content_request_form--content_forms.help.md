@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users requesting content creation. The purpose of this form is to gather specific details about the content request, including the title, format, target audience, key points to cover, and production requirements. By filling out this form, users can ensure that content creators have a clear understanding of what is needed for the content piece, which enables efficient and effective creation. This form helps prevent duplication of work and improves the overall content production process. Please review the information carefully to ensure you submit a complete and accurate request.
-</thinking>
-
 # Content Request Form - Help Guide
 ## Purpose
 The Content Request Form is a tool for users to request content creation from a content team. It helps content creators gather the necessary information to produce high-quality content that meets the user's requirements.

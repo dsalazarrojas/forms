@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide aims to assist end-users in completing the health_and_wellness_evaluation_form, which is designed to collect client data and evaluate their health and wellness status. The form is divided into several pages, each containing relevant fields to gather necessary information. The purpose of this form is to provide a comprehensive assessment of a client's health and wellness, helping healthcare professionals make informed decisions and provide personalized care. This form is not intended for duplicate entries; each submission should be a unique evaluation of the client's health and wellness status.
 
 # health_and_wellness_evaluation_form - Help Guide

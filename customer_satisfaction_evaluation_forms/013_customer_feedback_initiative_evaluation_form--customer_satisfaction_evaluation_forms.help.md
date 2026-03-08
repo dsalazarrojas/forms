@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with a specific initiative or project. The form aims to collect information about their satisfaction, opinions, and comments regarding the initiative. It is intended to help project managers and team members understand customer needs and expectations, identify areas of improvement, and make data-driven decisions.
-
-Before filling out the form, please ensure that you have not already provided feedback on this initiative. Duplicate feedback will not be taken into account, and your input will be invaluable in helping us improve our services.
-
-</thinking>
-
 # Customer Feedback Initiative Evaluation Form - Help Guide
 ## Purpose
 The Customer Feedback Initiative Evaluation Form is a tool for customers to provide their feedback and opinions on a specific initiative or project. This form helps us understand your experience and gather information about areas that need improvement.

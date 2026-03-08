@@ -1,8 +1,3 @@
-<thinking>
-This form is for independent contractors to declare their independent contractor status and provide essential details about their services and working arrangement. 
-This guide is intended to help users navigate the form and fill out the required fields accurately.
-
-</thinking>
 # independent_contractor_declaration_form - Help Guide
 
 ## Purpose

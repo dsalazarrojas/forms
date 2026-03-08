@@ -1,7 +1,3 @@
-<thinking>
-To determine whether an individual is eligible for COVID-19 vaccination, it's essential to gather specific information about their personal characteristics, medical history, and living situation. This form is designed to collect this data in a structured and comprehensive manner, reducing the likelihood of duplication and errors in the assessment process. By using this form, we can ensure that we accurately identify potential candidates for vaccination and provide them with the necessary guidance and support.
-</thinking>
-
 # COVID 19 Vaccination Eligibility Certification Form - Help Guide
 ## Purpose
 This form is used to gather information about an individual's characteristics, medical history, and living situation to determine their eligibility for COVID-19 vaccination.

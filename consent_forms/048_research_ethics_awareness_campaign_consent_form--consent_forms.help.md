@@ -1,7 +1,3 @@
-<thinking>
-The form "research_ethics_awareness_campaign_consent_form" appears to be a consent form related to research and ethics awareness. It is likely used to obtain informed consent from participants in research studies, ensuring they understand and agree to the terms and conditions of the study. This form may be used in academic, scientific, or industrial settings. It is essential to confirm that the form is being filled out correctly to ensure the integrity of the research and protect the rights of participants. To avoid duplication, this form should only be filled out once per participant.
-</thinking>
-
 # research_ethics_awareness_campaign_consent_form - Help Guide
 ## Purpose
 This form is for obtaining informed consent from participants in research studies to ensure they understand and agree to the terms and conditions of the study.

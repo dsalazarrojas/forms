@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for requesting molecular testing related to the Coronavirus, likely for diagnosis or monitoring purposes. The form may be used in a healthcare setting. The form likely needs to be filled out by individuals or their representatives. This form does not seem to be intended for automated or mass submission. It's possible that the form is intended for patients or clients who need to request molecular testing for themselves or someone else.
-</thinking>
-
 # Coronavirus Molecular Testing Request Form - Help Guide
 ## Purpose
 The Coronavirus Molecular Testing Request Form is designed for individuals or their representatives to request molecular testing related to the Coronavirus. This form helps to gather relevant information for testing purposes.

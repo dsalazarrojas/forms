@@ -1,8 +1,3 @@
-<thinking>
-**This form is designed for agents to submit their professional credentials and contact information to establish communication with the organization.**
-**Please ensure you are submitting a completed form to avoid delays in processing your submission.**
-</thinking>
-
 # Agent Submission Form - Help Guide
 ## Purpose
 The Agent Submission Form is designed for agents to provide their professional credentials and contact information to the organization. This form allows us to verify and establish communication with agents.

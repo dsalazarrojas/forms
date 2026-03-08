@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from authors submitting their work to an anthology. It's intended for authors to provide their personal details, submission title, and type of work. The form is not affiliated with any specific form creation platform and is an original adaptation of public survey topic metadata.
-
-Please ensure that you are not submitting duplicate work and that you have not already submitted it through other means. This form is for your convenience and does not guarantee acceptance into the anthology.
-
-This form will only collect the required information for the anthology's editorial process. The data collected will be used for submission tracking and correspondence with authors.
-
-Please fill out this form accurately and completely.
-
-</thinking>
-
 # Anthology Submission Application Form - Help Guide
 
 ## Purpose

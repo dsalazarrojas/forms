@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect remote monitoring consent from customers. It's meant to gather information about the customer and their agreement to monitor their utility usage. The form is designed to be completed by both the customer and the utility provider, indicating their mutual understanding and agreement. The form fields should be filled out accurately and completely to ensure clear communication and understanding between the parties involved.
-
-</thinking>
-
 # smart_meter_remote_monitoring_consent_form - Help Guide
 ## Purpose
 

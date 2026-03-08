@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by a patient or their authorized representative to authorize the release of immunization records to healthcare providers and educational institutions. This form helps to ensure that patients have control over who receives their medical records and for what purposes. Completing this form correctly will help to ensure that immunization records are released securely and only to authorized parties.
-</thinking>
-
 # Immunization Records Release Form - Help Guide
 ## Purpose
 The Immunization Records Release Form is a document that enables patients to authorize the release of their immunization records to healthcare providers and educational institutions. It's essential for ensuring that medical records are released securely and only to authorized parties.

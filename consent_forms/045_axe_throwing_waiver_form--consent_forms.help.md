@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Axe Throwing Waiver Form - Help Guide
 ## Purpose
 

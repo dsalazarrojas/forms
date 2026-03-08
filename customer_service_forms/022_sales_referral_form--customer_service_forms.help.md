@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sales_referral_form - Help Guide
 ## Purpose
 The sales referral form is used to record the details of a customer referral, including the customer's contact information, referral type, and sales person information. This form is designed to be completed by the sales team to submit a referral for processing.

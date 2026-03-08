@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect participant details and preferences for an enterprise change strategy course. The purpose of this form is to facilitate course registration and ensure that participants have the necessary information and agreements in place before attending the course. 
-
-The following instructions are to be completed carefully to avoid errors and duplications. Please verify that your participant has the required information before submitting this form, especially for required fields. 
-
-</thinking>
-
 # Enterprise Change Strategy Course Registration - Help Guide
 ## Purpose
 

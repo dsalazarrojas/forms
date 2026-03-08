@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to support the completion of the "Hospital Green Initiative Documentary Consent Form" by providing clarity on its purpose, completion instructions, and field-by-field explanation. The form is designed to collect essential information for the Hospital Green Initiative, a program aimed at promoting sustainability and patient safety in hospitals. Before filling out the form, please ensure that you have not already completed it for the same purpose and with the same information.
-
-</thinking>
-
 # Hospital Green Initiative Documentary Consent Form - Help Guide
 ## Purpose
 The Hospital Green Initiative Documentary Consent Form is a crucial document that requires patients, visitors, and medical staff to provide consent for the collection of their personal data for the purpose of promoting sustainability and patient safety in hospitals. This form is part of an initiative to ensure transparency and respect for individual privacy rights.

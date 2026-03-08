@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from students who wish to register for computer tuition programs. It is essential to fill out the form accurately to ensure that the student's registration details are correctly recorded and processed.
-The form is used by students to register for various computer tuition programs offered by the institution. It captures essential details such as student identification, contact information, academic background, tuition program preferences, payment details, and terms and conditions acceptance.
-Before filling out the form, please ensure that you have all the necessary information required, including your identification, contact details, and academic background.
-</thinking>
-
 # Computer Tuition Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who wish to register for computer tuition programs offered by the institution.

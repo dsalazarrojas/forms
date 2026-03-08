@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is designed to collect feedback from participants who have taken the course, with the goal of improving the course and providing valuable insights for future course development. The feedback form should be completed by participants who have attended the course, and the responses should be honest and accurate. It is essential to ensure that each participant completes the form only once, so please do not submit feedback if you have already done so. The feedback form is designed to be user-friendly and straightforward, and the guidance provided below will help you complete it effectively.
-</thinking>
-
 # Anxiety Course Feedback Form - Help Guide
 
 ## Purpose

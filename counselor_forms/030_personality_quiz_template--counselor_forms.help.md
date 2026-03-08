@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to be a personality quiz template that collects information about a user's preferences and habits. It is intended to be used as a tool for understanding individual personality traits and characteristics. The form is composed of multiple fields that ask users to respond to various questions and provide personal details. The purpose of this form is to provide a user-friendly interface for users to share their thoughts and experiences, and to help users understand their own personality and characteristics.
-  Before starting this form, ensure that you have not completed it in the past. If you have already completed this form, your responses will not be recorded.
-</thinking>
-
 # Personality Quiz Template - Help Guide
 ## Purpose
 The Personality Quiz Template is a tool to understand individual personality traits and characteristics.

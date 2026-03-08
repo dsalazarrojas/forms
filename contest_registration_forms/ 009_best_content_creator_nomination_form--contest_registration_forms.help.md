@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to nominate the best content creator for a contest or award.
-  This form should only be filled out by authorized personnel.
-  The purpose of this form is to gather information about the nominee, including personal details, contact information, and details about the content they have created.
-  Ensure that the form is filled out correctly, as incorrect submissions may lead to confusion or delays in the review process.
-  This form must be filled out by authorized personnel to avoid duplication of work.
-</thinking>
-
 # Best Content Creator Nomination Form - Help Guide
 ## Purpose
 The Best Content Creator Nomination Form is used to nominate an individual or team for recognition as the best content creator. This form gathers information about the nominee, including personal details, contact information, and relevant details about their content.

@@ -1,7 +1,3 @@
-<thinking>
-The Service Cancellation Consent Form is used to obtain the client's agreement to cancel a service. This form is typically used by companies or organizations that provide services to their clients. The form ensures that the client understands the terms and conditions of service cancellation and provides a formal way to document the client's consent.
-</thinking>
-
 # Service Cancellation Consent Form - Help Guide
 ## Purpose
 This guide is intended to help users complete the Service Cancellation Consent Form.

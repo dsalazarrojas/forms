@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely used by healthcare professionals to quickly and accurately assess potential COVID-19 patients. The form gathers information about the patient's symptoms, travel history, and contact tracing data to help healthcare staff make a quick and informed decision about the patient's condition. This form is designed to reduce the time spent on data collection and entry, allowing healthcare professionals to focus on patient care. 
-
-This form is likely used in a variety of settings, including hospitals, clinics, and healthcare facilities, and is intended to be used by authorized healthcare staff only.
-
-Please note that this form is likely a sensitive and private document, and any information collected through this form should be treated with confidentiality and care.
-
-</thinking>
-
 # Coronavirus Self Assessment Form - Help Guide
 ## Purpose
 The Coronavirus Self-Assessment Form is a tool used by healthcare professionals to quickly and accurately assess potential COVID-19 patients.

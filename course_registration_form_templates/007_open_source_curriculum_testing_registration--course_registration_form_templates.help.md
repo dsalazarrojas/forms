@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # open_source_curriculum_testing_registration - Help Guide
 
 ## Purpose

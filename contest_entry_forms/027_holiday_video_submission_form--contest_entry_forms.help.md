@@ -1,7 +1,3 @@
-<thinking>
-We will use this form to collect holiday video submissions for a specific purpose. To ensure relevance and non-duplication, please only submit videos that fit this specific use case. For example, if you've made a funny New Year's video, but want to submit a Christmas video, that's a problem. Please only submit one video per submission form, and make sure it's relevant to the holiday in question.
-</thinking>
-
 # Holiday Video Submission Form - Help Guide
 ## Purpose
 The Holiday Video Submission Form is a form created to collect videos, images, audio, and documents for a specific holiday-themed project. This form is designed to gather information and media from users to enhance the holiday experience. 

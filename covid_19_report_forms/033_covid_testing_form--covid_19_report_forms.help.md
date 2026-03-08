@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to Covid-19 testing. It is intended for patients to provide their personal details, test results, and other relevant information. This form will help healthcare professionals to accurately record and track Covid-19 testing data. To ensure that you are completing the form correctly, please carefully review the guidelines below. Before proceeding, please confirm that you are eligible to complete this form. If you are not eligible or have already completed this form, please do not proceed. If you are unsure, you can reach out to the relevant authorities for clarification.
-</thinking>
-
 # Covid Testing Form - Help Guide
 ## Purpose
 The Covid Testing Form is a collection of fields that gather information about patients who have undergone Covid-19 testing. This form is designed to help healthcare professionals accurately record and track Covid-19 testing data.

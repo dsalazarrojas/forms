@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand that this form is designed to capture information about interactions between staff members and clients. The form is used to record and analyze the outcome of these interactions. The purpose of the form is to provide a structured way of documenting the details of each interaction, including the staff member involved, the client's name, the date and method of interaction, the subject of the discussion, and any follow-up actions required.
-
-We need to ensure that this form is used correctly and consistently, and that users understand its intended use cases and limitations. This guide will help to achieve this goal.
-
-</thinking>
-
 # Client Interaction Communication Form - Help Guide
 ## Purpose
 The Client Interaction Communication Form is used to record and analyze the details of interactions between staff members and clients. It is essential to fill out this form for every client interaction to ensure accurate and consistent recording of information.

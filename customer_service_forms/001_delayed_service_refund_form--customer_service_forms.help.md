@@ -1,18 +1,3 @@
-<thinking>...thinking>
-
-This form is used to facilitate the process of a delayed service refund for customers who have experienced issues with their service. To use this form, you should ensure that the issue is not resolved through other means and that the customer has not already filed a claim.
-
-Before proceeding, ensure you have the following information:
-
-* A clear understanding of the issue and the reason for the refund request
-* The relevant service dates and duration
-* The refund amount
-* A brief explanation of the situation
-
-This form will help guide you through the process of requesting a refund for a delayed service. If you have any questions or concerns, please reach out to your support team for assistance.
-
-</thinking>
-
 # Delayed Service Refund Form - Help Guide
 ## Purpose
 The Delayed Service Refund Form is used to request a refund for a delayed service. This form helps customers to provide relevant information about their issue, allowing our team to efficiently process their refund request.

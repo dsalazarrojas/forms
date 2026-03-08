@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for podcast guests to provide their release and consent for published content. The form should only be used once the guest has agreed to be a part of a podcast episode. It ensures that the podcast host has the necessary permissions to publish the content and that the guest is aware of the terms of the publication.
-</thinking>
-
 # podcast_guest_release_form - Help Guide
 ## Purpose
 This form is designed to collect important information from podcast guests to ensure they are aware of the terms of publication for their appearance on the podcast and to obtain their consent to publish their content.

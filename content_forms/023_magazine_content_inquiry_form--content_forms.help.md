@@ -1,7 +1,3 @@
-<thinking>
-This form is for magazine content inquiry, designed to gather information from contributors about their interest in contributing to the magazine. This form is not meant for general inquiries or other types of content requests. Contributors should only submit their interest in specific content areas, such as contributor pitches or story ideas, and indicate their availability for collection and organization of materials.
-</thinking>
-
 # Magazine Content Inquiry Form - Help Guide
 ## Purpose
 This form is for magazine content contributors to express their interest in specific content areas, such as contributor pitches or story ideas. Contributors can indicate their interest in one or more of these areas and provide any relevant materials for review.

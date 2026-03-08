@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clubhouse Question Submit Form - Help Guide
 ## Purpose
 The Clubhouse Question Submit Form is designed for members to submit questions to the community. The purpose of this form is to provide a structured way for submitters to provide context and details about their questions, making it easier for moderators and intended speakers or panelists to understand and address the questions efficiently.

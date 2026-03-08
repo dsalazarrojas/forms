@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Calm Resolve Support Log - Help Guide
 ## Purpose
 This form is designed to document the progress and outcomes of support sessions with clients. It helps counselors track key information about the client's condition, session details, and any interventions or techniques used. By filling out this form, counselors can maintain accurate records and inform future support sessions.

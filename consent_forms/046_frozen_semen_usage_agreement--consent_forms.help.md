@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to capture information related to the usage of "Frozen Sement," a product or service, by its owner and recipient. The form appears to be a legal or contractual document, as it contains fields related to permissions, agreements, and consents. The purpose of this form is likely to establish a formal agreement between the owner and the recipient regarding the usage of Frozen Sement.
-
-This form seems to be a comprehensive agreement that covers various aspects of usage, including breeding permissions, usage terms, and consents. The form may be used by businesses or organizations that provide Frozen Sement as a service or product.
-
-Given the form's structure, it's likely that it will be used by companies that provide a breeding service or product and want to ensure that the recipient understands and agrees to the terms of usage.
-
-Before filling out this form, please make sure that you are authorized to access the information and that you understand the implications of the agreement.
-
-</thinking>
-
 # Frozen Sement Usage Agreement - Help Guide
 
 ## Purpose

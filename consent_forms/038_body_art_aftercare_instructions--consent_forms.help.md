@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their experience after a body art procedure, such as a tattoo or body piercing. The purpose of this form is to ensure that clients understand their aftercare instructions and take the necessary steps to properly care for their body art. This form will help the studio track client understanding and potential issues that may arise after the procedure. It will also help the studio to provide better service and improve its overall quality. The form should only be filled out by clients who have already received a body art procedure at the studio.
-</thinking>
-
 # Body Art Aftercare Instructions - Help Guide
 ## Purpose
 This form collects information from clients about their experience after a body art procedure to ensure they understand and follow aftercare instructions.

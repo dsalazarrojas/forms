@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the Macaroni and Cheese Contest Entry form. This form is used to collect information from participants entering the contest. The purpose of this form is to gather data about the participant, their school, and their entry. The information collected will be used to evaluate and display the entries in the contest.
-
-This form is designed to be completed by participants who are entering the contest. It is not intended for general audience, so only those with access to the form will be able to view and complete it.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Macaroni and Cheese Contest Entry - Help Guide
 ## Purpose
 

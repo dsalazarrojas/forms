@@ -1,9 +1,3 @@
-<thinking>
-To ensure the form is completed correctly and efficiently, let's briefly review the purpose and requirements of "mario_form_2026_wedrive4u". This form appears to be a registration form for customer information, designed to collect essential details such as first and last names, email, phone number, date of birth, address, country, city, state, zip, and notes. The form also includes some optional fields for date of birth, address, and assigned tool. It seems the form is meant to gather comprehensive customer data for internal use, but further review of the form's purpose within the organization is necessary to confirm this assumption.
-Please ensure that the form is not being duplicated or redundant with other forms within the organization, which might cause data duplication or unnecessary data collection.
-The form is designed to be completed by customers, and the goal is to collect accurate and complete information.
-</thinking>
-
 # mario_form_2026_wedrive4u - Help Guide
 ## Purpose
 This form is designed to collect comprehensive customer information for internal use.

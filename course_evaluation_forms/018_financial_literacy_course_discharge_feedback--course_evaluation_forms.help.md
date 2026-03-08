@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the participant's overall satisfaction with the financial literacy course they recently completed. It's designed to capture feedback on various aspects of the course, including course satisfaction, instructor performance, instruction quality, course materials, course duration, course facilitator, comments and suggestions, and financial literacy outcome. This feedback will help us understand what we do well and what we can improve in our future courses. Please only fill out this form if you have recently completed a financial literacy course with us.
-</thinking>
-
 # Financial Literacy Course Discharge Feedback - Help Guide
 ## Purpose
 This form is designed to help us understand your overall satisfaction with the financial literacy course you recently completed. Your feedback will help us improve our future courses.

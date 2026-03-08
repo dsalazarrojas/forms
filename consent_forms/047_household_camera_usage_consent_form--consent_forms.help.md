@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a consent form for household camera usage, likely used for collecting information about individuals within a household who wish to use a camera or camera system. This form may be used to gather details such as name, contact information, and camera usage preferences for administrative or regulatory purposes. 
-
-To complete this form, users are likely to be asked about their personal details, camera usage habits, and shared spaces where cameras are installed. The form may also ask for optional fields for additional information. 
-
-Before filling this form, users should review the purpose of the form and ensure they are providing accurate and complete information.
-
-</thinking>
-
 # Household Camera Usage Consent Form - Help Guide
 ## Purpose
 

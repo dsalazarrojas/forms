@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for patients to provide consent for IV therapy injections. The form is intended to be completed by the patient, and it is used to gather information about their medical condition, allergies, medications, medical history, emergency contacts, and consent status. This form is usually completed by patients before receiving IV therapy injections, and it helps healthcare professionals to assess the patient's suitability for treatment. 
-
-</thinking>
-
 # IV Therapy Injections Consent Form - Help Guide
 ## Purpose
 The IV Therapy Injections Consent Form is a document that patients must complete before receiving IV therapy injections. It is used to gather essential information about the patient's medical condition, allergies, medical history, emergency contacts, and consent status. This form ensures that the patient understands and agrees to the treatment process.

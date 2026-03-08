@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my first step is to review the provided YAML schema to understand the purpose and functionality of the form. The Event Performer Recording Release Form seems to be a form designed for obtaining consent from event performers for recording, broadcasting, or streaming their performances. The form likely serves to document their agreement to be recorded, broadcasted, or streamed, and to collect additional information related to the event such as date, time, location, recording type, and output format preferences. To confirm, let's review the fields to ensure I understand their intended purpose and usage. Based on the schema, it appears that the form is designed to be user-friendly, with clear and concise labels, hints, and option lists. However, some field labels may be unclear or require additional clarification, which I'll address in the explanation below. After reviewing the form's structure and fields, I'm ready to create a user-facing help guide that will assist users in completing the form accurately and efficiently.</thinking>
-
 # Event Performer Recording Release Form - Help Guide
 
 ## Purpose

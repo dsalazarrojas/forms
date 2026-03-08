@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Vaccine Waiver Form, used for recording the reasons why a patient is not getting vaccinated. This form is likely used by healthcare providers to understand patients' reasons for not taking a vaccine, and by the healthcare organization to track vaccination non-compliance rates or to identify areas for improvement. The form might be completed by patients before or during an appointment with a healthcare provider. To ensure accuracy and completion of the form, review the instructions below.
-
-</thinking>
-
 # Vaccine Waiver Form - Help Guide
 ## Purpose
 The Vaccine Waiver Form is used to record a patient's reason for not receiving a vaccine. This form helps healthcare providers understand patients' vaccination status and can aid in patient education and care planning.

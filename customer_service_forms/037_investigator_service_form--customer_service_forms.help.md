@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by our customers to request investigator services, without duplicating efforts or misrepresenting the purpose of the service. This form is intended for customers who require investigative services from our organization. It's crucial that the form be completed accurately and thoroughly, as the information provided will guide our investigators in delivering the best possible service.
-</thinking>
-
 # Investigator Service Form - Help Guide
 ## Purpose
 The Investigator Service Form is used to request investigative services from our organization. Customers can submit a request using this form, specifying the service they need, their contact information, and their preferred contact method. This form helps our investigators understand the customer's requirements, ensuring that we provide the most effective assistance.

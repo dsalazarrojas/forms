@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Short Movie Contest Application Form - Help Guide
 ## Purpose
 The Short Movie Contest Application Form is a collection of fields designed to gather information from contestants interested in participating in a short movie contest. This form aims to capture relevant details about the contestant, their short movie, and other essential information required for the contest. 

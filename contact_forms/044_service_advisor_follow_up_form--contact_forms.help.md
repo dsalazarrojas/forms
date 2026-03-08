@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Advisor Follow Up Form - Help Guide
 
 ## Purpose

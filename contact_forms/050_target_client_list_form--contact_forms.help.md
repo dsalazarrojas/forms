@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information from clients or potential clients who interact with your business. The form is used to store details about the client's contact information and any relevant notes or comments. The purpose of this form is to ensure that your team has access to accurate and up-to-date information about each client.
-
-When to use this form:
-- Use this form when a client or potential client needs to be registered or updated in your database.
-- Use this form to store notes or comments about a client, such as their interests or preferences.
-- Use this form to record the date and time of a client's visit or call.
-
-Avoid duplicating information already recorded elsewhere in the system. Before filling out the form, ensure that the client's information is not already stored in the system.</thinking>
-
 # Target Client List Form - Help Guide
 
 ## Purpose

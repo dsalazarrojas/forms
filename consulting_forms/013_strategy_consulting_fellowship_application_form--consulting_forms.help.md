@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow individuals to apply for a strategy consulting fellowship. This form is designed to collect relevant information from candidates, including their application form, candidate information, contact information, project information, education, work experience, portfolio, and additional information. The goal is to gather all necessary details to assess their qualifications and suitability for the fellowship.
-
-</thinking>
 # Strategy Consulting Fellowship Application Form - Help Guide
 ## Purpose
 This form is designed to help you apply for a strategy consulting fellowship. Please fill out this form to provide us with your application and qualifications.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information from participants about their health status, emergency contact, and liability release for COVID-19 related activities or services. 
-
-Participants will be asked to provide information about their date of birth, address, and contact details. They will also be asked about their COVID-19 symptoms, test history, and exposure history. 
-
-Participants will be required to acknowledge their understanding of the risks associated with COVID-19 and agree to follow safety protocols. They will also be asked to release and indemnify the organization from any liability related to COVID-19 exposure during this activity. 
-
-This form is intended for people of legal age (18 years or older) to sign. If the participant is a minor, they will be asked to provide a parent or guardian's name and signature. 
-
-The form is used to ensure the participant's safety and the organization's legal protection. It is a critical document that needs to be completed carefully and accurately. 
-</thinking>
-
 # COVID 19 Release Of Liability Waiver - Help Guide
 ## Purpose
 

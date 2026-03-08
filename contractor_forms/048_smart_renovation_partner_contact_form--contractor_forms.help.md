@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential partners or clients who are interested in collaborating with the Smart Renovation Partner. This form is designed to gather contact and project details, allowing the partner or client to provide their contact information, project type, experience, and any additional file uploads or messages they may have. This form is meant to be a straightforward and simple way for partners to get in touch and share their information with the Smart Renovation Partner.
-
-To ensure that the collected data is relevant and does not contain any duplicate submissions, the form is meant to be used for one-time submissions only. Please do not use this form for multiple submissions or to gather information for the same partner/project. If you need to submit multiple times, please use a different form or contact the Smart Renovation Partner directly.
-</thinking>
-
 # Smart Renovation Partner Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential partners or clients who are interested in collaborating with the Smart Renovation Partner. It is meant to be a one-time submission form, so please do not use it for multiple submissions.

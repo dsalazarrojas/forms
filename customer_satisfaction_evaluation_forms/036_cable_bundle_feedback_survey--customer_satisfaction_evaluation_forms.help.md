@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback on their experience with the cable and internet services provided by the company. It will help us identify areas of improvement and make data-driven decisions to enhance our services. Before filling out this form, please note that it is meant to be completed by the current customer and should not be duplicated or submitted on behalf of others. This survey is meant to gather individual experiences and feedback.
-
-</thinking>
-
 # Cable Bundle Feedback Survey - Help Guide
 ## Purpose
 This form is a customer satisfaction evaluation form designed to collect feedback on the cable and internet services provided by the company. It will help us identify areas of improvement and make data-driven decisions to enhance our services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from customers about their skin-related concerns and preferences. It is used to help skincare professionals provide personalized advice and guidance on skin care and treatment. The form is likely part of a larger workflow or process within the customer service department, and its purpose is to facilitate communication between customers and skincare experts.
-</thinking>
-
 # Skin Analysis Questionnaire - Help Guide
 ## Purpose
 The Skin Analysis Questionnaire is a form designed to collect information from customers about their skin-related concerns and preferences. This form helps skincare professionals provide personalized advice and guidance on skin care and treatment.

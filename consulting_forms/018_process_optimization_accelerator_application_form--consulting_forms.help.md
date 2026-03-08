@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the "Process Optimization Accelerator Application Form". This form is designed to gather information from users regarding their current processes and projects. It is intended for companies that are interested in optimizing their processes to improve efficiency and productivity. The form will help us to understand the user's current process, goals, and project details.
-To confirm, this form is not for general user information collection, but rather for specific companies looking to enhance their process optimization.
-
-Before starting, please ensure that the information you provide is accurate and relevant. If you are unsure about any of the questions or need further clarification, please let us know.
-</thinking>
-
 # Process Optimization Accelerator Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from companies interested in optimizing their business processes. It will help us understand their current processes, goals, and project details.

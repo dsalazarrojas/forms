@@ -1,5 +1,3 @@
-<thinking>...The Eyelash Extensions Consent Form is a form used for patients to provide their consent for eyelash extension treatments. It is a crucial document that requires patients to acknowledge and agree to certain terms and conditions before undergoing the treatment. This form should only be filled out for patients who are eligible and have agreed to receive eyelash extensions. To avoid duplication and ensure accuracy, please ensure that this form is completed for the correct patients and after thorough verification of their eligibility...</thinking>
-
 # Eyelash Extensions Consent Form - Help Guide
 ## Purpose
 

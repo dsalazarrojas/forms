@@ -1,8 +1,3 @@
-<thinking>
-This form is a generic template for registering students for a course, which can be used for various training programs, including but not limited to, eyelash training. The purpose of this form is to collect basic information from students, including their contact details and course preferences. It is designed to be easily customizable and adaptable to fit different use cases. 
-Please note that this form does not store or process sensitive data, and its primary function is to provide a starting point for creating a more comprehensive registration process. 
-</thinking>
-
 # Eyelash Training Registration Form Template - Help Guide
 
 ## Purpose

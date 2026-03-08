@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Family Declaration Form, a tool for capturing information about individuals within a family. The form was created using AI-generated metadata, and its purpose is to collect information about family members, including their names, relationships, and birth dates. The form has multiple pages with various fields for each family member.
-
-Before proceeding, please ensure that you have all necessary information about each family member and that you are not duplicating entries for the same individual.
-</thinking>
-
 # Family Declaration Form - Help Guide
 ## Purpose
 The Family Declaration Form is designed to collect information about individuals within a family, including their names, relationships, and birth dates. This form is useful for family history research, genealogy, or any other situation where understanding family relationships is crucial.

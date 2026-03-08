@@ -1,5 +1,3 @@
-<thinking>...This form is intended for clients to provide feedback about their experience with the Client Portal. The purpose of this form is to gather information on how satisfied clients are with the portal, their primary use cases, ease of login, navigation, and overall satisfaction. It is used to identify areas for improvement and suggest potential features to implement. The form is designed to be completed by clients, and responses will be used to inform future development and enhancements of the Client Portal. The form is not intended for internal use, and answers should be kept confidential... </thinking>
-
 # Client Portal Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients about their experience with the Client Portal. Your input will help us identify areas for improvement and make informed decisions on future enhancements.

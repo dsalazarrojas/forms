@@ -1,9 +1,3 @@
-<thinking>...
-
-This help guide is for the "Child Traveling With Grandparent Consent Form". The form is a crucial document that allows the grandparent to take the child on a trip without any legal issues. To be able to use the form, the child should be under 18 years old. The form will ask for the child's basic information, such as their name and date of birth, and the grandparent's information, such as their name and contact details. Additionally, the form will require the grandparent to provide the travel period, destination, and to sign off on the trip. This form ensures that the necessary permissions are given for the child to travel safely.
-
-</thinking>
-
 # Child Traveling With Grandparent Consent Form - Help Guide
 ## Purpose
 This form is for parents or legal guardians to grant permission for their child to travel with their grandparents.

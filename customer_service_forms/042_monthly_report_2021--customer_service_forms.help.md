@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a monthly report specifically for 2021. The purpose of this form is to gather data from customers about their experiences and any issues they may have encountered during the month. This form is not intended to collect sensitive or personal identifiable information and should not be used for any other purpose. This form has been designed to be completed by customers and is not intended for internal use. If you are unsure about the form's purpose or any of its fields, please do not complete it.
-
-</thinking>
-
 # monthly_report_2021 - Help Guide
 ## Purpose
 This form is designed to collect information for a monthly report specifically for 2021. The goal is to gather data from customers about their experiences and any issues they may have encountered during the month.

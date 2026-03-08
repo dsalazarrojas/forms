@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and completion steps for the Camera Repair Request Form. The form is designed to collect information from customers for camera repair requests. It is intended to help our repair team quickly and accurately diagnose and repair the issue. Please note that the form will be reviewed for relevance and to prevent duplicate requests.
-</thinking>
-
 # Camera Repair Request Form - Help Guide
 ## Purpose
 The Camera Repair Request Form is a submission form for customers seeking camera repair services. It allows you to provide detailed information about the issue with your camera, enabling our repair team to quickly and accurately diagnose and repair the problem.

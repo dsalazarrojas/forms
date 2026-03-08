@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their cosmetology service needs and preferences. The purpose of this form is to ensure that the cosmetology team has all the necessary information to provide the best possible service to the customer. 
-The form is intended to be completed by cosmetology customers, and its purpose is to facilitate communication between the customer and the service team. By filling out this form, customers can express their preferences and needs for various cosmetology services, contact methods, and other relevant details. 
-The team will review this form to understand customer requirements and make informed decisions about their services. 
-
-</thinking>
-
 # Cosmetology Client Consultation Form - Help Guide
 
 ## Purpose

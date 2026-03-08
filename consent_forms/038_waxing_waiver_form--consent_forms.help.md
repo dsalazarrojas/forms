@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Waxing Waiver Form - Help Guide
 ## Purpose
 The Waxing Waiver Form is a document that confirms a client's consent to undergo waxing services. It is essential to complete this form accurately to ensure that the client's consent is obtained and that they are aware of the risks and benefits associated with waxing.

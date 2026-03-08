@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information for research purposes, specifically for students to provide their informed consent and provide their demographic information for a study or project. The purpose of this form is to ensure that students are aware of the research project, understand their role in it, and agree to participate. This form is designed to be completed by students, and the researcher will use the data collected to gather insights and conduct further analysis.
-
-This form is not affiliated with or endorsed by any form platform, and the content is an original adaptation of public survey topic metadata.
-
-</thinking>
-
 # Student Peer Review Research Consent Form - Help Guide
 ## Purpose
 This form is for students to give their informed consent and provide information about themselves and the research project. It will help the researcher understand students' demographics and ensure they have given their consent to participate in the project.

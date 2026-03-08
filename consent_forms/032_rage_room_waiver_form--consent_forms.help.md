@@ -1,12 +1,3 @@
-<thinking>
-The "Rage Room Waiver Form" is a crucial document that protects both the rage room facility and its participants. Its purpose is to ensure that participants are aware of the physical and mental demands of the rage room experience and to obtain their consent for participating in it. This waiver form is not a contract, but rather a release of liability for the participant to acknowledge the risks and rules of the rage room. It's essential that participants carefully review and understand the form before signing it.
-
-The form is divided into two main sections: participant information and waiver. The participant information section asks for personal details such as age, height, weight, diet, medical conditions, and allergies. The waiver section includes questions about the participant's understanding of the facility laws, their agreement to participate, and their acknowledgment of the risks involved.
-
-Before completing the form, please ensure you have all the necessary information and documentation required for the participant's information section. For example, if the participant is under 18 years old, you will need to provide the guardian's information, including their signature.
-
-</thinking>
-
 # Rage Room Waiver Form - Help Guide
 ## Purpose
 The "Rage Room Waiver Form" is a document that protects both the rage room facility and its participants by ensuring they understand the physical and mental demands of the experience and agree to participate with the rules and risks involved.

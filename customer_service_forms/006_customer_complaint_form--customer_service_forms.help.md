@@ -1,7 +1,3 @@
-<thinking>
-We should create a help guide for the customer complaint form. This form is used for customers to submit complaints about issues they are experiencing. The form should be easy to understand and fill out, and each field should be explained clearly. Before we start filling the form, let's make sure that we have not submitted a similar complaint before and that the issue is not already being addressed.
-</thinking>
-
 # Customer Complaint Form - Help Guide
 
 ## Purpose

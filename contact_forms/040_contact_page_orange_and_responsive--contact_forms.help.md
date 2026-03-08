@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect contact information from visitors to the website, allowing them to reach out with inquiries, feedback, or other messages. The form is designed to be responsive and visually appealing, with an orange theme. 
 
 The form collects the following information:

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential participants in an urban design contest. The form asks for personal data such as name, email, phone number, and address, as well as details about the submitted design, including its description, type, and scale. The submitter's contact information and submission date are also gathered. This form is meant to be a straightforward way to collect necessary data from participants without requiring extensive knowledge of technical or specialized information.
-</thinking>
-
 # Urban Design Contest Registration Form - Help Guide
 ## Purpose
 This form is for participants who wish to take part in the urban design contest. It is required to be filled out in order to be considered a participant in the contest.

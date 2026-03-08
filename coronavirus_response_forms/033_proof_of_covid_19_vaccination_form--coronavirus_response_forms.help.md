@@ -1,23 +1,3 @@
-<thinking> 
-
-This form is intended to collect information related to COVID-19 vaccinations, specifically for individuals who have received vaccination. The form likely serves as a medical record or documentation purpose, possibly for public health or administrative reasons. Given the form's structure, it appears to be part of a larger system or platform for tracking vaccination records.
-
-To confirm, the following fields are present:
-- Date of vaccination
-- Details about the type and number of doses received
-- Name of the vaccine administered
-- Status of vaccination (fully, partially, or not fully vaccinated)
-- Reason for partial vaccination status if applicable
-- Signatures of both the doctor and patient
-- Patient's name
-- Medical professional's details (license number, expiration date, and issue date)
-
-This form does not seem to be part of a traditional medical billing or insurance process. It is possible that this form is used for public health initiatives or tracking purposes.
-
-Before proceeding, please note that some fields might be optional or have specific formats. Please make sure you understand the purpose and context of this form before using it.
-
-</thinking>
-
 # Proof Of COVID 19 Vaccination Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information for festival participants, ensuring they are aware of and grant necessary permissions for their attendance. This form will gather basic contact information, emergency contact details, and health-related information. It will also ask for consent from both the participant and their emergency contact to use their name, photo, or likeness for promotional purposes. 
-
-This form will be used for internal purposes and may be shared with festival staff, security, and emergency services. 
-
-Please note that this form is designed to collect data for the participant, not for commercial purposes. The collected information will be stored and deleted after the festival. 
-
-If you've completed this form before, you might not need to do it again. If you're unsure about any of these questions, please contact the festival organizers.
-
-</thinking>
-
 # Music Festival Waiver Form - Help Guide
 ## Purpose
 This form is required for all festival participants, aged 18 or above, to provide necessary contact and health information, as well as grant permissions to use their name, photo, or likeness for festival promotional purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_guest_covid_19_consent_form - Help Guide
 
 ## Purpose

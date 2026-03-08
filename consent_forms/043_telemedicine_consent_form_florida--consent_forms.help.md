@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-This form is designed to collect telemedicine consent from patients in Florida, ensuring they understand and agree to the terms and conditions of remote medical care. The form is an original adaptation created by AI, and its purpose is to provide a convenient and accessible way for healthcare providers to obtain informed consent from their patients. The form's design and content were generated based on public survey topic metadata and industry best practices. 
-
-</thinking>
-
 # Telemedicine Consent Form Florida - Help Guide
 ## Purpose
 This form is intended to collect telemedicine consent from patients in Florida, ensuring they understand and agree to the terms and conditions of remote medical care.

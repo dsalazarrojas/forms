@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from residents regarding their consent to operate elevators in contactless mode, which is a measure to reduce the risk of COVID-19 transmission. This form ensures that residents understand the risks and are willing to participate in this new mode of elevator operation. It also collects demographic information such as resident full name, unit number, building name, and household size to ensure that the information is accurate and up-to-date. This form will be used to track and analyze the data to make informed decisions about elevator usage and maintenance.
-
-It is essential to review each field carefully to ensure accuracy and completeness in the form. Please note that some fields are optional, and you only need to fill them if required.
-
-To avoid duplicating efforts and ensure consistency, this form should not be filled out by residents who are currently in contactless elevator mode or have previously submitted one.
-</thinking>
-
 # Contactless Elevator Operation Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from residents to help manage contactless elevator operation. It is essential for residents to understand the risks associated with COVID-19 transmission and provide their consent for this new mode of elevator operation.

@@ -1,7 +1,3 @@
-<thinking>
-Is this form for COVID-19 testing and vaccination purposes? Are all fields mandatory? Are there any fields that can be skipped? Please ensure that the form is being used for its intended purpose and that users understand their responsibilities in completing it accurately and honestly.
-</thinking>
-
 # COVID 19 Testing Consent Form - Help Guide
 ## Purpose
 This form is for COVID-19 testing and vaccination purposes only. It is intended to gather information about individuals who are interested in getting tested or vaccinated against COVID-19.

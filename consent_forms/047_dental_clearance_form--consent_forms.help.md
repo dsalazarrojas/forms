@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dental Clearance Form - Help Guide
 ## Purpose
 The Dental Clearance Form is used to gather information from patients about their medical history and current treatment needs. This form is typically completed by patients before undergoing dental procedures to ensure that the dentist has a clear understanding of their medical status and can provide the best possible care. 

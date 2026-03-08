@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from customer service agents applying for a position. The purpose of this form is to gather relevant data about the applicant's personal and professional details, such as name, contact information, job title, job type, and work status. This form is typically filled out by customer service agents who are applying for or seeking a position in this company. Please fill in the form accurately and thoroughly, ensuring all required fields are completed to avoid any issues with your application.
-
-This form has a total of 18 fields, and some fields have specific requirements and constraints, such as email and date fields. Please make sure to fill in the correct information to ensure accurate processing of your application.
-
-When filling out this form, please be aware of the following:
-
-* The form is split into multiple sections, each with its own set of fields. Please fill in the fields in each section accordingly.
-* Some fields have specific formats or requirements, such as date and time fields. Please ensure you fill in the correct format to avoid any errors.
-* When selecting options for fields like job type, work status, and job status, please choose the options that best describe your current situation.
-</thinking>
-
 # Customer Service Agent Application - Help Guide
 ## Purpose
 This form is designed to collect information from customer service agents applying for a position.

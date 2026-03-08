@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from teams interested in participating in a case competition. The form is divided into several sections, and each section is meant to gather specific details about the team members and their application. 
-
-To ensure that the form is filled out correctly, teams should only fill out the form once they have been selected to participate in the case competition. 
-
-The form is not designed to be a general information gathering tool, and filling it out multiple times will not provide any additional benefits.
-
-</thinking>
-
 # Case Competition Application Form - Help Guide
 ## Purpose
 The Case Competition Application Form is a tool to gather information from teams interested in participating in a case competition. The form is divided into several sections, each with specific fields to be filled out by the team members. 

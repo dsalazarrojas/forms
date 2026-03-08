@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess an individual's risk of addiction to screens and their impact on daily life. It is intended for use in a clinical setting to help professionals evaluate a patient's screening results.
-Before filling out this form, please ensure that you are in a comfortable and private setting. It is not intended for use on a mobile device, as this may affect the accuracy of your responses.
-Please be honest in your answers, and try to complete the form in one sitting.
-</thinking>
-
 # online_screen_addiction_survey - Help Guide
 ## Purpose
 The online_screen_addiction_survey is a self-report instrument designed to assess an individual's risk of addiction to screens and their impact on daily life. It is intended for use in a clinical setting to help professionals evaluate a patient's screening results.

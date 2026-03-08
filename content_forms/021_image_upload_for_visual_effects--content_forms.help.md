@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information and images for visual effects projects, allowing users to upload and reference relevant images. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public survey topic metadata. It is released under the Creative Commons BY 4.0 license, allowing users to modify and use the form for their own purposes. 
-</thinking>
-
 # Image Upload For Visual Effects - Help Guide
 ## Purpose
 The purpose of this form is to collect project briefs, reference images, deadlines, and other relevant information for visual effects projects.

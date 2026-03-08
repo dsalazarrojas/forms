@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers who have experienced issues with their luggage during travel. The purpose of the form is to gather details about the problem and provide a way for the customer to express their desired resolution. This form will help the customer service team to quickly and efficiently address the issue and provide a response to the customer.
-
-The form is divided into four sections, each with its own purpose and requirements.
-
-Before proceeding, it's essential to ensure that the customer is reporting a genuine issue and not duplicate or repetitive.
-
-</thinking>
-
 # damaged_luggage_complaint_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who have experienced issues with their luggage during travel. It will help our customer service team to quickly and efficiently address the problem and provide a response to the customer.

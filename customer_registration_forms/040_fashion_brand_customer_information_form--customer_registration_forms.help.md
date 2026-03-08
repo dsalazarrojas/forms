@@ -1,7 +1,3 @@
-<thinking>
-This help guide provides an explanation of the purpose and usage of the Fashion Brand Customer Information Form.
-</thinking>
-
 # Fashion Brand Customer Information Form - Help Guide
 ## Purpose
 The Fashion Brand Customer Information Form is designed to collect essential information from customers, helping us understand their style preferences and tailor our marketing efforts to their tastes. This form is mandatory for all customers and should be completed accurately and thoroughly.

@@ -1,10 +1,3 @@
-<thinking>
-Before creating the help guide, I'll review the provided form YAML to understand its purpose and fields. The form is for a "Salon COVID 19 WAIVER AND HEALTH CHECK", which implies it's for collecting information from clients about their health status, travel history, and waiver acknowledgement. The form has fields for client understanding, contact information, health check, travel history, exposure risk, waiver acknowledgement, waiver text, and review date. 
-
-To ensure the guide is helpful, I'll focus on explaining each field in a way that's concrete, concise, and practical. I'll also check for any unclear or weak field labels and provide best-effort explanations without inventing unsupported business logic.
-
-</thinking>
-
 # Salon COVID 19 WAIVER AND HEALTH CHECK - Help Guide
 
 ## Purpose

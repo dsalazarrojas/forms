@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely to collect contact information from customers interested in visiting a haunted tour. This form may be used for marketing, sales, or customer service purposes.
-</thinking>
-
 # GhostHouse Haunted Tours - Help Guide
 ## Purpose
 The GhostHouse Haunted Tours form is designed to collect contact information from customers interested in visiting a haunted tour. This form may be used for marketing, sales, or customer service purposes.

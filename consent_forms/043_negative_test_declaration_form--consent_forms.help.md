@@ -1,14 +1,3 @@
-<thinking>
-To confirm that the form purpose and fields are correctly represented in the help guide.
-
-The purpose of this form is to declare the results of a test related to a passenger, likely for medical or health-related purposes. The form collects information about the passenger, their travel history, test results, and other relevant details.
-
-The form does not appear to be a standard form for declaring a test result, so there may be some overlap or redundancy in the fields. For example, the "Contact Information 2" field is not clearly defined, and the "Medical Information" field is not clearly linked to the "Test Result" field.
-
-However, without further information about the context and usage of this form, it's difficult to provide a more concrete explanation of the form's purpose and fields.
-
-</thinking>
-
 # Negative Test Declaration Form - Help Guide
 
 ## Purpose

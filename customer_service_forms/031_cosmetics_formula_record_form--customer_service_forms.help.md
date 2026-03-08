@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Cosmetics Formula Record Form", I'll need to ensure that I thoroughly understand the form's purpose and each field's intended use. This form appears to be for collecting customer preferences regarding lipsticks, covering various aspects such as color, brand, finish, packaging, shade, price range, flavor, size, shape, and texture.
-
-The form's purpose is to gather data on a customer's favorite lipstick preferences, which could be useful for marketing, product development, or customer segmentation. The form seems to be designed to be user-friendly, with multiple choice options for most questions, making it easy for customers to provide their preferences.
-
-Before starting to complete the form, it's essential to ensure that the data collected aligns with the form's purpose and the company's goals. This form might be used for internal analysis, product development, or even for targeted marketing campaigns.
-
-Each field should be explained clearly to avoid confusion. The form's options, such as lipstick color, brand, and finish, might be subject to changes in market trends or product lines, so it's vital to keep the form up to date with the latest information.
-
-To prevent duplication or irrelevant data, it's essential to review the form's content regularly and update it as needed.
-
-</thinking>
-
 # Cosmetics Formula Record Form - Help Guide
 ## Purpose
 The Cosmetics Formula Record Form is designed to collect preferences regarding lipsticks from customers. This data can be used for marketing, product development, or customer segmentation purposes.

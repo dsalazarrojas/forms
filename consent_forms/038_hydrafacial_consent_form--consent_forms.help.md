@@ -1,10 +1,3 @@
-<thinking>
-This form is used for patients to provide their consent for a hydrafacial procedure. It captures information about the patient, their contact details, and the medical practice providing the treatment. The form is designed to collect data that will be used by the medical practice to provide treatment and follow-up care. When filling out this form, please make sure to include accurate and up-to-date information.
-
-Before starting, please ensure that you have not filled out this form previously and that all the information is accurate and up-to-date.
-
-</thinking>
-
 # Hydrafacial Consent Form - Help Guide
 ## Purpose
 The Hydrafacial Consent Form is a document used to obtain patient consent for a hydrafacial procedure. It is a crucial step in the patient's treatment process, ensuring that you understand the risks, benefits, and expectations of the procedure.

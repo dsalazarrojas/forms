@@ -1,6 +1,3 @@
-<thinking> 
-The form is for registration for the "Consulting Innovation Roundtable", a platform for senior professionals in various industries to share experiences, ideas and best practices on innovation topics. It's intended to be completed by attendees who want to participate in a roundtable discussion. The form ensures that attendees' contact information, interests, and expectations are properly captured. Please note that some fields are required while others are optional. Ensure that you fill out all the required fields. If you have any doubts, please reach out to the event organizers for clarification. </thinking>
-
 # Consulting Innovation Roundtable Registration - Help Guide
 ## Purpose
 This form is for registration for the Consulting Innovation Roundtable, a platform for senior professionals to share experiences, ideas, and best practices on innovation topics.

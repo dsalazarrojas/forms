@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trestle-academy-ghana-hackahon-contest-entry-form - Help Guide
 
 ## Purpose

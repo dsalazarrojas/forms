@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form to collect information from dog walking clients. The form's purpose is to gather contact details, pet information, appointment details, and other relevant details such as email, phone number, and services required. This will help us to efficiently manage our dog walking services and provide better customer experience. Before creating the guide, I'll check if this form is not a duplicate or outdated.
-</thinking>
-
 # Dog Walking Client Form Template - Help Guide
 ## Purpose
 This form is designed to collect necessary information from dog walking clients, allowing us to efficiently manage our services and provide a better customer experience.

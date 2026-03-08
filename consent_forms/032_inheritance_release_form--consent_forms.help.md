@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inheritance Release Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>**Form Designer Note:** This form is used for corporate expense disclosure, which is a process to disclose employee expenses and ensure transparency and accountability within the company. This form helps to gather information from employees about their expenses, including their employee ID, manager's name and email, and department ID, among other details. Before filling out this form, please ensure that you have all the necessary information required and that you are completing it for the correct purpose. Also, please note that some fields may be optional, but it's still essential to fill them out accurately to ensure the integrity of the expense disclosure process.</thinking>
-
 # Corporate Expense Disclosure Consent Form - Help Guide
 ## Purpose
 The Corporate Expense Disclosure Consent Form is designed to gather essential information from employees about their corporate expenses. This form helps ensure transparency and accountability within the company by collecting details about employee expenses, manager's name and email, and department ID.

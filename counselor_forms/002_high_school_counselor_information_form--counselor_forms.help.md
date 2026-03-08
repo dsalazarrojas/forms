@@ -1,7 +1,3 @@
-<thinking>
-The "High School Counselor Information Form" is used to collect information from high school counselors to help us better understand their needs and preferences. This form should only be completed by high school counselors who are authorized to do so. Please do not fill out this form if you are not a high school counselor.
-</thinking>
-
 # High School Counselor Information Form - Help Guide
 ## Purpose
 The High School Counselor Information Form is used by school administrators to collect information from high school counselors, allowing us to better understand their needs and preferences.

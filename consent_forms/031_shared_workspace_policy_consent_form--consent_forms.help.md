@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a consent form for shared workspaces, which are collaborative environments where multiple users work together on a project or project-related activities. 
-It is used to collect information from users about their policy consent, which includes policies 1, 2, and 3. 
-This form is meant to be completed by staff members or users who will be accessing the shared workspace.
-</thinking>
-
 # Shared Workspace Policy Consent Form - Help Guide
 ## Purpose
 This form is designed to be a consent form for shared workspaces, used to collect information from users about their policy consent.

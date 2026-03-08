@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Palliative Care Education Video Consent Form - Help Guide
 ## Purpose
 The Palliative Care Education Video Consent Form is used to obtain informed consent from participants who will be viewing educational videos on palliative care. This form is used to ensure that participants understand the purpose and scope of the video, and to obtain their consent to participate in the video program.

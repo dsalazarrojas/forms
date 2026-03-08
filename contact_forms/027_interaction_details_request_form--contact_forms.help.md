@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect interaction details from users. The form captures the user's identity and interaction preferences. This information will be used to tailor the experience and provide better support. Please ensure you are using this form for its intended purpose and not for any other purpose.
-</thinking>
-
 # Interaction Details Request Form - Help Guide
 ## Purpose
 This form is used to collect interaction details from users, helping us to tailor our experience and provide better support.

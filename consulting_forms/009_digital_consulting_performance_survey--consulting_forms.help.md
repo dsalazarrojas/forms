@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on the performance of digital consulting services. This form is likely used by clients or customers to rate the quality of service provided by the consulting team. The form allows them to provide an optional rating of "Good", "Fair", or "No" to questions about the consulting services, and an optional comment on their experience. The email and phone fields are also included for additional contact information, although they are not required fields.
-</thinking>
-
 # digital_consulting_performance_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the performance of digital consulting services.

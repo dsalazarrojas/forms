@@ -1,5 +1,3 @@
-<thinking>...This form is used to capture consent and necessary information for a creative competition. It's crucial for organizers to know how the submitted content will be used. The form is designed to collect information such as email, phone number, usage rights, usage duration, and creative commons license. This form is meant to be used by the user to provide their consent and information for the usage of their submitted content. Please ensure you only fill out this form for your submitted content, and do not submit content without consent.</thinking>
-
 # creative_competition_footage_usage_consent_form - Help Guide
 
 ## Purpose

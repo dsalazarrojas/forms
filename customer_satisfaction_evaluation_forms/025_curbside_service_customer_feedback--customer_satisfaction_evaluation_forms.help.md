@@ -1,9 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a form used to collect customer feedback and satisfaction data after a curbside service interaction. This form is designed to be completed by customers after interacting with the curbside service team. 
-Before creating this guide, let's ensure that we don't have any duplication or overlap with existing forms, and that this form's purpose is clear to our end-users.
-This form collects feedback on several aspects of the curbside service, including ratings, comments, contact information, and satisfaction levels. It's essential that customers understand each field's purpose to provide valuable and accurate feedback. 
-</thinking>
-
 # Curbside Service Customer Feedback - Help Guide
 
 ## Purpose

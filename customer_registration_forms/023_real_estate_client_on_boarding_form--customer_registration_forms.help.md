@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to onboard a real estate client, collecting essential information from them, including their contact details, property information, and preferred method of contact. The form aims to ensure that the client has a seamless experience with our real estate services. To avoid duplication and ensure consistency, we will be checking for existing client records before processing any new submissions. If a duplicate record is detected, we will prompt the user to update the existing record instead of creating a new one.
-</thinking>
-
 # real_estate_client_onboarding_form - Help Guide
 ## Purpose
 This form is designed to help you on-board as a real estate client with our services.

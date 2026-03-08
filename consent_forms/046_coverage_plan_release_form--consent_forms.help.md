@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coverage Plan Release Form - Help Guide
 ## Purpose
 This form is used to collect information for the release of a coverage plan. It is used to gather necessary details for the coverage plan release process.

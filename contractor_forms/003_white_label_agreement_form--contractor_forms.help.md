@@ -1,12 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to collect information for white label agreements with clients. This form is used to capture all relevant details about the agreement, including the partner information, contract duration, payment terms, and client contact information. This form will be used to generate a professional-looking white label agreement document that can be signed by both parties.
-
-To check for relevance and non-duplication:
-- The form is not intended to be a general purpose form for any type of agreement. It is specifically designed for white label agreements.
-- The form is designed to collect specific details that are necessary for creating a white label agreement document.
-
-</thinking>
-
 # white_label_agreement_form - Help Guide
 ## Purpose
 This form is used to collect information for white label agreements with clients.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # disclaim_inheritance_form - Help Guide
 
 ## Purpose

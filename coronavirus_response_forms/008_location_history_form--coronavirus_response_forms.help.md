@@ -1,10 +1,3 @@
-<thinking>
-The Location History Form is a crucial document that helps us understand an individual's travel and location history during the COVID-19 pandemic. The purpose of this form is to gather relevant information from individuals who have been in contact with someone who has been diagnosed with COVID-19 or have traveled to an area affected by the virus. This form ensures that we can quickly and accurately identify potential risks and take necessary precautions to prevent the spread of the virus.
-
-Before proceeding, please ensure that you have not already submitted this form or have been contacted in the past 14 days. This form is intended to be completed by individuals who are currently experiencing symptoms or have been in contact with someone who has COVID-19.
-
-</thinking>
-
 # Location History Form - Help Guide
 ## Purpose
 This form is designed to collect information about your recent travel and contact history in relation to COVID-19. Please complete this form accurately and thoroughly to assist our efforts to prevent the spread of the virus.

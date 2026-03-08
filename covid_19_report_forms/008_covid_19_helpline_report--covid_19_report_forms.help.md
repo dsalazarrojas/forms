@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Helpline Report - Help Guide
 
 ## Purpose

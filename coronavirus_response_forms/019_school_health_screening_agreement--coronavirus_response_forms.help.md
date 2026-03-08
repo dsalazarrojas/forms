@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help schools and educational institutions gather information from employees about their health status, particularly in the context of the Coronavirus pandemic. The form aims to screen employees for potential health risks and ensure their safety in the workplace. The form is meant to be a simple and straightforward way to collect essential information from employees, making it easy to identify any potential health issues and take necessary precautions.
-
-To avoid duplication and maintain data accuracy, please make sure to fill out the form carefully and correctly.
-
-</thinking>
-
 # School Health Screening Agreement - Help Guide
 ## Purpose
 The School Health Screening Agreement is a simple form designed to gather information from employees about their health status, especially in the context of the Coronavirus pandemic. It helps schools and educational institutions identify potential health risks and take necessary precautions to ensure a safe work environment.

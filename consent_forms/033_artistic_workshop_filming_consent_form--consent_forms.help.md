@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather consent from workshop participants for filming and photography during Artistic Workshops. It helps ensure that participants' rights are respected and understood, and that their comfort level is taken into account when capturing images and voice recordings.
-</thinking>
-
 # Artistic Workshop Filming Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from workshop participants for filming and photography during Artistic Workshops. It's essential to understand that their participation implies consent to be filmed and photographed.

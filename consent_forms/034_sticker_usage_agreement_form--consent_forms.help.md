@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to be used to gather information about a user's sticker usage agreement. The purpose of this form is to collect data on whether the user has read and agreed to the sticker placement terms, whether the user has used the sticker in shared spaces, and other relevant details. This form is intended for users who have been provided with a sticker that requires an agreement. It is not meant to be a general user registration or login form. If you have already submitted a similar form, please do not complete this form again.
-
-</thinking>
-
 # Sticker Usage Agreement Form - Help Guide
 ## Purpose
 This form is designed to gather information about a user's sticker usage agreement, including whether they have read and agreed to the sticker placement terms, whether they have used the sticker in shared spaces, and other relevant details.

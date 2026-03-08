@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to obtain the liability waiver and acknowledgement from clients for the financial services provided by the organization. This form is used to document the level of engagement the organization has with the client, the services provided, and the acknowledgement of the client. The form is designed to ensure that the client understands their level of engagement and the services that will be performed, and to obtain their signature and acknowledgement of these details.
-
-</thinking>
-
 # Financial Services Liability Waiver Form - Help Guide
 ## Purpose
 

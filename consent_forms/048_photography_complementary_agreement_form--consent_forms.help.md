@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography Complementary Agreement Form - Help Guide
 ## Purpose
 This form is for clients to provide their information and consent for complementary photography services. It helps ensure that we have all necessary details and permissions before providing services.

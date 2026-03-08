@@ -1,10 +1,3 @@
-<thinking>
-This form is used for debriefing customers, which means gathering information from them after a interaction, such as a meeting, phone call, or survey. The purpose of this form is to capture important details about the customer's experience, concerns, or feedback. By collecting this information, we can use it to improve our services, products, or policies to better meet customer needs and expectations. 
-
-To ensure you're using the form correctly, please check that you're not duplicating efforts by using this form for other purposes or interactions. This will help us get a clear understanding of the customer's thoughts and feelings without unnecessary repetition or confusion.
-
-</thinking>
-
 # Customer Debrief Form - Help Guide
 ## Purpose
 This form is used for debriefing customers after interactions to gather important details about their experience, concerns, or feedback.

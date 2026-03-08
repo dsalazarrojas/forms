@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain consent from clients for personal training session recordings, ensuring that clients are aware of and agree to the recording and use of their sessions. It's essential that this form is completed accurately and truthfully, as it may have implications on the client's consent and the training provider's liability. To avoid duplication, please ensure that you only complete this form once for each session.
-
-Please note that this form is not intended for general inquiries or other purposes outside of obtaining consent for training session recordings.
-</thinking>
 # Personal Training Session Recording Consent - Help Guide
 ## Purpose
 This form is designed to obtain consent from clients for personal training session recordings, which ensures that clients are informed and agree to the recording and use of their training sessions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # data_quality_enhancement_consulting_application_form - Help Guide
 
 ## Purpose

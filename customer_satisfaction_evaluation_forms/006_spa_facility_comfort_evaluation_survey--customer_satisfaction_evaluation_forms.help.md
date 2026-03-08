@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spa Facility Comfort Evaluation Survey - Help Guide
 
 ## Purpose

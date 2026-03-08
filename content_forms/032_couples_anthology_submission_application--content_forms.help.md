@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from couples submitting their work to the anthology. The form is designed to capture the necessary details of the submission, such as names, contact information, and work-related data. Please ensure that you are submitting work that has not already been accepted for publication, and that you are not attempting to submit duplicate submissions. 
-</thinking>
-
 # Couples Anthology Submission Application - Help Guide
 ## Purpose
 The form is intended for couples submitting their work to the anthology. It is designed to collect information necessary for processing and reviewing the submission.

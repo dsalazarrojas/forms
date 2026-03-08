@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Laser Tag Consent Form - Help Guide
 
 ## Purpose

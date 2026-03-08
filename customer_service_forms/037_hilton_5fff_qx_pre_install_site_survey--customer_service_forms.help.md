@@ -1,7 +1,3 @@
-<thinking>
-The form "hilton_5fff_qx_pre_install_site_survey" is designed to collect information about customer visits to a site. This form is likely used for customer service purposes, such as tracking customer interactions or providing feedback. It is essential to ensure that the form is not used for other purposes to prevent data duplication and misattribution. The form collects various types of information about customers, including their contact details, visit details, and employee interactions. Each field is designed to collect specific information and is required or optional based on the business needs.
-</thinking>
-
 # hilton_5fff_qx_pre_install_site_survey - Help Guide
 ## Purpose
 This form is designed to collect information about customer visits to a site. It is used for customer service purposes, such as tracking customer interactions or providing feedback.

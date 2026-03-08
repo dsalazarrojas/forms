@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about water photography submissions from users. It will be used to collect details about the photographer, their entry, and their uploaded files. This form should only be filled out once for each submission and should not be submitted multiple times for the same entry. Please make sure to fill out all required fields accurately and truthfully. If you're unsure about any of the fields, please don't hesitate to reach out to the organizers for clarification.
-</thinking>
-
 # Water Photography Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from photographers about their water photography submissions. This includes details about the photographer, their entry, and any uploaded files.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Mattress Warranty Claim Form", we need to understand the form's purpose and its intended use. The form is designed to collect information from customers who want to claim a warranty on their mattress. This guide will walk users through how to complete the form, what each field means, and provide tips to ensure they submit their claim successfully.
-
-The form's purpose is to help customers report issues with their mattress and initiate the warranty claim process. This form will likely be used by customers who have purchased a mattress and are experiencing problems with it. The goal is to collect relevant information to assess and address the issue.
-
-Before we dive into the guide, let's note that this form is not affiliated with any specific form platform, and the generated form is an original adaptation created using public survey topic metadata as inspiration.
-
-</thinking>
-
 # Mattress Warranty Claim Form - Help Guide
 
 ## Purpose

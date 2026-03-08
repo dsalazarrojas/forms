@@ -1,7 +1,3 @@
-<thinking>
-This guide will provide a step-by-step explanation of the sports_media_interview_consent_form form to help users understand its purpose and how to fill it out.
-</thinking>
-
 # sports_media_interview_consent_form - Help Guide
 ## Purpose
 This form is designed to capture information for sports media interviews, including details about the interview, contact information, and consent statements. It is a critical document that ensures the interviewee's rights are respected and their consent is obtained for the interview process.

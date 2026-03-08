@@ -1,15 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information about incidents or issues reported by guests. The form's purpose is to gather details about the incident, including the date and time it occurred and the specific circumstances surrounding it. The goal is to ensure that guest complaints are addressed and resolved efficiently. The form is divided into four fields: Guest Service Incident Report, Date and Time, Time, and Incident Details. 
-
-This form is likely to be used by guest services staff to gather information from guests who have experienced issues or problems during their stay. The form's design aims to make it easy for guests to report incidents, and for staff to process the information quickly and accurately. 
-
-It's also worth noting that the form does not seem to enforce required fields, which may mean that guests can leave the form incomplete, but it's essential to ensure that staff still receives the necessary information from guests to address their issues effectively. 
-
-To use this form correctly, guests should provide as much information as possible in each field, and staff should follow up with additional questions if needed to gather further information. 
-
-This form appears to be designed for general guest services purposes, so it's possible that the form will be used in various contexts, such as hotels, restaurants, or other service-based businesses.
-</thinking>
-
 # Guest Service Incident Report Form - Help Guide
 ## Purpose
 The Guest Service Incident Report Form is designed to collect information about incidents or issues reported by guests. This form aims to gather details about the incident, including the date and time it occurred and the specific circumstances surrounding it, to ensure that guest complaints are addressed and resolved efficiently.

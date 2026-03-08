@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for business entities to provide information necessary for a credit account application. It's essential to understand that this is a simplified form and may not encompass all the necessary information required by financial institutions. To fill out this form, please review the provided fields carefully and provide accurate details. 
-
-This form has several sections, each asking for specific details about the business. To ensure a smooth process, it's crucial to provide the requested information to the best of your abilities.
-
-</thinking>
-
 # Credit Application For Business Account Form - Help Guide
 
 ## Purpose

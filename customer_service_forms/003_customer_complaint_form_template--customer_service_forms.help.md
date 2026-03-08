@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Complaint Form Template - Help Guide
 ## Purpose
 This form is intended to help customers report and describe their complaints or concerns about our products or services. It is designed to gather essential information from customers to ensure we can assist them promptly and effectively.

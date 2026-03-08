@@ -1,9 +1,3 @@
-<thinking> 
-
-The "discord report form" is used to record incidents of misconduct on Discord servers. A user reports another user's behavior, and the moderator reviews the report, taking into account the reason for the report, the user's actions, and additional information provided. The form is designed to be used for internal review and moderation purposes only. Please ensure that you only use this form for reports that you have a direct connection to, such as a report of your own behavior or a report made by a user that you are directly interacting with. 
-
-</thinking>
-
 # discord report form - Help Guide
 ## Purpose
 The "discord report form" is used to record incidents of misconduct on Discord servers.

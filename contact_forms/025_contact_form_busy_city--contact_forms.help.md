@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information and inquiries from users interested in attending or participating in various events hosted by Busy City, a hypothetical events management company. The form is used to gather necessary details such as attendee names, emails, phone numbers, event interests, and preferred event dates. It also includes fields for users to leave a message or provide feedback. The form is a crucial tool for Busy City to communicate with attendees and vendors, manage event registrations, and gather valuable feedback.
-
-Before proceeding, ensure that you are filling out the form for the correct purpose and that you don't need to submit the same information multiple times.
-
-</thinking>
-
 # Contact Form Busy City - Help Guide
 
 ## Purpose

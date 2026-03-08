@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contractor Work Verification Request Form - Help Guide
 
 ## Purpose

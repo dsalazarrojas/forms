@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used by clients to initiate a workflow with an external team of experts for a specific project. It collects essential information about the client's project, including client and project details, timeline, priority, budget, and resources. The form serves as the first step in the consulting process, ensuring that all necessary information is gathered before the project begins.
-
-</thinking>
-
 # Client Workflow Initiation Form - Help Guide
 ## Purpose
 The Client Workflow Initiation Form is a crucial step in the consulting process, providing essential information about your project and requirements. By filling out this form, you will help us understand your needs and ensure that we can effectively support you in achieving your goals.

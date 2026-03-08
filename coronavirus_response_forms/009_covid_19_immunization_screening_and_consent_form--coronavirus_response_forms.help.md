@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to screen and gather information from individuals who are candidates for receiving a COVID-19 vaccine. This form aims to understand each individual's health status, vaccine history, and consent to receive the vaccine. 
-The main goal is to identify potential candidates for vaccine administration. It is crucial to ensure that each participant has understood their vaccine history, has received adequate information, has been adequately screened, and consents to receive the vaccine. This form is designed to be completed by the individual or their guardian/parent. 
-Please review these fields for completeness and correctness before proceeding.
-</thinking>
-
 # COVID 19 Immunization Screening and Consent Form - Help Guide
 ## Purpose
 This form is designed to screen and gather information from individuals who are candidates for receiving a COVID-19 vaccine.

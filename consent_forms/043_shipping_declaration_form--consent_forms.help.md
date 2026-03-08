@@ -1,7 +1,3 @@
-<thinking>
-This form is used by shipper to declare shipping details to a company for official purposes. The form is used to provide information about the shipment, including the shipper's contact and shipping details, and the contents and weight of the package. This information is used by the company to manage and track shipments. This form should not be used for personal or recreational purposes. Please ensure you are using this form for official company shipping declaration purposes.
-</thinking>
-
 # Shipping Declaration Form - Help Guide
 ## Purpose
 This form is designed for shipper to declare shipping details to the company for official purposes.

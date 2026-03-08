@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, I'll quickly review the form's purpose and the fields provided in the YAML input. This form is designed to collect information regarding court objections and consents. The form's pages include sections for parties' information, contact details, and other related fields like written statements and acknowledgments. This guide will cover each field and help end-users understand its significance and correct usage.</thinking>
-
 # Court Objection And Consent Form - Help Guide
 ## Purpose
 The Court Objection And Consent Form is designed to collect crucial information related to court objections and consents. This form helps in gathering the necessary details of parties involved, their contact information, and other relevant particulars.

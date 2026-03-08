@@ -1,8 +1,3 @@
-<thinking>
-This help guide will be based on the provided YAML fields to ensure users understand the purpose and completion of the diesel engine wiring course enrollment form. The purpose of the form is to gather information from students who want to enroll in the diesel engine wiring course. This guide will walk through the form fields one by one to ensure that users understand what each field means and what information should be provided. It will also provide tips for users to complete the form efficiently and accurately.
-
-</thinking>
-
 # Diesel Engine Wiring Course Enrollment Form - Help Guide
 ## Purpose
 The Diesel Engine Wiring Course Enrollment Form is designed to collect information from students who want to enroll in the diesel engine wiring course. This form will help us to verify your enrollment details and keep you updated on the course schedule, instructor, and any other important course information.

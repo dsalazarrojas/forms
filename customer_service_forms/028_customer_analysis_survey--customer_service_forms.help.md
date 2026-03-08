@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for customer analysis, which is typically used to collect feedback and gather insights from customers to improve a company's products, services, or overall customer experience. The form has a mix of personal information (name, email, phone), demographic and behavioral questions (age, income, purchase frequency and date), and feedback-oriented questions (favorite product, customer satisfaction, and additional comments). It might be used to identify trends, preferences, and areas of improvement for the business.
-</thinking>
-
 # Customer Analysis Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from customers to help us better understand their preferences, behaviors, and experiences with our services. Your responses will aid us in improving our products and services to provide a better experience for you and all our customers.

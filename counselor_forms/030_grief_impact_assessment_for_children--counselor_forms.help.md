@@ -1,8 +1,3 @@
-<thinking>
-To create this form, I'll assume that the form "Grief Impact Assessment For Children" is designed to help professionals in the mental health field assess the impact of grief on children. The form likely aims to provide a systematic evaluation of a child's emotional state and coping mechanisms after experiencing a significant loss, possibly a bereavement. This form would help gather essential information for professionals to create a personalized plan for the child's support and intervention. I'll focus on the essential details to avoid duplication or unnecessary information.
-
-</thinking>
-
 # Grief Impact Assessment For Children - Help Guide
 ## Purpose
 This form is designed to help professionals evaluate the impact of grief on children and identify effective ways to support them in their recovery.

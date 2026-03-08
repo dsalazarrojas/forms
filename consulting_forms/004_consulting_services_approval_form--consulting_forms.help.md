@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consulting Services Approval Form - Help Guide
 
 ## Purpose

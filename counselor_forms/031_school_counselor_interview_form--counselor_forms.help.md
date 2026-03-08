@@ -1,14 +1,3 @@
-<thinking>
-The School Counselor Interview Form is designed to gather information from the school counselor's perspective on a student's needs and progress. This form is typically used for assessment and planning purposes.
-
-To ensure the form is completed accurately and efficiently, please review each field carefully and provide clear responses to the questions.
-
-Please note that some fields are marked as "required," which means that a response is necessary to complete the form. Ensure that you provide a response for each required field.
-
-Also, be aware that the form is split into different sections, and each section has a specific purpose. The following guide will walk you through each section and field, helping you understand what information is required and how to complete it.
-
-</thinking>
-
 # School Counselor Interview Form - Help Guide
 ## Purpose
 This form is used for assessment and planning purposes by the school counselor.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Staff Innovation Story Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from hospital staff about their innovation stories, which are unique experiences, ideas, or approaches that have improved patient care or the hospital's operations. The purpose of this form is to gather feedback and insights from staff members, allowing the hospital management to identify areas for improvement and recognize staff members who have made significant contributions.

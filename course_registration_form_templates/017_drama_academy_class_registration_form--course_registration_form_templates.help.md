@@ -1,23 +1,3 @@
-<thinking>
-This form is used to collect information from users who want to register for a drama class at the Academy. The purpose of this form is to gather relevant details such as name, contact information, course selection, and class scheduling. 
-
-The fields included in this form are:
-- New Student Information (id: 1)
-- First Name (id: 2)
-- Last Name (id: 3)
-- Email (id: 4)
-- Birth Date (id: 5)
-- Contact Number (id: 6)
-- Drama Course selection (id: 7)
-- Class Level (id: 8)
-- Class Start (id: 9)
-- Class End (id: 10)
-- Total Classes (id: 11)
-
-When filling out this form, users must select the correct drama course they want to enroll in (id: 7) and the correct class level they're at (id: 8). The other fields are optional but provide helpful information.
-
-</thinking>
-
 # Drama Academy Class Registration Form - Help Guide
 ## Purpose
 The Drama Academy Class Registration Form is designed to help users register for a drama class. The form gathers user information such as name, contact information, course selection, and class scheduling.

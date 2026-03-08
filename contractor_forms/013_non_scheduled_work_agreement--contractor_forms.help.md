@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to document non-scheduled work agreements between a client and a contractor. The form captures essential details such as work dates, description, hours worked, rates, payment terms, and payment methods. 
-
-Before proceeding, ensure that the form is being used for non-scheduled work, as it does not apply to scheduled work. This form should not be used in conjunction with other forms that may already be used for scheduled work.
-
-</thinking>
-
 # Non Scheduled Work Agreement - Help Guide
 ## Purpose
 This form is used to document non-scheduled work agreements between a client and a contractor. It captures essential details such as work dates, description, hours worked, rates, payment terms, and payment methods.

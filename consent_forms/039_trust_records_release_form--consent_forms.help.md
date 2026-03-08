@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from a legal professional or trustee to obtain consent for the release of trust-related information. The form is a requirement for ensuring compliance and transparency in the process. The form is intended to be completed by a legal professional or trustee who is requesting the release of trust-related information. This form should only be completed for legitimate purposes and not for any other reason.
-
-The fields on this form are designed to collect information that is necessary for the legal professional or trustee requesting the release of trust-related information.
-
-The fields should not be used for any other purpose than what is described in this guide.
-
-</thinking>
-
 # Trust Records Release Form - Help Guide
 ## Purpose
 The Trust Records Release Form is used to collect information from a legal professional or trustee to obtain consent for the release of trust-related information.

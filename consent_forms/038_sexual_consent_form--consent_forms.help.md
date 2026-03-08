@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to document and track information related to sexual consent between individuals. It is likely used in a medical or therapeutic context to ensure that all parties have a clear understanding of their consent status. The form may be used to record information about the partner, their health status, and the duration of consent. This form is not intended to be used for other purposes, such as employment or business agreements.
-
-</thinking>
-
 # Sexual Consent Form - Help Guide
 ## Purpose
 This guide will help you understand how to complete the Sexual Consent Form.

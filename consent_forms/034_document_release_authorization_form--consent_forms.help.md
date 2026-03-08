@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting authorization to release documents to authorized parties. The purpose of this form is to obtain approval from relevant personnel before sharing documents, ensuring that sensitive information is handled according to our organization's policies. This form should only be submitted for documents that are not already publicly available or have specific access restrictions. Please check our internal policies and guidelines before proceeding.
-</thinking>
-
 # Document Release Authorization Form - Help Guide
 
 ## Purpose

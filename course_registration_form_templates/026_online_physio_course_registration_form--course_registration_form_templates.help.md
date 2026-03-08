@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Physio Course Registration Form - Help Guide
 ## Purpose
 This form is used to register for online physio courses. It collects essential information from users, including their personal details and course preferences. Please ensure you have the necessary permissions to register for the course before filling out this form.

@@ -1,5 +1,3 @@
-<thinking> 
-This form is designed to screen employees for eligibility to receive the COVID-19 vaccine. It collects personal and health information to determine if an employee is eligible for vaccination. The form is divided into two main sections: Employee Information and Eligibility Screening. The goal of this form is to ensure that employees who are eligible for vaccination receive the necessary information and resources to get vaccinated, while protecting those who are not eligible. This form should be completed by all employees before being vaccinated.</thinking>
 # COVID 19 Vaccine Screening Form - Help Guide
 ## Purpose
 The COVID-19 Vaccine Screening Form is designed to screen employees for eligibility to receive the COVID-19 vaccine. It is essential to complete this form to ensure that you are eligible for vaccination and to provide the necessary information and resources to receive the vaccine.

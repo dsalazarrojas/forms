@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect consent for video recordings from users. The purpose of this form is to ensure that users understand and agree to the terms and conditions of video recording, including the purpose of the recording, the location and equipment used, and the consent to reuse, share, and upload the recordings. This form is intended for users who are being recorded and are required to provide their consent before the recording can take place. The form is not intended for users who are not being recorded or who have already provided consent in the past.
-
-To ensure that the form is not completed unnecessarily, we will be checking for existing consent records before prompting the user to complete this form.
-
-</thinking>
-
 # video_recording_consent_form - Help Guide
 ## Purpose
 This form is used to collect consent for video recordings from users. It is essential to complete this form before any video recording can take place.

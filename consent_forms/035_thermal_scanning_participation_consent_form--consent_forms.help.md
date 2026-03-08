@@ -1,5 +1,3 @@
-<thinking>Before creating this form, please ensure that you understand its purpose and do not duplicate effort. The "Thermal Scanning Participation Consent Form" is designed to gather information from individuals who are participating in thermal scanning activities. This form is intended to be filled out by participants before they undergo thermal scanning, and it will help us understand their consent and participation details. The form's sections and fields are designed to be user-friendly and efficient, so please follow the guide below to complete it correctly.</thinking>
-
 # Thermal Scanning Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to gather consent and information from individuals who are participating in thermal scanning activities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential vendors who are interested in doing business with our organization. It's intended to be used by our employees to gather contact information from vendors, which will eventually be reviewed by our internal teams. The form will be used to verify the contact information and ensure that it matches our records. This form is not intended for general public use and should only be filled out by vendors who have been invited to fill it out by our organization.
-</thinking>
-
 # Vendor Request Form - Help Guide
 ## Purpose
 The Vendor Request Form is a tool used to collect contact information from potential vendors. It is meant to be filled out by vendors who have been invited to do business with our organization.

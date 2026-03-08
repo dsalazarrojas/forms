@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nfl Pre Order Form - Help Guide
 
 ## Purpose

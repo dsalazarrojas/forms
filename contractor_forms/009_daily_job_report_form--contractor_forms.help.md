@@ -1,12 +1,3 @@
-<thinking>
-This help guide is being written with the intent to provide clear, concise instructions to the end-user on how to complete the "daily-job-report-form" form. The form's purpose is to gather information about an employee's daily work, including hours worked, job sites visited, and other relevant details. 
-
-The form's fields are carefully selected to ensure that they are relevant and non-redundant, avoiding duplication of information. 
-
-Before starting, please review the form's fields and instructions carefully to ensure you understand what information is required and how to provide it accurately.
-
-</thinking>
-
 # daily-job-report-form - Help Guide
 ## Purpose
 

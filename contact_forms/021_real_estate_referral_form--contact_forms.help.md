@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a real estate referral, which is a key activity for real estate agents to grow their business by referring their clients to other real estate professionals who can better suit their needs. The form is intended to be simple and easy to understand, allowing agents to provide detailed information about the referral and their interaction with the referred client. This form will help agents keep track of their referrals and provide valuable insights for future interactions.</thinking>
-
 # real_estate_referral_form - Help Guide
 ## Purpose
 The real_estate_referral_form is a tool for real estate agents to document and track information about their referrals. This form allows agents to record details about the referred clients, properties, and their interactions, providing a comprehensive history for future reference and growth of their business.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is part of the workflow for booking a remote writer's services for a specific project. It is used to collect relevant information about the project and the remote writer's requirements. To ensure accuracy, this form is designed to be completed by the project lead or person booking the remote writer.
 
 To ensure that the form is not duplicated, please use a unique project title as this will be used as the project reference.

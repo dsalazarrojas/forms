@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from employees, contractors, or partners about their understanding and commitment to confidentiality, conduct, and data protection policies. The purpose of this form is to ensure that all individuals handling sensitive or confidential information understand their obligations and responsibilities. This form will help to establish a clear understanding of the company's expectations and ensure that all parties involved are aware of the consequences of violating these policies.
-
-Before starting to fill out this form, ensure you have not filled it out before and are not attempting to duplicate an existing declaration. If you have filled out this form previously, please do not submit this form again. 
-
-</thinking>
-
 # Confidentiality And Conduct Declaration - Help Guide
 ## Purpose
 This form is designed to collect information about your understanding and commitment to confidentiality, conduct, and data protection policies. It is essential to fill out this form accurately and truthfully to ensure a clear understanding of your role and responsibilities within the organization.

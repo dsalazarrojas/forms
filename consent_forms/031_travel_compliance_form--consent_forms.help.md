@@ -1,7 +1,4 @@
-> <thinking> 
-This form is designed to capture essential information for travel-related activities within the organization. This includes the declaration of travel intentions, travel dates, destinations, and agreements related to travel documentation and compliance. This form should only be completed once the travel plans are finalized and before proceeding. Please note that the form is not intended to be a duplicate entry, and only one form needs to be completed per travel activity.</thinking>
-
-# Travel Compliance Form - Help Guide
+> # Travel Compliance Form - Help Guide
 ## Purpose
 This form is used to capture information about travel-related activities within the organization, ensuring compliance with company regulations and policies.
 

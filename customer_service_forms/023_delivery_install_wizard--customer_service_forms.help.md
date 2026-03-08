@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for scheduling delivery and installation of equipment or goods to customers. It may be used by customer service representatives to gather information from customers before sending out a technician or delivery person. The form is not a billing or payment form.
-</thinking>
-
 # Delivery & Install Wizard - Help Guide
 ## Purpose
 The "Delivery & Install Wizard" form is used to schedule delivery and installation of equipment or goods to customers. It collects customer information and preferences for delivery and installation.

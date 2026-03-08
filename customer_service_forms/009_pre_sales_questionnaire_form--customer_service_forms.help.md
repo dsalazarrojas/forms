@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre-Sales-Questionnaire-Form - Help Guide
 
 ## Purpose

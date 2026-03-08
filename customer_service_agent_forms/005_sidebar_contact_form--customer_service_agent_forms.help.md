@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather contact information from customers or end-users to help them get in touch with a customer service agent for support or assistance. This form should only be used for legitimate support requests and not for marketing or sales purposes. 
-</thinking>
-
 # sidebar_contact_form - Help Guide
 ## Purpose
 The sidebar_contact_form is a simple contact form used to collect basic contact information from customers or end-users for support requests.

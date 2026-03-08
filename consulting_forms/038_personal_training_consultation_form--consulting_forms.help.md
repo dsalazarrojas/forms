@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Training Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for personal training consultations. It gathers details such as client contact information, training preferences, and consultation session details. The form helps the assigned user understand the client's needs and goals, enabling them to provide effective personal training.

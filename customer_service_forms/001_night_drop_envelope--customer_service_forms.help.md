@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Night Drop Envelope - Help Guide
 
 ## Purpose

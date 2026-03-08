@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for requesting visual production assistance, likely for visual content such as images, videos, or animations. The fields collected here may inform decisions around resource allocation and production timelines. 
-Before starting, check to ensure the form hasn't been recently completed for similar projects, to prevent unnecessary duplication.
-</thinking>
-
 # Visual Production Assistance Request Form - Help Guide
 ## Purpose
 The Visual Production Assistance Request Form is a tool for requesting visual production assistance. This form will gather necessary information to help production teams make informed decisions and allocate resources effectively.

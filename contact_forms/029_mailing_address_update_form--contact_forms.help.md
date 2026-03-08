@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "mailing_address_update_form", is to gather user-provided information for updating their mailing address. This form may be used for various scenarios such as updating a mailing address for billing purposes, or to ensure accurate shipping and delivery information. It's a straightforward form designed to collect basic contact information. Ensure you're filling out this form with accurate and up-to-date information to guarantee efficient communication and delivery services.
-</thinking>
-
 # mailing_address_update_form - Help Guide
 ## Purpose
 This form is used to update your mailing address, ensuring that we have the most accurate and up-to-date information for any communication or delivery purposes.

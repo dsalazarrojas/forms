@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a customer's voice profile, specifically their singing style, experience, and goals. The purpose of this form is to help us understand the customer's background and needs, which will enable us to provide them with personalized services and recommendations.
-</thinking>
-
 # my_voice_profile - Help Guide
 ## Purpose
 The "my_voice_profile" form is designed to collect information about your singing style, experience, and goals. This information will help us understand your unique needs and preferences, enabling us to provide you with personalized services and recommendations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Program Release Interest Form - Help Guide
 
 ## Purpose

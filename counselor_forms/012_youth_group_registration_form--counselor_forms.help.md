@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Youth Group Registration Form - Help Guide**
 
 ## Purpose

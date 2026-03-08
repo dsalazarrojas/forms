@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information on a Pride Nominee for the Pride Tournament Superlative Awards. The purpose of this form is to gather data on individuals who have achieved outstanding accomplishments in the Pride community, specifically their name, story, contact information, and any other relevant details.
-
-When filling out this form, please ensure that the nominee's information is accurate and up-to-date. The form should not be used to nominate oneself, but rather someone else in the Pride community who deserves recognition.
-
-When filling out this form, please do not nominate any individual who has been involved in any form of discrimination, hate speech, or other harmful behavior. The Pride Tournament Superlative Awards aim to recognize excellence, kindness, and inclusivity.
-
-Before starting to fill out the form, please review the required fields marked with an asterisk (*) to ensure you have the necessary information.
-
-</thinking>
-
 # Pride Tournament Superlative Awards - Help Guide
 ## Purpose
 

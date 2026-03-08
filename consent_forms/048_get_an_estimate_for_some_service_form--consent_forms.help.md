@@ -1,5 +1,3 @@
-<thinking>...This form is used to provide an estimate for a specific service. The purpose of this form is to collect information about the service the user is interested in, which will help our team to provide a more accurate estimate. To fill out this form, please ensure you are using it only once per service. Please complete the form carefully as the information provided will be used to generate your estimate...</thinking>
-
 # Get An Estimate For Some Service Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in filling out the "Documentary Project Distribution Consent Form." The form is meant for collecting information and consent from individuals involved in documentary projects. The guide will walk users through the form's purpose, how to complete it, and a brief explanation of each field to ensure users understand its meaning and importance.
-
-</thinking>
-
 # Documentary Project Distribution Consent Form - Help Guide
 ## Purpose
 This form is designed to collect essential information and consent from individuals involved in documentary projects. It's used to gather data on users' personal details, project specifics, and consent for project-related activities. The form ensures that users understand the rights and permissions required for project distribution and that they have given their consent in writing.

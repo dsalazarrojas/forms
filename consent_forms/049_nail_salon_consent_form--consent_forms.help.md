@@ -1,8 +1,3 @@
-<thinking>
-The internal purpose of this form is to obtain consent from clients for various salon services. This form is used to ensure that clients are aware of and agree to the salon's policies and procedures. It is essential to fill this form accurately and completely to avoid any potential disputes or misunderstandings. Before proceeding, please ensure that you are completing this form for the correct purpose and that the information provided is accurate and up-to-date. If you are unsure about any part of the form, please refer to the salon staff for guidance.
-
-</thinking>
-
 # Nail Salon Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the necessary information and consent from clients for salon services.

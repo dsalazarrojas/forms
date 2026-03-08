@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # date_selection_and_confirmation_form - Help Guide
 ## Purpose
 This form is used to collect information about preferred and end dates for booking purposes. It is used by customers to confirm their preferred dates and provide a contact number for communication.

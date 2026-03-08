@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and completion of the Miscarriage Survey form. Before proceeding, it's essential to note that the form's purpose is to collect information about experiences related to miscarriage, including pain levels, medical interventions, and stillbirths. This form is likely used in a healthcare setting to gather data for research or clinical purposes. To avoid duplication, end-users should only complete this form if they have not already done so in the past.
-
-To determine if a user has already completed the form, the system checks for the presence of a specific user ID or session ID. If a user has already completed the form, they will not be able to access it again. If a user has not already completed the form, they can access it freely.
-</thinking>
-
 # Miscarriage Survey - Help Guide
 ## Purpose
 The Miscarriage Survey is a form designed to collect information about experiences related to miscarriage, including pain levels, medical interventions, and stillbirths. This form is intended for use in a healthcare setting to gather data for research or clinical purposes.

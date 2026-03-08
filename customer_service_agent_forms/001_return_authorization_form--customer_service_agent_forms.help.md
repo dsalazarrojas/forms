@@ -1,12 +1,3 @@
-<thinking>
-This form is used to initiate a return authorization process for products that a customer may be attempting to return or exchange. The purpose of this form is to collect relevant information from the customer and to guide the customer service agent in handling the return request efficiently. The form will be used by customer service agents to assess and process return requests in a standardized and organized way.
-
-This form template is designed to be customizable, allowing the customer service team to tailor the template to their specific needs and requirements. This form is intended to be used for both customer service agents and the customers who are initiating the return process. By using this form, the customer service team can gather all necessary information from the customer, including the customer's name, product details, reason for return, and any other relevant information that may be required.
-
-To avoid duplication, this form should only be used when a customer is initiating a return request. If the customer is seeking information about a product or wants to make an inquiry, they may use other customer service forms.
-
-</thinking>
-
 # Return Authorization Form - Help Guide
 ## Purpose
 

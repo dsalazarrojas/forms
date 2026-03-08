@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user input for the purpose of generating a proxy form, likely for a Hoa (Hypertext Open API) project. The form is divided into four sections, each containing a specific field that requires user input. This form is a public adaptation of a form created using AI, and it can be freely used, modified, and distributed under a Creative Commons BY 4.0 license. To ensure consistency, users should only fill out this form once. Please do not submit duplicate entries.
-</thinking>
-
 # hoa_proxy_form - Help Guide
 
 ## Purpose

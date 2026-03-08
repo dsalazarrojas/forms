@@ -1,14 +1,3 @@
-<thinking>
-This form is used for obtaining facial consent, which is an essential step in various medical and healthcare settings. It typically involves obtaining the patient's permission to perform medical treatments, procedures, or interventions. The form should not be used for other purposes such as non-consent forms, medical records, or other types of forms. 
-
-This form was created using AI-generated content based on the metadata of public survey topics. 
-
-Please note that the form does not copy, extract, or use proprietary content from any form creation or data collection platforms. 
-
-You can use, modify, and even sell this form, but please provide credit to the form's creators.
-
-</thinking>
-
 # Facial Consent Form - Help Guide
 ## Purpose
 This form is used to obtain facial consent from patients, which is essential for healthcare providers to ensure that patients understand and agree to medical treatments, procedures, or interventions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining informed consent from clients for spa services. It is designed to gather essential information from clients, including their personal details, contact information, and consent for procedures. To ensure accurate and efficient completion, please follow these steps:
-</thinking>
-
 # spa_consent_form - Help Guide
 ## Purpose
 The spa consent form is a crucial document that helps establish a transparent and trusting relationship between you and your clients. This form collects essential information from clients, ensuring their needs are met and their rights are respected. It serves as a legal and ethical foundation for your spa practices.

@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended to help users understand and complete the "Data Privacy Policy Feedback Form" effectively. The purpose of this form is to gather feedback from users about the company's data privacy practices, data collection methods, data use practices, data security practices, and other related concerns. This form is designed to provide insight into the effectiveness of these practices and help the company improve its data handling procedures. By completing this form, users can provide concrete and honest feedback about their experiences with the company's data privacy practices. Before proceeding, make sure you have not already shared your thoughts with us before, as this will help us avoid duplication of effort and ensure your feedback is valuable for our improvement processes.
-</thinking>
 # Data Privacy Policy Feedback Form - Help Guide
 
 ## Purpose

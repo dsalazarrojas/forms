@@ -1,6 +1,3 @@
-<thinking>
-The Holistic Therapy Podcast Interview Consent Form is a form used to collect information from guests who participate in the podcast, including their personal details, contact information, medical history, and consent status. This form aims to ensure that guests are aware of the recording process, their rights, and the use of their information. The form should not be used for duplicate or non-relevant purposes, and the information collected should be kept confidential and secure.</thinking>
-
 # Holistic Therapy Podcast Interview Consent Form - Help Guide
 ## Purpose
 The Holistic Therapy Podcast Interview Consent Form is used to collect information from guests who participate in the podcast, including their personal details, contact information, medical history, and consent status. This form ensures that guests are aware of the recording process, their rights, and the use of their information.

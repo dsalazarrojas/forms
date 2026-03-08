@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from credit applicants to evaluate their creditworthiness. This form is used to gather personal and financial data to assess the applicant's credit history, income, and other relevant factors. The form is divided into several sections to ensure that the applicant provides accurate and detailed information. The data collected will be used to make informed decisions regarding credit approval and terms. Before starting the form, ensure that you have reviewed the terms and conditions and that you are aware of the credit application process...</thinking>
-
 # Application For Credit Form - Help Guide
 ## Purpose
 This form is a credit application form used to collect information from individuals seeking credit. The information gathered will be used to assess creditworthiness and determine credit approval.

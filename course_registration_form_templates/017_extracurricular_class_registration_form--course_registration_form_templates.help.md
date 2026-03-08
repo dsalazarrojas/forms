@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from students who wish to register for an extracurricular class or activity. The form should only be used by students who are interested in registering for a class that is not part of the standard curriculum. The form will be used to collect relevant details about the student, their parent or guardian, and the class they wish to register for. It's essential to fill out the form accurately and completely to avoid any issues with registration.
-</thinking>
 # Extracurricular Class Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who wish to register for an extracurricular class or activity that is not part of the standard curriculum.

@@ -1,9 +1,3 @@
-<thinking>
-This form is likely being used for collecting patient information and medical history related to COVID-19 antigen testing. The purpose of the form is to gather necessary details from patients or individuals undergoing antigen testing, such as contact and travel information, medical history, vaccination status, medication use, and test results. The form is intended to aid healthcare professionals in assessing the patient's risk factors and make informed decisions regarding testing and treatment. To ensure accuracy and consistency, please review each section carefully and provide thorough information.
-
-This form has a high number of identical fields with slight variations in labels, implying a possible use for multiple test results or a need to repeat certain information for different test types or patients.
-</thinking>
-
 # Covid 19 Antigen Intake Form - Help Guide
 ## Purpose
 This form is used to collect patient information and medical history related to COVID-19 antigen testing.

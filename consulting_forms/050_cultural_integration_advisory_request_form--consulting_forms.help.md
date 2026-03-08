@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for requesting cultural integration advisory services, such as language support or cultural orientation, for individuals or organizations. To ensure that each submission is valid and not a duplicate, please take a moment to read and understand the form's purpose before filling it out.
-</thinking>
-
 # cultural_integration_advisory_request_form - Help Guide
 ## Purpose
 The cultural integration advisory request form is designed to gather information for requesting cultural integration advisory services. This form helps you submit your request for support with cultural orientation, language assistance, or other related services.

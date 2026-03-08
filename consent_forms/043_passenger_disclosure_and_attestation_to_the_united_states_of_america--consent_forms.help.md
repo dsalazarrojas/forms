@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a passenger disclosure and attestation form for flights to the United States of America. It may be used by travelers, airlines, or travel agencies to gather information and confirm certain aspects of travel. However, the exact purpose of the form can only be determined based on the available data. If you are a frequent traveler to the United States, you may have a different understanding of the form's purpose based on your specific experience.
-
-</thinking>
-
 # Passenger Disclosure And Attestation To The United States Of America - Help Guide
 ## Purpose
 The Passenger Disclosure And Attestation To The United States Of America form is a document used to collect information and confirm aspects of passenger travel to the United States. This form may be used by airlines, travel agencies, or passengers themselves to provide details about their flight, such as departure and arrival dates and times, flight status, and passenger type.

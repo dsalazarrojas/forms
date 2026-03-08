@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain youth activity transportation release from parents or guardians, ensuring they grant permission for the youth to participate in activities. It's a crucial step to ensure the youth's safety and well-being during activities. Before proceeding, ensure that the form is not already filled out by the youth, as this would mean that the required consent has been previously granted and no further action is needed.
-</thinking>
-
 # Youth Activity Transportation Release - Help Guide
 ## Purpose
 This form is used to obtain youth activity transportation release from parents or guardians. The primary purpose is to ensure that the youth's safety and well-being are respected during activities.

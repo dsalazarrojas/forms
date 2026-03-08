@@ -1,7 +1,3 @@
-<thinking>
-We'll be creating a help guide for a form used to send free samples to customers. This form is likely intended for business-to-business (B2B) or business-to-consumer (B2C) interactions, where customers can request free samples of a product. The form will gather essential information about the customer, such as their name, email, phone number, and company details, as well as their sample preferences and any additional notes they might have. It might be used for promotional activities or to facilitate product testing and feedback. We'll focus on making the form clear and concise, ensuring our customers know what to expect from it.
-</thinking>
-
 # Send Free Sample Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in receiving free samples of our product. Fill out the form to send us a request, and we'll get back to you with further instructions.

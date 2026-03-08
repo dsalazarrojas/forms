@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a drone release form. The purpose of this form is to gather information for releasing a drone, allowing operators to provide details about the drone, its location, and the circumstances of the release. It's essential to ensure that all fields are completed correctly to maintain accurate records and facilitate proper handling of the drone. To avoid duplication, this form should only be filled out once per drone release.
-</thinking>
-
 # Drone Release Form - Help Guide
 ## Purpose
 The Drone Release Form is a document used to record the release of a drone. It captures essential information about the drone, its location, and the circumstances surrounding its release. Completing this form ensures that all necessary details are captured, making it easier to handle and maintain accurate records.

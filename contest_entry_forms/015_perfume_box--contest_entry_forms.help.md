@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form titled "Perfume Box". This form is likely used for subscription management, specifically for managing perfume box subscriptions. The form likely asks for subscription type, frequency, and other details related to the subscription. It might also request contact information such as name, email, and phone number for billing or communication purposes. The "Perfume Box" form could be used by perfume box service providers to manage their subscriptions and communicate with customers.
-To ensure the guide is not duplicated, we'll make sure to highlight the key features and requirements of the form.
-</thinking>
-
 # Perfume Box - Help Guide
 ## Purpose
 The "Perfume Box" form is designed to manage perfume box subscriptions for customers. It's used to collect essential details about the subscription, including the type, frequency, and payment method.

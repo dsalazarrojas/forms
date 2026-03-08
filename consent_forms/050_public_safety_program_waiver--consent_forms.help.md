@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Safety Program Waiver - Help Guide
 
 ## Purpose

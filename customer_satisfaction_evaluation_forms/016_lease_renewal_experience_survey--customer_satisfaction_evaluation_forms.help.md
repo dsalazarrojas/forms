@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lease Renewal Experience Survey - Help Guide
 ## Purpose
 This form is used to collect information about a property's lease renewal experience, including communication channels, lease length, lease terms, and other relevant details. This form is intended for use by property managers to gather feedback from customers and identify areas for improvement.

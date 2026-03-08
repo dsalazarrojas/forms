@@ -1,5 +1,3 @@
-<thinking>This form is used for mini golf course designers to submit their contest entry. It captures all relevant information about the submission, including contest details, designer information, and other supporting data such as location and submit time.</thinking>
-
 # mini-golf-hole-design-submission - Help Guide
 
 ## Purpose

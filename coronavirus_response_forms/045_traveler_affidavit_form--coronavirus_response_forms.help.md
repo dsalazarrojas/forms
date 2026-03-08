@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this Traveler Affidavit Form is to gather information from travelers about their travel history, destination, and documentation requirements. This form is likely to be used by government agencies or organizations responsible for tracking and monitoring traveler movements. The form's purpose is to ensure that travelers are aware of and understand their responsibilities and requirements for traveling during a pandemic or similar situation.
-
-This form should only be used for travelers who have been to or are planning to travel to or from specific destinations. If you are unsure about the form's relevance or if you have already submitted similar information, please let us know so we can verify your identity and ensure that you are not duplicating efforts.
-
-</thinking>
-
 # Traveler Affidavit Form - Help Guide
 ## Purpose
 

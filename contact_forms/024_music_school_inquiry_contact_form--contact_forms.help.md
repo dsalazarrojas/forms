@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow visitors to get in touch with the music school, providing a way for them to ask questions, seek information, or express interest in the school's programs or services. The fields included are basic contact information that will help the school's staff respond to the visitor's inquiry efficiently.
-</thinking>
-
 # Music School Inquiry Contact Form - Help Guide
 ## Purpose
 This form is meant to enable visitors to contact the music school with their inquiries, questions, or feedback.

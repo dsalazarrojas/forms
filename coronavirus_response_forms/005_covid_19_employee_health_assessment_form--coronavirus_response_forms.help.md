@@ -1,9 +1,3 @@
-<thinking>
-The form "COVID 19 Employee Health Assessment Form" is designed to gather essential information from employees regarding their current health status and ability to perform their job duties in relation to the COVID-19 pandemic. This form aims to assess the employee's overall health, potential exposure to COVID-19, and their work capacity. It is crucial to ensure that each employee's information is accurately and thoroughly captured to maintain a safe and healthy work environment. Please complete this form only if you have not already done so.
-
-Please note that this form is intended to be completed by employees who are currently or have been affected by COVID-19, or who are concerned about their ability to perform their job duties due to the pandemic.
-</thinking>
-
 # COVID 19 Employee Health Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about an employee's current health status, potential exposure to COVID-19, and work capacity in relation to the COVID-19 pandemic.

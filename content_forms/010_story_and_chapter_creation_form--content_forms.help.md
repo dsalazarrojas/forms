@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Story And Chapter Creation Form - Help Guide
 ## Purpose
 This form is designed to collect information for creating stories and chapters. It helps users to provide a title, genre, and other metadata for a story, as well as the content and tags for a chapter. The form is meant for users to create and manage their stories in an efficient and organized way.

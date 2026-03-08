@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for music label representatives to conduct interviews with artists. It's crucial that only relevant and new information is captured for each artist and that no duplicates occur. This form will help the music label to efficiently gather necessary information from the artist in a structured and organized way.
-</thinking>
-
 # Music Label Artist Interview Form - Help Guide
 ## Purpose
 

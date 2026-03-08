@@ -1,7 +1,3 @@
-<thinking>
-The form seems to be a medical verification form related to COVID-19 vaccine. The form contains 17 fields that are likely for tracking patient information, contact details, medical history, vaccination status, and vaccination schedule. The fields include text inputs for patient information, contact details, medical information, and vaccination status, schedule, and side effects. The form also includes several numeric fields with labels "Medical Verification 1", "Medical Verification 2", and so on, which are likely for tracking medical verification data. The form is not explicitly marked as required or optional, so it's possible that all fields are required.
-</thinking>
-
 # Medical Verification Form For COVID 19 Vaccine - Help Guide
 ## Purpose
 This form is designed to collect and track patient information, contact details, medical history, vaccination status, and vaccination schedule related to COVID-19 vaccine.

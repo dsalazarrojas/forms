@@ -1,19 +1,3 @@
-<thinking>Internal reasoning block to ensure the form's purpose and context are understood:
-
-The "Academic Study Video Diary Consent Form" is a form designed to obtain informed consent from participants in an academic study that involves video diary recording. This form is part of a research study that aims to collect video data for analysis. The form ensures that participants understand their rights, the purpose of the study, and their consent to participate, including video recording, audio recording, image use, data analysis, publication, data retention, and data deletion.
-
-Before filling out the form, it's essential to understand that:
-
-*   This form is not a registration or survey form but a consent form.
-*   The form is specifically designed for an academic study involving video diaries.
-*   The form asks for informed consent from participants, ensuring they understand the scope and limitations of the study.
-
-The form collects sensitive information, including contact details, study title, researcher's name, study duration, and participant consent for various aspects of the study. Participants must understand their rights and responsibilities, including data retention and deletion.
-
-This form is a legal and necessary document for researchers to ensure compliance with ethics and regulations in academic research. Participants must carefully read and understand the instructions before signing the form.
-
-</thinking>
-
 # Academic Study Video Diary Consent Form - Help Guide
 ## Purpose
 

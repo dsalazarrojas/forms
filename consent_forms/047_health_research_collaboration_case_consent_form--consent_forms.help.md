@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information and consent status for health research collaborations. The form is used to gather contact details, research institution, and project information from participants. The form will not be duplicated or submitted multiple times for the same participant. This guide will walk through the form's purpose, completion instructions, and explanations of each field.
-</thinking>
-
 # Health Research Collaboration Case Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant information and consent status for health research collaborations. It is essential to provide accurate and up-to-date information to help researchers collaborate effectively.

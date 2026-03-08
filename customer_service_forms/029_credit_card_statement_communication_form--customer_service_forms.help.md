@@ -1,5 +1,3 @@
-<thinking>...The form "credit_card_statement_communication_form" is designed to provide a means for customers to communicate their credit card statement information and any disputes or issues related to their transactions. This form is intended for customers to enter their details and any relevant supporting information for the support team to efficiently address their inquiries. This form is not intended for internal use and should only be used by customers. If you are an employee, please do not use this form. If you have already submitted this form, please do not resubmit it. The following guide is for customer use only...</thinking>
-
 # credit_card_statement_communication_form - Help Guide
 ## Purpose
 This form is for customers to communicate their credit card statement information and any disputes or issues related to their transactions. It is designed to help our support team to efficiently address your inquiry.

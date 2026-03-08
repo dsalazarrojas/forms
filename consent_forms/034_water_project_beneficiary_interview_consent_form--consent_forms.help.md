@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from water project beneficiaries to ensure they understand the project's purpose, terms, and conditions. It's essential to complete this form accurately to avoid any misunderstandings or miscommunication. Before proceeding, please ensure you have not already submitted this form for the same participant. If you're unsure, double-check your records or reach out to the project lead for clarification.
-</thinking>
-
 # Water Project Beneficiary Interview Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from water project beneficiaries to ensure they understand the project's purpose, terms, and conditions. It's essential to complete this form accurately to avoid any misunderstandings or miscommunication.

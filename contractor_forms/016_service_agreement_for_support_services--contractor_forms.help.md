@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended for end-users who need to understand the purpose and usage of the "Service Agreement For Support Services" form. The form's primary purpose is to collect information about the support services provided to a client. This form is part of the "contractor_forms" category, and its title indicates its relevance to service agreements. The form has three fields, each of which requires a brief explanation to ensure proper understanding and completion.
-
-</thinking>
-
 # Service Agreement For Support Services - Help Guide
 ## Purpose
 The "Service Agreement For Support Services" form is used to collect information about the support services provided to a client. This form is a crucial document that outlines the terms and conditions of the support services, ensuring a clear understanding between the service provider and the client.

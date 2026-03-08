@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information for ordering candies for a Halloween-themed event. It will be used to gather contact information, candy preferences, and payment details. Please fill out this form carefully to ensure that your candy order is processed correctly.</thinking>
-
 # halloween_candy_gram_order_form - Help Guide
 ## Purpose
 This form is used to place an order for a Halloween-themed event. It will ask for your contact information, candy preferences, and payment details.

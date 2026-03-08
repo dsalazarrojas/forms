@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting lead generation information from customers. It should be filled out by customers who have shown interest in our products or services. The form is not required to be filled out by all customers, but it can provide valuable insights for our business. To avoid filling out this form if you have already submitted one previously.
-</thinking>
-
 # Lead Generation Form - Help Guide
 ## Purpose
 The Lead Generation Form is designed to collect relevant information from customers to help our team better understand their needs and preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guide To Choosing Writing Services - Help Guide
 ## Purpose
 The purpose of this form is to help customers find the right writing services for their specific needs. It collects information to determine the type of writing service required, the scope of the project, the deadline, and the budget. This information will be used to match customers with suitable writing services.

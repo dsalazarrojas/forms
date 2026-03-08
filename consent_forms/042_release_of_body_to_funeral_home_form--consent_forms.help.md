@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the release of a body to a funeral home, which is a critical process in ensuring that the deceased is properly cared for and handled during the grieving process. It is essential to complete this form accurately and thoroughly to avoid any confusion or errors. Please ensure that you have all necessary information and approvals before proceeding.
-</thinking>
-
 # Release Of Body To Funeral Home Form - Help Guide
 ## Purpose
 This form is used to authorize the release of a body to a funeral home, providing essential information for the proper handling and care of the deceased.

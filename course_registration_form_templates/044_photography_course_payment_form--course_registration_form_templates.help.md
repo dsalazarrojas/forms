@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect payment information for a photography course. The form is likely used by an institution or organization offering photography courses to capture payment details from students. To ensure this form is relevant, the "photography_course_payment_form" title and "Course Name" field should be filled in to reflect the specific course being registered for. The "Student Name" field should be filled with the actual name of the student, and the "Student Phone" field should be filled with a valid phone number. The "Payment Method" field should be filled with the chosen payment method, such as "Credit Card" or "PayPal". If credit card payment is selected, the "Credit Card Number" field should be filled with the credit card number. The "Email" field should be filled with the student's email address. The "Course Fees" field should be filled with the course fees amount. The "Notes" field is optional and can be used for any additional information. This form does not appear to be a duplicate of any other form in the system, based on the provided fields.</thinking>
-
 # photography_course_payment_form - Help Guide
 ## Purpose
 The photography_course_payment_form is a payment form for registering students for a photography course. It is used by institutions or organizations to collect payment details from students.

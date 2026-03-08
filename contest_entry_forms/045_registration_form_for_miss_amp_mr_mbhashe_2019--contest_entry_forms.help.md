@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the registration process of the Miss & Mr Mbhashe 2019 competition. It is intended for individuals to provide personal details for participation. The form is not designed for multiple submissions; each submission should be a unique entry. Please review and complete the form carefully to ensure accurate and complete information.
-</thinking>
-
 # Registration Form For Miss & Mr Mbhashe 2019 - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from individuals for the Miss & Mr Mbhashe 2019 competition.

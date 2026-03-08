@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and satisfaction ratings from customers after a milestone event or project completion. The purpose of this form is to gauge customer satisfaction, gather feedback, and identify areas for improvement. Please ensure you have completed the required fields, as indicated by the "required" field label. If you're unsure about any field, you can refer to this help guide for clarification.
-</thinking>
-
 # Milestone Survey - Help Guide
 ## Purpose
 The Milestone Survey form is designed to collect feedback and satisfaction ratings from customers after a milestone event or project completion.

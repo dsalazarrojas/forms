@@ -1,8 +1,3 @@
-<thinking>
-We are creating a form to obtain the necessary consent from individuals and organizations to use their visual art creation footage. This form is designed to collect relevant information about the artist, project details, and the specific footage to be used. By using this form, we can ensure that we have the necessary permissions to use the art, and that we are respecting the rights of the creators.
-The form is intended for use in various situations, such as obtaining consent for a commercial project, or for personal use. We need to ensure that we are not duplicating efforts, and that we are using the most up-to-date information.
-</thinking>
-
 # visual_art_creation_footage_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to collect the necessary information to obtain consent from artists to use their visual art creation footage.

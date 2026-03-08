@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about pets brought into the hotel. The hotel management wants to ensure that all pets are properly documented and their owners are aware of the hotel's pet policy. This form will help the hotel staff to better understand pet owners' needs and preferences, and to provide a safe and comfortable environment for all hotel guests, both human and animal. It's essential to complete this form thoroughly and accurately to help us understand your pet's specific needs.
-</thinking>
-
 # Hotel Pet Policy Form - Help Guide
 ## Purpose
 The Hotel Pet Policy Form is designed to collect essential information about your pet. This form is meant to ensure that we can accommodate your pet's needs while maintaining a safe and comfortable environment for all hotel guests.

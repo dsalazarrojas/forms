@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document the condition of a building's roofing system, including the address of the building, the type of roof, and various conditions related to the roof and chimney. The form is designed to be completed by roofing inspectors to assess the condition of the roof and identify any potential issues that need to be addressed. The form is part of a larger process to ensure the safety and maintenance of buildings.
-
-</thinking>
-
 # Roofing Inspection Form - Help Guide
 ## Purpose
 The Roofing Inspection Form is used to document the condition of a building's roofing system. It helps assess the quality and safety of the roof and chimney.

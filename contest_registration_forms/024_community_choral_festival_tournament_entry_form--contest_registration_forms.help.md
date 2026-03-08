@@ -1,7 +1,3 @@
-<thinking>
-This guide is for users registering their choir or group for the Choral Festival Tournament. It is essential to ensure accurate and complete information is provided to avoid duplication or incorrect registration. Please review the form carefully before submission.
-</thinking>
-
 # Choral Festival Tournament Entry - Help Guide
 ## Purpose
 This form is for choirs or groups to register for the Choral Festival Tournament. It collects information about the ensemble, contact details, and performance specifics.

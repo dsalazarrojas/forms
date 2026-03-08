@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from businesses about their response to the COVID-19 pandemic. This form will help track the status of businesses in various categories, such as their current operational status and the type of business they are. The form will also help identify which businesses require assistance or support.
-The form is designed to be completed by business owners or representatives and will help the organization understand how the pandemic has affected different types of businesses. This information will be used to inform decision-making and resource allocation.
-Please note that this form should only be completed once for each business. If you have already completed this form, please do not submit it again.
-</thinking>
-
 # Coronavirus Business Reopening Survey - Help Guide
 ## Purpose
 The Coronavirus Business Reopening Survey is a tool to gather information from businesses about their response to the COVID-19 pandemic.

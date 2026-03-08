@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by customers or individuals returning items to a vendor, likely for a refund or exchange. The purpose of this form is to gather information about the reason for return, which will be used by the vendor to process the return and ensure that the customer's experience is satisfactory. Before using this form, please confirm that you are authorized to return items to a vendor and that the items being returned are indeed defective or not in working order. This form should not be used to return items that are not defective or do not fit the description provided.
-</thinking>
-
 # Return To Vendor Form - Help Guide
 
 ## Purpose

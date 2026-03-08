@@ -1,7 +1,3 @@
-<thinking>
-This form is a Sales Agreement form, which is used to record and document the terms of a sales transaction, including the payment terms and details of the agreement between the seller and the buyer. The purpose of this form is to ensure that both parties have a clear understanding of the terms and conditions of the sale, and to provide a record of the agreement that can be referred to in the future if needed. The form captures information such as contact details, payment terms, delivery methods, payment amounts, payment dates, and payment notes.
-</thinking>
-
 # Sales Agreement - Help Guide
 
 ## Purpose

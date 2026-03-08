@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to document and record essential information related to tailgate safety meetings conducted for various contractors and workers on a site. It serves to ensure that all relevant details are captured for regulatory compliance and risk management purposes.
-
-Before filling out this form, please ensure that it is not a duplicate of a similar form you have already completed. If you are unsure, review your previous records or reach out to the relevant personnel.
-
-</thinking>
-
 # Tailgate Safety Meeting Form - Help Guide
 ## Purpose
 The Tailgate Safety Meeting Form is a critical document for recording information related to tailgate safety meetings conducted for contractors and workers on site. Completing this form ensures that all essential details are documented and helps maintain compliance with safety standards.

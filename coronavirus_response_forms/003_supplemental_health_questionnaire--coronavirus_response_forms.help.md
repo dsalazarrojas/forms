@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplemental Health Questionnaire - Help Guide
 ## Purpose
 The Supplemental Health Questionnaire is designed to gather additional information from patients about their health status, contact details, and medical history. This form helps healthcare providers assess their overall health and provide personalized care.

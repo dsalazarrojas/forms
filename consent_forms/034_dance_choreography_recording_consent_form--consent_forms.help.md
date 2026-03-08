@@ -1,7 +1,3 @@
-<thinking>... This form is designed to capture the consent for recording dance choreography. The form is meant for students who are part of dance classes, and it collects contact information for emergency contacts. The form should not be filled out by students themselves, but rather by a parent or guardian on their behalf. If a parent or guardian has already provided consent for recording in a previous session, they should not fill out this form again. The form is required for every new dance choreography recording session. This form is only used for internal purposes and will not be shared with anyone outside of the organization.
-
-</thinking>
-
 # dance_choreography_recording_consent_form - Help Guide
 ## Purpose
 The dance_choreography_recording_consent_form is used to capture the consent for recording dance choreography sessions.

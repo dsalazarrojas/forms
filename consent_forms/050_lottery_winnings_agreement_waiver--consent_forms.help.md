@@ -1,16 +1,3 @@
-<thinking>
-This form is used to obtain a participant's agreement and consent on the terms of sharing lottery winnings. The purpose of this form is to verify that the participant is aware of the terms and conditions of the lottery winnings and has agreed to share their winnings accordingly. This form is part of the process of managing lottery winnings for tax and legal purposes.
-
-It's essential to review the participant's information accurately to avoid duplication of effort and ensure consistency across various systems.
-
-The form should be filled out by the participant or their representative, and it's crucial to ensure that all required fields are completed accurately.
-
-Each field has a specific purpose, and filling out this form incorrectly or incompletely may lead to delays in processing the participant's winnings.
-
-Please review the participant's information carefully before submitting the form.
-
-</thinking>
-
 # Lottery Winnings Agreement Waiver - Help Guide
 ## Purpose
 The Lottery Winnings Agreement Waiver form is used to obtain a participant's agreement and consent on the terms of sharing lottery winnings. This form ensures that the participant is aware of the terms and conditions of the lottery winnings and has agreed to share their winnings accordingly.

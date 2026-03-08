@@ -1,6 +1,3 @@
-<thinking>
-The provided YAML describes a form with 12 fields. Before generating the user-facing help guide, let's briefly review the form purpose and ensure it's not duplicating any other form's functionality. The tech_customer_support_assessment_form seems to be a comprehensive survey designed for customers to provide feedback on their recent interaction with technical support. It aims to gauge customer satisfaction, evaluate the resolution of issues, and explore follow-up processes. The form's purpose is unique and not duplicating any other form's functionality within the given context.</thinking>
-
 # tech_customer_support_assessment_form - Help Guide
 
 ## Purpose

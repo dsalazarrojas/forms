@@ -1,7 +1,3 @@
-<thinking>
-The "Marketing Contest Entry Form" is designed to collect user-generated content for marketing contests. The form aims to gather information from users about their marketing-related experiences, thoughts, or ideas. The form is created using AI-driven design principles, but it's not affiliated with or derived from any specific form platform, ensuring its originality and adaptability. The form's structure and fields are crafted based on public survey topics in the marketing category. 
-</thinking>
-
 # Marketing Contest Entry Form - Help Guide
 
 ## Purpose

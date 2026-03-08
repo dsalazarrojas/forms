@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect detailed information about a drawing entry. The form fields cover various aspects of the drawing entry, including contact information, entry details, winner details, and drawing specifics. This form is meant to be used for registration and tracking purposes. Before filling out this form, please make sure you have all the necessary information required for a successful drawing entry registration. Note that some fields are required while others are optional. Ensure that you complete all required fields.
-</thinking>
-
 # Drawing Entry Form Template - Help Guide
 ## Purpose
 The drawing entry form is designed to collect information about a drawing entry for registration and tracking purposes.

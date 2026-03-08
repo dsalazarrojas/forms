@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through a 5-day healthy breakfast challenge. The purpose of this form is to help users set their breakfast goals, track progress, and provide motivation for morning routines and habits. It is crucial to ensure users understand the form's purpose and relevance before proceeding, and that they do not complete the form if they have already done so recently. Please confirm you have not filled this form in the last 5 days before starting.
-</thinking>
-
 # the_5_day_healthy_breakfast_challenge - Help Guide
 ## Purpose
 The 5-day healthy breakfast challenge is a guide to help you set and achieve your breakfast goals. This form will aid you in setting a realistic and achievable breakfast plan for the next 5 days, providing you with a clear understanding of what to expect and how to track your progress.

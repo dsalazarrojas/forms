@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Surgery Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from pet owners for surgical procedures on their pets. It ensures that the pet owner is aware of the risks associated with the surgery and provides a record of their consent.

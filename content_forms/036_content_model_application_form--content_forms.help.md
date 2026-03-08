@@ -1,9 +1,3 @@
-<thinking>
-This form is for applicants to apply for content modeling work. The purpose of this form is to gather information about the applicant's personal details, experience, and skills. The form requires the applicant to provide their full name, email address, phone number, date of birth, mailing address, city, state, and zip code. 
-The applicant is also asked about their modeling experience, content type interest, portfolio URL, Instagram handle, and follower count. Additionally, the form inquires about the applicant's height, weight, eye color, hair color, clothing size, shoe size, special skills, availability, willingness to travel, previous agencies worked with, reasons for applying, and application date. 
-Please ensure that the applicant fills out the form accurately and thoroughly to increase the chances of being considered for modeling work. 
-</thinking>
-
 # Content Model Application Form - Help Guide
 
 ## Purpose

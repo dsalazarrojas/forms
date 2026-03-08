@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from clients about their personal details, medical history, and preferences regarding the use of a specific product, specifically a beard oil. The purpose of this form is to ensure that the client understands the product's usage, potential reactions, and consents to use it. This form is intended for internal use within an organization and is not meant to be publicly accessible.
 
 </thinking>

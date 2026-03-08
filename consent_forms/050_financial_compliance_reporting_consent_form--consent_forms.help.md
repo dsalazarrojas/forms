@@ -1,5 +1,3 @@
-<thinking>...I'll provide a user-facing help guide for the "Financial Compliance Reporting Consent Form" based on the provided YAML fields...</thinking>
-
 # Financial Compliance Reporting Consent Form - Help Guide
 ## Purpose
 This form is used to obtain user consent for financial compliance reporting. It is a required form that must be completed and signed by the user to indicate their consent for reporting activities.

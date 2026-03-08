@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request a custom button badge quotation from the user. The purpose of this form is to gather necessary information from the user to provide an accurate quotation for the custom button badge design and production process. The form should only be used for customers who are looking to create custom button badges and need a quote from our team. Please ensure that you have all the required information ready before completing this form, as incomplete forms may delay the quote process.
-</thinking>
- 
 # Custom Button Badge Quotation Request - Help Guide
 ## Purpose
 The Custom Button Badge Quotation Request form is designed to gather information for customers to request a custom button badge quotation. This form should be used for customers who are looking to create custom button badges and need a quote from our team.

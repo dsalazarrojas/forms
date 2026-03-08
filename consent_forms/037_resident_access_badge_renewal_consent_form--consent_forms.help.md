@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is only accessible to authorized users and that the user is not trying to renew their badge multiple times. We should also verify that the property manager and resident's signatures are from the correct individuals to prevent fraud and maintain data integrity. This form requires specific fields to be filled out by the property manager and resident to confirm their identities and provide any necessary information for the badge renewal process.
-
-</thinking>
-
 # Resident Access Badge Renewal Consent Form - Help Guide
 ## Purpose
 The Resident Access Badge Renewal Consent Form is used to request and verify the renewal of a resident's access badge. This form is required for property managers and residents to provide their signatures and contact information to confirm their identities and authorize the badge renewal.

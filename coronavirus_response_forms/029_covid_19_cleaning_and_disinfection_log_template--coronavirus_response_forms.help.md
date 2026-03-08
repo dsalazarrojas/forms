@@ -1,11 +1,3 @@
-<thinking>By analyzing the YAML file, this form is designed to be a COVID-19 cleaning and disinfection log template. It is intended to document the cleaning and disinfection process, ensuring the health and safety of individuals and facilities. This template aims to track the date, time, location, staff involved, and other relevant details for each cleaning and disinfection task. The form is likely used in various settings such as schools, hospitals, office buildings, or any other environment where cleanliness and disinfection are crucial. The form might be used to ensure compliance with regulations, protocols, or guidelines related to COVID-19, which is why it's essential to understand each field's purpose for accurate completion and proper usage.
-
-Before proceeding, double-check that this template meets the specific requirements of your institution or organization. It's also a good idea to review existing documentation or policies related to COVID-19 cleaning and disinfection in your area to determine the relevance of each field.
-
-This form is an original adaptation of a public survey topic, and you are free to use, modify, and distribute it according to your needs. If you have any doubts or concerns, feel free to reach out to [form@gic.mx](mailto:form@gic.mx).
-
-Now, let's explore each field in more detail.</thinking>
-
 # COVID 19 Cleaning And Disinfection Log Template - Help Guide
 
 ## Purpose

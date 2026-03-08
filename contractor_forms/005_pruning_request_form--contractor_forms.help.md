@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pruning Request Form - Help Guide
 ## Purpose
 The Pruning Request Form is used to collect information from clients who need to request pruning services. This form helps us understand their specific needs and requirements for their pruning requests. Please ensure you only submit one form per request, and avoid duplication or submission of incomplete forms.

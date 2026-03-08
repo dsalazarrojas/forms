@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate referrals to a service provider. The purpose is to gather necessary information from the referrer and the service provider so that the referral can be properly recorded and followed up on. It's essential that the referrer provides accurate information about the service provider and themselves to ensure seamless communication and efficient follow-up. This form should be used when referring a new client or partner to a service provider.
-</thinking>
-
 # service_provider_referral_form - Help Guide
 ## Purpose
 The Service Provider Referral Form is used to gather information from a referrer and the service provider when referring a new client or partner to a service provider.

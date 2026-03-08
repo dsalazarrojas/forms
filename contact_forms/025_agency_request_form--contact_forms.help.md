@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect information from agencies interested in partnering with the organization. The purpose of this form is to gather essential details about the agency's business model, specific challenges they face, and their preferred method of contact. The information collected will help the organization understand the agency's needs and determine the best course of action for potential partnership.
-
-Before filling out this form, please ensure you have all the necessary information and that it is accurate. This form should not be used for general inquiries or sales pitches. If you have any questions or need further clarification, please do not hesitate to contact us.
-
-</thinking>
-
 # Agency Request Form - Help Guide
 
 ## Purpose

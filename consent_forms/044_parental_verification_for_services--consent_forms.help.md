@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from a parent or guardian to verify their consent and provide details for services offered by the organization. This form is likely used in scenarios where a child is receiving services, such as therapy, education, or healthcare, and the parent's consent and contact information are required for the child's care.
-
-To avoid duplication, this form should not be completed if the parent has already provided consent and contact information through another means, such as a paper-based consent form or an existing digital record.
-
-Before proceeding, ensure that you have the necessary permissions to complete this form, and that you are authorized to access the information being collected.
-
-This form will be used to collect and store information that may be considered sensitive, so please handle the collected data with care and in accordance with organizational data protection policies.
-</thinking>
-
 # Parental Verification For Services - Help Guide
 ## Purpose
 The Parental Verification For Services form is used to collect information from a parent or guardian to verify their consent and provide details for services offered by the organization. This includes contact information, services provided, and any additional comments or notes.

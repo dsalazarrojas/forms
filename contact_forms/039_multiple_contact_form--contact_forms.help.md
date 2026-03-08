@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Multiple Contact Form - Help Guide
 ## Purpose
 The Multiple Contact Form is used to send contact requests to a designated contact person, providing multiple options for the type of contact form that needs to be filled out. This form is intended to be filled out by users who want to initiate contact with the contact person for various reasons.

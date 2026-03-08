@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students participating in a School Talent Quest tournament. The purpose of this form is to gather essential details about each student, including their name, school, event details, and contact information. This form will be used to track and record the student's participation in the tournament.
-Internal note: This form is part of a larger contest entry system, and its data will be stored in the database for future reference and analysis. To ensure accuracy and consistency, please fill out the form carefully and thoroughly.
-</thinking>
-
 # School Talent Quest Tournament Entry Form - Help Guide
 ## Purpose
 

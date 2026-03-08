@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from production companies and individuals about their film or project locations, to ensure that any filming or recording activities take place without infringing on the rights of the locations' owners. It is crucial for the production companies to provide accurate and detailed information about their projects to avoid any potential conflicts or issues with location owners. This form is used in conjunction with other forms and procedures to ensure that filming activities are conducted in a legal and respectful manner.
-This form will likely be used in various contexts, such as:
-- Film and television production
-- Photography or commercial shoots
-- Event filming or recording
-- Any other type of filming or recording activity that requires permission to access a location
-
-Please review this form to ensure that you understand its purpose and the information it requires. If you have any questions or concerns, please contact the relevant authorities or the production company representative.</thinking>
-
 # Film Location Release Form - Help Guide
 ## Purpose
 The Film Location Release Form is a document used to obtain permission from location owners to allow filming or recording activities on their property. It is essential to complete this form accurately to ensure that the production company has the necessary permissions to conduct filming or recording at the specified location.

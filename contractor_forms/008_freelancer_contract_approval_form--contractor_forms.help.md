@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The Freelancer Contract Approval Form is used for reviewing and approving contracts with freelancers working on various projects. The form is designed to be a centralized platform for project managers to gather and verify information about freelancers' projects, clients, and payment terms. This form helps ensure that all relevant details are properly documented and approved before commencing work. It is crucial to complete this form accurately and thoroughly to prevent misunderstandings and ensure a smooth working relationship with freelancers.
 </thinking>
 

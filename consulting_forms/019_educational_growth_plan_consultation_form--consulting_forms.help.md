@@ -1,9 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I understand that creating a clear and concise user guide is essential to help users complete the form effectively. This is the Educational Growth Plan Consultation Form, which was generated using only public survey topic metadata (title + industry/category). The form is an original adaptation and does not use proprietary content from any form creation platforms. The aim of this form is to collect user information, but I'll provide a step-by-step guide on how to complete it without requiring any proprietary data or credentials.
-
-</thinking>
-
 # Educational Growth Plan Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather relevant information for creating an educational growth plan that caters to students' and educators' needs. By filling out this form, users will help us better understand their goals, challenges, and insights, which will aid in designing a more effective growth plan.

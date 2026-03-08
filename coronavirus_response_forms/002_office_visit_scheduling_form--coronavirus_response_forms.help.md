@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Visit Scheduling Form - Help Guide
 ## Purpose
 This form is intended for patients or visitors to schedule an office visit with your healthcare provider. Please ensure you are using this form for the intended purpose and not duplicating efforts.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request content from the content team. It is intended for internal use within the organization. To ensure that your content request is processed correctly, please make sure to fill in all required fields and provide accurate information.
-</thinking>
-
 # seo_content_request_form - Help Guide
 ## Purpose
 The seo_content_request_form is used to request content from the content team for various purposes such as blog posts, articles, videos, and more.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients for consultations. It's not meant for internal use within our organization or for general feedback. Please ensure that the form fields are filled out accurately and completely to facilitate the collection of relevant data. Before starting, take a moment to review the form and ensure that you have all the necessary information to provide the required inputs.
-</thinking>
-
 # IT Consultation Form - Help Guide
 ## Purpose
 The IT Consultation Form is designed to collect information from clients for the purpose of facilitating consultations. This form should only be used for clients who require guidance on technical matters related to IT services.

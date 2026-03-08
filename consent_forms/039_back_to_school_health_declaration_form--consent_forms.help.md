@@ -1,11 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to gather information regarding a student's health status and any potential risks associated with returning to school during a pandemic. This form is typically used by schools to ensure that students have not recently been exposed to COVID-19 or other illnesses that may pose a risk to themselves or others. By collecting this information, the school can take necessary precautions to prevent the spread of illness and ensure a safe learning environment. This form should only be completed by the student or their parent/guardian if the student has not recently been exposed to COVID-19.
-
-It's worth noting that some fields on this form are not required, but are still important for providing context and additional information about the student's health status. These fields may be filled out by the student or their parent/guardian on their own accord, but are not mandatory.
-
-The form is split into several sections or pages, each with its own unique fields and prompts. The purpose of this guide is to walk the user through how to complete this form accurately and effectively.
-</thinking>
-
 # Back To School Health Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a student's health status and any potential risks associated with returning to school during a pandemic.

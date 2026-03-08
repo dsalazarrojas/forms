@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of a larger system that collects user-submitted inspirational or motivational quotes, possibly for a blog or a social media platform. The purpose of this form is to allow users to submit quotes that align with the theme of self-love and self-empowerment. It's possible that the system uses this form to collect quotes from various users and display them on the platform for others to view and share. The system might also use the submitted quotes to analyze trends or provide insights on user-generated content. Before starting, ensure that you have not submitted a similar quote before, as the system may not allow duplicate submissions.
-</thinking>
-
 # self_love_quote_submission_form - Help Guide
 ## Purpose
 This form is for users to submit inspirational or motivational quotes related to self-love and self-empowerment. The goal is to collect quotes that promote positive and uplifting content.

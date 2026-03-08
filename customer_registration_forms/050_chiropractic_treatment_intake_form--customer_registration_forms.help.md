@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather essential information from patients about their chiropractic care needs. It is designed to be completed by patients before their first appointment with a chiropractor. The purpose of this form is to ensure that the patient's medical history and contact information are accurately recorded and to obtain their consent to treatment. Please ensure that you have not already collected this information from the patient through other means before filling out this form. If you have any questions, feel free to ask the patient or refer to the chiropractor.
-</thinking>
-
 # Chiropractic Treatment Intake Form - Help Guide
 ## Purpose
 The Chiropractic Treatment Intake Form is designed to collect essential information from patients about their medical history, contact details, and consent to treatment. This information is crucial for providing effective and safe chiropractic care.

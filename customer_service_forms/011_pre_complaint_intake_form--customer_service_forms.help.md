@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-The Pre Complaint Intake Form is designed to collect information about incidents or complaints from customers in a structured manner. This form is used to gather details about the incident, customer contact information, and other relevant details that will help the customer service team to efficiently handle the complaint.
+# The Pre Complaint Intake Form is designed to collect information about incidents or complaints from customers in a structured manner. This form is used to gather details about the incident, customer contact information, and other relevant details that will help the customer service team to efficiently handle the complaint.
 
 This form is meant for customers to provide their incident details, and it's not meant to be used for other purposes. Therefore, please fill out this form only for incidents that you would like to report to the customer service team.
 

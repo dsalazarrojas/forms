@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 School Reporting Form - Help Guide
 ## Purpose
 

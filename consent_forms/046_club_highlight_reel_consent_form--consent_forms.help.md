@@ -1,5 +1,3 @@
-<thinking>As a club highlight reel consent form, this form is used to collect information and consent from participants for various club-related media, such as video recordings, photos, and audio content. This form ensures that participants understand how their likeness, voice, and work will be used and distributed. It's essential to fill out the form accurately to ensure that your participation and likeness are used in a way that's consensual and respectful. Please note that the form requires consent for various aspects, including media use, distribution, and promotional purposes. It's crucial to read each field carefully and make informed decisions about how your participation and likeness will be used. Before filling out the form, review the fields and make sure you understand what is required for each section.</thinking>
-
 # Club Highlight Reel Consent Form - Help Guide
 
 ## Purpose

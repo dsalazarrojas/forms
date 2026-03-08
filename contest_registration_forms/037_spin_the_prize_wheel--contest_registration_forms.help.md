@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register a customer's entry into a Spin The Prize Wheel contest. The form is used to collect demographic information and entry details from customers. It is used to gather data for analysis and reward purposes. The form is not meant to be filled out by the customer's account information or other sensitive data. It is a one-time registration form and should only be filled out once per customer per contest.
-</thinking>
-
 # Spin The Prize Wheel - Help Guide
 ## Purpose
 The "Spin The Prize Wheel" form is used to register a customer's entry into the Spin The Prize Wheel contest. It is used to collect demographic information and entry details from customers.

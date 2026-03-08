@@ -1,7 +1,3 @@
-<thinking>
-The form is used to upload and submit graphic design entries, which can be from various categories such as Agency, School, or Event Organizer. It allows users to provide detailed information about their design, including images, descriptions, categories, and tags. Users can also upload design files and additional files, and add comments and contact information.
-</thinking>
-
 # Graphic Design Entry Upload Form - Help Guide
 
 ## Purpose

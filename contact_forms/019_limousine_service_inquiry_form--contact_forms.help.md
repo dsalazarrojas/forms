@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Limousine Service Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their limousine service needs. It will help us to better understand their requirements and provide them with a suitable limousine service experience.

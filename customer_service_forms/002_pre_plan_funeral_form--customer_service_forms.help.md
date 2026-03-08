@@ -1,7 +1,3 @@
-<thinking>
-  The internal reasoning block to consider: This form is intended for customers who want to pre-plan their funeral arrangements. The purpose of this form is to collect vital information from customers to ensure that their wishes are met when the time comes. It is crucial to collect the right details to avoid any misunderstandings or miscommunications with family members. This form should be used for customers who want a dignified and personalized funeral experience.
-</thinking>
-
 # Pre Plan Funeral Form - Help Guide
 ## Purpose
 The Pre Plan Funeral Form is designed for customers who want to pre-plan their funeral arrangements to ensure their wishes are met and their family members are prepared for the funeral. This form helps customers collect vital information about their preferences, contact information, and other important details.

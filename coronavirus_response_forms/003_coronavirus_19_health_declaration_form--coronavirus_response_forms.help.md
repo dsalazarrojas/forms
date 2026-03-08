@@ -1,11 +1,3 @@
-<thinking>
-This form was created using public metadata as inspiration, and it's an original adaptation of various public survey topics. It's a coronavirus 19 health declaration form for tracking patient information, symptoms, contact history, and exposure risk.
-Before completing this form, please note that it's essential to answer all the questions honestly and thoroughly. This form does not copy or extract content from any form creation platforms. It's released under CC BY 4.0, allowing you to use, modify, and even sell derived forms, giving credit.
-Ensure you're filling this form for the intended purpose: tracking health declarations related to the coronavirus 19.
-Please answer the questions based on your current situation, and if you're unsure about any question, consult a healthcare professional for guidance.
-This form is divided into different sections, each focusing on a specific aspect of the coronavirus 19 health declaration.
-</thinking>
-
 # Coronavirus 19 Health Declaration Form - Help Guide
 
 ## Purpose

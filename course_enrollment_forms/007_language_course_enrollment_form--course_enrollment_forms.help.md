@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for course enrollment. It gathers user information, course preferences, and other relevant details to help the course administration process. This guide is designed to help users fill out the form accurately and efficiently.
-</thinking>
 # Language Course Enrollment Form - Help Guide
 ## Purpose
 

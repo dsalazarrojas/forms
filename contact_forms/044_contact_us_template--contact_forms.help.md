@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This thought process is used to ensure the guide is relevant to the provided form and to prevent duplication of effort in case of changes to the form.
 
 # Contact Us Template - Help Guide

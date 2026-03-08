@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to help identify an individual's love language, which is a key component in understanding their emotional needs and preferences in relationships. Understanding one's love language can help build stronger, more meaningful connections with others. This form is meant to be completed by the individual, and its results will not be used in a high-stakes or sensitive context, such as in a medical or therapeutic setting. 
-</thinking>
-
 # WhatsYourLoveLanguageQuiz - Help Guide
 ## Purpose
 The WhatsYourLoveLanguageQuiz is a self-assessment tool designed to help you discover your unique love language, which is the way you give and receive love and affection. The results will provide insights into how you prefer to express and receive love in relationships, helping you build stronger, more meaningful connections with others.

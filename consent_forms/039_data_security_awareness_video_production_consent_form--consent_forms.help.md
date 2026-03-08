@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information and consent for video production. The form will likely be used by the IT department to create and manage content for awareness and training videos, such as tutorials, demonstrations, and educational content. This form is meant to be used for internal purposes only, and is not intended to be used for external purposes. The purpose of the form is to ensure that all necessary information is collected for video production, including the type of video, location, and other relevant details.
-</thinking>
-
 # data_security_awareness_video_production_consent_form - Help Guide
 ## Purpose
 The "data_security_awareness_video_production_consent_form" is used to collect information and consent for video production. This form is intended to ensure that all necessary information is collected for video production, and to obtain consent from the relevant parties.

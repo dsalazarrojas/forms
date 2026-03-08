@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and consent from clients for lash extension services. This form is likely to be used by salons or spas offering lash extension services to gather necessary information about the client, including their medical history, contact information, and consent for the services provided. It's essential to ensure that the client's medical history is accurate and up-to-date, and that they understand the risks and consequences of the lash extension services. Before proceeding with the form, ensure that the client has not previously completed it, as this form is designed for individual clients. If you are unsure about a particular section, it's recommended to clarify with a relevant authority before proceeding.
-</thinking>
-
 # Lash Extension Client Liability Waiver - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining consent for building automation system installation, configuration, and monitoring. It covers various aspects of the automation system, including system type, scope of consent, and data collection. The form is essential for building owners to understand and agree to the terms and conditions of the automation system installation and operation. It also ensures that the property owner acknowledges their responsibilities and liabilities related to the system. The form's fields cover the essential details required for the automation system, making it a crucial document for both the property owner and the automation provider.
-</thinking>
-
 # Building Automation System Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain consent from the property owner for the installation, configuration, and monitoring of a building automation system. It covers essential details about the system type, scope of consent, and other related matters to ensure a smooth and secure implementation.

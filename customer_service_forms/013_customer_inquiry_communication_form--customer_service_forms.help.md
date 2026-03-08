@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Customer Inquiry Communication Form" that explains its purpose, how to complete it, and each field's meaning. The form is designed for customers to communicate their inquiries and feedback, and it captures various details about the customer and their request. This guide will ensure that end-users understand the form's intended use and how to fill it out accurately.
-</thinking>
-
 # Customer Inquiry Communication Form - Help Guide
 ## Purpose
 The Customer Inquiry Communication Form is designed for customers to submit their inquiries, feedback, or questions to the company. This form allows customers to provide their details and a description of their inquiry, which will be reviewed and addressed by the company's support team.

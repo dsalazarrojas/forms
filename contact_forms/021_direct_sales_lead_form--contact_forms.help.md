@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Direct Sales Lead Form - Help Guide
 
 ## Purpose

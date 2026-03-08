@@ -1,13 +1,3 @@
-<thinking>
-The Healthcare Consulting Quotation Form is designed to facilitate the process of creating quotes or proposals for healthcare-related consulting services. The form gathers essential information from patients, including their contact details, preferred services, locations, and other relevant particulars. This form is intended for internal use within the healthcare industry, and the provided fields are carefully crafted to ensure that the required information is collected accurately and comprehensively.
-
-Before starting, please note that:
-
-- This form is not intended for emergency or urgent consultations.
-- Please ensure that you have the necessary permissions to share your personal data.
-- If you've already submitted a similar form, kindly refrain from filling out this one again.
-</thinking>
-
 # Healthcare Consulting Quotation Form - Help Guide
 ## Purpose
 The Healthcare Consulting Quotation Form is designed to gather essential information from patients for the purpose of creating quotes or proposals for healthcare-related consulting services. This form ensures that all necessary details are collected in a structured and organized manner, facilitating a more efficient and accurate consultation process.

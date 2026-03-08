@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users regarding elevator modernization projects. This form is likely used in an organizational setting, such as a business or construction company, where users need to document and track progress, details, and outcomes of elevator modernization projects. The form is designed to be filled out by authorized personnel, such as project managers or team leaders, to ensure that all relevant information is collected and stored for future reference.
-
-Before proceeding, please ensure that you have the necessary permissions and access to complete this form. If you're unsure about any aspect of the form or its purpose, please consult with your supervisor or relevant authorities within the organization.
-
-</thinking>
-
 # Elevator Modernization Consent Form - Help Guide
 ## Purpose
 

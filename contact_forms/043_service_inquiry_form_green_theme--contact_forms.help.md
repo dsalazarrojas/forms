@@ -1,18 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Service Inquiry Form Green Theme" that covers the purpose of the form, how to complete it, and a field-by-field explanation of each field.
-
-The form is intended to gather information from users for service inquiries, and the fields seem to cover various aspects of the service request, including title, name, topic, email, attachments, date, time, category, description, status, comments, priority, assigned to, tool, and user.
-
-Before we begin, let's confirm that the form is intended for users to submit requests for services, and that the fields are designed to collect relevant information for processing and managing these requests.
-
-To confirm:
-
-* The form is not meant for general contact or feedback purposes.
-* The form is not a duplicate of any other form in the system.
-* The form is intended to be used by users who want to submit service requests.
-
-If the above assumptions are correct, let's proceed with creating the help guide.</thinking>
-
 # Service Inquiry Form Green Theme - Help Guide
 ## Purpose
 The Service Inquiry Form Green Theme is a tool for users to submit requests for services. This form helps us gather the necessary information to process and manage these requests effectively.

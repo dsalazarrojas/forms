@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leadership Readiness Consulting Request Form - Help Guide
 ## Purpose
 This form is designed to request leadership readiness consulting services. It helps identify the specific needs and goals of your organization's leadership team, allowing them to receive personalized guidance and support. Before proceeding, ensure that you have not submitted a similar request in the past and that you are authorized to represent your organization.

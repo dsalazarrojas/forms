@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holistic Program Agreement - Help Guide
 ## Purpose
 The Holistic Program Agreement form is used to obtain consent and gather information from individuals who wish to participate in the holistic program. This form is used to ensure that participants are aware of the program's details and understand the terms of their involvement.

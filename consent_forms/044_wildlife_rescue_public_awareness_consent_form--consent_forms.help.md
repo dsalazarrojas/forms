@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect consent from individuals who wish to participate in wildlife rescue public awareness campaigns. It asks users about their demographic details, whether they allow their media (photo, video, audio) to be used in promotional materials, and what type of media they consent to use. The form does not collect any personally identifiable information that would require explicit consent under data privacy laws. This form is designed to be completed by people who want to participate in wildlife rescue campaigns, and the information collected will be used to contact and follow up with these individuals. 
-</thinking>
-
 # Wildlife Rescue Public Awareness Consent Form - Help Guide
 
 ## Purpose

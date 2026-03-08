@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Informed Consent Documentation Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to document an informed consent process for clients, ensuring that they understand the details of the treatment or research study they are participating in. It helps healthcare providers or researchers to acknowledge and record the client's consent, which is a crucial aspect of their profession.

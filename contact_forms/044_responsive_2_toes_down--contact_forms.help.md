@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a clear and concise help guide, I'll need to analyze the provided YAML fields. Here's a brief internal reasoning block:
 
 This form, "responsive_2_toes_down", is likely used for a customer or user to provide contact information. The fields are likely to be used for a support ticket or inquiry system.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from customers on their overall satisfaction with our product or service, customer support, and specific features. This survey aims to help us identify areas for improvement and make data-driven decisions to enhance the customer experience. By using this form, customers can provide their honest opinions, which will be used to gauge our product/service quality and support effectiveness. To ensure the accuracy and relevance of the feedback, please answer the questions as honestly as possible, without duplicating your responses or using generic statements. This form is a template and does not collect any sensitive or personally identifiable information. 
-</thinking>
-
 # customer_satisfaction_survey_template - Help Guide
 ## Purpose
 The customer satisfaction survey template is designed to collect feedback from customers on their experience with our product or service.

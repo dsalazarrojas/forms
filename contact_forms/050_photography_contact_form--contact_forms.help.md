@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information from clients or customers related to photography services, likely for event, wedding, or commercial use. The form should help you identify the client and gather essential details such as name, address, and contact information. Ensure that the required fields are accurately filled out as some fields may impact the processing or response from the service provider.
-</thinking>
-
 # Photography Contact Form - Help Guide
 ## Purpose
 The Photography Contact Form is used to collect contact information from clients or customers for events, weddings, or commercial photography services.

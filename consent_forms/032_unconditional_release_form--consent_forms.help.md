@@ -1,7 +1,3 @@
-<thinking>
-This form is an internal documentation tool used to manage the release of contracts or projects. It is meant to ensure that both parties are in agreement with the terms of the agreement, and is used to record the progress and outcomes of this process. This form must not be used in any other context than its original purpose. This is an important legal document, therefore all information should be accurate and up-to-date.
-</thinking>
-
 # Unconditional Release Form - Help Guide
 ## Purpose
 

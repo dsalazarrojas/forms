@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to order macarons, with the goal of collecting information about the customer and their order details. It is likely used for a business providing macaron-making services or selling macaron-related products. The form does not appear to have any specific requirements or constraints on the customer's data input, allowing for flexibility in the order details. The form is designed to collect a variety of data including the customer's name, macaron size and type, quantity, contact information, and special instructions.
-</thinking>
-
 # Macarons Order Form - Help Guide
 ## Purpose
 The Macarons Order Form is designed to collect customer information and order details for macaron orders.

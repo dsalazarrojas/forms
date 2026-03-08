@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a general-purpose contract form for videography services. The form is designed to collect information about the project details, client details, payment terms, timeline, and contract terms. It is likely used in the videography industry to establish a formal agreement between the client and the videographer. The form does not appear to be specific to any particular industry or business, but rather a general template for videography services. This form does not appear to be a duplicate or copy of any other form. 
-
-</thinking>
-
 # Videography Contract Form - Help Guide
 ## Purpose
 This form is designed to be a general-purpose contract form for videography services. It is intended to establish a formal agreement between the client and the videographer, outlining the project details, client details, payment terms, timeline, and contract terms.

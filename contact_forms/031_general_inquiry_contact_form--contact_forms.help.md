@@ -1,19 +1,3 @@
-<thinking>
-This form is used for general inquiries, allowing users to contact your company or organization with their questions, comments, or messages. 
-It's essential to complete this form correctly to ensure that your message is sent to the correct recipient. 
-
-To determine if this form is relevant, consider the following:
-- Are you trying to contact the company for general inquiry or feedback?
-- Are you looking for information about a specific product or service offered by this organization?
-- Are you an employee or representative of the company, attempting to fill out this form as a test?
-
-To avoid duplicating your message, make sure to check if:
-- You've already filled out this form recently, and you're not submitting a duplicate request.
-- You've contacted a member of our support team with similar concerns, and a resolution or action plan is still pending.
-- If you're still unsure, contact our support team to clarify.
-
-</thinking>
-
 # General Inquiry Contact Form - Help Guide
 ## Purpose
 The General Inquiry Contact Form is used for sending general inquiries or messages to our organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for veterinary businesses to obtain consent from their clients for promotion, marketing, and sharing of their business information. The form should only be used for businesses that offer veterinary services, and the purpose of the form is to gather consent for sharing client data, promotional emails, and marketing messages. The form should not be used for personal or unrelated purposes. Please ensure that the form is not used in duplicate, and that clients are clearly informed about the purpose and scope of the form before filling it out.
-</thinking>
-
 # Veterinary Business Promotion Consent Form - Help Guide
 ## Purpose
 This form is designed to gather consent from clients of veterinary businesses for promotion, marketing, and sharing of business information. It helps veterinary businesses to obtain permission from their clients to share their data, promotional emails, and marketing messages.

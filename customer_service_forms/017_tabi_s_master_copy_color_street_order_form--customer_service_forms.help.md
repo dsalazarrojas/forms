@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for customer service purposes, likely for support, inquiries, or feedback from customers. It seems to be designed for a specific industry or context, but the exact nature of its use is not specified. This form appears to have multiple fields, all of which are text input types, suggesting that it is meant for capturing free-form comments, descriptions, or answers from customers. The form's structure suggests it may be used for a wide range of customer service interactions, but without more information, it's hard to say exactly how it's intended to be used.
-</thinking>
-
 # Tabi's Master Copy Color Street Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for support, inquiries, or feedback.

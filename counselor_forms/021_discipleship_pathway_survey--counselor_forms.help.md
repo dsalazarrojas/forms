@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to help individuals reflect on their current discipleship pathway, which is a key part of discipleship and spiritual growth. The survey is designed to gather information about an individual's current spiritual growth level, their needs, and their focus areas. The form will help identify areas where an individual may need guidance and support to grow in their faith. By answering the questions, individuals can gain a better understanding of their current discipleship pathway and identify areas where they can improve.
-
-The survey is not a diagnostic tool, but rather a self-assessment tool to help individuals reflect on their current spiritual growth level and identify areas where they can focus their efforts to grow in their faith.
-
-</thinking>
-
 # Discipleship Pathway Survey - Help Guide
 ## Purpose
 This survey is designed to help individuals reflect on their current discipleship pathway, which is a key part of discipleship and spiritual growth. It will help identify areas where an individual may need guidance and support to grow in their faith.

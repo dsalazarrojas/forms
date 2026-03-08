@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to capture the information of clients who are interested in getting an eyelash extension procedure. It is designed to gather their consent for the procedure, as well as details about their phone number, email, and some background information.
-
-Before filling out this form, ensure you are not already registered in our system. If you are, it's likely a duplicate and you don't need to fill it out again.
-
-</thinking>
-
 # Eyelash Extension Consent Form - Help Guide
 ## Purpose
 This form is used to capture the information of clients who are interested in getting an eyelash extension procedure and to inform them about the procedure and potential risks.

@@ -1,5 +1,3 @@
-<thinking>...I will create a user-facing help guide for the "Stop Motion Video Submission Form"...</thinking>
-
 # Stop Motion Video Submission Form - Help Guide
 ## Purpose
 This form is designed to help artists submit their stop motion video creations for review and potential inclusion in festivals, schools, or contests. By filling out this form, artists can provide essential information about their work and increase their chances of getting noticed by relevant entities.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is meant to be used by customers to report issues with your company's service. The form is not intended to be used for general inquiries or feedback, but rather for specific problems that require technical support.
-</thinking>
-
 # Customer Support Ticket Monitoring Form - Help Guide
 ## Purpose
 The Customer Support Ticket Monitoring Form is designed to help our team monitor and resolve technical issues reported by our customers. To ensure that we can effectively assist you, please complete this form with as much detail as possible.

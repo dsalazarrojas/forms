@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clean Contact Form V3 - Help Guide
 
 ## Purpose

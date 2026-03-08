@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from participants for a website development course. This form will be used to gather essential details about the participants, including their name, email, phone number, and other relevant information. Before filling out the form, please ensure that you have not previously registered for this course, as this form is meant for new registrations only.
-</thinking>
-
 # Website Development Course Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants for a website development course. The collected data will be used to keep track of course attendees, their contact details, and other relevant information.

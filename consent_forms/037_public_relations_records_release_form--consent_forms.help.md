@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to document a person's or organization's consent to share their public relations information. It's an essential tool for public relations records, ensuring that individuals and organizations are aware of how their information will be used and for what purpose. This form helps to prevent miscommunication and potential legal issues that may arise from sharing sensitive information.
-
-Before filling out the form, please ensure that you have the necessary authority to do so, and that the information you're providing is accurate and up-to-date. This form is a critical document that helps maintain transparency and trust between your organization and the individuals or organizations you're working with.
-
-To avoid duplication, please check if there's an existing form for a similar purpose before proceeding.
-
-</thinking>
-
 # Public Relations Records Release Form - Help Guide
 
 ## Purpose

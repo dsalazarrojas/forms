@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are seeking support or assistance with an issue they are experiencing. The form is intended to gather relevant details about the customer's issue, including the problem description, request question, and other relevant information. Before filling out this form, please check if you have already contacted us with the same issue to avoid creating duplicate support requests.
-
-The form is divided into multiple pages, each with its own set of fields. Please fill out each page in the order provided.
-
-When filling out the form, please make sure to complete all required fields and provide as much detail as possible for optional fields.
-
-</thinking>
-
 # Support Request Form - Help Guide
 ## Purpose
 The support request form is designed to collect information from customers who are seeking support or assistance with an issue they are experiencing.

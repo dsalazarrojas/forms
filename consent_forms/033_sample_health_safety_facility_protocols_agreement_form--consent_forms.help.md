@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic form generated based on public survey topic metadata in the health and safety industry. It may not have the same level of customization or validation as a professionally designed form from a reputable platform. Before proceeding, ensure you have reviewed the form's fields and their purposes carefully. If you have any concerns or need further clarification, please contact form@gic.mx.
-</thinking>
-
 # Sample Health Safety Facility Protocols Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect information and confirm agreements related to health and safety protocols in a facility. It gathers user, facility, and employee information, as well as facility capabilities and protocols. The form is intended to be a starting point for facility safety protocols and agreements.

@@ -1,10 +1,3 @@
-<thinking>
-**This help guide is for the microblading_ombre_treatment_form form, which is used to gather information from clients before they receive microblading and ombre treatments.**
- 
- This form is designed to be completed by the client themselves, and it should not be duplicated. Please ensure you have reviewed all the questions carefully before submitting the form.
- 
-</thinking>
-
 # microblading_ombre_treatment_form - Help Guide
 ## Purpose
 The microblading_ombre_treatment_form is a pre-treatment questionnaire designed to gather medical history and other relevant information from clients before they receive microblading and ombre treatments.

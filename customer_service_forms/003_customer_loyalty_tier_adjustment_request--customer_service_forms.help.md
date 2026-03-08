@@ -1,5 +1,3 @@
-<thinking> This form is used to request a change to a customer's loyalty tier. The purpose of this form is to allow customers to request an adjustment to their current loyalty tier, which may be due to a change in their purchase history or other relevant factors. The system will review the request and update the customer's loyalty tier accordingly. Note: Before submitting this form, please ensure that you are requesting a change for a valid reason and that you are not duplicating an existing request.</thinking>
-
 # Customer Loyalty Tier Adjustment Request - Help Guide
 ## Purpose
 The purpose of this form is to request a change to your loyalty tier. This form is used to notify our team of your request to move up or down a tier, based on changes in your purchase history or other relevant factors.

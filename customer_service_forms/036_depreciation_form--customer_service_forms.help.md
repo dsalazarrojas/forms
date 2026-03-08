@@ -1,23 +1,3 @@
-<thinking>
-This form is intended to help users input information about assets, specifically for depreciation purposes. Depreciation is a process where the value of an asset decreases over time, typically due to wear and tear, obsolescence, or other factors. This form is used to track and update asset depreciation values.
-
-When filling out this form, please ensure you're providing accurate information about the asset you're reporting. If you're unsure about any of the fields, it's best to consult the asset's documentation or speak with the asset's owner.
-
-This form can be completed by any user, but it's primarily intended for users who need to update asset values for accounting or financial purposes.
-
-The fields are as follows:
-
-*   **Asset Type**: This field allows you to select whether the asset is a tangible (physical) asset or an intangible (non-physical) asset.
-*   **Asset Name**: A text field to input a descriptive name for the asset.
-*   **Asset Value**: This is the current value of the asset.
-*   **Asset Date Acquired**: Date the asset was acquired by the organization or individual.
-*   **Asset Depreciation Rate**: The rate at which the asset's value decreases over time, expressed as a percentage.
-*   **Asset Depreciation Period**: The number of years or months over which the depreciation is calculated.
-*   **Asset Depreciation Value**: The total value of depreciation calculated based on the asset's initial value and depreciation rate.
-*   **Asset Last Value**: The asset's value after depreciation, also known as its remaining value.
-
-Please note that some fields may not be applicable to certain types of assets, but this form aims to provide a general guideline for reporting asset depreciation values.</thinking>
-
 # Depreciation Form - Help Guide
 ## Purpose
 The purpose of this form is to track and update asset values for depreciation purposes.

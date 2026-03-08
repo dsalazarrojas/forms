@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for clients to provide their consent to share their investment data. 
-The form is intended for clients to input their contact information and preferences for how they want to be contacted. This form is used for internal record-keeping and will be used to share the investment data only after receiving explicit consent from the clients. This form does not collect any sensitive or financial data and is designed solely for administrative and regulatory purposes. 
-
-Please note that this form does not collect any financial or sensitive information. It is intended to be completed by the client themselves and does not require any assistance or guidance from a financial advisor. 
-
-The form is divided into several sections, each with a clear and specific purpose. The form is designed to be completed quickly and efficiently, with minimal effort required from the client. 
-
-This form was created using public metadata and is not affiliated with any financial institution or service provider. 
-
-Please fill out the form carefully and accurately to ensure that your investment data is shared with the correct individuals or entities. 
-
-Please review our <https://forms.gic.mx> terms and conditions for more information about how this form is used and shared.
-</thinking>
-
 # Investment Performance Disclosure Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain your consent to share your investment data with our firm. It is used to ensure that you are aware of and agree to the sharing of your investment performance.

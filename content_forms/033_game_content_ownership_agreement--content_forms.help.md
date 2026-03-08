@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Game Content Ownership Agreement form accurately and efficiently. The form is designed to capture essential information related to the ownership and licensing of game content, including creator and studio details, game metadata, and agreement terms. 
-
-Before starting, ensure that you have all the necessary information and permissions to complete this form. It is recommended to review the form carefully and ensure that you are not duplicating any existing agreements.
-
-This guide will walk you through each step of the form, providing explanations for each field to help you understand its purpose and significance.
-
-</thinking>
-
 # Game Content Ownership Agreement - Help Guide
 ## Purpose
 The Game Content Ownership Agreement form is a crucial document that outlines the ownership and licensing terms for game content. It ensures that both the creator and the studio have a clear understanding of their rights and responsibilities regarding the game content.

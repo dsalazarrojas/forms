@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the "Responsive Envelope Contact Form" to provide their contact information, send messages, or inquire about services. The purpose of this form is to facilitate communication and gather necessary details for follow-up actions.
-
-Before proceeding, please note that this form is a public-domain adaptation of the form created using AI, and you are free to use, modify, and even sell forms derived from it, just give credit.
-
-To confirm, this form is not affiliated with, endorsed by, or derived from any form platform. It is an original creation based on public survey topic metadata and is released under CC BY 4.0 license.
-
-This help guide provides a clear explanation of the form's purpose, fields, and instructions to ensure a smooth and accurate completion process.
-
-</thinking>
-
 # Responsive Envelope Contact Form - Help Guide
 ## Purpose
 The "Responsive Envelope Contact Form" is a contact form designed to collect information from end-users, allowing them to send messages, provide contact details, or inquire about services.

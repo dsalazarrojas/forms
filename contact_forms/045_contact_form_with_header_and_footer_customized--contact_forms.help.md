@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect visitor contact information and inquiry details from end-users. The main goal is to gather a visitor's full name, email address, phone number, and a brief subject line to initiate an inquiry. The form also requires the visitor to specify their preferred contact method and includes a field for a detailed message. The submission date is also collected to track the form submission timestamp.
-
-This form structure is ideal for collecting general contact information and details about visitor inquiries. It does not require a lot of technical or specialized information, making it accessible to a wide range of users.
-
-Before filling out the form, make sure to read the explanations below to understand each field's purpose and requirements.
-</thinking>
-
 # Contact Form With Header And Footer (Customized) - Help Guide
 ## Purpose
 This form is designed to collect contact information and details from visitors.

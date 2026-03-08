@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a student's dorm experience, including room type, arrival and departure dates, essential items to bring, and contact information. The form will be used to track student's preferences and needs for the dormitory staff. 
-</thinking>
-
 # Dorm Checklist - Help Guide
 ## Purpose
 This form is designed to collect essential information from students to ensure a smooth and safe stay at the dorm. The form will help the dorm staff to track and provide the necessary support and resources to the students. 

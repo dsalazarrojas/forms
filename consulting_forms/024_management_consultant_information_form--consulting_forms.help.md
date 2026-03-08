@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from management consultants for internal use. The form is intended for management consultants to provide their details, such as name, company, contact information, services offered, location, experience, specialty, availability, schedule, and any additional notes or project information. The form is not affiliated with any form platform and is an original creation. The purpose of this form is to standardize the collection of management consultant information, making it easier to manage and track consultant data.
-
-Before proceeding, please review the following:
-
-* This form was created using AI-generated metadata, not affiliated with or derived from any form platform.
-* You are free to use, modify, and even sell forms derived from this original creation, just give credit.
-* Contact: form@gic.mx
-
-Please note that some fields may require additional information or explanations to complete accurately.
-
-</thinking>
-
 # Management Consultant Information Form - Help Guide
 ## Purpose
 The Management Consultant Information Form is designed to collect relevant details from management consultants for internal use. This form ensures that consultant information is standardized, making it easier for internal teams to manage and track consultant data.

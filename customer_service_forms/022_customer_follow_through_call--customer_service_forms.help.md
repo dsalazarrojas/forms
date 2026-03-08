@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm not sure why this form is called "Customer Follow Through Call" when it seems to collect more than just information about follow-through calls. Maybe it's meant to be a comprehensive customer service tool? Whatever its true purpose, let me assume it's used to document and track follow-through calls with customers, which can help customer service teams provide better support and service. I'm not aware of any specific business logic or requirements that might indicate otherwise. I'm proceeding under this assumption.
-</thinking>
-
 # Customer Follow Through Call - Help Guide
 ## Purpose
 The Customer Follow Through Call form is used to document and track information about follow-through calls with customers, which is an essential part of providing excellent customer service.

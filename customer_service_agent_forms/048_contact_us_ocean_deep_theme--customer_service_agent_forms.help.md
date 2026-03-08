@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers seeking assistance with Ocean Deep Theme, a customer service contact form. The form helps customers communicate their issues or questions efficiently and effectively, allowing the customer service team to provide timely and relevant support. It's essential to fill out this form accurately and completely to ensure that the customer service team can understand the customer's concerns and respond accordingly. The form should not be used to place orders or inquire about non-existent features or services.
-</thinking>
-
 # Contact Us Ocean Deep Theme - Help Guide
 ## Purpose
 This form is intended for customers who need assistance with Ocean Deep Theme's products or services.

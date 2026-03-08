@@ -1,7 +1,3 @@
-<thinking>
-The Mid Semester Course Evaluation Form is a tool used by students to provide feedback on their current course experience. This form is typically completed by students at the midpoint of the semester to help instructors identify areas of strength and areas that need improvement.
-</thinking>
-
 # Mid Semester Course Evaluation Form - Help Guide
 
 ## Purpose

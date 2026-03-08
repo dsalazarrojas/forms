@@ -1,5 +1,3 @@
-<thinking> ... (Form purposes: This form aims to gather information from foreign workers about their COVID-19 experience, employment status, health situation, and other personal details. It may be used for various purposes, such as providing financial assistance, health care, or immigration-related support. The form ensures that all required fields are filled out to facilitate accurate data collection and processing. Please ensure you are filling out this form for the correct purpose and not duplicating any existing records.</thinking>
-
 # COVID 19 Support Form For Foreign Workers - Help Guide
 ## Purpose
 This form is designed to collect information about your COVID-19 experience, employment status, and personal details to help us better understand your needs and provide support.

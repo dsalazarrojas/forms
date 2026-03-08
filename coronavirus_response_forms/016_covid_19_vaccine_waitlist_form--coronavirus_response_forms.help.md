@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are interested in being placed on a waitlist for COVID-19 vaccines. The form is designed to gather personal and demographic data to help determine priority in vaccine distribution. This form is intended for individuals who are either unvaccinated or partially vaccinated and are interested in receiving a vaccine. The form will ask for information such as name, date of birth, email, phone number, address, and other relevant details to assess the individual's priority status. The collected data will be used to manage the waitlist efficiently and ensure that those who are most in need have access to the vaccine.
-</thinking>
-
 # COVID 19 Vaccine Waitlist Form - Help Guide
 ## Purpose
 This form is for individuals who are interested in being placed on a waitlist for COVID-19 vaccines. Please answer the questions accurately to help us assess your priority status for vaccine distribution.

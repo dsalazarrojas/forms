@@ -1,5 +1,3 @@
-<thinking>...This form is used to gather information from applicants interested in registering for an online language course. It collects basic contact information and language course preferences. The form is essential for us to assess the applicant's eligibility and tailor the course experience accordingly. Please fill it out carefully, and do not submit duplicate entries if you have already submitted an application. Please note that submitting fake or inaccurate information will be considered a breach of trust and might lead to application rejection... </thinking>
-
 # Online Language Course Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from applicants interested in registering for an online language course.

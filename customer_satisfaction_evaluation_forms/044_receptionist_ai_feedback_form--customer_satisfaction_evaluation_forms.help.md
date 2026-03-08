@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Receptionist AI Feedback Form - Help Guide
 ## Purpose
 The Receptionist AI Feedback Form is designed to gather information about your experience with our receptionist services. This form helps us understand how well we met your expectations and what we can improve to better serve you in the future. Please take a few minutes to complete this form and help us provide you with even better service.

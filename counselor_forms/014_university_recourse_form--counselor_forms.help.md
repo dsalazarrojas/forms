@@ -1,5 +1,3 @@
-<thinking>...This form is intended to gather information from students about their university resources, such as academic records, contact information, and other relevant details. The form is designed to help administrators or counselors review and process student requests and provide support. Each field is carefully crafted to collect specific information, and some fields have specific requirements or options to ensure accuracy and relevance. This form should not be used for multiple submissions from the same student, as each submission may have unique circumstances and details. Ensure that each section is filled out completely and accurately to help facilitate prompt and effective assistance...</thinking>
-
 # University Recourse Form - Help Guide
 ## Purpose
 The University Recourse Form is designed to collect information from students about their university resources, including academic records, contact information, and other relevant details.

@@ -1,13 +1,3 @@
-<thinking>...internal reasoning block to verify relevance and non-duplication of the form...
-
-**Verification:**
-This form is designed for evaluating courses. It has 5 fields: `course_name`, `evaluation_date`, `course_level`, `course_instructor`, and `comments`. Each field has a specific purpose and requirements. We need to ensure that the form is filled out accurately and relevantly to avoid duplication or misinterpretation of data.
-
-**Relevance Check:**
-The form is intended to collect information about a course, which implies that all fields are relevant to the course evaluation process. There is no indication of duplication, as each field seems to capture a distinct aspect of the course evaluation process.
-
-</thinking>
-
 # Grady Evaluation Form Template - Help Guide
 ## Purpose
 This form is designed to collect course evaluation information for the purpose of assessing the quality of courses.

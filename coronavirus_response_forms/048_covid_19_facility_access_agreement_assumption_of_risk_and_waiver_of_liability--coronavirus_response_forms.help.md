@@ -1,12 +1,3 @@
-<thinking> 
-We need to verify that this form is being used in the context of the COVID-19 pandemic. The form is a legal agreement that acknowledges the risks associated with COVID-19 and provides liability waivers for facilities that allow visitors to access them. This form is intended to protect both the visitor and the facility by ensuring that visitors are aware of and assume the risks associated with COVID-19 exposure.
-
-We also need to confirm that this form is not being used for other purposes, such as for general facility access requests or membership applications. The form's purpose is specific to COVID-19-related visits, and we should not use it for non-COVID-19 related scenarios.
-
-To ensure accuracy, we will review the form fields and provide explanations for each field, making sure to cover all the required fields. This will help visitors understand what is expected of them and what they need to provide in order to complete the form correctly. 
-
-</thinking>
-
 # COVID 19 Facility Access Agreement, Assumption Of Risk And Waiver Of Liability - Help Guide
 ## Purpose
 This form is a legal agreement that requires visitors to acknowledge the risks associated with COVID-19 and provide liability waivers for facilities that allow them to access. It ensures that visitors are aware of and assume the risks of COVID-19 exposure during their visit.

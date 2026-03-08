@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for individuals or funeral homes to gather information and organize tasks related to funeral planning, including contact information, service providers, funeral services, death information, and various aspects of the funeral process. This form likely helps users ensure that all necessary steps and details are attended to, reducing potential oversights or errors. The form's structure and field names seem to be focused on the specifics of funeral planning, suggesting it's designed for use within a funeral home or related organization. The form is likely to be used by staff members or administrators to collect and track information for a deceased individual's funeral. The field names and structure indicate that it's primarily focused on the practical aspects of planning and coordinating funerals.
-</thinking>
-
 # Funeral Planning Checklist Form - Help Guide
 ## Purpose
 This form is designed to help funeral homes and their staff plan and organize the funeral process. It covers essential tasks, such as collecting contact information, coordinating services with providers, and tracking details related to the funeral.

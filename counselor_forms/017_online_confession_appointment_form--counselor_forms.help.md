@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Confession Appointment Form - Help Guide
 
 ## Purpose

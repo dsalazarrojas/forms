@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by clients who require consultation services from a consultant for a specific project. The form captures the essential information needed for the consultant to provide accurate and efficient services. This includes details about the client, project, and consultant. By filling out this form, clients can ensure that they provide all the necessary information to the consultant, allowing for a smooth and productive consultation process.
-</thinking>
-
 # Franchise Consulting Quotation Form - Help Guide
 ## Purpose
 This form is used for clients to provide details about themselves and their project to facilitate consultation services.

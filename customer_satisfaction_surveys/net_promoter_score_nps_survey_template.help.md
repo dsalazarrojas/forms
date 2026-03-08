@@ -1,11 +1,3 @@
-<thinking>
-This form template is designed for measuring customer satisfaction and loyalty. To verify its suitability, consider the following:
-- This form is in the "customer_satisfaction_surveys" category.
-- The form's title, "Net Promoter Score (NPS) survey," aligns with this category.
-- The form's content, including questions related to customer satisfaction and loyalty, aligns with this category.
-- No duplicate forms exist in this category.
-</thinking>
-
 # net_promoter_score_nps_survey_template - Help Guide
 ## Purpose
 This form is a Net Promoter Score (NPS) survey designed to measure customer satisfaction and loyalty towards a product or service. It helps identify how likely customers are to recommend the product or service to others and gather feedback on areas for improvement.

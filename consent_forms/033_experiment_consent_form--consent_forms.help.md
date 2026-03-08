@@ -1,7 +1,3 @@
-<thinking>
-The Experiment Consent Form is a crucial document used to obtain informed consent from participants in research studies. Before proceeding, ensure you have reviewed and understood the purpose of this form, and that it is not a duplicate. The form typically serves as a legal record of the participant's agreement to participate in the study, outlining the risks, benefits, and any required contact information for the research team.
-</thinking>
-
 # Experiment Consent Form - Help Guide
 ## Purpose
 The Experiment Consent Form is designed to obtain informed consent from participants in research studies. It serves as a legal record of the participant's agreement to participate and outlines the essential details of the study, including the purpose, risks, and benefits.

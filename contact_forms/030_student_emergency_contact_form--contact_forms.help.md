@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Emergency Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your emergency contact in case of an unexpected situation. Please fill out the form with accurate and up-to-date information to help us ensure your well-being and safety.

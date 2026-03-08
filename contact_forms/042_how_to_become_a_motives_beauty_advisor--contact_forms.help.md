@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a form for potential beauty advisors to submit their information and schedule a follow-up with a Motives representative. This form likely serves as a lead generation tool for business development or recruitment purposes. The form is relatively simple, with fields for basic contact information (name, email, phone) and a follow-up method and message to be used for further communication. The fields seem to be designed for a straightforward and quick submission process. To confirm, it is assumed that this form is not intended for public submission, but rather for internal use within the organization.
-</thinking>
-
 # how_to_become_a_motives_beauty_advisor - Help Guide
 ## Purpose
 The purpose of this form is to allow potential beauty advisors to submit their information and schedule a follow-up with a Motives representative for further discussion about becoming a Motives beauty advisor.

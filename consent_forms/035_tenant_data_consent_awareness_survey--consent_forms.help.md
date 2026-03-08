@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information from tenants about their consent and awareness on various aspects of data handling. The purpose of this form is to ensure that tenants are aware of how their data will be handled and stored. It's essential to have a clear understanding of this information to maintain trust and transparency. 
-
-The form is designed to be completed by tenants, and it's crucial to ensure that they understand what each question is asking. To avoid duplication and confusion, it's essential to review this guide before filling out the form.
-
-The guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each question. 
-</thinking>
-
 # Tenant Data Consent Awareness Survey - Help Guide
 ## Purpose
 The Tenant Data Consent Awareness Survey is designed to gather information from tenants about their consent and awareness on various aspects of data handling. This form aims to ensure that tenants are informed about how their data will be collected, stored, and used.

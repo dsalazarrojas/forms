@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer feedback on their overall satisfaction with a service provided by our company. This helps us to identify areas of improvement, gauge customer happiness, and make data-driven decisions for future service optimization.
-The form has 14 fields, some of which are mandatory while others are optional. It captures various aspects of the customer's experience, including their overall experience, satisfaction with the service, comments, email, phone, assigned agent, and more. We want to avoid duplication of responses from the same customer, hence it's essential to ensure that the customer fills out the form only once.
-</thinking>
 # customer_service_satisfaction_survey - Help Guide
 ## Purpose
 The customer_service_satisfaction_survey form is designed to collect customer feedback and opinions about the service provided by our company. It is essential for us to understand your experience and identify areas that need improvement.

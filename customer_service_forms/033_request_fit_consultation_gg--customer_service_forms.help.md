@@ -1,7 +1,3 @@
-<thinking>
-This form will serve as a means for customers to request a consultation or appointment with your team. It's designed to gather essential information from customers to facilitate efficient communication and response. Before proceeding, please ensure you're not creating a duplicate request as this form is intended for first-time consultations.
-</thinking>
-
 # Request Fit Consultation GG - Help Guide
 ## Purpose
 The purpose of this form is to help customers request a consultation or appointment with your team.

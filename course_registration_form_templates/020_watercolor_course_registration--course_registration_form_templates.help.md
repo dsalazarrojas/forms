@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to register students for a watercolor course. The form's primary goal is to collect relevant student information for course registration purposes. To avoid duplication of student registrations, the form should only be filled out once per student. If a student has already registered for the course, their information should not be duplicated.
-
-</thinking>
-
 # Watercolor Course Registration - Help Guide
 ## Purpose
 The Watercolor Course Registration form is used to register students for a watercolor course. This form is intended to collect student information for course registration purposes, ensuring that each student is only registered once.

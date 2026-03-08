@@ -1,8 +1,3 @@
-<thinking>
-We are creating a help guide for the "Covid 19 Liability Acknowledgment Form" to ensure end users understand the form's purpose, how to complete it, and what each field means. This form is likely used to acknowledge and document the participant's understanding of Covid-19 related risk protocols and safety measures. Before proceeding, it's essential to note that this form is intended for participants who are aware of or have concerns about the risks associated with Covid-19 in their workplace or environment. To avoid duplication of effort and ensure clarity, let's review the form's purpose and content carefully.
-
-</thinking>
-
 # Covid 19 Liability Acknowledgment Form - Help Guide
 
 ## Purpose

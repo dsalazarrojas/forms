@@ -1,6 +1,3 @@
-<thinking>
-Is this a template for creating a formal contract between a client and a contractor? The purpose of this form is likely for the client and contractor to agree on the terms and conditions of a project or service provided. This is likely part of an internal process for managing contracts for a business or organization. I am assuming this is not a public-facing form, but rather for internal use.</thinking>
-
 # Main Contract Agreement - Help Guide
 ## Purpose
 This form is used for clients and contractors to agree on the terms and conditions of a project or service provided. It captures essential details such as client and project information, payment terms, contract duration, and contract status.

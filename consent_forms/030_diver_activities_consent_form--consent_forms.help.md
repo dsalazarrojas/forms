@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended for end-users who are about to complete the Diver Activities Consent Form. The form is used to collect information about the activities in which the diver wishes to participate, and to gather their consent for those activities. This guide will walk you through each section of the form and what is required of the diver.
-
-Before proceeding, please note that all fields are optional, unless marked as "required". It's essential to fill out the form accurately and completely to ensure that the diver's activities are properly recorded and their consent is obtained.
-
-Please make sure you have read and understood the instructions before completing this form. If you have any doubts or questions, please reach out to the relevant authorities for clarification.
-
-</thinking>
-
 # Diver Activities Consent Form - Help Guide
 ## Purpose
 The Diver Activities Consent Form is used to collect information about the activities in which the diver wishes to participate and to gather their consent for those activities.

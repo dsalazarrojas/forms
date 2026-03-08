@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining consent from individuals to purchase holiday merchandise. It's essential to ensure that the form is filled out correctly to accurately record consent, and to prevent duplication of consent. Please review the form carefully before submission to ensure that the information is accurate and complete.
-</thinking>
-
 # holiday_merchandise_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from individuals to purchase holiday merchandise. It's designed to capture the necessary information to accurately record and track consent, while ensuring that the individual is aware of their decision.

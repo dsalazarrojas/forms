@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect participant information and consent for a renewable energy program. It is intended to be used in conjunction with other forms that may be collected at other points in the program, such as participant surveys or evaluations. This form is not affiliated with any proprietary form platforms and is an original creation, released under the CC BY 4.0 license.
-
-To avoid duplication of effort, please ensure that you have not already collected this data from this participant before, and that this form is not intended to be completed in conjunction with other forms that have already been submitted.
-
-If you are unsure about the purpose of this form, please contact form@gic.mx.
-</thinking>
-
 # renewable_energy_participation_consent_form - Help Guide
 ## Purpose
 The renewable energy participation consent form is designed to collect participant information and consent for a renewable energy program.

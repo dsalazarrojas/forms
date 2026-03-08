@@ -1,15 +1,3 @@
-<thinking>
-
-The form purpose is to create a secure way for patients to give their consent to share their medical information with external organizations. This form will be used to capture the necessary information from the patient, such as their name, date of birth, address, medical history, and signature. By completing this form, the patient will be authorizing the external organization to access their medical records. The form is designed to be completed by the patient themselves, or by an authorized representative with their written consent.
-
-Before starting, please note that this form should only be used in specific situations where the organization has a legitimate reason to access the patient's medical records. If you're not sure about the legitimacy of the request, please check with the organization and review the relevant policies and procedures before proceeding.
-
-This form does not replace any medical professional's professional judgment or the patient's medical professional's advice. The information captured in this form should be used only to facilitate the sharing of medical information, not to replace any medical diagnosis or treatment recommendations.
-
-Please ensure that the patient understands the purpose and implications of this form before completing it.
-
-</thinking>
-
 # Medical Record Release Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-  To create a user-friendly help guide for the "Document Scanning Subscription Cancellation Form", we need to consider the form's purpose and the fields it contains. The form is designed for customers to cancel their subscription, and it seems to collect some basic information for this process. However, it's essential to review the form's fields and their descriptions to ensure we're not duplicating any information and that the form is user-friendly. Let's take a closer look at the fields and their labels.
-</thinking>
-
 # Document Scanning Subscription Cancellation Form - Help Guide
 ## Purpose
 This form is used to cancel a customer's subscription. Please fill out this form to initiate the cancellation process.

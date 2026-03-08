@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers regarding their experience with the help desk. The purpose is to gather data on the quality of support received from our team, including communication, resolution, response time, and overall satisfaction. This feedback will help us identify areas of improvement and make necessary adjustments to enhance our service.
-
-Before filling out this form, please ensure you have not already submitted feedback on the same issue. If you have, your feedback will not be recorded.
-</thinking>
-
 # help_desk_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on their experience with our help desk service.

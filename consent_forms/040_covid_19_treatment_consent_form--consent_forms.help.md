@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that end users understand the purpose and relevance of this form before diving into its specifics. This form is designed to collect information about patients, particularly those with COVID-19, to ensure that they are aware of the potential risks and benefits of various treatment options. By filling out this form, patients can make informed decisions about their care. The information collected will be used to create a personalized care plan and to provide guidance on the most effective treatments for their specific condition.</thinking>
-
 # COVID 19 Treatment Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information about your COVID-19 treatment options, medical history, and consent to treatment. It is essential to carefully read and understand all the questions and answers before submitting the form.

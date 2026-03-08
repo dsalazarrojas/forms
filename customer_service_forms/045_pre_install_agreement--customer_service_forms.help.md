@@ -1,9 +1,3 @@
-<thinking>
-This form is used to capture customer information and installation details before a new installation is done. It's intended to be a quick and straightforward form to get the necessary information without overwhelming the user with too much complexity. This form is not meant to be used for any other purpose and should only be filled out when a new installation is scheduled. 
-
-Please note that this form has a simple layout and is not meant to be used for any other purpose. It's a basic form for collecting customer data and installation details.
-</thinking>
-
 # Pre Install Agreement - Help Guide
 ## Purpose
 This form is used to collect customer information and installation details before a new installation is done.

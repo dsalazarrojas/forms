@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect customer feedback and complaints from customers who are unhappy with the service they received. This form is an important part of our customer service process as it helps us to identify areas of improvement and make necessary changes to enhance customer satisfaction. It's essential to fill out this form carefully and accurately to ensure that we can effectively address your concerns.
-
-To ensure that we can process your complaint efficiently, please be as clear and detailed as possible in your complaint description. If you have any relevant documentation or evidence supporting your complaint, please attach it to the form or provide a link to it.
-
-This form does not require authentication, so you can fill it out anonymously if you prefer. However, please note that providing your contact information (email and phone number) will help us to get in touch with you to provide updates on your complaint status and potentially discuss solutions to your issue.
-
-</thinking>
-
 # Customer Service Complaint Form - Help Guide
 ## Purpose
 The Customer Service Complaint Form is a channel for customers to report their complaints or concerns about our service. Filling out this form helps us to understand your experience and identify areas where we can improve.

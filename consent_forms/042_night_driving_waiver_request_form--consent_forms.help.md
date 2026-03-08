@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Night_Driving_Waiver_Request_Form - Help Guide
 ## Purpose
 The Night Driving Waiver Request Form is a form used to request a waiver for night driving, which is typically used for individuals who are required to drive at night but do not have a valid driver's license or are experiencing difficulties driving in low light conditions. This form is intended for those who are unable to obtain a regular driver's license due to medical reasons, lack of licensure, or other extenuating circumstances.

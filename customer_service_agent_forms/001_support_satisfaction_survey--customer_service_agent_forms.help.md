@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from customers about their experience with our support team. It is intended to gauge overall satisfaction, assess the effectiveness of our support agents, and gather details about the issues they have encountered. Please note that this form should not be filled out by customers who have not received support or who have not had an issue to report. If you have already filled out this form, please do not fill it out again unless instructed otherwise by our support team. 
-</thinking>
-
 # Support Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our support team.

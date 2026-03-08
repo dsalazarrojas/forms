@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Responsive Maintenance Request Form - Help Guide
 
 ## Purpose

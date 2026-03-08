@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Customer Service Quality Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience with our retail store. The goal is to assess the quality of our customer service and identify areas for improvement. Your input will help us understand how to better serve you and our community.

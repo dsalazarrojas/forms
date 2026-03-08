@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for E Commerce UX Certification Registration. The form is intended to gather data on the user's background, experience, and goals related to e-commerce and UX certification. It's essential to fill out this form accurately and honestly to ensure that your registration is processed smoothly and efficiently.
-</thinking>
-
 # E Commerce UX Certification Registration - Help Guide
 ## Purpose
 This form is designed to collect user information for E Commerce UX Certification Registration. The form gathers data on the user's background, experience, and goals related to e-commerce and UX certification.

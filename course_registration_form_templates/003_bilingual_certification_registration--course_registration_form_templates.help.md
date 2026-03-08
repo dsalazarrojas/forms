@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to register for a bilingual certification program. The form is designed to collect information from candidates, including personal details, certification preferences, and payment methods. This information will be used to process the registration and ensure a smooth experience for the candidate during the certification process.
-
-The form is divided into several sections, each with its own set of questions that need to be answered. This guide will walk you through each section and explain what information is required and what to expect.
-
-</thinking>
-
 # Bilingual Certification Registration - Help Guide
 ## Purpose
 The Bilingual Certification Registration form is used to collect information from candidates who are interested in pursuing a bilingual certification. The form helps us understand your preferences and requirements, ensuring that the certification process is tailored to your needs.

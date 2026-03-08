@@ -1,6 +1,3 @@
-<thinking>
-This form is for registering as a judge for a film festival. The purpose of this form is to collect information from judges about their qualifications, preferences, and availability for judging. This form will not be used to create any binding contracts or agreements, and completion is entirely voluntary. By submitting this form, judges are not committing to anything beyond expressing their interest and availability for the festival. Please note that this form is for internal use only and the information provided will be used to assign judges to films and manage the judging process. If you have any questions or concerns, please contact the festival organizers.</thinking>
-
 # Film Festival Judge Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in judging the upcoming film festival. Please answer the questions honestly and accurately to help us find the best match for you.

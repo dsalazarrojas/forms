@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the insurance claims service provided to customers. It asks customers to rate their satisfaction level with the service, report any delays experienced, and evaluate the communication and resolution levels. The form also requests additional feedback, contact information, and preferred contact method. The goal is to identify areas of improvement and provide data-driven insights for the insurance company.
-This form does not appear to have any duplicate or irrelevant fields. It seems to cover a comprehensive range of topics related to the insurance claims service.
-</thinking>
-
 # Insurance Claims Service Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the insurance claims service provided to customers. It helps the company identify areas of improvement and provide data-driven insights.

@@ -1,5 +1,3 @@
-<thinking>Before generating this guide, I reviewed the form's fields and functionality to ensure that this template accurately reflects the form's purpose and requirements.</thinking>
-
 # Virtual Care System Usability Consent Form - Help Guide
 ## Purpose
 This form is designed to capture user consent for the use of a virtual care system, which offers telehealth services, electronic health records, and other features. The form is used to ensure that users understand and agree to the terms of use, including data sharing, retention, security, and access policies.

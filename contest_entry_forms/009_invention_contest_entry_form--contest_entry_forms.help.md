@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who want to participate in an invention contest. The form is designed to gather personal details, contact information, and a description of the invention. This information will be used by the contest organizers to evaluate and review the entries. To avoid duplication, please ensure that you are not submitting a duplicate entry, and if you have any questions or concerns, contact the form maintainer at form@gic.mx.
-</thinking>
-
 # Invention Contest Entry Form - Help Guide
 ## Purpose
 The Invention Contest Entry Form is designed to collect information from individuals who want to participate in an invention contest. This form will help the contest organizers gather the necessary details to evaluate and review the entries.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a registration form for a camping contest, gathering information from participants including their personal details, address, parent or guardian information, contest details, skills and experience, and acceptance of contest rules and waivers. The form seems to be designed to collect information for a contest that may involve camping activities or skills, likely a competition of some sort. I will now write a help guide for this form.
-</thinking>
-
 # Camper Contest Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants for a camping contest. The collected information includes personal details, address, parent or guardian information, contest details, skills and experience, and acceptance of contest rules and waivers.

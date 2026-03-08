@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a joint agreement between two parties, typically a contractor and a subcontractor. The form is meant to be filled out by the contractor and the subcontractor, each filling in their respective sections. The form is not intended to be used for any other purpose, such as collecting payment information or creating a contract from scratch. 
-
-This form is part of the "contractor_forms" category, which implies that it is related to contracts and agreements between parties in the context of construction, architecture, or other related fields. The form's title, "joint_agreement_signatures", suggests that it is specifically designed to collect signatures from both parties involved in the agreement. 
-
-Please check that this form is not a duplicate of any existing form in your organization, and make sure that the information collected is relevant to your business needs.
-
-</thinking>
-
 # joint_agreement_signatures - Help Guide
 ## Purpose
 The joint agreement signatures form is designed to collect information about a joint agreement between a contractor and a subcontractor. It is intended for use in situations where both parties need to sign off on an agreement.

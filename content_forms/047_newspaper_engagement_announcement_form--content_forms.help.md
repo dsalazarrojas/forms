@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a Newspaper Engagement Announcement Form, a template that streamlines the formal announcement process for newspapers. The form's purpose is to gather essential details for creating an effective announcement, such as category, description, target audience, and output preferences. Before filling out the form, please ensure you have the necessary permissions to collect and use the information.
-
-This form is meant to be used by newspaper staff or administrators to create an announcement for a special event or publication. Each section of the form should be filled out according to your specific needs.
-</thinking>
-
 # Newspaper Engagement Announcement Form - Help Guide
 ## Purpose
 The Newspaper Engagement Announcement Form is a template designed to facilitate the creation of formal announcements for newspapers. It collects relevant information to ensure the announcement meets the target audience's expectations and is effective in engaging them.

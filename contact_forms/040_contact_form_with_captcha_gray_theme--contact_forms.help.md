@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect contact information and inquiry details from users, and to validate their humanity through a CAPTCHA test. It will only be used for internal purposes and not to solicit responses from the same user multiple times.
-</thinking>
-
 # Contact Form With Captcha Gray Theme - Help Guide
 ## Purpose
 This form is designed to gather contact information and inquiry details from users, to allow our team to respond to their questions and requests in a timely and efficient manner.

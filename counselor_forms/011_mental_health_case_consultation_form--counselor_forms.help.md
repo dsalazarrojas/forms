@@ -1,5 +1,3 @@
-<thinking>...I am an expert form designer and technical writer. I will create a user-facing help guide for the Mental Health Case Consultation Form. This form is designed to collect various pieces of information related to patient consultations. It seems to be a comprehensive form covering patient information, medical history, chief complaint, mental health history, treatment plans, progress notes, and outcomes. I assume it's used in a mental health or healthcare setting... I will now create the guide based on the provided YAML fields...</thinking>
-
 # Mental Health Case Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients and healthcare providers during mental health case consultations. It gathers details on patient demographics, medical and mental health history, chief complaints, treatment plans, and progress notes.

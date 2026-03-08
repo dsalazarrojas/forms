@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback and evaluations from course participants on a multi-page format. The form is designed to gather information about the course content, structure, and overall experience. The form is likely to be used by course instructors, administrators, or other stakeholders to assess the effectiveness of the course and identify areas for improvement.
-
-This form is a multi-page form, consisting of four pages. Each page has a unique label and an ID. The form is designed to be completed by course participants, and it's essential to provide clear instructions and explanations for each field to ensure that participants understand what is expected of them.
-
-To prevent duplication of effort and ensure that the form is completed accurately, it's crucial to follow the instructions and explanations provided below.
-
-</thinking>
-
 # MultiPage Course Evaluation Form - Help Guide
 ## Purpose
 The MultiPage Course Evaluation Form is designed to collect feedback and evaluations from course participants on a multi-page format. This form will help instructors, administrators, and other stakeholders assess the effectiveness of the course and identify areas for improvement.

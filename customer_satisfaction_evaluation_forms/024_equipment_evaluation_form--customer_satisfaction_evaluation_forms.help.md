@@ -1,11 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "equipment_evaluation_form" form, we need to ensure that the form's purpose and fields are clearly understood by the end-users. This form is used for evaluating the performance, reliability, and overall satisfaction of equipment or services provided to customers. It seems like the form is designed to gather feedback from customers on various aspects of the equipment, including its performance, reliability, and value for money. The form also asks about the ease of use and overall rating of the equipment. It is essential to ensure that the form is completed accurately and thoroughly to provide valuable insights for improvement.
-
-The form has 9 fields in total, which can be grouped into several sections. We need to clearly explain each field and provide guidance on how to complete it for the end-users.
-
-The form is likely used by customer support teams or field service teams to gather customer feedback, which will help in improving the quality of service and equipment provided to customers.
-</thinking>
-
 # equipment_evaluation_form - Help Guide
 ## Purpose
 The equipment_evaluation_form is used to gather customer feedback on the performance, reliability, and overall satisfaction of equipment or services provided. This form helps in identifying areas of improvement and ensuring that the equipment meets the customer's expectations.

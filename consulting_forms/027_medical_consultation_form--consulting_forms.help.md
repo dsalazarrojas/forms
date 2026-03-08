@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for medical consultations, which is essential for healthcare providers to understand the patient's medical history, current conditions, and treatment plans. This form will help ensure that patients receive proper care and attention from medical professionals. It's recommended that users carefully review each field to provide accurate and complete information.
-</thinking>
-
 # Medical Consultation Form - Help Guide
 
 ## Purpose

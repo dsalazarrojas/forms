@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gauge customer satisfaction and advocacy towards the company, aiming to understand their opinions on customer service, satisfaction with products, services, experience, and communications. This form should not be filled out by customers who have not interacted with the company before, as the questions are tailored towards understanding their specific experiences.
-</thinking>
-
 # Customer Advocacy Assessment Form - Help Guide
 
 ## Purpose

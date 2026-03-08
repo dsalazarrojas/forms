@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to obtain consent from participants in veterinary case conferences for recording and filming purposes. The form will be used by veterinary professionals to ensure that participants are aware of and agree to the recording and filming of their case conferences. This will help to maintain the integrity and trust in the recording process, as well as provide a clear understanding of the participant's consent status.
-
-Before starting, please ensure that you are not duplicating the form for the same participant. This form is designed to be completed once for each unique participant.
-
-</thinking>
-
 # Veterinary Case Conference Filming Consent Form - Help Guide
 ## Purpose
 The Veterinary Case Conference Filming Consent Form is a document that obtains consent from participants in veterinary case conferences for recording and filming purposes.

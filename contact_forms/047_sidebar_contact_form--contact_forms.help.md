@@ -1,7 +1,3 @@
-<thinking>
-The sidebar_contact_form is designed to be a simple contact form that allows users to submit their name, email address, phone number, and a message. This form is intended to be used for general contact purposes, such as inquiring about products or services, or requesting more information about a company. It does not require any specific information to be filled out, and users can submit it anonymously if they wish.
-</thinking>
-
 # sidebar_contact_form - Help Guide
 ## Purpose
 The sidebar_contact_form is a contact form that enables users to get in touch with the company.

@@ -1,5 +1,3 @@
-<thinking>...This form, "miles_of_beauty_lash_lift_amp_tint_consent," is designed to collect consent from clients who wish to receive lashes lift and tint services. Before proceeding, ensure this form is relevant to your situation and not a duplicate submission. If you have previously provided consent for this service, your submission will be denied. Ensure that you are submitting for the correct service by confirming that you are requesting lashes lift and tint services.</thinking>
-
 # miles_of_beauty_lash_lift_amp_tint_consent - Help Guide
 ## Purpose
 This form is used to collect consent from clients for lashes lift and tint services. It will help the service provider understand your consent status and proceed with the service accordingly.

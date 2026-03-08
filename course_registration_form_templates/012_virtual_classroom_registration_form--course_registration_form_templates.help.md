@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Classroom Registration Form - Help Guide
 
 ## Purpose

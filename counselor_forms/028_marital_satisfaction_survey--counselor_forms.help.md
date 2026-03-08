@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # marital_satisfaction_survey - Help Guide
 ## Purpose
 The Marital Satisfaction Survey is a form used to measure the satisfaction levels of individuals in a marital relationship. This form helps to identify areas of satisfaction and dissatisfaction within the relationship, providing valuable insights for both partners to understand each other's feelings and perspectives.

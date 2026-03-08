@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I'll create a help guide that explains the purpose of the form, how to complete it, and each field in a clear and concise manner.</thinking>
-
 # Financial Planning Consultation Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about a financial planning consultation. Please fill out this form to help us understand your financial needs and goals, so we can provide you with personalized recommendations and support.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect client information and consent for hair iron protection spray treatment. It includes fields for client authorization, contact details, signature, date of service, time of service, stylist signature, salon signature, date of birth, client address, client notes, stylist notes, signature date, signature time, date of service (again, because it's a dropdown), and client signature. This form is likely used in a salon setting where a client may require protection from iron spray during a hair treatment. Each field is designed to gather relevant information to ensure a safe and informed client experience.
-</thinking>
-
 # Hair Iron Protection Spray Consent Form - Help Guide
 ## Purpose
 This form is used to collect client information and consent for hair iron protection spray treatment.

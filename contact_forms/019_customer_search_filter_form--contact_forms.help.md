@@ -1,7 +1,3 @@
-<thinking>
-This form is a customer search filter form designed to help users quickly find specific customers based on various criteria. The form has four fields: search filter, customer name, email, and contact phone. Each field can be filled in to narrow down the search results. This form is not intended to collect new customer information but rather to refine existing records. Therefore, no fields are required. This guide is designed to ensure that users understand how to complete the form correctly and effectively use the fields to get accurate search results.
-</thinking>
-
 # Customer Search Filter Form - Help Guide
 ## Purpose
 This form allows users to search for customers by various criteria such as name, email, or phone number. It is designed to help users quickly locate specific customers in the system.

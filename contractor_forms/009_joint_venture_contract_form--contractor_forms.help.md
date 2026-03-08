@@ -1,23 +1,3 @@
-<thinking>
-This form is used to create a joint venture contract between two or more parties. The form is designed to gather essential information about the contract, including details about the parties involved, the contract terms, and the expected outcomes. 
-
-The form is divided into 12 pages, each with a specific purpose:
-  1. First Page: 
-  2. Second Page: 
-  3. Third Page: 
-  4. Fourth Page: 
-  5. Fifth Page: 
-  6. Sixth Page: 
-  7. Seventh Page: 
-  8. Eighth Page: 
-  9. Ninth Page: 
-  10. Tenth Page: 
-  11. Eleventh Page: 
-  12. Twelfth Page: 
-
-Before filling out this form, please review its purpose and ensure you're creating a new joint venture contract. If you've already created a joint venture contract, please do not fill out this form again.
-</thinking>
-
 # Joint Venture Contract Form - Help Guide
 ## Purpose
 The Joint Venture Contract Form is used to document the terms and conditions of a joint venture between two or more parties.

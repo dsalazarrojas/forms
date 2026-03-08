@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about the store layout. The store layout evaluation form is intended to gauge customers' satisfaction with the current layout, identify areas for improvement, and gather suggestions on how to better cater to their needs. This feedback will help store staff to refine their understanding of what customers want and improve the shopping experience for future customers.
-
-</thinking>
-
 # store_layout_satisfaction_poll - Help Guide
 ## Purpose
 The store layout evaluation form aims to collect feedback on the store's layout, overall satisfaction, and suggestions for improvement.

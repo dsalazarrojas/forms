@@ -1,9 +1,3 @@
-<thinking>
-
-**This form is used to collect information on customers joining the Zyia Birthday Club. It asks for their name, email, birthdate, if they belong to a VIP group, and an optional special message. This form is likely used for marketing or customer service purposes. Please ensure this form is not used for any other purpose as it is specific to the Zyia Birthday Club. If you're unsure, please contact the team for clarification.**
-
-</thinking>
-
 # zyia_birthday_club_form - Help Guide
 ## Purpose
 The zyia_birthday_club_form is used to collect information from customers interested in joining the Zyia Birthday Club. This form helps our team understand who's joining the club and tailor our marketing efforts and customer service accordingly.

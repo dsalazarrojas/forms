@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended for users who are completing the COVID-19 Vaccine Poll form. This form is designed to collect information from employees about their willingness to be vaccinated against COVID-19, their preferences for vaccination timing and location, and any concerns they may have.
-
-Before proceeding, please confirm that you are an employee and are eligible to complete this form. Additionally, ensure that you have not already completed this form. If you have any questions or concerns, please contact your HR representative or IT department for assistance.
-
-</thinking>
-
 # COVID 19 Vaccine Poll - Help Guide
 ## Purpose
 This form is designed to collect information from employees about their willingness to be vaccinated against COVID-19, and their preferences for vaccination timing and location.

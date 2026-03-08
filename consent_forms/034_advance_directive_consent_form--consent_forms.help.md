@@ -1,6 +1,3 @@
-<thinking> 
-The form is used to collect advance directives for medical treatment, which are instructions or preferences regarding medical treatment and end-of-life care. The form is designed to ensure that individuals have their wishes known and respected in the event they become unable to communicate them themselves. This form is often used by healthcare providers to understand the patient's preferences and decisions about their care. To avoid duplication, the system checks for existing advance directives before creating a new one. To ensure relevance, the form is typically completed by individuals who are near end-of-life or have specific medical conditions that may impact their ability to communicate their wishes. </thinking>
-
 # Advance Directive Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to capture an individual's preferences and instructions for medical treatment in the event they become unable to communicate their wishes themselves. This form is used to ensure that their healthcare providers respect their decisions and act in accordance with their instructions.

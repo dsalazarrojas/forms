@@ -1,16 +1,3 @@
-<thinking>... (Internal reasoning and checks)
-This form is intended to collect consent from patients participating in a sleep study. The form should only be used for this specific purpose and not for any other use case. To avoid duplication, ensure that this form is not used in conjunction with other consent forms or for any other purpose not explicitly stated in the form's metadata.
-
-The form has four fields:
-- Patient Information: To collect basic information about the patient, such as their name and contact details.
-- Sleep Study Details: To collect information about the sleep study, including the nature of the study, its duration, and any other relevant details.
-- Contact Information: To collect information about the contact person or organization responsible for the study.
-- Consent Information: To provide information about the consent process and the patient's rights and obligations.
-
-Before proceeding, please ensure that you have reviewed and understood the purpose and requirements of this form. If you are unsure about any aspect of the form, please do not hesitate to ask for clarification.
-
-</thinking>
-
 # Sleep Study Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from patients participating in a sleep study. It is essential to understand the study's nature, risks, and benefits before completing this form.

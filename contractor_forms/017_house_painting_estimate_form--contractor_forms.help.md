@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for a house painting service. The purpose of this form is to gather essential details about the client, their property, and the service requirements for a painting job. This information will help the service provider to provide an accurate estimate for the painting services. It is essential to fill out this form accurately to ensure that the service provider has a clear understanding of the client's needs.
-
-</thinking>
-
 # House Painting Estimate Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for a house painting service. It will help the service provider to gather essential details about the client, their property, and the service requirements for a painting job.

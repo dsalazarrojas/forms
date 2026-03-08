@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for contractors to submit their workmanship warranty claims, ensuring that customers can provide detailed information for any issues or defects in their work. This submission form is crucial for tracking and resolving potential issues promptly. Before filling out this form, please ensure that you have the necessary information and authorization to submit on behalf of the customer. If you're unsure or have any questions, please contact the relevant authorities internally.
-</thinking>
-
 # Workmanship Warranty Submission - Help Guide
 ## Purpose
 This form is for customers to submit their workmanship warranty claims, which allows us to track and resolve any potential issues promptly.

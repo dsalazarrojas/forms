@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect patient information and medical consent for ear wax removal procedure. The form is intended for patients to provide their medical history, consent for the procedure, and contact information for their medical contact. The form is divided into several sections, each with specific fields that require completion. The form does not require any external dependencies or proprietary content.
-
-</thinking>
-
 # Ear Wax Removal Consent Form - Help Guide
 ## Purpose
 The Ear Wax Removal Consent Form is a document that requires patients to provide their medical history, consent for the ear wax removal procedure, and contact information for their medical contact.

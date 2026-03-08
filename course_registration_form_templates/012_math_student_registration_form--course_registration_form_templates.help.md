@@ -1,7 +1,3 @@
-<thinking>
-This form is for students to register for math courses. The purpose of this form is to collect information from students to assign them to a math course based on their preferences and availability. We want to ensure that students are correctly registered and can receive the right math course materials and information. Please note that this form should be used for math students only, and not for other types of students or courses.
-</thinking>
-
 # Math Student Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from math students. Please fill out the form accurately to ensure that you receive the correct math course materials and information.

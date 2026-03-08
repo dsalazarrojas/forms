@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Trainer Client Intake And Liability Form - Help Guide
 
 ## Purpose

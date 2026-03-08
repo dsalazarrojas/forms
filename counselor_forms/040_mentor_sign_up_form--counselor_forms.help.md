@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to become mentors in a mentorship program. The form should only be filled out by individuals who are genuinely interested in becoming a mentor, and not by individuals who are looking for other purposes. Please make sure to fill out this form only if you have a strong interest in mentoring and are committed to the program. 
-
-This form is not meant to be filled out by duplicate individuals. Please ensure that you are not filling out this form if you have already registered with us in the past. 
-
-The form is intended for users who want to share their expertise, skills, and experience with others. It's a crucial part of the mentorship program that helps us match mentors with mentees based on their needs and preferences.
-
-Before starting the form, take a few minutes to read through each field carefully and answer the questions truthfully. This will help us get an accurate picture of who you are and what you can offer as a mentor.
-
-The form consists of 9 fields, each collecting different types of information about you. Here's a brief explanation of each field to help you complete the form accurately.
-
-</thinking>
-
 # Mentor Sign Up Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who want to become mentors in a mentorship program. It helps us match mentors with mentees based on their expertise, skills, and experience.

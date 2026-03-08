@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a person's symptoms related to the coronavirus. It is intended for healthcare professionals to monitor and track the progression of the disease. This form should only be filled out by individuals who have been diagnosed with or are suspected to have the coronavirus. Please note that this form is not for general public use and should only be completed by authorized personnel.</thinking>
-
 # Coronavirus Symptom Monitoring Form - Help Guide
 ## Purpose
 This form is used to collect information about a person's symptoms related to the coronavirus. It is intended for healthcare professionals to monitor and track the progression of the disease.

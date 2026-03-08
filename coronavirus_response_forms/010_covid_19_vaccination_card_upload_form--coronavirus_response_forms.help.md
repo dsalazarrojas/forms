@@ -1,7 +1,3 @@
-<thinking>As the form designer and technical writer, I understand that this form is designed to collect information from individuals who have received COVID-19 vaccinations. The form is used to capture detailed information about the vaccine, including the type of vaccine, dates of doses, and other relevant data. This form is likely used for health authorities or organizations to verify vaccination records or for individuals to report their vaccination status. It's essential to ensure that the form is completed accurately and correctly to avoid duplication of efforts and to provide valuable data. 
-
-</thinking>
-
 # COVID 19 Vaccination Card Upload Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who have received COVID-19 vaccinations. It will help in verifying vaccination records, reporting vaccination status, or for other health-related purposes.

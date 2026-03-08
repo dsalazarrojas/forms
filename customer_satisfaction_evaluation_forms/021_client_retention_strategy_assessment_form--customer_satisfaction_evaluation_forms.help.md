@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning block to understand the purpose and relevance of the form. 
-
-The Client Retention Strategy Assessment Form is designed to evaluate the level of client retention strategy implementation across various aspects of account management. This form aims to assess how well businesses are doing in different areas that influence client retention. By providing a thorough evaluation, users can identify areas for improvement and implement targeted measures to enhance client loyalty.
-
-This form is particularly useful for businesses looking to evaluate their client engagement, service personalization, metric tracking, and other essential elements contributing to client retention. It helps in identifying the presence or absence of a defined retention strategy, the effectiveness of proactive client engagement, communication frequency, and other key aspects. By filling out this form, users can get a comprehensive picture of their current client retention strategy and take steps to optimize it for better results.
-
-</thinking>
-
 # Client Retention Strategy Assessment Form - Help Guide
 ## Purpose
 The Client Retention Strategy Assessment Form is designed to evaluate the effectiveness of a client's retention strategy across several key areas, helping businesses identify areas for improvement and implement targeted measures to enhance client loyalty.

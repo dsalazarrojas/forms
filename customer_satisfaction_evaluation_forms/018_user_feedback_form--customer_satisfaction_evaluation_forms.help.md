@@ -1,13 +1,3 @@
-<thinking>
-As a form designer and technical writer, my goal is to create a user-friendly help guide that clearly explains the purpose and usage of the "User Feedback Form". This form is intended to collect customer feedback on their experience with our services. The purpose of this form is to gather information on how customers feel about our service quality, satisfaction, and areas of improvement. By completing this form, customers can provide their feedback and help us better understand their needs and preferences.
-
-When users complete this form, they will be providing us with their personal details and opinions about our service. We appreciate their honesty and value their input in helping us improve our services.
-
-Before starting, please make sure to fill out all the required fields, as marked with an asterisk (*). The form is organized into a single page, making it easy to navigate and complete.
-
-Please note that the form fields are designed to collect specific types of information, as explained below:
-</thinking>
-
 # User Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect customer feedback on their experience with our services.

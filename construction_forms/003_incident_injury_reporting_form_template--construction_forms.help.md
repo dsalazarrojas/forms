@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I've analyzed the fields and their properties. The form appears to be a comprehensive incident injury reporting template used to document and record incidents that occurred during work-related activities. It collects information on the employee involved, the incident details, and the necessary approvals and follow-ups required for incident management.
-
-The form likely serves as a centralized system for tracking and managing workplace incidents, ensuring that necessary steps are taken to report, investigate, and resolve such incidents in a structured and efficient manner.
-
-Before proceeding, please ensure that you're filling out this form for a valid work-related incident, and that you're using it for its intended purpose. If you're unsure about a specific field or process, please consult with your supervisor or HR representative to clarify any doubts.
-
-</thinking>
-
 # Incident Injury Reporting Form Template - Help Guide
 ## Purpose
 The Incident Injury Reporting Form Template is a tool used to document and manage workplace injuries, ensuring that incidents are reported, investigated, and resolved in a structured and efficient manner.

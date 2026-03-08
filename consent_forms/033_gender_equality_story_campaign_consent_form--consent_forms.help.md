@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for individuals to provide their consent for the Gender Equality Story Campaign, a initiative that aims to share stories of individuals who have been impacted by gender inequality. The purpose of this form is to ensure that individuals who share their stories are doing so willingly and with proper consent, and that their information is shared with the correct individuals or groups. 
-
-The form will be used to collect information from individuals who wish to share their stories, including their contact information, preferences for how they want their story to be shared, and other details about their story. 
-
-Please note that the form is required for all users who wish to participate in the campaign, and it is crucial that all users understand the purpose and requirements of the form before submitting it.
-
-</thinking>
-
 # Gender Equality Story Campaign Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who wish to share their stories as part of the Gender Equality Story Campaign. It ensures that individuals provide their consent for their story to be shared, and that their information is shared with the correct individuals or groups.

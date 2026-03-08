@@ -1,8 +1,3 @@
-<thinking>
-This form is a bridal makeup contact form for brides-to-be to share their information and preferences with the bridal makeup artist or service provider. The form is designed to capture detailed and relevant information about the bride's contact, makeup, and service preferences. The goal is to gather sufficient data to deliver customized and personalized service to ensure a seamless and successful experience for the bride and her party. This form is intended to be completed by the bride or her representative, and the information collected will be used to schedule and prepare for the bridal makeup service. Before proceeding, ensure that the form is being filled out correctly and completely, and if any questions or doubts arise, feel free to reach out to the service provider for clarification.
-
-</thinking>
-
 # Bridal Makeup Contact Form - Help Guide
 ## Purpose
 The bridal makeup contact form is designed to gather information about the bride's contact, preferences, and service requests for her special day. This form will help the bridal makeup service provider understand the bride's needs and ensure a customized and personalized experience.

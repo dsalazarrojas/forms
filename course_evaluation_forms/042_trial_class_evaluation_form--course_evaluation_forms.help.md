@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form is used correctly to collect valuable feedback from course participants. The form should be filled out by each participant after attending a trial class, so we can understand their overall experience, instructor knowledge, and class structure. This feedback will help us to improve our training programs. To avoid duplication, please fill out this form only once for each trial class attended. If you have any additional comments, use the "Additional Comments" field. If you'd like to suggest improvements, use the "Suggestions" field.
-</thinking>
-
 # Trial Class Evaluation Form - Help Guide
 ## Purpose
 The Trial Class Evaluation Form is designed to collect feedback from course participants after attending a trial class. It helps us understand their overall experience and provides valuable insights to improve our training programs.

@@ -1,7 +1,3 @@
-<thinking>
-The AI-generated Customer Churn Survey form is designed to gauge customer satisfaction and identify potential areas for improvement in customer retention. This form collects feedback from customers who have stopped using a product or service, providing valuable insights for business growth. The form should only be used for customers who have actually churned or are likely to churn, not for customers who are simply browsing or haven't purchased anything. Ensure that you are not duplicating surveys for customers who have already completed a similar survey or are currently in an active trial phase.
-</thinking>
-
 # Customer Churn Survey - Help Guide
 ## Purpose
 The Customer Churn Survey is designed to gather information about customers who have stopped using our product or service. This survey aims to understand the reasons behind customer churn and gather feedback on potential areas for improvement.

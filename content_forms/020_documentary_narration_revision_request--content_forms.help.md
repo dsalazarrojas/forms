@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a revision for a documentary narration. The purpose of this form is to provide a structured way for users to submit a revision request, including details about the revision, urgency level, and other relevant information. The form should only be used for revisions that have not already been submitted or are not currently being revised. This form should not be used for general feedback or support requests.
-</thinking>
-
 # Documentary Narration Revision Request - Help Guide
 ## Purpose
 This form is used to request a revision for a documentary narration. It is intended for revisions that require specific updates or changes to the existing content.

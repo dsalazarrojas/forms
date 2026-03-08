@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to gather information about events and the people attending them, specifically in relation to COVID-19 protocols. The form will be completed by individuals who will be attending events, and the data will be used to track and monitor attendance. It will likely be used by event organizers or authorities to track and manage event attendance during the COVID-19 pandemic. It's assumed that this form will be filled out for every person attending the event, and the event organizer will likely review all submissions before allowing attendees in. This form will gather contact information and event-specific details to track and contact attendees if needed.
-</thinking>
-
 # Event Attendance Declaration Form - Help Guide
 ## Purpose
 This form is used to declare attendance at events and gather information about the event and its attendees, specifically during the COVID-19 pandemic.

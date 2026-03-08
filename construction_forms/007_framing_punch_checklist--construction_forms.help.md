@@ -1,5 +1,3 @@
-<thinking>As the form developer, I need to ensure that users understand the purpose and functionality of the "Framing Punch Checklist" form. This form is designed to collect information about the assigned tools for framing, which is an essential process in construction projects. The form should not be duplicated or used for any other purpose. The form fields should be explained clearly, so users know what information to provide and why.</thinking>
-
 # Framing Punch Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about the assigned tools for framing in construction projects. It helps project administrators and supervisors track and manage the tools used in framing processes.

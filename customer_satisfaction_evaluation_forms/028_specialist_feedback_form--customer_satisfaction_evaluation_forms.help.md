@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Specialist Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about the specialist's performance. The purpose of this form is to gather information about the specialist's knowledge, communication style, and overall experience. This feedback will help us improve our services and better serve our customers in the future.

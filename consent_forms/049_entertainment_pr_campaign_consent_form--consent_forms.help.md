@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to collect information for an entertainment PR campaign, which is a promotional campaign that seeks to promote a person, product, or service in the entertainment industry. The form is designed to gather relevant details about the campaign, including the location and time of the event, as well as any other relevant information that may be needed to facilitate communication between the campaign organizer and the participants. The purpose of this form is to ensure that all parties involved in the campaign have a clear understanding of the details and can work together effectively. Please review the form carefully to ensure you are providing accurate and relevant information.</thinking>
-
 # Entertainment PR Campaign Consent Form - Help Guide
 ## Purpose
 The Entertainment PR Campaign Consent Form is designed to gather information for a promotional campaign in the entertainment industry. This form helps to ensure that all parties involved in the campaign have a clear understanding of the details and can work together effectively.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 We should ensure that users understand the purpose of this form is for collecting consent from individuals regarding their media usage in a research poster presentation. This form should be filled out when the individual is presenting their research and media used is being captured. To prevent duplication, the form should only be filled out once per media usage instance. We need to make sure users are aware of this to maintain accurate and up-to-date records.
 
 # Media Consent For Research Poster Presentation - Help Guide

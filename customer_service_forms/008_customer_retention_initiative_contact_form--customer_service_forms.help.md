@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Retention Initiative Contact Form - Help Guide
 ## Purpose
 This form is designed to allow customers to provide feedback, suggestions, or concerns related to our customer retention initiative. This information will help us understand how to better serve our customers and improve our services.

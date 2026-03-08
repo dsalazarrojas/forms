@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the terms of profit sharing agreements between partners in a business or project setting. It helps to establish a clear understanding of how profits will be distributed and when the agreement will start and end. This form is intended to be used between partners who are involved in a joint venture or project and need to clarify their roles and responsibilities. Please ensure that you are using this form in a valid business context and have the necessary permissions to do so. If you are unsure, please consult with your supervisor or legal advisor before proceeding.
-</thinking>
-
 # Profit Sharing Agreement Form - Help Guide
 ## Purpose
 The Profit Sharing Agreement Form is used to document the terms of profit sharing agreements between partners in a business or project setting.

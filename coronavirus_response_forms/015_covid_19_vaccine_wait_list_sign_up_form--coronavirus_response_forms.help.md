@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals sign up for the COVID-19 vaccine wait list. To ensure accurate representation of your needs, please fill out the form thoroughly and correctly. If you have already signed up for the wait list, you do not need to fill out this form again.
-</thinking>
-
 # COVID 19 Vaccine Wait List Sign Up Form - Help Guide
 
 ## Purpose

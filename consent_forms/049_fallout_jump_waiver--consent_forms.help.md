@@ -1,10 +1,3 @@
-<thinking>
-The Fallout Jump Waiver form is a crucial document for individuals who will be participating in the jump activity. Its purpose is to gather essential information and obtain consent from parents/guardians for minors, as well as ensure that jumpers and instructors have acknowledged their roles and responsibilities. This form is used to prevent misunderstandings and ensure a safe and enjoyable experience for everyone involved. It's essential to complete this form accurately and truthfully, as it's a critical part of the jump process.
-
-Before proceeding, ensure that you have not completed this form previously. If you have any doubts or concerns, please contact the relevant authorities for guidance.
-
-</thinking>
-
 # Fallout Jump Waiver - Help Guide
 ## Purpose
 The Fallout Jump Waiver form is a vital document used to gather essential information and ensure that jumpers, instructors, and parents/guardians are aware of their roles and responsibilities before participating in the jump activity.

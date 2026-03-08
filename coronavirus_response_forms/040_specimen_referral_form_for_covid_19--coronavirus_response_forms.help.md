@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the specimen referral process for COVID-19 testing. The form is used to capture data on the specimen collection, transport, and testing process. It is essential to ensure that all required fields are filled out accurately to ensure proper specimen tracking and processing. Before completing this form, please note that the following fields may be required or optional depending on the specific circumstances. Please review each field carefully and provide accurate information.
-</thinking>
-
 # Specimen Referral Form For COVID 19 - Help Guide
 ## Purpose
 The Specimen Referral Form is a critical document used to track and manage the specimen collection, transport, and testing process for COVID-19 testing. It is essential to gather accurate and complete information to ensure proper specimen processing and testing.

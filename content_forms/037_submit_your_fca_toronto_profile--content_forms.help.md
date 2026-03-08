@@ -1,15 +1,3 @@
-<thinking>
-This form is used to submit a profile for an FCA Toronto profile. The form is designed to collect detailed information about the user, including their profile details, images, contact information, social media links, and uploaded documents. This information is used to create a comprehensive profile that showcases the user's background and expertise.
-
-Before proceeding, please ensure that you have completed all the necessary fields to the best of your ability. Note that some fields are optional and can be filled later if needed. This form has been designed to collect the following information:
-- Up to 6 images for your profile
-- Additional documents such as resume and cover letter
-- Confirmatory information for email, phone number, website, and social media
-- Confirmation of form completion
-
-Please review the form carefully and fill in the necessary fields. If you have any questions or concerns, please don't hesitate to reach out to the support team.
-</thinking>
-
 # submit_your_fca_toronto_profile - Help Guide
 ## Purpose
 The submit_your_fca_toronto_profile form is used to collect detailed information for an FCA Toronto profile. This form is designed to provide a comprehensive overview of the user's background and expertise.

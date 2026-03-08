@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will create a comprehensive help guide for the detailed_real_estate_customer_service_forms form to ensure end-users understand its purpose, how to complete it, and each field's significance.
 
 # detailed_real_estate_customer_service_forms - Help Guide

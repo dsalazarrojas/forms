@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for holiday cake orders. This includes details about the order, customer information, payment information, and order status. The form has a mix of single-select, text, and select-multiple fields, ensuring that users can provide the necessary information for processing the order.
-</thinking>
-
 # Holiday Cake Order Form Template - Help Guide
 
 ## Purpose

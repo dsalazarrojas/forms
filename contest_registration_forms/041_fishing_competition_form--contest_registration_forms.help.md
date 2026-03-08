@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fishing Competition Form - Help Guide
 ## Purpose
 The "Fishing Competition Form" is designed to collect information about fishing competitions, including flight details, contestant information, event information, and prize details. This form helps organizers and participants to efficiently gather and manage the necessary data for a smooth and successful competition.

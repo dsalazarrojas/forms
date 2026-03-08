@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be used by trainees to evaluate their experience with the training program. The form is designed to gather feedback from trainees to help the organization improve the program. This form should only be filled out by trainees who have completed the program.
-
-When filling out this form, please provide honest and detailed feedback. All fields are optional, but providing information in all fields will help us better understand your experience.
-
-Please note that some fields are multiple-choice questions, and some are free-form text fields where you can provide as much or as little information as you like.
-
-To ensure accurate analysis, please fill out the form in its entirety.
-
-</thinking>
-
 # Training Evaluation Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from trainees on their experience with the training program. Your input will help us understand your experience and identify areas for improvement.

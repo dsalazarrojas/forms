@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain the consent of participants to capture images or videos of them during a makeup event. The form is used to inform participants of how their captured images or videos will be used, and to obtain their agreement to use them for promotional purposes. This form is typically used for events such as photoshoots, makeup demonstrations, or other activities where images or videos are captured. To prevent non-consented usage, this form is required for all participants. The form is a one-page form with multiple fields asking for participant information, consent, and release of use.
-
-</thinking>
-
 # Makeup Line Release Form - Help Guide
 ## Purpose
 This form is used to obtain the consent of participants to capture images or videos during a makeup event. It informs participants of how their captured media will be used and ensures they are aware of and agree to use for promotional purposes.

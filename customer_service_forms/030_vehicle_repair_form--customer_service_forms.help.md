@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is for customers to report a vehicle repair issue to the relevant service department. This form is used to gather detailed information from the customer, including a description of the problem, contact information, and details about the vehicle in question. The form is likely to be used by customer service teams to track and address the issues raised by customers in a structured manner.
-
-This form is likely to be filled out by customers reporting a problem with their vehicle, and should only be used for this specific purpose. There should not be any overlap or duplication of this form with other forms used for similar purposes within the company.
-
-</thinking>
-
 # vehicle_repair_form - Help Guide
 ## Purpose
 The purpose of this form is for customers to report a vehicle repair issue to the relevant service department.

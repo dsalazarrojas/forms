@@ -1,14 +1,3 @@
-<thinking>
-This form is a tool to help businesses assess their readiness and continuity in the event of a COVID-19 pandemic or other disruptions. The form is designed to guide businesses through a series of questions to identify potential risks and areas for improvement. By completing this form, businesses can create a comprehensive plan to ensure they are prepared to respond to and recover from disruptions. This form is not a legal or consulting document and should not be relied upon as such. The information collected will be used to provide general guidance and best practices for businesses to improve their preparedness and continuity.
-
-Please note that this form is a template and should be reviewed and customized according to the specific needs and requirements of your business.
-
-This form has multiple sections, including health and safety measures, staffing and continuity, operations and systems, financial and legal, and overall business continuity readiness. Each section is designed to help businesses identify potential risks and opportunities for improvement.
-
-Before starting, please ensure you have all necessary information and resources readily available.
-
-</thinking>
-
 # COVID 19 Business Continuity Checklist - Help Guide
 ## Purpose
 This form is designed to help businesses assess their readiness and continuity in the event of a COVID-19 pandemic or other disruptions. The form guides businesses through a series of questions to identify potential risks and areas for improvement, creating a comprehensive plan to respond to and recover from disruptions.

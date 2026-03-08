@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information related to COVID-19 health concerns, specifically employee's health status, contact history, travel history, and symptom manifestation. It is likely to be used in a corporate or institutional setting to quickly assess and identify potential health risks. The form is designed to gather essential details to inform decision-making regarding employee health, safety, and potential isolation or quarantine measures.
-
-The form consists of various sections, including employee information, symptoms, contact history, travel history, and personal health status.
-</thinking>
-
 # covid_19_health_checklist - Help Guide
 ## Purpose
 This form is used to gather information related to COVID-19 health concerns, specifically employee's health status, contact history, travel history, and symptom manifestation.

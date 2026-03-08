@@ -1,5 +1,3 @@
-<thinking>...This form is designed for anonymous users to submit questions related to general inquiry, policy, program details, technical support, or other topics. The system checks for internal relevance and non-duplication of questions to avoid redundancy and ensure that responses are provided in a timely manner. Please note that if you wish to be contacted for follow-up questions, you must provide your contact information, which will be kept anonymous unless you opt-in for follow-up...</thinking>
-
 # Anonymous Question Submission - Help Guide
 ## Purpose
 The anonymous question submission form is designed to allow users to submit questions related to specific topics without requiring them to provide personal identifying information. This form helps to ensure that the questions are addressed in a timely and non-duplicative manner.

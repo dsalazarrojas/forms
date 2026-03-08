@@ -1,5 +1,3 @@
-<thinking>Before you begin, let's ensure you're using this form correctly. This form is for requesting an analytics consultation with our team. Please ensure that the information you provide is accurate and clear. To avoid duplication, check the "Recent Requests" section on our website or contact us directly to inquire about the status of your previous requests.</thinking>
-
 # hr_analytics_consultation_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request an analytics consultation with our team. This will help us understand your specific needs and schedule a consultation to discuss further.

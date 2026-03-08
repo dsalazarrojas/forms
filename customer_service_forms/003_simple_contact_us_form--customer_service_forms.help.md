@@ -1,18 +1,3 @@
-<thinking>
-This form is a general contact us form that customers can fill out to get in touch with us for any questions, concerns, or feedback they may have. It is not a form for a specific product or service, so it does not require any specific knowledge of our products or services. 
-
-The form consists of fields for first name, last name, email, phone number, message, category selection, and three additional fields that are not clearly explained. 
-
-The form is likely used by customer service teams to gather information about customers and respond to their inquiries. 
-
-This form does not appear to be part of a larger process that requires specific information for validation, so customers are not required to complete the entire form. 
-
-This form is designed to be simple and easy to use, allowing customers to quickly get in touch with us. 
-
-Please review the form carefully before filling it out to ensure that all necessary information is collected.
-
-</thinking>
-
 # Simple Contact Us Form - Help Guide
 ## Purpose
 This form is used to allow customers to contact us with any questions, concerns, or feedback they may have. It is a general contact form and does not require any specific knowledge of our products or services.

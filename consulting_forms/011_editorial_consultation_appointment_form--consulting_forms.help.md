@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # editorial_consultation_appointment_form - Help Guide
 
 ## Purpose

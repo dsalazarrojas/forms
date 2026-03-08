@@ -1,14 +1,3 @@
-<thinking>
-To prevent non-duplication, we'll check if we have a similar form for the same purpose. Since this form is for ordering COVID-19 rapid antibody tests, we'll ensure that our internal records show that there isn't a similar form for this purpose. If there's no similar form, we can proceed.
-
-This form is for customers who need to order rapid antibody tests for various reasons, including home testing, clinical trials, workplace screening, or educational purposes. The form will guide the customer through the necessary information to ensure accurate and efficient ordering and shipping of the tests.
-
-The form is divided into three main sections: Customer Information, Order Details, and Order Summary. Each section is designed to help customers provide the necessary information for their order to be processed correctly.
-
-Please note that the form is for informational purposes only and should not be considered a diagnosis of a current infection. It's essential to follow up the test results with a clinical consultation for an accurate diagnosis.
-
-</thinking>
-
 # COVID 19 Rapid Antibody Test Order Form - Help Guide
 ## Purpose
 This form is for customers who need to order COVID-19 rapid antibody tests for various reasons, including home testing, clinical trials, workplace screening, or educational purposes. It's essential to ensure accurate and efficient ordering and shipping of the tests.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's experience with health safety protocols in a facility. This includes personal details like facility name, employee name, role, and contact information, as well as safety protocols and emergency contact details. The form is designed to help facilitate the process of ensuring that facilities have the necessary measures in place to protect their employees and visitors from potential health risks.
-
-Before filling out this form, please ensure you have not previously submitted this information for the same facility. Duplicate submissions may cause confusion and delay the review process.
-
-The form is divided into various sections, each focusing on specific aspects of health safety protocols. Please read the instructions carefully to ensure accurate and complete submission.
-
-</thinking>
-
 # Sample Health Safety Facility Protocols Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's experience with health safety protocols in a facility.

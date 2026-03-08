@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in a mentoring program. The form is not affiliated with any form platform and is an original adaptation created using AI-generated form design based on public survey topic metadata. The form will likely be used by organizations or institutions to collect personal, educational, and financial information from applicants. The form's structure may be adjusted or removed if the underlying form platform changes or the form's purpose is updated. To confirm that this form meets your organization's needs, please review the fields and adjust as necessary before sharing it with your audience.
-
-</thinking>
-
 # mentoring_program_application_form - Help Guide
 ## Purpose
 The form is designed to collect information from individuals interested in participating in a mentoring program.

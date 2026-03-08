@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Salon Precaution Agreement Form - Help Guide
 ## Purpose
 This form is used to obtain the necessary consent and agreement from customers before they undergo services at the salon. It serves as a record of their acknowledgment and agreement to follow the salon's terms and conditions, including social distancing and other precautionary measures.

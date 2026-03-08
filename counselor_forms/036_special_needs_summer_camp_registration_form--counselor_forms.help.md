@@ -1,6 +1,3 @@
-<thinking>
-This form is for registering a participant's contact information, medical history, and special needs information for the summer camp. This form aims to collect comprehensive data about the participant to provide a safe and enjoyable experience for all campers. Please note that all fields are optional, and the form is for general information gathering purposes only. 
-</thinking>
 # special_needs_summer_camp_registration_form - Help Guide
 ## Purpose
 The "special_needs_summer_camp_registration_form" is used to gather information about a participant's contact details, medical history, and special needs for the summer camp. This form helps the camp staff understand any potential concerns and prepare for the participant's stay to ensure a smooth and enjoyable experience.

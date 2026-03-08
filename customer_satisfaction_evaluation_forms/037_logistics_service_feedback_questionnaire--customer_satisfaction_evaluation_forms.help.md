@@ -1,9 +1,3 @@
-<thinking>
-The form is used to collect feedback from customers about the logistics service provided by the company. This form aims to measure the customer's satisfaction with the service. It is essential to fill out the form completely and accurately to provide the company with valuable insights into its performance. Please note that this form is a mandatory form and should be filled out by every customer after the service has been provided.
-
-To avoid any confusion, we will be checking for duplicate submissions. If you have already submitted this form, please do not submit it again. This will help us to prevent any data redundancy and ensure that your feedback is taken into account.
-</thinking>
-
 # logistics_service_feedback_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about the logistics service provided by the company, aiming to measure their satisfaction and provide valuable insights into the company's performance.

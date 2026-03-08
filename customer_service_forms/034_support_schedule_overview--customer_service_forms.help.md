@@ -1,23 +1,3 @@
-<thinking>
-This form is used to gather information about a support schedule, including contact details, shift coverage, and notes. It is intended to be filled out by support staff to provide a clear overview of their schedule and ensure that all necessary information is recorded.
-
-This form should not be filled out by customers or external parties, as it contains sensitive internal information. 
-
-The form consists of several sections, each with its own set of fields. The fields are:
-
-* Contact Details: This section asks for the contact information of the support staff, including their name, phone number, and email.
-* Shift Coverage: This section asks for information about the shift coverage, including the scheduled hours and start and end dates.
-* Notes: This section allows for additional notes to be added by the support staff.
-* Team Members: This section allows the user to select multiple team members who are assigned to the shift.
-* Assigned Support: This section asks for the assigned support team or individual.
-* Assigned IT: This section asks for the assigned IT team or individual.
-* Shift Status: This section asks for the status of the shift, such as "available" or "unavailable".
-* Shift Type: This section asks for the type of shift, such as "day" or "night".
-* Notes Internal and External: This section allows for additional internal and external notes to be added by the support staff.
-
-The fields are all optional, except for "Team Members", "Assigned Support", "Assigned IT", "Shift Status", and "Shift Type", which are required.
-</thinking>
-
 # Support Schedule Overview - Help Guide
 ## Purpose
 The Support Schedule Overview form is used to gather information about a support schedule, including contact details, shift coverage, and notes.

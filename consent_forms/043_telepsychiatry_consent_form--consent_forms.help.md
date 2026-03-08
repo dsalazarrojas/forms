@@ -1,9 +1,3 @@
-<thinking>
-Telepsychiatry Consent Form is used for obtaining patient consent before starting telepsychiatry sessions. This form ensures that patients understand the scope of services provided and agree to the terms of treatment.
-Before filling out this form, please ensure that it's a new session or a new patient, or if it's already a known patient, then the session should be recurring.
-Please note that some fields might be hidden depending on the user's selection or session type.
-</thinking>
-
 # Telepsychiatry Consent Form - Help Guide
 ## Purpose
 This form is used to obtain patient consent for telepsychiatry sessions. It covers essential information, including patient details, medical history, contact information, and consent terms.

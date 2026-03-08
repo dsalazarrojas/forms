@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide, I'll need to understand the context and purpose of the form. Based on the provided YAML, it appears that this form is designed for registration purposes, likely for a junior cricket league. The form likely collects contact information, team details, league information, and match information from users who want to participate in or join the league. Since the "required" field is specified for "Team Information", "League Information", and "Confirm" fields, I assume these fields are essential for the form's purpose.
-
-Before generating the help guide, I need to ensure that the form is not a duplication or derivative of any existing form, and that it aligns with the provided metadata and the form's internal logic. I'll review the form's fields, their types, and requirements to create a comprehensive and practical help guide.
-
-</thinking>
-
 # junior_cricket_league_entry_form - Help Guide
 ## Purpose
 This form is designed for registration purposes, specifically for users who want to participate in or join a junior cricket league. It collects essential information from users to facilitate their registration process.

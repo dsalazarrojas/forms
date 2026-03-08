@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and usage of the Marketplace Consent Form to avoid confusion and ensure accurate submission of sensitive information. This form is designed to collect information about a user's relationship with the marketplace, their plans for using the marketplace, and other relevant details. The form is typically used by users who are new to the service or have not completed a similar form in the past.
-
-To prevent duplication, we should check for prior submissions and only allow users to proceed if they haven't completed the form before. This will help us maintain data accuracy and prevent unnecessary questions. Additionally, users should be able to understand each field clearly and know what information is required or optional.
-
-We also need to ensure that users understand the purpose and usage of each field clearly, without any confusion or misinterpretation. Each field should have a clear explanation and label that explains what the user needs to do.
-
-</thinking>
-
 # Marketplace Consent Form - Help Guide
 ## Purpose
 The Marketplace Consent Form is designed to collect essential information about your relationship with the marketplace. It's a series of questions that will help us understand how you plan to use our service and ensure a smooth experience for you.

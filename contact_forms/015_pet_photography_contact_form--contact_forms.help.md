@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate inquiries about pet photography services, allowing users to get in touch with a photography service provider to inquire or book a session for their pet. The form fields are designed to gather essential information from the user, such as name, contact details, pet type, and session preferences. It's essential to ensure each field is filled accurately to ensure a smooth and effective communication process.
-</thinking>
-
 # Pet Photography Contact Form - Help Guide
 ## Purpose
 The Pet Photography Contact Form is a tool for users to get in touch with a pet photography service provider to inquire or book a session for their pet. It helps to gather information about the user's pet and their desired photography service.

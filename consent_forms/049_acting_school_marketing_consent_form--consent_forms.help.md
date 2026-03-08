@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather the necessary information for marketing purposes from students and their guardians (if applicable). The primary goal is to obtain the necessary consent for using a student's image, voice, and performance recordings in marketing and promotional materials. This form ensures that the student and their guardians are aware of and agree to the terms of usage.
-
-Before proceeding, please ensure that the form is filled out correctly and that there is no duplication of effort, as it will lead to unnecessary complexity. Please check that all relevant parties have provided their necessary approvals before using this form.
-</thinking>
-
 # Acting School Marketing Consent Form - Help Guide
 ## Purpose
 This form is for students and their guardians to grant consent for the marketing and promotional use of their image, voice, and performance recordings by the Acting School.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # smart_thermostat_program_consent_form - Help Guide
 
 ## Purpose

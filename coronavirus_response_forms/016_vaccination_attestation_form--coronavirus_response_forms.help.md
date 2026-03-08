@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about a patient's vaccination history. The form is intended to be used by medical practitioners to collect attestation information from patients. The form will likely be used by healthcare organizations to track and verify vaccination records. To ensure that this form is being used correctly, please verify that it is relevant to your organization's use case and not a duplicate effort. If you're unsure, please reach out to your organization's relevant department for clarification.
-</thinking>
-
 # Vaccination Attestation Form - Help Guide
 ## Purpose
 The Vaccination Attestation Form is designed to capture information about a patient's vaccination history. This includes details about the patient's medical practitioner, vaccination dates, medical record numbers, and locations.

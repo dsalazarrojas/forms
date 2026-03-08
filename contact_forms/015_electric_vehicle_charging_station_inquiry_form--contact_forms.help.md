@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect inquiries from users regarding electric vehicle charging stations. It is a general inquiry form and should not be used for other purposes. Please ensure that you have reviewed the FAQs and have a clear understanding of the purpose of this form before submitting an inquiry. 
-</thinking>
-
 # Electric Vehicle Charging Station Inquiry Form - Help Guide
 ## Purpose
 The Electric Vehicle Charging Station Inquiry Form is designed to collect information from users regarding electric vehicle charging stations. This form is intended for users who have questions or need assistance related to charging stations, such as inquiries about station availability, charging options, or other related inquiries.

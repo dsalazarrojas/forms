@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to capture feedback from customers regarding their overall satisfaction with our products or services. The purpose of this form is to solicit feedback that will help us understand the strengths and weaknesses of our services. This form should only be completed by customers, and it is essential to have a valid email address for further correspondence. We also want to know the customer's name and contact phone number for follow-up purposes. 
-
-</thinking>
-
 # customer_feedback_survey_approval_form - Help Guide
 ## Purpose
 The **Customer Feedback Survey Approval Form** is designed to capture customer feedback on their satisfaction with our products or services. By providing your honest feedback, you will help us identify areas of improvement and deliver better services in the future.

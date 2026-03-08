@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a template for office policies, likely used for internal or external purposes. The purpose of the form is to collect information related to office policies, such as cancellation policies, financial responsibilities, offered services, payment terms, contact information, and phone numbers. The form does not require any specific input for its completion, implying that it is a general template for office policies that can be filled out based on actual office needs.
-
-There is no indication that this form is to be used for any specific business or industry, making it a general-purpose template. It's possible that this form is used by office managers or administrators to document and communicate office policies to employees or clients.
-
-Before starting, ensure that the office policies being documented are not already covered by existing company policies or procedures. This form should not be used for any policy that is already in place or has been previously communicated.
-
-</thinking>
-
 # Office Policy Template - Help Guide
 ## Purpose
 This template is designed to document and store office policies related to cancellations, financial responsibilities, offered services, payment terms, contact information, and phone numbers.

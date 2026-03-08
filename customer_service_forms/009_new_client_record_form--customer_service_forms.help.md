@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "New Client Record Form" form, I will analyze the provided YAML fields to understand its purpose and the fields included in the form. 
-
-The form seems to be designed for creating new client records, likely for a customer service or support team to manage client information. The form includes fields for general information like name, email, phone number, and address, as well as more specific fields like date of birth, time of birth, and client notes. There are also fields for assigning tools, which might be related to the service provided or the specific needs of the client. The form also includes fields for numerical values, like integers and decimals, which might be used for tracking or measurement purposes.
-
-Upon reviewing the form, I notice that some fields might be considered optional, but this could be subject to internal business logic or validation rules that are not explicitly stated. 
-
-</thinking>
-
 # New Client Record Form - Help Guide
 
 ## Purpose

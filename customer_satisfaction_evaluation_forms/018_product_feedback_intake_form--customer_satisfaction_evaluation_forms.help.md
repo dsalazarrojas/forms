@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on a product or service from customers. It allows them to express their satisfaction or dissatisfaction and provides space for them to elaborate on their experience. To ensure the feedback is useful, it's essential that customers fill out the form accurately and completely. Before starting, check that this form is relevant to your feedback and not a duplicate. If you have already submitted a similar feedback, you might not need to fill out this form.
-</thinking>
-
 # product_feedback_intake_form - Help Guide
 ## Purpose
 The product feedback intake form is designed to collect information from customers about their experience with a particular product or service. This form helps the product team understand customer satisfaction and identify areas for improvement.

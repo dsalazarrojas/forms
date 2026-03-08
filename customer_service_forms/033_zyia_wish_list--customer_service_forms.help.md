@@ -1,5 +1,3 @@
-<thinking>This form is designed to allow customers to create and manage their wish lists. Each field in the form has a specific purpose and requirement for completion. To prevent duplication and ensure accurate information is entered, we should verify that the form purpose is well understood by customers before they start filling it out.</thinking>
-
 # Zyia Wish List - Help Guide
 ## Purpose
 The Zyia Wish List form is used for customers to create and manage their wish lists. It is a tool to help customers organize and track their wishes.

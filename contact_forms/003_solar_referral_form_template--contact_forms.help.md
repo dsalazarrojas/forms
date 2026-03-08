@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The Solar Referral Form Template is used to collect information from customers or users about a referral they would like to make about a solar service. The form aims to gather essential details such as contact information, reasons for the referral, and preferences for the assigned solar tool. This form will likely be used by sales teams or customer success managers to track and follow up on referrals.
-
-</thinking>
-
 # Solar Referral Form Template - Help Guide
 
 ## Purpose

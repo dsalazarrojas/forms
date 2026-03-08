@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Yoga Waiver Form" to ensure that end-users understand its purpose and how to complete it correctly. This form is likely used for obtaining consent from individuals before they participate in yoga activities or classes. The form is likely used by yoga studios, gyms, or instructors to inform participants about potential risks and liabilities associated with yoga and to collect essential contact information in case of emergencies.
-</thinking>
-
 # Yoga Waiver Form - Help Guide
 ## Purpose
 This form is a mandatory document that you must complete before participating in yoga activities or classes. It's a legal requirement to provide your consent and contact information for emergency purposes.

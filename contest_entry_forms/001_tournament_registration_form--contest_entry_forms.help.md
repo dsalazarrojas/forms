@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "Tournament Registration Form" is to collect information from users to register for a tournament. This form is meant to gather essential details about the user's team, including the tournament name, team name, team size, player count, email address, phone number, date of birth, start date, end date, and address. The form is designed to be completed by team members or participants who want to register for a tournament.
-
-When registering for a tournament, please make sure to review this guide carefully to ensure you provide the correct information. If you're unsure about any field, feel free to ask for clarification.
-
-To avoid any duplication, please check the tournament registration list to see if your team is already registered. If your team is already registered, please do not complete this form.
-</thinking>
-
 # Tournament Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users to register for a tournament.

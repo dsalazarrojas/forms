@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used for tracking and managing customer orders. The purpose of this form is to collect relevant information about each customer order, including details about the order, customer information, and order status. The form might be used by customer service representatives or sales teams to record and update order information. This form should not be used for other purposes, such as creating new orders, as the fields suggest it is primarily for tracking and updating existing orders.</thinking>
-
 # Customer Order Form - Help Guide
 ## Purpose
 This form is used for tracking and managing customer orders, allowing customer service representatives or sales teams to record and update order information.

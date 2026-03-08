@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to register students for a course, specifically for a Lash Technician course. This form is used to collect information from students who are interested in enrolling in the course. The form is designed to gather details such as name, contact information, course preferences, and payment details.
-
-Before filling out this form, please ensure that you have read and understood the form's requirements. If you need to register multiple students, you can use this form multiple times. However, be aware that some information, such as course preferences, might not be duplicated across registrations.
-</thinking>
-
 # lash_technician_course_registration_form - Help Guide
 ## Purpose
 The lash_technician_course_registration_form is used to register students for a Lash Technician course. Fill out this form to provide your details and course preferences.

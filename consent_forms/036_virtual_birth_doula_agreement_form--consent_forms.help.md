@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a contract or agreement form for a Virtual Birth Doula service, which suggests it's used to outline the terms and conditions of a virtual doula's services, including their availability, contact information, and payment details. The form includes fields for both the doula's and client's information, such as names, emails, addresses, phone numbers, and dates. It also includes fields for payment status, support level, and agreement status, which implies that the form is used to track the progress and payment of the services. The form's fields and options suggest that it's intended for both the doula and client to sign and agree on the terms of the services. The purpose of this form is likely to establish a clear understanding between the Virtual Birth Doula and the client, ensuring that both parties are aware of their responsibilities and expectations. The form's design and structure seem to be based on standard business practices, but it's worth noting that the form's fields and options may need to be reviewed and updated to ensure they align with any relevant industry regulations and best practices.
-</thinking>
-
 # Virtual Birth Doula Agreement Form - Help Guide
 ## Purpose
 This form is used to establish a contract between a Virtual Birth Doula and a client. It outlines the terms and conditions of the services provided, including the doula's availability, contact information, and payment details.

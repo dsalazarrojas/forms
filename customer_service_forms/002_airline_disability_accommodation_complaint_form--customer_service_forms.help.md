@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture complaints from customers regarding disability accommodations issues during their travels with the airline. It's a crucial form to help the airline's customer service team understand the nature of the issue, gather details, and provide assistance to the customer. Before proceeding, please ensure this form is not a duplicate complaint and that you haven't already reported this incident to the airline. This form is for individual customers or their authorized representatives only.
-</thinking>
-
 # Airline Disability Accommodation Complaint Form - Help Guide
 
 ## Purpose

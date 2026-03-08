@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information from artists submitting their digital artwork for review, exhibition, or other purposes. The form asks for basic information about the artist, details about the artwork, and a usage consent from the artist. It also includes fields for the artist to sign and date their agreement, and an upload field for the artwork. The form does not collect any sensitive or personal identifiable information and is designed to be completed by the artist in a few minutes. To avoid duplication, please do not submit the same artwork multiple times.</thinking>
-
 # Digital Art Submission Use Consent Form - Help Guide
 
 ## Purpose

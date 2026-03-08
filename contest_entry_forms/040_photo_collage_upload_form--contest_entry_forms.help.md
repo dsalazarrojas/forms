@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect user input for a photo collage contest. The form will be used to gather information about the user's preferences and submission details. The goal is to ensure that users understand how to complete the form correctly and what each field is used for.
-
-To prevent duplication of effort, we should ensure that users understand the purpose and requirements of the form before proceeding.
-
-</thinking>
-
 # Photo Collage Upload Form - Help Guide
 ## Purpose
 This form is designed to collect user input for a photo collage contest. Users will be asked to provide information about their submission, including their input, uploaded photo, collage, and other relevant details.

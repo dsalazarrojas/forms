@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Injury Doctors Agreement - Help Guide
 ## Purpose
 This form is for recording the agreement between a patient and their doctor after a personal injury. It gathers information on the patient's name, doctor's name, and other relevant details to ensure accurate documentation of the medical treatment provided.

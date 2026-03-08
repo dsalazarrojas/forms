@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reporter And Announcer Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information from reporters and announcers for event coverage. It captures details about the reporter's and announcer's details, event details, and agreement terms.

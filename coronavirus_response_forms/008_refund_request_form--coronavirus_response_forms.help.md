@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Note:** This form is designed to facilitate customer refund requests. To ensure efficient processing, please only submit complete and accurate information. Duplicate requests may lead to delayed refunds or further investigation, which could negatively impact turnaround time. Before submitting, review the form to ensure all required information is provided.
-
-</thinking>
-
 # Refund Request Form - Help Guide
 ## Purpose
 The Refund Request Form is designed to allow customers to request a refund for a purchase made from our store. This form will help us process your refund request efficiently and accurately.

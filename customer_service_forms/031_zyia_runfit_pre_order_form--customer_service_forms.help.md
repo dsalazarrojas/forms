@@ -1,7 +1,3 @@
-<thinking>
-The form "zyia_runfit_pre_order_form" is designed to collect information from customers who are interested in purchasing a product or service related to fitness and running. This form is likely part of an e-commerce platform, and its purpose is to gather the customer's contact information for pre-order purposes. The form may be used for internal purposes only, such as generating sales leads or tracking potential customers. It's crucial that this form is used correctly to ensure accurate information and avoid duplication of efforts.
-</thinking>
-
 # zyia_runfit_pre_order_form - Help Guide
 ## Purpose
 The "zyia_runfit_pre_order_form" is designed to collect contact information from customers who are interested in purchasing a product or service related to fitness and running. This form helps the business gather potential sales leads.

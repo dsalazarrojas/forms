@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals seeking premarital counseling. The form aims to assess the current relationship status, communication style, and conflict resolution skills of the couple, as well as their expectations and goals for counseling. The form also inquires about their relationship background, spiritual practices, family history, relationship dynamics, relationship strengths and challenges, and their expectations for the counselor and partner. By gathering this information, the counselor can gain a deeper understanding of the couple's relationship and provide more effective guidance. This form is not a duplication of other forms, and its purpose is to provide a comprehensive assessment of the couple's relationship dynamics and needs.
-</thinking>
-
 # Premarital Counseling Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals seeking premarital counseling. The form aims to assess the current relationship status, communication style, and conflict resolution skills of the couple, as well as their expectations and goals for counseling.

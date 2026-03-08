@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain the purpose of the "Vendor Information Form" and how to complete it. The purpose of this form is to collect information about a vendor from their contact person. The form will ask for the vendor's name, contact email, contact phone number, physical address, website, any notes for the vendor, a reference image, and whether they are a vendor category. Please make sure that this form is only completed once per vendor and that the information is accurate and up-to-date.
-</thinking>
-
 # Vendor Information Form - Help Guide
 ## Purpose
 The Vendor Information Form is a form used to collect information about a vendor from their contact person. This form is essential for our internal records and communication with the vendor. Please ensure that each vendor has only one active entry in this form.

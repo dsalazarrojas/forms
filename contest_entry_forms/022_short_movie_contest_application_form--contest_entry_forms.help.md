@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to submit applications for a short movie contest. The form collects various information about the movie, including its title, genre, description, and contact details. The purpose of this form is to collect entries for the contest, which will be reviewed by the contest organizers. To avoid duplication, users are encouraged to ensure that their submission is unique and meets the contest requirements. Please ensure that you understand and agree to the contest rules before filling out this form.
-</thinking>
-
 # Short Movie Contest Application Form - Help Guide
 ## Purpose
 This form is for users to submit applications for a short movie contest.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a digital consultation form designed to gather information from clients or customers for a specific service or consultation. The purpose of this form is to collect contact information, details about the desired service, and scheduling details such as date and time. The form is intended to be completed by the client to initiate a consultation or appointment with a service provider.
-
-Before starting to complete this form, please ensure that you have not filled out this form in the past to avoid duplication of effort. This form is an original adaptation created by AI using public survey topic metadata and is released under CC BY 4.0 license. If you have any questions or concerns, feel free to contact form@gic.mx.
-
-</thinking>
-
 # digital_consultation_form - Help Guide
 ## Purpose
 This form is designed to gather information from clients or customers for a specific service or consultation.

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of effort, this help guide will focus on the specific form "Carbon Neutral Program Consent Form" under the "consent_forms" category. The purpose of this form is to gather participant information for the Carbon Neutral Program, a voluntary program that tracks and reports on carbon emissions. The program aims to reduce carbon footprint, educate participants on sustainability, and provide incentives for behavioral change. This form is crucial for participants to provide informed consent, understand program objectives, and agree to data collection and handling practices. To ensure a seamless experience, it is essential to read and understand each field carefully and complete the form accurately.
-</thinking>
-
 # Carbon Neutral Program Consent Form - Help Guide
 
 ## Purpose

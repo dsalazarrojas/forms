@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "mortgage_processing_permission_form" is to gather client consent for mortgage processing, share application information with others, and collect other relevant details such as lender information, contact details (email and phone number), and other parties involved. 
-</thinking>
-
 # mortgage_processing_permission_form - Help Guide
 ## Purpose
 This guide is designed to walk you through the process of completing the mortgage processing permission form.

@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Anytime Fitness Vaccine Exemption Declaration" form, I need to consider the form's purpose and the information it collects from users. This form is likely used to collect exemption requests from gym members who wish to declare that they do not need to be vaccinated against COVID-19 or other diseases. The form collects various pieces of information, including member name, membership ID, date of birth, email, phone number, facility location, and more. The form also requires acknowledgement and understanding of certain policies and risks associated with not being vaccinated.
-
-Before creating the final help guide, I would like to clarify a few things:
-
-* Is the "Medical exemption" option under "Type of exemption requested" a separate exemption type that can be filled out separately, or is it an umbrella term for other exemptions that may require additional documentation?
-* What is the expected format for the "date of birth" field? Is it a specific format (DD/MM/YYYY) or is it free text?
-* Is there a specific policy or guidance for what constitutes a "medical condition" in the "Medical provider documentation" field?
-* Should the "previous exemption" field be filled out for every other exemption type as well, or is it specific to "Medical exemption"?
-* Are there any other fields that require specific guidance or clarification?
-
-</thinking>
-
 # Anytime Fitness Vaccine Exemption Declaration - Help Guide
 ## Purpose
 The purpose of this form is to collect exemption requests from gym members who wish to declare that they do not need to be vaccinated against COVID-19 or other diseases.

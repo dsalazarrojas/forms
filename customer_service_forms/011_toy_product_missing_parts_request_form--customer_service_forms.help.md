@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to report missing parts for a toy product they purchased. The purpose of this form is to gather information about the missing parts, the reason for the request, and any additional information the customer would like to provide. This form should only be used by customers who are reporting missing parts for a product they have purchased from our company. If a customer has already submitted a report for the same product, please do not allow them to submit another report.
-</thinking>
-
 # Toy Product Missing Parts Request Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form template is intended to be used for collecting information from attendees and visitors of a town festival. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata as inspiration. The form is designed to be a general-purpose contact form that can be used for various town festival events, and can be modified or sold as is.
-To ensure the form is used correctly, please note that the form is not designed to handle sensitive information or critical business transactions. If you're unsure, please review the form carefully before proceeding.
-
-</thinking>
-
 # town_festival_contact_form_template - Help Guide
 ## Purpose
 The town_festival_contact_form_template is a contact form designed to collect information from attendees and visitors of a town festival. This form can be used to gather general feedback, questions, or other non-sensitive information about the event.

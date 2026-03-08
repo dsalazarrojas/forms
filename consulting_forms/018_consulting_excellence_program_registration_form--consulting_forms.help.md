@@ -1,10 +1,6 @@
 # Consulting Excellence Program Registration Form - Help Guide
 
 ## Purpose
-<thinking>
-The purpose of this form is to allow you to register for the Consulting Excellence Program. The form is designed to collect relevant information about you and your company to ensure that you are eligible for the program and to understand your needs and expectations. Please answer the questions carefully to ensure that your registration is accurate and complete.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, please follow these steps:

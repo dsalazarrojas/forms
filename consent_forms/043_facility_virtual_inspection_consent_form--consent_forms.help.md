@@ -1,9 +1,3 @@
-<thinking>
-This form is used by facility staff to provide consent for virtual inspections. To ensure this form is relevant and not duplicated, please confirm that:
-- The facility has not previously completed this form.
-- The facility has not already been inspected virtually.
-</thinking>
-
 # Facility Virtual Inspection Consent Form - Help Guide
 ## Purpose
 The Facility Virtual Inspection Consent Form is used to obtain consent from facility staff for virtual inspections. This form ensures that the facility staff is aware of and agrees to the terms and conditions of the virtual inspection.

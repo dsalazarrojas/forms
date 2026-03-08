@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # National Park Consulting Quotation Form - Help Guide
 ## Purpose
 This form is designed to help us gather information from potential clients interested in consulting services for their national park projects. By filling out this form, you will be able to request a quote for our consulting services and provide us with the necessary details to better understand your project needs.

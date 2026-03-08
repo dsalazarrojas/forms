@@ -1,12 +1,3 @@
-<thinking>... internal reasoning:
-This form is designed to collect information from clients regarding asset uploads, such as images, documents, and videos. It is likely used for internal purposes, such as project management or asset tracking. The form asks for the client's first and last name, email address, phone number, and other relevant details. It also inquires about the project name, type, and deadline, as well as the number and size of files to be uploaded. The form aims to ensure that clients understand the purpose of the upload, have the necessary rights, and provide clear instructions for the upload process.
-
-The client must confirm that they have the necessary rights to upload the assets and authorize their use for the specified project. The form also asks for the estimated size of the files and the priority level of the request. Additionally, it includes fields for special instructions and team members to be included in the upload process.
-
-The form checks for duplication and non-relevance by ensuring that clients provide accurate and complete information, and that the assets are suitable for the specified project and deadline.
-
-</thinking>
-
 # Client Asset Upload Form - Help Guide
 
 ## Purpose

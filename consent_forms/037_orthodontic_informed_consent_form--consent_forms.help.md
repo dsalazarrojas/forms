@@ -1,23 +1,4 @@
-> <thinking>
-To create a comprehensive help guide for the Orthodontic Informed Consent Form, we need to first understand the purpose of the form and its intended use. This form is designed to gather information about the patient's medical history, contact information, and treatment details, as well as obtain their consent for orthodontic treatment. The form also requires signatures from both the patient and the doctor, indicating their agreement to the treatment plan.
-
-The form is divided into several sections, each covering different aspects of the patient's information. The "Patient Info" section (id: 1) requests basic patient identification details, such as name and contact information. The "Contact Info" section (id: 2) allows patients to provide additional contact information.
-
-The "Treatment Details" section (id: 3) is where patients can enter the specifics of their treatment, including the type of treatment and any relevant medical history. The "Consent Terms" section (id: 4) outlines the terms of the treatment, including the potential risks and benefits.
-
-The "Patient Signature" section (id: 5) requires the patient to sign the consent form, confirming their agreement to the treatment plan. The "Doctor Signature" section (id: 6) requires the doctor to sign the form, indicating their agreement to the treatment plan.
-
-The "Date Signed" and "Time Signed" sections (id: 7 and 8) are where the patient and doctor sign the form, respectively. The "Date Given" and "Time Given" sections (id: 10 and 11) are where the doctor can indicate the date and time the form was given to the patient.
-
-The "Patient Notes" and "Doctor Notes" sections (id: 12 and 13) allow both the patient and doctor to add any additional comments or notes about the treatment. The "Signature Image" section (id: 14) requests a digital image of the patient's signature, and the "Patient Image" section (id: 15) requests a digital image of the patient.
-
-The "Date Completed" and "Time Completed" sections (id: 16 and 17) are where the doctor can indicate the date and time the form was completed. The "Doctor" section (id: 18) allows the doctor to select their name, and the "Doctor's Phone" and "Doctor's Email" sections (id: 19 and 20) allow the doctor to enter their contact information. The "Address", "City", "State", "Zip", and "Country" sections (id: 21-24) request the patient's contact information.
-
-The "Phone Number" section (id: 25) allows patients to enter their phone number, which may be useful for follow-up care.
-
-</thinking>
-
-# Orthodontic Informed Consent Form - Help Guide
+> # Orthodontic Informed Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information about the patient's medical history, contact information, and treatment details, as well as obtain their consent for orthodontic treatment.
 

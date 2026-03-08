@@ -1,8 +1,3 @@
-<thinking>
-This form template is designed to obtain consent from a client (Releasee) for a photographer or any other individual (Releasor) to use their photos or other content. The form aims to ensure that both parties have a clear understanding of the terms and conditions of use, including when the photo release will expire. This form template is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created by AI using public survey topic metadata.
-
-</thinking>
-
 # Permission To Use Photo Release Form Template - Help Guide
 ## Purpose
 This form template is designed to be used when a photographer (Releasor) wants to use photos of a client (Releasee) for promotional purposes or other uses. The client must give their consent for the use of their photos.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Housing Repair Program Access Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from a resident to access their housing repair program information. It is essential to fill out this form accurately and truthfully to ensure the resident's information is properly documented and to maintain the integrity of the housing repair program.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist customers in submitting their complaints and feedback related to our software product. The form is designed to be simple and easy to use, with fields that will guide the user through the complaint submission process. 
 
 The form is not required, and users are free to submit a complaint or feedback as they see fit. However, please note that the submitted feedback is essential for us to improve and resolve any issues they may have encountered with our software product.

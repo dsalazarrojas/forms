@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record information about client sessions, collecting details about the client's name, session date, session time, session duration, session type, session location, facilitator information, and other relevant details. This form is intended to be used by practitioners or counselors to document their work with clients. To fill out this form accurately, practitioners should have a good understanding of the client's background and session details. This form does not aim to duplicate information already available in the client's file or other records, but rather to supplement existing information with session-specific data. Practitioners are encouraged to fill out this form for each session, ensuring that the information is up-to-date and comprehensive.
-</thinking>
-
 # Client Session Record - Help Guide
 ## Purpose
 This form is used to record information about client sessions, including client details, session specifics, and facilitator information.

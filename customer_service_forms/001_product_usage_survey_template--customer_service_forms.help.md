@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "product_usage_survey_template" form, we first need to determine its purpose and the best way to complete it. Based on the provided YAML fields, here's a brief internal reasoning block:
 
 This form is intended to collect feedback or information from customers on their experience with a product. The form has four main fields, each serving a specific purpose:

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete the "Contact Form With Wooden Theme". This form is designed to be visually appealing and simple, making it accessible to a wide range of users. The form's purpose is to collect contact information and inquiries from guests, allowing the business to respond to their needs and provide them with the best possible experience. 
-
-Before proceeding, make sure to check if you have already completed this form. If you have, you can skip this guide. 
-</thinking>
-
 # Contact Form With Wooden Theme - Help Guide
 ## Purpose
 This form is designed to collect contact information and inquiries from guests to provide them with the best possible experience. Please answer the following questions to ensure we can respond to your needs efficiently.

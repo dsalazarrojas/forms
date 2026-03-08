@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the "Fashion Week Backstage Release Form" is to capture the information and consent of participants involved in a fashion event, such as Fashion Week. This form is used to ensure that participants are aware of and agree to the terms and conditions of their involvement, including the use of their image, likeness, and other personal details.
-
-Before completing this form, please ensure that you are a valid participant in the event and that you have not already submitted this form. If you are unsure, please contact the event organizers for clarification.
-
-</thinking>
-
 # Fashion Week Backstage Release Form - Help Guide
 
 ## Purpose

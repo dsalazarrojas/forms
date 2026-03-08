@@ -1,7 +1,3 @@
-<thinking>
-This form, titled "Customer Effort Score (CES) Survey", is designed to measure the effort customers expend when interacting with our service to achieve their goals. It's likely that this form will be used by customers to provide feedback on their experiences with our service. Before proceeding, please ensure that you are familiar with the survey context and are answering based on your actual experience with our service.
-
-</thinking>
 # customer_effort_score_ces_survey_template - Help Guide
 ## Purpose
 The Customer Effort Score (CES) Survey is a tool used to measure the effort customers exert when interacting with our service. It aims to identify areas of improvement and optimize the service experience.

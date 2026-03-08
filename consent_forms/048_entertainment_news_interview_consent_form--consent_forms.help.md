@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent from media professionals and interviewees for an entertainment news interview. The purpose of the form is to gather essential information for the release of a potential news story. This form ensures that both the media professional and the interviewee are on the same page regarding the terms of the release, including the type of consent, release date, release time, release period, and if consent was given. 
-</thinking>
-
 # Entertainment News Interview Consent Form - Help Guide
 ## Purpose
 The Entertainment News Interview Consent Form is a document that collects consent from both media professionals and interviewees for the release of a potential news story. This form is a crucial step in the process of publishing an interview, ensuring that all parties involved are aware of the terms of the release.

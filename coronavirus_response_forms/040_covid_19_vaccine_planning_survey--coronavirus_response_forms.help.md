@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the COVID 19 Vaccine Planning Survey form, designed to support healthcare facilities and organizations in preparing for the distribution and administration of COVID-19 vaccines. This form is meant to be filled out by facility administrators or designated contact persons to provide information about their facility's plans and preparations for vaccine distribution.
-
-Before completing this form, please ensure that you are filling it out for the correct facility or organization. If you are unsure, please contact your supervisor or facility administrator for guidance. Also, be sure to review the form for completeness and accuracy before submitting.
-
-This guide will walk you through each section of the form, explaining what information is required and how to provide it.
-
-</thinking>
 # COVID 19 Vaccine Planning Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your facility's plans and preparations for COVID-19 vaccine distribution. This information will help public health officials understand your facility's capacity and needs, and provide guidance and support to ensure successful vaccine deployment.

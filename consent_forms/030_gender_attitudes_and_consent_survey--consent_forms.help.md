@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on respondents' attitudes towards gender and their consent to certain actions. The purpose of this form is to gather information on gender identity, roles, and consent for research and analysis. The form will be used to identify and understand patterns and trends in respondents' attitudes and behaviors related to gender. It is recommended that users complete this form in one sitting and answer all questions honestly and to the best of their ability. This form is not intended for multiple completions, and responses will be considered valid only if they are filled out in one session.
-</thinking>
-
 # Gender Attitudes And Consent Survey - Help Guide
 ## Purpose
 The Gender Attitudes And Consent Survey is a form designed to collect data on respondents' attitudes towards gender and their consent to certain actions. The survey aims to gather information on gender identity, roles, and consent for research and analysis.

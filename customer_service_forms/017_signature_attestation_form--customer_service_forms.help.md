@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, it's essential to clarify that this form is designed to collect information for signature attestation purposes, which is a process where one person (signature requester) verifies or confirms the identity or authority of another person (signee). This form will help facilitate this process, ensuring accurate and up-to-date data. We will also assume that the form has been reviewed by the relevant authorities to ensure it captures all the necessary information without duplication or redundancy, making it a relevant and comprehensive resource for users.</thinking>
-
 # Signature Attestation Form - Help Guide
 
 ## Purpose

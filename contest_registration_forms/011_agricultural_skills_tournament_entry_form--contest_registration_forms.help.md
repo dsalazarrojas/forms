@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agricultural Skills Tournament Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from contestants who wish to participate in the Agricultural Skills Tournament. The form will be used to collect essential details about the contestant, including their name, age, contact information, and event categories they are interested in participating in. This information is crucial for event communications, team management, and accommodation planning.

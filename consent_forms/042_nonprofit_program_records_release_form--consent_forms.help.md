@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to capture personal information for the purpose of [briefly explain the purpose of the form, e.g., "To create a new user account" or "To update your profile information"].

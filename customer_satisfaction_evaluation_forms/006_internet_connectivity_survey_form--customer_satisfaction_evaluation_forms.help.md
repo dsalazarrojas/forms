@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their internet connectivity experience. The purpose of this form is to gauge the level of satisfaction with their internet connectivity, including speed, stability, and overall experience. The data collected will be used to help improve the internet services provided by the company.
-
-To ensure that the form is being completed correctly, please note that each field is marked as "optional" or "required" based on its importance in achieving the form's purpose.
-
-</thinking>
-
 # Internet Connectivity Survey Form - Help Guide
 ## Purpose
 The Internet Connectivity Survey Form is designed to collect information about customers' experiences with internet connectivity, including speed, stability, and overall satisfaction.

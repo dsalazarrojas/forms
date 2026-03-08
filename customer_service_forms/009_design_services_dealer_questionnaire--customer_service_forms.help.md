@@ -1,14 +1,3 @@
-<thinking>
-The Design Services Dealer Questionnaire is a form designed to collect information from dealers who offer design services. The form's purpose is to gather data about a dealer's offerings, preferences, and contact details in a standardized manner. This allows for efficient and streamlined communication with dealers, ensuring that all relevant information is collected uniformly.
-
-To prevent duplication of effort, it's essential to review the form's fields before proceeding, ensuring that you're not submitting duplicate information.
-
-This form is intended for dealers who offer design services. It's not for customers who are looking for design services or other types of services. Dealers who are not offering design services should not fill out this form.
-
-The form is divided into multiple pages, each with its own set of fields. This guide will walk you through each page and field, explaining its purpose and required information.
-
-</thinking>
-
 # Design Services Dealer Questionnaire - Help Guide
 ## Purpose
 The Design Services Dealer Questionnaire is a form designed to collect information from dealers who offer design services. Its primary goal is to gather data about a dealer's offerings, preferences, and contact details in a standardized manner.

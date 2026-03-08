@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect essential information for a citizenship application. Before proceeding, please ensure you have all required documents ready, such as identification, proof of income, and proof of address. This form is part of the application process for citizenship, so please fill it out carefully and accurately to avoid any potential issues. If you have previously submitted an application, please indicate this on the form.
-
-</thinking>
-
 # Citizenship Application Consent Form - Help Guide
 ## Purpose
 This form is part of the citizenship application process. It is used to collect necessary information from the applicant to verify their identity, address, and background. The information provided will be used to process your application for citizenship.

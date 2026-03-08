@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect contact information from customers or clients. It is typically used on a business's website to provide a simple way for people to get in touch with the business. The fields are designed to be easy to fill out and should not be required for most users.
-</thinking>
-
 # Simple Business Contact Form - Help Guide
 ## Purpose
 The Simple Business Contact Form is a tool used to collect contact information from customers or clients for a business. It is usually placed on a website and is intended to provide a straightforward way for visitors to contact the business.

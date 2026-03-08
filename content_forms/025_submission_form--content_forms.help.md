@@ -1,5 +1,3 @@
-<thinking>This form is used for submitting new content. Ensure you only fill out this form if you are submitting new content. If you are editing content, please use the "Edit Content" form.</thinking>
-
 # Submission Form - Help Guide
 ## Purpose
 This form is designed for submitting new content to be reviewed and approved. Please fill out this form accurately and completely to ensure your submission is handled correctly.

@@ -1,10 +1,3 @@
-<thinking>
-Before diving into the help guide, let's clarify the purpose and relevance of the Game Character Demo Consent Form. This form is designed to obtain consent from creators to use, display, and distribute their game character demos. The form is a crucial step in ensuring that creators' rights are respected, and their work is used appropriately. The form's main objective is to gather information that allows for the creation of game character demos, including details about the character, project, and event. It also aims to collect consent for the use, display, and distribution of these demos, which is essential for the project's progress and dissemination.
-
-To create the help guide, let's focus on the provided form structure and ensure that each field's purpose and requirements are clearly explained.
-
-</thinking>
-
 # Game Character Demo Consent Form - Help Guide
 ## Purpose
 The Game Character Demo Consent Form is designed to obtain consent from creators to use, display, and distribute their game character demos. This form is a crucial step in the game development process, ensuring that creators' rights are respected, and their work is used appropriately.

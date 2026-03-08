@@ -1,8 +1,3 @@
-<thinking>
-This form is a COVID-19 Vaccination Notice Form used to gather information about an individual's vaccination status, including their notice date, personal details, vaccination history, and vaccination card availability. This form is designed to be completed by individuals who have received a COVID-19 vaccination and need to provide documentation to fulfill various requirements such as employment, school, or travel purposes.
-
-Before creating this form, the team checked if there are existing forms for similar use cases. We are confident this form meets the necessary requirements for COVID-19 vaccination status documentation and will provide clear instructions on how to fill it out correctly.</thinking>
-
 # COVID 19 Vaccination Notice Form - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's COVID-19 vaccination status, including their notice date, personal details, vaccination history, and vaccination card availability. This form is used to provide documentation for various purposes such as employment, school, or travel requirements.

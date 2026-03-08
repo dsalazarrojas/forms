@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining a client's consent and liability release for laser COVID-19 treatment. The form is used to confirm that the client has read and understood the waiver before undergoing the treatment. The client's signature date and time are also collected to record the exact moment of consent. This form is a crucial document to protect both the client and the business providing the treatment. Ensure you understand the purpose of this form and its significance before completing it. Please review the client's information carefully to ensure accuracy and completeness.
-</thinking>
-
 # Laser COVID 19 Liability Release Waiver - Help Guide
 ## Purpose
 This form is used to obtain a client's consent and liability release for laser COVID-19 treatment. It confirms that the client has read, understood, and signed the waiver, which is essential for both the client's safety and the business providing the treatment.

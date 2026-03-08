@@ -1,9 +1,3 @@
-<thinking>
-This form is used by users to update their contact information. 
-It is a general contact form and does not serve any specific business logic or process. 
-The fields are self-explanatory, with the exception of "Assigned Tool" which is a field used to store a tool that a user may be using, not a field related to contact information.
-</thinking>
-
 # Update Contact Information Form - Help Guide
 ## Purpose
 This form is a general contact form used for users to update their information.

@@ -1,9 +1,3 @@
-<thinking>
-
-This is a help guide for the "Feature Recipe Release Form" used to collect information for publishing new recipes in the system. The form is designed to gather necessary details about the recipe, its image, and publishing settings. Before proceeding, please review the form fields carefully to ensure you fill out only what's required for your specific use case. It's also important to note that some fields are not required and can be filled out at your discretion.
-
-</thinking>
-
 # Feature Recipe Release Form - Help Guide
 ## Purpose
 The Feature Recipe Release Form is used to collect information about new recipes to be published in the system. This form helps ensure that all relevant details are captured accurately and efficiently.

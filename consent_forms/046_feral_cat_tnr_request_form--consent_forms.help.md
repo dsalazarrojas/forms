@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # feral_cat_tnr_request_form - Help Guide
 
 ## Purpose

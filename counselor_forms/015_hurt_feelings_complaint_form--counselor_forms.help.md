@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users who have experienced hurt feelings, whether it be from a personal or professional interaction. The purpose of this form is to provide a safe and confidential space for users to express their concerns and submit a complaint, if necessary. To complete this form, users should follow the steps below. Please note that while this form is designed for users to express their concerns, it is essential to ensure that the information provided is accurate and truthful.
-</thinking>
-
 # Hurt Feelings Complaint Form - Help Guide
 ## Purpose
 The Hurt Feelings Complaint Form is a confidential and safe space for users to express their concerns and submit a complaint, if necessary.

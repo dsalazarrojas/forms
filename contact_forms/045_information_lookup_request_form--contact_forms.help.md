@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users. The "InformationLookupRequestForm" is typically used to request information from an internal or external source. This form will be used by users to provide details about the information they are looking for, which will then be reviewed and processed by the relevant teams.
-To confirm, this form will be used for general information lookup requests. It is not designed for emergency or urgent matters.
-Before filling out this form, please ensure you have not already submitted a similar request. This will help avoid duplicating efforts and prevent unnecessary processing.
-</thinking>
-
 # InformationLookupRequestForm - Help Guide
 ## Purpose
 The "InformationLookupRequestForm" is a form used to collect information from users to facilitate internal or external information lookup requests.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from clients about their personal details, medical conditions, mental health history, and expectations from coaching services. This form will help coaches understand their clients' needs and goals, ensuring a tailored coaching experience. Please ensure you have filled out this form accurately and truthfully. If you have any previous coaching experience, please provide details. This form should only be filled out once, and any changes will void your previous submissions.
-
-</thinking>
-
 # Coaching Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about you and your expectations from coaching services. Please answer the questions as accurately and truthfully as possible. This information will help your coach understand your needs and goals.

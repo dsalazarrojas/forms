@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about users' marital status, relationship categories, and other related details. The purpose of this form is to provide a standardized way of collecting data on users' personal relationships, which can be used for research, analysis, or other business purposes. 
-
-Before proceeding, please ensure that the form is not a duplicate for you. If you are unsure, please consult with your supervisor or relevant department.
-
-</thinking>
-
 # Marriage Survey - Help Guide
 ## Purpose
 The Marriage Survey form is designed to gather information about users' marital status, relationship categories, and other related details.

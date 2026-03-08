@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to document and track the opening of a hotel, including the date and time of opening, location, and other relevant details. This form helps ensure that all necessary steps are taken to prepare the hotel for opening and that it meets all regulatory requirements. It also serves as a reference point for future audits and inspections. 
-
-</thinking>
-
 # Hotel Opening Release Form - Help Guide
 ## Purpose
 This form is used to record the opening of a hotel, including details about the hotel such as its name, location, and contact information.

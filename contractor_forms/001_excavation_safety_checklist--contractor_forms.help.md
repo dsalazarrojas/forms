@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by site supervisors to collect data on excavation site safety concerns, precautions, and equipment usage. The form should be used to ensure that the site has been properly assessed and prepared for excavation work. This form should only be used for excavation sites and not for other types of projects. It's also important to note that the form is not a comprehensive safety plan, but rather a checklist to help identify and record potential hazards and safety measures.
-</thinking>
-
 # Excavation Safety Checklist - Help Guide
 ## Purpose
 The Excavation Safety Checklist is a form used by site supervisors to collect data on excavation site safety concerns, precautions, and equipment usage. It helps to ensure that the site has been properly assessed and prepared for excavation work.

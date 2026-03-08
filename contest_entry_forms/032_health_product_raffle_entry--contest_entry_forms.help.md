@@ -1,8 +1,3 @@
-<thinking>
-This form is for customers to enter a raffle for a health product, and the goal is to collect information about the customer's demographic details, entry method, and agreement with terms and privacy policies.
-The form requires customers to provide their first name, last name, email, phone number, zip code, birth date, preferred product, entry time, method of entry, and agreement with terms and privacy policies. The form also asks about how the customer heard about the raffle, how they would like to be contacted, and their age, gender, and country of residence.
-To ensure accuracy, it's essential to fill out the form with the most up-to-date information to avoid any discrepancies that might affect the entry process.
-</thinking>
 # Health Product Raffle Entry - Help Guide
 ## Purpose
 This form is designed to collect information from customers to enter a raffle for a health product. It requires customers to provide their demographic details, entry method, and agreement with terms and privacy policies.

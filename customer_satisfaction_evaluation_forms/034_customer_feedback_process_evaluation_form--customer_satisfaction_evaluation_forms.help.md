@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to evaluate the customer feedback process. It's crucial that customers provide feedback to help us refine our service and improve their experience. This form aims to capture the customer's perspective on their satisfaction level and provide suggestions for improvement. Please ensure you are submitting feedback relevant to your recent interaction with our service and avoid duplicating existing feedback.
-</thinking>
-
 # Customer Feedback Process Evaluation Form - Help Guide
 ## Purpose
 The Customer Feedback Process Evaluation Form is a tool designed to gather valuable insights from customers about their experiences with our service. By providing your feedback, you'll help us identify areas for improvement and enhance our offerings to better meet your needs.

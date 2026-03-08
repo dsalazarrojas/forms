@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "Client Documentation Information Request Form" to assist end-users in understanding the form's purpose, how to complete it, and what each field means. This form is used to collect information from clients requesting specific documents, such as account statements, tax documents, or treatment records, for various purposes like personal records, tax preparation, or legal proceedings. The guide will walk users through the form's structure, providing clear explanations for each field to ensure accurate and complete information submission.
-</thinking>
-
 # Client Documentation Information Request Form - Help Guide
 ## Purpose
 The Client Documentation Information Request Form is used to gather information from clients requesting specific documents, such as account statements, tax documents, or treatment records. This form helps us understand their needs and provide the required documents efficiently.

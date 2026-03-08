@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from couples who are interested in booking a wedding cake consultation. The purpose of this form is to collect basic details about their event, such as the wedding date, location, and number of guests, as well as contact information and any additional message they may want to share with the wedding cake consultant. This information will help the consultant to better understand the couple's needs and preferences for their wedding cake. It's essential to ensure that the form is filled out completely and accurately to get the most out of the consultation.
-
-Before completing this form, please make sure you have not already provided the same information to us in the past. If you have, please do not fill out this form again. 
-</thinking>
-
 # Wedding Cake Consultation Form - Help Guide
 
 ## Purpose

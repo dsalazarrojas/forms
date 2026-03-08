@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for requesting maintenance or upkeep services for a spring pond. The form likely requires information such as the pond's size, depth, type, and location in order to schedule or assign the necessary tasks. It's likely that this form is used by a team or department within an organization that manages or maintains such facilities. The form's purpose is to collect relevant information to ensure that the maintenance tasks are performed efficiently and effectively. This form may be used in conjunction with other forms or systems for scheduling, tracking, or billing purposes. The form's fields likely correspond to different aspects of the spring pond's characteristics and requirements. This form may not be a one-time use form, but rather a recurring use form to schedule regular maintenance tasks.
-</thinking>
-
 # spring_pond_cleaning_request_form - Help Guide
 ## Purpose
 The spring pond cleaning request form is designed to collect information about a spring pond's characteristics in order to schedule or assign maintenance tasks. This form is used to ensure that the pond is properly cleaned and maintained.

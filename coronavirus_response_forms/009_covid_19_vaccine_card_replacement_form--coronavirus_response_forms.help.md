@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals who need a replacement COVID-19 vaccination card. The form is intended to gather personal and vaccination history details to facilitate the replacement process. 
-
-Please note that this form is not intended for individuals who are looking to obtain an initial vaccination card. The purpose of this form is solely for those who have already been vaccinated and require a replacement card due to loss, damage, or other reasons.
-
-Before filling out this form, ensure that you have not previously submitted a replacement request. If you have any questions or concerns, please contact the relevant authorities for assistance.
-
-</thinking>
-
 # COVID 19 Vaccine Card Replacement Form - Help Guide
 ## Purpose
 This form is used to request a replacement COVID-19 vaccination card due to loss, damage, or other reasons.

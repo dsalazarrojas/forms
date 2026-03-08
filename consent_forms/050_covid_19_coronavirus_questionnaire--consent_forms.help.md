@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 (CoronaVirus) Questionnaire - Help Guide
 
 ## Purpose

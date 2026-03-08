@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Inquiry Contact Form With Dark Theme - Help Guide
 ## Purpose
 This form is designed for customers to submit general inquiries or requests to your company. Fill out the form with your contact information and a brief message, and choose a category for your inquiry. Our team will respond to your message as soon as possible.

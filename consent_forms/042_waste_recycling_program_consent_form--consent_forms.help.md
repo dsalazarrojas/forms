@@ -1,16 +1,3 @@
-<thinking>
-This form is part of a waste recycling program, and its purpose is to collect participant information and consent for the program. This form is used to gather essential details about the participant, such as their name, contact information, and consent status. It's essential to complete this form accurately and truthfully to ensure that the participant is properly enrolled in the waste recycling program.
-
-Before proceeding, please ensure that you have all the necessary information and authorization to complete this form. If you're unsure about any part of the form, please refer to your organizational policies or contact the relevant authorities for clarification.
-
-This guide is intended to help you understand the form's sections and fields. Please read through it carefully before filling out the form.
-
-Please note that some fields are marked as required, which means that you must fill out that field. Other fields are optional and can be skipped if not applicable.
-
-Also, please ensure that you're using the correct format for dates (MM/DD/YYYY) when filling out the form.
-
-</thinking>
-
 # waste_recycling_program_consent_form - Help Guide
 ## Purpose
 The waste recycling program consent form is used to collect participant information and consent for the waste recycling program. It's a crucial document that ensures participants are properly enrolled in the program and aware of their obligations and responsibilities.

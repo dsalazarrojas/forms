@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mini-golf-hole-design-submission - Help Guide
 ## Purpose
 

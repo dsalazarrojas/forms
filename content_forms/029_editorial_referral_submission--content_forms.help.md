@@ -1,8 +1,3 @@
-<thinking>
-This form is for submitting editorial referrals to the editorial team. It is essential to ensure that each submission is unique and relevant to the editorial process. Before submitting, please verify that you have not previously submitted a similar referral. Duplicate submissions may delay the review process. Please make sure to fill in all required fields accurately and completely.
-
-</thinking>
-
 # Editorial Referral Submission - Help Guide
 ## Purpose
 This form is for submitting editorial referrals to the editorial team for review and consideration. It captures essential information about the referral, including the contributor's details, submission date, and content.

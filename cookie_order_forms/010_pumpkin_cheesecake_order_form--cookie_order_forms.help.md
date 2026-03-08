@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to place an order for pumpkin cheesecakes. The form is used to collect information about the customer, including their name, email, order details, and preferences for the number and type of pumpkin cheesecakes they want to order. The form is not intended for internal use and is primarily used for marketing and sales purposes.
-</thinking>
-
 # Pumpkin Cheesecake Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in placing an order for pumpkin cheesecakes. Please fill out the form with your details to ensure we can process your order correctly.

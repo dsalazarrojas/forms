@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from competitors who want to participate in the Butcher Competition. This form is used to register competitors for the competition, gathering their contact details, business information, and competition details. This guide will walk the user through the process of completing the form, explaining each field and its relevance to the competition registration process.
-</thinking>
-
 # Butcher Competition Registration - Help Guide
 ## Purpose
 The Butcher Competition Registration form is used to register competitors for the Butcher Competition. This form collects essential information from each competitor, including their contact details, business information, and competition details.

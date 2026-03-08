@@ -1,7 +1,3 @@
-<thinking>
-This form is for a character reference request, typically for employment, education, or other personal purposes. This form helps the requester gather information about the character being referred to, including their work qualities, character qualities, and relationship with the requester. The purpose of this form is to provide an official character reference for the character, which can be useful for various applications, such as job interviews, applications, or other personal endeavors. Before starting, check if you have already submitted a similar request for this character. If the character has a pre-existing relationship with you, or if you have already submitted a reference for them, you may not need to submit this form again.
-</thinking>
-
 # Character Reference Request Form - Help Guide
 ## Purpose
 This form is designed to help gather information about a character from a person who has a relationship with them. This form will be used for official character references, which can be submitted to various organizations or individuals for evaluation and consideration.

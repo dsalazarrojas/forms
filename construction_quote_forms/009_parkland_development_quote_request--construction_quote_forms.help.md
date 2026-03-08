@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a construction project, specifically for quote requests and project status updates. This form is intended for internal use within the organization, and the data collected will be used to generate a quote request and track project progress. It is crucial to ensure that the form is completed accurately and consistently to maintain data quality and enable informed decision-making.
-</thinking>
-
 # Parkland Development Quote Request - Help Guide
 ## Purpose
 This form is used to gather information necessary for generating a quote request for a construction project. It includes fields for contact details, project information, and site visit details.

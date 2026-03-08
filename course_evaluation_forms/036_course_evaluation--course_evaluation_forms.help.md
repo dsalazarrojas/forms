@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on courses, providing an assessment of their experience and opinions about the course content, quality, and overall value. The form is typically filled out by students or learners after completing a course. To avoid duplication and ensure accurate data collection, please make sure to use this form only for its intended purpose and not as a substitute for other evaluation tools or forms.
-
-Form completion is a straightforward process, but to get accurate results, please follow the instructions and provide detailed comments when necessary.
-</thinking>
-
 # Course Evaluation - Help Guide
 ## Purpose
 The Course Evaluation form is used to collect feedback from students or learners about their experiences with a course. This feedback is essential for the course creators to understand what works and what doesn't, helping them improve the course content and quality.

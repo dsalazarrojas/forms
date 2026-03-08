@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients about their background, experience, and consulting preferences. The form is designed to help the consulting team understand the client's needs and expectations before a consultation meeting.
-</thinking>
-
 # practice_launch_pre_consult_questionnaire - Help Guide
 ## Purpose
 This form is used to gather essential information about the client, including their background, experience, and consulting preferences. This information will help us better prepare for our consultation meeting and provide a personalized experience.

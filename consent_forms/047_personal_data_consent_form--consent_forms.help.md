@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Data Consent Form - Help Guide
 
 ## Purpose

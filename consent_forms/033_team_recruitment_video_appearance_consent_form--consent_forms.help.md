@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who will be featured in a team recruitment video. The purpose of this form is to obtain their consent to be filmed and potentially used in promotional materials. 
-This form is typically used for participants who are current or former students of specific schools or have worked with HR or marketing teams. The form ensures that participants are aware of how their appearance will be used and that they are providing their consent. This form is not meant to collect personal data but rather to document the participant's consent to use their image or voice in the video. The form is usually completed by participants after they have been informed about the purpose and use of the video.
-
-The form is designed to be completed by participants who have provided their consent, and their information will be stored in a database for future reference. This form is not intended for general public access and is only accessible to authorized personnel.
-
-This form should not be used for participants who are not aware of the purpose and use of the video. In that case, the form will likely be rejected or withdrawn.
-</thinking>
-
 # Team Recruitment Video Appearance Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the consent of participants to be featured in a team recruitment video. It is designed to ensure that participants are aware of how their appearance will be used and to document their consent.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from users to return to training. The purpose of this form is to collect information from users to ensure they are aware of and agree to the rules and guidelines associated with returning to training. The form is not a one-time activity and can be completed multiple times. It is intended to be filled out by users who are already familiar with the rules and guidelines, hence the option to select from a list of rules and guidelines. The form fields are designed to collect specific information from the user, such as their return date, the facilities they are returning to, and the staff they will be interacting with.
-</thinking>
-
 # return_to_training_consent - Help Guide
 ## Purpose
 This form is used to obtain consent from users to return to training, allowing them to confirm their understanding of the rules and guidelines associated with returning to the training program.

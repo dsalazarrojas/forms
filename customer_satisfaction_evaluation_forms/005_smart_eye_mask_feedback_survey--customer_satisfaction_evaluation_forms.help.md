@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended for end users who will be filling out the Smart Eye Mask Feedback Survey form. The form is designed to collect feedback from customers about their experience with the Smart Eye Mask product. 
-
-The form is used by our team to gather feedback on how well our customers like or dislike certain features of the product, how we performed in their eyes, and their overall satisfaction with the product. We will use this information to identify areas for improvement and make data-driven decisions to enhance the product and customer experience.
-
-Before starting this guide, it is assumed that the reader has access to the form and is familiar with its components. If you have any doubts or concerns about a specific field, please refer to the corresponding field in this guide for clarification.</thinking>
-
 # Smart Eye Mask Feedback Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about their experience with the Smart Eye Mask product, including what they like and dislike about it, how the company has performed, and their overall satisfaction ratings.

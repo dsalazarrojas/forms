@@ -1,5 +1,3 @@
-<thinking>Medical Aesthetic Procedures Delegation Form is a standardized document that captures the essential information related to medical aesthetic procedures, including provider and patient details, procedure specifics, and facility information. To ensure accuracy and consistency across different forms and contexts, it's crucial that only one instance of this form is used per provider and patient combination. If a duplicate is detected, an error will occur, so please be sure to fill out each field correctly and only once.</thinking>
-
 # Medical Aesthetic Procedures Delegation Form - Help Guide
 ## Purpose
 The Medical Aesthetic Procedures Delegation Form is designed to capture the essential information related to a medical aesthetic procedure, including the provider's and patient's details, procedure specifics, and facility information. This form serves as a standardized document to ensure accuracy and consistency across different forms and contexts.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Treatment Authorization Form - Help Guide
 ## Purpose
 This form is designed to collect information about medical treatments, including the treatment name, description, date, and cost, as well as the consent given by the subject. It is intended to be used in a medical setting to document and authorize medical treatments.

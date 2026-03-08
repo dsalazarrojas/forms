@@ -1,5 +1,3 @@
-<thinking>As a designer of user-facing forms, the goal is to create a clear and concise guide that helps users understand the purpose and usage of the Heavy Equipment Checklist form. The form is intended to capture essential information about heavy equipment, including its condition, maintenance status, and other relevant details. By using a step-by-step approach, the guide will cover the form's purpose, completion instructions, and field-by-field explanation to minimize confusion and errors.</thinking>
-
 # Heavy Equipment Checklist - Help Guide
 ## Purpose
 The Heavy Equipment Checklist form is designed to gather essential information about heavy equipment, including its condition, maintenance status, and other relevant details. This form is used to track and manage heavy equipment across various departments, ensuring accurate and up-to-date records.

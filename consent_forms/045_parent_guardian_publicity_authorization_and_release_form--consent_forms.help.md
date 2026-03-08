@@ -1,6 +1,3 @@
-<thinking>
-Is this form being used to collect authorization and release from a parent or guardian for a publicity-related activity or project? Please review the form fields to ensure they align with this purpose and are not redundant or unnecessary. Are these fields correctly configured for the intended use case? Is the form designed for multiple selections or single selections, considering the types of fields used (select_multiple and select_one)? Are all required fields truly necessary, or could some be optional to reduce burden on the end user?</thinking>
-
 # Parent Guardian Publicity Authorization And Release Form - Help Guide
 
 ## Purpose

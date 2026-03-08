@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide a clear and concise explanation of the Customer Gift Assistance Contact Form, its purpose, and each field's meaning. It will also include instructions on how to complete the form and offer tips for end-users. The form's purpose is to allow customers to inquire about gift options, such as gift cards or products, and provide information about their gift preferences. The form is divided into two pages: the first page is for general contact information, and the second page is for specific gift options. To ensure the form is completed accurately, end-users must fill out the required fields.
-</thinking>
-
 # Customer Gift Assistance Contact Form - Help Guide
 ## Purpose
 The Customer Gift Assistance Contact Form is a tool for customers to inquire about gift options and provide information about their gift preferences. It is designed to help the customer service team understand their gift needs and preferences to provide better assistance.

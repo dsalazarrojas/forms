@@ -1,12 +1,3 @@
-<thinking>
-This form is used to capture the acknowledgement of estate reviews from team leads, estate administrators, and office staff. It is essential that team leads, estate administrators, and office staff all confirm that they have reviewed and acknowledged the estate in question. This form ensures that all relevant parties are on the same page and have a record of the review.
-
-This form should only be filled out when the estate review has been completed and all parties involved have had the opportunity to review the estate. 
-
-Please review this form carefully to ensure all necessary parties have provided their acknowledgement. 
-
-</thinking>
-
 # Estate Review Acknowledgement Form - Help Guide
 ## Purpose
 The Estate Review Acknowledgement Form is used to capture the confirmation from team leads, estate administrators, and office staff that they have reviewed and acknowledged the estate in question.

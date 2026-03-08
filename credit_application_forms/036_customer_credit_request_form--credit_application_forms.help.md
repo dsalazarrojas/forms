@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to request credit, likely for a business purpose such as a loan or credit card application. The form is likely used by a company's finance or credit department to evaluate customer creditworthiness. To ensure accurate completion, please review the form carefully to avoid duplication of efforts. If you have already submitted a credit request form, please do not resubmit without consulting with the credit department first.
-</thinking>
-
 # Customer Credit Request Form - Help Guide
 
 ## Purpose

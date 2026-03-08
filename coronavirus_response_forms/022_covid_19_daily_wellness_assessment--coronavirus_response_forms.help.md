@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's physical, mental, and emotional well-being during the COVID-19 pandemic. The purpose of this form is to help individuals evaluate their current health status and identify any potential risks or concerns. The information collected will help inform decisions on whether an individual is cleared to attend work, school, or other activities.
-
-The questions in this form are intended to gather information on an individual's overall health, physical symptoms, exposure to COVID-19, mental and emotional state, and readiness to participate in activities. This form should not be used for diagnosis or treatment purposes, but rather as a self-assessment tool.
-
-Please note that this form is not intended to be a substitute for medical evaluation or advice. If you are experiencing symptoms or have concerns about your health, please consult a medical professional for guidance.
-
-</thinking>
-
 # COVID 19 Daily Wellness Assessment - Help Guide
 ## Purpose
 The COVID-19 Daily Wellness Assessment is a self-assessment tool designed to evaluate an individual's overall health and well-being during the COVID-19 pandemic.

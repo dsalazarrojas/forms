@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a customer registration form for Comfort Technology products, designed to gather various information from customers for different purposes, including product registration, contact preferences, and support options. To complete this form, users are likely customers who have purchased a Comfort Technology product and wish to register it for warranty coverage, receive updates and promotions, or inquire about support. Before filling out this form, it's essential to ensure that the product being registered is one of the listed Comfort Technology products, as specified in the "Product Name" field. 
-
-The form is divided into several sections, each with a distinct purpose: Product Registration, Contact Preferences, Support Options, and Technical Details. To complete the form, users will need to fill in their personal details, product information, and preferences. 
-
-Please note that some fields are required, marked as 'true' in the YAML definition, and must be completed for the form to be valid. Others are optional and can be left blank unless the user wishes to provide additional information. 
-
-Below is a step-by-step guide to help users complete the form:
-
-</thinking>
-
 # Comfort Technology Registration Form - Help Guide
 ## Purpose
 The Comfort Technology Registration Form is designed to gather information from customers for product registration, contact preferences, and support options. Completing this form will help us understand your product usage, provide you with relevant updates and offers, and ensure you receive warranty coverage.

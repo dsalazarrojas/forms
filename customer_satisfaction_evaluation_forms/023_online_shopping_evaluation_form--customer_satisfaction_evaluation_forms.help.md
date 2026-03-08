@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect feedback from customers on their experience with our online shopping platform. This form is meant to gather information on various aspects of their visit, including their shopping experience, product quality, customer service, website usability, communication, return policy, and overall rating. This form will help us identify areas for improvement and make data-driven decisions to enhance our customers' experience. Please fill out this form to provide your honest feedback. ...</thinking>
-
 # Online Shopping Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on your experience with our online shopping platform. Your input will help us identify areas for improvement and make data-driven decisions to enhance your shopping experience.

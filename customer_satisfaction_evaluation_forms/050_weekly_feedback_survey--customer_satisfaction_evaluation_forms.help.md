@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from customers regarding their overall experience with our company. It is meant to be completed on a weekly basis to help us understand how we're doing and identify areas for improvement. 
-
-This form should not be completed by customers who have not interacted with our company in the past week. If you have already submitted feedback, please do not resubmit. Please ensure that you are submitting feedback under the correct category and that you are honest in your responses. 
-
-The data collected through this form will be used to inform business decisions and improve our services.
-
-</thinking>
-
 # weekly_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from customers regarding their overall experience with our company on a weekly basis.

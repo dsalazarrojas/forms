@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect acknowledgment from employees regarding the company's social media policy. It is essential to fill out this form accurately to ensure that employees understand and agree to the policy's terms and conditions. Before proceeding, please ensure you have read and understood the social media policy document, which is not provided within this form.
-
-Please note that this form is a one-time acknowledgment, and you are only required to fill it out once. If you are unsure about any part of the form, please consult your supervisor or the HR department for clarification.
-</thinking>
-
 # Social Media Policy Acknowledgment Form - Help Guide
 
 ## Purpose

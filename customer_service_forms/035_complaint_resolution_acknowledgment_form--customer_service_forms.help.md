@@ -1,5 +1,3 @@
-<thinking>This form is designed to be filled out when a complaint has been resolved and the customer is satisfied with the resolution. It helps in acknowledging the acknowledgment date, tracking the complaint resolution process, and providing feedback about the handling and communication of the complaint. The purpose of this form is to ensure that the customer feels heard and satisfied with the resolution, and it helps in improving our service quality and communication with our customers.</thinking>
-
 # Complaint Resolution Acknowledgment Form - Help Guide
 
 ## Purpose

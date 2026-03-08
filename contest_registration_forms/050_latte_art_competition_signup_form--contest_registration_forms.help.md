@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # latte_art_competition_signup_form - Help Guide
 
 ## Purpose

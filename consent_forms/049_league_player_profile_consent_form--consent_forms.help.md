@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect the consent of a league player, which is a key part of maintaining the league's data integrity and ensuring players are aware of their responsibilities. Ensuring the player's consent is required for their information to be stored and processed. The fields in this form are designed to collect necessary details without being overly cumbersome. The emergency contact information is collected in case of an emergency and the consent section ensures the player understands their involvement and responsibilities. The player profile form is a mandatory part of the onboarding process for league players. There is no duplication of form fields and the form purpose is clearly defined. This form's fields are designed to be completed quickly and efficiently.
-</thinking>
-
 # League Player Profile Consent Form - Help Guide
 ## Purpose
 The League Player Profile Consent Form is used to collect the essential information from league players, ensuring they are aware of their involvement and responsibilities within the league. This form is a mandatory part of the onboarding process for new players.

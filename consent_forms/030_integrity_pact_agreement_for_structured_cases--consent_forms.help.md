@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain the integrity-pact-agreement-for-structured-cases from individuals who will be accessing structured cases. This form ensures that the individual has read and understood the agreement and has the necessary authority to sign on behalf of their organization. This form is a crucial step in the structured case process to ensure compliance and data integrity.
-The form should not be completed if the individual has already signed a similar agreement in the past 30 days or if the individual is not authorized to sign on behalf of their organization.
-</thinking>
-
 # integrity-pact-agreement-for-structured-cases - Help Guide
 ## Purpose
 This form is used to obtain the integrity-pact-agreement-for-structured-cases from individuals who will be accessing structured cases.

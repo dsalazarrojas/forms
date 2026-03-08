@@ -1,7 +1,3 @@
-<thinking>
-We should first understand what this form is intended to do: it's used to collect online donation transaction data while obtaining the consent of the donor to use and share their data. This form likely aims to comply with regulations and ensure transparency with donors, but we may want to ensure that the form is not being duplicated elsewhere or serving a different purpose within the organization. Let's consider the context and the fields presented to create an accurate and clear user-facing guide.
-</thinking>
-
 # Online Donation Transaction Data Consent Form - Help Guide
 
 ## Purpose

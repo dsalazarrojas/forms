@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information and agreements from students and staff when enrolling in courses. The form's purpose is to collect the terms of the course, a brief description of the course, student details, and signatures from both the student and staff. This form should only be used for educational purposes and is not affiliated with any proprietary form platforms. Its creation is based on public survey topic metadata and is released under CC BY 4.0. If you wish to use, modify, or sell this form, please credit its original creators. For more information or collaboration, contact form@gic.mx.
-
-</thinking>
 # course_enrollment_contract_form - Help Guide
 ## Purpose
 The course_enrollment_contract_form is a tool used to collect essential information and agreements from students and staff when enrolling in a course. It helps to ensure a smooth and transparent enrollment process.

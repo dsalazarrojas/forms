@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to submit questions or requests to the customer support team. This form will help us understand their queries and provide a clear and efficient way for them to get in touch with us. To avoid duplication, we encourage customers to only submit new questions or requests, and not to reuse or rephrase existing ones.
-</thinking>
-
 # Submit Your Questions Or Requests - Help Guide
 ## Purpose
 This form is designed to provide a channel for customers to submit their questions or requests to the customer support team. It allows customers to get help and support on various topics, including Support, General Inquiry, and Other categories.

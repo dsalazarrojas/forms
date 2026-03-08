@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate_social_responsibility_quotation_form - Help Guide
 
 ## Purpose

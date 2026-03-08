@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from parents or guardians to help filter and match students to suitable classes within the school system. The form aims to collect details about the student's name, contact information, academic needs, and preferences for class structure, teachers, and learning style. The form will be used by school administrators to understand the needs and requirements of the students and their families, ensuring a smooth and personalized enrollment process. This form is part of a broader effort to improve the quality of education and provide support to students with special needs.
-</thinking>
-
 # Class And Teacher Filter Form - Help Guide
 ## Purpose
 This form is designed to gather information from parents or guardians to help filter and match students to suitable classes within the school system.

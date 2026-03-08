@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to provide a user-friendly explanation of the "dat_trainee_survey" form, which is part of the "counselor_forms" category. The form is likely used to collect information from trainees, possibly for training, assessment, or survey purposes.
-
-The form consists of 15 fields, including text inputs, date and time selections, and dropdown menus. The fields are organized into a few categories, such as personal details (First Name, Last Name, Email, Phone), demographic and behavioral information (Date of Birth, Date of Survey, Select One, Select Multiple), and additional details (Note, Assigned Tool, Note Content, Date of Last Visit, Time of Last Visit).
-
-This guide is designed to help users understand the purpose of each field and provide practical tips for filling out the form. Please note that some fields have weak or unclear labels, which are explained to the best of the guide's understanding without inventing unsupported business logic.
-
-</thinking>
-
 # dat_trainee_survey - Help Guide
 ## Purpose
 The dat_trainee_survey form is used to collect information from trainees, possibly for training, assessment, or survey purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to claim service downtime and request compensation. Before proceeding, please ensure that the service is actually down and that you haven't already submitted a claim for the same issue. 
-</thinking>
-
 # Hosting Service Downtime Claim Form - Help Guide
 
 ## Purpose

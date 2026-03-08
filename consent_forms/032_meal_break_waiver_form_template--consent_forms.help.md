@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from employees for meal breaks. This is an internal process to keep track of meal breaks for employees, ensuring that they can take their scheduled breaks without any issues. It's essential to fill out this form accurately and completely to ensure that the employee's consent is valid.
-</thinking>
-
 # Meal Break Waiver Form Template - Help Guide
 ## Purpose
 This form is designed to record an employee's consent for meal breaks. Completing this form helps you to keep track of meal breaks and ensures that your consent is valid.

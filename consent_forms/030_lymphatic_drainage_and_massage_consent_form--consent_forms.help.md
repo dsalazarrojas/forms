@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients regarding their consent for lymphatic drainage and massage procedures. This form is designed to ensure that clients understand and agree to the process, risks, and benefits of lymphatic drainage and massage.
-</thinking>
-
 # Lymphatic Drainage And Massage Consent Form - Help Guide
 ## Purpose
 The Lymphatic Drainage And Massage Consent Form is a document that clients must complete to provide their consent for lymphatic drainage and massage procedures. This form ensures that clients are aware of the process, risks, and benefits of the treatments and are able to provide informed consent.

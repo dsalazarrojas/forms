@@ -1,11 +1,3 @@
-<thinking>
-The form is designed for the approval process of university courses, specifically for submitting and managing course curricula. It is meant for instructors and committee members to provide feedback and approval status for courses. The form ensures the collection of necessary information for course registration and approval.
-To ensure a smooth and efficient process, please note that:
-* All required fields must be filled out.
-* Select "Committee Members" and "Committee Chair" fields should be completed if committee feedback is necessary.
-* The "Approval Status" field should reflect the final approval decision.
-</thinking>
-
 # University Course Curriculum Approval Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information from users who want to place an order for a specific product. This form is designed to collect relevant details such as the requester's name, contact email, product ordered, quantity, and payment method. The form also includes optional fields for billing and shipping addresses and desired delivery date.
-</thinking>
-
 # Color Street Order Request - Help Guide
 ## Purpose
 This form is used to place an order for a product at Color Street.

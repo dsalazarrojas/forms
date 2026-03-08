@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of a teaching method used in educational settings. It is intended to gather feedback from educators, training teams, and administrators on the teaching method's strengths and weaknesses, as well as its overall effectiveness. This form should not be filled out if you have already completed it for the same teaching method in the past, as it is meant to be a one-time assessment.
-</thinking>
-
 # educationTeachingMethodEffectivenessAssessment - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the effectiveness of a teaching method used in educational settings. It is intended to help identify areas of improvement and best practices.

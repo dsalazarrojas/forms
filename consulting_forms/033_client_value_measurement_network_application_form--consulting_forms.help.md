@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is completed for the right purpose and not duplicated. This form is intended for individuals interested in joining the Client Value Measurement Network. They should be able to provide personal and professional information to help us understand their fit with the network. To avoid duplication, we will check if the user has already filled out this form before submitting it again.
-</thinking>
-
 # Client Value Measurement Network Application Form - Help Guide
 
 ## Purpose

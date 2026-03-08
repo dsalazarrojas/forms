@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to create a comprehensive overview of a course curriculum. This form is used to gather important details about the course, such as its title, description, outcomes, requirements, and instructor information. Before filling out this form, please ensure that you have all the necessary information ready, and make sure you are not duplicating existing course curricula.
-
-</thinking>
-
 # Course Curriculum Overview - Help Guide
 ## Purpose
 The Course Curriculum Overview form is used to create a detailed summary of a course, including its title, description, outcomes, and instructor information. This form helps ensure that all relevant details are captured, making it easier to review and compare courses.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for individuals to apply for an annuity, a type of financial product that provides a steady stream of income for a set period or for life. To avoid duplication and ensure accurate information, please review this form carefully before completing it. 
-
-This form is intended to gather information about the applicant, their financial situation, and their preferences regarding the type of annuity they are interested in. The answers provided will be used to assess their eligibility for different types of annuities and to determine the suitability of the annuity for their specific needs.
-
-Please note that some fields are marked as required, which means that they must be filled in for the application to be processed. Other fields may be optional, but providing accurate information in these fields can help to provide a more complete picture of the applicant's situation and preferences.
-
-Before starting, take a few minutes to read through this guide to understand the questions and the purpose of each section.
-
-</thinking>
-
 # Annuity Application Form - Help Guide
 
 ## Purpose

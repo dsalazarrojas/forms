@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be filled out by project managers or team leads to submit information about a film restoration project to the Film Restoration Project Application Form. This form will help ensure that all relevant data is captured and submitted correctly. Before proceeding, please ensure you are submitting a new project and not a duplicate or updated submission. 
-</thinking>
-
 # Film Restoration Project Application Form - Help Guide
 ## Purpose
 The purpose of this form is to provide detailed information about a film restoration project. Fill out this form carefully to ensure accurate and comprehensive data submission.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to report laundry service issues and request a refund. The form is designed to collect relevant information from the customer, including the service issue, their name, contact number, refund reason, and email. This form helps us to quickly identify and resolve any issues related to the laundry service and provide a refund to the customer if necessary.
-</thinking>
-
 # Laundry Refund Form - Help Guide
 ## Purpose
 The laundry refund form is used to report any issues with our laundry service and request a refund.

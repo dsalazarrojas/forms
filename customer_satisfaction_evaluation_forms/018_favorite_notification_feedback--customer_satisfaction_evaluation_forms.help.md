@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the internal reasoning for this form, let's analyze the form structure and fields. The form is called "favorite_notification_feedback" and it consists of 13 fields, all of which are either selection or text fields. There are no conditional fields or fields that rely on other fields. The fields are categorized into no specific groups, and the only hint provided is null for all fields. Based on this structure and fields, the form seems to gather information about customer preferences, feedback, and ratings related to favorite notifications or services. The form might be used by customers or users to provide their input on the quality of the services they have received.
-
-Before you start the form, please note that some fields might be optional and not all options might be relevant to everyone. Please fill in the required fields and provide your feedback and rating based on your experience. If a field is marked as optional, you can skip it if you don't feel it's relevant to your experience.
-
-</thinking>
-
 # Favorite Notification Feedback - Help Guide
 ## Purpose
 This form is used to gather feedback and ratings from customers or users regarding their favorite notifications or services. It helps us to understand what you like or dislike about the notifications and services we provide.

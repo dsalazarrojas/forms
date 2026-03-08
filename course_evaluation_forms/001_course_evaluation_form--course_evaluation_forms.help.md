@@ -1,17 +1,3 @@
-<thinking>As the form designer and technical writer, I'll first provide the internal reasoning for this form purpose and checks for relevance and non-duplication before creating the final user-facing help guide.
-
-This form is designed to collect feedback and evaluations from students about their experience in a course. The purpose of this form is to gather information about students' satisfaction, engagement, and overall experience with the course content, instructors, materials, and organization. It is essential to ensure that this form is not duplicated or redundant, and the fields are correctly aligned with the course evaluation goals.
-
-The form is structured to collect both single and multiple-choice answers, allowing students to express their opinions and experiences in a clear and concise manner. The fields are organized into sections, making it easier for students to navigate and provide detailed feedback.
-
-To complete this form, the student should start with the introduction, which provides a brief overview of the course and its objectives. Then, they will move on to the satisfaction rating section, where they can rate their overall satisfaction with the course.
-
-The students will then proceed to the evaluation sections, where they can select their level of satisfaction or agreement with specific aspects of the course, such as course instructors, materials, content, organization, and relevance. They will also be able to provide additional comments or suggestions for improvement in the recommendations for improvement section.
-
-Finally, the students will be able to express their overall satisfaction and provide any additional comments or evaluations in the student satisfaction and course evaluation sections.
-
-In this guide, we will break down each section and field, providing a clear explanation of what each field means and how to complete it correctly.</thinking>
-
 # Course Evaluation Form - Help Guide
 
 ## Purpose

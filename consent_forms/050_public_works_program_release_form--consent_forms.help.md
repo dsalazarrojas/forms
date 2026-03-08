@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information about a participant's involvement in a public works program, specifically to obtain their consent for a specific program start and end dates. This form is likely used in a public works or infrastructure development context, where participants are engaged in projects that involve risks such as construction, excavation, or other potentially hazardous activities.
-</thinking>
-
 # Public Works Program Release Form - Help Guide
 ## Purpose
 This form is used to gather essential information from participants in public works programs, ensuring their consent and details about their involvement in these projects.

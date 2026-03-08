@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for participants to provide their consent for a clinical trial. The form captures essential information about the participant, including their name, the clinical study title, and the lead researcher's name. It also includes sections for acknowledgement of the study's information sheet, opportunities to ask questions, and understanding of the study's risks and benefits. Additionally, the form includes sections for consent related to biological sample collection and storage, communication, and result summaries.
-
-This form is intended for use in a research environment and is designed to be completed by the participant or their legal representative. The form's sections are designed to provide a clear and transparent process for obtaining informed consent, as required by research regulations and ethics guidelines.
-
-To ensure that the form is used correctly and consistently, it is essential to understand the purpose and requirements of each section.
-
-The form's design and content are based on standard practices in the clinical trials industry.
-
-Please note that this form is a general template and may need to be adapted to specific study requirements and local regulations.
-
-It is recommended that the form is reviewed and understood by all personnel involved in the study before use.
-
-</thinking>
-
 # Clinical Trial Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from participants in a clinical trial. It is intended to be completed by the participant or their legal representative to ensure that they understand the study's purpose, risks, and benefits.

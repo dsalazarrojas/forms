@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coast Guard Medical Clearance Form - Help Guide
 
 ## Purpose

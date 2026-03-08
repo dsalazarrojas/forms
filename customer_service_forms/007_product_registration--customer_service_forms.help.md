@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for customers to register their products, providing essential information about their products, including product details, customer and contact information, order details, and product image. This form helps us ensure that we have accurate records of our customers' products and can provide them with the best possible support. Please fill out this form only for products that you have not already registered with us.
-
-Please note that this form is designed for new product registrations, not for editing or updating existing registrations.
-</thinking>
-
 # Product Registration - Help Guide
 ## Purpose
 The Product Registration form is a crucial tool for customers to provide us with the necessary information about their products. This form helps us keep accurate records of our customers' products, enabling us to offer the best possible support and services.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for collecting editable consent from individuals, specifically for Covid-19 related purposes.
-The form likely serves as a template for obtaining permission or agreement from clients or patients, allowing them to confirm their understanding and acceptance of certain terms or conditions related to Covid-19.
-The form's purpose is to gather relevant information, including client details, Covid-19-specific information, and other essential data. 
-The form fields are designed to be filled in by clients or patients, with some fields being required to ensure completeness.
-</thinking>
-
 # Editable Covid-19 Consent - Help Guide
 ## Purpose
 This guide explains the purpose and usage of the Editable Covid-19 Consent form.

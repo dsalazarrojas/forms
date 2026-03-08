@@ -1,31 +1,3 @@
-<thinking>
-This form is used for clients to provide consent for lash extensions and other lash-related services. It is a crucial document that ensures clients understand and agree to the terms of their service.
-
-Before proceeding, please ensure that you have reviewed and understood the contents of this form thoroughly. If you have any questions or concerns, please discuss them with your lash technician or manager before signing.
-
-This form is not intended to be a duplicate of the client's medical history form, but rather a separate document that captures specific information relevant to lash services.
-
-The following fields are required to be filled in by the client:
-
-* Client Consent: A statement of the client's agreement to the terms of their service.
-* Medical Clearance: A confirmation that the client has received clearance from a medical professional before receiving lash services.
-* Allergic Reactions: A statement of any allergic reactions the client has experienced related to lash services.
-* Lash Extensions Previously Worn: A confirmation of any previous lash extensions the client has worn.
-* Lash Technician Signature: A date and time stamp of the lash technician's agreement to perform services.
-* Client Signature: A date and time stamp of the client's agreement to receive services.
-* Date of Service: A confirmation of the date and time of the service.
-* Client Name: The client's name and contact information.
-* Lash Technician Name: The name of the lash technician performing the service.
-* Date: A confirmation of the date of the service.
-* Time: A confirmation of the time of the service.
-* Location: The location where the service is being performed.
-* Contact: Emergency contact information.
-* Email: The client's email address.
-* Medical Notes: Any relevant medical information related to the service.
-
-Please ensure that all required fields are filled in accurately and thoroughly. This form serves to protect both the client and the service provider.
-</thinking>
-
 # lash_extension_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to obtain client consent and collect relevant information for lash extension services.

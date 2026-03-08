@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow clients to request a package consultation from a service provider. The form will be used to collect information about the client's needs and preferences in order to facilitate a consultation with a suitable provider.
-Before filling out this form, please ensure that the client's request is not a duplicate. If the client has already submitted a request with the same name and email, please do not submit a new request.
-</thinking>
-
 # Package Consultation Request Form - Help Guide
 ## Purpose
 This form is designed to help clients request a consultation with a service provider. The goal is to collect essential information about the client's needs and preferences to match them with the best-suited provider.

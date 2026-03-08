@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect online consumer complaints and demands from customers. It is used to create a record of customer interactions with the business. The form is likely used by customer service agents to track and resolve issues raised by customers. Before starting, please ensure you have not already submitted this form with the same complaint or demand. If you have previously submitted a similar issue, please refer to the relevant ticket or contact the customer service team to check the status of your previous submission.
-</thinking>
-
 # online-consumer-complaint-and-demand-form - Help Guide
 ## Purpose
 This form is used to create a record of online customer complaints and demands, helping our customer service team to track and resolve issues efficiently.

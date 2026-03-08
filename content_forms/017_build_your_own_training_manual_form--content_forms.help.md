@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help users create their own training manual for new or existing staff, contractors, or customers. It's intended for use in an organizational setting, likely within a company or institution, to document procedures, best practices, and other relevant information for onboarding or ongoing training purposes. 
-
-The form should be filled out by a user who wants to create a comprehensive training manual that meets their specific needs and goals. The form will guide the user through the necessary steps to create a well-structured and effective manual. 
-
-The form is not a one-size-fits-all solution and may need customization for specific situations or use cases. It's likely that this form will be used by HR, training managers, or other personnel responsible for onboarding new staff or creating training materials. 
-
-It's also worth noting that this form seems to have been designed with an in-person or face-to-face setting in mind, as it includes fields like "Manual Creator Name" and "Department", but it could also be used online or remotely.
-</thinking>
-
 # Build Your Own Training Manual Form - Help Guide
 ## Purpose
 This form is designed to help you create a comprehensive training manual tailored to your specific needs and goals.

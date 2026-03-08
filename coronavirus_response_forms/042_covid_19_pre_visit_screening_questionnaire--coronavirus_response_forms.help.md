@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from visitors to help healthcare professionals assess the risk of COVID-19 transmission and take necessary precautions to ensure a safe environment for everyone. The form is not intended for diagnosis or treatment purposes, but rather as a pre-visit screening tool to help identify potential risks associated with COVID-19. Please ensure that you are not duplicating this form for visitors who have already completed it previously.
-</thinking>
-
 # COVID 19 Pre Visit Screening Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather information from visitors to help assess the risk of COVID-19 transmission and ensure a safe environment for everyone.

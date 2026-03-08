@@ -1,18 +1,3 @@
-<thinking> 
-This form is designed to gather consent and information from guests who will be participating in a podcast about chronic illnesses. The form is intended to ensure that guests understand the purpose and scope of the podcast, as well as their rights and responsibilities as participants. The form will help to establish a clear understanding of what will be discussed, how it will be recorded and distributed, and what guests can expect from the experience.
-
-The form is also designed to be user-friendly and easy to understand, with clear labels and instructions for each field. The guest will be required to provide their full name, email address, phone number, and preferred name for use on the podcast. They will also be asked to provide information about their chronic condition, how long they have been diagnosed, and their comfort level with sharing their story.
-
-The guest will be required to give consent to be recorded and to have their voice broadcast, as well as to allow the podcast to use their name and share their story with various platforms. They will also be asked about their compensation expectations and if they want to provide social media handles or a website or blog link to be shared.
-
-The form is designed to be comprehensive, but it is also designed to be clear and concise. Guests will be able to review and understand each section before submitting the form.
-
-Before submitting, guests will be required to read and agree to the rights and liabilities section, which includes understanding that they retain their story rights, can revoke their consent at any time, and that they are certifying that they are 18 or older.
-
-Finally, guests will be able to add any additional comments or questions they may have before submitting the form.
-
-</thinking>
-
 # Chronic Illness Experience Podcast Consent Form - Help Guide
 
 ## Purpose

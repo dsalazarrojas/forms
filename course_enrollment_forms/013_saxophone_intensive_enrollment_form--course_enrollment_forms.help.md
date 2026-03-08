@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form is designed for participants to provide their details and preferences for enrolling in the Saxophone Intensive course. The form will be used to collect relevant information for course organization and planning. This form is intended for internal use, so please ensure that you are filling it out correctly.
-</thinking>
-
 # Saxophone Intensive Enrollment Form - Help Guide
 
 ## Purpose

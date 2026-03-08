@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for grant proposals submitted to the organization. It is intended to be completed by the grant applicant or their representative. The form will help the organization to understand the context and requirements of the grant proposal. Please ensure that you are submitting the correct form for the intended purpose and that you are not duplicating an existing grant proposal submission.
-</thinking>
-
 # grant_proposal_submission_consent_form - Help Guide
 ## Purpose
 The grant_proposal_submission_consent_form is used to gather information for grant proposals submitted to the organization. It is completed by the grant applicant or their representative to provide context and requirements for the grant proposal.

@@ -1,15 +1,3 @@
-<thinking>
-This guide will walk the user through the purpose and fields of the Landscaping Service Request Form. To ensure relevance, we should confirm that this form is intended for customers to provide information about landscaping services they need. We should also check that no similar forms exist in the category.
-
-The form purpose is to gather information from customers regarding their landscaping service needs and preferences. This will help us provide more accurate and efficient services.
-
-Let's review the fields to ensure no duplication:
-
-- We don't have any forms with similar fields.
-- This form is specific to Landscaping Service Requests.
-- No other form in the category matches this one.
-</thinking>
-
 # Landscaping Service Request Form - Help Guide
 ## Purpose
 The Landscaping Service Request Form is designed to gather information from customers about the landscaping services they require. This form will help us provide more accurate and efficient services to meet their needs.

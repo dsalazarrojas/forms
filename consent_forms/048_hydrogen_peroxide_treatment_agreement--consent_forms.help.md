@@ -1,7 +1,3 @@
-<thinking>
-The form "Hydrogen Peroxide Treatment Agreement" is designed to collect information from users regarding their medical history and consent for treatments involving hydrogen peroxide. This form is likely used in a medical or healthcare setting to ensure that patients are aware of and agree to certain treatments or procedures. The form should only be completed once by each user, and any changes to the form's configuration or content should be reviewed and approved by relevant parties before being made.
-</thinking>
-
 # Hydrogen Peroxide Treatment Agreement - Help Guide
 ## Purpose
 This form is used to collect information from users regarding their medical history and consent for treatments involving hydrogen peroxide.

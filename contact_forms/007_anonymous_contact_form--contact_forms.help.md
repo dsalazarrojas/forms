@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anonymous Contact Form - Help Guide
 ## Purpose
 The Anonymous Contact Form is a secure and confidential channel for users to submit their inquiries, suggestions, and complaints without revealing their identity. This form is designed to provide a safe and private way for users to contact the relevant department or team within the organization.

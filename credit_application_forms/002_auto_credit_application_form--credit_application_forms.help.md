@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for a credit application process. The form collects personal details, employment information, and vehicle details in order to assess the applicant's creditworthiness.
-
-Please note that this form is for internal reference and may not be suitable for external distribution without additional validation and verification.
-
-This form is likely to be used by a financial institution or a credit agency to evaluate an individual's creditworthiness for a loan or credit application. The information collected will be used to generate a credit report or score.
-
-Before filling out the form, please ensure that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Auto Credit Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a credit application process. The form collects personal details, employment information, and vehicle details in order to assess the applicant's creditworthiness.

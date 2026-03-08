@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # your_premium_profile - Help Guide
 ## Purpose
 This form is designed to collect information about your professional profile, including your name, email, phone number, address, organization, profile image, profile description, category, experience, and language proficiency. This form is a mandatory section for all users to ensure that your profile is complete and up-to-date.

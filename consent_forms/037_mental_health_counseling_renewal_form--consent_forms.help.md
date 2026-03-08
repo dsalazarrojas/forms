@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from clients seeking mental health counseling services. The purpose of this form is to gather essential details about the client, their contact and insurance information, and payment details to facilitate the counseling process. It is intended for internal use within the counseling center and is not intended for external sharing or publication. 
-
-Please note that the form is not associated with any form platform and is an original adaptation created using AI-generated form design based on public survey topic metadata. The form is released under a Creative Commons license (CC BY 4.0), allowing for modification, distribution, and even commercial use.
-
-Before proceeding, ensure that you are filling out the correct form for your needs, and that the information is not already available in your existing records.
-
-</thinking>
-
 # mental_health_counseling_renewal_form - Help Guide
 ## Purpose
 The mental health counseling renewal form is designed to collect information from clients seeking mental health counseling services for renewal purposes.

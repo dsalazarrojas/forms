@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Fitness Informed Consent Form - Help Guide**
 
 **Purpose**

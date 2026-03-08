@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from a patient or their authorized representative to access and share emergency care records. The form should only be completed once and by the person authorized to do so. This ensures that the patient's medical information is shared securely and in accordance with their wishes. If you are not the patient or their authorized representative, do not fill out this form. Please ensure that you are completing this form for the correct purpose and individual.
-</thinking>
-
 # Emergency Care Records Release Form - Help Guide
 ## Purpose
 The Emergency Care Records Release Form is used to obtain consent from patients or their authorized representatives to access and share their emergency care records. This form ensures that their medical information is shared securely and in accordance with their wishes.

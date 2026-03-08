@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the Audience Voting Form Stand Up Contest. The purpose of this form is to collect information from individuals who want to register for the contest. This includes their contact details, performance information, and consent for recording and judging. To avoid duplicating efforts, please ensure you are only registered once. If you've already registered, do not attempt to re-register.</thinking>
-
 # Audience Voting Form Stand Up Contest - Help Guide
 ## Purpose
 The Audience Voting Form Stand Up Contest is a platform for individuals to register for the upcoming contest. It is used to collect information from contestants, including their contact details, performance information, and consent for recording and judging.

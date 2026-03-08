@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beauty Salon COVID 19 Liability Waiver - Help Guide
 ## Purpose
 This form is a COVID-19 liability waiver for clients visiting a beauty salon. It aims to inform clients about the risks associated with COVID-19 and to have them acknowledge and agree to certain conditions to minimize those risks.

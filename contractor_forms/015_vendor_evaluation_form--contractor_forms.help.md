@@ -1,7 +1,3 @@
-<thinking>
-The vendor evaluation form is used to collect information from vendors on a specific date, which can be used to evaluate and compare different vendors. This form is typically completed by vendors to provide their contact information, evaluation date, and rating of their experience. The form will be reviewed and used for further analysis and decision-making processes.
-</thinking>
-
 # Vendor Evaluation Form - Help Guide
 ## Purpose
 The Vendor Evaluation Form is used to collect information from vendors on a specific date, which can be used to evaluate and compare different vendors.

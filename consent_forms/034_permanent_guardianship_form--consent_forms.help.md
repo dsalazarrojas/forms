@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Permanent Guardianship Form - Help Guide
 ## Purpose
 The Permanent Guardianship Form is used to establish a permanent guardianship relationship between an adult and a minor child. This form is used to provide legal documentation for courts, social services, and other organizations to verify the guardianship status of a child.

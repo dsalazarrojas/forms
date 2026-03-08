@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data for short-term medical coverage from users. The goal is to collect information about the user's medical needs, including the type of coverage they require, the start and end dates of their coverage, the medical group they belong to, their coverage choices, and other relevant details. This form should only be filled out by users who have not previously filled it out. 
-</thinking>
-
 # Short Term Medical Coverage Election - Help Guide
 ## Purpose
 This form is used to collect data for short-term medical coverage from users. The goal is to collect information about the user's medical needs, including the type of coverage they require, the start and end dates of their coverage, the medical group they belong to, their coverage choices, and other relevant details.

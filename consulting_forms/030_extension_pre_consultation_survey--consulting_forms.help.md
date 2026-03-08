@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and information from clients and users regarding their extension needs and preferences. The purpose of this form is to ensure that the consultant has a clear understanding of the client's goals, budget, and schedule requirements before the start of the project.
-</thinking>
-
 # Extension Pre Consultation Survey - Help Guide
 ## Purpose
 This form is designed to gather information from clients and users about their needs and preferences for an extension project. The data collected will be used to tailor the consulting service to meet their specific requirements.

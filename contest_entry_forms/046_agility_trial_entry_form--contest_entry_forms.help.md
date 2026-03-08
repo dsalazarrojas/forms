@@ -1,9 +1,3 @@
-<thinking>
-
-The Agility Trial Entry Form is a user-facing form designed to collect essential information from dog owners participating in agility trials. The form helps us understand their dog's details, trial preferences, and emergency contact information. This guide will walk you through each step of the form, explaining what each field is about and how to complete it correctly.
-
-</thinking>
-
 # Agility Trial Entry Form - Help Guide
 ## Purpose
 The Agility Trial Entry Form is designed for dog owners to provide necessary information about themselves, their dogs, and their trial preferences. This information is crucial for efficient trial organization and management.

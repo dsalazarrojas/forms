@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information from virtual talent for registration purposes.
-It is designed to gather basic contact information, experience, education, and other relevant details about the virtual talent.
-The form does not require any specific fields to be filled out, as all fields are optional.
-</thinking>
-
 # Virtual Talent Registration Form - Help Guide
 ## Purpose
 This form is designed to collect basic information from virtual talent for registration purposes. The form is meant to gather relevant details such as contact information, experience, education, and other notable achievements.

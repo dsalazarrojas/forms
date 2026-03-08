@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for applicants to the Innovation Consulting Pilot Program. The form collects information about the applicant's background, experience, and qualifications. It also asks for information about the project that the applicant would like to submit for the pilot program. The form is designed to be completed by individuals who are interested in participating in the pilot program and are looking for guidance on how to get started.
-
-The form is 25 fields long and is divided into several sections, including applicant information, project information, and review status. The fields are all text-based and allow the applicant to provide detailed information about themselves and their project.
-
-The following guide will walk you through the fields and help you understand what is expected of you in each section.
-
-</thinking>
-
 # Innovation Consulting Pilot Program Application - Help Guide
 ## Purpose
 

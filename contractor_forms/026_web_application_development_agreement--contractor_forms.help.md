@@ -1,9 +1,3 @@
-<thinking>
-This form is primarily intended to outline the agreement between the client and developer for a web application development project. It captures necessary information from both parties, including client and developer details, project scope, timeline, and payment terms. The form will help establish a clear understanding of the project's objectives, responsibilities, and expectations.
-Please ensure you fill out the form accurately to avoid potential miscommunication issues.
-The form is divided into sections for client information, developer information, project details, and agreement/confirmation.
-</thinking>
-
 # Web Application Development Agreement - Help Guide
 ## Purpose
 This form is used to document the agreement between the client and developer for a web application development project, outlining project specifics, payment terms, and other relevant details.

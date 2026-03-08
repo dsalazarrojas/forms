@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coronavirus Case Report Template - Help Guide
 ## Purpose
 

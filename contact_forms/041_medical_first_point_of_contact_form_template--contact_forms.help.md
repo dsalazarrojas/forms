@@ -1,14 +1,3 @@
-<thinking>
-This template is designed to be a comprehensive medical first point of contact form for patients. It is intended to be used by healthcare professionals to gather essential information about a patient's medical history, allergies, and medications. This form is a crucial tool for healthcare providers to assess a patient's overall health status and provide proper care. 
-
-Before filling out this form, it is essential to review the patient's medical history thoroughly and consider the potential implications of their medical conditions on their current health status. 
-
-This form is not meant to be a substitute for a comprehensive medical exam or consultation with a healthcare professional. It is only a preliminary assessment tool to help healthcare providers make informed decisions.
-
-Please ensure that the form is reviewed and updated regularly to reflect changes in the patient's medical status and any new information gathered during their care.
-
-</thinking>
-
 # medical_first_point_of_contact_form_template - Help Guide
 
 ## Purpose

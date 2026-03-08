@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to collect information from artists who wish to be featured in various media outlets, such as magazines, podcasts, video interviews, photo shoots, and more. The form is used to gather details about the artist, their art, and what they are looking for in terms of feature requests. By providing accurate and up-to-date information, artists can increase their chances of being featured and gaining exposure for their work.
-
-This form will help to:
-
-- Verify that the artist is eligible to be featured based on their availability and media accessibility.
-- Ensure that the artist is clear about what type of feature they are interested in.
-- Understand the artist's background, experience, and unique qualities.
-- Gather essential information about the artist's current project and what makes their story unique.
-- Confirm the artist's willingness to participate in the feature.
-
-By carefully filling out this form, artists can showcase their work and increase their chances of getting featured in various media outlets.
-
-</thinking>
-
 # Artist Feature Segment Request Form - Help Guide
 ## Purpose
 The Artist Feature Segment Request Form is a tool for artists to submit their information and preferences for feature requests in various media outlets.

@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to gather information from users who want to attend a Halloween event. It asks for contact information, RSVP (response to attending), preferred date and time, and any additional notes or comments. The form's required fields are title, date, and time, while the other fields are optional. This form is designed to be completed by users who are interested in attending the Halloween event and want to provide their contact information and preferences.
-</thinking>
-
 # Halloween Contact Form - Help Guide
 ## Purpose
 This form is intended for users who are interested in attending a Halloween event. It helps event organizers gather necessary contact information and preferences from attendees to plan and execute the event smoothly.

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of effort and ensure that this guide is comprehensive and relevant, we will review the provided YAML schema and identify the essential information that needs to be conveyed to the end-users. This form is designed to collect various types of data from individuals or businesses, including their personal and business information. The form is likely used for regulatory or administrative purposes, such as collecting client data for a service provider or for tax purposes.
-</thinking>
-
 # Data Collection Authorization Form - Help Guide
 ## Purpose
 This form is used to collect personal and business information from individuals or businesses for regulatory or administrative purposes.

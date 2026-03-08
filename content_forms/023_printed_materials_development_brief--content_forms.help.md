@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for printed materials development projects. It ensures that all necessary details are captured for the project management and stakeholders. This form should not be used if you are already working on a similar project with the same client. Please ensure that you have a valid project ID or code before submitting this form.
-</thinking>
-
 # Printed Materials Development Brief - Help Guide
 ## Purpose
 The purpose of this form is to collect and document essential details for printed materials development projects. It is used by project managers and stakeholders to ensure that all necessary project information is gathered and recorded accurately.

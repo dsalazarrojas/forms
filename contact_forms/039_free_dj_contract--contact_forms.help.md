@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a free DJ contract, which is a legal agreement between a client and a DJ service provider. The form gathers essential details about the event, including the client and DJ names, event date and time, venue, and other relevant information. This form is intended for internal use within the company and is not meant for public access. Before proceeding, please ensure you're authorized to access this form.
-</thinking>
-
 # free_dj_contract - Help Guide
 ## Purpose
 The free_dj_contract form is used to collect and document essential information for a legal agreement between a client and a DJ service provider.

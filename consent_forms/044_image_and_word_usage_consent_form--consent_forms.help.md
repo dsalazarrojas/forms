@@ -1,10 +1,6 @@
 # Image And Word Usage Consent Form - Help Guide
 
 ## Purpose
-<thinking>
-This form is used to collect user information and consent for the usage of images and words. It typically includes details such as user information, image rights, word rights, and other contact information. Please use this form for the specified purpose and ensure it is not used for any other reason.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow the instructions below:

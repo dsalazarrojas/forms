@@ -1,16 +1,3 @@
-<thinking>
-This form is for individuals or companies seeking marketing consultation services. It is intended for internal use within the organization and is not publicly accessible. The form's purpose is to collect information about the user's background, goals, and requirements for the consultation, and is used to determine the feasibility of a potential collaboration. 
-
-The form is used by marketing and business development staff to identify potential clients, assess their needs, and tailor the consultation process accordingly. 
-
-The form should not be used to solicit marketing services from external parties. 
-
-The form's data is only accessible to authorized personnel within the organization. 
-
-Please ensure you only complete this form if you are a legitimate representative of a company or individual seeking marketing consultation services.
-
-</thinking>
-
 # Marketing Consultation Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential clients or companies seeking marketing consultation services. It is intended for internal use by marketing and business development staff to determine the feasibility of a potential collaboration.

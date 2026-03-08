@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Guest Experience Feedback Form", I will first clarify the form's purpose and relevance. This form is designed to gather feedback from customers or guests about their experience at a location, such as a restaurant, hotel, or store. The goal is to collect information about their satisfaction, preferences, and any improvements they suggest to enhance the overall guest experience. By analyzing this feedback, the location can identify areas of strength and weakness, make data-driven decisions, and ultimately improve their services.
-
-To avoid duplication of effort, I will check that this form is only used for gathering feedback on guest experiences, and not for other purposes.
-
-The form is divided into sections that correspond to different aspects of the guest experience. Each section is designed to gather specific information and provide the guest with a clear and concise way to express their thoughts and opinions.
-
-</thinking>
-
 # Guest Experience Feedback Form - Help Guide
 ## Purpose
 

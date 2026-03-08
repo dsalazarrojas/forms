@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect patient consent and documentation for medical procedures. The purpose of this form is to ensure that patients are informed and aware of the procedures they are undergoing, and that healthcare providers have the necessary information to provide safe and effective care. This form is intended to be used as a tool for healthcare providers to gather information from patients and for patients to provide their consent for medical procedures. By using this form, healthcare providers can ensure that they are complying with regulatory requirements and providing excellent patient care.
-
-</thinking>
-
 # Patient Consent Documentation Checklist - Help Guide
 ## Purpose
 This form is used to collect patient consent and documentation for medical procedures. It helps healthcare providers gather essential information from patients and ensures they are complying with regulatory requirements while providing excellent patient care.

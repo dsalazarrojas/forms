@@ -1,10 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect uniform style submission data for a school or educational institution. This data will be used to improve the uniform aesthetic and branding of the institution. The form has 5 fields to be filled out, and some of them might not be required. It is intended to be user-friendly and easy to fill out.
-
-This form has been generated using AI and is not affiliated with any form creation platform. It is meant to be a tool for users to input their ideas and suggestions for uniform style submissions. 
-
-</thinking>
-
 # Uniform Style Guide Submission - Help Guide
 ## Purpose
 The Uniform Style Guide Submission form is designed to collect information from users about uniform styles they would like to submit for approval. The primary purpose of this form is to gather feedback and ideas for uniform styles that meet the institution's standards and branding guidelines.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information for an Estate Planning Consultation. The form is designed to gather details about the client's personal and financial information, as well as their estate planning needs and preferences. This information will be used to provide guidance and recommendations for the client's estate planning process.
-
-Before proceeding, please note that this form is meant to provide general information and guidance. If you have specific questions or concerns, it's always best to consult with a licensed professional, such as an estate planning attorney or financial advisor.
-
-Please ensure that the information provided is accurate and up-to-date. If you are unsure about any of the fields, please contact us for clarification.
-
-</thinking>
-
 # Estate Planning Consultation Intake Form - Help Guide
 ## Purpose
 The Estate Planning Consultation Intake Form is designed to gather information from you about your estate planning needs and preferences. This information will help us provide you with personalized guidance and recommendations to help you achieve your estate planning goals.

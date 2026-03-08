@@ -1,11 +1,3 @@
-<thinking>
-This form is used by customers to initiate a merge of their accounts in the system. This form is designed to collect necessary information from the customer to facilitate the merge process. It's essential to fill out this form accurately to ensure a smooth merge process.
-
-The form is designed to be completed by the customer, and it will be reviewed and processed by the customer support team.
-
-To avoid any confusion, this form will not be processed multiple times for the same customer. If a customer has already submitted a form for a merge of their accounts, they will receive an error message.
-</thinking>
-
 # Customer Account Merge Contact Form - Help Guide
 ## Purpose
 

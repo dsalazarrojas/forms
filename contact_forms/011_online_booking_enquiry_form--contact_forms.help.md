@@ -1,7 +1,3 @@
-<thinking>
-The Online Booking Enquiry Form is a contact form used by customers to inquire about booking an online appointment or service. This form helps the business to gather information about the customer's preferences and requirements for their online booking. The form should only be submitted once by a customer to avoid duplication of effort and ensure that the business can efficiently handle the enquiry. If a customer has already submitted a booking form, it is likely that they have the information required and there is no need to submit the form again.
-</thinking>
-
 # Online Booking Enquiry Form - Help Guide
 ## Purpose
 The Online Booking Enquiry Form is a contact form that helps customers inquire about booking an online appointment or service. It is used to gather information about the customer's preferences and requirements for their online booking.

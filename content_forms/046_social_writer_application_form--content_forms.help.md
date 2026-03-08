@@ -1,8 +1,3 @@
-<thinking>
-This form is a Social Writer Application Form used to gather information from individuals interested in writing for a social platform. This form should only be filled out by individuals who are applying to be a social writer for the platform. There should be no duplication of effort, so please make sure to read the form carefully before filling it out. If you have any questions or concerns, please reach out to [support email or phone number].
-
-</thinking>
-
 # social_writer_application_form - Help Guide
 ## Purpose
 The Social Writer Application Form is used to gather information from individuals who are interested in writing for the platform. This information is necessary for the platform to review and consider your application.

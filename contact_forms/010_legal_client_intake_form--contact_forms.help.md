@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information from legal clients, including their contact details and any relevant legal concerns they may have. The purpose of this form is to ensure that all necessary information is collected before a meeting or discussion with the client takes place.
-
-The form is designed to be completed by legal professionals who will review the information provided by the client. The form will help in organizing and prioritizing the tasks and meetings with the clients in an efficient and effective manner.
-
-To avoid duplication of effort, please ensure that all necessary information is collected during the initial intake process.
-</thinking>
-
 # Legal Client Intake Form - Help Guide
 ## Purpose
 The Legal Client Intake Form is a document used to collect relevant information from legal clients, such as their contact details, legal concerns, and agreements. This form helps legal professionals to prepare for meetings and discussions with clients and ensure that all necessary information is collected in a single document.

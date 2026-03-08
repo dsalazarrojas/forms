@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to be a template for a consent form that researchers can use when conducting case studies. This form helps establish a participant's understanding of the study's purpose, procedures, and potential risks and benefits. It also provides a means for participants to provide their consent and understand their rights as a participant, including the right to withdrawal at any time without penalty. The purpose of this form is to ensure that participants are informed and willing participants in the research process. This form does not aim to replace human judgment, and researchers should still use their professional expertise to assess each participant's suitability for the study.
-Before completing this form, please ensure that it is relevant to your specific study and does not duplicate any existing form in your organization or institution.
-</thinking>
-
 # Case Study Consent Form - Help Guide
 ## Purpose
 This form is designed to inform and document a participant's consent for a case study. The form outlines the study's purpose, procedures, expected duration, data collection methods, potential risks and benefits, and other essential information.

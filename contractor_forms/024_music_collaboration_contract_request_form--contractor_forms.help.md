@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help artists and producers collaborate on music projects. The music collaboration contract request form is used to outline the terms and conditions of a potential collaboration. It helps ensure that both parties are on the same page and reduces the risk of miscommunication. This form should only be used for music-related projects. If you have already submitted a contract request, please do not submit another one for the same project.
-</thinking>
-
 # music_collaboration_contract_request_form - Help Guide
 ## Purpose
 This form is a tool for artists and producers to collaborate on music projects. It provides a platform for outlining the terms and conditions of a potential collaboration, ensuring both parties are on the same page and reducing the risk of miscommunication.

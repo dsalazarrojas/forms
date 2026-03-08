@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return Material Authorization Form - Help Guide
 ## Purpose
 The Return Material Authorization Form is a document used to facilitate the return of materials from customers to the supplier or manufacturer. This form is a critical part of the return process, ensuring that the customer's and supplier's interests are protected and that the return is processed smoothly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form appears to be a simple custom order form designed for customers to provide information about their orders, including customer details, order specifics, and order status. The fields include input for customer name, email, phone, order details, customer notes, customer comments, order comments, order status, assign to, order date, and order time. There are no specific instructions or validation logic provided in the YAML, so this help guide will focus on providing clear and concise explanations of each field and its intended purpose.
 
 # Custom Order Form - Help Guide

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a consultant's onboarding experience, specifically their perception of how clear their role and expectations were, the level of support provided during onboarding, and any areas for improvement.
-This form is designed to be a simple and straightforward way to collect data on the onboarding process, allowing for easy identification of areas of improvement and opportunities for growth.
-
-To ensure that the form is not duplicated or misused, it is essential to review the provided information and understand the context in which it will be used. This form is meant to be a general-purpose tool, not a substitute for more comprehensive onboarding procedures that may be specific to a particular industry or company.
-
-</thinking>
-
 # Consultant Onboarding Survey Template - Help Guide
 ## Purpose
 This form is designed to collect data on a consultant's onboarding experience, allowing for evaluation and improvement of the onboarding process.

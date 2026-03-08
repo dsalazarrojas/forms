@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Poll Participation Consent Form - Help Guide
 ## Purpose
 The Online Poll Participation Consent Form is used to collect participant consent for online polls. The form is designed to gather information about the participant's personal details, which will be used to verify their identity and ensure a unique and accurate representation of the poll results.

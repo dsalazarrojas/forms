@@ -1,13 +1,3 @@
-<thinking>
-
-Before designing this user-facing help guide, I'd like to clarify the purpose and requirements of the "Landscape Service Work Order Form". This form appears to be a work order form used for landscape services, and it seems to gather various information related to the job, including customer details, job status, service type, and other relevant fields. The form has multiple pages or sections, each with its own set of fields. 
-
-From the provided YAML, it's clear that this form is required for various stakeholders, such as customers and internal staff, to provide accurate and complete information for efficient landscape service execution. However, I do not see any specific details about the form's lifecycle or usage patterns. I'd like to understand whether this form will be used for internal staff, customers, or external partners. This would help me provide more accurate guidance on how to complete the form effectively.
-
-Assuming that the form is meant for customers or stakeholders who are not tech-savvy, I'll proceed with designing the help guide based on the provided YAML fields.
-
-</thinking>
-
 # Landscape Service Work Order Form - Help Guide
 ## Purpose
 The "Landscape Service Work Order Form" is used to collect information about a job or task related to landscape services. This form is essential for ensuring that all necessary details are captured accurately, enabling efficient execution of the job.

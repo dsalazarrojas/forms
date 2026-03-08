@@ -1,7 +1,3 @@
-<thinking>
-This form is used for judges to agree to a contract, and is typically completed by a judge who has been assigned to a case or event. This form is not intended for use with other types of contracts, such as business-to-business agreements.
-</thinking>
-
 # Judges Contract Agreement - Help Guide
 ## Purpose
 This form is used to obtain a judge's agreement to a contract. The purpose of this form is to gather information that confirms a judge's understanding and agreement with the terms of the contract.

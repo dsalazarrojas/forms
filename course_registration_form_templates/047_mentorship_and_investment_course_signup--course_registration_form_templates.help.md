@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to sign up for a course on mentorship and investment. The form has several fields that ask for participant details, course preferences, and consent. This form is meant to be filled out by participants who are interested in learning about mentorship and investment strategies. To ensure the correct data is collected and to avoid duplication, please ensure that each field is filled out accurately and completely. If you're not sure about any field, you can refer to this help guide for clarification. It's essential to fill out the form in a sequential manner, as each field relies on the information provided in the previous ones. This form is a tool for gathering information and does not replace human interaction or personal judgment. Please take the time to read the help guide carefully to understand each field's purpose.
-</thinking>
-
 # Mentorship And Investment Course Signup - Help Guide
 ## Purpose
 This form is for participants interested in signing up for a mentorship and investment course. Its purpose is to collect essential information about the participant's details, course preferences, and consent.

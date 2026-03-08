@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reactivation Feedback Survey - Help Guide
 
 ## Purpose

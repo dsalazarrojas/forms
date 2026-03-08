@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Golden Ticket Contest Registration - Help Guide
 ## Purpose
 The Golden Ticket Contest Registration form is designed to collect information from contest participants. It is used to gather personal and entry details, as well as preferences and interests. Please take a few minutes to review the form carefully to ensure you provide accurate and complete information.

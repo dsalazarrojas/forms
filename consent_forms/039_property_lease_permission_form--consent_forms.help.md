@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting permission from tenants to lease properties. It's crucial to gather this information to keep track of who is allowed to access a property and for how long. Please note that this form is not intended to be used for other purposes. Ensure you're filling it out for its intended use.
-</thinking>
-
 # Property Lease Permission Form - Help Guide
 ## Purpose
 This form is used to collect permission from tenants to lease properties. It's a crucial document for property management, as it helps keep track of who is allowed to access a property and for how long.

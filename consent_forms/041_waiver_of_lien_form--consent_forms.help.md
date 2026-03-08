@@ -1,11 +1,3 @@
-<thinking>
-
-A Waiver Of Lien Form is a document that is used to acknowledge and waive certain rights or claims related to a property or vehicle. It is commonly used in situations where a person or entity, typically a landlord or lender, wants to give up their lien on a property or vehicle. By signing this form, the person or entity is confirming that they have received and understand the terms of the waiver, and are relinquishing their lien.
-
-To avoid duplication, you should only submit this form once. If you are unsure about the form or its purpose, please seek advice from a lawyer or relevant authority.
-
-</thinking>
-
 # Waiver Of Lien Form - Help Guide
 ## Purpose
 The Waiver Of Lien Form is a document that waives certain rights or claims related to a property or vehicle. It's typically used by landlords or lenders to give up their lien on a property or vehicle.

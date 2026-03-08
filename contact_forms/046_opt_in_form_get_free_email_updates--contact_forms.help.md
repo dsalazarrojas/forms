@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Opt In Form Get Free Email Updates - Help Guide
 ## Purpose
 This form is designed to collect information from visitors interested in receiving free email updates. The purpose of this form is to capture contact information and preferences to provide relevant email content to the submitter. The form will not be duplicated if you have already submitted this form.

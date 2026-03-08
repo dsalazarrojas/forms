@@ -1,8 +1,3 @@
-<thinking>
-This form is used to extend the contract for a freelancer. The form is intended to be completed by both the client and the freelancer. The purpose of this form is to collect information to update the contract start and end dates.
-The form is not required for every submission. However, it should be used when the freelancer needs to extend their contract.
-</thinking>
-
 # Freelancer Contract Extension Form - Help Guide
 ## Purpose
 The Freelancer Contract Extension Form is used to extend the contract for a freelancer. This form is intended to be completed by both the client and the freelancer to update the contract start and end dates.

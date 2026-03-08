@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recently Contacted List - Help Guide
 
 ## Purpose

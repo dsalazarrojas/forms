@@ -1,9 +1,3 @@
-<thinking>
-This form is used to create a project estimate and service agreement between a client and the service provider. The form is divided into four main sections: project estimate, service agreement, service provider details, and estimate details. The form is not required but is intended to provide a clear and structured way of capturing essential information for a project.
-
-Before proceeding, check if a similar form has been created in the past to avoid duplication of effort.
-</thinking>
-
 # Project Estimate And Service Agreement - Help Guide
 ## Purpose
 This form is used to create a project estimate and service agreement between a client and the service provider. It is not required but helps to capture essential information in a structured manner.

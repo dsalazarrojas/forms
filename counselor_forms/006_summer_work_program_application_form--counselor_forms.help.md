@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to apply for the summer work program. The purpose of this form is to collect demographic and background information from students who are interested in participating in the work program. The fields requested are designed to be easy to fill out and relevant to the program. It is essential to ensure that the information provided is accurate to ensure a proper review of the applicant's eligibility.
-</thinking>
-
 # Summer Work Program Application Form - Help Guide
 ## Purpose
 The Summer Work Program Application Form is designed to collect demographic and background information from students interested in participating in the work program.

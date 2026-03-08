@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ประก Freight Forwarding Solution Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers or users who are interested in exploring the freight forwarding solution offered by the company. The form will help the freight team to understand the customer's needs and preferences, such as the origin and destination cities, freight type, delivery timeframe, shipping rate, service options, and any additional notes or contact information.

@@ -1,7 +1,3 @@
-<thinking>
-The main purpose of this form is to collect feedback and assess the overall satisfaction of customers in various aspects. However, it's essential to review the current form and ensure that it's not a duplication of effort or an overlap with existing forms. If it is a duplicate, the form's purpose might be modified to focus on a different area of improvement or a specific customer segment.
-</thinking>
-
 # Customer Satisfaction Survey Form Template - Help Guide
 ## Purpose
 The Customer Satisfaction Survey Form Template is designed to gather valuable feedback from customers to improve their overall experience with your product or service. This form is intended to be a one-stop-shop for understanding customer satisfaction across different aspects, providing actionable insights to enhance customer satisfaction and loyalty.

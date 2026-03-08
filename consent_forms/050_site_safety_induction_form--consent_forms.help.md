@@ -1,10 +1,3 @@
-<thinking>
-This form seems to be related to site safety, possibly for new employees or visitors to a construction site or other site-specific workplace. It likely aims to collect information about site access, safety procedures, and emergency contacts. I'll assume that this form is intended to standardize the process of obtaining site safety induction and to ensure that all individuals have the necessary equipment and training to safely perform their work on site.
-
-To avoid duplication, I'll focus on the most critical fields and assume that the rest are either optional or used for specific site-specific requirements.
-
-</thinking>
-
 # Site Safety Induction Form - Help Guide
 ## Purpose
 This form is intended for new employees or visitors to a construction site or other site-specific workplace. It is used to collect information about site access, safety procedures, and emergency contacts. The goal is to ensure that all individuals have the necessary information and training to safely perform their work on site.

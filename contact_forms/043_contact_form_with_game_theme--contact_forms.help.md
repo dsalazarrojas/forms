@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect contact information from users who want to get in touch with the game developers. The form is meant to be a simple and intuitive way for users to provide their details and submit inquiries or feedback about the games. The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation using public survey topic metadata as inspiration. It's released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, just giving credit.
-
-</thinking>
-
 # Contact Form With Game Theme - Help Guide
 ## Purpose
 This form is for players to contact the game developers with inquiries, feedback, or general comments about the games. Fill out the form to provide your details and the specific reason for your contact.

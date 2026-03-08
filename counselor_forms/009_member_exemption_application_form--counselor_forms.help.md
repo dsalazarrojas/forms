@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from members who need to apply for exemption. The purpose of this form is to gather relevant details about the member's identity, contact information, and exemption status. The form will be used to process and review exemption requests. Please ensure that this form is completed accurately and without duplication, as incomplete or duplicate submissions may delay or invalidate the exemption process.
-
-</thinking>
-
 # member_exemption_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from members who need to apply for exemption.

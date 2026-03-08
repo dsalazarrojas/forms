@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to document the terms and conditions of a residential construction project. It captures essential information about the project's details, payment terms, owner and contractor particulars, and project status. The form is a crucial tool for ensuring that both parties involved in the project are on the same page and that the terms are agreed upon before commencing work.
-
-This form is not meant to replace legal advice or contracts written by professionals. However, it provides a standardized framework for documenting the project's essential aspects, helping prevent misunderstandings and potential disputes. 
-
-This form is an original adaptation of a general template, designed to be used for any type of residential construction project. It is not affiliated with, endorsed by, or derived from any specific form platform or service.
-
-</thinking>
-
 # Residential Construction Agreement - Help Guide
 ## Purpose
 This form is designed to document the terms and conditions of a residential construction project, ensuring that both parties involved are on the same page and that the terms are agreed upon before commencing work.

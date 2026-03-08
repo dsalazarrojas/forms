@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a tool for collecting feedback from customers on their experience with our customer loyalty program. The purpose of this form is to help us understand how well our program is meeting customer expectations and identify areas for improvement. By completing this form, you will be providing valuable insights that will help us make informed decisions about future program changes.
-</thinking>
-
 # Customer Loyalty Program Feedback Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience with our customer loyalty program. It includes questions and ratings that will help us understand customer satisfaction, expectations, and preferences.

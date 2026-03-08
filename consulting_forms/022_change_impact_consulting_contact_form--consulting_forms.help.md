@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for clients or potential clients of Change Impact Consulting to contact us with inquiries regarding our consulting services. The form is designed to gather essential information about the client's needs, preferences, and expectations, allowing us to tailor our approach to best meet their requirements. Please fill out this form if you are interested in discussing a potential project with us. This form is not intended for existing clients or internal use; if you are an existing client, please contact us through your assigned project manager.
-</thinking>
-
 # Change Impact Consulting Contact Form - Help Guide
 ## Purpose
 The Change Impact Consulting Contact Form is designed to collect information from clients or potential clients about their needs, preferences, and expectations for potential consulting projects.

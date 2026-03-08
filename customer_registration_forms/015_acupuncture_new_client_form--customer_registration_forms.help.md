@@ -1,7 +1,3 @@
-<thinking>
-This form is used for new clients registering with the acupuncture clinic. The purpose of this form is to collect essential information about the client, including their personal details, medical history, and consent to the collection and storage of their health information. This form should only be completed once the client has been assessed and cleared by the clinic staff.
-</thinking>
-
 # Acupuncture New Client Form - Help Guide
 ## Purpose
 This form is designed to collect information from new clients registering with the acupuncture clinic.

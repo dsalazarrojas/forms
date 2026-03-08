@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to allow users to search for real estate properties and contact the owner or agent for more information. This form is likely to be used by real estate agents, property managers, or anyone interested in finding a specific property. To avoid duplication, this form should only be filled out once per property search.
-
-</thinking>
-
 # real_estate_contact_form - Help Guide
 ## Purpose
 The real_estate_contact_form is designed to collect information from users interested in searching for real estate properties and contacting the owner or agent for more information.

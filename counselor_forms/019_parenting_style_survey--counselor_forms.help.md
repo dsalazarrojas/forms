@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parenting Style Survey - Help Guide
 
 ## Purpose

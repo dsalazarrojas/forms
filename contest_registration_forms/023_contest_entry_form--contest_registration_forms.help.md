@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from contestants entering a contest. The form collects personal and creative work information, including full name, email address, phone number, category, title of the entry, description, file submission reference, submission date, age confirmation, original work certification, usage rights agreement, entry fee payment status, and additional comments. To prevent duplicate entries, the form ensures the contestant has filled it out correctly and is only eligible to submit one entry per contest.
-</thinking>
-
 # Contest Entry Form - Help Guide
 ## Purpose
 The Contest Entry Form is used to collect information from contestants entering a contest. This form is used to ensure that each entry is properly processed and that all required information is provided.

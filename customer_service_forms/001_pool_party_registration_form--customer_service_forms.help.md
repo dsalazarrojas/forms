@@ -1,7 +1,3 @@
-<thinking>
-The "Pool Party Registration Form" is designed to collect relevant information from customers for pool party reservations. The form gathers essential details such as first name, last name, email, phone number, date of birth, party date, party duration, number of guests, and payment method. The form also includes fields for special requests and notes for any additional information. The form is designed to be completed by customers to register for a pool party, ensuring that the party hosts have all the necessary information to provide a safe and enjoyable experience for everyone.
-</thinking>
-
 # Pool Party Registration Form - Help Guide
 ## Purpose
 The "Pool Party Registration Form" is a customer-facing form designed to collect essential information from customers who want to attend or host a pool party. 

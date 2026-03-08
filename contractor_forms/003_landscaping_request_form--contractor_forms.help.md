@@ -1,14 +1,3 @@
-<thinking>
-This form is used for users to submit a landscaping request to the facilities team for services such as gardening, lawn maintenance, or other landscaping-related work. The form will help the facilities team understand the user's needs and preferences, ensuring that the work is completed efficiently and effectively. Before starting, please ensure you have not already submitted a landscaping request for this location, as duplicate requests will cause confusion and delay the process.
-
-This form should only be used for legitimate requests that require facilities' assistance. Please do not use this form for non-landscaping related work or for submitting non-emergency maintenance requests.
-
-Also, please note that all fields marked as "Required" are mandatory and must be filled in for the form to be successfully submitted. 
-
-Please fill in the form accurately and thoroughly, as the information provided will help the facilities team understand and fulfill your request.
-
-</thinking>
-
 # Landscaping Request Form - Help Guide
 ## Purpose
 The Landscaping Request Form is used by users to submit a request to the facilities team for landscaping-related services.

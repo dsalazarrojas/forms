@@ -1,5 +1,3 @@
-<thinking>...The purpose of the Refugee Empowerment Storytelling Consent Form is to gather information about the user's consent for the use and sharing of their refugee empowerment storytelling experiences. This form is designed to capture the user's agreement or disagreement on several aspects, including the type of media to be used, the purpose of the storytelling, and the methods and frequency of sharing. The form is intended to ensure that the user is aware of and consents to the use and sharing of their stories, protecting their privacy and maintaining transparency in the process.</thinking>
-
 # Refugee Empowerment Storytelling Consent Form - Help Guide
 ## Purpose
 The Refugee Empowerment Storytelling Consent Form is designed to collect information about your consent for the use and sharing of your refugee empowerment storytelling experiences. This form is essential to ensure that you are aware of and agree to the use and sharing of your stories.

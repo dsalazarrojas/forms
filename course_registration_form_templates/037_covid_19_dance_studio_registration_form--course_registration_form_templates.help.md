@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is for COVID-19 dance studio registration to collect information necessary for safe and healthy class environment for dancers.
-</thinking>
-
 # COVID 19 Dance Studio Registration Form - Help Guide
 ## Purpose
 The COVID 19 Dance Studio Registration Form is used to collect information from dancers to ensure a safe and healthy class environment. This form helps the studio management to understand the dancers' health status, attendance, and other important details.

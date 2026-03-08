@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for medical professionals to evaluate a medical billing course, providing feedback on its content, professionalism, and overall effectiveness. It is meant to gather information on the course's strengths and weaknesses, helping course creators and administrators improve the learning experience for future students. Please ensure that you are completing this form for a specific course and do not submit duplicate evaluations.
-</thinking>
-
 # Medical Billing Course Review Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on a medical billing course, evaluating its content, professionalism, and overall effectiveness. The feedback will be used to improve the course and provide a better learning experience for future students.

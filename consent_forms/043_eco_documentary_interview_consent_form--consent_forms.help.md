@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting consent from individuals for participation in an eco-documentary project. The purpose of this form is to obtain contact and project information, ensure the individual's consent for participation, and gather demographic information for the project. Please note that some fields are optional and only required for specific sections of the project. Ensure that all fields relevant to your project are completed accurately and honestly.
-</thinking>
-
 # Eco Documentary Interview Consent Form - Help Guide
 ## Purpose
 The Eco Documentary Interview Consent Form is a collection of fields designed to gather information and obtain consent from individuals participating in an eco-documentary project. The form includes demographic and contact information, project details, and consent sections to ensure a smooth and compliant project execution.

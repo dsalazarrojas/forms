@@ -1,8 +1,3 @@
-<thinking>
-This form is used for customers to provide information about their pest control service requests. It is meant to be a comprehensive guide for customers to submit their details accurately and efficiently. To avoid duplication, please ensure that you are filling out this form only once. If you need assistance or clarification, feel free to contact form@gic.mx.
-
-Please note that this form is divided into multiple pages, and each page has a specific set of fields. Each field has a unique purpose, so please read on to understand what information is required for each page.</thinking>
-
 # pest_control_service_intake_form - Help Guide
 ## Purpose
 The Pest Control Service Intake Form is a tool for customers to submit their pest control service requests. This form helps our team to gather necessary information to provide effective and personalized service.

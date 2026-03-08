@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential adopters about their application to adopt a pet from our organization. This form is used to determine the suitability of the applicant and to guide the adoption process. To ensure a smooth adoption process, please complete this form carefully and accurately. If you have previously submitted an application, please do not complete this form again.
-</thinking>
-
 # Adoption Application Submissions - Help Guide
 
 ## Purpose

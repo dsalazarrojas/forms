@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their relationships, specifically regarding the feelings they experience in their relationships. The purpose of this form is to gather data that can help identify patterns and characteristics of relationships that are associated with positive or negative feelings. This form is part of a larger survey and should not be filled out multiple times. It's essential to complete each section as thoroughly and accurately as possible to ensure that the collected data is reliable.
-</thinking>
-
 # Relationship Questionnaire - Help Guide
 ## Purpose
 This form collects information about relationships, focusing on feelings experienced and characteristics of the relationship.

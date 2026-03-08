@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from swimmers and their emergency contacts for swimming lessons. The purpose of this form is to gather necessary contact and medical information from the swimmer and their emergency contact. This information will be used to ensure the swimmer's safety and well-being during lessons. This form should only be completed once for each swimmer, and it is essential to fill it out accurately and honestly.
-</thinking>
-
 # swimming_lesson_consent_form - Help Guide
 ## Purpose
 The swimming lesson consent form is a crucial document that requires accurate and honest information from swimmers and their emergency contacts. It is used to ensure the swimmer's safety and well-being during swimming lessons.

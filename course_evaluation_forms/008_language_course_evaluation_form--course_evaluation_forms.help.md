@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data on language courses provided to students. The form is meant to help instructors assess the effectiveness and quality of the course, gather data on student demographics, and identify areas for improvement. The data collected through this form will be used to refine and optimize the language course curriculum and teaching methods. To ensure accurate and useful data is collected, please complete the form carefully and honestly. If a field is not applicable or not relevant, select "No" or leave it blank. If you have any issues or questions about this form, please contact the relevant authority.</thinking>
-
 # Language Course Evaluation Form - Help Guide
 
 ## Purpose

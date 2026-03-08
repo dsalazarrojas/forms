@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beauty Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential customers about their beauty concerns, preferences, and expectations from a beauty consultation. It helps our consultant to tailor the consultation to your individual needs and preferences.

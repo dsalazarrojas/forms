@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to contact the company with general inquiries, customer support, partnership opportunities, media requests, or other messages. The form will help to provide company address and contact details for reference. The purpose of this form is to ensure that customers can reach out to the company with the right information and to receive responses from the right person.
-</thinking>
-
 # Contact Form With Company Address And Details - Help Guide
 ## Purpose
 This form is designed for customers to contact the company with various types of inquiries and requests. It includes fields for company address and contact details, as well as a message field for customers to provide additional information.

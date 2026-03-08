@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to capture the patient's consent to undergo aesthetic treatments, including various types of procedures. This form should be used to ensure that patients understand the risks and potential complications associated with these treatments, as well as their responsibilities in following post-treatment instructions. The form should be completed by the patient before undergoing any aesthetic treatment.
-</thinking>
-
 # Aesthetic Treatment Consent Form - Help Guide
 ## Purpose
 This form is used to capture the patient's consent to undergo aesthetic treatments, such as Botox, dermal fillers, chemical peels, laser hair removal, and other procedures. By completing this form, the patient confirms their understanding of the risks and potential complications associated with these treatments and agrees to follow post-treatment instructions.

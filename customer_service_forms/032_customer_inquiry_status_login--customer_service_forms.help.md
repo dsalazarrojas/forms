@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect customer inquiry status information for internal customer support purposes. It's essential to complete this form carefully to ensure accurate information is captured. Please ensure that you don't submit duplicate inquiries as it may lead to unnecessary internal discussions. This form will only be used internally within the company, so please refrain from providing any sensitive or unnecessary information. 
-</thinking>
-
 # customer_inquiry_status_login - Help Guide
 ## Purpose
 This form is designed to collect customer inquiry status information from customers. It is used internally to keep track of customer interactions and ensure efficient resolution of their inquiries.

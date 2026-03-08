@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who have experienced or witnessed a safety concern related to COVID-19 in a school setting. This form is designed to be filled out by anyone who has a complaint, report, or concern about a specific incident or issue they have encountered. It is essential to ensure that all responses are accurate and thorough, as the information provided will be used to address the complaint and improve school safety.
-
-Before proceeding, please ensure that:
-
-*   You are submitting a new complaint, and you have not already reported this issue to the school administration, school board, or health department.
-*   You are providing accurate and detailed information to support your complaint.
-
-This form is intended to guide you through the necessary steps to submit your complaint. Please take a few minutes to review each section carefully, and do not hesitate to ask for help if you need assistance.
-
-Please note that this form is not intended for anonymous complaints. While you have the option to request anonymity, it is essential to provide your contact information so that the school can follow up with you and keep you updated on the status of your complaint.
-
-By filling out this form, you will be providing the school with essential information to address your complaint and ensure your safety. If you have any questions or concerns, please do not hesitate to reach out to us.
-
-</thinking>
-
 # COVID 19 School Safety Protocol Complaint Form - Help Guide
 
 ## Purpose

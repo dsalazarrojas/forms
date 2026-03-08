@@ -1,9 +1,3 @@
-<thinking>
-**Form purpose and relevance check:** This form is used to collect senior superlatives, which is likely a term used in academic or professional settings to recognize outstanding achievements. The form is not meant to be used in cases where superlatives have already been selected or awarded. 
-
-**Non-duplication check:** This form should not be used if the same senior superlatives have already been selected or awarded in the past year. 
-</thinking>
-
 # Senior Superlatives Form - Help Guide
 ## Purpose
 The Senior Superlatives Form is designed to collect votes for outstanding seniors who have made significant contributions to their school or institution. This form is used to gather input from various stakeholders to identify and honor exceptional seniors.

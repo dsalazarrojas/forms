@@ -1,9 +1,3 @@
-<thinking> 
-This form is used to collect information for the Covid 19 Pilates Waiver form, which is used to gather consent and medical history information for individuals taking part in Pilates classes during the Covid 19 pandemic. To ensure that the form is filled out correctly, please review each section carefully. This form should only be filled out by individuals who are new to the Pilates studio or have not previously provided their information. If you have previously filled out this form, please do not fill it out again. 
-
-If you have any concerns or questions about filling out this form, please contact the studio staff.
-</thinking>
-
 # Covid 19 Pilates Waiver Form - Help Guide
 ## Purpose
 The Covid 19 Pilates Waiver form is used to collect consent and medical history information from individuals taking part in Pilates classes during the Covid 19 pandemic.

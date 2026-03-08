@@ -1,9 +1,3 @@
-<thinking>
-This form is used for obtaining medical research participant consent. The purpose of this form is to gather information and obtain consent from participants for a research study. The form is typically used in conjunction with other documents, such as research protocols and informed consent forms. This form should only be used for medical research studies that are approved by an Institutional Review Board (IRB). 
-
-To ensure that this form is used correctly, please review the form carefully and ensure that you are using it for a study that is approved by an IRB. You should also note that some fields are optional, but may be required for specific types of research studies.
-</thinking>
-
 # Medical Research Waiver Form - Help Guide
 
 ## Purpose

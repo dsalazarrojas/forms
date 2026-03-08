@@ -1,7 +1,3 @@
-<thinking>
-The "overbooking_complaint_form" form is used to collect information from customers about an overbooking issue they have encountered. This form is designed to gather relevant details from the customer to help the customer service team investigate and resolve the issue efficiently. To ensure that the customer service team can provide the best possible assistance, it is essential to complete this form accurately and thoroughly. Before filling out this form, please check if you have already submitted a similar complaint or issue. If you have, kindly refer to the previous complaint and update it instead of submitting a new one.
-</thinking>
-
 # overbooking_complaint_form - Help Guide
 ## Purpose
 The "overbooking_complaint_form" is used to report an overbooking issue, allowing our customer service team to investigate and resolve the issue effectively.

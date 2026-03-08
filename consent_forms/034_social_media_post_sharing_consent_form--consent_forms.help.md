@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Media Post Sharing Consent Form - Help Guide
 
 ## Purpose

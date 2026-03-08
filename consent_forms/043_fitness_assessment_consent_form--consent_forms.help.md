@@ -1,7 +1,3 @@
-<thinking>
-This form is for clients to provide their consent for a fitness assessment. The form is used to ensure the client has been informed about the risks and consequences of the fitness assessment process. It is crucial that clients complete this form accurately and honestly, as it will be used to determine their eligibility for a fitness professional's services. This form is typically completed by a fitness client before undergoing a fitness assessment. Before starting your assessment, please ensure you understand the form's requirements and purpose. If you've completed this form before, please double-check that all information is up-to-date and correct, as it may affect your assessment.
-</thinking>
-
 # fitness_assessment_consent_form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from clients before undergoing a fitness assessment. It ensures the client has been informed about the risks and consequences of the assessment process.

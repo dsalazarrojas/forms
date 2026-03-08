@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain authorization from a patient's authorized caregiver for elder care services. The form is used to gather information about the patient and the authorized caregiver, including their names, contact details, and signatures. This form is typically used by healthcare providers to ensure that the patient has granted permission for their care. The purpose of this form is to provide a legal and medical record of the patient's consent, and to protect the patient's rights and interests.
-</thinking>
-
 # Elder Care Authorization Form - Help Guide
 ## Purpose
 The Elder Care Authorization Form is used to obtain authorization from a patient's authorized caregiver for elder care services. This form is used to gather information about the patient and the authorized caregiver, including their names, contact details, and signatures.

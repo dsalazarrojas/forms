@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect contact information and other relevant details from users who are interested in exploring strategic cost reduction opportunities. The form is intended for internal use within the organization and is not intended for public access. Before filling out this form, please ensure that you have not already submitted a similar request in the past, as this may help us avoid duplication of effort and improve response times.
-
-The form is divided into several sections, each with its own set of fields. Please complete each section as follows:
-
-- **Main Page**: This is the first page of the form. It is not required to fill out. You can use this page to introduce yourself and provide any additional context about your inquiry.
-- **Contact Information**: This page is required and asks you to select one of the provided options for your contact method preference. Please choose the most relevant option for your needs.
-- **Message**: This page is required and asks you to provide a brief message about your inquiry. Please keep your message concise and clear.
-- **Phone**: This page is required and asks you to provide your phone number. Please ensure that your phone number is formatted correctly.
-- **Email**: This page is required and asks you to provide your email address. Please ensure that your email address is formatted correctly.
-- **Date**: This page is not required and asks you to select a date for your availability. Please choose a date that works for you.
-- **Time**: This page is not required and asks you to select a time for your availability. Please choose a time that works for you.
-- **Note**: This page is not required and asks you to provide any additional notes about your inquiry. Please keep your notes brief and clear.
-- **Finance**: This page is not required and asks you to select one or more options about your financial status. Please choose the most relevant options for your needs.
-- **Submit**: This page is not required but asks you to confirm your submission. Please double-check your information before submitting.
-- **Back to Home**: This page is not required and serves as a navigation link back to the home page.
-
-</thinking>
-
 # Strategic Cost Reduction Contact Form - Help Guide
 ## Purpose
 The Strategic Cost Reduction Contact Form is designed to collect contact information and other relevant details from users who are interested in exploring strategic cost reduction opportunities within the organization.

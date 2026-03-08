@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a general guide for users to understand the purpose and requirements of the Group Therapy Confidentiality Form. Please note that this form is used for group therapy sessions, and users are expected to understand the importance of confidentiality in these settings. It is essential to fill out this form accurately and honestly, as it sets the tone for the therapy process and ensures that the user is aware of their rights and responsibilities. This form should only be filled out once the user has read and understood the terms and conditions of the group therapy session. 
-</thinking>
-
 # Group Therapy Confidentiality Form - Help Guide
 ## Purpose
 The Group Therapy Confidentiality Form is designed to ensure that each group member understands and agrees to maintain confidentiality during the therapy sessions. This form requires users to select a category, provide a description, and sign off on the terms and conditions of the group therapy session. The form is divided into the following sections:

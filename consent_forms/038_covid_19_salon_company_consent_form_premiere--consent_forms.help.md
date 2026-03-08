@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from guests visiting the Premiere Salon Company during the COVID-19 pandemic. The form aims to ensure that guests are aware of and agree to the salon's policies and procedures for preventing the transmission of COVID-19. This includes agreeing to wear personal protective equipment (PPE), acknowledging that they are free of COVID-19 symptoms, and releasing the salon from liability in case of exposure. 
-
-This form is only required for guests visiting the Premiere Salon Company and will help ensure that everyone's safety is prioritized while maintaining a comfortable and secure environment.
-
-To avoid any duplication or unnecessary form completion, it's essential to ensure that guests do not need to fill out the form more than once during their visit.
-
-</thinking>
-
 # COVID 19 Salon Company Consent Form Premiere - Help Guide
 
 ## Purpose

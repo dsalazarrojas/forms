@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide helps users complete the contact form to effectively reach out to the right person or department for their inquiries or issues. The form ensures that users provide essential information to help the support team respond promptly and efficiently.
 
 # Contact A Person - Help Guide

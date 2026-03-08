@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect payment information from customers for car detailing services. The form is designed to be completed by customers, and the fields should only be filled out by the customer. The fields are designed to collect the necessary information to process the payment and generate a receipt for the customer. The form should only be used for customers who have a pre-existing balance due or have made a deposit towards their service. 
-
-Please ensure that the form fields are filled out accurately and completely to ensure that your payment is processed correctly. If you have any questions or concerns, please do not hesitate to contact us.
-
-</thinking>
-
 # Car Detailing Payment Form - Help Guide
 ## Purpose
 The Car Detailing Payment Form is used to collect payment information from customers for car detailing services. This form is only for customers who have a pre-existing balance due or have made a deposit towards their service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients who are interested in requesting landscaping services. The form is intended for individuals who want to inquire about or request a quote for landscaping services, such as lawn care, plant installation, or yard maintenance. This form is not meant to be a comprehensive or exhaustive survey, but rather a simple and efficient way to capture relevant details from clients. By using this form, clients can provide their contact information, describe their service request, and schedule a potential service appointment. This form is not meant to be filled out by internal staff or employees, but rather by external clients who are interested in requesting services.
-</thinking>
-
 # Landscaping Service Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients who are interested in requesting landscaping services.

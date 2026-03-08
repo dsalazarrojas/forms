@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from guests who wish to release theme park images, which will be used for various purposes such as promotion, marketing, or other official use. The form should only be completed by guests who have visited the theme park and are granting permission to use their image. Please ensure that you only complete this form once, as submitting multiple times may be considered redundant and may not be processed.
-
-</thinking>
-
 # Theme Park Image Release Form - Help Guide
 ## Purpose
 This form is used to obtain consent from guests for the use of their theme park images.

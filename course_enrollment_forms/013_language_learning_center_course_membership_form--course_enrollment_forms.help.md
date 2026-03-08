@@ -1,9 +1,3 @@
-<thinking>
-This form is for users to enroll in a course at the Language Learning Center. The purpose of this form is to gather information about the learner, their language preferences, course selection, schedule preferences, staff contact information, application details, and submit the form. 
-We assume that the user has a basic understanding of how the Language Learning Center works. 
-To ensure the user understands the form's purpose and its requirements, we will include explanations for each field to guide them through the process.
-</thinking>
-
 # Language Learning Center Course Membership Form - Help Guide
 ## Purpose
 The Language Learning Center Course Membership Form is designed to collect information from users interested in enrolling in a course at the Language Learning Center. This form is used to gather essential details about the learner, their language preferences, course selection, schedule preferences, and other relevant information.

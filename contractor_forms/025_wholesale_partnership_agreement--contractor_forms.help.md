@@ -1,20 +1,3 @@
-<thinking>
-This form is intended to be a contract template for partnerships between two parties (Partner A and Partner B). The form should help the user understand the partnership's details, such as the names, contact information, start and end dates, payment terms, and contribution levels of both partners. The form does not appear to be a duplicate of any other form, and its purpose is to gather information for a wholesale partnership agreement.
-
-Please note that the form includes several select_multiple fields, which will allow the user to choose multiple options from a pre-defined list. These fields are used to assign responsibility to both partners.
-
-Also, it seems that the form includes a few date fields, which will require the user to input specific dates for the start and end of the partnership.
-
-The form does not appear to require any specific payment terms, which is likely to mean that the user will need to specify these terms on their own or provide additional context/information that explains the payment terms.
-
-The payment fields are labeled as text fields, which could indicate that they should contain any relevant payment details or terms that are specific to this partnership.
-
-Lastly, the Notes field is a free text field where the user can provide any additional context or information that is relevant to the partnership.
-
-This guide is intended to help the user understand the purpose and requirements of the form.
-
-</thinking>
-
 # Wholesale Partnership Agreement - Help Guide
 ## Purpose
 This form is designed to be a contract template for a wholesale partnership agreement between two parties. It will gather information about the partnership, including the names, contact information, start and end dates, payment terms, and contribution levels of both partners.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Genetic Testing Consent Form - Help Guide
 ## Purpose
 This form is used to collect the patient's consent for genetic testing. The patient must agree or decline to proceed with the genetic testing.

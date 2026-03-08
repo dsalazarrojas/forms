@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's contact history and symptoms in relation to COVID-19. The purpose of this form is to support contact tracing efforts by public health authorities. This form will be reviewed to ensure that it is not duplicated or submitted with inaccurate information.
-
-</thinking>
-
 # Contact Tracing Form - Help Guide
 ## Purpose
 The Contact Tracing Form is used to collect information about individuals who may have been exposed to or infected with COVID-19. This information will be shared with public health authorities for contact tracing and monitoring purposes.

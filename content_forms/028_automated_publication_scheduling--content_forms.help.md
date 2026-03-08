@@ -1,7 +1,3 @@
-<thinking>
-The automated publication scheduling form is designed to allow users to schedule the publication of content on various platforms. This form is used to input details about the content, including its title, description, type, and category. The form also allows users to select the publication channels and schedule the publication date and time. Additionally, it includes settings for approval and promotion, such as approval required, approval deadline, and promotion plan. Users can also input their name and email for submission. The form is used by content creators to schedule the publication of their content on various platforms.
-</thinking>
-
 # Automated Publication Scheduling - Help Guide
 ## Purpose
 The automated publication scheduling form is designed to allow users to schedule the publication of content on various platforms. This form is used to input details about the content, including its title, description, type, and category. The form also allows users to select the publication channels and schedule the publication date and time.

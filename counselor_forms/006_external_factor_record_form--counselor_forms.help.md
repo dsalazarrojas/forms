@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about external factors that can impact an organization or project. External factors are events or situations that are outside of the organization's control, such as economic trends, technological advancements, or social changes. This form helps gather data on these factors to inform strategic decisions and risk assessments.
-
-To ensure that each factor is unique and relevant, the form only allows one entry per factor. Please make sure to only fill out the form once for each external factor that is applicable.
-
-</thinking>
-
 # External Factor Record Form - Help Guide
 ## Purpose
 The External Factor Record Form is used to collect and record information about external factors that can impact an organization or project. This form helps gather data on these factors to inform strategic decisions and risk assessments.

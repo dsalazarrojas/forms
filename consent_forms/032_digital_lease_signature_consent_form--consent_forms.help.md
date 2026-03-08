@@ -1,8 +1,3 @@
-<thinking>
-I am an expert form designer and technical writer. This form is intended for use in a digital lease agreement context, where landlords and tenants need to provide their consent and sign off on lease terms before a rental contract is finalized. The form likely serves as an addendum or a supplement to the lease agreement, ensuring that all parties involved are aware of their rights, responsibilities, and obligations.
-
-</thinking>
-
 # Digital Lease Signature Consent Form - Help Guide
 ## Purpose
 

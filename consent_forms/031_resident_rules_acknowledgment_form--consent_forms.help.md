@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be filled out by residents of a building or facility, acknowledging that they have read and understand the rules and regulations of the property. The form may be used to track whether residents have reviewed and agreed to the rules, and to ensure that they have the necessary contact information on file.
 
 </thinking>

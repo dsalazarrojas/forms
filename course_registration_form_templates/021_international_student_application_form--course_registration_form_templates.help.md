@@ -1,10 +1,3 @@
-<thinking>
-This guide is designed to help you complete the International Student Application Form, a crucial step in the application process for international students. Before proceeding, please ensure that you have carefully reviewed the form's purpose and requirements to avoid unnecessary submissions. To prevent duplication of efforts, please ensure that you have not previously submitted this form.
-
-This guide will walk you through the form's fields and their respective requirements to ensure a smooth and successful application process.
-
-</thinking>
-
 # International Student Application Form - Help Guide
 ## Purpose
 The International Student Application Form is designed to collect essential information from international students applying to our institution. The form helps us understand your background, interests, and qualifications to assess your eligibility for our programs.

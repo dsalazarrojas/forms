@@ -1,13 +1,3 @@
-<thinking>
-This form is used to create a contract amendment for an influencer, allowing them to propose changes to their existing contract. The form is likely used in the context of influencer marketing, where an influencer may need to adjust their contract terms due to changes in their circumstances or business requirements.
-
-To ensure the form is used correctly, please review the following steps and guidelines:
-
-* Make sure the influencer is aware of the contract changes and understands the implications.
-* The form should be used when there are valid reasons for changing the contract, such as changes in market conditions, business growth, or unexpected circumstances.
-
-</thinking>
-
 # Influencer Contract Amendment Form - Help Guide
 
 ## Purpose

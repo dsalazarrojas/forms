@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information from clients for sports massage consultations. It is likely intended for use in a physical therapy or sports medicine context. The form should not be used as a replacement for medical diagnosis or treatment. Ensure that this form is filled out in conjunction with, and not as a substitute for, professional medical advice.
-</thinking>
-
 # Sports Massage Consultation Form - Help Guide
 ## Purpose
 This form is used to gather information from clients before a sports massage consultation. Please fill out this form thoroughly and accurately to ensure that the massage therapist is prepared to provide the best possible service.

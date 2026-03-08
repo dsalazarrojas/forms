@@ -1,13 +1,3 @@
-<thinking>
-This form is used to gather information about a client's customized skincare routine. The purpose of this form is to collect data on a client's skincare preferences, habits, and experiences. This information will be used to provide personalized skincare recommendations to the client. 
-
-To complete this form, please follow the steps below:
-
-1. Please ensure that you are logged in to access the form.
-2. The form is divided into several sections, each representing a different aspect of the client's skincare routine. Please complete each section according to the instructions provided below.
-
-</thinking>
-
 # Customized Skincare Routine - Help Guide
 
 ## Purpose

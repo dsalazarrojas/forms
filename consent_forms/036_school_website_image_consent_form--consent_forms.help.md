@@ -1,11 +1,3 @@
-<thinking>
-To ensure that the School Website Image Consent Form is completed accurately and with the correct intent, please consider the following:
-
-*   This form is intended for parents and administrators to provide consent for students' images to be published on the school website.
-*   Please make sure to fill out all required fields and select the correct options for your consent.
-*   This form helps to ensure that students' privacy and security are protected.
-</thinking>
-
 # School Website Image Consent Form - Help Guide
 ## Purpose
 The School Website Image Consent Form is a form designed for parents and administrators to provide consent for students' images to be published on the school website.

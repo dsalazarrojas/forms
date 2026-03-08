@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the discharge of a student from an education course. The purpose of this form is to provide a structured way to gather necessary information for the student's discharge process. This form should only be used when a student is being discharged from a course due to non-attendance or academic reasons. Please do not complete this form unless a student's discharge is necessary. Non-duplicative submissions are appreciated.
-</thinking>
-
 # Education Course Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge of a student from an education course. It is to be completed in cases where a student is being discharged due to non-attendance or academic reasons.

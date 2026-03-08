@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a registration form for performing artists, specifically designed for auditions. It is likely used by production teams or casting directors to gather information from performers who are interested in participating in auditions for various types of performances (theater, film, television, commercial, etc.). The form is designed to collect essential details about the performer, including their contact information, performance experience, and specific requirements or accommodations they may need to perform. It is intended for performers who are interested in auditioning for roles, whether as a minor or an adult, and requires verification of their age. The form also asks for information on their availability and representation status. 
-
-Before filling this form, it's essential to review it carefully and ensure that you are not already registered for the same audition, as this form is designed to be used once for each audition.
-
-</thinking>
-
 # Audition Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from performing artists interested in participating in auditions. It is used by production teams to gather details about the performer's background, experience, and requirements for the audition.

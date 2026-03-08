@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Toolbox Talks Sign In Form - Help Guide
 
 ## Purpose

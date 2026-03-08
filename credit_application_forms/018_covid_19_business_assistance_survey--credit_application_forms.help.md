@@ -1,8 +1,4 @@
-# <thinking>
-This help guide is intended to assist business owners in completing the COVID-19 Business Assistance Survey. Before proceeding, please ensure that this is the correct form for you and that you have all necessary information ready. The purpose of this form is to gather essential data about businesses affected by the COVID-19 pandemic. It will help us understand how the pandemic has impacted various businesses and provide valuable insights for future support and resource allocation.
-</thinking>
-
-# COVID 19 Business Assistance Survey - Help Guide
+# # COVID 19 Business Assistance Survey - Help Guide
 ## Purpose
 The COVID-19 Business Assistance Survey is designed to collect information about businesses affected by the pandemic. It will help us understand the challenges faced by businesses and provide essential data to inform support and resource allocation.
 

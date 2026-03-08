@@ -1,9 +1,3 @@
-<thinking>
-To determine if the form is relevant and not duplicated, consider the following:  
-The Long Term Care Facility Discharge Form is a document used to record the details of a resident's discharge from a long term care facility. It is essential to complete this form accurately to ensure a smooth transition for the resident and to maintain records. If you are filling out this form for the first time, please ensure that you are not duplicating any existing records. If you are unsure, consult with your supervisor or the facility's administration for clarification.
-
-</thinking>
-
 # Long Term Care Facility Discharge Form - Help Guide
 ## Purpose
 The Long Term Care Facility Discharge Form is a document used to record the details of a resident's discharge from a long term care facility. It captures essential information about the resident's status and facilitates the transition process.

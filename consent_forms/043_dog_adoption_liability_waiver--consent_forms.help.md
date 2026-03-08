@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals or entities adopting dogs from the organization. It is intended to capture basic contact and owner information, dog details, and waiver of liability for the adopted dog. This form does not require a signature, as it is a liability waiver for the adopter, not the adoptor. The waiver can be signed by selecting the 'Yes' option in the 'Waiver Signed' field. The form is meant to be completed before the adoption process is finalized, ensuring that all required information is captured and the adopter is aware of their responsibilities.
-</thinking>
-
 # Dog Adoption Liability Waiver - Help Guide
 ## Purpose
 This form is used to collect information from individuals or entities adopting dogs from the organization.

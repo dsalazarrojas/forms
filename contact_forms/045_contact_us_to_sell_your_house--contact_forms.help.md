@@ -1,8 +1,3 @@
-<thinking>
-We'll create a user-friendly help guide for the "Contact Us To Sell Your House" form. The form is designed to help individuals contact a service to sell their house. The guide will walk users through the form's purpose, how to complete it, and a detailed explanation of each field. This ensures a smooth and efficient experience for users who want to get a free home valuation. We'll cover the required fields, optional fields, and any other relevant information users might need to know. This guide will be concise, practical, and based on the provided form fields.
-
-</thinking>
-
 # Contact Us To Sell Your House - Help Guide
 ## Purpose
 This guide is designed to help you contact a service to get a free home valuation for your house. Please fill out the form below with your information and we'll be in touch to discuss further.

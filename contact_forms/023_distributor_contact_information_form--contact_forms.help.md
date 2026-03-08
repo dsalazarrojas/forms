@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information from distributors. It is a required field for all distributors. To ensure accurate and comprehensive data, please fill out this form with the most up-to-date and relevant information. Duplicate entries will be removed. Please note that fields marked as "required" are necessary to submit the form, and fields marked as "optional" can be filled out for additional context or information.
-</thinking>
-
 # Distributor Contact Information Form - Help Guide
 ## Purpose
 The Distributor Contact Information Form is used to collect and store contact information from distributors. This information is essential for our team to communicate effectively and efficiently with our distributors.

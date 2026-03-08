@@ -1,13 +1,3 @@
-<thinking>
-
-The User Experience (UX) Assessment Form is a crucial tool for evaluating the usability and overall user experience of our product or service. Its primary purpose is to gather feedback from users on various aspects of the user interface, navigation, and overall satisfaction with our offering. This form will help us identify pain points and areas of improvement to enhance the user experience.
-
-Before proceeding, please note that this form is designed to be completed by end-users, and the questions and fields are crafted to be clear and concise. The form is divided into several sections, each focusing on a specific aspect of the user experience.
-
-To ensure accurate and meaningful feedback, please answer the questions honestly and thoroughly.
-
-</thinking>
-
 # User Experience (UX) Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the user experience of our product or service, helping us to identify areas of improvement and enhance overall usability.

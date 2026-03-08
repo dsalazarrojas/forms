@@ -1,8 +1,3 @@
-<thinking>
-The Experience Form is a customer satisfaction evaluation form used to gather feedback from customers after their visit or interaction with our company. This form is designed to collect data on various aspects of their experience, including overall satisfaction, staff professionalism, and service quality. Before completing this form, please ensure that you have not already submitted feedback on this experience. If you have, your submission will not be processed.
-
-</thinking>
-
 # Experience Form - Help Guide
 ## Purpose
 The Experience Form is a tool used to gather feedback from customers on their satisfaction with our services.

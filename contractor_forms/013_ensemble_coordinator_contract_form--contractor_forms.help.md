@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is for an ensemble coordinator to submit their contact information, the relevant dates associated with their contract, and the terms of their compensation. This form is required to be completed by the ensemble coordinator for official contract records and payment processing. Please note that this form does not require a detailed description of the services provided or the work scope. The required fields are Organization Name, Start Date, End Date, Compensation Terms, and Signature Date. The optional fields are Coordinator Contact Info, Ensemble Coordinator Signature, and Organization Signature.
-
-</thinking>
-
 # Ensemble Coordinator Contract Form - Help Guide
 ## Purpose
 The Ensemble Coordinator Contract Form is a crucial document that captures essential information about an ensemble coordinator's contact details, contract dates, and compensation terms. This form ensures accurate and official records are maintained for contract management and payment processing.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Astrology Reading Giveaway Entry - Help Guide
 ================
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a COVID-19 test billing form designed to gather necessary information for billing and insurance purposes. It is intended for healthcare providers to collect billing details for patients who have undergone COVID-19 tests. This form is a crucial document that helps facilitate the billing process, ensuring that the patient's test results and related expenses are accurately recorded and reported to the insurance provider. The form is designed to minimize errors and ensure compliance with regulatory requirements. Ensure you are only using this form for billing purposes related to COVID-19 tests. Do not use this form for other medical billing purposes. 
 
 </thinking>

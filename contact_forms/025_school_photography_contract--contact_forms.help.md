@@ -1,7 +1,3 @@
-<thinking>
-The School Photography Contract form is used for capturing information from clients regarding their photography needs, including their contact information, payment preferences, and any other relevant details. Before filling out this form, please ensure that you have the necessary authorization and approval to proceed with the photography services. Also, be aware that this form is not intended for commercial or business use; it is designed for personal or individual use. To prevent duplication, please do not fill out this form if you have already done so in the past or if you are filling out on behalf of someone else.
-</thinking>
-
 # School Photography Contract - Help Guide
 ## Purpose
 The School Photography Contract form is a tool used to gather necessary information from clients for the school's photography services. The form collects details such as client information, payment information, and payment terms to ensure clear communication and understanding between the client and the school administration.

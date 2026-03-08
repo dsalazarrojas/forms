@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather participant information and consent for a property value study. 
-It is intended to be completed by individuals participating in the study. The form fields are meant to collect essential details about the participant, such as name, phone number, email, address, and a few other relevant details. The "Consent" field is a critical part of the form where the participant indicates their agreement or disagreement to participate in the study.
-</thinking>
-
 # Property Value Study Participation Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant information and obtain consent for a property value study. It is a crucial step in the study process, ensuring that participants understand the purpose of the study and agree to participate.

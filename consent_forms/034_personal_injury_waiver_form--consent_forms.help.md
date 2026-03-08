@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Injury Waiver Form - Help Guide
 ## Purpose
 This form is used to collect information from participants about a specific event, such as details about the event and the participant's involvement. The form is designed to be completed by participants to provide their consent and waiver for any potential risks or injuries that may occur during the event.

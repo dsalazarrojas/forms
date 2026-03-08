@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants seeking permission to use the AI-generated likeness of a deceased artist. The form aims to determine the applicant's intention to use the AI-generated likeness, the scope of usage, and the terms under which the likeness will be used. 
-
-Before we process your request, please ensure that this form is being used for the intended purpose and that you are the authorized representative of the estate or rights holder. The form is also designed to prevent duplicate or unauthorized submissions. 
-
-If you are not the rights holder, please do not submit this form. If you need to make changes to an existing permission, please submit the "Renewal of existing permission" option. 
-
-Please carefully review each field to ensure accurate and complete information. If you have any questions or need further clarification, feel free to contact us at [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # AI Generated Deceased Artist Likeness Permission Request - Help Guide
 ## Purpose
 This form is designed to collect information from applicants seeking permission to use the AI-generated likeness of a deceased artist. The form aims to determine the scope of usage, intended purpose, and terms of use for the AI-generated likeness.

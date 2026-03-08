@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Infographic Content Collection Survey - Help Guide
 
 ## Purpose

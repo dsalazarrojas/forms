@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is designed to collect information from customers or clients for a handyman service quote. The form will be used to gather essential details such as name, company, address, and contact information for a handyman to provide an estimate for a potential job. The form should be kept concise and straightforward for end-users to fill out, while ensuring all required fields are properly filled out for accurate quote preparation.</thinking>
-
 # Handyman Quote Request Form - Help Guide
 ## Purpose
 The Handyman Quote Request Form is a tool for clients to provide essential information about a potential job for a handyman service. This form helps the handyman to prepare an accurate estimate for the client's needs.

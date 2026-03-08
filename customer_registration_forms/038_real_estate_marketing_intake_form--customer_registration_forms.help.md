@@ -1,7 +1,3 @@
-<thinking>
-This form was created to gather information about real estate marketing strategies, which can be used to improve the marketing efforts of real estate professionals. The form is designed to collect data on various aspects of real estate marketing, including marketing channels, target audience, and marketing messages. The purpose of this form is to gather insights that can be used to optimize real estate marketing campaigns and improve their effectiveness. It is not intended for any other purpose other than data collection and analysis for real estate marketing strategy improvement.
-</thinking>
-
 # Real Estate Marketing Intake Form - Help Guide
 ## Purpose
 The Real Estate Marketing Intake Form is a comprehensive form designed to gather information about your real estate marketing strategies. This data will be used to optimize your marketing efforts and improve their effectiveness.

@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for users to provide information about smartwatch usage. This form is part of a larger system for tracking and managing device usage within the organization. The form is used to gather data on who is using the smartwatch, their role within the organization, department, device type, start and end dates, reason for return, comments, assigned tool, form submitted by, form submitted by title, form submitted on, assigned to, department (again, as it's a separate field), user information 2, role 2, assigned tool 2, form submitted on 2, and form submitted by title 2. It's likely that this form will be used by administrators, developers, and users within the sales, marketing, and support departments. The fields are mostly optional, but some fields like "Form Submitted By" and "Form Submitted On" are likely to be filled with some sort of identifier or timestamp to track who and when the form was submitted. 
-
-It's not clear what the "User Information 2" fields are for, but it might be for additional details about the user, possibly for secondary smartwatches. Similarly, the "Role 2" fields might be for a secondary role assigned to the user. The "Assigned Tool 2" field might be for an alternate tool assigned to the user. The form might be used to track both primary and secondary usage of smartwatches within the organization. 
-
-Before filling out this form, ensure you have all the necessary information and authorization to complete it accurately. You might need to coordinate with your team or manager before submitting the form. 
-
-This form is likely used within an administrative process, and the submitted information will be reviewed and acted upon by someone in the organization. 
-
-Please review the form carefully and fill in all the required fields. If you're unsure about a field, try to fill it with the most relevant information available. If you're still unsure, you can always reach out to your team or manager for clarification. 
-</thinking>
-
 # Smartwatch Usage Acknowledgement - Help Guide
 ## Purpose
 This form is used to track and manage smartwatch usage within the organization.

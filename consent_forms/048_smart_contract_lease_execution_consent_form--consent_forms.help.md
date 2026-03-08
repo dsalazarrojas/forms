@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Smart Contract Lease Execution Consent Form, ensuring that users understand its purpose, how to complete it, and what each field means.
-</thinking>
-
 # Smart Contract Lease Execution Consent Form - Help Guide
 ## Purpose
 The Smart Contract Lease Execution Consent Form is a critical document that facilitates the execution of smart contracts for leasing transactions. It captures essential information from both the tenant and landlord to ensure a smooth and secure process. This form is essential for creating, managing, and executing smart contracts in the context of leasing.

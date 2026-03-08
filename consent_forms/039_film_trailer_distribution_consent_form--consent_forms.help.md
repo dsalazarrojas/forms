@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "film_trailer_distribution_consent_form" form. This form is designed to collect information from individuals or organizations interested in distributing a film trailer, and it's likely used in the context of film or video production. The form is used to obtain consent from the individuals or organizations involved in the distribution process. The form might be used in various industries such as film, media, or entertainment. The purpose of this form is to ensure that all parties involved in the distribution process have given their consent, which is a legal requirement in many jurisdictions. 
-
-To confirm, this form is not a form for general film distribution, but rather for specific trailer distribution, which implies it's used for a specific part of the overall film distribution process. This form should be completed by the individual or organization requesting to distribute the trailer, and it should be filled out for each trailer distribution request.
-
-</thinking>
-
 # film_trailer_distribution_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from individuals or organizations interested in distributing a film trailer. It's a legal requirement in many jurisdictions to ensure that all parties involved in the distribution process have given their consent.

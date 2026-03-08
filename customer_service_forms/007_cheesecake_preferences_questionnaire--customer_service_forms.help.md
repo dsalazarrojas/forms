@@ -1,11 +1,3 @@
-<thinking>
-
-To create an effective help guide for the "Customer Preferences Questionnaire", we should first ensure that it accurately reflects the intended purpose and functionality of the form, while also being mindful of the potential duplication or overlap of questions. A thorough analysis of the form's structure and fields would help in streamlining the explanations and making the guide more concise and practical for users.
-
-Let's review the form and its purpose before creating the help guide.
-
-</thinking>
-
 # Cheesecake Preferences Questionnaire - Help Guide
 ## Purpose
 The "Cheesecake Preferences Questionnaire" is designed to gather information about your cheesecake preferences, including your personal details, eating habits, and preferences for flavors, toppings, and more. This data will help us understand your cheesecake needs and provide you with a better experience.

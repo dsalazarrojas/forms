@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Declaration Form - Help Guide
 ## Purpose
 

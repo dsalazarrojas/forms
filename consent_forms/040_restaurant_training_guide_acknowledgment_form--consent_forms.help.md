@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a simple acknowledgment form for a restaurant training guide. It aims to ensure that employees have completed the training and confirm their understanding of the guide's content. The form will likely be used in a restaurant setting to keep track of employee training progress and completion status.
-
-</thinking>
-
 # Restaurant Training Guide Acknowledgment Form - Help Guide
 ## Purpose
 The purpose of this form is to verify that employees of a restaurant have completed the training guide and confirm their understanding of its content.

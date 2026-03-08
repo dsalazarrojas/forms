@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, I'll follow the provided YAML structure and provide a concise explanation for each field. Here's my thought process:
 
 The Digital Architecture Strategy Contact Form is designed to gather contact information and inquire about architectural strategies from potential clients or partners. The form is not meant to be a sales-oriented tool, but rather a way to facilitate collaboration and exchange of ideas. Before filling out the form, ensure that the inquiry is not a duplicate effort and that you're not already in touch with us regarding the same topic. This form is meant to be a starting point for further discussion.

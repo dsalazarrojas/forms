@@ -1,24 +1,3 @@
-<thinking>
-
-To determine the best way to create a user-friendly help guide for this form, I'll first review the provided YAML fields. The form is titled "House Call Service Survey" and consists of 10 sections, each with its own label, type, and options. The form collects information from the customer, including their first name, email, phone number, address, and zip code. The form also includes three sections for feedback, where the customer can rate their satisfaction with the service, recommend it, and provide comments. The fields that require explanation are:
-
-*   **First Name**: The customer's first name.
-*   **Email**: The customer's email address.
-*   **What can we help you with today?**: This field is a text input where the customer can briefly describe their issue or problem.
-*   **How may we assist you?**: This field is also a text input where the customer can provide more detailed information about their needs.
-*   **How satisfied are you with our service?**: A select input with five options, from Very Satisfied to Very Dissatisfied, where the customer can rate their satisfaction.
-*   **Would you recommend our service?**: A select multiple input with two options, 'Yes' and 'No', where the customer can choose multiple responses.
-*   **What can we improve on?**: A text input field where the customer can provide detailed feedback on how the service can be improved.
-*   **Service Provider**: A text input field for the customer to mention the service provider if any.
-*   **Phone**: The customer's phone number.
-*   **Address**: The customer's address.
-*   **City**: The customer's city.
-*   **State**: The customer's state.
-*   **Zip**: The customer's zip code.
-*   **Comments**: A text input field for any additional comments or feedback.
-
-</thinking>
-
 # House Call Service Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from customers after our service visit. Please take a few minutes to complete this survey and help us improve our service.

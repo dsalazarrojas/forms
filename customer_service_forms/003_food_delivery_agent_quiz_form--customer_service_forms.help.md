@@ -1,5 +1,3 @@
-<thinking>As this form is designed to assess the skills and behaviors of food delivery agents, it is crucial to understand the purpose and how to complete it correctly. The form's purpose is to gauge the agent's ability to effectively handle customer interactions, complaints, and satisfaction issues in the food delivery industry. By completing this form, the agent's skills in communication, problem-solving, and customer service will be evaluated. This form should not be filled out if the agent has not yet had experience in the food delivery industry or with customer-facing roles, as it may not be accurate. If you are not familiar with the format or content, please ask for clarification before proceeding.</thinking>
-
 # Food Delivery Agent Quiz Form - Help Guide
 ## Purpose
 This form is designed to assess your skills and behaviors in handling customer interactions, complaints, and satisfaction issues in the food delivery industry.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sugaring Consent Form - Help Guide
 ## Purpose
 The Sugaring Consent Form is used to obtain written consent from patients before performing sugaring services. This form ensures that patients understand and agree to the terms and conditions of the service, including the type and frequency of the service.

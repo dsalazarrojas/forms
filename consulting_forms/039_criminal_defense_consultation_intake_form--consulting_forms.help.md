@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect essential information from clients for the purpose of providing criminal defense consultation. It is likely used by law firms or legal aid organizations to assess and document the details of a client's case. The form will be reviewed by an internal team before being presented to a lawyer or legal advisor for consultation. To ensure accurate completion, please fill out the form thoroughly and accurately. Ensure that you are not duplicating this form for other similar services or cases, as each form is a distinct instance of the consultation process.
-</thinking>
-
 # Criminal Defense Consultation Intake Form - Help Guide
 ## Purpose
 The Criminal Defense Consultation Intake Form is designed to collect essential information from clients seeking criminal defense consultation. This information will be reviewed by our team before being presented to a lawyer or legal advisor for consultation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for a health-related AI transparency research project. It is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation using only public survey topic metadata. Before proceeding, please ensure that you have read and understood the form's purpose and the information it will be used for.
-</thinking>
-
 # health_ai_transparency_research_consent_form - Help Guide
 ## Purpose
 

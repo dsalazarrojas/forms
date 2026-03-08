@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients about their preferences and needs for nail care services. The form is intended to be used by clients who are interested in booking a nail technician's services. It's crucial to ensure that the form is completed accurately to provide the best possible experience for the client and the technician.
-</thinking>
-
 # nail_technician_client_consultation_form - Help Guide
 ## Purpose
 The "nail_technician_client_consultation_form" is a form designed to collect information from clients about their preferences and needs for nail care services.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used by customers to request information on our company's services such as Environmental Design, Landscaping, and Treatment. It's designed to collect basic contact information and specific details about the type of service they are looking for. Please ensure you have already tried to resolve your issue before submitting this form. Additionally, check that you have not submitted a similar request recently.
-</thinking>
 # Online Information Request Form - Help Guide
 ## Purpose
 The Online Information Request Form is designed to collect information from customers on their service needs and requirements. It's a simple form that guides them to provide essential details about their inquiry.

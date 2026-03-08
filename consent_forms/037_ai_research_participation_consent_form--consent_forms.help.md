@@ -1,5 +1,3 @@
-<thinking>...This form is designed to obtain informed consent from participants in AI research studies. Its purpose is to ensure that participants understand the scope of the study, the potential risks and benefits involved, and their rights as participants. The form also gathers essential contact information and demographic data from the participant. Before proceeding, ensure that you are aware of the study's purpose, the researcher's affiliation, and that you have not previously completed this form...</thinking>
-
 # AI Research Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from participants in AI research studies. Its purpose is to ensure that participants understand the scope of the study, the potential risks and benefits involved, and their rights as participants.

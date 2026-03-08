@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for employees who have tested positive for COVID-19 to report their diagnosis details to the workplace. It is crucial that employees accurately and completely fill out this form to ensure the workplace can take necessary precautions and provide the necessary support. 
-The form should not be filled out by individuals without a confirmed positive COVID-19 diagnosis. 
-
-To ensure accuracy, please do not fill out this form if you have already submitted a previous version or if your status has been updated since the previous submission. If you are unsure about any section, please refer to the field explanations below.
-
-</thinking>
-
 # COVID 19 Positive Diagnosis Form - Help Guide
 ## Purpose
 This form is for employees who have tested positive for COVID-19 to report their diagnosis details to the workplace. It helps the organization take necessary precautions and provide support.

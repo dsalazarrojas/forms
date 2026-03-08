@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from mental health counselors to create a comprehensive profile of their qualifications, experience, and certifications. The form aims to reduce duplication and ensure that all relevant information is captured accurately. This will help in creating a centralized database for mental health counselors that can be easily accessed and referenced. 
-
-</thinking>
-
 # Mental Health Counselor Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from mental health counselors to create a comprehensive profile of their qualifications, experience, and certifications.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Empowered Thinking Mindset Coaching program. Please ensure this is the correct form for your intended purpose and do not submit the form if you have already registered for this program.
-</thinking>
-
 # Empowered Thinking Mindset Coaching Registration - Help Guide
 ## Purpose
 This form is intended for individuals who want to register for the Empowered Thinking Mindset Coaching program. It is a registration form that collects basic contact information and demographic data.

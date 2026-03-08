@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect and document the COVID-19 test results of students in an educational institution. This form is intended to streamline the process of tracking and managing test results, ensuring accurate and consistent data collection. 
-
-The form is designed to gather information about the student, including their student ID, test date, test result, student name, test result notes, student email, teacher email, and test result date. 
-
-Before filling out this form, ensure that you have all the required information and that you are authorized to access and submit this form. This form should not be used for any other purpose other than as intended.
-
-</thinking>
-
 # Student COVID 19 Test Result Submission Form - Help Guide
 ## Purpose
 The Student COVID 19 Test Result Submission Form is a digital form designed to collect and document COVID-19 test results of students. It is intended to facilitate the tracking and management of test results.

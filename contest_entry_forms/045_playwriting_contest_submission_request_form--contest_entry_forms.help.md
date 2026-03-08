@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who wish to submit their playwriting contest entries. The form will collect various details such as the title of the play, entry, submission date and time, script, category, tags, submission, email, phone number, name, address, city, state, zip, organization, role in organization, relationship, contact method, contact information, contact email, contact phone, and contact address. This form is likely intended for individuals or organizations submitting plays for a contest, with the aim of being considered for the contest.
-
-Checking for relevance and non-duplication:
-The purpose of this form is to gather information from users about their playwriting contest submissions. The form's purpose is likely to help the contest organizers review and evaluate the submissions. This form does not appear to be a form for general contact or feedback purposes, as it requests specific details about a submission. It is possible that this form is a custom-built form for a specific contest, with the fields designed to gather relevant information for the contest's specific needs.
-
-</thinking>
-
 # Playwriting Contest Submission Request Form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Healthcare AI Innovation Challenge Registration form, we must first understand the purpose and requirements of this form. The form is designed for teams to register their participation in the Healthcare AI Innovation Challenge, a competition that promotes innovation in the healthcare industry. This guide will explain the form's purpose, how to complete it, and what each field means.
-
-The form's purpose is to gather essential information about the teams participating in the challenge. This includes details about the team, their project, and the innovation they are submitting. The form will ask for team details, team lead contact information, project summary, team members, project name, project image URL, and other relevant information.
-
-The challenge is likely looking for teams to submit innovative projects related to AI in the healthcare industry, and this form will help them identify and evaluate potential participants.
-
-</thinking>
-
 # Healthcare AI Innovation Challenge Registration - Help Guide
 
 ## Purpose

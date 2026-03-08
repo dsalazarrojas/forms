@@ -1,7 +1,3 @@
-<thinking>
-This form is used to extend a customer's support plan. It is a necessary step for customers who need to upgrade or modify their existing support plan. To avoid duplication of effort, please ensure that you have already submitted a support plan extension request for this customer. If this is a new request, please use the customer support plan submission form instead.
-</thinking>
-
 # customer_support_plan_extension_form - Help Guide
 ## Purpose
 This form is used to extend a customer's support plan.

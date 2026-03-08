@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's contact tracing data. The purpose of this form is to gather details about a patient's recent contacts and potential exposures to COVID-19. This form should only be used to report new or ongoing cases, and not for follow-up visits or test results. It's essential to fill out this form accurately and completely to ensure that healthcare providers have the necessary information to provide proper care.
-</thinking>
-
 # covid_contact_tracing_form_template - Help Guide
 ## Purpose
 The COVID-19 Contact Tracing Form is designed to collect information about a patient's contact tracing data for healthcare providers.

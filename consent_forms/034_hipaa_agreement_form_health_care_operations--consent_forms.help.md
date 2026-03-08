@@ -1,7 +1,3 @@
-<thinking>
-This form is a HIPAA (Health Insurance Portability and Accountability Act) agreement form for healthcare operations. Its purpose is to obtain a patient's consent for the use and disclosure of their protected health information (PHI) for medical treatment, payment, and operations. The form should only be used for legitimate medical purposes, and the fields and explanations below should be used to ensure accurate and efficient completion. Please review each field carefully to ensure compliance with HIPAA regulations.
-</thinking>
-
 # hipaa_agreement_form_health_care_operations - Help Guide
 ## Purpose
 

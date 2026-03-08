@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Local Chamber Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect contact information from visitors to the local chamber. The form is designed to gather essential details such as the person's name, contact email, phone number, and job title to ensure that our team can effectively communicate with them. To use this form, please ensure that you have not already provided this information in a previous form submission. Duplicate submissions can cause confusion and may not be processed.

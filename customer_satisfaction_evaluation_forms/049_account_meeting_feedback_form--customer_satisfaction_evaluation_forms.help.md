@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Check:**
-The form is designed for customer satisfaction evaluation after an account meeting. The primary goal is to collect feedback on the meeting's objectives, preparation, communication, and overall satisfaction. The form includes questions about the account manager's performance, meeting materials, time management, and follow-up commitments. It also inquires about the value added to the business relationship and the likelihood to recommend the account manager. The form is meant to be completed by customers, likely in the context of a business or professional setting. No duplication of proprietary content was detected, as the form is AI-generated based on public metadata. No direct affiliation with any form platform is indicated, ensuring it is an original adaptation.
-</thinking>
-
 # Account Meeting Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the account meeting, focusing on the account manager's performance, meeting materials, and overall satisfaction.

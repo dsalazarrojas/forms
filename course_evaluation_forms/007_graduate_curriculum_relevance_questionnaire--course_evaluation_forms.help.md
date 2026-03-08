@@ -1,14 +1,3 @@
-<thinking>
-We will first need to create a help guide for the "Graduate Curriculum Relevance Questionnaire" form to ensure that end-users understand its purpose, how to complete it, and what each field means.
-
-The form's primary objective is to collect feedback and insights from graduates on the relevance and effectiveness of the curriculum offered by the institution. This feedback will help identify areas of strength and weakness in the curriculum and inform improvements for future graduate programs.
-
-The form should not be completed by graduates who have already graduated or have not completed their graduate program. If a graduate has already graduated, they should not be able to access this form, and if they have not completed their program, they should not be able to complete this form.
-
-We will ensure that all fields are clearly labeled and explained to avoid confusion.
-
-</thinking>
-
 # Graduate Curriculum Relevance Questionnaire - Help Guide
 ## Purpose
 The Graduate Curriculum Relevance Questionnaire is designed to gather feedback from current graduate students on the relevance and effectiveness of the curriculum offered by the institution. This feedback will help identify areas of strength and weakness in the curriculum and inform improvements for future graduate programs.

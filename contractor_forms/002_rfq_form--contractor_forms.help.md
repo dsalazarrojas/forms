@@ -1,9 +1,3 @@
-<thinking>Before creating the help guide, I will review the provided YAML form and understand its structure and purpose.
-
-This form is called "RFQ Form" and is part of the "contractor_forms" category. It seems to be a form used for collecting various types of information related to clients and contractors. Each page of the form has a unique name and ID, and it appears to be a series of questions or fields that need to be filled out.
-
-After reviewing the form, I will create a help guide that explains the purpose of the form, how to complete it, and what each field means. I will follow the required structure of having a "Field-by-Field Explanation" section with one bullet per field.</thinking>
-
 # RFQ Form - Help Guide
 ## Purpose
 The RFQ Form is a tool used to collect information about clients and contractors. It helps in gathering details such as contact information, client requests, payment terms, business details, and contract terms. This form is used to streamline the process of collecting and organizing the necessary information for client-contractor interactions.

@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to verify the personal identity of individuals. This form is used in various contexts, such as customer onboarding, government services, or background checks, where confirming an individual's identity is crucial. 
-
-The form is designed to be completed by the individual themselves, and it collects various pieces of personal information, including their name, contact details, and government-issued identification documents.
-
-To determine the relevance and non-duplication, the form is likely used in situations where the exact identification details are required, such as in the context of a new customer account opening, government benefits registration, or background checks.
-
-</thinking>
-
 # Personal Identity Verification Form - Help Guide
 ## Purpose
 The Personal Identity Verification Form is used to confirm your personal details for various purposes, such as customer onboarding, background checks, or government services.

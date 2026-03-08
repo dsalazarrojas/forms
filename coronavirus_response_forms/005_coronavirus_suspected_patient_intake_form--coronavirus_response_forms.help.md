@@ -1,11 +1,3 @@
-<thinking>
-
-To create this help guide, we'll first clarify the purpose and context of the form. This form is intended for healthcare professionals to collect information from individuals who are suspected to have been exposed to or are displaying symptoms of COVID-19. The form aims to gather essential details about the patient, including their name, date of birth, symptoms, contact information, and contact phone number. This information will help healthcare professionals assess and respond to the patient's condition efficiently and effectively.
-
-Before filling out this form, please ensure that you have the necessary permissions and approvals to collect this sensitive health information. Also, be aware that the form does not replace any clinical assessment or medical diagnosis. If you're unsure about any field or requirement, please reach out to your supervisor or healthcare team for guidance.
-
-</thinking>
-
 # Coronavirus Suspected Patient Intake Form - Help Guide
 ## Purpose
 The **Coronavirus Suspected Patient Intake Form** is designed to collect essential information from patients suspected of having been exposed to or displaying symptoms of COVID-19. This information will aid healthcare professionals in their assessment and response to the patient's condition.

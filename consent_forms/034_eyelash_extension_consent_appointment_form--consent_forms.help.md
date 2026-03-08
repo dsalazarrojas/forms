@@ -1,7 +1,3 @@
-<thinking>
-This form is used for recording client consent and appointment information for eyelash extension services. This form is not intended for general use and is only applicable to clients who have scheduled appointments for eyelash extension services. This form should not be used for other purposes.
-</thinking>
-
 # Eyelash Extension Consent & Appointment Form - Help Guide
 
 ## Purpose

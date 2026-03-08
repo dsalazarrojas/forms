@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to obtain consent from students and faculty members to collaborate on a project. The purpose of this form is to ensure that both parties understand and agree to the terms of their collaboration. This form is typically used in academic settings, such as universities or research institutions, where students and faculty work together on projects.
-
-It's essential to ensure that this form is completed accurately and honestly, as it serves as a record of the collaboration agreement. To avoid duplication, make sure to review the form and ensure that the necessary fields are filled out correctly before submitting it.
-
-</thinking>
-
 # Student Faculty Collaboration Highlight Consent Form - Help Guide
 ## Purpose
 

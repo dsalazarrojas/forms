@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for registering students for an electronics course. To ensure that each user has the correct information and to prevent any confusion, we need to verify that each user understands the form's purpose and requirements before proceeding. This form should be used by students who want to enroll in an electronics course. Please make sure you are in the correct context and not duplicating efforts. If you are not sure about your enrollment status or have questions, please contact the course administrator.</thinking>
-
 # Electronics Course Registration - Help Guide
 ## Purpose
 This form is used to register students for an electronics course. Fill out this form to provide your details and choose a payment method to secure your spot in the course.

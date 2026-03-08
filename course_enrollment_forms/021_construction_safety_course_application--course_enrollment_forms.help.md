@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for the Construction Safety Course. This form is designed to be used by employees of construction companies to enroll in the course, and the data collected will be used to confirm enrollment and provide course materials. Before proceeding, ensure that you are completing this form as a representative of your company and that you have permission to do so. Additionally, please note that this form should not be duplicated or used for multiple applications.
-</thinking>
-
 # Construction Safety Course Application - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for the Construction Safety Course, a training program aimed at providing essential safety knowledge to construction industry professionals.

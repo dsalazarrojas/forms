@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Daycare Late Pick Up Form - Help Guide
 
 ## Purpose

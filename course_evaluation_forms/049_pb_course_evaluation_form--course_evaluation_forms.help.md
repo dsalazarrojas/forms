@@ -1,7 +1,3 @@
-<thinking>
-The PB Course Evaluation Form is a tool used to gather feedback from students on their course experience. This form should only be filled out for courses that have been completed or are currently ongoing. Please do not fill out this form if you have already completed a similar evaluation in the past, as it will not be submitted and will not impact our data collection.
-</thinking>
-
 # PB Course Evaluation Form - Help Guide
 ## Purpose
 

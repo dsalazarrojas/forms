@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect data sharing consent from customers for their utility supplier data. This form is used to ensure that customers are aware of how their data will be shared with third-party suppliers, and to obtain their consent for such data sharing.
-
-Before proceeding, please check if a similar form already exists for this customer. If it does, this form is not meant to be a duplicate.
-
-This form is designed to be completed by customers in conjunction with their utility suppliers. The form is used to capture information such as customer contact details, supplier information, and consent for data sharing purposes.
-
-Please note that some fields are optional and some are required. Required fields are marked as such in the form.
-
-</thinking>
-
 # Utility Supplier Data Sharing Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data sharing consent from customers for their utility supplier data.

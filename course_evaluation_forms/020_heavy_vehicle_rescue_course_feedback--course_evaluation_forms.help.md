@@ -1,18 +1,3 @@
-<thinking>
-This help guide is to assist end-users in providing valuable feedback on the Heavy Vehicle Rescue Course. The primary purpose of this form is to collect opinions and suggestions from students, instructors, and course administrators on the quality and effectiveness of the course. This form aims to ensure that the course meets the expectations of all stakeholders involved. By providing feedback, users can help improve the course content, teaching methods, and overall experience.
-
-To complete this form, follow these steps:
-
-1. Rate the course on a scale of 1-5, indicating how good or poor the course was for you.
-2. Express your overall satisfaction with the course by selecting either "Satisfied" or "Dissatisfied".
-3. Provide the name of the instructor who led the course.
-4. Rate the instructor's performance by entering a numerical value between 1 and 5.
-5. Rate the course itself by entering a numerical value between 1 and 5.
-6. If you have any suggestions or ideas for improvement, enter them in the text area.
-7. Add any additional comments about your experience with the course.
-
-</thinking>
-
 # Heavy Vehicle Rescue Course Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from students, instructors, and course administrators on the Heavy Vehicle Rescue Course. Your input will help us improve the course content, teaching methods, and overall experience.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to gather additional information from clients or customers who require more information or clarification on an existing request or inquiry. It is designed to be a simple and easy-to-use form that allows for quick submission of relevant details.
-
-Before completing this form, please ensure that you're not resubmitting an already answered question. If you're unsure about the purpose of this form or have previously submitted an answer, please contact the relevant department or individual for clarification.
-
-</thinking>
-
 # Request For Additional Information Form - Help Guide
 ## Purpose
 The Request For Additional Information Form is used to gather more details from clients or customers on an existing request or inquiry.

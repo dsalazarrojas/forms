@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for recording information related to will and testament documents, including the document type, date, and location. It's used to track and manage these documents in a standardized way. 
-The form asks the user to select the type of document (e.g., will, testament, letter testament, codicil), enter the date and time it was created, provide the location where the document was created, and enter a document number and version. 
-The form also asks for contact information of authorized individuals (executor, attorney, beneficiary) and whether the document is active or inactive. Additionally, it asks for a contact email and phone number. 
-The form is designed to be completed by authorized individuals who need to access or manage will and testament documents. 
-Please note that the form's fields are designed to collect specific information and may not be suitable for every type of document or situation. 
-The form does not ask for duplicate or unnecessary information, so please only fill out the relevant sections. 
-Please also note that this form is meant for internal use within the organization and is not intended for public use. 
-Please fill out the form accurately and completely, and do not leave any fields blank unless it's clearly specified that it's optional.</thinking>
-
 # Will And Testament Records Release Form - Help Guide
 ## Purpose
 The Will And Testament Records Release Form is used to record information about will and testament documents. 

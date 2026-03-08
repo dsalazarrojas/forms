@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_client_registration_form - Help Guide
 ## Purpose
 The new client registration form is designed to collect essential information from potential new clients, enabling our team to understand their identity, contact details, and expectations better. This form helps in the initial assessment and setup process for new clients.

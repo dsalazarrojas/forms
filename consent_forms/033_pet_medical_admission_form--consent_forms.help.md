@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Medical Admission Form - Help Guide
 
 ## Purpose

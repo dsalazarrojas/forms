@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect patient information for COVID-19 vaccination purposes. The form includes fields for patient identification (name, date of birth, age, gender, contact information, medical history, and vaccination status). The form also captures information on prior vaccination history, COVID-19 status, and informed consent.
-
-This form should only be used for patients who have not been vaccinated previously. If a patient has received a prior COVID-19 vaccination, they should not fill out this form.
-
-Please note that this form is not designed for patients who have received a prior COVID-19 vaccination. If a patient has received a prior COVID-19 vaccination, they should not fill out this form. This form is intended to be used for patients who are new to the vaccination process.
-</thinking>
-
 # COVID 19 Vaccine Intake Consent Form - Help Guide
 ## Purpose
 This form is designed to collect patient information for COVID-19 vaccination purposes. It captures essential details to ensure a safe and efficient vaccination process.

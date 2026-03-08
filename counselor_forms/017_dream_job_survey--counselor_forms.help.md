@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help users discover their dream job by asking them questions about their ideal job environment, values, and preferences. The questions cover topics such as work environment, career stage, job satisfaction, job type, job location, industry, and ideal company culture.
-This form does not ask for any sensitive or personal information that could be used to identify individuals. The purpose of this form is to provide a general guide for users to reflect on their ideal job and career aspirations.
-The form does not ask for any duplicate questions, and each question is designed to be answered in a way that is consistent with the user's preferences and goals.
-</thinking>
-
 # Dream Job Survey - Help Guide
 ## Purpose
 The Dream Job Survey is a guide to help you discover your ideal job and career aspirations. Answering these questions will help you reflect on what you value and what you want in your dream job.

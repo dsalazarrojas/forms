@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data from schools regarding COVID-19 related metrics such as student and staff vaccination rates, number of positive cases, and safety measures in place. The goal of this form is to provide valuable insights to schools, allowing them to make informed decisions about their COVID-19 protocols.
-This form will help schools report their current status on various aspects of COVID-19 protocols, which will be used to track and analyze data. It's essential to report accurately and consistently to ensure that the data is reliable and useful.
-Please ensure that the information reported is up-to-date and accurate to the best of your ability.
-</thinking>
-
 # COVID 19 School Reporting Form - Help Guide
 ## Purpose
 The form is designed to collect data from schools on COVID-19 related metrics such as student and staff vaccination rates, number of positive cases, and safety measures.
