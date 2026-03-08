@@ -1,0 +1,42 @@
+<thinking>
+This help guide will cover the "Employee Training Survey" form, which is used to gather feedback from employees regarding the effectiveness of training programs provided by the company.
+
+The purpose of this form is to collect data on employee participation and satisfaction levels for training programs. This information will help the management team assess the relevance and effectiveness of the training provided and make data-driven decisions for future training initiatives.
+
+To ensure that this data is reliable and actionable, please complete the form carefully and honestly. Each form page is designed to gather specific information, and skipping pages or providing incorrect information may compromise the accuracy of the results.
+
+Before proceeding, make sure you have all the necessary information and resources to complete the form accurately.
+
+</thinking>
+
+# Employee Training Survey - Help Guide
+## Purpose
+The Employee Training Survey is designed to gather feedback from employees regarding the effectiveness of training programs provided by the company.
+
+## How To Complete This Form
+To complete this form, please follow the steps below:
+
+1. Select your training program(s) from the list.
+2. Provide the date of the training session (if applicable).
+3. Indicate the total number of training hours you attended.
+4. Answer the question on whether you attended the training session (Yes or No).
+5. Rate your satisfaction level with the training session (Satisfied or Not Satisfied).
+6. Provide any additional comments you may have regarding the training session.
+
+## Field-by-Field Explanation
+* **Training Programs** (`training_programs`, select_multiple, optional):
+	+ This field allows you to choose from a list of training programs offered by the company. Select all the programs you attended.
+* **Survey Date** (`survey_date`, date, optional):
+	+ Enter the date of the training session you attended.
+* **Training Hours** (`training_hours`, number, optional):
+	+ Enter the total number of hours you spent on the training session.
+* **Training Attendance** (`training_attendance`, select_one, required):
+	+ Indicate whether you attended the training session (Yes or No).
+* **Training Satisfaction** (`training_satisfaction`, select_one, required):
+	+ Rate your satisfaction level with the training session (Satisfied or Not Satisfied).
+* **Employee Comments** (`employee_comments`, text, optional):
+	+ Add any additional comments or feedback about the training session.
+## Tips
+* Make sure to be honest in your responses, as they will help us improve the training programs.
+* If you have any concerns or suggestions, please include them in the "Employee Comments" field.
+* If you have any questions, contact your HR representative.

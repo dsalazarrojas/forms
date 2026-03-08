@@ -1,0 +1,141 @@
+<thinking>
+# Intention Of Returning To Campus Form - Help Guide
+## Purpose
+The intention of this form is to gather information about your learning preferences and needs regarding returning to campus for face-to-face learning. Your input will help us better understand your expectations and tailor our services to suit your needs.
+
+## How To Complete This Form
+To complete this form, simply follow the instructions below:
+- Select your answers to each question by choosing one or multiple options from the dropdown menus.
+- Be honest and thorough in your responses, as this will help us get a better understanding of your preferences.
+- You can skip questions that don't apply to you or are not relevant to your situation.
+- Click the "Submit" button to submit your responses.
+
+## Field-by-Field Explanation
+- **Remote learning** (`Remote learning`, `select_one`, required: false): Please select how likely you are to continue with remote learning. This will help us understand your comfort level with online learning.
+    - Very likely
+    - Somewhat likely
+    - Not at all likely
+- **Face-to-face learning** (`Face-to-face learning`, `select_one`, required: false): Please select how likely you are to prefer face-to-face learning. This will help us understand your preference for in-person learning.
+    - Very likely
+    - Somewhat likely
+    - Not at all likely
+- **What is your current grade level** (`What is your current grade level`, `select_one`, required: false): Please select your current grade level to help us understand your level of academic progression.
+    - 1st Grade
+    - 2nd Grade
+    - 3rd Grade
+    - 4th Grade
+    - 5th Grade
+    - 6th Grade
+    - 7th Grade
+    - 8th Grade
+    - 9th Grade
+    - 10th Grade
+    - 11th Grade
+    - 12th Grade
+    - Postgraduate
+- **Why do you prefer the idea of remote or face-to-face learning?** (`Why do you prefer the idea of remote or face-to-face learning?`, `note`, required: false): Please provide a brief explanation of why you prefer one over the other. This will help us get a deeper understanding of your learning preferences.
+- **Do you have a preferred way of communication** (`Do you have a preferred way of communication`, `select_one`, required: false): Please select how you would prefer to communicate. This will help us tailor our communication with you.
+    - Email
+    - Phone
+    - Video call
+    - In-person
+- **How do you like to receive feedback** (`How do you like to receive feedback`, `select_one`, required: false): Please select how you would like to receive feedback. This will help us ensure that we deliver feedback in a manner that is convenient and effective for you.
+    - Email
+    - Text message
+    - Phone call
+    - In-person
+- **What is your preferred learning style?** (`What is your preferred learning style`, `select_multiple`, required: false): Please select one or multiple learning styles that you find most effective for you.
+    - Hands-on
+    - Lecture based
+    - Self-paced
+    - Group-work
+    - Discussion
+- **How do you usually access the school website?** (`How do you usually access the school website`, `select_multiple`, required: false): Please select how you usually access the school website to help us ensure that our website is user-friendly for you.
+    - Desktop
+    - Laptop
+    - Tablet
+    - Mobile
+- **Do you like to receive reminders?** (`Do you like to receive reminders`, `select_one`, required: false): Please select if you like to receive reminders.
+    - 'Yes'
+    - 'No'
+- **How do you usually get to school** (`How do you usually get to school`, `select_multiple`, required: false): Please select how you usually get to school. This will help us plan for your logistics.
+    - Walk
+    - Drive
+    - Bike
+    - Bus
+    - Other
+- **What do you usually do on weekends** (`What do you usually do on weekends`, `select_multiple`, required: false): Please select what you usually do on weekends to help us understand your lifestyle.
+    - Work
+    - Play
+    - Sleep
+    - Study
+    - Workout
+    - Travel
+    - Hobbies
+- **What is your preferred time for classes** (`What is your preferred time for classes`, `time`, required: false): Please select your preferred time for classes. This will help us plan class schedules that suit your needs.
+- **What days of the week are you available for online classes?** (`What days of the week are you available for online classes?`, `select_multiple`, required: false): Please select the days of the week that you are available for online classes. This will help us plan for your online schedule.
+    - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+    - Friday
+    - Saturday
+    - Sunday
+- **How many hours do you think your online classes should last?** (`How many hours do you think your online classes should last`, `select_one`, required: false): Please select the number of hours for online classes. This will help us ensure that our online classes are of optimal duration for you.
+    - 1 hour
+    - 1.5 hours
+    - 2 hours
+- **What time of day would you prefer classes?** (`What time of day would you prefer classes?`, `date`, required: false): Please select your preferred time of day for classes. This will help us plan for class schedules that suit your needs.
+- **What days of the week are you available for face-to-face classes?** (`What days of the week are you available for face-to-face classes?`, `select_multiple`, required: false): Please select the days of the week that you are available for face-to-face classes. This will help us plan for your face-to-face schedule.
+    - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+    - Friday
+    - Saturday
+    - Sunday
+- **How many students should be in a face-to-face class?** (`How many students should be in a face-to-face class`, `select_one`, required: false): Please select the number of students that should be in a face-to-face class. This will help us plan for class sizes.
+    - 10-20
+    - 21-30
+    - 31-40
+    - 41-50
+    - 51 or more
+- **How many face-to-face classes should be in one week?** (`How many face-to-face classes should be in one week`, `select_one`, required: false): Please select the number of face-to-face classes that should be in one week. This will help us plan for your class schedule.
+    - 1-2
+    - 3-4
+    - 5-6
+    - 7 or more
+- **How do you usually use our school website?** (`How do you usually use our school website`, `select_multiple`, required: false): Please select how you usually use our school website. This will help us ensure that our website is user-friendly for you.
+    - To check grades
+    - To check school events
+    - To check assignments
+    - To check school news
+    - To ask a question
+- **What kind of support do you think you would need?** (`What kind of support do you think you would need?`, `select_multiple`, required: false): Please select the type of support that you think you would need. This will help us tailor our support services for you.
+    - Technical support
+    - Personal support
+    - Financial support
+    - Logistical support
+- **Are you comfortable using a webcam during online classes?** (`Are you comfortable using a webcam during online classes`, `select_one`, required: false): Please select if you are comfortable using a webcam during online classes. This will help us ensure that our online classes are comfortable and convenient for you.
+    - 'Yes'
+    - 'No'
+- **How do you usually feel after attending a class?** (`How do you usually feel after attending a class`, `select_one`, required: false): Please select how you usually feel after attending a class. This will help us understand your engagement with our classes.
+    - Engaged
+    - Somewhat engaged
+    - Not engaged
+- **Do you think online classes should have a live instructor?** (`Do you think online classes should have a live instructor`, `select_one`, required: false): Please select if you think online classes should have a live instructor. This will help us plan for online instruction.
+    - 'Yes'
+    - 'No'
+- **What would you prefer for feedback?** (`What would you prefer for feedback`, `select_multiple`, required: false): Please select how you would prefer to receive feedback. This will help us ensure that our feedback is delivered in a manner that is convenient for you.
+    - Email
+    - Text message
+    - Phone call
+    - In-person
+- **Do you prefer online or face-to-face learning?** (`Do you prefer online or face-to-face learning?`, `select_one`, required: false): Please select your preferred learning method. This will help us better understand your learning preferences.
+    - Online
+    - Face-to-face
+
+## Tips
+- Be honest and thorough in your responses, as this will help us get a better understanding of your preferences.
+- If you have any suggestions or comments, please feel free to share them with us.
+- Thank you for taking the time to complete this form!
